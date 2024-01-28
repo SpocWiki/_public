@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 41.8 , 23.5 ] 
 type: geo-Region
 title: Blagoevgrad
@@ -40,10 +40,11 @@ markerFolder: ./Blagoevgrad/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Bulgaria/Counties/Blagoevgrad.md|Blagoevgrad]] 
-- [[../../../../_internal/geo/Continent/Europe/Bulgaria/Counties/Blagoevgrad.internal|Blagoevgrad.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Bulgaria/Counties/Blagoevgrad.protect|Blagoevgrad.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Bulgaria/Counties/Blagoevgrad.private|Blagoevgrad.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Bulgaria/Counties/Blagoevgrad.personal|Blagoevgrad.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Bulgaria/Counties/Blagoevgrad.secret|Blagoevgrad.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Bulgaria/Counties/Blagoevgrad|Blagoevgrad]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Bulgaria/Counties/Blagoevgrad.public|Blagoevgrad.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Bulgaria/Counties/Blagoevgrad.internal|Blagoevgrad.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Bulgaria/Counties/Blagoevgrad.protect|Blagoevgrad.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Bulgaria/Counties/Blagoevgrad.private|Blagoevgrad.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Bulgaria/Counties/Blagoevgrad.personal|Blagoevgrad.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Bulgaria/Counties/Blagoevgrad.secret|Blagoevgrad.secret]] 
 

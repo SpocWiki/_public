@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 36.05 , 14.3 ] 
 type: geo-Region
 title: Nadur
@@ -40,10 +40,11 @@ markerFolder: ./Nadur/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Malta/Counties/Nadur.md|Nadur]] 
-- [[../../../../_internal/geo/Continent/Europe/Malta/Counties/Nadur.internal|Nadur.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Malta/Counties/Nadur.protect|Nadur.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Malta/Counties/Nadur.private|Nadur.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Malta/Counties/Nadur.personal|Nadur.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Malta/Counties/Nadur.secret|Nadur.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Malta/Counties/Nadur|Nadur]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Malta/Counties/Nadur.public|Nadur.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Malta/Counties/Nadur.internal|Nadur.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Malta/Counties/Nadur.protect|Nadur.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Malta/Counties/Nadur.private|Nadur.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Malta/Counties/Nadur.personal|Nadur.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Malta/Counties/Nadur.secret|Nadur.secret]] 
 

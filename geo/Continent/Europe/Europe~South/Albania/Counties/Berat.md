@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 40.6 , 20.1 ] 
 type: geo-Region
 title: Berat
@@ -40,10 +40,11 @@ markerFolder: ./Berat/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Albania/Counties/Berat.md|Berat]] 
-- [[../../../../_internal/geo/Continent/Europe/Albania/Counties/Berat.internal|Berat.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Albania/Counties/Berat.protect|Berat.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Albania/Counties/Berat.private|Berat.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Albania/Counties/Berat.personal|Berat.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Albania/Counties/Berat.secret|Berat.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Albania/Counties/Berat|Berat]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Albania/Counties/Berat.public|Berat.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Albania/Counties/Berat.internal|Berat.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Albania/Counties/Berat.protect|Berat.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Albania/Counties/Berat.private|Berat.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Albania/Counties/Berat.personal|Berat.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Albania/Counties/Berat.secret|Berat.secret]] 
 

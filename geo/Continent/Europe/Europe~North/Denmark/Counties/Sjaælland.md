@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 55.3 , 11.8 ] 
 type: geo-Region
 title: Sjaælland
@@ -40,10 +40,11 @@ markerFolder: ./Sjaælland/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Denmark/Counties/Sjaælland.md|Sjaælland]] 
-- [[../../../../_internal/geo/Continent/Europe/Denmark/Counties/Sjaælland.internal|Sjaælland.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Denmark/Counties/Sjaælland.protect|Sjaælland.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Denmark/Counties/Sjaælland.private|Sjaælland.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Denmark/Counties/Sjaælland.personal|Sjaælland.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Denmark/Counties/Sjaælland.secret|Sjaælland.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Denmark/Counties/Sjaælland|Sjaælland]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Denmark/Counties/Sjaælland.public|Sjaælland.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Denmark/Counties/Sjaælland.internal|Sjaælland.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Denmark/Counties/Sjaælland.protect|Sjaælland.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Denmark/Counties/Sjaælland.private|Sjaælland.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Denmark/Counties/Sjaælland.personal|Sjaælland.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Denmark/Counties/Sjaælland.secret|Sjaælland.secret]] 
 

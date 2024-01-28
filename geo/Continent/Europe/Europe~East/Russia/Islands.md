@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 68.8 , 67.3 ] 
 type: geo-Region
 title: Islands
@@ -40,10 +40,11 @@ markerFolder: ./Islands/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Russia/Islands.md|Islands]] 
-- [[../../../../_internal/geo/Continent/Europe/Russia/Islands.internal|Islands.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Russia/Islands.protect|Islands.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Russia/Islands.private|Islands.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Russia/Islands.personal|Islands.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Russia/Islands.secret|Islands.secret]] 
+- [[../../../../../../_Standards/geo/Continent/Europe/Europe~East/Russia/Islands|Islands]] 
+- [[../../../../../../_public/geo/Continent/Europe/Europe~East/Russia/Islands.public|Islands.public]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Europe~East/Russia/Islands.internal|Islands.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Europe~East/Russia/Islands.protect|Islands.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Europe~East/Russia/Islands.private|Islands.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Europe~East/Russia/Islands.personal|Islands.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Europe~East/Russia/Islands.secret|Islands.secret]] 
 

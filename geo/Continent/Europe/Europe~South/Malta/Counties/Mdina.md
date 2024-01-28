@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 35.88 , 14.41 ] 
 type: geo-Region
 title: Mdina
@@ -40,10 +40,11 @@ markerFolder: ./Mdina/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Malta/Counties/Mdina.md|Mdina]] 
-- [[../../../../_internal/geo/Continent/Europe/Malta/Counties/Mdina.internal|Mdina.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Malta/Counties/Mdina.protect|Mdina.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Malta/Counties/Mdina.private|Mdina.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Malta/Counties/Mdina.personal|Mdina.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Malta/Counties/Mdina.secret|Mdina.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Malta/Counties/Mdina|Mdina]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Malta/Counties/Mdina.public|Mdina.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Malta/Counties/Mdina.internal|Mdina.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Malta/Counties/Mdina.protect|Mdina.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Malta/Counties/Mdina.private|Mdina.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Malta/Counties/Mdina.personal|Mdina.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Malta/Counties/Mdina.secret|Mdina.secret]] 
 

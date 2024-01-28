@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 51.54 , -0.15 ] 
 type: geo-Region
 title: Camden
@@ -40,10 +40,11 @@ markerFolder: ./Camden/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/United_Kingdom/London~Greater/Camden.md|Camden]] 
-- [[../../../../_internal/geo/Continent/Europe/United_Kingdom/London~Greater/Camden.internal|Camden.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/United_Kingdom/London~Greater/Camden.protect|Camden.protect]] 
-- [[../../../../_private/geo/Continent/Europe/United_Kingdom/London~Greater/Camden.private|Camden.private]] 
-- [[../../../../_personal/geo/Continent/Europe/United_Kingdom/London~Greater/Camden.personal|Camden.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/United_Kingdom/London~Greater/Camden.secret|Camden.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/United_Kingdom/London~Greater/Camden|Camden]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/United_Kingdom/London~Greater/Camden.public|Camden.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/United_Kingdom/London~Greater/Camden.internal|Camden.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/United_Kingdom/London~Greater/Camden.protect|Camden.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/United_Kingdom/London~Greater/Camden.private|Camden.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/United_Kingdom/London~Greater/Camden.personal|Camden.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/United_Kingdom/London~Greater/Camden.secret|Camden.secret]] 
 

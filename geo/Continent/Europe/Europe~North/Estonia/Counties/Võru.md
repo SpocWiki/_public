@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 57.7 , 27 ] 
 type: geo-Region
 title: Võru
@@ -40,10 +40,11 @@ markerFolder: ./Võru/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Estonia/Counties/Võru.md|Võru]] 
-- [[../../../../_internal/geo/Continent/Europe/Estonia/Counties/Võru.internal|Võru.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Estonia/Counties/Võru.protect|Võru.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Estonia/Counties/Võru.private|Võru.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Estonia/Counties/Võru.personal|Võru.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Estonia/Counties/Võru.secret|Võru.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Estonia/Counties/Võru|Võru]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Estonia/Counties/Võru.public|Võru.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Estonia/Counties/Võru.internal|Võru.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Estonia/Counties/Võru.protect|Võru.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Estonia/Counties/Võru.private|Võru.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Estonia/Counties/Võru.personal|Võru.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Estonia/Counties/Võru.secret|Võru.secret]] 
 

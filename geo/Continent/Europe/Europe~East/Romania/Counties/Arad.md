@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 46.3 , 21.9 ] 
 type: geo-Region
 title: Arad
@@ -40,10 +40,11 @@ markerFolder: ./Arad/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Romania/Counties/Arad.md|Arad]] 
-- [[../../../../_internal/geo/Continent/Europe/Romania/Counties/Arad.internal|Arad.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Romania/Counties/Arad.protect|Arad.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Romania/Counties/Arad.private|Arad.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Romania/Counties/Arad.personal|Arad.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Romania/Counties/Arad.secret|Arad.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Romania/Counties/Arad|Arad]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Romania/Counties/Arad.public|Arad.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Romania/Counties/Arad.internal|Arad.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Romania/Counties/Arad.protect|Arad.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Romania/Counties/Arad.private|Arad.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Romania/Counties/Arad.personal|Arad.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Romania/Counties/Arad.secret|Arad.secret]] 
 

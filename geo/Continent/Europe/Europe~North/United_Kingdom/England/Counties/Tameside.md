@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 53.5 , -2.1 ] 
 type: geo-Region
 title: Tameside
@@ -40,10 +40,11 @@ markerFolder: ./Tameside/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/United_Kingdom/England/Counties/Tameside.md|Tameside]] 
-- [[../../../../_internal/geo/Continent/Europe/United_Kingdom/England/Counties/Tameside.internal|Tameside.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/United_Kingdom/England/Counties/Tameside.protect|Tameside.protect]] 
-- [[../../../../_private/geo/Continent/Europe/United_Kingdom/England/Counties/Tameside.private|Tameside.private]] 
-- [[../../../../_personal/geo/Continent/Europe/United_Kingdom/England/Counties/Tameside.personal|Tameside.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/United_Kingdom/England/Counties/Tameside.secret|Tameside.secret]] 
+- [[../../../../../../../../_Standards/geo/Continent/Europe/Europe~North/United_Kingdom/England/Counties/Tameside|Tameside]] 
+- [[../../../../../../../../_public/geo/Continent/Europe/Europe~North/United_Kingdom/England/Counties/Tameside.public|Tameside.public]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/Europe~North/United_Kingdom/England/Counties/Tameside.internal|Tameside.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/Europe~North/United_Kingdom/England/Counties/Tameside.protect|Tameside.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/Europe~North/United_Kingdom/England/Counties/Tameside.private|Tameside.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/Europe~North/United_Kingdom/England/Counties/Tameside.personal|Tameside.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/Europe~North/United_Kingdom/England/Counties/Tameside.secret|Tameside.secret]] 
 

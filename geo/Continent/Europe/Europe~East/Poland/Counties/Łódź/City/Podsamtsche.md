@@ -1,5 +1,5 @@
-﻿---
-location: [51.32,18.13]
+---
+location: [51.32,18.13] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,29 +12,30 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::18.13]
-[geo-lat::51.32]
-[name::Podsamtsche]
-[State::]
-[Country::[[Poland]]]
-[StateId::]
-[Population::]
-[Unknown::]
+[geo-lon::18.13] 
+[geo-lat::51.32] 
+[name::Podsamtsche] 
+State ::  
+Country :: [[Poland]]  
+[StateId::] 
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Podsamtsche
-coordinates: [[Podsamtsche]]
-markerFile: [[Podsamtsche]]
+coordinates: [[Podsamtsche]] 
+markerFile: [[Podsamtsche]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_public/geo/Continent/Europe/Poland/City/Podsamtsche.md|Podsamtsche]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Podsamtsche.internal|Podsamtsche.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Podsamtsche.protect|Podsamtsche.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Podsamtsche.private|Podsamtsche.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Podsamtsche.personal|Podsamtsche.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Podsamtsche.secret|Podsamtsche.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Poland/City/Podsamtsche|Podsamtsche]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Poland/City/Podsamtsche.public|Podsamtsche.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Poland/City/Podsamtsche.internal|Podsamtsche.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Poland/City/Podsamtsche.protect|Podsamtsche.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Poland/City/Podsamtsche.private|Podsamtsche.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Poland/City/Podsamtsche.personal|Podsamtsche.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Poland/City/Podsamtsche.secret|Podsamtsche.secret]] 

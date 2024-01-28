@@ -1,5 +1,5 @@
-﻿---
-location: [59.03,27.88]
+---
+location: [59.03,27.88] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,29 +12,30 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::27.88]
-[geo-lat::59.03]
-[name::Vasknarva]
-[State::]
-[Country::[[Russia]]]
-[StateId::]
-[Population::]
-[Unknown::]
+[geo-lon::27.88] 
+[geo-lat::59.03] 
+[name::Vasknarva] 
+State ::  
+Country :: [[Russia]]  
+[StateId::] 
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Vasknarva
-coordinates: [[Vasknarva]]
-markerFile: [[Vasknarva]]
+coordinates: [[Vasknarva]] 
+markerFile: [[Vasknarva]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_public/geo/Continent/Europe/Russia/City/Vasknarva.md|Vasknarva]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Vasknarva.internal|Vasknarva.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Vasknarva.protect|Vasknarva.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Vasknarva.private|Vasknarva.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Vasknarva.personal|Vasknarva.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Vasknarva.secret|Vasknarva.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Russia/City/Vasknarva|Vasknarva]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Russia/City/Vasknarva.public|Vasknarva.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Russia/City/Vasknarva.internal|Vasknarva.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Russia/City/Vasknarva.protect|Vasknarva.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Russia/City/Vasknarva.private|Vasknarva.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Russia/City/Vasknarva.personal|Vasknarva.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Russia/City/Vasknarva.secret|Vasknarva.secret]] 

@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 47.7 , 28.2 ] 
 type: geo-Region
 title: Sîngerei
@@ -40,10 +40,11 @@ markerFolder: ./Sîngerei/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Moldova/Counties/Sîngerei.md|Sîngerei]] 
-- [[../../../../_internal/geo/Continent/Europe/Moldova/Counties/Sîngerei.internal|Sîngerei.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Moldova/Counties/Sîngerei.protect|Sîngerei.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Moldova/Counties/Sîngerei.private|Sîngerei.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Moldova/Counties/Sîngerei.personal|Sîngerei.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Moldova/Counties/Sîngerei.secret|Sîngerei.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Moldova/Counties/Sîngerei|Sîngerei]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Moldova/Counties/Sîngerei.public|Sîngerei.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Moldova/Counties/Sîngerei.internal|Sîngerei.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Moldova/Counties/Sîngerei.protect|Sîngerei.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Moldova/Counties/Sîngerei.private|Sîngerei.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Moldova/Counties/Sîngerei.personal|Sîngerei.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Moldova/Counties/Sîngerei.secret|Sîngerei.secret]] 
 

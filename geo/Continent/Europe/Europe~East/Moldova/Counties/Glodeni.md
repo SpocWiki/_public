@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 47.7 , 27.5 ] 
 type: geo-Region
 title: Glodeni
@@ -40,10 +40,11 @@ markerFolder: ./Glodeni/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Moldova/Counties/Glodeni.md|Glodeni]] 
-- [[../../../../_internal/geo/Continent/Europe/Moldova/Counties/Glodeni.internal|Glodeni.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Moldova/Counties/Glodeni.protect|Glodeni.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Moldova/Counties/Glodeni.private|Glodeni.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Moldova/Counties/Glodeni.personal|Glodeni.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Moldova/Counties/Glodeni.secret|Glodeni.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Moldova/Counties/Glodeni|Glodeni]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Moldova/Counties/Glodeni.public|Glodeni.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Moldova/Counties/Glodeni.internal|Glodeni.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Moldova/Counties/Glodeni.protect|Glodeni.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Moldova/Counties/Glodeni.private|Glodeni.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Moldova/Counties/Glodeni.personal|Glodeni.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Moldova/Counties/Glodeni.secret|Glodeni.secret]] 
 

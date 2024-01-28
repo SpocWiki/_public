@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 56.3 , 21.1 ] 
 type: geo-Region
 title: Nicas
@@ -40,10 +40,11 @@ markerFolder: ./Nicas/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Latvia/Counties/Nicas.md|Nicas]] 
-- [[../../../../_internal/geo/Continent/Europe/Latvia/Counties/Nicas.internal|Nicas.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Latvia/Counties/Nicas.protect|Nicas.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Latvia/Counties/Nicas.private|Nicas.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Latvia/Counties/Nicas.personal|Nicas.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Latvia/Counties/Nicas.secret|Nicas.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Latvia/Counties/Nicas|Nicas]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Latvia/Counties/Nicas.public|Nicas.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Latvia/Counties/Nicas.internal|Nicas.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Latvia/Counties/Nicas.protect|Nicas.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Latvia/Counties/Nicas.private|Nicas.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Latvia/Counties/Nicas.personal|Nicas.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Latvia/Counties/Nicas.secret|Nicas.secret]] 
 

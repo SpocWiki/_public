@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 54.8 , 25.2 ] 
 type: geo-Region
 title: Vilniaus
@@ -40,10 +40,11 @@ markerFolder: ./Vilniaus/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Lithuania/Counties/Vilniaus.md|Vilniaus]] 
-- [[../../../../_internal/geo/Continent/Europe/Lithuania/Counties/Vilniaus.internal|Vilniaus.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Lithuania/Counties/Vilniaus.protect|Vilniaus.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Lithuania/Counties/Vilniaus.private|Vilniaus.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Lithuania/Counties/Vilniaus.personal|Vilniaus.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Lithuania/Counties/Vilniaus.secret|Vilniaus.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Lithuania/Counties/Vilniaus|Vilniaus]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Lithuania/Counties/Vilniaus.public|Vilniaus.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Lithuania/Counties/Vilniaus.internal|Vilniaus.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Lithuania/Counties/Vilniaus.protect|Vilniaus.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Lithuania/Counties/Vilniaus.private|Vilniaus.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Lithuania/Counties/Vilniaus.personal|Vilniaus.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Lithuania/Counties/Vilniaus.secret|Vilniaus.secret]] 
 

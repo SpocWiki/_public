@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 51.5441 , -0.1538 ] 
 type: geo-Region
 title: Line~Northern
@@ -62,7 +62,7 @@ markerFolder: ./Station/
 6.	[[Sub~Finchley_Central]] 
 7.	[[Sub~East_Finchley]] 
 8.	[[Sub~Highgate]] 
-9.[[Sub~Archway]]] 
+9.[[Sub~Archway]]  
 10.	[[Sub~Tufnell_Park]] 
 11.	[[Sub~Kentish_Town]] 
 
@@ -74,7 +74,7 @@ Edgware_branch:
 5.	[[Sub~Brent_Cross]] 
 6.	[[Sub~Golders_Green]] 
 7.	[[Sub~Hampstead]] 
-8.[[Sub~Belsize_Park]]] 
+8.[[Sub~Belsize_Park]]  
 9.	[[Sub~Chalk_Farm]] 
 10.	[[Sub~Camden_Town]] 
 11.	[[Sub~Mornington_Crescent]] 
@@ -91,13 +91,13 @@ Charing_Cross_branch:
 
 Bank_branch:
 14.	[[Sub~Euston]] 
-15.[[Sub~King's_Cross_St._Pancras]]] 
-16.[[Sub~Angel]]] 
+15.[[Sub~King's_Cross_St._Pancras]]  
+16.[[Sub~Angel]]  
 17.	[[Sub~Old_Street]] 
 18.	[[Sub~Moorgate]] 
-19.[[Sub~Bank]]] 
+19.[[Sub~Bank]]  
 20.	[[Sub~London_Bridge]] 
-21.[[Sub~Borough]]] 
+21.[[Sub~Borough]]  
 22.	[[Sub~Elephant_&_Castle]] 
 
 
@@ -113,7 +113,7 @@ Battersea_branch:
 38.	[[Sub~Clapham_North]] 
 39.	[[Sub~Clapham_Common]] 
 40.	[[Sub~Clapham_South]] 
-41.[[Sub~Balham]]] 
+41.[[Sub~Balham]]  
 42.	[[Sub~Tooting_Bec]] 
 43.	[[Sub~Tooting_Broadway]] 
 44.	[[Sub~Colliers_Wood]] 
@@ -130,9 +130,10 @@ FROM outgoing([[Line~Northern]])
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_public/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Line~Northern.md|Line~Northern]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Line~Northern.internal|Line~Northern.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Line~Northern.protect|Line~Northern.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Line~Northern.private|Line~Northern.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Line~Northern.personal|Line~Northern.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Line~Northern.secret|Line~Northern.secret]] 
+- [[../../../../../../../../_Standards/geo/Continent/Europe/Europe~North/United_Kingdom/London~Greater/Underground/Line~Northern|Line~Northern]] 
+- [[../../../../../../../../_public/geo/Continent/Europe/Europe~North/United_Kingdom/London~Greater/Underground/Line~Northern.public|Line~Northern.public]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/Europe~North/United_Kingdom/London~Greater/Underground/Line~Northern.internal|Line~Northern.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/Europe~North/United_Kingdom/London~Greater/Underground/Line~Northern.protect|Line~Northern.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/Europe~North/United_Kingdom/London~Greater/Underground/Line~Northern.private|Line~Northern.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/Europe~North/United_Kingdom/London~Greater/Underground/Line~Northern.personal|Line~Northern.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/Europe~North/United_Kingdom/London~Greater/Underground/Line~Northern.secret|Line~Northern.secret]] 

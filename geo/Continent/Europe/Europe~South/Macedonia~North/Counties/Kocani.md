@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 42 , 22.4 ] 
 type: geo-Region
 title: Kocani
@@ -40,10 +40,11 @@ markerFolder: ./Kocani/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Macedonia~North/Counties/Kocani.md|Kocani]] 
-- [[../../../../_internal/geo/Continent/Europe/Macedonia~North/Counties/Kocani.internal|Kocani.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Macedonia~North/Counties/Kocani.protect|Kocani.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Macedonia~North/Counties/Kocani.private|Kocani.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Macedonia~North/Counties/Kocani.personal|Kocani.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Macedonia~North/Counties/Kocani.secret|Kocani.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Macedonia~North/Counties/Kocani|Kocani]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Macedonia~North/Counties/Kocani.public|Kocani.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Macedonia~North/Counties/Kocani.internal|Kocani.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Macedonia~North/Counties/Kocani.protect|Kocani.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Macedonia~North/Counties/Kocani.private|Kocani.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Macedonia~North/Counties/Kocani.personal|Kocani.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Macedonia~North/Counties/Kocani.secret|Kocani.secret]] 
 

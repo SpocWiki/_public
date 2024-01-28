@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 35.85 , 14.48 ] 
 type: geo-Region
 title: Luqa
@@ -40,10 +40,11 @@ markerFolder: ./Luqa/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Malta/Counties/Luqa.md|Luqa]] 
-- [[../../../../_internal/geo/Continent/Europe/Malta/Counties/Luqa.internal|Luqa.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Malta/Counties/Luqa.protect|Luqa.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Malta/Counties/Luqa.private|Luqa.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Malta/Counties/Luqa.personal|Luqa.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Malta/Counties/Luqa.secret|Luqa.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Malta/Counties/Luqa|Luqa]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Malta/Counties/Luqa.public|Luqa.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Malta/Counties/Luqa.internal|Luqa.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Malta/Counties/Luqa.protect|Luqa.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Malta/Counties/Luqa.private|Luqa.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Malta/Counties/Luqa.personal|Luqa.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Malta/Counties/Luqa.secret|Luqa.secret]] 
 

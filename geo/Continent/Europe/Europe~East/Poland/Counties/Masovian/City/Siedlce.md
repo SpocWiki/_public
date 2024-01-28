@@ -1,5 +1,5 @@
-﻿---
-location: [52.17,22.28]
+---
+location: [52.17,22.28] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,29 +12,30 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::22.28]
-[geo-lat::52.17]
-[name::Siedlce]
-[State::]
-[Country::[[Poland]]]
-[StateId::]
-[Population::]
-[Unknown::]
+[geo-lon::22.28] 
+[geo-lat::52.17] 
+[name::Siedlce] 
+State ::  
+Country :: [[Poland]]  
+[StateId::] 
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Siedlce
-coordinates: [[Siedlce]]
-markerFile: [[Siedlce]]
+coordinates: [[Siedlce]] 
+markerFile: [[Siedlce]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_public/geo/Continent/Europe/Poland/City/Siedlce.md|Siedlce]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Siedlce.internal|Siedlce.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Siedlce.protect|Siedlce.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Siedlce.private|Siedlce.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Siedlce.personal|Siedlce.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Siedlce.secret|Siedlce.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Poland/City/Siedlce|Siedlce]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Poland/City/Siedlce.public|Siedlce.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Poland/City/Siedlce.internal|Siedlce.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Poland/City/Siedlce.protect|Siedlce.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Poland/City/Siedlce.private|Siedlce.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Poland/City/Siedlce.personal|Siedlce.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Poland/City/Siedlce.secret|Siedlce.secret]] 

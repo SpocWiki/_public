@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 44.1 , 26.1 ] 
 type: geo-Region
 title: Giurgiu
@@ -40,10 +40,11 @@ markerFolder: ./Giurgiu/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Romania/Counties/Giurgiu.md|Giurgiu]] 
-- [[../../../../_internal/geo/Continent/Europe/Romania/Counties/Giurgiu.internal|Giurgiu.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Romania/Counties/Giurgiu.protect|Giurgiu.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Romania/Counties/Giurgiu.private|Giurgiu.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Romania/Counties/Giurgiu.personal|Giurgiu.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Romania/Counties/Giurgiu.secret|Giurgiu.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Romania/Counties/Giurgiu|Giurgiu]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Romania/Counties/Giurgiu.public|Giurgiu.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Romania/Counties/Giurgiu.internal|Giurgiu.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Romania/Counties/Giurgiu.protect|Giurgiu.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Romania/Counties/Giurgiu.private|Giurgiu.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Romania/Counties/Giurgiu.personal|Giurgiu.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Romania/Counties/Giurgiu.secret|Giurgiu.secret]] 
 

@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 56 , 22.1 ] 
 type: geo-Region
 title: Telšiai
@@ -40,10 +40,11 @@ markerFolder: ./Telšiai/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Lithuania/Counties/Telšiai.md|Telšiai]] 
-- [[../../../../_internal/geo/Continent/Europe/Lithuania/Counties/Telšiai.internal|Telšiai.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Lithuania/Counties/Telšiai.protect|Telšiai.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Lithuania/Counties/Telšiai.private|Telšiai.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Lithuania/Counties/Telšiai.personal|Telšiai.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Lithuania/Counties/Telšiai.secret|Telšiai.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Lithuania/Counties/Telšiai|Telšiai]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Lithuania/Counties/Telšiai.public|Telšiai.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Lithuania/Counties/Telšiai.internal|Telšiai.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Lithuania/Counties/Telšiai.protect|Telšiai.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Lithuania/Counties/Telšiai.private|Telšiai.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Lithuania/Counties/Telšiai.personal|Telšiai.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Lithuania/Counties/Telšiai.secret|Telšiai.secret]] 
 

@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 54.3 , -6.6 ] 
 type: geo-Region
 title: Armagh
@@ -40,10 +40,11 @@ markerFolder: ./Armagh/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/United_Kingdom/Ireland~North/Counties/Armagh.md|Armagh]] 
-- [[../../../../_internal/geo/Continent/Europe/United_Kingdom/Ireland~North/Counties/Armagh.internal|Armagh.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/United_Kingdom/Ireland~North/Counties/Armagh.protect|Armagh.protect]] 
-- [[../../../../_private/geo/Continent/Europe/United_Kingdom/Ireland~North/Counties/Armagh.private|Armagh.private]] 
-- [[../../../../_personal/geo/Continent/Europe/United_Kingdom/Ireland~North/Counties/Armagh.personal|Armagh.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/United_Kingdom/Ireland~North/Counties/Armagh.secret|Armagh.secret]] 
+- [[../../../../../../../../_Standards/geo/Continent/Europe/Europe~North/United_Kingdom/Ireland~North/Counties/Armagh|Armagh]] 
+- [[../../../../../../../../_public/geo/Continent/Europe/Europe~North/United_Kingdom/Ireland~North/Counties/Armagh.public|Armagh.public]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/Europe~North/United_Kingdom/Ireland~North/Counties/Armagh.internal|Armagh.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/Europe~North/United_Kingdom/Ireland~North/Counties/Armagh.protect|Armagh.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/Europe~North/United_Kingdom/Ireland~North/Counties/Armagh.private|Armagh.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/Europe~North/United_Kingdom/Ireland~North/Counties/Armagh.personal|Armagh.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/Europe~North/United_Kingdom/Ireland~North/Counties/Armagh.secret|Armagh.secret]] 
 

@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 41.2 , 32.6 ] 
 type: geo-Region
 title: Karabük
@@ -40,10 +40,11 @@ markerFolder: ./Karabük/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Turkey/Counties/Karabük.md|Karabük]] 
-- [[../../../../_internal/geo/Continent/Europe/Turkey/Counties/Karabük.internal|Karabük.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Turkey/Counties/Karabük.protect|Karabük.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Turkey/Counties/Karabük.private|Karabük.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Turkey/Counties/Karabük.personal|Karabük.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Turkey/Counties/Karabük.secret|Karabük.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Turkey/Counties/Karabük|Karabük]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Turkey/Counties/Karabük.public|Karabük.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Turkey/Counties/Karabük.internal|Karabük.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Turkey/Counties/Karabük.protect|Karabük.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Turkey/Counties/Karabük.private|Karabük.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Turkey/Counties/Karabük.personal|Karabük.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Turkey/Counties/Karabük.secret|Karabük.secret]] 
 

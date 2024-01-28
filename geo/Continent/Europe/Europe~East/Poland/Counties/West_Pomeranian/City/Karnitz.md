@@ -1,5 +1,5 @@
-﻿---
-location: [54.05,15]
+---
+location: [54.05,15] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,29 +12,30 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::15]
-[geo-lat::54.05]
-[name::Karnitz]
-[State::]
-[Country::[[Poland]]]
-[StateId::]
-[Population::]
-[Unknown::]
+[geo-lon::15] 
+[geo-lat::54.05] 
+[name::Karnitz] 
+State ::  
+Country :: [[Poland]]  
+[StateId::] 
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Karnitz
-coordinates: [[Karnitz]]
-markerFile: [[Karnitz]]
+coordinates: [[Karnitz]] 
+markerFile: [[Karnitz]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_public/geo/Continent/Europe/Poland/City/Karnitz.md|Karnitz]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Karnitz.internal|Karnitz.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Karnitz.protect|Karnitz.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Karnitz.private|Karnitz.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Karnitz.personal|Karnitz.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Karnitz.secret|Karnitz.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Poland/City/Karnitz|Karnitz]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Poland/City/Karnitz.public|Karnitz.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Poland/City/Karnitz.internal|Karnitz.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Poland/City/Karnitz.protect|Karnitz.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Poland/City/Karnitz.private|Karnitz.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Poland/City/Karnitz.personal|Karnitz.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Poland/City/Karnitz.secret|Karnitz.secret]] 

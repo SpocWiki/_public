@@ -1,5 +1,5 @@
-﻿---
-location: [54.4,18.67]
+---
+location: [54.4,18.67] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,29 +12,30 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::18.67]
-[geo-lat::54.4]
-[name::Neufahrwasser]
-[State::]
-[Country::[[Poland]]]
-[StateId::]
-[Population::]
-[Unknown::]
+[geo-lon::18.67] 
+[geo-lat::54.4] 
+[name::Neufahrwasser] 
+State ::  
+Country :: [[Poland]]  
+[StateId::] 
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Neufahrwasser
-coordinates: [[Neufahrwasser]]
-markerFile: [[Neufahrwasser]]
+coordinates: [[Neufahrwasser]] 
+markerFile: [[Neufahrwasser]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_public/geo/Continent/Europe/Poland/City/Neufahrwasser.md|Neufahrwasser]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Neufahrwasser.internal|Neufahrwasser.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Neufahrwasser.protect|Neufahrwasser.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Neufahrwasser.private|Neufahrwasser.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Neufahrwasser.personal|Neufahrwasser.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Neufahrwasser.secret|Neufahrwasser.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Poland/City/Neufahrwasser|Neufahrwasser]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Poland/City/Neufahrwasser.public|Neufahrwasser.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Poland/City/Neufahrwasser.internal|Neufahrwasser.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Poland/City/Neufahrwasser.protect|Neufahrwasser.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Poland/City/Neufahrwasser.private|Neufahrwasser.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Poland/City/Neufahrwasser.personal|Neufahrwasser.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Poland/City/Neufahrwasser.secret|Neufahrwasser.secret]] 

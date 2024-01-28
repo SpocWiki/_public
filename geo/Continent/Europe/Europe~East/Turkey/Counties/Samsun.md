@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 41.3 , 35.9 ] 
 type: geo-Region
 title: Samsun
@@ -40,10 +40,11 @@ markerFolder: ./Samsun/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Turkey/Counties/Samsun.md|Samsun]] 
-- [[../../../../_internal/geo/Continent/Europe/Turkey/Counties/Samsun.internal|Samsun.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Turkey/Counties/Samsun.protect|Samsun.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Turkey/Counties/Samsun.private|Samsun.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Turkey/Counties/Samsun.personal|Samsun.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Turkey/Counties/Samsun.secret|Samsun.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Turkey/Counties/Samsun|Samsun]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Turkey/Counties/Samsun.public|Samsun.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Turkey/Counties/Samsun.internal|Samsun.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Turkey/Counties/Samsun.protect|Samsun.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Turkey/Counties/Samsun.private|Samsun.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Turkey/Counties/Samsun.personal|Samsun.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Turkey/Counties/Samsun.secret|Samsun.secret]] 
 

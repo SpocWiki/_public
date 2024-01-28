@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 58.4 , 26.9 ] 
 type: geo-Region
 title: Tartu
@@ -40,10 +40,11 @@ markerFolder: ./Tartu/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Estonia/Counties/Tartu.md|Tartu]] 
-- [[../../../../_internal/geo/Continent/Europe/Estonia/Counties/Tartu.internal|Tartu.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Estonia/Counties/Tartu.protect|Tartu.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Estonia/Counties/Tartu.private|Tartu.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Estonia/Counties/Tartu.personal|Tartu.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Estonia/Counties/Tartu.secret|Tartu.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Estonia/Counties/Tartu|Tartu]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Estonia/Counties/Tartu.public|Tartu.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Estonia/Counties/Tartu.internal|Tartu.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Estonia/Counties/Tartu.protect|Tartu.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Estonia/Counties/Tartu.private|Tartu.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Estonia/Counties/Tartu.personal|Tartu.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Estonia/Counties/Tartu.secret|Tartu.secret]] 
 

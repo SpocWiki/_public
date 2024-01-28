@@ -1,5 +1,5 @@
-﻿---
-location: [45.03,23.23]
+---
+location: [45.03,23.23] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,29 +12,30 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::23.23]
-[geo-lat::45.03]
-[name::Targu-Jiu]
-[State::]
-[Country::[[Romania]]]
-[StateId::]
-[Population::]
-[Unknown::]
+[geo-lon::23.23] 
+[geo-lat::45.03] 
+[name::Targu-Jiu] 
+State ::  
+Country :: [[Romania]]  
+[StateId::] 
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Targu-Jiu
-coordinates: [[Targu-Jiu]]
-markerFile: [[Targu-Jiu]]
+coordinates: [[Targu-Jiu]] 
+markerFile: [[Targu-Jiu]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_public/geo/Continent/Europe/Romania/City/Targu-Jiu.md|Targu-Jiu]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Romania/City/Targu-Jiu.internal|Targu-Jiu.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Romania/City/Targu-Jiu.protect|Targu-Jiu.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Romania/City/Targu-Jiu.private|Targu-Jiu.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Romania/City/Targu-Jiu.personal|Targu-Jiu.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Romania/City/Targu-Jiu.secret|Targu-Jiu.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Romania/City/Targu-Jiu|Targu-Jiu]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Romania/City/Targu-Jiu.public|Targu-Jiu.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Romania/City/Targu-Jiu.internal|Targu-Jiu.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Romania/City/Targu-Jiu.protect|Targu-Jiu.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Romania/City/Targu-Jiu.private|Targu-Jiu.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Romania/City/Targu-Jiu.personal|Targu-Jiu.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Romania/City/Targu-Jiu.secret|Targu-Jiu.secret]] 

@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 50 , 5.4 ] 
 type: geo-Region
 title: Luxembourg
@@ -40,10 +40,11 @@ markerFolder: ./Luxembourg/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Belgium/Counties/Luxembourg.md|Luxembourg]] 
-- [[../../../../_internal/geo/Continent/Europe/Belgium/Counties/Luxembourg.internal|Luxembourg.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Belgium/Counties/Luxembourg.protect|Luxembourg.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Belgium/Counties/Luxembourg.private|Luxembourg.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Belgium/Counties/Luxembourg.personal|Luxembourg.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Belgium/Counties/Luxembourg.secret|Luxembourg.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~West/Belgium/Counties/Luxembourg|Luxembourg]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~West/Belgium/Counties/Luxembourg.public|Luxembourg.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~West/Belgium/Counties/Luxembourg.internal|Luxembourg.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~West/Belgium/Counties/Luxembourg.protect|Luxembourg.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~West/Belgium/Counties/Luxembourg.private|Luxembourg.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~West/Belgium/Counties/Luxembourg.personal|Luxembourg.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~West/Belgium/Counties/Luxembourg.secret|Luxembourg.secret]] 
 

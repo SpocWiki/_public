@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 60.2 , 20.2 ] 
 type: geo-Region
 title: Sund
@@ -40,10 +40,11 @@ markerFolder: ./Sund/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Åland~Islands/Counties/Sund.md|Sund]] 
-- [[../../../../_internal/geo/Continent/Europe/Åland~Islands/Counties/Sund.internal|Sund.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Åland~Islands/Counties/Sund.protect|Sund.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Åland~Islands/Counties/Sund.private|Sund.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Åland~Islands/Counties/Sund.personal|Sund.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Åland~Islands/Counties/Sund.secret|Sund.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Åland~Islands/Counties/Sund|Sund]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Åland~Islands/Counties/Sund.public|Sund.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Åland~Islands/Counties/Sund.internal|Sund.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Åland~Islands/Counties/Sund.protect|Sund.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Åland~Islands/Counties/Sund.private|Sund.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Åland~Islands/Counties/Sund.personal|Sund.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Åland~Islands/Counties/Sund.secret|Sund.secret]] 
 

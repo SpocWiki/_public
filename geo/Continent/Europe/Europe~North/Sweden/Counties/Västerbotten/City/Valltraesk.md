@@ -1,5 +1,5 @@
-﻿---
-location: [65.13,16.8]
+---
+location: [65.13,16.8] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,29 +12,30 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::16.8]
-[geo-lat::65.13]
-[name::Valltraesk]
-[State::]
-[Country::[[Sweden]]]
-[StateId::]
-[Population::]
-[Unknown::]
+[geo-lon::16.8] 
+[geo-lat::65.13] 
+[name::Valltraesk] 
+State ::  
+Country :: [[Sweden]]  
+[StateId::] 
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Valltraesk
-coordinates: [[Valltraesk]]
-markerFile: [[Valltraesk]]
+coordinates: [[Valltraesk]] 
+markerFile: [[Valltraesk]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_public/geo/Continent/Europe/Sweden/City/Valltraesk.md|Valltraesk]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Sweden/City/Valltraesk.internal|Valltraesk.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Sweden/City/Valltraesk.protect|Valltraesk.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Sweden/City/Valltraesk.private|Valltraesk.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Sweden/City/Valltraesk.personal|Valltraesk.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Sweden/City/Valltraesk.secret|Valltraesk.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Sweden/City/Valltraesk|Valltraesk]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Sweden/City/Valltraesk.public|Valltraesk.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Sweden/City/Valltraesk.internal|Valltraesk.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Sweden/City/Valltraesk.protect|Valltraesk.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Sweden/City/Valltraesk.private|Valltraesk.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Sweden/City/Valltraesk.personal|Valltraesk.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Sweden/City/Valltraesk.secret|Valltraesk.secret]] 

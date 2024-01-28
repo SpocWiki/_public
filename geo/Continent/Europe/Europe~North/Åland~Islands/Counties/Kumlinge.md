@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 60.26 , 20.82 ] 
 type: geo-Region
 title: Kumlinge
@@ -40,10 +40,11 @@ markerFolder: ./Kumlinge/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Åland~Islands/Counties/Kumlinge.md|Kumlinge]] 
-- [[../../../../_internal/geo/Continent/Europe/Åland~Islands/Counties/Kumlinge.internal|Kumlinge.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Åland~Islands/Counties/Kumlinge.protect|Kumlinge.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Åland~Islands/Counties/Kumlinge.private|Kumlinge.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Åland~Islands/Counties/Kumlinge.personal|Kumlinge.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Åland~Islands/Counties/Kumlinge.secret|Kumlinge.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Åland~Islands/Counties/Kumlinge|Kumlinge]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Åland~Islands/Counties/Kumlinge.public|Kumlinge.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Åland~Islands/Counties/Kumlinge.internal|Kumlinge.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Åland~Islands/Counties/Kumlinge.protect|Kumlinge.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Åland~Islands/Counties/Kumlinge.private|Kumlinge.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Åland~Islands/Counties/Kumlinge.personal|Kumlinge.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Åland~Islands/Counties/Kumlinge.secret|Kumlinge.secret]] 
 

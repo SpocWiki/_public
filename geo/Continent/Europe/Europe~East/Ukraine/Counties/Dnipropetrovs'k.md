@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 48.3 , 35.2 ] 
 type: geo-Region
 title: Dnipropetrovs'k
@@ -40,10 +40,11 @@ markerFolder: ./Dnipropetrovs'k/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Ukraine/Counties/Dnipropetrovs'k.md|Dnipropetrovs'k]] 
-- [[../../../../_internal/geo/Continent/Europe/Ukraine/Counties/Dnipropetrovs'k.internal|Dnipropetrovs'k.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Ukraine/Counties/Dnipropetrovs'k.protect|Dnipropetrovs'k.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Ukraine/Counties/Dnipropetrovs'k.private|Dnipropetrovs'k.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Ukraine/Counties/Dnipropetrovs'k.personal|Dnipropetrovs'k.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Ukraine/Counties/Dnipropetrovs'k.secret|Dnipropetrovs'k.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Ukraine/Counties/Dnipropetrovs'k|Dnipropetrovs'k]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Ukraine/Counties/Dnipropetrovs'k.public|Dnipropetrovs'k.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Ukraine/Counties/Dnipropetrovs'k.internal|Dnipropetrovs'k.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Ukraine/Counties/Dnipropetrovs'k.protect|Dnipropetrovs'k.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Ukraine/Counties/Dnipropetrovs'k.private|Dnipropetrovs'k.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Ukraine/Counties/Dnipropetrovs'k.personal|Dnipropetrovs'k.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Ukraine/Counties/Dnipropetrovs'k.secret|Dnipropetrovs'k.secret]] 
 

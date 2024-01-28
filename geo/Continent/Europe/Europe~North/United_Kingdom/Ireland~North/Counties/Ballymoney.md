@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 55 , -6.4 ] 
 type: geo-Region
 title: Ballymoney
@@ -40,10 +40,11 @@ markerFolder: ./Ballymoney/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/United_Kingdom/Ireland~North/Counties/Ballymoney.md|Ballymoney]] 
-- [[../../../../_internal/geo/Continent/Europe/United_Kingdom/Ireland~North/Counties/Ballymoney.internal|Ballymoney.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/United_Kingdom/Ireland~North/Counties/Ballymoney.protect|Ballymoney.protect]] 
-- [[../../../../_private/geo/Continent/Europe/United_Kingdom/Ireland~North/Counties/Ballymoney.private|Ballymoney.private]] 
-- [[../../../../_personal/geo/Continent/Europe/United_Kingdom/Ireland~North/Counties/Ballymoney.personal|Ballymoney.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/United_Kingdom/Ireland~North/Counties/Ballymoney.secret|Ballymoney.secret]] 
+- [[../../../../../../../../_Standards/geo/Continent/Europe/Europe~North/United_Kingdom/Ireland~North/Counties/Ballymoney|Ballymoney]] 
+- [[../../../../../../../../_public/geo/Continent/Europe/Europe~North/United_Kingdom/Ireland~North/Counties/Ballymoney.public|Ballymoney.public]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/Europe~North/United_Kingdom/Ireland~North/Counties/Ballymoney.internal|Ballymoney.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/Europe~North/United_Kingdom/Ireland~North/Counties/Ballymoney.protect|Ballymoney.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/Europe~North/United_Kingdom/Ireland~North/Counties/Ballymoney.private|Ballymoney.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/Europe~North/United_Kingdom/Ireland~North/Counties/Ballymoney.personal|Ballymoney.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/Europe~North/United_Kingdom/Ireland~North/Counties/Ballymoney.secret|Ballymoney.secret]] 
 

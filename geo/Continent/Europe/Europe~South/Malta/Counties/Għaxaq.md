@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 35.84 , 14.52 ] 
 type: geo-Region
 title: Għaxaq
@@ -40,10 +40,11 @@ markerFolder: ./Għaxaq/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Malta/Counties/Għaxaq.md|Għaxaq]] 
-- [[../../../../_internal/geo/Continent/Europe/Malta/Counties/Għaxaq.internal|Għaxaq.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Malta/Counties/Għaxaq.protect|Għaxaq.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Malta/Counties/Għaxaq.private|Għaxaq.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Malta/Counties/Għaxaq.personal|Għaxaq.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Malta/Counties/Għaxaq.secret|Għaxaq.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Malta/Counties/Għaxaq|Għaxaq]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Malta/Counties/Għaxaq.public|Għaxaq.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Malta/Counties/Għaxaq.internal|Għaxaq.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Malta/Counties/Għaxaq.protect|Għaxaq.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Malta/Counties/Għaxaq.private|Għaxaq.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Malta/Counties/Għaxaq.personal|Għaxaq.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Malta/Counties/Għaxaq.secret|Għaxaq.secret]] 
 

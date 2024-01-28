@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 54.2 , 24.1 ] 
 type: geo-Region
 title: Alytaus
@@ -40,10 +40,11 @@ markerFolder: ./Alytaus/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Lithuania/Counties/Alytaus.md|Alytaus]] 
-- [[../../../../_internal/geo/Continent/Europe/Lithuania/Counties/Alytaus.internal|Alytaus.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Lithuania/Counties/Alytaus.protect|Alytaus.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Lithuania/Counties/Alytaus.private|Alytaus.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Lithuania/Counties/Alytaus.personal|Alytaus.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Lithuania/Counties/Alytaus.secret|Alytaus.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Lithuania/Counties/Alytaus|Alytaus]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Lithuania/Counties/Alytaus.public|Alytaus.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Lithuania/Counties/Alytaus.internal|Alytaus.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Lithuania/Counties/Alytaus.protect|Alytaus.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Lithuania/Counties/Alytaus.private|Alytaus.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Lithuania/Counties/Alytaus.personal|Alytaus.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Lithuania/Counties/Alytaus.secret|Alytaus.secret]] 
 

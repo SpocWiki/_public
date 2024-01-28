@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 35.92 , 14.47 ] 
 type: geo-Region
 title: Swieqi
@@ -40,10 +40,11 @@ markerFolder: ./Swieqi/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Malta/Counties/Swieqi.md|Swieqi]] 
-- [[../../../../_internal/geo/Continent/Europe/Malta/Counties/Swieqi.internal|Swieqi.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Malta/Counties/Swieqi.protect|Swieqi.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Malta/Counties/Swieqi.private|Swieqi.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Malta/Counties/Swieqi.personal|Swieqi.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Malta/Counties/Swieqi.secret|Swieqi.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Malta/Counties/Swieqi|Swieqi]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Malta/Counties/Swieqi.public|Swieqi.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Malta/Counties/Swieqi.internal|Swieqi.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Malta/Counties/Swieqi.protect|Swieqi.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Malta/Counties/Swieqi.private|Swieqi.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Malta/Counties/Swieqi.personal|Swieqi.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Malta/Counties/Swieqi.secret|Swieqi.secret]] 
 

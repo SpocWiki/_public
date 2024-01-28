@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 56.5 , 21.8 ] 
 type: geo-Region
 title: Vainodes
@@ -40,10 +40,11 @@ markerFolder: ./Vainodes/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Latvia/Counties/Vainodes.md|Vainodes]] 
-- [[../../../../_internal/geo/Continent/Europe/Latvia/Counties/Vainodes.internal|Vainodes.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Latvia/Counties/Vainodes.protect|Vainodes.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Latvia/Counties/Vainodes.private|Vainodes.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Latvia/Counties/Vainodes.personal|Vainodes.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Latvia/Counties/Vainodes.secret|Vainodes.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Latvia/Counties/Vainodes|Vainodes]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Latvia/Counties/Vainodes.public|Vainodes.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Latvia/Counties/Vainodes.internal|Vainodes.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Latvia/Counties/Vainodes.protect|Vainodes.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Latvia/Counties/Vainodes.private|Vainodes.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Latvia/Counties/Vainodes.personal|Vainodes.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Latvia/Counties/Vainodes.secret|Vainodes.secret]] 
 

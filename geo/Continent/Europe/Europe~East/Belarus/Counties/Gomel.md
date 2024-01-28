@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 52.3 , 29.5 ] 
 type: geo-Region
 title: Gomel
@@ -40,10 +40,11 @@ markerFolder: ./Gomel/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Belarus/Counties/Gomel.md|Gomel]] 
-- [[../../../../_internal/geo/Continent/Europe/Belarus/Counties/Gomel.internal|Gomel.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Belarus/Counties/Gomel.protect|Gomel.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Belarus/Counties/Gomel.private|Gomel.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Belarus/Counties/Gomel.personal|Gomel.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Belarus/Counties/Gomel.secret|Gomel.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Belarus/Counties/Gomel|Gomel]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Belarus/Counties/Gomel.public|Gomel.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Belarus/Counties/Gomel.internal|Gomel.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Belarus/Counties/Gomel.protect|Gomel.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Belarus/Counties/Gomel.private|Gomel.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Belarus/Counties/Gomel.personal|Gomel.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Belarus/Counties/Gomel.secret|Gomel.secret]] 
 

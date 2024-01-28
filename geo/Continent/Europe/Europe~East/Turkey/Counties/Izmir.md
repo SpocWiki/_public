@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 38.7 , 27 ] 
 type: geo-Region
 title: Izmir
@@ -40,10 +40,11 @@ markerFolder: ./Izmir/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Turkey/Counties/Izmir.md|Izmir]] 
-- [[../../../../_internal/geo/Continent/Europe/Turkey/Counties/Izmir.internal|Izmir.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Turkey/Counties/Izmir.protect|Izmir.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Turkey/Counties/Izmir.private|Izmir.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Turkey/Counties/Izmir.personal|Izmir.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Turkey/Counties/Izmir.secret|Izmir.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Turkey/Counties/Izmir|Izmir]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Turkey/Counties/Izmir.public|Izmir.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Turkey/Counties/Izmir.internal|Izmir.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Turkey/Counties/Izmir.protect|Izmir.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Turkey/Counties/Izmir.private|Izmir.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Turkey/Counties/Izmir.personal|Izmir.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Turkey/Counties/Izmir.secret|Izmir.secret]] 
 

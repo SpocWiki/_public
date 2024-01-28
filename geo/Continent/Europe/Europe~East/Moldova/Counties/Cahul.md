@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 45.8 , 28.2 ] 
 type: geo-Region
 title: Cahul
@@ -40,10 +40,11 @@ markerFolder: ./Cahul/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Moldova/Counties/Cahul.md|Cahul]] 
-- [[../../../../_internal/geo/Continent/Europe/Moldova/Counties/Cahul.internal|Cahul.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Moldova/Counties/Cahul.protect|Cahul.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Moldova/Counties/Cahul.private|Cahul.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Moldova/Counties/Cahul.personal|Cahul.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Moldova/Counties/Cahul.secret|Cahul.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Moldova/Counties/Cahul|Cahul]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Moldova/Counties/Cahul.public|Cahul.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Moldova/Counties/Cahul.internal|Cahul.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Moldova/Counties/Cahul.protect|Cahul.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Moldova/Counties/Cahul.private|Cahul.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Moldova/Counties/Cahul.personal|Cahul.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Moldova/Counties/Cahul.secret|Cahul.secret]] 
 

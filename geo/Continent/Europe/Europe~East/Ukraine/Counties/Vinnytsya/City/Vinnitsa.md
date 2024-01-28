@@ -1,5 +1,5 @@
-﻿---
-location: [49.22,28.48]
+---
+location: [49.22,28.48] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,29 +12,30 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::28.48]
-[geo-lat::49.22]
-[name::Vinnitsa]
-[State::]
-[Country::[[Russia]]]
-[StateId::]
-[Population::]
-[Unknown::]
+[geo-lon::28.48] 
+[geo-lat::49.22] 
+[name::Vinnitsa] 
+State ::  
+Country :: [[Russia]]  
+[StateId::] 
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Vinnitsa
-coordinates: [[Vinnitsa]]
-markerFile: [[Vinnitsa]]
+coordinates: [[Vinnitsa]] 
+markerFile: [[Vinnitsa]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_public/geo/Continent/Europe/Russia/City/Vinnitsa.md|Vinnitsa]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Vinnitsa.internal|Vinnitsa.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Vinnitsa.protect|Vinnitsa.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Vinnitsa.private|Vinnitsa.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Vinnitsa.personal|Vinnitsa.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Vinnitsa.secret|Vinnitsa.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Russia/City/Vinnitsa|Vinnitsa]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Russia/City/Vinnitsa.public|Vinnitsa.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Russia/City/Vinnitsa.internal|Vinnitsa.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Russia/City/Vinnitsa.protect|Vinnitsa.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Russia/City/Vinnitsa.private|Vinnitsa.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Russia/City/Vinnitsa.personal|Vinnitsa.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Russia/City/Vinnitsa.secret|Vinnitsa.secret]] 

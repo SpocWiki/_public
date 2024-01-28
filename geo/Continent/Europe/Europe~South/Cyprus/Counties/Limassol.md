@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 34.8 , 33 ] 
 type: geo-Region
 title: Limassol
@@ -40,10 +40,11 @@ markerFolder: ./Limassol/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Cyprus/Counties/Limassol.md|Limassol]] 
-- [[../../../../_internal/geo/Continent/Europe/Cyprus/Counties/Limassol.internal|Limassol.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Cyprus/Counties/Limassol.protect|Limassol.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Cyprus/Counties/Limassol.private|Limassol.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Cyprus/Counties/Limassol.personal|Limassol.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Cyprus/Counties/Limassol.secret|Limassol.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Cyprus/Counties/Limassol|Limassol]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Cyprus/Counties/Limassol.public|Limassol.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Cyprus/Counties/Limassol.internal|Limassol.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Cyprus/Counties/Limassol.protect|Limassol.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Cyprus/Counties/Limassol.private|Limassol.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Cyprus/Counties/Limassol.personal|Limassol.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Cyprus/Counties/Limassol.secret|Limassol.secret]] 
 

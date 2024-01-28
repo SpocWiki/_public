@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 56.3 , 26.7 ] 
 type: geo-Region
 title: Preilu
@@ -40,10 +40,11 @@ markerFolder: ./Preilu/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Latvia/Counties/Preilu.md|Preilu]] 
-- [[../../../../_internal/geo/Continent/Europe/Latvia/Counties/Preilu.internal|Preilu.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Latvia/Counties/Preilu.protect|Preilu.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Latvia/Counties/Preilu.private|Preilu.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Latvia/Counties/Preilu.personal|Preilu.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Latvia/Counties/Preilu.secret|Preilu.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Latvia/Counties/Preilu|Preilu]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Latvia/Counties/Preilu.public|Preilu.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Latvia/Counties/Preilu.internal|Preilu.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Latvia/Counties/Preilu.protect|Preilu.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Latvia/Counties/Preilu.private|Preilu.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Latvia/Counties/Preilu.personal|Preilu.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Latvia/Counties/Preilu.secret|Preilu.secret]] 
 

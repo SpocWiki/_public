@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 46.8 , 21.1 ] 
 type: geo-Region
 title: Békéscsaba
@@ -40,10 +40,11 @@ markerFolder: ./Békéscsaba/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Hungary/Counties/Békéscsaba.md|Békéscsaba]] 
-- [[../../../../_internal/geo/Continent/Europe/Hungary/Counties/Békéscsaba.internal|Békéscsaba.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Hungary/Counties/Békéscsaba.protect|Békéscsaba.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Hungary/Counties/Békéscsaba.private|Békéscsaba.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Hungary/Counties/Békéscsaba.personal|Békéscsaba.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Hungary/Counties/Békéscsaba.secret|Békéscsaba.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Hungary/Counties/Békéscsaba|Békéscsaba]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Hungary/Counties/Békéscsaba.public|Békéscsaba.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Hungary/Counties/Békéscsaba.internal|Békéscsaba.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Hungary/Counties/Békéscsaba.protect|Békéscsaba.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Hungary/Counties/Békéscsaba.private|Békéscsaba.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Hungary/Counties/Békéscsaba.personal|Békéscsaba.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Hungary/Counties/Békéscsaba.secret|Békéscsaba.secret]] 
 

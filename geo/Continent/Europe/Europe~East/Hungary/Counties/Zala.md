@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 46.7 , 16.8 ] 
 type: geo-Region
 title: Zala
@@ -40,10 +40,11 @@ markerFolder: ./Zala/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Hungary/Counties/Zala.md|Zala]] 
-- [[../../../../_internal/geo/Continent/Europe/Hungary/Counties/Zala.internal|Zala.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Hungary/Counties/Zala.protect|Zala.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Hungary/Counties/Zala.private|Zala.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Hungary/Counties/Zala.personal|Zala.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Hungary/Counties/Zala.secret|Zala.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Hungary/Counties/Zala|Zala]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Hungary/Counties/Zala.public|Zala.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Hungary/Counties/Zala.internal|Zala.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Hungary/Counties/Zala.protect|Zala.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Hungary/Counties/Zala.private|Zala.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Hungary/Counties/Zala.personal|Zala.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Hungary/Counties/Zala.secret|Zala.secret]] 
 

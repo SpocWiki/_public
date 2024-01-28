@@ -1,5 +1,5 @@
-﻿---
-location: [56.33,44]
+---
+location: [56.33,44] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,29 +12,30 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::44]
-[geo-lat::56.33]
-[name::Nischnij-Nowgorod=Gorki]
-[State::]
-[Country::[[Russia]]]
-[StateId::]
-[Population::]
-[Unknown::]
+[geo-lon::44] 
+[geo-lat::56.33] 
+[name::Nischnij-Nowgorod=Gorki] 
+State ::  
+Country :: [[Russia]]  
+[StateId::] 
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Nischnij-Nowgorod=Gorki
-coordinates: [[Nischnij-Nowgorod=Gorki]]
-markerFile: [[Nischnij-Nowgorod=Gorki]]
+coordinates: [[Nischnij-Nowgorod=Gorki]] 
+markerFile: [[Nischnij-Nowgorod=Gorki]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_public/geo/Continent/Europe/Russia/City/Nischnij-Nowgorod=Gorki.md|Nischnij-Nowgorod=Gorki]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Nischnij-Nowgorod=Gorki.internal|Nischnij-Nowgorod=Gorki.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Nischnij-Nowgorod=Gorki.protect|Nischnij-Nowgorod=Gorki.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Nischnij-Nowgorod=Gorki.private|Nischnij-Nowgorod=Gorki.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Nischnij-Nowgorod=Gorki.personal|Nischnij-Nowgorod=Gorki.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Nischnij-Nowgorod=Gorki.secret|Nischnij-Nowgorod=Gorki.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Russia/City/Nischnij-Nowgorod=Gorki|Nischnij-Nowgorod=Gorki]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Russia/City/Nischnij-Nowgorod=Gorki.public|Nischnij-Nowgorod=Gorki.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Russia/City/Nischnij-Nowgorod=Gorki.internal|Nischnij-Nowgorod=Gorki.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Russia/City/Nischnij-Nowgorod=Gorki.protect|Nischnij-Nowgorod=Gorki.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Russia/City/Nischnij-Nowgorod=Gorki.private|Nischnij-Nowgorod=Gorki.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Russia/City/Nischnij-Nowgorod=Gorki.personal|Nischnij-Nowgorod=Gorki.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Russia/City/Nischnij-Nowgorod=Gorki.secret|Nischnij-Nowgorod=Gorki.secret]] 

@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 51.2 , 0.7 ] 
 type: geo-Region
 title: Kent
@@ -40,10 +40,11 @@ markerFolder: ./Kent/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/United_Kingdom/England/Counties/Kent.md|Kent]] 
-- [[../../../../_internal/geo/Continent/Europe/United_Kingdom/England/Counties/Kent.internal|Kent.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/United_Kingdom/England/Counties/Kent.protect|Kent.protect]] 
-- [[../../../../_private/geo/Continent/Europe/United_Kingdom/England/Counties/Kent.private|Kent.private]] 
-- [[../../../../_personal/geo/Continent/Europe/United_Kingdom/England/Counties/Kent.personal|Kent.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/United_Kingdom/England/Counties/Kent.secret|Kent.secret]] 
+- [[../../../../../../../../_Standards/geo/Continent/Europe/Europe~North/United_Kingdom/England/Counties/Kent|Kent]] 
+- [[../../../../../../../../_public/geo/Continent/Europe/Europe~North/United_Kingdom/England/Counties/Kent.public|Kent.public]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/Europe~North/United_Kingdom/England/Counties/Kent.internal|Kent.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/Europe~North/United_Kingdom/England/Counties/Kent.protect|Kent.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/Europe~North/United_Kingdom/England/Counties/Kent.private|Kent.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/Europe~North/United_Kingdom/England/Counties/Kent.personal|Kent.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/Europe~North/United_Kingdom/England/Counties/Kent.secret|Kent.secret]] 
 

@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 47.1 , 18.7 ] 
 type: geo-Region
 title: Fejér
@@ -40,10 +40,11 @@ markerFolder: ./Fejér/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Hungary/Counties/Fejér.md|Fejér]] 
-- [[../../../../_internal/geo/Continent/Europe/Hungary/Counties/Fejér.internal|Fejér.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Hungary/Counties/Fejér.protect|Fejér.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Hungary/Counties/Fejér.private|Fejér.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Hungary/Counties/Fejér.personal|Fejér.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Hungary/Counties/Fejér.secret|Fejér.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Hungary/Counties/Fejér|Fejér]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Hungary/Counties/Fejér.public|Fejér.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Hungary/Counties/Fejér.internal|Fejér.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Hungary/Counties/Fejér.protect|Fejér.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Hungary/Counties/Fejér.private|Fejér.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Hungary/Counties/Fejér.personal|Fejér.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Hungary/Counties/Fejér.secret|Fejér.secret]] 
 

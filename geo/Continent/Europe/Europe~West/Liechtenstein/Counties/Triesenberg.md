@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 47.12 , 9.55 ] 
 type: geo-Region
 title: Triesenberg
@@ -40,10 +40,11 @@ markerFolder: ./Triesenberg/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Liechtenstein/Counties/Triesenberg.md|Triesenberg]] 
-- [[../../../../_internal/geo/Continent/Europe/Liechtenstein/Counties/Triesenberg.internal|Triesenberg.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Liechtenstein/Counties/Triesenberg.protect|Triesenberg.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Liechtenstein/Counties/Triesenberg.private|Triesenberg.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Liechtenstein/Counties/Triesenberg.personal|Triesenberg.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Liechtenstein/Counties/Triesenberg.secret|Triesenberg.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~West/Liechtenstein/Counties/Triesenberg|Triesenberg]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~West/Liechtenstein/Counties/Triesenberg.public|Triesenberg.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~West/Liechtenstein/Counties/Triesenberg.internal|Triesenberg.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~West/Liechtenstein/Counties/Triesenberg.protect|Triesenberg.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~West/Liechtenstein/Counties/Triesenberg.private|Triesenberg.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~West/Liechtenstein/Counties/Triesenberg.personal|Triesenberg.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~West/Liechtenstein/Counties/Triesenberg.secret|Triesenberg.secret]] 
 

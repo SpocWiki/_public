@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 57 , 24.6 ] 
 type: geo-Region
 title: Ropazu
@@ -40,10 +40,11 @@ markerFolder: ./Ropazu/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Latvia/Counties/Ropazu.md|Ropazu]] 
-- [[../../../../_internal/geo/Continent/Europe/Latvia/Counties/Ropazu.internal|Ropazu.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Latvia/Counties/Ropazu.protect|Ropazu.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Latvia/Counties/Ropazu.private|Ropazu.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Latvia/Counties/Ropazu.personal|Ropazu.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Latvia/Counties/Ropazu.secret|Ropazu.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Latvia/Counties/Ropazu|Ropazu]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Latvia/Counties/Ropazu.public|Ropazu.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Latvia/Counties/Ropazu.internal|Ropazu.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Latvia/Counties/Ropazu.protect|Ropazu.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Latvia/Counties/Ropazu.private|Ropazu.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Latvia/Counties/Ropazu.personal|Ropazu.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Latvia/Counties/Ropazu.secret|Ropazu.secret]] 
 

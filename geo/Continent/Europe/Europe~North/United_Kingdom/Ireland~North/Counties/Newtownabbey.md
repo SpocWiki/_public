@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 54.7 , -6 ] 
 type: geo-Region
 title: Newtownabbey
@@ -40,10 +40,11 @@ markerFolder: ./Newtownabbey/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/United_Kingdom/Ireland~North/Counties/Newtownabbey.md|Newtownabbey]] 
-- [[../../../../_internal/geo/Continent/Europe/United_Kingdom/Ireland~North/Counties/Newtownabbey.internal|Newtownabbey.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/United_Kingdom/Ireland~North/Counties/Newtownabbey.protect|Newtownabbey.protect]] 
-- [[../../../../_private/geo/Continent/Europe/United_Kingdom/Ireland~North/Counties/Newtownabbey.private|Newtownabbey.private]] 
-- [[../../../../_personal/geo/Continent/Europe/United_Kingdom/Ireland~North/Counties/Newtownabbey.personal|Newtownabbey.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/United_Kingdom/Ireland~North/Counties/Newtownabbey.secret|Newtownabbey.secret]] 
+- [[../../../../../../../../_Standards/geo/Continent/Europe/Europe~North/United_Kingdom/Ireland~North/Counties/Newtownabbey|Newtownabbey]] 
+- [[../../../../../../../../_public/geo/Continent/Europe/Europe~North/United_Kingdom/Ireland~North/Counties/Newtownabbey.public|Newtownabbey.public]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/Europe~North/United_Kingdom/Ireland~North/Counties/Newtownabbey.internal|Newtownabbey.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/Europe~North/United_Kingdom/Ireland~North/Counties/Newtownabbey.protect|Newtownabbey.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/Europe~North/United_Kingdom/Ireland~North/Counties/Newtownabbey.private|Newtownabbey.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/Europe~North/United_Kingdom/Ireland~North/Counties/Newtownabbey.personal|Newtownabbey.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/Europe~North/United_Kingdom/Ireland~North/Counties/Newtownabbey.secret|Newtownabbey.secret]] 
 

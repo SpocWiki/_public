@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 53.5 , -2 ] 
 type: geo-Region
 title: Oldham
@@ -40,10 +40,11 @@ markerFolder: ./Oldham/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/United_Kingdom/England/Counties/Oldham.md|Oldham]] 
-- [[../../../../_internal/geo/Continent/Europe/United_Kingdom/England/Counties/Oldham.internal|Oldham.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/United_Kingdom/England/Counties/Oldham.protect|Oldham.protect]] 
-- [[../../../../_private/geo/Continent/Europe/United_Kingdom/England/Counties/Oldham.private|Oldham.private]] 
-- [[../../../../_personal/geo/Continent/Europe/United_Kingdom/England/Counties/Oldham.personal|Oldham.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/United_Kingdom/England/Counties/Oldham.secret|Oldham.secret]] 
+- [[../../../../../../../../_Standards/geo/Continent/Europe/Europe~North/United_Kingdom/England/Counties/Oldham|Oldham]] 
+- [[../../../../../../../../_public/geo/Continent/Europe/Europe~North/United_Kingdom/England/Counties/Oldham.public|Oldham.public]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/Europe~North/United_Kingdom/England/Counties/Oldham.internal|Oldham.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/Europe~North/United_Kingdom/England/Counties/Oldham.protect|Oldham.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/Europe~North/United_Kingdom/England/Counties/Oldham.private|Oldham.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/Europe~North/United_Kingdom/England/Counties/Oldham.personal|Oldham.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/Europe~North/United_Kingdom/England/Counties/Oldham.secret|Oldham.secret]] 
 

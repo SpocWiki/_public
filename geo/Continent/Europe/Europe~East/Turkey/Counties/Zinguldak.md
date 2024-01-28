@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 41.3 , 31.8 ] 
 type: geo-Region
 title: Zinguldak
@@ -40,10 +40,11 @@ markerFolder: ./Zinguldak/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Turkey/Counties/Zinguldak.md|Zinguldak]] 
-- [[../../../../_internal/geo/Continent/Europe/Turkey/Counties/Zinguldak.internal|Zinguldak.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Turkey/Counties/Zinguldak.protect|Zinguldak.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Turkey/Counties/Zinguldak.private|Zinguldak.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Turkey/Counties/Zinguldak.personal|Zinguldak.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Turkey/Counties/Zinguldak.secret|Zinguldak.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Turkey/Counties/Zinguldak|Zinguldak]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Turkey/Counties/Zinguldak.public|Zinguldak.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Turkey/Counties/Zinguldak.internal|Zinguldak.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Turkey/Counties/Zinguldak.protect|Zinguldak.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Turkey/Counties/Zinguldak.private|Zinguldak.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Turkey/Counties/Zinguldak.personal|Zinguldak.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Turkey/Counties/Zinguldak.secret|Zinguldak.secret]] 
 

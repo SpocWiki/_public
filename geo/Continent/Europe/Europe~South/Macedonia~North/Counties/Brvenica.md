@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 41.9 , 21 ] 
 type: geo-Region
 title: Brvenica
@@ -40,10 +40,11 @@ markerFolder: ./Brvenica/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Macedonia~North/Counties/Brvenica.md|Brvenica]] 
-- [[../../../../_internal/geo/Continent/Europe/Macedonia~North/Counties/Brvenica.internal|Brvenica.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Macedonia~North/Counties/Brvenica.protect|Brvenica.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Macedonia~North/Counties/Brvenica.private|Brvenica.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Macedonia~North/Counties/Brvenica.personal|Brvenica.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Macedonia~North/Counties/Brvenica.secret|Brvenica.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Macedonia~North/Counties/Brvenica|Brvenica]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Macedonia~North/Counties/Brvenica.public|Brvenica.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Macedonia~North/Counties/Brvenica.internal|Brvenica.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Macedonia~North/Counties/Brvenica.protect|Brvenica.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Macedonia~North/Counties/Brvenica.private|Brvenica.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Macedonia~North/Counties/Brvenica.personal|Brvenica.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Macedonia~North/Counties/Brvenica.secret|Brvenica.secret]] 
 

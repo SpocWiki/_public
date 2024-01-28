@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 52.7 , -6.8 ] 
 type: geo-Region
 title: Carlow
@@ -40,10 +40,11 @@ markerFolder: ./Carlow/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Ireland/Counties/Carlow.md|Carlow]] 
-- [[../../../../_internal/geo/Continent/Europe/Ireland/Counties/Carlow.internal|Carlow.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Ireland/Counties/Carlow.protect|Carlow.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Ireland/Counties/Carlow.private|Carlow.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Ireland/Counties/Carlow.personal|Carlow.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Ireland/Counties/Carlow.secret|Carlow.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Ireland/Counties/Carlow|Carlow]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Ireland/Counties/Carlow.public|Carlow.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Ireland/Counties/Carlow.internal|Carlow.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Ireland/Counties/Carlow.protect|Carlow.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Ireland/Counties/Carlow.private|Carlow.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Ireland/Counties/Carlow.personal|Carlow.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Ireland/Counties/Carlow.secret|Carlow.secret]] 
 

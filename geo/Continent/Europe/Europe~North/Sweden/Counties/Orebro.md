@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 59.4 , 15 ] 
 type: geo-Region
 title: Orebro
@@ -40,10 +40,11 @@ markerFolder: ./Orebro/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Sweden/Counties/Orebro.md|Orebro]] 
-- [[../../../../_internal/geo/Continent/Europe/Sweden/Counties/Orebro.internal|Orebro.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Sweden/Counties/Orebro.protect|Orebro.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Sweden/Counties/Orebro.private|Orebro.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Sweden/Counties/Orebro.personal|Orebro.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Sweden/Counties/Orebro.secret|Orebro.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Sweden/Counties/Orebro|Orebro]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Sweden/Counties/Orebro.public|Orebro.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Sweden/Counties/Orebro.internal|Orebro.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Sweden/Counties/Orebro.protect|Orebro.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Sweden/Counties/Orebro.private|Orebro.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Sweden/Counties/Orebro.personal|Orebro.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Sweden/Counties/Orebro.secret|Orebro.secret]] 
 

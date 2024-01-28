@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 69.3 , 20.6 ] 
 type: geo-Region
 title: Troms
@@ -40,10 +40,11 @@ markerFolder: ./Troms/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Norway/Counties/Troms.md|Troms]] 
-- [[../../../../_internal/geo/Continent/Europe/Norway/Counties/Troms.internal|Troms.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Norway/Counties/Troms.protect|Troms.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Norway/Counties/Troms.private|Troms.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Norway/Counties/Troms.personal|Troms.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Norway/Counties/Troms.secret|Troms.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Norway/Counties/Troms|Troms]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Norway/Counties/Troms.public|Troms.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Norway/Counties/Troms.internal|Troms.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Norway/Counties/Troms.protect|Troms.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Norway/Counties/Troms.private|Troms.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Norway/Counties/Troms.personal|Troms.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Norway/Counties/Troms.secret|Troms.secret]] 
 

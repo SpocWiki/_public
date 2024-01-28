@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 42.4 , 20.4 ] 
 type: geo-Region
 title: Đakovica
@@ -40,10 +40,11 @@ markerFolder: ./Đakovica/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Kosovo/Counties/Đakovica.md|Đakovica]] 
-- [[../../../../_internal/geo/Continent/Europe/Kosovo/Counties/Đakovica.internal|Đakovica.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Kosovo/Counties/Đakovica.protect|Đakovica.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Kosovo/Counties/Đakovica.private|Đakovica.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Kosovo/Counties/Đakovica.personal|Đakovica.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Kosovo/Counties/Đakovica.secret|Đakovica.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Kosovo/Counties/Đakovica|Đakovica]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Kosovo/Counties/Đakovica.public|Đakovica.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Kosovo/Counties/Đakovica.internal|Đakovica.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Kosovo/Counties/Đakovica.protect|Đakovica.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Kosovo/Counties/Đakovica.private|Đakovica.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Kosovo/Counties/Đakovica.personal|Đakovica.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Kosovo/Counties/Đakovica.secret|Đakovica.secret]] 
 

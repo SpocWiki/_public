@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 45 , 24.9 ] 
 type: geo-Region
 title: Arges
@@ -40,10 +40,11 @@ markerFolder: ./Arges/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Romania/Counties/Arges.md|Arges]] 
-- [[../../../../_internal/geo/Continent/Europe/Romania/Counties/Arges.internal|Arges.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Romania/Counties/Arges.protect|Arges.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Romania/Counties/Arges.private|Arges.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Romania/Counties/Arges.personal|Arges.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Romania/Counties/Arges.secret|Arges.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Romania/Counties/Arges|Arges]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Romania/Counties/Arges.public|Arges.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Romania/Counties/Arges.internal|Arges.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Romania/Counties/Arges.protect|Arges.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Romania/Counties/Arges.private|Arges.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Romania/Counties/Arges.personal|Arges.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Romania/Counties/Arges.secret|Arges.secret]] 
 

@@ -1,5 +1,5 @@
-﻿---
-location: [53.8,22.12]
+---
+location: [53.8,22.12] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,29 +12,30 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::22.12]
-[geo-lat::53.8]
-[name::Klausen]
-[State::]
-[Country::[[Poland]]]
-[StateId::]
-[Population::]
-[Unknown::]
+[geo-lon::22.12] 
+[geo-lat::53.8] 
+[name::Klausen] 
+State ::  
+Country :: [[Poland]]  
+[StateId::] 
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Klausen
-coordinates: [[Klausen]]
-markerFile: [[Klausen]]
+coordinates: [[Klausen]] 
+markerFile: [[Klausen]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_public/geo/Continent/Europe/Poland/City/Klausen.md|Klausen]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Klausen.internal|Klausen.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Klausen.protect|Klausen.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Klausen.private|Klausen.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Klausen.personal|Klausen.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Klausen.secret|Klausen.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Poland/City/Klausen|Klausen]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Poland/City/Klausen.public|Klausen.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Poland/City/Klausen.internal|Klausen.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Poland/City/Klausen.protect|Klausen.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Poland/City/Klausen.private|Klausen.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Poland/City/Klausen.personal|Klausen.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Poland/City/Klausen.secret|Klausen.secret]] 

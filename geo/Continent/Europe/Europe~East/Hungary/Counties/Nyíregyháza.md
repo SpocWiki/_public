@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 47.9 , 21.8 ] 
 type: geo-Region
 title: Nyíregyháza
@@ -40,10 +40,11 @@ markerFolder: ./Nyíregyháza/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Hungary/Counties/Nyíregyháza.md|Nyíregyháza]] 
-- [[../../../../_internal/geo/Continent/Europe/Hungary/Counties/Nyíregyháza.internal|Nyíregyháza.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Hungary/Counties/Nyíregyháza.protect|Nyíregyháza.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Hungary/Counties/Nyíregyháza.private|Nyíregyháza.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Hungary/Counties/Nyíregyháza.personal|Nyíregyháza.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Hungary/Counties/Nyíregyháza.secret|Nyíregyháza.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Hungary/Counties/Nyíregyháza|Nyíregyháza]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Hungary/Counties/Nyíregyháza.public|Nyíregyháza.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Hungary/Counties/Nyíregyháza.internal|Nyíregyháza.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Hungary/Counties/Nyíregyháza.protect|Nyíregyháza.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Hungary/Counties/Nyíregyháza.private|Nyíregyháza.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Hungary/Counties/Nyíregyháza.personal|Nyíregyháza.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Hungary/Counties/Nyíregyháza.secret|Nyíregyháza.secret]] 
 

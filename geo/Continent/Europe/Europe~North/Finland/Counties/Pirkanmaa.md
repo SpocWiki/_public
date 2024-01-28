@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 61.7 , 23.8 ] 
 type: geo-Region
 title: Pirkanmaa
@@ -40,10 +40,11 @@ markerFolder: ./Pirkanmaa/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Finland/Counties/Pirkanmaa.md|Pirkanmaa]] 
-- [[../../../../_internal/geo/Continent/Europe/Finland/Counties/Pirkanmaa.internal|Pirkanmaa.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Finland/Counties/Pirkanmaa.protect|Pirkanmaa.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Finland/Counties/Pirkanmaa.private|Pirkanmaa.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Finland/Counties/Pirkanmaa.personal|Pirkanmaa.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Finland/Counties/Pirkanmaa.secret|Pirkanmaa.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Finland/Counties/Pirkanmaa|Pirkanmaa]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Finland/Counties/Pirkanmaa.public|Pirkanmaa.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Finland/Counties/Pirkanmaa.internal|Pirkanmaa.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Finland/Counties/Pirkanmaa.protect|Pirkanmaa.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Finland/Counties/Pirkanmaa.private|Pirkanmaa.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Finland/Counties/Pirkanmaa.personal|Pirkanmaa.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Finland/Counties/Pirkanmaa.secret|Pirkanmaa.secret]] 
 

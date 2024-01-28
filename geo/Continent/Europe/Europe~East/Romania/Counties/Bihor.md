@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 47 , 22.2 ] 
 type: geo-Region
 title: Bihor
@@ -40,10 +40,11 @@ markerFolder: ./Bihor/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Romania/Counties/Bihor.md|Bihor]] 
-- [[../../../../_internal/geo/Continent/Europe/Romania/Counties/Bihor.internal|Bihor.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Romania/Counties/Bihor.protect|Bihor.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Romania/Counties/Bihor.private|Bihor.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Romania/Counties/Bihor.personal|Bihor.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Romania/Counties/Bihor.secret|Bihor.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Romania/Counties/Bihor|Bihor]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Romania/Counties/Bihor.public|Bihor.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Romania/Counties/Bihor.internal|Bihor.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Romania/Counties/Bihor.protect|Bihor.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Romania/Counties/Bihor.private|Bihor.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Romania/Counties/Bihor.personal|Bihor.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Romania/Counties/Bihor.secret|Bihor.secret]] 
 

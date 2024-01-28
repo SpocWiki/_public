@@ -1,5 +1,5 @@
 ---
-location: [51.508,-0.1247]
+location: [51.508,-0.1247] 
 type: Station 
 mapzoom: [8,15] 
 mapmarker: subway 
@@ -8,24 +8,24 @@ tags:
 - Europe/United_Kingdom/City~London
 ---
 SpocWebEntityId: 155915
-[StationSId::]
+[StationSId::] 
 isDeleted: false
 isReadOnly: false
 confidential: public
-[geo-lon::-0.1247]
-[geo-lat::51.508]
-[name::Charing Cross]
-[zone::1]
-[Num_lines::2]
-[switch-to-Rail::1]
-[Country::[[United_Kingdom]]]
-[City::[[../../../London]]]
+[geo-lon::-0.1247] 
+[geo-lat::51.508] 
+[name::Charing Cross] 
+[zone::1] 
+[Num_lines::2] 
+[switch-to-Rail::1] 
+Country :: [[United_Kingdom]]  
+City :: [[../../../London]]  
 
 
 ```leaflet
 id: Sub~Charing_Cross
-coordinates: [[Sub~Charing_Cross]]
-markerFile: [[Sub~Charing_Cross]]
+coordinates: [[Sub~Charing_Cross]] 
+markerFile: [[Sub~Charing_Cross]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
@@ -34,13 +34,14 @@ maxZoom: 18
 # Lines: 
 ```dataview
 TABLE 
-FROM [[]]
+FROM [[]] 
 ```
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_public/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Charing_Cross.md|Sub~Charing_Cross]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Charing_Cross.internal|Sub~Charing_Cross.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Charing_Cross.protect|Sub~Charing_Cross.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Charing_Cross.private|Sub~Charing_Cross.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Charing_Cross.personal|Sub~Charing_Cross.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Charing_Cross.secret|Sub~Charing_Cross.secret]] 
+- [[../../../../../../../../../_Standards/geo/Continent/Europe/Europe~North/United_Kingdom/London~Greater/Underground/Station/Sub~Charing_Cross|Sub~Charing_Cross]] 
+- [[../../../../../../../../../_public/geo/Continent/Europe/Europe~North/United_Kingdom/London~Greater/Underground/Station/Sub~Charing_Cross.public|Sub~Charing_Cross.public]] 
+- [[../../../../../../../../../_internal/geo/Continent/Europe/Europe~North/United_Kingdom/London~Greater/Underground/Station/Sub~Charing_Cross.internal|Sub~Charing_Cross.internal]] 
+- [[../../../../../../../../../_protect/geo/Continent/Europe/Europe~North/United_Kingdom/London~Greater/Underground/Station/Sub~Charing_Cross.protect|Sub~Charing_Cross.protect]] 
+- [[../../../../../../../../../_private/geo/Continent/Europe/Europe~North/United_Kingdom/London~Greater/Underground/Station/Sub~Charing_Cross.private|Sub~Charing_Cross.private]] 
+- [[../../../../../../../../../_personal/geo/Continent/Europe/Europe~North/United_Kingdom/London~Greater/Underground/Station/Sub~Charing_Cross.personal|Sub~Charing_Cross.personal]] 
+- [[../../../../../../../../../_secret/geo/Continent/Europe/Europe~North/United_Kingdom/London~Greater/Underground/Station/Sub~Charing_Cross.secret|Sub~Charing_Cross.secret]] 

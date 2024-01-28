@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 40.3 , 24.2 ] 
 type: geo-Region
 title: Ayion_Oros
@@ -40,10 +40,11 @@ markerFolder: ./Ayion_Oros/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Greece/Counties/Ayion_Oros.md|Ayion_Oros]] 
-- [[../../../../_internal/geo/Continent/Europe/Greece/Counties/Ayion_Oros.internal|Ayion_Oros.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Greece/Counties/Ayion_Oros.protect|Ayion_Oros.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Greece/Counties/Ayion_Oros.private|Ayion_Oros.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Greece/Counties/Ayion_Oros.personal|Ayion_Oros.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Greece/Counties/Ayion_Oros.secret|Ayion_Oros.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Greece/Counties/Ayion_Oros|Ayion_Oros]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Greece/Counties/Ayion_Oros.public|Ayion_Oros.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Greece/Counties/Ayion_Oros.internal|Ayion_Oros.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Greece/Counties/Ayion_Oros.protect|Ayion_Oros.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Greece/Counties/Ayion_Oros.private|Ayion_Oros.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Greece/Counties/Ayion_Oros.personal|Ayion_Oros.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Greece/Counties/Ayion_Oros.secret|Ayion_Oros.secret]] 
 

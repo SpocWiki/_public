@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 66.2 , -48.5 ] 
 type: geo-Region
 title: Qeqqata_Kommunia
@@ -40,10 +40,11 @@ markerFolder: ./Qeqqata_Kommunia/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Greenland/Counties/Qeqqata_Kommunia.md|Qeqqata_Kommunia]] 
-- [[../../../../_internal/geo/Continent/Europe/Greenland/Counties/Qeqqata_Kommunia.internal|Qeqqata_Kommunia.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Greenland/Counties/Qeqqata_Kommunia.protect|Qeqqata_Kommunia.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Greenland/Counties/Qeqqata_Kommunia.private|Qeqqata_Kommunia.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Greenland/Counties/Qeqqata_Kommunia.personal|Qeqqata_Kommunia.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Greenland/Counties/Qeqqata_Kommunia.secret|Qeqqata_Kommunia.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Greenland/Counties/Qeqqata_Kommunia|Qeqqata_Kommunia]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Greenland/Counties/Qeqqata_Kommunia.public|Qeqqata_Kommunia.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Greenland/Counties/Qeqqata_Kommunia.internal|Qeqqata_Kommunia.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Greenland/Counties/Qeqqata_Kommunia.protect|Qeqqata_Kommunia.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Greenland/Counties/Qeqqata_Kommunia.private|Qeqqata_Kommunia.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Greenland/Counties/Qeqqata_Kommunia.personal|Qeqqata_Kommunia.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Greenland/Counties/Qeqqata_Kommunia.secret|Qeqqata_Kommunia.secret]] 
 

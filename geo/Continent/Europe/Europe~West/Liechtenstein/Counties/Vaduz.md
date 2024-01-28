@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 47.15 , 9.52 ] 
 type: geo-Region
 title: Vaduz
@@ -40,10 +40,11 @@ markerFolder: ./Vaduz/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Liechtenstein/Counties/Vaduz.md|Vaduz]] 
-- [[../../../../_internal/geo/Continent/Europe/Liechtenstein/Counties/Vaduz.internal|Vaduz.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Liechtenstein/Counties/Vaduz.protect|Vaduz.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Liechtenstein/Counties/Vaduz.private|Vaduz.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Liechtenstein/Counties/Vaduz.personal|Vaduz.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Liechtenstein/Counties/Vaduz.secret|Vaduz.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~West/Liechtenstein/Counties/Vaduz|Vaduz]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~West/Liechtenstein/Counties/Vaduz.public|Vaduz.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~West/Liechtenstein/Counties/Vaduz.internal|Vaduz.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~West/Liechtenstein/Counties/Vaduz.protect|Vaduz.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~West/Liechtenstein/Counties/Vaduz.private|Vaduz.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~West/Liechtenstein/Counties/Vaduz.personal|Vaduz.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~West/Liechtenstein/Counties/Vaduz.secret|Vaduz.secret]] 
 

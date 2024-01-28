@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 35.82 , 14.52 ] 
 type: geo-Region
 title: Birżebbuġa
@@ -40,10 +40,11 @@ markerFolder: ./Birżebbuġa/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Malta/Counties/Birżebbuġa.md|Birżebbuġa]] 
-- [[../../../../_internal/geo/Continent/Europe/Malta/Counties/Birżebbuġa.internal|Birżebbuġa.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Malta/Counties/Birżebbuġa.protect|Birżebbuġa.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Malta/Counties/Birżebbuġa.private|Birżebbuġa.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Malta/Counties/Birżebbuġa.personal|Birżebbuġa.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Malta/Counties/Birżebbuġa.secret|Birżebbuġa.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Malta/Counties/Birżebbuġa|Birżebbuġa]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Malta/Counties/Birżebbuġa.public|Birżebbuġa.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Malta/Counties/Birżebbuġa.internal|Birżebbuġa.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Malta/Counties/Birżebbuġa.protect|Birżebbuġa.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Malta/Counties/Birżebbuġa.private|Birżebbuġa.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Malta/Counties/Birżebbuġa.personal|Birżebbuġa.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Malta/Counties/Birżebbuġa.secret|Birżebbuġa.secret]] 
 

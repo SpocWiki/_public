@@ -1,5 +1,5 @@
-﻿---
-location: [62.18,29.15]
+---
+location: [62.18,29.15] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,29 +12,30 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::29.15]
-[geo-lat::62.18]
-[name::Savonrauta]
-[State::]
-[Country::[[Finland]]]
-[StateId::]
-[Population::]
-[Unknown::]
+[geo-lon::29.15] 
+[geo-lat::62.18] 
+[name::Savonrauta] 
+State ::  
+Country :: [[Finland]]  
+[StateId::] 
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Savonrauta
-coordinates: [[Savonrauta]]
-markerFile: [[Savonrauta]]
+coordinates: [[Savonrauta]] 
+markerFile: [[Savonrauta]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_public/geo/Continent/Europe/Finland/City/Savonrauta.md|Savonrauta]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Finland/City/Savonrauta.internal|Savonrauta.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Finland/City/Savonrauta.protect|Savonrauta.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Finland/City/Savonrauta.private|Savonrauta.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Finland/City/Savonrauta.personal|Savonrauta.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Finland/City/Savonrauta.secret|Savonrauta.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Finland/City/Savonrauta|Savonrauta]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Finland/City/Savonrauta.public|Savonrauta.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Finland/City/Savonrauta.internal|Savonrauta.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Finland/City/Savonrauta.protect|Savonrauta.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Finland/City/Savonrauta.private|Savonrauta.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Finland/City/Savonrauta.personal|Savonrauta.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Finland/City/Savonrauta.secret|Savonrauta.secret]] 

@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 41.1 , 20.1 ] 
 type: geo-Region
 title: Elbasan
@@ -40,10 +40,11 @@ markerFolder: ./Elbasan/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Albania/Counties/Elbasan.md|Elbasan]] 
-- [[../../../../_internal/geo/Continent/Europe/Albania/Counties/Elbasan.internal|Elbasan.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Albania/Counties/Elbasan.protect|Elbasan.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Albania/Counties/Elbasan.private|Elbasan.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Albania/Counties/Elbasan.personal|Elbasan.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Albania/Counties/Elbasan.secret|Elbasan.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Albania/Counties/Elbasan|Elbasan]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Albania/Counties/Elbasan.public|Elbasan.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Albania/Counties/Elbasan.internal|Elbasan.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Albania/Counties/Elbasan.protect|Elbasan.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Albania/Counties/Elbasan.private|Elbasan.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Albania/Counties/Elbasan.personal|Elbasan.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Albania/Counties/Elbasan.secret|Elbasan.secret]] 
 

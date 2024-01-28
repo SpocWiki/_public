@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 56.52 , 27.32 ] 
 type: geo-Region
 title: Rezekne
@@ -40,10 +40,11 @@ markerFolder: ./Rezekne/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Latvia/Counties/Rezekne.md|Rezekne]] 
-- [[../../../../_internal/geo/Continent/Europe/Latvia/Counties/Rezekne.internal|Rezekne.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Latvia/Counties/Rezekne.protect|Rezekne.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Latvia/Counties/Rezekne.private|Rezekne.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Latvia/Counties/Rezekne.personal|Rezekne.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Latvia/Counties/Rezekne.secret|Rezekne.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Latvia/Counties/Rezekne|Rezekne]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Latvia/Counties/Rezekne.public|Rezekne.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Latvia/Counties/Rezekne.internal|Rezekne.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Latvia/Counties/Rezekne.protect|Rezekne.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Latvia/Counties/Rezekne.private|Rezekne.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Latvia/Counties/Rezekne.personal|Rezekne.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Latvia/Counties/Rezekne.secret|Rezekne.secret]] 
 

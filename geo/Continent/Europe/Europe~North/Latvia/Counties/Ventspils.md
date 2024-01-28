@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 57.3 , 21.9 ] 
 type: geo-Region
 title: Ventspils
@@ -40,10 +40,11 @@ markerFolder: ./Ventspils/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Latvia/Counties/Ventspils.md|Ventspils]] 
-- [[../../../../_internal/geo/Continent/Europe/Latvia/Counties/Ventspils.internal|Ventspils.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Latvia/Counties/Ventspils.protect|Ventspils.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Latvia/Counties/Ventspils.private|Ventspils.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Latvia/Counties/Ventspils.personal|Ventspils.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Latvia/Counties/Ventspils.secret|Ventspils.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Latvia/Counties/Ventspils|Ventspils]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Latvia/Counties/Ventspils.public|Ventspils.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Latvia/Counties/Ventspils.internal|Ventspils.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Latvia/Counties/Ventspils.protect|Ventspils.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Latvia/Counties/Ventspils.private|Ventspils.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Latvia/Counties/Ventspils.personal|Ventspils.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Latvia/Counties/Ventspils.secret|Ventspils.secret]] 
 

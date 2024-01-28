@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 53.4 , -6.3 ] 
 type: geo-Region
 title: Dublin
@@ -40,10 +40,11 @@ markerFolder: ./Dublin/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Ireland/Counties/Dublin.md|Dublin]] 
-- [[../../../../_internal/geo/Continent/Europe/Ireland/Counties/Dublin.internal|Dublin.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Ireland/Counties/Dublin.protect|Dublin.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Ireland/Counties/Dublin.private|Dublin.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Ireland/Counties/Dublin.personal|Dublin.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Ireland/Counties/Dublin.secret|Dublin.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Ireland/Counties/Dublin|Dublin]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Ireland/Counties/Dublin.public|Dublin.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Ireland/Counties/Dublin.internal|Dublin.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Ireland/Counties/Dublin.protect|Dublin.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Ireland/Counties/Dublin.private|Dublin.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Ireland/Counties/Dublin.personal|Dublin.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Ireland/Counties/Dublin.secret|Dublin.secret]] 
 

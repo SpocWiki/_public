@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 36.06 , 14.2 ] 
 type: geo-Region
 title: Għarb
@@ -40,10 +40,11 @@ markerFolder: ./Għarb/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Malta/Counties/Għarb.md|Għarb]] 
-- [[../../../../_internal/geo/Continent/Europe/Malta/Counties/Għarb.internal|Għarb.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Malta/Counties/Għarb.protect|Għarb.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Malta/Counties/Għarb.private|Għarb.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Malta/Counties/Għarb.personal|Għarb.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Malta/Counties/Għarb.secret|Għarb.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Malta/Counties/Għarb|Għarb]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Malta/Counties/Għarb.public|Għarb.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Malta/Counties/Għarb.internal|Għarb.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Malta/Counties/Għarb.protect|Għarb.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Malta/Counties/Għarb.private|Għarb.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Malta/Counties/Għarb.personal|Għarb.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Malta/Counties/Għarb.secret|Għarb.secret]] 
 

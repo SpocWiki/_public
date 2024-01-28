@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 43.6 , 26.6 ] 
 type: geo-Region
 title: Razgrad
@@ -40,10 +40,11 @@ markerFolder: ./Razgrad/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Bulgaria/Counties/Razgrad.md|Razgrad]] 
-- [[../../../../_internal/geo/Continent/Europe/Bulgaria/Counties/Razgrad.internal|Razgrad.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Bulgaria/Counties/Razgrad.protect|Razgrad.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Bulgaria/Counties/Razgrad.private|Razgrad.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Bulgaria/Counties/Razgrad.personal|Razgrad.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Bulgaria/Counties/Razgrad.secret|Razgrad.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Bulgaria/Counties/Razgrad|Razgrad]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Bulgaria/Counties/Razgrad.public|Razgrad.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Bulgaria/Counties/Razgrad.internal|Razgrad.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Bulgaria/Counties/Razgrad.protect|Razgrad.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Bulgaria/Counties/Razgrad.private|Razgrad.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Bulgaria/Counties/Razgrad.personal|Razgrad.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Bulgaria/Counties/Razgrad.secret|Razgrad.secret]] 
 

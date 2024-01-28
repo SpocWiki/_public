@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 54.2 , -8.7 ] 
 type: geo-Region
 title: Sligo
@@ -40,10 +40,11 @@ markerFolder: ./Sligo/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Ireland/Counties/Sligo.md|Sligo]] 
-- [[../../../../_internal/geo/Continent/Europe/Ireland/Counties/Sligo.internal|Sligo.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Ireland/Counties/Sligo.protect|Sligo.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Ireland/Counties/Sligo.private|Sligo.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Ireland/Counties/Sligo.personal|Sligo.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Ireland/Counties/Sligo.secret|Sligo.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Ireland/Counties/Sligo|Sligo]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Ireland/Counties/Sligo.public|Sligo.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Ireland/Counties/Sligo.internal|Sligo.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Ireland/Counties/Sligo.protect|Sligo.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Ireland/Counties/Sligo.private|Sligo.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Ireland/Counties/Sligo.personal|Sligo.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Ireland/Counties/Sligo.secret|Sligo.secret]] 
 

@@ -1,5 +1,5 @@
 ---
-location: [47.5,42.97]
+location: [47.5,42.97] 
 type: State
 tags:
 - geo/State
@@ -10,13 +10,13 @@ isDeleted: false
 confidential: public
 
 ---
-[name::Dagestan~Republic]
-[name-abbr::]
-[Country::[[Russia]]]
-[Capital::[[Makhachkala]]]
-[geo-lon::42.97]
-[geo-lat::47.5]
-[Population::]
+[name::Dagestan~Republic] 
+[name-abbr::] 
+Country :: [[Russia]]  
+Capital :: [[Makhachkala]]  
+[geo-lon::42.97] 
+[geo-lat::47.5] 
+[Population::] 
 
 
 
@@ -31,9 +31,9 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
--[[State~Dagestan~Republic|State~Dagestan~Republic]]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Russia/State/State~Dagestan~Republic.internal|State~Dagestan~Republic.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/State/State~Dagestan~Republic.protect|State~Dagestan~Republic.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/State/State~Dagestan~Republic.private|State~Dagestan~Republic.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/State/State~Dagestan~Republic.personal|State~Dagestan~Republic.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/State/State~Dagestan~Republic.secret|State~Dagestan~Republic.secret]] 
+- [[State~Dagestan~Republic|State~Dagestan~Republic]]  
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Russia/State/State~Dagestan~Republic.internal|State~Dagestan~Republic.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Russia/State/State~Dagestan~Republic.protect|State~Dagestan~Republic.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Russia/State/State~Dagestan~Republic.private|State~Dagestan~Republic.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Russia/State/State~Dagestan~Republic.personal|State~Dagestan~Republic.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Russia/State/State~Dagestan~Republic.secret|State~Dagestan~Republic.secret]] 

@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 47.19 , 9.55 ] 
 type: geo-Region
 title: Planken
@@ -40,10 +40,11 @@ markerFolder: ./Planken/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Liechtenstein/Counties/Planken.md|Planken]] 
-- [[../../../../_internal/geo/Continent/Europe/Liechtenstein/Counties/Planken.internal|Planken.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Liechtenstein/Counties/Planken.protect|Planken.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Liechtenstein/Counties/Planken.private|Planken.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Liechtenstein/Counties/Planken.personal|Planken.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Liechtenstein/Counties/Planken.secret|Planken.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~West/Liechtenstein/Counties/Planken|Planken]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~West/Liechtenstein/Counties/Planken.public|Planken.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~West/Liechtenstein/Counties/Planken.internal|Planken.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~West/Liechtenstein/Counties/Planken.protect|Planken.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~West/Liechtenstein/Counties/Planken.private|Planken.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~West/Liechtenstein/Counties/Planken.personal|Planken.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~West/Liechtenstein/Counties/Planken.secret|Planken.secret]] 
 

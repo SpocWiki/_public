@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 38.5 , 37.8 ] 
 type: geo-Region
 title: Malatya
@@ -40,10 +40,11 @@ markerFolder: ./Malatya/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Turkey/Counties/Malatya.md|Malatya]] 
-- [[../../../../_internal/geo/Continent/Europe/Turkey/Counties/Malatya.internal|Malatya.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Turkey/Counties/Malatya.protect|Malatya.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Turkey/Counties/Malatya.private|Malatya.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Turkey/Counties/Malatya.personal|Malatya.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Turkey/Counties/Malatya.secret|Malatya.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Turkey/Counties/Malatya|Malatya]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Turkey/Counties/Malatya.public|Malatya.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Turkey/Counties/Malatya.internal|Malatya.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Turkey/Counties/Malatya.protect|Malatya.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Turkey/Counties/Malatya.private|Malatya.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Turkey/Counties/Malatya.personal|Malatya.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Turkey/Counties/Malatya.secret|Malatya.secret]] 
 

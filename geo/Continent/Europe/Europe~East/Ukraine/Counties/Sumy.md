@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 51.2 , 33.6 ] 
 type: geo-Region
 title: Sumy
@@ -40,10 +40,11 @@ markerFolder: ./Sumy/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Ukraine/Counties/Sumy.md|Sumy]] 
-- [[../../../../_internal/geo/Continent/Europe/Ukraine/Counties/Sumy.internal|Sumy.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Ukraine/Counties/Sumy.protect|Sumy.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Ukraine/Counties/Sumy.private|Sumy.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Ukraine/Counties/Sumy.personal|Sumy.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Ukraine/Counties/Sumy.secret|Sumy.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Ukraine/Counties/Sumy|Sumy]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Ukraine/Counties/Sumy.public|Sumy.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Ukraine/Counties/Sumy.internal|Sumy.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Ukraine/Counties/Sumy.protect|Sumy.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Ukraine/Counties/Sumy.private|Sumy.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Ukraine/Counties/Sumy.personal|Sumy.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Ukraine/Counties/Sumy.secret|Sumy.secret]] 
 

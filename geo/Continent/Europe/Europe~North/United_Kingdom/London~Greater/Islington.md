@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 51.55 , -0.1 ] 
 type: geo-Region
 title: Islington
@@ -47,10 +47,11 @@ markerFolder: ./Islington/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/United_Kingdom/London~Greater/Islington.md|Islington]] 
-- [[../../../../_internal/geo/Continent/Europe/United_Kingdom/London~Greater/Islington.internal|Islington.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/United_Kingdom/London~Greater/Islington.protect|Islington.protect]] 
-- [[../../../../_private/geo/Continent/Europe/United_Kingdom/London~Greater/Islington.private|Islington.private]] 
-- [[../../../../_personal/geo/Continent/Europe/United_Kingdom/London~Greater/Islington.personal|Islington.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/United_Kingdom/London~Greater/Islington.secret|Islington.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/United_Kingdom/London~Greater/Islington|Islington]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/United_Kingdom/London~Greater/Islington.public|Islington.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/United_Kingdom/London~Greater/Islington.internal|Islington.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/United_Kingdom/London~Greater/Islington.protect|Islington.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/United_Kingdom/London~Greater/Islington.private|Islington.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/United_Kingdom/London~Greater/Islington.personal|Islington.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/United_Kingdom/London~Greater/Islington.secret|Islington.secret]] 
 

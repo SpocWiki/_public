@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 37.4 , 44 ] 
 type: geo-Region
 title: Hakkari
@@ -40,10 +40,11 @@ markerFolder: ./Hakkari/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Turkey/Counties/Hakkari.md|Hakkari]] 
-- [[../../../../_internal/geo/Continent/Europe/Turkey/Counties/Hakkari.internal|Hakkari.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Turkey/Counties/Hakkari.protect|Hakkari.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Turkey/Counties/Hakkari.private|Hakkari.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Turkey/Counties/Hakkari.personal|Hakkari.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Turkey/Counties/Hakkari.secret|Hakkari.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Turkey/Counties/Hakkari|Hakkari]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Turkey/Counties/Hakkari.public|Hakkari.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Turkey/Counties/Hakkari.internal|Hakkari.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Turkey/Counties/Hakkari.protect|Hakkari.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Turkey/Counties/Hakkari.private|Hakkari.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Turkey/Counties/Hakkari.personal|Hakkari.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Turkey/Counties/Hakkari.secret|Hakkari.secret]] 
 

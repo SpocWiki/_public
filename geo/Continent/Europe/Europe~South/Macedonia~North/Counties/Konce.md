@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 41.5 , 22.4 ] 
 type: geo-Region
 title: Konce
@@ -40,10 +40,11 @@ markerFolder: ./Konce/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Macedonia~North/Counties/Konce.md|Konce]] 
-- [[../../../../_internal/geo/Continent/Europe/Macedonia~North/Counties/Konce.internal|Konce.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Macedonia~North/Counties/Konce.protect|Konce.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Macedonia~North/Counties/Konce.private|Konce.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Macedonia~North/Counties/Konce.personal|Konce.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Macedonia~North/Counties/Konce.secret|Konce.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Macedonia~North/Counties/Konce|Konce]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Macedonia~North/Counties/Konce.public|Konce.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Macedonia~North/Counties/Konce.internal|Konce.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Macedonia~North/Counties/Konce.protect|Konce.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Macedonia~North/Counties/Konce.private|Konce.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Macedonia~North/Counties/Konce.personal|Konce.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Macedonia~North/Counties/Konce.secret|Konce.secret]] 
 

@@ -1,5 +1,5 @@
-﻿---
-location: [51.13,2.75]
+---
+location: [51.13,2.75] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,29 +12,30 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::2.75]
-[geo-lat::51.13]
-[name::Nieuport]
-[State::]
-[Country::[[Belgium]]]
-[StateId::]
-[Population::]
-[Unknown::]
+[geo-lon::2.75] 
+[geo-lat::51.13] 
+[name::Nieuport] 
+State ::  
+Country :: [[Belgium]]  
+[StateId::] 
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Nieuport
-coordinates: [[Nieuport]]
-markerFile: [[Nieuport]]
+coordinates: [[Nieuport]] 
+markerFile: [[Nieuport]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_public/geo/Continent/Europe/Belgium/City/Nieuport.md|Nieuport]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Belgium/City/Nieuport.internal|Nieuport.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Belgium/City/Nieuport.protect|Nieuport.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Belgium/City/Nieuport.private|Nieuport.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Belgium/City/Nieuport.personal|Nieuport.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Belgium/City/Nieuport.secret|Nieuport.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~West/Belgium/City/Nieuport|Nieuport]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~West/Belgium/City/Nieuport.public|Nieuport.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~West/Belgium/City/Nieuport.internal|Nieuport.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~West/Belgium/City/Nieuport.protect|Nieuport.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~West/Belgium/City/Nieuport.private|Nieuport.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~West/Belgium/City/Nieuport.personal|Nieuport.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~West/Belgium/City/Nieuport.secret|Nieuport.secret]] 

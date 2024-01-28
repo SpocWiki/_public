@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 53.5 , -6.2 ] 
 type: geo-Region
 title: Fingal
@@ -40,10 +40,11 @@ markerFolder: ./Fingal/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Ireland/Counties/Fingal.md|Fingal]] 
-- [[../../../../_internal/geo/Continent/Europe/Ireland/Counties/Fingal.internal|Fingal.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Ireland/Counties/Fingal.protect|Fingal.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Ireland/Counties/Fingal.private|Fingal.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Ireland/Counties/Fingal.personal|Fingal.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Ireland/Counties/Fingal.secret|Fingal.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Ireland/Counties/Fingal|Fingal]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Ireland/Counties/Fingal.public|Fingal.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Ireland/Counties/Fingal.internal|Fingal.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Ireland/Counties/Fingal.protect|Fingal.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Ireland/Counties/Fingal.private|Fingal.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Ireland/Counties/Fingal.personal|Fingal.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Ireland/Counties/Fingal.secret|Fingal.secret]] 
 

@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 56.7 , 25.4 ] 
 type: geo-Region
 title: Kokneses
@@ -40,10 +40,11 @@ markerFolder: ./Kokneses/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Latvia/Counties/Kokneses.md|Kokneses]] 
-- [[../../../../_internal/geo/Continent/Europe/Latvia/Counties/Kokneses.internal|Kokneses.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Latvia/Counties/Kokneses.protect|Kokneses.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Latvia/Counties/Kokneses.private|Kokneses.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Latvia/Counties/Kokneses.personal|Kokneses.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Latvia/Counties/Kokneses.secret|Kokneses.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Latvia/Counties/Kokneses|Kokneses]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Latvia/Counties/Kokneses.public|Kokneses.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Latvia/Counties/Kokneses.internal|Kokneses.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Latvia/Counties/Kokneses.protect|Kokneses.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Latvia/Counties/Kokneses.private|Kokneses.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Latvia/Counties/Kokneses.personal|Kokneses.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Latvia/Counties/Kokneses.secret|Kokneses.secret]] 
 

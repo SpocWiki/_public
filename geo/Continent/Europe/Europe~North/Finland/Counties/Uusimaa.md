@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 60.3 , 24.6 ] 
 type: geo-Region
 title: Uusimaa
@@ -40,10 +40,11 @@ markerFolder: ./Uusimaa/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Finland/Counties/Uusimaa.md|Uusimaa]] 
-- [[../../../../_internal/geo/Continent/Europe/Finland/Counties/Uusimaa.internal|Uusimaa.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Finland/Counties/Uusimaa.protect|Uusimaa.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Finland/Counties/Uusimaa.private|Uusimaa.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Finland/Counties/Uusimaa.personal|Uusimaa.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Finland/Counties/Uusimaa.secret|Uusimaa.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Finland/Counties/Uusimaa|Uusimaa]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Finland/Counties/Uusimaa.public|Uusimaa.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Finland/Counties/Uusimaa.internal|Uusimaa.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Finland/Counties/Uusimaa.protect|Uusimaa.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Finland/Counties/Uusimaa.private|Uusimaa.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Finland/Counties/Uusimaa.personal|Uusimaa.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Finland/Counties/Uusimaa.secret|Uusimaa.secret]] 
 

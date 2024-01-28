@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 60.27 , 19.93 ] 
 type: geo-Region
 title: Finström
@@ -40,10 +40,11 @@ markerFolder: ./Finström/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Åland~Islands/Counties/Finström.md|Finström]] 
-- [[../../../../_internal/geo/Continent/Europe/Åland~Islands/Counties/Finström.internal|Finström.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Åland~Islands/Counties/Finström.protect|Finström.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Åland~Islands/Counties/Finström.private|Finström.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Åland~Islands/Counties/Finström.personal|Finström.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Åland~Islands/Counties/Finström.secret|Finström.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Åland~Islands/Counties/Finström|Finström]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Åland~Islands/Counties/Finström.public|Finström.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Åland~Islands/Counties/Finström.internal|Finström.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Åland~Islands/Counties/Finström.protect|Finström.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Åland~Islands/Counties/Finström.private|Finström.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Åland~Islands/Counties/Finström.personal|Finström.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Åland~Islands/Counties/Finström.secret|Finström.secret]] 
 

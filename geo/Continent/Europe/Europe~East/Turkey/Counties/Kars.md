@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 40.5 , 43.1 ] 
 type: geo-Region
 title: Kars
@@ -40,10 +40,11 @@ markerFolder: ./Kars/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Turkey/Counties/Kars.md|Kars]] 
-- [[../../../../_internal/geo/Continent/Europe/Turkey/Counties/Kars.internal|Kars.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Turkey/Counties/Kars.protect|Kars.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Turkey/Counties/Kars.private|Kars.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Turkey/Counties/Kars.personal|Kars.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Turkey/Counties/Kars.secret|Kars.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Turkey/Counties/Kars|Kars]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Turkey/Counties/Kars.public|Kars.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Turkey/Counties/Kars.internal|Kars.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Turkey/Counties/Kars.protect|Kars.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Turkey/Counties/Kars.private|Kars.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Turkey/Counties/Kars.personal|Kars.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Turkey/Counties/Kars.secret|Kars.secret]] 
 

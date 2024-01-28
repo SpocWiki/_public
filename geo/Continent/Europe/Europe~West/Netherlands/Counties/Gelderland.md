@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 52.1 , 6.1 ] 
 type: geo-Region
 title: Gelderland
@@ -40,10 +40,11 @@ markerFolder: ./Gelderland/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Netherlands/Counties/Gelderland.md|Gelderland]] 
-- [[../../../../_internal/geo/Continent/Europe/Netherlands/Counties/Gelderland.internal|Gelderland.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Netherlands/Counties/Gelderland.protect|Gelderland.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Netherlands/Counties/Gelderland.private|Gelderland.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Netherlands/Counties/Gelderland.personal|Gelderland.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Netherlands/Counties/Gelderland.secret|Gelderland.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~West/Netherlands/Counties/Gelderland|Gelderland]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~West/Netherlands/Counties/Gelderland.public|Gelderland.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~West/Netherlands/Counties/Gelderland.internal|Gelderland.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~West/Netherlands/Counties/Gelderland.protect|Gelderland.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~West/Netherlands/Counties/Gelderland.private|Gelderland.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~West/Netherlands/Counties/Gelderland.personal|Gelderland.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~West/Netherlands/Counties/Gelderland.secret|Gelderland.secret]] 
 

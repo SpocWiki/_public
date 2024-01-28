@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 57 , 27.5 ] 
 type: geo-Region
 title: Balvu
@@ -40,10 +40,11 @@ markerFolder: ./Balvu/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Latvia/Counties/Balvu.md|Balvu]] 
-- [[../../../../_internal/geo/Continent/Europe/Latvia/Counties/Balvu.internal|Balvu.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Latvia/Counties/Balvu.protect|Balvu.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Latvia/Counties/Balvu.private|Balvu.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Latvia/Counties/Balvu.personal|Balvu.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Latvia/Counties/Balvu.secret|Balvu.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Latvia/Counties/Balvu|Balvu]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Latvia/Counties/Balvu.public|Balvu.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Latvia/Counties/Balvu.internal|Balvu.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Latvia/Counties/Balvu.protect|Balvu.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Latvia/Counties/Balvu.private|Balvu.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Latvia/Counties/Balvu.personal|Balvu.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Latvia/Counties/Balvu.secret|Balvu.secret]] 
 

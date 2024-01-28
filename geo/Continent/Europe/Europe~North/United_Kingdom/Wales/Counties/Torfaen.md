@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 51.7 , -3 ] 
 type: geo-Region
 title: Torfaen
@@ -40,10 +40,11 @@ markerFolder: ./Torfaen/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/United_Kingdom/Wales/Counties/Torfaen.md|Torfaen]] 
-- [[../../../../_internal/geo/Continent/Europe/United_Kingdom/Wales/Counties/Torfaen.internal|Torfaen.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/United_Kingdom/Wales/Counties/Torfaen.protect|Torfaen.protect]] 
-- [[../../../../_private/geo/Continent/Europe/United_Kingdom/Wales/Counties/Torfaen.private|Torfaen.private]] 
-- [[../../../../_personal/geo/Continent/Europe/United_Kingdom/Wales/Counties/Torfaen.personal|Torfaen.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/United_Kingdom/Wales/Counties/Torfaen.secret|Torfaen.secret]] 
+- [[../../../../../../../../_Standards/geo/Continent/Europe/Europe~North/United_Kingdom/Wales/Counties/Torfaen|Torfaen]] 
+- [[../../../../../../../../_public/geo/Continent/Europe/Europe~North/United_Kingdom/Wales/Counties/Torfaen.public|Torfaen.public]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/Europe~North/United_Kingdom/Wales/Counties/Torfaen.internal|Torfaen.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/Europe~North/United_Kingdom/Wales/Counties/Torfaen.protect|Torfaen.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/Europe~North/United_Kingdom/Wales/Counties/Torfaen.private|Torfaen.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/Europe~North/United_Kingdom/Wales/Counties/Torfaen.personal|Torfaen.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/Europe~North/United_Kingdom/Wales/Counties/Torfaen.secret|Torfaen.secret]] 
 

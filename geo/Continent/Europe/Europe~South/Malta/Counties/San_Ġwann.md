@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 35.91 , 14.47 ] 
 type: geo-Region
 title: San_Ġwann
@@ -40,10 +40,11 @@ markerFolder: ./San_Ġwann/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Malta/Counties/San_Ġwann.md|San_Ġwann]] 
-- [[../../../../_internal/geo/Continent/Europe/Malta/Counties/San_Ġwann.internal|San_Ġwann.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Malta/Counties/San_Ġwann.protect|San_Ġwann.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Malta/Counties/San_Ġwann.private|San_Ġwann.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Malta/Counties/San_Ġwann.personal|San_Ġwann.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Malta/Counties/San_Ġwann.secret|San_Ġwann.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Malta/Counties/San_Ġwann|San_Ġwann]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Malta/Counties/San_Ġwann.public|San_Ġwann.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Malta/Counties/San_Ġwann.internal|San_Ġwann.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Malta/Counties/San_Ġwann.protect|San_Ġwann.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Malta/Counties/San_Ġwann.private|San_Ġwann.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Malta/Counties/San_Ġwann.personal|San_Ġwann.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Malta/Counties/San_Ġwann.secret|San_Ġwann.secret]] 
 

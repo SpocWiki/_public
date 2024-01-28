@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 42 , 21.2 ] 
 type: geo-Region
 title: Saraj
@@ -40,10 +40,11 @@ markerFolder: ./Saraj/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Macedonia~North/Counties/Saraj.md|Saraj]] 
-- [[../../../../_internal/geo/Continent/Europe/Macedonia~North/Counties/Saraj.internal|Saraj.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Macedonia~North/Counties/Saraj.protect|Saraj.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Macedonia~North/Counties/Saraj.private|Saraj.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Macedonia~North/Counties/Saraj.personal|Saraj.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Macedonia~North/Counties/Saraj.secret|Saraj.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Macedonia~North/Counties/Saraj|Saraj]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Macedonia~North/Counties/Saraj.public|Saraj.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Macedonia~North/Counties/Saraj.internal|Saraj.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Macedonia~North/Counties/Saraj.protect|Saraj.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Macedonia~North/Counties/Saraj.private|Saraj.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Macedonia~North/Counties/Saraj.personal|Saraj.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Macedonia~North/Counties/Saraj.secret|Saraj.secret]] 
 

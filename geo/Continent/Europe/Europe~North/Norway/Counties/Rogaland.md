@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 59.1 , 6.3 ] 
 type: geo-Region
 title: Rogaland
@@ -40,10 +40,11 @@ markerFolder: ./Rogaland/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Norway/Counties/Rogaland.md|Rogaland]] 
-- [[../../../../_internal/geo/Continent/Europe/Norway/Counties/Rogaland.internal|Rogaland.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Norway/Counties/Rogaland.protect|Rogaland.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Norway/Counties/Rogaland.private|Rogaland.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Norway/Counties/Rogaland.personal|Rogaland.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Norway/Counties/Rogaland.secret|Rogaland.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Norway/Counties/Rogaland|Rogaland]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Norway/Counties/Rogaland.public|Rogaland.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Norway/Counties/Rogaland.internal|Rogaland.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Norway/Counties/Rogaland.protect|Rogaland.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Norway/Counties/Rogaland.private|Rogaland.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Norway/Counties/Rogaland.personal|Rogaland.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Norway/Counties/Rogaland.secret|Rogaland.secret]] 
 

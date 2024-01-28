@@ -1,5 +1,5 @@
-﻿---
-location: [51.17,4.08]
+---
+location: [51.17,4.08] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,29 +12,30 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::4.08]
-[geo-lat::51.17]
-[name::St.Nicolas]
-[State::]
-[Country::[[Belgium]]]
-[StateId::]
-[Population::]
-[Unknown::]
+[geo-lon::4.08] 
+[geo-lat::51.17] 
+[name::St.Nicolas] 
+State ::  
+Country :: [[Belgium]]  
+[StateId::] 
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: St.Nicolas
-coordinates: [[St.Nicolas]]
-markerFile: [[St.Nicolas]]
+coordinates: [[St.Nicolas]] 
+markerFile: [[St.Nicolas]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_public/geo/Continent/Europe/Belgium/City/St.Nicolas.md|St.Nicolas]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Belgium/City/St.Nicolas.internal|St.Nicolas.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Belgium/City/St.Nicolas.protect|St.Nicolas.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Belgium/City/St.Nicolas.private|St.Nicolas.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Belgium/City/St.Nicolas.personal|St.Nicolas.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Belgium/City/St.Nicolas.secret|St.Nicolas.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~West/Belgium/City/St.Nicolas|St.Nicolas]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~West/Belgium/City/St.Nicolas.public|St.Nicolas.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~West/Belgium/City/St.Nicolas.internal|St.Nicolas.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~West/Belgium/City/St.Nicolas.protect|St.Nicolas.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~West/Belgium/City/St.Nicolas.private|St.Nicolas.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~West/Belgium/City/St.Nicolas.personal|St.Nicolas.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~West/Belgium/City/St.Nicolas.secret|St.Nicolas.secret]] 

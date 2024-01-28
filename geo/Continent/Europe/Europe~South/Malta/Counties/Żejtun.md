@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 35.85 , 14.53 ] 
 type: geo-Region
 title: Żejtun
@@ -40,10 +40,11 @@ markerFolder: ./Żejtun/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Malta/Counties/Żejtun.md|Żejtun]] 
-- [[../../../../_internal/geo/Continent/Europe/Malta/Counties/Żejtun.internal|Żejtun.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Malta/Counties/Żejtun.protect|Żejtun.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Malta/Counties/Żejtun.private|Żejtun.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Malta/Counties/Żejtun.personal|Żejtun.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Malta/Counties/Żejtun.secret|Żejtun.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Malta/Counties/Żejtun|Żejtun]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Malta/Counties/Żejtun.public|Żejtun.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Malta/Counties/Żejtun.internal|Żejtun.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Malta/Counties/Żejtun.protect|Żejtun.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Malta/Counties/Żejtun.private|Żejtun.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Malta/Counties/Żejtun.personal|Żejtun.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Malta/Counties/Żejtun.secret|Żejtun.secret]] 
 

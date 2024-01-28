@@ -1,5 +1,5 @@
 ---
-location: [44.58,40.17]
+location: [44.58,40.17] 
 type: State
 tags:
 - geo/State
@@ -10,13 +10,13 @@ isDeleted: false
 confidential: public
 
 ---
-[name::Adygea~Republic]
-[name-abbr::]
-[Country::[[Russia]]]
-[Capital::[[Maykop]]]
-[geo-lon::40.17]
-[geo-lat::44.58]
-[Population::]
+[name::Adygea~Republic] 
+[name-abbr::] 
+Country :: [[Russia]]  
+Capital :: [[Maykop]]  
+[geo-lon::40.17] 
+[geo-lat::44.58] 
+[Population::] 
 
 
 
@@ -31,9 +31,9 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
--[[State~Adygea~Republic|State~Adygea~Republic]]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Russia/State/State~Adygea~Republic.internal|State~Adygea~Republic.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/State/State~Adygea~Republic.protect|State~Adygea~Republic.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/State/State~Adygea~Republic.private|State~Adygea~Republic.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/State/State~Adygea~Republic.personal|State~Adygea~Republic.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/State/State~Adygea~Republic.secret|State~Adygea~Republic.secret]] 
+- [[State~Adygea~Republic|State~Adygea~Republic]]  
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Russia/State/State~Adygea~Republic.internal|State~Adygea~Republic.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Russia/State/State~Adygea~Republic.protect|State~Adygea~Republic.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Russia/State/State~Adygea~Republic.private|State~Adygea~Republic.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Russia/State/State~Adygea~Republic.personal|State~Adygea~Republic.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Russia/State/State~Adygea~Republic.secret|State~Adygea~Republic.secret]] 

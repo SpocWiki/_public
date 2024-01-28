@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 36.03 , 14.26 ] 
 type: geo-Region
 title: Xewkija
@@ -40,10 +40,11 @@ markerFolder: ./Xewkija/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Malta/Counties/Xewkija.md|Xewkija]] 
-- [[../../../../_internal/geo/Continent/Europe/Malta/Counties/Xewkija.internal|Xewkija.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Malta/Counties/Xewkija.protect|Xewkija.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Malta/Counties/Xewkija.private|Xewkija.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Malta/Counties/Xewkija.personal|Xewkija.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Malta/Counties/Xewkija.secret|Xewkija.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Malta/Counties/Xewkija|Xewkija]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Malta/Counties/Xewkija.public|Xewkija.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Malta/Counties/Xewkija.internal|Xewkija.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Malta/Counties/Xewkija.protect|Xewkija.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Malta/Counties/Xewkija.private|Xewkija.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Malta/Counties/Xewkija.personal|Xewkija.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Malta/Counties/Xewkija.secret|Xewkija.secret]] 
 

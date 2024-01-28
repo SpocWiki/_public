@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 43 , 25.2 ] 
 type: geo-Region
 title: Gabrovo
@@ -40,10 +40,11 @@ markerFolder: ./Gabrovo/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Bulgaria/Counties/Gabrovo.md|Gabrovo]] 
-- [[../../../../_internal/geo/Continent/Europe/Bulgaria/Counties/Gabrovo.internal|Gabrovo.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Bulgaria/Counties/Gabrovo.protect|Gabrovo.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Bulgaria/Counties/Gabrovo.private|Gabrovo.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Bulgaria/Counties/Gabrovo.personal|Gabrovo.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Bulgaria/Counties/Gabrovo.secret|Gabrovo.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Bulgaria/Counties/Gabrovo|Gabrovo]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Bulgaria/Counties/Gabrovo.public|Gabrovo.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Bulgaria/Counties/Gabrovo.internal|Gabrovo.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Bulgaria/Counties/Gabrovo.protect|Gabrovo.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Bulgaria/Counties/Gabrovo.private|Gabrovo.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Bulgaria/Counties/Gabrovo.personal|Gabrovo.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Bulgaria/Counties/Gabrovo.secret|Gabrovo.secret]] 
 

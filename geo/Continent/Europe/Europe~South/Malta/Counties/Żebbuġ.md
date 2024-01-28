@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 35.87 , 14.44 ] 
 type: geo-Region
 title: Żebbuġ
@@ -40,10 +40,11 @@ markerFolder: ./Żebbuġ/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Malta/Counties/Żebbuġ.md|Żebbuġ]] 
-- [[../../../../_internal/geo/Continent/Europe/Malta/Counties/Żebbuġ.internal|Żebbuġ.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Malta/Counties/Żebbuġ.protect|Żebbuġ.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Malta/Counties/Żebbuġ.private|Żebbuġ.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Malta/Counties/Żebbuġ.personal|Żebbuġ.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Malta/Counties/Żebbuġ.secret|Żebbuġ.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Malta/Counties/Żebbuġ|Żebbuġ]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Malta/Counties/Żebbuġ.public|Żebbuġ.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Malta/Counties/Żebbuġ.internal|Żebbuġ.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Malta/Counties/Żebbuġ.protect|Żebbuġ.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Malta/Counties/Żebbuġ.private|Żebbuġ.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Malta/Counties/Żebbuġ.personal|Żebbuġ.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Malta/Counties/Żebbuġ.secret|Żebbuġ.secret]] 
 

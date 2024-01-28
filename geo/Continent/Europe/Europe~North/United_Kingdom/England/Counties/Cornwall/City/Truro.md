@@ -1,5 +1,5 @@
-﻿---
-location: [50.23,-5.07]
+---
+location: [50.23,-5.07] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,29 +12,30 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::-5.07]
-[geo-lat::50.23]
-[name::Truro]
-[State::]
-[Country::[[United_Kingdom]]]
-[StateId::]
-[Population::]
-[Unknown::]
+[geo-lon::-5.07] 
+[geo-lat::50.23] 
+[name::Truro] 
+State ::  
+Country :: [[United_Kingdom]]  
+[StateId::] 
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Truro
-coordinates: [[Truro]]
-markerFile: [[Truro]]
+coordinates: [[Truro]] 
+markerFile: [[Truro]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Truro.md|Truro]] 
-- [[../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Truro.internal|Truro.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Truro.protect|Truro.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Truro.private|Truro.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Truro.personal|Truro.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Truro.secret|Truro.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/United_Kingdom/City/Truro|Truro]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/United_Kingdom/City/Truro.public|Truro.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/United_Kingdom/City/Truro.internal|Truro.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/United_Kingdom/City/Truro.protect|Truro.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/United_Kingdom/City/Truro.private|Truro.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/United_Kingdom/City/Truro.personal|Truro.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/United_Kingdom/City/Truro.secret|Truro.secret]] 

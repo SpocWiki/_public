@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 42.8 , 19.9 ] 
 type: geo-Region
 title: Berane
@@ -40,10 +40,11 @@ markerFolder: ./Berane/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Montenegro/Counties/Berane.md|Berane]] 
-- [[../../../../_internal/geo/Continent/Europe/Montenegro/Counties/Berane.internal|Berane.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Montenegro/Counties/Berane.protect|Berane.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Montenegro/Counties/Berane.private|Berane.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Montenegro/Counties/Berane.personal|Berane.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Montenegro/Counties/Berane.secret|Berane.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Montenegro/Counties/Berane|Berane]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Montenegro/Counties/Berane.public|Berane.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Montenegro/Counties/Berane.internal|Berane.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Montenegro/Counties/Berane.protect|Berane.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Montenegro/Counties/Berane.private|Berane.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Montenegro/Counties/Berane.personal|Berane.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Montenegro/Counties/Berane.secret|Berane.secret]] 
 

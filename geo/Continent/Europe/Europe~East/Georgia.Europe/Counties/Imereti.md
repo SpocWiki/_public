@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 42.2 , 42.9 ] 
 type: geo-Region
 title: Imereti
@@ -40,10 +40,11 @@ markerFolder: ./Imereti/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Georgia~Europe/Counties/Imereti.md|Imereti]] 
-- [[../../../../_internal/geo/Continent/Europe/Georgia~Europe/Counties/Imereti.internal|Imereti.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Georgia~Europe/Counties/Imereti.protect|Imereti.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Georgia~Europe/Counties/Imereti.private|Imereti.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Georgia~Europe/Counties/Imereti.personal|Imereti.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Georgia~Europe/Counties/Imereti.secret|Imereti.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Georgia~Europe/Counties/Imereti|Imereti]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Georgia~Europe/Counties/Imereti.public|Imereti.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Georgia~Europe/Counties/Imereti.internal|Imereti.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Georgia~Europe/Counties/Imereti.protect|Imereti.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Georgia~Europe/Counties/Imereti.private|Imereti.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Georgia~Europe/Counties/Imereti.personal|Imereti.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Georgia~Europe/Counties/Imereti.secret|Imereti.secret]] 
 

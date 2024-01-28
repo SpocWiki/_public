@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 61.3 , 28.3 ] 
 type: geo-Region
 title: South_Karelia
@@ -40,10 +40,11 @@ markerFolder: ./South_Karelia/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Finland/Counties/South_Karelia.md|South_Karelia]] 
-- [[../../../../_internal/geo/Continent/Europe/Finland/Counties/South_Karelia.internal|South_Karelia.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Finland/Counties/South_Karelia.protect|South_Karelia.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Finland/Counties/South_Karelia.private|South_Karelia.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Finland/Counties/South_Karelia.personal|South_Karelia.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Finland/Counties/South_Karelia.secret|South_Karelia.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Finland/Counties/South_Karelia|South_Karelia]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Finland/Counties/South_Karelia.public|South_Karelia.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Finland/Counties/South_Karelia.internal|South_Karelia.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Finland/Counties/South_Karelia.protect|South_Karelia.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Finland/Counties/South_Karelia.private|South_Karelia.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Finland/Counties/South_Karelia.personal|South_Karelia.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Finland/Counties/South_Karelia.secret|South_Karelia.secret]] 
 

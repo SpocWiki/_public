@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 40.8 , 39.8 ] 
 type: geo-Region
 title: Trabzon
@@ -40,10 +40,11 @@ markerFolder: ./Trabzon/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Turkey/Counties/Trabzon.md|Trabzon]] 
-- [[../../../../_internal/geo/Continent/Europe/Turkey/Counties/Trabzon.internal|Trabzon.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Turkey/Counties/Trabzon.protect|Trabzon.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Turkey/Counties/Trabzon.private|Trabzon.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Turkey/Counties/Trabzon.personal|Trabzon.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Turkey/Counties/Trabzon.secret|Trabzon.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Turkey/Counties/Trabzon|Trabzon]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Turkey/Counties/Trabzon.public|Trabzon.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Turkey/Counties/Trabzon.internal|Trabzon.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Turkey/Counties/Trabzon.protect|Trabzon.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Turkey/Counties/Trabzon.private|Trabzon.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Turkey/Counties/Trabzon.personal|Trabzon.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Turkey/Counties/Trabzon.secret|Trabzon.secret]] 
 

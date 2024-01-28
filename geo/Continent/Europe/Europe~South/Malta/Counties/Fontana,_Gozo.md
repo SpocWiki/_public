@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 36.033 , 14.24 ] 
 type: geo-Region
 title: Fontana,_Gozo
@@ -40,10 +40,11 @@ markerFolder: ./Fontana,_Gozo/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Malta/Counties/Fontana,_Gozo.md|Fontana,_Gozo]] 
-- [[../../../../_internal/geo/Continent/Europe/Malta/Counties/Fontana,_Gozo.internal|Fontana,_Gozo.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Malta/Counties/Fontana,_Gozo.protect|Fontana,_Gozo.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Malta/Counties/Fontana,_Gozo.private|Fontana,_Gozo.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Malta/Counties/Fontana,_Gozo.personal|Fontana,_Gozo.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Malta/Counties/Fontana,_Gozo.secret|Fontana,_Gozo.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Malta/Counties/Fontana,_Gozo|Fontana,_Gozo]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Malta/Counties/Fontana,_Gozo.public|Fontana,_Gozo.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Malta/Counties/Fontana,_Gozo.internal|Fontana,_Gozo.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Malta/Counties/Fontana,_Gozo.protect|Fontana,_Gozo.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Malta/Counties/Fontana,_Gozo.private|Fontana,_Gozo.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Malta/Counties/Fontana,_Gozo.personal|Fontana,_Gozo.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Malta/Counties/Fontana,_Gozo.secret|Fontana,_Gozo.secret]] 
 

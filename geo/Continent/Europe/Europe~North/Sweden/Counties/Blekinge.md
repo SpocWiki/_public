@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 56.3 , 15.2 ] 
 type: geo-Region
 title: Blekinge
@@ -40,10 +40,11 @@ markerFolder: ./Blekinge/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Sweden/Counties/Blekinge.md|Blekinge]] 
-- [[../../../../_internal/geo/Continent/Europe/Sweden/Counties/Blekinge.internal|Blekinge.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Sweden/Counties/Blekinge.protect|Blekinge.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Sweden/Counties/Blekinge.private|Blekinge.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Sweden/Counties/Blekinge.personal|Blekinge.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Sweden/Counties/Blekinge.secret|Blekinge.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Sweden/Counties/Blekinge|Blekinge]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Sweden/Counties/Blekinge.public|Blekinge.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Sweden/Counties/Blekinge.internal|Blekinge.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Sweden/Counties/Blekinge.protect|Blekinge.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Sweden/Counties/Blekinge.private|Blekinge.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Sweden/Counties/Blekinge.personal|Blekinge.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Sweden/Counties/Blekinge.secret|Blekinge.secret]] 
 

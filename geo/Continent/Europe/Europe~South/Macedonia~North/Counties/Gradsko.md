@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 41.6 , 21.9 ] 
 type: geo-Region
 title: Gradsko
@@ -40,10 +40,11 @@ markerFolder: ./Gradsko/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Macedonia~North/Counties/Gradsko.md|Gradsko]] 
-- [[../../../../_internal/geo/Continent/Europe/Macedonia~North/Counties/Gradsko.internal|Gradsko.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Macedonia~North/Counties/Gradsko.protect|Gradsko.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Macedonia~North/Counties/Gradsko.private|Gradsko.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Macedonia~North/Counties/Gradsko.personal|Gradsko.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Macedonia~North/Counties/Gradsko.secret|Gradsko.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Macedonia~North/Counties/Gradsko|Gradsko]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Macedonia~North/Counties/Gradsko.public|Gradsko.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Macedonia~North/Counties/Gradsko.internal|Gradsko.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Macedonia~North/Counties/Gradsko.protect|Gradsko.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Macedonia~North/Counties/Gradsko.private|Gradsko.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Macedonia~North/Counties/Gradsko.personal|Gradsko.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Macedonia~North/Counties/Gradsko.secret|Gradsko.secret]] 
 

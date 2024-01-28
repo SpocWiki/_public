@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 38.8 , 39.9 ] 
 type: geo-Region
 title: Elazig
@@ -40,10 +40,11 @@ markerFolder: ./Elazig/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Turkey/Counties/Elazig.md|Elazig]] 
-- [[../../../../_internal/geo/Continent/Europe/Turkey/Counties/Elazig.internal|Elazig.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Turkey/Counties/Elazig.protect|Elazig.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Turkey/Counties/Elazig.private|Elazig.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Turkey/Counties/Elazig.personal|Elazig.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Turkey/Counties/Elazig.secret|Elazig.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Turkey/Counties/Elazig|Elazig]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Turkey/Counties/Elazig.public|Elazig.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Turkey/Counties/Elazig.internal|Elazig.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Turkey/Counties/Elazig.protect|Elazig.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Turkey/Counties/Elazig.private|Elazig.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Turkey/Counties/Elazig.personal|Elazig.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Turkey/Counties/Elazig.secret|Elazig.secret]] 
 

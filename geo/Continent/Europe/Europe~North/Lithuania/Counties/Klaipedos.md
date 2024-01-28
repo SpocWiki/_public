@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 55.7 , 21.4 ] 
 type: geo-Region
 title: Klaipedos
@@ -40,10 +40,11 @@ markerFolder: ./Klaipedos/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Lithuania/Counties/Klaipedos.md|Klaipedos]] 
-- [[../../../../_internal/geo/Continent/Europe/Lithuania/Counties/Klaipedos.internal|Klaipedos.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Lithuania/Counties/Klaipedos.protect|Klaipedos.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Lithuania/Counties/Klaipedos.private|Klaipedos.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Lithuania/Counties/Klaipedos.personal|Klaipedos.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Lithuania/Counties/Klaipedos.secret|Klaipedos.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Lithuania/Counties/Klaipedos|Klaipedos]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Lithuania/Counties/Klaipedos.public|Klaipedos.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Lithuania/Counties/Klaipedos.internal|Klaipedos.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Lithuania/Counties/Klaipedos.protect|Klaipedos.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Lithuania/Counties/Klaipedos.private|Klaipedos.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Lithuania/Counties/Klaipedos.personal|Klaipedos.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Lithuania/Counties/Klaipedos.secret|Klaipedos.secret]] 
 

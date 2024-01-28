@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 40.6 , 20.7 ] 
 type: geo-Region
 title: Korçë
@@ -40,10 +40,11 @@ markerFolder: ./Korçë/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Albania/Counties/Korçë.md|Korçë]] 
-- [[../../../../_internal/geo/Continent/Europe/Albania/Counties/Korçë.internal|Korçë.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Albania/Counties/Korçë.protect|Korçë.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Albania/Counties/Korçë.private|Korçë.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Albania/Counties/Korçë.personal|Korçë.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Albania/Counties/Korçë.secret|Korçë.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Albania/Counties/Korçë|Korçë]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Albania/Counties/Korçë.public|Korçë.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Albania/Counties/Korçë.internal|Korçë.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Albania/Counties/Korçë.protect|Korçë.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Albania/Counties/Korçë.private|Korçë.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Albania/Counties/Korçë.personal|Korçë.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Albania/Counties/Korçë.secret|Korçë.secret]] 
 

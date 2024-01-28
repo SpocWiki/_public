@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 53.9 , 24.9 ] 
 type: geo-Region
 title: Grodno
@@ -40,10 +40,11 @@ markerFolder: ./Grodno/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Belarus/Counties/Grodno.md|Grodno]] 
-- [[../../../../_internal/geo/Continent/Europe/Belarus/Counties/Grodno.internal|Grodno.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Belarus/Counties/Grodno.protect|Grodno.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Belarus/Counties/Grodno.private|Grodno.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Belarus/Counties/Grodno.personal|Grodno.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Belarus/Counties/Grodno.secret|Grodno.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Belarus/Counties/Grodno|Grodno]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Belarus/Counties/Grodno.public|Grodno.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Belarus/Counties/Grodno.internal|Grodno.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Belarus/Counties/Grodno.protect|Grodno.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Belarus/Counties/Grodno.private|Grodno.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Belarus/Counties/Grodno.personal|Grodno.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Belarus/Counties/Grodno.secret|Grodno.secret]] 
 

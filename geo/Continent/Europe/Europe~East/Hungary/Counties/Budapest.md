@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 47.5 , 19.1 ] 
 type: geo-Region
 title: Budapest
@@ -40,10 +40,11 @@ markerFolder: ./Budapest/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Hungary/Counties/Budapest.md|Budapest]] 
-- [[../../../../_internal/geo/Continent/Europe/Hungary/Counties/Budapest.internal|Budapest.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Hungary/Counties/Budapest.protect|Budapest.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Hungary/Counties/Budapest.private|Budapest.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Hungary/Counties/Budapest.personal|Budapest.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Hungary/Counties/Budapest.secret|Budapest.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Hungary/Counties/Budapest|Budapest]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Hungary/Counties/Budapest.public|Budapest.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Hungary/Counties/Budapest.internal|Budapest.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Hungary/Counties/Budapest.protect|Budapest.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Hungary/Counties/Budapest.private|Budapest.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Hungary/Counties/Budapest.personal|Budapest.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Hungary/Counties/Budapest.secret|Budapest.secret]] 
 

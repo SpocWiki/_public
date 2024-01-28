@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 42.6 , 26.2 ] 
 type: geo-Region
 title: Sliven
@@ -40,10 +40,11 @@ markerFolder: ./Sliven/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Bulgaria/Counties/Sliven.md|Sliven]] 
-- [[../../../../_internal/geo/Continent/Europe/Bulgaria/Counties/Sliven.internal|Sliven.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Bulgaria/Counties/Sliven.protect|Sliven.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Bulgaria/Counties/Sliven.private|Sliven.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Bulgaria/Counties/Sliven.personal|Sliven.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Bulgaria/Counties/Sliven.secret|Sliven.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Bulgaria/Counties/Sliven|Sliven]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Bulgaria/Counties/Sliven.public|Sliven.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Bulgaria/Counties/Sliven.internal|Sliven.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Bulgaria/Counties/Sliven.protect|Sliven.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Bulgaria/Counties/Sliven.private|Sliven.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Bulgaria/Counties/Sliven.personal|Sliven.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Bulgaria/Counties/Sliven.secret|Sliven.secret]] 
 

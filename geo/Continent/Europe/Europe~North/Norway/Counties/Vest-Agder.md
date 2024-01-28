@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 58.6 , 7.1 ] 
 type: geo-Region
 title: Vest-Agder
@@ -40,10 +40,11 @@ markerFolder: ./Vest-Agder/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Norway/Counties/Vest-Agder.md|Vest-Agder]] 
-- [[../../../../_internal/geo/Continent/Europe/Norway/Counties/Vest-Agder.internal|Vest-Agder.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Norway/Counties/Vest-Agder.protect|Vest-Agder.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Norway/Counties/Vest-Agder.private|Vest-Agder.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Norway/Counties/Vest-Agder.personal|Vest-Agder.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Norway/Counties/Vest-Agder.secret|Vest-Agder.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Norway/Counties/Vest-Agder|Vest-Agder]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Norway/Counties/Vest-Agder.public|Vest-Agder.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Norway/Counties/Vest-Agder.internal|Vest-Agder.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Norway/Counties/Vest-Agder.protect|Vest-Agder.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Norway/Counties/Vest-Agder.private|Vest-Agder.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Norway/Counties/Vest-Agder.personal|Vest-Agder.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Norway/Counties/Vest-Agder.secret|Vest-Agder.secret]] 
 

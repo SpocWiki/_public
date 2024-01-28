@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 53.5 , -1.5 ] 
 type: geo-Region
 title: Barnsley
@@ -40,10 +40,11 @@ markerFolder: ./Barnsley/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/United_Kingdom/England/Counties/Barnsley.md|Barnsley]] 
-- [[../../../../_internal/geo/Continent/Europe/United_Kingdom/England/Counties/Barnsley.internal|Barnsley.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/United_Kingdom/England/Counties/Barnsley.protect|Barnsley.protect]] 
-- [[../../../../_private/geo/Continent/Europe/United_Kingdom/England/Counties/Barnsley.private|Barnsley.private]] 
-- [[../../../../_personal/geo/Continent/Europe/United_Kingdom/England/Counties/Barnsley.personal|Barnsley.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/United_Kingdom/England/Counties/Barnsley.secret|Barnsley.secret]] 
+- [[../../../../../../../../_Standards/geo/Continent/Europe/Europe~North/United_Kingdom/England/Counties/Barnsley|Barnsley]] 
+- [[../../../../../../../../_public/geo/Continent/Europe/Europe~North/United_Kingdom/England/Counties/Barnsley.public|Barnsley.public]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/Europe~North/United_Kingdom/England/Counties/Barnsley.internal|Barnsley.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/Europe~North/United_Kingdom/England/Counties/Barnsley.protect|Barnsley.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/Europe~North/United_Kingdom/England/Counties/Barnsley.private|Barnsley.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/Europe~North/United_Kingdom/England/Counties/Barnsley.personal|Barnsley.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/Europe~North/United_Kingdom/England/Counties/Barnsley.secret|Barnsley.secret]] 
 

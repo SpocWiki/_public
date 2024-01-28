@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 58.9 , 22.7 ] 
 type: geo-Region
 title: Hiiu
@@ -40,10 +40,11 @@ markerFolder: ./Hiiu/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Estonia/Counties/Hiiu.md|Hiiu]] 
-- [[../../../../_internal/geo/Continent/Europe/Estonia/Counties/Hiiu.internal|Hiiu.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Estonia/Counties/Hiiu.protect|Hiiu.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Estonia/Counties/Hiiu.private|Hiiu.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Estonia/Counties/Hiiu.personal|Hiiu.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Estonia/Counties/Hiiu.secret|Hiiu.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Estonia/Counties/Hiiu|Hiiu]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Estonia/Counties/Hiiu.public|Hiiu.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Estonia/Counties/Hiiu.internal|Hiiu.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Estonia/Counties/Hiiu.protect|Hiiu.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Estonia/Counties/Hiiu.private|Hiiu.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Estonia/Counties/Hiiu.personal|Hiiu.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Estonia/Counties/Hiiu.secret|Hiiu.secret]] 
 

@@ -1,5 +1,5 @@
 ---
-location: [43.33,45.7]
+location: [43.33,45.7] 
 type: State
 tags:
 - geo/State
@@ -10,13 +10,13 @@ isDeleted: false
 confidential: public
 
 ---
-[name::Chechen~Republic]
-[name-abbr::]
-[Country::[[Russia]]]
-[Capital::[[Grozny]]]
-[geo-lon::45.7]
-[geo-lat::43.33]
-[Population::]
+[name::Chechen~Republic] 
+[name-abbr::] 
+Country :: [[Russia]]  
+Capital :: [[Grozny]]  
+[geo-lon::45.7] 
+[geo-lat::43.33] 
+[Population::] 
 
 
 
@@ -32,8 +32,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[State~Chechen~Republic|State~Chechen~Republic]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Russia/State/State~Chechen~Republic.internal|State~Chechen~Republic.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/State/State~Chechen~Republic.protect|State~Chechen~Republic.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/State/State~Chechen~Republic.private|State~Chechen~Republic.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/State/State~Chechen~Republic.personal|State~Chechen~Republic.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/State/State~Chechen~Republic.secret|State~Chechen~Republic.secret]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Russia/State/State~Chechen~Republic.internal|State~Chechen~Republic.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Russia/State/State~Chechen~Republic.protect|State~Chechen~Republic.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Russia/State/State~Chechen~Republic.private|State~Chechen~Republic.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Russia/State/State~Chechen~Republic.personal|State~Chechen~Republic.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Russia/State/State~Chechen~Republic.secret|State~Chechen~Republic.secret]] 

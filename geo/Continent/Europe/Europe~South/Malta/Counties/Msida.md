@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 35.893 , 14.482 ] 
 type: geo-Region
 title: Msida
@@ -40,10 +40,11 @@ markerFolder: ./Msida/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Malta/Counties/Msida.md|Msida]] 
-- [[../../../../_internal/geo/Continent/Europe/Malta/Counties/Msida.internal|Msida.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Malta/Counties/Msida.protect|Msida.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Malta/Counties/Msida.private|Msida.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Malta/Counties/Msida.personal|Msida.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Malta/Counties/Msida.secret|Msida.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Malta/Counties/Msida|Msida]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Malta/Counties/Msida.public|Msida.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Malta/Counties/Msida.internal|Msida.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Malta/Counties/Msida.protect|Msida.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Malta/Counties/Msida.private|Msida.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Malta/Counties/Msida.personal|Msida.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Malta/Counties/Msida.secret|Msida.secret]] 
 

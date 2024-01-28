@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 41.6 , 32.5 ] 
 type: geo-Region
 title: Bartın
@@ -40,10 +40,11 @@ markerFolder: ./Bartın/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Turkey/Counties/Bartın.md|Bartın]] 
-- [[../../../../_internal/geo/Continent/Europe/Turkey/Counties/Bartın.internal|Bartın.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Turkey/Counties/Bartın.protect|Bartın.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Turkey/Counties/Bartın.private|Bartın.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Turkey/Counties/Bartın.personal|Bartın.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Turkey/Counties/Bartın.secret|Bartın.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Turkey/Counties/Bartın|Bartın]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Turkey/Counties/Bartın.public|Bartın.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Turkey/Counties/Bartın.internal|Bartın.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Turkey/Counties/Bartın.protect|Bartın.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Turkey/Counties/Bartın.private|Bartın.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Turkey/Counties/Bartın.personal|Bartın.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Turkey/Counties/Bartın.secret|Bartın.secret]] 
 

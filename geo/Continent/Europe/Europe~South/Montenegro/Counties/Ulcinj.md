@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 42 , 19.3 ] 
 type: geo-Region
 title: Ulcinj
@@ -40,10 +40,11 @@ markerFolder: ./Ulcinj/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Montenegro/Counties/Ulcinj.md|Ulcinj]] 
-- [[../../../../_internal/geo/Continent/Europe/Montenegro/Counties/Ulcinj.internal|Ulcinj.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Montenegro/Counties/Ulcinj.protect|Ulcinj.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Montenegro/Counties/Ulcinj.private|Ulcinj.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Montenegro/Counties/Ulcinj.personal|Ulcinj.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Montenegro/Counties/Ulcinj.secret|Ulcinj.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Montenegro/Counties/Ulcinj|Ulcinj]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Montenegro/Counties/Ulcinj.public|Ulcinj.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Montenegro/Counties/Ulcinj.internal|Ulcinj.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Montenegro/Counties/Ulcinj.protect|Ulcinj.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Montenegro/Counties/Ulcinj.private|Ulcinj.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Montenegro/Counties/Ulcinj.personal|Ulcinj.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Montenegro/Counties/Ulcinj.secret|Ulcinj.secret]] 
 

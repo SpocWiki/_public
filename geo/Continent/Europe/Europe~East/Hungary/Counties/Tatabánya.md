@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 47.6 , 18.4 ] 
 type: geo-Region
 title: Tatabánya
@@ -40,10 +40,11 @@ markerFolder: ./Tatabánya/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Hungary/Counties/Tatabánya.md|Tatabánya]] 
-- [[../../../../_internal/geo/Continent/Europe/Hungary/Counties/Tatabánya.internal|Tatabánya.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Hungary/Counties/Tatabánya.protect|Tatabánya.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Hungary/Counties/Tatabánya.private|Tatabánya.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Hungary/Counties/Tatabánya.personal|Tatabánya.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Hungary/Counties/Tatabánya.secret|Tatabánya.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Hungary/Counties/Tatabánya|Tatabánya]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Hungary/Counties/Tatabánya.public|Tatabánya.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Hungary/Counties/Tatabánya.internal|Tatabánya.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Hungary/Counties/Tatabánya.protect|Tatabánya.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Hungary/Counties/Tatabánya.private|Tatabánya.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Hungary/Counties/Tatabánya.personal|Tatabánya.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Hungary/Counties/Tatabánya.secret|Tatabánya.secret]] 
 

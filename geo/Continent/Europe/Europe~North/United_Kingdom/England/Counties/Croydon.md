@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 51.4 , -0.1 ] 
 type: geo-Region
 title: Croydon
@@ -40,10 +40,11 @@ markerFolder: ./Croydon/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/United_Kingdom/England/Counties/Croydon.md|Croydon]] 
-- [[../../../../_internal/geo/Continent/Europe/United_Kingdom/England/Counties/Croydon.internal|Croydon.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/United_Kingdom/England/Counties/Croydon.protect|Croydon.protect]] 
-- [[../../../../_private/geo/Continent/Europe/United_Kingdom/England/Counties/Croydon.private|Croydon.private]] 
-- [[../../../../_personal/geo/Continent/Europe/United_Kingdom/England/Counties/Croydon.personal|Croydon.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/United_Kingdom/England/Counties/Croydon.secret|Croydon.secret]] 
+- [[../../../../../../../../_Standards/geo/Continent/Europe/Europe~North/United_Kingdom/England/Counties/Croydon|Croydon]] 
+- [[../../../../../../../../_public/geo/Continent/Europe/Europe~North/United_Kingdom/England/Counties/Croydon.public|Croydon.public]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/Europe~North/United_Kingdom/England/Counties/Croydon.internal|Croydon.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/Europe~North/United_Kingdom/England/Counties/Croydon.protect|Croydon.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/Europe~North/United_Kingdom/England/Counties/Croydon.private|Croydon.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/Europe~North/United_Kingdom/England/Counties/Croydon.personal|Croydon.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/Europe~North/United_Kingdom/England/Counties/Croydon.secret|Croydon.secret]] 
 

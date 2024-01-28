@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 35.84 , 14.48 ] 
 type: geo-Region
 title: Kirkop
@@ -40,10 +40,11 @@ markerFolder: ./Kirkop/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Malta/Counties/Kirkop.md|Kirkop]] 
-- [[../../../../_internal/geo/Continent/Europe/Malta/Counties/Kirkop.internal|Kirkop.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Malta/Counties/Kirkop.protect|Kirkop.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Malta/Counties/Kirkop.private|Kirkop.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Malta/Counties/Kirkop.personal|Kirkop.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Malta/Counties/Kirkop.secret|Kirkop.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Malta/Counties/Kirkop|Kirkop]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Malta/Counties/Kirkop.public|Kirkop.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Malta/Counties/Kirkop.internal|Kirkop.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Malta/Counties/Kirkop.protect|Kirkop.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Malta/Counties/Kirkop.private|Kirkop.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Malta/Counties/Kirkop.personal|Kirkop.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Malta/Counties/Kirkop.secret|Kirkop.secret]] 
 

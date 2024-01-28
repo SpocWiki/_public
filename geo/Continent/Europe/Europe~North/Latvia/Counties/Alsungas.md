@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 57 , 21.6 ] 
 type: geo-Region
 title: Alsungas
@@ -40,10 +40,11 @@ markerFolder: ./Alsungas/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Latvia/Counties/Alsungas.md|Alsungas]] 
-- [[../../../../_internal/geo/Continent/Europe/Latvia/Counties/Alsungas.internal|Alsungas.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Latvia/Counties/Alsungas.protect|Alsungas.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Latvia/Counties/Alsungas.private|Alsungas.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Latvia/Counties/Alsungas.personal|Alsungas.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Latvia/Counties/Alsungas.secret|Alsungas.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Latvia/Counties/Alsungas|Alsungas]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Latvia/Counties/Alsungas.public|Alsungas.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Latvia/Counties/Alsungas.internal|Alsungas.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Latvia/Counties/Alsungas.protect|Alsungas.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Latvia/Counties/Alsungas.private|Alsungas.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Latvia/Counties/Alsungas.personal|Alsungas.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Latvia/Counties/Alsungas.secret|Alsungas.secret]] 
 

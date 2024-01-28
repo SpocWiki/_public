@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 60.1 , 11.3 ] 
 type: geo-Region
 title: Akershus
@@ -40,10 +40,11 @@ markerFolder: ./Akershus/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Norway/Counties/Akershus.md|Akershus]] 
-- [[../../../../_internal/geo/Continent/Europe/Norway/Counties/Akershus.internal|Akershus.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Norway/Counties/Akershus.protect|Akershus.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Norway/Counties/Akershus.private|Akershus.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Norway/Counties/Akershus.personal|Akershus.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Norway/Counties/Akershus.secret|Akershus.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Norway/Counties/Akershus|Akershus]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Norway/Counties/Akershus.public|Akershus.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Norway/Counties/Akershus.internal|Akershus.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Norway/Counties/Akershus.protect|Akershus.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Norway/Counties/Akershus.private|Akershus.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Norway/Counties/Akershus.personal|Akershus.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Norway/Counties/Akershus.secret|Akershus.secret]] 
 

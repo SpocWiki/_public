@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 42.9 , 21.1 ] 
 type: geo-Region
 title: Podujevo
@@ -40,10 +40,11 @@ markerFolder: ./Podujevo/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Kosovo/Counties/Podujevo.md|Podujevo]] 
-- [[../../../../_internal/geo/Continent/Europe/Kosovo/Counties/Podujevo.internal|Podujevo.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Kosovo/Counties/Podujevo.protect|Podujevo.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Kosovo/Counties/Podujevo.private|Podujevo.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Kosovo/Counties/Podujevo.personal|Podujevo.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Kosovo/Counties/Podujevo.secret|Podujevo.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Kosovo/Counties/Podujevo|Podujevo]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Kosovo/Counties/Podujevo.public|Podujevo.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Kosovo/Counties/Podujevo.internal|Podujevo.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Kosovo/Counties/Podujevo.protect|Podujevo.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Kosovo/Counties/Podujevo.private|Podujevo.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Kosovo/Counties/Podujevo.personal|Podujevo.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Kosovo/Counties/Podujevo.secret|Podujevo.secret]] 
 

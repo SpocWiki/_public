@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 42.6 , 21.6 ] 
 type: geo-Region
 title: Kosovska_Kamenica
@@ -40,10 +40,11 @@ markerFolder: ./Kosovska_Kamenica/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Kosovo/Counties/Kosovska_Kamenica.md|Kosovska_Kamenica]] 
-- [[../../../../_internal/geo/Continent/Europe/Kosovo/Counties/Kosovska_Kamenica.internal|Kosovska_Kamenica.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Kosovo/Counties/Kosovska_Kamenica.protect|Kosovska_Kamenica.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Kosovo/Counties/Kosovska_Kamenica.private|Kosovska_Kamenica.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Kosovo/Counties/Kosovska_Kamenica.personal|Kosovska_Kamenica.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Kosovo/Counties/Kosovska_Kamenica.secret|Kosovska_Kamenica.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Kosovo/Counties/Kosovska_Kamenica|Kosovska_Kamenica]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Kosovo/Counties/Kosovska_Kamenica.public|Kosovska_Kamenica.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Kosovo/Counties/Kosovska_Kamenica.internal|Kosovska_Kamenica.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Kosovo/Counties/Kosovska_Kamenica.protect|Kosovska_Kamenica.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Kosovo/Counties/Kosovska_Kamenica.private|Kosovska_Kamenica.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Kosovo/Counties/Kosovska_Kamenica.personal|Kosovska_Kamenica.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Kosovo/Counties/Kosovska_Kamenica.secret|Kosovska_Kamenica.secret]] 
 

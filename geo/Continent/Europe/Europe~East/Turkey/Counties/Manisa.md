@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 38.8 , 28.1 ] 
 type: geo-Region
 title: Manisa
@@ -40,10 +40,11 @@ markerFolder: ./Manisa/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Turkey/Counties/Manisa.md|Manisa]] 
-- [[../../../../_internal/geo/Continent/Europe/Turkey/Counties/Manisa.internal|Manisa.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Turkey/Counties/Manisa.protect|Manisa.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Turkey/Counties/Manisa.private|Manisa.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Turkey/Counties/Manisa.personal|Manisa.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Turkey/Counties/Manisa.secret|Manisa.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Turkey/Counties/Manisa|Manisa]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Turkey/Counties/Manisa.public|Manisa.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Turkey/Counties/Manisa.internal|Manisa.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Turkey/Counties/Manisa.protect|Manisa.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Turkey/Counties/Manisa.private|Manisa.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Turkey/Counties/Manisa.personal|Manisa.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Turkey/Counties/Manisa.secret|Manisa.secret]] 
 

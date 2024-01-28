@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 44.6 , 33.6 ] 
 type: geo-Region
 title: Sevastopol
@@ -40,10 +40,11 @@ markerFolder: ./Sevastopol/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Ukraine/Counties/Sevastopol.md|Sevastopol]] 
-- [[../../../../_internal/geo/Continent/Europe/Ukraine/Counties/Sevastopol.internal|Sevastopol.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Ukraine/Counties/Sevastopol.protect|Sevastopol.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Ukraine/Counties/Sevastopol.private|Sevastopol.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Ukraine/Counties/Sevastopol.personal|Sevastopol.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Ukraine/Counties/Sevastopol.secret|Sevastopol.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Ukraine/Counties/Sevastopol|Sevastopol]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Ukraine/Counties/Sevastopol.public|Sevastopol.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Ukraine/Counties/Sevastopol.internal|Sevastopol.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Ukraine/Counties/Sevastopol.protect|Sevastopol.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Ukraine/Counties/Sevastopol.private|Sevastopol.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Ukraine/Counties/Sevastopol.personal|Sevastopol.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Ukraine/Counties/Sevastopol.secret|Sevastopol.secret]] 
 

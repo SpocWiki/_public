@@ -1,5 +1,5 @@
-﻿---
-location: [52.58,-2.12]
+---
+location: [52.58,-2.12] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,29 +12,30 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::-2.12]
-[geo-lat::52.58]
-[name::Wolverhampton]
-[State::]
-[Country::[[United_Kingdom]]]
-[StateId::]
-[Population::]
-[Unknown::]
+[geo-lon::-2.12] 
+[geo-lat::52.58] 
+[name::Wolverhampton] 
+State ::  
+Country :: [[United_Kingdom]]  
+[StateId::] 
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Wolverhampton
-coordinates: [[Wolverhampton]]
-markerFile: [[Wolverhampton]]
+coordinates: [[Wolverhampton]] 
+markerFile: [[Wolverhampton]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Wolverhampton.md|Wolverhampton]] 
-- [[../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Wolverhampton.internal|Wolverhampton.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Wolverhampton.protect|Wolverhampton.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Wolverhampton.private|Wolverhampton.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Wolverhampton.personal|Wolverhampton.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Wolverhampton.secret|Wolverhampton.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/United_Kingdom/City/Wolverhampton|Wolverhampton]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/United_Kingdom/City/Wolverhampton.public|Wolverhampton.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/United_Kingdom/City/Wolverhampton.internal|Wolverhampton.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/United_Kingdom/City/Wolverhampton.protect|Wolverhampton.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/United_Kingdom/City/Wolverhampton.private|Wolverhampton.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/United_Kingdom/City/Wolverhampton.personal|Wolverhampton.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/United_Kingdom/City/Wolverhampton.secret|Wolverhampton.secret]] 

@@ -1,5 +1,5 @@
-﻿---
-location: [50.92,15.35]
+---
+location: [50.92,15.35] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,29 +12,30 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::15.35]
-[geo-lat::50.92]
-[name::Flinsberg]
-[State::]
-[Country::[[Poland]]]
-[StateId::]
-[Population::]
-[Unknown::]
+[geo-lon::15.35] 
+[geo-lat::50.92] 
+[name::Flinsberg] 
+State ::  
+Country :: [[Poland]]  
+[StateId::] 
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Flinsberg
-coordinates: [[Flinsberg]]
-markerFile: [[Flinsberg]]
+coordinates: [[Flinsberg]] 
+markerFile: [[Flinsberg]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_public/geo/Continent/Europe/Poland/City/Flinsberg.md|Flinsberg]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Flinsberg.internal|Flinsberg.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Flinsberg.protect|Flinsberg.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Flinsberg.private|Flinsberg.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Flinsberg.personal|Flinsberg.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Flinsberg.secret|Flinsberg.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Poland/City/Flinsberg|Flinsberg]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Poland/City/Flinsberg.public|Flinsberg.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Poland/City/Flinsberg.internal|Flinsberg.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Poland/City/Flinsberg.protect|Flinsberg.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Poland/City/Flinsberg.private|Flinsberg.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Poland/City/Flinsberg.personal|Flinsberg.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Poland/City/Flinsberg.secret|Flinsberg.secret]] 

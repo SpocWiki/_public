@@ -1,5 +1,5 @@
-﻿---
-location: [52.36,4.9]
+---
+location: [52.36,4.9] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,29 +12,30 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::4.9]
-[geo-lat::52.36]
-[name::Amsterdam]
-[State::]
-[Country::[[Netherlands]]]
-[StateId::]
-[Population::]
-[Unknown::]
+[geo-lon::4.9] 
+[geo-lat::52.36] 
+[name::Amsterdam] 
+State ::  
+Country :: [[Netherlands]]  
+[StateId::] 
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Amsterdam
-coordinates: [[Amsterdam]]
-markerFile: [[Amsterdam]]
+coordinates: [[Amsterdam]] 
+markerFile: [[Amsterdam]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_public/geo/Continent/Europe/Netherlands/City/Amsterdam.md|Amsterdam]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Netherlands/City/Amsterdam.internal|Amsterdam.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Netherlands/City/Amsterdam.protect|Amsterdam.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Netherlands/City/Amsterdam.private|Amsterdam.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Netherlands/City/Amsterdam.personal|Amsterdam.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Netherlands/City/Amsterdam.secret|Amsterdam.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~West/Netherlands/City/Amsterdam|Amsterdam]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~West/Netherlands/City/Amsterdam.public|Amsterdam.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~West/Netherlands/City/Amsterdam.internal|Amsterdam.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~West/Netherlands/City/Amsterdam.protect|Amsterdam.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~West/Netherlands/City/Amsterdam.private|Amsterdam.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~West/Netherlands/City/Amsterdam.personal|Amsterdam.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~West/Netherlands/City/Amsterdam.secret|Amsterdam.secret]] 

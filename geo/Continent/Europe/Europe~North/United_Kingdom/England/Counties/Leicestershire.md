@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 52.7 , -1.2 ] 
 type: geo-Region
 title: Leicestershire
@@ -40,10 +40,11 @@ markerFolder: ./Leicestershire/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/United_Kingdom/England/Counties/Leicestershire.md|Leicestershire]] 
-- [[../../../../_internal/geo/Continent/Europe/United_Kingdom/England/Counties/Leicestershire.internal|Leicestershire.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/United_Kingdom/England/Counties/Leicestershire.protect|Leicestershire.protect]] 
-- [[../../../../_private/geo/Continent/Europe/United_Kingdom/England/Counties/Leicestershire.private|Leicestershire.private]] 
-- [[../../../../_personal/geo/Continent/Europe/United_Kingdom/England/Counties/Leicestershire.personal|Leicestershire.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/United_Kingdom/England/Counties/Leicestershire.secret|Leicestershire.secret]] 
+- [[../../../../../../../../_Standards/geo/Continent/Europe/Europe~North/United_Kingdom/England/Counties/Leicestershire|Leicestershire]] 
+- [[../../../../../../../../_public/geo/Continent/Europe/Europe~North/United_Kingdom/England/Counties/Leicestershire.public|Leicestershire.public]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/Europe~North/United_Kingdom/England/Counties/Leicestershire.internal|Leicestershire.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/Europe~North/United_Kingdom/England/Counties/Leicestershire.protect|Leicestershire.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/Europe~North/United_Kingdom/England/Counties/Leicestershire.private|Leicestershire.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/Europe~North/United_Kingdom/England/Counties/Leicestershire.personal|Leicestershire.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/Europe~North/United_Kingdom/England/Counties/Leicestershire.secret|Leicestershire.secret]] 
 

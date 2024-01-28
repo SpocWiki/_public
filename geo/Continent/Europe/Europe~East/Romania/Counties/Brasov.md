@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 45.8 , 25.2 ] 
 type: geo-Region
 title: Brasov
@@ -40,10 +40,11 @@ markerFolder: ./Brasov/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Romania/Counties/Brasov.md|Brasov]] 
-- [[../../../../_internal/geo/Continent/Europe/Romania/Counties/Brasov.internal|Brasov.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Romania/Counties/Brasov.protect|Brasov.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Romania/Counties/Brasov.private|Brasov.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Romania/Counties/Brasov.personal|Brasov.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Romania/Counties/Brasov.secret|Brasov.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Romania/Counties/Brasov|Brasov]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Romania/Counties/Brasov.public|Brasov.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Romania/Counties/Brasov.internal|Brasov.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Romania/Counties/Brasov.protect|Brasov.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Romania/Counties/Brasov.private|Brasov.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Romania/Counties/Brasov.personal|Brasov.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Romania/Counties/Brasov.secret|Brasov.secret]] 
 

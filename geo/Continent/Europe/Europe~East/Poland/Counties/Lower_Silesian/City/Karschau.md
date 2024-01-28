@@ -1,5 +1,5 @@
-﻿---
-location: [50.77,17]
+---
+location: [50.77,17] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,29 +12,30 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::17]
-[geo-lat::50.77]
-[name::Karschau]
-[State::]
-[Country::[[Portugal]]]
-[StateId::]
-[Population::]
-[Unknown::]
+[geo-lon::17] 
+[geo-lat::50.77] 
+[name::Karschau] 
+State ::  
+Country :: [[Portugal]]  
+[StateId::] 
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Karschau
-coordinates: [[Karschau]]
-markerFile: [[Karschau]]
+coordinates: [[Karschau]] 
+markerFile: [[Karschau]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_public/geo/Continent/Europe/Portugal/City/Karschau.md|Karschau]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Portugal/City/Karschau.internal|Karschau.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Portugal/City/Karschau.protect|Karschau.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Portugal/City/Karschau.private|Karschau.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Portugal/City/Karschau.personal|Karschau.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Portugal/City/Karschau.secret|Karschau.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Portugal/City/Karschau|Karschau]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Portugal/City/Karschau.public|Karschau.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Portugal/City/Karschau.internal|Karschau.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Portugal/City/Karschau.protect|Karschau.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Portugal/City/Karschau.private|Karschau.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Portugal/City/Karschau.personal|Karschau.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Portugal/City/Karschau.secret|Karschau.secret]] 

@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 43.2 , 26.4 ] 
 type: geo-Region
 title: Targovishte
@@ -40,10 +40,11 @@ markerFolder: ./Targovishte/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Bulgaria/Counties/Targovishte.md|Targovishte]] 
-- [[../../../../_internal/geo/Continent/Europe/Bulgaria/Counties/Targovishte.internal|Targovishte.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Bulgaria/Counties/Targovishte.protect|Targovishte.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Bulgaria/Counties/Targovishte.private|Targovishte.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Bulgaria/Counties/Targovishte.personal|Targovishte.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Bulgaria/Counties/Targovishte.secret|Targovishte.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Bulgaria/Counties/Targovishte|Targovishte]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Bulgaria/Counties/Targovishte.public|Targovishte.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Bulgaria/Counties/Targovishte.internal|Targovishte.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Bulgaria/Counties/Targovishte.protect|Targovishte.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Bulgaria/Counties/Targovishte.private|Targovishte.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Bulgaria/Counties/Targovishte.personal|Targovishte.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Bulgaria/Counties/Targovishte.secret|Targovishte.secret]] 
 

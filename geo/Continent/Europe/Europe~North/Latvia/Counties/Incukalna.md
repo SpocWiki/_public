@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 57.1 , 24.6 ] 
 type: geo-Region
 title: Incukalna
@@ -40,10 +40,11 @@ markerFolder: ./Incukalna/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Latvia/Counties/Incukalna.md|Incukalna]] 
-- [[../../../../_internal/geo/Continent/Europe/Latvia/Counties/Incukalna.internal|Incukalna.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Latvia/Counties/Incukalna.protect|Incukalna.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Latvia/Counties/Incukalna.private|Incukalna.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Latvia/Counties/Incukalna.personal|Incukalna.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Latvia/Counties/Incukalna.secret|Incukalna.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Latvia/Counties/Incukalna|Incukalna]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Latvia/Counties/Incukalna.public|Incukalna.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Latvia/Counties/Incukalna.internal|Incukalna.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Latvia/Counties/Incukalna.protect|Incukalna.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Latvia/Counties/Incukalna.private|Incukalna.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Latvia/Counties/Incukalna.personal|Incukalna.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Latvia/Counties/Incukalna.secret|Incukalna.secret]] 
 

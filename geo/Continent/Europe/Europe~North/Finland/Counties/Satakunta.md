@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 61.6 , 22.1 ] 
 type: geo-Region
 title: Satakunta
@@ -40,10 +40,11 @@ markerFolder: ./Satakunta/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Finland/Counties/Satakunta.md|Satakunta]] 
-- [[../../../../_internal/geo/Continent/Europe/Finland/Counties/Satakunta.internal|Satakunta.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Finland/Counties/Satakunta.protect|Satakunta.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Finland/Counties/Satakunta.private|Satakunta.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Finland/Counties/Satakunta.personal|Satakunta.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Finland/Counties/Satakunta.secret|Satakunta.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Finland/Counties/Satakunta|Satakunta]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Finland/Counties/Satakunta.public|Satakunta.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Finland/Counties/Satakunta.internal|Satakunta.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Finland/Counties/Satakunta.protect|Satakunta.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Finland/Counties/Satakunta.private|Satakunta.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Finland/Counties/Satakunta.personal|Satakunta.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Finland/Counties/Satakunta.secret|Satakunta.secret]] 
 

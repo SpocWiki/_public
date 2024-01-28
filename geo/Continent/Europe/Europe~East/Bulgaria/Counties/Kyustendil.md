@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 42.3 , 22.9 ] 
 type: geo-Region
 title: Kyustendil
@@ -40,10 +40,11 @@ markerFolder: ./Kyustendil/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Bulgaria/Counties/Kyustendil.md|Kyustendil]] 
-- [[../../../../_internal/geo/Continent/Europe/Bulgaria/Counties/Kyustendil.internal|Kyustendil.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Bulgaria/Counties/Kyustendil.protect|Kyustendil.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Bulgaria/Counties/Kyustendil.private|Kyustendil.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Bulgaria/Counties/Kyustendil.personal|Kyustendil.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Bulgaria/Counties/Kyustendil.secret|Kyustendil.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Bulgaria/Counties/Kyustendil|Kyustendil]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Bulgaria/Counties/Kyustendil.public|Kyustendil.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Bulgaria/Counties/Kyustendil.internal|Kyustendil.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Bulgaria/Counties/Kyustendil.protect|Kyustendil.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Bulgaria/Counties/Kyustendil.private|Kyustendil.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Bulgaria/Counties/Kyustendil.personal|Kyustendil.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Bulgaria/Counties/Kyustendil.secret|Kyustendil.secret]] 
 

@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 60.9 , 26.7 ] 
 type: geo-Region
 title: Kymenlaakso
@@ -40,10 +40,11 @@ markerFolder: ./Kymenlaakso/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Finland/Counties/Kymenlaakso.md|Kymenlaakso]] 
-- [[../../../../_internal/geo/Continent/Europe/Finland/Counties/Kymenlaakso.internal|Kymenlaakso.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Finland/Counties/Kymenlaakso.protect|Kymenlaakso.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Finland/Counties/Kymenlaakso.private|Kymenlaakso.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Finland/Counties/Kymenlaakso.personal|Kymenlaakso.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Finland/Counties/Kymenlaakso.secret|Kymenlaakso.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Finland/Counties/Kymenlaakso|Kymenlaakso]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Finland/Counties/Kymenlaakso.public|Kymenlaakso.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Finland/Counties/Kymenlaakso.internal|Kymenlaakso.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Finland/Counties/Kymenlaakso.protect|Kymenlaakso.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Finland/Counties/Kymenlaakso.private|Kymenlaakso.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Finland/Counties/Kymenlaakso.personal|Kymenlaakso.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Finland/Counties/Kymenlaakso.secret|Kymenlaakso.secret]] 
 

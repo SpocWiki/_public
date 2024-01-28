@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 51.546 , -0.104 ] 
 type: geo-Region
 title: Line~Victoria
@@ -51,17 +51,17 @@ markerFolder: ./Station/
 
 # Stations: 
 1.	[[Sub~Walthamstow_Central]] 
-2.[[Sub~Blackhorse_Road]]] 
+2.[[Sub~Blackhorse_Road]]  
 6.	[[Sub~Tottenham_Hale]] 
-7.[[Sub~Seven_Sisters]]]] 
+7.[[Sub~Seven_Sisters]]  
 11.	[[Sub~Finsbury_Park]] 
 15.	[[Sub~Highbury_&_Islington]] 
-19.[[Sub~King's_Cross_St._Pancras]]] 
+19.[[Sub~King's_Cross_St._Pancras]]  
 23.	[[Sub~Euston]] 
 27.	[[Sub~Warren_Street]] 
 31.	[[Sub~Oxford_Circus]] 
 35.	[[Sub~Green_Park]] 
-39.[[Sub~Victoria]]] 
+39.[[Sub~Victoria]]  
 43.	[[Sub~Pimlico]] 
 44.	[[Sub~Vauxhall]] 
 48.	[[Sub~Stockwell]] 
@@ -75,9 +75,10 @@ FROM outgoing([[Line~Victoria]])
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_public/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Line~Victoria.md|Line~Victoria]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Line~Victoria.internal|Line~Victoria.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Line~Victoria.protect|Line~Victoria.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Line~Victoria.private|Line~Victoria.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Line~Victoria.personal|Line~Victoria.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Line~Victoria.secret|Line~Victoria.secret]] 
+- [[../../../../../../../../_Standards/geo/Continent/Europe/Europe~North/United_Kingdom/London~Greater/Underground/Line~Victoria|Line~Victoria]] 
+- [[../../../../../../../../_public/geo/Continent/Europe/Europe~North/United_Kingdom/London~Greater/Underground/Line~Victoria.public|Line~Victoria.public]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/Europe~North/United_Kingdom/London~Greater/Underground/Line~Victoria.internal|Line~Victoria.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/Europe~North/United_Kingdom/London~Greater/Underground/Line~Victoria.protect|Line~Victoria.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/Europe~North/United_Kingdom/London~Greater/Underground/Line~Victoria.private|Line~Victoria.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/Europe~North/United_Kingdom/London~Greater/Underground/Line~Victoria.personal|Line~Victoria.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/Europe~North/United_Kingdom/London~Greater/Underground/Line~Victoria.secret|Line~Victoria.secret]] 

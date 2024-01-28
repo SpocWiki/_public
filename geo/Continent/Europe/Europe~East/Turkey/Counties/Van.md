@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 38.6 , 43.6 ] 
 type: geo-Region
 title: Van
@@ -40,10 +40,11 @@ markerFolder: ./Van/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Turkey/Counties/Van.md|Van]] 
-- [[../../../../_internal/geo/Continent/Europe/Turkey/Counties/Van.internal|Van.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Turkey/Counties/Van.protect|Van.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Turkey/Counties/Van.private|Van.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Turkey/Counties/Van.personal|Van.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Turkey/Counties/Van.secret|Van.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Turkey/Counties/Van|Van]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Turkey/Counties/Van.public|Van.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Turkey/Counties/Van.internal|Van.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Turkey/Counties/Van.protect|Van.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Turkey/Counties/Van.private|Van.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Turkey/Counties/Van.personal|Van.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Turkey/Counties/Van.secret|Van.secret]] 
 

@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 55.9 , -4 ] 
 type: geo-Region
 title: Lanarkshire~North
@@ -40,10 +40,11 @@ markerFolder: ./Lanarkshire~North/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/United_Kingdom/Scotland/Counties/Lanarkshire~North.md|Lanarkshire~North]] 
-- [[../../../../_internal/geo/Continent/Europe/United_Kingdom/Scotland/Counties/Lanarkshire~North.internal|Lanarkshire~North.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/United_Kingdom/Scotland/Counties/Lanarkshire~North.protect|Lanarkshire~North.protect]] 
-- [[../../../../_private/geo/Continent/Europe/United_Kingdom/Scotland/Counties/Lanarkshire~North.private|Lanarkshire~North.private]] 
-- [[../../../../_personal/geo/Continent/Europe/United_Kingdom/Scotland/Counties/Lanarkshire~North.personal|Lanarkshire~North.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/United_Kingdom/Scotland/Counties/Lanarkshire~North.secret|Lanarkshire~North.secret]] 
+- [[../../../../../../../../_Standards/geo/Continent/Europe/Europe~North/United_Kingdom/Scotland/Counties/Lanarkshire~North|Lanarkshire~North]] 
+- [[../../../../../../../../_public/geo/Continent/Europe/Europe~North/United_Kingdom/Scotland/Counties/Lanarkshire~North.public|Lanarkshire~North.public]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/Europe~North/United_Kingdom/Scotland/Counties/Lanarkshire~North.internal|Lanarkshire~North.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/Europe~North/United_Kingdom/Scotland/Counties/Lanarkshire~North.protect|Lanarkshire~North.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/Europe~North/United_Kingdom/Scotland/Counties/Lanarkshire~North.private|Lanarkshire~North.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/Europe~North/United_Kingdom/Scotland/Counties/Lanarkshire~North.personal|Lanarkshire~North.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/Europe~North/United_Kingdom/Scotland/Counties/Lanarkshire~North.secret|Lanarkshire~North.secret]] 
 

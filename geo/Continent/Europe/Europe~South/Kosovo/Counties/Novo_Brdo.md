@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 42.6 , 21.4 ] 
 type: geo-Region
 title: Novo_Brdo
@@ -40,10 +40,11 @@ markerFolder: ./Novo_Brdo/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Kosovo/Counties/Novo_Brdo.md|Novo_Brdo]] 
-- [[../../../../_internal/geo/Continent/Europe/Kosovo/Counties/Novo_Brdo.internal|Novo_Brdo.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Kosovo/Counties/Novo_Brdo.protect|Novo_Brdo.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Kosovo/Counties/Novo_Brdo.private|Novo_Brdo.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Kosovo/Counties/Novo_Brdo.personal|Novo_Brdo.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Kosovo/Counties/Novo_Brdo.secret|Novo_Brdo.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Kosovo/Counties/Novo_Brdo|Novo_Brdo]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Kosovo/Counties/Novo_Brdo.public|Novo_Brdo.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Kosovo/Counties/Novo_Brdo.internal|Novo_Brdo.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Kosovo/Counties/Novo_Brdo.protect|Novo_Brdo.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Kosovo/Counties/Novo_Brdo.private|Novo_Brdo.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Kosovo/Counties/Novo_Brdo.personal|Novo_Brdo.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Kosovo/Counties/Novo_Brdo.secret|Novo_Brdo.secret]] 
 

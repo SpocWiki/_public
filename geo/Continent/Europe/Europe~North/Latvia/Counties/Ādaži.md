@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 57.1 , 24.4 ] 
 type: geo-Region
 title: Ādaži
@@ -40,10 +40,11 @@ markerFolder: ./Ādaži/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Latvia/Counties/Ādaži.md|Ādaži]] 
-- [[../../../../_internal/geo/Continent/Europe/Latvia/Counties/Ādaži.internal|Ādaži.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Latvia/Counties/Ādaži.protect|Ādaži.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Latvia/Counties/Ādaži.private|Ādaži.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Latvia/Counties/Ādaži.personal|Ādaži.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Latvia/Counties/Ādaži.secret|Ādaži.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Latvia/Counties/Ādaži|Ādaži]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Latvia/Counties/Ādaži.public|Ādaži.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Latvia/Counties/Ādaži.internal|Ādaži.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Latvia/Counties/Ādaži.protect|Ādaži.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Latvia/Counties/Ādaži.private|Ādaži.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Latvia/Counties/Ādaži.personal|Ādaži.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Latvia/Counties/Ādaži.secret|Ādaži.secret]] 
 

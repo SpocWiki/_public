@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 57.7 , 25.3 ] 
 type: geo-Region
 title: Burtnieku
@@ -40,10 +40,11 @@ markerFolder: ./Burtnieku/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Latvia/Counties/Burtnieku.md|Burtnieku]] 
-- [[../../../../_internal/geo/Continent/Europe/Latvia/Counties/Burtnieku.internal|Burtnieku.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Latvia/Counties/Burtnieku.protect|Burtnieku.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Latvia/Counties/Burtnieku.private|Burtnieku.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Latvia/Counties/Burtnieku.personal|Burtnieku.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Latvia/Counties/Burtnieku.secret|Burtnieku.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Latvia/Counties/Burtnieku|Burtnieku]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Latvia/Counties/Burtnieku.public|Burtnieku.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Latvia/Counties/Burtnieku.internal|Burtnieku.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Latvia/Counties/Burtnieku.protect|Burtnieku.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Latvia/Counties/Burtnieku.private|Burtnieku.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Latvia/Counties/Burtnieku.personal|Burtnieku.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Latvia/Counties/Burtnieku.secret|Burtnieku.secret]] 
 

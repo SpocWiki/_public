@@ -1,5 +1,5 @@
-﻿---
-location: [61.48,21.35]
+---
+location: [61.48,21.35] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,29 +12,30 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::21.35]
-[geo-lat::61.48]
-[name::Saeppi]
-[State::]
-[Country::[[Finland]]]
-[StateId::]
-[Population::]
-[Unknown::]
+[geo-lon::21.35] 
+[geo-lat::61.48] 
+[name::Saeppi] 
+State ::  
+Country :: [[Finland]]  
+[StateId::] 
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Saeppi
-coordinates: [[Saeppi]]
-markerFile: [[Saeppi]]
+coordinates: [[Saeppi]] 
+markerFile: [[Saeppi]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_public/geo/Continent/Europe/Finland/City/Saeppi.md|Saeppi]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Finland/City/Saeppi.internal|Saeppi.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Finland/City/Saeppi.protect|Saeppi.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Finland/City/Saeppi.private|Saeppi.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Finland/City/Saeppi.personal|Saeppi.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Finland/City/Saeppi.secret|Saeppi.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Finland/City/Saeppi|Saeppi]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Finland/City/Saeppi.public|Saeppi.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Finland/City/Saeppi.internal|Saeppi.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Finland/City/Saeppi.protect|Saeppi.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Finland/City/Saeppi.private|Saeppi.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Finland/City/Saeppi.personal|Saeppi.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Finland/City/Saeppi.secret|Saeppi.secret]] 

@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 37.5 , 35.4 ] 
 type: geo-Region
 title: Adana
@@ -40,10 +40,11 @@ markerFolder: ./Adana/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Turkey/Counties/Adana.md|Adana]] 
-- [[../../../../_internal/geo/Continent/Europe/Turkey/Counties/Adana.internal|Adana.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Turkey/Counties/Adana.protect|Adana.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Turkey/Counties/Adana.private|Adana.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Turkey/Counties/Adana.personal|Adana.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Turkey/Counties/Adana.secret|Adana.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Turkey/Counties/Adana|Adana]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Turkey/Counties/Adana.public|Adana.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Turkey/Counties/Adana.internal|Adana.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Turkey/Counties/Adana.protect|Adana.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Turkey/Counties/Adana.private|Adana.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Turkey/Counties/Adana.personal|Adana.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Turkey/Counties/Adana.secret|Adana.secret]] 
 

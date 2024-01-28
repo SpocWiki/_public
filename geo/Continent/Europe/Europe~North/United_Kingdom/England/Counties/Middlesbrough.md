@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 54.54 , -1.25 ] 
 type: geo-Region
 title: Middlesbrough
@@ -40,10 +40,11 @@ markerFolder: ./Middlesbrough/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/United_Kingdom/England/Counties/Middlesbrough.md|Middlesbrough]] 
-- [[../../../../_internal/geo/Continent/Europe/United_Kingdom/England/Counties/Middlesbrough.internal|Middlesbrough.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/United_Kingdom/England/Counties/Middlesbrough.protect|Middlesbrough.protect]] 
-- [[../../../../_private/geo/Continent/Europe/United_Kingdom/England/Counties/Middlesbrough.private|Middlesbrough.private]] 
-- [[../../../../_personal/geo/Continent/Europe/United_Kingdom/England/Counties/Middlesbrough.personal|Middlesbrough.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/United_Kingdom/England/Counties/Middlesbrough.secret|Middlesbrough.secret]] 
+- [[../../../../../../../../_Standards/geo/Continent/Europe/Europe~North/United_Kingdom/England/Counties/Middlesbrough|Middlesbrough]] 
+- [[../../../../../../../../_public/geo/Continent/Europe/Europe~North/United_Kingdom/England/Counties/Middlesbrough.public|Middlesbrough.public]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/Europe~North/United_Kingdom/England/Counties/Middlesbrough.internal|Middlesbrough.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/Europe~North/United_Kingdom/England/Counties/Middlesbrough.protect|Middlesbrough.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/Europe~North/United_Kingdom/England/Counties/Middlesbrough.private|Middlesbrough.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/Europe~North/United_Kingdom/England/Counties/Middlesbrough.personal|Middlesbrough.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/Europe~North/United_Kingdom/England/Counties/Middlesbrough.secret|Middlesbrough.secret]] 
 

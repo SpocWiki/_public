@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 40.3 , 40.2 ] 
 type: geo-Region
 title: Bayburt
@@ -40,10 +40,11 @@ markerFolder: ./Bayburt/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Turkey/Counties/Bayburt.md|Bayburt]] 
-- [[../../../../_internal/geo/Continent/Europe/Turkey/Counties/Bayburt.internal|Bayburt.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Turkey/Counties/Bayburt.protect|Bayburt.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Turkey/Counties/Bayburt.private|Bayburt.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Turkey/Counties/Bayburt.personal|Bayburt.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Turkey/Counties/Bayburt.secret|Bayburt.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Turkey/Counties/Bayburt|Bayburt]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Turkey/Counties/Bayburt.public|Bayburt.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Turkey/Counties/Bayburt.internal|Bayburt.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Turkey/Counties/Bayburt.protect|Bayburt.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Turkey/Counties/Bayburt.private|Bayburt.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Turkey/Counties/Bayburt.personal|Bayburt.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Turkey/Counties/Bayburt.secret|Bayburt.secret]] 
 

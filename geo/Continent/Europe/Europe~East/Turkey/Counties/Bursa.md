@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 40.1 , 28.9 ] 
 type: geo-Region
 title: Bursa
@@ -40,10 +40,11 @@ markerFolder: ./Bursa/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Turkey/Counties/Bursa.md|Bursa]] 
-- [[../../../../_internal/geo/Continent/Europe/Turkey/Counties/Bursa.internal|Bursa.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Turkey/Counties/Bursa.protect|Bursa.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Turkey/Counties/Bursa.private|Bursa.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Turkey/Counties/Bursa.personal|Bursa.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Turkey/Counties/Bursa.secret|Bursa.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Turkey/Counties/Bursa|Bursa]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Turkey/Counties/Bursa.public|Bursa.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Turkey/Counties/Bursa.internal|Bursa.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Turkey/Counties/Bursa.protect|Bursa.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Turkey/Counties/Bursa.private|Bursa.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Turkey/Counties/Bursa.personal|Bursa.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Turkey/Counties/Bursa.secret|Bursa.secret]] 
 

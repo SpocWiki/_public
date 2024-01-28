@@ -1,5 +1,5 @@
-﻿---
-location: [53.82,39.53]
+---
+location: [53.82,39.53] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,29 +12,30 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::39.53]
-[geo-lat::53.82]
-[name::Skopin]
-[State::]
-[Country::[[Russia]]]
-[StateId::]
-[Population::]
-[Unknown::]
+[geo-lon::39.53] 
+[geo-lat::53.82] 
+[name::Skopin] 
+State ::  
+Country :: [[Russia]]  
+[StateId::] 
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Skopin
-coordinates: [[Skopin]]
-markerFile: [[Skopin]]
+coordinates: [[Skopin]] 
+markerFile: [[Skopin]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_public/geo/Continent/Europe/Russia/City/Skopin.md|Skopin]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Skopin.internal|Skopin.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Skopin.protect|Skopin.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Skopin.private|Skopin.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Skopin.personal|Skopin.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Skopin.secret|Skopin.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Russia/City/Skopin|Skopin]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Russia/City/Skopin.public|Skopin.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Russia/City/Skopin.internal|Skopin.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Russia/City/Skopin.protect|Skopin.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Russia/City/Skopin.private|Skopin.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Russia/City/Skopin.personal|Skopin.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Russia/City/Skopin.secret|Skopin.secret]] 

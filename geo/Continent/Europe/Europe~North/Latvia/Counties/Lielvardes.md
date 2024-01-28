@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 56.7 , 24.9 ] 
 type: geo-Region
 title: Lielvardes
@@ -40,10 +40,11 @@ markerFolder: ./Lielvardes/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Latvia/Counties/Lielvardes.md|Lielvardes]] 
-- [[../../../../_internal/geo/Continent/Europe/Latvia/Counties/Lielvardes.internal|Lielvardes.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Latvia/Counties/Lielvardes.protect|Lielvardes.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Latvia/Counties/Lielvardes.private|Lielvardes.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Latvia/Counties/Lielvardes.personal|Lielvardes.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Latvia/Counties/Lielvardes.secret|Lielvardes.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Latvia/Counties/Lielvardes|Lielvardes]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Latvia/Counties/Lielvardes.public|Lielvardes.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Latvia/Counties/Lielvardes.internal|Lielvardes.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Latvia/Counties/Lielvardes.protect|Lielvardes.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Latvia/Counties/Lielvardes.private|Lielvardes.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Latvia/Counties/Lielvardes.personal|Lielvardes.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Latvia/Counties/Lielvardes.secret|Lielvardes.secret]] 
 

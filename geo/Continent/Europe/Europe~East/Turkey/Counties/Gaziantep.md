@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 37.1 , 37.2 ] 
 type: geo-Region
 title: Gaziantep
@@ -40,10 +40,11 @@ markerFolder: ./Gaziantep/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Turkey/Counties/Gaziantep.md|Gaziantep]] 
-- [[../../../../_internal/geo/Continent/Europe/Turkey/Counties/Gaziantep.internal|Gaziantep.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Turkey/Counties/Gaziantep.protect|Gaziantep.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Turkey/Counties/Gaziantep.private|Gaziantep.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Turkey/Counties/Gaziantep.personal|Gaziantep.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Turkey/Counties/Gaziantep.secret|Gaziantep.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Turkey/Counties/Gaziantep|Gaziantep]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Turkey/Counties/Gaziantep.public|Gaziantep.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Turkey/Counties/Gaziantep.internal|Gaziantep.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Turkey/Counties/Gaziantep.protect|Gaziantep.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Turkey/Counties/Gaziantep.private|Gaziantep.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Turkey/Counties/Gaziantep.personal|Gaziantep.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Turkey/Counties/Gaziantep.secret|Gaziantep.secret]] 
 

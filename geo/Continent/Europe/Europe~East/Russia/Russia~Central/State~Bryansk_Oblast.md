@@ -1,5 +1,5 @@
 ---
-location: [53.25,34.33]
+location: [53.25,34.33] 
 type: State
 tags:
 - geo/State
@@ -10,13 +10,13 @@ isDeleted: false
 confidential: public
 
 ---
-[name::Bryansk Oblast]
-[name-abbr::]
-[Country::[[Russia]]]
-[Capital::[[Bryansk]]]
-[geo-lon::34.33]
-[geo-lat::53.25]
-[Population::]
+[name::Bryansk Oblast] 
+[name-abbr::] 
+Country :: [[Russia]]  
+Capital :: [[Bryansk]]  
+[geo-lon::34.33] 
+[geo-lat::53.25] 
+[Population::] 
 
 
 
@@ -31,9 +31,9 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
--[[State~Bryansk_Oblast|State~Bryansk_Oblast]]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Russia/State/State~Bryansk_Oblast.internal|State~Bryansk_Oblast.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/State/State~Bryansk_Oblast.protect|State~Bryansk_Oblast.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/State/State~Bryansk_Oblast.private|State~Bryansk_Oblast.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/State/State~Bryansk_Oblast.personal|State~Bryansk_Oblast.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/State/State~Bryansk_Oblast.secret|State~Bryansk_Oblast.secret]] 
+- [[State~Bryansk_Oblast|State~Bryansk_Oblast]]  
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Russia/State/State~Bryansk_Oblast.internal|State~Bryansk_Oblast.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Russia/State/State~Bryansk_Oblast.protect|State~Bryansk_Oblast.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Russia/State/State~Bryansk_Oblast.private|State~Bryansk_Oblast.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Russia/State/State~Bryansk_Oblast.personal|State~Bryansk_Oblast.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Russia/State/State~Bryansk_Oblast.secret|State~Bryansk_Oblast.secret]] 

@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 42.5 , 18.5 ] 
 type: geo-Region
 title: Herceg_Novi
@@ -40,10 +40,11 @@ markerFolder: ./Herceg_Novi/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Montenegro/Counties/Herceg_Novi.md|Herceg_Novi]] 
-- [[../../../../_internal/geo/Continent/Europe/Montenegro/Counties/Herceg_Novi.internal|Herceg_Novi.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Montenegro/Counties/Herceg_Novi.protect|Herceg_Novi.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Montenegro/Counties/Herceg_Novi.private|Herceg_Novi.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Montenegro/Counties/Herceg_Novi.personal|Herceg_Novi.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Montenegro/Counties/Herceg_Novi.secret|Herceg_Novi.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Montenegro/Counties/Herceg_Novi|Herceg_Novi]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Montenegro/Counties/Herceg_Novi.public|Herceg_Novi.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Montenegro/Counties/Herceg_Novi.internal|Herceg_Novi.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Montenegro/Counties/Herceg_Novi.protect|Herceg_Novi.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Montenegro/Counties/Herceg_Novi.private|Herceg_Novi.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Montenegro/Counties/Herceg_Novi.personal|Herceg_Novi.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Montenegro/Counties/Herceg_Novi.secret|Herceg_Novi.secret]] 
 

@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 56.7 , 25.1 ] 
 type: geo-Region
 title: Skriveru
@@ -40,10 +40,11 @@ markerFolder: ./Skriveru/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Latvia/Counties/Skriveru.md|Skriveru]] 
-- [[../../../../_internal/geo/Continent/Europe/Latvia/Counties/Skriveru.internal|Skriveru.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Latvia/Counties/Skriveru.protect|Skriveru.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Latvia/Counties/Skriveru.private|Skriveru.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Latvia/Counties/Skriveru.personal|Skriveru.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Latvia/Counties/Skriveru.secret|Skriveru.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Latvia/Counties/Skriveru|Skriveru]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Latvia/Counties/Skriveru.public|Skriveru.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Latvia/Counties/Skriveru.internal|Skriveru.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Latvia/Counties/Skriveru.protect|Skriveru.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Latvia/Counties/Skriveru.private|Skriveru.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Latvia/Counties/Skriveru.personal|Skriveru.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Latvia/Counties/Skriveru.secret|Skriveru.secret]] 
 

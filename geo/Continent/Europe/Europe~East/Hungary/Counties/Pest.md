@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 47.5 , 19.5 ] 
 type: geo-Region
 title: Pest
@@ -40,10 +40,11 @@ markerFolder: ./Pest/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Hungary/Counties/Pest.md|Pest]] 
-- [[../../../../_internal/geo/Continent/Europe/Hungary/Counties/Pest.internal|Pest.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Hungary/Counties/Pest.protect|Pest.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Hungary/Counties/Pest.private|Pest.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Hungary/Counties/Pest.personal|Pest.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Hungary/Counties/Pest.secret|Pest.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Hungary/Counties/Pest|Pest]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Hungary/Counties/Pest.public|Pest.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Hungary/Counties/Pest.internal|Pest.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Hungary/Counties/Pest.protect|Pest.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Hungary/Counties/Pest.private|Pest.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Hungary/Counties/Pest.personal|Pest.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Hungary/Counties/Pest.secret|Pest.secret]] 
 

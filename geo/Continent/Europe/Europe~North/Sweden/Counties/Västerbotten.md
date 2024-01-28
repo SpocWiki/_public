@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 64.9 , 18 ] 
 type: geo-Region
 title: Västerbotten
@@ -40,10 +40,11 @@ markerFolder: ./Västerbotten/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Sweden/Counties/Västerbotten.md|Västerbotten]] 
-- [[../../../../_internal/geo/Continent/Europe/Sweden/Counties/Västerbotten.internal|Västerbotten.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Sweden/Counties/Västerbotten.protect|Västerbotten.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Sweden/Counties/Västerbotten.private|Västerbotten.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Sweden/Counties/Västerbotten.personal|Västerbotten.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Sweden/Counties/Västerbotten.secret|Västerbotten.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Sweden/Counties/Västerbotten|Västerbotten]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Sweden/Counties/Västerbotten.public|Västerbotten.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Sweden/Counties/Västerbotten.internal|Västerbotten.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Sweden/Counties/Västerbotten.protect|Västerbotten.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Sweden/Counties/Västerbotten.private|Västerbotten.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Sweden/Counties/Västerbotten.personal|Västerbotten.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Sweden/Counties/Västerbotten.secret|Västerbotten.secret]] 
 

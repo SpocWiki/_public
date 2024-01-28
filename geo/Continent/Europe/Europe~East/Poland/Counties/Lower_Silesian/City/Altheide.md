@@ -1,5 +1,5 @@
-﻿---
-location: [50.4,16.53]
+---
+location: [50.4,16.53] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,29 +12,30 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::16.53]
-[geo-lat::50.4]
-[name::Altheide]
-[State::]
-[Country::[[Poland]]]
-[StateId::]
-[Population::]
-[Unknown::]
+[geo-lon::16.53] 
+[geo-lat::50.4] 
+[name::Altheide] 
+State ::  
+Country :: [[Poland]]  
+[StateId::] 
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Altheide
-coordinates: [[Altheide]]
-markerFile: [[Altheide]]
+coordinates: [[Altheide]] 
+markerFile: [[Altheide]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_public/geo/Continent/Europe/Poland/City/Altheide.md|Altheide]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Altheide.internal|Altheide.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Altheide.protect|Altheide.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Altheide.private|Altheide.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Altheide.personal|Altheide.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Altheide.secret|Altheide.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Poland/City/Altheide|Altheide]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Poland/City/Altheide.public|Altheide.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Poland/City/Altheide.internal|Altheide.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Poland/City/Altheide.protect|Altheide.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Poland/City/Altheide.private|Altheide.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Poland/City/Altheide.personal|Altheide.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Poland/City/Altheide.secret|Altheide.secret]] 

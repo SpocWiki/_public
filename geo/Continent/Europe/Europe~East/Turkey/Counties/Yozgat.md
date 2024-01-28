@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 39.6 , 35.3 ] 
 type: geo-Region
 title: Yozgat
@@ -40,10 +40,11 @@ markerFolder: ./Yozgat/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Turkey/Counties/Yozgat.md|Yozgat]] 
-- [[../../../../_internal/geo/Continent/Europe/Turkey/Counties/Yozgat.internal|Yozgat.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Turkey/Counties/Yozgat.protect|Yozgat.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Turkey/Counties/Yozgat.private|Yozgat.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Turkey/Counties/Yozgat.personal|Yozgat.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Turkey/Counties/Yozgat.secret|Yozgat.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Turkey/Counties/Yozgat|Yozgat]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Turkey/Counties/Yozgat.public|Yozgat.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Turkey/Counties/Yozgat.internal|Yozgat.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Turkey/Counties/Yozgat.protect|Yozgat.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Turkey/Counties/Yozgat.private|Yozgat.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Turkey/Counties/Yozgat.personal|Yozgat.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Turkey/Counties/Yozgat.secret|Yozgat.secret]] 
 

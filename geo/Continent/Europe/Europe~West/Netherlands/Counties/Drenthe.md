@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 52.9 , 6.6 ] 
 type: geo-Region
 title: Drenthe
@@ -40,10 +40,11 @@ markerFolder: ./Drenthe/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Netherlands/Counties/Drenthe.md|Drenthe]] 
-- [[../../../../_internal/geo/Continent/Europe/Netherlands/Counties/Drenthe.internal|Drenthe.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Netherlands/Counties/Drenthe.protect|Drenthe.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Netherlands/Counties/Drenthe.private|Drenthe.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Netherlands/Counties/Drenthe.personal|Drenthe.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Netherlands/Counties/Drenthe.secret|Drenthe.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~West/Netherlands/Counties/Drenthe|Drenthe]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~West/Netherlands/Counties/Drenthe.public|Drenthe.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~West/Netherlands/Counties/Drenthe.internal|Drenthe.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~West/Netherlands/Counties/Drenthe.protect|Drenthe.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~West/Netherlands/Counties/Drenthe.private|Drenthe.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~West/Netherlands/Counties/Drenthe.personal|Drenthe.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~West/Netherlands/Counties/Drenthe.secret|Drenthe.secret]] 
 

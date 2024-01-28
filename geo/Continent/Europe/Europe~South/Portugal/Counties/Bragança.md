@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 41.5 , -6.8 ] 
 type: geo-Region
 title: Bragança
@@ -40,10 +40,11 @@ markerFolder: ./Bragança/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Portugal/Counties/Bragança.md|Bragança]] 
-- [[../../../../_internal/geo/Continent/Europe/Portugal/Counties/Bragança.internal|Bragança.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Portugal/Counties/Bragança.protect|Bragança.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Portugal/Counties/Bragança.private|Bragança.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Portugal/Counties/Bragança.personal|Bragança.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Portugal/Counties/Bragança.secret|Bragança.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Portugal/Counties/Bragança|Bragança]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Portugal/Counties/Bragança.public|Bragança.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Portugal/Counties/Bragança.internal|Bragança.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Portugal/Counties/Bragança.protect|Bragança.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Portugal/Counties/Bragança.private|Bragança.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Portugal/Counties/Bragança.personal|Bragança.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Portugal/Counties/Bragança.secret|Bragança.secret]] 
 

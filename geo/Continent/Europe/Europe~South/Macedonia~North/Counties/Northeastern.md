@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 42.2 , 21.9 ] 
 type: geo-Region
 title: Northeastern
@@ -40,10 +40,11 @@ markerFolder: ./Northeastern/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Macedonia~North/Counties/Northeastern.md|Northeastern]] 
-- [[../../../../_internal/geo/Continent/Europe/Macedonia~North/Counties/Northeastern.internal|Northeastern.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Macedonia~North/Counties/Northeastern.protect|Northeastern.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Macedonia~North/Counties/Northeastern.private|Northeastern.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Macedonia~North/Counties/Northeastern.personal|Northeastern.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Macedonia~North/Counties/Northeastern.secret|Northeastern.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Macedonia~North/Counties/Northeastern|Northeastern]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Macedonia~North/Counties/Northeastern.public|Northeastern.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Macedonia~North/Counties/Northeastern.internal|Northeastern.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Macedonia~North/Counties/Northeastern.protect|Northeastern.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Macedonia~North/Counties/Northeastern.private|Northeastern.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Macedonia~North/Counties/Northeastern.personal|Northeastern.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Macedonia~North/Counties/Northeastern.secret|Northeastern.secret]] 
 

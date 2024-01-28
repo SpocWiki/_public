@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 53.4 , -1.3 ] 
 type: geo-Region
 title: Rotherham
@@ -40,10 +40,11 @@ markerFolder: ./Rotherham/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/United_Kingdom/England/Counties/Rotherham.md|Rotherham]] 
-- [[../../../../_internal/geo/Continent/Europe/United_Kingdom/England/Counties/Rotherham.internal|Rotherham.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/United_Kingdom/England/Counties/Rotherham.protect|Rotherham.protect]] 
-- [[../../../../_private/geo/Continent/Europe/United_Kingdom/England/Counties/Rotherham.private|Rotherham.private]] 
-- [[../../../../_personal/geo/Continent/Europe/United_Kingdom/England/Counties/Rotherham.personal|Rotherham.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/United_Kingdom/England/Counties/Rotherham.secret|Rotherham.secret]] 
+- [[../../../../../../../../_Standards/geo/Continent/Europe/Europe~North/United_Kingdom/England/Counties/Rotherham|Rotherham]] 
+- [[../../../../../../../../_public/geo/Continent/Europe/Europe~North/United_Kingdom/England/Counties/Rotherham.public|Rotherham.public]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/Europe~North/United_Kingdom/England/Counties/Rotherham.internal|Rotherham.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/Europe~North/United_Kingdom/England/Counties/Rotherham.protect|Rotherham.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/Europe~North/United_Kingdom/England/Counties/Rotherham.private|Rotherham.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/Europe~North/United_Kingdom/England/Counties/Rotherham.personal|Rotherham.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/Europe~North/United_Kingdom/England/Counties/Rotherham.secret|Rotherham.secret]] 
 

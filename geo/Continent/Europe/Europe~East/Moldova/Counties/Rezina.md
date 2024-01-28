@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 47.7 , 29.1 ] 
 type: geo-Region
 title: Rezina
@@ -40,10 +40,11 @@ markerFolder: ./Rezina/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Moldova/Counties/Rezina.md|Rezina]] 
-- [[../../../../_internal/geo/Continent/Europe/Moldova/Counties/Rezina.internal|Rezina.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Moldova/Counties/Rezina.protect|Rezina.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Moldova/Counties/Rezina.private|Rezina.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Moldova/Counties/Rezina.personal|Rezina.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Moldova/Counties/Rezina.secret|Rezina.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Moldova/Counties/Rezina|Rezina]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Moldova/Counties/Rezina.public|Rezina.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Moldova/Counties/Rezina.internal|Rezina.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Moldova/Counties/Rezina.protect|Rezina.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Moldova/Counties/Rezina.private|Rezina.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Moldova/Counties/Rezina.personal|Rezina.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Moldova/Counties/Rezina.secret|Rezina.secret]] 
 

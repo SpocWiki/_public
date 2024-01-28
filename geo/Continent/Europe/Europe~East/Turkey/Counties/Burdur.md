@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 37.4 , 30.2 ] 
 type: geo-Region
 title: Burdur
@@ -40,10 +40,11 @@ markerFolder: ./Burdur/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Turkey/Counties/Burdur.md|Burdur]] 
-- [[../../../../_internal/geo/Continent/Europe/Turkey/Counties/Burdur.internal|Burdur.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Turkey/Counties/Burdur.protect|Burdur.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Turkey/Counties/Burdur.private|Burdur.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Turkey/Counties/Burdur.personal|Burdur.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Turkey/Counties/Burdur.secret|Burdur.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Turkey/Counties/Burdur|Burdur]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Turkey/Counties/Burdur.public|Burdur.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Turkey/Counties/Burdur.internal|Burdur.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Turkey/Counties/Burdur.protect|Burdur.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Turkey/Counties/Burdur.private|Burdur.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Turkey/Counties/Burdur.personal|Burdur.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Turkey/Counties/Burdur.secret|Burdur.secret]] 
 

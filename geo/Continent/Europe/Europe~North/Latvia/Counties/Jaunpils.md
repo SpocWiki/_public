@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 56.8 , 22.9 ] 
 type: geo-Region
 title: Jaunpils
@@ -40,10 +40,11 @@ markerFolder: ./Jaunpils/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Latvia/Counties/Jaunpils.md|Jaunpils]] 
-- [[../../../../_internal/geo/Continent/Europe/Latvia/Counties/Jaunpils.internal|Jaunpils.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Latvia/Counties/Jaunpils.protect|Jaunpils.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Latvia/Counties/Jaunpils.private|Jaunpils.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Latvia/Counties/Jaunpils.personal|Jaunpils.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Latvia/Counties/Jaunpils.secret|Jaunpils.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Latvia/Counties/Jaunpils|Jaunpils]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Latvia/Counties/Jaunpils.public|Jaunpils.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Latvia/Counties/Jaunpils.internal|Jaunpils.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Latvia/Counties/Jaunpils.protect|Jaunpils.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Latvia/Counties/Jaunpils.private|Jaunpils.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Latvia/Counties/Jaunpils.personal|Jaunpils.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Latvia/Counties/Jaunpils.secret|Jaunpils.secret]] 
 

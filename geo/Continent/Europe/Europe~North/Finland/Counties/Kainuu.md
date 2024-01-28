@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 64.6 , 28.3 ] 
 type: geo-Region
 title: Kainuu
@@ -40,10 +40,11 @@ markerFolder: ./Kainuu/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Finland/Counties/Kainuu.md|Kainuu]] 
-- [[../../../../_internal/geo/Continent/Europe/Finland/Counties/Kainuu.internal|Kainuu.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Finland/Counties/Kainuu.protect|Kainuu.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Finland/Counties/Kainuu.private|Kainuu.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Finland/Counties/Kainuu.personal|Kainuu.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Finland/Counties/Kainuu.secret|Kainuu.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Finland/Counties/Kainuu|Kainuu]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Finland/Counties/Kainuu.public|Kainuu.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Finland/Counties/Kainuu.internal|Kainuu.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Finland/Counties/Kainuu.protect|Kainuu.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Finland/Counties/Kainuu.private|Kainuu.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Finland/Counties/Kainuu.personal|Kainuu.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Finland/Counties/Kainuu.secret|Kainuu.secret]] 
 

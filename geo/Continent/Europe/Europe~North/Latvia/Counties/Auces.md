@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 56.5 , 22.9 ] 
 type: geo-Region
 title: Auces
@@ -40,10 +40,11 @@ markerFolder: ./Auces/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Latvia/Counties/Auces.md|Auces]] 
-- [[../../../../_internal/geo/Continent/Europe/Latvia/Counties/Auces.internal|Auces.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Latvia/Counties/Auces.protect|Auces.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Latvia/Counties/Auces.private|Auces.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Latvia/Counties/Auces.personal|Auces.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Latvia/Counties/Auces.secret|Auces.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Latvia/Counties/Auces|Auces]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Latvia/Counties/Auces.public|Auces.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Latvia/Counties/Auces.internal|Auces.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Latvia/Counties/Auces.protect|Auces.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Latvia/Counties/Auces.private|Auces.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Latvia/Counties/Auces.personal|Auces.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Latvia/Counties/Auces.secret|Auces.secret]] 
 

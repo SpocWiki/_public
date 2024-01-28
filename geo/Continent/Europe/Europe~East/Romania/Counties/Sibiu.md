@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 45.9 , 24.2 ] 
 type: geo-Region
 title: Sibiu
@@ -40,10 +40,11 @@ markerFolder: ./Sibiu/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Romania/Counties/Sibiu.md|Sibiu]] 
-- [[../../../../_internal/geo/Continent/Europe/Romania/Counties/Sibiu.internal|Sibiu.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Romania/Counties/Sibiu.protect|Sibiu.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Romania/Counties/Sibiu.private|Sibiu.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Romania/Counties/Sibiu.personal|Sibiu.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Romania/Counties/Sibiu.secret|Sibiu.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Romania/Counties/Sibiu|Sibiu]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Romania/Counties/Sibiu.public|Sibiu.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Romania/Counties/Sibiu.internal|Sibiu.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Romania/Counties/Sibiu.protect|Sibiu.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Romania/Counties/Sibiu.private|Sibiu.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Romania/Counties/Sibiu.personal|Sibiu.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Romania/Counties/Sibiu.secret|Sibiu.secret]] 
 

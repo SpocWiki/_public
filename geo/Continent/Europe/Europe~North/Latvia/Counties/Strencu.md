@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 57.6 , 25.8 ] 
 type: geo-Region
 title: Strencu
@@ -40,10 +40,11 @@ markerFolder: ./Strencu/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Latvia/Counties/Strencu.md|Strencu]] 
-- [[../../../../_internal/geo/Continent/Europe/Latvia/Counties/Strencu.internal|Strencu.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Latvia/Counties/Strencu.protect|Strencu.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Latvia/Counties/Strencu.private|Strencu.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Latvia/Counties/Strencu.personal|Strencu.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Latvia/Counties/Strencu.secret|Strencu.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Latvia/Counties/Strencu|Strencu]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Latvia/Counties/Strencu.public|Strencu.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Latvia/Counties/Strencu.internal|Strencu.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Latvia/Counties/Strencu.protect|Strencu.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Latvia/Counties/Strencu.private|Strencu.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Latvia/Counties/Strencu.personal|Strencu.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Latvia/Counties/Strencu.secret|Strencu.secret]] 
 

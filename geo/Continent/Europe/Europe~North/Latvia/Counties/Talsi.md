@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 57.3 , 22.7 ] 
 type: geo-Region
 title: Talsi
@@ -40,10 +40,11 @@ markerFolder: ./Talsi/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Latvia/Counties/Talsi.md|Talsi]] 
-- [[../../../../_internal/geo/Continent/Europe/Latvia/Counties/Talsi.internal|Talsi.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Latvia/Counties/Talsi.protect|Talsi.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Latvia/Counties/Talsi.private|Talsi.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Latvia/Counties/Talsi.personal|Talsi.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Latvia/Counties/Talsi.secret|Talsi.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Latvia/Counties/Talsi|Talsi]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Latvia/Counties/Talsi.public|Talsi.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Latvia/Counties/Talsi.internal|Talsi.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Latvia/Counties/Talsi.protect|Talsi.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Latvia/Counties/Talsi.private|Talsi.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Latvia/Counties/Talsi.personal|Talsi.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Latvia/Counties/Talsi.secret|Talsi.secret]] 
 

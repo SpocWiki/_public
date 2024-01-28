@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 54.67 , 29.08 ] 
 type: geo-Region
 title: _Lakes
@@ -40,10 +40,11 @@ markerFolder: ./_Lakes/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Belarus/Counties/Vitebsk/_Lakes.md|_Lakes]] 
-- [[../../../../_internal/geo/Continent/Europe/Belarus/Counties/Vitebsk/_Lakes.internal|_Lakes.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Belarus/Counties/Vitebsk/_Lakes.protect|_Lakes.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Belarus/Counties/Vitebsk/_Lakes.private|_Lakes.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Belarus/Counties/Vitebsk/_Lakes.personal|_Lakes.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Belarus/Counties/Vitebsk/_Lakes.secret|_Lakes.secret]] 
+- [[../../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Belarus/Counties/Vitebsk/_Lakes|_Lakes]] 
+- [[../../../../../../../../_public/geo/Continent/Europe/Europe~East/Belarus/Counties/Vitebsk/_Lakes.public|_Lakes.public]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/Europe~East/Belarus/Counties/Vitebsk/_Lakes.internal|_Lakes.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/Europe~East/Belarus/Counties/Vitebsk/_Lakes.protect|_Lakes.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/Europe~East/Belarus/Counties/Vitebsk/_Lakes.private|_Lakes.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/Europe~East/Belarus/Counties/Vitebsk/_Lakes.personal|_Lakes.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/Europe~East/Belarus/Counties/Vitebsk/_Lakes.secret|_Lakes.secret]] 
 

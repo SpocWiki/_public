@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 57 , 24.2 ] 
 type: geo-Region
 title: Riga
@@ -40,10 +40,11 @@ markerFolder: ./Riga/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Latvia/Counties/Riga.md|Riga]] 
-- [[../../../../_internal/geo/Continent/Europe/Latvia/Counties/Riga.internal|Riga.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Latvia/Counties/Riga.protect|Riga.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Latvia/Counties/Riga.private|Riga.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Latvia/Counties/Riga.personal|Riga.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Latvia/Counties/Riga.secret|Riga.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Latvia/Counties/Riga|Riga]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Latvia/Counties/Riga.public|Riga.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Latvia/Counties/Riga.internal|Riga.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Latvia/Counties/Riga.protect|Riga.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Latvia/Counties/Riga.private|Riga.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Latvia/Counties/Riga.personal|Riga.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Latvia/Counties/Riga.secret|Riga.secret]] 
 

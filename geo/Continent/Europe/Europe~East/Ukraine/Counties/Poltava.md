@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 49.6 , 34.1 ] 
 type: geo-Region
 title: Poltava
@@ -40,10 +40,11 @@ markerFolder: ./Poltava/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Ukraine/Counties/Poltava.md|Poltava]] 
-- [[../../../../_internal/geo/Continent/Europe/Ukraine/Counties/Poltava.internal|Poltava.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Ukraine/Counties/Poltava.protect|Poltava.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Ukraine/Counties/Poltava.private|Poltava.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Ukraine/Counties/Poltava.personal|Poltava.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Ukraine/Counties/Poltava.secret|Poltava.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Ukraine/Counties/Poltava|Poltava]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Ukraine/Counties/Poltava.public|Poltava.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Ukraine/Counties/Poltava.internal|Poltava.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Ukraine/Counties/Poltava.protect|Poltava.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Ukraine/Counties/Poltava.private|Poltava.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Ukraine/Counties/Poltava.personal|Poltava.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Ukraine/Counties/Poltava.secret|Poltava.secret]] 
 

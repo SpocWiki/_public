@@ -1,5 +1,5 @@
-﻿---
-location: [51.27,16.72]
+---
+location: [51.27,16.72] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,29 +12,30 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::16.72]
-[geo-lat::51.27]
-[name::Dyhernfurth]
-[State::]
-[Country::[[Poland]]]
-[StateId::]
-[Population::]
-[Unknown::]
+[geo-lon::16.72] 
+[geo-lat::51.27] 
+[name::Dyhernfurth] 
+State ::  
+Country :: [[Poland]]  
+[StateId::] 
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Dyhernfurth
-coordinates: [[Dyhernfurth]]
-markerFile: [[Dyhernfurth]]
+coordinates: [[Dyhernfurth]] 
+markerFile: [[Dyhernfurth]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_public/geo/Continent/Europe/Poland/City/Dyhernfurth.md|Dyhernfurth]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Dyhernfurth.internal|Dyhernfurth.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Dyhernfurth.protect|Dyhernfurth.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Dyhernfurth.private|Dyhernfurth.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Dyhernfurth.personal|Dyhernfurth.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Dyhernfurth.secret|Dyhernfurth.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Poland/City/Dyhernfurth|Dyhernfurth]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Poland/City/Dyhernfurth.public|Dyhernfurth.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Poland/City/Dyhernfurth.internal|Dyhernfurth.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Poland/City/Dyhernfurth.protect|Dyhernfurth.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Poland/City/Dyhernfurth.private|Dyhernfurth.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Poland/City/Dyhernfurth.personal|Dyhernfurth.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Poland/City/Dyhernfurth.secret|Dyhernfurth.secret]] 

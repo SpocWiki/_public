@@ -1,5 +1,5 @@
-﻿---
-location: [58.25,11.45]
+---
+location: [58.25,11.45] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,29 +12,30 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::11.45]
-[geo-lat::58.25]
-[name::Kristineberg]
-[State::]
-[Country::[[Sweden]]]
-[StateId::]
-[Population::]
-[Unknown::]
+[geo-lon::11.45] 
+[geo-lat::58.25] 
+[name::Kristineberg] 
+State ::  
+Country :: [[Sweden]]  
+[StateId::] 
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Kristineberg
-coordinates: [[Kristineberg]]
-markerFile: [[Kristineberg]]
+coordinates: [[Kristineberg]] 
+markerFile: [[Kristineberg]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_public/geo/Continent/Europe/Sweden/City/Kristineberg.md|Kristineberg]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Sweden/City/Kristineberg.internal|Kristineberg.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Sweden/City/Kristineberg.protect|Kristineberg.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Sweden/City/Kristineberg.private|Kristineberg.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Sweden/City/Kristineberg.personal|Kristineberg.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Sweden/City/Kristineberg.secret|Kristineberg.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Sweden/City/Kristineberg|Kristineberg]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Sweden/City/Kristineberg.public|Kristineberg.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Sweden/City/Kristineberg.internal|Kristineberg.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Sweden/City/Kristineberg.protect|Kristineberg.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Sweden/City/Kristineberg.private|Kristineberg.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Sweden/City/Kristineberg.personal|Kristineberg.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Sweden/City/Kristineberg.secret|Kristineberg.secret]] 

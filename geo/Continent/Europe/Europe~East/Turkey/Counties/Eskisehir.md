@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 39.6 , 31 ] 
 type: geo-Region
 title: Eskisehir
@@ -40,10 +40,11 @@ markerFolder: ./Eskisehir/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Turkey/Counties/Eskisehir.md|Eskisehir]] 
-- [[../../../../_internal/geo/Continent/Europe/Turkey/Counties/Eskisehir.internal|Eskisehir.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Turkey/Counties/Eskisehir.protect|Eskisehir.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Turkey/Counties/Eskisehir.private|Eskisehir.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Turkey/Counties/Eskisehir.personal|Eskisehir.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Turkey/Counties/Eskisehir.secret|Eskisehir.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Turkey/Counties/Eskisehir|Eskisehir]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Turkey/Counties/Eskisehir.public|Eskisehir.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Turkey/Counties/Eskisehir.internal|Eskisehir.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Turkey/Counties/Eskisehir.protect|Eskisehir.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Turkey/Counties/Eskisehir.private|Eskisehir.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Turkey/Counties/Eskisehir.personal|Eskisehir.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Turkey/Counties/Eskisehir.secret|Eskisehir.secret]] 
 

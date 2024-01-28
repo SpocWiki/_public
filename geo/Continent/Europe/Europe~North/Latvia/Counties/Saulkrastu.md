@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 57.26 , 24.44 ] 
 type: geo-Region
 title: Saulkrastu
@@ -40,10 +40,11 @@ markerFolder: ./Saulkrastu/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Latvia/Counties/Saulkrastu.md|Saulkrastu]] 
-- [[../../../../_internal/geo/Continent/Europe/Latvia/Counties/Saulkrastu.internal|Saulkrastu.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Latvia/Counties/Saulkrastu.protect|Saulkrastu.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Latvia/Counties/Saulkrastu.private|Saulkrastu.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Latvia/Counties/Saulkrastu.personal|Saulkrastu.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Latvia/Counties/Saulkrastu.secret|Saulkrastu.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Latvia/Counties/Saulkrastu|Saulkrastu]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Latvia/Counties/Saulkrastu.public|Saulkrastu.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Latvia/Counties/Saulkrastu.internal|Saulkrastu.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Latvia/Counties/Saulkrastu.protect|Saulkrastu.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Latvia/Counties/Saulkrastu.private|Saulkrastu.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Latvia/Counties/Saulkrastu.personal|Saulkrastu.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Latvia/Counties/Saulkrastu.secret|Saulkrastu.secret]] 
 

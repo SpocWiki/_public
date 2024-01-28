@@ -1,5 +1,5 @@
 ---
-location: [54.78,32.05]
+location: [54.78,32.05] 
 type: State
 tags:
 - geo/State
@@ -10,13 +10,13 @@ isDeleted: false
 confidential: public
 
 ---
-[name::Smolensk Oblast]
-[name-abbr::]
-[Country::[[Russia]]]
-[Capital::[[Smolensk]]]
-[geo-lon::32.05]
-[geo-lat::54.78]
-[Population::]
+[name::Smolensk Oblast] 
+[name-abbr::] 
+Country :: [[Russia]]  
+Capital :: [[Smolensk]]  
+[geo-lon::32.05] 
+[geo-lat::54.78] 
+[Population::] 
 
 
 
@@ -31,9 +31,9 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
--[[State~Smolensk_Oblast|State~Smolensk_Oblast]]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Russia/State/State~Smolensk_Oblast.internal|State~Smolensk_Oblast.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/State/State~Smolensk_Oblast.protect|State~Smolensk_Oblast.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/State/State~Smolensk_Oblast.private|State~Smolensk_Oblast.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/State/State~Smolensk_Oblast.personal|State~Smolensk_Oblast.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/State/State~Smolensk_Oblast.secret|State~Smolensk_Oblast.secret]] 
+- [[State~Smolensk_Oblast|State~Smolensk_Oblast]]  
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Russia/State/State~Smolensk_Oblast.internal|State~Smolensk_Oblast.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Russia/State/State~Smolensk_Oblast.protect|State~Smolensk_Oblast.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Russia/State/State~Smolensk_Oblast.private|State~Smolensk_Oblast.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Russia/State/State~Smolensk_Oblast.personal|State~Smolensk_Oblast.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Russia/State/State~Smolensk_Oblast.secret|State~Smolensk_Oblast.secret]] 

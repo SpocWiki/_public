@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 36.7 , 33.8 ] 
 type: geo-Region
 title: Mersin
@@ -40,10 +40,11 @@ markerFolder: ./Mersin/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Turkey/Counties/Mersin.md|Mersin]] 
-- [[../../../../_internal/geo/Continent/Europe/Turkey/Counties/Mersin.internal|Mersin.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Turkey/Counties/Mersin.protect|Mersin.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Turkey/Counties/Mersin.private|Mersin.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Turkey/Counties/Mersin.personal|Mersin.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Turkey/Counties/Mersin.secret|Mersin.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Turkey/Counties/Mersin|Mersin]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Turkey/Counties/Mersin.public|Mersin.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Turkey/Counties/Mersin.internal|Mersin.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Turkey/Counties/Mersin.protect|Mersin.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Turkey/Counties/Mersin.private|Mersin.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Turkey/Counties/Mersin.personal|Mersin.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Turkey/Counties/Mersin.secret|Mersin.secret]] 
 

@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 55 , 24.1 ] 
 type: geo-Region
 title: Kauno
@@ -40,10 +40,11 @@ markerFolder: ./Kauno/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Lithuania/Counties/Kauno.md|Kauno]] 
-- [[../../../../_internal/geo/Continent/Europe/Lithuania/Counties/Kauno.internal|Kauno.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Lithuania/Counties/Kauno.protect|Kauno.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Lithuania/Counties/Kauno.private|Kauno.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Lithuania/Counties/Kauno.personal|Kauno.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Lithuania/Counties/Kauno.secret|Kauno.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Lithuania/Counties/Kauno|Kauno]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Lithuania/Counties/Kauno.public|Kauno.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Lithuania/Counties/Kauno.internal|Kauno.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Lithuania/Counties/Kauno.protect|Kauno.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Lithuania/Counties/Kauno.private|Kauno.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Lithuania/Counties/Kauno.personal|Kauno.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Lithuania/Counties/Kauno.secret|Kauno.secret]] 
 

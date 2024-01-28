@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 45.3 , 26.8 ] 
 type: geo-Region
 title: Buzau
@@ -40,10 +40,11 @@ markerFolder: ./Buzau/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Romania/Counties/Buzau.md|Buzau]] 
-- [[../../../../_internal/geo/Continent/Europe/Romania/Counties/Buzau.internal|Buzau.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Romania/Counties/Buzau.protect|Buzau.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Romania/Counties/Buzau.private|Buzau.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Romania/Counties/Buzau.personal|Buzau.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Romania/Counties/Buzau.secret|Buzau.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Romania/Counties/Buzau|Buzau]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Romania/Counties/Buzau.public|Buzau.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Romania/Counties/Buzau.internal|Buzau.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Romania/Counties/Buzau.protect|Buzau.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Romania/Counties/Buzau.private|Buzau.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Romania/Counties/Buzau.personal|Buzau.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Romania/Counties/Buzau.secret|Buzau.secret]] 
 

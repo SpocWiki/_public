@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 47.17 , 9.52 ] 
 type: geo-Region
 title: Schaan
@@ -40,10 +40,11 @@ markerFolder: ./Schaan/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Liechtenstein/Counties/Schaan.md|Schaan]] 
-- [[../../../../_internal/geo/Continent/Europe/Liechtenstein/Counties/Schaan.internal|Schaan.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Liechtenstein/Counties/Schaan.protect|Schaan.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Liechtenstein/Counties/Schaan.private|Schaan.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Liechtenstein/Counties/Schaan.personal|Schaan.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Liechtenstein/Counties/Schaan.secret|Schaan.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~West/Liechtenstein/Counties/Schaan|Schaan]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~West/Liechtenstein/Counties/Schaan.public|Schaan.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~West/Liechtenstein/Counties/Schaan.internal|Schaan.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~West/Liechtenstein/Counties/Schaan.protect|Schaan.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~West/Liechtenstein/Counties/Schaan.private|Schaan.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~West/Liechtenstein/Counties/Schaan.personal|Schaan.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~West/Liechtenstein/Counties/Schaan.secret|Schaan.secret]] 
 

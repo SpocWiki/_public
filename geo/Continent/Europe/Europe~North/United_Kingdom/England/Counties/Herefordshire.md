@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 52.1 , -2.7 ] 
 type: geo-Region
 title: Herefordshire
@@ -40,10 +40,11 @@ markerFolder: ./Herefordshire/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/United_Kingdom/England/Counties/Herefordshire.md|Herefordshire]] 
-- [[../../../../_internal/geo/Continent/Europe/United_Kingdom/England/Counties/Herefordshire.internal|Herefordshire.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/United_Kingdom/England/Counties/Herefordshire.protect|Herefordshire.protect]] 
-- [[../../../../_private/geo/Continent/Europe/United_Kingdom/England/Counties/Herefordshire.private|Herefordshire.private]] 
-- [[../../../../_personal/geo/Continent/Europe/United_Kingdom/England/Counties/Herefordshire.personal|Herefordshire.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/United_Kingdom/England/Counties/Herefordshire.secret|Herefordshire.secret]] 
+- [[../../../../../../../../_Standards/geo/Continent/Europe/Europe~North/United_Kingdom/England/Counties/Herefordshire|Herefordshire]] 
+- [[../../../../../../../../_public/geo/Continent/Europe/Europe~North/United_Kingdom/England/Counties/Herefordshire.public|Herefordshire.public]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/Europe~North/United_Kingdom/England/Counties/Herefordshire.internal|Herefordshire.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/Europe~North/United_Kingdom/England/Counties/Herefordshire.protect|Herefordshire.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/Europe~North/United_Kingdom/England/Counties/Herefordshire.private|Herefordshire.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/Europe~North/United_Kingdom/England/Counties/Herefordshire.personal|Herefordshire.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/Europe~North/United_Kingdom/England/Counties/Herefordshire.secret|Herefordshire.secret]] 
 

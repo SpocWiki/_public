@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 46.7 , 33.4 ] 
 type: geo-Region
 title: Kherson
@@ -40,10 +40,11 @@ markerFolder: ./Kherson/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Ukraine/Counties/Kherson.md|Kherson]] 
-- [[../../../../_internal/geo/Continent/Europe/Ukraine/Counties/Kherson.internal|Kherson.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Ukraine/Counties/Kherson.protect|Kherson.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Ukraine/Counties/Kherson.private|Kherson.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Ukraine/Counties/Kherson.personal|Kherson.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Ukraine/Counties/Kherson.secret|Kherson.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Ukraine/Counties/Kherson|Kherson]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Ukraine/Counties/Kherson.public|Kherson.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Ukraine/Counties/Kherson.internal|Kherson.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Ukraine/Counties/Kherson.protect|Kherson.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Ukraine/Counties/Kherson.private|Kherson.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Ukraine/Counties/Kherson.personal|Kherson.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Ukraine/Counties/Kherson.secret|Kherson.secret]] 
 

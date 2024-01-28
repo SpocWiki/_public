@@ -1,5 +1,5 @@
 ---
-location: [54.2,37.62]
+location: [54.2,37.62] 
 type: State
 tags:
 - geo/State
@@ -10,13 +10,13 @@ isDeleted: false
 confidential: public
 
 ---
-[name::Tula Oblast]
-[name-abbr::]
-[Country::[[Russia]]]
-[Capital::[[Tula]]]
-[geo-lon::37.62]
-[geo-lat::54.2]
-[Population::]
+[name::Tula Oblast] 
+[name-abbr::] 
+Country :: [[Russia]]  
+Capital :: [[Tula]]  
+[geo-lon::37.62] 
+[geo-lat::54.2] 
+[Population::] 
 
 
 
@@ -31,9 +31,9 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
--[[State~Tula_Oblast|State~Tula_Oblast]]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Russia/State/State~Tula_Oblast.internal|State~Tula_Oblast.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/State/State~Tula_Oblast.protect|State~Tula_Oblast.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/State/State~Tula_Oblast.private|State~Tula_Oblast.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/State/State~Tula_Oblast.personal|State~Tula_Oblast.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/State/State~Tula_Oblast.secret|State~Tula_Oblast.secret]] 
+- [[State~Tula_Oblast|State~Tula_Oblast]]  
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Russia/State/State~Tula_Oblast.internal|State~Tula_Oblast.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Russia/State/State~Tula_Oblast.protect|State~Tula_Oblast.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Russia/State/State~Tula_Oblast.private|State~Tula_Oblast.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Russia/State/State~Tula_Oblast.personal|State~Tula_Oblast.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Russia/State/State~Tula_Oblast.secret|State~Tula_Oblast.secret]] 

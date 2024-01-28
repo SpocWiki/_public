@@ -1,5 +1,5 @@
-﻿---
-location: [52.18,-0.92]
+---
+location: [52.18,-0.92] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,29 +12,30 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::-0.92]
-[geo-lat::52.18]
-[name::Northampton]
-[State::]
-[Country::[[United_Kingdom]]]
-[StateId::]
-[Population::]
-[Unknown::]
+[geo-lon::-0.92] 
+[geo-lat::52.18] 
+[name::Northampton] 
+State ::  
+Country :: [[United_Kingdom]]  
+[StateId::] 
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Northampton
-coordinates: [[Northampton]]
-markerFile: [[Northampton]]
+coordinates: [[Northampton]] 
+markerFile: [[Northampton]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Northampton.md|Northampton]] 
-- [[../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Northampton.internal|Northampton.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Northampton.protect|Northampton.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Northampton.private|Northampton.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Northampton.personal|Northampton.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Northampton.secret|Northampton.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/United_Kingdom/City/Northampton|Northampton]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/United_Kingdom/City/Northampton.public|Northampton.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/United_Kingdom/City/Northampton.internal|Northampton.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/United_Kingdom/City/Northampton.protect|Northampton.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/United_Kingdom/City/Northampton.private|Northampton.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/United_Kingdom/City/Northampton.personal|Northampton.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/United_Kingdom/City/Northampton.secret|Northampton.secret]] 

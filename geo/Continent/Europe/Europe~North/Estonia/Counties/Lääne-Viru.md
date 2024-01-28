@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 59.3 , 26.3 ] 
 type: geo-Region
 title: Lääne-Viru
@@ -40,10 +40,11 @@ markerFolder: ./Lääne-Viru/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Estonia/Counties/Lääne-Viru.md|Lääne-Viru]] 
-- [[../../../../_internal/geo/Continent/Europe/Estonia/Counties/Lääne-Viru.internal|Lääne-Viru.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Estonia/Counties/Lääne-Viru.protect|Lääne-Viru.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Estonia/Counties/Lääne-Viru.private|Lääne-Viru.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Estonia/Counties/Lääne-Viru.personal|Lääne-Viru.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Estonia/Counties/Lääne-Viru.secret|Lääne-Viru.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Estonia/Counties/Lääne-Viru|Lääne-Viru]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Estonia/Counties/Lääne-Viru.public|Lääne-Viru.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Estonia/Counties/Lääne-Viru.internal|Lääne-Viru.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Estonia/Counties/Lääne-Viru.protect|Lääne-Viru.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Estonia/Counties/Lääne-Viru.private|Lääne-Viru.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Estonia/Counties/Lääne-Viru.personal|Lääne-Viru.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Estonia/Counties/Lääne-Viru.secret|Lääne-Viru.secret]] 
 

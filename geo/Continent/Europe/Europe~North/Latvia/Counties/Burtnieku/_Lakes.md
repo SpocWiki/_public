@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 57.75 , 25.25 ] 
 type: geo-Region
 title: _Lakes
@@ -40,10 +40,11 @@ markerFolder: ./_Lakes/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Latvia/Counties/Burtnieku/_Lakes.md|_Lakes]] 
-- [[../../../../_internal/geo/Continent/Europe/Latvia/Counties/Burtnieku/_Lakes.internal|_Lakes.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Latvia/Counties/Burtnieku/_Lakes.protect|_Lakes.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Latvia/Counties/Burtnieku/_Lakes.private|_Lakes.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Latvia/Counties/Burtnieku/_Lakes.personal|_Lakes.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Latvia/Counties/Burtnieku/_Lakes.secret|_Lakes.secret]] 
+- [[../../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Latvia/Counties/Burtnieku/_Lakes|_Lakes]] 
+- [[../../../../../../../../_public/geo/Continent/Europe/Europe~North/Latvia/Counties/Burtnieku/_Lakes.public|_Lakes.public]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/Europe~North/Latvia/Counties/Burtnieku/_Lakes.internal|_Lakes.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/Europe~North/Latvia/Counties/Burtnieku/_Lakes.protect|_Lakes.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/Europe~North/Latvia/Counties/Burtnieku/_Lakes.private|_Lakes.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/Europe~North/Latvia/Counties/Burtnieku/_Lakes.personal|_Lakes.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/Europe~North/Latvia/Counties/Burtnieku/_Lakes.secret|_Lakes.secret]] 
 

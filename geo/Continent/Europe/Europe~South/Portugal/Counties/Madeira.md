@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 32.8 , -17 ] 
 type: geo-Region
 title: Madeira
@@ -40,10 +40,11 @@ markerFolder: ./Madeira/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Portugal/Counties/Madeira.md|Madeira]] 
-- [[../../../../_internal/geo/Continent/Europe/Portugal/Counties/Madeira.internal|Madeira.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Portugal/Counties/Madeira.protect|Madeira.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Portugal/Counties/Madeira.private|Madeira.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Portugal/Counties/Madeira.personal|Madeira.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Portugal/Counties/Madeira.secret|Madeira.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Portugal/Counties/Madeira|Madeira]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Portugal/Counties/Madeira.public|Madeira.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Portugal/Counties/Madeira.internal|Madeira.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Portugal/Counties/Madeira.protect|Madeira.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Portugal/Counties/Madeira.private|Madeira.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Portugal/Counties/Madeira.personal|Madeira.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Portugal/Counties/Madeira.secret|Madeira.secret]] 
 

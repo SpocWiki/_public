@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 41.6 , 21 ] 
 type: geo-Region
 title: Oslomej
@@ -40,10 +40,11 @@ markerFolder: ./Oslomej/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Macedonia~North/Counties/Oslomej.md|Oslomej]] 
-- [[../../../../_internal/geo/Continent/Europe/Macedonia~North/Counties/Oslomej.internal|Oslomej.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Macedonia~North/Counties/Oslomej.protect|Oslomej.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Macedonia~North/Counties/Oslomej.private|Oslomej.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Macedonia~North/Counties/Oslomej.personal|Oslomej.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Macedonia~North/Counties/Oslomej.secret|Oslomej.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Macedonia~North/Counties/Oslomej|Oslomej]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Macedonia~North/Counties/Oslomej.public|Oslomej.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Macedonia~North/Counties/Oslomej.internal|Oslomej.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Macedonia~North/Counties/Oslomej.protect|Oslomej.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Macedonia~North/Counties/Oslomej.private|Oslomej.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Macedonia~North/Counties/Oslomej.personal|Oslomej.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Macedonia~North/Counties/Oslomej.secret|Oslomej.secret]] 
 

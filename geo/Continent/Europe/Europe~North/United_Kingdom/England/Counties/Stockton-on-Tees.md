@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 54.5 , -1.4 ] 
 type: geo-Region
 title: Stockton-on-Tees
@@ -40,10 +40,11 @@ markerFolder: ./Stockton-on-Tees/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/United_Kingdom/England/Counties/Stockton-on-Tees.md|Stockton-on-Tees]] 
-- [[../../../../_internal/geo/Continent/Europe/United_Kingdom/England/Counties/Stockton-on-Tees.internal|Stockton-on-Tees.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/United_Kingdom/England/Counties/Stockton-on-Tees.protect|Stockton-on-Tees.protect]] 
-- [[../../../../_private/geo/Continent/Europe/United_Kingdom/England/Counties/Stockton-on-Tees.private|Stockton-on-Tees.private]] 
-- [[../../../../_personal/geo/Continent/Europe/United_Kingdom/England/Counties/Stockton-on-Tees.personal|Stockton-on-Tees.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/United_Kingdom/England/Counties/Stockton-on-Tees.secret|Stockton-on-Tees.secret]] 
+- [[../../../../../../../../_Standards/geo/Continent/Europe/Europe~North/United_Kingdom/England/Counties/Stockton-on-Tees|Stockton-on-Tees]] 
+- [[../../../../../../../../_public/geo/Continent/Europe/Europe~North/United_Kingdom/England/Counties/Stockton-on-Tees.public|Stockton-on-Tees.public]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/Europe~North/United_Kingdom/England/Counties/Stockton-on-Tees.internal|Stockton-on-Tees.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/Europe~North/United_Kingdom/England/Counties/Stockton-on-Tees.protect|Stockton-on-Tees.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/Europe~North/United_Kingdom/England/Counties/Stockton-on-Tees.private|Stockton-on-Tees.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/Europe~North/United_Kingdom/England/Counties/Stockton-on-Tees.personal|Stockton-on-Tees.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/Europe~North/United_Kingdom/England/Counties/Stockton-on-Tees.secret|Stockton-on-Tees.secret]] 
 

@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 41.9 , 22.7 ] 
 type: geo-Region
 title: Delcevo
@@ -40,10 +40,11 @@ markerFolder: ./Delcevo/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Macedonia~North/Counties/Delcevo.md|Delcevo]] 
-- [[../../../../_internal/geo/Continent/Europe/Macedonia~North/Counties/Delcevo.internal|Delcevo.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Macedonia~North/Counties/Delcevo.protect|Delcevo.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Macedonia~North/Counties/Delcevo.private|Delcevo.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Macedonia~North/Counties/Delcevo.personal|Delcevo.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Macedonia~North/Counties/Delcevo.secret|Delcevo.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Macedonia~North/Counties/Delcevo|Delcevo]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Macedonia~North/Counties/Delcevo.public|Delcevo.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Macedonia~North/Counties/Delcevo.internal|Delcevo.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Macedonia~North/Counties/Delcevo.protect|Delcevo.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Macedonia~North/Counties/Delcevo.private|Delcevo.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Macedonia~North/Counties/Delcevo.personal|Delcevo.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Macedonia~North/Counties/Delcevo.secret|Delcevo.secret]] 
 

@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 40.9 , 40.8 ] 
 type: geo-Region
 title: Rize
@@ -40,10 +40,11 @@ markerFolder: ./Rize/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Turkey/Counties/Rize.md|Rize]] 
-- [[../../../../_internal/geo/Continent/Europe/Turkey/Counties/Rize.internal|Rize.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Turkey/Counties/Rize.protect|Rize.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Turkey/Counties/Rize.private|Rize.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Turkey/Counties/Rize.personal|Rize.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Turkey/Counties/Rize.secret|Rize.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Turkey/Counties/Rize|Rize]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Turkey/Counties/Rize.public|Rize.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Turkey/Counties/Rize.internal|Rize.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Turkey/Counties/Rize.protect|Rize.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Turkey/Counties/Rize.private|Rize.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Turkey/Counties/Rize.personal|Rize.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Turkey/Counties/Rize.secret|Rize.secret]] 
 

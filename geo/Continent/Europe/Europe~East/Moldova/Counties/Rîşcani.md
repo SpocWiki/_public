@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 47.9 , 27.5 ] 
 type: geo-Region
 title: Rîşcani
@@ -40,10 +40,11 @@ markerFolder: ./Rîşcani/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Moldova/Counties/Rîşcani.md|Rîşcani]] 
-- [[../../../../_internal/geo/Continent/Europe/Moldova/Counties/Rîşcani.internal|Rîşcani.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Moldova/Counties/Rîşcani.protect|Rîşcani.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Moldova/Counties/Rîşcani.private|Rîşcani.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Moldova/Counties/Rîşcani.personal|Rîşcani.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Moldova/Counties/Rîşcani.secret|Rîşcani.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Moldova/Counties/Rîşcani|Rîşcani]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Moldova/Counties/Rîşcani.public|Rîşcani.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Moldova/Counties/Rîşcani.internal|Rîşcani.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Moldova/Counties/Rîşcani.protect|Rîşcani.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Moldova/Counties/Rîşcani.private|Rîşcani.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Moldova/Counties/Rîşcani.personal|Rîşcani.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Moldova/Counties/Rîşcani.secret|Rîşcani.secret]] 
 

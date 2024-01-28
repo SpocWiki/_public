@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 67 , 15 ] 
 type: geo-Region
 title: Nordland
@@ -40,10 +40,11 @@ markerFolder: ./Nordland/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Norway/Counties/Nordland.md|Nordland]] 
-- [[../../../../_internal/geo/Continent/Europe/Norway/Counties/Nordland.internal|Nordland.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Norway/Counties/Nordland.protect|Nordland.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Norway/Counties/Nordland.private|Nordland.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Norway/Counties/Nordland.personal|Nordland.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Norway/Counties/Nordland.secret|Nordland.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Norway/Counties/Nordland|Nordland]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Norway/Counties/Nordland.public|Nordland.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Norway/Counties/Nordland.internal|Nordland.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Norway/Counties/Nordland.protect|Nordland.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Norway/Counties/Nordland.private|Nordland.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Norway/Counties/Nordland.personal|Nordland.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Norway/Counties/Nordland.secret|Nordland.secret]] 
 

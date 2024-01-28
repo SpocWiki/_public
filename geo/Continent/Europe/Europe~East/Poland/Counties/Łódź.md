@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 51.6 , 19.4 ] 
 type: geo-Region
 title: Łódź
@@ -40,10 +40,11 @@ markerFolder: ./Łódź/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Poland/Counties/Łódź.md|Łódź]] 
-- [[../../../../_internal/geo/Continent/Europe/Poland/Counties/Łódź.internal|Łódź.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Poland/Counties/Łódź.protect|Łódź.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Poland/Counties/Łódź.private|Łódź.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Poland/Counties/Łódź.personal|Łódź.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Poland/Counties/Łódź.secret|Łódź.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Poland/Counties/Łódź|Łódź]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Poland/Counties/Łódź.public|Łódź.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Poland/Counties/Łódź.internal|Łódź.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Poland/Counties/Łódź.protect|Łódź.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Poland/Counties/Łódź.private|Łódź.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Poland/Counties/Łódź.personal|Łódź.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Poland/Counties/Łódź.secret|Łódź.secret]] 
 

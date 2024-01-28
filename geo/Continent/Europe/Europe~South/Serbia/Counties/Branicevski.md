@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 44.4 , 21.5 ] 
 type: geo-Region
 title: Branicevski
@@ -40,10 +40,11 @@ markerFolder: ./Branicevski/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Serbia/Counties/Branicevski.md|Branicevski]] 
-- [[../../../../_internal/geo/Continent/Europe/Serbia/Counties/Branicevski.internal|Branicevski.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Serbia/Counties/Branicevski.protect|Branicevski.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Serbia/Counties/Branicevski.private|Branicevski.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Serbia/Counties/Branicevski.personal|Branicevski.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Serbia/Counties/Branicevski.secret|Branicevski.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Serbia/Counties/Branicevski|Branicevski]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Serbia/Counties/Branicevski.public|Branicevski.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Serbia/Counties/Branicevski.internal|Branicevski.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Serbia/Counties/Branicevski.protect|Branicevski.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Serbia/Counties/Branicevski.private|Branicevski.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Serbia/Counties/Branicevski.personal|Branicevski.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Serbia/Counties/Branicevski.secret|Branicevski.secret]] 
 

@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 40.4 , 36.7 ] 
 type: geo-Region
 title: Tokat
@@ -40,10 +40,11 @@ markerFolder: ./Tokat/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Turkey/Counties/Tokat.md|Tokat]] 
-- [[../../../../_internal/geo/Continent/Europe/Turkey/Counties/Tokat.internal|Tokat.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Turkey/Counties/Tokat.protect|Tokat.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Turkey/Counties/Tokat.private|Tokat.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Turkey/Counties/Tokat.personal|Tokat.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Turkey/Counties/Tokat.secret|Tokat.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Turkey/Counties/Tokat|Tokat]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Turkey/Counties/Tokat.public|Tokat.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Turkey/Counties/Tokat.internal|Tokat.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Turkey/Counties/Tokat.protect|Tokat.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Turkey/Counties/Tokat.private|Tokat.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Turkey/Counties/Tokat.personal|Tokat.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Turkey/Counties/Tokat.secret|Tokat.secret]] 
 

@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 58.7 , 26.6 ] 
 type: geo-Region
 title: Jõgeva
@@ -40,10 +40,11 @@ markerFolder: ./Jõgeva/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Estonia/Counties/Jõgeva.md|Jõgeva]] 
-- [[../../../../_internal/geo/Continent/Europe/Estonia/Counties/Jõgeva.internal|Jõgeva.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Estonia/Counties/Jõgeva.protect|Jõgeva.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Estonia/Counties/Jõgeva.private|Jõgeva.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Estonia/Counties/Jõgeva.personal|Jõgeva.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Estonia/Counties/Jõgeva.secret|Jõgeva.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Estonia/Counties/Jõgeva|Jõgeva]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Estonia/Counties/Jõgeva.public|Jõgeva.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Estonia/Counties/Jõgeva.internal|Jõgeva.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Estonia/Counties/Jõgeva.protect|Jõgeva.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Estonia/Counties/Jõgeva.private|Jõgeva.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Estonia/Counties/Jõgeva.personal|Jõgeva.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Estonia/Counties/Jõgeva.secret|Jõgeva.secret]] 
 

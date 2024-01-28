@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 42.6 , 24 ] 
 type: geo-Region
 title: Sofia
@@ -40,10 +40,11 @@ markerFolder: ./Sofia/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Bulgaria/Counties/Sofia.md|Sofia]] 
-- [[../../../../_internal/geo/Continent/Europe/Bulgaria/Counties/Sofia.internal|Sofia.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Bulgaria/Counties/Sofia.protect|Sofia.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Bulgaria/Counties/Sofia.private|Sofia.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Bulgaria/Counties/Sofia.personal|Sofia.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Bulgaria/Counties/Sofia.secret|Sofia.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Bulgaria/Counties/Sofia|Sofia]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Bulgaria/Counties/Sofia.public|Sofia.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Bulgaria/Counties/Sofia.internal|Sofia.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Bulgaria/Counties/Sofia.protect|Sofia.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Bulgaria/Counties/Sofia.private|Sofia.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Bulgaria/Counties/Sofia.personal|Sofia.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Bulgaria/Counties/Sofia.secret|Sofia.secret]] 
 

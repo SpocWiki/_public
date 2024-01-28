@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 46.36 , 18.71 ] 
 type: geo-Region
 title: Szekszárd
@@ -40,10 +40,11 @@ markerFolder: ./Szekszárd/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Hungary/Counties/Szekszárd.md|Szekszárd]] 
-- [[../../../../_internal/geo/Continent/Europe/Hungary/Counties/Szekszárd.internal|Szekszárd.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Hungary/Counties/Szekszárd.protect|Szekszárd.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Hungary/Counties/Szekszárd.private|Szekszárd.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Hungary/Counties/Szekszárd.personal|Szekszárd.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Hungary/Counties/Szekszárd.secret|Szekszárd.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Hungary/Counties/Szekszárd|Szekszárd]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Hungary/Counties/Szekszárd.public|Szekszárd.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Hungary/Counties/Szekszárd.internal|Szekszárd.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Hungary/Counties/Szekszárd.protect|Szekszárd.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Hungary/Counties/Szekszárd.private|Szekszárd.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Hungary/Counties/Szekszárd.personal|Szekszárd.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Hungary/Counties/Szekszárd.secret|Szekszárd.secret]] 
 

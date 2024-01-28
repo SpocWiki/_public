@@ -1,5 +1,5 @@
-﻿---
-location: [51.03,16.03]
+---
+location: [51.03,16.03] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,29 +12,30 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::16.03]
-[geo-lat::51.03]
-[name::Lobendau]
-[State::]
-[Country::[[Poland]]]
-[StateId::]
-[Population::]
-[Unknown::]
+[geo-lon::16.03] 
+[geo-lat::51.03] 
+[name::Lobendau] 
+State ::  
+Country :: [[Poland]]  
+[StateId::] 
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Lobendau
-coordinates: [[Lobendau]]
-markerFile: [[Lobendau]]
+coordinates: [[Lobendau]] 
+markerFile: [[Lobendau]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_public/geo/Continent/Europe/Poland/City/Lobendau.md|Lobendau]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Lobendau.internal|Lobendau.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Lobendau.protect|Lobendau.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Lobendau.private|Lobendau.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Lobendau.personal|Lobendau.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Lobendau.secret|Lobendau.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Poland/City/Lobendau|Lobendau]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Poland/City/Lobendau.public|Lobendau.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Poland/City/Lobendau.internal|Lobendau.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Poland/City/Lobendau.protect|Lobendau.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Poland/City/Lobendau.private|Lobendau.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Poland/City/Lobendau.personal|Lobendau.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Poland/City/Lobendau.secret|Lobendau.secret]] 

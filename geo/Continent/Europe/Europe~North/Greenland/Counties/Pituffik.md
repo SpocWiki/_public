@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 76.5 , -68.6 ] 
 type: geo-Region
 title: Pituffik
@@ -40,10 +40,11 @@ markerFolder: ./Pituffik/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Greenland/Counties/Pituffik.md|Pituffik]] 
-- [[../../../../_internal/geo/Continent/Europe/Greenland/Counties/Pituffik.internal|Pituffik.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Greenland/Counties/Pituffik.protect|Pituffik.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Greenland/Counties/Pituffik.private|Pituffik.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Greenland/Counties/Pituffik.personal|Pituffik.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Greenland/Counties/Pituffik.secret|Pituffik.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Greenland/Counties/Pituffik|Pituffik]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Greenland/Counties/Pituffik.public|Pituffik.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Greenland/Counties/Pituffik.internal|Pituffik.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Greenland/Counties/Pituffik.protect|Pituffik.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Greenland/Counties/Pituffik.private|Pituffik.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Greenland/Counties/Pituffik.personal|Pituffik.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Greenland/Counties/Pituffik.secret|Pituffik.secret]] 
 

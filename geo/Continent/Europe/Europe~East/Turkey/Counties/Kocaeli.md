@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 40.9 , 29.8 ] 
 type: geo-Region
 title: Kocaeli
@@ -40,10 +40,11 @@ markerFolder: ./Kocaeli/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Turkey/Counties/Kocaeli.md|Kocaeli]] 
-- [[../../../../_internal/geo/Continent/Europe/Turkey/Counties/Kocaeli.internal|Kocaeli.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Turkey/Counties/Kocaeli.protect|Kocaeli.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Turkey/Counties/Kocaeli.private|Kocaeli.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Turkey/Counties/Kocaeli.personal|Kocaeli.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Turkey/Counties/Kocaeli.secret|Kocaeli.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Turkey/Counties/Kocaeli|Kocaeli]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Turkey/Counties/Kocaeli.public|Kocaeli.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Turkey/Counties/Kocaeli.internal|Kocaeli.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Turkey/Counties/Kocaeli.protect|Kocaeli.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Turkey/Counties/Kocaeli.private|Kocaeli.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Turkey/Counties/Kocaeli.personal|Kocaeli.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Turkey/Counties/Kocaeli.secret|Kocaeli.secret]] 
 

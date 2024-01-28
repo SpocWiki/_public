@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 51.3 , 5.9 ] 
 type: geo-Region
 title: Limburg
@@ -40,10 +40,11 @@ markerFolder: ./Limburg/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Netherlands/Counties/Limburg.md|Limburg]] 
-- [[../../../../_internal/geo/Continent/Europe/Netherlands/Counties/Limburg.internal|Limburg.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Netherlands/Counties/Limburg.protect|Limburg.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Netherlands/Counties/Limburg.private|Limburg.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Netherlands/Counties/Limburg.personal|Limburg.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Netherlands/Counties/Limburg.secret|Limburg.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~West/Netherlands/Counties/Limburg|Limburg]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~West/Netherlands/Counties/Limburg.public|Limburg.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~West/Netherlands/Counties/Limburg.internal|Limburg.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~West/Netherlands/Counties/Limburg.protect|Limburg.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~West/Netherlands/Counties/Limburg.private|Limburg.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~West/Netherlands/Counties/Limburg.personal|Limburg.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~West/Netherlands/Counties/Limburg.secret|Limburg.secret]] 
 

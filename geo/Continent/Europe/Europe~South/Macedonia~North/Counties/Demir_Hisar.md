@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 41.3 , 21.2 ] 
 type: geo-Region
 title: Demir_Hisar
@@ -40,10 +40,11 @@ markerFolder: ./Demir_Hisar/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Macedonia~North/Counties/Demir_Hisar.md|Demir_Hisar]] 
-- [[../../../../_internal/geo/Continent/Europe/Macedonia~North/Counties/Demir_Hisar.internal|Demir_Hisar.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Macedonia~North/Counties/Demir_Hisar.protect|Demir_Hisar.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Macedonia~North/Counties/Demir_Hisar.private|Demir_Hisar.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Macedonia~North/Counties/Demir_Hisar.personal|Demir_Hisar.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Macedonia~North/Counties/Demir_Hisar.secret|Demir_Hisar.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Macedonia~North/Counties/Demir_Hisar|Demir_Hisar]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Macedonia~North/Counties/Demir_Hisar.public|Demir_Hisar.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Macedonia~North/Counties/Demir_Hisar.internal|Demir_Hisar.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Macedonia~North/Counties/Demir_Hisar.protect|Demir_Hisar.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Macedonia~North/Counties/Demir_Hisar.private|Demir_Hisar.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Macedonia~North/Counties/Demir_Hisar.personal|Demir_Hisar.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Macedonia~North/Counties/Demir_Hisar.secret|Demir_Hisar.secret]] 
 

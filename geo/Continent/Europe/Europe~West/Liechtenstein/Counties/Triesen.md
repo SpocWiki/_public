@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 47.09 , 9.53 ] 
 type: geo-Region
 title: Triesen
@@ -40,10 +40,11 @@ markerFolder: ./Triesen/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Liechtenstein/Counties/Triesen.md|Triesen]] 
-- [[../../../../_internal/geo/Continent/Europe/Liechtenstein/Counties/Triesen.internal|Triesen.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Liechtenstein/Counties/Triesen.protect|Triesen.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Liechtenstein/Counties/Triesen.private|Triesen.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Liechtenstein/Counties/Triesen.personal|Triesen.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Liechtenstein/Counties/Triesen.secret|Triesen.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~West/Liechtenstein/Counties/Triesen|Triesen]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~West/Liechtenstein/Counties/Triesen.public|Triesen.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~West/Liechtenstein/Counties/Triesen.internal|Triesen.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~West/Liechtenstein/Counties/Triesen.protect|Triesen.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~West/Liechtenstein/Counties/Triesen.private|Triesen.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~West/Liechtenstein/Counties/Triesen.personal|Triesen.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~West/Liechtenstein/Counties/Triesen.secret|Triesen.secret]] 
 

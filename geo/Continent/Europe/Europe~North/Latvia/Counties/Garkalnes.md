@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 57 , 24.4 ] 
 type: geo-Region
 title: Garkalnes
@@ -40,10 +40,11 @@ markerFolder: ./Garkalnes/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Latvia/Counties/Garkalnes.md|Garkalnes]] 
-- [[../../../../_internal/geo/Continent/Europe/Latvia/Counties/Garkalnes.internal|Garkalnes.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Latvia/Counties/Garkalnes.protect|Garkalnes.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Latvia/Counties/Garkalnes.private|Garkalnes.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Latvia/Counties/Garkalnes.personal|Garkalnes.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Latvia/Counties/Garkalnes.secret|Garkalnes.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Latvia/Counties/Garkalnes|Garkalnes]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Latvia/Counties/Garkalnes.public|Garkalnes.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Latvia/Counties/Garkalnes.internal|Garkalnes.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Latvia/Counties/Garkalnes.protect|Garkalnes.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Latvia/Counties/Garkalnes.private|Garkalnes.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Latvia/Counties/Garkalnes.personal|Garkalnes.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Latvia/Counties/Garkalnes.secret|Garkalnes.secret]] 
 

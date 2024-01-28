@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 64 , -22.2 ] 
 type: geo-Region
 title: Suðurnes
@@ -40,10 +40,11 @@ markerFolder: ./Suðurnes/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Iceland/Counties/Suðurnes.md|Suðurnes]] 
-- [[../../../../_internal/geo/Continent/Europe/Iceland/Counties/Suðurnes.internal|Suðurnes.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Iceland/Counties/Suðurnes.protect|Suðurnes.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Iceland/Counties/Suðurnes.private|Suðurnes.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Iceland/Counties/Suðurnes.personal|Suðurnes.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Iceland/Counties/Suðurnes.secret|Suðurnes.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Iceland/Counties/Suðurnes|Suðurnes]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Iceland/Counties/Suðurnes.public|Suðurnes.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Iceland/Counties/Suðurnes.internal|Suðurnes.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Iceland/Counties/Suðurnes.protect|Suðurnes.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Iceland/Counties/Suðurnes.private|Suðurnes.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Iceland/Counties/Suðurnes.personal|Suðurnes.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Iceland/Counties/Suðurnes.secret|Suðurnes.secret]] 
 

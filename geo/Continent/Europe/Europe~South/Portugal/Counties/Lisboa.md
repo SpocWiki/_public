@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 39 , -9.2 ] 
 type: geo-Region
 title: Lisboa
@@ -40,10 +40,11 @@ markerFolder: ./Lisboa/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Portugal/Counties/Lisboa.md|Lisboa]] 
-- [[../../../../_internal/geo/Continent/Europe/Portugal/Counties/Lisboa.internal|Lisboa.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Portugal/Counties/Lisboa.protect|Lisboa.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Portugal/Counties/Lisboa.private|Lisboa.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Portugal/Counties/Lisboa.personal|Lisboa.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Portugal/Counties/Lisboa.secret|Lisboa.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Portugal/Counties/Lisboa|Lisboa]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Portugal/Counties/Lisboa.public|Lisboa.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Portugal/Counties/Lisboa.internal|Lisboa.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Portugal/Counties/Lisboa.protect|Lisboa.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Portugal/Counties/Lisboa.private|Lisboa.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Portugal/Counties/Lisboa.personal|Lisboa.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Portugal/Counties/Lisboa.secret|Lisboa.secret]] 
 

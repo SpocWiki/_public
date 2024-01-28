@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 41.9 , 20.8 ] 
 type: geo-Region
 title: Polog
@@ -40,10 +40,11 @@ markerFolder: ./Polog/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Macedonia~North/Counties/Polog.md|Polog]] 
-- [[../../../../_internal/geo/Continent/Europe/Macedonia~North/Counties/Polog.internal|Polog.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Macedonia~North/Counties/Polog.protect|Polog.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Macedonia~North/Counties/Polog.private|Polog.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Macedonia~North/Counties/Polog.personal|Polog.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Macedonia~North/Counties/Polog.secret|Polog.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Macedonia~North/Counties/Polog|Polog]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Macedonia~North/Counties/Polog.public|Polog.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Macedonia~North/Counties/Polog.internal|Polog.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Macedonia~North/Counties/Polog.protect|Polog.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Macedonia~North/Counties/Polog.private|Polog.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Macedonia~North/Counties/Polog.personal|Polog.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Macedonia~North/Counties/Polog.secret|Polog.secret]] 
 

@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 56.6 , 21.4 ] 
 type: geo-Region
 title: Durbes
@@ -40,10 +40,11 @@ markerFolder: ./Durbes/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Latvia/Counties/Durbes.md|Durbes]] 
-- [[../../../../_internal/geo/Continent/Europe/Latvia/Counties/Durbes.internal|Durbes.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Latvia/Counties/Durbes.protect|Durbes.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Latvia/Counties/Durbes.private|Durbes.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Latvia/Counties/Durbes.personal|Durbes.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Latvia/Counties/Durbes.secret|Durbes.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Latvia/Counties/Durbes|Durbes]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Latvia/Counties/Durbes.public|Durbes.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Latvia/Counties/Durbes.internal|Durbes.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Latvia/Counties/Durbes.protect|Durbes.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Latvia/Counties/Durbes.private|Durbes.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Latvia/Counties/Durbes.personal|Durbes.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Latvia/Counties/Durbes.secret|Durbes.secret]] 
 

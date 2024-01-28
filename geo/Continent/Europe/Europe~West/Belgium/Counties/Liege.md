@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 50.5 , 5.8 ] 
 type: geo-Region
 title: Liege
@@ -40,12 +40,13 @@ markerFolder: ./Liege/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Belgium/Counties/Liege.md|Liege]] 
-- [[../../../../_internal/geo/Continent/Europe/Belgium/Counties/Liege.internal|Liege.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Belgium/Counties/Liege.protect|Liege.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Belgium/Counties/Liege.private|Liege.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Belgium/Counties/Liege.personal|Liege.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Belgium/Counties/Liege.secret|Liege.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~West/Belgium/Counties/Liege|Liege]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~West/Belgium/Counties/Liege.public|Liege.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~West/Belgium/Counties/Liege.internal|Liege.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~West/Belgium/Counties/Liege.protect|Liege.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~West/Belgium/Counties/Liege.private|Liege.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~West/Belgium/Counties/Liege.personal|Liege.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~West/Belgium/Counties/Liege.secret|Liege.secret]] 
 
 
 ```leaflet

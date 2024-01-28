@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 53.7 , -8.2 ] 
 type: geo-Region
 title: Roscommon
@@ -40,10 +40,11 @@ markerFolder: ./Roscommon/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Ireland/Counties/Roscommon.md|Roscommon]] 
-- [[../../../../_internal/geo/Continent/Europe/Ireland/Counties/Roscommon.internal|Roscommon.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Ireland/Counties/Roscommon.protect|Roscommon.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Ireland/Counties/Roscommon.private|Roscommon.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Ireland/Counties/Roscommon.personal|Roscommon.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Ireland/Counties/Roscommon.secret|Roscommon.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Ireland/Counties/Roscommon|Roscommon]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Ireland/Counties/Roscommon.public|Roscommon.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Ireland/Counties/Roscommon.internal|Roscommon.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Ireland/Counties/Roscommon.protect|Roscommon.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Ireland/Counties/Roscommon.private|Roscommon.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Ireland/Counties/Roscommon.personal|Roscommon.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Ireland/Counties/Roscommon.secret|Roscommon.secret]] 
 

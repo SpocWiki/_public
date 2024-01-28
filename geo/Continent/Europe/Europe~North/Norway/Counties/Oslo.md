@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 60 , 10.7 ] 
 type: geo-Region
 title: Oslo
@@ -40,10 +40,11 @@ markerFolder: ./Oslo/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Norway/Counties/Oslo.md|Oslo]] 
-- [[../../../../_internal/geo/Continent/Europe/Norway/Counties/Oslo.internal|Oslo.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Norway/Counties/Oslo.protect|Oslo.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Norway/Counties/Oslo.private|Oslo.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Norway/Counties/Oslo.personal|Oslo.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Norway/Counties/Oslo.secret|Oslo.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Norway/Counties/Oslo|Oslo]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Norway/Counties/Oslo.public|Oslo.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Norway/Counties/Oslo.internal|Oslo.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Norway/Counties/Oslo.protect|Oslo.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Norway/Counties/Oslo.private|Oslo.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Norway/Counties/Oslo.personal|Oslo.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Norway/Counties/Oslo.secret|Oslo.secret]] 
 

@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 51.3 , 22.7 ] 
 type: geo-Region
 title: Lublin
@@ -40,10 +40,11 @@ markerFolder: ./Lublin/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Poland/Counties/Lublin.md|Lublin]] 
-- [[../../../../_internal/geo/Continent/Europe/Poland/Counties/Lublin.internal|Lublin.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Poland/Counties/Lublin.protect|Lublin.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Poland/Counties/Lublin.private|Lublin.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Poland/Counties/Lublin.personal|Lublin.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Poland/Counties/Lublin.secret|Lublin.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Poland/Counties/Lublin|Lublin]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Poland/Counties/Lublin.public|Lublin.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Poland/Counties/Lublin.internal|Lublin.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Poland/Counties/Lublin.protect|Lublin.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Poland/Counties/Lublin.private|Lublin.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Poland/Counties/Lublin.personal|Lublin.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Poland/Counties/Lublin.secret|Lublin.secret]] 
 

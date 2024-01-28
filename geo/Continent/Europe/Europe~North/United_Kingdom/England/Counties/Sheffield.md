@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 53.4 , -1.5 ] 
 type: geo-Region
 title: Sheffield
@@ -40,10 +40,11 @@ markerFolder: ./Sheffield/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/United_Kingdom/England/Counties/Sheffield.md|Sheffield]] 
-- [[../../../../_internal/geo/Continent/Europe/United_Kingdom/England/Counties/Sheffield.internal|Sheffield.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/United_Kingdom/England/Counties/Sheffield.protect|Sheffield.protect]] 
-- [[../../../../_private/geo/Continent/Europe/United_Kingdom/England/Counties/Sheffield.private|Sheffield.private]] 
-- [[../../../../_personal/geo/Continent/Europe/United_Kingdom/England/Counties/Sheffield.personal|Sheffield.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/United_Kingdom/England/Counties/Sheffield.secret|Sheffield.secret]] 
+- [[../../../../../../../../_Standards/geo/Continent/Europe/Europe~North/United_Kingdom/England/Counties/Sheffield|Sheffield]] 
+- [[../../../../../../../../_public/geo/Continent/Europe/Europe~North/United_Kingdom/England/Counties/Sheffield.public|Sheffield.public]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/Europe~North/United_Kingdom/England/Counties/Sheffield.internal|Sheffield.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/Europe~North/United_Kingdom/England/Counties/Sheffield.protect|Sheffield.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/Europe~North/United_Kingdom/England/Counties/Sheffield.private|Sheffield.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/Europe~North/United_Kingdom/England/Counties/Sheffield.personal|Sheffield.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/Europe~North/United_Kingdom/England/Counties/Sheffield.secret|Sheffield.secret]] 
 

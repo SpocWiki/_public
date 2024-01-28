@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 56.7 , 21.6 ] 
 type: geo-Region
 title: Aizputes
@@ -40,10 +40,11 @@ markerFolder: ./Aizputes/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Latvia/Counties/Aizputes.md|Aizputes]] 
-- [[../../../../_internal/geo/Continent/Europe/Latvia/Counties/Aizputes.internal|Aizputes.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Latvia/Counties/Aizputes.protect|Aizputes.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Latvia/Counties/Aizputes.private|Aizputes.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Latvia/Counties/Aizputes.personal|Aizputes.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Latvia/Counties/Aizputes.secret|Aizputes.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Latvia/Counties/Aizputes|Aizputes]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Latvia/Counties/Aizputes.public|Aizputes.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Latvia/Counties/Aizputes.internal|Aizputes.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Latvia/Counties/Aizputes.protect|Aizputes.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Latvia/Counties/Aizputes.private|Aizputes.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Latvia/Counties/Aizputes.personal|Aizputes.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Latvia/Counties/Aizputes.secret|Aizputes.secret]] 
 

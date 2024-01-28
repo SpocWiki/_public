@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 38.1 , 30.9 ] 
 type: geo-Region
 title: _Lakes
@@ -40,10 +40,11 @@ markerFolder: ./_Lakes/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Turkey/Counties/Isparta/_Lakes.md|_Lakes]] 
-- [[../../../../_internal/geo/Continent/Europe/Turkey/Counties/Isparta/_Lakes.internal|_Lakes.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Turkey/Counties/Isparta/_Lakes.protect|_Lakes.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Turkey/Counties/Isparta/_Lakes.private|_Lakes.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Turkey/Counties/Isparta/_Lakes.personal|_Lakes.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Turkey/Counties/Isparta/_Lakes.secret|_Lakes.secret]] 
+- [[../../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Turkey/Counties/Isparta/_Lakes|_Lakes]] 
+- [[../../../../../../../../_public/geo/Continent/Europe/Europe~East/Turkey/Counties/Isparta/_Lakes.public|_Lakes.public]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/Europe~East/Turkey/Counties/Isparta/_Lakes.internal|_Lakes.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/Europe~East/Turkey/Counties/Isparta/_Lakes.protect|_Lakes.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/Europe~East/Turkey/Counties/Isparta/_Lakes.private|_Lakes.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/Europe~East/Turkey/Counties/Isparta/_Lakes.personal|_Lakes.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/Europe~East/Turkey/Counties/Isparta/_Lakes.secret|_Lakes.secret]] 
 

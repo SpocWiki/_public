@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 42.8 , 21 ] 
 type: geo-Region
 title: Vučitrn
@@ -40,10 +40,11 @@ markerFolder: ./Vučitrn/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Kosovo/Counties/Vučitrn.md|Vučitrn]] 
-- [[../../../../_internal/geo/Continent/Europe/Kosovo/Counties/Vučitrn.internal|Vučitrn.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Kosovo/Counties/Vučitrn.protect|Vučitrn.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Kosovo/Counties/Vučitrn.private|Vučitrn.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Kosovo/Counties/Vučitrn.personal|Vučitrn.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Kosovo/Counties/Vučitrn.secret|Vučitrn.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Kosovo/Counties/Vučitrn|Vučitrn]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Kosovo/Counties/Vučitrn.public|Vučitrn.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Kosovo/Counties/Vučitrn.internal|Vučitrn.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Kosovo/Counties/Vučitrn.protect|Vučitrn.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Kosovo/Counties/Vučitrn.private|Vučitrn.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Kosovo/Counties/Vučitrn.personal|Vučitrn.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Kosovo/Counties/Vučitrn.secret|Vučitrn.secret]] 
 

@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 38 , 23.8 ] 
 type: geo-Region
 title: Attiki
@@ -40,10 +40,11 @@ markerFolder: ./Attiki/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Greece/Counties/Attiki.md|Attiki]] 
-- [[../../../../_internal/geo/Continent/Europe/Greece/Counties/Attiki.internal|Attiki.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Greece/Counties/Attiki.protect|Attiki.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Greece/Counties/Attiki.private|Attiki.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Greece/Counties/Attiki.personal|Attiki.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Greece/Counties/Attiki.secret|Attiki.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Greece/Counties/Attiki|Attiki]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Greece/Counties/Attiki.public|Attiki.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Greece/Counties/Attiki.internal|Attiki.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Greece/Counties/Attiki.protect|Attiki.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Greece/Counties/Attiki.private|Attiki.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Greece/Counties/Attiki.personal|Attiki.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Greece/Counties/Attiki.secret|Attiki.secret]] 
 

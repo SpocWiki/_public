@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 42.6 , 19.9 ] 
 type: geo-Region
 title: Plav
@@ -40,10 +40,11 @@ markerFolder: ./Plav/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Montenegro/Counties/Plav.md|Plav]] 
-- [[../../../../_internal/geo/Continent/Europe/Montenegro/Counties/Plav.internal|Plav.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Montenegro/Counties/Plav.protect|Plav.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Montenegro/Counties/Plav.private|Plav.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Montenegro/Counties/Plav.personal|Plav.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Montenegro/Counties/Plav.secret|Plav.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Montenegro/Counties/Plav|Plav]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Montenegro/Counties/Plav.public|Plav.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Montenegro/Counties/Plav.internal|Plav.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Montenegro/Counties/Plav.protect|Plav.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Montenegro/Counties/Plav.private|Plav.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Montenegro/Counties/Plav.personal|Plav.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Montenegro/Counties/Plav.secret|Plav.secret]] 
 

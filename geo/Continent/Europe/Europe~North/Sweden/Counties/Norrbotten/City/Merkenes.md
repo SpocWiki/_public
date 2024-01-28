@@ -1,5 +1,5 @@
-﻿---
-location: [66.67,16.12]
+---
+location: [66.67,16.12] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,29 +12,30 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::16.12]
-[geo-lat::66.67]
-[name::Merkenes]
-[State::]
-[Country::[[Sweden]]]
-[StateId::]
-[Population::]
-[Unknown::]
+[geo-lon::16.12] 
+[geo-lat::66.67] 
+[name::Merkenes] 
+State ::  
+Country :: [[Sweden]]  
+[StateId::] 
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Merkenes
-coordinates: [[Merkenes]]
-markerFile: [[Merkenes]]
+coordinates: [[Merkenes]] 
+markerFile: [[Merkenes]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_public/geo/Continent/Europe/Sweden/City/Merkenes.md|Merkenes]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Sweden/City/Merkenes.internal|Merkenes.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Sweden/City/Merkenes.protect|Merkenes.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Sweden/City/Merkenes.private|Merkenes.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Sweden/City/Merkenes.personal|Merkenes.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Sweden/City/Merkenes.secret|Merkenes.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Sweden/City/Merkenes|Merkenes]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Sweden/City/Merkenes.public|Merkenes.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Sweden/City/Merkenes.internal|Merkenes.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Sweden/City/Merkenes.protect|Merkenes.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Sweden/City/Merkenes.private|Merkenes.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Sweden/City/Merkenes.personal|Merkenes.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Sweden/City/Merkenes.secret|Merkenes.secret]] 

@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 47.21 , 9.53 ] 
 type: geo-Region
 title: Eschen
@@ -40,10 +40,11 @@ markerFolder: ./Eschen/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Liechtenstein/Counties/Eschen.md|Eschen]] 
-- [[../../../../_internal/geo/Continent/Europe/Liechtenstein/Counties/Eschen.internal|Eschen.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Liechtenstein/Counties/Eschen.protect|Eschen.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Liechtenstein/Counties/Eschen.private|Eschen.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Liechtenstein/Counties/Eschen.personal|Eschen.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Liechtenstein/Counties/Eschen.secret|Eschen.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~West/Liechtenstein/Counties/Eschen|Eschen]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~West/Liechtenstein/Counties/Eschen.public|Eschen.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~West/Liechtenstein/Counties/Eschen.internal|Eschen.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~West/Liechtenstein/Counties/Eschen.protect|Eschen.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~West/Liechtenstein/Counties/Eschen.private|Eschen.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~West/Liechtenstein/Counties/Eschen.personal|Eschen.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~West/Liechtenstein/Counties/Eschen.secret|Eschen.secret]] 
 

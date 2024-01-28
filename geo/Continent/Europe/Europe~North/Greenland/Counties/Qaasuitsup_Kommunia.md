@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 74 , -50 ] 
 type: geo-Region
 title: Qaasuitsup_Kommunia
@@ -40,10 +40,11 @@ markerFolder: ./Qaasuitsup_Kommunia/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Greenland/Counties/Qaasuitsup_Kommunia.md|Qaasuitsup_Kommunia]] 
-- [[../../../../_internal/geo/Continent/Europe/Greenland/Counties/Qaasuitsup_Kommunia.internal|Qaasuitsup_Kommunia.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Greenland/Counties/Qaasuitsup_Kommunia.protect|Qaasuitsup_Kommunia.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Greenland/Counties/Qaasuitsup_Kommunia.private|Qaasuitsup_Kommunia.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Greenland/Counties/Qaasuitsup_Kommunia.personal|Qaasuitsup_Kommunia.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Greenland/Counties/Qaasuitsup_Kommunia.secret|Qaasuitsup_Kommunia.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Greenland/Counties/Qaasuitsup_Kommunia|Qaasuitsup_Kommunia]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Greenland/Counties/Qaasuitsup_Kommunia.public|Qaasuitsup_Kommunia.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Greenland/Counties/Qaasuitsup_Kommunia.internal|Qaasuitsup_Kommunia.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Greenland/Counties/Qaasuitsup_Kommunia.protect|Qaasuitsup_Kommunia.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Greenland/Counties/Qaasuitsup_Kommunia.private|Qaasuitsup_Kommunia.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Greenland/Counties/Qaasuitsup_Kommunia.personal|Qaasuitsup_Kommunia.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Greenland/Counties/Qaasuitsup_Kommunia.secret|Qaasuitsup_Kommunia.secret]] 
 

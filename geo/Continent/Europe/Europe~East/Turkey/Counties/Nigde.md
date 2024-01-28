@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 37.9 , 34.8 ] 
 type: geo-Region
 title: Nigde
@@ -40,10 +40,11 @@ markerFolder: ./Nigde/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Turkey/Counties/Nigde.md|Nigde]] 
-- [[../../../../_internal/geo/Continent/Europe/Turkey/Counties/Nigde.internal|Nigde.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Turkey/Counties/Nigde.protect|Nigde.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Turkey/Counties/Nigde.private|Nigde.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Turkey/Counties/Nigde.personal|Nigde.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Turkey/Counties/Nigde.secret|Nigde.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Turkey/Counties/Nigde|Nigde]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Turkey/Counties/Nigde.public|Nigde.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Turkey/Counties/Nigde.internal|Nigde.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Turkey/Counties/Nigde.protect|Nigde.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Turkey/Counties/Nigde.private|Nigde.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Turkey/Counties/Nigde.personal|Nigde.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Turkey/Counties/Nigde.secret|Nigde.secret]] 
 

@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 56.1 , -3.7 ] 
 type: geo-Region
 title: Clackmannanshire
@@ -40,10 +40,11 @@ markerFolder: ./Clackmannanshire/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/United_Kingdom/Scotland/Counties/Clackmannanshire.md|Clackmannanshire]] 
-- [[../../../../_internal/geo/Continent/Europe/United_Kingdom/Scotland/Counties/Clackmannanshire.internal|Clackmannanshire.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/United_Kingdom/Scotland/Counties/Clackmannanshire.protect|Clackmannanshire.protect]] 
-- [[../../../../_private/geo/Continent/Europe/United_Kingdom/Scotland/Counties/Clackmannanshire.private|Clackmannanshire.private]] 
-- [[../../../../_personal/geo/Continent/Europe/United_Kingdom/Scotland/Counties/Clackmannanshire.personal|Clackmannanshire.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/United_Kingdom/Scotland/Counties/Clackmannanshire.secret|Clackmannanshire.secret]] 
+- [[../../../../../../../../_Standards/geo/Continent/Europe/Europe~North/United_Kingdom/Scotland/Counties/Clackmannanshire|Clackmannanshire]] 
+- [[../../../../../../../../_public/geo/Continent/Europe/Europe~North/United_Kingdom/Scotland/Counties/Clackmannanshire.public|Clackmannanshire.public]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/Europe~North/United_Kingdom/Scotland/Counties/Clackmannanshire.internal|Clackmannanshire.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/Europe~North/United_Kingdom/Scotland/Counties/Clackmannanshire.protect|Clackmannanshire.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/Europe~North/United_Kingdom/Scotland/Counties/Clackmannanshire.private|Clackmannanshire.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/Europe~North/United_Kingdom/Scotland/Counties/Clackmannanshire.personal|Clackmannanshire.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/Europe~North/United_Kingdom/Scotland/Counties/Clackmannanshire.secret|Clackmannanshire.secret]] 
 

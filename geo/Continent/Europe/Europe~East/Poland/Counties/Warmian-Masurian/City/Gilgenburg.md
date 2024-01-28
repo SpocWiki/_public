@@ -1,5 +1,5 @@
-﻿---
-location: [53.43,19.37]
+---
+location: [53.43,19.37] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,29 +12,30 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::19.37]
-[geo-lat::53.43]
-[name::Gilgenburg]
-[State::]
-[Country::[[Poland]]]
-[StateId::]
-[Population::]
-[Unknown::]
+[geo-lon::19.37] 
+[geo-lat::53.43] 
+[name::Gilgenburg] 
+State ::  
+Country :: [[Poland]]  
+[StateId::] 
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Gilgenburg
-coordinates: [[Gilgenburg]]
-markerFile: [[Gilgenburg]]
+coordinates: [[Gilgenburg]] 
+markerFile: [[Gilgenburg]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_public/geo/Continent/Europe/Poland/City/Gilgenburg.md|Gilgenburg]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Gilgenburg.internal|Gilgenburg.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Gilgenburg.protect|Gilgenburg.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Gilgenburg.private|Gilgenburg.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Gilgenburg.personal|Gilgenburg.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Gilgenburg.secret|Gilgenburg.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Poland/City/Gilgenburg|Gilgenburg]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Poland/City/Gilgenburg.public|Gilgenburg.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Poland/City/Gilgenburg.internal|Gilgenburg.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Poland/City/Gilgenburg.protect|Gilgenburg.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Poland/City/Gilgenburg.private|Gilgenburg.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Poland/City/Gilgenburg.personal|Gilgenburg.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Poland/City/Gilgenburg.secret|Gilgenburg.secret]] 

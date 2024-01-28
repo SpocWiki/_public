@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 43.9 , 18.9 ] 
 type: geo-Region
 title: Sarajevo-romanija
@@ -40,10 +40,11 @@ markerFolder: ./Sarajevo-romanija/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Bosnia_and_Herzegovina/Counties/Sarajevo-romanija.md|Sarajevo-romanija]] 
-- [[../../../../_internal/geo/Continent/Europe/Bosnia_and_Herzegovina/Counties/Sarajevo-romanija.internal|Sarajevo-romanija.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Bosnia_and_Herzegovina/Counties/Sarajevo-romanija.protect|Sarajevo-romanija.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Bosnia_and_Herzegovina/Counties/Sarajevo-romanija.private|Sarajevo-romanija.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Bosnia_and_Herzegovina/Counties/Sarajevo-romanija.personal|Sarajevo-romanija.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Bosnia_and_Herzegovina/Counties/Sarajevo-romanija.secret|Sarajevo-romanija.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Bosnia_and_Herzegovina/Counties/Sarajevo-romanija|Sarajevo-romanija]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Bosnia_and_Herzegovina/Counties/Sarajevo-romanija.public|Sarajevo-romanija.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Bosnia_and_Herzegovina/Counties/Sarajevo-romanija.internal|Sarajevo-romanija.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Bosnia_and_Herzegovina/Counties/Sarajevo-romanija.protect|Sarajevo-romanija.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Bosnia_and_Herzegovina/Counties/Sarajevo-romanija.private|Sarajevo-romanija.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Bosnia_and_Herzegovina/Counties/Sarajevo-romanija.personal|Sarajevo-romanija.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Bosnia_and_Herzegovina/Counties/Sarajevo-romanija.secret|Sarajevo-romanija.secret]] 
 

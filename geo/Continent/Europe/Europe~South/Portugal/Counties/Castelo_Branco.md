@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 40 , -7.4 ] 
 type: geo-Region
 title: Castelo_Branco
@@ -40,10 +40,11 @@ markerFolder: ./Castelo_Branco/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Portugal/Counties/Castelo_Branco.md|Castelo_Branco]] 
-- [[../../../../_internal/geo/Continent/Europe/Portugal/Counties/Castelo_Branco.internal|Castelo_Branco.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Portugal/Counties/Castelo_Branco.protect|Castelo_Branco.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Portugal/Counties/Castelo_Branco.private|Castelo_Branco.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Portugal/Counties/Castelo_Branco.personal|Castelo_Branco.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Portugal/Counties/Castelo_Branco.secret|Castelo_Branco.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Portugal/Counties/Castelo_Branco|Castelo_Branco]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Portugal/Counties/Castelo_Branco.public|Castelo_Branco.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Portugal/Counties/Castelo_Branco.internal|Castelo_Branco.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Portugal/Counties/Castelo_Branco.protect|Castelo_Branco.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Portugal/Counties/Castelo_Branco.private|Castelo_Branco.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Portugal/Counties/Castelo_Branco.personal|Castelo_Branco.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Portugal/Counties/Castelo_Branco.secret|Castelo_Branco.secret]] 
 

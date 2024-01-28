@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 48.1 , 27.3 ] 
 type: geo-Region
 title: Edineţ
@@ -40,10 +40,11 @@ markerFolder: ./Edineţ/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Moldova/Counties/Edineţ.md|Edineţ]] 
-- [[../../../../_internal/geo/Continent/Europe/Moldova/Counties/Edineţ.internal|Edineţ.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Moldova/Counties/Edineţ.protect|Edineţ.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Moldova/Counties/Edineţ.private|Edineţ.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Moldova/Counties/Edineţ.personal|Edineţ.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Moldova/Counties/Edineţ.secret|Edineţ.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Moldova/Counties/Edineţ|Edineţ]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Moldova/Counties/Edineţ.public|Edineţ.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Moldova/Counties/Edineţ.internal|Edineţ.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Moldova/Counties/Edineţ.protect|Edineţ.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Moldova/Counties/Edineţ.private|Edineţ.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Moldova/Counties/Edineţ.personal|Edineţ.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Moldova/Counties/Edineţ.secret|Edineţ.secret]] 
 

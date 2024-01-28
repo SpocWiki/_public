@@ -1,5 +1,5 @@
-﻿---
-location: [57.78,43.27]
+---
+location: [57.78,43.27] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,29 +12,30 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::43.27]
-[geo-lat::57.78]
-[name::Kastona]
-[State::]
-[Country::[[Russia]]]
-[StateId::]
-[Population::]
-[Unknown::]
+[geo-lon::43.27] 
+[geo-lat::57.78] 
+[name::Kastona] 
+State ::  
+Country :: [[Russia]]  
+[StateId::] 
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Kastona
-coordinates: [[Kastona]]
-markerFile: [[Kastona]]
+coordinates: [[Kastona]] 
+markerFile: [[Kastona]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_public/geo/Continent/Europe/Russia/City/Kastona.md|Kastona]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Kastona.internal|Kastona.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Kastona.protect|Kastona.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Kastona.private|Kastona.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Kastona.personal|Kastona.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Kastona.secret|Kastona.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Russia/City/Kastona|Kastona]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Russia/City/Kastona.public|Kastona.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Russia/City/Kastona.internal|Kastona.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Russia/City/Kastona.protect|Kastona.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Russia/City/Kastona.private|Kastona.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Russia/City/Kastona.personal|Kastona.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Russia/City/Kastona.secret|Kastona.secret]] 

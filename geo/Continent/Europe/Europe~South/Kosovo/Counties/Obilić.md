@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 42.71 , 21.06 ] 
 type: geo-Region
 title: Obilić
@@ -40,10 +40,11 @@ markerFolder: ./Obilić/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Kosovo/Counties/Obilić.md|Obilić]] 
-- [[../../../../_internal/geo/Continent/Europe/Kosovo/Counties/Obilić.internal|Obilić.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Kosovo/Counties/Obilić.protect|Obilić.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Kosovo/Counties/Obilić.private|Obilić.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Kosovo/Counties/Obilić.personal|Obilić.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Kosovo/Counties/Obilić.secret|Obilić.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Kosovo/Counties/Obilić|Obilić]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Kosovo/Counties/Obilić.public|Obilić.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Kosovo/Counties/Obilić.internal|Obilić.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Kosovo/Counties/Obilić.protect|Obilić.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Kosovo/Counties/Obilić.private|Obilić.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Kosovo/Counties/Obilić.personal|Obilić.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Kosovo/Counties/Obilić.secret|Obilić.secret]] 
 

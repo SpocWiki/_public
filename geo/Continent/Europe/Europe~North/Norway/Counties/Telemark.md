@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 59.5 , 8.6 ] 
 type: geo-Region
 title: Telemark
@@ -40,10 +40,11 @@ markerFolder: ./Telemark/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Norway/Counties/Telemark.md|Telemark]] 
-- [[../../../../_internal/geo/Continent/Europe/Norway/Counties/Telemark.internal|Telemark.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Norway/Counties/Telemark.protect|Telemark.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Norway/Counties/Telemark.private|Telemark.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Norway/Counties/Telemark.personal|Telemark.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Norway/Counties/Telemark.secret|Telemark.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Norway/Counties/Telemark|Telemark]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Norway/Counties/Telemark.public|Telemark.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Norway/Counties/Telemark.internal|Telemark.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Norway/Counties/Telemark.protect|Telemark.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Norway/Counties/Telemark.private|Telemark.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Norway/Counties/Telemark.personal|Telemark.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Norway/Counties/Telemark.secret|Telemark.secret]] 
 

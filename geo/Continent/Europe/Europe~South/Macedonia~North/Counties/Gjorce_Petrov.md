@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 42.04 , 21.33 ] 
 type: geo-Region
 title: Gjorce_Petrov
@@ -40,10 +40,11 @@ markerFolder: ./Gjorce_Petrov/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Macedonia~North/Counties/Gjorce_Petrov.md|Gjorce_Petrov]] 
-- [[../../../../_internal/geo/Continent/Europe/Macedonia~North/Counties/Gjorce_Petrov.internal|Gjorce_Petrov.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Macedonia~North/Counties/Gjorce_Petrov.protect|Gjorce_Petrov.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Macedonia~North/Counties/Gjorce_Petrov.private|Gjorce_Petrov.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Macedonia~North/Counties/Gjorce_Petrov.personal|Gjorce_Petrov.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Macedonia~North/Counties/Gjorce_Petrov.secret|Gjorce_Petrov.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Macedonia~North/Counties/Gjorce_Petrov|Gjorce_Petrov]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Macedonia~North/Counties/Gjorce_Petrov.public|Gjorce_Petrov.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Macedonia~North/Counties/Gjorce_Petrov.internal|Gjorce_Petrov.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Macedonia~North/Counties/Gjorce_Petrov.protect|Gjorce_Petrov.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Macedonia~North/Counties/Gjorce_Petrov.private|Gjorce_Petrov.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Macedonia~North/Counties/Gjorce_Petrov.personal|Gjorce_Petrov.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Macedonia~North/Counties/Gjorce_Petrov.secret|Gjorce_Petrov.secret]] 
 

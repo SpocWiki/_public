@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 52.4 , -1.5 ] 
 type: geo-Region
 title: Coventry
@@ -40,10 +40,11 @@ markerFolder: ./Coventry/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/United_Kingdom/England/Counties/Coventry.md|Coventry]] 
-- [[../../../../_internal/geo/Continent/Europe/United_Kingdom/England/Counties/Coventry.internal|Coventry.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/United_Kingdom/England/Counties/Coventry.protect|Coventry.protect]] 
-- [[../../../../_private/geo/Continent/Europe/United_Kingdom/England/Counties/Coventry.private|Coventry.private]] 
-- [[../../../../_personal/geo/Continent/Europe/United_Kingdom/England/Counties/Coventry.personal|Coventry.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/United_Kingdom/England/Counties/Coventry.secret|Coventry.secret]] 
+- [[../../../../../../../../_Standards/geo/Continent/Europe/Europe~North/United_Kingdom/England/Counties/Coventry|Coventry]] 
+- [[../../../../../../../../_public/geo/Continent/Europe/Europe~North/United_Kingdom/England/Counties/Coventry.public|Coventry.public]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/Europe~North/United_Kingdom/England/Counties/Coventry.internal|Coventry.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/Europe~North/United_Kingdom/England/Counties/Coventry.protect|Coventry.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/Europe~North/United_Kingdom/England/Counties/Coventry.private|Coventry.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/Europe~North/United_Kingdom/England/Counties/Coventry.personal|Coventry.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/Europe~North/United_Kingdom/England/Counties/Coventry.secret|Coventry.secret]] 
 

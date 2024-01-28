@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 40.7 , 37.5 ] 
 type: geo-Region
 title: Ordu
@@ -40,10 +40,11 @@ markerFolder: ./Ordu/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Turkey/Counties/Ordu.md|Ordu]] 
-- [[../../../../_internal/geo/Continent/Europe/Turkey/Counties/Ordu.internal|Ordu.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Turkey/Counties/Ordu.protect|Ordu.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Turkey/Counties/Ordu.private|Ordu.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Turkey/Counties/Ordu.personal|Ordu.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Turkey/Counties/Ordu.secret|Ordu.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Turkey/Counties/Ordu|Ordu]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Turkey/Counties/Ordu.public|Ordu.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Turkey/Counties/Ordu.internal|Ordu.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Turkey/Counties/Ordu.protect|Ordu.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Turkey/Counties/Ordu.private|Ordu.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Turkey/Counties/Ordu.personal|Ordu.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Turkey/Counties/Ordu.secret|Ordu.secret]] 
 

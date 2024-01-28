@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 63.1 , 27.5 ] 
 type: geo-Region
 title: Northern_Savonia
@@ -40,10 +40,11 @@ markerFolder: ./Northern_Savonia/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Finland/Counties/Northern_Savonia.md|Northern_Savonia]] 
-- [[../../../../_internal/geo/Continent/Europe/Finland/Counties/Northern_Savonia.internal|Northern_Savonia.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Finland/Counties/Northern_Savonia.protect|Northern_Savonia.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Finland/Counties/Northern_Savonia.private|Northern_Savonia.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Finland/Counties/Northern_Savonia.personal|Northern_Savonia.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Finland/Counties/Northern_Savonia.secret|Northern_Savonia.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Finland/Counties/Northern_Savonia|Northern_Savonia]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Finland/Counties/Northern_Savonia.public|Northern_Savonia.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Finland/Counties/Northern_Savonia.internal|Northern_Savonia.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Finland/Counties/Northern_Savonia.protect|Northern_Savonia.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Finland/Counties/Northern_Savonia.private|Northern_Savonia.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Finland/Counties/Northern_Savonia.personal|Northern_Savonia.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Finland/Counties/Northern_Savonia.secret|Northern_Savonia.secret]] 
 

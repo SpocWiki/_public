@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 65.5 , -17.4 ] 
 type: geo-Region
 title: Norðurland_eystra
@@ -40,10 +40,11 @@ markerFolder: ./Norðurland_eystra/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Iceland/Counties/Norðurland_eystra.md|Norðurland_eystra]] 
-- [[../../../../_internal/geo/Continent/Europe/Iceland/Counties/Norðurland_eystra.internal|Norðurland_eystra.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Iceland/Counties/Norðurland_eystra.protect|Norðurland_eystra.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Iceland/Counties/Norðurland_eystra.private|Norðurland_eystra.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Iceland/Counties/Norðurland_eystra.personal|Norðurland_eystra.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Iceland/Counties/Norðurland_eystra.secret|Norðurland_eystra.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Iceland/Counties/Norðurland_eystra|Norðurland_eystra]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Iceland/Counties/Norðurland_eystra.public|Norðurland_eystra.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Iceland/Counties/Norðurland_eystra.internal|Norðurland_eystra.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Iceland/Counties/Norðurland_eystra.protect|Norðurland_eystra.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Iceland/Counties/Norðurland_eystra.private|Norðurland_eystra.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Iceland/Counties/Norðurland_eystra.personal|Norðurland_eystra.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Iceland/Counties/Norðurland_eystra.secret|Norðurland_eystra.secret]] 
 

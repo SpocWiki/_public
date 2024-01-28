@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 35.89 , 14.49 ] 
 type: geo-Region
 title: Pietà
@@ -40,10 +40,11 @@ markerFolder: ./Pietà/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Malta/Counties/Pietà.md|Pietà]] 
-- [[../../../../_internal/geo/Continent/Europe/Malta/Counties/Pietà.internal|Pietà.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Malta/Counties/Pietà.protect|Pietà.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Malta/Counties/Pietà.private|Pietà.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Malta/Counties/Pietà.personal|Pietà.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Malta/Counties/Pietà.secret|Pietà.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Malta/Counties/Pietà|Pietà]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Malta/Counties/Pietà.public|Pietà.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Malta/Counties/Pietà.internal|Pietà.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Malta/Counties/Pietà.protect|Pietà.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Malta/Counties/Pietà.private|Pietà.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Malta/Counties/Pietà.personal|Pietà.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Malta/Counties/Pietà.secret|Pietà.secret]] 
 

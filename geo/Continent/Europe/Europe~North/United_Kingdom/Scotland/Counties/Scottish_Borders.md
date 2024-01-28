@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 55.5 , -2.9 ] 
 type: geo-Region
 title: Scottish_Borders
@@ -40,10 +40,11 @@ markerFolder: ./Scottish_Borders/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/United_Kingdom/Scotland/Counties/Scottish_Borders.md|Scottish_Borders]] 
-- [[../../../../_internal/geo/Continent/Europe/United_Kingdom/Scotland/Counties/Scottish_Borders.internal|Scottish_Borders.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/United_Kingdom/Scotland/Counties/Scottish_Borders.protect|Scottish_Borders.protect]] 
-- [[../../../../_private/geo/Continent/Europe/United_Kingdom/Scotland/Counties/Scottish_Borders.private|Scottish_Borders.private]] 
-- [[../../../../_personal/geo/Continent/Europe/United_Kingdom/Scotland/Counties/Scottish_Borders.personal|Scottish_Borders.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/United_Kingdom/Scotland/Counties/Scottish_Borders.secret|Scottish_Borders.secret]] 
+- [[../../../../../../../../_Standards/geo/Continent/Europe/Europe~North/United_Kingdom/Scotland/Counties/Scottish_Borders|Scottish_Borders]] 
+- [[../../../../../../../../_public/geo/Continent/Europe/Europe~North/United_Kingdom/Scotland/Counties/Scottish_Borders.public|Scottish_Borders.public]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/Europe~North/United_Kingdom/Scotland/Counties/Scottish_Borders.internal|Scottish_Borders.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/Europe~North/United_Kingdom/Scotland/Counties/Scottish_Borders.protect|Scottish_Borders.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/Europe~North/United_Kingdom/Scotland/Counties/Scottish_Borders.private|Scottish_Borders.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/Europe~North/United_Kingdom/Scotland/Counties/Scottish_Borders.personal|Scottish_Borders.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/Europe~North/United_Kingdom/Scotland/Counties/Scottish_Borders.secret|Scottish_Borders.secret]] 
 

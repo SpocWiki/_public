@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 47.1 , 16.8 ] 
 type: geo-Region
 title: Vas
@@ -40,10 +40,11 @@ markerFolder: ./Vas/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Hungary/Counties/Vas.md|Vas]] 
-- [[../../../../_internal/geo/Continent/Europe/Hungary/Counties/Vas.internal|Vas.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Hungary/Counties/Vas.protect|Vas.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Hungary/Counties/Vas.private|Vas.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Hungary/Counties/Vas.personal|Vas.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Hungary/Counties/Vas.secret|Vas.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Hungary/Counties/Vas|Vas]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Hungary/Counties/Vas.public|Vas.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Hungary/Counties/Vas.internal|Vas.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Hungary/Counties/Vas.protect|Vas.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Hungary/Counties/Vas.private|Vas.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Hungary/Counties/Vas.personal|Vas.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Hungary/Counties/Vas.secret|Vas.secret]] 
 

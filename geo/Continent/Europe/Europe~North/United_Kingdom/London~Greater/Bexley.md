@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 51.45 , 0.15 ] 
 type: geo-Region
 title: Bexley
@@ -40,10 +40,11 @@ markerFolder: ./Bexley/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/United_Kingdom/London~Greater/Bexley.md|Bexley]] 
-- [[../../../../_internal/geo/Continent/Europe/United_Kingdom/London~Greater/Bexley.internal|Bexley.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/United_Kingdom/London~Greater/Bexley.protect|Bexley.protect]] 
-- [[../../../../_private/geo/Continent/Europe/United_Kingdom/London~Greater/Bexley.private|Bexley.private]] 
-- [[../../../../_personal/geo/Continent/Europe/United_Kingdom/London~Greater/Bexley.personal|Bexley.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/United_Kingdom/London~Greater/Bexley.secret|Bexley.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/United_Kingdom/London~Greater/Bexley|Bexley]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/United_Kingdom/London~Greater/Bexley.public|Bexley.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/United_Kingdom/London~Greater/Bexley.internal|Bexley.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/United_Kingdom/London~Greater/Bexley.protect|Bexley.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/United_Kingdom/London~Greater/Bexley.private|Bexley.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/United_Kingdom/London~Greater/Bexley.personal|Bexley.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/United_Kingdom/London~Greater/Bexley.secret|Bexley.secret]] 
 

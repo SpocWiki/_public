@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 37.2 , -8.2 ] 
 type: geo-Region
 title: Faro
@@ -40,10 +40,11 @@ markerFolder: ./Faro/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Portugal/Counties/Faro.md|Faro]] 
-- [[../../../../_internal/geo/Continent/Europe/Portugal/Counties/Faro.internal|Faro.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Portugal/Counties/Faro.protect|Faro.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Portugal/Counties/Faro.private|Faro.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Portugal/Counties/Faro.personal|Faro.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Portugal/Counties/Faro.secret|Faro.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Portugal/Counties/Faro|Faro]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Portugal/Counties/Faro.public|Faro.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Portugal/Counties/Faro.internal|Faro.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Portugal/Counties/Faro.protect|Faro.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Portugal/Counties/Faro.private|Faro.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Portugal/Counties/Faro.personal|Faro.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Portugal/Counties/Faro.secret|Faro.secret]] 
 

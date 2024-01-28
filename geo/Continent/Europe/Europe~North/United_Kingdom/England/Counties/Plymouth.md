@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 50.4 , -4.1 ] 
 type: geo-Region
 title: Plymouth
@@ -40,10 +40,11 @@ markerFolder: ./Plymouth/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/United_Kingdom/England/Counties/Plymouth.md|Plymouth]] 
-- [[../../../../_internal/geo/Continent/Europe/United_Kingdom/England/Counties/Plymouth.internal|Plymouth.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/United_Kingdom/England/Counties/Plymouth.protect|Plymouth.protect]] 
-- [[../../../../_private/geo/Continent/Europe/United_Kingdom/England/Counties/Plymouth.private|Plymouth.private]] 
-- [[../../../../_personal/geo/Continent/Europe/United_Kingdom/England/Counties/Plymouth.personal|Plymouth.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/United_Kingdom/England/Counties/Plymouth.secret|Plymouth.secret]] 
+- [[../../../../../../../../_Standards/geo/Continent/Europe/Europe~North/United_Kingdom/England/Counties/Plymouth|Plymouth]] 
+- [[../../../../../../../../_public/geo/Continent/Europe/Europe~North/United_Kingdom/England/Counties/Plymouth.public|Plymouth.public]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/Europe~North/United_Kingdom/England/Counties/Plymouth.internal|Plymouth.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/Europe~North/United_Kingdom/England/Counties/Plymouth.protect|Plymouth.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/Europe~North/United_Kingdom/England/Counties/Plymouth.private|Plymouth.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/Europe~North/United_Kingdom/England/Counties/Plymouth.personal|Plymouth.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/Europe~North/United_Kingdom/England/Counties/Plymouth.secret|Plymouth.secret]] 
 

@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 52.5 , 6.4 ] 
 type: geo-Region
 title: Overijssel
@@ -40,10 +40,11 @@ markerFolder: ./Overijssel/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Netherlands/Counties/Overijssel.md|Overijssel]] 
-- [[../../../../_internal/geo/Continent/Europe/Netherlands/Counties/Overijssel.internal|Overijssel.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Netherlands/Counties/Overijssel.protect|Overijssel.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Netherlands/Counties/Overijssel.private|Overijssel.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Netherlands/Counties/Overijssel.personal|Overijssel.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Netherlands/Counties/Overijssel.secret|Overijssel.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~West/Netherlands/Counties/Overijssel|Overijssel]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~West/Netherlands/Counties/Overijssel.public|Overijssel.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~West/Netherlands/Counties/Overijssel.internal|Overijssel.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~West/Netherlands/Counties/Overijssel.protect|Overijssel.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~West/Netherlands/Counties/Overijssel.private|Overijssel.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~West/Netherlands/Counties/Overijssel.personal|Overijssel.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~West/Netherlands/Counties/Overijssel.secret|Overijssel.secret]] 
 

@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 56.7 , 24.7 ] 
 type: geo-Region
 title: Keguma
@@ -40,10 +40,11 @@ markerFolder: ./Keguma/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Latvia/Counties/Keguma.md|Keguma]] 
-- [[../../../../_internal/geo/Continent/Europe/Latvia/Counties/Keguma.internal|Keguma.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Latvia/Counties/Keguma.protect|Keguma.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Latvia/Counties/Keguma.private|Keguma.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Latvia/Counties/Keguma.personal|Keguma.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Latvia/Counties/Keguma.secret|Keguma.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Latvia/Counties/Keguma|Keguma]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Latvia/Counties/Keguma.public|Keguma.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Latvia/Counties/Keguma.internal|Keguma.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Latvia/Counties/Keguma.protect|Keguma.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Latvia/Counties/Keguma.private|Keguma.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Latvia/Counties/Keguma.personal|Keguma.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Latvia/Counties/Keguma.secret|Keguma.secret]] 
 

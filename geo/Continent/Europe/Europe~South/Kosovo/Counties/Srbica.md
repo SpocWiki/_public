@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 42.7 , 20.8 ] 
 type: geo-Region
 title: Srbica
@@ -40,10 +40,11 @@ markerFolder: ./Srbica/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Kosovo/Counties/Srbica.md|Srbica]] 
-- [[../../../../_internal/geo/Continent/Europe/Kosovo/Counties/Srbica.internal|Srbica.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Kosovo/Counties/Srbica.protect|Srbica.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Kosovo/Counties/Srbica.private|Srbica.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Kosovo/Counties/Srbica.personal|Srbica.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Kosovo/Counties/Srbica.secret|Srbica.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Kosovo/Counties/Srbica|Srbica]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Kosovo/Counties/Srbica.public|Srbica.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Kosovo/Counties/Srbica.internal|Srbica.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Kosovo/Counties/Srbica.protect|Srbica.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Kosovo/Counties/Srbica.private|Srbica.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Kosovo/Counties/Srbica.personal|Srbica.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Kosovo/Counties/Srbica.secret|Srbica.secret]] 
 

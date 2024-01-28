@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 42.1 , 21.8 ] 
 type: geo-Region
 title: Kumanovo
@@ -40,10 +40,11 @@ markerFolder: ./Kumanovo/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Macedonia~North/Counties/Kumanovo.md|Kumanovo]] 
-- [[../../../../_internal/geo/Continent/Europe/Macedonia~North/Counties/Kumanovo.internal|Kumanovo.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Macedonia~North/Counties/Kumanovo.protect|Kumanovo.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Macedonia~North/Counties/Kumanovo.private|Kumanovo.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Macedonia~North/Counties/Kumanovo.personal|Kumanovo.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Macedonia~North/Counties/Kumanovo.secret|Kumanovo.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Macedonia~North/Counties/Kumanovo|Kumanovo]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Macedonia~North/Counties/Kumanovo.public|Kumanovo.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Macedonia~North/Counties/Kumanovo.internal|Kumanovo.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Macedonia~North/Counties/Kumanovo.protect|Kumanovo.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Macedonia~North/Counties/Kumanovo.private|Kumanovo.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Macedonia~North/Counties/Kumanovo.personal|Kumanovo.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Macedonia~North/Counties/Kumanovo.secret|Kumanovo.secret]] 
 

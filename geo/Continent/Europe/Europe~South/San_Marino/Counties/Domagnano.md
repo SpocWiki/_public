@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 43.95 , 12.47 ] 
 type: geo-Region
 title: Domagnano
@@ -40,10 +40,11 @@ markerFolder: ./Domagnano/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/San_Marino/Counties/Domagnano.md|Domagnano]] 
-- [[../../../../_internal/geo/Continent/Europe/San_Marino/Counties/Domagnano.internal|Domagnano.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/San_Marino/Counties/Domagnano.protect|Domagnano.protect]] 
-- [[../../../../_private/geo/Continent/Europe/San_Marino/Counties/Domagnano.private|Domagnano.private]] 
-- [[../../../../_personal/geo/Continent/Europe/San_Marino/Counties/Domagnano.personal|Domagnano.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/San_Marino/Counties/Domagnano.secret|Domagnano.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/San_Marino/Counties/Domagnano|Domagnano]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/San_Marino/Counties/Domagnano.public|Domagnano.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/San_Marino/Counties/Domagnano.internal|Domagnano.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/San_Marino/Counties/Domagnano.protect|Domagnano.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/San_Marino/Counties/Domagnano.private|Domagnano.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/San_Marino/Counties/Domagnano.personal|Domagnano.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/San_Marino/Counties/Domagnano.secret|Domagnano.secret]] 
 

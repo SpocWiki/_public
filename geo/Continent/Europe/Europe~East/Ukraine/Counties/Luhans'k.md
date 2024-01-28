@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 48.9 , 38.9 ] 
 type: geo-Region
 title: Luhans'k
@@ -40,10 +40,11 @@ markerFolder: ./Luhans'k/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Ukraine/Counties/Luhans'k.md|Luhans'k]] 
-- [[../../../../_internal/geo/Continent/Europe/Ukraine/Counties/Luhans'k.internal|Luhans'k.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Ukraine/Counties/Luhans'k.protect|Luhans'k.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Ukraine/Counties/Luhans'k.private|Luhans'k.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Ukraine/Counties/Luhans'k.personal|Luhans'k.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Ukraine/Counties/Luhans'k.secret|Luhans'k.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Ukraine/Counties/Luhans'k|Luhans'k]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Ukraine/Counties/Luhans'k.public|Luhans'k.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Ukraine/Counties/Luhans'k.internal|Luhans'k.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Ukraine/Counties/Luhans'k.protect|Luhans'k.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Ukraine/Counties/Luhans'k.private|Luhans'k.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Ukraine/Counties/Luhans'k.personal|Luhans'k.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Ukraine/Counties/Luhans'k.secret|Luhans'k.secret]] 
 

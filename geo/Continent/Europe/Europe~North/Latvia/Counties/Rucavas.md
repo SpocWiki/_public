@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 56.2 , 21.2 ] 
 type: geo-Region
 title: Rucavas
@@ -40,10 +40,11 @@ markerFolder: ./Rucavas/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Latvia/Counties/Rucavas.md|Rucavas]] 
-- [[../../../../_internal/geo/Continent/Europe/Latvia/Counties/Rucavas.internal|Rucavas.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Latvia/Counties/Rucavas.protect|Rucavas.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Latvia/Counties/Rucavas.private|Rucavas.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Latvia/Counties/Rucavas.personal|Rucavas.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Latvia/Counties/Rucavas.secret|Rucavas.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Latvia/Counties/Rucavas|Rucavas]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Latvia/Counties/Rucavas.public|Rucavas.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Latvia/Counties/Rucavas.internal|Rucavas.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Latvia/Counties/Rucavas.protect|Rucavas.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Latvia/Counties/Rucavas.private|Rucavas.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Latvia/Counties/Rucavas.personal|Rucavas.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Latvia/Counties/Rucavas.secret|Rucavas.secret]] 
 

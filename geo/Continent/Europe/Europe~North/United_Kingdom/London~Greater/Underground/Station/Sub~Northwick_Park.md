@@ -1,5 +1,5 @@
 ---
-location: [51.5784,-0.3184]
+location: [51.5784,-0.3184] 
 type: Station 
 mapzoom: [8,15] 
 mapmarker: subway 
@@ -8,24 +8,24 @@ tags:
 - Europe/United_Kingdom/City~London
 ---
 SpocWebEntityId: 156029
-[StationSId::]
+[StationSId::] 
 isDeleted: false
 isReadOnly: false
 confidential: public
-[geo-lon::-0.3184]
-[geo-lat::51.5784]
-[name::Northwick Park]
-[zone::4]
-[Num_lines::1]
-[switch-to-Rail::0]
-[Country::[[United_Kingdom]]]
-[City::[[../../../London]]]
+[geo-lon::-0.3184] 
+[geo-lat::51.5784] 
+[name::Northwick Park] 
+[zone::4] 
+[Num_lines::1] 
+[switch-to-Rail::0] 
+Country :: [[United_Kingdom]]  
+City :: [[../../../London]]  
 
 
 ```leaflet
 id: Sub~Northwick_Park
-coordinates: [[Sub~Northwick_Park]]
-markerFile: [[Sub~Northwick_Park]]
+coordinates: [[Sub~Northwick_Park]] 
+markerFile: [[Sub~Northwick_Park]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
@@ -34,13 +34,14 @@ maxZoom: 18
 # Lines: 
 ```dataview
 TABLE 
-FROM [[]]
+FROM [[]] 
 ```
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_public/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Northwick_Park.md|Sub~Northwick_Park]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Northwick_Park.internal|Sub~Northwick_Park.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Northwick_Park.protect|Sub~Northwick_Park.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Northwick_Park.private|Sub~Northwick_Park.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Northwick_Park.personal|Sub~Northwick_Park.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Northwick_Park.secret|Sub~Northwick_Park.secret]] 
+- [[../../../../../../../../../_Standards/geo/Continent/Europe/Europe~North/United_Kingdom/London~Greater/Underground/Station/Sub~Northwick_Park|Sub~Northwick_Park]] 
+- [[../../../../../../../../../_public/geo/Continent/Europe/Europe~North/United_Kingdom/London~Greater/Underground/Station/Sub~Northwick_Park.public|Sub~Northwick_Park.public]] 
+- [[../../../../../../../../../_internal/geo/Continent/Europe/Europe~North/United_Kingdom/London~Greater/Underground/Station/Sub~Northwick_Park.internal|Sub~Northwick_Park.internal]] 
+- [[../../../../../../../../../_protect/geo/Continent/Europe/Europe~North/United_Kingdom/London~Greater/Underground/Station/Sub~Northwick_Park.protect|Sub~Northwick_Park.protect]] 
+- [[../../../../../../../../../_private/geo/Continent/Europe/Europe~North/United_Kingdom/London~Greater/Underground/Station/Sub~Northwick_Park.private|Sub~Northwick_Park.private]] 
+- [[../../../../../../../../../_personal/geo/Continent/Europe/Europe~North/United_Kingdom/London~Greater/Underground/Station/Sub~Northwick_Park.personal|Sub~Northwick_Park.personal]] 
+- [[../../../../../../../../../_secret/geo/Continent/Europe/Europe~North/United_Kingdom/London~Greater/Underground/Station/Sub~Northwick_Park.secret|Sub~Northwick_Park.secret]] 

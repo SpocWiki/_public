@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 52 , 4.4 ] 
 type: geo-Region
 title: Zuid-Holland
@@ -40,12 +40,13 @@ markerFolder: ./Zuid-Holland/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Netherlands/Counties/Zuid-Holland.md|Zuid-Holland]] 
-- [[../../../../_internal/geo/Continent/Europe/Netherlands/Counties/Zuid-Holland.internal|Zuid-Holland.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Netherlands/Counties/Zuid-Holland.protect|Zuid-Holland.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Netherlands/Counties/Zuid-Holland.private|Zuid-Holland.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Netherlands/Counties/Zuid-Holland.personal|Zuid-Holland.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Netherlands/Counties/Zuid-Holland.secret|Zuid-Holland.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~West/Netherlands/Counties/Zuid-Holland|Zuid-Holland]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~West/Netherlands/Counties/Zuid-Holland.public|Zuid-Holland.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~West/Netherlands/Counties/Zuid-Holland.internal|Zuid-Holland.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~West/Netherlands/Counties/Zuid-Holland.protect|Zuid-Holland.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~West/Netherlands/Counties/Zuid-Holland.private|Zuid-Holland.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~West/Netherlands/Counties/Zuid-Holland.personal|Zuid-Holland.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~West/Netherlands/Counties/Zuid-Holland.secret|Zuid-Holland.secret]] 
 
 
 ```leaflet

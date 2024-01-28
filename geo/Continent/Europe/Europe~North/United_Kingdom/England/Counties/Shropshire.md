@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 52.6 , -2.8 ] 
 type: geo-Region
 title: Shropshire
@@ -40,10 +40,11 @@ markerFolder: ./Shropshire/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/United_Kingdom/England/Counties/Shropshire.md|Shropshire]] 
-- [[../../../../_internal/geo/Continent/Europe/United_Kingdom/England/Counties/Shropshire.internal|Shropshire.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/United_Kingdom/England/Counties/Shropshire.protect|Shropshire.protect]] 
-- [[../../../../_private/geo/Continent/Europe/United_Kingdom/England/Counties/Shropshire.private|Shropshire.private]] 
-- [[../../../../_personal/geo/Continent/Europe/United_Kingdom/England/Counties/Shropshire.personal|Shropshire.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/United_Kingdom/England/Counties/Shropshire.secret|Shropshire.secret]] 
+- [[../../../../../../../../_Standards/geo/Continent/Europe/Europe~North/United_Kingdom/England/Counties/Shropshire|Shropshire]] 
+- [[../../../../../../../../_public/geo/Continent/Europe/Europe~North/United_Kingdom/England/Counties/Shropshire.public|Shropshire.public]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/Europe~North/United_Kingdom/England/Counties/Shropshire.internal|Shropshire.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/Europe~North/United_Kingdom/England/Counties/Shropshire.protect|Shropshire.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/Europe~North/United_Kingdom/England/Counties/Shropshire.private|Shropshire.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/Europe~North/United_Kingdom/England/Counties/Shropshire.personal|Shropshire.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/Europe~North/United_Kingdom/England/Counties/Shropshire.secret|Shropshire.secret]] 
 

@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 41.2 , 22.7 ] 
 type: geo-Region
 title: Dojran
@@ -40,10 +40,11 @@ markerFolder: ./Dojran/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Macedonia~North/Counties/Dojran.md|Dojran]] 
-- [[../../../../_internal/geo/Continent/Europe/Macedonia~North/Counties/Dojran.internal|Dojran.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Macedonia~North/Counties/Dojran.protect|Dojran.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Macedonia~North/Counties/Dojran.private|Dojran.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Macedonia~North/Counties/Dojran.personal|Dojran.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Macedonia~North/Counties/Dojran.secret|Dojran.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Macedonia~North/Counties/Dojran|Dojran]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Macedonia~North/Counties/Dojran.public|Dojran.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Macedonia~North/Counties/Dojran.internal|Dojran.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Macedonia~North/Counties/Dojran.protect|Dojran.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Macedonia~North/Counties/Dojran.private|Dojran.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Macedonia~North/Counties/Dojran.personal|Dojran.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Macedonia~North/Counties/Dojran.secret|Dojran.secret]] 
 

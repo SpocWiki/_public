@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 45.8 , 26.9 ] 
 type: geo-Region
 title: Vrancea
@@ -40,10 +40,11 @@ markerFolder: ./Vrancea/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Romania/Counties/Vrancea.md|Vrancea]] 
-- [[../../../../_internal/geo/Continent/Europe/Romania/Counties/Vrancea.internal|Vrancea.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Romania/Counties/Vrancea.protect|Vrancea.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Romania/Counties/Vrancea.private|Vrancea.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Romania/Counties/Vrancea.personal|Vrancea.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Romania/Counties/Vrancea.secret|Vrancea.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Romania/Counties/Vrancea|Vrancea]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Romania/Counties/Vrancea.public|Vrancea.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Romania/Counties/Vrancea.internal|Vrancea.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Romania/Counties/Vrancea.protect|Vrancea.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Romania/Counties/Vrancea.private|Vrancea.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Romania/Counties/Vrancea.personal|Vrancea.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Romania/Counties/Vrancea.secret|Vrancea.secret]] 
 

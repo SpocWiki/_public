@@ -1,5 +1,5 @@
-﻿---
-location: [56.02,23]
+---
+location: [56.02,23] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,29 +12,30 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::23]
-[geo-lat::56.02]
-[name::Kursenau]
-[State::]
-[Country::[[Russia]]]
-[StateId::]
-[Population::]
-[Unknown::]
+[geo-lon::23] 
+[geo-lat::56.02] 
+[name::Kursenau] 
+State ::  
+Country :: [[Russia]]  
+[StateId::] 
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Kursenau
-coordinates: [[Kursenau]]
-markerFile: [[Kursenau]]
+coordinates: [[Kursenau]] 
+markerFile: [[Kursenau]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_public/geo/Continent/Europe/Russia/City/Kursenau.md|Kursenau]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Kursenau.internal|Kursenau.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Kursenau.protect|Kursenau.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Kursenau.private|Kursenau.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Kursenau.personal|Kursenau.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Kursenau.secret|Kursenau.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Russia/City/Kursenau|Kursenau]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Russia/City/Kursenau.public|Kursenau.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Russia/City/Kursenau.internal|Kursenau.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Russia/City/Kursenau.protect|Kursenau.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Russia/City/Kursenau.private|Kursenau.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Russia/City/Kursenau.personal|Kursenau.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Russia/City/Kursenau.secret|Kursenau.secret]] 

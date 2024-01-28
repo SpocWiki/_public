@@ -1,5 +1,5 @@
-﻿---
-location: [52.38,38.92]
+---
+location: [52.38,38.92] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,29 +12,30 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::38.92]
-[geo-lat::52.38]
-[name::Zadowsk]
-[State::]
-[Country::[[Russia]]]
-[StateId::]
-[Population::]
-[Unknown::]
+[geo-lon::38.92] 
+[geo-lat::52.38] 
+[name::Zadowsk] 
+State ::  
+Country :: [[Russia]]  
+[StateId::] 
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Zadowsk
-coordinates: [[Zadowsk]]
-markerFile: [[Zadowsk]]
+coordinates: [[Zadowsk]] 
+markerFile: [[Zadowsk]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_public/geo/Continent/Europe/Russia/City/Zadowsk.md|Zadowsk]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Zadowsk.internal|Zadowsk.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Zadowsk.protect|Zadowsk.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Zadowsk.private|Zadowsk.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Zadowsk.personal|Zadowsk.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Zadowsk.secret|Zadowsk.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Russia/City/Zadowsk|Zadowsk]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Russia/City/Zadowsk.public|Zadowsk.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Russia/City/Zadowsk.internal|Zadowsk.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Russia/City/Zadowsk.protect|Zadowsk.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Russia/City/Zadowsk.private|Zadowsk.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Russia/City/Zadowsk.personal|Zadowsk.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Russia/City/Zadowsk.secret|Zadowsk.secret]] 

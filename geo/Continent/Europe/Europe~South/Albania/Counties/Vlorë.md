@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 40.1 , 19.8 ] 
 type: geo-Region
 title: Vlorë
@@ -40,10 +40,11 @@ markerFolder: ./Vlorë/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Albania/Counties/Vlorë.md|Vlorë]] 
-- [[../../../../_internal/geo/Continent/Europe/Albania/Counties/Vlorë.internal|Vlorë.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Albania/Counties/Vlorë.protect|Vlorë.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Albania/Counties/Vlorë.private|Vlorë.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Albania/Counties/Vlorë.personal|Vlorë.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Albania/Counties/Vlorë.secret|Vlorë.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Albania/Counties/Vlorë|Vlorë]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Albania/Counties/Vlorë.public|Vlorë.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Albania/Counties/Vlorë.internal|Vlorë.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Albania/Counties/Vlorë.protect|Vlorë.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Albania/Counties/Vlorë.private|Vlorë.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Albania/Counties/Vlorë.personal|Vlorë.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Albania/Counties/Vlorë.secret|Vlorë.secret]] 
 

@@ -1,5 +1,5 @@
-﻿---
-location: [50.3,18.82]
+---
+location: [50.3,18.82] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,29 +12,30 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::18.82]
-[geo-lat::50.3]
-[name::Zaborze]
-[State::]
-[Country::[[Poland]]]
-[StateId::]
-[Population::]
-[Unknown::]
+[geo-lon::18.82] 
+[geo-lat::50.3] 
+[name::Zaborze] 
+State ::  
+Country :: [[Poland]]  
+[StateId::] 
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Zaborze
-coordinates: [[Zaborze]]
-markerFile: [[Zaborze]]
+coordinates: [[Zaborze]] 
+markerFile: [[Zaborze]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_public/geo/Continent/Europe/Poland/City/Zaborze.md|Zaborze]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Zaborze.internal|Zaborze.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Zaborze.protect|Zaborze.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Zaborze.private|Zaborze.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Zaborze.personal|Zaborze.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Zaborze.secret|Zaborze.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Poland/City/Zaborze|Zaborze]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Poland/City/Zaborze.public|Zaborze.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Poland/City/Zaborze.internal|Zaborze.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Poland/City/Zaborze.protect|Zaborze.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Poland/City/Zaborze.private|Zaborze.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Poland/City/Zaborze.personal|Zaborze.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Poland/City/Zaborze.secret|Zaborze.secret]] 

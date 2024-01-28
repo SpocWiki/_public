@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 56.8 , 26.1 ] 
 type: geo-Region
 title: Madona
@@ -40,10 +40,11 @@ markerFolder: ./Madona/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Latvia/Counties/Madona.md|Madona]] 
-- [[../../../../_internal/geo/Continent/Europe/Latvia/Counties/Madona.internal|Madona.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Latvia/Counties/Madona.protect|Madona.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Latvia/Counties/Madona.private|Madona.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Latvia/Counties/Madona.personal|Madona.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Latvia/Counties/Madona.secret|Madona.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Latvia/Counties/Madona|Madona]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Latvia/Counties/Madona.public|Madona.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Latvia/Counties/Madona.internal|Madona.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Latvia/Counties/Madona.protect|Madona.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Latvia/Counties/Madona.private|Madona.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Latvia/Counties/Madona.personal|Madona.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Latvia/Counties/Madona.secret|Madona.secret]] 
 

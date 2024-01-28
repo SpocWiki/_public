@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 37.7 , 28.1 ] 
 type: geo-Region
 title: Aydin
@@ -40,10 +40,11 @@ markerFolder: ./Aydin/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Turkey/Counties/Aydin.md|Aydin]] 
-- [[../../../../_internal/geo/Continent/Europe/Turkey/Counties/Aydin.internal|Aydin.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Turkey/Counties/Aydin.protect|Aydin.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Turkey/Counties/Aydin.private|Aydin.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Turkey/Counties/Aydin.personal|Aydin.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Turkey/Counties/Aydin.secret|Aydin.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Turkey/Counties/Aydin|Aydin]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Turkey/Counties/Aydin.public|Aydin.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Turkey/Counties/Aydin.internal|Aydin.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Turkey/Counties/Aydin.protect|Aydin.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Turkey/Counties/Aydin.private|Aydin.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Turkey/Counties/Aydin.personal|Aydin.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Turkey/Counties/Aydin.secret|Aydin.secret]] 
 

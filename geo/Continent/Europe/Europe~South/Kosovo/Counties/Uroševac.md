@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 42.4 , 21.1 ] 
 type: geo-Region
 title: Uroševac
@@ -40,10 +40,11 @@ markerFolder: ./Uroševac/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Kosovo/Counties/Uroševac.md|Uroševac]] 
-- [[../../../../_internal/geo/Continent/Europe/Kosovo/Counties/Uroševac.internal|Uroševac.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Kosovo/Counties/Uroševac.protect|Uroševac.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Kosovo/Counties/Uroševac.private|Uroševac.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Kosovo/Counties/Uroševac.personal|Uroševac.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Kosovo/Counties/Uroševac.secret|Uroševac.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Kosovo/Counties/Uroševac|Uroševac]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Kosovo/Counties/Uroševac.public|Uroševac.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Kosovo/Counties/Uroševac.internal|Uroševac.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Kosovo/Counties/Uroševac.protect|Uroševac.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Kosovo/Counties/Uroševac.private|Uroševac.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Kosovo/Counties/Uroševac.personal|Uroševac.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Kosovo/Counties/Uroševac.secret|Uroševac.secret]] 
 

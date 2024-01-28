@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 41.8 , 45.7 ] 
 type: geo-Region
 title: Kakheti
@@ -40,10 +40,11 @@ markerFolder: ./Kakheti/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Georgia~Europe/Counties/Kakheti.md|Kakheti]] 
-- [[../../../../_internal/geo/Continent/Europe/Georgia~Europe/Counties/Kakheti.internal|Kakheti.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Georgia~Europe/Counties/Kakheti.protect|Kakheti.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Georgia~Europe/Counties/Kakheti.private|Kakheti.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Georgia~Europe/Counties/Kakheti.personal|Kakheti.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Georgia~Europe/Counties/Kakheti.secret|Kakheti.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Georgia~Europe/Counties/Kakheti|Kakheti]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Georgia~Europe/Counties/Kakheti.public|Kakheti.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Georgia~Europe/Counties/Kakheti.internal|Kakheti.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Georgia~Europe/Counties/Kakheti.protect|Kakheti.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Georgia~Europe/Counties/Kakheti.private|Kakheti.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Georgia~Europe/Counties/Kakheti.personal|Kakheti.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Georgia~Europe/Counties/Kakheti.secret|Kakheti.secret]] 
 

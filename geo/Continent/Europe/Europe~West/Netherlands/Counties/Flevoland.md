@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 52.5 , 5.5 ] 
 type: geo-Region
 title: Flevoland
@@ -40,10 +40,11 @@ markerFolder: ./Flevoland/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Netherlands/Counties/Flevoland.md|Flevoland]] 
-- [[../../../../_internal/geo/Continent/Europe/Netherlands/Counties/Flevoland.internal|Flevoland.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Netherlands/Counties/Flevoland.protect|Flevoland.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Netherlands/Counties/Flevoland.private|Flevoland.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Netherlands/Counties/Flevoland.personal|Flevoland.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Netherlands/Counties/Flevoland.secret|Flevoland.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~West/Netherlands/Counties/Flevoland|Flevoland]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~West/Netherlands/Counties/Flevoland.public|Flevoland.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~West/Netherlands/Counties/Flevoland.internal|Flevoland.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~West/Netherlands/Counties/Flevoland.protect|Flevoland.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~West/Netherlands/Counties/Flevoland.private|Flevoland.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~West/Netherlands/Counties/Flevoland.personal|Flevoland.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~West/Netherlands/Counties/Flevoland.secret|Flevoland.secret]] 
 

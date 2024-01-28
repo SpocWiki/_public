@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 56.3 , 25.5 ] 
 type: geo-Region
 title: Viesites
@@ -40,10 +40,11 @@ markerFolder: ./Viesites/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Latvia/Counties/Viesites.md|Viesites]] 
-- [[../../../../_internal/geo/Continent/Europe/Latvia/Counties/Viesites.internal|Viesites.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Latvia/Counties/Viesites.protect|Viesites.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Latvia/Counties/Viesites.private|Viesites.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Latvia/Counties/Viesites.personal|Viesites.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Latvia/Counties/Viesites.secret|Viesites.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Latvia/Counties/Viesites|Viesites]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Latvia/Counties/Viesites.public|Viesites.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Latvia/Counties/Viesites.internal|Viesites.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Latvia/Counties/Viesites.protect|Viesites.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Latvia/Counties/Viesites.private|Viesites.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Latvia/Counties/Viesites.personal|Viesites.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Latvia/Counties/Viesites.secret|Viesites.secret]] 
 

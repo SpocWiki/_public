@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 51.7 , -4 ] 
 type: geo-Region
 title: Swansea
@@ -40,10 +40,11 @@ markerFolder: ./Swansea/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/United_Kingdom/Wales/Counties/Swansea.md|Swansea]] 
-- [[../../../../_internal/geo/Continent/Europe/United_Kingdom/Wales/Counties/Swansea.internal|Swansea.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/United_Kingdom/Wales/Counties/Swansea.protect|Swansea.protect]] 
-- [[../../../../_private/geo/Continent/Europe/United_Kingdom/Wales/Counties/Swansea.private|Swansea.private]] 
-- [[../../../../_personal/geo/Continent/Europe/United_Kingdom/Wales/Counties/Swansea.personal|Swansea.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/United_Kingdom/Wales/Counties/Swansea.secret|Swansea.secret]] 
+- [[../../../../../../../../_Standards/geo/Continent/Europe/Europe~North/United_Kingdom/Wales/Counties/Swansea|Swansea]] 
+- [[../../../../../../../../_public/geo/Continent/Europe/Europe~North/United_Kingdom/Wales/Counties/Swansea.public|Swansea.public]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/Europe~North/United_Kingdom/Wales/Counties/Swansea.internal|Swansea.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/Europe~North/United_Kingdom/Wales/Counties/Swansea.protect|Swansea.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/Europe~North/United_Kingdom/Wales/Counties/Swansea.private|Swansea.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/Europe~North/United_Kingdom/Wales/Counties/Swansea.personal|Swansea.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/Europe~North/United_Kingdom/Wales/Counties/Swansea.secret|Swansea.secret]] 
 

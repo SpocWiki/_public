@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 50.6 , 17.8 ] 
 type: geo-Region
 title: Opole
@@ -40,10 +40,11 @@ markerFolder: ./Opole/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Poland/Counties/Opole.md|Opole]] 
-- [[../../../../_internal/geo/Continent/Europe/Poland/Counties/Opole.internal|Opole.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Poland/Counties/Opole.protect|Opole.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Poland/Counties/Opole.private|Opole.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Poland/Counties/Opole.personal|Opole.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Poland/Counties/Opole.secret|Opole.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Poland/Counties/Opole|Opole]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Poland/Counties/Opole.public|Opole.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Poland/Counties/Opole.internal|Opole.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Poland/Counties/Opole.protect|Opole.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Poland/Counties/Opole.private|Opole.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Poland/Counties/Opole.personal|Opole.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Poland/Counties/Opole.secret|Opole.secret]] 
 

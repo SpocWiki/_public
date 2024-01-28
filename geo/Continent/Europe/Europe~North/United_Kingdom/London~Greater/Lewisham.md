@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 51.45 , -0.01 ] 
 type: geo-Region
 title: Lewisham
@@ -40,10 +40,11 @@ markerFolder: ./Lewisham/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/United_Kingdom/London~Greater/Lewisham.md|Lewisham]] 
-- [[../../../../_internal/geo/Continent/Europe/United_Kingdom/London~Greater/Lewisham.internal|Lewisham.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/United_Kingdom/London~Greater/Lewisham.protect|Lewisham.protect]] 
-- [[../../../../_private/geo/Continent/Europe/United_Kingdom/London~Greater/Lewisham.private|Lewisham.private]] 
-- [[../../../../_personal/geo/Continent/Europe/United_Kingdom/London~Greater/Lewisham.personal|Lewisham.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/United_Kingdom/London~Greater/Lewisham.secret|Lewisham.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/United_Kingdom/London~Greater/Lewisham|Lewisham]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/United_Kingdom/London~Greater/Lewisham.public|Lewisham.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/United_Kingdom/London~Greater/Lewisham.internal|Lewisham.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/United_Kingdom/London~Greater/Lewisham.protect|Lewisham.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/United_Kingdom/London~Greater/Lewisham.private|Lewisham.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/United_Kingdom/London~Greater/Lewisham.personal|Lewisham.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/United_Kingdom/London~Greater/Lewisham.secret|Lewisham.secret]] 
 

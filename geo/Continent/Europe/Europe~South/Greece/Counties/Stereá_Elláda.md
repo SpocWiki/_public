@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 38.7 , 22.5 ] 
 type: geo-Region
 title: Stereá_Elláda
@@ -40,10 +40,11 @@ markerFolder: ./Stereá_Elláda/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Greece/Counties/Stereá_Elláda.md|Stereá_Elláda]] 
-- [[../../../../_internal/geo/Continent/Europe/Greece/Counties/Stereá_Elláda.internal|Stereá_Elláda.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Greece/Counties/Stereá_Elláda.protect|Stereá_Elláda.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Greece/Counties/Stereá_Elláda.private|Stereá_Elláda.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Greece/Counties/Stereá_Elláda.personal|Stereá_Elláda.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Greece/Counties/Stereá_Elláda.secret|Stereá_Elláda.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Greece/Counties/Stereá_Elláda|Stereá_Elláda]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Greece/Counties/Stereá_Elláda.public|Stereá_Elláda.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Greece/Counties/Stereá_Elláda.internal|Stereá_Elláda.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Greece/Counties/Stereá_Elláda.protect|Stereá_Elláda.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Greece/Counties/Stereá_Elláda.private|Stereá_Elláda.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Greece/Counties/Stereá_Elláda.personal|Stereá_Elláda.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Greece/Counties/Stereá_Elláda.secret|Stereá_Elláda.secret]] 
 

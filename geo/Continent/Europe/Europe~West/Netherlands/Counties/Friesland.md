@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 53.1 , 5.8 ] 
 type: geo-Region
 title: Friesland
@@ -40,12 +40,13 @@ markerFolder: ./Friesland/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Netherlands/Counties/Friesland.md|Friesland]] 
-- [[../../../../_internal/geo/Continent/Europe/Netherlands/Counties/Friesland.internal|Friesland.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Netherlands/Counties/Friesland.protect|Friesland.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Netherlands/Counties/Friesland.private|Friesland.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Netherlands/Counties/Friesland.personal|Friesland.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Netherlands/Counties/Friesland.secret|Friesland.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~West/Netherlands/Counties/Friesland|Friesland]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~West/Netherlands/Counties/Friesland.public|Friesland.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~West/Netherlands/Counties/Friesland.internal|Friesland.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~West/Netherlands/Counties/Friesland.protect|Friesland.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~West/Netherlands/Counties/Friesland.private|Friesland.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~West/Netherlands/Counties/Friesland.personal|Friesland.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~West/Netherlands/Counties/Friesland.secret|Friesland.secret]] 
 
 
 ```leaflet

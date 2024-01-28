@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 47 , 26.5 ] 
 type: geo-Region
 title: Neamt
@@ -40,10 +40,11 @@ markerFolder: ./Neamt/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Romania/Counties/Neamt.md|Neamt]] 
-- [[../../../../_internal/geo/Continent/Europe/Romania/Counties/Neamt.internal|Neamt.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Romania/Counties/Neamt.protect|Neamt.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Romania/Counties/Neamt.private|Neamt.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Romania/Counties/Neamt.personal|Neamt.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Romania/Counties/Neamt.secret|Neamt.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Romania/Counties/Neamt|Neamt]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Romania/Counties/Neamt.public|Neamt.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Romania/Counties/Neamt.internal|Neamt.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Romania/Counties/Neamt.protect|Neamt.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Romania/Counties/Neamt.private|Neamt.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Romania/Counties/Neamt.personal|Neamt.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Romania/Counties/Neamt.secret|Neamt.secret]] 
 

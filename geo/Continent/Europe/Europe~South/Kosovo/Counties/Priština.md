@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 42.7 , 21.3 ] 
 type: geo-Region
 title: Priština
@@ -40,10 +40,11 @@ markerFolder: ./Priština/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Kosovo/Counties/Priština.md|Priština]] 
-- [[../../../../_internal/geo/Continent/Europe/Kosovo/Counties/Priština.internal|Priština.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Kosovo/Counties/Priština.protect|Priština.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Kosovo/Counties/Priština.private|Priština.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Kosovo/Counties/Priština.personal|Priština.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Kosovo/Counties/Priština.secret|Priština.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Kosovo/Counties/Priština|Priština]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Kosovo/Counties/Priština.public|Priština.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Kosovo/Counties/Priština.internal|Priština.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Kosovo/Counties/Priština.protect|Priština.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Kosovo/Counties/Priština.private|Priština.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Kosovo/Counties/Priština.personal|Priština.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Kosovo/Counties/Priština.secret|Priština.secret]] 
 

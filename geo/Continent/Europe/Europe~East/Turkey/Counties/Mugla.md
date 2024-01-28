@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 36.9 , 28.7 ] 
 type: geo-Region
 title: Mugla
@@ -40,10 +40,11 @@ markerFolder: ./Mugla/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Turkey/Counties/Mugla.md|Mugla]] 
-- [[../../../../_internal/geo/Continent/Europe/Turkey/Counties/Mugla.internal|Mugla.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Turkey/Counties/Mugla.protect|Mugla.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Turkey/Counties/Mugla.private|Mugla.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Turkey/Counties/Mugla.personal|Mugla.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Turkey/Counties/Mugla.secret|Mugla.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Turkey/Counties/Mugla|Mugla]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Turkey/Counties/Mugla.public|Mugla.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Turkey/Counties/Mugla.internal|Mugla.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Turkey/Counties/Mugla.protect|Mugla.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Turkey/Counties/Mugla.private|Mugla.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Turkey/Counties/Mugla.personal|Mugla.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Turkey/Counties/Mugla.secret|Mugla.secret]] 
 

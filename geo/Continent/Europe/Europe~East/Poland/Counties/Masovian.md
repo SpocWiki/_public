@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 52.2 , 21.5 ] 
 type: geo-Region
 title: Masovian
@@ -40,10 +40,11 @@ markerFolder: ./Masovian/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Poland/Counties/Masovian.md|Masovian]] 
-- [[../../../../_internal/geo/Continent/Europe/Poland/Counties/Masovian.internal|Masovian.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Poland/Counties/Masovian.protect|Masovian.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Poland/Counties/Masovian.private|Masovian.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Poland/Counties/Masovian.personal|Masovian.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Poland/Counties/Masovian.secret|Masovian.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Poland/Counties/Masovian|Masovian]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Poland/Counties/Masovian.public|Masovian.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Poland/Counties/Masovian.internal|Masovian.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Poland/Counties/Masovian.protect|Masovian.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Poland/Counties/Masovian.private|Masovian.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Poland/Counties/Masovian.personal|Masovian.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Poland/Counties/Masovian.secret|Masovian.secret]] 
 

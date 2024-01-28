@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 60 , 17.8 ] 
 type: geo-Region
 title: Uppsala
@@ -40,10 +40,11 @@ markerFolder: ./Uppsala/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Sweden/Counties/Uppsala.md|Uppsala]] 
-- [[../../../../_internal/geo/Continent/Europe/Sweden/Counties/Uppsala.internal|Uppsala.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Sweden/Counties/Uppsala.protect|Uppsala.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Sweden/Counties/Uppsala.private|Uppsala.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Sweden/Counties/Uppsala.personal|Uppsala.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Sweden/Counties/Uppsala.secret|Uppsala.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Sweden/Counties/Uppsala|Uppsala]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Sweden/Counties/Uppsala.public|Uppsala.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Sweden/Counties/Uppsala.internal|Uppsala.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Sweden/Counties/Uppsala.protect|Uppsala.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Sweden/Counties/Uppsala.private|Uppsala.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Sweden/Counties/Uppsala.personal|Uppsala.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Sweden/Counties/Uppsala.secret|Uppsala.secret]] 
 

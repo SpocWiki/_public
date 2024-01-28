@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 46.6 , 25.6 ] 
 type: geo-Region
 title: Harghita
@@ -40,10 +40,11 @@ markerFolder: ./Harghita/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Romania/Counties/Harghita.md|Harghita]] 
-- [[../../../../_internal/geo/Continent/Europe/Romania/Counties/Harghita.internal|Harghita.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Romania/Counties/Harghita.protect|Harghita.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Romania/Counties/Harghita.private|Harghita.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Romania/Counties/Harghita.personal|Harghita.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Romania/Counties/Harghita.secret|Harghita.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Romania/Counties/Harghita|Harghita]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Romania/Counties/Harghita.public|Harghita.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Romania/Counties/Harghita.internal|Harghita.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Romania/Counties/Harghita.protect|Harghita.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Romania/Counties/Harghita.private|Harghita.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Romania/Counties/Harghita.personal|Harghita.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Romania/Counties/Harghita.secret|Harghita.secret]] 
 

@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 52.5 , 25.2 ] 
 type: geo-Region
 title: Brest
@@ -40,10 +40,11 @@ markerFolder: ./Brest/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Belarus/Counties/Brest.md|Brest]] 
-- [[../../../../_internal/geo/Continent/Europe/Belarus/Counties/Brest.internal|Brest.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Belarus/Counties/Brest.protect|Brest.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Belarus/Counties/Brest.private|Brest.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Belarus/Counties/Brest.personal|Brest.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Belarus/Counties/Brest.secret|Brest.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Belarus/Counties/Brest|Brest]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Belarus/Counties/Brest.public|Brest.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Belarus/Counties/Brest.internal|Brest.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Belarus/Counties/Brest.protect|Brest.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Belarus/Counties/Brest.private|Brest.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Belarus/Counties/Brest.personal|Brest.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Belarus/Counties/Brest.secret|Brest.secret]] 
 

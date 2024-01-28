@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 37.3 , 22.3 ] 
 type: geo-Region
 title: Peloponnisos
@@ -40,10 +40,11 @@ markerFolder: ./Peloponnisos/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Greece/Counties/Peloponnisos.md|Peloponnisos]] 
-- [[../../../../_internal/geo/Continent/Europe/Greece/Counties/Peloponnisos.internal|Peloponnisos.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Greece/Counties/Peloponnisos.protect|Peloponnisos.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Greece/Counties/Peloponnisos.private|Peloponnisos.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Greece/Counties/Peloponnisos.personal|Peloponnisos.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Greece/Counties/Peloponnisos.secret|Peloponnisos.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Greece/Counties/Peloponnisos|Peloponnisos]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Greece/Counties/Peloponnisos.public|Peloponnisos.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Greece/Counties/Peloponnisos.internal|Peloponnisos.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Greece/Counties/Peloponnisos.protect|Peloponnisos.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Greece/Counties/Peloponnisos.private|Peloponnisos.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Greece/Counties/Peloponnisos.personal|Peloponnisos.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Greece/Counties/Peloponnisos.secret|Peloponnisos.secret]] 
 

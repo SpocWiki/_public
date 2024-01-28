@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 41.9 , 20.9 ] 
 type: geo-Region
 title: Bogovinje
@@ -40,10 +40,11 @@ markerFolder: ./Bogovinje/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Macedonia~North/Counties/Bogovinje.md|Bogovinje]] 
-- [[../../../../_internal/geo/Continent/Europe/Macedonia~North/Counties/Bogovinje.internal|Bogovinje.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Macedonia~North/Counties/Bogovinje.protect|Bogovinje.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Macedonia~North/Counties/Bogovinje.private|Bogovinje.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Macedonia~North/Counties/Bogovinje.personal|Bogovinje.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Macedonia~North/Counties/Bogovinje.secret|Bogovinje.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Macedonia~North/Counties/Bogovinje|Bogovinje]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Macedonia~North/Counties/Bogovinje.public|Bogovinje.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Macedonia~North/Counties/Bogovinje.internal|Bogovinje.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Macedonia~North/Counties/Bogovinje.protect|Bogovinje.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Macedonia~North/Counties/Bogovinje.private|Bogovinje.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Macedonia~North/Counties/Bogovinje.personal|Bogovinje.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Macedonia~North/Counties/Bogovinje.secret|Bogovinje.secret]] 
 

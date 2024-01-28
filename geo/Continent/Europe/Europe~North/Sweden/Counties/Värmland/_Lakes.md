@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 61 , 12.5 ] 
 type: geo-Region
 title: _Lakes
@@ -40,10 +40,11 @@ markerFolder: ./_Lakes/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Sweden/Counties/Värmland/_Lakes.md|_Lakes]] 
-- [[../../../../_internal/geo/Continent/Europe/Sweden/Counties/Värmland/_Lakes.internal|_Lakes.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Sweden/Counties/Värmland/_Lakes.protect|_Lakes.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Sweden/Counties/Värmland/_Lakes.private|_Lakes.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Sweden/Counties/Värmland/_Lakes.personal|_Lakes.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Sweden/Counties/Värmland/_Lakes.secret|_Lakes.secret]] 
+- [[../../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Sweden/Counties/Värmland/_Lakes|_Lakes]] 
+- [[../../../../../../../../_public/geo/Continent/Europe/Europe~North/Sweden/Counties/Värmland/_Lakes.public|_Lakes.public]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/Europe~North/Sweden/Counties/Värmland/_Lakes.internal|_Lakes.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/Europe~North/Sweden/Counties/Värmland/_Lakes.protect|_Lakes.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/Europe~North/Sweden/Counties/Värmland/_Lakes.private|_Lakes.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/Europe~North/Sweden/Counties/Värmland/_Lakes.personal|_Lakes.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/Europe~North/Sweden/Counties/Värmland/_Lakes.secret|_Lakes.secret]] 
 

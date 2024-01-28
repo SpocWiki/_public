@@ -1,5 +1,5 @@
-﻿---
-location: [48.65,-2.03]
+---
+location: [48.65,-2.03] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,29 +12,30 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::-2.03]
-[geo-lat::48.65]
-[name::St.Malo]
-[State::]
-[Country::[[France]]]
-[StateId::]
-[Population::]
-[Unknown::]
+[geo-lon::-2.03] 
+[geo-lat::48.65] 
+[name::St.Malo] 
+State ::  
+Country :: [[France]]  
+[StateId::] 
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: St.Malo
-coordinates: [[St.Malo]]
-markerFile: [[St.Malo]]
+coordinates: [[St.Malo]] 
+markerFile: [[St.Malo]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_public/geo/Continent/Europe/France/City/St.Malo.md|St.Malo]] 
-- [[../../../../../../_internal/geo/Continent/Europe/France/City/St.Malo.internal|St.Malo.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/France/City/St.Malo.protect|St.Malo.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/France/City/St.Malo.private|St.Malo.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/France/City/St.Malo.personal|St.Malo.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/France/City/St.Malo.secret|St.Malo.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~West/France/City/St.Malo|St.Malo]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~West/France/City/St.Malo.public|St.Malo.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~West/France/City/St.Malo.internal|St.Malo.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~West/France/City/St.Malo.protect|St.Malo.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~West/France/City/St.Malo.private|St.Malo.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~West/France/City/St.Malo.personal|St.Malo.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~West/France/City/St.Malo.secret|St.Malo.secret]] 

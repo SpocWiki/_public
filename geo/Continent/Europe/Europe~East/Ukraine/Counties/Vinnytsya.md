@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 48.9 , 28.5 ] 
 type: geo-Region
 title: Vinnytsya
@@ -40,10 +40,11 @@ markerFolder: ./Vinnytsya/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Ukraine/Counties/Vinnytsya.md|Vinnytsya]] 
-- [[../../../../_internal/geo/Continent/Europe/Ukraine/Counties/Vinnytsya.internal|Vinnytsya.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Ukraine/Counties/Vinnytsya.protect|Vinnytsya.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Ukraine/Counties/Vinnytsya.private|Vinnytsya.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Ukraine/Counties/Vinnytsya.personal|Vinnytsya.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Ukraine/Counties/Vinnytsya.secret|Vinnytsya.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Ukraine/Counties/Vinnytsya|Vinnytsya]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Ukraine/Counties/Vinnytsya.public|Vinnytsya.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Ukraine/Counties/Vinnytsya.internal|Vinnytsya.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Ukraine/Counties/Vinnytsya.protect|Vinnytsya.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Ukraine/Counties/Vinnytsya.private|Vinnytsya.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Ukraine/Counties/Vinnytsya.personal|Vinnytsya.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Ukraine/Counties/Vinnytsya.secret|Vinnytsya.secret]] 
 

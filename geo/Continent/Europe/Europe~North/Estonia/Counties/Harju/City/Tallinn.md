@@ -1,5 +1,5 @@
-﻿---
-location: [59.41667,24.75]
+---
+location: [59.41667,24.75] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,29 +12,30 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::24.75]
-[geo-lat::59.41667]
-[name::Tallinn]
-[State::]
-[Country::[[Estonia]]]
-[StateId::]
-[Population::]
-[Unknown::32]
+[geo-lon::24.75] 
+[geo-lat::59.41667] 
+[name::Tallinn] 
+State ::  
+Country :: [[Estonia]]  
+[StateId::] 
+[Population::] 
+[Unknown::32] 
 
 
 ```leaflet
 id: Tallinn
-coordinates: [[Tallinn]]
-markerFile: [[Tallinn]]
+coordinates: [[Tallinn]] 
+markerFile: [[Tallinn]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_public/geo/Continent/Europe/Estonia/City/Tallinn.md|Tallinn]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Estonia/City/Tallinn.internal|Tallinn.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Estonia/City/Tallinn.protect|Tallinn.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Estonia/City/Tallinn.private|Tallinn.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Estonia/City/Tallinn.personal|Tallinn.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Estonia/City/Tallinn.secret|Tallinn.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Estonia/City/Tallinn|Tallinn]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Estonia/City/Tallinn.public|Tallinn.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Estonia/City/Tallinn.internal|Tallinn.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Estonia/City/Tallinn.protect|Tallinn.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Estonia/City/Tallinn.private|Tallinn.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Estonia/City/Tallinn.personal|Tallinn.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Estonia/City/Tallinn.secret|Tallinn.secret]] 

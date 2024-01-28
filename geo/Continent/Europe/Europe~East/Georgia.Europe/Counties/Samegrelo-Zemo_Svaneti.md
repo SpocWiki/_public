@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 42.6 , 42.2 ] 
 type: geo-Region
 title: Samegrelo-Zemo_Svaneti
@@ -40,10 +40,11 @@ markerFolder: ./Samegrelo-Zemo_Svaneti/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Georgia~Europe/Counties/Samegrelo-Zemo_Svaneti.md|Samegrelo-Zemo_Svaneti]] 
-- [[../../../../_internal/geo/Continent/Europe/Georgia~Europe/Counties/Samegrelo-Zemo_Svaneti.internal|Samegrelo-Zemo_Svaneti.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Georgia~Europe/Counties/Samegrelo-Zemo_Svaneti.protect|Samegrelo-Zemo_Svaneti.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Georgia~Europe/Counties/Samegrelo-Zemo_Svaneti.private|Samegrelo-Zemo_Svaneti.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Georgia~Europe/Counties/Samegrelo-Zemo_Svaneti.personal|Samegrelo-Zemo_Svaneti.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Georgia~Europe/Counties/Samegrelo-Zemo_Svaneti.secret|Samegrelo-Zemo_Svaneti.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Georgia~Europe/Counties/Samegrelo-Zemo_Svaneti|Samegrelo-Zemo_Svaneti]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Georgia~Europe/Counties/Samegrelo-Zemo_Svaneti.public|Samegrelo-Zemo_Svaneti.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Georgia~Europe/Counties/Samegrelo-Zemo_Svaneti.internal|Samegrelo-Zemo_Svaneti.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Georgia~Europe/Counties/Samegrelo-Zemo_Svaneti.protect|Samegrelo-Zemo_Svaneti.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Georgia~Europe/Counties/Samegrelo-Zemo_Svaneti.private|Samegrelo-Zemo_Svaneti.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Georgia~Europe/Counties/Samegrelo-Zemo_Svaneti.personal|Samegrelo-Zemo_Svaneti.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Georgia~Europe/Counties/Samegrelo-Zemo_Svaneti.secret|Samegrelo-Zemo_Svaneti.secret]] 
 

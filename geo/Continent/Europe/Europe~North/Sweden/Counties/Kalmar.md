@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 57.2 , 16 ] 
 type: geo-Region
 title: Kalmar
@@ -40,10 +40,11 @@ markerFolder: ./Kalmar/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Sweden/Counties/Kalmar.md|Kalmar]] 
-- [[../../../../_internal/geo/Continent/Europe/Sweden/Counties/Kalmar.internal|Kalmar.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Sweden/Counties/Kalmar.protect|Kalmar.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Sweden/Counties/Kalmar.private|Kalmar.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Sweden/Counties/Kalmar.personal|Kalmar.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Sweden/Counties/Kalmar.secret|Kalmar.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Sweden/Counties/Kalmar|Kalmar]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Sweden/Counties/Kalmar.public|Kalmar.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Sweden/Counties/Kalmar.internal|Kalmar.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Sweden/Counties/Kalmar.protect|Kalmar.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Sweden/Counties/Kalmar.private|Kalmar.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Sweden/Counties/Kalmar.personal|Kalmar.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Sweden/Counties/Kalmar.secret|Kalmar.secret]] 
 

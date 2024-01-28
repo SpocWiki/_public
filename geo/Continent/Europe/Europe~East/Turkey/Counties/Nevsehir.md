@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 38.9 , 34.7 ] 
 type: geo-Region
 title: Nevsehir
@@ -40,10 +40,11 @@ markerFolder: ./Nevsehir/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Turkey/Counties/Nevsehir.md|Nevsehir]] 
-- [[../../../../_internal/geo/Continent/Europe/Turkey/Counties/Nevsehir.internal|Nevsehir.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Turkey/Counties/Nevsehir.protect|Nevsehir.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Turkey/Counties/Nevsehir.private|Nevsehir.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Turkey/Counties/Nevsehir.personal|Nevsehir.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Turkey/Counties/Nevsehir.secret|Nevsehir.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Turkey/Counties/Nevsehir|Nevsehir]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Turkey/Counties/Nevsehir.public|Nevsehir.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Turkey/Counties/Nevsehir.internal|Nevsehir.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Turkey/Counties/Nevsehir.protect|Nevsehir.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Turkey/Counties/Nevsehir.private|Nevsehir.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Turkey/Counties/Nevsehir.personal|Nevsehir.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Turkey/Counties/Nevsehir.secret|Nevsehir.secret]] 
 

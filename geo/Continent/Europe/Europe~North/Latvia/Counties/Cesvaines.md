@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 57 , 26.3 ] 
 type: geo-Region
 title: Cesvaines
@@ -40,10 +40,11 @@ markerFolder: ./Cesvaines/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Latvia/Counties/Cesvaines.md|Cesvaines]] 
-- [[../../../../_internal/geo/Continent/Europe/Latvia/Counties/Cesvaines.internal|Cesvaines.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Latvia/Counties/Cesvaines.protect|Cesvaines.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Latvia/Counties/Cesvaines.private|Cesvaines.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Latvia/Counties/Cesvaines.personal|Cesvaines.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Latvia/Counties/Cesvaines.secret|Cesvaines.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Latvia/Counties/Cesvaines|Cesvaines]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Latvia/Counties/Cesvaines.public|Cesvaines.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Latvia/Counties/Cesvaines.internal|Cesvaines.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Latvia/Counties/Cesvaines.protect|Cesvaines.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Latvia/Counties/Cesvaines.private|Cesvaines.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Latvia/Counties/Cesvaines.personal|Cesvaines.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Latvia/Counties/Cesvaines.secret|Cesvaines.secret]] 
 

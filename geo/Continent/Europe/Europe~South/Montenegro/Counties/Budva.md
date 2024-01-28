@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 42.3 , 18.9 ] 
 type: geo-Region
 title: Budva
@@ -40,10 +40,11 @@ markerFolder: ./Budva/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Montenegro/Counties/Budva.md|Budva]] 
-- [[../../../../_internal/geo/Continent/Europe/Montenegro/Counties/Budva.internal|Budva.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Montenegro/Counties/Budva.protect|Budva.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Montenegro/Counties/Budva.private|Budva.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Montenegro/Counties/Budva.personal|Budva.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Montenegro/Counties/Budva.secret|Budva.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Montenegro/Counties/Budva|Budva]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Montenegro/Counties/Budva.public|Budva.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Montenegro/Counties/Budva.internal|Budva.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Montenegro/Counties/Budva.protect|Budva.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Montenegro/Counties/Budva.private|Budva.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Montenegro/Counties/Budva.personal|Budva.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Montenegro/Counties/Budva.secret|Budva.secret]] 
 

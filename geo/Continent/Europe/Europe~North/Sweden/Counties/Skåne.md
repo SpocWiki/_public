@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 55.9 , 13.6 ] 
 type: geo-Region
 title: Skåne
@@ -40,10 +40,11 @@ markerFolder: ./Skåne/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Sweden/Counties/Skåne.md|Skåne]] 
-- [[../../../../_internal/geo/Continent/Europe/Sweden/Counties/Skåne.internal|Skåne.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Sweden/Counties/Skåne.protect|Skåne.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Sweden/Counties/Skåne.private|Skåne.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Sweden/Counties/Skåne.personal|Skåne.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Sweden/Counties/Skåne.secret|Skåne.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Sweden/Counties/Skåne|Skåne]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Sweden/Counties/Skåne.public|Skåne.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Sweden/Counties/Skåne.internal|Skåne.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Sweden/Counties/Skåne.protect|Skåne.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Sweden/Counties/Skåne.private|Skåne.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Sweden/Counties/Skåne.personal|Skåne.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Sweden/Counties/Skåne.secret|Skåne.secret]] 
 

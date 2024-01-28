@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 39.5 , 37.2 ] 
 type: geo-Region
 title: Sivas
@@ -40,10 +40,11 @@ markerFolder: ./Sivas/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Turkey/Counties/Sivas.md|Sivas]] 
-- [[../../../../_internal/geo/Continent/Europe/Turkey/Counties/Sivas.internal|Sivas.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Turkey/Counties/Sivas.protect|Sivas.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Turkey/Counties/Sivas.private|Sivas.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Turkey/Counties/Sivas.personal|Sivas.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Turkey/Counties/Sivas.secret|Sivas.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Turkey/Counties/Sivas|Sivas]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Turkey/Counties/Sivas.public|Sivas.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Turkey/Counties/Sivas.internal|Sivas.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Turkey/Counties/Sivas.protect|Sivas.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Turkey/Counties/Sivas.private|Sivas.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Turkey/Counties/Sivas.personal|Sivas.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Turkey/Counties/Sivas.secret|Sivas.secret]] 
 

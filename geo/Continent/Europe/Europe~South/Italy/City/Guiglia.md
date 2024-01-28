@@ -1,5 +1,5 @@
-﻿---
-location: [44.42,14.03]
+---
+location: [44.42,14.03] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,29 +12,30 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::14.03]
-[geo-lat::44.42]
-[name::Guiglia]
-[State::]
-[Country::[[Italy]]]
-[StateId::]
-[Population::]
-[Unknown::]
+[geo-lon::14.03] 
+[geo-lat::44.42] 
+[name::Guiglia] 
+State ::  
+Country :: [[../../Italy]]  
+[StateId::] 
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Guiglia
-coordinates: [[Guiglia]]
-markerFile: [[Guiglia]]
+coordinates: [[Guiglia]] 
+markerFile: [[Guiglia]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_public/geo/Continent/Europe/Italy/City/Guiglia.md|Guiglia]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Guiglia.internal|Guiglia.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Guiglia.protect|Guiglia.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Guiglia.private|Guiglia.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Guiglia.personal|Guiglia.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Guiglia.secret|Guiglia.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Italy/City/Guiglia|Guiglia]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Italy/City/Guiglia.public|Guiglia.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Italy/City/Guiglia.internal|Guiglia.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Italy/City/Guiglia.protect|Guiglia.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Italy/City/Guiglia.private|Guiglia.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Italy/City/Guiglia.personal|Guiglia.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Italy/City/Guiglia.secret|Guiglia.secret]] 

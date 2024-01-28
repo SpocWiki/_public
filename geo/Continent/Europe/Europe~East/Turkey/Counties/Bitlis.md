@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 38.5 , 42.2 ] 
 type: geo-Region
 title: Bitlis
@@ -40,10 +40,11 @@ markerFolder: ./Bitlis/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Turkey/Counties/Bitlis.md|Bitlis]] 
-- [[../../../../_internal/geo/Continent/Europe/Turkey/Counties/Bitlis.internal|Bitlis.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Turkey/Counties/Bitlis.protect|Bitlis.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Turkey/Counties/Bitlis.private|Bitlis.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Turkey/Counties/Bitlis.personal|Bitlis.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Turkey/Counties/Bitlis.secret|Bitlis.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Turkey/Counties/Bitlis|Bitlis]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Turkey/Counties/Bitlis.public|Bitlis.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Turkey/Counties/Bitlis.internal|Bitlis.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Turkey/Counties/Bitlis.protect|Bitlis.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Turkey/Counties/Bitlis.private|Bitlis.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Turkey/Counties/Bitlis.personal|Bitlis.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Turkey/Counties/Bitlis.secret|Bitlis.secret]] 
 

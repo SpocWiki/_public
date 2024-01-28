@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 44.5 , 26.3 ] 
 type: geo-Region
 title: Ilfov
@@ -40,10 +40,11 @@ markerFolder: ./Ilfov/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Romania/Counties/Ilfov.md|Ilfov]] 
-- [[../../../../_internal/geo/Continent/Europe/Romania/Counties/Ilfov.internal|Ilfov.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Romania/Counties/Ilfov.protect|Ilfov.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Romania/Counties/Ilfov.private|Ilfov.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Romania/Counties/Ilfov.personal|Ilfov.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Romania/Counties/Ilfov.secret|Ilfov.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Romania/Counties/Ilfov|Ilfov]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Romania/Counties/Ilfov.public|Ilfov.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Romania/Counties/Ilfov.internal|Ilfov.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Romania/Counties/Ilfov.protect|Ilfov.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Romania/Counties/Ilfov.private|Ilfov.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Romania/Counties/Ilfov.personal|Ilfov.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Romania/Counties/Ilfov.secret|Ilfov.secret]] 
 

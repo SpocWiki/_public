@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 43.3 , 20.6 ] 
 type: geo-Region
 title: Raški
@@ -40,10 +40,11 @@ markerFolder: ./Raški/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Serbia/Counties/Raški.md|Raški]] 
-- [[../../../../_internal/geo/Continent/Europe/Serbia/Counties/Raški.internal|Raški.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Serbia/Counties/Raški.protect|Raški.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Serbia/Counties/Raški.private|Raški.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Serbia/Counties/Raški.personal|Raški.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Serbia/Counties/Raški.secret|Raški.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Serbia/Counties/Raški|Raški]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Serbia/Counties/Raški.public|Raški.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Serbia/Counties/Raški.internal|Raški.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Serbia/Counties/Raški.protect|Raški.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Serbia/Counties/Raški.private|Raški.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Serbia/Counties/Raški.personal|Raški.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Serbia/Counties/Raški.secret|Raški.secret]] 
 

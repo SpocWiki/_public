@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 53.9 , -9.3 ] 
 type: geo-Region
 title: Mayo
@@ -40,10 +40,11 @@ markerFolder: ./Mayo/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Ireland/Counties/Mayo.md|Mayo]] 
-- [[../../../../_internal/geo/Continent/Europe/Ireland/Counties/Mayo.internal|Mayo.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Ireland/Counties/Mayo.protect|Mayo.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Ireland/Counties/Mayo.private|Mayo.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Ireland/Counties/Mayo.personal|Mayo.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Ireland/Counties/Mayo.secret|Mayo.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Ireland/Counties/Mayo|Mayo]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Ireland/Counties/Mayo.public|Mayo.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Ireland/Counties/Mayo.internal|Mayo.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Ireland/Counties/Mayo.protect|Mayo.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Ireland/Counties/Mayo.private|Mayo.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Ireland/Counties/Mayo.personal|Mayo.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Ireland/Counties/Mayo.secret|Mayo.secret]] 
 

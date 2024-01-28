@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 40.9 , 31.3 ] 
 type: geo-Region
 title: Düzce
@@ -40,10 +40,11 @@ markerFolder: ./Düzce/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Turkey/Counties/Düzce.md|Düzce]] 
-- [[../../../../_internal/geo/Continent/Europe/Turkey/Counties/Düzce.internal|Düzce.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Turkey/Counties/Düzce.protect|Düzce.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Turkey/Counties/Düzce.private|Düzce.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Turkey/Counties/Düzce.personal|Düzce.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Turkey/Counties/Düzce.secret|Düzce.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Turkey/Counties/Düzce|Düzce]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Turkey/Counties/Düzce.public|Düzce.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Turkey/Counties/Düzce.internal|Düzce.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Turkey/Counties/Düzce.protect|Düzce.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Turkey/Counties/Düzce.private|Düzce.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Turkey/Counties/Düzce.personal|Düzce.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Turkey/Counties/Düzce.secret|Düzce.secret]] 
 

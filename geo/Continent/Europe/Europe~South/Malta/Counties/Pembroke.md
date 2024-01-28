@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 35.93 , 14.48 ] 
 type: geo-Region
 title: Pembroke
@@ -40,10 +40,11 @@ markerFolder: ./Pembroke/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Malta/Counties/Pembroke.md|Pembroke]] 
-- [[../../../../_internal/geo/Continent/Europe/Malta/Counties/Pembroke.internal|Pembroke.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Malta/Counties/Pembroke.protect|Pembroke.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Malta/Counties/Pembroke.private|Pembroke.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Malta/Counties/Pembroke.personal|Pembroke.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Malta/Counties/Pembroke.secret|Pembroke.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Malta/Counties/Pembroke|Pembroke]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Malta/Counties/Pembroke.public|Pembroke.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Malta/Counties/Pembroke.internal|Pembroke.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Malta/Counties/Pembroke.protect|Pembroke.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Malta/Counties/Pembroke.private|Pembroke.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Malta/Counties/Pembroke.personal|Pembroke.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Malta/Counties/Pembroke.secret|Pembroke.secret]] 
 

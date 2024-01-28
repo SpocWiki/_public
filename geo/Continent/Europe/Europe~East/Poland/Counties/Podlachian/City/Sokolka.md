@@ -1,5 +1,5 @@
-﻿---
-location: [53.43,23.55]
+---
+location: [53.43,23.55] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,29 +12,30 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::23.55]
-[geo-lat::53.43]
-[name::Sokolka]
-[State::]
-[Country::[[Poland]]]
-[StateId::]
-[Population::]
-[Unknown::]
+[geo-lon::23.55] 
+[geo-lat::53.43] 
+[name::Sokolka] 
+State ::  
+Country :: [[Poland]]  
+[StateId::] 
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Sokolka
-coordinates: [[Sokolka]]
-markerFile: [[Sokolka]]
+coordinates: [[Sokolka]] 
+markerFile: [[Sokolka]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_public/geo/Continent/Europe/Poland/City/Sokolka.md|Sokolka]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Sokolka.internal|Sokolka.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Sokolka.protect|Sokolka.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Sokolka.private|Sokolka.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Sokolka.personal|Sokolka.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Sokolka.secret|Sokolka.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Poland/City/Sokolka|Sokolka]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Poland/City/Sokolka.public|Sokolka.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Poland/City/Sokolka.internal|Sokolka.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Poland/City/Sokolka.protect|Sokolka.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Poland/City/Sokolka.private|Sokolka.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Poland/City/Sokolka.personal|Sokolka.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Poland/City/Sokolka.secret|Sokolka.secret]] 

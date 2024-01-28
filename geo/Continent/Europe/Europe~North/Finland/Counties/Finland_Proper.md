@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 60.6 , 22.9 ] 
 type: geo-Region
 title: Finland_Proper
@@ -40,10 +40,11 @@ markerFolder: ./Finland_Proper/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Finland/Counties/Finland_Proper.md|Finland_Proper]] 
-- [[../../../../_internal/geo/Continent/Europe/Finland/Counties/Finland_Proper.internal|Finland_Proper.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Finland/Counties/Finland_Proper.protect|Finland_Proper.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Finland/Counties/Finland_Proper.private|Finland_Proper.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Finland/Counties/Finland_Proper.personal|Finland_Proper.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Finland/Counties/Finland_Proper.secret|Finland_Proper.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Finland/Counties/Finland_Proper|Finland_Proper]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Finland/Counties/Finland_Proper.public|Finland_Proper.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Finland/Counties/Finland_Proper.internal|Finland_Proper.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Finland/Counties/Finland_Proper.protect|Finland_Proper.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Finland/Counties/Finland_Proper.private|Finland_Proper.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Finland/Counties/Finland_Proper.personal|Finland_Proper.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Finland/Counties/Finland_Proper.secret|Finland_Proper.secret]] 
 

@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 43.1 , 21.4 ] 
 type: geo-Region
 title: Toplicki
@@ -40,10 +40,11 @@ markerFolder: ./Toplicki/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Serbia/Counties/Toplicki.md|Toplicki]] 
-- [[../../../../_internal/geo/Continent/Europe/Serbia/Counties/Toplicki.internal|Toplicki.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Serbia/Counties/Toplicki.protect|Toplicki.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Serbia/Counties/Toplicki.private|Toplicki.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Serbia/Counties/Toplicki.personal|Toplicki.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Serbia/Counties/Toplicki.secret|Toplicki.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Serbia/Counties/Toplicki|Toplicki]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Serbia/Counties/Toplicki.public|Toplicki.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Serbia/Counties/Toplicki.internal|Toplicki.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Serbia/Counties/Toplicki.protect|Toplicki.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Serbia/Counties/Toplicki.private|Toplicki.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Serbia/Counties/Toplicki.personal|Toplicki.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Serbia/Counties/Toplicki.secret|Toplicki.secret]] 
 

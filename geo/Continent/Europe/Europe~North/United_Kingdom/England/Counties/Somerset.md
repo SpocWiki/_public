@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 51.1 , -3 ] 
 type: geo-Region
 title: Somerset
@@ -40,10 +40,11 @@ markerFolder: ./Somerset/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/United_Kingdom/England/Counties/Somerset.md|Somerset]] 
-- [[../../../../_internal/geo/Continent/Europe/United_Kingdom/England/Counties/Somerset.internal|Somerset.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/United_Kingdom/England/Counties/Somerset.protect|Somerset.protect]] 
-- [[../../../../_private/geo/Continent/Europe/United_Kingdom/England/Counties/Somerset.private|Somerset.private]] 
-- [[../../../../_personal/geo/Continent/Europe/United_Kingdom/England/Counties/Somerset.personal|Somerset.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/United_Kingdom/England/Counties/Somerset.secret|Somerset.secret]] 
+- [[../../../../../../../../_Standards/geo/Continent/Europe/Europe~North/United_Kingdom/England/Counties/Somerset|Somerset]] 
+- [[../../../../../../../../_public/geo/Continent/Europe/Europe~North/United_Kingdom/England/Counties/Somerset.public|Somerset.public]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/Europe~North/United_Kingdom/England/Counties/Somerset.internal|Somerset.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/Europe~North/United_Kingdom/England/Counties/Somerset.protect|Somerset.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/Europe~North/United_Kingdom/England/Counties/Somerset.private|Somerset.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/Europe~North/United_Kingdom/England/Counties/Somerset.personal|Somerset.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/Europe~North/United_Kingdom/England/Counties/Somerset.secret|Somerset.secret]] 
 

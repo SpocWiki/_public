@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 43.1 , 18.8 ] 
 type: geo-Region
 title: Plužine
@@ -40,10 +40,11 @@ markerFolder: ./Plužine/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Montenegro/Counties/Plužine.md|Plužine]] 
-- [[../../../../_internal/geo/Continent/Europe/Montenegro/Counties/Plužine.internal|Plužine.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Montenegro/Counties/Plužine.protect|Plužine.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Montenegro/Counties/Plužine.private|Plužine.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Montenegro/Counties/Plužine.personal|Plužine.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Montenegro/Counties/Plužine.secret|Plužine.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Montenegro/Counties/Plužine|Plužine]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Montenegro/Counties/Plužine.public|Plužine.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Montenegro/Counties/Plužine.internal|Plužine.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Montenegro/Counties/Plužine.protect|Plužine.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Montenegro/Counties/Plužine.private|Plužine.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Montenegro/Counties/Plužine.personal|Plužine.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Montenegro/Counties/Plužine.secret|Plužine.secret]] 
 

@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 61.1 , 14.3 ] 
 type: geo-Region
 title: Dalarna
@@ -40,10 +40,11 @@ markerFolder: ./Dalarna/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Sweden/Counties/Dalarna.md|Dalarna]] 
-- [[../../../../_internal/geo/Continent/Europe/Sweden/Counties/Dalarna.internal|Dalarna.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Sweden/Counties/Dalarna.protect|Dalarna.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Sweden/Counties/Dalarna.private|Dalarna.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Sweden/Counties/Dalarna.personal|Dalarna.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Sweden/Counties/Dalarna.secret|Dalarna.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Sweden/Counties/Dalarna|Dalarna]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Sweden/Counties/Dalarna.public|Dalarna.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Sweden/Counties/Dalarna.internal|Dalarna.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Sweden/Counties/Dalarna.protect|Dalarna.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Sweden/Counties/Dalarna.private|Dalarna.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Sweden/Counties/Dalarna.personal|Dalarna.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Sweden/Counties/Dalarna.secret|Dalarna.secret]] 
 

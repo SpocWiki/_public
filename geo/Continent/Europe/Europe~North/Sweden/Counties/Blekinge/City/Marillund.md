@@ -1,5 +1,5 @@
-﻿---
-location: [56.22,15.53]
+---
+location: [56.22,15.53] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,29 +12,30 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::15.53]
-[geo-lat::56.22]
-[name::Marillund]
-[State::]
-[Country::[[Sweden]]]
-[StateId::]
-[Population::]
-[Unknown::]
+[geo-lon::15.53] 
+[geo-lat::56.22] 
+[name::Marillund] 
+State ::  
+Country :: [[Sweden]]  
+[StateId::] 
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Marillund
-coordinates: [[Marillund]]
-markerFile: [[Marillund]]
+coordinates: [[Marillund]] 
+markerFile: [[Marillund]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_public/geo/Continent/Europe/Sweden/City/Marillund.md|Marillund]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Sweden/City/Marillund.internal|Marillund.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Sweden/City/Marillund.protect|Marillund.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Sweden/City/Marillund.private|Marillund.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Sweden/City/Marillund.personal|Marillund.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Sweden/City/Marillund.secret|Marillund.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Sweden/City/Marillund|Marillund]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Sweden/City/Marillund.public|Marillund.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Sweden/City/Marillund.internal|Marillund.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Sweden/City/Marillund.protect|Marillund.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Sweden/City/Marillund.private|Marillund.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Sweden/City/Marillund.personal|Marillund.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Sweden/City/Marillund.secret|Marillund.secret]] 

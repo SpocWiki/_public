@@ -1,5 +1,5 @@
-﻿---
-location: [43.78,41.9]
+---
+location: [43.78,41.9] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,29 +12,30 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::41.9]
-[geo-lat::43.78]
-[name::Klukhari]
-[State::]
-[Country::[[Russia]]]
-[StateId::]
-[Population::]
-[Unknown::]
+[geo-lon::41.9] 
+[geo-lat::43.78] 
+[name::Klukhari] 
+State ::  
+Country :: [[Russia]]  
+[StateId::] 
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Klukhari
-coordinates: [[Klukhari]]
-markerFile: [[Klukhari]]
+coordinates: [[Klukhari]] 
+markerFile: [[Klukhari]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_public/geo/Continent/Europe/Russia/City/Klukhari.md|Klukhari]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Klukhari.internal|Klukhari.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Klukhari.protect|Klukhari.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Klukhari.private|Klukhari.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Klukhari.personal|Klukhari.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Klukhari.secret|Klukhari.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Russia/City/Klukhari|Klukhari]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Russia/City/Klukhari.public|Klukhari.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Russia/City/Klukhari.internal|Klukhari.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Russia/City/Klukhari.protect|Klukhari.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Russia/City/Klukhari.private|Klukhari.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Russia/City/Klukhari.personal|Klukhari.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Russia/City/Klukhari.secret|Klukhari.secret]] 

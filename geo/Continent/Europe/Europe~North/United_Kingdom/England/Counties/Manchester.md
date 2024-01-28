@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 53.4 , -2.3 ] 
 type: geo-Region
 title: Manchester
@@ -40,10 +40,11 @@ markerFolder: ./Manchester/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/United_Kingdom/England/Counties/Manchester.md|Manchester]] 
-- [[../../../../_internal/geo/Continent/Europe/United_Kingdom/England/Counties/Manchester.internal|Manchester.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/United_Kingdom/England/Counties/Manchester.protect|Manchester.protect]] 
-- [[../../../../_private/geo/Continent/Europe/United_Kingdom/England/Counties/Manchester.private|Manchester.private]] 
-- [[../../../../_personal/geo/Continent/Europe/United_Kingdom/England/Counties/Manchester.personal|Manchester.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/United_Kingdom/England/Counties/Manchester.secret|Manchester.secret]] 
+- [[../../../../../../../../_Standards/geo/Continent/Europe/Europe~North/United_Kingdom/England/Counties/Manchester|Manchester]] 
+- [[../../../../../../../../_public/geo/Continent/Europe/Europe~North/United_Kingdom/England/Counties/Manchester.public|Manchester.public]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/Europe~North/United_Kingdom/England/Counties/Manchester.internal|Manchester.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/Europe~North/United_Kingdom/England/Counties/Manchester.protect|Manchester.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/Europe~North/United_Kingdom/England/Counties/Manchester.private|Manchester.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/Europe~North/United_Kingdom/England/Counties/Manchester.personal|Manchester.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/Europe~North/United_Kingdom/England/Counties/Manchester.secret|Manchester.secret]] 
 

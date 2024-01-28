@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 64.1 , -19.4 ] 
 type: geo-Region
 title: Suðurland
@@ -40,10 +40,11 @@ markerFolder: ./Suðurland/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Iceland/Counties/Suðurland.md|Suðurland]] 
-- [[../../../../_internal/geo/Continent/Europe/Iceland/Counties/Suðurland.internal|Suðurland.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Iceland/Counties/Suðurland.protect|Suðurland.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Iceland/Counties/Suðurland.private|Suðurland.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Iceland/Counties/Suðurland.personal|Suðurland.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Iceland/Counties/Suðurland.secret|Suðurland.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Iceland/Counties/Suðurland|Suðurland]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Iceland/Counties/Suðurland.public|Suðurland.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Iceland/Counties/Suðurland.internal|Suðurland.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Iceland/Counties/Suðurland.protect|Suðurland.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Iceland/Counties/Suðurland.private|Suðurland.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Iceland/Counties/Suðurland.personal|Suðurland.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Iceland/Counties/Suðurland.secret|Suðurland.secret]] 
 

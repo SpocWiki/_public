@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 57.34 , 25.38 ] 
 type: geo-Region
 title: Priekulu
@@ -40,10 +40,11 @@ markerFolder: ./Priekulu/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Latvia/Counties/Priekulu.md|Priekulu]] 
-- [[../../../../_internal/geo/Continent/Europe/Latvia/Counties/Priekulu.internal|Priekulu.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Latvia/Counties/Priekulu.protect|Priekulu.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Latvia/Counties/Priekulu.private|Priekulu.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Latvia/Counties/Priekulu.personal|Priekulu.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Latvia/Counties/Priekulu.secret|Priekulu.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Latvia/Counties/Priekulu|Priekulu]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Latvia/Counties/Priekulu.public|Priekulu.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Latvia/Counties/Priekulu.internal|Priekulu.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Latvia/Counties/Priekulu.protect|Priekulu.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Latvia/Counties/Priekulu.private|Priekulu.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Latvia/Counties/Priekulu.personal|Priekulu.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Latvia/Counties/Priekulu.secret|Priekulu.secret]] 
 

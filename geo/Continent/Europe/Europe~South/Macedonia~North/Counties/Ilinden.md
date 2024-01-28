@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 42 , 21.6 ] 
 type: geo-Region
 title: Ilinden
@@ -40,10 +40,11 @@ markerFolder: ./Ilinden/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Macedonia~North/Counties/Ilinden.md|Ilinden]] 
-- [[../../../../_internal/geo/Continent/Europe/Macedonia~North/Counties/Ilinden.internal|Ilinden.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Macedonia~North/Counties/Ilinden.protect|Ilinden.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Macedonia~North/Counties/Ilinden.private|Ilinden.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Macedonia~North/Counties/Ilinden.personal|Ilinden.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Macedonia~North/Counties/Ilinden.secret|Ilinden.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Macedonia~North/Counties/Ilinden|Ilinden]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Macedonia~North/Counties/Ilinden.public|Ilinden.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Macedonia~North/Counties/Ilinden.internal|Ilinden.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Macedonia~North/Counties/Ilinden.protect|Ilinden.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Macedonia~North/Counties/Ilinden.private|Ilinden.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Macedonia~North/Counties/Ilinden.personal|Ilinden.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Macedonia~North/Counties/Ilinden.secret|Ilinden.secret]] 
 

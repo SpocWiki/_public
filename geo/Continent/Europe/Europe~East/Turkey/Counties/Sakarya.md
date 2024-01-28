@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 40.86359284061912 , 30.525390625 ] 
 type: geo-Region
 title: Sakarya
@@ -40,10 +40,11 @@ markerFolder: ./Sakarya/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Turkey/Counties/Sakarya.md|Sakarya]] 
-- [[../../../../_internal/geo/Continent/Europe/Turkey/Counties/Sakarya.internal|Sakarya.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Turkey/Counties/Sakarya.protect|Sakarya.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Turkey/Counties/Sakarya.private|Sakarya.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Turkey/Counties/Sakarya.personal|Sakarya.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Turkey/Counties/Sakarya.secret|Sakarya.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Turkey/Counties/Sakarya|Sakarya]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Turkey/Counties/Sakarya.public|Sakarya.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Turkey/Counties/Sakarya.internal|Sakarya.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Turkey/Counties/Sakarya.protect|Sakarya.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Turkey/Counties/Sakarya.private|Sakarya.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Turkey/Counties/Sakarya.personal|Sakarya.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Turkey/Counties/Sakarya.secret|Sakarya.secret]] 
 

@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 37.7 , 26.8 ] 
 type: geo-Region
 title: Voreio_Aigaio
@@ -40,10 +40,11 @@ markerFolder: ./Voreio_Aigaio/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Greece/Counties/Voreio_Aigaio.md|Voreio_Aigaio]] 
-- [[../../../../_internal/geo/Continent/Europe/Greece/Counties/Voreio_Aigaio.internal|Voreio_Aigaio.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Greece/Counties/Voreio_Aigaio.protect|Voreio_Aigaio.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Greece/Counties/Voreio_Aigaio.private|Voreio_Aigaio.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Greece/Counties/Voreio_Aigaio.personal|Voreio_Aigaio.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Greece/Counties/Voreio_Aigaio.secret|Voreio_Aigaio.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Greece/Counties/Voreio_Aigaio|Voreio_Aigaio]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Greece/Counties/Voreio_Aigaio.public|Voreio_Aigaio.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Greece/Counties/Voreio_Aigaio.internal|Voreio_Aigaio.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Greece/Counties/Voreio_Aigaio.protect|Voreio_Aigaio.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Greece/Counties/Voreio_Aigaio.private|Voreio_Aigaio.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Greece/Counties/Voreio_Aigaio.personal|Voreio_Aigaio.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Greece/Counties/Voreio_Aigaio.secret|Voreio_Aigaio.secret]] 
 

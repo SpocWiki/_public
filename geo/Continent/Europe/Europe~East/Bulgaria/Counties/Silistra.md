@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 43.9 , 27.1 ] 
 type: geo-Region
 title: Silistra
@@ -40,10 +40,11 @@ markerFolder: ./Silistra/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Bulgaria/Counties/Silistra.md|Silistra]] 
-- [[../../../../_internal/geo/Continent/Europe/Bulgaria/Counties/Silistra.internal|Silistra.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Bulgaria/Counties/Silistra.protect|Silistra.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Bulgaria/Counties/Silistra.private|Silistra.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Bulgaria/Counties/Silistra.personal|Silistra.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Bulgaria/Counties/Silistra.secret|Silistra.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Bulgaria/Counties/Silistra|Silistra]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Bulgaria/Counties/Silistra.public|Silistra.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Bulgaria/Counties/Silistra.internal|Silistra.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Bulgaria/Counties/Silistra.protect|Silistra.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Bulgaria/Counties/Silistra.private|Silistra.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Bulgaria/Counties/Silistra.personal|Silistra.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Bulgaria/Counties/Silistra.secret|Silistra.secret]] 
 

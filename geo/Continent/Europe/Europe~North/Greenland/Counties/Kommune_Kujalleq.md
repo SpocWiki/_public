@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 61.4 , -44.7 ] 
 type: geo-Region
 title: Kommune_Kujalleq
@@ -40,10 +40,11 @@ markerFolder: ./Kommune_Kujalleq/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Greenland/Counties/Kommune_Kujalleq.md|Kommune_Kujalleq]] 
-- [[../../../../_internal/geo/Continent/Europe/Greenland/Counties/Kommune_Kujalleq.internal|Kommune_Kujalleq.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Greenland/Counties/Kommune_Kujalleq.protect|Kommune_Kujalleq.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Greenland/Counties/Kommune_Kujalleq.private|Kommune_Kujalleq.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Greenland/Counties/Kommune_Kujalleq.personal|Kommune_Kujalleq.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Greenland/Counties/Kommune_Kujalleq.secret|Kommune_Kujalleq.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Greenland/Counties/Kommune_Kujalleq|Kommune_Kujalleq]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Greenland/Counties/Kommune_Kujalleq.public|Kommune_Kujalleq.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Greenland/Counties/Kommune_Kujalleq.internal|Kommune_Kujalleq.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Greenland/Counties/Kommune_Kujalleq.protect|Kommune_Kujalleq.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Greenland/Counties/Kommune_Kujalleq.private|Kommune_Kujalleq.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Greenland/Counties/Kommune_Kujalleq.personal|Kommune_Kujalleq.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Greenland/Counties/Kommune_Kujalleq.secret|Kommune_Kujalleq.secret]] 
 

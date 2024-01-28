@@ -1,5 +1,5 @@
-﻿---
-location: [53.2,16.15]
+---
+location: [53.2,16.15] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,29 +12,30 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::16.15]
-[geo-lat::53.2]
-[name::Tuetz]
-[State::]
-[Country::[[Poland]]]
-[StateId::]
-[Population::]
-[Unknown::]
+[geo-lon::16.15] 
+[geo-lat::53.2] 
+[name::Tuetz] 
+State ::  
+Country :: [[Poland]]  
+[StateId::] 
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Tuetz
-coordinates: [[Tuetz]]
-markerFile: [[Tuetz]]
+coordinates: [[Tuetz]] 
+markerFile: [[Tuetz]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_public/geo/Continent/Europe/Poland/City/Tuetz.md|Tuetz]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Tuetz.internal|Tuetz.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Tuetz.protect|Tuetz.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Tuetz.private|Tuetz.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Tuetz.personal|Tuetz.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Tuetz.secret|Tuetz.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Poland/City/Tuetz|Tuetz]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Poland/City/Tuetz.public|Tuetz.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Poland/City/Tuetz.internal|Tuetz.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Poland/City/Tuetz.protect|Tuetz.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Poland/City/Tuetz.private|Tuetz.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Poland/City/Tuetz.personal|Tuetz.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Poland/City/Tuetz.secret|Tuetz.secret]] 

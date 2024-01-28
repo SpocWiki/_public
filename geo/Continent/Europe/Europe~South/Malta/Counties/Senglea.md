@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 35.886 , 14.515 ] 
 type: geo-Region
 title: Senglea
@@ -40,10 +40,11 @@ markerFolder: ./Senglea/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Malta/Counties/Senglea.md|Senglea]] 
-- [[../../../../_internal/geo/Continent/Europe/Malta/Counties/Senglea.internal|Senglea.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Malta/Counties/Senglea.protect|Senglea.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Malta/Counties/Senglea.private|Senglea.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Malta/Counties/Senglea.personal|Senglea.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Malta/Counties/Senglea.secret|Senglea.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Malta/Counties/Senglea|Senglea]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Malta/Counties/Senglea.public|Senglea.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Malta/Counties/Senglea.internal|Senglea.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Malta/Counties/Senglea.protect|Senglea.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Malta/Counties/Senglea.private|Senglea.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Malta/Counties/Senglea.personal|Senglea.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Malta/Counties/Senglea.secret|Senglea.secret]] 
 

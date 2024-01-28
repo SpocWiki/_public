@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 35.88 , 14.52 ] 
 type: geo-Region
 title: Cospicua
@@ -40,10 +40,11 @@ markerFolder: ./Cospicua/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Malta/Counties/Cospicua.md|Cospicua]] 
-- [[../../../../_internal/geo/Continent/Europe/Malta/Counties/Cospicua.internal|Cospicua.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Malta/Counties/Cospicua.protect|Cospicua.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Malta/Counties/Cospicua.private|Cospicua.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Malta/Counties/Cospicua.personal|Cospicua.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Malta/Counties/Cospicua.secret|Cospicua.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Malta/Counties/Cospicua|Cospicua]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Malta/Counties/Cospicua.public|Cospicua.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Malta/Counties/Cospicua.internal|Cospicua.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Malta/Counties/Cospicua.protect|Cospicua.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Malta/Counties/Cospicua.private|Cospicua.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Malta/Counties/Cospicua.personal|Cospicua.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Malta/Counties/Cospicua.secret|Cospicua.secret]] 
 

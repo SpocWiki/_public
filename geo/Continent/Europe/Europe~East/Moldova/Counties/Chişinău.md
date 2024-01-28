@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 47 , 28.9 ] 
 type: geo-Region
 title: Chişinău
@@ -40,10 +40,11 @@ markerFolder: ./Chişinău/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Moldova/Counties/Chişinău.md|Chişinău]] 
-- [[../../../../_internal/geo/Continent/Europe/Moldova/Counties/Chişinău.internal|Chişinău.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Moldova/Counties/Chişinău.protect|Chişinău.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Moldova/Counties/Chişinău.private|Chişinău.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Moldova/Counties/Chişinău.personal|Chişinău.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Moldova/Counties/Chişinău.secret|Chişinău.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Moldova/Counties/Chişinău|Chişinău]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Moldova/Counties/Chişinău.public|Chişinău.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Moldova/Counties/Chişinău.internal|Chişinău.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Moldova/Counties/Chişinău.protect|Chişinău.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Moldova/Counties/Chişinău.private|Chişinău.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Moldova/Counties/Chişinău.personal|Chişinău.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Moldova/Counties/Chişinău.secret|Chişinău.secret]] 
 

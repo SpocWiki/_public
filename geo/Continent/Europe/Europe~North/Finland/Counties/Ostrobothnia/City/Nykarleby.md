@@ -1,5 +1,5 @@
-﻿---
-location: [63.52,22.5]
+---
+location: [63.52,22.5] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,29 +12,30 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::22.5]
-[geo-lat::63.52]
-[name::Nykarleby]
-[State::]
-[Country::[[Finland]]]
-[StateId::]
-[Population::]
-[Unknown::]
+[geo-lon::22.5] 
+[geo-lat::63.52] 
+[name::Nykarleby] 
+State ::  
+Country :: [[Finland]]  
+[StateId::] 
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Nykarleby
-coordinates: [[Nykarleby]]
-markerFile: [[Nykarleby]]
+coordinates: [[Nykarleby]] 
+markerFile: [[Nykarleby]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_public/geo/Continent/Europe/Finland/City/Nykarleby.md|Nykarleby]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Finland/City/Nykarleby.internal|Nykarleby.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Finland/City/Nykarleby.protect|Nykarleby.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Finland/City/Nykarleby.private|Nykarleby.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Finland/City/Nykarleby.personal|Nykarleby.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Finland/City/Nykarleby.secret|Nykarleby.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Finland/City/Nykarleby|Nykarleby]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Finland/City/Nykarleby.public|Nykarleby.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Finland/City/Nykarleby.internal|Nykarleby.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Finland/City/Nykarleby.protect|Nykarleby.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Finland/City/Nykarleby.private|Nykarleby.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Finland/City/Nykarleby.personal|Nykarleby.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Finland/City/Nykarleby.secret|Nykarleby.secret]] 

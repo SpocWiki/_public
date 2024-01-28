@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 41.7 , 27.5 ] 
 type: geo-Region
 title: Kirklareli
@@ -40,10 +40,11 @@ markerFolder: ./Kirklareli/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Turkey/Counties/Kirklareli.md|Kirklareli]] 
-- [[../../../../_internal/geo/Continent/Europe/Turkey/Counties/Kirklareli.internal|Kirklareli.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Turkey/Counties/Kirklareli.protect|Kirklareli.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Turkey/Counties/Kirklareli.private|Kirklareli.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Turkey/Counties/Kirklareli.personal|Kirklareli.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Turkey/Counties/Kirklareli.secret|Kirklareli.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Turkey/Counties/Kirklareli|Kirklareli]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Turkey/Counties/Kirklareli.public|Kirklareli.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Turkey/Counties/Kirklareli.internal|Kirklareli.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Turkey/Counties/Kirklareli.protect|Kirklareli.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Turkey/Counties/Kirklareli.private|Kirklareli.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Turkey/Counties/Kirklareli.personal|Kirklareli.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Turkey/Counties/Kirklareli.secret|Kirklareli.secret]] 
 

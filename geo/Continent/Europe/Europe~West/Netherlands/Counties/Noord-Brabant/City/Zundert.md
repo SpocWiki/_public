@@ -1,5 +1,5 @@
-﻿---
-location: [51.47,4.67]
+---
+location: [51.47,4.67] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,29 +12,30 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::4.67]
-[geo-lat::51.47]
-[name::Zundert]
-[State::]
-[Country::[[Netherlands]]]
-[StateId::]
-[Population::]
-[Unknown::]
+[geo-lon::4.67] 
+[geo-lat::51.47] 
+[name::Zundert] 
+State ::  
+Country :: [[Netherlands]]  
+[StateId::] 
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Zundert
-coordinates: [[Zundert]]
-markerFile: [[Zundert]]
+coordinates: [[Zundert]] 
+markerFile: [[Zundert]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_public/geo/Continent/Europe/Netherlands/City/Zundert.md|Zundert]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Netherlands/City/Zundert.internal|Zundert.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Netherlands/City/Zundert.protect|Zundert.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Netherlands/City/Zundert.private|Zundert.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Netherlands/City/Zundert.personal|Zundert.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Netherlands/City/Zundert.secret|Zundert.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~West/Netherlands/City/Zundert|Zundert]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~West/Netherlands/City/Zundert.public|Zundert.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~West/Netherlands/City/Zundert.internal|Zundert.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~West/Netherlands/City/Zundert.protect|Zundert.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~West/Netherlands/City/Zundert.private|Zundert.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~West/Netherlands/City/Zundert.personal|Zundert.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~West/Netherlands/City/Zundert.secret|Zundert.secret]] 

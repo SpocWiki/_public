@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 35 , 33.8 ] 
 type: geo-Region
 title: Dhekelia
@@ -40,10 +40,11 @@ markerFolder: ./Dhekelia/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Cyprus/Akrotiri_and_Dhekelia/Counties/Dhekelia.md|Dhekelia]] 
-- [[../../../../_internal/geo/Continent/Europe/Cyprus/Akrotiri_and_Dhekelia/Counties/Dhekelia.internal|Dhekelia.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Cyprus/Akrotiri_and_Dhekelia/Counties/Dhekelia.protect|Dhekelia.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Cyprus/Akrotiri_and_Dhekelia/Counties/Dhekelia.private|Dhekelia.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Cyprus/Akrotiri_and_Dhekelia/Counties/Dhekelia.personal|Dhekelia.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Cyprus/Akrotiri_and_Dhekelia/Counties/Dhekelia.secret|Dhekelia.secret]] 
+- [[../../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Cyprus/Akrotiri_and_Dhekelia/Counties/Dhekelia|Dhekelia]] 
+- [[../../../../../../../../_public/geo/Continent/Europe/Europe~South/Cyprus/Akrotiri_and_Dhekelia/Counties/Dhekelia.public|Dhekelia.public]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/Europe~South/Cyprus/Akrotiri_and_Dhekelia/Counties/Dhekelia.internal|Dhekelia.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/Europe~South/Cyprus/Akrotiri_and_Dhekelia/Counties/Dhekelia.protect|Dhekelia.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/Europe~South/Cyprus/Akrotiri_and_Dhekelia/Counties/Dhekelia.private|Dhekelia.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/Europe~South/Cyprus/Akrotiri_and_Dhekelia/Counties/Dhekelia.personal|Dhekelia.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/Europe~South/Cyprus/Akrotiri_and_Dhekelia/Counties/Dhekelia.secret|Dhekelia.secret]] 
 

@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 49.5 , 26.9 ] 
 type: geo-Region
 title: Khmel'nyts'kyy
@@ -40,10 +40,11 @@ markerFolder: ./Khmel'nyts'kyy/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Ukraine/Counties/Khmel'nyts'kyy.md|Khmel'nyts'kyy]] 
-- [[../../../../_internal/geo/Continent/Europe/Ukraine/Counties/Khmel'nyts'kyy.internal|Khmel'nyts'kyy.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Ukraine/Counties/Khmel'nyts'kyy.protect|Khmel'nyts'kyy.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Ukraine/Counties/Khmel'nyts'kyy.private|Khmel'nyts'kyy.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Ukraine/Counties/Khmel'nyts'kyy.personal|Khmel'nyts'kyy.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Ukraine/Counties/Khmel'nyts'kyy.secret|Khmel'nyts'kyy.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Ukraine/Counties/Khmel'nyts'kyy|Khmel'nyts'kyy]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Ukraine/Counties/Khmel'nyts'kyy.public|Khmel'nyts'kyy.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Ukraine/Counties/Khmel'nyts'kyy.internal|Khmel'nyts'kyy.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Ukraine/Counties/Khmel'nyts'kyy.protect|Khmel'nyts'kyy.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Ukraine/Counties/Khmel'nyts'kyy.private|Khmel'nyts'kyy.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Ukraine/Counties/Khmel'nyts'kyy.personal|Khmel'nyts'kyy.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Ukraine/Counties/Khmel'nyts'kyy.secret|Khmel'nyts'kyy.secret]] 
 

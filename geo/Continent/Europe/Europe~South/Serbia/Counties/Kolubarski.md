@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 44.3 , 19.8 ] 
 type: geo-Region
 title: Kolubarski
@@ -40,10 +40,11 @@ markerFolder: ./Kolubarski/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Serbia/Counties/Kolubarski.md|Kolubarski]] 
-- [[../../../../_internal/geo/Continent/Europe/Serbia/Counties/Kolubarski.internal|Kolubarski.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Serbia/Counties/Kolubarski.protect|Kolubarski.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Serbia/Counties/Kolubarski.private|Kolubarski.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Serbia/Counties/Kolubarski.personal|Kolubarski.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Serbia/Counties/Kolubarski.secret|Kolubarski.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Serbia/Counties/Kolubarski|Kolubarski]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Serbia/Counties/Kolubarski.public|Kolubarski.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Serbia/Counties/Kolubarski.internal|Kolubarski.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Serbia/Counties/Kolubarski.protect|Kolubarski.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Serbia/Counties/Kolubarski.private|Kolubarski.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Serbia/Counties/Kolubarski.personal|Kolubarski.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Serbia/Counties/Kolubarski.secret|Kolubarski.secret]] 
 

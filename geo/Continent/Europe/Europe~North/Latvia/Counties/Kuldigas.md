@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 56.9 , 22 ] 
 type: geo-Region
 title: Kuldigas
@@ -40,10 +40,11 @@ markerFolder: ./Kuldigas/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Latvia/Counties/Kuldigas.md|Kuldigas]] 
-- [[../../../../_internal/geo/Continent/Europe/Latvia/Counties/Kuldigas.internal|Kuldigas.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Latvia/Counties/Kuldigas.protect|Kuldigas.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Latvia/Counties/Kuldigas.private|Kuldigas.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Latvia/Counties/Kuldigas.personal|Kuldigas.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Latvia/Counties/Kuldigas.secret|Kuldigas.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Latvia/Counties/Kuldigas|Kuldigas]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Latvia/Counties/Kuldigas.public|Kuldigas.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Latvia/Counties/Kuldigas.internal|Kuldigas.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Latvia/Counties/Kuldigas.protect|Kuldigas.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Latvia/Counties/Kuldigas.private|Kuldigas.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Latvia/Counties/Kuldigas.personal|Kuldigas.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Latvia/Counties/Kuldigas.secret|Kuldigas.secret]] 
 

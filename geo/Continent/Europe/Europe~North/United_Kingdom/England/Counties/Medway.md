@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 51.4 , 0.54 ] 
 type: geo-Region
 title: Medway
@@ -40,10 +40,11 @@ markerFolder: ./Medway/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/United_Kingdom/England/Counties/Medway.md|Medway]] 
-- [[../../../../_internal/geo/Continent/Europe/United_Kingdom/England/Counties/Medway.internal|Medway.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/United_Kingdom/England/Counties/Medway.protect|Medway.protect]] 
-- [[../../../../_private/geo/Continent/Europe/United_Kingdom/England/Counties/Medway.private|Medway.private]] 
-- [[../../../../_personal/geo/Continent/Europe/United_Kingdom/England/Counties/Medway.personal|Medway.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/United_Kingdom/England/Counties/Medway.secret|Medway.secret]] 
+- [[../../../../../../../../_Standards/geo/Continent/Europe/Europe~North/United_Kingdom/England/Counties/Medway|Medway]] 
+- [[../../../../../../../../_public/geo/Continent/Europe/Europe~North/United_Kingdom/England/Counties/Medway.public|Medway.public]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/Europe~North/United_Kingdom/England/Counties/Medway.internal|Medway.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/Europe~North/United_Kingdom/England/Counties/Medway.protect|Medway.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/Europe~North/United_Kingdom/England/Counties/Medway.private|Medway.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/Europe~North/United_Kingdom/England/Counties/Medway.personal|Medway.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/Europe~North/United_Kingdom/England/Counties/Medway.secret|Medway.secret]] 
 

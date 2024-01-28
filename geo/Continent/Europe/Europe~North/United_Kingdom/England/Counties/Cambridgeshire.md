@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 52.4 , -0 ] 
 type: geo-Region
 title: Cambridgeshire
@@ -40,10 +40,11 @@ markerFolder: ./Cambridgeshire/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/United_Kingdom/England/Counties/Cambridgeshire.md|Cambridgeshire]] 
-- [[../../../../_internal/geo/Continent/Europe/United_Kingdom/England/Counties/Cambridgeshire.internal|Cambridgeshire.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/United_Kingdom/England/Counties/Cambridgeshire.protect|Cambridgeshire.protect]] 
-- [[../../../../_private/geo/Continent/Europe/United_Kingdom/England/Counties/Cambridgeshire.private|Cambridgeshire.private]] 
-- [[../../../../_personal/geo/Continent/Europe/United_Kingdom/England/Counties/Cambridgeshire.personal|Cambridgeshire.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/United_Kingdom/England/Counties/Cambridgeshire.secret|Cambridgeshire.secret]] 
+- [[../../../../../../../../_Standards/geo/Continent/Europe/Europe~North/United_Kingdom/England/Counties/Cambridgeshire|Cambridgeshire]] 
+- [[../../../../../../../../_public/geo/Continent/Europe/Europe~North/United_Kingdom/England/Counties/Cambridgeshire.public|Cambridgeshire.public]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/Europe~North/United_Kingdom/England/Counties/Cambridgeshire.internal|Cambridgeshire.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/Europe~North/United_Kingdom/England/Counties/Cambridgeshire.protect|Cambridgeshire.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/Europe~North/United_Kingdom/England/Counties/Cambridgeshire.private|Cambridgeshire.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/Europe~North/United_Kingdom/England/Counties/Cambridgeshire.personal|Cambridgeshire.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/Europe~North/United_Kingdom/England/Counties/Cambridgeshire.secret|Cambridgeshire.secret]] 
 

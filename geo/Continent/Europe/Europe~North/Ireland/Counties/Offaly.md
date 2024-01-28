@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 53.1 , -7.8 ] 
 type: geo-Region
 title: Offaly
@@ -40,10 +40,11 @@ markerFolder: ./Offaly/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Ireland/Counties/Offaly.md|Offaly]] 
-- [[../../../../_internal/geo/Continent/Europe/Ireland/Counties/Offaly.internal|Offaly.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Ireland/Counties/Offaly.protect|Offaly.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Ireland/Counties/Offaly.private|Offaly.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Ireland/Counties/Offaly.personal|Offaly.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Ireland/Counties/Offaly.secret|Offaly.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Ireland/Counties/Offaly|Offaly]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Ireland/Counties/Offaly.public|Offaly.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Ireland/Counties/Offaly.internal|Offaly.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Ireland/Counties/Offaly.protect|Offaly.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Ireland/Counties/Offaly.private|Offaly.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Ireland/Counties/Offaly.personal|Offaly.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Ireland/Counties/Offaly.secret|Offaly.secret]] 
 

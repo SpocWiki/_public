@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 52.6 , -2.1 ] 
 type: geo-Region
 title: Wolverhampton
@@ -40,10 +40,11 @@ markerFolder: ./Wolverhampton/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/United_Kingdom/England/Counties/Wolverhampton.md|Wolverhampton]] 
-- [[../../../../_internal/geo/Continent/Europe/United_Kingdom/England/Counties/Wolverhampton.internal|Wolverhampton.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/United_Kingdom/England/Counties/Wolverhampton.protect|Wolverhampton.protect]] 
-- [[../../../../_private/geo/Continent/Europe/United_Kingdom/England/Counties/Wolverhampton.private|Wolverhampton.private]] 
-- [[../../../../_personal/geo/Continent/Europe/United_Kingdom/England/Counties/Wolverhampton.personal|Wolverhampton.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/United_Kingdom/England/Counties/Wolverhampton.secret|Wolverhampton.secret]] 
+- [[../../../../../../../../_Standards/geo/Continent/Europe/Europe~North/United_Kingdom/England/Counties/Wolverhampton|Wolverhampton]] 
+- [[../../../../../../../../_public/geo/Continent/Europe/Europe~North/United_Kingdom/England/Counties/Wolverhampton.public|Wolverhampton.public]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/Europe~North/United_Kingdom/England/Counties/Wolverhampton.internal|Wolverhampton.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/Europe~North/United_Kingdom/England/Counties/Wolverhampton.protect|Wolverhampton.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/Europe~North/United_Kingdom/England/Counties/Wolverhampton.private|Wolverhampton.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/Europe~North/United_Kingdom/England/Counties/Wolverhampton.personal|Wolverhampton.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/Europe~North/United_Kingdom/England/Counties/Wolverhampton.secret|Wolverhampton.secret]] 
 

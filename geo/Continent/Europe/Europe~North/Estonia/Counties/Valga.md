@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 57.9 , 26.1 ] 
 type: geo-Region
 title: Valga
@@ -40,10 +40,11 @@ markerFolder: ./Valga/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Estonia/Counties/Valga.md|Valga]] 
-- [[../../../../_internal/geo/Continent/Europe/Estonia/Counties/Valga.internal|Valga.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Estonia/Counties/Valga.protect|Valga.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Estonia/Counties/Valga.private|Valga.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Estonia/Counties/Valga.personal|Valga.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Estonia/Counties/Valga.secret|Valga.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Estonia/Counties/Valga|Valga]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Estonia/Counties/Valga.public|Valga.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Estonia/Counties/Valga.internal|Valga.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Estonia/Counties/Valga.protect|Valga.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Estonia/Counties/Valga.private|Valga.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Estonia/Counties/Valga.personal|Valga.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Estonia/Counties/Valga.secret|Valga.secret]] 
 

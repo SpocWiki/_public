@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 45.9 , 26 ] 
 type: geo-Region
 title: Covasna
@@ -40,10 +40,11 @@ markerFolder: ./Covasna/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Romania/Counties/Covasna.md|Covasna]] 
-- [[../../../../_internal/geo/Continent/Europe/Romania/Counties/Covasna.internal|Covasna.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Romania/Counties/Covasna.protect|Covasna.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Romania/Counties/Covasna.private|Covasna.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Romania/Counties/Covasna.personal|Covasna.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Romania/Counties/Covasna.secret|Covasna.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Romania/Counties/Covasna|Covasna]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Romania/Counties/Covasna.public|Covasna.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Romania/Counties/Covasna.internal|Covasna.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Romania/Counties/Covasna.protect|Covasna.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Romania/Counties/Covasna.private|Covasna.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Romania/Counties/Covasna.personal|Covasna.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Romania/Counties/Covasna.secret|Covasna.secret]] 
 

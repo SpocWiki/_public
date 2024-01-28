@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 44.9 , 25.5 ] 
 type: geo-Region
 title: Dâmbovita
@@ -40,10 +40,11 @@ markerFolder: ./Dâmbovita/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Romania/Counties/Dâmbovita.md|Dâmbovita]] 
-- [[../../../../_internal/geo/Continent/Europe/Romania/Counties/Dâmbovita.internal|Dâmbovita.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Romania/Counties/Dâmbovita.protect|Dâmbovita.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Romania/Counties/Dâmbovita.private|Dâmbovita.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Romania/Counties/Dâmbovita.personal|Dâmbovita.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Romania/Counties/Dâmbovita.secret|Dâmbovita.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Romania/Counties/Dâmbovita|Dâmbovita]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Romania/Counties/Dâmbovita.public|Dâmbovita.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Romania/Counties/Dâmbovita.internal|Dâmbovita.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Romania/Counties/Dâmbovita.protect|Dâmbovita.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Romania/Counties/Dâmbovita.private|Dâmbovita.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Romania/Counties/Dâmbovita.personal|Dâmbovita.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Romania/Counties/Dâmbovita.secret|Dâmbovita.secret]] 
 

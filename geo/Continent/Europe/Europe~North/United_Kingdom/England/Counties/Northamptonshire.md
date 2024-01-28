@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 52.3 , -0.8 ] 
 type: geo-Region
 title: Northamptonshire
@@ -40,10 +40,11 @@ markerFolder: ./Northamptonshire/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/United_Kingdom/England/Counties/Northamptonshire.md|Northamptonshire]] 
-- [[../../../../_internal/geo/Continent/Europe/United_Kingdom/England/Counties/Northamptonshire.internal|Northamptonshire.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/United_Kingdom/England/Counties/Northamptonshire.protect|Northamptonshire.protect]] 
-- [[../../../../_private/geo/Continent/Europe/United_Kingdom/England/Counties/Northamptonshire.private|Northamptonshire.private]] 
-- [[../../../../_personal/geo/Continent/Europe/United_Kingdom/England/Counties/Northamptonshire.personal|Northamptonshire.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/United_Kingdom/England/Counties/Northamptonshire.secret|Northamptonshire.secret]] 
+- [[../../../../../../../../_Standards/geo/Continent/Europe/Europe~North/United_Kingdom/England/Counties/Northamptonshire|Northamptonshire]] 
+- [[../../../../../../../../_public/geo/Continent/Europe/Europe~North/United_Kingdom/England/Counties/Northamptonshire.public|Northamptonshire.public]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/Europe~North/United_Kingdom/England/Counties/Northamptonshire.internal|Northamptonshire.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/Europe~North/United_Kingdom/England/Counties/Northamptonshire.protect|Northamptonshire.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/Europe~North/United_Kingdom/England/Counties/Northamptonshire.private|Northamptonshire.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/Europe~North/United_Kingdom/England/Counties/Northamptonshire.personal|Northamptonshire.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/Europe~North/United_Kingdom/England/Counties/Northamptonshire.secret|Northamptonshire.secret]] 
 

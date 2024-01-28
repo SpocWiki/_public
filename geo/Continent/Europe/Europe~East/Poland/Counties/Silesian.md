@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 50.2 , 18.9 ] 
 type: geo-Region
 title: Silesian
@@ -40,10 +40,11 @@ markerFolder: ./Silesian/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Poland/Counties/Silesian.md|Silesian]] 
-- [[../../../../_internal/geo/Continent/Europe/Poland/Counties/Silesian.internal|Silesian.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Poland/Counties/Silesian.protect|Silesian.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Poland/Counties/Silesian.private|Silesian.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Poland/Counties/Silesian.personal|Silesian.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Poland/Counties/Silesian.secret|Silesian.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Poland/Counties/Silesian|Silesian]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Poland/Counties/Silesian.public|Silesian.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Poland/Counties/Silesian.internal|Silesian.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Poland/Counties/Silesian.protect|Silesian.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Poland/Counties/Silesian.private|Silesian.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Poland/Counties/Silesian.personal|Silesian.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Poland/Counties/Silesian.secret|Silesian.secret]] 
 

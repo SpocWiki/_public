@@ -1,5 +1,5 @@
-﻿---
-location: [57.98,6.98]
+---
+location: [57.98,6.98] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,29 +12,30 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::6.98]
-[geo-lat::57.98]
-[name::Markoe]
-[State::]
-[Country::[[Norway]]]
-[StateId::]
-[Population::]
-[Unknown::]
+[geo-lon::6.98] 
+[geo-lat::57.98] 
+[name::Markoe] 
+State ::  
+Country :: [[Norway]]  
+[StateId::] 
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Markoe
-coordinates: [[Markoe]]
-markerFile: [[Markoe]]
+coordinates: [[Markoe]] 
+markerFile: [[Markoe]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_public/geo/Continent/Europe/Norway/City/Markoe.md|Markoe]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Norway/City/Markoe.internal|Markoe.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Norway/City/Markoe.protect|Markoe.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Norway/City/Markoe.private|Markoe.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Norway/City/Markoe.personal|Markoe.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Norway/City/Markoe.secret|Markoe.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Norway/City/Markoe|Markoe]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Norway/City/Markoe.public|Markoe.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Norway/City/Markoe.internal|Markoe.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Norway/City/Markoe.protect|Markoe.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Norway/City/Markoe.private|Markoe.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Norway/City/Markoe.personal|Markoe.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Norway/City/Markoe.secret|Markoe.secret]] 

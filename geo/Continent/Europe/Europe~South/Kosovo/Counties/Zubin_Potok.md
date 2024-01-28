@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 42.9 , 20.6 ] 
 type: geo-Region
 title: Zubin_Potok
@@ -40,10 +40,11 @@ markerFolder: ./Zubin_Potok/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Kosovo/Counties/Zubin_Potok.md|Zubin_Potok]] 
-- [[../../../../_internal/geo/Continent/Europe/Kosovo/Counties/Zubin_Potok.internal|Zubin_Potok.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Kosovo/Counties/Zubin_Potok.protect|Zubin_Potok.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Kosovo/Counties/Zubin_Potok.private|Zubin_Potok.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Kosovo/Counties/Zubin_Potok.personal|Zubin_Potok.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Kosovo/Counties/Zubin_Potok.secret|Zubin_Potok.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Kosovo/Counties/Zubin_Potok|Zubin_Potok]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Kosovo/Counties/Zubin_Potok.public|Zubin_Potok.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Kosovo/Counties/Zubin_Potok.internal|Zubin_Potok.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Kosovo/Counties/Zubin_Potok.protect|Zubin_Potok.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Kosovo/Counties/Zubin_Potok.private|Zubin_Potok.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Kosovo/Counties/Zubin_Potok.personal|Zubin_Potok.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Kosovo/Counties/Zubin_Potok.secret|Zubin_Potok.secret]] 
 

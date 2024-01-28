@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 51.8 , 0.5 ] 
 type: geo-Region
 title: Essex
@@ -40,10 +40,11 @@ markerFolder: ./Essex/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/United_Kingdom/England/Counties/Essex.md|Essex]] 
-- [[../../../../_internal/geo/Continent/Europe/United_Kingdom/England/Counties/Essex.internal|Essex.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/United_Kingdom/England/Counties/Essex.protect|Essex.protect]] 
-- [[../../../../_private/geo/Continent/Europe/United_Kingdom/England/Counties/Essex.private|Essex.private]] 
-- [[../../../../_personal/geo/Continent/Europe/United_Kingdom/England/Counties/Essex.personal|Essex.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/United_Kingdom/England/Counties/Essex.secret|Essex.secret]] 
+- [[../../../../../../../../_Standards/geo/Continent/Europe/Europe~North/United_Kingdom/England/Counties/Essex|Essex]] 
+- [[../../../../../../../../_public/geo/Continent/Europe/Europe~North/United_Kingdom/England/Counties/Essex.public|Essex.public]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/Europe~North/United_Kingdom/England/Counties/Essex.internal|Essex.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/Europe~North/United_Kingdom/England/Counties/Essex.protect|Essex.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/Europe~North/United_Kingdom/England/Counties/Essex.private|Essex.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/Europe~North/United_Kingdom/England/Counties/Essex.personal|Essex.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/Europe~North/United_Kingdom/England/Counties/Essex.secret|Essex.secret]] 
 

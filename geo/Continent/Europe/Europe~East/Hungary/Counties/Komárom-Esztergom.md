@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 47.6 , 18.1 ] 
 type: geo-Region
 title: Komárom-Esztergom
@@ -40,10 +40,11 @@ markerFolder: ./Komárom-Esztergom/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Hungary/Counties/Komárom-Esztergom.md|Komárom-Esztergom]] 
-- [[../../../../_internal/geo/Continent/Europe/Hungary/Counties/Komárom-Esztergom.internal|Komárom-Esztergom.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Hungary/Counties/Komárom-Esztergom.protect|Komárom-Esztergom.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Hungary/Counties/Komárom-Esztergom.private|Komárom-Esztergom.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Hungary/Counties/Komárom-Esztergom.personal|Komárom-Esztergom.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Hungary/Counties/Komárom-Esztergom.secret|Komárom-Esztergom.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Hungary/Counties/Komárom-Esztergom|Komárom-Esztergom]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Hungary/Counties/Komárom-Esztergom.public|Komárom-Esztergom.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Hungary/Counties/Komárom-Esztergom.internal|Komárom-Esztergom.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Hungary/Counties/Komárom-Esztergom.protect|Komárom-Esztergom.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Hungary/Counties/Komárom-Esztergom.private|Komárom-Esztergom.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Hungary/Counties/Komárom-Esztergom.personal|Komárom-Esztergom.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Hungary/Counties/Komárom-Esztergom.secret|Komárom-Esztergom.secret]] 
 

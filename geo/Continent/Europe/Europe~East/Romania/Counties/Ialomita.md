@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 44.6 , 27.2 ] 
 type: geo-Region
 title: Ialomita
@@ -40,10 +40,11 @@ markerFolder: ./Ialomita/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Romania/Counties/Ialomita.md|Ialomita]] 
-- [[../../../../_internal/geo/Continent/Europe/Romania/Counties/Ialomita.internal|Ialomita.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Romania/Counties/Ialomita.protect|Ialomita.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Romania/Counties/Ialomita.private|Ialomita.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Romania/Counties/Ialomita.personal|Ialomita.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Romania/Counties/Ialomita.secret|Ialomita.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Romania/Counties/Ialomita|Ialomita]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Romania/Counties/Ialomita.public|Ialomita.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Romania/Counties/Ialomita.internal|Ialomita.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Romania/Counties/Ialomita.protect|Ialomita.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Romania/Counties/Ialomita.private|Ialomita.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Romania/Counties/Ialomita.personal|Ialomita.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Romania/Counties/Ialomita.secret|Ialomita.secret]] 
 

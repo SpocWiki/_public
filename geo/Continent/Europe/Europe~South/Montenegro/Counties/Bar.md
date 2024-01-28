@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 42.2 , 19.1 ] 
 type: geo-Region
 title: Bar
@@ -40,10 +40,11 @@ markerFolder: ./Bar/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Montenegro/Counties/Bar.md|Bar]] 
-- [[../../../../_internal/geo/Continent/Europe/Montenegro/Counties/Bar.internal|Bar.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Montenegro/Counties/Bar.protect|Bar.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Montenegro/Counties/Bar.private|Bar.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Montenegro/Counties/Bar.personal|Bar.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Montenegro/Counties/Bar.secret|Bar.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Montenegro/Counties/Bar|Bar]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Montenegro/Counties/Bar.public|Bar.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Montenegro/Counties/Bar.internal|Bar.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Montenegro/Counties/Bar.protect|Bar.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Montenegro/Counties/Bar.private|Bar.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Montenegro/Counties/Bar.personal|Bar.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Montenegro/Counties/Bar.secret|Bar.secret]] 
 

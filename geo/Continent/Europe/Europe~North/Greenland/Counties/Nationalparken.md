@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 77 , -32 ] 
 type: geo-Region
 title: Nationalparken
@@ -40,10 +40,11 @@ markerFolder: ./Nationalparken/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Greenland/Counties/Nationalparken.md|Nationalparken]] 
-- [[../../../../_internal/geo/Continent/Europe/Greenland/Counties/Nationalparken.internal|Nationalparken.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Greenland/Counties/Nationalparken.protect|Nationalparken.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Greenland/Counties/Nationalparken.private|Nationalparken.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Greenland/Counties/Nationalparken.personal|Nationalparken.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Greenland/Counties/Nationalparken.secret|Nationalparken.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Greenland/Counties/Nationalparken|Nationalparken]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Greenland/Counties/Nationalparken.public|Nationalparken.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Greenland/Counties/Nationalparken.internal|Nationalparken.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Greenland/Counties/Nationalparken.protect|Nationalparken.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Greenland/Counties/Nationalparken.private|Nationalparken.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Greenland/Counties/Nationalparken.personal|Nationalparken.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Greenland/Counties/Nationalparken.secret|Nationalparken.secret]] 
 

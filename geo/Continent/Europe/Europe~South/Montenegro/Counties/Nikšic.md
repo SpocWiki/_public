@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 42.9 , 18.8 ] 
 type: geo-Region
 title: Nikšic
@@ -40,10 +40,11 @@ markerFolder: ./Nikšic/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Montenegro/Counties/Nikšic.md|Nikšic]] 
-- [[../../../../_internal/geo/Continent/Europe/Montenegro/Counties/Nikšic.internal|Nikšic.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Montenegro/Counties/Nikšic.protect|Nikšic.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Montenegro/Counties/Nikšic.private|Nikšic.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Montenegro/Counties/Nikšic.personal|Nikšic.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Montenegro/Counties/Nikšic.secret|Nikšic.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Montenegro/Counties/Nikšic|Nikšic]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Montenegro/Counties/Nikšic.public|Nikšic.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Montenegro/Counties/Nikšic.internal|Nikšic.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Montenegro/Counties/Nikšic.protect|Nikšic.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Montenegro/Counties/Nikšic.private|Nikšic.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Montenegro/Counties/Nikšic.personal|Nikšic.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Montenegro/Counties/Nikšic.secret|Nikšic.secret]] 
 

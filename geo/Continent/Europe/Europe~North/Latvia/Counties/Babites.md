@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 56.9 , 23.7 ] 
 type: geo-Region
 title: Babites
@@ -40,10 +40,11 @@ markerFolder: ./Babites/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Latvia/Counties/Babites.md|Babites]] 
-- [[../../../../_internal/geo/Continent/Europe/Latvia/Counties/Babites.internal|Babites.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Latvia/Counties/Babites.protect|Babites.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Latvia/Counties/Babites.private|Babites.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Latvia/Counties/Babites.personal|Babites.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Latvia/Counties/Babites.secret|Babites.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Latvia/Counties/Babites|Babites]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Latvia/Counties/Babites.public|Babites.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Latvia/Counties/Babites.internal|Babites.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Latvia/Counties/Babites.protect|Babites.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Latvia/Counties/Babites.private|Babites.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Latvia/Counties/Babites.personal|Babites.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Latvia/Counties/Babites.secret|Babites.secret]] 
 

@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 41.6 , 21.2 ] 
 type: geo-Region
 title: Brod
@@ -40,10 +40,11 @@ markerFolder: ./Brod/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Macedonia~North/Counties/Brod.md|Brod]] 
-- [[../../../../_internal/geo/Continent/Europe/Macedonia~North/Counties/Brod.internal|Brod.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Macedonia~North/Counties/Brod.protect|Brod.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Macedonia~North/Counties/Brod.private|Brod.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Macedonia~North/Counties/Brod.personal|Brod.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Macedonia~North/Counties/Brod.secret|Brod.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Macedonia~North/Counties/Brod|Brod]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Macedonia~North/Counties/Brod.public|Brod.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Macedonia~North/Counties/Brod.internal|Brod.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Macedonia~North/Counties/Brod.protect|Brod.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Macedonia~North/Counties/Brod.private|Brod.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Macedonia~North/Counties/Brod.personal|Brod.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Macedonia~North/Counties/Brod.secret|Brod.secret]] 
 

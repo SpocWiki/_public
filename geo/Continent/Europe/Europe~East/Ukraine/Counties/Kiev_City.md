@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 50.3 , 30.6 ] 
 type: geo-Region
 title: Kiev_City
@@ -40,10 +40,11 @@ markerFolder: ./Kiev_City/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Ukraine/Counties/Kiev_City.md|Kiev_City]] 
-- [[../../../../_internal/geo/Continent/Europe/Ukraine/Counties/Kiev_City.internal|Kiev_City.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Ukraine/Counties/Kiev_City.protect|Kiev_City.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Ukraine/Counties/Kiev_City.private|Kiev_City.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Ukraine/Counties/Kiev_City.personal|Kiev_City.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Ukraine/Counties/Kiev_City.secret|Kiev_City.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Ukraine/Counties/Kiev_City|Kiev_City]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Ukraine/Counties/Kiev_City.public|Kiev_City.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Ukraine/Counties/Kiev_City.internal|Kiev_City.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Ukraine/Counties/Kiev_City.protect|Kiev_City.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Ukraine/Counties/Kiev_City.private|Kiev_City.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Ukraine/Counties/Kiev_City.personal|Kiev_City.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Ukraine/Counties/Kiev_City.secret|Kiev_City.secret]] 
 

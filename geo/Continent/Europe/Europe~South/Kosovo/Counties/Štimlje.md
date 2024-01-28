@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 42.4 , 21 ] 
 type: geo-Region
 title: Štimlje
@@ -40,10 +40,11 @@ markerFolder: ./Štimlje/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Kosovo/Counties/Štimlje.md|Štimlje]] 
-- [[../../../../_internal/geo/Continent/Europe/Kosovo/Counties/Štimlje.internal|Štimlje.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Kosovo/Counties/Štimlje.protect|Štimlje.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Kosovo/Counties/Štimlje.private|Štimlje.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Kosovo/Counties/Štimlje.personal|Štimlje.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Kosovo/Counties/Štimlje.secret|Štimlje.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Kosovo/Counties/Štimlje|Štimlje]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Kosovo/Counties/Štimlje.public|Štimlje.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Kosovo/Counties/Štimlje.internal|Štimlje.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Kosovo/Counties/Štimlje.protect|Štimlje.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Kosovo/Counties/Štimlje.private|Štimlje.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Kosovo/Counties/Štimlje.personal|Štimlje.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Kosovo/Counties/Štimlje.secret|Štimlje.secret]] 
 

@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 56.8 , 21.2 ] 
 type: geo-Region
 title: Pavilostas
@@ -40,10 +40,11 @@ markerFolder: ./Pavilostas/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Latvia/Counties/Pavilostas.md|Pavilostas]] 
-- [[../../../../_internal/geo/Continent/Europe/Latvia/Counties/Pavilostas.internal|Pavilostas.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Latvia/Counties/Pavilostas.protect|Pavilostas.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Latvia/Counties/Pavilostas.private|Pavilostas.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Latvia/Counties/Pavilostas.personal|Pavilostas.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Latvia/Counties/Pavilostas.secret|Pavilostas.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Latvia/Counties/Pavilostas|Pavilostas]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Latvia/Counties/Pavilostas.public|Pavilostas.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Latvia/Counties/Pavilostas.internal|Pavilostas.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Latvia/Counties/Pavilostas.protect|Pavilostas.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Latvia/Counties/Pavilostas.private|Pavilostas.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Latvia/Counties/Pavilostas.personal|Pavilostas.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Latvia/Counties/Pavilostas.secret|Pavilostas.secret]] 
 

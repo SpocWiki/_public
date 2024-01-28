@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 53.4 , -2.8 ] 
 type: geo-Region
 title: Knowsley
@@ -40,10 +40,11 @@ markerFolder: ./Knowsley/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/United_Kingdom/England/Counties/Knowsley.md|Knowsley]] 
-- [[../../../../_internal/geo/Continent/Europe/United_Kingdom/England/Counties/Knowsley.internal|Knowsley.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/United_Kingdom/England/Counties/Knowsley.protect|Knowsley.protect]] 
-- [[../../../../_private/geo/Continent/Europe/United_Kingdom/England/Counties/Knowsley.private|Knowsley.private]] 
-- [[../../../../_personal/geo/Continent/Europe/United_Kingdom/England/Counties/Knowsley.personal|Knowsley.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/United_Kingdom/England/Counties/Knowsley.secret|Knowsley.secret]] 
+- [[../../../../../../../../_Standards/geo/Continent/Europe/Europe~North/United_Kingdom/England/Counties/Knowsley|Knowsley]] 
+- [[../../../../../../../../_public/geo/Continent/Europe/Europe~North/United_Kingdom/England/Counties/Knowsley.public|Knowsley.public]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/Europe~North/United_Kingdom/England/Counties/Knowsley.internal|Knowsley.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/Europe~North/United_Kingdom/England/Counties/Knowsley.protect|Knowsley.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/Europe~North/United_Kingdom/England/Counties/Knowsley.private|Knowsley.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/Europe~North/United_Kingdom/England/Counties/Knowsley.personal|Knowsley.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/Europe~North/United_Kingdom/England/Counties/Knowsley.secret|Knowsley.secret]] 
 

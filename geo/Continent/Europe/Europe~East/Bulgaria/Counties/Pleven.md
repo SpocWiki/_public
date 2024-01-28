@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 43.5 , 24.7 ] 
 type: geo-Region
 title: Pleven
@@ -40,10 +40,11 @@ markerFolder: ./Pleven/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Bulgaria/Counties/Pleven.md|Pleven]] 
-- [[../../../../_internal/geo/Continent/Europe/Bulgaria/Counties/Pleven.internal|Pleven.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Bulgaria/Counties/Pleven.protect|Pleven.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Bulgaria/Counties/Pleven.private|Pleven.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Bulgaria/Counties/Pleven.personal|Pleven.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Bulgaria/Counties/Pleven.secret|Pleven.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Bulgaria/Counties/Pleven|Pleven]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Bulgaria/Counties/Pleven.public|Pleven.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Bulgaria/Counties/Pleven.internal|Pleven.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Bulgaria/Counties/Pleven.protect|Pleven.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Bulgaria/Counties/Pleven.private|Pleven.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Bulgaria/Counties/Pleven.personal|Pleven.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Bulgaria/Counties/Pleven.secret|Pleven.secret]] 
 

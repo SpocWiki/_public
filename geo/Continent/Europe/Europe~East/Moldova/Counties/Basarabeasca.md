@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 46.4 , 28.8 ] 
 type: geo-Region
 title: Basarabeasca
@@ -40,10 +40,11 @@ markerFolder: ./Basarabeasca/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Moldova/Counties/Basarabeasca.md|Basarabeasca]] 
-- [[../../../../_internal/geo/Continent/Europe/Moldova/Counties/Basarabeasca.internal|Basarabeasca.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Moldova/Counties/Basarabeasca.protect|Basarabeasca.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Moldova/Counties/Basarabeasca.private|Basarabeasca.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Moldova/Counties/Basarabeasca.personal|Basarabeasca.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Moldova/Counties/Basarabeasca.secret|Basarabeasca.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Moldova/Counties/Basarabeasca|Basarabeasca]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Moldova/Counties/Basarabeasca.public|Basarabeasca.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Moldova/Counties/Basarabeasca.internal|Basarabeasca.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Moldova/Counties/Basarabeasca.protect|Basarabeasca.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Moldova/Counties/Basarabeasca.private|Basarabeasca.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Moldova/Counties/Basarabeasca.personal|Basarabeasca.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Moldova/Counties/Basarabeasca.secret|Basarabeasca.secret]] 
 

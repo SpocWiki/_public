@@ -1,5 +1,5 @@
 ---
-location: [57.62,39.87]
+location: [57.62,39.87] 
 type: State
 tags:
 - geo/State
@@ -10,13 +10,13 @@ isDeleted: false
 confidential: public
 
 ---
-[name::Yaroslavl Oblast]
-[name-abbr::]
-[Country::[[Russia]]]
-[Capital::[[Jarosla=Jaroslav]]]
-[geo-lon::39.87]
-[geo-lat::57.62]
-[Population::]
+[name::Yaroslavl Oblast] 
+[name-abbr::] 
+Country :: [[Russia]]  
+Capital :: [[Jarosla=Jaroslav]]  
+[geo-lon::39.87] 
+[geo-lat::57.62] 
+[Population::] 
 
 
 
@@ -31,9 +31,9 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
--[[State~Yaroslavl_Oblast|State~Yaroslavl_Oblast]]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Russia/State/State~Yaroslavl_Oblast.internal|State~Yaroslavl_Oblast.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/State/State~Yaroslavl_Oblast.protect|State~Yaroslavl_Oblast.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/State/State~Yaroslavl_Oblast.private|State~Yaroslavl_Oblast.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/State/State~Yaroslavl_Oblast.personal|State~Yaroslavl_Oblast.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/State/State~Yaroslavl_Oblast.secret|State~Yaroslavl_Oblast.secret]] 
+- [[State~Yaroslavl_Oblast|State~Yaroslavl_Oblast]]  
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Russia/State/State~Yaroslavl_Oblast.internal|State~Yaroslavl_Oblast.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Russia/State/State~Yaroslavl_Oblast.protect|State~Yaroslavl_Oblast.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Russia/State/State~Yaroslavl_Oblast.private|State~Yaroslavl_Oblast.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Russia/State/State~Yaroslavl_Oblast.personal|State~Yaroslavl_Oblast.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Russia/State/State~Yaroslavl_Oblast.secret|State~Yaroslavl_Oblast.secret]] 

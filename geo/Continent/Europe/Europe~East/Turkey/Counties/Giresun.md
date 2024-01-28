@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 40.6 , 38.5 ] 
 type: geo-Region
 title: Giresun
@@ -40,10 +40,11 @@ markerFolder: ./Giresun/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Turkey/Counties/Giresun.md|Giresun]] 
-- [[../../../../_internal/geo/Continent/Europe/Turkey/Counties/Giresun.internal|Giresun.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Turkey/Counties/Giresun.protect|Giresun.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Turkey/Counties/Giresun.private|Giresun.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Turkey/Counties/Giresun.personal|Giresun.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Turkey/Counties/Giresun.secret|Giresun.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Turkey/Counties/Giresun|Giresun]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Turkey/Counties/Giresun.public|Giresun.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Turkey/Counties/Giresun.internal|Giresun.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Turkey/Counties/Giresun.protect|Giresun.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Turkey/Counties/Giresun.private|Giresun.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Turkey/Counties/Giresun.personal|Giresun.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Turkey/Counties/Giresun.secret|Giresun.secret]] 
 

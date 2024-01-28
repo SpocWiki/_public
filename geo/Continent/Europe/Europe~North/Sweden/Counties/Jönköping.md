@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 57.6 , 14.6 ] 
 type: geo-Region
 title: Jönköping
@@ -40,10 +40,11 @@ markerFolder: ./Jönköping/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Sweden/Counties/Jönköping.md|Jönköping]] 
-- [[../../../../_internal/geo/Continent/Europe/Sweden/Counties/Jönköping.internal|Jönköping.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Sweden/Counties/Jönköping.protect|Jönköping.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Sweden/Counties/Jönköping.private|Jönköping.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Sweden/Counties/Jönköping.personal|Jönköping.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Sweden/Counties/Jönköping.secret|Jönköping.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Sweden/Counties/Jönköping|Jönköping]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Sweden/Counties/Jönköping.public|Jönköping.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Sweden/Counties/Jönköping.internal|Jönköping.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Sweden/Counties/Jönköping.protect|Jönköping.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Sweden/Counties/Jönköping.private|Jönköping.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Sweden/Counties/Jönköping.personal|Jönköping.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Sweden/Counties/Jönköping.secret|Jönköping.secret]] 
 

@@ -1,5 +1,5 @@
 ---
-location: [63.9,38.15]
+location: [63.9,38.15] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,29 +12,30 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::38.15]
-[geo-lat::63.9]
-[name::Onega]
-[State::]
-[Country::[[Russia]]]
-[StateId::]
-[Population::]
-[Unknown::]
+[geo-lon::38.15] 
+[geo-lat::63.9] 
+[name::Onega] 
+State ::  
+Country :: [[Russia]]  
+[StateId::] 
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Onega
-coordinates: [[Onega]]
-markerFile: [[Onega]]
+coordinates: [[Onega]] 
+markerFile: [[Onega]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_public/geo/Continent/Europe/Russia/City/Onega.md|Onega]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Onega.internal|Onega.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Onega.protect|Onega.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Onega.private|Onega.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Onega.personal|Onega.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Onega.secret|Onega.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Russia/City/Onega|Onega]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Russia/City/Onega.public|Onega.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Russia/City/Onega.internal|Onega.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Russia/City/Onega.protect|Onega.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Russia/City/Onega.private|Onega.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Russia/City/Onega.personal|Onega.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Russia/City/Onega.secret|Onega.secret]] 

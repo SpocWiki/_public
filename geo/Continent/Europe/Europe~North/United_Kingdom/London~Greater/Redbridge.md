@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 51.6 , 0.1 ] 
 type: geo-Region
 title: Redbridge
@@ -40,10 +40,11 @@ markerFolder: ./Redbridge/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/United_Kingdom/London~Greater/Redbridge.md|Redbridge]] 
-- [[../../../../_internal/geo/Continent/Europe/United_Kingdom/London~Greater/Redbridge.internal|Redbridge.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/United_Kingdom/London~Greater/Redbridge.protect|Redbridge.protect]] 
-- [[../../../../_private/geo/Continent/Europe/United_Kingdom/London~Greater/Redbridge.private|Redbridge.private]] 
-- [[../../../../_personal/geo/Continent/Europe/United_Kingdom/London~Greater/Redbridge.personal|Redbridge.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/United_Kingdom/London~Greater/Redbridge.secret|Redbridge.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/United_Kingdom/London~Greater/Redbridge|Redbridge]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/United_Kingdom/London~Greater/Redbridge.public|Redbridge.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/United_Kingdom/London~Greater/Redbridge.internal|Redbridge.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/United_Kingdom/London~Greater/Redbridge.protect|Redbridge.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/United_Kingdom/London~Greater/Redbridge.private|Redbridge.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/United_Kingdom/London~Greater/Redbridge.personal|Redbridge.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/United_Kingdom/London~Greater/Redbridge.secret|Redbridge.secret]] 
 

@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 43.8 , 18.3 ] 
 type: geo-Region
 title: Sarajevo
@@ -40,10 +40,11 @@ markerFolder: ./Sarajevo/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Bosnia_and_Herzegovina/Counties/Sarajevo.md|Sarajevo]] 
-- [[../../../../_internal/geo/Continent/Europe/Bosnia_and_Herzegovina/Counties/Sarajevo.internal|Sarajevo.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Bosnia_and_Herzegovina/Counties/Sarajevo.protect|Sarajevo.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Bosnia_and_Herzegovina/Counties/Sarajevo.private|Sarajevo.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Bosnia_and_Herzegovina/Counties/Sarajevo.personal|Sarajevo.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Bosnia_and_Herzegovina/Counties/Sarajevo.secret|Sarajevo.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Bosnia_and_Herzegovina/Counties/Sarajevo|Sarajevo]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Bosnia_and_Herzegovina/Counties/Sarajevo.public|Sarajevo.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Bosnia_and_Herzegovina/Counties/Sarajevo.internal|Sarajevo.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Bosnia_and_Herzegovina/Counties/Sarajevo.protect|Sarajevo.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Bosnia_and_Herzegovina/Counties/Sarajevo.private|Sarajevo.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Bosnia_and_Herzegovina/Counties/Sarajevo.personal|Sarajevo.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Bosnia_and_Herzegovina/Counties/Sarajevo.secret|Sarajevo.secret]] 
 

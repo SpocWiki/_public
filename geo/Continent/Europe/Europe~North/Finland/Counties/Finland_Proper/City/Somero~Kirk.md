@@ -1,5 +1,5 @@
-﻿---
-location: [60.62,23.52]
+---
+location: [60.62,23.52] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,29 +12,30 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::23.52]
-[geo-lat::60.62]
-[name::Somero~Kirk]
-[State::]
-[Country::[[Finland]]]
-[StateId::]
-[Population::]
-[Unknown::]
+[geo-lon::23.52] 
+[geo-lat::60.62] 
+[name::Somero~Kirk] 
+State ::  
+Country :: [[Finland]]  
+[StateId::] 
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Somero~Kirk
-coordinates: [[Somero~Kirk]]
-markerFile: [[Somero~Kirk]]
+coordinates: [[Somero~Kirk]] 
+markerFile: [[Somero~Kirk]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_public/geo/Continent/Europe/Finland/City/Somero~Kirk.md|Somero~Kirk]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Finland/City/Somero~Kirk.internal|Somero~Kirk.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Finland/City/Somero~Kirk.protect|Somero~Kirk.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Finland/City/Somero~Kirk.private|Somero~Kirk.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Finland/City/Somero~Kirk.personal|Somero~Kirk.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Finland/City/Somero~Kirk.secret|Somero~Kirk.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Finland/City/Somero~Kirk|Somero~Kirk]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Finland/City/Somero~Kirk.public|Somero~Kirk.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Finland/City/Somero~Kirk.internal|Somero~Kirk.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Finland/City/Somero~Kirk.protect|Somero~Kirk.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Finland/City/Somero~Kirk.private|Somero~Kirk.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Finland/City/Somero~Kirk.personal|Somero~Kirk.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Finland/City/Somero~Kirk.secret|Somero~Kirk.secret]] 

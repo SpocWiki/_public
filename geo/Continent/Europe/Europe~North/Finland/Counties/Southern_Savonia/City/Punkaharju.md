@@ -1,5 +1,5 @@
-﻿---
-location: [61.8,29.28]
+---
+location: [61.8,29.28] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,29 +12,30 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::29.28]
-[geo-lat::61.8]
-[name::Punkaharju]
-[State::]
-[Country::[[Finland]]]
-[StateId::]
-[Population::]
-[Unknown::]
+[geo-lon::29.28] 
+[geo-lat::61.8] 
+[name::Punkaharju] 
+State ::  
+Country :: [[Finland]]  
+[StateId::] 
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Punkaharju
-coordinates: [[Punkaharju]]
-markerFile: [[Punkaharju]]
+coordinates: [[Punkaharju]] 
+markerFile: [[Punkaharju]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_public/geo/Continent/Europe/Finland/City/Punkaharju.md|Punkaharju]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Finland/City/Punkaharju.internal|Punkaharju.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Finland/City/Punkaharju.protect|Punkaharju.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Finland/City/Punkaharju.private|Punkaharju.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Finland/City/Punkaharju.personal|Punkaharju.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Finland/City/Punkaharju.secret|Punkaharju.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Finland/City/Punkaharju|Punkaharju]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Finland/City/Punkaharju.public|Punkaharju.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Finland/City/Punkaharju.internal|Punkaharju.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Finland/City/Punkaharju.protect|Punkaharju.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Finland/City/Punkaharju.private|Punkaharju.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Finland/City/Punkaharju.personal|Punkaharju.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Finland/City/Punkaharju.secret|Punkaharju.secret]] 

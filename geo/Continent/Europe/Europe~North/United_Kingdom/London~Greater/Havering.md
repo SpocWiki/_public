@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 51.56 , 0.26 ] 
 type: geo-Region
 title: Havering
@@ -45,10 +45,11 @@ markerFolder: ./Havering/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/United_Kingdom/London~Greater/Havering.md|Havering]] 
-- [[../../../../_internal/geo/Continent/Europe/United_Kingdom/London~Greater/Havering.internal|Havering.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/United_Kingdom/London~Greater/Havering.protect|Havering.protect]] 
-- [[../../../../_private/geo/Continent/Europe/United_Kingdom/London~Greater/Havering.private|Havering.private]] 
-- [[../../../../_personal/geo/Continent/Europe/United_Kingdom/London~Greater/Havering.personal|Havering.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/United_Kingdom/London~Greater/Havering.secret|Havering.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/United_Kingdom/London~Greater/Havering|Havering]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/United_Kingdom/London~Greater/Havering.public|Havering.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/United_Kingdom/London~Greater/Havering.internal|Havering.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/United_Kingdom/London~Greater/Havering.protect|Havering.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/United_Kingdom/London~Greater/Havering.private|Havering.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/United_Kingdom/London~Greater/Havering.personal|Havering.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/United_Kingdom/London~Greater/Havering.secret|Havering.secret]] 
 

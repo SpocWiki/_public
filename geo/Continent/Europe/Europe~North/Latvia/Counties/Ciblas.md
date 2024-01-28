@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 56.6 , 27.8 ] 
 type: geo-Region
 title: Ciblas
@@ -40,10 +40,11 @@ markerFolder: ./Ciblas/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Latvia/Counties/Ciblas.md|Ciblas]] 
-- [[../../../../_internal/geo/Continent/Europe/Latvia/Counties/Ciblas.internal|Ciblas.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Latvia/Counties/Ciblas.protect|Ciblas.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Latvia/Counties/Ciblas.private|Ciblas.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Latvia/Counties/Ciblas.personal|Ciblas.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Latvia/Counties/Ciblas.secret|Ciblas.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Latvia/Counties/Ciblas|Ciblas]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Latvia/Counties/Ciblas.public|Ciblas.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Latvia/Counties/Ciblas.internal|Ciblas.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Latvia/Counties/Ciblas.protect|Ciblas.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Latvia/Counties/Ciblas.private|Ciblas.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Latvia/Counties/Ciblas.personal|Ciblas.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Latvia/Counties/Ciblas.secret|Ciblas.secret]] 
 

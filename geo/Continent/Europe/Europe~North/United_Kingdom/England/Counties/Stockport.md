@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 53.4 , -2.1 ] 
 type: geo-Region
 title: Stockport
@@ -40,10 +40,11 @@ markerFolder: ./Stockport/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/United_Kingdom/England/Counties/Stockport.md|Stockport]] 
-- [[../../../../_internal/geo/Continent/Europe/United_Kingdom/England/Counties/Stockport.internal|Stockport.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/United_Kingdom/England/Counties/Stockport.protect|Stockport.protect]] 
-- [[../../../../_private/geo/Continent/Europe/United_Kingdom/England/Counties/Stockport.private|Stockport.private]] 
-- [[../../../../_personal/geo/Continent/Europe/United_Kingdom/England/Counties/Stockport.personal|Stockport.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/United_Kingdom/England/Counties/Stockport.secret|Stockport.secret]] 
+- [[../../../../../../../../_Standards/geo/Continent/Europe/Europe~North/United_Kingdom/England/Counties/Stockport|Stockport]] 
+- [[../../../../../../../../_public/geo/Continent/Europe/Europe~North/United_Kingdom/England/Counties/Stockport.public|Stockport.public]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/Europe~North/United_Kingdom/England/Counties/Stockport.internal|Stockport.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/Europe~North/United_Kingdom/England/Counties/Stockport.protect|Stockport.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/Europe~North/United_Kingdom/England/Counties/Stockport.private|Stockport.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/Europe~North/United_Kingdom/England/Counties/Stockport.personal|Stockport.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/Europe~North/United_Kingdom/England/Counties/Stockport.secret|Stockport.secret]] 
 

@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 41.3 , 20.7 ] 
 type: geo-Region
 title: Struga
@@ -40,10 +40,11 @@ markerFolder: ./Struga/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Macedonia~North/Counties/Struga.md|Struga]] 
-- [[../../../../_internal/geo/Continent/Europe/Macedonia~North/Counties/Struga.internal|Struga.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Macedonia~North/Counties/Struga.protect|Struga.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Macedonia~North/Counties/Struga.private|Struga.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Macedonia~North/Counties/Struga.personal|Struga.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Macedonia~North/Counties/Struga.secret|Struga.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Macedonia~North/Counties/Struga|Struga]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Macedonia~North/Counties/Struga.public|Struga.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Macedonia~North/Counties/Struga.internal|Struga.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Macedonia~North/Counties/Struga.protect|Struga.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Macedonia~North/Counties/Struga.private|Struga.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Macedonia~North/Counties/Struga.personal|Struga.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Macedonia~North/Counties/Struga.secret|Struga.secret]] 
 

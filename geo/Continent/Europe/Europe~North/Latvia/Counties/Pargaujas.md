@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 57.4 , 25.1 ] 
 type: geo-Region
 title: Pargaujas
@@ -40,10 +40,11 @@ markerFolder: ./Pargaujas/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Latvia/Counties/Pargaujas.md|Pargaujas]] 
-- [[../../../../_internal/geo/Continent/Europe/Latvia/Counties/Pargaujas.internal|Pargaujas.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Latvia/Counties/Pargaujas.protect|Pargaujas.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Latvia/Counties/Pargaujas.private|Pargaujas.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Latvia/Counties/Pargaujas.personal|Pargaujas.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Latvia/Counties/Pargaujas.secret|Pargaujas.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Latvia/Counties/Pargaujas|Pargaujas]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Latvia/Counties/Pargaujas.public|Pargaujas.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Latvia/Counties/Pargaujas.internal|Pargaujas.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Latvia/Counties/Pargaujas.protect|Pargaujas.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Latvia/Counties/Pargaujas.private|Pargaujas.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Latvia/Counties/Pargaujas.personal|Pargaujas.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Latvia/Counties/Pargaujas.secret|Pargaujas.secret]] 
 

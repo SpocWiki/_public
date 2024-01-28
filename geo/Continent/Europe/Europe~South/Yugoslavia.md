@@ -1,5 +1,5 @@
 ---
-location: [43.9957,17.6905]
+location: [43.9957,17.6905] 
 type: Country
 tags:
 - geo/Country
@@ -36,8 +36,8 @@ these major Groups were fighting and splitting after the Yugoslav Wars
 - [[Croats]] Roman Catholic 
 - [[Bosniaks]] Muslim 
 
-[ISO2::YU]
-[ISO3::YUG]
+[ISO2::YU] 
+[ISO3::YUG] 
 ```leaflet
 id: Yugoslavia
 zoomFeatures: true 
@@ -47,24 +47,25 @@ geojsonFolder: ./Serbia//
 markerFolder: ./Serbia//
 ```
 
-[name-en::Yugoslavia]
-[name-de::Jugoslawien]
-[Area-Total::102173]
-[Area-Land::0]
-[Continent::[[Europe]]]
-[VehicleCode::YU]
-[Capital::[[Beograd]]]
-[Alcohol-l::]
-[Language-Id::]
-[geo-lon::17.6905]
-[geo-lat::43.9957]
+[name-en::Yugoslavia] 
+[name-de::Jugoslawien] 
+[Area-Total::102173] 
+[Area-Land::0] 
+Continent :: [[Europe]]  
+[VehicleCode::YU] 
+Capital :: [[Beograd]]  
+[Alcohol-l::] 
+[Language-Id::] 
+[geo-lon::17.6905] 
+[geo-lat::43.9957] 
 
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Yugoslavia.md|Yugoslavia]] 
-- [[../../../../_internal/geo/Continent/Europe/Yugoslavia.internal|Yugoslavia.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Yugoslavia.protect|Yugoslavia.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Yugoslavia.private|Yugoslavia.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Yugoslavia.personal|Yugoslavia.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Yugoslavia.secret|Yugoslavia.secret]] 
+- [[../../../../../_Standards/geo/Continent/Europe/Europe~South/Yugoslavia|Yugoslavia]] 
+- [[../../../../../_public/geo/Continent/Europe/Europe~South/Yugoslavia.public|Yugoslavia.public]] 
+- [[../../../../../_internal/geo/Continent/Europe/Europe~South/Yugoslavia.internal|Yugoslavia.internal]] 
+- [[../../../../../_protect/geo/Continent/Europe/Europe~South/Yugoslavia.protect|Yugoslavia.protect]] 
+- [[../../../../../_private/geo/Continent/Europe/Europe~South/Yugoslavia.private|Yugoslavia.private]] 
+- [[../../../../../_personal/geo/Continent/Europe/Europe~South/Yugoslavia.personal|Yugoslavia.personal]] 
+- [[../../../../../_secret/geo/Continent/Europe/Europe~South/Yugoslavia.secret|Yugoslavia.secret]] 

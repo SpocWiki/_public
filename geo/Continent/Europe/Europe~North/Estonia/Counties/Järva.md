@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 59 , 25.7 ] 
 type: geo-Region
 title: Järva
@@ -40,10 +40,11 @@ markerFolder: ./Järva/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Estonia/Counties/Järva.md|Järva]] 
-- [[../../../../_internal/geo/Continent/Europe/Estonia/Counties/Järva.internal|Järva.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Estonia/Counties/Järva.protect|Järva.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Estonia/Counties/Järva.private|Järva.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Estonia/Counties/Järva.personal|Järva.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Estonia/Counties/Järva.secret|Järva.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Estonia/Counties/Järva|Järva]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Estonia/Counties/Järva.public|Järva.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Estonia/Counties/Järva.internal|Järva.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Estonia/Counties/Järva.protect|Järva.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Estonia/Counties/Järva.private|Järva.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Estonia/Counties/Järva.personal|Järva.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Estonia/Counties/Järva.secret|Järva.secret]] 
 

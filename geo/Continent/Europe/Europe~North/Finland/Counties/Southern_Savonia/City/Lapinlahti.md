@@ -1,5 +1,5 @@
-﻿---
-location: [62.37,27.38]
+---
+location: [62.37,27.38] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,29 +12,30 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::27.38]
-[geo-lat::62.37]
-[name::Lapinlahti]
-[State::]
-[Country::[[Finland]]]
-[StateId::]
-[Population::]
-[Unknown::]
+[geo-lon::27.38] 
+[geo-lat::62.37] 
+[name::Lapinlahti] 
+State ::  
+Country :: [[Finland]]  
+[StateId::] 
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Lapinlahti
-coordinates: [[Lapinlahti]]
-markerFile: [[Lapinlahti]]
+coordinates: [[Lapinlahti]] 
+markerFile: [[Lapinlahti]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_public/geo/Continent/Europe/Finland/City/Lapinlahti.md|Lapinlahti]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Finland/City/Lapinlahti.internal|Lapinlahti.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Finland/City/Lapinlahti.protect|Lapinlahti.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Finland/City/Lapinlahti.private|Lapinlahti.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Finland/City/Lapinlahti.personal|Lapinlahti.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Finland/City/Lapinlahti.secret|Lapinlahti.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Finland/City/Lapinlahti|Lapinlahti]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Finland/City/Lapinlahti.public|Lapinlahti.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Finland/City/Lapinlahti.internal|Lapinlahti.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Finland/City/Lapinlahti.protect|Lapinlahti.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Finland/City/Lapinlahti.private|Lapinlahti.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Finland/City/Lapinlahti.personal|Lapinlahti.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Finland/City/Lapinlahti.secret|Lapinlahti.secret]] 

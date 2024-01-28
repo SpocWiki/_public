@@ -1,5 +1,5 @@
 ---
-location: [55.75,37.57]
+location: [55.75,37.57] 
 type: State
 tags:
 - geo/State
@@ -10,13 +10,13 @@ isDeleted: false
 confidential: public
 
 ---
-[name::Moscow Oblast]
-[name-abbr::]
-[Country::[[Russia]]]
-[Capital::[[Moskwa]]]
-[geo-lon::37.57]
-[geo-lat::55.75]
-[Population::]
+[name::Moscow Oblast] 
+[name-abbr::] 
+Country :: [[Russia]]  
+Capital :: [[Moskwa]]  
+[geo-lon::37.57] 
+[geo-lat::55.75] 
+[Population::] 
 
 
 
@@ -31,9 +31,9 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
--[[State~Moscow_Oblast|State~Moscow_Oblast]]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Russia/State/State~Moscow_Oblast.internal|State~Moscow_Oblast.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/State/State~Moscow_Oblast.protect|State~Moscow_Oblast.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/State/State~Moscow_Oblast.private|State~Moscow_Oblast.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/State/State~Moscow_Oblast.personal|State~Moscow_Oblast.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/State/State~Moscow_Oblast.secret|State~Moscow_Oblast.secret]] 
+- [[State~Moscow_Oblast|State~Moscow_Oblast]]  
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Russia/State/State~Moscow_Oblast.internal|State~Moscow_Oblast.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Russia/State/State~Moscow_Oblast.protect|State~Moscow_Oblast.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Russia/State/State~Moscow_Oblast.private|State~Moscow_Oblast.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Russia/State/State~Moscow_Oblast.personal|State~Moscow_Oblast.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Russia/State/State~Moscow_Oblast.secret|State~Moscow_Oblast.secret]] 

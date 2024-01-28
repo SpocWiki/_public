@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 36.01 , 14.34 ] 
 type: geo-Region
 title: Għajnsielem
@@ -40,10 +40,11 @@ markerFolder: ./Għajnsielem/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Malta/Counties/Għajnsielem.md|Għajnsielem]] 
-- [[../../../../_internal/geo/Continent/Europe/Malta/Counties/Għajnsielem.internal|Għajnsielem.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Malta/Counties/Għajnsielem.protect|Għajnsielem.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Malta/Counties/Għajnsielem.private|Għajnsielem.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Malta/Counties/Għajnsielem.personal|Għajnsielem.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Malta/Counties/Għajnsielem.secret|Għajnsielem.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Malta/Counties/Għajnsielem|Għajnsielem]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Malta/Counties/Għajnsielem.public|Għajnsielem.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Malta/Counties/Għajnsielem.internal|Għajnsielem.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Malta/Counties/Għajnsielem.protect|Għajnsielem.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Malta/Counties/Għajnsielem.private|Għajnsielem.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Malta/Counties/Għajnsielem.personal|Għajnsielem.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Malta/Counties/Għajnsielem.secret|Għajnsielem.secret]] 
 

@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 44.5 , 18.7 ] 
 type: geo-Region
 title: Tuzla
@@ -40,10 +40,11 @@ markerFolder: ./Tuzla/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Bosnia_and_Herzegovina/Counties/Tuzla.md|Tuzla]] 
-- [[../../../../_internal/geo/Continent/Europe/Bosnia_and_Herzegovina/Counties/Tuzla.internal|Tuzla.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Bosnia_and_Herzegovina/Counties/Tuzla.protect|Tuzla.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Bosnia_and_Herzegovina/Counties/Tuzla.private|Tuzla.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Bosnia_and_Herzegovina/Counties/Tuzla.personal|Tuzla.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Bosnia_and_Herzegovina/Counties/Tuzla.secret|Tuzla.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Bosnia_and_Herzegovina/Counties/Tuzla|Tuzla]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Bosnia_and_Herzegovina/Counties/Tuzla.public|Tuzla.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Bosnia_and_Herzegovina/Counties/Tuzla.internal|Tuzla.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Bosnia_and_Herzegovina/Counties/Tuzla.protect|Tuzla.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Bosnia_and_Herzegovina/Counties/Tuzla.private|Tuzla.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Bosnia_and_Herzegovina/Counties/Tuzla.personal|Tuzla.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Bosnia_and_Herzegovina/Counties/Tuzla.secret|Tuzla.secret]] 
 

@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 54.1 , 18.1 ] 
 type: geo-Region
 title: Pomeranian
@@ -40,10 +40,11 @@ markerFolder: ./Pomeranian/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Poland/Counties/Pomeranian.md|Pomeranian]] 
-- [[../../../../_internal/geo/Continent/Europe/Poland/Counties/Pomeranian.internal|Pomeranian.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Poland/Counties/Pomeranian.protect|Pomeranian.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Poland/Counties/Pomeranian.private|Pomeranian.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Poland/Counties/Pomeranian.personal|Pomeranian.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Poland/Counties/Pomeranian.secret|Pomeranian.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Poland/Counties/Pomeranian|Pomeranian]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Poland/Counties/Pomeranian.public|Pomeranian.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Poland/Counties/Pomeranian.internal|Pomeranian.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Poland/Counties/Pomeranian.protect|Pomeranian.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Poland/Counties/Pomeranian.private|Pomeranian.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Poland/Counties/Pomeranian.personal|Pomeranian.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Poland/Counties/Pomeranian.secret|Pomeranian.secret]] 
 

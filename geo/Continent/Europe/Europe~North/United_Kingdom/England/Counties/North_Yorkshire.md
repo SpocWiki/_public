@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 54.1 , -1.5 ] 
 type: geo-Region
 title: North_Yorkshire
@@ -40,10 +40,11 @@ markerFolder: ./North_Yorkshire/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/United_Kingdom/England/Counties/North_Yorkshire.md|North_Yorkshire]] 
-- [[../../../../_internal/geo/Continent/Europe/United_Kingdom/England/Counties/North_Yorkshire.internal|North_Yorkshire.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/United_Kingdom/England/Counties/North_Yorkshire.protect|North_Yorkshire.protect]] 
-- [[../../../../_private/geo/Continent/Europe/United_Kingdom/England/Counties/North_Yorkshire.private|North_Yorkshire.private]] 
-- [[../../../../_personal/geo/Continent/Europe/United_Kingdom/England/Counties/North_Yorkshire.personal|North_Yorkshire.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/United_Kingdom/England/Counties/North_Yorkshire.secret|North_Yorkshire.secret]] 
+- [[../../../../../../../../_Standards/geo/Continent/Europe/Europe~North/United_Kingdom/England/Counties/North_Yorkshire|North_Yorkshire]] 
+- [[../../../../../../../../_public/geo/Continent/Europe/Europe~North/United_Kingdom/England/Counties/North_Yorkshire.public|North_Yorkshire.public]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/Europe~North/United_Kingdom/England/Counties/North_Yorkshire.internal|North_Yorkshire.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/Europe~North/United_Kingdom/England/Counties/North_Yorkshire.protect|North_Yorkshire.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/Europe~North/United_Kingdom/England/Counties/North_Yorkshire.private|North_Yorkshire.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/Europe~North/United_Kingdom/England/Counties/North_Yorkshire.personal|North_Yorkshire.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/Europe~North/United_Kingdom/England/Counties/North_Yorkshire.secret|North_Yorkshire.secret]] 
 

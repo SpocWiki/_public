@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 62.6 , 8.3 ] 
 type: geo-Region
 title: Møre_og_Romsdal
@@ -40,10 +40,11 @@ markerFolder: ./Møre_og_Romsdal/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Norway/Counties/Møre_og_Romsdal.md|Møre_og_Romsdal]] 
-- [[../../../../_internal/geo/Continent/Europe/Norway/Counties/Møre_og_Romsdal.internal|Møre_og_Romsdal.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Norway/Counties/Møre_og_Romsdal.protect|Møre_og_Romsdal.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Norway/Counties/Møre_og_Romsdal.private|Møre_og_Romsdal.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Norway/Counties/Møre_og_Romsdal.personal|Møre_og_Romsdal.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Norway/Counties/Møre_og_Romsdal.secret|Møre_og_Romsdal.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Norway/Counties/Møre_og_Romsdal|Møre_og_Romsdal]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Norway/Counties/Møre_og_Romsdal.public|Møre_og_Romsdal.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Norway/Counties/Møre_og_Romsdal.internal|Møre_og_Romsdal.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Norway/Counties/Møre_og_Romsdal.protect|Møre_og_Romsdal.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Norway/Counties/Møre_og_Romsdal.private|Møre_og_Romsdal.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Norway/Counties/Møre_og_Romsdal.personal|Møre_og_Romsdal.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Norway/Counties/Møre_og_Romsdal.secret|Møre_og_Romsdal.secret]] 
 

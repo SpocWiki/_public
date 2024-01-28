@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 52.1 , 5.2 ] 
 type: geo-Region
 title: Utrecht
@@ -40,10 +40,11 @@ markerFolder: ./Utrecht/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Netherlands/Counties/Utrecht.md|Utrecht]] 
-- [[../../../../_internal/geo/Continent/Europe/Netherlands/Counties/Utrecht.internal|Utrecht.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Netherlands/Counties/Utrecht.protect|Utrecht.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Netherlands/Counties/Utrecht.private|Utrecht.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Netherlands/Counties/Utrecht.personal|Utrecht.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Netherlands/Counties/Utrecht.secret|Utrecht.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~West/Netherlands/Counties/Utrecht|Utrecht]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~West/Netherlands/Counties/Utrecht.public|Utrecht.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~West/Netherlands/Counties/Utrecht.internal|Utrecht.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~West/Netherlands/Counties/Utrecht.protect|Utrecht.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~West/Netherlands/Counties/Utrecht.private|Utrecht.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~West/Netherlands/Counties/Utrecht.personal|Utrecht.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~West/Netherlands/Counties/Utrecht.secret|Utrecht.secret]] 
 

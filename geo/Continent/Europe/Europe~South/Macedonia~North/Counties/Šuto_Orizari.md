@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 42.03 , 21.41 ] 
 type: geo-Region
 title: Šuto_Orizari
@@ -40,10 +40,11 @@ markerFolder: ./Šuto_Orizari/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Macedonia~North/Counties/Šuto_Orizari.md|Šuto_Orizari]] 
-- [[../../../../_internal/geo/Continent/Europe/Macedonia~North/Counties/Šuto_Orizari.internal|Šuto_Orizari.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Macedonia~North/Counties/Šuto_Orizari.protect|Šuto_Orizari.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Macedonia~North/Counties/Šuto_Orizari.private|Šuto_Orizari.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Macedonia~North/Counties/Šuto_Orizari.personal|Šuto_Orizari.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Macedonia~North/Counties/Šuto_Orizari.secret|Šuto_Orizari.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Macedonia~North/Counties/Šuto_Orizari|Šuto_Orizari]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Macedonia~North/Counties/Šuto_Orizari.public|Šuto_Orizari.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Macedonia~North/Counties/Šuto_Orizari.internal|Šuto_Orizari.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Macedonia~North/Counties/Šuto_Orizari.protect|Šuto_Orizari.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Macedonia~North/Counties/Šuto_Orizari.private|Šuto_Orizari.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Macedonia~North/Counties/Šuto_Orizari.personal|Šuto_Orizari.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Macedonia~North/Counties/Šuto_Orizari.secret|Šuto_Orizari.secret]] 
 

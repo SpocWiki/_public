@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 60.53 , 21.07 ] 
 type: geo-Region
 title: Brändö
@@ -40,10 +40,11 @@ markerFolder: ./Brändö/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Åland~Islands/Counties/Brändö.md|Brändö]] 
-- [[../../../../_internal/geo/Continent/Europe/Åland~Islands/Counties/Brändö.internal|Brändö.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Åland~Islands/Counties/Brändö.protect|Brändö.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Åland~Islands/Counties/Brändö.private|Brändö.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Åland~Islands/Counties/Brändö.personal|Brändö.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Åland~Islands/Counties/Brändö.secret|Brändö.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Åland~Islands/Counties/Brändö|Brändö]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Åland~Islands/Counties/Brändö.public|Brändö.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Åland~Islands/Counties/Brändö.internal|Brändö.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Åland~Islands/Counties/Brändö.protect|Brändö.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Åland~Islands/Counties/Brändö.private|Brändö.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Åland~Islands/Counties/Brändö.personal|Brändö.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Åland~Islands/Counties/Brändö.secret|Brändö.secret]] 
 

@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 46.8 , 28.4 ] 
 type: geo-Region
 title: Hîncesti
@@ -40,10 +40,11 @@ markerFolder: ./Hîncesti/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Moldova/Counties/Hîncesti.md|Hîncesti]] 
-- [[../../../../_internal/geo/Continent/Europe/Moldova/Counties/Hîncesti.internal|Hîncesti.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Moldova/Counties/Hîncesti.protect|Hîncesti.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Moldova/Counties/Hîncesti.private|Hîncesti.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Moldova/Counties/Hîncesti.personal|Hîncesti.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Moldova/Counties/Hîncesti.secret|Hîncesti.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Moldova/Counties/Hîncesti|Hîncesti]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Moldova/Counties/Hîncesti.public|Hîncesti.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Moldova/Counties/Hîncesti.internal|Hîncesti.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Moldova/Counties/Hîncesti.protect|Hîncesti.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Moldova/Counties/Hîncesti.private|Hîncesti.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Moldova/Counties/Hîncesti.personal|Hîncesti.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Moldova/Counties/Hîncesti.secret|Hîncesti.secret]] 
 

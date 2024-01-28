@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 51.3 , -0.3 ] 
 type: geo-Region
 title: Surrey
@@ -40,10 +40,11 @@ markerFolder: ./Surrey/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/United_Kingdom/England/Counties/Surrey.md|Surrey]] 
-- [[../../../../_internal/geo/Continent/Europe/United_Kingdom/England/Counties/Surrey.internal|Surrey.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/United_Kingdom/England/Counties/Surrey.protect|Surrey.protect]] 
-- [[../../../../_private/geo/Continent/Europe/United_Kingdom/England/Counties/Surrey.private|Surrey.private]] 
-- [[../../../../_personal/geo/Continent/Europe/United_Kingdom/England/Counties/Surrey.personal|Surrey.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/United_Kingdom/England/Counties/Surrey.secret|Surrey.secret]] 
+- [[../../../../../../../../_Standards/geo/Continent/Europe/Europe~North/United_Kingdom/England/Counties/Surrey|Surrey]] 
+- [[../../../../../../../../_public/geo/Continent/Europe/Europe~North/United_Kingdom/England/Counties/Surrey.public|Surrey.public]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/Europe~North/United_Kingdom/England/Counties/Surrey.internal|Surrey.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/Europe~North/United_Kingdom/England/Counties/Surrey.protect|Surrey.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/Europe~North/United_Kingdom/England/Counties/Surrey.private|Surrey.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/Europe~North/United_Kingdom/England/Counties/Surrey.personal|Surrey.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/Europe~North/United_Kingdom/England/Counties/Surrey.secret|Surrey.secret]] 
 

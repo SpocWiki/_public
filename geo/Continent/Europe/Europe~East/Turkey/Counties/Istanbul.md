@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 41.3 , 28.6 ] 
 type: geo-Region
 title: Istanbul
@@ -40,10 +40,11 @@ markerFolder: ./Istanbul/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Turkey/Counties/Istanbul.md|Istanbul]] 
-- [[../../../../_internal/geo/Continent/Europe/Turkey/Counties/Istanbul.internal|Istanbul.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Turkey/Counties/Istanbul.protect|Istanbul.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Turkey/Counties/Istanbul.private|Istanbul.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Turkey/Counties/Istanbul.personal|Istanbul.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Turkey/Counties/Istanbul.secret|Istanbul.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Turkey/Counties/Istanbul|Istanbul]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Turkey/Counties/Istanbul.public|Istanbul.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Turkey/Counties/Istanbul.internal|Istanbul.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Turkey/Counties/Istanbul.protect|Istanbul.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Turkey/Counties/Istanbul.private|Istanbul.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Turkey/Counties/Istanbul.personal|Istanbul.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Turkey/Counties/Istanbul.secret|Istanbul.secret]] 
 

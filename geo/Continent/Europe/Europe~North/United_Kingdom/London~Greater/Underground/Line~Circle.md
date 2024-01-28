@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 51.5226 , -0.1571 ] 
 type: geo-Region
 title: Line~Circle
@@ -29,7 +29,7 @@ expiryDate:
 
 # Line~Circle
 
-Subway Line in [[../../City/City~London]]
+Subway Line in [[../../City/City~London]] 
 
 > The Circle line is a spiral-shaped London Underground line, running from Hammersmith in the west to Edgware Road and then looping around central London back to Edgware Road. The railway is below ground in the central section and on the loop east of Paddington. Unlike London's deep-level lines, the Circle line tunnels are just below the surface and are of similar size to those on British main lines. Printed in yellow on the Tube map, the 17-mile (27 km) line serves 36 stations, including most of London's main line termini. Almost all of the route, and all the stations, are shared with one or more of the three other Sub~surface lines, namely the District, Hammersmith & City and Metropolitan lines. On the Circle and Hammersmith & City lines combined, over 114 million passenger journeys were recorded in 2011/12.
 >
@@ -54,42 +54,42 @@ markerFolder: ./Station/
 
 
 # Stations:
-1)[[Sub~Hammersmith]]] 
-2)[[Sub~Goldhawk_Road]]] 
-3)[[Sub~Shepherd's_Bush_(C)]]] 
-4)[[Sub~White_City]]] 
-5)[[Sub~Latimer_Road]]] 
-6)[[Sub~Ladbroke_Grove]]] 
-7)[[Sub~Westbourne_Park]]] 
-8)[[Sub~Royal_Oak]]] 
-9)[[Sub~Paddington]]] 
-10)[[Sub~Edgware_Road_(C)]]] 
-11)[[Sub~Baker_Street]]] 
-12)[[Sub~Great_Portland_Street]]] 
-13)[[Sub~Euston_Square]]] 
-14)[[Sub~King's_Cross_St._Pancras]]] 
-15)[[Sub~Farringdon]]] 
-16)[[Sub~Barbican]]] 
-17)[[Sub~Moorgate]]] 
-18)[[Sub~Liverpool_Street]]] 
-19)[[Sub~Aldgate]]] 
-20)[[Sub~Tower_Hill]]] 
-21)[[Sub~Monument]]] 
-22)[[Sub~Cannon_Street]]] 
-23)[[Sub~Mansion_House]]] 
-24)[[Sub~Blackfriars]]] 
-25)[[Sub~Temple]]] 
-26)[[Sub~Embankment]]] 
-27)[[Sub~Westminster]]] 
-28)[[Sub~St._James's_Park]]] 
-29)[[Sub~Victoria]]] 
-30)[[Sub~Sloane_Square]]] 
-31)[[Sub~South_Kensington]]] 
-32)[[Sub~Gloucester_Road]]] 
-33)[[Sub~High_Street_Kensington]]] 
-34)[[Sub~Notting_Hill_Gate]]] 
-35)[[Sub~Bayswater]]] 
-36)[[Sub~Paddington]]] 
+1)[[Sub~Hammersmith]]  
+2)[[Sub~Goldhawk_Road]]  
+3)[[Sub~Shepherd's_Bush_(C)]]  
+4)[[Sub~White_City]]  
+5)[[Sub~Latimer_Road]]  
+6)[[Sub~Ladbroke_Grove]]  
+7)[[Sub~Westbourne_Park]]  
+8)[[Sub~Royal_Oak]]  
+9)[[Sub~Paddington]]  
+10)[[Sub~Edgware_Road_(C)]]  
+11)[[Sub~Baker_Street]]  
+12)[[Sub~Great_Portland_Street]]  
+13)[[Sub~Euston_Square]]  
+14)[[Sub~King's_Cross_St._Pancras]]  
+15)[[Sub~Farringdon]]  
+16)[[Sub~Barbican]]  
+17)[[Sub~Moorgate]]  
+18)[[Sub~Liverpool_Street]]  
+19)[[Sub~Aldgate]]  
+20)[[Sub~Tower_Hill]]  
+21)[[Sub~Monument]]  
+22)[[Sub~Cannon_Street]]  
+23)[[Sub~Mansion_House]]  
+24)[[Sub~Blackfriars]]  
+25)[[Sub~Temple]]  
+26)[[Sub~Embankment]]  
+27)[[Sub~Westminster]]  
+28)[[Sub~St._James's_Park]]  
+29)[[Sub~Victoria]]  
+30)[[Sub~Sloane_Square]]  
+31)[[Sub~South_Kensington]]  
+32)[[Sub~Gloucester_Road]]  
+33)[[Sub~High_Street_Kensington]]  
+34)[[Sub~Notting_Hill_Gate]]  
+35)[[Sub~Bayswater]]  
+36)[[Sub~Paddington]]  
 
 
 ```dataview
@@ -100,9 +100,10 @@ FROM outgoing([[Sub~Circle]])
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_public/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Line~Circle.md|Line~Circle]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Line~Circle.internal|Line~Circle.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Line~Circle.protect|Line~Circle.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Line~Circle.private|Line~Circle.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Line~Circle.personal|Line~Circle.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Line~Circle.secret|Line~Circle.secret]] 
+- [[../../../../../../../../_Standards/geo/Continent/Europe/Europe~North/United_Kingdom/London~Greater/Underground/Line~Circle|Line~Circle]] 
+- [[../../../../../../../../_public/geo/Continent/Europe/Europe~North/United_Kingdom/London~Greater/Underground/Line~Circle.public|Line~Circle.public]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/Europe~North/United_Kingdom/London~Greater/Underground/Line~Circle.internal|Line~Circle.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/Europe~North/United_Kingdom/London~Greater/Underground/Line~Circle.protect|Line~Circle.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/Europe~North/United_Kingdom/London~Greater/Underground/Line~Circle.private|Line~Circle.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/Europe~North/United_Kingdom/London~Greater/Underground/Line~Circle.personal|Line~Circle.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/Europe~North/United_Kingdom/London~Greater/Underground/Line~Circle.secret|Line~Circle.secret]] 

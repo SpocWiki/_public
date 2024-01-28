@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 56.5 , 25.3 ] 
 type: geo-Region
 title: Jaunjelgavas
@@ -40,10 +40,11 @@ markerFolder: ./Jaunjelgavas/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Latvia/Counties/Jaunjelgavas.md|Jaunjelgavas]] 
-- [[../../../../_internal/geo/Continent/Europe/Latvia/Counties/Jaunjelgavas.internal|Jaunjelgavas.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Latvia/Counties/Jaunjelgavas.protect|Jaunjelgavas.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Latvia/Counties/Jaunjelgavas.private|Jaunjelgavas.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Latvia/Counties/Jaunjelgavas.personal|Jaunjelgavas.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Latvia/Counties/Jaunjelgavas.secret|Jaunjelgavas.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Latvia/Counties/Jaunjelgavas|Jaunjelgavas]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Latvia/Counties/Jaunjelgavas.public|Jaunjelgavas.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Latvia/Counties/Jaunjelgavas.internal|Jaunjelgavas.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Latvia/Counties/Jaunjelgavas.protect|Jaunjelgavas.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Latvia/Counties/Jaunjelgavas.private|Jaunjelgavas.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Latvia/Counties/Jaunjelgavas.personal|Jaunjelgavas.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Latvia/Counties/Jaunjelgavas.secret|Jaunjelgavas.secret]] 
 

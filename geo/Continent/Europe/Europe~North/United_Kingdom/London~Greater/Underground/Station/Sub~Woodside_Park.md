@@ -1,5 +1,5 @@
 ---
-location: [51.6179,-0.1856]
+location: [51.6179,-0.1856] 
 type: Station 
 mapzoom: [8,15] 
 mapmarker: subway 
@@ -8,24 +8,24 @@ tags:
 - Europe/United_Kingdom/City~London
 ---
 SpocWebEntityId: 156142
-[StationSId::]
+[StationSId::] 
 isDeleted: false
 isReadOnly: false
 confidential: public
-[geo-lon::-0.1856]
-[geo-lat::51.6179]
-[name::Woodside Park]
-[zone::4]
-[Num_lines::1]
-[switch-to-Rail::0]
-[Country::[[United_Kingdom]]]
-[City::[[../../../London]]]
+[geo-lon::-0.1856] 
+[geo-lat::51.6179] 
+[name::Woodside Park] 
+[zone::4] 
+[Num_lines::1] 
+[switch-to-Rail::0] 
+Country :: [[United_Kingdom]]  
+City :: [[../../../London]]  
 
 
 ```leaflet
 id: Sub~Woodside_Park
-coordinates: [[Sub~Woodside_Park]]
-markerFile: [[Sub~Woodside_Park]]
+coordinates: [[Sub~Woodside_Park]] 
+markerFile: [[Sub~Woodside_Park]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
@@ -34,13 +34,14 @@ maxZoom: 18
 # Lines: 
 ```dataview
 TABLE 
-FROM [[]]
+FROM [[]] 
 ```
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_public/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Woodside_Park.md|Sub~Woodside_Park]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Woodside_Park.internal|Sub~Woodside_Park.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Woodside_Park.protect|Sub~Woodside_Park.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Woodside_Park.private|Sub~Woodside_Park.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Woodside_Park.personal|Sub~Woodside_Park.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Woodside_Park.secret|Sub~Woodside_Park.secret]] 
+- [[../../../../../../../../../_Standards/geo/Continent/Europe/Europe~North/United_Kingdom/London~Greater/Underground/Station/Sub~Woodside_Park|Sub~Woodside_Park]] 
+- [[../../../../../../../../../_public/geo/Continent/Europe/Europe~North/United_Kingdom/London~Greater/Underground/Station/Sub~Woodside_Park.public|Sub~Woodside_Park.public]] 
+- [[../../../../../../../../../_internal/geo/Continent/Europe/Europe~North/United_Kingdom/London~Greater/Underground/Station/Sub~Woodside_Park.internal|Sub~Woodside_Park.internal]] 
+- [[../../../../../../../../../_protect/geo/Continent/Europe/Europe~North/United_Kingdom/London~Greater/Underground/Station/Sub~Woodside_Park.protect|Sub~Woodside_Park.protect]] 
+- [[../../../../../../../../../_private/geo/Continent/Europe/Europe~North/United_Kingdom/London~Greater/Underground/Station/Sub~Woodside_Park.private|Sub~Woodside_Park.private]] 
+- [[../../../../../../../../../_personal/geo/Continent/Europe/Europe~North/United_Kingdom/London~Greater/Underground/Station/Sub~Woodside_Park.personal|Sub~Woodside_Park.personal]] 
+- [[../../../../../../../../../_secret/geo/Continent/Europe/Europe~North/United_Kingdom/London~Greater/Underground/Station/Sub~Woodside_Park.secret|Sub~Woodside_Park.secret]] 

@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 47.24 , 9.52 ] 
 type: geo-Region
 title: Ruggell
@@ -40,10 +40,11 @@ markerFolder: ./Ruggell/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Liechtenstein/Counties/Ruggell.md|Ruggell]] 
-- [[../../../../_internal/geo/Continent/Europe/Liechtenstein/Counties/Ruggell.internal|Ruggell.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Liechtenstein/Counties/Ruggell.protect|Ruggell.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Liechtenstein/Counties/Ruggell.private|Ruggell.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Liechtenstein/Counties/Ruggell.personal|Ruggell.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Liechtenstein/Counties/Ruggell.secret|Ruggell.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~West/Liechtenstein/Counties/Ruggell|Ruggell]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~West/Liechtenstein/Counties/Ruggell.public|Ruggell.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~West/Liechtenstein/Counties/Ruggell.internal|Ruggell.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~West/Liechtenstein/Counties/Ruggell.protect|Ruggell.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~West/Liechtenstein/Counties/Ruggell.private|Ruggell.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~West/Liechtenstein/Counties/Ruggell.personal|Ruggell.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~West/Liechtenstein/Counties/Ruggell.secret|Ruggell.secret]] 
 

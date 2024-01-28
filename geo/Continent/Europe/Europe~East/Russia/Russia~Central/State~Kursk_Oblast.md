@@ -1,5 +1,5 @@
 ---
-location: [51.73,36.22]
+location: [51.73,36.22] 
 type: State
 tags:
 - geo/State
@@ -10,13 +10,13 @@ isDeleted: false
 confidential: public
 
 ---
-[name::Kursk Oblast]
-[name-abbr::]
-[Country::[[Russia]]]
-[Capital::[[Kursk]]]
-[geo-lon::36.22]
-[geo-lat::51.73]
-[Population::]
+[name::Kursk Oblast] 
+[name-abbr::] 
+Country :: [[Russia]]  
+Capital :: [[Kursk]]  
+[geo-lon::36.22] 
+[geo-lat::51.73] 
+[Population::] 
 
 
 
@@ -31,9 +31,9 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
--[[State~Kursk_Oblast|State~Kursk_Oblast]]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Russia/State/State~Kursk_Oblast.internal|State~Kursk_Oblast.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/State/State~Kursk_Oblast.protect|State~Kursk_Oblast.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/State/State~Kursk_Oblast.private|State~Kursk_Oblast.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/State/State~Kursk_Oblast.personal|State~Kursk_Oblast.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/State/State~Kursk_Oblast.secret|State~Kursk_Oblast.secret]] 
+- [[State~Kursk_Oblast|State~Kursk_Oblast]]  
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Russia/State/State~Kursk_Oblast.internal|State~Kursk_Oblast.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Russia/State/State~Kursk_Oblast.protect|State~Kursk_Oblast.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Russia/State/State~Kursk_Oblast.private|State~Kursk_Oblast.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Russia/State/State~Kursk_Oblast.personal|State~Kursk_Oblast.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Russia/State/State~Kursk_Oblast.secret|State~Kursk_Oblast.secret]] 

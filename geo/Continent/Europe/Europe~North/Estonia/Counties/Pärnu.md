@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 58.3 , 24.9 ] 
 type: geo-Region
 title: Pärnu
@@ -40,10 +40,11 @@ markerFolder: ./Pärnu/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Estonia/Counties/Pärnu.md|Pärnu]] 
-- [[../../../../_internal/geo/Continent/Europe/Estonia/Counties/Pärnu.internal|Pärnu.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Estonia/Counties/Pärnu.protect|Pärnu.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Estonia/Counties/Pärnu.private|Pärnu.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Estonia/Counties/Pärnu.personal|Pärnu.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Estonia/Counties/Pärnu.secret|Pärnu.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Estonia/Counties/Pärnu|Pärnu]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Estonia/Counties/Pärnu.public|Pärnu.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Estonia/Counties/Pärnu.internal|Pärnu.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Estonia/Counties/Pärnu.protect|Pärnu.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Estonia/Counties/Pärnu.private|Pärnu.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Estonia/Counties/Pärnu.personal|Pärnu.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Estonia/Counties/Pärnu.secret|Pärnu.secret]] 
 

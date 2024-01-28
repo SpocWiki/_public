@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 39.5 , 39.1 ] 
 type: geo-Region
 title: Erzincan
@@ -40,10 +40,11 @@ markerFolder: ./Erzincan/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Turkey/Counties/Erzincan.md|Erzincan]] 
-- [[../../../../_internal/geo/Continent/Europe/Turkey/Counties/Erzincan.internal|Erzincan.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Turkey/Counties/Erzincan.protect|Erzincan.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Turkey/Counties/Erzincan.private|Erzincan.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Turkey/Counties/Erzincan.personal|Erzincan.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Turkey/Counties/Erzincan.secret|Erzincan.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Turkey/Counties/Erzincan|Erzincan]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Turkey/Counties/Erzincan.public|Erzincan.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Turkey/Counties/Erzincan.internal|Erzincan.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Turkey/Counties/Erzincan.protect|Erzincan.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Turkey/Counties/Erzincan.private|Erzincan.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Turkey/Counties/Erzincan.personal|Erzincan.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Turkey/Counties/Erzincan.secret|Erzincan.secret]] 
 

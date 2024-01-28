@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 35.3 , 24.5 ] 
 type: geo-Region
 title: Kriti
@@ -40,10 +40,11 @@ markerFolder: ./Kriti/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Greece/Counties/Kriti.md|Kriti]] 
-- [[../../../../_internal/geo/Continent/Europe/Greece/Counties/Kriti.internal|Kriti.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Greece/Counties/Kriti.protect|Kriti.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Greece/Counties/Kriti.private|Kriti.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Greece/Counties/Kriti.personal|Kriti.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Greece/Counties/Kriti.secret|Kriti.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Greece/Counties/Kriti|Kriti]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Greece/Counties/Kriti.public|Kriti.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Greece/Counties/Kriti.internal|Kriti.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Greece/Counties/Kriti.protect|Kriti.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Greece/Counties/Kriti.private|Kriti.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Greece/Counties/Kriti.personal|Kriti.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Greece/Counties/Kriti.secret|Kriti.secret]] 
 

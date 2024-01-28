@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 49.7 , 23.9 ] 
 type: geo-Region
 title: L'viv
@@ -40,10 +40,11 @@ markerFolder: ./L'viv/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Ukraine/Counties/L'viv.md|L'viv]] 
-- [[../../../../_internal/geo/Continent/Europe/Ukraine/Counties/L'viv.internal|L'viv.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Ukraine/Counties/L'viv.protect|L'viv.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Ukraine/Counties/L'viv.private|L'viv.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Ukraine/Counties/L'viv.personal|L'viv.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Ukraine/Counties/L'viv.secret|L'viv.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Ukraine/Counties/L'viv|L'viv]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Ukraine/Counties/L'viv.public|L'viv.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Ukraine/Counties/L'viv.internal|L'viv.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Ukraine/Counties/L'viv.protect|L'viv.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Ukraine/Counties/L'viv.private|L'viv.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Ukraine/Counties/L'viv.personal|L'viv.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Ukraine/Counties/L'viv.secret|L'viv.secret]] 
 

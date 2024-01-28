@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 48.2 , 27.7 ] 
 type: geo-Region
 title: Donduseni
@@ -40,10 +40,11 @@ markerFolder: ./Donduseni/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Moldova/Counties/Donduseni.md|Donduseni]] 
-- [[../../../../_internal/geo/Continent/Europe/Moldova/Counties/Donduseni.internal|Donduseni.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Moldova/Counties/Donduseni.protect|Donduseni.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Moldova/Counties/Donduseni.private|Donduseni.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Moldova/Counties/Donduseni.personal|Donduseni.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Moldova/Counties/Donduseni.secret|Donduseni.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Moldova/Counties/Donduseni|Donduseni]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Moldova/Counties/Donduseni.public|Donduseni.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Moldova/Counties/Donduseni.internal|Donduseni.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Moldova/Counties/Donduseni.protect|Donduseni.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Moldova/Counties/Donduseni.private|Donduseni.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Moldova/Counties/Donduseni.personal|Donduseni.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Moldova/Counties/Donduseni.secret|Donduseni.secret]] 
 

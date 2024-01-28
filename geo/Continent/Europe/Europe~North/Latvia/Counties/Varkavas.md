@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 56.2 , 26.5 ] 
 type: geo-Region
 title: Varkavas
@@ -40,10 +40,11 @@ markerFolder: ./Varkavas/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Latvia/Counties/Varkavas.md|Varkavas]] 
-- [[../../../../_internal/geo/Continent/Europe/Latvia/Counties/Varkavas.internal|Varkavas.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Latvia/Counties/Varkavas.protect|Varkavas.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Latvia/Counties/Varkavas.private|Varkavas.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Latvia/Counties/Varkavas.personal|Varkavas.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Latvia/Counties/Varkavas.secret|Varkavas.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Latvia/Counties/Varkavas|Varkavas]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Latvia/Counties/Varkavas.public|Varkavas.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Latvia/Counties/Varkavas.internal|Varkavas.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Latvia/Counties/Varkavas.protect|Varkavas.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Latvia/Counties/Varkavas.private|Varkavas.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Latvia/Counties/Varkavas.personal|Varkavas.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Latvia/Counties/Varkavas.secret|Varkavas.secret]] 
 

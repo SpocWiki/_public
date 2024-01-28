@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 56.5 , 21.2 ] 
 type: geo-Region
 title: Grobinas
@@ -40,10 +40,11 @@ markerFolder: ./Grobinas/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Latvia/Counties/Grobinas.md|Grobinas]] 
-- [[../../../../_internal/geo/Continent/Europe/Latvia/Counties/Grobinas.internal|Grobinas.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Latvia/Counties/Grobinas.protect|Grobinas.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Latvia/Counties/Grobinas.private|Grobinas.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Latvia/Counties/Grobinas.personal|Grobinas.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Latvia/Counties/Grobinas.secret|Grobinas.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Latvia/Counties/Grobinas|Grobinas]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Latvia/Counties/Grobinas.public|Grobinas.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Latvia/Counties/Grobinas.internal|Grobinas.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Latvia/Counties/Grobinas.protect|Grobinas.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Latvia/Counties/Grobinas.private|Grobinas.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Latvia/Counties/Grobinas.personal|Grobinas.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Latvia/Counties/Grobinas.secret|Grobinas.secret]] 
 

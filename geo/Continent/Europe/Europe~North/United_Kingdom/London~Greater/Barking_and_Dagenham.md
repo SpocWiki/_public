@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 51.5 , 0.1 ] 
 type: geo-Region
 title: Barking_and_Dagenham
@@ -40,10 +40,11 @@ markerFolder: ./Barking_and_Dagenham/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/United_Kingdom/London~Greater/Barking_and_Dagenham.md|Barking_and_Dagenham]] 
-- [[../../../../_internal/geo/Continent/Europe/United_Kingdom/London~Greater/Barking_and_Dagenham.internal|Barking_and_Dagenham.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/United_Kingdom/London~Greater/Barking_and_Dagenham.protect|Barking_and_Dagenham.protect]] 
-- [[../../../../_private/geo/Continent/Europe/United_Kingdom/London~Greater/Barking_and_Dagenham.private|Barking_and_Dagenham.private]] 
-- [[../../../../_personal/geo/Continent/Europe/United_Kingdom/London~Greater/Barking_and_Dagenham.personal|Barking_and_Dagenham.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/United_Kingdom/London~Greater/Barking_and_Dagenham.secret|Barking_and_Dagenham.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/United_Kingdom/London~Greater/Barking_and_Dagenham|Barking_and_Dagenham]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/United_Kingdom/London~Greater/Barking_and_Dagenham.public|Barking_and_Dagenham.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/United_Kingdom/London~Greater/Barking_and_Dagenham.internal|Barking_and_Dagenham.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/United_Kingdom/London~Greater/Barking_and_Dagenham.protect|Barking_and_Dagenham.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/United_Kingdom/London~Greater/Barking_and_Dagenham.private|Barking_and_Dagenham.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/United_Kingdom/London~Greater/Barking_and_Dagenham.personal|Barking_and_Dagenham.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/United_Kingdom/London~Greater/Barking_and_Dagenham.secret|Barking_and_Dagenham.secret]] 
 

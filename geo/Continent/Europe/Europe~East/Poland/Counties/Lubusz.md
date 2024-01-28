@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 52.2 , 15.3 ] 
 type: geo-Region
 title: Lubusz
@@ -40,10 +40,11 @@ markerFolder: ./Lubusz/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Poland/Counties/Lubusz.md|Lubusz]] 
-- [[../../../../_internal/geo/Continent/Europe/Poland/Counties/Lubusz.internal|Lubusz.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Poland/Counties/Lubusz.protect|Lubusz.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Poland/Counties/Lubusz.private|Lubusz.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Poland/Counties/Lubusz.personal|Lubusz.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Poland/Counties/Lubusz.secret|Lubusz.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Poland/Counties/Lubusz|Lubusz]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Poland/Counties/Lubusz.public|Lubusz.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Poland/Counties/Lubusz.internal|Lubusz.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Poland/Counties/Lubusz.protect|Lubusz.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Poland/Counties/Lubusz.private|Lubusz.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Poland/Counties/Lubusz.personal|Lubusz.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Poland/Counties/Lubusz.secret|Lubusz.secret]] 
 

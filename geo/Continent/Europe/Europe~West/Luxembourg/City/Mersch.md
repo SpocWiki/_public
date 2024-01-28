@@ -1,5 +1,5 @@
-﻿---
-location: [49.75,6.1]
+---
+location: [49.75,6.1] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,29 +12,30 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::6.1]
-[geo-lat::49.75]
-[name::Mersch]
-[State::]
-[Country[[geo/Continent/Europe/Europe~West/Luxembourg]]]]]
-[StateId::]
-[Population::]
-[Unknown::]
+[geo-lon::6.1] 
+[geo-lat::49.75] 
+[name::Mersch] 
+State ::  
+Country :: [[../../../../Luxembourg]] ] 
+[StateId::] 
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Mersch
-coordinates: [[Mersch]]
-markerFile: [[Mersch]]
+coordinates: [[Mersch]] 
+markerFile: [[Mersch]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_public/geo/Continent/Europe/Luxembourg/City/Mersch.md|Mersch]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Luxembourg/City/Mersch.internal|Mersch.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Luxembourg/City/Mersch.protect|Mersch.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Luxembourg/City/Mersch.private|Mersch.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Luxembourg/City/Mersch.personal|Mersch.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Luxembourg/City/Mersch.secret|Mersch.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~West/Luxembourg/City/Mersch|Mersch]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~West/Luxembourg/City/Mersch.public|Mersch.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~West/Luxembourg/City/Mersch.internal|Mersch.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~West/Luxembourg/City/Mersch.protect|Mersch.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~West/Luxembourg/City/Mersch.private|Mersch.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~West/Luxembourg/City/Mersch.personal|Mersch.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~West/Luxembourg/City/Mersch.secret|Mersch.secret]] 

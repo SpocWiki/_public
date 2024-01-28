@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 56.57 , 21.04 ] 
 type: geo-Region
 title: Liepāja
@@ -40,10 +40,11 @@ markerFolder: ./Liepāja/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Latvia/Counties/Liepāja.md|Liepāja]] 
-- [[../../../../_internal/geo/Continent/Europe/Latvia/Counties/Liepāja.internal|Liepāja.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Latvia/Counties/Liepāja.protect|Liepāja.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Latvia/Counties/Liepāja.private|Liepāja.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Latvia/Counties/Liepāja.personal|Liepāja.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Latvia/Counties/Liepāja.secret|Liepāja.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Latvia/Counties/Liepāja|Liepāja]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Latvia/Counties/Liepāja.public|Liepāja.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Latvia/Counties/Liepāja.internal|Liepāja.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Latvia/Counties/Liepāja.protect|Liepāja.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Latvia/Counties/Liepāja.private|Liepāja.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Latvia/Counties/Liepāja.personal|Liepāja.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Latvia/Counties/Liepāja.secret|Liepāja.secret]] 
 

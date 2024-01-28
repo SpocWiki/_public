@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 35.83 , 14.45 ] 
 type: geo-Region
 title: Qrendi
@@ -40,10 +40,11 @@ markerFolder: ./Qrendi/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Malta/Counties/Qrendi.md|Qrendi]] 
-- [[../../../../_internal/geo/Continent/Europe/Malta/Counties/Qrendi.internal|Qrendi.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Malta/Counties/Qrendi.protect|Qrendi.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Malta/Counties/Qrendi.private|Qrendi.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Malta/Counties/Qrendi.personal|Qrendi.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Malta/Counties/Qrendi.secret|Qrendi.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Malta/Counties/Qrendi|Qrendi]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Malta/Counties/Qrendi.public|Qrendi.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Malta/Counties/Qrendi.internal|Qrendi.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Malta/Counties/Qrendi.protect|Qrendi.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Malta/Counties/Qrendi.private|Qrendi.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Malta/Counties/Qrendi.personal|Qrendi.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Malta/Counties/Qrendi.secret|Qrendi.secret]] 
 

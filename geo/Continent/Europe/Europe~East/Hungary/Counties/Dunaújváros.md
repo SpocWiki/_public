@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 46.9 , 18.9 ] 
 type: geo-Region
 title: Dunaújváros
@@ -40,10 +40,11 @@ markerFolder: ./Dunaújváros/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Hungary/Counties/Dunaújváros.md|Dunaújváros]] 
-- [[../../../../_internal/geo/Continent/Europe/Hungary/Counties/Dunaújváros.internal|Dunaújváros.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Hungary/Counties/Dunaújváros.protect|Dunaújváros.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Hungary/Counties/Dunaújváros.private|Dunaújváros.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Hungary/Counties/Dunaújváros.personal|Dunaújváros.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Hungary/Counties/Dunaújváros.secret|Dunaújváros.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Hungary/Counties/Dunaújváros|Dunaújváros]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Hungary/Counties/Dunaújváros.public|Dunaújváros.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Hungary/Counties/Dunaújváros.internal|Dunaújváros.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Hungary/Counties/Dunaújváros.protect|Dunaújváros.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Hungary/Counties/Dunaújváros.private|Dunaújváros.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Hungary/Counties/Dunaújváros.personal|Dunaújváros.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Hungary/Counties/Dunaújváros.secret|Dunaújváros.secret]] 
 

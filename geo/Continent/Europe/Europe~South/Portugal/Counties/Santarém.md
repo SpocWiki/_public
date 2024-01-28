@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 39.3 , -8.5 ] 
 type: geo-Region
 title: Santarém
@@ -40,10 +40,11 @@ markerFolder: ./Santarém/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Portugal/Counties/Santarém.md|Santarém]] 
-- [[../../../../_internal/geo/Continent/Europe/Portugal/Counties/Santarém.internal|Santarém.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Portugal/Counties/Santarém.protect|Santarém.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Portugal/Counties/Santarém.private|Santarém.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Portugal/Counties/Santarém.personal|Santarém.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Portugal/Counties/Santarém.secret|Santarém.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Portugal/Counties/Santarém|Santarém]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Portugal/Counties/Santarém.public|Santarém.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Portugal/Counties/Santarém.internal|Santarém.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Portugal/Counties/Santarém.protect|Santarém.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Portugal/Counties/Santarém.private|Santarém.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Portugal/Counties/Santarém.personal|Santarém.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Portugal/Counties/Santarém.secret|Santarém.secret]] 
 

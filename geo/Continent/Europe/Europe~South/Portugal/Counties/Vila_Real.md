@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 41.5 , -7.5 ] 
 type: geo-Region
 title: Vila_Real
@@ -40,10 +40,11 @@ markerFolder: ./Vila_Real/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Portugal/Counties/Vila_Real.md|Vila_Real]] 
-- [[../../../../_internal/geo/Continent/Europe/Portugal/Counties/Vila_Real.internal|Vila_Real.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Portugal/Counties/Vila_Real.protect|Vila_Real.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Portugal/Counties/Vila_Real.private|Vila_Real.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Portugal/Counties/Vila_Real.personal|Vila_Real.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Portugal/Counties/Vila_Real.secret|Vila_Real.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Portugal/Counties/Vila_Real|Vila_Real]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Portugal/Counties/Vila_Real.public|Vila_Real.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Portugal/Counties/Vila_Real.internal|Vila_Real.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Portugal/Counties/Vila_Real.protect|Vila_Real.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Portugal/Counties/Vila_Real.private|Vila_Real.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Portugal/Counties/Vila_Real.personal|Vila_Real.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Portugal/Counties/Vila_Real.secret|Vila_Real.secret]] 
 

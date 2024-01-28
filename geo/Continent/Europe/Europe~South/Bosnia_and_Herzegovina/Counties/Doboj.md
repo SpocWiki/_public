@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 44.9 , 18 ] 
 type: geo-Region
 title: Doboj
@@ -40,10 +40,11 @@ markerFolder: ./Doboj/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Bosnia_and_Herzegovina/Counties/Doboj.md|Doboj]] 
-- [[../../../../_internal/geo/Continent/Europe/Bosnia_and_Herzegovina/Counties/Doboj.internal|Doboj.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Bosnia_and_Herzegovina/Counties/Doboj.protect|Doboj.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Bosnia_and_Herzegovina/Counties/Doboj.private|Doboj.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Bosnia_and_Herzegovina/Counties/Doboj.personal|Doboj.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Bosnia_and_Herzegovina/Counties/Doboj.secret|Doboj.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Bosnia_and_Herzegovina/Counties/Doboj|Doboj]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Bosnia_and_Herzegovina/Counties/Doboj.public|Doboj.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Bosnia_and_Herzegovina/Counties/Doboj.internal|Doboj.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Bosnia_and_Herzegovina/Counties/Doboj.protect|Doboj.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Bosnia_and_Herzegovina/Counties/Doboj.private|Doboj.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Bosnia_and_Herzegovina/Counties/Doboj.personal|Doboj.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Bosnia_and_Herzegovina/Counties/Doboj.secret|Doboj.secret]] 
 

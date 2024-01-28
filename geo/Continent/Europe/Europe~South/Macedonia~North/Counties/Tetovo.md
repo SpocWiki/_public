@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 42 , 20.9 ] 
 type: geo-Region
 title: Tetovo
@@ -40,10 +40,11 @@ markerFolder: ./Tetovo/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Macedonia~North/Counties/Tetovo.md|Tetovo]] 
-- [[../../../../_internal/geo/Continent/Europe/Macedonia~North/Counties/Tetovo.internal|Tetovo.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Macedonia~North/Counties/Tetovo.protect|Tetovo.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Macedonia~North/Counties/Tetovo.private|Tetovo.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Macedonia~North/Counties/Tetovo.personal|Tetovo.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Macedonia~North/Counties/Tetovo.secret|Tetovo.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Macedonia~North/Counties/Tetovo|Tetovo]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Macedonia~North/Counties/Tetovo.public|Tetovo.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Macedonia~North/Counties/Tetovo.internal|Tetovo.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Macedonia~North/Counties/Tetovo.protect|Tetovo.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Macedonia~North/Counties/Tetovo.private|Tetovo.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Macedonia~North/Counties/Tetovo.personal|Tetovo.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Macedonia~North/Counties/Tetovo.secret|Tetovo.secret]] 
 

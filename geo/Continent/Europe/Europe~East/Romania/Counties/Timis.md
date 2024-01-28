@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 45.7 , 21.6 ] 
 type: geo-Region
 title: Timis
@@ -40,10 +40,11 @@ markerFolder: ./Timis/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Romania/Counties/Timis.md|Timis]] 
-- [[../../../../_internal/geo/Continent/Europe/Romania/Counties/Timis.internal|Timis.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Romania/Counties/Timis.protect|Timis.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Romania/Counties/Timis.private|Timis.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Romania/Counties/Timis.personal|Timis.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Romania/Counties/Timis.secret|Timis.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Romania/Counties/Timis|Timis]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Romania/Counties/Timis.public|Timis.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Romania/Counties/Timis.internal|Timis.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Romania/Counties/Timis.protect|Timis.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Romania/Counties/Timis.private|Timis.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Romania/Counties/Timis.personal|Timis.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Romania/Counties/Timis.secret|Timis.secret]] 
 

@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 59.5 , 18 ] 
 type: geo-Region
 title: Stockholm
@@ -40,10 +40,11 @@ markerFolder: ./Stockholm/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Sweden/Counties/Stockholm.md|Stockholm]] 
-- [[../../../../_internal/geo/Continent/Europe/Sweden/Counties/Stockholm.internal|Stockholm.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Sweden/Counties/Stockholm.protect|Stockholm.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Sweden/Counties/Stockholm.private|Stockholm.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Sweden/Counties/Stockholm.personal|Stockholm.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Sweden/Counties/Stockholm.secret|Stockholm.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Sweden/Counties/Stockholm|Stockholm]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Sweden/Counties/Stockholm.public|Stockholm.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Sweden/Counties/Stockholm.internal|Stockholm.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Sweden/Counties/Stockholm.protect|Stockholm.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Sweden/Counties/Stockholm.private|Stockholm.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Sweden/Counties/Stockholm.personal|Stockholm.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Sweden/Counties/Stockholm.secret|Stockholm.secret]] 
 

@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 58.4 , 15.6 ] 
 type: geo-Region
 title: Östergötland
@@ -40,10 +40,11 @@ markerFolder: ./Östergötland/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Sweden/Counties/Östergötland.md|Östergötland]] 
-- [[../../../../_internal/geo/Continent/Europe/Sweden/Counties/Östergötland.internal|Östergötland.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Sweden/Counties/Östergötland.protect|Östergötland.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Sweden/Counties/Östergötland.private|Östergötland.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Sweden/Counties/Östergötland.personal|Östergötland.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Sweden/Counties/Östergötland.secret|Östergötland.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Sweden/Counties/Östergötland|Östergötland]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Sweden/Counties/Östergötland.public|Östergötland.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Sweden/Counties/Östergötland.internal|Östergötland.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Sweden/Counties/Östergötland.protect|Östergötland.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Sweden/Counties/Östergötland.private|Östergötland.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Sweden/Counties/Östergötland.personal|Östergötland.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Sweden/Counties/Östergötland.secret|Östergötland.secret]] 
 

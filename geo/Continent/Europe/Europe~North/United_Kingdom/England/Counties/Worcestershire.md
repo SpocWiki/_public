@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 52.2 , -2.2 ] 
 type: geo-Region
 title: Worcestershire
@@ -40,10 +40,11 @@ markerFolder: ./Worcestershire/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/United_Kingdom/England/Counties/Worcestershire.md|Worcestershire]] 
-- [[../../../../_internal/geo/Continent/Europe/United_Kingdom/England/Counties/Worcestershire.internal|Worcestershire.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/United_Kingdom/England/Counties/Worcestershire.protect|Worcestershire.protect]] 
-- [[../../../../_private/geo/Continent/Europe/United_Kingdom/England/Counties/Worcestershire.private|Worcestershire.private]] 
-- [[../../../../_personal/geo/Continent/Europe/United_Kingdom/England/Counties/Worcestershire.personal|Worcestershire.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/United_Kingdom/England/Counties/Worcestershire.secret|Worcestershire.secret]] 
+- [[../../../../../../../../_Standards/geo/Continent/Europe/Europe~North/United_Kingdom/England/Counties/Worcestershire|Worcestershire]] 
+- [[../../../../../../../../_public/geo/Continent/Europe/Europe~North/United_Kingdom/England/Counties/Worcestershire.public|Worcestershire.public]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/Europe~North/United_Kingdom/England/Counties/Worcestershire.internal|Worcestershire.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/Europe~North/United_Kingdom/England/Counties/Worcestershire.protect|Worcestershire.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/Europe~North/United_Kingdom/England/Counties/Worcestershire.private|Worcestershire.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/Europe~North/United_Kingdom/England/Counties/Worcestershire.personal|Worcestershire.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/Europe~North/United_Kingdom/England/Counties/Worcestershire.secret|Worcestershire.secret]] 
 

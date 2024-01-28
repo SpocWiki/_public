@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 40.7 , -8.5 ] 
 type: geo-Region
 title: Aveiro
@@ -40,10 +40,11 @@ markerFolder: ./Aveiro/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Portugal/Counties/Aveiro.md|Aveiro]] 
-- [[../../../../_internal/geo/Continent/Europe/Portugal/Counties/Aveiro.internal|Aveiro.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Portugal/Counties/Aveiro.protect|Aveiro.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Portugal/Counties/Aveiro.private|Aveiro.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Portugal/Counties/Aveiro.personal|Aveiro.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Portugal/Counties/Aveiro.secret|Aveiro.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Portugal/Counties/Aveiro|Aveiro]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Portugal/Counties/Aveiro.public|Aveiro.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Portugal/Counties/Aveiro.internal|Aveiro.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Portugal/Counties/Aveiro.protect|Aveiro.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Portugal/Counties/Aveiro.private|Aveiro.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Portugal/Counties/Aveiro.personal|Aveiro.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Portugal/Counties/Aveiro.secret|Aveiro.secret]] 
 

@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 48.1 , 19.8 ] 
 type: geo-Region
 title: Salgótarján
@@ -40,10 +40,11 @@ markerFolder: ./Salgótarján/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Hungary/Counties/Salgótarján.md|Salgótarján]] 
-- [[../../../../_internal/geo/Continent/Europe/Hungary/Counties/Salgótarján.internal|Salgótarján.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Hungary/Counties/Salgótarján.protect|Salgótarján.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Hungary/Counties/Salgótarján.private|Salgótarján.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Hungary/Counties/Salgótarján.personal|Salgótarján.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Hungary/Counties/Salgótarján.secret|Salgótarján.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Hungary/Counties/Salgótarján|Salgótarján]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Hungary/Counties/Salgótarján.public|Salgótarján.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Hungary/Counties/Salgótarján.internal|Salgótarján.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Hungary/Counties/Salgótarján.protect|Salgótarján.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Hungary/Counties/Salgótarján.private|Salgótarján.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Hungary/Counties/Salgótarján.personal|Salgótarján.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Hungary/Counties/Salgótarján.secret|Salgótarján.secret]] 
 

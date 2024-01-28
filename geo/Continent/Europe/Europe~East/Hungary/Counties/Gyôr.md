@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 47.7 , 17.7 ] 
 type: geo-Region
 title: Gyôr
@@ -40,10 +40,11 @@ markerFolder: ./Gyôr/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Hungary/Counties/Gyôr.md|Gyôr]] 
-- [[../../../../_internal/geo/Continent/Europe/Hungary/Counties/Gyôr.internal|Gyôr.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Hungary/Counties/Gyôr.protect|Gyôr.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Hungary/Counties/Gyôr.private|Gyôr.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Hungary/Counties/Gyôr.personal|Gyôr.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Hungary/Counties/Gyôr.secret|Gyôr.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Hungary/Counties/Gyôr|Gyôr]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Hungary/Counties/Gyôr.public|Gyôr.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Hungary/Counties/Gyôr.internal|Gyôr.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Hungary/Counties/Gyôr.protect|Gyôr.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Hungary/Counties/Gyôr.private|Gyôr.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Hungary/Counties/Gyôr.personal|Gyôr.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Hungary/Counties/Gyôr.secret|Gyôr.secret]] 
 

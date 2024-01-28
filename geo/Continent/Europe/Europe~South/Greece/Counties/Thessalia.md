@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 39.6 , 22.1 ] 
 type: geo-Region
 title: Thessalia
@@ -40,10 +40,11 @@ markerFolder: ./Thessalia/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Greece/Counties/Thessalia.md|Thessalia]] 
-- [[../../../../_internal/geo/Continent/Europe/Greece/Counties/Thessalia.internal|Thessalia.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Greece/Counties/Thessalia.protect|Thessalia.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Greece/Counties/Thessalia.private|Thessalia.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Greece/Counties/Thessalia.personal|Thessalia.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Greece/Counties/Thessalia.secret|Thessalia.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Greece/Counties/Thessalia|Thessalia]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Greece/Counties/Thessalia.public|Thessalia.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Greece/Counties/Thessalia.internal|Thessalia.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Greece/Counties/Thessalia.protect|Thessalia.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Greece/Counties/Thessalia.private|Thessalia.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Greece/Counties/Thessalia.personal|Thessalia.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Greece/Counties/Thessalia.secret|Thessalia.secret]] 
 

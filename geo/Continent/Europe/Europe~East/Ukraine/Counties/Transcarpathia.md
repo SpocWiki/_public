@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 48.5 , 23 ] 
 type: geo-Region
 title: Transcarpathia
@@ -40,10 +40,11 @@ markerFolder: ./Transcarpathia/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Ukraine/Counties/Transcarpathia.md|Transcarpathia]] 
-- [[../../../../_internal/geo/Continent/Europe/Ukraine/Counties/Transcarpathia.internal|Transcarpathia.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Ukraine/Counties/Transcarpathia.protect|Transcarpathia.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Ukraine/Counties/Transcarpathia.private|Transcarpathia.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Ukraine/Counties/Transcarpathia.personal|Transcarpathia.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Ukraine/Counties/Transcarpathia.secret|Transcarpathia.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Ukraine/Counties/Transcarpathia|Transcarpathia]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Ukraine/Counties/Transcarpathia.public|Transcarpathia.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Ukraine/Counties/Transcarpathia.internal|Transcarpathia.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Ukraine/Counties/Transcarpathia.protect|Transcarpathia.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Ukraine/Counties/Transcarpathia.private|Transcarpathia.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Ukraine/Counties/Transcarpathia.personal|Transcarpathia.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Ukraine/Counties/Transcarpathia.secret|Transcarpathia.secret]] 
 

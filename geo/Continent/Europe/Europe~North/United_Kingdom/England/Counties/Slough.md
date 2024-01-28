@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 51.5 , -0.6 ] 
 type: geo-Region
 title: Slough
@@ -40,10 +40,11 @@ markerFolder: ./Slough/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/United_Kingdom/England/Counties/Slough.md|Slough]] 
-- [[../../../../_internal/geo/Continent/Europe/United_Kingdom/England/Counties/Slough.internal|Slough.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/United_Kingdom/England/Counties/Slough.protect|Slough.protect]] 
-- [[../../../../_private/geo/Continent/Europe/United_Kingdom/England/Counties/Slough.private|Slough.private]] 
-- [[../../../../_personal/geo/Continent/Europe/United_Kingdom/England/Counties/Slough.personal|Slough.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/United_Kingdom/England/Counties/Slough.secret|Slough.secret]] 
+- [[../../../../../../../../_Standards/geo/Continent/Europe/Europe~North/United_Kingdom/England/Counties/Slough|Slough]] 
+- [[../../../../../../../../_public/geo/Continent/Europe/Europe~North/United_Kingdom/England/Counties/Slough.public|Slough.public]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/Europe~North/United_Kingdom/England/Counties/Slough.internal|Slough.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/Europe~North/United_Kingdom/England/Counties/Slough.protect|Slough.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/Europe~North/United_Kingdom/England/Counties/Slough.private|Slough.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/Europe~North/United_Kingdom/England/Counties/Slough.personal|Slough.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/Europe~North/United_Kingdom/England/Counties/Slough.secret|Slough.secret]] 
 

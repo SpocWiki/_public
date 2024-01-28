@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 41.3 , 22 ] 
 type: geo-Region
 title: Kavadartsi
@@ -40,10 +40,11 @@ markerFolder: ./Kavadartsi/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Macedonia~North/Counties/Kavadartsi.md|Kavadartsi]] 
-- [[../../../../_internal/geo/Continent/Europe/Macedonia~North/Counties/Kavadartsi.internal|Kavadartsi.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Macedonia~North/Counties/Kavadartsi.protect|Kavadartsi.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Macedonia~North/Counties/Kavadartsi.private|Kavadartsi.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Macedonia~North/Counties/Kavadartsi.personal|Kavadartsi.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Macedonia~North/Counties/Kavadartsi.secret|Kavadartsi.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Macedonia~North/Counties/Kavadartsi|Kavadartsi]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Macedonia~North/Counties/Kavadartsi.public|Kavadartsi.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Macedonia~North/Counties/Kavadartsi.internal|Kavadartsi.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Macedonia~North/Counties/Kavadartsi.protect|Kavadartsi.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Macedonia~North/Counties/Kavadartsi.private|Kavadartsi.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Macedonia~North/Counties/Kavadartsi.personal|Kavadartsi.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Macedonia~North/Counties/Kavadartsi.secret|Kavadartsi.secret]] 
 

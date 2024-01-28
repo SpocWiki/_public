@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 41.2 , 22.4 ] 
 type: geo-Region
 title: Southeastern
@@ -40,10 +40,11 @@ markerFolder: ./Southeastern/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Macedonia~North/Counties/Southeastern.md|Southeastern]] 
-- [[../../../../_internal/geo/Continent/Europe/Macedonia~North/Counties/Southeastern.internal|Southeastern.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Macedonia~North/Counties/Southeastern.protect|Southeastern.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Macedonia~North/Counties/Southeastern.private|Southeastern.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Macedonia~North/Counties/Southeastern.personal|Southeastern.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Macedonia~North/Counties/Southeastern.secret|Southeastern.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Macedonia~North/Counties/Southeastern|Southeastern]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Macedonia~North/Counties/Southeastern.public|Southeastern.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Macedonia~North/Counties/Southeastern.internal|Southeastern.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Macedonia~North/Counties/Southeastern.protect|Southeastern.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Macedonia~North/Counties/Southeastern.private|Southeastern.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Macedonia~North/Counties/Southeastern.personal|Southeastern.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Macedonia~North/Counties/Southeastern.secret|Southeastern.secret]] 
 

@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 42.7 , 23.3 ] 
 type: geo-Region
 title: Grad_Sofiya
@@ -40,10 +40,11 @@ markerFolder: ./Grad_Sofiya/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Bulgaria/Counties/Grad_Sofiya.md|Grad_Sofiya]] 
-- [[../../../../_internal/geo/Continent/Europe/Bulgaria/Counties/Grad_Sofiya.internal|Grad_Sofiya.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Bulgaria/Counties/Grad_Sofiya.protect|Grad_Sofiya.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Bulgaria/Counties/Grad_Sofiya.private|Grad_Sofiya.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Bulgaria/Counties/Grad_Sofiya.personal|Grad_Sofiya.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Bulgaria/Counties/Grad_Sofiya.secret|Grad_Sofiya.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Bulgaria/Counties/Grad_Sofiya|Grad_Sofiya]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Bulgaria/Counties/Grad_Sofiya.public|Grad_Sofiya.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Bulgaria/Counties/Grad_Sofiya.internal|Grad_Sofiya.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Bulgaria/Counties/Grad_Sofiya.protect|Grad_Sofiya.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Bulgaria/Counties/Grad_Sofiya.private|Grad_Sofiya.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Bulgaria/Counties/Grad_Sofiya.personal|Grad_Sofiya.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Bulgaria/Counties/Grad_Sofiya.secret|Grad_Sofiya.secret]] 
 

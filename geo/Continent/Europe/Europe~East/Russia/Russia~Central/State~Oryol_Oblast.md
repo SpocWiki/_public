@@ -1,5 +1,5 @@
 ---
-location: [52.9667,36.0667]
+location: [52.9667,36.0667] 
 type: State
 tags:
 - geo/State
@@ -10,13 +10,13 @@ isDeleted: false
 confidential: public
 
 ---
-[name::Oryol Oblast]
-[name-abbr::]
-[Country::[[Russia]]]
-[Capital::[[Oryol]]]
-[geo-lon::36.0667]
-[geo-lat::52.9667]
-[Population::]
+[name::Oryol Oblast] 
+[name-abbr::] 
+Country :: [[Russia]]  
+Capital :: [[Oryol]]  
+[geo-lon::36.0667] 
+[geo-lat::52.9667] 
+[Population::] 
 
 
 
@@ -31,9 +31,9 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
--[[State~Oryol_Oblast|State~Oryol_Oblast]]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Russia/State/State~Oryol_Oblast.internal|State~Oryol_Oblast.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/State/State~Oryol_Oblast.protect|State~Oryol_Oblast.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/State/State~Oryol_Oblast.private|State~Oryol_Oblast.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/State/State~Oryol_Oblast.personal|State~Oryol_Oblast.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/State/State~Oryol_Oblast.secret|State~Oryol_Oblast.secret]] 
+- [[State~Oryol_Oblast|State~Oryol_Oblast]]  
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Russia/State/State~Oryol_Oblast.internal|State~Oryol_Oblast.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Russia/State/State~Oryol_Oblast.protect|State~Oryol_Oblast.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Russia/State/State~Oryol_Oblast.private|State~Oryol_Oblast.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Russia/State/State~Oryol_Oblast.personal|State~Oryol_Oblast.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Russia/State/State~Oryol_Oblast.secret|State~Oryol_Oblast.secret]] 

@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 51.1 , 24.9 ] 
 type: geo-Region
 title: Volyn
@@ -40,10 +40,11 @@ markerFolder: ./Volyn/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Ukraine/Counties/Volyn.md|Volyn]] 
-- [[../../../../_internal/geo/Continent/Europe/Ukraine/Counties/Volyn.internal|Volyn.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Ukraine/Counties/Volyn.protect|Volyn.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Ukraine/Counties/Volyn.private|Volyn.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Ukraine/Counties/Volyn.personal|Volyn.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Ukraine/Counties/Volyn.secret|Volyn.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Ukraine/Counties/Volyn|Volyn]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Ukraine/Counties/Volyn.public|Volyn.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Ukraine/Counties/Volyn.internal|Volyn.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Ukraine/Counties/Volyn.protect|Volyn.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Ukraine/Counties/Volyn.private|Volyn.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Ukraine/Counties/Volyn.personal|Volyn.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Ukraine/Counties/Volyn.secret|Volyn.secret]] 
 

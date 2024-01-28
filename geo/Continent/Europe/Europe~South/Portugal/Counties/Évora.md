@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 38.6 , -8 ] 
 type: geo-Region
 title: Évora
@@ -40,10 +40,11 @@ markerFolder: ./Évora/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Portugal/Counties/Évora.md|Évora]] 
-- [[../../../../_internal/geo/Continent/Europe/Portugal/Counties/Évora.internal|Évora.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Portugal/Counties/Évora.protect|Évora.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Portugal/Counties/Évora.private|Évora.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Portugal/Counties/Évora.personal|Évora.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Portugal/Counties/Évora.secret|Évora.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Portugal/Counties/Évora|Évora]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Portugal/Counties/Évora.public|Évora.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Portugal/Counties/Évora.internal|Évora.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Portugal/Counties/Évora.protect|Évora.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Portugal/Counties/Évora.private|Évora.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Portugal/Counties/Évora.personal|Évora.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Portugal/Counties/Évora.secret|Évora.secret]] 
 

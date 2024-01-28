@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 56.5 , 23.3 ] 
 type: geo-Region
 title: Tervetes
@@ -40,10 +40,11 @@ markerFolder: ./Tervetes/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Latvia/Counties/Tervetes.md|Tervetes]] 
-- [[../../../../_internal/geo/Continent/Europe/Latvia/Counties/Tervetes.internal|Tervetes.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Latvia/Counties/Tervetes.protect|Tervetes.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Latvia/Counties/Tervetes.private|Tervetes.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Latvia/Counties/Tervetes.personal|Tervetes.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Latvia/Counties/Tervetes.secret|Tervetes.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Latvia/Counties/Tervetes|Tervetes]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Latvia/Counties/Tervetes.public|Tervetes.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Latvia/Counties/Tervetes.internal|Tervetes.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Latvia/Counties/Tervetes.protect|Tervetes.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Latvia/Counties/Tervetes.private|Tervetes.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Latvia/Counties/Tervetes.personal|Tervetes.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Latvia/Counties/Tervetes.secret|Tervetes.secret]] 
 

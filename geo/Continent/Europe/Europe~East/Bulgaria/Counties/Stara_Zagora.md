@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 42.4 , 25.5 ] 
 type: geo-Region
 title: Stara_Zagora
@@ -40,10 +40,11 @@ markerFolder: ./Stara_Zagora/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Bulgaria/Counties/Stara_Zagora.md|Stara_Zagora]] 
-- [[../../../../_internal/geo/Continent/Europe/Bulgaria/Counties/Stara_Zagora.internal|Stara_Zagora.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Bulgaria/Counties/Stara_Zagora.protect|Stara_Zagora.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Bulgaria/Counties/Stara_Zagora.private|Stara_Zagora.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Bulgaria/Counties/Stara_Zagora.personal|Stara_Zagora.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Bulgaria/Counties/Stara_Zagora.secret|Stara_Zagora.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Bulgaria/Counties/Stara_Zagora|Stara_Zagora]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Bulgaria/Counties/Stara_Zagora.public|Stara_Zagora.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Bulgaria/Counties/Stara_Zagora.internal|Stara_Zagora.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Bulgaria/Counties/Stara_Zagora.protect|Stara_Zagora.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Bulgaria/Counties/Stara_Zagora.private|Stara_Zagora.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Bulgaria/Counties/Stara_Zagora.personal|Stara_Zagora.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Bulgaria/Counties/Stara_Zagora.secret|Stara_Zagora.secret]] 
 

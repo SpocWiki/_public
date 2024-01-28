@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 38 , 41.3 ] 
 type: geo-Region
 title: Batman
@@ -40,10 +40,11 @@ markerFolder: ./Batman/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Turkey/Counties/Batman.md|Batman]] 
-- [[../../../../_internal/geo/Continent/Europe/Turkey/Counties/Batman.internal|Batman.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Turkey/Counties/Batman.protect|Batman.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Turkey/Counties/Batman.private|Batman.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Turkey/Counties/Batman.personal|Batman.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Turkey/Counties/Batman.secret|Batman.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Turkey/Counties/Batman|Batman]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Turkey/Counties/Batman.public|Batman.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Turkey/Counties/Batman.internal|Batman.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Turkey/Counties/Batman.protect|Batman.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Turkey/Counties/Batman.private|Batman.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Turkey/Counties/Batman.personal|Batman.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Turkey/Counties/Batman.secret|Batman.secret]] 
 

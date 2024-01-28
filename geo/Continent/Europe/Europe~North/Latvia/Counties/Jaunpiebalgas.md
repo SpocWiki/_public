@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 57.1 , 26 ] 
 type: geo-Region
 title: Jaunpiebalgas
@@ -40,10 +40,11 @@ markerFolder: ./Jaunpiebalgas/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Latvia/Counties/Jaunpiebalgas.md|Jaunpiebalgas]] 
-- [[../../../../_internal/geo/Continent/Europe/Latvia/Counties/Jaunpiebalgas.internal|Jaunpiebalgas.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Latvia/Counties/Jaunpiebalgas.protect|Jaunpiebalgas.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Latvia/Counties/Jaunpiebalgas.private|Jaunpiebalgas.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Latvia/Counties/Jaunpiebalgas.personal|Jaunpiebalgas.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Latvia/Counties/Jaunpiebalgas.secret|Jaunpiebalgas.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Latvia/Counties/Jaunpiebalgas|Jaunpiebalgas]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Latvia/Counties/Jaunpiebalgas.public|Jaunpiebalgas.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Latvia/Counties/Jaunpiebalgas.internal|Jaunpiebalgas.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Latvia/Counties/Jaunpiebalgas.protect|Jaunpiebalgas.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Latvia/Counties/Jaunpiebalgas.private|Jaunpiebalgas.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Latvia/Counties/Jaunpiebalgas.personal|Jaunpiebalgas.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Latvia/Counties/Jaunpiebalgas.secret|Jaunpiebalgas.secret]] 
 

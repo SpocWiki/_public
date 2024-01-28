@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 59.3 , 11.2 ] 
 type: geo-Region
 title: Østfold
@@ -40,10 +40,11 @@ markerFolder: ./Østfold/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Norway/Counties/Østfold.md|Østfold]] 
-- [[../../../../_internal/geo/Continent/Europe/Norway/Counties/Østfold.internal|Østfold.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Norway/Counties/Østfold.protect|Østfold.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Norway/Counties/Østfold.private|Østfold.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Norway/Counties/Østfold.personal|Østfold.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Norway/Counties/Østfold.secret|Østfold.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Norway/Counties/Østfold|Østfold]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Norway/Counties/Østfold.public|Østfold.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Norway/Counties/Østfold.internal|Østfold.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Norway/Counties/Østfold.protect|Østfold.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Norway/Counties/Østfold.private|Østfold.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Norway/Counties/Østfold.personal|Østfold.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Norway/Counties/Østfold.secret|Østfold.secret]] 
 

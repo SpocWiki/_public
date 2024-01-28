@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 43.1 , 20.8 ] 
 type: geo-Region
 title: Leposavić
@@ -40,10 +40,11 @@ markerFolder: ./Leposavić/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Kosovo/Counties/Leposavić.md|Leposavić]] 
-- [[../../../../_internal/geo/Continent/Europe/Kosovo/Counties/Leposavić.internal|Leposavić.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Kosovo/Counties/Leposavić.protect|Leposavić.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Kosovo/Counties/Leposavić.private|Leposavić.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Kosovo/Counties/Leposavić.personal|Leposavić.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Kosovo/Counties/Leposavić.secret|Leposavić.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Kosovo/Counties/Leposavić|Leposavić]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Kosovo/Counties/Leposavić.public|Leposavić.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Kosovo/Counties/Leposavić.internal|Leposavić.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Kosovo/Counties/Leposavić.protect|Leposavić.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Kosovo/Counties/Leposavić.private|Leposavić.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Kosovo/Counties/Leposavić.personal|Leposavić.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Kosovo/Counties/Leposavić.secret|Leposavić.secret]] 
 

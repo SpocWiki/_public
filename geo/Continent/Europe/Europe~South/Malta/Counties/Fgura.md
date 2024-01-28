@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 35.87 , 14.52 ] 
 type: geo-Region
 title: Fgura
@@ -40,10 +40,11 @@ markerFolder: ./Fgura/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Malta/Counties/Fgura.md|Fgura]] 
-- [[../../../../_internal/geo/Continent/Europe/Malta/Counties/Fgura.internal|Fgura.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Malta/Counties/Fgura.protect|Fgura.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Malta/Counties/Fgura.private|Fgura.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Malta/Counties/Fgura.personal|Fgura.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Malta/Counties/Fgura.secret|Fgura.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Malta/Counties/Fgura|Fgura]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Malta/Counties/Fgura.public|Fgura.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Malta/Counties/Fgura.internal|Fgura.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Malta/Counties/Fgura.protect|Fgura.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Malta/Counties/Fgura.private|Fgura.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Malta/Counties/Fgura.personal|Fgura.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Malta/Counties/Fgura.secret|Fgura.secret]] 
 

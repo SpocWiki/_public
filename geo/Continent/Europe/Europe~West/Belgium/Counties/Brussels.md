@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 50.8 , 4.4 ] 
 type: geo-Region
 title: Brussels
@@ -40,10 +40,11 @@ markerFolder: ./Brussels/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Belgium/Counties/Brussels.md|Brussels]] 
-- [[../../../../_internal/geo/Continent/Europe/Belgium/Counties/Brussels.internal|Brussels.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Belgium/Counties/Brussels.protect|Brussels.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Belgium/Counties/Brussels.private|Brussels.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Belgium/Counties/Brussels.personal|Brussels.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Belgium/Counties/Brussels.secret|Brussels.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~West/Belgium/Counties/Brussels|Brussels]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~West/Belgium/Counties/Brussels.public|Brussels.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~West/Belgium/Counties/Brussels.internal|Brussels.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~West/Belgium/Counties/Brussels.protect|Brussels.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~West/Belgium/Counties/Brussels.private|Brussels.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~West/Belgium/Counties/Brussels.personal|Brussels.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~West/Belgium/Counties/Brussels.secret|Brussels.secret]] 
 

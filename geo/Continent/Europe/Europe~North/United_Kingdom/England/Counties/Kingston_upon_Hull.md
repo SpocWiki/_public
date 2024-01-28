@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 53.76 , -0.37 ] 
 type: geo-Region
 title: Kingston_upon_Hull
@@ -40,10 +40,11 @@ markerFolder: ./Kingston_upon_Hull/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/United_Kingdom/England/Counties/Kingston_upon_Hull.md|Kingston_upon_Hull]] 
-- [[../../../../_internal/geo/Continent/Europe/United_Kingdom/England/Counties/Kingston_upon_Hull.internal|Kingston_upon_Hull.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/United_Kingdom/England/Counties/Kingston_upon_Hull.protect|Kingston_upon_Hull.protect]] 
-- [[../../../../_private/geo/Continent/Europe/United_Kingdom/England/Counties/Kingston_upon_Hull.private|Kingston_upon_Hull.private]] 
-- [[../../../../_personal/geo/Continent/Europe/United_Kingdom/England/Counties/Kingston_upon_Hull.personal|Kingston_upon_Hull.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/United_Kingdom/England/Counties/Kingston_upon_Hull.secret|Kingston_upon_Hull.secret]] 
+- [[../../../../../../../../_Standards/geo/Continent/Europe/Europe~North/United_Kingdom/England/Counties/Kingston_upon_Hull|Kingston_upon_Hull]] 
+- [[../../../../../../../../_public/geo/Continent/Europe/Europe~North/United_Kingdom/England/Counties/Kingston_upon_Hull.public|Kingston_upon_Hull.public]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/Europe~North/United_Kingdom/England/Counties/Kingston_upon_Hull.internal|Kingston_upon_Hull.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/Europe~North/United_Kingdom/England/Counties/Kingston_upon_Hull.protect|Kingston_upon_Hull.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/Europe~North/United_Kingdom/England/Counties/Kingston_upon_Hull.private|Kingston_upon_Hull.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/Europe~North/United_Kingdom/England/Counties/Kingston_upon_Hull.personal|Kingston_upon_Hull.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/Europe~North/United_Kingdom/England/Counties/Kingston_upon_Hull.secret|Kingston_upon_Hull.secret]] 
 

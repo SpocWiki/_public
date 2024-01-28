@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 48.1 , 21.2 ] 
 type: geo-Region
 title: Borsod-Abaúj-Zemplén
@@ -40,10 +40,11 @@ markerFolder: ./Borsod-Abaúj-Zemplén/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Hungary/Counties/Borsod-Abaúj-Zemplén.md|Borsod-Abaúj-Zemplén]] 
-- [[../../../../_internal/geo/Continent/Europe/Hungary/Counties/Borsod-Abaúj-Zemplén.internal|Borsod-Abaúj-Zemplén.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Hungary/Counties/Borsod-Abaúj-Zemplén.protect|Borsod-Abaúj-Zemplén.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Hungary/Counties/Borsod-Abaúj-Zemplén.private|Borsod-Abaúj-Zemplén.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Hungary/Counties/Borsod-Abaúj-Zemplén.personal|Borsod-Abaúj-Zemplén.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Hungary/Counties/Borsod-Abaúj-Zemplén.secret|Borsod-Abaúj-Zemplén.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Hungary/Counties/Borsod-Abaúj-Zemplén|Borsod-Abaúj-Zemplén]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Hungary/Counties/Borsod-Abaúj-Zemplén.public|Borsod-Abaúj-Zemplén.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Hungary/Counties/Borsod-Abaúj-Zemplén.internal|Borsod-Abaúj-Zemplén.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Hungary/Counties/Borsod-Abaúj-Zemplén.protect|Borsod-Abaúj-Zemplén.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Hungary/Counties/Borsod-Abaúj-Zemplén.private|Borsod-Abaúj-Zemplén.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Hungary/Counties/Borsod-Abaúj-Zemplén.personal|Borsod-Abaúj-Zemplén.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Hungary/Counties/Borsod-Abaúj-Zemplén.secret|Borsod-Abaúj-Zemplén.secret]] 
 

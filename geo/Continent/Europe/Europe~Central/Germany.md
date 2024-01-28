@@ -1,5 +1,5 @@
 ---
-location: [50.8699,10.1207]
+location: [50.8699,10.1207] 
 type: Country
 title: Deutschland (Germany)
 SpocWebEntityId: 26878
@@ -40,76 +40,76 @@ expiryDate:
 
 
 
-[	ISO4217-currency_alphabetic	 :: EUR ]
-[	ISO4217-currency_name	 :: Euro ]
-[	ISO4217-currency_numeric	 :: 978 ]
-[	ISO4217-currency_minor_unit	 :: 2 ]
-[	ISO4217-currency_country_name	 :: GERMANY ]
+[	ISO4217-currency_alphabetic	 :: EUR ] 
+[	ISO4217-currency_name	 :: Euro ] 
+[	ISO4217-currency_numeric	 :: 978 ] 
+[	ISO4217-currency_minor_unit	 :: 2 ] 
+[	ISO4217-currency_country_name	 :: GERMANY ] 
 
-[	Telephone	 :: 49 ]
+[	Telephone	 :: 49 ] 
 
-[	Global	 :: True ]
-[	Global_Name	 :: World ]
+[	Global	 :: True ] 
+[	Global_Name	 :: World ] 
 
-[	name	 :: Germany ]
-[	name-en	 :: Germany ]
-[	name-es	 :: Alemania ]
-[	name-fr	 :: Allemagne ]
-[	name-cn	 :: 德国 ]
-[	name-ar	 :: ألمانيا ]
-[	name-ru	 :: Германия ]
+[	name	 :: Germany ] 
+[	name-en	 :: Germany ] 
+[	name-es	 :: Alemania ] 
+[	name-fr	 :: Allemagne ] 
+[	name-cn	 :: 德国 ] 
+[	name-ar	 :: ألمانيا ] 
+[	name-ru	 :: Германия ] 
 
-[	CLDR_display_name	 :: Germany ]
+[	CLDR_display_name	 :: Germany ] 
 
-[	UNTERM_English	 :: Germany ]
-[	UNTERM_English_Formal	 :: the Federal Republic of Germany ]
-[	UNTERM_Spanish_Formal	 :: la República Federal de Alemania ]
-[	UNTERM_Spanish	 :: Alemania ]
-[	UNTERM_French	 :: Allemagne (l') [fém.] ]
-[	UNTERM_Arabic	 :: ألمانيا ]
-[	UNTERM_Arabic_Formal	 :: جمهورية ألمانيا الاتحادية ]
-[	UNTERM_Chinese	 :: 德国 ]
-[	UNTERM_Chinese_Formal	 :: 德意志联邦共和国 ]
-[	UNTERM_French_Formal	 :: la République fédérale d'Allemagne ]
-[	UNTERM_Russian	 :: Германия ]
-[	UNTERM_Russian_Formal	 :: Федеративная Республика Германия ]
+[	UNTERM_English	 :: Germany ] 
+[	UNTERM_English_Formal	 :: the Federal Republic of Germany ] 
+[	UNTERM_Spanish_Formal	 :: la República Federal de Alemania ] 
+[	UNTERM_Spanish	 :: Alemania ] 
+[	UNTERM_French	 :: Allemagne (l') [fém.] ] 
+[	UNTERM_Arabic	 :: ألمانيا ] 
+[	UNTERM_Arabic_Formal	 :: جمهورية ألمانيا الاتحادية ] 
+[	UNTERM_Chinese	 :: 德国 ] 
+[	UNTERM_Chinese_Formal	 :: 德意志联邦共和国 ] 
+[	UNTERM_French_Formal	 :: la République fédérale d'Allemagne ] 
+[	UNTERM_Russian	 :: Германия ] 
+[	UNTERM_Russian_Formal	 :: Федеративная Республика Германия ] 
 
-[	Region_Name	 :: [[Europe]] ]
-[	Intermediate_Region_Name	 :: [[]] ]
-[	Sub-region_Name	 :: [[Western Europe]] ]
+Region_Name ::  [[Europe]] ] 
+Intermediate_Region_Name ::  [[]] ] 
+Sub-region_Name ::  [[Western Europe]] ] 
 
-[	Region	 :: 150 ]
-[	Intermediate_Region	 ::  ]
-[	Sub-region	 :: 155 ]
+[	Region	 :: 150 ] 
+[	Intermediate_Region	 ::  ] 
+[	Sub-region	 :: 155 ] 
 
-[	Geoname-ID	 :: 2921044 ]
-[	FIPS	 :: GM ]
-[	FIFA	 :: GER ]
-[	IOC	 :: GER ]
-[	MARC	 :: gw ]
-[	GAUL	 :: 93 ]
-[	WMO	 :: DL ]
-[	ITU	 :: D ]
-[	DS	 :: D ]
-[	TLD	 :: .de ]
-[	EDGAR	 :: 2M ]
-[	M49	 :: 276 ]
+[	Geoname-ID	 :: 2921044 ] 
+[	FIPS	 :: GM ] 
+[	FIFA	 :: GER ] 
+[	IOC	 :: GER ] 
+[	MARC	 :: gw ] 
+[	GAUL	 :: 93 ] 
+[	WMO	 :: DL ] 
+[	ITU	 :: D ] 
+[	DS	 :: D ] 
+[	TLD	 :: .de ] 
+[	EDGAR	 :: 2M ] 
+[	M49	 :: 276 ] 
 
-[	is_independent	 :: Yes ]
-[	Developed_/_Developing_Countries	 :: Developed ]
-[	Land_Locked_Developing_Countries_(LLDC)	 ::  ]
-[	Least_Developed_Countries_(LDC)	 ::  ]
-[	Small_Island_Developing_States_(SIDS)	 ::  ]
+[	is_independent	 :: Yes ] 
+[	Developed_/_Developing_Countries	 :: Developed ] 
+[	Land_Locked_Developing_Countries_(LLDC)	 ::  ] 
+[	Least_Developed_Countries_(LDC)	 ::  ] 
+[	Small_Island_Developing_States_(SIDS)	 ::  ] 
 
-[	ISO3166-1-numeric	 :: 276 ]
+[	ISO3166-1-numeric	 :: 276 ] 
 
 
 
 
 # Germany (Deutschland)
 
-[ISO2::DE]
-[ISO3::DEU]
+[ISO2::DE] 
+[ISO3::DEU] 
 
 ```leaflet
 id: Germany
@@ -120,24 +120,24 @@ geojsonFolder: ./Germany.public//
 markerFolder: ./Germany.public/
 ```
 
-[name-en::Germany]
+[name-en::Germany] 
 
-![[Coat_of_arms_of_Germany.svg|350]]
+![[Coat_of_arms_of_Germany.svg|350]] 
 
-![[Anthem-Germany.mp3]]
-![[Flag_of_Germany.svg|350]]
+![[Anthem-Germany.mp3]] 
+![[Flag_of_Germany.svg|350]] 
 
 
-[name-de::Deutschland]
-[Area-Total::357042]
-[Area-Land::349270]
-[Continent::[[Europe]]]
-[VehicleCode::D]
-[Capital::[[Berlin]]]
-[Alcohol-l::12.8]
-[Language-Id::497]
-[geo-lon::10.1207]
-[geo-lat::50.8699]
+[name-de::Deutschland] 
+[Area-Total::357042] 
+[Area-Land::349270] 
+Continent :: [[Europe]]  
+[VehicleCode::D] 
+Capital :: [[Berlin]]  
+[Alcohol-l::12.8] 
+[Language-Id::497] 
+[geo-lon::10.1207] 
+[geo-lat::50.8699] 
 
 
 

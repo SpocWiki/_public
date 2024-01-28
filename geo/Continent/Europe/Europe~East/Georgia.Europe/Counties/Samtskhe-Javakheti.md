@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 41.5 , 43.3 ] 
 type: geo-Region
 title: Samtskhe-Javakheti
@@ -40,10 +40,11 @@ markerFolder: ./Samtskhe-Javakheti/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Georgia~Europe/Counties/Samtskhe-Javakheti.md|Samtskhe-Javakheti]] 
-- [[../../../../_internal/geo/Continent/Europe/Georgia~Europe/Counties/Samtskhe-Javakheti.internal|Samtskhe-Javakheti.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Georgia~Europe/Counties/Samtskhe-Javakheti.protect|Samtskhe-Javakheti.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Georgia~Europe/Counties/Samtskhe-Javakheti.private|Samtskhe-Javakheti.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Georgia~Europe/Counties/Samtskhe-Javakheti.personal|Samtskhe-Javakheti.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Georgia~Europe/Counties/Samtskhe-Javakheti.secret|Samtskhe-Javakheti.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Georgia~Europe/Counties/Samtskhe-Javakheti|Samtskhe-Javakheti]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Georgia~Europe/Counties/Samtskhe-Javakheti.public|Samtskhe-Javakheti.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Georgia~Europe/Counties/Samtskhe-Javakheti.internal|Samtskhe-Javakheti.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Georgia~Europe/Counties/Samtskhe-Javakheti.protect|Samtskhe-Javakheti.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Georgia~Europe/Counties/Samtskhe-Javakheti.private|Samtskhe-Javakheti.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Georgia~Europe/Counties/Samtskhe-Javakheti.personal|Samtskhe-Javakheti.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Georgia~Europe/Counties/Samtskhe-Javakheti.secret|Samtskhe-Javakheti.secret]] 
 

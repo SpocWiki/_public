@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 41.5 , 22.8 ] 
 type: geo-Region
 title: Bosilovo
@@ -40,10 +40,11 @@ markerFolder: ./Bosilovo/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Macedonia~North/Counties/Bosilovo.md|Bosilovo]] 
-- [[../../../../_internal/geo/Continent/Europe/Macedonia~North/Counties/Bosilovo.internal|Bosilovo.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Macedonia~North/Counties/Bosilovo.protect|Bosilovo.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Macedonia~North/Counties/Bosilovo.private|Bosilovo.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Macedonia~North/Counties/Bosilovo.personal|Bosilovo.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Macedonia~North/Counties/Bosilovo.secret|Bosilovo.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Macedonia~North/Counties/Bosilovo|Bosilovo]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Macedonia~North/Counties/Bosilovo.public|Bosilovo.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Macedonia~North/Counties/Bosilovo.internal|Bosilovo.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Macedonia~North/Counties/Bosilovo.protect|Bosilovo.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Macedonia~North/Counties/Bosilovo.private|Bosilovo.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Macedonia~North/Counties/Bosilovo.personal|Bosilovo.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Macedonia~North/Counties/Bosilovo.secret|Bosilovo.secret]] 
 

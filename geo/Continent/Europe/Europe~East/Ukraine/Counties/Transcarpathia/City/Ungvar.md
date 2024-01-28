@@ -1,5 +1,5 @@
-﻿---
-location: [48.62,22.32]
+---
+location: [48.62,22.32] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,29 +12,30 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::22.32]
-[geo-lat::48.62]
-[name::Ungvar]
-[State::]
-[Country::[[Hungary]]]
-[StateId::]
-[Population::]
-[Unknown::]
+[geo-lon::22.32] 
+[geo-lat::48.62] 
+[name::Ungvar] 
+State ::  
+Country :: [[Hungary]]  
+[StateId::] 
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Ungvar
-coordinates: [[Ungvar]]
-markerFile: [[Ungvar]]
+coordinates: [[Ungvar]] 
+markerFile: [[Ungvar]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_public/geo/Continent/Europe/Hungary/City/Ungvar.md|Ungvar]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Hungary/City/Ungvar.internal|Ungvar.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Hungary/City/Ungvar.protect|Ungvar.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Hungary/City/Ungvar.private|Ungvar.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Hungary/City/Ungvar.personal|Ungvar.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Hungary/City/Ungvar.secret|Ungvar.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Hungary/City/Ungvar|Ungvar]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Hungary/City/Ungvar.public|Ungvar.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Hungary/City/Ungvar.internal|Ungvar.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Hungary/City/Ungvar.protect|Ungvar.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Hungary/City/Ungvar.private|Ungvar.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Hungary/City/Ungvar.personal|Ungvar.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Hungary/City/Ungvar.secret|Ungvar.secret]] 

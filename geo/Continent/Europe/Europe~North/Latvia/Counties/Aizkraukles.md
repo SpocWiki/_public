@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 56.65 , 25.24 ] 
 type: geo-Region
 title: Aizkraukles
@@ -40,10 +40,11 @@ markerFolder: ./Aizkraukles/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Latvia/Counties/Aizkraukles.md|Aizkraukles]] 
-- [[../../../../_internal/geo/Continent/Europe/Latvia/Counties/Aizkraukles.internal|Aizkraukles.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Latvia/Counties/Aizkraukles.protect|Aizkraukles.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Latvia/Counties/Aizkraukles.private|Aizkraukles.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Latvia/Counties/Aizkraukles.personal|Aizkraukles.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Latvia/Counties/Aizkraukles.secret|Aizkraukles.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Latvia/Counties/Aizkraukles|Aizkraukles]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Latvia/Counties/Aizkraukles.public|Aizkraukles.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Latvia/Counties/Aizkraukles.internal|Aizkraukles.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Latvia/Counties/Aizkraukles.protect|Aizkraukles.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Latvia/Counties/Aizkraukles.private|Aizkraukles.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Latvia/Counties/Aizkraukles.personal|Aizkraukles.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Latvia/Counties/Aizkraukles.secret|Aizkraukles.secret]] 
 

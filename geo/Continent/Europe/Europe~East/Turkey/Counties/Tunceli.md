@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 39.2 , 39.4 ] 
 type: geo-Region
 title: Tunceli
@@ -40,10 +40,11 @@ markerFolder: ./Tunceli/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Turkey/Counties/Tunceli.md|Tunceli]] 
-- [[../../../../_internal/geo/Continent/Europe/Turkey/Counties/Tunceli.internal|Tunceli.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Turkey/Counties/Tunceli.protect|Tunceli.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Turkey/Counties/Tunceli.private|Tunceli.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Turkey/Counties/Tunceli.personal|Tunceli.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Turkey/Counties/Tunceli.secret|Tunceli.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Turkey/Counties/Tunceli|Tunceli]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Turkey/Counties/Tunceli.public|Tunceli.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Turkey/Counties/Tunceli.internal|Tunceli.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Turkey/Counties/Tunceli.protect|Tunceli.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Turkey/Counties/Tunceli.private|Tunceli.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Turkey/Counties/Tunceli.personal|Tunceli.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Turkey/Counties/Tunceli.secret|Tunceli.secret]] 
 

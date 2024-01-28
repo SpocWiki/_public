@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 53.4 , -2.9 ] 
 type: geo-Region
 title: Liverpool
@@ -40,10 +40,11 @@ markerFolder: ./Liverpool/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/United_Kingdom/England/Counties/Liverpool.md|Liverpool]] 
-- [[../../../../_internal/geo/Continent/Europe/United_Kingdom/England/Counties/Liverpool.internal|Liverpool.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/United_Kingdom/England/Counties/Liverpool.protect|Liverpool.protect]] 
-- [[../../../../_private/geo/Continent/Europe/United_Kingdom/England/Counties/Liverpool.private|Liverpool.private]] 
-- [[../../../../_personal/geo/Continent/Europe/United_Kingdom/England/Counties/Liverpool.personal|Liverpool.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/United_Kingdom/England/Counties/Liverpool.secret|Liverpool.secret]] 
+- [[../../../../../../../../_Standards/geo/Continent/Europe/Europe~North/United_Kingdom/England/Counties/Liverpool|Liverpool]] 
+- [[../../../../../../../../_public/geo/Continent/Europe/Europe~North/United_Kingdom/England/Counties/Liverpool.public|Liverpool.public]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/Europe~North/United_Kingdom/England/Counties/Liverpool.internal|Liverpool.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/Europe~North/United_Kingdom/England/Counties/Liverpool.protect|Liverpool.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/Europe~North/United_Kingdom/England/Counties/Liverpool.private|Liverpool.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/Europe~North/United_Kingdom/England/Counties/Liverpool.personal|Liverpool.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/Europe~North/United_Kingdom/England/Counties/Liverpool.secret|Liverpool.secret]] 
 

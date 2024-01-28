@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 53.4 , 22.7 ] 
 type: geo-Region
 title: Podlachian
@@ -40,10 +40,11 @@ markerFolder: ./Podlachian/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Poland/Counties/Podlachian.md|Podlachian]] 
-- [[../../../../_internal/geo/Continent/Europe/Poland/Counties/Podlachian.internal|Podlachian.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Poland/Counties/Podlachian.protect|Podlachian.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Poland/Counties/Podlachian.private|Podlachian.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Poland/Counties/Podlachian.personal|Podlachian.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Poland/Counties/Podlachian.secret|Podlachian.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Poland/Counties/Podlachian|Podlachian]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Poland/Counties/Podlachian.public|Podlachian.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Poland/Counties/Podlachian.internal|Podlachian.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Poland/Counties/Podlachian.protect|Podlachian.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Poland/Counties/Podlachian.private|Podlachian.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Poland/Counties/Podlachian.personal|Podlachian.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Poland/Counties/Podlachian.secret|Podlachian.secret]] 
 

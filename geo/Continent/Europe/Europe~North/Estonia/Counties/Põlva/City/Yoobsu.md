@@ -1,5 +1,5 @@
-﻿---
-location: [58.1,27.33]
+---
+location: [58.1,27.33] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,29 +12,30 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::27.33]
-[geo-lat::58.1]
-[name::Yoobsu]
-[State::]
-[Country::[[Russia]]]
-[StateId::]
-[Population::]
-[Unknown::]
+[geo-lon::27.33] 
+[geo-lat::58.1] 
+[name::Yoobsu] 
+State ::  
+Country :: [[Russia]]  
+[StateId::] 
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Yoobsu
-coordinates: [[Yoobsu]]
-markerFile: [[Yoobsu]]
+coordinates: [[Yoobsu]] 
+markerFile: [[Yoobsu]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_public/geo/Continent/Europe/Russia/City/Yoobsu.md|Yoobsu]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Yoobsu.internal|Yoobsu.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Yoobsu.protect|Yoobsu.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Yoobsu.private|Yoobsu.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Yoobsu.personal|Yoobsu.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Yoobsu.secret|Yoobsu.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Russia/City/Yoobsu|Yoobsu]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Russia/City/Yoobsu.public|Yoobsu.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Russia/City/Yoobsu.internal|Yoobsu.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Russia/City/Yoobsu.protect|Yoobsu.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Russia/City/Yoobsu.private|Yoobsu.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Russia/City/Yoobsu.personal|Yoobsu.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Russia/City/Yoobsu.secret|Yoobsu.secret]] 

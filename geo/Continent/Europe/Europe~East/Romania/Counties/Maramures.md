@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 47.7 , 24.2 ] 
 type: geo-Region
 title: Maramures
@@ -40,10 +40,11 @@ markerFolder: ./Maramures/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Romania/Counties/Maramures.md|Maramures]] 
-- [[../../../../_internal/geo/Continent/Europe/Romania/Counties/Maramures.internal|Maramures.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Romania/Counties/Maramures.protect|Maramures.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Romania/Counties/Maramures.private|Maramures.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Romania/Counties/Maramures.personal|Maramures.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Romania/Counties/Maramures.secret|Maramures.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Romania/Counties/Maramures|Maramures]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Romania/Counties/Maramures.public|Maramures.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Romania/Counties/Maramures.internal|Maramures.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Romania/Counties/Maramures.protect|Maramures.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Romania/Counties/Maramures.private|Maramures.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Romania/Counties/Maramures.personal|Maramures.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Romania/Counties/Maramures.secret|Maramures.secret]] 
 

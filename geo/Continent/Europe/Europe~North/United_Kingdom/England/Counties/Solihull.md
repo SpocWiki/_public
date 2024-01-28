@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 52.4 , -1.7 ] 
 type: geo-Region
 title: Solihull
@@ -40,10 +40,11 @@ markerFolder: ./Solihull/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/United_Kingdom/England/Counties/Solihull.md|Solihull]] 
-- [[../../../../_internal/geo/Continent/Europe/United_Kingdom/England/Counties/Solihull.internal|Solihull.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/United_Kingdom/England/Counties/Solihull.protect|Solihull.protect]] 
-- [[../../../../_private/geo/Continent/Europe/United_Kingdom/England/Counties/Solihull.private|Solihull.private]] 
-- [[../../../../_personal/geo/Continent/Europe/United_Kingdom/England/Counties/Solihull.personal|Solihull.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/United_Kingdom/England/Counties/Solihull.secret|Solihull.secret]] 
+- [[../../../../../../../../_Standards/geo/Continent/Europe/Europe~North/United_Kingdom/England/Counties/Solihull|Solihull]] 
+- [[../../../../../../../../_public/geo/Continent/Europe/Europe~North/United_Kingdom/England/Counties/Solihull.public|Solihull.public]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/Europe~North/United_Kingdom/England/Counties/Solihull.internal|Solihull.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/Europe~North/United_Kingdom/England/Counties/Solihull.protect|Solihull.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/Europe~North/United_Kingdom/England/Counties/Solihull.private|Solihull.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/Europe~North/United_Kingdom/England/Counties/Solihull.personal|Solihull.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/Europe~North/United_Kingdom/England/Counties/Solihull.secret|Solihull.secret]] 
 

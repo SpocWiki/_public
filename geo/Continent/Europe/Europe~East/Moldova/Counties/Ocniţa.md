@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 48.4 , 27.6 ] 
 type: geo-Region
 title: Ocniţa
@@ -40,10 +40,11 @@ markerFolder: ./Ocniţa/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Moldova/Counties/Ocniţa.md|Ocniţa]] 
-- [[../../../../_internal/geo/Continent/Europe/Moldova/Counties/Ocniţa.internal|Ocniţa.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Moldova/Counties/Ocniţa.protect|Ocniţa.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Moldova/Counties/Ocniţa.private|Ocniţa.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Moldova/Counties/Ocniţa.personal|Ocniţa.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Moldova/Counties/Ocniţa.secret|Ocniţa.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Moldova/Counties/Ocniţa|Ocniţa]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Moldova/Counties/Ocniţa.public|Ocniţa.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Moldova/Counties/Ocniţa.internal|Ocniţa.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Moldova/Counties/Ocniţa.protect|Ocniţa.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Moldova/Counties/Ocniţa.private|Ocniţa.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Moldova/Counties/Ocniţa.personal|Ocniţa.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Moldova/Counties/Ocniţa.secret|Ocniţa.secret]] 
 

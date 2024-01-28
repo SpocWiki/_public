@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 51.5226 , -0.1571 ] 
 type: geo-Region
 title: Line~Jubilee
@@ -52,33 +52,33 @@ markerFolder: ./Station/
 
 
 # Stations:
-1)[[Sub~Stanmore]]] 
-2)[[Sub~Canons_Park]]] 
-3)[[Sub~Queensbury]]] 
-4)[[Sub~Kingsbury]]] 
-5)[[Sub~Wembley_Park]]] 
-6)[[Sub~Neasden]]] 
-7)[[Sub~Dollis_Hill]]] 
-8)[[Sub~Willesden_Green]]] 
-9)[[Sub~Kilburn]]] 
-10)[[Sub~West_Hampstead]]] 
-11)[[Sub~Finchley_Road]]] 
-12)[[Sub~Swiss_Cottage]]] 
-13)[[Sub~St._John's_Wood]]] 
-14)[[Sub~Baker_Street]]] 
-15)[[Sub~Bond_Street]]] 
-16)[[Sub~Green_Park]]] 
-17)[[Sub~Westminster]]] 
-18)[[Sub~Waterloo]]] 
-19)[[Sub~Southwark]]] 
-20)[[Sub~London_Bridge]]] 
-21)[[Sub~Bermondsey]]] 
-22)[[Sub~Canada_Water]]] 
-23)[[Sub~Canary_Wharf]]] 
-24)[[Sub~North_Greenwich]]] 
-25)[[Sub~Canning_Town]]] 
-26)[[Sub~West_Ham]]] 
-27)[[Sub~Stratford]]] 
+1)[[Sub~Stanmore]]  
+2)[[Sub~Canons_Park]]  
+3)[[Sub~Queensbury]]  
+4)[[Sub~Kingsbury]]  
+5)[[Sub~Wembley_Park]]  
+6)[[Sub~Neasden]]  
+7)[[Sub~Dollis_Hill]]  
+8)[[Sub~Willesden_Green]]  
+9)[[Sub~Kilburn]]  
+10)[[Sub~West_Hampstead]]  
+11)[[Sub~Finchley_Road]]  
+12)[[Sub~Swiss_Cottage]]  
+13)[[Sub~St._John's_Wood]]  
+14)[[Sub~Baker_Street]]  
+15)[[Sub~Bond_Street]]  
+16)[[Sub~Green_Park]]  
+17)[[Sub~Westminster]]  
+18)[[Sub~Waterloo]]  
+19)[[Sub~Southwark]]  
+20)[[Sub~London_Bridge]]  
+21)[[Sub~Bermondsey]]  
+22)[[Sub~Canada_Water]]  
+23)[[Sub~Canary_Wharf]]  
+24)[[Sub~North_Greenwich]]  
+25)[[Sub~Canning_Town]]  
+26)[[Sub~West_Ham]]  
+27)[[Sub~Stratford]]  
 
 ```dataview
 TABLE WITHOUT ID "[" + geo-lon + ", " + geo-lat + "],"
@@ -88,9 +88,10 @@ FROM outgoing([[Line~Jubilee]])
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_public/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Line~Jubilee.md|Line~Jubilee]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Line~Jubilee.internal|Line~Jubilee.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Line~Jubilee.protect|Line~Jubilee.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Line~Jubilee.private|Line~Jubilee.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Line~Jubilee.personal|Line~Jubilee.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Line~Jubilee.secret|Line~Jubilee.secret]] 
+- [[../../../../../../../../_Standards/geo/Continent/Europe/Europe~North/United_Kingdom/London~Greater/Underground/Line~Jubilee|Line~Jubilee]] 
+- [[../../../../../../../../_public/geo/Continent/Europe/Europe~North/United_Kingdom/London~Greater/Underground/Line~Jubilee.public|Line~Jubilee.public]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/Europe~North/United_Kingdom/London~Greater/Underground/Line~Jubilee.internal|Line~Jubilee.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/Europe~North/United_Kingdom/London~Greater/Underground/Line~Jubilee.protect|Line~Jubilee.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/Europe~North/United_Kingdom/London~Greater/Underground/Line~Jubilee.private|Line~Jubilee.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/Europe~North/United_Kingdom/London~Greater/Underground/Line~Jubilee.personal|Line~Jubilee.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/Europe~North/United_Kingdom/London~Greater/Underground/Line~Jubilee.secret|Line~Jubilee.secret]] 

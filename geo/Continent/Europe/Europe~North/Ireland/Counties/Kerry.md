@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 52.1 , -9.5 ] 
 type: geo-Region
 title: Kerry
@@ -40,10 +40,11 @@ markerFolder: ./Kerry/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Ireland/Counties/Kerry.md|Kerry]] 
-- [[../../../../_internal/geo/Continent/Europe/Ireland/Counties/Kerry.internal|Kerry.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Ireland/Counties/Kerry.protect|Kerry.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Ireland/Counties/Kerry.private|Kerry.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Ireland/Counties/Kerry.personal|Kerry.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Ireland/Counties/Kerry.secret|Kerry.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Ireland/Counties/Kerry|Kerry]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Ireland/Counties/Kerry.public|Kerry.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Ireland/Counties/Kerry.internal|Kerry.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Ireland/Counties/Kerry.protect|Kerry.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Ireland/Counties/Kerry.private|Kerry.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Ireland/Counties/Kerry.personal|Kerry.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Ireland/Counties/Kerry.secret|Kerry.secret]] 
 

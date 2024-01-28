@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 44.562860418744116 , 24.332910156250023 ] 
 type: geo-Region
 title: Olt
@@ -40,10 +40,11 @@ markerFolder: ./Olt/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Romania/Counties/Olt.md|Olt]] 
-- [[../../../../_internal/geo/Continent/Europe/Romania/Counties/Olt.internal|Olt.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Romania/Counties/Olt.protect|Olt.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Romania/Counties/Olt.private|Olt.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Romania/Counties/Olt.personal|Olt.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Romania/Counties/Olt.secret|Olt.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Romania/Counties/Olt|Olt]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Romania/Counties/Olt.public|Olt.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Romania/Counties/Olt.internal|Olt.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Romania/Counties/Olt.protect|Olt.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Romania/Counties/Olt.private|Olt.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Romania/Counties/Olt.personal|Olt.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Romania/Counties/Olt.secret|Olt.secret]] 
 

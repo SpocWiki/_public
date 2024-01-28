@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 52.9 , -3.8 ] 
 type: geo-Region
 title: Gwynedd
@@ -40,10 +40,11 @@ markerFolder: ./Gwynedd/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/United_Kingdom/Wales/Counties/Gwynedd.md|Gwynedd]] 
-- [[../../../../_internal/geo/Continent/Europe/United_Kingdom/Wales/Counties/Gwynedd.internal|Gwynedd.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/United_Kingdom/Wales/Counties/Gwynedd.protect|Gwynedd.protect]] 
-- [[../../../../_private/geo/Continent/Europe/United_Kingdom/Wales/Counties/Gwynedd.private|Gwynedd.private]] 
-- [[../../../../_personal/geo/Continent/Europe/United_Kingdom/Wales/Counties/Gwynedd.personal|Gwynedd.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/United_Kingdom/Wales/Counties/Gwynedd.secret|Gwynedd.secret]] 
+- [[../../../../../../../../_Standards/geo/Continent/Europe/Europe~North/United_Kingdom/Wales/Counties/Gwynedd|Gwynedd]] 
+- [[../../../../../../../../_public/geo/Continent/Europe/Europe~North/United_Kingdom/Wales/Counties/Gwynedd.public|Gwynedd.public]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/Europe~North/United_Kingdom/Wales/Counties/Gwynedd.internal|Gwynedd.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/Europe~North/United_Kingdom/Wales/Counties/Gwynedd.protect|Gwynedd.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/Europe~North/United_Kingdom/Wales/Counties/Gwynedd.private|Gwynedd.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/Europe~North/United_Kingdom/Wales/Counties/Gwynedd.personal|Gwynedd.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/Europe~North/United_Kingdom/Wales/Counties/Gwynedd.secret|Gwynedd.secret]] 
 

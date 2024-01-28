@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 48.1 , 20.7 ] 
 type: geo-Region
 title: Miskolc
@@ -40,10 +40,11 @@ markerFolder: ./Miskolc/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Hungary/Counties/Miskolc.md|Miskolc]] 
-- [[../../../../_internal/geo/Continent/Europe/Hungary/Counties/Miskolc.internal|Miskolc.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Hungary/Counties/Miskolc.protect|Miskolc.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Hungary/Counties/Miskolc.private|Miskolc.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Hungary/Counties/Miskolc.personal|Miskolc.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Hungary/Counties/Miskolc.secret|Miskolc.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Hungary/Counties/Miskolc|Miskolc]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Hungary/Counties/Miskolc.public|Miskolc.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Hungary/Counties/Miskolc.internal|Miskolc.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Hungary/Counties/Miskolc.protect|Miskolc.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Hungary/Counties/Miskolc.private|Miskolc.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Hungary/Counties/Miskolc.personal|Miskolc.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Hungary/Counties/Miskolc.secret|Miskolc.secret]] 
 

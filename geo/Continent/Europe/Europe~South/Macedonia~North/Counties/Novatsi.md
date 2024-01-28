@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 41 , 21.6 ] 
 type: geo-Region
 title: Novatsi
@@ -40,10 +40,11 @@ markerFolder: ./Novatsi/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Macedonia~North/Counties/Novatsi.md|Novatsi]] 
-- [[../../../../_internal/geo/Continent/Europe/Macedonia~North/Counties/Novatsi.internal|Novatsi.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Macedonia~North/Counties/Novatsi.protect|Novatsi.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Macedonia~North/Counties/Novatsi.private|Novatsi.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Macedonia~North/Counties/Novatsi.personal|Novatsi.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Macedonia~North/Counties/Novatsi.secret|Novatsi.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Macedonia~North/Counties/Novatsi|Novatsi]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Macedonia~North/Counties/Novatsi.public|Novatsi.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Macedonia~North/Counties/Novatsi.internal|Novatsi.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Macedonia~North/Counties/Novatsi.protect|Novatsi.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Macedonia~North/Counties/Novatsi.private|Novatsi.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Macedonia~North/Counties/Novatsi.personal|Novatsi.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Macedonia~North/Counties/Novatsi.secret|Novatsi.secret]] 
 

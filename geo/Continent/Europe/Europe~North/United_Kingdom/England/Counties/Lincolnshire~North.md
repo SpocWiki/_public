@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 53.6 , -0.6 ] 
 type: geo-Region
 title: Lincolnshire~North
@@ -40,10 +40,11 @@ markerFolder: ./Lincolnshire~North/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/United_Kingdom/England/Counties/Lincolnshire~North.md|Lincolnshire~North]] 
-- [[../../../../_internal/geo/Continent/Europe/United_Kingdom/England/Counties/Lincolnshire~North.internal|Lincolnshire~North.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/United_Kingdom/England/Counties/Lincolnshire~North.protect|Lincolnshire~North.protect]] 
-- [[../../../../_private/geo/Continent/Europe/United_Kingdom/England/Counties/Lincolnshire~North.private|Lincolnshire~North.private]] 
-- [[../../../../_personal/geo/Continent/Europe/United_Kingdom/England/Counties/Lincolnshire~North.personal|Lincolnshire~North.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/United_Kingdom/England/Counties/Lincolnshire~North.secret|Lincolnshire~North.secret]] 
+- [[../../../../../../../../_Standards/geo/Continent/Europe/Europe~North/United_Kingdom/England/Counties/Lincolnshire~North|Lincolnshire~North]] 
+- [[../../../../../../../../_public/geo/Continent/Europe/Europe~North/United_Kingdom/England/Counties/Lincolnshire~North.public|Lincolnshire~North.public]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/Europe~North/United_Kingdom/England/Counties/Lincolnshire~North.internal|Lincolnshire~North.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/Europe~North/United_Kingdom/England/Counties/Lincolnshire~North.protect|Lincolnshire~North.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/Europe~North/United_Kingdom/England/Counties/Lincolnshire~North.private|Lincolnshire~North.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/Europe~North/United_Kingdom/England/Counties/Lincolnshire~North.personal|Lincolnshire~North.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/Europe~North/United_Kingdom/England/Counties/Lincolnshire~North.secret|Lincolnshire~North.secret]] 
 

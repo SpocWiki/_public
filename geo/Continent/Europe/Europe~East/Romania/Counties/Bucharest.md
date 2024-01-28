@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 44.4 , 26.1 ] 
 type: geo-Region
 title: Bucharest
@@ -40,10 +40,11 @@ markerFolder: ./Bucharest/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Romania/Counties/Bucharest.md|Bucharest]] 
-- [[../../../../_internal/geo/Continent/Europe/Romania/Counties/Bucharest.internal|Bucharest.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Romania/Counties/Bucharest.protect|Bucharest.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Romania/Counties/Bucharest.private|Bucharest.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Romania/Counties/Bucharest.personal|Bucharest.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Romania/Counties/Bucharest.secret|Bucharest.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Romania/Counties/Bucharest|Bucharest]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Romania/Counties/Bucharest.public|Bucharest.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Romania/Counties/Bucharest.internal|Bucharest.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Romania/Counties/Bucharest.protect|Bucharest.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Romania/Counties/Bucharest.private|Bucharest.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Romania/Counties/Bucharest.personal|Bucharest.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Romania/Counties/Bucharest.secret|Bucharest.secret]] 
 

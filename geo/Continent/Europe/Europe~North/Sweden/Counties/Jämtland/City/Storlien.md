@@ -1,5 +1,5 @@
-﻿---
-location: [63.32,12.1]
+---
+location: [63.32,12.1] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,29 +12,30 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::12.1]
-[geo-lat::63.32]
-[name::Storlien]
-[State::]
-[Country::[[Sweden]]]
-[StateId::]
-[Population::]
-[Unknown::]
+[geo-lon::12.1] 
+[geo-lat::63.32] 
+[name::Storlien] 
+State ::  
+Country :: [[Sweden]]  
+[StateId::] 
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Storlien
-coordinates: [[Storlien]]
-markerFile: [[Storlien]]
+coordinates: [[Storlien]] 
+markerFile: [[Storlien]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_public/geo/Continent/Europe/Sweden/City/Storlien.md|Storlien]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Sweden/City/Storlien.internal|Storlien.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Sweden/City/Storlien.protect|Storlien.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Sweden/City/Storlien.private|Storlien.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Sweden/City/Storlien.personal|Storlien.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Sweden/City/Storlien.secret|Storlien.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Sweden/City/Storlien|Storlien]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Sweden/City/Storlien.public|Storlien.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Sweden/City/Storlien.internal|Storlien.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Sweden/City/Storlien.protect|Storlien.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Sweden/City/Storlien.private|Storlien.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Sweden/City/Storlien.personal|Storlien.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Sweden/City/Storlien.secret|Storlien.secret]] 

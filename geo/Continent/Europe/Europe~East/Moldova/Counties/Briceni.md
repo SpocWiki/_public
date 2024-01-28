@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 48.3 , 27 ] 
 type: geo-Region
 title: Briceni
@@ -40,10 +40,11 @@ markerFolder: ./Briceni/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Moldova/Counties/Briceni.md|Briceni]] 
-- [[../../../../_internal/geo/Continent/Europe/Moldova/Counties/Briceni.internal|Briceni.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Moldova/Counties/Briceni.protect|Briceni.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Moldova/Counties/Briceni.private|Briceni.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Moldova/Counties/Briceni.personal|Briceni.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Moldova/Counties/Briceni.secret|Briceni.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Moldova/Counties/Briceni|Briceni]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Moldova/Counties/Briceni.public|Briceni.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Moldova/Counties/Briceni.internal|Briceni.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Moldova/Counties/Briceni.protect|Briceni.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Moldova/Counties/Briceni.private|Briceni.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Moldova/Counties/Briceni.personal|Briceni.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Moldova/Counties/Briceni.secret|Briceni.secret]] 
 

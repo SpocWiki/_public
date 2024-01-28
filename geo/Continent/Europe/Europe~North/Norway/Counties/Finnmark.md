@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 69.8 , 24.5 ] 
 type: geo-Region
 title: Finnmark
@@ -40,10 +40,11 @@ markerFolder: ./Finnmark/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Norway/Counties/Finnmark.md|Finnmark]] 
-- [[../../../../_internal/geo/Continent/Europe/Norway/Counties/Finnmark.internal|Finnmark.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Norway/Counties/Finnmark.protect|Finnmark.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Norway/Counties/Finnmark.private|Finnmark.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Norway/Counties/Finnmark.personal|Finnmark.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Norway/Counties/Finnmark.secret|Finnmark.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Norway/Counties/Finnmark|Finnmark]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Norway/Counties/Finnmark.public|Finnmark.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Norway/Counties/Finnmark.internal|Finnmark.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Norway/Counties/Finnmark.protect|Finnmark.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Norway/Counties/Finnmark.private|Finnmark.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Norway/Counties/Finnmark.personal|Finnmark.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Norway/Counties/Finnmark.secret|Finnmark.secret]] 
 

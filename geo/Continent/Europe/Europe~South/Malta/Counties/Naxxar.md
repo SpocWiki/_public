@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 35.93 , 14.44 ] 
 type: geo-Region
 title: Naxxar
@@ -40,10 +40,11 @@ markerFolder: ./Naxxar/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Malta/Counties/Naxxar.md|Naxxar]] 
-- [[../../../../_internal/geo/Continent/Europe/Malta/Counties/Naxxar.internal|Naxxar.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Malta/Counties/Naxxar.protect|Naxxar.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Malta/Counties/Naxxar.private|Naxxar.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Malta/Counties/Naxxar.personal|Naxxar.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Malta/Counties/Naxxar.secret|Naxxar.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Malta/Counties/Naxxar|Naxxar]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Malta/Counties/Naxxar.public|Naxxar.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Malta/Counties/Naxxar.internal|Naxxar.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Malta/Counties/Naxxar.protect|Naxxar.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Malta/Counties/Naxxar.private|Naxxar.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Malta/Counties/Naxxar.personal|Naxxar.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Malta/Counties/Naxxar.secret|Naxxar.secret]] 
 

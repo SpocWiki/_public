@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 53.3 , -8.9 ] 
 type: geo-Region
 title: Galway
@@ -40,10 +40,11 @@ markerFolder: ./Galway/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Ireland/Counties/Galway.md|Galway]] 
-- [[../../../../_internal/geo/Continent/Europe/Ireland/Counties/Galway.internal|Galway.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Ireland/Counties/Galway.protect|Galway.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Ireland/Counties/Galway.private|Galway.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Ireland/Counties/Galway.personal|Galway.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Ireland/Counties/Galway.secret|Galway.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Ireland/Counties/Galway|Galway]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Ireland/Counties/Galway.public|Galway.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Ireland/Counties/Galway.internal|Galway.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Ireland/Counties/Galway.protect|Galway.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Ireland/Counties/Galway.private|Galway.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Ireland/Counties/Galway.personal|Galway.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Ireland/Counties/Galway.secret|Galway.secret]] 
 

@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 53 , -6.4 ] 
 type: geo-Region
 title: Wicklow
@@ -40,10 +40,11 @@ markerFolder: ./Wicklow/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Ireland/Counties/Wicklow.md|Wicklow]] 
-- [[../../../../_internal/geo/Continent/Europe/Ireland/Counties/Wicklow.internal|Wicklow.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Ireland/Counties/Wicklow.protect|Wicklow.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Ireland/Counties/Wicklow.private|Wicklow.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Ireland/Counties/Wicklow.personal|Wicklow.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Ireland/Counties/Wicklow.secret|Wicklow.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Ireland/Counties/Wicklow|Wicklow]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Ireland/Counties/Wicklow.public|Wicklow.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Ireland/Counties/Wicklow.internal|Wicklow.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Ireland/Counties/Wicklow.protect|Wicklow.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Ireland/Counties/Wicklow.private|Wicklow.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Ireland/Counties/Wicklow.personal|Wicklow.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Ireland/Counties/Wicklow.secret|Wicklow.secret]] 
 

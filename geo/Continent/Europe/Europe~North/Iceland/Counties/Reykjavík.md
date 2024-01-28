@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 64.1 , -21.7 ] 
 type: geo-Region
 title: Reykjavík
@@ -40,10 +40,11 @@ markerFolder: ./Reykjavík/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Iceland/Counties/Reykjavík.md|Reykjavík]] 
-- [[../../../../_internal/geo/Continent/Europe/Iceland/Counties/Reykjavík.internal|Reykjavík.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Iceland/Counties/Reykjavík.protect|Reykjavík.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Iceland/Counties/Reykjavík.private|Reykjavík.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Iceland/Counties/Reykjavík.personal|Reykjavík.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Iceland/Counties/Reykjavík.secret|Reykjavík.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Iceland/Counties/Reykjavík|Reykjavík]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Iceland/Counties/Reykjavík.public|Reykjavík.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Iceland/Counties/Reykjavík.internal|Reykjavík.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Iceland/Counties/Reykjavík.protect|Reykjavík.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Iceland/Counties/Reykjavík.private|Reykjavík.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Iceland/Counties/Reykjavík.personal|Reykjavík.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Iceland/Counties/Reykjavík.secret|Reykjavík.secret]] 
 

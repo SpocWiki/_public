@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 57.7 , 24.4 ] 
 type: geo-Region
 title: Salacgrivas
@@ -40,10 +40,11 @@ markerFolder: ./Salacgrivas/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Latvia/Counties/Salacgrivas.md|Salacgrivas]] 
-- [[../../../../_internal/geo/Continent/Europe/Latvia/Counties/Salacgrivas.internal|Salacgrivas.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Latvia/Counties/Salacgrivas.protect|Salacgrivas.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Latvia/Counties/Salacgrivas.private|Salacgrivas.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Latvia/Counties/Salacgrivas.personal|Salacgrivas.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Latvia/Counties/Salacgrivas.secret|Salacgrivas.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Latvia/Counties/Salacgrivas|Salacgrivas]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Latvia/Counties/Salacgrivas.public|Salacgrivas.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Latvia/Counties/Salacgrivas.internal|Salacgrivas.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Latvia/Counties/Salacgrivas.protect|Salacgrivas.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Latvia/Counties/Salacgrivas.private|Salacgrivas.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Latvia/Counties/Salacgrivas.personal|Salacgrivas.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Latvia/Counties/Salacgrivas.secret|Salacgrivas.secret]] 
 

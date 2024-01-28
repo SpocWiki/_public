@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 53.7 , -2.5 ] 
 type: geo-Region
 title: Blackburn_with_Darwen
@@ -40,10 +40,11 @@ markerFolder: ./Blackburn_with_Darwen/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/United_Kingdom/England/Counties/Blackburn_with_Darwen.md|Blackburn_with_Darwen]] 
-- [[../../../../_internal/geo/Continent/Europe/United_Kingdom/England/Counties/Blackburn_with_Darwen.internal|Blackburn_with_Darwen.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/United_Kingdom/England/Counties/Blackburn_with_Darwen.protect|Blackburn_with_Darwen.protect]] 
-- [[../../../../_private/geo/Continent/Europe/United_Kingdom/England/Counties/Blackburn_with_Darwen.private|Blackburn_with_Darwen.private]] 
-- [[../../../../_personal/geo/Continent/Europe/United_Kingdom/England/Counties/Blackburn_with_Darwen.personal|Blackburn_with_Darwen.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/United_Kingdom/England/Counties/Blackburn_with_Darwen.secret|Blackburn_with_Darwen.secret]] 
+- [[../../../../../../../../_Standards/geo/Continent/Europe/Europe~North/United_Kingdom/England/Counties/Blackburn_with_Darwen|Blackburn_with_Darwen]] 
+- [[../../../../../../../../_public/geo/Continent/Europe/Europe~North/United_Kingdom/England/Counties/Blackburn_with_Darwen.public|Blackburn_with_Darwen.public]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/Europe~North/United_Kingdom/England/Counties/Blackburn_with_Darwen.internal|Blackburn_with_Darwen.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/Europe~North/United_Kingdom/England/Counties/Blackburn_with_Darwen.protect|Blackburn_with_Darwen.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/Europe~North/United_Kingdom/England/Counties/Blackburn_with_Darwen.private|Blackburn_with_Darwen.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/Europe~North/United_Kingdom/England/Counties/Blackburn_with_Darwen.personal|Blackburn_with_Darwen.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/Europe~North/United_Kingdom/England/Counties/Blackburn_with_Darwen.secret|Blackburn_with_Darwen.secret]] 
 

@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 41.4 , 22.9 ] 
 type: geo-Region
 title: Novo_Selo
@@ -40,10 +40,11 @@ markerFolder: ./Novo_Selo/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Macedonia~North/Counties/Novo_Selo.md|Novo_Selo]] 
-- [[../../../../_internal/geo/Continent/Europe/Macedonia~North/Counties/Novo_Selo.internal|Novo_Selo.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Macedonia~North/Counties/Novo_Selo.protect|Novo_Selo.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Macedonia~North/Counties/Novo_Selo.private|Novo_Selo.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Macedonia~North/Counties/Novo_Selo.personal|Novo_Selo.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Macedonia~North/Counties/Novo_Selo.secret|Novo_Selo.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Macedonia~North/Counties/Novo_Selo|Novo_Selo]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Macedonia~North/Counties/Novo_Selo.public|Novo_Selo.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Macedonia~North/Counties/Novo_Selo.internal|Novo_Selo.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Macedonia~North/Counties/Novo_Selo.protect|Novo_Selo.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Macedonia~North/Counties/Novo_Selo.private|Novo_Selo.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Macedonia~North/Counties/Novo_Selo.personal|Novo_Selo.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Macedonia~North/Counties/Novo_Selo.secret|Novo_Selo.secret]] 
 

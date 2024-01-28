@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 57.4 , 18.5 ] 
 type: geo-Region
 title: Gotland
@@ -40,10 +40,11 @@ markerFolder: ./Gotland/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Sweden/Counties/Gotland.md|Gotland]] 
-- [[../../../../_internal/geo/Continent/Europe/Sweden/Counties/Gotland.internal|Gotland.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Sweden/Counties/Gotland.protect|Gotland.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Sweden/Counties/Gotland.private|Gotland.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Sweden/Counties/Gotland.personal|Gotland.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Sweden/Counties/Gotland.secret|Gotland.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Sweden/Counties/Gotland|Gotland]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Sweden/Counties/Gotland.public|Gotland.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Sweden/Counties/Gotland.internal|Gotland.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Sweden/Counties/Gotland.protect|Gotland.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Sweden/Counties/Gotland.private|Gotland.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Sweden/Counties/Gotland.personal|Gotland.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Sweden/Counties/Gotland.secret|Gotland.secret]] 
 

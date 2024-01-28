@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 41.6 , 20.2 ] 
 type: geo-Region
 title: Dibër
@@ -40,10 +40,11 @@ markerFolder: ./Dibër/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Albania/Counties/Dibër.md|Dibër]] 
-- [[../../../../_internal/geo/Continent/Europe/Albania/Counties/Dibër.internal|Dibër.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Albania/Counties/Dibër.protect|Dibër.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Albania/Counties/Dibër.private|Dibër.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Albania/Counties/Dibër.personal|Dibër.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Albania/Counties/Dibër.secret|Dibër.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Albania/Counties/Dibër|Dibër]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Albania/Counties/Dibër.public|Dibër.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Albania/Counties/Dibër.internal|Dibër.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Albania/Counties/Dibër.protect|Dibër.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Albania/Counties/Dibër.private|Dibër.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Albania/Counties/Dibër.personal|Dibër.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Albania/Counties/Dibër.secret|Dibër.secret]] 
 

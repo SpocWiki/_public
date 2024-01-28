@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 42.2 , 21.2 ] 
 type: geo-Region
 title: Kačanik
@@ -40,10 +40,11 @@ markerFolder: ./Kačanik/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Kosovo/Counties/Kačanik.md|Kačanik]] 
-- [[../../../../_internal/geo/Continent/Europe/Kosovo/Counties/Kačanik.internal|Kačanik.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Kosovo/Counties/Kačanik.protect|Kačanik.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Kosovo/Counties/Kačanik.private|Kačanik.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Kosovo/Counties/Kačanik.personal|Kačanik.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Kosovo/Counties/Kačanik.secret|Kačanik.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Kosovo/Counties/Kačanik|Kačanik]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Kosovo/Counties/Kačanik.public|Kačanik.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Kosovo/Counties/Kačanik.internal|Kačanik.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Kosovo/Counties/Kačanik.protect|Kačanik.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Kosovo/Counties/Kačanik.private|Kačanik.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Kosovo/Counties/Kačanik.personal|Kačanik.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Kosovo/Counties/Kačanik.secret|Kačanik.secret]] 
 

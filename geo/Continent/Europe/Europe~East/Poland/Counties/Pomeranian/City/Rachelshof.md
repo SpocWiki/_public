@@ -1,5 +1,5 @@
-﻿---
-location: [53.78,18.95]
+---
+location: [53.78,18.95] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,29 +12,30 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::18.95]
-[geo-lat::53.78]
-[name::Rachelshof]
-[State::]
-[Country::[[Poland]]]
-[StateId::]
-[Population::]
-[Unknown::]
+[geo-lon::18.95] 
+[geo-lat::53.78] 
+[name::Rachelshof] 
+State ::  
+Country :: [[Poland]]  
+[StateId::] 
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Rachelshof
-coordinates: [[Rachelshof]]
-markerFile: [[Rachelshof]]
+coordinates: [[Rachelshof]] 
+markerFile: [[Rachelshof]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_public/geo/Continent/Europe/Poland/City/Rachelshof.md|Rachelshof]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Rachelshof.internal|Rachelshof.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Rachelshof.protect|Rachelshof.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Rachelshof.private|Rachelshof.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Rachelshof.personal|Rachelshof.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Rachelshof.secret|Rachelshof.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Poland/City/Rachelshof|Rachelshof]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Poland/City/Rachelshof.public|Rachelshof.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Poland/City/Rachelshof.internal|Rachelshof.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Poland/City/Rachelshof.protect|Rachelshof.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Poland/City/Rachelshof.private|Rachelshof.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Poland/City/Rachelshof.personal|Rachelshof.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Poland/City/Rachelshof.secret|Rachelshof.secret]] 

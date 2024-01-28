@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 67.8 , 26.6 ] 
 type: geo-Region
 title: Lapland
@@ -40,10 +40,11 @@ markerFolder: ./Lapland/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Finland/Counties/Lapland.md|Lapland]] 
-- [[../../../../_internal/geo/Continent/Europe/Finland/Counties/Lapland.internal|Lapland.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Finland/Counties/Lapland.protect|Lapland.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Finland/Counties/Lapland.private|Lapland.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Finland/Counties/Lapland.personal|Lapland.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Finland/Counties/Lapland.secret|Lapland.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Finland/Counties/Lapland|Lapland]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Finland/Counties/Lapland.public|Lapland.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Finland/Counties/Lapland.internal|Lapland.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Finland/Counties/Lapland.protect|Lapland.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Finland/Counties/Lapland.private|Lapland.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Finland/Counties/Lapland.personal|Lapland.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Finland/Counties/Lapland.secret|Lapland.secret]] 
 

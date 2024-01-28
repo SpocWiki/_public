@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 53.6 , -3.04 ] 
 type: geo-Region
 title: Sefton
@@ -40,10 +40,11 @@ markerFolder: ./Sefton/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/United_Kingdom/England/Counties/Sefton.md|Sefton]] 
-- [[../../../../_internal/geo/Continent/Europe/United_Kingdom/England/Counties/Sefton.internal|Sefton.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/United_Kingdom/England/Counties/Sefton.protect|Sefton.protect]] 
-- [[../../../../_private/geo/Continent/Europe/United_Kingdom/England/Counties/Sefton.private|Sefton.private]] 
-- [[../../../../_personal/geo/Continent/Europe/United_Kingdom/England/Counties/Sefton.personal|Sefton.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/United_Kingdom/England/Counties/Sefton.secret|Sefton.secret]] 
+- [[../../../../../../../../_Standards/geo/Continent/Europe/Europe~North/United_Kingdom/England/Counties/Sefton|Sefton]] 
+- [[../../../../../../../../_public/geo/Continent/Europe/Europe~North/United_Kingdom/England/Counties/Sefton.public|Sefton.public]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/Europe~North/United_Kingdom/England/Counties/Sefton.internal|Sefton.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/Europe~North/United_Kingdom/England/Counties/Sefton.protect|Sefton.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/Europe~North/United_Kingdom/England/Counties/Sefton.private|Sefton.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/Europe~North/United_Kingdom/England/Counties/Sefton.personal|Sefton.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/Europe~North/United_Kingdom/England/Counties/Sefton.secret|Sefton.secret]] 
 

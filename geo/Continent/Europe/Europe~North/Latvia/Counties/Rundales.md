@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 56.4 , 24 ] 
 type: geo-Region
 title: Rundales
@@ -40,10 +40,11 @@ markerFolder: ./Rundales/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Latvia/Counties/Rundales.md|Rundales]] 
-- [[../../../../_internal/geo/Continent/Europe/Latvia/Counties/Rundales.internal|Rundales.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Latvia/Counties/Rundales.protect|Rundales.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Latvia/Counties/Rundales.private|Rundales.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Latvia/Counties/Rundales.personal|Rundales.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Latvia/Counties/Rundales.secret|Rundales.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Latvia/Counties/Rundales|Rundales]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Latvia/Counties/Rundales.public|Rundales.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Latvia/Counties/Rundales.internal|Rundales.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Latvia/Counties/Rundales.protect|Rundales.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Latvia/Counties/Rundales.private|Rundales.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Latvia/Counties/Rundales.personal|Rundales.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Latvia/Counties/Rundales.secret|Rundales.secret]] 
 

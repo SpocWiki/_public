@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 46 , 28.5 ] 
 type: geo-Region
 title: Taraclia
@@ -40,10 +40,11 @@ markerFolder: ./Taraclia/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Moldova/Counties/Taraclia.md|Taraclia]] 
-- [[../../../../_internal/geo/Continent/Europe/Moldova/Counties/Taraclia.internal|Taraclia.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Moldova/Counties/Taraclia.protect|Taraclia.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Moldova/Counties/Taraclia.private|Taraclia.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Moldova/Counties/Taraclia.personal|Taraclia.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Moldova/Counties/Taraclia.secret|Taraclia.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Moldova/Counties/Taraclia|Taraclia]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Moldova/Counties/Taraclia.public|Taraclia.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Moldova/Counties/Taraclia.internal|Taraclia.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Moldova/Counties/Taraclia.protect|Taraclia.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Moldova/Counties/Taraclia.private|Taraclia.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Moldova/Counties/Taraclia.personal|Taraclia.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Moldova/Counties/Taraclia.secret|Taraclia.secret]] 
 

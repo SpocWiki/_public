@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 40.6 , 31.6 ] 
 type: geo-Region
 title: Bolu
@@ -40,10 +40,11 @@ markerFolder: ./Bolu/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Turkey/Counties/Bolu.md|Bolu]] 
-- [[../../../../_internal/geo/Continent/Europe/Turkey/Counties/Bolu.internal|Bolu.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Turkey/Counties/Bolu.protect|Bolu.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Turkey/Counties/Bolu.private|Bolu.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Turkey/Counties/Bolu.personal|Bolu.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Turkey/Counties/Bolu.secret|Bolu.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Turkey/Counties/Bolu|Bolu]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Turkey/Counties/Bolu.public|Bolu.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Turkey/Counties/Bolu.internal|Bolu.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Turkey/Counties/Bolu.protect|Bolu.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Turkey/Counties/Bolu.private|Bolu.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Turkey/Counties/Bolu.personal|Bolu.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Turkey/Counties/Bolu.secret|Bolu.secret]] 
 

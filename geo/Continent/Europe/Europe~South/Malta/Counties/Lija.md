@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 35.9 , 14.44 ] 
 type: geo-Region
 title: Lija
@@ -40,10 +40,11 @@ markerFolder: ./Lija/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Malta/Counties/Lija.md|Lija]] 
-- [[../../../../_internal/geo/Continent/Europe/Malta/Counties/Lija.internal|Lija.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Malta/Counties/Lija.protect|Lija.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Malta/Counties/Lija.private|Lija.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Malta/Counties/Lija.personal|Lija.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Malta/Counties/Lija.secret|Lija.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Malta/Counties/Lija|Lija]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Malta/Counties/Lija.public|Lija.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Malta/Counties/Lija.internal|Lija.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Malta/Counties/Lija.protect|Lija.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Malta/Counties/Lija.private|Lija.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Malta/Counties/Lija.personal|Lija.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Malta/Counties/Lija.secret|Lija.secret]] 
 

@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 42.5 , 20.2 ] 
 type: geo-Region
 title: Dečani
@@ -40,10 +40,11 @@ markerFolder: ./Dečani/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Kosovo/Counties/Dečani.md|Dečani]] 
-- [[../../../../_internal/geo/Continent/Europe/Kosovo/Counties/Dečani.internal|Dečani.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Kosovo/Counties/Dečani.protect|Dečani.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Kosovo/Counties/Dečani.private|Dečani.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Kosovo/Counties/Dečani.personal|Dečani.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Kosovo/Counties/Dečani.secret|Dečani.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Kosovo/Counties/Dečani|Dečani]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Kosovo/Counties/Dečani.public|Dečani.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Kosovo/Counties/Dečani.internal|Dečani.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Kosovo/Counties/Dečani.protect|Dečani.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Kosovo/Counties/Dečani.private|Dečani.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Kosovo/Counties/Dečani.personal|Dečani.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Kosovo/Counties/Dečani.secret|Dečani.secret]] 
 

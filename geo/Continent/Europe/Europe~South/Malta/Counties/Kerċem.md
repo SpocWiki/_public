@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 36.04 , 14.22 ] 
 type: geo-Region
 title: Kerċem
@@ -40,10 +40,11 @@ markerFolder: ./Kerċem/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Malta/Counties/Kerċem.md|Kerċem]] 
-- [[../../../../_internal/geo/Continent/Europe/Malta/Counties/Kerċem.internal|Kerċem.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Malta/Counties/Kerċem.protect|Kerċem.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Malta/Counties/Kerċem.private|Kerċem.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Malta/Counties/Kerċem.personal|Kerċem.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Malta/Counties/Kerċem.secret|Kerċem.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Malta/Counties/Kerċem|Kerċem]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Malta/Counties/Kerċem.public|Kerċem.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Malta/Counties/Kerċem.internal|Kerċem.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Malta/Counties/Kerċem.protect|Kerċem.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Malta/Counties/Kerċem.private|Kerċem.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Malta/Counties/Kerċem.personal|Kerċem.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Malta/Counties/Kerċem.secret|Kerċem.secret]] 
 

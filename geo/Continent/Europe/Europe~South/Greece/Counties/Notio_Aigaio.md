@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 36.2 , 27.9 ] 
 type: geo-Region
 title: Notio_Aigaio
@@ -40,10 +40,11 @@ markerFolder: ./Notio_Aigaio/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Greece/Counties/Notio_Aigaio.md|Notio_Aigaio]] 
-- [[../../../../_internal/geo/Continent/Europe/Greece/Counties/Notio_Aigaio.internal|Notio_Aigaio.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Greece/Counties/Notio_Aigaio.protect|Notio_Aigaio.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Greece/Counties/Notio_Aigaio.private|Notio_Aigaio.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Greece/Counties/Notio_Aigaio.personal|Notio_Aigaio.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Greece/Counties/Notio_Aigaio.secret|Notio_Aigaio.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Greece/Counties/Notio_Aigaio|Notio_Aigaio]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Greece/Counties/Notio_Aigaio.public|Notio_Aigaio.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Greece/Counties/Notio_Aigaio.internal|Notio_Aigaio.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Greece/Counties/Notio_Aigaio.protect|Notio_Aigaio.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Greece/Counties/Notio_Aigaio.private|Notio_Aigaio.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Greece/Counties/Notio_Aigaio.personal|Notio_Aigaio.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Greece/Counties/Notio_Aigaio.secret|Notio_Aigaio.secret]] 
 

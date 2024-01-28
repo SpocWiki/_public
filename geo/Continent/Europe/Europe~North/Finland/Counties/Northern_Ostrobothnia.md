@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 65 , 26.4 ] 
 type: geo-Region
 title: Northern_Ostrobothnia
@@ -40,10 +40,11 @@ markerFolder: ./Northern_Ostrobothnia/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Finland/Counties/Northern_Ostrobothnia.md|Northern_Ostrobothnia]] 
-- [[../../../../_internal/geo/Continent/Europe/Finland/Counties/Northern_Ostrobothnia.internal|Northern_Ostrobothnia.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Finland/Counties/Northern_Ostrobothnia.protect|Northern_Ostrobothnia.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Finland/Counties/Northern_Ostrobothnia.private|Northern_Ostrobothnia.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Finland/Counties/Northern_Ostrobothnia.personal|Northern_Ostrobothnia.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Finland/Counties/Northern_Ostrobothnia.secret|Northern_Ostrobothnia.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Finland/Counties/Northern_Ostrobothnia|Northern_Ostrobothnia]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Finland/Counties/Northern_Ostrobothnia.public|Northern_Ostrobothnia.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Finland/Counties/Northern_Ostrobothnia.internal|Northern_Ostrobothnia.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Finland/Counties/Northern_Ostrobothnia.protect|Northern_Ostrobothnia.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Finland/Counties/Northern_Ostrobothnia.private|Northern_Ostrobothnia.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Finland/Counties/Northern_Ostrobothnia.personal|Northern_Ostrobothnia.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Finland/Counties/Northern_Ostrobothnia.secret|Northern_Ostrobothnia.secret]] 
 

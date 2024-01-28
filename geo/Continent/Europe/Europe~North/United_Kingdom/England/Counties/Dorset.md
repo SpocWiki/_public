@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 50.8 , -2.3 ] 
 type: geo-Region
 title: Dorset
@@ -40,10 +40,11 @@ markerFolder: ./Dorset/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/United_Kingdom/England/Counties/Dorset.md|Dorset]] 
-- [[../../../../_internal/geo/Continent/Europe/United_Kingdom/England/Counties/Dorset.internal|Dorset.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/United_Kingdom/England/Counties/Dorset.protect|Dorset.protect]] 
-- [[../../../../_private/geo/Continent/Europe/United_Kingdom/England/Counties/Dorset.private|Dorset.private]] 
-- [[../../../../_personal/geo/Continent/Europe/United_Kingdom/England/Counties/Dorset.personal|Dorset.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/United_Kingdom/England/Counties/Dorset.secret|Dorset.secret]] 
+- [[../../../../../../../../_Standards/geo/Continent/Europe/Europe~North/United_Kingdom/England/Counties/Dorset|Dorset]] 
+- [[../../../../../../../../_public/geo/Continent/Europe/Europe~North/United_Kingdom/England/Counties/Dorset.public|Dorset.public]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/Europe~North/United_Kingdom/England/Counties/Dorset.internal|Dorset.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/Europe~North/United_Kingdom/England/Counties/Dorset.protect|Dorset.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/Europe~North/United_Kingdom/England/Counties/Dorset.private|Dorset.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/Europe~North/United_Kingdom/England/Counties/Dorset.personal|Dorset.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/Europe~North/United_Kingdom/England/Counties/Dorset.secret|Dorset.secret]] 
 

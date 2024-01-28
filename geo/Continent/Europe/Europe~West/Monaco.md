@@ -1,4 +1,4 @@
-﻿---
+---
 location:
 - 43.715
 - 7.41
@@ -37,68 +37,68 @@ Languages:
 ---
 
 
-[	ISO4217-currency_alphabetic	 :: EUR ]
-[	ISO4217-currency_name	 :: Euro ]
-[	ISO4217-currency_numeric	 :: 978 ]
-[	ISO4217-currency_minor_unit	 :: 2 ]
-[	ISO4217-currency_country_name	 :: MONACO ]
+[	ISO4217-currency_alphabetic	 :: EUR ] 
+[	ISO4217-currency_name	 :: Euro ] 
+[	ISO4217-currency_numeric	 :: 978 ] 
+[	ISO4217-currency_minor_unit	 :: 2 ] 
+[	ISO4217-currency_country_name	 :: MONACO ] 
 
-[	Telephone	 :: 377 ]
+[	Telephone	 :: 377 ] 
 
-[	Global	 :: True ]
-[	Global_Name	 :: World ]
+[	Global	 :: True ] 
+[	Global_Name	 :: World ] 
 
-[	name	 :: Monaco ]
-[	name-en	 :: Monaco ]
-[	name-es	 :: Mónaco ]
-[	name-fr	 :: Monaco ]
-[	name-cn	 :: 摩纳哥 ]
-[	name-ar	 :: موناكو ]
-[	name-ru	 :: Монако ]
+[	name	 :: Monaco ] 
+[	name-en	 :: Monaco ] 
+[	name-es	 :: Mónaco ] 
+[	name-fr	 :: Monaco ] 
+[	name-cn	 :: 摩纳哥 ] 
+[	name-ar	 :: موناكو ] 
+[	name-ru	 :: Монако ] 
 
-[	CLDR_display_name	 :: Monaco ]
+[	CLDR_display_name	 :: Monaco ] 
 
-[	UNTERM_English	 :: Monaco ]
-[	UNTERM_English_Formal	 :: the Principality of Monaco ]
-[	UNTERM_Spanish_Formal	 :: el Principado de Mónaco ]
-[	UNTERM_Spanish	 :: Mónaco ]
-[	UNTERM_French	 :: Monaco [masc.] ]
-[	UNTERM_Arabic	 :: موناكو ]
-[	UNTERM_Arabic_Formal	 :: إمارة موناكو ]
-[	UNTERM_Chinese	 :: 摩纳哥 ]
-[	UNTERM_Chinese_Formal	 :: 摩纳哥公国 ]
-[	UNTERM_French_Formal	 :: la Principauté de Monaco ]
-[	UNTERM_Russian	 :: Монако ]
-[	UNTERM_Russian_Formal	 :: Княжество Монако ]
+[	UNTERM_English	 :: Monaco ] 
+[	UNTERM_English_Formal	 :: the Principality of Monaco ] 
+[	UNTERM_Spanish_Formal	 :: el Principado de Mónaco ] 
+[	UNTERM_Spanish	 :: Mónaco ] 
+[	UNTERM_French	 :: Monaco [masc.] ] 
+[	UNTERM_Arabic	 :: موناكو ] 
+[	UNTERM_Arabic_Formal	 :: إمارة موناكو ] 
+[	UNTERM_Chinese	 :: 摩纳哥 ] 
+[	UNTERM_Chinese_Formal	 :: 摩纳哥公国 ] 
+[	UNTERM_French_Formal	 :: la Principauté de Monaco ] 
+[	UNTERM_Russian	 :: Монако ] 
+[	UNTERM_Russian_Formal	 :: Княжество Монако ] 
 
-[	Region_Name	 :: [[Europe]] ]
-[	Intermediate_Region_Name	 :: [[]] ]
-[	Sub-region_Name	 :: [[Western Europe]] ]
+Region_Name ::  [[Europe]] ] 
+Intermediate_Region_Name ::  [[]] ] 
+Sub-region_Name ::  [[Western Europe]] ] 
 
-[	Region	 :: 150 ]
-[	Intermediate_Region	 ::  ]
-[	Sub-region	 :: 155 ]
+[	Region	 :: 150 ] 
+[	Intermediate_Region	 ::  ] 
+[	Sub-region	 :: 155 ] 
 
-[	Geoname-ID	 :: 2993457 ]
-[	FIPS	 :: MN ]
-[	FIFA	 :: MON ]
-[	IOC	 :: MON ]
-[	MARC	 :: mc ]
-[	GAUL	 :: 166 ]
-[	WMO	 ::  ]
-[	ITU	 :: MCO ]
-[	DS	 :: MC ]
-[	TLD	 :: .mc ]
-[	EDGAR	 :: O9 ]
-[	M49	 :: 492 ]
+[	Geoname-ID	 :: 2993457 ] 
+[	FIPS	 :: MN ] 
+[	FIFA	 :: MON ] 
+[	IOC	 :: MON ] 
+[	MARC	 :: mc ] 
+[	GAUL	 :: 166 ] 
+[	WMO	 ::  ] 
+[	ITU	 :: MCO ] 
+[	DS	 :: MC ] 
+[	TLD	 :: .mc ] 
+[	EDGAR	 :: O9 ] 
+[	M49	 :: 492 ] 
 
-[	is_independent	 :: Yes ]
-[	Developed_/_Developing_Countries	 :: Developed ]
-[	Land_Locked_Developing_Countries_(LLDC)	 ::  ]
-[	Least_Developed_Countries_(LDC)	 ::  ]
-[	Small_Island_Developing_States_(SIDS)	 ::  ]
+[	is_independent	 :: Yes ] 
+[	Developed_/_Developing_Countries	 :: Developed ] 
+[	Land_Locked_Developing_Countries_(LLDC)	 ::  ] 
+[	Least_Developed_Countries_(LDC)	 ::  ] 
+[	Small_Island_Developing_States_(SIDS)	 ::  ] 
 
-[	ISO3166-1-numeric	 :: 492 ]
+[	ISO3166-1-numeric	 :: 492 ] 
 
 
 
@@ -106,8 +106,8 @@ Languages:
 There is no geographical distinction between the State and City of Monaco,
 although responsibilities of the government (State~level) and of the municipality (City~level) are different.
 
-[ISO2::MC]
-[ISO3::MCO]
+[ISO2::MC] 
+[ISO3::MCO] 
 ```leaflet
 id: Monaco
 zoomFeatures: true 
@@ -117,28 +117,29 @@ geojsonFolder: ./Monaco/
 markerFolder: ./Monaco//
 ```
 
-[name-en::Monaco]
-[name-de::Monaco]
-![[Coat_of_arms_of_Monaco.svg|650]]
-![[Anthem-Montenegro.mp3]]
-![[Flag_of_Monaco.svg|350]]
+[name-en::Monaco] 
+[name-de::Monaco] 
+![[Coat_of_arms_of_Monaco.svg|650]] 
+![[Anthem-Montenegro.mp3]] 
+![[Flag_of_Monaco.svg|350]] 
 
-[Area-Total::2]
-[Area-Land::0]
-[Continent::[[Europe]]]
-[VehicleCode::MC]
-[Capital::[[Monaco]]]
-[Alcohol-l::]
-[Language-Id::496]
-[geo-lon::7.41]
-[geo-lat::43.715]
+[Area-Total::2] 
+[Area-Land::0] 
+Continent :: [[Europe]]  
+[VehicleCode::MC] 
+Capital :: [[Monaco]]  
+[Alcohol-l::] 
+[Language-Id::496] 
+[geo-lon::7.41] 
+[geo-lat::43.715] 
 
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Monaco.md|Monaco]] 
-- [[../../../../_internal/geo/Continent/Europe/Monaco.internal|Monaco.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Monaco.protect|Monaco.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Monaco.private|Monaco.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Monaco.personal|Monaco.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Monaco.secret|Monaco.secret]] 
+- [[../../../../../_Standards/geo/Continent/Europe/Europe~West/Monaco|Monaco]] 
+- [[../../../../../_public/geo/Continent/Europe/Europe~West/Monaco.public|Monaco.public]] 
+- [[../../../../../_internal/geo/Continent/Europe/Europe~West/Monaco.internal|Monaco.internal]] 
+- [[../../../../../_protect/geo/Continent/Europe/Europe~West/Monaco.protect|Monaco.protect]] 
+- [[../../../../../_private/geo/Continent/Europe/Europe~West/Monaco.private|Monaco.private]] 
+- [[../../../../../_personal/geo/Continent/Europe/Europe~West/Monaco.personal|Monaco.personal]] 
+- [[../../../../../_secret/geo/Continent/Europe/Europe~West/Monaco.secret|Monaco.secret]] 

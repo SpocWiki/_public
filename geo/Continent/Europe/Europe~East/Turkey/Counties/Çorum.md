@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 40.6 , 34.8 ] 
 type: geo-Region
 title: Çorum
@@ -40,10 +40,11 @@ markerFolder: ./Çorum/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Turkey/Counties/Çorum.md|Çorum]] 
-- [[../../../../_internal/geo/Continent/Europe/Turkey/Counties/Çorum.internal|Çorum.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Turkey/Counties/Çorum.protect|Çorum.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Turkey/Counties/Çorum.private|Çorum.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Turkey/Counties/Çorum.personal|Çorum.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Turkey/Counties/Çorum.secret|Çorum.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Turkey/Counties/Çorum|Çorum]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Turkey/Counties/Çorum.public|Çorum.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Turkey/Counties/Çorum.internal|Çorum.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Turkey/Counties/Çorum.protect|Çorum.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Turkey/Counties/Çorum.private|Çorum.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Turkey/Counties/Çorum.personal|Çorum.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Turkey/Counties/Çorum.secret|Çorum.secret]] 
 

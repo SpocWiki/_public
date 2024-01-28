@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 53.1 , -0.2 ] 
 type: geo-Region
 title: Lincolnshire
@@ -40,12 +40,13 @@ markerFolder: ./Lincolnshire/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/United_Kingdom/England/Counties/Lincolnshire.md|Lincolnshire]] 
-- [[../../../../_internal/geo/Continent/Europe/United_Kingdom/England/Counties/Lincolnshire.internal|Lincolnshire.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/United_Kingdom/England/Counties/Lincolnshire.protect|Lincolnshire.protect]] 
-- [[../../../../_private/geo/Continent/Europe/United_Kingdom/England/Counties/Lincolnshire.private|Lincolnshire.private]] 
-- [[../../../../_personal/geo/Continent/Europe/United_Kingdom/England/Counties/Lincolnshire.personal|Lincolnshire.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/United_Kingdom/England/Counties/Lincolnshire.secret|Lincolnshire.secret]] 
+- [[../../../../../../../../_Standards/geo/Continent/Europe/Europe~North/United_Kingdom/England/Counties/Lincolnshire|Lincolnshire]] 
+- [[../../../../../../../../_public/geo/Continent/Europe/Europe~North/United_Kingdom/England/Counties/Lincolnshire.public|Lincolnshire.public]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/Europe~North/United_Kingdom/England/Counties/Lincolnshire.internal|Lincolnshire.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/Europe~North/United_Kingdom/England/Counties/Lincolnshire.protect|Lincolnshire.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/Europe~North/United_Kingdom/England/Counties/Lincolnshire.private|Lincolnshire.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/Europe~North/United_Kingdom/England/Counties/Lincolnshire.personal|Lincolnshire.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/Europe~North/United_Kingdom/England/Counties/Lincolnshire.secret|Lincolnshire.secret]] 
 
 
 ```leaflet

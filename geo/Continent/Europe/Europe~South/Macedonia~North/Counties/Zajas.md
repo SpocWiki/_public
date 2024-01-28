@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 41.6 , 20.9 ] 
 type: geo-Region
 title: Zajas
@@ -40,10 +40,11 @@ markerFolder: ./Zajas/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Macedonia~North/Counties/Zajas.md|Zajas]] 
-- [[../../../../_internal/geo/Continent/Europe/Macedonia~North/Counties/Zajas.internal|Zajas.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Macedonia~North/Counties/Zajas.protect|Zajas.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Macedonia~North/Counties/Zajas.private|Zajas.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Macedonia~North/Counties/Zajas.personal|Zajas.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Macedonia~North/Counties/Zajas.secret|Zajas.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Macedonia~North/Counties/Zajas|Zajas]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Macedonia~North/Counties/Zajas.public|Zajas.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Macedonia~North/Counties/Zajas.internal|Zajas.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Macedonia~North/Counties/Zajas.protect|Zajas.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Macedonia~North/Counties/Zajas.private|Zajas.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Macedonia~North/Counties/Zajas.personal|Zajas.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Macedonia~North/Counties/Zajas.secret|Zajas.secret]] 
 

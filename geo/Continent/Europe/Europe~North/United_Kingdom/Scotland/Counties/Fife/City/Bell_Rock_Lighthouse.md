@@ -1,5 +1,5 @@
 ---
-location: [56.43,-2.38]
+location: [56.43,-2.38] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -13,14 +13,14 @@ confidential: public
 
 ---
 
-[geo-lon::-2.38]
-[geo-lat::56.43]
-[name::Belrock]
-[State::]
-[Country::[[United_Kingdom]]]
-[StateId::]
-[Population::]
-[Unknown::]
+[geo-lon::-2.38] 
+[geo-lat::56.43] 
+[name::Belrock] 
+State ::  
+Country :: [[United_Kingdom]]  
+[StateId::] 
+[Population::] 
+[Unknown::] 
 
 
 
@@ -33,17 +33,18 @@ confidential: public
 
 ```leaflet
 id: Belrock
-coordinates: [[Belrock]]
-markerFile: [[Belrock]]
+coordinates: [[Belrock]] 
+markerFile: [[Belrock]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Belrock.md|Belrock]] 
-- [[../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Belrock.internal|Belrock.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Belrock.protect|Belrock.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Belrock.private|Belrock.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Belrock.personal|Belrock.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Belrock.secret|Belrock.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/United_Kingdom/City/Belrock|Belrock]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/United_Kingdom/City/Belrock.public|Belrock.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/United_Kingdom/City/Belrock.internal|Belrock.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/United_Kingdom/City/Belrock.protect|Belrock.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/United_Kingdom/City/Belrock.private|Belrock.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/United_Kingdom/City/Belrock.personal|Belrock.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/United_Kingdom/City/Belrock.secret|Belrock.secret]] 

@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 59.9 , 13.3 ] 
 type: geo-Region
 title: Värmland
@@ -40,10 +40,11 @@ markerFolder: ./Värmland/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Sweden/Counties/Värmland.md|Värmland]] 
-- [[../../../../_internal/geo/Continent/Europe/Sweden/Counties/Värmland.internal|Värmland.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Sweden/Counties/Värmland.protect|Värmland.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Sweden/Counties/Värmland.private|Värmland.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Sweden/Counties/Värmland.personal|Värmland.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Sweden/Counties/Värmland.secret|Värmland.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Sweden/Counties/Värmland|Värmland]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Sweden/Counties/Värmland.public|Värmland.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Sweden/Counties/Värmland.internal|Värmland.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Sweden/Counties/Värmland.protect|Värmland.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Sweden/Counties/Värmland.private|Värmland.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Sweden/Counties/Värmland.personal|Värmland.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Sweden/Counties/Värmland.secret|Värmland.secret]] 
 

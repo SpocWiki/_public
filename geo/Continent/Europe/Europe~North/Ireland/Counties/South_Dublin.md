@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 53.3 , -6.4 ] 
 type: geo-Region
 title: South_Dublin
@@ -40,10 +40,11 @@ markerFolder: ./South_Dublin/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Ireland/Counties/South_Dublin.md|South_Dublin]] 
-- [[../../../../_internal/geo/Continent/Europe/Ireland/Counties/South_Dublin.internal|South_Dublin.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Ireland/Counties/South_Dublin.protect|South_Dublin.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Ireland/Counties/South_Dublin.private|South_Dublin.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Ireland/Counties/South_Dublin.personal|South_Dublin.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Ireland/Counties/South_Dublin.secret|South_Dublin.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Ireland/Counties/South_Dublin|South_Dublin]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Ireland/Counties/South_Dublin.public|South_Dublin.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Ireland/Counties/South_Dublin.internal|South_Dublin.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Ireland/Counties/South_Dublin.protect|South_Dublin.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Ireland/Counties/South_Dublin.private|South_Dublin.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Ireland/Counties/South_Dublin.personal|South_Dublin.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Ireland/Counties/South_Dublin.secret|South_Dublin.secret]] 
 

@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 51.4 , -0.9 ] 
 type: geo-Region
 title: Wokingham
@@ -40,10 +40,11 @@ markerFolder: ./Wokingham/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/United_Kingdom/England/Counties/Wokingham.md|Wokingham]] 
-- [[../../../../_internal/geo/Continent/Europe/United_Kingdom/England/Counties/Wokingham.internal|Wokingham.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/United_Kingdom/England/Counties/Wokingham.protect|Wokingham.protect]] 
-- [[../../../../_private/geo/Continent/Europe/United_Kingdom/England/Counties/Wokingham.private|Wokingham.private]] 
-- [[../../../../_personal/geo/Continent/Europe/United_Kingdom/England/Counties/Wokingham.personal|Wokingham.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/United_Kingdom/England/Counties/Wokingham.secret|Wokingham.secret]] 
+- [[../../../../../../../../_Standards/geo/Continent/Europe/Europe~North/United_Kingdom/England/Counties/Wokingham|Wokingham]] 
+- [[../../../../../../../../_public/geo/Continent/Europe/Europe~North/United_Kingdom/England/Counties/Wokingham.public|Wokingham.public]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/Europe~North/United_Kingdom/England/Counties/Wokingham.internal|Wokingham.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/Europe~North/United_Kingdom/England/Counties/Wokingham.protect|Wokingham.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/Europe~North/United_Kingdom/England/Counties/Wokingham.private|Wokingham.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/Europe~North/United_Kingdom/England/Counties/Wokingham.personal|Wokingham.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/Europe~North/United_Kingdom/England/Counties/Wokingham.secret|Wokingham.secret]] 
 

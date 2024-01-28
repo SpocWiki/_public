@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 39.5 , 43.4 ] 
 type: geo-Region
 title: Agri
@@ -40,10 +40,11 @@ markerFolder: ./Agri/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Turkey/Counties/Agri.md|Agri]] 
-- [[../../../../_internal/geo/Continent/Europe/Turkey/Counties/Agri.internal|Agri.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Turkey/Counties/Agri.protect|Agri.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Turkey/Counties/Agri.private|Agri.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Turkey/Counties/Agri.personal|Agri.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Turkey/Counties/Agri.secret|Agri.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Turkey/Counties/Agri|Agri]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Turkey/Counties/Agri.public|Agri.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Turkey/Counties/Agri.internal|Agri.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Turkey/Counties/Agri.protect|Agri.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Turkey/Counties/Agri.private|Agri.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Turkey/Counties/Agri.personal|Agri.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Turkey/Counties/Agri.secret|Agri.secret]] 
 

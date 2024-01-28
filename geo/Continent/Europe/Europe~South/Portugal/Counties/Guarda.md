@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 40.7 , -7.2 ] 
 type: geo-Region
 title: Guarda
@@ -40,10 +40,11 @@ markerFolder: ./Guarda/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Portugal/Counties/Guarda.md|Guarda]] 
-- [[../../../../_internal/geo/Continent/Europe/Portugal/Counties/Guarda.internal|Guarda.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Portugal/Counties/Guarda.protect|Guarda.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Portugal/Counties/Guarda.private|Guarda.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Portugal/Counties/Guarda.personal|Guarda.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Portugal/Counties/Guarda.secret|Guarda.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Portugal/Counties/Guarda|Guarda]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Portugal/Counties/Guarda.public|Guarda.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Portugal/Counties/Guarda.internal|Guarda.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Portugal/Counties/Guarda.protect|Guarda.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Portugal/Counties/Guarda.private|Guarda.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Portugal/Counties/Guarda.personal|Guarda.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Portugal/Counties/Guarda.secret|Guarda.secret]] 
 

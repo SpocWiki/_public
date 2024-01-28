@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 52.6 , -7.2 ] 
 type: geo-Region
 title: Kilkenny
@@ -40,10 +40,11 @@ markerFolder: ./Kilkenny/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Ireland/Counties/Kilkenny.md|Kilkenny]] 
-- [[../../../../_internal/geo/Continent/Europe/Ireland/Counties/Kilkenny.internal|Kilkenny.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Ireland/Counties/Kilkenny.protect|Kilkenny.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Ireland/Counties/Kilkenny.private|Kilkenny.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Ireland/Counties/Kilkenny.personal|Kilkenny.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Ireland/Counties/Kilkenny.secret|Kilkenny.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Ireland/Counties/Kilkenny|Kilkenny]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Ireland/Counties/Kilkenny.public|Kilkenny.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Ireland/Counties/Kilkenny.internal|Kilkenny.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Ireland/Counties/Kilkenny.protect|Kilkenny.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Ireland/Counties/Kilkenny.private|Kilkenny.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Ireland/Counties/Kilkenny.personal|Kilkenny.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Ireland/Counties/Kilkenny.secret|Kilkenny.secret]] 
 

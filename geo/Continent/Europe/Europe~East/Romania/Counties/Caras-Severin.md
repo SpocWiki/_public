@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 45.1 , 22.1 ] 
 type: geo-Region
 title: Caras-Severin
@@ -40,10 +40,11 @@ markerFolder: ./Caras-Severin/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Romania/Counties/Caras-Severin.md|Caras-Severin]] 
-- [[../../../../_internal/geo/Continent/Europe/Romania/Counties/Caras-Severin.internal|Caras-Severin.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Romania/Counties/Caras-Severin.protect|Caras-Severin.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Romania/Counties/Caras-Severin.private|Caras-Severin.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Romania/Counties/Caras-Severin.personal|Caras-Severin.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Romania/Counties/Caras-Severin.secret|Caras-Severin.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Romania/Counties/Caras-Severin|Caras-Severin]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Romania/Counties/Caras-Severin.public|Caras-Severin.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Romania/Counties/Caras-Severin.internal|Caras-Severin.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Romania/Counties/Caras-Severin.protect|Caras-Severin.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Romania/Counties/Caras-Severin.private|Caras-Severin.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Romania/Counties/Caras-Severin.personal|Caras-Severin.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Romania/Counties/Caras-Severin.secret|Caras-Severin.secret]] 
 

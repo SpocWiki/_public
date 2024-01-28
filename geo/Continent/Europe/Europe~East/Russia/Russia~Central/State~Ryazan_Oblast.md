@@ -1,5 +1,5 @@
 ---
-location: [54.67,39.67]
+location: [54.67,39.67] 
 type: State
 tags:
 - geo/State
@@ -10,13 +10,13 @@ isDeleted: false
 confidential: public
 
 ---
-[name::Ryazan Oblast]
-[name-abbr::]
-[Country::[[Russia]]]
-[Capital::[[Ryazan]]]
-[geo-lon::39.67]
-[geo-lat::54.67]
-[Population::]
+[name::Ryazan Oblast] 
+[name-abbr::] 
+Country :: [[Russia]]  
+Capital :: [[Ryazan]]  
+[geo-lon::39.67] 
+[geo-lat::54.67] 
+[Population::] 
 
 
 
@@ -31,9 +31,9 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
--[[State~Ryazan_Oblast|State~Ryazan_Oblast]]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Russia/State/State~Ryazan_Oblast.internal|State~Ryazan_Oblast.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/State/State~Ryazan_Oblast.protect|State~Ryazan_Oblast.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/State/State~Ryazan_Oblast.private|State~Ryazan_Oblast.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/State/State~Ryazan_Oblast.personal|State~Ryazan_Oblast.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/State/State~Ryazan_Oblast.secret|State~Ryazan_Oblast.secret]] 
+- [[State~Ryazan_Oblast|State~Ryazan_Oblast]]  
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Russia/State/State~Ryazan_Oblast.internal|State~Ryazan_Oblast.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Russia/State/State~Ryazan_Oblast.protect|State~Ryazan_Oblast.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Russia/State/State~Ryazan_Oblast.private|State~Ryazan_Oblast.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Russia/State/State~Ryazan_Oblast.personal|State~Ryazan_Oblast.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Russia/State/State~Ryazan_Oblast.secret|State~Ryazan_Oblast.secret]] 

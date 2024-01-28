@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 44.2 , 23.7 ] 
 type: geo-Region
 title: Dolj
@@ -40,10 +40,11 @@ markerFolder: ./Dolj/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Romania/Counties/Dolj.md|Dolj]] 
-- [[../../../../_internal/geo/Continent/Europe/Romania/Counties/Dolj.internal|Dolj.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Romania/Counties/Dolj.protect|Dolj.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Romania/Counties/Dolj.private|Dolj.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Romania/Counties/Dolj.personal|Dolj.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Romania/Counties/Dolj.secret|Dolj.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Romania/Counties/Dolj|Dolj]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Romania/Counties/Dolj.public|Dolj.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Romania/Counties/Dolj.internal|Dolj.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Romania/Counties/Dolj.protect|Dolj.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Romania/Counties/Dolj.private|Dolj.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Romania/Counties/Dolj.personal|Dolj.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Romania/Counties/Dolj.secret|Dolj.secret]] 
 

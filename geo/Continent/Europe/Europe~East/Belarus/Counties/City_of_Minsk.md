@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 53.9 , 27.6 ] 
 type: geo-Region
 title: City_of_Minsk
@@ -40,10 +40,11 @@ markerFolder: ./City_of_Minsk/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Belarus/Counties/City_of_Minsk.md|City_of_Minsk]] 
-- [[../../../../_internal/geo/Continent/Europe/Belarus/Counties/City_of_Minsk.internal|City_of_Minsk.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Belarus/Counties/City_of_Minsk.protect|City_of_Minsk.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Belarus/Counties/City_of_Minsk.private|City_of_Minsk.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Belarus/Counties/City_of_Minsk.personal|City_of_Minsk.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Belarus/Counties/City_of_Minsk.secret|City_of_Minsk.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Belarus/Counties/City_of_Minsk|City_of_Minsk]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Belarus/Counties/City_of_Minsk.public|City_of_Minsk.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Belarus/Counties/City_of_Minsk.internal|City_of_Minsk.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Belarus/Counties/City_of_Minsk.protect|City_of_Minsk.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Belarus/Counties/City_of_Minsk.private|City_of_Minsk.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Belarus/Counties/City_of_Minsk.personal|City_of_Minsk.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Belarus/Counties/City_of_Minsk.secret|City_of_Minsk.secret]] 
 

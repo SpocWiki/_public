@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 41.95 , 21.5 ] 
 type: geo-Region
 title: Aerodrom
@@ -40,10 +40,11 @@ markerFolder: ./Aerodrom/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Macedonia~North/Counties/Aerodrom.md|Aerodrom]] 
-- [[../../../../_internal/geo/Continent/Europe/Macedonia~North/Counties/Aerodrom.internal|Aerodrom.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Macedonia~North/Counties/Aerodrom.protect|Aerodrom.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Macedonia~North/Counties/Aerodrom.private|Aerodrom.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Macedonia~North/Counties/Aerodrom.personal|Aerodrom.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Macedonia~North/Counties/Aerodrom.secret|Aerodrom.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Macedonia~North/Counties/Aerodrom|Aerodrom]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Macedonia~North/Counties/Aerodrom.public|Aerodrom.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Macedonia~North/Counties/Aerodrom.internal|Aerodrom.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Macedonia~North/Counties/Aerodrom.protect|Aerodrom.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Macedonia~North/Counties/Aerodrom.private|Aerodrom.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Macedonia~North/Counties/Aerodrom.personal|Aerodrom.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Macedonia~North/Counties/Aerodrom.secret|Aerodrom.secret]] 
 

@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 41.8 , 21.4 ] 
 type: geo-Region
 title: Studenicani
@@ -40,10 +40,11 @@ markerFolder: ./Studenicani/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Macedonia~North/Counties/Studenicani.md|Studenicani]] 
-- [[../../../../_internal/geo/Continent/Europe/Macedonia~North/Counties/Studenicani.internal|Studenicani.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Macedonia~North/Counties/Studenicani.protect|Studenicani.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Macedonia~North/Counties/Studenicani.private|Studenicani.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Macedonia~North/Counties/Studenicani.personal|Studenicani.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Macedonia~North/Counties/Studenicani.secret|Studenicani.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Macedonia~North/Counties/Studenicani|Studenicani]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Macedonia~North/Counties/Studenicani.public|Studenicani.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Macedonia~North/Counties/Studenicani.internal|Studenicani.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Macedonia~North/Counties/Studenicani.protect|Studenicani.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Macedonia~North/Counties/Studenicani.private|Studenicani.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Macedonia~North/Counties/Studenicani.personal|Studenicani.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Macedonia~North/Counties/Studenicani.secret|Studenicani.secret]] 
 

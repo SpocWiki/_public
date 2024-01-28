@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 42.2 , 44.7 ] 
 type: geo-Region
 title: Mtskheta-Mtianeti
@@ -40,10 +40,11 @@ markerFolder: ./Mtskheta-Mtianeti/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Georgia~Europe/Counties/Mtskheta-Mtianeti.md|Mtskheta-Mtianeti]] 
-- [[../../../../_internal/geo/Continent/Europe/Georgia~Europe/Counties/Mtskheta-Mtianeti.internal|Mtskheta-Mtianeti.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Georgia~Europe/Counties/Mtskheta-Mtianeti.protect|Mtskheta-Mtianeti.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Georgia~Europe/Counties/Mtskheta-Mtianeti.private|Mtskheta-Mtianeti.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Georgia~Europe/Counties/Mtskheta-Mtianeti.personal|Mtskheta-Mtianeti.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Georgia~Europe/Counties/Mtskheta-Mtianeti.secret|Mtskheta-Mtianeti.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Georgia~Europe/Counties/Mtskheta-Mtianeti|Mtskheta-Mtianeti]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Georgia~Europe/Counties/Mtskheta-Mtianeti.public|Mtskheta-Mtianeti.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Georgia~Europe/Counties/Mtskheta-Mtianeti.internal|Mtskheta-Mtianeti.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Georgia~Europe/Counties/Mtskheta-Mtianeti.protect|Mtskheta-Mtianeti.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Georgia~Europe/Counties/Mtskheta-Mtianeti.private|Mtskheta-Mtianeti.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Georgia~Europe/Counties/Mtskheta-Mtianeti.personal|Mtskheta-Mtianeti.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Georgia~Europe/Counties/Mtskheta-Mtianeti.secret|Mtskheta-Mtianeti.secret]] 
 

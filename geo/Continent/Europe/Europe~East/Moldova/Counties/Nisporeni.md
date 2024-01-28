@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 47.1 , 28.2 ] 
 type: geo-Region
 title: Nisporeni
@@ -40,10 +40,11 @@ markerFolder: ./Nisporeni/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Moldova/Counties/Nisporeni.md|Nisporeni]] 
-- [[../../../../_internal/geo/Continent/Europe/Moldova/Counties/Nisporeni.internal|Nisporeni.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Moldova/Counties/Nisporeni.protect|Nisporeni.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Moldova/Counties/Nisporeni.private|Nisporeni.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Moldova/Counties/Nisporeni.personal|Nisporeni.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Moldova/Counties/Nisporeni.secret|Nisporeni.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Moldova/Counties/Nisporeni|Nisporeni]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Moldova/Counties/Nisporeni.public|Nisporeni.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Moldova/Counties/Nisporeni.internal|Nisporeni.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Moldova/Counties/Nisporeni.protect|Nisporeni.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Moldova/Counties/Nisporeni.private|Nisporeni.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Moldova/Counties/Nisporeni.personal|Nisporeni.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Moldova/Counties/Nisporeni.secret|Nisporeni.secret]] 
 

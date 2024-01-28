@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 46.4 , 20.4 ] 
 type: geo-Region
 title: Hódmezôvásárhely
@@ -40,10 +40,11 @@ markerFolder: ./Hódmezôvásárhely/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Hungary/Counties/Hódmezôvásárhely.md|Hódmezôvásárhely]] 
-- [[../../../../_internal/geo/Continent/Europe/Hungary/Counties/Hódmezôvásárhely.internal|Hódmezôvásárhely.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Hungary/Counties/Hódmezôvásárhely.protect|Hódmezôvásárhely.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Hungary/Counties/Hódmezôvásárhely.private|Hódmezôvásárhely.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Hungary/Counties/Hódmezôvásárhely.personal|Hódmezôvásárhely.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Hungary/Counties/Hódmezôvásárhely.secret|Hódmezôvásárhely.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Hungary/Counties/Hódmezôvásárhely|Hódmezôvásárhely]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Hungary/Counties/Hódmezôvásárhely.public|Hódmezôvásárhely.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Hungary/Counties/Hódmezôvásárhely.internal|Hódmezôvásárhely.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Hungary/Counties/Hódmezôvásárhely.protect|Hódmezôvásárhely.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Hungary/Counties/Hódmezôvásárhely.private|Hódmezôvásárhely.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Hungary/Counties/Hódmezôvásárhely.personal|Hódmezôvásárhely.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Hungary/Counties/Hódmezôvásárhely.secret|Hódmezôvásárhely.secret]] 
 

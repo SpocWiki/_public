@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 35.855 , 14.502 ] 
 type: geo-Region
 title: Santa_Luċija
@@ -40,10 +40,11 @@ markerFolder: ./Santa_Luċija/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Malta/Counties/Santa_Luċija.md|Santa_Luċija]] 
-- [[../../../../_internal/geo/Continent/Europe/Malta/Counties/Santa_Luċija.internal|Santa_Luċija.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Malta/Counties/Santa_Luċija.protect|Santa_Luċija.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Malta/Counties/Santa_Luċija.private|Santa_Luċija.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Malta/Counties/Santa_Luċija.personal|Santa_Luċija.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Malta/Counties/Santa_Luċija.secret|Santa_Luċija.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Malta/Counties/Santa_Luċija|Santa_Luċija]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Malta/Counties/Santa_Luċija.public|Santa_Luċija.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Malta/Counties/Santa_Luċija.internal|Santa_Luċija.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Malta/Counties/Santa_Luċija.protect|Santa_Luċija.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Malta/Counties/Santa_Luċija.private|Santa_Luċija.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Malta/Counties/Santa_Luċija.personal|Santa_Luċija.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Malta/Counties/Santa_Luċija.secret|Santa_Luċija.secret]] 
 

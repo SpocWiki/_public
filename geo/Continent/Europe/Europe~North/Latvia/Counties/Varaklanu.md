@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 56.6 , 26.6 ] 
 type: geo-Region
 title: Varaklanu
@@ -40,10 +40,11 @@ markerFolder: ./Varaklanu/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Latvia/Counties/Varaklanu.md|Varaklanu]] 
-- [[../../../../_internal/geo/Continent/Europe/Latvia/Counties/Varaklanu.internal|Varaklanu.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Latvia/Counties/Varaklanu.protect|Varaklanu.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Latvia/Counties/Varaklanu.private|Varaklanu.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Latvia/Counties/Varaklanu.personal|Varaklanu.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Latvia/Counties/Varaklanu.secret|Varaklanu.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Latvia/Counties/Varaklanu|Varaklanu]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Latvia/Counties/Varaklanu.public|Varaklanu.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Latvia/Counties/Varaklanu.internal|Varaklanu.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Latvia/Counties/Varaklanu.protect|Varaklanu.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Latvia/Counties/Varaklanu.private|Varaklanu.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Latvia/Counties/Varaklanu.personal|Varaklanu.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Latvia/Counties/Varaklanu.secret|Varaklanu.secret]] 
 

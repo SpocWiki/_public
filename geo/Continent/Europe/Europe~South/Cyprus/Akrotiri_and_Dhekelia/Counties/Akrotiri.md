@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 34.64 , 32.94 ] 
 type: geo-Region
 title: Akrotiri
@@ -40,10 +40,11 @@ markerFolder: ./Akrotiri/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Cyprus/Akrotiri_and_Dhekelia/Counties/Akrotiri.md|Akrotiri]] 
-- [[../../../../_internal/geo/Continent/Europe/Cyprus/Akrotiri_and_Dhekelia/Counties/Akrotiri.internal|Akrotiri.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Cyprus/Akrotiri_and_Dhekelia/Counties/Akrotiri.protect|Akrotiri.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Cyprus/Akrotiri_and_Dhekelia/Counties/Akrotiri.private|Akrotiri.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Cyprus/Akrotiri_and_Dhekelia/Counties/Akrotiri.personal|Akrotiri.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Cyprus/Akrotiri_and_Dhekelia/Counties/Akrotiri.secret|Akrotiri.secret]] 
+- [[../../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Cyprus/Akrotiri_and_Dhekelia/Counties/Akrotiri|Akrotiri]] 
+- [[../../../../../../../../_public/geo/Continent/Europe/Europe~South/Cyprus/Akrotiri_and_Dhekelia/Counties/Akrotiri.public|Akrotiri.public]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/Europe~South/Cyprus/Akrotiri_and_Dhekelia/Counties/Akrotiri.internal|Akrotiri.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/Europe~South/Cyprus/Akrotiri_and_Dhekelia/Counties/Akrotiri.protect|Akrotiri.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/Europe~South/Cyprus/Akrotiri_and_Dhekelia/Counties/Akrotiri.private|Akrotiri.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/Europe~South/Cyprus/Akrotiri_and_Dhekelia/Counties/Akrotiri.personal|Akrotiri.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/Europe~South/Cyprus/Akrotiri_and_Dhekelia/Counties/Akrotiri.secret|Akrotiri.secret]] 
 

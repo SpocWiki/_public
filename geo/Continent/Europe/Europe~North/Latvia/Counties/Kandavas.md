@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 57 , 22.6 ] 
 type: geo-Region
 title: Kandavas
@@ -40,10 +40,11 @@ markerFolder: ./Kandavas/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Latvia/Counties/Kandavas.md|Kandavas]] 
-- [[../../../../_internal/geo/Continent/Europe/Latvia/Counties/Kandavas.internal|Kandavas.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Latvia/Counties/Kandavas.protect|Kandavas.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Latvia/Counties/Kandavas.private|Kandavas.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Latvia/Counties/Kandavas.personal|Kandavas.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Latvia/Counties/Kandavas.secret|Kandavas.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Latvia/Counties/Kandavas|Kandavas]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Latvia/Counties/Kandavas.public|Kandavas.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Latvia/Counties/Kandavas.internal|Kandavas.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Latvia/Counties/Kandavas.protect|Kandavas.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Latvia/Counties/Kandavas.private|Kandavas.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Latvia/Counties/Kandavas.personal|Kandavas.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Latvia/Counties/Kandavas.secret|Kandavas.secret]] 
 

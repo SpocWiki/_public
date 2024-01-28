@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 55.91 , 12.7 ] 
 type: geo-Region
 title: Islands
@@ -40,10 +40,11 @@ markerFolder: ./Islands/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Sweden/Islands.md|Islands]] 
-- [[../../../../_internal/geo/Continent/Europe/Sweden/Islands.internal|Islands.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Sweden/Islands.protect|Islands.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Sweden/Islands.private|Islands.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Sweden/Islands.personal|Islands.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Sweden/Islands.secret|Islands.secret]] 
+- [[../../../../../../_Standards/geo/Continent/Europe/Europe~North/Sweden/Islands|Islands]] 
+- [[../../../../../../_public/geo/Continent/Europe/Europe~North/Sweden/Islands.public|Islands.public]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Europe~North/Sweden/Islands.internal|Islands.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Europe~North/Sweden/Islands.protect|Islands.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Europe~North/Sweden/Islands.private|Islands.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Europe~North/Sweden/Islands.personal|Islands.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Europe~North/Sweden/Islands.secret|Islands.secret]] 
 

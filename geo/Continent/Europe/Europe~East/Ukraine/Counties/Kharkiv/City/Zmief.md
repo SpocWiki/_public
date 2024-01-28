@@ -1,5 +1,5 @@
-﻿---
-location: [49.68,36.35]
+---
+location: [49.68,36.35] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,29 +12,30 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::36.35]
-[geo-lat::49.68]
-[name::Zmief]
-[State::]
-[Country::[[Russia]]]
-[StateId::]
-[Population::]
-[Unknown::]
+[geo-lon::36.35] 
+[geo-lat::49.68] 
+[name::Zmief] 
+State ::  
+Country :: [[Russia]]  
+[StateId::] 
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Zmief
-coordinates: [[Zmief]]
-markerFile: [[Zmief]]
+coordinates: [[Zmief]] 
+markerFile: [[Zmief]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_public/geo/Continent/Europe/Russia/City/Zmief.md|Zmief]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Zmief.internal|Zmief.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Zmief.protect|Zmief.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Zmief.private|Zmief.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Zmief.personal|Zmief.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Zmief.secret|Zmief.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Russia/City/Zmief|Zmief]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Russia/City/Zmief.public|Zmief.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Russia/City/Zmief.internal|Zmief.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Russia/City/Zmief.protect|Zmief.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Russia/City/Zmief.private|Zmief.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Russia/City/Zmief.personal|Zmief.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Russia/City/Zmief.secret|Zmief.secret]] 

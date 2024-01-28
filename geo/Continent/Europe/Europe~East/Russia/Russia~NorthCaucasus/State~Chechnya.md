@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 43.3 , 45.8 ] 
 type: geo-Region
 title: State~Chechnya
@@ -40,10 +40,11 @@ markerFolder: ./State~Chechnya/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Russia/Russia~NorthCaucasus/State~Chechnya.md|State~Chechnya]] 
-- [[../../../../_internal/geo/Continent/Europe/Russia/Russia~NorthCaucasus/State~Chechnya.internal|State~Chechnya.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Russia/Russia~NorthCaucasus/State~Chechnya.protect|State~Chechnya.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Russia/Russia~NorthCaucasus/State~Chechnya.private|State~Chechnya.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Russia/Russia~NorthCaucasus/State~Chechnya.personal|State~Chechnya.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Russia/Russia~NorthCaucasus/State~Chechnya.secret|State~Chechnya.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Russia/Russia~NorthCaucasus/State~Chechnya|State~Chechnya]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Russia/Russia~NorthCaucasus/State~Chechnya.public|State~Chechnya.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Russia/Russia~NorthCaucasus/State~Chechnya.internal|State~Chechnya.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Russia/Russia~NorthCaucasus/State~Chechnya.protect|State~Chechnya.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Russia/Russia~NorthCaucasus/State~Chechnya.private|State~Chechnya.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Russia/Russia~NorthCaucasus/State~Chechnya.personal|State~Chechnya.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Russia/Russia~NorthCaucasus/State~Chechnya.secret|State~Chechnya.secret]] 
 

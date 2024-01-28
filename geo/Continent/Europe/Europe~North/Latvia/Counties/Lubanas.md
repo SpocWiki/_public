@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 56.9 , 26.6 ] 
 type: geo-Region
 title: Lubanas
@@ -40,10 +40,11 @@ markerFolder: ./Lubanas/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Latvia/Counties/Lubanas.md|Lubanas]] 
-- [[../../../../_internal/geo/Continent/Europe/Latvia/Counties/Lubanas.internal|Lubanas.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Latvia/Counties/Lubanas.protect|Lubanas.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Latvia/Counties/Lubanas.private|Lubanas.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Latvia/Counties/Lubanas.personal|Lubanas.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Latvia/Counties/Lubanas.secret|Lubanas.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Latvia/Counties/Lubanas|Lubanas]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Latvia/Counties/Lubanas.public|Lubanas.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Latvia/Counties/Lubanas.internal|Lubanas.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Latvia/Counties/Lubanas.protect|Lubanas.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Latvia/Counties/Lubanas.private|Lubanas.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Latvia/Counties/Lubanas.personal|Lubanas.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Latvia/Counties/Lubanas.secret|Lubanas.secret]] 
 

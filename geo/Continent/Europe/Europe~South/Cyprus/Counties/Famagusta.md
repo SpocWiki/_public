@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 35 , 33.9 ] 
 type: geo-Region
 title: Famagusta
@@ -40,10 +40,11 @@ markerFolder: ./Famagusta/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Cyprus/Counties/Famagusta.md|Famagusta]] 
-- [[../../../../_internal/geo/Continent/Europe/Cyprus/Counties/Famagusta.internal|Famagusta.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Cyprus/Counties/Famagusta.protect|Famagusta.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Cyprus/Counties/Famagusta.private|Famagusta.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Cyprus/Counties/Famagusta.personal|Famagusta.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Cyprus/Counties/Famagusta.secret|Famagusta.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Cyprus/Counties/Famagusta|Famagusta]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Cyprus/Counties/Famagusta.public|Famagusta.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Cyprus/Counties/Famagusta.internal|Famagusta.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Cyprus/Counties/Famagusta.protect|Famagusta.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Cyprus/Counties/Famagusta.private|Famagusta.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Cyprus/Counties/Famagusta.personal|Famagusta.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Cyprus/Counties/Famagusta.secret|Famagusta.secret]] 
 

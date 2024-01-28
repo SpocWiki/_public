@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 35.91 , 14.46 ] 
 type: geo-Region
 title: Iklin
@@ -40,10 +40,11 @@ markerFolder: ./Iklin/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Malta/Counties/Iklin.md|Iklin]] 
-- [[../../../../_internal/geo/Continent/Europe/Malta/Counties/Iklin.internal|Iklin.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Malta/Counties/Iklin.protect|Iklin.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Malta/Counties/Iklin.private|Iklin.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Malta/Counties/Iklin.personal|Iklin.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Malta/Counties/Iklin.secret|Iklin.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Malta/Counties/Iklin|Iklin]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Malta/Counties/Iklin.public|Iklin.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Malta/Counties/Iklin.internal|Iklin.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Malta/Counties/Iklin.protect|Iklin.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Malta/Counties/Iklin.private|Iklin.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Malta/Counties/Iklin.personal|Iklin.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Malta/Counties/Iklin.secret|Iklin.secret]] 
 

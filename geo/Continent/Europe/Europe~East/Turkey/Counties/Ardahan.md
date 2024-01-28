@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 41.1 , 42.9 ] 
 type: geo-Region
 title: Ardahan
@@ -40,10 +40,11 @@ markerFolder: ./Ardahan/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Turkey/Counties/Ardahan.md|Ardahan]] 
-- [[../../../../_internal/geo/Continent/Europe/Turkey/Counties/Ardahan.internal|Ardahan.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Turkey/Counties/Ardahan.protect|Ardahan.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Turkey/Counties/Ardahan.private|Ardahan.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Turkey/Counties/Ardahan.personal|Ardahan.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Turkey/Counties/Ardahan.secret|Ardahan.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Turkey/Counties/Ardahan|Ardahan]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Turkey/Counties/Ardahan.public|Ardahan.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Turkey/Counties/Ardahan.internal|Ardahan.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Turkey/Counties/Ardahan.protect|Ardahan.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Turkey/Counties/Ardahan.private|Ardahan.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Turkey/Counties/Ardahan.personal|Ardahan.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Turkey/Counties/Ardahan.secret|Ardahan.secret]] 
 

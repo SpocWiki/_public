@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 49.4 , 31.8 ] 
 type: geo-Region
 title: Cherkasy
@@ -40,10 +40,11 @@ markerFolder: ./Cherkasy/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Ukraine/Counties/Cherkasy.md|Cherkasy]] 
-- [[../../../../_internal/geo/Continent/Europe/Ukraine/Counties/Cherkasy.internal|Cherkasy.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Ukraine/Counties/Cherkasy.protect|Cherkasy.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Ukraine/Counties/Cherkasy.private|Cherkasy.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Ukraine/Counties/Cherkasy.personal|Cherkasy.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Ukraine/Counties/Cherkasy.secret|Cherkasy.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Ukraine/Counties/Cherkasy|Cherkasy]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Ukraine/Counties/Cherkasy.public|Cherkasy.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Ukraine/Counties/Cherkasy.internal|Cherkasy.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Ukraine/Counties/Cherkasy.protect|Cherkasy.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Ukraine/Counties/Cherkasy.private|Cherkasy.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Ukraine/Counties/Cherkasy.personal|Cherkasy.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Ukraine/Counties/Cherkasy.secret|Cherkasy.secret]] 
 

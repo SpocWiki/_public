@@ -1,5 +1,5 @@
-﻿---
-location: [58.6,49.68]
+---
+location: [58.6,49.68] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,29 +12,30 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::49.68]
-[geo-lat::58.6]
-[name::Wjaetka]
-[State::]
-[Country::[[Russia]]]
-[StateId::]
-[Population::]
-[Unknown::]
+[geo-lon::49.68] 
+[geo-lat::58.6] 
+[name::Wjaetka] 
+State ::  
+Country :: [[Russia]]  
+[StateId::] 
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Wjaetka
-coordinates: [[Wjaetka]]
-markerFile: [[Wjaetka]]
+coordinates: [[Wjaetka]] 
+markerFile: [[Wjaetka]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_public/geo/Continent/Europe/Russia/City/Wjaetka.md|Wjaetka]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Wjaetka.internal|Wjaetka.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Wjaetka.protect|Wjaetka.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Wjaetka.private|Wjaetka.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Wjaetka.personal|Wjaetka.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Wjaetka.secret|Wjaetka.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Russia/City/Wjaetka|Wjaetka]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Russia/City/Wjaetka.public|Wjaetka.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Russia/City/Wjaetka.internal|Wjaetka.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Russia/City/Wjaetka.protect|Wjaetka.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Russia/City/Wjaetka.private|Wjaetka.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Russia/City/Wjaetka.personal|Wjaetka.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Russia/City/Wjaetka.secret|Wjaetka.secret]] 

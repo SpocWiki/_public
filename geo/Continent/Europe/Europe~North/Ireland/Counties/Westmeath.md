@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 53.6 , -7.3 ] 
 type: geo-Region
 title: Westmeath
@@ -40,10 +40,11 @@ markerFolder: ./Westmeath/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Ireland/Counties/Westmeath.md|Westmeath]] 
-- [[../../../../_internal/geo/Continent/Europe/Ireland/Counties/Westmeath.internal|Westmeath.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Ireland/Counties/Westmeath.protect|Westmeath.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Ireland/Counties/Westmeath.private|Westmeath.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Ireland/Counties/Westmeath.personal|Westmeath.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Ireland/Counties/Westmeath.secret|Westmeath.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Ireland/Counties/Westmeath|Westmeath]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Ireland/Counties/Westmeath.public|Westmeath.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Ireland/Counties/Westmeath.internal|Westmeath.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Ireland/Counties/Westmeath.protect|Westmeath.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Ireland/Counties/Westmeath.private|Westmeath.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Ireland/Counties/Westmeath.personal|Westmeath.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Ireland/Counties/Westmeath.secret|Westmeath.secret]] 
 

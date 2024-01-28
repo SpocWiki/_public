@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 35.85 , 14.38 ] 
 type: geo-Region
 title: Dingli
@@ -40,10 +40,11 @@ markerFolder: ./Dingli/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Malta/Counties/Dingli.md|Dingli]] 
-- [[../../../../_internal/geo/Continent/Europe/Malta/Counties/Dingli.internal|Dingli.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Malta/Counties/Dingli.protect|Dingli.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Malta/Counties/Dingli.private|Dingli.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Malta/Counties/Dingli.personal|Dingli.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Malta/Counties/Dingli.secret|Dingli.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Malta/Counties/Dingli|Dingli]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Malta/Counties/Dingli.public|Dingli.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Malta/Counties/Dingli.internal|Dingli.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Malta/Counties/Dingli.protect|Dingli.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Malta/Counties/Dingli.private|Dingli.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Malta/Counties/Dingli.personal|Dingli.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Malta/Counties/Dingli.secret|Dingli.secret]] 
 

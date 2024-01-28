@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 51.4 , -0.3 ] 
 type: geo-Region
 title: Richmond~Thames
@@ -40,10 +40,11 @@ markerFolder: ./Richmond~Thames/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/United_Kingdom/London~Greater/Richmond~Thames.md|Richmond~Thames]] 
-- [[../../../../_internal/geo/Continent/Europe/United_Kingdom/London~Greater/Richmond~Thames.internal|Richmond~Thames.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/United_Kingdom/London~Greater/Richmond~Thames.protect|Richmond~Thames.protect]] 
-- [[../../../../_private/geo/Continent/Europe/United_Kingdom/London~Greater/Richmond~Thames.private|Richmond~Thames.private]] 
-- [[../../../../_personal/geo/Continent/Europe/United_Kingdom/London~Greater/Richmond~Thames.personal|Richmond~Thames.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/United_Kingdom/London~Greater/Richmond~Thames.secret|Richmond~Thames.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/United_Kingdom/London~Greater/Richmond~Thames|Richmond~Thames]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/United_Kingdom/London~Greater/Richmond~Thames.public|Richmond~Thames.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/United_Kingdom/London~Greater/Richmond~Thames.internal|Richmond~Thames.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/United_Kingdom/London~Greater/Richmond~Thames.protect|Richmond~Thames.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/United_Kingdom/London~Greater/Richmond~Thames.private|Richmond~Thames.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/United_Kingdom/London~Greater/Richmond~Thames.personal|Richmond~Thames.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/United_Kingdom/London~Greater/Richmond~Thames.secret|Richmond~Thames.secret]] 
 

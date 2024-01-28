@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 56 , -4.5 ] 
 type: geo-Region
 title: Dunbartonshire~West
@@ -40,10 +40,11 @@ markerFolder: ./Dunbartonshire~West/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/United_Kingdom/Scotland/Counties/Dunbartonshire~West.md|Dunbartonshire~West]] 
-- [[../../../../_internal/geo/Continent/Europe/United_Kingdom/Scotland/Counties/Dunbartonshire~West.internal|Dunbartonshire~West.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/United_Kingdom/Scotland/Counties/Dunbartonshire~West.protect|Dunbartonshire~West.protect]] 
-- [[../../../../_private/geo/Continent/Europe/United_Kingdom/Scotland/Counties/Dunbartonshire~West.private|Dunbartonshire~West.private]] 
-- [[../../../../_personal/geo/Continent/Europe/United_Kingdom/Scotland/Counties/Dunbartonshire~West.personal|Dunbartonshire~West.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/United_Kingdom/Scotland/Counties/Dunbartonshire~West.secret|Dunbartonshire~West.secret]] 
+- [[../../../../../../../../_Standards/geo/Continent/Europe/Europe~North/United_Kingdom/Scotland/Counties/Dunbartonshire~West|Dunbartonshire~West]] 
+- [[../../../../../../../../_public/geo/Continent/Europe/Europe~North/United_Kingdom/Scotland/Counties/Dunbartonshire~West.public|Dunbartonshire~West.public]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/Europe~North/United_Kingdom/Scotland/Counties/Dunbartonshire~West.internal|Dunbartonshire~West.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/Europe~North/United_Kingdom/Scotland/Counties/Dunbartonshire~West.protect|Dunbartonshire~West.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/Europe~North/United_Kingdom/Scotland/Counties/Dunbartonshire~West.private|Dunbartonshire~West.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/Europe~North/United_Kingdom/Scotland/Counties/Dunbartonshire~West.personal|Dunbartonshire~West.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/Europe~North/United_Kingdom/Scotland/Counties/Dunbartonshire~West.secret|Dunbartonshire~West.secret]] 
 

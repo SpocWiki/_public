@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 47.08 , 9.5 ] 
 type: geo-Region
 title: Balzers
@@ -40,10 +40,11 @@ markerFolder: ./Balzers/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Liechtenstein/Counties/Balzers.md|Balzers]] 
-- [[../../../../_internal/geo/Continent/Europe/Liechtenstein/Counties/Balzers.internal|Balzers.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Liechtenstein/Counties/Balzers.protect|Balzers.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Liechtenstein/Counties/Balzers.private|Balzers.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Liechtenstein/Counties/Balzers.personal|Balzers.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Liechtenstein/Counties/Balzers.secret|Balzers.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~West/Liechtenstein/Counties/Balzers|Balzers]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~West/Liechtenstein/Counties/Balzers.public|Balzers.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~West/Liechtenstein/Counties/Balzers.internal|Balzers.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~West/Liechtenstein/Counties/Balzers.protect|Balzers.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~West/Liechtenstein/Counties/Balzers.private|Balzers.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~West/Liechtenstein/Counties/Balzers.personal|Balzers.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~West/Liechtenstein/Counties/Balzers.secret|Balzers.secret]] 
 

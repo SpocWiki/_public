@@ -1,5 +1,5 @@
-﻿---
-location: [59.38,27.7]
+---
+location: [59.38,27.7] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,29 +12,30 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::27.7]
-[geo-lat::59.38]
-[name::Vaivara]
-[State::]
-[Country::[[Russia]]]
-[StateId::]
-[Population::]
-[Unknown::]
+[geo-lon::27.7] 
+[geo-lat::59.38] 
+[name::Vaivara] 
+State ::  
+Country :: [[Russia]]  
+[StateId::] 
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Vaivara
-coordinates: [[Vaivara]]
-markerFile: [[Vaivara]]
+coordinates: [[Vaivara]] 
+markerFile: [[Vaivara]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_public/geo/Continent/Europe/Russia/City/Vaivara.md|Vaivara]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Vaivara.internal|Vaivara.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Vaivara.protect|Vaivara.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Vaivara.private|Vaivara.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Vaivara.personal|Vaivara.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Vaivara.secret|Vaivara.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Russia/City/Vaivara|Vaivara]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Russia/City/Vaivara.public|Vaivara.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Russia/City/Vaivara.internal|Vaivara.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Russia/City/Vaivara.protect|Vaivara.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Russia/City/Vaivara.private|Vaivara.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Russia/City/Vaivara.personal|Vaivara.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Russia/City/Vaivara.secret|Vaivara.secret]] 

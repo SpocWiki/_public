@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 52.5 , -2 ] 
 type: geo-Region
 title: Sandwell
@@ -40,10 +40,11 @@ markerFolder: ./Sandwell/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/United_Kingdom/England/Counties/Sandwell.md|Sandwell]] 
-- [[../../../../_internal/geo/Continent/Europe/United_Kingdom/England/Counties/Sandwell.internal|Sandwell.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/United_Kingdom/England/Counties/Sandwell.protect|Sandwell.protect]] 
-- [[../../../../_private/geo/Continent/Europe/United_Kingdom/England/Counties/Sandwell.private|Sandwell.private]] 
-- [[../../../../_personal/geo/Continent/Europe/United_Kingdom/England/Counties/Sandwell.personal|Sandwell.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/United_Kingdom/England/Counties/Sandwell.secret|Sandwell.secret]] 
+- [[../../../../../../../../_Standards/geo/Continent/Europe/Europe~North/United_Kingdom/England/Counties/Sandwell|Sandwell]] 
+- [[../../../../../../../../_public/geo/Continent/Europe/Europe~North/United_Kingdom/England/Counties/Sandwell.public|Sandwell.public]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/Europe~North/United_Kingdom/England/Counties/Sandwell.internal|Sandwell.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/Europe~North/United_Kingdom/England/Counties/Sandwell.protect|Sandwell.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/Europe~North/United_Kingdom/England/Counties/Sandwell.private|Sandwell.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/Europe~North/United_Kingdom/England/Counties/Sandwell.personal|Sandwell.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/Europe~North/United_Kingdom/England/Counties/Sandwell.secret|Sandwell.secret]] 
 

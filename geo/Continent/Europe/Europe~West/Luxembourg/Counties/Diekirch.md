@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 49.9 , 6 ] 
 type: geo-Region
 title: Diekirch
@@ -40,10 +40,11 @@ markerFolder: ./Diekirch/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Luxembourg/Counties/Diekirch.md|Diekirch]] 
-- [[../../../../_internal/geo/Continent/Europe/Luxembourg/Counties/Diekirch.internal|Diekirch.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Luxembourg/Counties/Diekirch.protect|Diekirch.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Luxembourg/Counties/Diekirch.private|Diekirch.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Luxembourg/Counties/Diekirch.personal|Diekirch.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Luxembourg/Counties/Diekirch.secret|Diekirch.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~West/Luxembourg/Counties/Diekirch|Diekirch]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~West/Luxembourg/Counties/Diekirch.public|Diekirch.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~West/Luxembourg/Counties/Diekirch.internal|Diekirch.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~West/Luxembourg/Counties/Diekirch.protect|Diekirch.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~West/Luxembourg/Counties/Diekirch.private|Diekirch.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~West/Luxembourg/Counties/Diekirch.personal|Diekirch.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~West/Luxembourg/Counties/Diekirch.secret|Diekirch.secret]] 
 

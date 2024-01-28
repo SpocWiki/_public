@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 39.8 , 33.6 ] 
 type: geo-Region
 title: Kinkkale
@@ -40,10 +40,11 @@ markerFolder: ./Kinkkale/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Turkey/Counties/Kinkkale.md|Kinkkale]] 
-- [[../../../../_internal/geo/Continent/Europe/Turkey/Counties/Kinkkale.internal|Kinkkale.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Turkey/Counties/Kinkkale.protect|Kinkkale.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Turkey/Counties/Kinkkale.private|Kinkkale.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Turkey/Counties/Kinkkale.personal|Kinkkale.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Turkey/Counties/Kinkkale.secret|Kinkkale.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Turkey/Counties/Kinkkale|Kinkkale]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Turkey/Counties/Kinkkale.public|Kinkkale.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Turkey/Counties/Kinkkale.internal|Kinkkale.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Turkey/Counties/Kinkkale.protect|Kinkkale.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Turkey/Counties/Kinkkale.private|Kinkkale.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Turkey/Counties/Kinkkale.personal|Kinkkale.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Turkey/Counties/Kinkkale.secret|Kinkkale.secret]] 
 

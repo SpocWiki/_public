@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 47.1 , 29.4 ] 
 type: geo-Region
 title: Grigoriopol
@@ -40,10 +40,11 @@ markerFolder: ./Grigoriopol/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Moldova/Counties/Grigoriopol.md|Grigoriopol]] 
-- [[../../../../_internal/geo/Continent/Europe/Moldova/Counties/Grigoriopol.internal|Grigoriopol.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Moldova/Counties/Grigoriopol.protect|Grigoriopol.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Moldova/Counties/Grigoriopol.private|Grigoriopol.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Moldova/Counties/Grigoriopol.personal|Grigoriopol.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Moldova/Counties/Grigoriopol.secret|Grigoriopol.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Moldova/Counties/Grigoriopol|Grigoriopol]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Moldova/Counties/Grigoriopol.public|Grigoriopol.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Moldova/Counties/Grigoriopol.internal|Grigoriopol.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Moldova/Counties/Grigoriopol.protect|Grigoriopol.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Moldova/Counties/Grigoriopol.private|Grigoriopol.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Moldova/Counties/Grigoriopol.personal|Grigoriopol.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Moldova/Counties/Grigoriopol.secret|Grigoriopol.secret]] 
 

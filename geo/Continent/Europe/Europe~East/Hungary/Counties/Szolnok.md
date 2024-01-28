@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 47.2 , 20.2 ] 
 type: geo-Region
 title: Szolnok
@@ -40,10 +40,11 @@ markerFolder: ./Szolnok/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Hungary/Counties/Szolnok.md|Szolnok]] 
-- [[../../../../_internal/geo/Continent/Europe/Hungary/Counties/Szolnok.internal|Szolnok.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Hungary/Counties/Szolnok.protect|Szolnok.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Hungary/Counties/Szolnok.private|Szolnok.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Hungary/Counties/Szolnok.personal|Szolnok.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Hungary/Counties/Szolnok.secret|Szolnok.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Hungary/Counties/Szolnok|Szolnok]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Hungary/Counties/Szolnok.public|Szolnok.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Hungary/Counties/Szolnok.internal|Szolnok.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Hungary/Counties/Szolnok.protect|Szolnok.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Hungary/Counties/Szolnok.private|Szolnok.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Hungary/Counties/Szolnok.personal|Szolnok.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Hungary/Counties/Szolnok.secret|Szolnok.secret]] 
 

@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 36.02 , 14.25 ] 
 type: geo-Region
 title: Sannat
@@ -40,10 +40,11 @@ markerFolder: ./Sannat/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Malta/Counties/Sannat.md|Sannat]] 
-- [[../../../../_internal/geo/Continent/Europe/Malta/Counties/Sannat.internal|Sannat.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Malta/Counties/Sannat.protect|Sannat.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Malta/Counties/Sannat.private|Sannat.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Malta/Counties/Sannat.personal|Sannat.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Malta/Counties/Sannat.secret|Sannat.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Malta/Counties/Sannat|Sannat]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Malta/Counties/Sannat.public|Sannat.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Malta/Counties/Sannat.internal|Sannat.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Malta/Counties/Sannat.protect|Sannat.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Malta/Counties/Sannat.private|Sannat.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Malta/Counties/Sannat.personal|Sannat.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Malta/Counties/Sannat.secret|Sannat.secret]] 
 

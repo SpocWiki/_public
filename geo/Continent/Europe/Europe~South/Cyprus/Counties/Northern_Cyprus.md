@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 35.3 , 33.8 ] 
 type: geo-Region
 title: Northern_Cyprus
@@ -40,10 +40,11 @@ markerFolder: ./Northern_Cyprus/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Cyprus/Counties/Northern_Cyprus.md|Northern_Cyprus]] 
-- [[../../../../_internal/geo/Continent/Europe/Cyprus/Counties/Northern_Cyprus.internal|Northern_Cyprus.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Cyprus/Counties/Northern_Cyprus.protect|Northern_Cyprus.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Cyprus/Counties/Northern_Cyprus.private|Northern_Cyprus.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Cyprus/Counties/Northern_Cyprus.personal|Northern_Cyprus.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Cyprus/Counties/Northern_Cyprus.secret|Northern_Cyprus.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Cyprus/Counties/Northern_Cyprus|Northern_Cyprus]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Cyprus/Counties/Northern_Cyprus.public|Northern_Cyprus.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Cyprus/Counties/Northern_Cyprus.internal|Northern_Cyprus.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Cyprus/Counties/Northern_Cyprus.protect|Northern_Cyprus.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Cyprus/Counties/Northern_Cyprus.private|Northern_Cyprus.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Cyprus/Counties/Northern_Cyprus.personal|Northern_Cyprus.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Cyprus/Counties/Northern_Cyprus.secret|Northern_Cyprus.secret]] 
 

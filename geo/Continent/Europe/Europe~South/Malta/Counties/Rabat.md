@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 35.88 , 14.37 ] 
 type: geo-Region
 title: Rabat
@@ -40,10 +40,11 @@ markerFolder: ./Rabat/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Malta/Counties/Rabat.md|Rabat]] 
-- [[../../../../_internal/geo/Continent/Europe/Malta/Counties/Rabat.internal|Rabat.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Malta/Counties/Rabat.protect|Rabat.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Malta/Counties/Rabat.private|Rabat.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Malta/Counties/Rabat.personal|Rabat.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Malta/Counties/Rabat.secret|Rabat.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Malta/Counties/Rabat|Rabat]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Malta/Counties/Rabat.public|Rabat.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Malta/Counties/Rabat.internal|Rabat.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Malta/Counties/Rabat.protect|Rabat.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Malta/Counties/Rabat.private|Rabat.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Malta/Counties/Rabat.personal|Rabat.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Malta/Counties/Rabat.secret|Rabat.secret]] 
 

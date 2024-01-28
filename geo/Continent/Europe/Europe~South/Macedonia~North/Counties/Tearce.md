@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 42.1 , 21 ] 
 type: geo-Region
 title: Tearce
@@ -40,10 +40,11 @@ markerFolder: ./Tearce/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Macedonia~North/Counties/Tearce.md|Tearce]] 
-- [[../../../../_internal/geo/Continent/Europe/Macedonia~North/Counties/Tearce.internal|Tearce.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Macedonia~North/Counties/Tearce.protect|Tearce.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Macedonia~North/Counties/Tearce.private|Tearce.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Macedonia~North/Counties/Tearce.personal|Tearce.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Macedonia~North/Counties/Tearce.secret|Tearce.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Macedonia~North/Counties/Tearce|Tearce]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Macedonia~North/Counties/Tearce.public|Tearce.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Macedonia~North/Counties/Tearce.internal|Tearce.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Macedonia~North/Counties/Tearce.protect|Tearce.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Macedonia~North/Counties/Tearce.private|Tearce.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Macedonia~North/Counties/Tearce.personal|Tearce.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Macedonia~North/Counties/Tearce.secret|Tearce.secret]] 
 

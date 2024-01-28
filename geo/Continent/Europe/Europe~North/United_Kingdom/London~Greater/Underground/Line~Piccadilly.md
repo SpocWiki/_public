@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 51.527 , -0.2841 ] 
 type: geo-Region
 title: Line~Piccadilly
@@ -52,14 +52,14 @@ markerFolder: ./Station/
 1.	[[Sub~Cockfosters]] 
 2.	[[Sub~Oakwood]] 
 3.	[[Sub~Southgate]] 
-4.[[Sub~Arnos_Grove]]] 
+4.[[Sub~Arnos_Grove]]  
 Tunnel_section_starts...
-6.[[Sub~Bounds_Green]]] 
+6.[[Sub~Bounds_Green]]  
 7.	[[Sub~Wood_Green]] 
 8.	[[Sub~Turnpike_Lane]] 
 9.	[[Sub~Manor_House]] 
 10.	[[Sub~Finsbury_Park]] 
-11.[[Sub~Arsenal]]] 
+11.[[Sub~Arsenal]]  
 12.	[[Sub~Holloway_Road]] 
 13.	[[Sub~Caledonian_Road]] 
 14.	[[Sub~King's_Cross_St_Pancras]] 
@@ -75,33 +75,33 @@ Tunnel_section_starts...
 24.	[[Sub~Gloucester_Road]] 
 25.	[[Sub~Earl's_Court]] 
 ...Tunnel_section_ends
-27.[[Sub~Barons_Court]]] 
+27.[[Sub~Barons_Court]]  
 28.	[[Sub~Hammersmith]] 
 29.	[[Sub~Turnham_Green]] 
 
 Heathrow_branch:
-1.[[Sub~Acton_Town]]] 
+1.[[Sub~Acton_Town]]  
 2.	[[Sub~South_Ealing]] 
 3.	[[Sub~Northfields]] 
-4.[[Sub~Boston_Manor]]] 
+4.[[Sub~Boston_Manor]]  
 5.	[[Sub~Osterley]] 
 6.	[[Sub~Hounslow_East]] 
 7.	[[Sub~Hounslow_Central]] 
 Start_of_tunnel_section: 
 41.	[[Sub~Hounslow_West]] 
 42.	[[Sub~Hatton_Cross]] 
-43.[[Sub~Heathrow_Terminals_1,_2_&_3]]] 
-44.[[Sub~Heathrow_Terminal_4]]]
-45.[[Sub~Heathrow_Terminal_5]]]  
+43.[[Sub~Heathrow_Terminals_1,_2_&_3]]  
+44.[[Sub~Heathrow_Terminal_4]]  
+45.[[Sub~Heathrow_Terminal_5]]   
 
 Uxbridge_branch:
-1.[[Sub~Acton_Town]]] 
+1.[[Sub~Acton_Town]]  
 2.	[[Sub~Ealing_Common]] 
 3.	[[Sub~North_Ealing]] 
 4.	[[Sub~Park_Royal]] 
-5.[[Sub~Alperton]]] 
+5.[[Sub~Alperton]]  
 6.	[[Sub~Sudbury_Town]] 
-7.[[Sub~Sudbury_Hill]]] 
+7.[[Sub~Sudbury_Hill]]  
 8.	[[Sub~South_Harrow]] 
 
 Shared_section_with_Metropolitan_line:
@@ -122,9 +122,10 @@ FROM outgoing([[Line~Piccadilly]])
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_public/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Line~Piccadilly.md|Line~Piccadilly]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Line~Piccadilly.internal|Line~Piccadilly.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Line~Piccadilly.protect|Line~Piccadilly.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Line~Piccadilly.private|Line~Piccadilly.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Line~Piccadilly.personal|Line~Piccadilly.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Line~Piccadilly.secret|Line~Piccadilly.secret]] 
+- [[../../../../../../../../_Standards/geo/Continent/Europe/Europe~North/United_Kingdom/London~Greater/Underground/Line~Piccadilly|Line~Piccadilly]] 
+- [[../../../../../../../../_public/geo/Continent/Europe/Europe~North/United_Kingdom/London~Greater/Underground/Line~Piccadilly.public|Line~Piccadilly.public]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/Europe~North/United_Kingdom/London~Greater/Underground/Line~Piccadilly.internal|Line~Piccadilly.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/Europe~North/United_Kingdom/London~Greater/Underground/Line~Piccadilly.protect|Line~Piccadilly.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/Europe~North/United_Kingdom/London~Greater/Underground/Line~Piccadilly.private|Line~Piccadilly.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/Europe~North/United_Kingdom/London~Greater/Underground/Line~Piccadilly.personal|Line~Piccadilly.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/Europe~North/United_Kingdom/London~Greater/Underground/Line~Piccadilly.secret|Line~Piccadilly.secret]] 

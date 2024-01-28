@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 53.6 , -6.6 ] 
 type: geo-Region
 title: Meath
@@ -40,10 +40,11 @@ markerFolder: ./Meath/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Ireland/Counties/Meath.md|Meath]] 
-- [[../../../../_internal/geo/Continent/Europe/Ireland/Counties/Meath.internal|Meath.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Ireland/Counties/Meath.protect|Meath.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Ireland/Counties/Meath.private|Meath.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Ireland/Counties/Meath.personal|Meath.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Ireland/Counties/Meath.secret|Meath.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Ireland/Counties/Meath|Meath]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Ireland/Counties/Meath.public|Meath.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Ireland/Counties/Meath.internal|Meath.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Ireland/Counties/Meath.protect|Meath.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Ireland/Counties/Meath.private|Meath.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Ireland/Counties/Meath.personal|Meath.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Ireland/Counties/Meath.secret|Meath.secret]] 
 

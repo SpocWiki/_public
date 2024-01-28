@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 41.5 , 20.8 ] 
 type: geo-Region
 title: Drugovo
@@ -40,10 +40,11 @@ markerFolder: ./Drugovo/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Macedonia~North/Counties/Drugovo.md|Drugovo]] 
-- [[../../../../_internal/geo/Continent/Europe/Macedonia~North/Counties/Drugovo.internal|Drugovo.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Macedonia~North/Counties/Drugovo.protect|Drugovo.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Macedonia~North/Counties/Drugovo.private|Drugovo.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Macedonia~North/Counties/Drugovo.personal|Drugovo.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Macedonia~North/Counties/Drugovo.secret|Drugovo.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Macedonia~North/Counties/Drugovo|Drugovo]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Macedonia~North/Counties/Drugovo.public|Drugovo.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Macedonia~North/Counties/Drugovo.internal|Drugovo.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Macedonia~North/Counties/Drugovo.protect|Drugovo.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Macedonia~North/Counties/Drugovo.private|Drugovo.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Macedonia~North/Counties/Drugovo.personal|Drugovo.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Macedonia~North/Counties/Drugovo.secret|Drugovo.secret]] 
 

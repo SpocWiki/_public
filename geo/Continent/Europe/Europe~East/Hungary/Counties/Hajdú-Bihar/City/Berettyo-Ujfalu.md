@@ -1,5 +1,5 @@
-﻿---
-location: [47.22,21.53]
+---
+location: [47.22,21.53] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,29 +12,30 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::21.53]
-[geo-lat::47.22]
-[name::Berettyo-Ujfalu]
-[State::]
-[Country::[[Hungary]]]
-[StateId::]
-[Population::]
-[Unknown::]
+[geo-lon::21.53] 
+[geo-lat::47.22] 
+[name::Berettyo-Ujfalu] 
+State ::  
+Country :: [[Hungary]]  
+[StateId::] 
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Berettyo-Ujfalu
-coordinates: [[Berettyo-Ujfalu]]
-markerFile: [[Berettyo-Ujfalu]]
+coordinates: [[Berettyo-Ujfalu]] 
+markerFile: [[Berettyo-Ujfalu]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_public/geo/Continent/Europe/Hungary/City/Berettyo-Ujfalu.md|Berettyo-Ujfalu]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Hungary/City/Berettyo-Ujfalu.internal|Berettyo-Ujfalu.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Hungary/City/Berettyo-Ujfalu.protect|Berettyo-Ujfalu.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Hungary/City/Berettyo-Ujfalu.private|Berettyo-Ujfalu.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Hungary/City/Berettyo-Ujfalu.personal|Berettyo-Ujfalu.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Hungary/City/Berettyo-Ujfalu.secret|Berettyo-Ujfalu.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Hungary/City/Berettyo-Ujfalu|Berettyo-Ujfalu]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Hungary/City/Berettyo-Ujfalu.public|Berettyo-Ujfalu.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Hungary/City/Berettyo-Ujfalu.internal|Berettyo-Ujfalu.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Hungary/City/Berettyo-Ujfalu.protect|Berettyo-Ujfalu.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Hungary/City/Berettyo-Ujfalu.private|Berettyo-Ujfalu.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Hungary/City/Berettyo-Ujfalu.personal|Berettyo-Ujfalu.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Hungary/City/Berettyo-Ujfalu.secret|Berettyo-Ujfalu.secret]] 

@@ -1,5 +1,5 @@
-﻿---
-location: [66.95,19.85]
+---
+location: [66.95,19.85] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,29 +12,30 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::19.85]
-[geo-lat::66.95]
-[name::Porjus]
-[State::]
-[Country::[[Sweden]]]
-[StateId::]
-[Population::]
-[Unknown::]
+[geo-lon::19.85] 
+[geo-lat::66.95] 
+[name::Porjus] 
+State ::  
+Country :: [[Sweden]]  
+[StateId::] 
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Porjus
-coordinates: [[Porjus]]
-markerFile: [[Porjus]]
+coordinates: [[Porjus]] 
+markerFile: [[Porjus]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_public/geo/Continent/Europe/Sweden/City/Porjus.md|Porjus]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Sweden/City/Porjus.internal|Porjus.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Sweden/City/Porjus.protect|Porjus.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Sweden/City/Porjus.private|Porjus.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Sweden/City/Porjus.personal|Porjus.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Sweden/City/Porjus.secret|Porjus.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Sweden/City/Porjus|Porjus]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Sweden/City/Porjus.public|Porjus.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Sweden/City/Porjus.internal|Porjus.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Sweden/City/Porjus.protect|Porjus.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Sweden/City/Porjus.private|Porjus.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Sweden/City/Porjus.personal|Porjus.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Sweden/City/Porjus.secret|Porjus.secret]] 

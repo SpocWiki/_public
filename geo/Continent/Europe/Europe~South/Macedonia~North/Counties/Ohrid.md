@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 41.1 , 20.8 ] 
 type: geo-Region
 title: Ohrid
@@ -40,10 +40,11 @@ markerFolder: ./Ohrid/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Macedonia~North/Counties/Ohrid.md|Ohrid]] 
-- [[../../../../_internal/geo/Continent/Europe/Macedonia~North/Counties/Ohrid.internal|Ohrid.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Macedonia~North/Counties/Ohrid.protect|Ohrid.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Macedonia~North/Counties/Ohrid.private|Ohrid.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Macedonia~North/Counties/Ohrid.personal|Ohrid.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Macedonia~North/Counties/Ohrid.secret|Ohrid.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Macedonia~North/Counties/Ohrid|Ohrid]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Macedonia~North/Counties/Ohrid.public|Ohrid.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Macedonia~North/Counties/Ohrid.internal|Ohrid.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Macedonia~North/Counties/Ohrid.protect|Ohrid.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Macedonia~North/Counties/Ohrid.private|Ohrid.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Macedonia~North/Counties/Ohrid.personal|Ohrid.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Macedonia~North/Counties/Ohrid.secret|Ohrid.secret]] 
 

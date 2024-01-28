@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 55 , -3.8 ] 
 type: geo-Region
 title: Dumfries_and_Galloway
@@ -40,10 +40,11 @@ markerFolder: ./Dumfries_and_Galloway/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/United_Kingdom/Scotland/Counties/Dumfries_and_Galloway.md|Dumfries_and_Galloway]] 
-- [[../../../../_internal/geo/Continent/Europe/United_Kingdom/Scotland/Counties/Dumfries_and_Galloway.internal|Dumfries_and_Galloway.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/United_Kingdom/Scotland/Counties/Dumfries_and_Galloway.protect|Dumfries_and_Galloway.protect]] 
-- [[../../../../_private/geo/Continent/Europe/United_Kingdom/Scotland/Counties/Dumfries_and_Galloway.private|Dumfries_and_Galloway.private]] 
-- [[../../../../_personal/geo/Continent/Europe/United_Kingdom/Scotland/Counties/Dumfries_and_Galloway.personal|Dumfries_and_Galloway.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/United_Kingdom/Scotland/Counties/Dumfries_and_Galloway.secret|Dumfries_and_Galloway.secret]] 
+- [[../../../../../../../../_Standards/geo/Continent/Europe/Europe~North/United_Kingdom/Scotland/Counties/Dumfries_and_Galloway|Dumfries_and_Galloway]] 
+- [[../../../../../../../../_public/geo/Continent/Europe/Europe~North/United_Kingdom/Scotland/Counties/Dumfries_and_Galloway.public|Dumfries_and_Galloway.public]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/Europe~North/United_Kingdom/Scotland/Counties/Dumfries_and_Galloway.internal|Dumfries_and_Galloway.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/Europe~North/United_Kingdom/Scotland/Counties/Dumfries_and_Galloway.protect|Dumfries_and_Galloway.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/Europe~North/United_Kingdom/Scotland/Counties/Dumfries_and_Galloway.private|Dumfries_and_Galloway.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/Europe~North/United_Kingdom/Scotland/Counties/Dumfries_and_Galloway.personal|Dumfries_and_Galloway.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/Europe~North/United_Kingdom/Scotland/Counties/Dumfries_and_Galloway.secret|Dumfries_and_Galloway.secret]] 
 

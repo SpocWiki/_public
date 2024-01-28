@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 61.3 , 16.4 ] 
 type: geo-Region
 title: Gävleborg
@@ -40,10 +40,11 @@ markerFolder: ./Gävleborg/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Sweden/Counties/Gävleborg.md|Gävleborg]] 
-- [[../../../../_internal/geo/Continent/Europe/Sweden/Counties/Gävleborg.internal|Gävleborg.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Sweden/Counties/Gävleborg.protect|Gävleborg.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Sweden/Counties/Gävleborg.private|Gävleborg.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Sweden/Counties/Gävleborg.personal|Gävleborg.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Sweden/Counties/Gävleborg.secret|Gävleborg.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Sweden/Counties/Gävleborg|Gävleborg]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Sweden/Counties/Gävleborg.public|Gävleborg.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Sweden/Counties/Gävleborg.internal|Gävleborg.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Sweden/Counties/Gävleborg.protect|Gävleborg.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Sweden/Counties/Gävleborg.private|Gävleborg.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Sweden/Counties/Gävleborg.personal|Gävleborg.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Sweden/Counties/Gävleborg.secret|Gävleborg.secret]] 
 

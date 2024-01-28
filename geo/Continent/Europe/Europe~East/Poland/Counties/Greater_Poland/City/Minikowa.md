@@ -1,5 +1,5 @@
-﻿---
-location: [52.35,16.95]
+---
+location: [52.35,16.95] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,29 +12,30 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::16.95]
-[geo-lat::52.35]
-[name::Minikowa]
-[State::]
-[Country::[[Poland]]]
-[StateId::]
-[Population::]
-[Unknown::]
+[geo-lon::16.95] 
+[geo-lat::52.35] 
+[name::Minikowa] 
+State ::  
+Country :: [[Poland]]  
+[StateId::] 
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Minikowa
-coordinates: [[Minikowa]]
-markerFile: [[Minikowa]]
+coordinates: [[Minikowa]] 
+markerFile: [[Minikowa]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_public/geo/Continent/Europe/Poland/City/Minikowa.md|Minikowa]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Minikowa.internal|Minikowa.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Minikowa.protect|Minikowa.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Minikowa.private|Minikowa.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Minikowa.personal|Minikowa.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Minikowa.secret|Minikowa.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Poland/City/Minikowa|Minikowa]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Poland/City/Minikowa.public|Minikowa.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Poland/City/Minikowa.internal|Minikowa.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Poland/City/Minikowa.protect|Minikowa.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Poland/City/Minikowa.private|Minikowa.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Poland/City/Minikowa.personal|Minikowa.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Poland/City/Minikowa.secret|Minikowa.secret]] 

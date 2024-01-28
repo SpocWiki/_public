@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 35.84 , 14.42 ] 
 type: geo-Region
 title: Siġġiewi
@@ -40,10 +40,11 @@ markerFolder: ./Siġġiewi/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Malta/Counties/Siġġiewi.md|Siġġiewi]] 
-- [[../../../../_internal/geo/Continent/Europe/Malta/Counties/Siġġiewi.internal|Siġġiewi.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Malta/Counties/Siġġiewi.protect|Siġġiewi.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Malta/Counties/Siġġiewi.private|Siġġiewi.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Malta/Counties/Siġġiewi.personal|Siġġiewi.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Malta/Counties/Siġġiewi.secret|Siġġiewi.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Malta/Counties/Siġġiewi|Siġġiewi]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Malta/Counties/Siġġiewi.public|Siġġiewi.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Malta/Counties/Siġġiewi.internal|Siġġiewi.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Malta/Counties/Siġġiewi.protect|Siġġiewi.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Malta/Counties/Siġġiewi.private|Siġġiewi.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Malta/Counties/Siġġiewi.personal|Siġġiewi.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Malta/Counties/Siġġiewi.secret|Siġġiewi.secret]] 
 

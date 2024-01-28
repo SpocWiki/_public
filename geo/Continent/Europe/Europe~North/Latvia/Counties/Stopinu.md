@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 56.94 , 24.31 ] 
 type: geo-Region
 title: Stopinu
@@ -40,10 +40,11 @@ markerFolder: ./Stopinu/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Latvia/Counties/Stopinu.md|Stopinu]] 
-- [[../../../../_internal/geo/Continent/Europe/Latvia/Counties/Stopinu.internal|Stopinu.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Latvia/Counties/Stopinu.protect|Stopinu.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Latvia/Counties/Stopinu.private|Stopinu.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Latvia/Counties/Stopinu.personal|Stopinu.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Latvia/Counties/Stopinu.secret|Stopinu.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Latvia/Counties/Stopinu|Stopinu]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Latvia/Counties/Stopinu.public|Stopinu.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Latvia/Counties/Stopinu.internal|Stopinu.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Latvia/Counties/Stopinu.protect|Stopinu.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Latvia/Counties/Stopinu.private|Stopinu.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Latvia/Counties/Stopinu.personal|Stopinu.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Latvia/Counties/Stopinu.secret|Stopinu.secret]] 
 

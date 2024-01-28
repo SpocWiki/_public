@@ -1,5 +1,5 @@
-﻿---
-location: [63.3,25.62]
+---
+location: [63.3,25.62] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,29 +12,30 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::25.62]
-[geo-lat::63.3]
-[name::Pihtipudas]
-[State::]
-[Country::[[Finland]]]
-[StateId::]
-[Population::]
-[Unknown::]
+[geo-lon::25.62] 
+[geo-lat::63.3] 
+[name::Pihtipudas] 
+State ::  
+Country :: [[Finland]]  
+[StateId::] 
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Pihtipudas
-coordinates: [[Pihtipudas]]
-markerFile: [[Pihtipudas]]
+coordinates: [[Pihtipudas]] 
+markerFile: [[Pihtipudas]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_public/geo/Continent/Europe/Finland/City/Pihtipudas.md|Pihtipudas]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Finland/City/Pihtipudas.internal|Pihtipudas.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Finland/City/Pihtipudas.protect|Pihtipudas.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Finland/City/Pihtipudas.private|Pihtipudas.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Finland/City/Pihtipudas.personal|Pihtipudas.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Finland/City/Pihtipudas.secret|Pihtipudas.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Finland/City/Pihtipudas|Pihtipudas]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Finland/City/Pihtipudas.public|Pihtipudas.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Finland/City/Pihtipudas.internal|Pihtipudas.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Finland/City/Pihtipudas.protect|Pihtipudas.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Finland/City/Pihtipudas.private|Pihtipudas.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Finland/City/Pihtipudas.personal|Pihtipudas.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Finland/City/Pihtipudas.secret|Pihtipudas.secret]] 

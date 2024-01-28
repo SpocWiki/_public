@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 37.9 , 21.5 ] 
 type: geo-Region
 title: Dytiki_Ellada
@@ -40,10 +40,11 @@ markerFolder: ./Dytiki_Ellada/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Greece/Counties/Dytiki_Ellada.md|Dytiki_Ellada]] 
-- [[../../../../_internal/geo/Continent/Europe/Greece/Counties/Dytiki_Ellada.internal|Dytiki_Ellada.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Greece/Counties/Dytiki_Ellada.protect|Dytiki_Ellada.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Greece/Counties/Dytiki_Ellada.private|Dytiki_Ellada.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Greece/Counties/Dytiki_Ellada.personal|Dytiki_Ellada.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Greece/Counties/Dytiki_Ellada.secret|Dytiki_Ellada.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Greece/Counties/Dytiki_Ellada|Dytiki_Ellada]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Greece/Counties/Dytiki_Ellada.public|Dytiki_Ellada.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Greece/Counties/Dytiki_Ellada.internal|Dytiki_Ellada.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Greece/Counties/Dytiki_Ellada.protect|Dytiki_Ellada.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Greece/Counties/Dytiki_Ellada.private|Dytiki_Ellada.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Greece/Counties/Dytiki_Ellada.personal|Dytiki_Ellada.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Greece/Counties/Dytiki_Ellada.secret|Dytiki_Ellada.secret]] 
 

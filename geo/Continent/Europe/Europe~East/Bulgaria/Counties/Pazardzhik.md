@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 42.2 , 24.1 ] 
 type: geo-Region
 title: Pazardzhik
@@ -40,10 +40,11 @@ markerFolder: ./Pazardzhik/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Bulgaria/Counties/Pazardzhik.md|Pazardzhik]] 
-- [[../../../../_internal/geo/Continent/Europe/Bulgaria/Counties/Pazardzhik.internal|Pazardzhik.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Bulgaria/Counties/Pazardzhik.protect|Pazardzhik.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Bulgaria/Counties/Pazardzhik.private|Pazardzhik.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Bulgaria/Counties/Pazardzhik.personal|Pazardzhik.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Bulgaria/Counties/Pazardzhik.secret|Pazardzhik.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Bulgaria/Counties/Pazardzhik|Pazardzhik]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Bulgaria/Counties/Pazardzhik.public|Pazardzhik.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Bulgaria/Counties/Pazardzhik.internal|Pazardzhik.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Bulgaria/Counties/Pazardzhik.protect|Pazardzhik.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Bulgaria/Counties/Pazardzhik.private|Pazardzhik.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Bulgaria/Counties/Pazardzhik.personal|Pazardzhik.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Bulgaria/Counties/Pazardzhik.secret|Pazardzhik.secret]] 
 

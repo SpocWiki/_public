@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 41.5 , 20.5 ] 
 type: geo-Region
 title: Debar
@@ -40,10 +40,11 @@ markerFolder: ./Debar/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Macedonia~North/Counties/Debar.md|Debar]] 
-- [[../../../../_internal/geo/Continent/Europe/Macedonia~North/Counties/Debar.internal|Debar.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Macedonia~North/Counties/Debar.protect|Debar.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Macedonia~North/Counties/Debar.private|Debar.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Macedonia~North/Counties/Debar.personal|Debar.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Macedonia~North/Counties/Debar.secret|Debar.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Macedonia~North/Counties/Debar|Debar]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Macedonia~North/Counties/Debar.public|Debar.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Macedonia~North/Counties/Debar.internal|Debar.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Macedonia~North/Counties/Debar.protect|Debar.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Macedonia~North/Counties/Debar.private|Debar.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Macedonia~North/Counties/Debar.personal|Debar.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Macedonia~North/Counties/Debar.secret|Debar.secret]] 
 

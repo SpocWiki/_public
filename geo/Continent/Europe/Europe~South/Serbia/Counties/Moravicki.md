@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 43.8 , 20.3 ] 
 type: geo-Region
 title: Moravicki
@@ -40,10 +40,11 @@ markerFolder: ./Moravicki/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Serbia/Counties/Moravicki.md|Moravicki]] 
-- [[../../../../_internal/geo/Continent/Europe/Serbia/Counties/Moravicki.internal|Moravicki.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Serbia/Counties/Moravicki.protect|Moravicki.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Serbia/Counties/Moravicki.private|Moravicki.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Serbia/Counties/Moravicki.personal|Moravicki.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Serbia/Counties/Moravicki.secret|Moravicki.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Serbia/Counties/Moravicki|Moravicki]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Serbia/Counties/Moravicki.public|Moravicki.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Serbia/Counties/Moravicki.internal|Moravicki.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Serbia/Counties/Moravicki.protect|Moravicki.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Serbia/Counties/Moravicki.private|Moravicki.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Serbia/Counties/Moravicki.personal|Moravicki.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Serbia/Counties/Moravicki.secret|Moravicki.secret]] 
 

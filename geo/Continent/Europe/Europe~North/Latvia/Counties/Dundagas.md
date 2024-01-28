@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 57.6 , 22.4 ] 
 type: geo-Region
 title: Dundagas
@@ -40,10 +40,11 @@ markerFolder: ./Dundagas/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Latvia/Counties/Dundagas.md|Dundagas]] 
-- [[../../../../_internal/geo/Continent/Europe/Latvia/Counties/Dundagas.internal|Dundagas.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Latvia/Counties/Dundagas.protect|Dundagas.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Latvia/Counties/Dundagas.private|Dundagas.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Latvia/Counties/Dundagas.personal|Dundagas.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Latvia/Counties/Dundagas.secret|Dundagas.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Latvia/Counties/Dundagas|Dundagas]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Latvia/Counties/Dundagas.public|Dundagas.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Latvia/Counties/Dundagas.internal|Dundagas.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Latvia/Counties/Dundagas.protect|Dundagas.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Latvia/Counties/Dundagas.private|Dundagas.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Latvia/Counties/Dundagas.personal|Dundagas.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Latvia/Counties/Dundagas.secret|Dundagas.secret]] 
 

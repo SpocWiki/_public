@@ -1,5 +1,5 @@
-﻿---
-location: [35.13334,33.46667]
+---
+location: [35.13334,33.46667] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,29 +12,30 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::33.46667]
-[geo-lat::35.13334]
-[name::Nicosia]
-[State::]
-[Country::[[Cyprus]]]
-[StateId::]
-[Population::]
-[Unknown::32]
+[geo-lon::33.46667] 
+[geo-lat::35.13334] 
+[name::Nicosia] 
+State ::  
+Country :: [[../../../../Cyprus]]  
+[StateId::] 
+[Population::] 
+[Unknown::32] 
 
 
 ```leaflet
 id: Nicosia
-coordinates: [[Nicosia]]
-markerFile: [[Nicosia]]
+coordinates: [[Nicosia]] 
+markerFile: [[Nicosia]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_public/geo/Continent/Europe/Cyprus/City/Nicosia.md|Nicosia]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Cyprus/City/Nicosia.internal|Nicosia.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Cyprus/City/Nicosia.protect|Nicosia.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Cyprus/City/Nicosia.private|Nicosia.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Cyprus/City/Nicosia.personal|Nicosia.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Cyprus/City/Nicosia.secret|Nicosia.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Cyprus/City/Nicosia|Nicosia]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Cyprus/City/Nicosia.public|Nicosia.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Cyprus/City/Nicosia.internal|Nicosia.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Cyprus/City/Nicosia.protect|Nicosia.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Cyprus/City/Nicosia.private|Nicosia.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Cyprus/City/Nicosia.personal|Nicosia.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Cyprus/City/Nicosia.secret|Nicosia.secret]] 

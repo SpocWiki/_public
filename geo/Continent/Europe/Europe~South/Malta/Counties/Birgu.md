@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 35.89 , 14.52 ] 
 type: geo-Region
 title: Birgu
@@ -40,10 +40,11 @@ markerFolder: ./Birgu/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Malta/Counties/Birgu.md|Birgu]] 
-- [[../../../../_internal/geo/Continent/Europe/Malta/Counties/Birgu.internal|Birgu.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Malta/Counties/Birgu.protect|Birgu.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Malta/Counties/Birgu.private|Birgu.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Malta/Counties/Birgu.personal|Birgu.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Malta/Counties/Birgu.secret|Birgu.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Malta/Counties/Birgu|Birgu]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Malta/Counties/Birgu.public|Birgu.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Malta/Counties/Birgu.internal|Birgu.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Malta/Counties/Birgu.protect|Birgu.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Malta/Counties/Birgu.private|Birgu.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Malta/Counties/Birgu.personal|Birgu.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Malta/Counties/Birgu.secret|Birgu.secret]] 
 

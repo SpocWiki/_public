@@ -1,5 +1,5 @@
-﻿---
-location: [51.67,16.08]
+---
+location: [51.67,16.08] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,29 +12,30 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::16.08]
-[geo-lat::51.67]
-[name::Glogau]
-[State::]
-[Country::[[Poland]]]
-[StateId::]
-[Population::]
-[Unknown::]
+[geo-lon::16.08] 
+[geo-lat::51.67] 
+[name::Glogau] 
+State ::  
+Country :: [[Poland]]  
+[StateId::] 
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Glogau
-coordinates: [[Glogau]]
-markerFile: [[Glogau]]
+coordinates: [[Glogau]] 
+markerFile: [[Glogau]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_public/geo/Continent/Europe/Poland/City/Glogau.md|Glogau]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Glogau.internal|Glogau.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Glogau.protect|Glogau.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Glogau.private|Glogau.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Glogau.personal|Glogau.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Glogau.secret|Glogau.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Poland/City/Glogau|Glogau]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Poland/City/Glogau.public|Glogau.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Poland/City/Glogau.internal|Glogau.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Poland/City/Glogau.protect|Glogau.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Poland/City/Glogau.private|Glogau.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Poland/City/Glogau.personal|Glogau.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Poland/City/Glogau.secret|Glogau.secret]] 

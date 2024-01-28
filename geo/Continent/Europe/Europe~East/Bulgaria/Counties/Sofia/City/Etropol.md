@@ -1,5 +1,5 @@
-﻿---
-location: [42.83,24]
+---
+location: [42.83,24] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,29 +12,30 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::24]
-[geo-lat::42.83]
-[name::Etropol]
-[State::]
-[Country::[[Bulgaria]]]
-[StateId::]
-[Population::]
-[Unknown::]
+[geo-lon::24] 
+[geo-lat::42.83] 
+[name::Etropol] 
+State ::  
+Country :: [[Bulgaria]]  
+[StateId::] 
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Etropol
-coordinates: [[Etropol]]
-markerFile: [[Etropol]]
+coordinates: [[Etropol]] 
+markerFile: [[Etropol]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_public/geo/Continent/Europe/Bulgaria/City/Etropol.md|Etropol]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Bulgaria/City/Etropol.internal|Etropol.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Bulgaria/City/Etropol.protect|Etropol.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Bulgaria/City/Etropol.private|Etropol.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Bulgaria/City/Etropol.personal|Etropol.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Bulgaria/City/Etropol.secret|Etropol.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Bulgaria/City/Etropol|Etropol]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Bulgaria/City/Etropol.public|Etropol.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Bulgaria/City/Etropol.internal|Etropol.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Bulgaria/City/Etropol.protect|Etropol.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Bulgaria/City/Etropol.private|Etropol.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Bulgaria/City/Etropol.personal|Etropol.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Bulgaria/City/Etropol.secret|Etropol.secret]] 

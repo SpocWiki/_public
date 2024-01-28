@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 46.6 , 28.4 ] 
 type: geo-Region
 title: Leova
@@ -40,10 +40,11 @@ markerFolder: ./Leova/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Moldova/Counties/Leova.md|Leova]] 
-- [[../../../../_internal/geo/Continent/Europe/Moldova/Counties/Leova.internal|Leova.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Moldova/Counties/Leova.protect|Leova.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Moldova/Counties/Leova.private|Leova.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Moldova/Counties/Leova.personal|Leova.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Moldova/Counties/Leova.secret|Leova.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Moldova/Counties/Leova|Leova]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Moldova/Counties/Leova.public|Leova.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Moldova/Counties/Leova.internal|Leova.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Moldova/Counties/Leova.protect|Leova.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Moldova/Counties/Leova.private|Leova.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Moldova/Counties/Leova.personal|Leova.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Moldova/Counties/Leova.secret|Leova.secret]] 
 

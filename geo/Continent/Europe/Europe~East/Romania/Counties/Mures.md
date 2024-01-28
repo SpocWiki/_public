@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 46.6 , 24.6 ] 
 type: geo-Region
 title: Mures
@@ -40,10 +40,11 @@ markerFolder: ./Mures/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Romania/Counties/Mures.md|Mures]] 
-- [[../../../../_internal/geo/Continent/Europe/Romania/Counties/Mures.internal|Mures.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Romania/Counties/Mures.protect|Mures.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Romania/Counties/Mures.private|Mures.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Romania/Counties/Mures.personal|Mures.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Romania/Counties/Mures.secret|Mures.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Romania/Counties/Mures|Mures]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Romania/Counties/Mures.public|Mures.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Romania/Counties/Mures.internal|Mures.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Romania/Counties/Mures.protect|Mures.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Romania/Counties/Mures.private|Mures.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Romania/Counties/Mures.personal|Mures.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Romania/Counties/Mures.secret|Mures.secret]] 
 

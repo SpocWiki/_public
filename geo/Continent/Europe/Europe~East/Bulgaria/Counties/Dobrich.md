@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 43.7 , 27.9 ] 
 type: geo-Region
 title: Dobrich
@@ -40,10 +40,11 @@ markerFolder: ./Dobrich/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Bulgaria/Counties/Dobrich.md|Dobrich]] 
-- [[../../../../_internal/geo/Continent/Europe/Bulgaria/Counties/Dobrich.internal|Dobrich.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Bulgaria/Counties/Dobrich.protect|Dobrich.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Bulgaria/Counties/Dobrich.private|Dobrich.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Bulgaria/Counties/Dobrich.personal|Dobrich.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Bulgaria/Counties/Dobrich.secret|Dobrich.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Bulgaria/Counties/Dobrich|Dobrich]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Bulgaria/Counties/Dobrich.public|Dobrich.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Bulgaria/Counties/Dobrich.internal|Dobrich.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Bulgaria/Counties/Dobrich.protect|Dobrich.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Bulgaria/Counties/Dobrich.private|Dobrich.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Bulgaria/Counties/Dobrich.personal|Dobrich.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Bulgaria/Counties/Dobrich.secret|Dobrich.secret]] 
 

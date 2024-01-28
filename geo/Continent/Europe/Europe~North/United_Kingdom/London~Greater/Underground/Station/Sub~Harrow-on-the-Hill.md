@@ -1,5 +1,5 @@
 ---
-location: [51.5793,-0.3366]
+location: [51.5793,-0.3366] 
 type: Station 
 mapzoom: [8,15] 
 mapmarker: subway 
@@ -8,24 +8,24 @@ tags:
 - Europe/United_Kingdom/City~London
 ---
 SpocWebEntityId: 155971
-[StationSId::]
+[StationSId::] 
 isDeleted: false
 isReadOnly: false
 confidential: public
-[geo-lon::-0.3366]
-[geo-lat::51.5793]
-[name::Harrow-on-the-Hill]
-[zone::5]
-[Num_lines::1]
-[switch-to-Rail::1]
-[Country::[[United_Kingdom]]]
-[City::[[../../../London]]]
+[geo-lon::-0.3366] 
+[geo-lat::51.5793] 
+[name::Harrow-on-the-Hill] 
+[zone::5] 
+[Num_lines::1] 
+[switch-to-Rail::1] 
+Country :: [[United_Kingdom]]  
+City :: [[../../../London]]  
 
 
 ```leaflet
 id: Sub~Harrow-on-the-Hill
-coordinates: [[Sub~Harrow-on-the-Hill]]
-markerFile: [[Sub~Harrow-on-the-Hill]]
+coordinates: [[Sub~Harrow-on-the-Hill]] 
+markerFile: [[Sub~Harrow-on-the-Hill]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
@@ -34,13 +34,14 @@ maxZoom: 18
 # Lines: 
 ```dataview
 TABLE 
-FROM [[]]
+FROM [[]] 
 ```
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_public/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Harrow-on-the-Hill.md|Sub~Harrow-on-the-Hill]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Harrow-on-the-Hill.internal|Sub~Harrow-on-the-Hill.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Harrow-on-the-Hill.protect|Sub~Harrow-on-the-Hill.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Harrow-on-the-Hill.private|Sub~Harrow-on-the-Hill.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Harrow-on-the-Hill.personal|Sub~Harrow-on-the-Hill.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Harrow-on-the-Hill.secret|Sub~Harrow-on-the-Hill.secret]] 
+- [[../../../../../../../../../_Standards/geo/Continent/Europe/Europe~North/United_Kingdom/London~Greater/Underground/Station/Sub~Harrow-on-the-Hill|Sub~Harrow-on-the-Hill]] 
+- [[../../../../../../../../../_public/geo/Continent/Europe/Europe~North/United_Kingdom/London~Greater/Underground/Station/Sub~Harrow-on-the-Hill.public|Sub~Harrow-on-the-Hill.public]] 
+- [[../../../../../../../../../_internal/geo/Continent/Europe/Europe~North/United_Kingdom/London~Greater/Underground/Station/Sub~Harrow-on-the-Hill.internal|Sub~Harrow-on-the-Hill.internal]] 
+- [[../../../../../../../../../_protect/geo/Continent/Europe/Europe~North/United_Kingdom/London~Greater/Underground/Station/Sub~Harrow-on-the-Hill.protect|Sub~Harrow-on-the-Hill.protect]] 
+- [[../../../../../../../../../_private/geo/Continent/Europe/Europe~North/United_Kingdom/London~Greater/Underground/Station/Sub~Harrow-on-the-Hill.private|Sub~Harrow-on-the-Hill.private]] 
+- [[../../../../../../../../../_personal/geo/Continent/Europe/Europe~North/United_Kingdom/London~Greater/Underground/Station/Sub~Harrow-on-the-Hill.personal|Sub~Harrow-on-the-Hill.personal]] 
+- [[../../../../../../../../../_secret/geo/Continent/Europe/Europe~North/United_Kingdom/London~Greater/Underground/Station/Sub~Harrow-on-the-Hill.secret|Sub~Harrow-on-the-Hill.secret]] 

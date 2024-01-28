@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 42.97 , 20.77 ] 
 type: geo-Region
 title: Zvečan
@@ -40,10 +40,11 @@ markerFolder: ./Zvečan/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Kosovo/Counties/Zvečan.md|Zvečan]] 
-- [[../../../../_internal/geo/Continent/Europe/Kosovo/Counties/Zvečan.internal|Zvečan.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Kosovo/Counties/Zvečan.protect|Zvečan.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Kosovo/Counties/Zvečan.private|Zvečan.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Kosovo/Counties/Zvečan.personal|Zvečan.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Kosovo/Counties/Zvečan.secret|Zvečan.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Kosovo/Counties/Zvečan|Zvečan]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Kosovo/Counties/Zvečan.public|Zvečan.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Kosovo/Counties/Zvečan.internal|Zvečan.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Kosovo/Counties/Zvečan.protect|Zvečan.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Kosovo/Counties/Zvečan.private|Zvečan.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Kosovo/Counties/Zvečan.personal|Zvečan.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Kosovo/Counties/Zvečan.secret|Zvečan.secret]] 
 

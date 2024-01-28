@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 56.6 , 24.2 ] 
 type: geo-Region
 title: Iecavas
@@ -40,10 +40,11 @@ markerFolder: ./Iecavas/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Latvia/Counties/Iecavas.md|Iecavas]] 
-- [[../../../../_internal/geo/Continent/Europe/Latvia/Counties/Iecavas.internal|Iecavas.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Latvia/Counties/Iecavas.protect|Iecavas.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Latvia/Counties/Iecavas.private|Iecavas.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Latvia/Counties/Iecavas.personal|Iecavas.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Latvia/Counties/Iecavas.secret|Iecavas.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Latvia/Counties/Iecavas|Iecavas]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Latvia/Counties/Iecavas.public|Iecavas.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Latvia/Counties/Iecavas.internal|Iecavas.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Latvia/Counties/Iecavas.protect|Iecavas.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Latvia/Counties/Iecavas.private|Iecavas.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Latvia/Counties/Iecavas.personal|Iecavas.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Latvia/Counties/Iecavas.secret|Iecavas.secret]] 
 

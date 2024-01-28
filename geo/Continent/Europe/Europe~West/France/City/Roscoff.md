@@ -1,5 +1,5 @@
-﻿---
-location: [48.75,-3.97]
+---
+location: [48.75,-3.97] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,29 +12,30 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::-3.97]
-[geo-lat::48.75]
-[name::Roscoff]
-[State::]
-[Country::[[France]]]
-[StateId::]
-[Population::]
-[Unknown::]
+[geo-lon::-3.97] 
+[geo-lat::48.75] 
+[name::Roscoff] 
+State ::  
+Country :: [[France]]  
+[StateId::] 
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Roscoff
-coordinates: [[Roscoff]]
-markerFile: [[Roscoff]]
+coordinates: [[Roscoff]] 
+markerFile: [[Roscoff]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_public/geo/Continent/Europe/France/City/Roscoff.md|Roscoff]] 
-- [[../../../../../../_internal/geo/Continent/Europe/France/City/Roscoff.internal|Roscoff.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/France/City/Roscoff.protect|Roscoff.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/France/City/Roscoff.private|Roscoff.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/France/City/Roscoff.personal|Roscoff.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/France/City/Roscoff.secret|Roscoff.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~West/France/City/Roscoff|Roscoff]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~West/France/City/Roscoff.public|Roscoff.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~West/France/City/Roscoff.internal|Roscoff.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~West/France/City/Roscoff.protect|Roscoff.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~West/France/City/Roscoff.private|Roscoff.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~West/France/City/Roscoff.personal|Roscoff.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~West/France/City/Roscoff.secret|Roscoff.secret]] 

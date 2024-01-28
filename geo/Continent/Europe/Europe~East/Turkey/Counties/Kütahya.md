@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 39.3 , 29.6 ] 
 type: geo-Region
 title: Kütahya
@@ -40,10 +40,11 @@ markerFolder: ./Kütahya/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Turkey/Counties/Kütahya.md|Kütahya]] 
-- [[../../../../_internal/geo/Continent/Europe/Turkey/Counties/Kütahya.internal|Kütahya.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Turkey/Counties/Kütahya.protect|Kütahya.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Turkey/Counties/Kütahya.private|Kütahya.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Turkey/Counties/Kütahya.personal|Kütahya.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Turkey/Counties/Kütahya.secret|Kütahya.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Turkey/Counties/Kütahya|Kütahya]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Turkey/Counties/Kütahya.public|Kütahya.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Turkey/Counties/Kütahya.internal|Kütahya.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Turkey/Counties/Kütahya.protect|Kütahya.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Turkey/Counties/Kütahya.private|Kütahya.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Turkey/Counties/Kütahya.personal|Kütahya.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Turkey/Counties/Kütahya.secret|Kütahya.secret]] 
 

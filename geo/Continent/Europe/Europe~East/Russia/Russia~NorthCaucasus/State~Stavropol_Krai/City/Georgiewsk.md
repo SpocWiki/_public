@@ -1,5 +1,5 @@
-﻿---
-location: [44.15,43.48]
+---
+location: [44.15,43.48] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,29 +12,30 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::43.48]
-[geo-lat::44.15]
-[name::Georgiewsk]
-[State::]
-[Country::[[Russia]]]
-[StateId::]
-[Population::]
-[Unknown::]
+[geo-lon::43.48] 
+[geo-lat::44.15] 
+[name::Georgiewsk] 
+State ::  
+Country :: [[Russia]]  
+[StateId::] 
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Georgiewsk
-coordinates: [[Georgiewsk]]
-markerFile: [[Georgiewsk]]
+coordinates: [[Georgiewsk]] 
+markerFile: [[Georgiewsk]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_public/geo/Continent/Europe/Russia/City/Georgiewsk.md|Georgiewsk]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Georgiewsk.internal|Georgiewsk.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Georgiewsk.protect|Georgiewsk.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Georgiewsk.private|Georgiewsk.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Georgiewsk.personal|Georgiewsk.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Georgiewsk.secret|Georgiewsk.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Russia/City/Georgiewsk|Georgiewsk]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Russia/City/Georgiewsk.public|Georgiewsk.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Russia/City/Georgiewsk.internal|Georgiewsk.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Russia/City/Georgiewsk.protect|Georgiewsk.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Russia/City/Georgiewsk.private|Georgiewsk.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Russia/City/Georgiewsk.personal|Georgiewsk.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Russia/City/Georgiewsk.secret|Georgiewsk.secret]] 

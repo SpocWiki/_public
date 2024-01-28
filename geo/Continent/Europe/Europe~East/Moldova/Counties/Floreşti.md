@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 47.9 , 28.3 ] 
 type: geo-Region
 title: Floreşti
@@ -40,10 +40,11 @@ markerFolder: ./Floreşti/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Moldova/Counties/Floreşti.md|Floreşti]] 
-- [[../../../../_internal/geo/Continent/Europe/Moldova/Counties/Floreşti.internal|Floreşti.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Moldova/Counties/Floreşti.protect|Floreşti.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Moldova/Counties/Floreşti.private|Floreşti.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Moldova/Counties/Floreşti.personal|Floreşti.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Moldova/Counties/Floreşti.secret|Floreşti.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Moldova/Counties/Floreşti|Floreşti]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Moldova/Counties/Floreşti.public|Floreşti.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Moldova/Counties/Floreşti.internal|Floreşti.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Moldova/Counties/Floreşti.protect|Floreşti.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Moldova/Counties/Floreşti.private|Floreşti.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Moldova/Counties/Floreşti.personal|Floreşti.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Moldova/Counties/Floreşti.secret|Floreşti.secret]] 
 

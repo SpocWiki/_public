@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 49.7 , 6.4 ] 
 type: geo-Region
 title: Grevenmacher
@@ -40,10 +40,11 @@ markerFolder: ./Grevenmacher/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Luxembourg/Counties/Grevenmacher.md|Grevenmacher]] 
-- [[../../../../_internal/geo/Continent/Europe/Luxembourg/Counties/Grevenmacher.internal|Grevenmacher.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Luxembourg/Counties/Grevenmacher.protect|Grevenmacher.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Luxembourg/Counties/Grevenmacher.private|Grevenmacher.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Luxembourg/Counties/Grevenmacher.personal|Grevenmacher.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Luxembourg/Counties/Grevenmacher.secret|Grevenmacher.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~West/Luxembourg/Counties/Grevenmacher|Grevenmacher]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~West/Luxembourg/Counties/Grevenmacher.public|Grevenmacher.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~West/Luxembourg/Counties/Grevenmacher.internal|Grevenmacher.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~West/Luxembourg/Counties/Grevenmacher.protect|Grevenmacher.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~West/Luxembourg/Counties/Grevenmacher.private|Grevenmacher.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~West/Luxembourg/Counties/Grevenmacher.personal|Grevenmacher.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~West/Luxembourg/Counties/Grevenmacher.secret|Grevenmacher.secret]] 
 

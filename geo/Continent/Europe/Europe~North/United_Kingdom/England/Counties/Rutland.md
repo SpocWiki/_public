@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 52.6 , -0.7 ] 
 type: geo-Region
 title: Rutland
@@ -40,10 +40,11 @@ markerFolder: ./Rutland/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/United_Kingdom/England/Counties/Rutland.md|Rutland]] 
-- [[../../../../_internal/geo/Continent/Europe/United_Kingdom/England/Counties/Rutland.internal|Rutland.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/United_Kingdom/England/Counties/Rutland.protect|Rutland.protect]] 
-- [[../../../../_private/geo/Continent/Europe/United_Kingdom/England/Counties/Rutland.private|Rutland.private]] 
-- [[../../../../_personal/geo/Continent/Europe/United_Kingdom/England/Counties/Rutland.personal|Rutland.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/United_Kingdom/England/Counties/Rutland.secret|Rutland.secret]] 
+- [[../../../../../../../../_Standards/geo/Continent/Europe/Europe~North/United_Kingdom/England/Counties/Rutland|Rutland]] 
+- [[../../../../../../../../_public/geo/Continent/Europe/Europe~North/United_Kingdom/England/Counties/Rutland.public|Rutland.public]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/Europe~North/United_Kingdom/England/Counties/Rutland.internal|Rutland.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/Europe~North/United_Kingdom/England/Counties/Rutland.protect|Rutland.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/Europe~North/United_Kingdom/England/Counties/Rutland.private|Rutland.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/Europe~North/United_Kingdom/England/Counties/Rutland.personal|Rutland.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/Europe~North/United_Kingdom/England/Counties/Rutland.secret|Rutland.secret]] 
 

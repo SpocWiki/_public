@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 36.8 , 31.9 ] 
 type: geo-Region
 title: Antalya
@@ -40,10 +40,11 @@ markerFolder: ./Antalya/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Turkey/Counties/Antalya.md|Antalya]] 
-- [[../../../../_internal/geo/Continent/Europe/Turkey/Counties/Antalya.internal|Antalya.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Turkey/Counties/Antalya.protect|Antalya.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Turkey/Counties/Antalya.private|Antalya.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Turkey/Counties/Antalya.personal|Antalya.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Turkey/Counties/Antalya.secret|Antalya.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Turkey/Counties/Antalya|Antalya]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Turkey/Counties/Antalya.public|Antalya.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Turkey/Counties/Antalya.internal|Antalya.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Turkey/Counties/Antalya.protect|Antalya.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Turkey/Counties/Antalya.private|Antalya.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Turkey/Counties/Antalya.personal|Antalya.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Turkey/Counties/Antalya.secret|Antalya.secret]] 
 

@@ -1,5 +1,5 @@
-﻿---
-location: [45.35,25.55]
+---
+location: [45.35,25.55] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,29 +12,30 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::25.55]
-[geo-lat::45.35]
-[name::Sinaia]
-[State::]
-[Country::[[Romania]]]
-[StateId::]
-[Population::]
-[Unknown::]
+[geo-lon::25.55] 
+[geo-lat::45.35] 
+[name::Sinaia] 
+State ::  
+Country :: [[Romania]]  
+[StateId::] 
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Sinaia
-coordinates: [[Sinaia]]
-markerFile: [[Sinaia]]
+coordinates: [[Sinaia]] 
+markerFile: [[Sinaia]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_public/geo/Continent/Europe/Romania/City/Sinaia.md|Sinaia]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Romania/City/Sinaia.internal|Sinaia.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Romania/City/Sinaia.protect|Sinaia.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Romania/City/Sinaia.private|Sinaia.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Romania/City/Sinaia.personal|Sinaia.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Romania/City/Sinaia.secret|Sinaia.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Romania/City/Sinaia|Sinaia]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Romania/City/Sinaia.public|Sinaia.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Romania/City/Sinaia.internal|Sinaia.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Romania/City/Sinaia.protect|Sinaia.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Romania/City/Sinaia.private|Sinaia.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Romania/City/Sinaia.personal|Sinaia.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Romania/City/Sinaia.secret|Sinaia.secret]] 

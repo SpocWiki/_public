@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 42.3 , 26.6 ] 
 type: geo-Region
 title: Yambol
@@ -40,10 +40,11 @@ markerFolder: ./Yambol/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Bulgaria/Counties/Yambol.md|Yambol]] 
-- [[../../../../_internal/geo/Continent/Europe/Bulgaria/Counties/Yambol.internal|Yambol.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Bulgaria/Counties/Yambol.protect|Yambol.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Bulgaria/Counties/Yambol.private|Yambol.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Bulgaria/Counties/Yambol.personal|Yambol.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Bulgaria/Counties/Yambol.secret|Yambol.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Bulgaria/Counties/Yambol|Yambol]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Bulgaria/Counties/Yambol.public|Yambol.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Bulgaria/Counties/Yambol.internal|Yambol.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Bulgaria/Counties/Yambol.protect|Yambol.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Bulgaria/Counties/Yambol.private|Yambol.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Bulgaria/Counties/Yambol.personal|Yambol.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Bulgaria/Counties/Yambol.secret|Yambol.secret]] 
 

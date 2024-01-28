@@ -1,5 +1,5 @@
-﻿---
-location: [53.5,14.6]
+---
+location: [53.5,14.6] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,29 +12,30 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::14.6]
-[geo-lat::53.5]
-[name::Stolzenhagen]
-[State::]
-[Country::[[Poland]]]
-[StateId::]
-[Population::]
-[Unknown::]
+[geo-lon::14.6] 
+[geo-lat::53.5] 
+[name::Stolzenhagen] 
+State ::  
+Country :: [[Poland]]  
+[StateId::] 
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Stolzenhagen
-coordinates: [[Stolzenhagen]]
-markerFile: [[Stolzenhagen]]
+coordinates: [[Stolzenhagen]] 
+markerFile: [[Stolzenhagen]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_public/geo/Continent/Europe/Poland/City/Stolzenhagen.md|Stolzenhagen]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Stolzenhagen.internal|Stolzenhagen.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Stolzenhagen.protect|Stolzenhagen.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Stolzenhagen.private|Stolzenhagen.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Stolzenhagen.personal|Stolzenhagen.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Stolzenhagen.secret|Stolzenhagen.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Poland/City/Stolzenhagen|Stolzenhagen]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Poland/City/Stolzenhagen.public|Stolzenhagen.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Poland/City/Stolzenhagen.internal|Stolzenhagen.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Poland/City/Stolzenhagen.protect|Stolzenhagen.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Poland/City/Stolzenhagen.private|Stolzenhagen.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Poland/City/Stolzenhagen.personal|Stolzenhagen.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Poland/City/Stolzenhagen.secret|Stolzenhagen.secret]] 

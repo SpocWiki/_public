@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 43 , 19.2 ] 
 type: geo-Region
 title: Šavnik
@@ -40,10 +40,11 @@ markerFolder: ./Šavnik/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Montenegro/Counties/Šavnik.md|Šavnik]] 
-- [[../../../../_internal/geo/Continent/Europe/Montenegro/Counties/Šavnik.internal|Šavnik.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Montenegro/Counties/Šavnik.protect|Šavnik.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Montenegro/Counties/Šavnik.private|Šavnik.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Montenegro/Counties/Šavnik.personal|Šavnik.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Montenegro/Counties/Šavnik.secret|Šavnik.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Montenegro/Counties/Šavnik|Šavnik]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Montenegro/Counties/Šavnik.public|Šavnik.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Montenegro/Counties/Šavnik.internal|Šavnik.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Montenegro/Counties/Šavnik.protect|Šavnik.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Montenegro/Counties/Šavnik.private|Šavnik.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Montenegro/Counties/Šavnik.personal|Šavnik.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Montenegro/Counties/Šavnik.secret|Šavnik.secret]] 
 

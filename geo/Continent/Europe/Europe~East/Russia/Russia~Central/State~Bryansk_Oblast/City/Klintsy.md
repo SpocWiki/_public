@@ -1,5 +1,5 @@
-﻿---
-location: [52.75,32.27]
+---
+location: [52.75,32.27] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,29 +12,30 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::32.27]
-[geo-lat::52.75]
-[name::Klintsy]
-[State::]
-[Country::[[Russia]]]
-[StateId::]
-[Population::]
-[Unknown::]
+[geo-lon::32.27] 
+[geo-lat::52.75] 
+[name::Klintsy] 
+State ::  
+Country :: [[Russia]]  
+[StateId::] 
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Klintsy
-coordinates: [[Klintsy]]
-markerFile: [[Klintsy]]
+coordinates: [[Klintsy]] 
+markerFile: [[Klintsy]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_public/geo/Continent/Europe/Russia/City/Klintsy.md|Klintsy]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Klintsy.internal|Klintsy.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Klintsy.protect|Klintsy.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Klintsy.private|Klintsy.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Klintsy.personal|Klintsy.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Klintsy.secret|Klintsy.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Russia/City/Klintsy|Klintsy]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Russia/City/Klintsy.public|Klintsy.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Russia/City/Klintsy.internal|Klintsy.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Russia/City/Klintsy.protect|Klintsy.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Russia/City/Klintsy.private|Klintsy.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Russia/City/Klintsy.personal|Klintsy.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Russia/City/Klintsy.secret|Klintsy.secret]] 

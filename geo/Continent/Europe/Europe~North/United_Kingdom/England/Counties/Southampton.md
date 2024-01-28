@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 50.9 , -1.4 ] 
 type: geo-Region
 title: Southampton
@@ -40,10 +40,11 @@ markerFolder: ./Southampton/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/United_Kingdom/England/Counties/Southampton.md|Southampton]] 
-- [[../../../../_internal/geo/Continent/Europe/United_Kingdom/England/Counties/Southampton.internal|Southampton.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/United_Kingdom/England/Counties/Southampton.protect|Southampton.protect]] 
-- [[../../../../_private/geo/Continent/Europe/United_Kingdom/England/Counties/Southampton.private|Southampton.private]] 
-- [[../../../../_personal/geo/Continent/Europe/United_Kingdom/England/Counties/Southampton.personal|Southampton.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/United_Kingdom/England/Counties/Southampton.secret|Southampton.secret]] 
+- [[../../../../../../../../_Standards/geo/Continent/Europe/Europe~North/United_Kingdom/England/Counties/Southampton|Southampton]] 
+- [[../../../../../../../../_public/geo/Continent/Europe/Europe~North/United_Kingdom/England/Counties/Southampton.public|Southampton.public]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/Europe~North/United_Kingdom/England/Counties/Southampton.internal|Southampton.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/Europe~North/United_Kingdom/England/Counties/Southampton.protect|Southampton.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/Europe~North/United_Kingdom/England/Counties/Southampton.private|Southampton.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/Europe~North/United_Kingdom/England/Counties/Southampton.personal|Southampton.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/Europe~North/United_Kingdom/England/Counties/Southampton.secret|Southampton.secret]] 
 

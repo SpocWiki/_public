@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 57.2 , 24.5 ] 
 type: geo-Region
 title: Sejas
@@ -40,10 +40,11 @@ markerFolder: ./Sejas/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Latvia/Counties/Sejas.md|Sejas]] 
-- [[../../../../_internal/geo/Continent/Europe/Latvia/Counties/Sejas.internal|Sejas.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Latvia/Counties/Sejas.protect|Sejas.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Latvia/Counties/Sejas.private|Sejas.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Latvia/Counties/Sejas.personal|Sejas.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Latvia/Counties/Sejas.secret|Sejas.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Latvia/Counties/Sejas|Sejas]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Latvia/Counties/Sejas.public|Sejas.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Latvia/Counties/Sejas.internal|Sejas.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Latvia/Counties/Sejas.protect|Sejas.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Latvia/Counties/Sejas.private|Sejas.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Latvia/Counties/Sejas.personal|Sejas.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Latvia/Counties/Sejas.secret|Sejas.secret]] 
 

@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 46.9 , 19.7 ] 
 type: geo-Region
 title: Kecskemét
@@ -40,10 +40,11 @@ markerFolder: ./Kecskemét/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Hungary/Counties/Kecskemét.md|Kecskemét]] 
-- [[../../../../_internal/geo/Continent/Europe/Hungary/Counties/Kecskemét.internal|Kecskemét.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Hungary/Counties/Kecskemét.protect|Kecskemét.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Hungary/Counties/Kecskemét.private|Kecskemét.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Hungary/Counties/Kecskemét.personal|Kecskemét.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Hungary/Counties/Kecskemét.secret|Kecskemét.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Hungary/Counties/Kecskemét|Kecskemét]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Hungary/Counties/Kecskemét.public|Kecskemét.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Hungary/Counties/Kecskemét.internal|Kecskemét.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Hungary/Counties/Kecskemét.protect|Kecskemét.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Hungary/Counties/Kecskemét.private|Kecskemét.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Hungary/Counties/Kecskemét.personal|Kecskemét.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Hungary/Counties/Kecskemét.secret|Kecskemét.secret]] 
 

@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 43 , 41.4 ] 
 type: geo-Region
 title: Abkhazia
@@ -40,10 +40,11 @@ markerFolder: ./Abkhazia/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Georgia~Europe/Counties/Abkhazia.md|Abkhazia]] 
-- [[../../../../_internal/geo/Continent/Europe/Georgia~Europe/Counties/Abkhazia.internal|Abkhazia.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Georgia~Europe/Counties/Abkhazia.protect|Abkhazia.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Georgia~Europe/Counties/Abkhazia.private|Abkhazia.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Georgia~Europe/Counties/Abkhazia.personal|Abkhazia.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Georgia~Europe/Counties/Abkhazia.secret|Abkhazia.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Georgia~Europe/Counties/Abkhazia|Abkhazia]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Georgia~Europe/Counties/Abkhazia.public|Abkhazia.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Georgia~Europe/Counties/Abkhazia.internal|Abkhazia.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Georgia~Europe/Counties/Abkhazia.protect|Abkhazia.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Georgia~Europe/Counties/Abkhazia.private|Abkhazia.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Georgia~Europe/Counties/Abkhazia.personal|Abkhazia.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Georgia~Europe/Counties/Abkhazia.secret|Abkhazia.secret]] 
 

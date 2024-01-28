@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 41.8 , 21.3 ] 
 type: geo-Region
 title: Sopiste
@@ -40,10 +40,11 @@ markerFolder: ./Sopiste/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Macedonia~North/Counties/Sopiste.md|Sopiste]] 
-- [[../../../../_internal/geo/Continent/Europe/Macedonia~North/Counties/Sopiste.internal|Sopiste.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Macedonia~North/Counties/Sopiste.protect|Sopiste.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Macedonia~North/Counties/Sopiste.private|Sopiste.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Macedonia~North/Counties/Sopiste.personal|Sopiste.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Macedonia~North/Counties/Sopiste.secret|Sopiste.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Macedonia~North/Counties/Sopiste|Sopiste]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Macedonia~North/Counties/Sopiste.public|Sopiste.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Macedonia~North/Counties/Sopiste.internal|Sopiste.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Macedonia~North/Counties/Sopiste.protect|Sopiste.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Macedonia~North/Counties/Sopiste.private|Sopiste.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Macedonia~North/Counties/Sopiste.personal|Sopiste.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Macedonia~North/Counties/Sopiste.secret|Sopiste.secret]] 
 

@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 42.5 , 21.1 ] 
 type: geo-Region
 title: Lipljan
@@ -40,10 +40,11 @@ markerFolder: ./Lipljan/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Kosovo/Counties/Lipljan.md|Lipljan]] 
-- [[../../../../_internal/geo/Continent/Europe/Kosovo/Counties/Lipljan.internal|Lipljan.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Kosovo/Counties/Lipljan.protect|Lipljan.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Kosovo/Counties/Lipljan.private|Lipljan.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Kosovo/Counties/Lipljan.personal|Lipljan.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Kosovo/Counties/Lipljan.secret|Lipljan.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Kosovo/Counties/Lipljan|Lipljan]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Kosovo/Counties/Lipljan.public|Lipljan.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Kosovo/Counties/Lipljan.internal|Lipljan.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Kosovo/Counties/Lipljan.protect|Lipljan.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Kosovo/Counties/Lipljan.private|Lipljan.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Kosovo/Counties/Lipljan.personal|Lipljan.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Kosovo/Counties/Lipljan.secret|Lipljan.secret]] 
 

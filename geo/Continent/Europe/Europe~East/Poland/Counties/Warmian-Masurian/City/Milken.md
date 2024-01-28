@@ -1,5 +1,5 @@
-﻿---
-location: [53.95,21.7]
+---
+location: [53.95,21.7] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,29 +12,30 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::21.7]
-[geo-lat::53.95]
-[name::Milken]
-[State::]
-[Country::[[Poland]]]
-[StateId::]
-[Population::]
-[Unknown::]
+[geo-lon::21.7] 
+[geo-lat::53.95] 
+[name::Milken] 
+State ::  
+Country :: [[Poland]]  
+[StateId::] 
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Milken
-coordinates: [[Milken]]
-markerFile: [[Milken]]
+coordinates: [[Milken]] 
+markerFile: [[Milken]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_public/geo/Continent/Europe/Poland/City/Milken.md|Milken]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Milken.internal|Milken.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Milken.protect|Milken.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Milken.private|Milken.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Milken.personal|Milken.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Milken.secret|Milken.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Poland/City/Milken|Milken]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Poland/City/Milken.public|Milken.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Poland/City/Milken.internal|Milken.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Poland/City/Milken.protect|Milken.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Poland/City/Milken.private|Milken.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Poland/City/Milken.personal|Milken.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Poland/City/Milken.secret|Milken.secret]] 

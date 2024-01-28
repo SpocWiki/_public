@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 42.47 , 1.5 ] 
 type: geo-Region
 title: Sant_Julià_de_Lòria
@@ -40,10 +40,11 @@ markerFolder: ./Sant_Julià_de_Lòria/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Andorra/Counties/Sant_Julià_de_Lòria.md|Sant_Julià_de_Lòria]] 
-- [[../../../../_internal/geo/Continent/Europe/Andorra/Counties/Sant_Julià_de_Lòria.internal|Sant_Julià_de_Lòria.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Andorra/Counties/Sant_Julià_de_Lòria.protect|Sant_Julià_de_Lòria.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Andorra/Counties/Sant_Julià_de_Lòria.private|Sant_Julià_de_Lòria.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Andorra/Counties/Sant_Julià_de_Lòria.personal|Sant_Julià_de_Lòria.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Andorra/Counties/Sant_Julià_de_Lòria.secret|Sant_Julià_de_Lòria.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Andorra/Counties/Sant_Julià_de_Lòria|Sant_Julià_de_Lòria]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Andorra/Counties/Sant_Julià_de_Lòria.public|Sant_Julià_de_Lòria.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Andorra/Counties/Sant_Julià_de_Lòria.internal|Sant_Julià_de_Lòria.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Andorra/Counties/Sant_Julià_de_Lòria.protect|Sant_Julià_de_Lòria.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Andorra/Counties/Sant_Julià_de_Lòria.private|Sant_Julià_de_Lòria.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Andorra/Counties/Sant_Julià_de_Lòria.personal|Sant_Julià_de_Lòria.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Andorra/Counties/Sant_Julià_de_Lòria.secret|Sant_Julià_de_Lòria.secret]] 
 

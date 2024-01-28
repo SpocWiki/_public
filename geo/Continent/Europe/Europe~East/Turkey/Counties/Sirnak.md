@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 37.5 , 42.7 ] 
 type: geo-Region
 title: Sirnak
@@ -40,10 +40,11 @@ markerFolder: ./Sirnak/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Turkey/Counties/Sirnak.md|Sirnak]] 
-- [[../../../../_internal/geo/Continent/Europe/Turkey/Counties/Sirnak.internal|Sirnak.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Turkey/Counties/Sirnak.protect|Sirnak.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Turkey/Counties/Sirnak.private|Sirnak.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Turkey/Counties/Sirnak.personal|Sirnak.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Turkey/Counties/Sirnak.secret|Sirnak.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Turkey/Counties/Sirnak|Sirnak]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Turkey/Counties/Sirnak.public|Sirnak.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Turkey/Counties/Sirnak.internal|Sirnak.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Turkey/Counties/Sirnak.protect|Sirnak.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Turkey/Counties/Sirnak.private|Sirnak.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Turkey/Counties/Sirnak.personal|Sirnak.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Turkey/Counties/Sirnak.secret|Sirnak.secret]] 
 

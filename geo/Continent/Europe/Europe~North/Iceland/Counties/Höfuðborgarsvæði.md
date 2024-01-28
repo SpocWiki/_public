@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 64.2 , -21.5 ] 
 type: geo-Region
 title: Höfuðborgarsvæði
@@ -40,10 +40,11 @@ markerFolder: ./Höfuðborgarsvæði/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Iceland/Counties/Höfuðborgarsvæði.md|Höfuðborgarsvæði]] 
-- [[../../../../_internal/geo/Continent/Europe/Iceland/Counties/Höfuðborgarsvæði.internal|Höfuðborgarsvæði.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Iceland/Counties/Höfuðborgarsvæði.protect|Höfuðborgarsvæði.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Iceland/Counties/Höfuðborgarsvæði.private|Höfuðborgarsvæði.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Iceland/Counties/Höfuðborgarsvæði.personal|Höfuðborgarsvæði.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Iceland/Counties/Höfuðborgarsvæði.secret|Höfuðborgarsvæði.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Iceland/Counties/Höfuðborgarsvæði|Höfuðborgarsvæði]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Iceland/Counties/Höfuðborgarsvæði.public|Höfuðborgarsvæði.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Iceland/Counties/Höfuðborgarsvæði.internal|Höfuðborgarsvæði.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Iceland/Counties/Höfuðborgarsvæði.protect|Höfuðborgarsvæði.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Iceland/Counties/Höfuðborgarsvæði.private|Höfuðborgarsvæði.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Iceland/Counties/Höfuðborgarsvæði.personal|Höfuðborgarsvæði.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Iceland/Counties/Höfuðborgarsvæði.secret|Höfuðborgarsvæði.secret]] 
 

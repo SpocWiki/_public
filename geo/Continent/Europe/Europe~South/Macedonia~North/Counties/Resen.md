@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 41 , 21 ] 
 type: geo-Region
 title: Resen
@@ -40,10 +40,11 @@ markerFolder: ./Resen/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Macedonia~North/Counties/Resen.md|Resen]] 
-- [[../../../../_internal/geo/Continent/Europe/Macedonia~North/Counties/Resen.internal|Resen.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Macedonia~North/Counties/Resen.protect|Resen.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Macedonia~North/Counties/Resen.private|Resen.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Macedonia~North/Counties/Resen.personal|Resen.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Macedonia~North/Counties/Resen.secret|Resen.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Macedonia~North/Counties/Resen|Resen]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Macedonia~North/Counties/Resen.public|Resen.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Macedonia~North/Counties/Resen.internal|Resen.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Macedonia~North/Counties/Resen.protect|Resen.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Macedonia~North/Counties/Resen.private|Resen.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Macedonia~North/Counties/Resen.personal|Resen.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Macedonia~North/Counties/Resen.secret|Resen.secret]] 
 

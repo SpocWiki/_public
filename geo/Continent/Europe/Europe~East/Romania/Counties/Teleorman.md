@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 44.1 , 25.2 ] 
 type: geo-Region
 title: Teleorman
@@ -40,10 +40,11 @@ markerFolder: ./Teleorman/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Romania/Counties/Teleorman.md|Teleorman]] 
-- [[../../../../_internal/geo/Continent/Europe/Romania/Counties/Teleorman.internal|Teleorman.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Romania/Counties/Teleorman.protect|Teleorman.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Romania/Counties/Teleorman.private|Teleorman.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Romania/Counties/Teleorman.personal|Teleorman.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Romania/Counties/Teleorman.secret|Teleorman.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Romania/Counties/Teleorman|Teleorman]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Romania/Counties/Teleorman.public|Teleorman.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Romania/Counties/Teleorman.internal|Teleorman.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Romania/Counties/Teleorman.protect|Teleorman.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Romania/Counties/Teleorman.private|Teleorman.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Romania/Counties/Teleorman.personal|Teleorman.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Romania/Counties/Teleorman.secret|Teleorman.secret]] 
 

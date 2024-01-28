@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 51.9 , -4.2 ] 
 type: geo-Region
 title: Carmarthenshire
@@ -40,10 +40,11 @@ markerFolder: ./Carmarthenshire/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/United_Kingdom/Wales/Counties/Carmarthenshire.md|Carmarthenshire]] 
-- [[../../../../_internal/geo/Continent/Europe/United_Kingdom/Wales/Counties/Carmarthenshire.internal|Carmarthenshire.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/United_Kingdom/Wales/Counties/Carmarthenshire.protect|Carmarthenshire.protect]] 
-- [[../../../../_private/geo/Continent/Europe/United_Kingdom/Wales/Counties/Carmarthenshire.private|Carmarthenshire.private]] 
-- [[../../../../_personal/geo/Continent/Europe/United_Kingdom/Wales/Counties/Carmarthenshire.personal|Carmarthenshire.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/United_Kingdom/Wales/Counties/Carmarthenshire.secret|Carmarthenshire.secret]] 
+- [[../../../../../../../../_Standards/geo/Continent/Europe/Europe~North/United_Kingdom/Wales/Counties/Carmarthenshire|Carmarthenshire]] 
+- [[../../../../../../../../_public/geo/Continent/Europe/Europe~North/United_Kingdom/Wales/Counties/Carmarthenshire.public|Carmarthenshire.public]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/Europe~North/United_Kingdom/Wales/Counties/Carmarthenshire.internal|Carmarthenshire.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/Europe~North/United_Kingdom/Wales/Counties/Carmarthenshire.protect|Carmarthenshire.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/Europe~North/United_Kingdom/Wales/Counties/Carmarthenshire.private|Carmarthenshire.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/Europe~North/United_Kingdom/Wales/Counties/Carmarthenshire.personal|Carmarthenshire.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/Europe~North/United_Kingdom/Wales/Counties/Carmarthenshire.secret|Carmarthenshire.secret]] 
 

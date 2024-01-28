@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 47.9 , 20.4 ] 
 type: geo-Region
 title: Eger
@@ -40,10 +40,11 @@ markerFolder: ./Eger/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Hungary/Counties/Eger.md|Eger]] 
-- [[../../../../_internal/geo/Continent/Europe/Hungary/Counties/Eger.internal|Eger.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Hungary/Counties/Eger.protect|Eger.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Hungary/Counties/Eger.private|Eger.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Hungary/Counties/Eger.personal|Eger.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Hungary/Counties/Eger.secret|Eger.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Hungary/Counties/Eger|Eger]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Hungary/Counties/Eger.public|Eger.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Hungary/Counties/Eger.internal|Eger.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Hungary/Counties/Eger.protect|Eger.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Hungary/Counties/Eger.private|Eger.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Hungary/Counties/Eger.personal|Eger.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Hungary/Counties/Eger.secret|Eger.secret]] 
 

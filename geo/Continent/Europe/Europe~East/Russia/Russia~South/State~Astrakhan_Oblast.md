@@ -1,5 +1,5 @@
 ---
-location: [46.35,48.05]
+location: [46.35,48.05] 
 type: State
 tags:
 - geo/State
@@ -10,13 +10,13 @@ isDeleted: false
 confidential: public
 
 ---
-[name::Astrakhan Oblast]
-[name-abbr::]
-[Country::[[Russia]]]
-[Capital::[[Astrachan]]]
-[geo-lon::48.05]
-[geo-lat::46.35]
-[Population::]
+[name::Astrakhan Oblast] 
+[name-abbr::] 
+Country :: [[Russia]]  
+Capital :: [[Astrachan]]  
+[geo-lon::48.05] 
+[geo-lat::46.35] 
+[Population::] 
 
 
 
@@ -31,9 +31,9 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
--[[State~Astrakhan_Oblast|State~Astrakhan_Oblast]]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Russia/State/State~Astrakhan_Oblast.internal|State~Astrakhan_Oblast.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/State/State~Astrakhan_Oblast.protect|State~Astrakhan_Oblast.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/State/State~Astrakhan_Oblast.private|State~Astrakhan_Oblast.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/State/State~Astrakhan_Oblast.personal|State~Astrakhan_Oblast.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/State/State~Astrakhan_Oblast.secret|State~Astrakhan_Oblast.secret]] 
+- [[State~Astrakhan_Oblast|State~Astrakhan_Oblast]]  
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Russia/State/State~Astrakhan_Oblast.internal|State~Astrakhan_Oblast.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Russia/State/State~Astrakhan_Oblast.protect|State~Astrakhan_Oblast.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Russia/State/State~Astrakhan_Oblast.private|State~Astrakhan_Oblast.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Russia/State/State~Astrakhan_Oblast.personal|State~Astrakhan_Oblast.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Russia/State/State~Astrakhan_Oblast.secret|State~Astrakhan_Oblast.secret]] 

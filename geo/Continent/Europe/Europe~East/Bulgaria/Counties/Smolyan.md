@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 41.6 , 24.6 ] 
 type: geo-Region
 title: Smolyan
@@ -40,10 +40,11 @@ markerFolder: ./Smolyan/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Bulgaria/Counties/Smolyan.md|Smolyan]] 
-- [[../../../../_internal/geo/Continent/Europe/Bulgaria/Counties/Smolyan.internal|Smolyan.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Bulgaria/Counties/Smolyan.protect|Smolyan.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Bulgaria/Counties/Smolyan.private|Smolyan.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Bulgaria/Counties/Smolyan.personal|Smolyan.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Bulgaria/Counties/Smolyan.secret|Smolyan.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Bulgaria/Counties/Smolyan|Smolyan]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Bulgaria/Counties/Smolyan.public|Smolyan.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Bulgaria/Counties/Smolyan.internal|Smolyan.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Bulgaria/Counties/Smolyan.protect|Smolyan.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Bulgaria/Counties/Smolyan.private|Smolyan.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Bulgaria/Counties/Smolyan.personal|Smolyan.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Bulgaria/Counties/Smolyan.secret|Smolyan.secret]] 
 

@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 57.13 , 24.27 ] 
 type: geo-Region
 title: Carnikavas
@@ -40,10 +40,11 @@ markerFolder: ./Carnikavas/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Latvia/Counties/Carnikavas.md|Carnikavas]] 
-- [[../../../../_internal/geo/Continent/Europe/Latvia/Counties/Carnikavas.internal|Carnikavas.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Latvia/Counties/Carnikavas.protect|Carnikavas.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Latvia/Counties/Carnikavas.private|Carnikavas.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Latvia/Counties/Carnikavas.personal|Carnikavas.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Latvia/Counties/Carnikavas.secret|Carnikavas.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Latvia/Counties/Carnikavas|Carnikavas]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Latvia/Counties/Carnikavas.public|Carnikavas.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Latvia/Counties/Carnikavas.internal|Carnikavas.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Latvia/Counties/Carnikavas.protect|Carnikavas.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Latvia/Counties/Carnikavas.private|Carnikavas.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Latvia/Counties/Carnikavas.personal|Carnikavas.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Latvia/Counties/Carnikavas.secret|Carnikavas.secret]] 
 

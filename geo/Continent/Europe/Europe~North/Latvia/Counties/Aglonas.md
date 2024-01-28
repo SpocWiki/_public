@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 56.1 , 27.1 ] 
 type: geo-Region
 title: Aglonas
@@ -40,10 +40,11 @@ markerFolder: ./Aglonas/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Latvia/Counties/Aglonas.md|Aglonas]] 
-- [[../../../../_internal/geo/Continent/Europe/Latvia/Counties/Aglonas.internal|Aglonas.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Latvia/Counties/Aglonas.protect|Aglonas.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Latvia/Counties/Aglonas.private|Aglonas.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Latvia/Counties/Aglonas.personal|Aglonas.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Latvia/Counties/Aglonas.secret|Aglonas.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Latvia/Counties/Aglonas|Aglonas]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Latvia/Counties/Aglonas.public|Aglonas.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Latvia/Counties/Aglonas.internal|Aglonas.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Latvia/Counties/Aglonas.protect|Aglonas.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Latvia/Counties/Aglonas.private|Aglonas.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Latvia/Counties/Aglonas.personal|Aglonas.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Latvia/Counties/Aglonas.secret|Aglonas.secret]] 
 

@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 54.6 , -1 ] 
 type: geo-Region
 title: Redcar_and_Cleveland
@@ -40,10 +40,11 @@ markerFolder: ./Redcar_and_Cleveland/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/United_Kingdom/England/Counties/Redcar_and_Cleveland.md|Redcar_and_Cleveland]] 
-- [[../../../../_internal/geo/Continent/Europe/United_Kingdom/England/Counties/Redcar_and_Cleveland.internal|Redcar_and_Cleveland.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/United_Kingdom/England/Counties/Redcar_and_Cleveland.protect|Redcar_and_Cleveland.protect]] 
-- [[../../../../_private/geo/Continent/Europe/United_Kingdom/England/Counties/Redcar_and_Cleveland.private|Redcar_and_Cleveland.private]] 
-- [[../../../../_personal/geo/Continent/Europe/United_Kingdom/England/Counties/Redcar_and_Cleveland.personal|Redcar_and_Cleveland.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/United_Kingdom/England/Counties/Redcar_and_Cleveland.secret|Redcar_and_Cleveland.secret]] 
+- [[../../../../../../../../_Standards/geo/Continent/Europe/Europe~North/United_Kingdom/England/Counties/Redcar_and_Cleveland|Redcar_and_Cleveland]] 
+- [[../../../../../../../../_public/geo/Continent/Europe/Europe~North/United_Kingdom/England/Counties/Redcar_and_Cleveland.public|Redcar_and_Cleveland.public]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/Europe~North/United_Kingdom/England/Counties/Redcar_and_Cleveland.internal|Redcar_and_Cleveland.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/Europe~North/United_Kingdom/England/Counties/Redcar_and_Cleveland.protect|Redcar_and_Cleveland.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/Europe~North/United_Kingdom/England/Counties/Redcar_and_Cleveland.private|Redcar_and_Cleveland.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/Europe~North/United_Kingdom/England/Counties/Redcar_and_Cleveland.personal|Redcar_and_Cleveland.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/Europe~North/United_Kingdom/England/Counties/Redcar_and_Cleveland.secret|Redcar_and_Cleveland.secret]] 
 

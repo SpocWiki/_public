@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 47.24 , 9.54 ] 
 type: geo-Region
 title: Schellenberg
@@ -40,10 +40,11 @@ markerFolder: ./Schellenberg/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Liechtenstein/Counties/Schellenberg.md|Schellenberg]] 
-- [[../../../../_internal/geo/Continent/Europe/Liechtenstein/Counties/Schellenberg.internal|Schellenberg.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Liechtenstein/Counties/Schellenberg.protect|Schellenberg.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Liechtenstein/Counties/Schellenberg.private|Schellenberg.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Liechtenstein/Counties/Schellenberg.personal|Schellenberg.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Liechtenstein/Counties/Schellenberg.secret|Schellenberg.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~West/Liechtenstein/Counties/Schellenberg|Schellenberg]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~West/Liechtenstein/Counties/Schellenberg.public|Schellenberg.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~West/Liechtenstein/Counties/Schellenberg.internal|Schellenberg.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~West/Liechtenstein/Counties/Schellenberg.protect|Schellenberg.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~West/Liechtenstein/Counties/Schellenberg.private|Schellenberg.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~West/Liechtenstein/Counties/Schellenberg.personal|Schellenberg.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~West/Liechtenstein/Counties/Schellenberg.secret|Schellenberg.secret]] 
 

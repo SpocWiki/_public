@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 51.4 , 0.1 ] 
 type: geo-Region
 title: Bromley
@@ -40,10 +40,11 @@ markerFolder: ./Bromley/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/United_Kingdom/London~Greater/Bromley.md|Bromley]] 
-- [[../../../../_internal/geo/Continent/Europe/United_Kingdom/London~Greater/Bromley.internal|Bromley.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/United_Kingdom/London~Greater/Bromley.protect|Bromley.protect]] 
-- [[../../../../_private/geo/Continent/Europe/United_Kingdom/London~Greater/Bromley.private|Bromley.private]] 
-- [[../../../../_personal/geo/Continent/Europe/United_Kingdom/London~Greater/Bromley.personal|Bromley.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/United_Kingdom/London~Greater/Bromley.secret|Bromley.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/United_Kingdom/London~Greater/Bromley|Bromley]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/United_Kingdom/London~Greater/Bromley.public|Bromley.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/United_Kingdom/London~Greater/Bromley.internal|Bromley.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/United_Kingdom/London~Greater/Bromley.protect|Bromley.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/United_Kingdom/London~Greater/Bromley.private|Bromley.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/United_Kingdom/London~Greater/Bromley.personal|Bromley.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/United_Kingdom/London~Greater/Bromley.secret|Bromley.secret]] 
 

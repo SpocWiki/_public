@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 50.8 , -1.1 ] 
 type: geo-Region
 title: Portsmouth
@@ -40,10 +40,11 @@ markerFolder: ./Portsmouth/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/United_Kingdom/England/Counties/Portsmouth.md|Portsmouth]] 
-- [[../../../../_internal/geo/Continent/Europe/United_Kingdom/England/Counties/Portsmouth.internal|Portsmouth.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/United_Kingdom/England/Counties/Portsmouth.protect|Portsmouth.protect]] 
-- [[../../../../_private/geo/Continent/Europe/United_Kingdom/England/Counties/Portsmouth.private|Portsmouth.private]] 
-- [[../../../../_personal/geo/Continent/Europe/United_Kingdom/England/Counties/Portsmouth.personal|Portsmouth.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/United_Kingdom/England/Counties/Portsmouth.secret|Portsmouth.secret]] 
+- [[../../../../../../../../_Standards/geo/Continent/Europe/Europe~North/United_Kingdom/England/Counties/Portsmouth|Portsmouth]] 
+- [[../../../../../../../../_public/geo/Continent/Europe/Europe~North/United_Kingdom/England/Counties/Portsmouth.public|Portsmouth.public]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/Europe~North/United_Kingdom/England/Counties/Portsmouth.internal|Portsmouth.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/Europe~North/United_Kingdom/England/Counties/Portsmouth.protect|Portsmouth.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/Europe~North/United_Kingdom/England/Counties/Portsmouth.private|Portsmouth.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/Europe~North/United_Kingdom/England/Counties/Portsmouth.personal|Portsmouth.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/Europe~North/United_Kingdom/England/Counties/Portsmouth.secret|Portsmouth.secret]] 
 

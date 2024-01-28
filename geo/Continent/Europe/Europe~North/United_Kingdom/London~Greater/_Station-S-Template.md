@@ -13,25 +13,26 @@ tags:
 aliases:
 - 
 ---
-location: [{{GeoLat}},{{GeoLon}}]
+location: [{{GeoLat}},{{GeoLon}}] 
 SpocWebEntityId: {{SpocWebEntityId}}
-[StationSId::{{Id}}]
+[StationSId::{{Id}}] 
 
-[geo-lon::{{GeoLon}}]
-[geo-lat::{{GeoLat}}]
-[name::{{name}}]
-[zone::{{zone}}]
-[Num_lines::{{total_lines}}]
-[switch-to-Rail::{{rail}}]
-[Country::[[United_Kingdom]]]
-[City::[[../London]]]
+[geo-lon::{{GeoLon}}] 
+[geo-lat::{{GeoLat}}] 
+[name::{{name}}] 
+[zone::{{zone}}] 
+[Num_lines::{{total_lines}}] 
+[switch-to-Rail::{{rail}}] 
+Country :: [[United_Kingdom]]  
+City :: [[../London]]  
 
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_public/geo/Continent/Europe/United_Kingdom/London~Greater/_Station-S-Template.md|_Station-S-Template]] 
-- [[../../../../../../_internal/geo/Continent/Europe/United_Kingdom/London~Greater/_Station-S-Template.internal|_Station-S-Template.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/London~Greater/_Station-S-Template.protect|_Station-S-Template.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/London~Greater/_Station-S-Template.private|_Station-S-Template.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/London~Greater/_Station-S-Template.personal|_Station-S-Template.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/London~Greater/_Station-S-Template.secret|_Station-S-Template.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/United_Kingdom/London~Greater/_Station-S-Template|_Station-S-Template]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/United_Kingdom/London~Greater/_Station-S-Template.public|_Station-S-Template.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/United_Kingdom/London~Greater/_Station-S-Template.internal|_Station-S-Template.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/United_Kingdom/London~Greater/_Station-S-Template.protect|_Station-S-Template.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/United_Kingdom/London~Greater/_Station-S-Template.private|_Station-S-Template.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/United_Kingdom/London~Greater/_Station-S-Template.personal|_Station-S-Template.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/United_Kingdom/London~Greater/_Station-S-Template.secret|_Station-S-Template.secret]] 

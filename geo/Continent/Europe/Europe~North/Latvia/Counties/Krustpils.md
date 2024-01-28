@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 56.5 , 26.2 ] 
 type: geo-Region
 title: Krustpils
@@ -40,10 +40,11 @@ markerFolder: ./Krustpils/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Latvia/Counties/Krustpils.md|Krustpils]] 
-- [[../../../../_internal/geo/Continent/Europe/Latvia/Counties/Krustpils.internal|Krustpils.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Latvia/Counties/Krustpils.protect|Krustpils.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Latvia/Counties/Krustpils.private|Krustpils.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Latvia/Counties/Krustpils.personal|Krustpils.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Latvia/Counties/Krustpils.secret|Krustpils.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Latvia/Counties/Krustpils|Krustpils]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Latvia/Counties/Krustpils.public|Krustpils.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Latvia/Counties/Krustpils.internal|Krustpils.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Latvia/Counties/Krustpils.protect|Krustpils.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Latvia/Counties/Krustpils.private|Krustpils.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Latvia/Counties/Krustpils.personal|Krustpils.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Latvia/Counties/Krustpils.secret|Krustpils.secret]] 
 

@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 51.3 , 3.8 ] 
 type: geo-Region
 title: Zeeland
@@ -40,10 +40,11 @@ markerFolder: ./Zeeland/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Netherlands/Counties/Zeeland.md|Zeeland]] 
-- [[../../../../_internal/geo/Continent/Europe/Netherlands/Counties/Zeeland.internal|Zeeland.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Netherlands/Counties/Zeeland.protect|Zeeland.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Netherlands/Counties/Zeeland.private|Zeeland.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Netherlands/Counties/Zeeland.personal|Zeeland.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Netherlands/Counties/Zeeland.secret|Zeeland.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~West/Netherlands/Counties/Zeeland|Zeeland]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~West/Netherlands/Counties/Zeeland.public|Zeeland.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~West/Netherlands/Counties/Zeeland.internal|Zeeland.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~West/Netherlands/Counties/Zeeland.protect|Zeeland.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~West/Netherlands/Counties/Zeeland.private|Zeeland.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~West/Netherlands/Counties/Zeeland.personal|Zeeland.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~West/Netherlands/Counties/Zeeland.secret|Zeeland.secret]] 
 

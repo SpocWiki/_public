@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 48 , 28.7 ] 
 type: geo-Region
 title: Camenca
@@ -40,10 +40,11 @@ markerFolder: ./Camenca/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Moldova/Counties/Camenca.md|Camenca]] 
-- [[../../../../_internal/geo/Continent/Europe/Moldova/Counties/Camenca.internal|Camenca.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Moldova/Counties/Camenca.protect|Camenca.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Moldova/Counties/Camenca.private|Camenca.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Moldova/Counties/Camenca.personal|Camenca.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Moldova/Counties/Camenca.secret|Camenca.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Moldova/Counties/Camenca|Camenca]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Moldova/Counties/Camenca.public|Camenca.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Moldova/Counties/Camenca.internal|Camenca.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Moldova/Counties/Camenca.protect|Camenca.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Moldova/Counties/Camenca.private|Camenca.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Moldova/Counties/Camenca.personal|Camenca.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Moldova/Counties/Camenca.secret|Camenca.secret]] 
 

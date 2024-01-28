@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 40.3 , 39.5 ] 
 type: geo-Region
 title: Gümüshane
@@ -40,10 +40,11 @@ markerFolder: ./Gümüshane/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Turkey/Counties/Gümüshane.md|Gümüshane]] 
-- [[../../../../_internal/geo/Continent/Europe/Turkey/Counties/Gümüshane.internal|Gümüshane.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Turkey/Counties/Gümüshane.protect|Gümüshane.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Turkey/Counties/Gümüshane.private|Gümüshane.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Turkey/Counties/Gümüshane.personal|Gümüshane.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Turkey/Counties/Gümüshane.secret|Gümüshane.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Turkey/Counties/Gümüshane|Gümüshane]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Turkey/Counties/Gümüshane.public|Gümüshane.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Turkey/Counties/Gümüshane.internal|Gümüshane.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Turkey/Counties/Gümüshane.protect|Gümüshane.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Turkey/Counties/Gümüshane.private|Gümüshane.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Turkey/Counties/Gümüshane.personal|Gümüshane.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Turkey/Counties/Gümüshane.secret|Gümüshane.secret]] 
 

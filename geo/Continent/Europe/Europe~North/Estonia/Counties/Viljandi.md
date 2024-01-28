@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 58.3 , 25.6 ] 
 type: geo-Region
 title: Viljandi
@@ -40,10 +40,11 @@ markerFolder: ./Viljandi/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Estonia/Counties/Viljandi.md|Viljandi]] 
-- [[../../../../_internal/geo/Continent/Europe/Estonia/Counties/Viljandi.internal|Viljandi.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Estonia/Counties/Viljandi.protect|Viljandi.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Estonia/Counties/Viljandi.private|Viljandi.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Estonia/Counties/Viljandi.personal|Viljandi.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Estonia/Counties/Viljandi.secret|Viljandi.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Estonia/Counties/Viljandi|Viljandi]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Estonia/Counties/Viljandi.public|Viljandi.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Estonia/Counties/Viljandi.internal|Viljandi.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Estonia/Counties/Viljandi.protect|Viljandi.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Estonia/Counties/Viljandi.private|Viljandi.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Estonia/Counties/Viljandi.personal|Viljandi.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Estonia/Counties/Viljandi.secret|Viljandi.secret]] 
 

@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 58.1 , -6.7 ] 
 type: geo-Region
 title: Eilean_Siar
@@ -40,10 +40,11 @@ markerFolder: ./Eilean_Siar/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/United_Kingdom/Scotland/Counties/Eilean_Siar.md|Eilean_Siar]] 
-- [[../../../../_internal/geo/Continent/Europe/United_Kingdom/Scotland/Counties/Eilean_Siar.internal|Eilean_Siar.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/United_Kingdom/Scotland/Counties/Eilean_Siar.protect|Eilean_Siar.protect]] 
-- [[../../../../_private/geo/Continent/Europe/United_Kingdom/Scotland/Counties/Eilean_Siar.private|Eilean_Siar.private]] 
-- [[../../../../_personal/geo/Continent/Europe/United_Kingdom/Scotland/Counties/Eilean_Siar.personal|Eilean_Siar.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/United_Kingdom/Scotland/Counties/Eilean_Siar.secret|Eilean_Siar.secret]] 
+- [[../../../../../../../../_Standards/geo/Continent/Europe/Europe~North/United_Kingdom/Scotland/Counties/Eilean_Siar|Eilean_Siar]] 
+- [[../../../../../../../../_public/geo/Continent/Europe/Europe~North/United_Kingdom/Scotland/Counties/Eilean_Siar.public|Eilean_Siar.public]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/Europe~North/United_Kingdom/Scotland/Counties/Eilean_Siar.internal|Eilean_Siar.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/Europe~North/United_Kingdom/Scotland/Counties/Eilean_Siar.protect|Eilean_Siar.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/Europe~North/United_Kingdom/Scotland/Counties/Eilean_Siar.private|Eilean_Siar.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/Europe~North/United_Kingdom/Scotland/Counties/Eilean_Siar.personal|Eilean_Siar.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/Europe~North/United_Kingdom/Scotland/Counties/Eilean_Siar.secret|Eilean_Siar.secret]] 
 

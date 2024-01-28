@@ -1,5 +1,5 @@
-﻿---
-location: [51.17,15.92]
+---
+location: [51.17,15.92] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,29 +12,30 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::15.92]
-[geo-lat::51.17]
-[name::Kosendau]
-[State::]
-[Country::[[Poland]]]
-[StateId::]
-[Population::]
-[Unknown::]
+[geo-lon::15.92] 
+[geo-lat::51.17] 
+[name::Kosendau] 
+State ::  
+Country :: [[Poland]]  
+[StateId::] 
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Kosendau
-coordinates: [[Kosendau]]
-markerFile: [[Kosendau]]
+coordinates: [[Kosendau]] 
+markerFile: [[Kosendau]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_public/geo/Continent/Europe/Poland/City/Kosendau.md|Kosendau]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Kosendau.internal|Kosendau.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Kosendau.protect|Kosendau.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Kosendau.private|Kosendau.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Kosendau.personal|Kosendau.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Kosendau.secret|Kosendau.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Poland/City/Kosendau|Kosendau]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Poland/City/Kosendau.public|Kosendau.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Poland/City/Kosendau.internal|Kosendau.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Poland/City/Kosendau.protect|Kosendau.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Poland/City/Kosendau.private|Kosendau.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Poland/City/Kosendau.personal|Kosendau.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Poland/City/Kosendau.secret|Kosendau.secret]] 

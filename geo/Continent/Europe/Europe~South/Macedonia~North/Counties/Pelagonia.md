@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 41.2 , 21.4 ] 
 type: geo-Region
 title: Pelagonia
@@ -40,10 +40,11 @@ markerFolder: ./Pelagonia/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Macedonia~North/Counties/Pelagonia.md|Pelagonia]] 
-- [[../../../../_internal/geo/Continent/Europe/Macedonia~North/Counties/Pelagonia.internal|Pelagonia.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Macedonia~North/Counties/Pelagonia.protect|Pelagonia.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Macedonia~North/Counties/Pelagonia.private|Pelagonia.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Macedonia~North/Counties/Pelagonia.personal|Pelagonia.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Macedonia~North/Counties/Pelagonia.secret|Pelagonia.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Macedonia~North/Counties/Pelagonia|Pelagonia]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Macedonia~North/Counties/Pelagonia.public|Pelagonia.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Macedonia~North/Counties/Pelagonia.internal|Pelagonia.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Macedonia~North/Counties/Pelagonia.protect|Pelagonia.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Macedonia~North/Counties/Pelagonia.private|Pelagonia.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Macedonia~North/Counties/Pelagonia.personal|Pelagonia.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Macedonia~North/Counties/Pelagonia.secret|Pelagonia.secret]] 
 

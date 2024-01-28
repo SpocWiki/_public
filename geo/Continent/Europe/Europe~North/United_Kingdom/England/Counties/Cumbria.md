@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 54.6 , -2.9 ] 
 type: geo-Region
 title: Cumbria
@@ -40,10 +40,11 @@ markerFolder: ./Cumbria/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/United_Kingdom/England/Counties/Cumbria.md|Cumbria]] 
-- [[../../../../_internal/geo/Continent/Europe/United_Kingdom/England/Counties/Cumbria.internal|Cumbria.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/United_Kingdom/England/Counties/Cumbria.protect|Cumbria.protect]] 
-- [[../../../../_private/geo/Continent/Europe/United_Kingdom/England/Counties/Cumbria.private|Cumbria.private]] 
-- [[../../../../_personal/geo/Continent/Europe/United_Kingdom/England/Counties/Cumbria.personal|Cumbria.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/United_Kingdom/England/Counties/Cumbria.secret|Cumbria.secret]] 
+- [[../../../../../../../../_Standards/geo/Continent/Europe/Europe~North/United_Kingdom/England/Counties/Cumbria|Cumbria]] 
+- [[../../../../../../../../_public/geo/Continent/Europe/Europe~North/United_Kingdom/England/Counties/Cumbria.public|Cumbria.public]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/Europe~North/United_Kingdom/England/Counties/Cumbria.internal|Cumbria.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/Europe~North/United_Kingdom/England/Counties/Cumbria.protect|Cumbria.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/Europe~North/United_Kingdom/England/Counties/Cumbria.private|Cumbria.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/Europe~North/United_Kingdom/England/Counties/Cumbria.personal|Cumbria.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/Europe~North/United_Kingdom/England/Counties/Cumbria.secret|Cumbria.secret]] 
 

@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 36.04 , 14.32 ] 
 type: geo-Region
 title: Qala
@@ -40,10 +40,11 @@ markerFolder: ./Qala/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Malta/Counties/Qala.md|Qala]] 
-- [[../../../../_internal/geo/Continent/Europe/Malta/Counties/Qala.internal|Qala.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Malta/Counties/Qala.protect|Qala.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Malta/Counties/Qala.private|Qala.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Malta/Counties/Qala.personal|Qala.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Malta/Counties/Qala.secret|Qala.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Malta/Counties/Qala|Qala]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Malta/Counties/Qala.public|Qala.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Malta/Counties/Qala.internal|Qala.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Malta/Counties/Qala.protect|Qala.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Malta/Counties/Qala.private|Qala.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Malta/Counties/Qala.personal|Qala.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Malta/Counties/Qala.secret|Qala.secret]] 
 

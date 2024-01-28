@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 46.1 , 18.2 ] 
 type: geo-Region
 title: Pécs
@@ -40,10 +40,11 @@ markerFolder: ./Pécs/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Hungary/Counties/Pécs.md|Pécs]] 
-- [[../../../../_internal/geo/Continent/Europe/Hungary/Counties/Pécs.internal|Pécs.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Hungary/Counties/Pécs.protect|Pécs.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Hungary/Counties/Pécs.private|Pécs.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Hungary/Counties/Pécs.personal|Pécs.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Hungary/Counties/Pécs.secret|Pécs.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Hungary/Counties/Pécs|Pécs]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Hungary/Counties/Pécs.public|Pécs.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Hungary/Counties/Pécs.internal|Pécs.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Hungary/Counties/Pécs.protect|Pécs.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Hungary/Counties/Pécs.private|Pécs.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Hungary/Counties/Pécs.personal|Pécs.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Hungary/Counties/Pécs.secret|Pécs.secret]] 
 

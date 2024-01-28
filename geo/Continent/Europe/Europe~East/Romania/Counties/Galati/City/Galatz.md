@@ -1,5 +1,5 @@
-﻿---
-location: [45.43,28.05]
+---
+location: [45.43,28.05] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,29 +12,30 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::28.05]
-[geo-lat::45.43]
-[name::Galatz]
-[State::]
-[Country::[[Romania]]]
-[StateId::]
-[Population::]
-[Unknown::]
+[geo-lon::28.05] 
+[geo-lat::45.43] 
+[name::Galatz] 
+State ::  
+Country :: [[Romania]]  
+[StateId::] 
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Galatz
-coordinates: [[Galatz]]
-markerFile: [[Galatz]]
+coordinates: [[Galatz]] 
+markerFile: [[Galatz]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_public/geo/Continent/Europe/Romania/City/Galatz.md|Galatz]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Romania/City/Galatz.internal|Galatz.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Romania/City/Galatz.protect|Galatz.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Romania/City/Galatz.private|Galatz.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Romania/City/Galatz.personal|Galatz.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Romania/City/Galatz.secret|Galatz.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Romania/City/Galatz|Galatz]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Romania/City/Galatz.public|Galatz.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Romania/City/Galatz.internal|Galatz.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Romania/City/Galatz.protect|Galatz.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Romania/City/Galatz.private|Galatz.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Romania/City/Galatz.personal|Galatz.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Romania/City/Galatz.secret|Galatz.secret]] 

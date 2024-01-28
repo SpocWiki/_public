@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 41.6 , -8.3 ] 
 type: geo-Region
 title: Braga
@@ -40,10 +40,11 @@ markerFolder: ./Braga/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Portugal/Counties/Braga.md|Braga]] 
-- [[../../../../_internal/geo/Continent/Europe/Portugal/Counties/Braga.internal|Braga.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Portugal/Counties/Braga.protect|Braga.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Portugal/Counties/Braga.private|Braga.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Portugal/Counties/Braga.personal|Braga.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Portugal/Counties/Braga.secret|Braga.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Portugal/Counties/Braga|Braga]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Portugal/Counties/Braga.public|Braga.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Portugal/Counties/Braga.internal|Braga.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Portugal/Counties/Braga.protect|Braga.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Portugal/Counties/Braga.private|Braga.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Portugal/Counties/Braga.personal|Braga.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Portugal/Counties/Braga.secret|Braga.secret]] 
 

@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 52.6 , -0.3 ] 
 type: geo-Region
 title: Peterborough
@@ -40,10 +40,11 @@ markerFolder: ./Peterborough/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/United_Kingdom/England/Counties/Peterborough.md|Peterborough]] 
-- [[../../../../_internal/geo/Continent/Europe/United_Kingdom/England/Counties/Peterborough.internal|Peterborough.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/United_Kingdom/England/Counties/Peterborough.protect|Peterborough.protect]] 
-- [[../../../../_private/geo/Continent/Europe/United_Kingdom/England/Counties/Peterborough.private|Peterborough.private]] 
-- [[../../../../_personal/geo/Continent/Europe/United_Kingdom/England/Counties/Peterborough.personal|Peterborough.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/United_Kingdom/England/Counties/Peterborough.secret|Peterborough.secret]] 
+- [[../../../../../../../../_Standards/geo/Continent/Europe/Europe~North/United_Kingdom/England/Counties/Peterborough|Peterborough]] 
+- [[../../../../../../../../_public/geo/Continent/Europe/Europe~North/United_Kingdom/England/Counties/Peterborough.public|Peterborough.public]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/Europe~North/United_Kingdom/England/Counties/Peterborough.internal|Peterborough.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/Europe~North/United_Kingdom/England/Counties/Peterborough.protect|Peterborough.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/Europe~North/United_Kingdom/England/Counties/Peterborough.private|Peterborough.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/Europe~North/United_Kingdom/England/Counties/Peterborough.personal|Peterborough.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/Europe~North/United_Kingdom/England/Counties/Peterborough.secret|Peterborough.secret]] 
 

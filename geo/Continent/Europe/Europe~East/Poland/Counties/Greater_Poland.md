@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 52.3 , 17.3 ] 
 type: geo-Region
 title: Greater_Poland
@@ -40,10 +40,11 @@ markerFolder: ./Greater_Poland/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Poland/Counties/Greater_Poland.md|Greater_Poland]] 
-- [[../../../../_internal/geo/Continent/Europe/Poland/Counties/Greater_Poland.internal|Greater_Poland.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Poland/Counties/Greater_Poland.protect|Greater_Poland.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Poland/Counties/Greater_Poland.private|Greater_Poland.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Poland/Counties/Greater_Poland.personal|Greater_Poland.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Poland/Counties/Greater_Poland.secret|Greater_Poland.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Poland/Counties/Greater_Poland|Greater_Poland]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Poland/Counties/Greater_Poland.public|Greater_Poland.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Poland/Counties/Greater_Poland.internal|Greater_Poland.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Poland/Counties/Greater_Poland.protect|Greater_Poland.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Poland/Counties/Greater_Poland.private|Greater_Poland.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Poland/Counties/Greater_Poland.personal|Greater_Poland.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Poland/Counties/Greater_Poland.secret|Greater_Poland.secret]] 
 

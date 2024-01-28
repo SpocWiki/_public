@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 35 , 33 ] 
 type: geo-Region
 title: Nicosia
@@ -40,10 +40,11 @@ markerFolder: ./Nicosia/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Cyprus/Counties/Nicosia.md|Nicosia]] 
-- [[../../../../_internal/geo/Continent/Europe/Cyprus/Counties/Nicosia.internal|Nicosia.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Cyprus/Counties/Nicosia.protect|Nicosia.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Cyprus/Counties/Nicosia.private|Nicosia.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Cyprus/Counties/Nicosia.personal|Nicosia.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Cyprus/Counties/Nicosia.secret|Nicosia.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Cyprus/Counties/Nicosia|Nicosia]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Cyprus/Counties/Nicosia.public|Nicosia.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Cyprus/Counties/Nicosia.internal|Nicosia.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Cyprus/Counties/Nicosia.protect|Nicosia.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Cyprus/Counties/Nicosia.private|Nicosia.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Cyprus/Counties/Nicosia.personal|Nicosia.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Cyprus/Counties/Nicosia.secret|Nicosia.secret]] 
 

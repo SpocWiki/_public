@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 40.6 , 35.9 ] 
 type: geo-Region
 title: Amasya
@@ -40,10 +40,11 @@ markerFolder: ./Amasya/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Turkey/Counties/Amasya.md|Amasya]] 
-- [[../../../../_internal/geo/Continent/Europe/Turkey/Counties/Amasya.internal|Amasya.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Turkey/Counties/Amasya.protect|Amasya.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Turkey/Counties/Amasya.private|Amasya.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Turkey/Counties/Amasya.personal|Amasya.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Turkey/Counties/Amasya.secret|Amasya.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Turkey/Counties/Amasya|Amasya]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Turkey/Counties/Amasya.public|Amasya.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Turkey/Counties/Amasya.internal|Amasya.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Turkey/Counties/Amasya.protect|Amasya.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Turkey/Counties/Amasya.private|Amasya.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Turkey/Counties/Amasya.personal|Amasya.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Turkey/Counties/Amasya.secret|Amasya.secret]] 
 

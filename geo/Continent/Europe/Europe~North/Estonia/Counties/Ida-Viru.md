@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 59.2 , 27.4 ] 
 type: geo-Region
 title: Ida-Viru
@@ -40,10 +40,11 @@ markerFolder: ./Ida-Viru/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Estonia/Counties/Ida-Viru.md|Ida-Viru]] 
-- [[../../../../_internal/geo/Continent/Europe/Estonia/Counties/Ida-Viru.internal|Ida-Viru.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Estonia/Counties/Ida-Viru.protect|Ida-Viru.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Estonia/Counties/Ida-Viru.private|Ida-Viru.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Estonia/Counties/Ida-Viru.personal|Ida-Viru.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Estonia/Counties/Ida-Viru.secret|Ida-Viru.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Estonia/Counties/Ida-Viru|Ida-Viru]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Estonia/Counties/Ida-Viru.public|Ida-Viru.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Estonia/Counties/Ida-Viru.internal|Ida-Viru.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Estonia/Counties/Ida-Viru.protect|Ida-Viru.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Estonia/Counties/Ida-Viru.private|Ida-Viru.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Estonia/Counties/Ida-Viru.personal|Ida-Viru.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Estonia/Counties/Ida-Viru.secret|Ida-Viru.secret]] 
 

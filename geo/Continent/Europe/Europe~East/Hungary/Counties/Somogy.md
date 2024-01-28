@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 46.4 , 17.4 ] 
 type: geo-Region
 title: Somogy
@@ -40,10 +40,11 @@ markerFolder: ./Somogy/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Hungary/Counties/Somogy.md|Somogy]] 
-- [[../../../../_internal/geo/Continent/Europe/Hungary/Counties/Somogy.internal|Somogy.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Hungary/Counties/Somogy.protect|Somogy.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Hungary/Counties/Somogy.private|Somogy.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Hungary/Counties/Somogy.personal|Somogy.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Hungary/Counties/Somogy.secret|Somogy.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Hungary/Counties/Somogy|Somogy]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Hungary/Counties/Somogy.public|Somogy.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Hungary/Counties/Somogy.internal|Somogy.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Hungary/Counties/Somogy.protect|Somogy.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Hungary/Counties/Somogy.private|Somogy.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Hungary/Counties/Somogy.personal|Somogy.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Hungary/Counties/Somogy.secret|Somogy.secret]] 
 

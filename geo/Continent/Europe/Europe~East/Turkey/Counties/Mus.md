@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 39 , 41.9 ] 
 type: geo-Region
 title: Mus
@@ -40,10 +40,11 @@ markerFolder: ./Mus/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Turkey/Counties/Mus.md|Mus]] 
-- [[../../../../_internal/geo/Continent/Europe/Turkey/Counties/Mus.internal|Mus.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Turkey/Counties/Mus.protect|Mus.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Turkey/Counties/Mus.private|Mus.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Turkey/Counties/Mus.personal|Mus.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Turkey/Counties/Mus.secret|Mus.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Turkey/Counties/Mus|Mus]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Turkey/Counties/Mus.public|Mus.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Turkey/Counties/Mus.internal|Mus.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Turkey/Counties/Mus.protect|Mus.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Turkey/Counties/Mus.private|Mus.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Turkey/Counties/Mus.personal|Mus.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Turkey/Counties/Mus.secret|Mus.secret]] 
 

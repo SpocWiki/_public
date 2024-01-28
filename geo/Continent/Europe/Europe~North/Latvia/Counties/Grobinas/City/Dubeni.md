@@ -1,5 +1,5 @@
-﻿---
-location: [56.5,21.18]
+---
+location: [56.5,21.18] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,29 +12,30 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::21.18]
-[geo-lat::56.5]
-[name::Dubeni]
-[State::]
-[Country::[[Russia]]]
-[StateId::]
-[Population::]
-[Unknown::]
+[geo-lon::21.18] 
+[geo-lat::56.5] 
+[name::Dubeni] 
+State ::  
+Country :: [[Russia]]  
+[StateId::] 
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Dubeni
-coordinates: [[Dubeni]]
-markerFile: [[Dubeni]]
+coordinates: [[Dubeni]] 
+markerFile: [[Dubeni]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_public/geo/Continent/Europe/Russia/City/Dubeni.md|Dubeni]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Dubeni.internal|Dubeni.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Dubeni.protect|Dubeni.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Dubeni.private|Dubeni.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Dubeni.personal|Dubeni.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Dubeni.secret|Dubeni.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Russia/City/Dubeni|Dubeni]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Russia/City/Dubeni.public|Dubeni.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Russia/City/Dubeni.internal|Dubeni.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Russia/City/Dubeni.protect|Dubeni.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Russia/City/Dubeni.private|Dubeni.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Russia/City/Dubeni.personal|Dubeni.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Russia/City/Dubeni.secret|Dubeni.secret]] 

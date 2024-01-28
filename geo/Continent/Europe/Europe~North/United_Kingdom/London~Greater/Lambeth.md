@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 51.46 , -0.11 ] 
 type: geo-Region
 title: Lambeth
@@ -40,10 +40,11 @@ markerFolder: ./Lambeth/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/United_Kingdom/London~Greater/Lambeth.md|Lambeth]] 
-- [[../../../../_internal/geo/Continent/Europe/United_Kingdom/London~Greater/Lambeth.internal|Lambeth.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/United_Kingdom/London~Greater/Lambeth.protect|Lambeth.protect]] 
-- [[../../../../_private/geo/Continent/Europe/United_Kingdom/London~Greater/Lambeth.private|Lambeth.private]] 
-- [[../../../../_personal/geo/Continent/Europe/United_Kingdom/London~Greater/Lambeth.personal|Lambeth.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/United_Kingdom/London~Greater/Lambeth.secret|Lambeth.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/United_Kingdom/London~Greater/Lambeth|Lambeth]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/United_Kingdom/London~Greater/Lambeth.public|Lambeth.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/United_Kingdom/London~Greater/Lambeth.internal|Lambeth.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/United_Kingdom/London~Greater/Lambeth.protect|Lambeth.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/United_Kingdom/London~Greater/Lambeth.private|Lambeth.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/United_Kingdom/London~Greater/Lambeth.personal|Lambeth.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/United_Kingdom/London~Greater/Lambeth.secret|Lambeth.secret]] 
 

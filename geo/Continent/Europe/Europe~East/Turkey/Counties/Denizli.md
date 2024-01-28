@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 37.7 , 29.3 ] 
 type: geo-Region
 title: Denizli
@@ -40,10 +40,11 @@ markerFolder: ./Denizli/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Turkey/Counties/Denizli.md|Denizli]] 
-- [[../../../../_internal/geo/Continent/Europe/Turkey/Counties/Denizli.internal|Denizli.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Turkey/Counties/Denizli.protect|Denizli.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Turkey/Counties/Denizli.private|Denizli.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Turkey/Counties/Denizli.personal|Denizli.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Turkey/Counties/Denizli.secret|Denizli.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Turkey/Counties/Denizli|Denizli]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Turkey/Counties/Denizli.public|Denizli.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Turkey/Counties/Denizli.internal|Denizli.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Turkey/Counties/Denizli.protect|Denizli.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Turkey/Counties/Denizli.private|Denizli.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Turkey/Counties/Denizli.personal|Denizli.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Turkey/Counties/Denizli.secret|Denizli.secret]] 
 

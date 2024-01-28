@@ -1,5 +1,5 @@
-﻿---
-location: [53.8,-9.52]
+---
+location: [53.8,-9.52] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,29 +12,30 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::-9.52]
-[geo-lat::53.8]
-[name::Westport]
-[State::]
-[Country::[[Ireland]]]
-[StateId::]
-[Population::]
-[Unknown::]
+[geo-lon::-9.52] 
+[geo-lat::53.8] 
+[name::Westport] 
+State ::  
+Country :: [[Ireland]]  
+[StateId::] 
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Westport
-coordinates: [[Westport]]
-markerFile: [[Westport]]
+coordinates: [[Westport]] 
+markerFile: [[Westport]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_public/geo/Continent/Europe/Ireland/City/Westport.md|Westport]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Ireland/City/Westport.internal|Westport.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Ireland/City/Westport.protect|Westport.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Ireland/City/Westport.private|Westport.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Ireland/City/Westport.personal|Westport.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Ireland/City/Westport.secret|Westport.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Ireland/City/Westport|Westport]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Ireland/City/Westport.public|Westport.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Ireland/City/Westport.internal|Westport.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Ireland/City/Westport.protect|Westport.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Ireland/City/Westport.private|Westport.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Ireland/City/Westport.personal|Westport.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Ireland/City/Westport.secret|Westport.secret]] 

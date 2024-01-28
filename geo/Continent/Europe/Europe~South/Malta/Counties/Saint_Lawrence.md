@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 36.05 , 14.2 ] 
 type: geo-Region
 title: Saint_Lawrence
@@ -40,10 +40,11 @@ markerFolder: ./Saint_Lawrence/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Malta/Counties/Saint_Lawrence.md|Saint_Lawrence]] 
-- [[../../../../_internal/geo/Continent/Europe/Malta/Counties/Saint_Lawrence.internal|Saint_Lawrence.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Malta/Counties/Saint_Lawrence.protect|Saint_Lawrence.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Malta/Counties/Saint_Lawrence.private|Saint_Lawrence.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Malta/Counties/Saint_Lawrence.personal|Saint_Lawrence.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Malta/Counties/Saint_Lawrence.secret|Saint_Lawrence.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Malta/Counties/Saint_Lawrence|Saint_Lawrence]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Malta/Counties/Saint_Lawrence.public|Saint_Lawrence.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Malta/Counties/Saint_Lawrence.internal|Saint_Lawrence.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Malta/Counties/Saint_Lawrence.protect|Saint_Lawrence.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Malta/Counties/Saint_Lawrence.private|Saint_Lawrence.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Malta/Counties/Saint_Lawrence.personal|Saint_Lawrence.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Malta/Counties/Saint_Lawrence.secret|Saint_Lawrence.secret]] 
 

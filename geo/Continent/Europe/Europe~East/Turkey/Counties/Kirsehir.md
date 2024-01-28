@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 39.4 , 34.1 ] 
 type: geo-Region
 title: Kirsehir
@@ -40,10 +40,11 @@ markerFolder: ./Kirsehir/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Turkey/Counties/Kirsehir.md|Kirsehir]] 
-- [[../../../../_internal/geo/Continent/Europe/Turkey/Counties/Kirsehir.internal|Kirsehir.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Turkey/Counties/Kirsehir.protect|Kirsehir.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Turkey/Counties/Kirsehir.private|Kirsehir.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Turkey/Counties/Kirsehir.personal|Kirsehir.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Turkey/Counties/Kirsehir.secret|Kirsehir.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Turkey/Counties/Kirsehir|Kirsehir]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Turkey/Counties/Kirsehir.public|Kirsehir.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Turkey/Counties/Kirsehir.internal|Kirsehir.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Turkey/Counties/Kirsehir.protect|Kirsehir.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Turkey/Counties/Kirsehir.private|Kirsehir.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Turkey/Counties/Kirsehir.personal|Kirsehir.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Turkey/Counties/Kirsehir.secret|Kirsehir.secret]] 
 

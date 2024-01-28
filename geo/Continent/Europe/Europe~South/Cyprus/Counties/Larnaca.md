@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 34.9 , 33.4 ] 
 type: geo-Region
 title: Larnaca
@@ -40,10 +40,11 @@ markerFolder: ./Larnaca/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Cyprus/Counties/Larnaca.md|Larnaca]] 
-- [[../../../../_internal/geo/Continent/Europe/Cyprus/Counties/Larnaca.internal|Larnaca.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Cyprus/Counties/Larnaca.protect|Larnaca.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Cyprus/Counties/Larnaca.private|Larnaca.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Cyprus/Counties/Larnaca.personal|Larnaca.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Cyprus/Counties/Larnaca.secret|Larnaca.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Cyprus/Counties/Larnaca|Larnaca]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Cyprus/Counties/Larnaca.public|Larnaca.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Cyprus/Counties/Larnaca.internal|Larnaca.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Cyprus/Counties/Larnaca.protect|Larnaca.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Cyprus/Counties/Larnaca.private|Larnaca.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Cyprus/Counties/Larnaca.personal|Larnaca.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Cyprus/Counties/Larnaca.secret|Larnaca.secret]] 
 

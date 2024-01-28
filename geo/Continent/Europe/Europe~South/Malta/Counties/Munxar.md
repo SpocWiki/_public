@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 36.02 , 14.23 ] 
 type: geo-Region
 title: Munxar
@@ -40,10 +40,11 @@ markerFolder: ./Munxar/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Malta/Counties/Munxar.md|Munxar]] 
-- [[../../../../_internal/geo/Continent/Europe/Malta/Counties/Munxar.internal|Munxar.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Malta/Counties/Munxar.protect|Munxar.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Malta/Counties/Munxar.private|Munxar.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Malta/Counties/Munxar.personal|Munxar.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Malta/Counties/Munxar.secret|Munxar.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Malta/Counties/Munxar|Munxar]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Malta/Counties/Munxar.public|Munxar.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Malta/Counties/Munxar.internal|Munxar.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Malta/Counties/Munxar.protect|Munxar.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Malta/Counties/Munxar.private|Munxar.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Malta/Counties/Munxar.personal|Munxar.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Malta/Counties/Munxar.secret|Munxar.secret]] 
 

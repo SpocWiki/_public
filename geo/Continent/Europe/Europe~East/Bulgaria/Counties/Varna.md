@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 43.2 , 27.5 ] 
 type: geo-Region
 title: Varna
@@ -40,10 +40,11 @@ markerFolder: ./Varna/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Bulgaria/Counties/Varna.md|Varna]] 
-- [[../../../../_internal/geo/Continent/Europe/Bulgaria/Counties/Varna.internal|Varna.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Bulgaria/Counties/Varna.protect|Varna.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Bulgaria/Counties/Varna.private|Varna.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Bulgaria/Counties/Varna.personal|Varna.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Bulgaria/Counties/Varna.secret|Varna.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Bulgaria/Counties/Varna|Varna]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Bulgaria/Counties/Varna.public|Varna.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Bulgaria/Counties/Varna.internal|Varna.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Bulgaria/Counties/Varna.protect|Varna.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Bulgaria/Counties/Varna.private|Varna.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Bulgaria/Counties/Varna.personal|Varna.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Bulgaria/Counties/Varna.secret|Varna.secret]] 
 

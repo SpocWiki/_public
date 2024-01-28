@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 42.7 , 20.3 ] 
 type: geo-Region
 title: Peć
@@ -40,10 +40,11 @@ markerFolder: ./Peć/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Kosovo/Counties/Peć.md|Peć]] 
-- [[../../../../_internal/geo/Continent/Europe/Kosovo/Counties/Peć.internal|Peć.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Kosovo/Counties/Peć.protect|Peć.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Kosovo/Counties/Peć.private|Peć.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Kosovo/Counties/Peć.personal|Peć.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Kosovo/Counties/Peć.secret|Peć.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Kosovo/Counties/Peć|Peć]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Kosovo/Counties/Peć.public|Peć.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Kosovo/Counties/Peć.internal|Peć.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Kosovo/Counties/Peć.protect|Peć.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Kosovo/Counties/Peć.private|Peć.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Kosovo/Counties/Peć.personal|Peć.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Kosovo/Counties/Peć.secret|Peć.secret]] 
 

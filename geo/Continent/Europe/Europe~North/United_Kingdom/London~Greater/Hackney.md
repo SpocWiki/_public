@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 51.54 , -0.04 ] 
 type: geo-Region
 title: Hackney
@@ -40,10 +40,11 @@ markerFolder: ./Hackney/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/United_Kingdom/London~Greater/Hackney.md|Hackney]] 
-- [[../../../../_internal/geo/Continent/Europe/United_Kingdom/London~Greater/Hackney.internal|Hackney.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/United_Kingdom/London~Greater/Hackney.protect|Hackney.protect]] 
-- [[../../../../_private/geo/Continent/Europe/United_Kingdom/London~Greater/Hackney.private|Hackney.private]] 
-- [[../../../../_personal/geo/Continent/Europe/United_Kingdom/London~Greater/Hackney.personal|Hackney.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/United_Kingdom/London~Greater/Hackney.secret|Hackney.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/United_Kingdom/London~Greater/Hackney|Hackney]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/United_Kingdom/London~Greater/Hackney.public|Hackney.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/United_Kingdom/London~Greater/Hackney.internal|Hackney.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/United_Kingdom/London~Greater/Hackney.protect|Hackney.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/United_Kingdom/London~Greater/Hackney.private|Hackney.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/United_Kingdom/London~Greater/Hackney.personal|Hackney.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/United_Kingdom/London~Greater/Hackney.secret|Hackney.secret]] 
 

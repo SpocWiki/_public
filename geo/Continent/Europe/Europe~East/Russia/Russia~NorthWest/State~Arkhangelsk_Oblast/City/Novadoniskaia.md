@@ -1,5 +1,5 @@
-﻿---
-location: [64.87,40.47]
+---
+location: [64.87,40.47] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,29 +12,30 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::40.47]
-[geo-lat::64.87]
-[name::Novadoniskaia]
-[State::]
-[Country::[[Russia]]]
-[StateId::]
-[Population::]
-[Unknown::]
+[geo-lon::40.47] 
+[geo-lat::64.87] 
+[name::Novadoniskaia] 
+State ::  
+Country :: [[Russia]]  
+[StateId::] 
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Novadoniskaia
-coordinates: [[Novadoniskaia]]
-markerFile: [[Novadoniskaia]]
+coordinates: [[Novadoniskaia]] 
+markerFile: [[Novadoniskaia]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_public/geo/Continent/Europe/Russia/City/Novadoniskaia.md|Novadoniskaia]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Novadoniskaia.internal|Novadoniskaia.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Novadoniskaia.protect|Novadoniskaia.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Novadoniskaia.private|Novadoniskaia.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Novadoniskaia.personal|Novadoniskaia.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Novadoniskaia.secret|Novadoniskaia.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Russia/City/Novadoniskaia|Novadoniskaia]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Russia/City/Novadoniskaia.public|Novadoniskaia.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Russia/City/Novadoniskaia.internal|Novadoniskaia.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Russia/City/Novadoniskaia.protect|Novadoniskaia.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Russia/City/Novadoniskaia.private|Novadoniskaia.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Russia/City/Novadoniskaia.personal|Novadoniskaia.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Russia/City/Novadoniskaia.secret|Novadoniskaia.secret]] 

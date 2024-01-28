@@ -1,5 +1,5 @@
-﻿---
-location: [54.02,14.97]
+---
+location: [54.02,14.97] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,29 +12,30 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::14.97]
-[geo-lat::54.02]
-[name::Justin]
-[State::]
-[Country::[[Poland]]]
-[StateId::]
-[Population::]
-[Unknown::]
+[geo-lon::14.97] 
+[geo-lat::54.02] 
+[name::Justin] 
+State ::  
+Country :: [[Poland]]  
+[StateId::] 
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Justin
-coordinates: [[Justin]]
-markerFile: [[Justin]]
+coordinates: [[Justin]] 
+markerFile: [[Justin]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_public/geo/Continent/Europe/Poland/City/Justin.md|Justin]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Justin.internal|Justin.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Justin.protect|Justin.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Justin.private|Justin.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Justin.personal|Justin.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Justin.secret|Justin.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Poland/City/Justin|Justin]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Poland/City/Justin.public|Justin.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Poland/City/Justin.internal|Justin.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Poland/City/Justin.protect|Justin.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Poland/City/Justin.private|Justin.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Poland/City/Justin.personal|Justin.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Poland/City/Justin.secret|Justin.secret]] 

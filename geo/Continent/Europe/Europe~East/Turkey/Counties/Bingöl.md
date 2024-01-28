@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 39 , 40.8 ] 
 type: geo-Region
 title: Bingöl
@@ -40,10 +40,11 @@ markerFolder: ./Bingöl/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Turkey/Counties/Bingöl.md|Bingöl]] 
-- [[../../../../_internal/geo/Continent/Europe/Turkey/Counties/Bingöl.internal|Bingöl.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Turkey/Counties/Bingöl.protect|Bingöl.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Turkey/Counties/Bingöl.private|Bingöl.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Turkey/Counties/Bingöl.personal|Bingöl.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Turkey/Counties/Bingöl.secret|Bingöl.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Turkey/Counties/Bingöl|Bingöl]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Turkey/Counties/Bingöl.public|Bingöl.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Turkey/Counties/Bingöl.internal|Bingöl.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Turkey/Counties/Bingöl.protect|Bingöl.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Turkey/Counties/Bingöl.private|Bingöl.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Turkey/Counties/Bingöl.personal|Bingöl.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Turkey/Counties/Bingöl.secret|Bingöl.secret]] 
 

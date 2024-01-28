@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 55.7 , -4.7 ] 
 type: geo-Region
 title: Ayshire~North
@@ -40,10 +40,11 @@ markerFolder: ./Ayshire~North/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/United_Kingdom/Scotland/Counties/Ayshire~North.md|Ayshire~North]] 
-- [[../../../../_internal/geo/Continent/Europe/United_Kingdom/Scotland/Counties/Ayshire~North.internal|Ayshire~North.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/United_Kingdom/Scotland/Counties/Ayshire~North.protect|Ayshire~North.protect]] 
-- [[../../../../_private/geo/Continent/Europe/United_Kingdom/Scotland/Counties/Ayshire~North.private|Ayshire~North.private]] 
-- [[../../../../_personal/geo/Continent/Europe/United_Kingdom/Scotland/Counties/Ayshire~North.personal|Ayshire~North.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/United_Kingdom/Scotland/Counties/Ayshire~North.secret|Ayshire~North.secret]] 
+- [[../../../../../../../../_Standards/geo/Continent/Europe/Europe~North/United_Kingdom/Scotland/Counties/Ayshire~North|Ayshire~North]] 
+- [[../../../../../../../../_public/geo/Continent/Europe/Europe~North/United_Kingdom/Scotland/Counties/Ayshire~North.public|Ayshire~North.public]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/Europe~North/United_Kingdom/Scotland/Counties/Ayshire~North.internal|Ayshire~North.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/Europe~North/United_Kingdom/Scotland/Counties/Ayshire~North.protect|Ayshire~North.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/Europe~North/United_Kingdom/Scotland/Counties/Ayshire~North.private|Ayshire~North.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/Europe~North/United_Kingdom/Scotland/Counties/Ayshire~North.personal|Ayshire~North.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/Europe~North/United_Kingdom/Scotland/Counties/Ayshire~North.secret|Ayshire~North.secret]] 
 

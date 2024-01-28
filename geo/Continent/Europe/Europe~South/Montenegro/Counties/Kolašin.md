@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 42.8 , 19.4 ] 
 type: geo-Region
 title: Kolašin
@@ -40,10 +40,11 @@ markerFolder: ./Kolašin/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Montenegro/Counties/Kolašin.md|Kolašin]] 
-- [[../../../../_internal/geo/Continent/Europe/Montenegro/Counties/Kolašin.internal|Kolašin.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Montenegro/Counties/Kolašin.protect|Kolašin.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Montenegro/Counties/Kolašin.private|Kolašin.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Montenegro/Counties/Kolašin.personal|Kolašin.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Montenegro/Counties/Kolašin.secret|Kolašin.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Montenegro/Counties/Kolašin|Kolašin]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Montenegro/Counties/Kolašin.public|Kolašin.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Montenegro/Counties/Kolašin.internal|Kolašin.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Montenegro/Counties/Kolašin.protect|Kolašin.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Montenegro/Counties/Kolašin.private|Kolašin.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Montenegro/Counties/Kolašin.personal|Kolašin.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Montenegro/Counties/Kolašin.secret|Kolašin.secret]] 
 

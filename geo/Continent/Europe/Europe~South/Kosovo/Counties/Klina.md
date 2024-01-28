@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 42.6 , 20.6 ] 
 type: geo-Region
 title: Klina
@@ -40,10 +40,11 @@ markerFolder: ./Klina/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Kosovo/Counties/Klina.md|Klina]] 
-- [[../../../../_internal/geo/Continent/Europe/Kosovo/Counties/Klina.internal|Klina.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Kosovo/Counties/Klina.protect|Klina.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Kosovo/Counties/Klina.private|Klina.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Kosovo/Counties/Klina.personal|Klina.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Kosovo/Counties/Klina.secret|Klina.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Kosovo/Counties/Klina|Klina]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Kosovo/Counties/Klina.public|Klina.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Kosovo/Counties/Klina.internal|Klina.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Kosovo/Counties/Klina.protect|Klina.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Kosovo/Counties/Klina.private|Klina.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Kosovo/Counties/Klina.personal|Klina.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Kosovo/Counties/Klina.secret|Klina.secret]] 
 

@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 51.4 , 31.8 ] 
 type: geo-Region
 title: Chernihiv
@@ -40,10 +40,11 @@ markerFolder: ./Chernihiv/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Ukraine/Counties/Chernihiv.md|Chernihiv]] 
-- [[../../../../_internal/geo/Continent/Europe/Ukraine/Counties/Chernihiv.internal|Chernihiv.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Ukraine/Counties/Chernihiv.protect|Chernihiv.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Ukraine/Counties/Chernihiv.private|Chernihiv.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Ukraine/Counties/Chernihiv.personal|Chernihiv.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Ukraine/Counties/Chernihiv.secret|Chernihiv.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Ukraine/Counties/Chernihiv|Chernihiv]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Ukraine/Counties/Chernihiv.public|Chernihiv.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Ukraine/Counties/Chernihiv.internal|Chernihiv.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Ukraine/Counties/Chernihiv.protect|Chernihiv.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Ukraine/Counties/Chernihiv.private|Chernihiv.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Ukraine/Counties/Chernihiv.personal|Chernihiv.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Ukraine/Counties/Chernihiv.secret|Chernihiv.secret]] 
 

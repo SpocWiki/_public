@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 56.9 , 25.7 ] 
 type: geo-Region
 title: Erglu
@@ -40,10 +40,11 @@ markerFolder: ./Erglu/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Latvia/Counties/Erglu.md|Erglu]] 
-- [[../../../../_internal/geo/Continent/Europe/Latvia/Counties/Erglu.internal|Erglu.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Latvia/Counties/Erglu.protect|Erglu.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Latvia/Counties/Erglu.private|Erglu.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Latvia/Counties/Erglu.personal|Erglu.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Latvia/Counties/Erglu.secret|Erglu.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Latvia/Counties/Erglu|Erglu]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Latvia/Counties/Erglu.public|Erglu.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Latvia/Counties/Erglu.internal|Erglu.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Latvia/Counties/Erglu.protect|Erglu.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Latvia/Counties/Erglu.private|Erglu.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Latvia/Counties/Erglu.personal|Erglu.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Latvia/Counties/Erglu.secret|Erglu.secret]] 
 

@@ -1,5 +1,5 @@
-﻿---
-location: [40.52,19.47]
+---
+location: [40.52,19.47] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,29 +12,30 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::19.47]
-[geo-lat::40.52]
-[name::Aria]
-[State::]
-[Country::[[Albania]]]
-[StateId::]
-[Population::]
-[Unknown::]
+[geo-lon::19.47] 
+[geo-lat::40.52] 
+[name::Aria] 
+State ::  
+Country :: [[Albania]]  
+[StateId::] 
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Aria
-coordinates: [[Aria]]
-markerFile: [[Aria]]
+coordinates: [[Aria]] 
+markerFile: [[Aria]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_public/geo/Continent/Europe/Albania/City/Aria.md|Aria]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Albania/City/Aria.internal|Aria.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Albania/City/Aria.protect|Aria.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Albania/City/Aria.private|Aria.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Albania/City/Aria.personal|Aria.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Albania/City/Aria.secret|Aria.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Albania/City/Aria|Aria]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Albania/City/Aria.public|Aria.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Albania/City/Aria.internal|Aria.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Albania/City/Aria.protect|Aria.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Albania/City/Aria.private|Aria.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Albania/City/Aria.personal|Aria.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Albania/City/Aria.secret|Aria.secret]] 

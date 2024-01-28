@@ -1,5 +1,5 @@
-﻿---
-location: [52.35,5.6]
+---
+location: [52.35,5.6] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,29 +12,30 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::5.6]
-[geo-lat::52.35]
-[name::Harderwijk]
-[State::]
-[Country::[[Netherlands]]]
-[StateId::]
-[Population::]
-[Unknown::]
+[geo-lon::5.6] 
+[geo-lat::52.35] 
+[name::Harderwijk] 
+State ::  
+Country :: [[Netherlands]]  
+[StateId::] 
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Harderwijk
-coordinates: [[Harderwijk]]
-markerFile: [[Harderwijk]]
+coordinates: [[Harderwijk]] 
+markerFile: [[Harderwijk]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_public/geo/Continent/Europe/Netherlands/City/Harderwijk.md|Harderwijk]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Netherlands/City/Harderwijk.internal|Harderwijk.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Netherlands/City/Harderwijk.protect|Harderwijk.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Netherlands/City/Harderwijk.private|Harderwijk.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Netherlands/City/Harderwijk.personal|Harderwijk.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Netherlands/City/Harderwijk.secret|Harderwijk.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~West/Netherlands/City/Harderwijk|Harderwijk]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~West/Netherlands/City/Harderwijk.public|Harderwijk.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~West/Netherlands/City/Harderwijk.internal|Harderwijk.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~West/Netherlands/City/Harderwijk.protect|Harderwijk.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~West/Netherlands/City/Harderwijk.private|Harderwijk.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~West/Netherlands/City/Harderwijk.personal|Harderwijk.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~West/Netherlands/City/Harderwijk.secret|Harderwijk.secret]] 

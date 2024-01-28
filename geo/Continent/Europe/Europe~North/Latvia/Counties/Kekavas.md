@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 56.8 , 24.3 ] 
 type: geo-Region
 title: Kekavas
@@ -40,10 +40,11 @@ markerFolder: ./Kekavas/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Latvia/Counties/Kekavas.md|Kekavas]] 
-- [[../../../../_internal/geo/Continent/Europe/Latvia/Counties/Kekavas.internal|Kekavas.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Latvia/Counties/Kekavas.protect|Kekavas.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Latvia/Counties/Kekavas.private|Kekavas.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Latvia/Counties/Kekavas.personal|Kekavas.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Latvia/Counties/Kekavas.secret|Kekavas.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Latvia/Counties/Kekavas|Kekavas]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Latvia/Counties/Kekavas.public|Kekavas.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Latvia/Counties/Kekavas.internal|Kekavas.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Latvia/Counties/Kekavas.protect|Kekavas.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Latvia/Counties/Kekavas.private|Kekavas.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Latvia/Counties/Kekavas.personal|Kekavas.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Latvia/Counties/Kekavas.secret|Kekavas.secret]] 
 

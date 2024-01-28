@@ -1,5 +1,5 @@
-﻿---
-location: [51.65,5.93]
+---
+location: [51.65,5.93] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,29 +12,30 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::5.93]
-[geo-lat::51.65]
-[name::Scowen]
-[State::]
-[Country::[[Netherlands]]]
-[StateId::]
-[Population::]
-[Unknown::]
+[geo-lon::5.93] 
+[geo-lat::51.65] 
+[name::Scowen] 
+State ::  
+Country :: [[Netherlands]]  
+[StateId::] 
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Scowen
-coordinates: [[Scowen]]
-markerFile: [[Scowen]]
+coordinates: [[Scowen]] 
+markerFile: [[Scowen]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_public/geo/Continent/Europe/Netherlands/City/Scowen.md|Scowen]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Netherlands/City/Scowen.internal|Scowen.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Netherlands/City/Scowen.protect|Scowen.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Netherlands/City/Scowen.private|Scowen.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Netherlands/City/Scowen.personal|Scowen.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Netherlands/City/Scowen.secret|Scowen.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~West/Netherlands/City/Scowen|Scowen]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~West/Netherlands/City/Scowen.public|Scowen.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~West/Netherlands/City/Scowen.internal|Scowen.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~West/Netherlands/City/Scowen.protect|Scowen.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~West/Netherlands/City/Scowen.private|Scowen.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~West/Netherlands/City/Scowen.personal|Scowen.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~West/Netherlands/City/Scowen.secret|Scowen.secret]] 

@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 42.2 , 20.7 ] 
 type: geo-Region
 title: Prizren
@@ -40,10 +40,11 @@ markerFolder: ./Prizren/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Kosovo/Counties/Prizren.md|Prizren]] 
-- [[../../../../_internal/geo/Continent/Europe/Kosovo/Counties/Prizren.internal|Prizren.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Kosovo/Counties/Prizren.protect|Prizren.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Kosovo/Counties/Prizren.private|Prizren.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Kosovo/Counties/Prizren.personal|Prizren.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Kosovo/Counties/Prizren.secret|Prizren.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Kosovo/Counties/Prizren|Prizren]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Kosovo/Counties/Prizren.public|Prizren.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Kosovo/Counties/Prizren.internal|Prizren.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Kosovo/Counties/Prizren.protect|Prizren.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Kosovo/Counties/Prizren.private|Prizren.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Kosovo/Counties/Prizren.personal|Prizren.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Kosovo/Counties/Prizren.secret|Prizren.secret]] 
 

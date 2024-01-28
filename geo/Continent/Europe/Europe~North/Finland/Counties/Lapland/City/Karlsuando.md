@@ -1,5 +1,5 @@
-﻿---
-location: [68.45,22.5]
+---
+location: [68.45,22.5] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,29 +12,30 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::22.5]
-[geo-lat::68.45]
-[name::Karlsuando]
-[State::]
-[Country::[[Sweden]]]
-[StateId::]
-[Population::]
-[Unknown::]
+[geo-lon::22.5] 
+[geo-lat::68.45] 
+[name::Karlsuando] 
+State ::  
+Country :: [[Sweden]]  
+[StateId::] 
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Karlsuando
-coordinates: [[Karlsuando]]
-markerFile: [[Karlsuando]]
+coordinates: [[Karlsuando]] 
+markerFile: [[Karlsuando]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_public/geo/Continent/Europe/Sweden/City/Karlsuando.md|Karlsuando]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Sweden/City/Karlsuando.internal|Karlsuando.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Sweden/City/Karlsuando.protect|Karlsuando.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Sweden/City/Karlsuando.private|Karlsuando.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Sweden/City/Karlsuando.personal|Karlsuando.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Sweden/City/Karlsuando.secret|Karlsuando.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Sweden/City/Karlsuando|Karlsuando]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Sweden/City/Karlsuando.public|Karlsuando.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Sweden/City/Karlsuando.internal|Karlsuando.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Sweden/City/Karlsuando.protect|Karlsuando.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Sweden/City/Karlsuando.private|Karlsuando.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Sweden/City/Karlsuando.personal|Karlsuando.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Sweden/City/Karlsuando.secret|Karlsuando.secret]] 

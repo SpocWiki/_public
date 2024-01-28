@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 45.9 , 19.6 ] 
 type: geo-Region
 title: Severno-Backi
@@ -40,10 +40,11 @@ markerFolder: ./Severno-Backi/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Serbia/Counties/Severno-Backi.md|Severno-Backi]] 
-- [[../../../../_internal/geo/Continent/Europe/Serbia/Counties/Severno-Backi.internal|Severno-Backi.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Serbia/Counties/Severno-Backi.protect|Severno-Backi.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Serbia/Counties/Severno-Backi.private|Severno-Backi.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Serbia/Counties/Severno-Backi.personal|Severno-Backi.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Serbia/Counties/Severno-Backi.secret|Severno-Backi.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Serbia/Counties/Severno-Backi|Severno-Backi]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Serbia/Counties/Severno-Backi.public|Severno-Backi.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Serbia/Counties/Severno-Backi.internal|Severno-Backi.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Serbia/Counties/Severno-Backi.protect|Severno-Backi.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Serbia/Counties/Severno-Backi.private|Severno-Backi.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Serbia/Counties/Severno-Backi.personal|Severno-Backi.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Serbia/Counties/Severno-Backi.secret|Severno-Backi.secret]] 
 

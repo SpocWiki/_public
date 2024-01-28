@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 48 , 27.9 ] 
 type: geo-Region
 title: Drochia
@@ -40,10 +40,11 @@ markerFolder: ./Drochia/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Moldova/Counties/Drochia.md|Drochia]] 
-- [[../../../../_internal/geo/Continent/Europe/Moldova/Counties/Drochia.internal|Drochia.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Moldova/Counties/Drochia.protect|Drochia.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Moldova/Counties/Drochia.private|Drochia.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Moldova/Counties/Drochia.personal|Drochia.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Moldova/Counties/Drochia.secret|Drochia.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Moldova/Counties/Drochia|Drochia]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Moldova/Counties/Drochia.public|Drochia.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Moldova/Counties/Drochia.internal|Drochia.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Moldova/Counties/Drochia.protect|Drochia.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Moldova/Counties/Drochia.private|Drochia.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Moldova/Counties/Drochia.personal|Drochia.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Moldova/Counties/Drochia.secret|Drochia.secret]] 
 

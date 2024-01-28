@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 58.3 , 22.3 ] 
 type: geo-Region
 title: Saare
@@ -40,10 +40,11 @@ markerFolder: ./Saare/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Estonia/Counties/Saare.md|Saare]] 
-- [[../../../../_internal/geo/Continent/Europe/Estonia/Counties/Saare.internal|Saare.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Estonia/Counties/Saare.protect|Saare.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Estonia/Counties/Saare.private|Saare.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Estonia/Counties/Saare.personal|Saare.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Estonia/Counties/Saare.secret|Saare.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Estonia/Counties/Saare|Saare]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Estonia/Counties/Saare.public|Saare.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Estonia/Counties/Saare.internal|Saare.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Estonia/Counties/Saare.protect|Saare.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Estonia/Counties/Saare.private|Saare.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Estonia/Counties/Saare.personal|Saare.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Estonia/Counties/Saare.secret|Saare.secret]] 
 

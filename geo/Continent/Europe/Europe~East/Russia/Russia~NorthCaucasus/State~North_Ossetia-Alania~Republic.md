@@ -1,5 +1,5 @@
 ---
-location: [43.0167,44.65]
+location: [43.0167,44.65] 
 type: State
 tags:
 - geo/State
@@ -10,13 +10,13 @@ isDeleted: false
 confidential: public
 
 ---
-[name::North Ossetia-Alania~Republic]
-[name-abbr::]
-[Country::[[Russia]]]
-[Capital::[[Vladikavkaz]]]
-[geo-lon::44.65]
-[geo-lat::43.0167]
-[Population::]
+[name::North Ossetia-Alania~Republic] 
+[name-abbr::] 
+Country :: [[Russia]]  
+Capital :: [[Vladikavkaz]]  
+[geo-lon::44.65] 
+[geo-lat::43.0167] 
+[Population::] 
 
 
 
@@ -31,9 +31,9 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
--[[State~North_Ossetia-Alania~Republic|State~North_Ossetia-Alania~Republic]]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Russia/State/State~North_Ossetia-Alania~Republic.internal|State~North_Ossetia-Alania~Republic.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/State/State~North_Ossetia-Alania~Republic.protect|State~North_Ossetia-Alania~Republic.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/State/State~North_Ossetia-Alania~Republic.private|State~North_Ossetia-Alania~Republic.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/State/State~North_Ossetia-Alania~Republic.personal|State~North_Ossetia-Alania~Republic.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/State/State~North_Ossetia-Alania~Republic.secret|State~North_Ossetia-Alania~Republic.secret]] 
+- [[State~North_Ossetia-Alania~Republic|State~North_Ossetia-Alania~Republic]]  
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Russia/State/State~North_Ossetia-Alania~Republic.internal|State~North_Ossetia-Alania~Republic.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Russia/State/State~North_Ossetia-Alania~Republic.protect|State~North_Ossetia-Alania~Republic.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Russia/State/State~North_Ossetia-Alania~Republic.private|State~North_Ossetia-Alania~Republic.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Russia/State/State~North_Ossetia-Alania~Republic.personal|State~North_Ossetia-Alania~Republic.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Russia/State/State~North_Ossetia-Alania~Republic.secret|State~North_Ossetia-Alania~Republic.secret]] 

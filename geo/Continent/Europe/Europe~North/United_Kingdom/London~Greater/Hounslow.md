@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 51.45 , -0.37 ] 
 type: geo-Region
 title: Hounslow
@@ -51,10 +51,11 @@ markerFolder: ./Hounslow/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/United_Kingdom/London~Greater/Hounslow.md|Hounslow]] 
-- [[../../../../_internal/geo/Continent/Europe/United_Kingdom/London~Greater/Hounslow.internal|Hounslow.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/United_Kingdom/London~Greater/Hounslow.protect|Hounslow.protect]] 
-- [[../../../../_private/geo/Continent/Europe/United_Kingdom/London~Greater/Hounslow.private|Hounslow.private]] 
-- [[../../../../_personal/geo/Continent/Europe/United_Kingdom/London~Greater/Hounslow.personal|Hounslow.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/United_Kingdom/London~Greater/Hounslow.secret|Hounslow.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/United_Kingdom/London~Greater/Hounslow|Hounslow]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/United_Kingdom/London~Greater/Hounslow.public|Hounslow.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/United_Kingdom/London~Greater/Hounslow.internal|Hounslow.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/United_Kingdom/London~Greater/Hounslow.protect|Hounslow.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/United_Kingdom/London~Greater/Hounslow.private|Hounslow.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/United_Kingdom/London~Greater/Hounslow.personal|Hounslow.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/United_Kingdom/London~Greater/Hounslow.secret|Hounslow.secret]] 
 

@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 47.2 , 24.5 ] 
 type: geo-Region
 title: Bistrita-Nasaud
@@ -40,10 +40,11 @@ markerFolder: ./Bistrita-Nasaud/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Romania/Counties/Bistrita-Nasaud.md|Bistrita-Nasaud]] 
-- [[../../../../_internal/geo/Continent/Europe/Romania/Counties/Bistrita-Nasaud.internal|Bistrita-Nasaud.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Romania/Counties/Bistrita-Nasaud.protect|Bistrita-Nasaud.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Romania/Counties/Bistrita-Nasaud.private|Bistrita-Nasaud.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Romania/Counties/Bistrita-Nasaud.personal|Bistrita-Nasaud.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Romania/Counties/Bistrita-Nasaud.secret|Bistrita-Nasaud.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Romania/Counties/Bistrita-Nasaud|Bistrita-Nasaud]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Romania/Counties/Bistrita-Nasaud.public|Bistrita-Nasaud.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Romania/Counties/Bistrita-Nasaud.internal|Bistrita-Nasaud.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Romania/Counties/Bistrita-Nasaud.protect|Bistrita-Nasaud.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Romania/Counties/Bistrita-Nasaud.private|Bistrita-Nasaud.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Romania/Counties/Bistrita-Nasaud.personal|Bistrita-Nasaud.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Romania/Counties/Bistrita-Nasaud.secret|Bistrita-Nasaud.secret]] 
 

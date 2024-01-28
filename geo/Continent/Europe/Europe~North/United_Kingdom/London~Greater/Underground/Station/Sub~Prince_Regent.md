@@ -1,5 +1,5 @@
 ---
-location: [51.5093,0.0336]
+location: [51.5093,0.0336] 
 type: Station 
 mapzoom: [8,15] 
 mapmarker: subway 
@@ -8,24 +8,24 @@ tags:
 - Europe/United_Kingdom/City~London
 ---
 SpocWebEntityId: 156051
-[StationSId::]
+[StationSId::] 
 isDeleted: false
 isReadOnly: false
 confidential: public
-[geo-lon::0.0336]
-[geo-lat::51.5093]
-[name::Prince Regent]
-[zone::3]
-[Num_lines::1]
-[switch-to-Rail::0]
-[Country::[[United_Kingdom]]]
-[City::[[../../../London]]]
+[geo-lon::0.0336] 
+[geo-lat::51.5093] 
+[name::Prince Regent] 
+[zone::3] 
+[Num_lines::1] 
+[switch-to-Rail::0] 
+Country :: [[United_Kingdom]]  
+City :: [[../../../London]]  
 
 
 ```leaflet
 id: Sub~Prince_Regent
-coordinates: [[Sub~Prince_Regent]]
-markerFile: [[Sub~Prince_Regent]]
+coordinates: [[Sub~Prince_Regent]] 
+markerFile: [[Sub~Prince_Regent]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
@@ -34,13 +34,14 @@ maxZoom: 18
 # Lines: 
 ```dataview
 TABLE 
-FROM [[]]
+FROM [[]] 
 ```
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_public/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Prince_Regent.md|Sub~Prince_Regent]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Prince_Regent.internal|Sub~Prince_Regent.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Prince_Regent.protect|Sub~Prince_Regent.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Prince_Regent.private|Sub~Prince_Regent.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Prince_Regent.personal|Sub~Prince_Regent.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Prince_Regent.secret|Sub~Prince_Regent.secret]] 
+- [[../../../../../../../../../_Standards/geo/Continent/Europe/Europe~North/United_Kingdom/London~Greater/Underground/Station/Sub~Prince_Regent|Sub~Prince_Regent]] 
+- [[../../../../../../../../../_public/geo/Continent/Europe/Europe~North/United_Kingdom/London~Greater/Underground/Station/Sub~Prince_Regent.public|Sub~Prince_Regent.public]] 
+- [[../../../../../../../../../_internal/geo/Continent/Europe/Europe~North/United_Kingdom/London~Greater/Underground/Station/Sub~Prince_Regent.internal|Sub~Prince_Regent.internal]] 
+- [[../../../../../../../../../_protect/geo/Continent/Europe/Europe~North/United_Kingdom/London~Greater/Underground/Station/Sub~Prince_Regent.protect|Sub~Prince_Regent.protect]] 
+- [[../../../../../../../../../_private/geo/Continent/Europe/Europe~North/United_Kingdom/London~Greater/Underground/Station/Sub~Prince_Regent.private|Sub~Prince_Regent.private]] 
+- [[../../../../../../../../../_personal/geo/Continent/Europe/Europe~North/United_Kingdom/London~Greater/Underground/Station/Sub~Prince_Regent.personal|Sub~Prince_Regent.personal]] 
+- [[../../../../../../../../../_secret/geo/Continent/Europe/Europe~North/United_Kingdom/London~Greater/Underground/Station/Sub~Prince_Regent.secret|Sub~Prince_Regent.secret]] 

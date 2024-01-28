@@ -1,5 +1,5 @@
-﻿---
-location: [46.27,20.15]
+---
+location: [46.27,20.15] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,29 +12,30 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::20.15]
-[geo-lat::46.27]
-[name::Szegedin]
-[State::]
-[Country::[[Hungary]]]
-[StateId::]
-[Population::]
-[Unknown::]
+[geo-lon::20.15] 
+[geo-lat::46.27] 
+[name::Szegedin] 
+State ::  
+Country :: [[Hungary]]  
+[StateId::] 
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Szegedin
-coordinates: [[Szegedin]]
-markerFile: [[Szegedin]]
+coordinates: [[Szegedin]] 
+markerFile: [[Szegedin]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_public/geo/Continent/Europe/Hungary/City/Szegedin.md|Szegedin]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Hungary/City/Szegedin.internal|Szegedin.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Hungary/City/Szegedin.protect|Szegedin.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Hungary/City/Szegedin.private|Szegedin.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Hungary/City/Szegedin.personal|Szegedin.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Hungary/City/Szegedin.secret|Szegedin.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Hungary/City/Szegedin|Szegedin]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Hungary/City/Szegedin.public|Szegedin.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Hungary/City/Szegedin.internal|Szegedin.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Hungary/City/Szegedin.protect|Szegedin.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Hungary/City/Szegedin.private|Szegedin.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Hungary/City/Szegedin.personal|Szegedin.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Hungary/City/Szegedin.secret|Szegedin.secret]] 

@@ -1,5 +1,5 @@
 ---
-location: [50.92,-0.72]
+location: [50.92,-0.72] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,29 +12,30 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::-0.72]
-[geo-lat::50.92]
-[name::Yeovil]
-[State::]
-[Country::[[United_Kingdom]]]
-[StateId::]
-[Population::]
-[Unknown::]
+[geo-lon::-0.72] 
+[geo-lat::50.92] 
+[name::Yeovil] 
+State ::  
+Country :: [[United_Kingdom]]  
+[StateId::] 
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Yeovil
-coordinates: [[Yeovil]]
-markerFile: [[Yeovil]]
+coordinates: [[Yeovil]] 
+markerFile: [[Yeovil]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Yeovil.md|Yeovil]] 
-- [[../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Yeovil.internal|Yeovil.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Yeovil.protect|Yeovil.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Yeovil.private|Yeovil.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Yeovil.personal|Yeovil.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Yeovil.secret|Yeovil.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/United_Kingdom/City/Yeovil|Yeovil]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/United_Kingdom/City/Yeovil.public|Yeovil.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/United_Kingdom/City/Yeovil.internal|Yeovil.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/United_Kingdom/City/Yeovil.protect|Yeovil.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/United_Kingdom/City/Yeovil.private|Yeovil.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/United_Kingdom/City/Yeovil.personal|Yeovil.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/United_Kingdom/City/Yeovil.secret|Yeovil.secret]] 

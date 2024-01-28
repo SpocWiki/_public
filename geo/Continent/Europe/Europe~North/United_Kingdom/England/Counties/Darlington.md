@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 54.5 , -1.5 ] 
 type: geo-Region
 title: Darlington
@@ -40,10 +40,11 @@ markerFolder: ./Darlington/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/United_Kingdom/England/Counties/Darlington.md|Darlington]] 
-- [[../../../../_internal/geo/Continent/Europe/United_Kingdom/England/Counties/Darlington.internal|Darlington.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/United_Kingdom/England/Counties/Darlington.protect|Darlington.protect]] 
-- [[../../../../_private/geo/Continent/Europe/United_Kingdom/England/Counties/Darlington.private|Darlington.private]] 
-- [[../../../../_personal/geo/Continent/Europe/United_Kingdom/England/Counties/Darlington.personal|Darlington.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/United_Kingdom/England/Counties/Darlington.secret|Darlington.secret]] 
+- [[../../../../../../../../_Standards/geo/Continent/Europe/Europe~North/United_Kingdom/England/Counties/Darlington|Darlington]] 
+- [[../../../../../../../../_public/geo/Continent/Europe/Europe~North/United_Kingdom/England/Counties/Darlington.public|Darlington.public]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/Europe~North/United_Kingdom/England/Counties/Darlington.internal|Darlington.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/Europe~North/United_Kingdom/England/Counties/Darlington.protect|Darlington.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/Europe~North/United_Kingdom/England/Counties/Darlington.private|Darlington.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/Europe~North/United_Kingdom/England/Counties/Darlington.personal|Darlington.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/Europe~North/United_Kingdom/England/Counties/Darlington.secret|Darlington.secret]] 
 

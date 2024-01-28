@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 35.91 , 14.42 ] 
 type: geo-Region
 title: Mosta
@@ -40,10 +40,11 @@ markerFolder: ./Mosta/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Malta/Counties/Mosta.md|Mosta]] 
-- [[../../../../_internal/geo/Continent/Europe/Malta/Counties/Mosta.internal|Mosta.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Malta/Counties/Mosta.protect|Mosta.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Malta/Counties/Mosta.private|Mosta.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Malta/Counties/Mosta.personal|Mosta.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Malta/Counties/Mosta.secret|Mosta.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Malta/Counties/Mosta|Mosta]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Malta/Counties/Mosta.public|Mosta.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Malta/Counties/Mosta.internal|Mosta.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Malta/Counties/Mosta.protect|Mosta.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Malta/Counties/Mosta.private|Mosta.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Malta/Counties/Mosta.personal|Mosta.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Malta/Counties/Mosta.secret|Mosta.secret]] 
 

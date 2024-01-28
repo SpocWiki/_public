@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 41.7 , 35 ] 
 type: geo-Region
 title: Sinop
@@ -40,10 +40,11 @@ markerFolder: ./Sinop/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Turkey/Counties/Sinop.md|Sinop]] 
-- [[../../../../_internal/geo/Continent/Europe/Turkey/Counties/Sinop.internal|Sinop.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Turkey/Counties/Sinop.protect|Sinop.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Turkey/Counties/Sinop.private|Sinop.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Turkey/Counties/Sinop.personal|Sinop.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Turkey/Counties/Sinop.secret|Sinop.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Turkey/Counties/Sinop|Sinop]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Turkey/Counties/Sinop.public|Sinop.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Turkey/Counties/Sinop.internal|Sinop.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Turkey/Counties/Sinop.protect|Sinop.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Turkey/Counties/Sinop.private|Sinop.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Turkey/Counties/Sinop.personal|Sinop.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Turkey/Counties/Sinop.secret|Sinop.secret]] 
 

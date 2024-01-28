@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 61.2 , 25.8 ] 
 type: geo-Region
 title: Päijät-Häme
@@ -40,10 +40,11 @@ markerFolder: ./Päijät-Häme/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Finland/Counties/Päijät-Häme.md|Päijät-Häme]] 
-- [[../../../../_internal/geo/Continent/Europe/Finland/Counties/Päijät-Häme.internal|Päijät-Häme.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Finland/Counties/Päijät-Häme.protect|Päijät-Häme.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Finland/Counties/Päijät-Häme.private|Päijät-Häme.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Finland/Counties/Päijät-Häme.personal|Päijät-Häme.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Finland/Counties/Päijät-Häme.secret|Päijät-Häme.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Finland/Counties/Päijät-Häme|Päijät-Häme]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Finland/Counties/Päijät-Häme.public|Päijät-Häme.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Finland/Counties/Päijät-Häme.internal|Päijät-Häme.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Finland/Counties/Päijät-Häme.protect|Päijät-Häme.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Finland/Counties/Päijät-Häme.private|Päijät-Häme.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Finland/Counties/Päijät-Häme.personal|Päijät-Häme.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Finland/Counties/Päijät-Häme.secret|Päijät-Häme.secret]] 
 

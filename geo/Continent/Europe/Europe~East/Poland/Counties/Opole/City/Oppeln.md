@@ -1,5 +1,5 @@
-﻿---
-location: [50.67,17.93]
+---
+location: [50.67,17.93] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,29 +12,30 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::17.93]
-[geo-lat::50.67]
-[name::Oppeln]
-[State::]
-[Country::[[Poland]]]
-[StateId::]
-[Population::]
-[Unknown::]
+[geo-lon::17.93] 
+[geo-lat::50.67] 
+[name::Oppeln] 
+State ::  
+Country :: [[Poland]]  
+[StateId::] 
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Oppeln
-coordinates: [[Oppeln]]
-markerFile: [[Oppeln]]
+coordinates: [[Oppeln]] 
+markerFile: [[Oppeln]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_public/geo/Continent/Europe/Poland/City/Oppeln.md|Oppeln]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Oppeln.internal|Oppeln.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Oppeln.protect|Oppeln.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Oppeln.private|Oppeln.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Oppeln.personal|Oppeln.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Oppeln.secret|Oppeln.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Poland/City/Oppeln|Oppeln]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Poland/City/Oppeln.public|Oppeln.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Poland/City/Oppeln.internal|Oppeln.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Poland/City/Oppeln.protect|Oppeln.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Poland/City/Oppeln.private|Oppeln.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Poland/City/Oppeln.personal|Oppeln.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Poland/City/Oppeln.secret|Oppeln.secret]] 

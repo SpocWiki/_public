@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 56.5 , 25.7 ] 
 type: geo-Region
 title: Salas
@@ -40,10 +40,11 @@ markerFolder: ./Salas/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Latvia/Counties/Salas.md|Salas]] 
-- [[../../../../_internal/geo/Continent/Europe/Latvia/Counties/Salas.internal|Salas.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Latvia/Counties/Salas.protect|Salas.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Latvia/Counties/Salas.private|Salas.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Latvia/Counties/Salas.personal|Salas.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Latvia/Counties/Salas.secret|Salas.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Latvia/Counties/Salas|Salas]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Latvia/Counties/Salas.public|Salas.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Latvia/Counties/Salas.internal|Salas.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Latvia/Counties/Salas.protect|Salas.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Latvia/Counties/Salas.private|Salas.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Latvia/Counties/Salas.personal|Salas.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Latvia/Counties/Salas.secret|Salas.secret]] 
 

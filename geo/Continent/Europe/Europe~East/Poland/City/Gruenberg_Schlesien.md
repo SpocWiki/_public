@@ -1,5 +1,5 @@
-﻿---
-location: [51,93,15,5]
+---
+location: [51,93,15,5] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,29 +12,30 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::15,5]
-[geo-lat::51,93]
-[name::Gruenberg/Schlesien]
-[State::]
-[Country::[[Poland]]]
-[StateId::]
-[Population::]
-[Unknown::]
+[geo-lon::15,5] 
+[geo-lat::51,93] 
+[name::Gruenberg/Schlesien] 
+State ::  
+Country :: [[Poland]]  
+[StateId::] 
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Gruenberg/Schlesien
-coordinates: [[Gruenberg/Schlesien]]
-markerFile: [[Gruenberg/Schlesien]]
+coordinates: [[Gruenberg/Schlesien]] 
+markerFile: [[Gruenberg/Schlesien]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_public/geo/Continent/Europe/Poland/City/Gruenberg_Schlesien.md|Gruenberg_Schlesien]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Gruenberg_Schlesien.internal|Gruenberg_Schlesien.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Gruenberg_Schlesien.protect|Gruenberg_Schlesien.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Gruenberg_Schlesien.private|Gruenberg_Schlesien.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Gruenberg_Schlesien.personal|Gruenberg_Schlesien.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Gruenberg_Schlesien.secret|Gruenberg_Schlesien.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Poland/City/Gruenberg_Schlesien|Gruenberg_Schlesien]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Poland/City/Gruenberg_Schlesien.public|Gruenberg_Schlesien.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Poland/City/Gruenberg_Schlesien.internal|Gruenberg_Schlesien.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Poland/City/Gruenberg_Schlesien.protect|Gruenberg_Schlesien.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Poland/City/Gruenberg_Schlesien.private|Gruenberg_Schlesien.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Poland/City/Gruenberg_Schlesien.personal|Gruenberg_Schlesien.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Poland/City/Gruenberg_Schlesien.secret|Gruenberg_Schlesien.secret]] 

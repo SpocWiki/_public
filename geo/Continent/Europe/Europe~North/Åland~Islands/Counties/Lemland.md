@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 60.03 , 20.14 ] 
 type: geo-Region
 title: Lemland
@@ -40,10 +40,11 @@ markerFolder: ./Lemland/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Åland~Islands/Counties/Lemland.md|Lemland]] 
-- [[../../../../_internal/geo/Continent/Europe/Åland~Islands/Counties/Lemland.internal|Lemland.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Åland~Islands/Counties/Lemland.protect|Lemland.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Åland~Islands/Counties/Lemland.private|Lemland.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Åland~Islands/Counties/Lemland.personal|Lemland.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Åland~Islands/Counties/Lemland.secret|Lemland.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Åland~Islands/Counties/Lemland|Lemland]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Åland~Islands/Counties/Lemland.public|Lemland.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Åland~Islands/Counties/Lemland.internal|Lemland.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Åland~Islands/Counties/Lemland.protect|Lemland.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Åland~Islands/Counties/Lemland.private|Lemland.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Åland~Islands/Counties/Lemland.personal|Lemland.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Åland~Islands/Counties/Lemland.secret|Lemland.secret]] 
 

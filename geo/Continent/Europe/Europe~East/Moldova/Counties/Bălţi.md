@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 47.76 , 27.95 ] 
 type: geo-Region
 title: Bălţi
@@ -40,10 +40,11 @@ markerFolder: ./Bălţi/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Moldova/Counties/Bălţi.md|Bălţi]] 
-- [[../../../../_internal/geo/Continent/Europe/Moldova/Counties/Bălţi.internal|Bălţi.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Moldova/Counties/Bălţi.protect|Bălţi.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Moldova/Counties/Bălţi.private|Bălţi.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Moldova/Counties/Bălţi.personal|Bălţi.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Moldova/Counties/Bălţi.secret|Bălţi.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Moldova/Counties/Bălţi|Bălţi]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Moldova/Counties/Bălţi.public|Bălţi.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Moldova/Counties/Bălţi.internal|Bălţi.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Moldova/Counties/Bălţi.protect|Bălţi.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Moldova/Counties/Bălţi.private|Bălţi.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Moldova/Counties/Bălţi.personal|Bălţi.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Moldova/Counties/Bălţi.secret|Bălţi.secret]] 
 

@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 42.2 , 19.6 ] 
 type: geo-Region
 title: Shkodër
@@ -40,10 +40,11 @@ markerFolder: ./Shkodër/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Albania/Counties/Shkodër.md|Shkodër]] 
-- [[../../../../_internal/geo/Continent/Europe/Albania/Counties/Shkodër.internal|Shkodër.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Albania/Counties/Shkodër.protect|Shkodër.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Albania/Counties/Shkodër.private|Shkodër.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Albania/Counties/Shkodër.personal|Shkodër.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Albania/Counties/Shkodër.secret|Shkodër.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Albania/Counties/Shkodër|Shkodër]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Albania/Counties/Shkodër.public|Shkodër.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Albania/Counties/Shkodër.internal|Shkodër.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Albania/Counties/Shkodër.protect|Shkodër.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Albania/Counties/Shkodër.private|Shkodër.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Albania/Counties/Shkodër.personal|Shkodër.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Albania/Counties/Shkodër.secret|Shkodër.secret]] 
 

@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 41.5 , 21.9 ] 
 type: geo-Region
 title: Vardar
@@ -40,10 +40,11 @@ markerFolder: ./Vardar/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Macedonia~North/Counties/Vardar.md|Vardar]] 
-- [[../../../../_internal/geo/Continent/Europe/Macedonia~North/Counties/Vardar.internal|Vardar.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Macedonia~North/Counties/Vardar.protect|Vardar.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Macedonia~North/Counties/Vardar.private|Vardar.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Macedonia~North/Counties/Vardar.personal|Vardar.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Macedonia~North/Counties/Vardar.secret|Vardar.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Macedonia~North/Counties/Vardar|Vardar]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Macedonia~North/Counties/Vardar.public|Vardar.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Macedonia~North/Counties/Vardar.internal|Vardar.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Macedonia~North/Counties/Vardar.protect|Vardar.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Macedonia~North/Counties/Vardar.private|Vardar.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Macedonia~North/Counties/Vardar.personal|Vardar.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Macedonia~North/Counties/Vardar.secret|Vardar.secret]] 
 

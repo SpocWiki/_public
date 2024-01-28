@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 42.51 , 1.51 ] 
 type: geo-Region
 title: Andorra_la_Vella
@@ -40,10 +40,11 @@ markerFolder: ./Andorra_la_Vella/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Andorra/Counties/Andorra_la_Vella.md|Andorra_la_Vella]] 
-- [[../../../../_internal/geo/Continent/Europe/Andorra/Counties/Andorra_la_Vella.internal|Andorra_la_Vella.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Andorra/Counties/Andorra_la_Vella.protect|Andorra_la_Vella.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Andorra/Counties/Andorra_la_Vella.private|Andorra_la_Vella.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Andorra/Counties/Andorra_la_Vella.personal|Andorra_la_Vella.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Andorra/Counties/Andorra_la_Vella.secret|Andorra_la_Vella.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Andorra/Counties/Andorra_la_Vella|Andorra_la_Vella]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Andorra/Counties/Andorra_la_Vella.public|Andorra_la_Vella.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Andorra/Counties/Andorra_la_Vella.internal|Andorra_la_Vella.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Andorra/Counties/Andorra_la_Vella.protect|Andorra_la_Vella.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Andorra/Counties/Andorra_la_Vella.private|Andorra_la_Vella.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Andorra/Counties/Andorra_la_Vella.personal|Andorra_la_Vella.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Andorra/Counties/Andorra_la_Vella.secret|Andorra_la_Vella.secret]] 
 

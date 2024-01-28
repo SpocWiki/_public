@@ -1,5 +1,5 @@
 ---
-location: [51.6004,-0.4092]
+location: [51.6004,-0.4092] 
 type: Station 
 mapzoom: [8,15] 
 mapmarker: subway 
@@ -8,24 +8,24 @@ tags:
 - Europe/United_Kingdom/City~London
 ---
 SpocWebEntityId: 156031
-[StationSId::]
+[StationSId::] 
 isDeleted: false
 isReadOnly: false
 confidential: public
-[geo-lon::-0.4092]
-[geo-lat::51.6004]
-[name::Northwood Hills]
-[zone::6]
-[Num_lines::1]
-[switch-to-Rail::0]
-[Country::[[United_Kingdom]]]
-[City::[[../../../London]]]
+[geo-lon::-0.4092] 
+[geo-lat::51.6004] 
+[name::Northwood Hills] 
+[zone::6] 
+[Num_lines::1] 
+[switch-to-Rail::0] 
+Country :: [[United_Kingdom]]  
+City :: [[../../../London]]  
 
 
 ```leaflet
 id: Sub~Northwood_Hills
-coordinates: [[Sub~Northwood_Hills]]
-markerFile: [[Sub~Northwood_Hills]]
+coordinates: [[Sub~Northwood_Hills]] 
+markerFile: [[Sub~Northwood_Hills]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
@@ -34,13 +34,14 @@ maxZoom: 18
 # Lines: 
 ```dataview
 TABLE 
-FROM [[]]
+FROM [[]] 
 ```
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_public/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Northwood_Hills.md|Sub~Northwood_Hills]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Northwood_Hills.internal|Sub~Northwood_Hills.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Northwood_Hills.protect|Sub~Northwood_Hills.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Northwood_Hills.private|Sub~Northwood_Hills.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Northwood_Hills.personal|Sub~Northwood_Hills.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Northwood_Hills.secret|Sub~Northwood_Hills.secret]] 
+- [[../../../../../../../../../_Standards/geo/Continent/Europe/Europe~North/United_Kingdom/London~Greater/Underground/Station/Sub~Northwood_Hills|Sub~Northwood_Hills]] 
+- [[../../../../../../../../../_public/geo/Continent/Europe/Europe~North/United_Kingdom/London~Greater/Underground/Station/Sub~Northwood_Hills.public|Sub~Northwood_Hills.public]] 
+- [[../../../../../../../../../_internal/geo/Continent/Europe/Europe~North/United_Kingdom/London~Greater/Underground/Station/Sub~Northwood_Hills.internal|Sub~Northwood_Hills.internal]] 
+- [[../../../../../../../../../_protect/geo/Continent/Europe/Europe~North/United_Kingdom/London~Greater/Underground/Station/Sub~Northwood_Hills.protect|Sub~Northwood_Hills.protect]] 
+- [[../../../../../../../../../_private/geo/Continent/Europe/Europe~North/United_Kingdom/London~Greater/Underground/Station/Sub~Northwood_Hills.private|Sub~Northwood_Hills.private]] 
+- [[../../../../../../../../../_personal/geo/Continent/Europe/Europe~North/United_Kingdom/London~Greater/Underground/Station/Sub~Northwood_Hills.personal|Sub~Northwood_Hills.personal]] 
+- [[../../../../../../../../../_secret/geo/Continent/Europe/Europe~North/United_Kingdom/London~Greater/Underground/Station/Sub~Northwood_Hills.secret|Sub~Northwood_Hills.secret]] 

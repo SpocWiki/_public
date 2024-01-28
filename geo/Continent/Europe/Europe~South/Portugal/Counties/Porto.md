@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 41.2 , -8.3 ] 
 type: geo-Region
 title: Porto
@@ -40,10 +40,11 @@ markerFolder: ./Porto/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Portugal/Counties/Porto.md|Porto]] 
-- [[../../../../_internal/geo/Continent/Europe/Portugal/Counties/Porto.internal|Porto.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Portugal/Counties/Porto.protect|Porto.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Portugal/Counties/Porto.private|Porto.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Portugal/Counties/Porto.personal|Porto.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Portugal/Counties/Porto.secret|Porto.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Portugal/Counties/Porto|Porto]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Portugal/Counties/Porto.public|Porto.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Portugal/Counties/Porto.internal|Porto.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Portugal/Counties/Porto.protect|Porto.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Portugal/Counties/Porto.private|Porto.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Portugal/Counties/Porto.personal|Porto.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Portugal/Counties/Porto.secret|Porto.secret]] 
 

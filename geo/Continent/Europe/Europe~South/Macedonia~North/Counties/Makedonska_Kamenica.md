@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 42 , 22.5 ] 
 type: geo-Region
 title: Makedonska_Kamenica
@@ -40,10 +40,11 @@ markerFolder: ./Makedonska_Kamenica/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Macedonia~North/Counties/Makedonska_Kamenica.md|Makedonska_Kamenica]] 
-- [[../../../../_internal/geo/Continent/Europe/Macedonia~North/Counties/Makedonska_Kamenica.internal|Makedonska_Kamenica.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Macedonia~North/Counties/Makedonska_Kamenica.protect|Makedonska_Kamenica.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Macedonia~North/Counties/Makedonska_Kamenica.private|Makedonska_Kamenica.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Macedonia~North/Counties/Makedonska_Kamenica.personal|Makedonska_Kamenica.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Macedonia~North/Counties/Makedonska_Kamenica.secret|Makedonska_Kamenica.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Macedonia~North/Counties/Makedonska_Kamenica|Makedonska_Kamenica]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Macedonia~North/Counties/Makedonska_Kamenica.public|Makedonska_Kamenica.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Macedonia~North/Counties/Makedonska_Kamenica.internal|Makedonska_Kamenica.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Macedonia~North/Counties/Makedonska_Kamenica.protect|Makedonska_Kamenica.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Macedonia~North/Counties/Makedonska_Kamenica.private|Makedonska_Kamenica.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Macedonia~North/Counties/Makedonska_Kamenica.personal|Makedonska_Kamenica.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Macedonia~North/Counties/Makedonska_Kamenica.secret|Makedonska_Kamenica.secret]] 
 

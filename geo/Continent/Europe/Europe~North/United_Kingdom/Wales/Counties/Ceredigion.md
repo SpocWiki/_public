@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 52.3 , -3.9 ] 
 type: geo-Region
 title: Ceredigion
@@ -40,10 +40,11 @@ markerFolder: ./Ceredigion/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/United_Kingdom/Wales/Counties/Ceredigion.md|Ceredigion]] 
-- [[../../../../_internal/geo/Continent/Europe/United_Kingdom/Wales/Counties/Ceredigion.internal|Ceredigion.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/United_Kingdom/Wales/Counties/Ceredigion.protect|Ceredigion.protect]] 
-- [[../../../../_private/geo/Continent/Europe/United_Kingdom/Wales/Counties/Ceredigion.private|Ceredigion.private]] 
-- [[../../../../_personal/geo/Continent/Europe/United_Kingdom/Wales/Counties/Ceredigion.personal|Ceredigion.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/United_Kingdom/Wales/Counties/Ceredigion.secret|Ceredigion.secret]] 
+- [[../../../../../../../../_Standards/geo/Continent/Europe/Europe~North/United_Kingdom/Wales/Counties/Ceredigion|Ceredigion]] 
+- [[../../../../../../../../_public/geo/Continent/Europe/Europe~North/United_Kingdom/Wales/Counties/Ceredigion.public|Ceredigion.public]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/Europe~North/United_Kingdom/Wales/Counties/Ceredigion.internal|Ceredigion.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/Europe~North/United_Kingdom/Wales/Counties/Ceredigion.protect|Ceredigion.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/Europe~North/United_Kingdom/Wales/Counties/Ceredigion.private|Ceredigion.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/Europe~North/United_Kingdom/Wales/Counties/Ceredigion.personal|Ceredigion.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/Europe~North/United_Kingdom/Wales/Counties/Ceredigion.secret|Ceredigion.secret]] 
 

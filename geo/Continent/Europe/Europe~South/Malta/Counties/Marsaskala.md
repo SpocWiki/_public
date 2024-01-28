@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 35.86 , 14.55 ] 
 type: geo-Region
 title: Marsaskala
@@ -40,10 +40,11 @@ markerFolder: ./Marsaskala/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Malta/Counties/Marsaskala.md|Marsaskala]] 
-- [[../../../../_internal/geo/Continent/Europe/Malta/Counties/Marsaskala.internal|Marsaskala.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Malta/Counties/Marsaskala.protect|Marsaskala.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Malta/Counties/Marsaskala.private|Marsaskala.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Malta/Counties/Marsaskala.personal|Marsaskala.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Malta/Counties/Marsaskala.secret|Marsaskala.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Malta/Counties/Marsaskala|Marsaskala]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Malta/Counties/Marsaskala.public|Marsaskala.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Malta/Counties/Marsaskala.internal|Marsaskala.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Malta/Counties/Marsaskala.protect|Marsaskala.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Malta/Counties/Marsaskala.private|Marsaskala.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Malta/Counties/Marsaskala.personal|Marsaskala.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Malta/Counties/Marsaskala.secret|Marsaskala.secret]] 
 

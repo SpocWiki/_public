@@ -1,5 +1,5 @@
 ---
-location: [52.58,-1.17]
+location: [52.58,-1.17] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,29 +12,30 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::-1.17]
-[geo-lat::52.58]
-[name::Leicester]
-[State::]
-[Country::[[United_Kingdom]]]
-[StateId::]
-[Population::]
-[Unknown::]
+[geo-lon::-1.17] 
+[geo-lat::52.58] 
+[name::Leicester] 
+State ::  
+Country :: [[United_Kingdom]]  
+[StateId::] 
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Leicester
-coordinates: [[Leicester]]
-markerFile: [[Leicester]]
+coordinates: [[Leicester]] 
+markerFile: [[Leicester]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Leicester.md|Leicester]] 
-- [[../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Leicester.internal|Leicester.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Leicester.protect|Leicester.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Leicester.private|Leicester.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Leicester.personal|Leicester.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Leicester.secret|Leicester.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/United_Kingdom/City/Leicester|Leicester]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/United_Kingdom/City/Leicester.public|Leicester.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/United_Kingdom/City/Leicester.internal|Leicester.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/United_Kingdom/City/Leicester.protect|Leicester.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/United_Kingdom/City/Leicester.private|Leicester.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/United_Kingdom/City/Leicester.personal|Leicester.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/United_Kingdom/City/Leicester.secret|Leicester.secret]] 

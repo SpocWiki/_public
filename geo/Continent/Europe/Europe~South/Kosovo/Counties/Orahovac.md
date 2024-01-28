@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 42.4 , 20.6 ] 
 type: geo-Region
 title: Orahovac
@@ -40,10 +40,11 @@ markerFolder: ./Orahovac/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Kosovo/Counties/Orahovac.md|Orahovac]] 
-- [[../../../../_internal/geo/Continent/Europe/Kosovo/Counties/Orahovac.internal|Orahovac.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Kosovo/Counties/Orahovac.protect|Orahovac.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Kosovo/Counties/Orahovac.private|Orahovac.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Kosovo/Counties/Orahovac.personal|Orahovac.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Kosovo/Counties/Orahovac.secret|Orahovac.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Kosovo/Counties/Orahovac|Orahovac]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Kosovo/Counties/Orahovac.public|Orahovac.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Kosovo/Counties/Orahovac.internal|Orahovac.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Kosovo/Counties/Orahovac.protect|Orahovac.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Kosovo/Counties/Orahovac.private|Orahovac.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Kosovo/Counties/Orahovac.personal|Orahovac.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Kosovo/Counties/Orahovac.secret|Orahovac.secret]] 
 

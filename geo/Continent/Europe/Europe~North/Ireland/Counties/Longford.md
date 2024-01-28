@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 53.7 , -7.7 ] 
 type: geo-Region
 title: Longford
@@ -40,10 +40,11 @@ markerFolder: ./Longford/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Ireland/Counties/Longford.md|Longford]] 
-- [[../../../../_internal/geo/Continent/Europe/Ireland/Counties/Longford.internal|Longford.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Ireland/Counties/Longford.protect|Longford.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Ireland/Counties/Longford.private|Longford.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Ireland/Counties/Longford.personal|Longford.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Ireland/Counties/Longford.secret|Longford.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Ireland/Counties/Longford|Longford]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Ireland/Counties/Longford.public|Longford.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Ireland/Counties/Longford.internal|Longford.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Ireland/Counties/Longford.protect|Longford.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Ireland/Counties/Longford.private|Longford.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Ireland/Counties/Longford.personal|Longford.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Ireland/Counties/Longford.secret|Longford.secret]] 
 

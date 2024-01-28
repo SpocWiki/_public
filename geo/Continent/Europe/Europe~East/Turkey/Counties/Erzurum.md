@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 40 , 41.5 ] 
 type: geo-Region
 title: Erzurum
@@ -40,10 +40,11 @@ markerFolder: ./Erzurum/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Turkey/Counties/Erzurum.md|Erzurum]] 
-- [[../../../../_internal/geo/Continent/Europe/Turkey/Counties/Erzurum.internal|Erzurum.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Turkey/Counties/Erzurum.protect|Erzurum.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Turkey/Counties/Erzurum.private|Erzurum.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Turkey/Counties/Erzurum.personal|Erzurum.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Turkey/Counties/Erzurum.secret|Erzurum.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Turkey/Counties/Erzurum|Erzurum]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Turkey/Counties/Erzurum.public|Erzurum.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Turkey/Counties/Erzurum.internal|Erzurum.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Turkey/Counties/Erzurum.protect|Erzurum.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Turkey/Counties/Erzurum.private|Erzurum.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Turkey/Counties/Erzurum.personal|Erzurum.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Turkey/Counties/Erzurum.secret|Erzurum.secret]] 
 

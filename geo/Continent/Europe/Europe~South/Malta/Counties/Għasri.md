@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 36.06 , 14.22 ] 
 type: geo-Region
 title: Għasri
@@ -40,10 +40,11 @@ markerFolder: ./Għasri/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Malta/Counties/Għasri.md|Għasri]] 
-- [[../../../../_internal/geo/Continent/Europe/Malta/Counties/Għasri.internal|Għasri.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Malta/Counties/Għasri.protect|Għasri.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Malta/Counties/Għasri.private|Għasri.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Malta/Counties/Għasri.personal|Għasri.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Malta/Counties/Għasri.secret|Għasri.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Malta/Counties/Għasri|Għasri]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Malta/Counties/Għasri.public|Għasri.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Malta/Counties/Għasri.internal|Għasri.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Malta/Counties/Għasri.protect|Għasri.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Malta/Counties/Għasri.private|Għasri.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Malta/Counties/Għasri.personal|Għasri.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Malta/Counties/Għasri.secret|Għasri.secret]] 
 

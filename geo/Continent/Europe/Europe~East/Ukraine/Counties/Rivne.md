@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 51 , 26.6 ] 
 type: geo-Region
 title: Rivne
@@ -40,10 +40,11 @@ markerFolder: ./Rivne/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Ukraine/Counties/Rivne.md|Rivne]] 
-- [[../../../../_internal/geo/Continent/Europe/Ukraine/Counties/Rivne.internal|Rivne.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Ukraine/Counties/Rivne.protect|Rivne.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Ukraine/Counties/Rivne.private|Rivne.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Ukraine/Counties/Rivne.personal|Rivne.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Ukraine/Counties/Rivne.secret|Rivne.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Ukraine/Counties/Rivne|Rivne]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Ukraine/Counties/Rivne.public|Rivne.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Ukraine/Counties/Rivne.internal|Rivne.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Ukraine/Counties/Rivne.protect|Rivne.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Ukraine/Counties/Rivne.private|Rivne.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Ukraine/Counties/Rivne.personal|Rivne.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Ukraine/Counties/Rivne.secret|Rivne.secret]] 
 

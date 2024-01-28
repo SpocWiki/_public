@@ -1,5 +1,5 @@
-﻿---
-location: [51.07,3.08]
+---
+location: [51.07,3.08] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,29 +12,30 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::3.08]
-[geo-lat::51.07]
-[name::Thourout]
-[State::]
-[Country::[[Belgium]]]
-[StateId::]
-[Population::]
-[Unknown::]
+[geo-lon::3.08] 
+[geo-lat::51.07] 
+[name::Thourout] 
+State ::  
+Country :: [[Belgium]]  
+[StateId::] 
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Thourout
-coordinates: [[Thourout]]
-markerFile: [[Thourout]]
+coordinates: [[Thourout]] 
+markerFile: [[Thourout]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_public/geo/Continent/Europe/Belgium/City/Thourout.md|Thourout]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Belgium/City/Thourout.internal|Thourout.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Belgium/City/Thourout.protect|Thourout.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Belgium/City/Thourout.private|Thourout.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Belgium/City/Thourout.personal|Thourout.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Belgium/City/Thourout.secret|Thourout.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~West/Belgium/City/Thourout|Thourout]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~West/Belgium/City/Thourout.public|Thourout.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~West/Belgium/City/Thourout.internal|Thourout.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~West/Belgium/City/Thourout.protect|Thourout.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~West/Belgium/City/Thourout.private|Thourout.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~West/Belgium/City/Thourout.personal|Thourout.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~West/Belgium/City/Thourout.secret|Thourout.secret]] 

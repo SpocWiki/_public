@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 40.8 , -7.9 ] 
 type: geo-Region
 title: Viseu
@@ -40,10 +40,11 @@ markerFolder: ./Viseu/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Portugal/Counties/Viseu.md|Viseu]] 
-- [[../../../../_internal/geo/Continent/Europe/Portugal/Counties/Viseu.internal|Viseu.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Portugal/Counties/Viseu.protect|Viseu.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Portugal/Counties/Viseu.private|Viseu.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Portugal/Counties/Viseu.personal|Viseu.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Portugal/Counties/Viseu.secret|Viseu.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Portugal/Counties/Viseu|Viseu]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Portugal/Counties/Viseu.public|Viseu.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Portugal/Counties/Viseu.internal|Viseu.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Portugal/Counties/Viseu.protect|Viseu.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Portugal/Counties/Viseu.private|Viseu.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Portugal/Counties/Viseu.personal|Viseu.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Portugal/Counties/Viseu.secret|Viseu.secret]] 
 

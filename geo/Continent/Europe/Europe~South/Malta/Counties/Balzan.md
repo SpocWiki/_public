@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 35.9 , 14.45 ] 
 type: geo-Region
 title: Balzan
@@ -40,10 +40,11 @@ markerFolder: ./Balzan/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Malta/Counties/Balzan.md|Balzan]] 
-- [[../../../../_internal/geo/Continent/Europe/Malta/Counties/Balzan.internal|Balzan.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Malta/Counties/Balzan.protect|Balzan.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Malta/Counties/Balzan.private|Balzan.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Malta/Counties/Balzan.personal|Balzan.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Malta/Counties/Balzan.secret|Balzan.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Malta/Counties/Balzan|Balzan]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Malta/Counties/Balzan.public|Balzan.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Malta/Counties/Balzan.internal|Balzan.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Malta/Counties/Balzan.protect|Balzan.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Malta/Counties/Balzan.private|Balzan.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Malta/Counties/Balzan.personal|Balzan.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Malta/Counties/Balzan.secret|Balzan.secret]] 
 

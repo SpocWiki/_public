@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 57.1 , 25.7 ] 
 type: geo-Region
 title: Vecpiebalgas
@@ -40,10 +40,11 @@ markerFolder: ./Vecpiebalgas/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Latvia/Counties/Vecpiebalgas.md|Vecpiebalgas]] 
-- [[../../../../_internal/geo/Continent/Europe/Latvia/Counties/Vecpiebalgas.internal|Vecpiebalgas.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Latvia/Counties/Vecpiebalgas.protect|Vecpiebalgas.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Latvia/Counties/Vecpiebalgas.private|Vecpiebalgas.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Latvia/Counties/Vecpiebalgas.personal|Vecpiebalgas.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Latvia/Counties/Vecpiebalgas.secret|Vecpiebalgas.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Latvia/Counties/Vecpiebalgas|Vecpiebalgas]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Latvia/Counties/Vecpiebalgas.public|Vecpiebalgas.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Latvia/Counties/Vecpiebalgas.internal|Vecpiebalgas.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Latvia/Counties/Vecpiebalgas.protect|Vecpiebalgas.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Latvia/Counties/Vecpiebalgas.private|Vecpiebalgas.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Latvia/Counties/Vecpiebalgas.personal|Vecpiebalgas.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Latvia/Counties/Vecpiebalgas.secret|Vecpiebalgas.secret]] 
 

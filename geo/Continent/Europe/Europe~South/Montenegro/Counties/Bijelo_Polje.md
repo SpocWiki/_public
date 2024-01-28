@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 43.1 , 19.7 ] 
 type: geo-Region
 title: Bijelo_Polje
@@ -40,10 +40,11 @@ markerFolder: ./Bijelo_Polje/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Montenegro/Counties/Bijelo_Polje.md|Bijelo_Polje]] 
-- [[../../../../_internal/geo/Continent/Europe/Montenegro/Counties/Bijelo_Polje.internal|Bijelo_Polje.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Montenegro/Counties/Bijelo_Polje.protect|Bijelo_Polje.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Montenegro/Counties/Bijelo_Polje.private|Bijelo_Polje.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Montenegro/Counties/Bijelo_Polje.personal|Bijelo_Polje.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Montenegro/Counties/Bijelo_Polje.secret|Bijelo_Polje.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Montenegro/Counties/Bijelo_Polje|Bijelo_Polje]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Montenegro/Counties/Bijelo_Polje.public|Bijelo_Polje.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Montenegro/Counties/Bijelo_Polje.internal|Bijelo_Polje.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Montenegro/Counties/Bijelo_Polje.protect|Bijelo_Polje.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Montenegro/Counties/Bijelo_Polje.private|Bijelo_Polje.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Montenegro/Counties/Bijelo_Polje.personal|Bijelo_Polje.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Montenegro/Counties/Bijelo_Polje.secret|Bijelo_Polje.secret]] 
 

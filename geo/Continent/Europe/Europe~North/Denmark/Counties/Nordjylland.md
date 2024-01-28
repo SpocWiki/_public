@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 57.2 , 9.9 ] 
 type: geo-Region
 title: Nordjylland
@@ -40,10 +40,11 @@ markerFolder: ./Nordjylland/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Denmark/Counties/Nordjylland.md|Nordjylland]] 
-- [[../../../../_internal/geo/Continent/Europe/Denmark/Counties/Nordjylland.internal|Nordjylland.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Denmark/Counties/Nordjylland.protect|Nordjylland.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Denmark/Counties/Nordjylland.private|Nordjylland.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Denmark/Counties/Nordjylland.personal|Nordjylland.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Denmark/Counties/Nordjylland.secret|Nordjylland.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Denmark/Counties/Nordjylland|Nordjylland]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Denmark/Counties/Nordjylland.public|Nordjylland.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Denmark/Counties/Nordjylland.internal|Nordjylland.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Denmark/Counties/Nordjylland.protect|Nordjylland.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Denmark/Counties/Nordjylland.private|Nordjylland.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Denmark/Counties/Nordjylland.personal|Nordjylland.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Denmark/Counties/Nordjylland.secret|Nordjylland.secret]] 
 

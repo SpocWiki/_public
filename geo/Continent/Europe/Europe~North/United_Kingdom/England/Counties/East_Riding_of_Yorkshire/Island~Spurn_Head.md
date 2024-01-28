@@ -1,5 +1,5 @@
 ---
-location: [53.62,0.2]
+location: [53.62,0.2] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,29 +12,30 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::0.2]
-[geo-lat::53.62]
-[name::Spurn Head]
-[State::]
-[Country::[[United_Kingdom]]]
-[StateId::]
-[Population::]
-[Unknown::]
+[geo-lon::0.2] 
+[geo-lat::53.62] 
+[name::Spurn Head] 
+State ::  
+Country :: [[United_Kingdom]]  
+[StateId::] 
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Spurn Head
-coordinates: [[Spurn_Head]]
-markerFile: [[Spurn_Head]]
+coordinates: [[Spurn_Head]] 
+markerFile: [[Spurn_Head]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Spurn_Head.md|Spurn_Head]] 
-- [[../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Spurn_Head.internal|Spurn_Head.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Spurn_Head.protect|Spurn_Head.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Spurn_Head.private|Spurn_Head.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Spurn_Head.personal|Spurn_Head.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Spurn_Head.secret|Spurn_Head.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/United_Kingdom/City/Spurn_Head|Spurn_Head]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/United_Kingdom/City/Spurn_Head.public|Spurn_Head.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/United_Kingdom/City/Spurn_Head.internal|Spurn_Head.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/United_Kingdom/City/Spurn_Head.protect|Spurn_Head.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/United_Kingdom/City/Spurn_Head.private|Spurn_Head.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/United_Kingdom/City/Spurn_Head.personal|Spurn_Head.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/United_Kingdom/City/Spurn_Head.secret|Spurn_Head.secret]] 

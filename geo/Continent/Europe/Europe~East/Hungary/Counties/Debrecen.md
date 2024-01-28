@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 47.6 , 21.6 ] 
 type: geo-Region
 title: Debrecen
@@ -40,10 +40,11 @@ markerFolder: ./Debrecen/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Hungary/Counties/Debrecen.md|Debrecen]] 
-- [[../../../../_internal/geo/Continent/Europe/Hungary/Counties/Debrecen.internal|Debrecen.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Hungary/Counties/Debrecen.protect|Debrecen.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Hungary/Counties/Debrecen.private|Debrecen.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Hungary/Counties/Debrecen.personal|Debrecen.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Hungary/Counties/Debrecen.secret|Debrecen.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Hungary/Counties/Debrecen|Debrecen]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Hungary/Counties/Debrecen.public|Debrecen.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Hungary/Counties/Debrecen.internal|Debrecen.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Hungary/Counties/Debrecen.protect|Debrecen.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Hungary/Counties/Debrecen.private|Debrecen.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Hungary/Counties/Debrecen.personal|Debrecen.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Hungary/Counties/Debrecen.secret|Debrecen.secret]] 
 

@@ -1,5 +1,5 @@
-﻿---
-location: [62.05,12.27]
+---
+location: [62.05,12.27] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,29 +12,30 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::12.27]
-[geo-lat::62.05]
-[name::Storsaetern]
-[State::]
-[Country::[[Sweden]]]
-[StateId::]
-[Population::]
-[Unknown::]
+[geo-lon::12.27] 
+[geo-lat::62.05] 
+[name::Storsaetern] 
+State ::  
+Country :: [[Sweden]]  
+[StateId::] 
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Storsaetern
-coordinates: [[Storsaetern]]
-markerFile: [[Storsaetern]]
+coordinates: [[Storsaetern]] 
+markerFile: [[Storsaetern]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_public/geo/Continent/Europe/Sweden/City/Storsaetern.md|Storsaetern]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Sweden/City/Storsaetern.internal|Storsaetern.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Sweden/City/Storsaetern.protect|Storsaetern.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Sweden/City/Storsaetern.private|Storsaetern.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Sweden/City/Storsaetern.personal|Storsaetern.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Sweden/City/Storsaetern.secret|Storsaetern.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Sweden/City/Storsaetern|Storsaetern]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Sweden/City/Storsaetern.public|Storsaetern.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Sweden/City/Storsaetern.internal|Storsaetern.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Sweden/City/Storsaetern.protect|Storsaetern.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Sweden/City/Storsaetern.private|Storsaetern.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Sweden/City/Storsaetern.personal|Storsaetern.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Sweden/City/Storsaetern.secret|Storsaetern.secret]] 

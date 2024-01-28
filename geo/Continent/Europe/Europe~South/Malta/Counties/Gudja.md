@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 35.84 , 14.5 ] 
 type: geo-Region
 title: Gudja
@@ -40,10 +40,11 @@ markerFolder: ./Gudja/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Malta/Counties/Gudja.md|Gudja]] 
-- [[../../../../_internal/geo/Continent/Europe/Malta/Counties/Gudja.internal|Gudja.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Malta/Counties/Gudja.protect|Gudja.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Malta/Counties/Gudja.private|Gudja.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Malta/Counties/Gudja.personal|Gudja.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Malta/Counties/Gudja.secret|Gudja.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Malta/Counties/Gudja|Gudja]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Malta/Counties/Gudja.public|Gudja.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Malta/Counties/Gudja.internal|Gudja.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Malta/Counties/Gudja.protect|Gudja.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Malta/Counties/Gudja.private|Gudja.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Malta/Counties/Gudja.personal|Gudja.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Malta/Counties/Gudja.secret|Gudja.secret]] 
 

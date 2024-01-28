@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 37.9 , 42.2 ] 
 type: geo-Region
 title: Siirt
@@ -40,10 +40,11 @@ markerFolder: ./Siirt/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Turkey/Counties/Siirt.md|Siirt]] 
-- [[../../../../_internal/geo/Continent/Europe/Turkey/Counties/Siirt.internal|Siirt.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Turkey/Counties/Siirt.protect|Siirt.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Turkey/Counties/Siirt.private|Siirt.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Turkey/Counties/Siirt.personal|Siirt.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Turkey/Counties/Siirt.secret|Siirt.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Turkey/Counties/Siirt|Siirt]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Turkey/Counties/Siirt.public|Siirt.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Turkey/Counties/Siirt.internal|Siirt.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Turkey/Counties/Siirt.protect|Siirt.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Turkey/Counties/Siirt.private|Siirt.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Turkey/Counties/Siirt.personal|Siirt.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Turkey/Counties/Siirt.secret|Siirt.secret]] 
 

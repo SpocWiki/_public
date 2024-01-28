@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 45.8 , 27.8 ] 
 type: geo-Region
 title: Galati
@@ -40,10 +40,11 @@ markerFolder: ./Galati/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Romania/Counties/Galati.md|Galati]] 
-- [[../../../../_internal/geo/Continent/Europe/Romania/Counties/Galati.internal|Galati.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Romania/Counties/Galati.protect|Galati.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Romania/Counties/Galati.private|Galati.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Romania/Counties/Galati.personal|Galati.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Romania/Counties/Galati.secret|Galati.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Romania/Counties/Galati|Galati]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Romania/Counties/Galati.public|Galati.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Romania/Counties/Galati.internal|Galati.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Romania/Counties/Galati.protect|Galati.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Romania/Counties/Galati.private|Galati.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Romania/Counties/Galati.personal|Galati.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Romania/Counties/Galati.secret|Galati.secret]] 
 

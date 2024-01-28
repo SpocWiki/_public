@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 37.8 , 38.2 ] 
 type: geo-Region
 title: Adiyaman
@@ -40,10 +40,11 @@ markerFolder: ./Adiyaman/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Turkey/Counties/Adiyaman.md|Adiyaman]] 
-- [[../../../../_internal/geo/Continent/Europe/Turkey/Counties/Adiyaman.internal|Adiyaman.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Turkey/Counties/Adiyaman.protect|Adiyaman.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Turkey/Counties/Adiyaman.private|Adiyaman.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Turkey/Counties/Adiyaman.personal|Adiyaman.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Turkey/Counties/Adiyaman.secret|Adiyaman.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Turkey/Counties/Adiyaman|Adiyaman]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Turkey/Counties/Adiyaman.public|Adiyaman.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Turkey/Counties/Adiyaman.internal|Adiyaman.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Turkey/Counties/Adiyaman.protect|Adiyaman.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Turkey/Counties/Adiyaman.private|Adiyaman.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Turkey/Counties/Adiyaman.personal|Adiyaman.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Turkey/Counties/Adiyaman.secret|Adiyaman.secret]] 
 

@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 47.1 , 17.5 ] 
 type: geo-Region
 title: Veszprém
@@ -40,10 +40,11 @@ markerFolder: ./Veszprém/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Hungary/Counties/Veszprém.md|Veszprém]] 
-- [[../../../../_internal/geo/Continent/Europe/Hungary/Counties/Veszprém.internal|Veszprém.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Hungary/Counties/Veszprém.protect|Veszprém.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Hungary/Counties/Veszprém.private|Veszprém.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Hungary/Counties/Veszprém.personal|Veszprém.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Hungary/Counties/Veszprém.secret|Veszprém.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Hungary/Counties/Veszprém|Veszprém]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Hungary/Counties/Veszprém.public|Veszprém.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Hungary/Counties/Veszprém.internal|Veszprém.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Hungary/Counties/Veszprém.protect|Veszprém.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Hungary/Counties/Veszprém.private|Veszprém.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Hungary/Counties/Veszprém.personal|Veszprém.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Hungary/Counties/Veszprém.secret|Veszprém.secret]] 
 

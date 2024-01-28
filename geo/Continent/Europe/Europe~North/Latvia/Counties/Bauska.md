@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 56.4 , 24.3 ] 
 type: geo-Region
 title: Bauska
@@ -40,10 +40,11 @@ markerFolder: ./Bauska/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Latvia/Counties/Bauska.md|Bauska]] 
-- [[../../../../_internal/geo/Continent/Europe/Latvia/Counties/Bauska.internal|Bauska.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Latvia/Counties/Bauska.protect|Bauska.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Latvia/Counties/Bauska.private|Bauska.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Latvia/Counties/Bauska.personal|Bauska.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Latvia/Counties/Bauska.secret|Bauska.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Latvia/Counties/Bauska|Bauska]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Latvia/Counties/Bauska.public|Bauska.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Latvia/Counties/Bauska.internal|Bauska.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Latvia/Counties/Bauska.protect|Bauska.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Latvia/Counties/Bauska.private|Bauska.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Latvia/Counties/Bauska.personal|Bauska.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Latvia/Counties/Bauska.secret|Bauska.secret]] 
 

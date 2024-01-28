@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 47.5 , 25.8 ] 
 type: geo-Region
 title: Suceava
@@ -40,10 +40,11 @@ markerFolder: ./Suceava/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Romania/Counties/Suceava.md|Suceava]] 
-- [[../../../../_internal/geo/Continent/Europe/Romania/Counties/Suceava.internal|Suceava.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Romania/Counties/Suceava.protect|Suceava.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Romania/Counties/Suceava.private|Suceava.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Romania/Counties/Suceava.personal|Suceava.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Romania/Counties/Suceava.secret|Suceava.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Romania/Counties/Suceava|Suceava]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Romania/Counties/Suceava.public|Suceava.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Romania/Counties/Suceava.internal|Suceava.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Romania/Counties/Suceava.protect|Suceava.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Romania/Counties/Suceava.private|Suceava.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Romania/Counties/Suceava.personal|Suceava.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Romania/Counties/Suceava.secret|Suceava.secret]] 
 

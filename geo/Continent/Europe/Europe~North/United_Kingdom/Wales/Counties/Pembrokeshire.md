@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 51.9 , -4.9 ] 
 type: geo-Region
 title: Pembrokeshire
@@ -40,10 +40,11 @@ markerFolder: ./Pembrokeshire/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/United_Kingdom/Wales/Counties/Pembrokeshire.md|Pembrokeshire]] 
-- [[../../../../_internal/geo/Continent/Europe/United_Kingdom/Wales/Counties/Pembrokeshire.internal|Pembrokeshire.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/United_Kingdom/Wales/Counties/Pembrokeshire.protect|Pembrokeshire.protect]] 
-- [[../../../../_private/geo/Continent/Europe/United_Kingdom/Wales/Counties/Pembrokeshire.private|Pembrokeshire.private]] 
-- [[../../../../_personal/geo/Continent/Europe/United_Kingdom/Wales/Counties/Pembrokeshire.personal|Pembrokeshire.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/United_Kingdom/Wales/Counties/Pembrokeshire.secret|Pembrokeshire.secret]] 
+- [[../../../../../../../../_Standards/geo/Continent/Europe/Europe~North/United_Kingdom/Wales/Counties/Pembrokeshire|Pembrokeshire]] 
+- [[../../../../../../../../_public/geo/Continent/Europe/Europe~North/United_Kingdom/Wales/Counties/Pembrokeshire.public|Pembrokeshire.public]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/Europe~North/United_Kingdom/Wales/Counties/Pembrokeshire.internal|Pembrokeshire.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/Europe~North/United_Kingdom/Wales/Counties/Pembrokeshire.protect|Pembrokeshire.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/Europe~North/United_Kingdom/Wales/Counties/Pembrokeshire.private|Pembrokeshire.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/Europe~North/United_Kingdom/Wales/Counties/Pembrokeshire.personal|Pembrokeshire.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/Europe~North/United_Kingdom/Wales/Counties/Pembrokeshire.secret|Pembrokeshire.secret]] 
 

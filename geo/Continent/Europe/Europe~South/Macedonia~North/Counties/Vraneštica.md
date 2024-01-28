@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 41.5 , 21 ] 
 type: geo-Region
 title: Vraneštica
@@ -40,10 +40,11 @@ markerFolder: ./Vraneštica/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Macedonia~North/Counties/Vraneštica.md|Vraneštica]] 
-- [[../../../../_internal/geo/Continent/Europe/Macedonia~North/Counties/Vraneštica.internal|Vraneštica.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Macedonia~North/Counties/Vraneštica.protect|Vraneštica.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Macedonia~North/Counties/Vraneštica.private|Vraneštica.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Macedonia~North/Counties/Vraneštica.personal|Vraneštica.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Macedonia~North/Counties/Vraneštica.secret|Vraneštica.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Macedonia~North/Counties/Vraneštica|Vraneštica]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Macedonia~North/Counties/Vraneštica.public|Vraneštica.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Macedonia~North/Counties/Vraneštica.internal|Vraneštica.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Macedonia~North/Counties/Vraneštica.protect|Vraneštica.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Macedonia~North/Counties/Vraneštica.private|Vraneštica.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Macedonia~North/Counties/Vraneštica.personal|Vraneštica.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Macedonia~North/Counties/Vraneštica.secret|Vraneštica.secret]] 
 

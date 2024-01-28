@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 54 , -7.3 ] 
 type: geo-Region
 title: Cavan
@@ -40,10 +40,11 @@ markerFolder: ./Cavan/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Ireland/Counties/Cavan.md|Cavan]] 
-- [[../../../../_internal/geo/Continent/Europe/Ireland/Counties/Cavan.internal|Cavan.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Ireland/Counties/Cavan.protect|Cavan.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Ireland/Counties/Cavan.private|Cavan.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Ireland/Counties/Cavan.personal|Cavan.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Ireland/Counties/Cavan.secret|Cavan.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Ireland/Counties/Cavan|Cavan]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Ireland/Counties/Cavan.public|Cavan.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Ireland/Counties/Cavan.internal|Cavan.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Ireland/Counties/Cavan.protect|Cavan.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Ireland/Counties/Cavan.private|Cavan.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Ireland/Counties/Cavan.personal|Cavan.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Ireland/Counties/Cavan.secret|Cavan.secret]] 
 

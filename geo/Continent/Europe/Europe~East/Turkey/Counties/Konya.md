@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 37.9 , 32.4 ] 
 type: geo-Region
 title: Konya
@@ -40,10 +40,11 @@ markerFolder: ./Konya/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Turkey/Counties/Konya.md|Konya]] 
-- [[../../../../_internal/geo/Continent/Europe/Turkey/Counties/Konya.internal|Konya.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Turkey/Counties/Konya.protect|Konya.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Turkey/Counties/Konya.private|Konya.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Turkey/Counties/Konya.personal|Konya.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Turkey/Counties/Konya.secret|Konya.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Turkey/Counties/Konya|Konya]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Turkey/Counties/Konya.public|Konya.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Turkey/Counties/Konya.internal|Konya.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Turkey/Counties/Konya.protect|Konya.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Turkey/Counties/Konya.private|Konya.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Turkey/Counties/Konya.personal|Konya.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Turkey/Counties/Konya.secret|Konya.secret]] 
 

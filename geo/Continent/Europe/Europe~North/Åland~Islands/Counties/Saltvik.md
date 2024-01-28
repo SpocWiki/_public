@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 60.3 , 20.1 ] 
 type: geo-Region
 title: Saltvik
@@ -40,10 +40,11 @@ markerFolder: ./Saltvik/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Åland~Islands/Counties/Saltvik.md|Saltvik]] 
-- [[../../../../_internal/geo/Continent/Europe/Åland~Islands/Counties/Saltvik.internal|Saltvik.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Åland~Islands/Counties/Saltvik.protect|Saltvik.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Åland~Islands/Counties/Saltvik.private|Saltvik.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Åland~Islands/Counties/Saltvik.personal|Saltvik.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Åland~Islands/Counties/Saltvik.secret|Saltvik.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Åland~Islands/Counties/Saltvik|Saltvik]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Åland~Islands/Counties/Saltvik.public|Saltvik.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Åland~Islands/Counties/Saltvik.internal|Saltvik.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Åland~Islands/Counties/Saltvik.protect|Saltvik.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Åland~Islands/Counties/Saltvik.private|Saltvik.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Åland~Islands/Counties/Saltvik.personal|Saltvik.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Åland~Islands/Counties/Saltvik.secret|Saltvik.secret]] 
 

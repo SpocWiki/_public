@@ -1,5 +1,5 @@
-﻿---
-location: [52.1,23.68]
+---
+location: [52.1,23.68] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,29 +12,30 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::23.68]
-[geo-lat::52.1]
-[name::Brest-Litowsk]
-[State::]
-[Country::[[Poland]]]
-[StateId::]
-[Population::]
-[Unknown::]
+[geo-lon::23.68] 
+[geo-lat::52.1] 
+[name::Brest-Litowsk] 
+State ::  
+Country :: [[Poland]]  
+[StateId::] 
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Brest-Litowsk
-coordinates: [[Brest-Litowsk]]
-markerFile: [[Brest-Litowsk]]
+coordinates: [[Brest-Litowsk]] 
+markerFile: [[Brest-Litowsk]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_public/geo/Continent/Europe/Poland/City/Brest-Litowsk.md|Brest-Litowsk]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Brest-Litowsk.internal|Brest-Litowsk.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Brest-Litowsk.protect|Brest-Litowsk.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Brest-Litowsk.private|Brest-Litowsk.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Brest-Litowsk.personal|Brest-Litowsk.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Brest-Litowsk.secret|Brest-Litowsk.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Poland/City/Brest-Litowsk|Brest-Litowsk]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Poland/City/Brest-Litowsk.public|Brest-Litowsk.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Poland/City/Brest-Litowsk.internal|Brest-Litowsk.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Poland/City/Brest-Litowsk.protect|Brest-Litowsk.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Poland/City/Brest-Litowsk.private|Brest-Litowsk.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Poland/City/Brest-Litowsk.personal|Brest-Litowsk.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Poland/City/Brest-Litowsk.secret|Brest-Litowsk.secret]] 

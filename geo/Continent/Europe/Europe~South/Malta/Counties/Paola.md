@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 35.871 , 14.505 ] 
 type: geo-Region
 title: Paola
@@ -40,10 +40,11 @@ markerFolder: ./Paola/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Malta/Counties/Paola.md|Paola]] 
-- [[../../../../_internal/geo/Continent/Europe/Malta/Counties/Paola.internal|Paola.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Malta/Counties/Paola.protect|Paola.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Malta/Counties/Paola.private|Paola.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Malta/Counties/Paola.personal|Paola.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Malta/Counties/Paola.secret|Paola.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Malta/Counties/Paola|Paola]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Malta/Counties/Paola.public|Paola.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Malta/Counties/Paola.internal|Paola.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Malta/Counties/Paola.protect|Paola.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Malta/Counties/Paola.private|Paola.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Malta/Counties/Paola.personal|Paola.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Malta/Counties/Paola.secret|Paola.secret]] 
 

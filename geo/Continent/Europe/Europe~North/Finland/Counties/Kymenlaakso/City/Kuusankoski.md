@@ -1,5 +1,5 @@
-﻿---
-location: [60.92,26.65]
+---
+location: [60.92,26.65] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,29 +12,30 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::26.65]
-[geo-lat::60.92]
-[name::Kuusankoski]
-[State::]
-[Country::[[Finland]]]
-[StateId::]
-[Population::]
-[Unknown::]
+[geo-lon::26.65] 
+[geo-lat::60.92] 
+[name::Kuusankoski] 
+State ::  
+Country :: [[Finland]]  
+[StateId::] 
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Kuusankoski
-coordinates: [[Kuusankoski]]
-markerFile: [[Kuusankoski]]
+coordinates: [[Kuusankoski]] 
+markerFile: [[Kuusankoski]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_public/geo/Continent/Europe/Finland/City/Kuusankoski.md|Kuusankoski]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Finland/City/Kuusankoski.internal|Kuusankoski.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Finland/City/Kuusankoski.protect|Kuusankoski.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Finland/City/Kuusankoski.private|Kuusankoski.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Finland/City/Kuusankoski.personal|Kuusankoski.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Finland/City/Kuusankoski.secret|Kuusankoski.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Finland/City/Kuusankoski|Kuusankoski]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Finland/City/Kuusankoski.public|Kuusankoski.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Finland/City/Kuusankoski.internal|Kuusankoski.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Finland/City/Kuusankoski.protect|Kuusankoski.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Finland/City/Kuusankoski.private|Kuusankoski.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Finland/City/Kuusankoski.personal|Kuusankoski.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Finland/City/Kuusankoski.secret|Kuusankoski.secret]] 

@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 61.3 , 11.9 ] 
 type: geo-Region
 title: Hedmark
@@ -40,10 +40,11 @@ markerFolder: ./Hedmark/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Norway/Counties/Hedmark.md|Hedmark]] 
-- [[../../../../_internal/geo/Continent/Europe/Norway/Counties/Hedmark.internal|Hedmark.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Norway/Counties/Hedmark.protect|Hedmark.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Norway/Counties/Hedmark.private|Hedmark.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Norway/Counties/Hedmark.personal|Hedmark.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Norway/Counties/Hedmark.secret|Hedmark.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Norway/Counties/Hedmark|Hedmark]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Norway/Counties/Hedmark.public|Hedmark.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Norway/Counties/Hedmark.internal|Hedmark.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Norway/Counties/Hedmark.protect|Hedmark.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Norway/Counties/Hedmark.private|Hedmark.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Norway/Counties/Hedmark.personal|Hedmark.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Norway/Counties/Hedmark.secret|Hedmark.secret]] 
 

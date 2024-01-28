@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 43.2 , 17.8 ] 
 type: geo-Region
 title: Herzegovina-Neretva
@@ -40,10 +40,11 @@ markerFolder: ./Herzegovina-Neretva/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Bosnia_and_Herzegovina/Counties/Herzegovina-Neretva.md|Herzegovina-Neretva]] 
-- [[../../../../_internal/geo/Continent/Europe/Bosnia_and_Herzegovina/Counties/Herzegovina-Neretva.internal|Herzegovina-Neretva.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Bosnia_and_Herzegovina/Counties/Herzegovina-Neretva.protect|Herzegovina-Neretva.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Bosnia_and_Herzegovina/Counties/Herzegovina-Neretva.private|Herzegovina-Neretva.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Bosnia_and_Herzegovina/Counties/Herzegovina-Neretva.personal|Herzegovina-Neretva.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Bosnia_and_Herzegovina/Counties/Herzegovina-Neretva.secret|Herzegovina-Neretva.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Bosnia_and_Herzegovina/Counties/Herzegovina-Neretva|Herzegovina-Neretva]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Bosnia_and_Herzegovina/Counties/Herzegovina-Neretva.public|Herzegovina-Neretva.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Bosnia_and_Herzegovina/Counties/Herzegovina-Neretva.internal|Herzegovina-Neretva.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Bosnia_and_Herzegovina/Counties/Herzegovina-Neretva.protect|Herzegovina-Neretva.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Bosnia_and_Herzegovina/Counties/Herzegovina-Neretva.private|Herzegovina-Neretva.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Bosnia_and_Herzegovina/Counties/Herzegovina-Neretva.personal|Herzegovina-Neretva.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Bosnia_and_Herzegovina/Counties/Herzegovina-Neretva.secret|Herzegovina-Neretva.secret]] 
 

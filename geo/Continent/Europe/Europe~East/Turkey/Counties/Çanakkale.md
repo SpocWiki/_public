@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 40 , 26.8 ] 
 type: geo-Region
 title: Çanakkale
@@ -40,10 +40,11 @@ markerFolder: ./Çanakkale/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Turkey/Counties/Çanakkale.md|Çanakkale]] 
-- [[../../../../_internal/geo/Continent/Europe/Turkey/Counties/Çanakkale.internal|Çanakkale.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Turkey/Counties/Çanakkale.protect|Çanakkale.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Turkey/Counties/Çanakkale.private|Çanakkale.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Turkey/Counties/Çanakkale.personal|Çanakkale.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Turkey/Counties/Çanakkale.secret|Çanakkale.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Turkey/Counties/Çanakkale|Çanakkale]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Turkey/Counties/Çanakkale.public|Çanakkale.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Turkey/Counties/Çanakkale.internal|Çanakkale.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Turkey/Counties/Çanakkale.protect|Çanakkale.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Turkey/Counties/Çanakkale.private|Çanakkale.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Turkey/Counties/Çanakkale.personal|Çanakkale.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Turkey/Counties/Çanakkale.secret|Çanakkale.secret]] 
 

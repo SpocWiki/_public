@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 47.9 , 26.7 ] 
 type: geo-Region
 title: Botosani
@@ -40,10 +40,11 @@ markerFolder: ./Botosani/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Romania/Counties/Botosani.md|Botosani]] 
-- [[../../../../_internal/geo/Continent/Europe/Romania/Counties/Botosani.internal|Botosani.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Romania/Counties/Botosani.protect|Botosani.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Romania/Counties/Botosani.private|Botosani.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Romania/Counties/Botosani.personal|Botosani.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Romania/Counties/Botosani.secret|Botosani.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Romania/Counties/Botosani|Botosani]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Romania/Counties/Botosani.public|Botosani.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Romania/Counties/Botosani.internal|Botosani.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Romania/Counties/Botosani.protect|Botosani.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Romania/Counties/Botosani.private|Botosani.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Romania/Counties/Botosani.personal|Botosani.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Romania/Counties/Botosani.secret|Botosani.secret]] 
 

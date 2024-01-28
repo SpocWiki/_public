@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 47.22 , 9.53 ] 
 type: geo-Region
 title: Mauren
@@ -40,10 +40,11 @@ markerFolder: ./Mauren/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Liechtenstein/Counties/Mauren.md|Mauren]] 
-- [[../../../../_internal/geo/Continent/Europe/Liechtenstein/Counties/Mauren.internal|Mauren.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Liechtenstein/Counties/Mauren.protect|Mauren.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Liechtenstein/Counties/Mauren.private|Mauren.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Liechtenstein/Counties/Mauren.personal|Mauren.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Liechtenstein/Counties/Mauren.secret|Mauren.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~West/Liechtenstein/Counties/Mauren|Mauren]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~West/Liechtenstein/Counties/Mauren.public|Mauren.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~West/Liechtenstein/Counties/Mauren.internal|Mauren.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~West/Liechtenstein/Counties/Mauren.protect|Mauren.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~West/Liechtenstein/Counties/Mauren.private|Mauren.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~West/Liechtenstein/Counties/Mauren.personal|Mauren.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~West/Liechtenstein/Counties/Mauren.secret|Mauren.secret]] 
 

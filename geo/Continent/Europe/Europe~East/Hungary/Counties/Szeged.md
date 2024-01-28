@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 46.2 , 20.2 ] 
 type: geo-Region
 title: Szeged
@@ -40,10 +40,11 @@ markerFolder: ./Szeged/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Hungary/Counties/Szeged.md|Szeged]] 
-- [[../../../../_internal/geo/Continent/Europe/Hungary/Counties/Szeged.internal|Szeged.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Hungary/Counties/Szeged.protect|Szeged.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Hungary/Counties/Szeged.private|Szeged.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Hungary/Counties/Szeged.personal|Szeged.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Hungary/Counties/Szeged.secret|Szeged.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Hungary/Counties/Szeged|Szeged]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Hungary/Counties/Szeged.public|Szeged.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Hungary/Counties/Szeged.internal|Szeged.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Hungary/Counties/Szeged.protect|Szeged.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Hungary/Counties/Szeged.private|Szeged.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Hungary/Counties/Szeged.personal|Szeged.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Hungary/Counties/Szeged.secret|Szeged.secret]] 
 

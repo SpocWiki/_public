@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 43.7 , 18.8 ] 
 type: geo-Region
 title: Bosnian_Podrinje
@@ -40,10 +40,11 @@ markerFolder: ./Bosnian_Podrinje/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Bosnia_and_Herzegovina/Counties/Bosnian_Podrinje.md|Bosnian_Podrinje]] 
-- [[../../../../_internal/geo/Continent/Europe/Bosnia_and_Herzegovina/Counties/Bosnian_Podrinje.internal|Bosnian_Podrinje.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Bosnia_and_Herzegovina/Counties/Bosnian_Podrinje.protect|Bosnian_Podrinje.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Bosnia_and_Herzegovina/Counties/Bosnian_Podrinje.private|Bosnian_Podrinje.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Bosnia_and_Herzegovina/Counties/Bosnian_Podrinje.personal|Bosnian_Podrinje.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Bosnia_and_Herzegovina/Counties/Bosnian_Podrinje.secret|Bosnian_Podrinje.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Bosnia_and_Herzegovina/Counties/Bosnian_Podrinje|Bosnian_Podrinje]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Bosnia_and_Herzegovina/Counties/Bosnian_Podrinje.public|Bosnian_Podrinje.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Bosnia_and_Herzegovina/Counties/Bosnian_Podrinje.internal|Bosnian_Podrinje.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Bosnia_and_Herzegovina/Counties/Bosnian_Podrinje.protect|Bosnian_Podrinje.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Bosnia_and_Herzegovina/Counties/Bosnian_Podrinje.private|Bosnian_Podrinje.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Bosnia_and_Herzegovina/Counties/Bosnian_Podrinje.personal|Bosnian_Podrinje.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Bosnia_and_Herzegovina/Counties/Bosnian_Podrinje.secret|Bosnian_Podrinje.secret]] 
 

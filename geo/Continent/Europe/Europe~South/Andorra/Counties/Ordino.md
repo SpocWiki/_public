@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 42.6 , 1.5 ] 
 type: geo-Region
 title: Ordino
@@ -40,10 +40,11 @@ markerFolder: ./Ordino/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Andorra/Counties/Ordino.md|Ordino]] 
-- [[../../../../_internal/geo/Continent/Europe/Andorra/Counties/Ordino.internal|Ordino.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Andorra/Counties/Ordino.protect|Ordino.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Andorra/Counties/Ordino.private|Ordino.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Andorra/Counties/Ordino.personal|Ordino.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Andorra/Counties/Ordino.secret|Ordino.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Andorra/Counties/Ordino|Ordino]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Andorra/Counties/Ordino.public|Ordino.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Andorra/Counties/Ordino.internal|Ordino.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Andorra/Counties/Ordino.protect|Ordino.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Andorra/Counties/Ordino.private|Ordino.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Andorra/Counties/Ordino.personal|Ordino.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Andorra/Counties/Ordino.secret|Ordino.secret]] 
 

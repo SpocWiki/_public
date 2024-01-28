@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 57.2 , 27.6 ] 
 type: geo-Region
 title: Vilakas
@@ -40,10 +40,11 @@ markerFolder: ./Vilakas/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Latvia/Counties/Vilakas.md|Vilakas]] 
-- [[../../../../_internal/geo/Continent/Europe/Latvia/Counties/Vilakas.internal|Vilakas.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Latvia/Counties/Vilakas.protect|Vilakas.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Latvia/Counties/Vilakas.private|Vilakas.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Latvia/Counties/Vilakas.personal|Vilakas.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Latvia/Counties/Vilakas.secret|Vilakas.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Latvia/Counties/Vilakas|Vilakas]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Latvia/Counties/Vilakas.public|Vilakas.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Latvia/Counties/Vilakas.internal|Vilakas.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Latvia/Counties/Vilakas.protect|Vilakas.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Latvia/Counties/Vilakas.private|Vilakas.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Latvia/Counties/Vilakas.personal|Vilakas.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Latvia/Counties/Vilakas.secret|Vilakas.secret]] 
 

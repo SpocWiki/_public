@@ -1,5 +1,5 @@
-﻿---
-location: [46.78,17.25]
+---
+location: [46.78,17.25] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,29 +12,30 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::17.25]
-[geo-lat::46.78]
-[name::Keszthely]
-[State::]
-[Country::[[Hungary]]]
-[StateId::]
-[Population::]
-[Unknown::]
+[geo-lon::17.25] 
+[geo-lat::46.78] 
+[name::Keszthely] 
+State ::  
+Country :: [[Hungary]]  
+[StateId::] 
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Keszthely
-coordinates: [[Keszthely]]
-markerFile: [[Keszthely]]
+coordinates: [[Keszthely]] 
+markerFile: [[Keszthely]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_public/geo/Continent/Europe/Hungary/City/Keszthely.md|Keszthely]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Hungary/City/Keszthely.internal|Keszthely.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Hungary/City/Keszthely.protect|Keszthely.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Hungary/City/Keszthely.private|Keszthely.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Hungary/City/Keszthely.personal|Keszthely.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Hungary/City/Keszthely.secret|Keszthely.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Hungary/City/Keszthely|Keszthely]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Hungary/City/Keszthely.public|Keszthely.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Hungary/City/Keszthely.internal|Keszthely.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Hungary/City/Keszthely.protect|Keszthely.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Hungary/City/Keszthely.private|Keszthely.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Hungary/City/Keszthely.personal|Keszthely.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Hungary/City/Keszthely.secret|Keszthely.secret]] 

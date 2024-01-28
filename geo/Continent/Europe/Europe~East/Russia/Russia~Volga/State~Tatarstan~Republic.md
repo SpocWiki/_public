@@ -1,5 +1,5 @@
 ---
-location: [55.7833,49.1667]
+location: [55.7833,49.1667] 
 type: State
 tags:
 - geo/State
@@ -10,13 +10,13 @@ isDeleted: false
 confidential: public
 
 ---
-[name::Tatarstan~Republic]
-[name-abbr::]
-[Country::[[Russia]]]
-[Capital::[[Kazan]]]
-[geo-lon::49.1667]
-[geo-lat::55.7833]
-[Population::]
+[name::Tatarstan~Republic] 
+[name-abbr::] 
+Country :: [[Russia]]  
+Capital :: [[Kazan]]  
+[geo-lon::49.1667] 
+[geo-lat::55.7833] 
+[Population::] 
 
 
 
@@ -31,9 +31,9 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
--[[State~Tatarstan~Republic|State~Tatarstan~Republic]]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Russia/State/State~Tatarstan~Republic.internal|State~Tatarstan~Republic.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/State/State~Tatarstan~Republic.protect|State~Tatarstan~Republic.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/State/State~Tatarstan~Republic.private|State~Tatarstan~Republic.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/State/State~Tatarstan~Republic.personal|State~Tatarstan~Republic.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/State/State~Tatarstan~Republic.secret|State~Tatarstan~Republic.secret]] 
+- [[State~Tatarstan~Republic|State~Tatarstan~Republic]]  
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Russia/State/State~Tatarstan~Republic.internal|State~Tatarstan~Republic.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Russia/State/State~Tatarstan~Republic.protect|State~Tatarstan~Republic.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Russia/State/State~Tatarstan~Republic.private|State~Tatarstan~Republic.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Russia/State/State~Tatarstan~Republic.personal|State~Tatarstan~Republic.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Russia/State/State~Tatarstan~Republic.secret|State~Tatarstan~Republic.secret]] 

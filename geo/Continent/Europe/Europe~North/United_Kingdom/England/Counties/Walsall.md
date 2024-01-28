@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 52.6 , -2 ] 
 type: geo-Region
 title: Walsall
@@ -40,10 +40,11 @@ markerFolder: ./Walsall/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/United_Kingdom/England/Counties/Walsall.md|Walsall]] 
-- [[../../../../_internal/geo/Continent/Europe/United_Kingdom/England/Counties/Walsall.internal|Walsall.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/United_Kingdom/England/Counties/Walsall.protect|Walsall.protect]] 
-- [[../../../../_private/geo/Continent/Europe/United_Kingdom/England/Counties/Walsall.private|Walsall.private]] 
-- [[../../../../_personal/geo/Continent/Europe/United_Kingdom/England/Counties/Walsall.personal|Walsall.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/United_Kingdom/England/Counties/Walsall.secret|Walsall.secret]] 
+- [[../../../../../../../../_Standards/geo/Continent/Europe/Europe~North/United_Kingdom/England/Counties/Walsall|Walsall]] 
+- [[../../../../../../../../_public/geo/Continent/Europe/Europe~North/United_Kingdom/England/Counties/Walsall.public|Walsall.public]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/Europe~North/United_Kingdom/England/Counties/Walsall.internal|Walsall.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/Europe~North/United_Kingdom/England/Counties/Walsall.protect|Walsall.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/Europe~North/United_Kingdom/England/Counties/Walsall.private|Walsall.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/Europe~North/United_Kingdom/England/Counties/Walsall.personal|Walsall.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/Europe~North/United_Kingdom/England/Counties/Walsall.secret|Walsall.secret]] 
 

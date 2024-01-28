@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 57.5 , 24.8 ] 
 type: geo-Region
 title: Limbaži
@@ -40,10 +40,11 @@ markerFolder: ./Limbaži/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Latvia/Counties/Limbaži.md|Limbaži]] 
-- [[../../../../_internal/geo/Continent/Europe/Latvia/Counties/Limbaži.internal|Limbaži.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Latvia/Counties/Limbaži.protect|Limbaži.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Latvia/Counties/Limbaži.private|Limbaži.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Latvia/Counties/Limbaži.personal|Limbaži.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Latvia/Counties/Limbaži.secret|Limbaži.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Latvia/Counties/Limbaži|Limbaži]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Latvia/Counties/Limbaži.public|Limbaži.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Latvia/Counties/Limbaži.internal|Limbaži.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Latvia/Counties/Limbaži.protect|Limbaži.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Latvia/Counties/Limbaži.private|Limbaži.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Latvia/Counties/Limbaži.personal|Limbaži.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Latvia/Counties/Limbaži.secret|Limbaži.secret]] 
 

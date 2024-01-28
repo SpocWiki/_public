@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 46.8 , 29.7 ] 
 type: geo-Region
 title: Bender
@@ -40,10 +40,11 @@ markerFolder: ./Bender/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Moldova/Counties/Bender.md|Bender]] 
-- [[../../../../_internal/geo/Continent/Europe/Moldova/Counties/Bender.internal|Bender.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Moldova/Counties/Bender.protect|Bender.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Moldova/Counties/Bender.private|Bender.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Moldova/Counties/Bender.personal|Bender.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Moldova/Counties/Bender.secret|Bender.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Moldova/Counties/Bender|Bender]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Moldova/Counties/Bender.public|Bender.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Moldova/Counties/Bender.internal|Bender.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Moldova/Counties/Bender.protect|Bender.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Moldova/Counties/Bender.private|Bender.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Moldova/Counties/Bender.personal|Bender.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Moldova/Counties/Bender.secret|Bender.secret]] 
 

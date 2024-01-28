@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 59.3 , 10.1 ] 
 type: geo-Region
 title: Vestfold
@@ -40,10 +40,11 @@ markerFolder: ./Vestfold/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Norway/Counties/Vestfold.md|Vestfold]] 
-- [[../../../../_internal/geo/Continent/Europe/Norway/Counties/Vestfold.internal|Vestfold.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Norway/Counties/Vestfold.protect|Vestfold.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Norway/Counties/Vestfold.private|Vestfold.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Norway/Counties/Vestfold.personal|Vestfold.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Norway/Counties/Vestfold.secret|Vestfold.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Norway/Counties/Vestfold|Vestfold]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Norway/Counties/Vestfold.public|Vestfold.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Norway/Counties/Vestfold.internal|Vestfold.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Norway/Counties/Vestfold.protect|Vestfold.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Norway/Counties/Vestfold.private|Vestfold.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Norway/Counties/Vestfold.personal|Vestfold.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Norway/Counties/Vestfold.secret|Vestfold.secret]] 
 

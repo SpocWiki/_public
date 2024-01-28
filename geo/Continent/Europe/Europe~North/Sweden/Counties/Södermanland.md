@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 59.1 , 16.5 ] 
 type: geo-Region
 title: Södermanland
@@ -40,10 +40,11 @@ markerFolder: ./Södermanland/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Sweden/Counties/Södermanland.md|Södermanland]] 
-- [[../../../../_internal/geo/Continent/Europe/Sweden/Counties/Södermanland.internal|Södermanland.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Sweden/Counties/Södermanland.protect|Södermanland.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Sweden/Counties/Södermanland.private|Södermanland.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Sweden/Counties/Södermanland.personal|Södermanland.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Sweden/Counties/Södermanland.secret|Södermanland.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Sweden/Counties/Södermanland|Södermanland]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Sweden/Counties/Södermanland.public|Södermanland.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Sweden/Counties/Södermanland.internal|Södermanland.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Sweden/Counties/Södermanland.protect|Södermanland.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Sweden/Counties/Södermanland.private|Södermanland.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Sweden/Counties/Södermanland.personal|Södermanland.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Sweden/Counties/Södermanland.secret|Södermanland.secret]] 
 

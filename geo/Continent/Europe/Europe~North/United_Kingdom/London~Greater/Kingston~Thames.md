@@ -1,5 +1,5 @@
 ---
-location: [51.42,-0.28]
+location: [51.42,-0.28] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,20 +12,20 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::-0.28]
-[geo-lat::51.42]
-[name::Kingston-upon-Thames]
-[State::]
-[Country::[[United_Kingdom]]]
-[StateId::]
-[Population::]
-[Unknown::]
+[geo-lon::-0.28] 
+[geo-lat::51.42] 
+[name::Kingston-upon-Thames] 
+State ::  
+Country :: [[United_Kingdom]]  
+[StateId::] 
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Kingston-upon-Thames
-coordinates: [[Kingston-upon-Thames]]
-markerFile: [[Kingston-upon-Thames]]
+coordinates: [[Kingston-upon-Thames]] 
+markerFile: [[Kingston-upon-Thames]] 
 geojsonFolder: ./Kingston-upon-Thames/
 defaultZoom: 11 
 maxZoom: 18
@@ -33,9 +33,10 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_public/geo/Continent/Europe/United_Kingdom/London~Greater/Kingston~Thames.md|Kingston~Thames]] 
-- [[../../../../../../_internal/geo/Continent/Europe/United_Kingdom/London~Greater/Kingston~Thames.internal|Kingston~Thames.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/London~Greater/Kingston~Thames.protect|Kingston~Thames.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/London~Greater/Kingston~Thames.private|Kingston~Thames.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/London~Greater/Kingston~Thames.personal|Kingston~Thames.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/London~Greater/Kingston~Thames.secret|Kingston~Thames.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/United_Kingdom/London~Greater/Kingston~Thames|Kingston~Thames]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/United_Kingdom/London~Greater/Kingston~Thames.public|Kingston~Thames.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/United_Kingdom/London~Greater/Kingston~Thames.internal|Kingston~Thames.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/United_Kingdom/London~Greater/Kingston~Thames.protect|Kingston~Thames.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/United_Kingdom/London~Greater/Kingston~Thames.private|Kingston~Thames.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/United_Kingdom/London~Greater/Kingston~Thames.personal|Kingston~Thames.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/United_Kingdom/London~Greater/Kingston~Thames.secret|Kingston~Thames.secret]] 

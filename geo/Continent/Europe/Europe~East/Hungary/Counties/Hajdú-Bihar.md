@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 47.4 , 21.3 ] 
 type: geo-Region
 title: Hajdú-Bihar
@@ -40,10 +40,11 @@ markerFolder: ./Hajdú-Bihar/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Hungary/Counties/Hajdú-Bihar.md|Hajdú-Bihar]] 
-- [[../../../../_internal/geo/Continent/Europe/Hungary/Counties/Hajdú-Bihar.internal|Hajdú-Bihar.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Hungary/Counties/Hajdú-Bihar.protect|Hajdú-Bihar.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Hungary/Counties/Hajdú-Bihar.private|Hajdú-Bihar.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Hungary/Counties/Hajdú-Bihar.personal|Hajdú-Bihar.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Hungary/Counties/Hajdú-Bihar.secret|Hajdú-Bihar.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Hungary/Counties/Hajdú-Bihar|Hajdú-Bihar]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Hungary/Counties/Hajdú-Bihar.public|Hajdú-Bihar.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Hungary/Counties/Hajdú-Bihar.internal|Hajdú-Bihar.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Hungary/Counties/Hajdú-Bihar.protect|Hajdú-Bihar.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Hungary/Counties/Hajdú-Bihar.private|Hajdú-Bihar.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Hungary/Counties/Hajdú-Bihar.personal|Hajdú-Bihar.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Hungary/Counties/Hajdú-Bihar.secret|Hajdú-Bihar.secret]] 
 

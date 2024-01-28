@@ -1,5 +1,5 @@
 ---
-location: [51.4214,-0.2064]
+location: [51.4214,-0.2064] 
 type: Station 
 mapzoom: [8,15] 
 mapmarker: subway 
@@ -8,24 +8,24 @@ tags:
 - Europe/United_Kingdom/City~London
 ---
 SpocWebEntityId: 156139
-[StationSId::]
+[StationSId::] 
 isDeleted: false
 isReadOnly: false
 confidential: public
-[geo-lon::-0.2064]
-[geo-lat::51.4214]
-[name::Wimbledon]
-[zone::3]
-[Num_lines::1]
-[switch-to-Rail::1]
-[Country::[[United_Kingdom]]]
-[City::[[../../../London]]]
+[geo-lon::-0.2064] 
+[geo-lat::51.4214] 
+[name::Wimbledon] 
+[zone::3] 
+[Num_lines::1] 
+[switch-to-Rail::1] 
+Country :: [[United_Kingdom]]  
+City :: [[../../../London]]  
 
 
 ```leaflet
 id: Sub~Wimbledon
-coordinates: [[Sub~Wimbledon]]
-markerFile: [[Sub~Wimbledon]]
+coordinates: [[Sub~Wimbledon]] 
+markerFile: [[Sub~Wimbledon]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
@@ -34,13 +34,14 @@ maxZoom: 18
 # Lines: 
 ```dataview
 TABLE 
-FROM [[]]
+FROM [[]] 
 ```
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_public/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Wimbledon.md|Sub~Wimbledon]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Wimbledon.internal|Sub~Wimbledon.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Wimbledon.protect|Sub~Wimbledon.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Wimbledon.private|Sub~Wimbledon.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Wimbledon.personal|Sub~Wimbledon.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub~Wimbledon.secret|Sub~Wimbledon.secret]] 
+- [[../../../../../../../../../_Standards/geo/Continent/Europe/Europe~North/United_Kingdom/London~Greater/Underground/Station/Sub~Wimbledon|Sub~Wimbledon]] 
+- [[../../../../../../../../../_public/geo/Continent/Europe/Europe~North/United_Kingdom/London~Greater/Underground/Station/Sub~Wimbledon.public|Sub~Wimbledon.public]] 
+- [[../../../../../../../../../_internal/geo/Continent/Europe/Europe~North/United_Kingdom/London~Greater/Underground/Station/Sub~Wimbledon.internal|Sub~Wimbledon.internal]] 
+- [[../../../../../../../../../_protect/geo/Continent/Europe/Europe~North/United_Kingdom/London~Greater/Underground/Station/Sub~Wimbledon.protect|Sub~Wimbledon.protect]] 
+- [[../../../../../../../../../_private/geo/Continent/Europe/Europe~North/United_Kingdom/London~Greater/Underground/Station/Sub~Wimbledon.private|Sub~Wimbledon.private]] 
+- [[../../../../../../../../../_personal/geo/Continent/Europe/Europe~North/United_Kingdom/London~Greater/Underground/Station/Sub~Wimbledon.personal|Sub~Wimbledon.personal]] 
+- [[../../../../../../../../../_secret/geo/Continent/Europe/Europe~North/United_Kingdom/London~Greater/Underground/Station/Sub~Wimbledon.secret|Sub~Wimbledon.secret]] 

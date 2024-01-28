@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 54.74 , -5.81 ] 
 type: geo-Region
 title: Carrickfergus
@@ -40,10 +40,11 @@ markerFolder: ./Carrickfergus/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/United_Kingdom/Ireland~North/Counties/Carrickfergus.md|Carrickfergus]] 
-- [[../../../../_internal/geo/Continent/Europe/United_Kingdom/Ireland~North/Counties/Carrickfergus.internal|Carrickfergus.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/United_Kingdom/Ireland~North/Counties/Carrickfergus.protect|Carrickfergus.protect]] 
-- [[../../../../_private/geo/Continent/Europe/United_Kingdom/Ireland~North/Counties/Carrickfergus.private|Carrickfergus.private]] 
-- [[../../../../_personal/geo/Continent/Europe/United_Kingdom/Ireland~North/Counties/Carrickfergus.personal|Carrickfergus.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/United_Kingdom/Ireland~North/Counties/Carrickfergus.secret|Carrickfergus.secret]] 
+- [[../../../../../../../../_Standards/geo/Continent/Europe/Europe~North/United_Kingdom/Ireland~North/Counties/Carrickfergus|Carrickfergus]] 
+- [[../../../../../../../../_public/geo/Continent/Europe/Europe~North/United_Kingdom/Ireland~North/Counties/Carrickfergus.public|Carrickfergus.public]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/Europe~North/United_Kingdom/Ireland~North/Counties/Carrickfergus.internal|Carrickfergus.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/Europe~North/United_Kingdom/Ireland~North/Counties/Carrickfergus.protect|Carrickfergus.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/Europe~North/United_Kingdom/Ireland~North/Counties/Carrickfergus.private|Carrickfergus.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/Europe~North/United_Kingdom/Ireland~North/Counties/Carrickfergus.personal|Carrickfergus.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/Europe~North/United_Kingdom/Ireland~North/Counties/Carrickfergus.secret|Carrickfergus.secret]] 
 

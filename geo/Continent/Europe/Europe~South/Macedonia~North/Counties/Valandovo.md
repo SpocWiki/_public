@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 41.3 , 22.5 ] 
 type: geo-Region
 title: Valandovo
@@ -40,10 +40,11 @@ markerFolder: ./Valandovo/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Macedonia~North/Counties/Valandovo.md|Valandovo]] 
-- [[../../../../_internal/geo/Continent/Europe/Macedonia~North/Counties/Valandovo.internal|Valandovo.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Macedonia~North/Counties/Valandovo.protect|Valandovo.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Macedonia~North/Counties/Valandovo.private|Valandovo.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Macedonia~North/Counties/Valandovo.personal|Valandovo.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Macedonia~North/Counties/Valandovo.secret|Valandovo.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Macedonia~North/Counties/Valandovo|Valandovo]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Macedonia~North/Counties/Valandovo.public|Valandovo.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Macedonia~North/Counties/Valandovo.internal|Valandovo.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Macedonia~North/Counties/Valandovo.protect|Valandovo.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Macedonia~North/Counties/Valandovo.private|Valandovo.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Macedonia~North/Counties/Valandovo.personal|Valandovo.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Macedonia~North/Counties/Valandovo.secret|Valandovo.secret]] 
 

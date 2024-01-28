@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 56.8 , 14.4 ] 
 type: geo-Region
 title: Kronoberg
@@ -40,10 +40,11 @@ markerFolder: ./Kronoberg/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Sweden/Counties/Kronoberg.md|Kronoberg]] 
-- [[../../../../_internal/geo/Continent/Europe/Sweden/Counties/Kronoberg.internal|Kronoberg.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Sweden/Counties/Kronoberg.protect|Kronoberg.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Sweden/Counties/Kronoberg.private|Kronoberg.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Sweden/Counties/Kronoberg.personal|Kronoberg.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Sweden/Counties/Kronoberg.secret|Kronoberg.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Sweden/Counties/Kronoberg|Kronoberg]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Sweden/Counties/Kronoberg.public|Kronoberg.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Sweden/Counties/Kronoberg.internal|Kronoberg.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Sweden/Counties/Kronoberg.protect|Kronoberg.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Sweden/Counties/Kronoberg.private|Kronoberg.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Sweden/Counties/Kronoberg.personal|Kronoberg.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Sweden/Counties/Kronoberg.secret|Kronoberg.secret]] 
 

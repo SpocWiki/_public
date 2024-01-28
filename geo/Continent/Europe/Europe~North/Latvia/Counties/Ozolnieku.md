@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 56.63 , 23.94 ] 
 type: geo-Region
 title: Ozolnieku
@@ -40,10 +40,11 @@ markerFolder: ./Ozolnieku/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Latvia/Counties/Ozolnieku.md|Ozolnieku]] 
-- [[../../../../_internal/geo/Continent/Europe/Latvia/Counties/Ozolnieku.internal|Ozolnieku.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Latvia/Counties/Ozolnieku.protect|Ozolnieku.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Latvia/Counties/Ozolnieku.private|Ozolnieku.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Latvia/Counties/Ozolnieku.personal|Ozolnieku.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Latvia/Counties/Ozolnieku.secret|Ozolnieku.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Latvia/Counties/Ozolnieku|Ozolnieku]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Latvia/Counties/Ozolnieku.public|Ozolnieku.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Latvia/Counties/Ozolnieku.internal|Ozolnieku.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Latvia/Counties/Ozolnieku.protect|Ozolnieku.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Latvia/Counties/Ozolnieku.private|Ozolnieku.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Latvia/Counties/Ozolnieku.personal|Ozolnieku.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Latvia/Counties/Ozolnieku.secret|Ozolnieku.secret]] 
 

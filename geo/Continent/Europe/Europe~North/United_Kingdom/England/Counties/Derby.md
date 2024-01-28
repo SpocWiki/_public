@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 52.9 , -1.5 ] 
 type: geo-Region
 title: Derby
@@ -40,10 +40,11 @@ markerFolder: ./Derby/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/United_Kingdom/England/Counties/Derby.md|Derby]] 
-- [[../../../../_internal/geo/Continent/Europe/United_Kingdom/England/Counties/Derby.internal|Derby.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/United_Kingdom/England/Counties/Derby.protect|Derby.protect]] 
-- [[../../../../_private/geo/Continent/Europe/United_Kingdom/England/Counties/Derby.private|Derby.private]] 
-- [[../../../../_personal/geo/Continent/Europe/United_Kingdom/England/Counties/Derby.personal|Derby.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/United_Kingdom/England/Counties/Derby.secret|Derby.secret]] 
+- [[../../../../../../../../_Standards/geo/Continent/Europe/Europe~North/United_Kingdom/England/Counties/Derby|Derby]] 
+- [[../../../../../../../../_public/geo/Continent/Europe/Europe~North/United_Kingdom/England/Counties/Derby.public|Derby.public]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/Europe~North/United_Kingdom/England/Counties/Derby.internal|Derby.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/Europe~North/United_Kingdom/England/Counties/Derby.protect|Derby.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/Europe~North/United_Kingdom/England/Counties/Derby.private|Derby.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/Europe~North/United_Kingdom/England/Counties/Derby.personal|Derby.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/Europe~North/United_Kingdom/England/Counties/Derby.secret|Derby.secret]] 
 

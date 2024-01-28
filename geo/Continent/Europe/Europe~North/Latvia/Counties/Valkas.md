@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 57.7 , 26 ] 
 type: geo-Region
 title: Valkas
@@ -40,10 +40,11 @@ markerFolder: ./Valkas/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Latvia/Counties/Valkas.md|Valkas]] 
-- [[../../../../_internal/geo/Continent/Europe/Latvia/Counties/Valkas.internal|Valkas.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Latvia/Counties/Valkas.protect|Valkas.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Latvia/Counties/Valkas.private|Valkas.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Latvia/Counties/Valkas.personal|Valkas.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Latvia/Counties/Valkas.secret|Valkas.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Latvia/Counties/Valkas|Valkas]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Latvia/Counties/Valkas.public|Valkas.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Latvia/Counties/Valkas.internal|Valkas.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Latvia/Counties/Valkas.protect|Valkas.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Latvia/Counties/Valkas.private|Valkas.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Latvia/Counties/Valkas.personal|Valkas.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Latvia/Counties/Valkas.secret|Valkas.secret]] 
 

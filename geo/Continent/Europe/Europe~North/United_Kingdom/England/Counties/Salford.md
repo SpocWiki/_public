@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 53.5 , -2.4 ] 
 type: geo-Region
 title: Salford
@@ -40,10 +40,11 @@ markerFolder: ./Salford/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/United_Kingdom/England/Counties/Salford.md|Salford]] 
-- [[../../../../_internal/geo/Continent/Europe/United_Kingdom/England/Counties/Salford.internal|Salford.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/United_Kingdom/England/Counties/Salford.protect|Salford.protect]] 
-- [[../../../../_private/geo/Continent/Europe/United_Kingdom/England/Counties/Salford.private|Salford.private]] 
-- [[../../../../_personal/geo/Continent/Europe/United_Kingdom/England/Counties/Salford.personal|Salford.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/United_Kingdom/England/Counties/Salford.secret|Salford.secret]] 
+- [[../../../../../../../../_Standards/geo/Continent/Europe/Europe~North/United_Kingdom/England/Counties/Salford|Salford]] 
+- [[../../../../../../../../_public/geo/Continent/Europe/Europe~North/United_Kingdom/England/Counties/Salford.public|Salford.public]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/Europe~North/United_Kingdom/England/Counties/Salford.internal|Salford.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/Europe~North/United_Kingdom/England/Counties/Salford.protect|Salford.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/Europe~North/United_Kingdom/England/Counties/Salford.private|Salford.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/Europe~North/United_Kingdom/England/Counties/Salford.personal|Salford.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/Europe~North/United_Kingdom/England/Counties/Salford.secret|Salford.secret]] 
 

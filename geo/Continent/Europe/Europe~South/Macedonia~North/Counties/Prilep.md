@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 41.3 , 21.6 ] 
 type: geo-Region
 title: Prilep
@@ -40,10 +40,11 @@ markerFolder: ./Prilep/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Macedonia~North/Counties/Prilep.md|Prilep]] 
-- [[../../../../_internal/geo/Continent/Europe/Macedonia~North/Counties/Prilep.internal|Prilep.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Macedonia~North/Counties/Prilep.protect|Prilep.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Macedonia~North/Counties/Prilep.private|Prilep.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Macedonia~North/Counties/Prilep.personal|Prilep.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Macedonia~North/Counties/Prilep.secret|Prilep.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Macedonia~North/Counties/Prilep|Prilep]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Macedonia~North/Counties/Prilep.public|Prilep.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Macedonia~North/Counties/Prilep.internal|Prilep.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Macedonia~North/Counties/Prilep.protect|Prilep.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Macedonia~North/Counties/Prilep.private|Prilep.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Macedonia~North/Counties/Prilep.personal|Prilep.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Macedonia~North/Counties/Prilep.secret|Prilep.secret]] 
 

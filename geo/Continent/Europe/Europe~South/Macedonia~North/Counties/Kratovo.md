@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 42.1 , 22.1 ] 
 type: geo-Region
 title: Kratovo
@@ -40,10 +40,11 @@ markerFolder: ./Kratovo/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Macedonia~North/Counties/Kratovo.md|Kratovo]] 
-- [[../../../../_internal/geo/Continent/Europe/Macedonia~North/Counties/Kratovo.internal|Kratovo.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Macedonia~North/Counties/Kratovo.protect|Kratovo.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Macedonia~North/Counties/Kratovo.private|Kratovo.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Macedonia~North/Counties/Kratovo.personal|Kratovo.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Macedonia~North/Counties/Kratovo.secret|Kratovo.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Macedonia~North/Counties/Kratovo|Kratovo]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Macedonia~North/Counties/Kratovo.public|Kratovo.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Macedonia~North/Counties/Kratovo.internal|Kratovo.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Macedonia~North/Counties/Kratovo.protect|Kratovo.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Macedonia~North/Counties/Kratovo.private|Kratovo.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Macedonia~North/Counties/Kratovo.personal|Kratovo.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Macedonia~North/Counties/Kratovo.secret|Kratovo.secret]] 
 

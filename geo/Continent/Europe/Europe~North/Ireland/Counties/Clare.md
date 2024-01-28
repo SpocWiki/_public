@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 52.9 , -8.9 ] 
 type: geo-Region
 title: Clare
@@ -40,10 +40,11 @@ markerFolder: ./Clare/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Ireland/Counties/Clare.md|Clare]] 
-- [[../../../../_internal/geo/Continent/Europe/Ireland/Counties/Clare.internal|Clare.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Ireland/Counties/Clare.protect|Clare.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Ireland/Counties/Clare.private|Clare.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Ireland/Counties/Clare.personal|Clare.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Ireland/Counties/Clare.secret|Clare.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Ireland/Counties/Clare|Clare]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Ireland/Counties/Clare.public|Clare.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Ireland/Counties/Clare.internal|Clare.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Ireland/Counties/Clare.protect|Clare.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Ireland/Counties/Clare.private|Clare.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Ireland/Counties/Clare.personal|Clare.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Ireland/Counties/Clare.secret|Clare.secret]] 
 

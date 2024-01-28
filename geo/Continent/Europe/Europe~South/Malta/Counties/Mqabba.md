@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 35.84 , 14.47 ] 
 type: geo-Region
 title: Mqabba
@@ -40,10 +40,11 @@ markerFolder: ./Mqabba/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Malta/Counties/Mqabba.md|Mqabba]] 
-- [[../../../../_internal/geo/Continent/Europe/Malta/Counties/Mqabba.internal|Mqabba.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Malta/Counties/Mqabba.protect|Mqabba.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Malta/Counties/Mqabba.private|Mqabba.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Malta/Counties/Mqabba.personal|Mqabba.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Malta/Counties/Mqabba.secret|Mqabba.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Malta/Counties/Mqabba|Mqabba]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Malta/Counties/Mqabba.public|Mqabba.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Malta/Counties/Mqabba.internal|Mqabba.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Malta/Counties/Mqabba.protect|Mqabba.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Malta/Counties/Mqabba.private|Mqabba.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Malta/Counties/Mqabba.personal|Mqabba.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Malta/Counties/Mqabba.secret|Mqabba.secret]] 
 

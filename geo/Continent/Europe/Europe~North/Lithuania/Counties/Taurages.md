@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 55.4 , 22.4 ] 
 type: geo-Region
 title: Taurages
@@ -40,10 +40,11 @@ markerFolder: ./Taurages/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Lithuania/Counties/Taurages.md|Taurages]] 
-- [[../../../../_internal/geo/Continent/Europe/Lithuania/Counties/Taurages.internal|Taurages.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Lithuania/Counties/Taurages.protect|Taurages.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Lithuania/Counties/Taurages.private|Taurages.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Lithuania/Counties/Taurages.personal|Taurages.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Lithuania/Counties/Taurages.secret|Taurages.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Lithuania/Counties/Taurages|Taurages]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Lithuania/Counties/Taurages.public|Taurages.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Lithuania/Counties/Taurages.internal|Taurages.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Lithuania/Counties/Taurages.protect|Taurages.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Lithuania/Counties/Taurages.private|Taurages.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Lithuania/Counties/Taurages.personal|Taurages.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Lithuania/Counties/Taurages.secret|Taurages.secret]] 
 

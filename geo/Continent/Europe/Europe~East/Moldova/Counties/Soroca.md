@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 48.2 , 28.2 ] 
 type: geo-Region
 title: Soroca
@@ -40,10 +40,11 @@ markerFolder: ./Soroca/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Moldova/Counties/Soroca.md|Soroca]] 
-- [[../../../../_internal/geo/Continent/Europe/Moldova/Counties/Soroca.internal|Soroca.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Moldova/Counties/Soroca.protect|Soroca.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Moldova/Counties/Soroca.private|Soroca.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Moldova/Counties/Soroca.personal|Soroca.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Moldova/Counties/Soroca.secret|Soroca.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Moldova/Counties/Soroca|Soroca]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Moldova/Counties/Soroca.public|Soroca.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Moldova/Counties/Soroca.internal|Soroca.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Moldova/Counties/Soroca.protect|Soroca.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Moldova/Counties/Soroca.private|Soroca.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Moldova/Counties/Soroca.personal|Soroca.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Moldova/Counties/Soroca.secret|Soroca.secret]] 
 

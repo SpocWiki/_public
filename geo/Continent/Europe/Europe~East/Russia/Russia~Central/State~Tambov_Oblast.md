@@ -1,5 +1,5 @@
 ---
-location: [52.7167,43.33]
+location: [52.7167,43.33] 
 type: State
 tags:
 - geo/State
@@ -10,13 +10,13 @@ isDeleted: false
 confidential: public
 
 ---
-[name::Tambov Oblast]
-[name-abbr::]
-[Country::[[Russia]]]
-[Capital::[[Tambow]]]
-[geo-lon::43.33]
-[geo-lat::52.7167]
-[Population::]
+[name::Tambov Oblast] 
+[name-abbr::] 
+Country :: [[Russia]]  
+Capital :: [[Tambow]]  
+[geo-lon::43.33] 
+[geo-lat::52.7167] 
+[Population::] 
 
 
 
@@ -31,9 +31,9 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
--[[State~Tambov_Oblast|State~Tambov_Oblast]]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Russia/State/State~Tambov_Oblast.internal|State~Tambov_Oblast.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/State/State~Tambov_Oblast.protect|State~Tambov_Oblast.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/State/State~Tambov_Oblast.private|State~Tambov_Oblast.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/State/State~Tambov_Oblast.personal|State~Tambov_Oblast.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/State/State~Tambov_Oblast.secret|State~Tambov_Oblast.secret]] 
+- [[State~Tambov_Oblast|State~Tambov_Oblast]]  
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Russia/State/State~Tambov_Oblast.internal|State~Tambov_Oblast.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Russia/State/State~Tambov_Oblast.protect|State~Tambov_Oblast.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Russia/State/State~Tambov_Oblast.private|State~Tambov_Oblast.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Russia/State/State~Tambov_Oblast.personal|State~Tambov_Oblast.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Russia/State/State~Tambov_Oblast.secret|State~Tambov_Oblast.secret]] 
