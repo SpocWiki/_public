@@ -77,9 +77,9 @@ Languages:
 [	UNTERM_Russian	 :: Сирийская Арабская Республика ] 
 [	UNTERM_Russian_Formal	 :: Сирийская Арабская Республика ] 
 
-Region_Name ::  [[Asia]] ] 
-Intermediate_Region_Name ::  [[]] ] 
-Sub-region_Name ::  [[Western Asia]] ] 
+Region_Name ::  [[Asia]] 
+Intermediate_Region_Name ::  [[]] 
+Sub-region_Name ::  [[Western Asia]] 
 
 [	Region	 :: 142 ] 
 [	Intermediate_Region	 ::  ] 

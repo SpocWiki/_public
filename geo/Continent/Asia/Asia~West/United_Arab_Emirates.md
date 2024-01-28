@@ -76,9 +76,9 @@ Languages:
 [	UNTERM_Russian	 :: Объединенные Арабские Эмираты ] 
 [	UNTERM_Russian_Formal	 :: Объединенные Арабские Эмираты ] 
 
-Region_Name ::  [[Asia]] ] 
-Intermediate_Region_Name ::  [[]] ] 
-Sub-region_Name ::  [[Western Asia]] ] 
+Region_Name ::  [[Asia]] 
+Intermediate_Region_Name ::  [[]] 
+Sub-region_Name ::  [[Western Asia]] 
 
 [	Region	 :: 142 ] 
 [	Intermediate_Region	 ::  ] 

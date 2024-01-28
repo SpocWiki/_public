@@ -70,9 +70,9 @@ Languages:
 [	UNTERM_Russian	 :: Кувейт ] 
 [	UNTERM_Russian_Formal	 :: Государство Кувейт ] 
 
-Region_Name ::  [[Asia]] ] 
-Intermediate_Region_Name ::  [[]] ] 
-Sub-region_Name ::  [[Western Asia]] ] 
+Region_Name ::  [[Asia]] 
+Intermediate_Region_Name ::  [[]] 
+Sub-region_Name ::  [[Western Asia]] 
 
 [	Region	 :: 142 ] 
 [	Intermediate_Region	 ::  ] 

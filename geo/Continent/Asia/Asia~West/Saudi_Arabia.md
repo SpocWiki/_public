@@ -71,9 +71,9 @@ Languages:
 [	UNTERM_Russian	 :: Саудовская Аравия ] 
 [	UNTERM_Russian_Formal	 :: Королевство Саудовская Аравия ] 
 
-Region_Name ::  [[Asia]] ] 
-Intermediate_Region_Name ::  [[]] ] 
-Sub-region_Name ::  [[Western Asia]] ] 
+Region_Name ::  [[Asia]] 
+Intermediate_Region_Name ::  [[]] 
+Sub-region_Name ::  [[Western Asia]] 
 
 [	Region	 :: 142 ] 
 [	Intermediate_Region	 ::  ] 

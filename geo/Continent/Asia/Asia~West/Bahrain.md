@@ -73,9 +73,9 @@ Languages:
 [	UNTERM_Russian	 :: Бахрейн ] 
 [	UNTERM_Russian_Formal	 :: Королевство Бахрейн ] 
 
-Region_Name ::  [[Asia]] ] 
-Intermediate_Region_Name ::  [[]] ] 
-Sub-region_Name ::  [[Western Asia]] ] 
+Region_Name ::  [[Asia]] 
+Intermediate_Region_Name ::  [[]] 
+Sub-region_Name ::  [[Western Asia]] 
 
 [	Region	 :: 142 ] 
 [	Intermediate_Region	 ::  ] 
