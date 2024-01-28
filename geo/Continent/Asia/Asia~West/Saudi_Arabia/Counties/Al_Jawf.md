@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 29.9 , 39.4 ] 
 type: geo-Region
 title: Al_Jawf
@@ -40,10 +40,11 @@ markerFolder: ./Al_Jawf/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Asia/Asia~West/Saudi_Arabia/Counties/Al_Jawf.md|Al_Jawf]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~West/Saudi_Arabia/Counties/Al_Jawf.internal|Al_Jawf.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~West/Saudi_Arabia/Counties/Al_Jawf.protect|Al_Jawf.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~West/Saudi_Arabia/Counties/Al_Jawf.private|Al_Jawf.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~West/Saudi_Arabia/Counties/Al_Jawf.personal|Al_Jawf.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~West/Saudi_Arabia/Counties/Al_Jawf.secret|Al_Jawf.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~West/Saudi_Arabia/Counties/Al_Jawf|Al_Jawf]] 
+- [[../../../../../../../_public/geo/Continent/Asia/Asia~West/Saudi_Arabia/Counties/Al_Jawf.public|Al_Jawf.public]] 
+- [[../../../../../../../_internal/geo/Continent/Asia/Asia~West/Saudi_Arabia/Counties/Al_Jawf.internal|Al_Jawf.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Asia/Asia~West/Saudi_Arabia/Counties/Al_Jawf.protect|Al_Jawf.protect]] 
+- [[../../../../../../../_private/geo/Continent/Asia/Asia~West/Saudi_Arabia/Counties/Al_Jawf.private|Al_Jawf.private]] 
+- [[../../../../../../../_personal/geo/Continent/Asia/Asia~West/Saudi_Arabia/Counties/Al_Jawf.personal|Al_Jawf.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Asia/Asia~West/Saudi_Arabia/Counties/Al_Jawf.secret|Al_Jawf.secret]] 
 

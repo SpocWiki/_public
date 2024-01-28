@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 43.3 , 76.9 ] 
 type: geo-Region
 title: Almaty_City
@@ -40,10 +40,11 @@ markerFolder: ./Almaty_City/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Asia/Asia~Central/Kazakhstan/Counties/Almaty_City.md|Almaty_City]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~Central/Kazakhstan/Counties/Almaty_City.internal|Almaty_City.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~Central/Kazakhstan/Counties/Almaty_City.protect|Almaty_City.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~Central/Kazakhstan/Counties/Almaty_City.private|Almaty_City.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~Central/Kazakhstan/Counties/Almaty_City.personal|Almaty_City.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~Central/Kazakhstan/Counties/Almaty_City.secret|Almaty_City.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~Central/Kazakhstan/Counties/Almaty_City|Almaty_City]] 
+- [[../../../../../../../_public/geo/Continent/Asia/Asia~Central/Kazakhstan/Counties/Almaty_City.public|Almaty_City.public]] 
+- [[../../../../../../../_internal/geo/Continent/Asia/Asia~Central/Kazakhstan/Counties/Almaty_City.internal|Almaty_City.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Asia/Asia~Central/Kazakhstan/Counties/Almaty_City.protect|Almaty_City.protect]] 
+- [[../../../../../../../_private/geo/Continent/Asia/Asia~Central/Kazakhstan/Counties/Almaty_City.private|Almaty_City.private]] 
+- [[../../../../../../../_personal/geo/Continent/Asia/Asia~Central/Kazakhstan/Counties/Almaty_City.personal|Almaty_City.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Asia/Asia~Central/Kazakhstan/Counties/Almaty_City.secret|Almaty_City.secret]] 
 

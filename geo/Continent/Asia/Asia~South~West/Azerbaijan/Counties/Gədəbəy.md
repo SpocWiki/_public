@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 40.6 , 45.7 ] 
 type: geo-Region
 title: Gədəbəy
@@ -40,10 +40,11 @@ markerFolder: ./Gədəbəy/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Gədəbəy.md|Gədəbəy]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Gədəbəy.internal|Gədəbəy.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Gədəbəy.protect|Gədəbəy.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Gədəbəy.private|Gədəbəy.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Gədəbəy.personal|Gədəbəy.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Gədəbəy.secret|Gədəbəy.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Gədəbəy|Gədəbəy]] 
+- [[../../../../../../../_public/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Gədəbəy.public|Gədəbəy.public]] 
+- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Gədəbəy.internal|Gədəbəy.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Gədəbəy.protect|Gədəbəy.protect]] 
+- [[../../../../../../../_private/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Gədəbəy.private|Gədəbəy.private]] 
+- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Gədəbəy.personal|Gədəbəy.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Gədəbəy.secret|Gədəbəy.secret]] 
 

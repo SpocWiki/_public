@@ -1,5 +1,5 @@
 ﻿---
-location: [38.57,68.8]
+location: [38.57,68.8] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,27 +12,28 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::68.8]
-[geo-lat::38.57]
-[name::Stalinabad]
-[State::]
-[Country::[[Russia]]]
-[StateId::]
-[Population::]
-[Unknown::]
+[geo-lon::68.8] 
+[geo-lat::38.57] 
+[name::Stalinabad] 
+State ::  
+Country :: [[Russia]]  
+[StateId::] 
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Stalinabad
-coordinates: [[Stalinabad]]
-markerFile: [[Stalinabad]]
+coordinates: [[Stalinabad]] 
+markerFile: [[Stalinabad]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_public/geo/Continent/Europe/Russia/City/Stalinabad.md|Stalinabad]] 
+- [[../../../../../../_Standards/geo/Continent/Europe/Russia/City/Stalinabad|Stalinabad]] 
+- [[../../../../../../_public/geo/Continent/Europe/Russia/City/Stalinabad.public|Stalinabad.public]] 
 - [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Stalinabad.internal|Stalinabad.internal]] 
 - [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Stalinabad.protect|Stalinabad.protect]] 
 - [[../../../../../../_private/geo/Continent/Europe/Russia/City/Stalinabad.private|Stalinabad.private]] 

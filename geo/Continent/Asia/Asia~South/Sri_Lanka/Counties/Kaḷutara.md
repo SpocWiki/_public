@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 6.6 , 80.1 ] 
 type: geo-Region
 title: Kaḷutara
@@ -40,10 +40,11 @@ markerFolder: ./Kaḷutara/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Asia/Asia~South/Sri_Lanka/Counties/Kaḷutara.md|Kaḷutara]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~South/Sri_Lanka/Counties/Kaḷutara.internal|Kaḷutara.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~South/Sri_Lanka/Counties/Kaḷutara.protect|Kaḷutara.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~South/Sri_Lanka/Counties/Kaḷutara.private|Kaḷutara.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~South/Sri_Lanka/Counties/Kaḷutara.personal|Kaḷutara.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~South/Sri_Lanka/Counties/Kaḷutara.secret|Kaḷutara.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South/Sri_Lanka/Counties/Kaḷutara|Kaḷutara]] 
+- [[../../../../../../../_public/geo/Continent/Asia/Asia~South/Sri_Lanka/Counties/Kaḷutara.public|Kaḷutara.public]] 
+- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South/Sri_Lanka/Counties/Kaḷutara.internal|Kaḷutara.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South/Sri_Lanka/Counties/Kaḷutara.protect|Kaḷutara.protect]] 
+- [[../../../../../../../_private/geo/Continent/Asia/Asia~South/Sri_Lanka/Counties/Kaḷutara.private|Kaḷutara.private]] 
+- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South/Sri_Lanka/Counties/Kaḷutara.personal|Kaḷutara.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South/Sri_Lanka/Counties/Kaḷutara.secret|Kaḷutara.secret]] 
 

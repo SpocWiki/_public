@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ -3.5 , 126.7 ] 
 type: geo-Region
 title: Maluku
@@ -40,10 +40,11 @@ markerFolder: ./Maluku/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Asia/Asia~South~East/Indonesia/Counties/Maluku.md|Maluku]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~South~East/Indonesia/Counties/Maluku.internal|Maluku.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~South~East/Indonesia/Counties/Maluku.protect|Maluku.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~South~East/Indonesia/Counties/Maluku.private|Maluku.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~South~East/Indonesia/Counties/Maluku.personal|Maluku.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~South~East/Indonesia/Counties/Maluku.secret|Maluku.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South~East/Indonesia/Counties/Maluku|Maluku]] 
+- [[../../../../../../../_public/geo/Continent/Asia/Asia~South~East/Indonesia/Counties/Maluku.public|Maluku.public]] 
+- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South~East/Indonesia/Counties/Maluku.internal|Maluku.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South~East/Indonesia/Counties/Maluku.protect|Maluku.protect]] 
+- [[../../../../../../../_private/geo/Continent/Asia/Asia~South~East/Indonesia/Counties/Maluku.private|Maluku.private]] 
+- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South~East/Indonesia/Counties/Maluku.personal|Maluku.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South~East/Indonesia/Counties/Maluku.secret|Maluku.secret]] 
 

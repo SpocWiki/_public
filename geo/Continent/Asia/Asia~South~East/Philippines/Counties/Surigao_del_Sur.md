@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 8.7 , 126.1 ] 
 type: geo-Region
 title: Surigao_del_Sur
@@ -40,10 +40,11 @@ markerFolder: ./Surigao_del_Sur/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Surigao_del_Sur.md|Surigao_del_Sur]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Surigao_del_Sur.internal|Surigao_del_Sur.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Surigao_del_Sur.protect|Surigao_del_Sur.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Surigao_del_Sur.private|Surigao_del_Sur.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Surigao_del_Sur.personal|Surigao_del_Sur.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Surigao_del_Sur.secret|Surigao_del_Sur.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Surigao_del_Sur|Surigao_del_Sur]] 
+- [[../../../../../../../_public/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Surigao_del_Sur.public|Surigao_del_Sur.public]] 
+- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Surigao_del_Sur.internal|Surigao_del_Sur.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Surigao_del_Sur.protect|Surigao_del_Sur.protect]] 
+- [[../../../../../../../_private/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Surigao_del_Sur.private|Surigao_del_Sur.private]] 
+- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Surigao_del_Sur.personal|Surigao_del_Sur.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Surigao_del_Sur.secret|Surigao_del_Sur.secret]] 
 

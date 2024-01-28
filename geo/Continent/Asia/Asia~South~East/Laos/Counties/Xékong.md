@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 15.6 , 107 ] 
 type: geo-Region
 title: Xékong
@@ -40,10 +40,11 @@ markerFolder: ./Xékong/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Asia/Asia~South~East/Laos/Counties/Xékong.md|Xékong]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~South~East/Laos/Counties/Xékong.internal|Xékong.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~South~East/Laos/Counties/Xékong.protect|Xékong.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~South~East/Laos/Counties/Xékong.private|Xékong.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~South~East/Laos/Counties/Xékong.personal|Xékong.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~South~East/Laos/Counties/Xékong.secret|Xékong.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South~East/Laos/Counties/Xékong|Xékong]] 
+- [[../../../../../../../_public/geo/Continent/Asia/Asia~South~East/Laos/Counties/Xékong.public|Xékong.public]] 
+- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South~East/Laos/Counties/Xékong.internal|Xékong.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South~East/Laos/Counties/Xékong.protect|Xékong.protect]] 
+- [[../../../../../../../_private/geo/Continent/Asia/Asia~South~East/Laos/Counties/Xékong.private|Xékong.private]] 
+- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South~East/Laos/Counties/Xékong.personal|Xékong.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South~East/Laos/Counties/Xékong.secret|Xékong.secret]] 
 

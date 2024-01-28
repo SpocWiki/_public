@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 27.2 , 91.7 ] 
 type: geo-Region
 title: Tashigang
@@ -40,10 +40,11 @@ markerFolder: ./Tashigang/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Asia/Asia~South/Bhutan/Counties/Tashigang.md|Tashigang]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~South/Bhutan/Counties/Tashigang.internal|Tashigang.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~South/Bhutan/Counties/Tashigang.protect|Tashigang.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~South/Bhutan/Counties/Tashigang.private|Tashigang.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~South/Bhutan/Counties/Tashigang.personal|Tashigang.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~South/Bhutan/Counties/Tashigang.secret|Tashigang.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South/Bhutan/Counties/Tashigang|Tashigang]] 
+- [[../../../../../../../_public/geo/Continent/Asia/Asia~South/Bhutan/Counties/Tashigang.public|Tashigang.public]] 
+- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South/Bhutan/Counties/Tashigang.internal|Tashigang.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South/Bhutan/Counties/Tashigang.protect|Tashigang.protect]] 
+- [[../../../../../../../_private/geo/Continent/Asia/Asia~South/Bhutan/Counties/Tashigang.private|Tashigang.private]] 
+- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South/Bhutan/Counties/Tashigang.personal|Tashigang.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South/Bhutan/Counties/Tashigang.secret|Tashigang.secret]] 
 

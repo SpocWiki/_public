@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 14.63 , 121.12 ] 
 type: geo-Region
 title: Marikina
@@ -40,10 +40,11 @@ markerFolder: ./Marikina/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Marikina.md|Marikina]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Marikina.internal|Marikina.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Marikina.protect|Marikina.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Marikina.private|Marikina.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Marikina.personal|Marikina.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Marikina.secret|Marikina.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Marikina|Marikina]] 
+- [[../../../../../../../_public/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Marikina.public|Marikina.public]] 
+- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Marikina.internal|Marikina.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Marikina.protect|Marikina.protect]] 
+- [[../../../../../../../_private/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Marikina.private|Marikina.private]] 
+- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Marikina.personal|Marikina.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Marikina.secret|Marikina.secret]] 
 

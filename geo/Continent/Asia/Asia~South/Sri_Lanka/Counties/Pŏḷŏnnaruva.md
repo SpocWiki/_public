@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 8 , 81 ] 
 type: geo-Region
 title: Pŏḷŏnnaruva
@@ -40,10 +40,11 @@ markerFolder: ./Pŏḷŏnnaruva/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Asia/Asia~South/Sri_Lanka/Counties/Pŏḷŏnnaruva.md|Pŏḷŏnnaruva]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~South/Sri_Lanka/Counties/Pŏḷŏnnaruva.internal|Pŏḷŏnnaruva.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~South/Sri_Lanka/Counties/Pŏḷŏnnaruva.protect|Pŏḷŏnnaruva.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~South/Sri_Lanka/Counties/Pŏḷŏnnaruva.private|Pŏḷŏnnaruva.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~South/Sri_Lanka/Counties/Pŏḷŏnnaruva.personal|Pŏḷŏnnaruva.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~South/Sri_Lanka/Counties/Pŏḷŏnnaruva.secret|Pŏḷŏnnaruva.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South/Sri_Lanka/Counties/Pŏḷŏnnaruva|Pŏḷŏnnaruva]] 
+- [[../../../../../../../_public/geo/Continent/Asia/Asia~South/Sri_Lanka/Counties/Pŏḷŏnnaruva.public|Pŏḷŏnnaruva.public]] 
+- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South/Sri_Lanka/Counties/Pŏḷŏnnaruva.internal|Pŏḷŏnnaruva.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South/Sri_Lanka/Counties/Pŏḷŏnnaruva.protect|Pŏḷŏnnaruva.protect]] 
+- [[../../../../../../../_private/geo/Continent/Asia/Asia~South/Sri_Lanka/Counties/Pŏḷŏnnaruva.private|Pŏḷŏnnaruva.private]] 
+- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South/Sri_Lanka/Counties/Pŏḷŏnnaruva.personal|Pŏḷŏnnaruva.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South/Sri_Lanka/Counties/Pŏḷŏnnaruva.secret|Pŏḷŏnnaruva.secret]] 
 

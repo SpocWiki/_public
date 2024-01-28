@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 38.8 , 66.1 ] 
 type: geo-Region
 title: Kashkadarya
@@ -40,10 +40,11 @@ markerFolder: ./Kashkadarya/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Asia/Asia~Central/Uzbekistan/Counties/Kashkadarya.md|Kashkadarya]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~Central/Uzbekistan/Counties/Kashkadarya.internal|Kashkadarya.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~Central/Uzbekistan/Counties/Kashkadarya.protect|Kashkadarya.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~Central/Uzbekistan/Counties/Kashkadarya.private|Kashkadarya.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~Central/Uzbekistan/Counties/Kashkadarya.personal|Kashkadarya.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~Central/Uzbekistan/Counties/Kashkadarya.secret|Kashkadarya.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~Central/Uzbekistan/Counties/Kashkadarya|Kashkadarya]] 
+- [[../../../../../../../_public/geo/Continent/Asia/Asia~Central/Uzbekistan/Counties/Kashkadarya.public|Kashkadarya.public]] 
+- [[../../../../../../../_internal/geo/Continent/Asia/Asia~Central/Uzbekistan/Counties/Kashkadarya.internal|Kashkadarya.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Asia/Asia~Central/Uzbekistan/Counties/Kashkadarya.protect|Kashkadarya.protect]] 
+- [[../../../../../../../_private/geo/Continent/Asia/Asia~Central/Uzbekistan/Counties/Kashkadarya.private|Kashkadarya.private]] 
+- [[../../../../../../../_personal/geo/Continent/Asia/Asia~Central/Uzbekistan/Counties/Kashkadarya.personal|Kashkadarya.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Asia/Asia~Central/Uzbekistan/Counties/Kashkadarya.secret|Kashkadarya.secret]] 
 

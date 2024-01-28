@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 3.9 , 97.1 ] 
 type: geo-Region
 title: Aceh
@@ -40,10 +40,11 @@ markerFolder: ./Aceh/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Asia/Asia~South~East/Indonesia/Counties/Aceh.md|Aceh]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~South~East/Indonesia/Counties/Aceh.internal|Aceh.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~South~East/Indonesia/Counties/Aceh.protect|Aceh.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~South~East/Indonesia/Counties/Aceh.private|Aceh.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~South~East/Indonesia/Counties/Aceh.personal|Aceh.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~South~East/Indonesia/Counties/Aceh.secret|Aceh.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South~East/Indonesia/Counties/Aceh|Aceh]] 
+- [[../../../../../../../_public/geo/Continent/Asia/Asia~South~East/Indonesia/Counties/Aceh.public|Aceh.public]] 
+- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South~East/Indonesia/Counties/Aceh.internal|Aceh.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South~East/Indonesia/Counties/Aceh.protect|Aceh.protect]] 
+- [[../../../../../../../_private/geo/Continent/Asia/Asia~South~East/Indonesia/Counties/Aceh.private|Aceh.private]] 
+- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South~East/Indonesia/Counties/Aceh.personal|Aceh.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South~East/Indonesia/Counties/Aceh.secret|Aceh.secret]] 
 

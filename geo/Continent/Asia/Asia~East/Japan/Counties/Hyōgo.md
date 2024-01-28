@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 35.1 , 134.8 ] 
 type: geo-Region
 title: Hyōgo
@@ -40,10 +40,11 @@ markerFolder: ./Hyōgo/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Asia/Asia~East/Japan/Counties/Hyōgo.md|Hyōgo]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~East/Japan/Counties/Hyōgo.internal|Hyōgo.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~East/Japan/Counties/Hyōgo.protect|Hyōgo.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~East/Japan/Counties/Hyōgo.private|Hyōgo.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~East/Japan/Counties/Hyōgo.personal|Hyōgo.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~East/Japan/Counties/Hyōgo.secret|Hyōgo.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~East/Japan/Counties/Hyōgo|Hyōgo]] 
+- [[../../../../../../../_public/geo/Continent/Asia/Asia~East/Japan/Counties/Hyōgo.public|Hyōgo.public]] 
+- [[../../../../../../../_internal/geo/Continent/Asia/Asia~East/Japan/Counties/Hyōgo.internal|Hyōgo.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Asia/Asia~East/Japan/Counties/Hyōgo.protect|Hyōgo.protect]] 
+- [[../../../../../../../_private/geo/Continent/Asia/Asia~East/Japan/Counties/Hyōgo.private|Hyōgo.private]] 
+- [[../../../../../../../_personal/geo/Continent/Asia/Asia~East/Japan/Counties/Hyōgo.personal|Hyōgo.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Asia/Asia~East/Japan/Counties/Hyōgo.secret|Hyōgo.secret]] 
 

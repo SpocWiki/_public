@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 21.9 , 106.6 ] 
 type: geo-Region
 title: Lạng_Sơn
@@ -40,10 +40,11 @@ markerFolder: ./Lạng_Sơn/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Lạng_Sơn.md|Lạng_Sơn]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Lạng_Sơn.internal|Lạng_Sơn.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Lạng_Sơn.protect|Lạng_Sơn.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Lạng_Sơn.private|Lạng_Sơn.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Lạng_Sơn.personal|Lạng_Sơn.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Lạng_Sơn.secret|Lạng_Sơn.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Lạng_Sơn|Lạng_Sơn]] 
+- [[../../../../../../../_public/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Lạng_Sơn.public|Lạng_Sơn.public]] 
+- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Lạng_Sơn.internal|Lạng_Sơn.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Lạng_Sơn.protect|Lạng_Sơn.protect]] 
+- [[../../../../../../../_private/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Lạng_Sơn.private|Lạng_Sơn.private]] 
+- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Lạng_Sơn.personal|Lạng_Sơn.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Lạng_Sơn.secret|Lạng_Sơn.secret]] 
 

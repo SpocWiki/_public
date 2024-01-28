@@ -1,5 +1,5 @@
 ﻿---
-location: [39.2,45.4]
+location: [39.2,45.4] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,27 +12,28 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::45.4]
-[geo-lat::39.2]
-[name::Nakhishewan]
-[State::]
-[Country::[[Russia]]]
-[StateId::]
-[Population::]
-[Unknown::]
+[geo-lon::45.4] 
+[geo-lat::39.2] 
+[name::Nakhishewan] 
+State ::  
+Country :: [[Russia]]  
+[StateId::] 
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Nakhishewan
-coordinates: [[Nakhishewan]]
-markerFile: [[Nakhishewan]]
+coordinates: [[Nakhishewan]] 
+markerFile: [[Nakhishewan]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_public/geo/Continent/Europe/Russia/City/Nakhishewan.md|Nakhishewan]] 
+- [[../../../../../../_Standards/geo/Continent/Europe/Russia/City/Nakhishewan|Nakhishewan]] 
+- [[../../../../../../_public/geo/Continent/Europe/Russia/City/Nakhishewan.public|Nakhishewan.public]] 
 - [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Nakhishewan.internal|Nakhishewan.internal]] 
 - [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Nakhishewan.protect|Nakhishewan.protect]] 
 - [[../../../../../../_private/geo/Continent/Europe/Russia/City/Nakhishewan.private|Nakhishewan.private]] 

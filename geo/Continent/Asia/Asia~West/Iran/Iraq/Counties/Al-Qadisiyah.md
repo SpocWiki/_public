@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 31.8 , 45.1 ] 
 type: geo-Region
 title: Al-Qadisiyah
@@ -40,10 +40,11 @@ markerFolder: ./Al-Qadisiyah/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Asia/Asia~West/Iran/Iraq/Counties/Al-Qadisiyah.md|Al-Qadisiyah]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~West/Iran/Iraq/Counties/Al-Qadisiyah.internal|Al-Qadisiyah.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~West/Iran/Iraq/Counties/Al-Qadisiyah.protect|Al-Qadisiyah.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~West/Iran/Iraq/Counties/Al-Qadisiyah.private|Al-Qadisiyah.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~West/Iran/Iraq/Counties/Al-Qadisiyah.personal|Al-Qadisiyah.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~West/Iran/Iraq/Counties/Al-Qadisiyah.secret|Al-Qadisiyah.secret]] 
+- [[../../../../../../../../_Standards/geo/Continent/Asia/Asia~West/Iran/Iraq/Counties/Al-Qadisiyah|Al-Qadisiyah]] 
+- [[../../../../../../../../_public/geo/Continent/Asia/Asia~West/Iran/Iraq/Counties/Al-Qadisiyah.public|Al-Qadisiyah.public]] 
+- [[../../../../../../../../_internal/geo/Continent/Asia/Asia~West/Iran/Iraq/Counties/Al-Qadisiyah.internal|Al-Qadisiyah.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Asia/Asia~West/Iran/Iraq/Counties/Al-Qadisiyah.protect|Al-Qadisiyah.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Asia/Asia~West/Iran/Iraq/Counties/Al-Qadisiyah.private|Al-Qadisiyah.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Asia/Asia~West/Iran/Iraq/Counties/Al-Qadisiyah.personal|Al-Qadisiyah.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Asia/Asia~West/Iran/Iraq/Counties/Al-Qadisiyah.secret|Al-Qadisiyah.secret]] 
 

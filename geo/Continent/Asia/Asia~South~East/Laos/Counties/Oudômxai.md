@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 20.5 , 101.9 ] 
 type: geo-Region
 title: Oudômxai
@@ -40,10 +40,11 @@ markerFolder: ./Oudômxai/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Asia/Asia~South~East/Laos/Counties/Oudômxai.md|Oudômxai]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~South~East/Laos/Counties/Oudômxai.internal|Oudômxai.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~South~East/Laos/Counties/Oudômxai.protect|Oudômxai.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~South~East/Laos/Counties/Oudômxai.private|Oudômxai.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~South~East/Laos/Counties/Oudômxai.personal|Oudômxai.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~South~East/Laos/Counties/Oudômxai.secret|Oudômxai.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South~East/Laos/Counties/Oudômxai|Oudômxai]] 
+- [[../../../../../../../_public/geo/Continent/Asia/Asia~South~East/Laos/Counties/Oudômxai.public|Oudômxai.public]] 
+- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South~East/Laos/Counties/Oudômxai.internal|Oudômxai.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South~East/Laos/Counties/Oudômxai.protect|Oudômxai.protect]] 
+- [[../../../../../../../_private/geo/Continent/Asia/Asia~South~East/Laos/Counties/Oudômxai.private|Oudômxai.private]] 
+- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South~East/Laos/Counties/Oudômxai.personal|Oudômxai.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South~East/Laos/Counties/Oudômxai.secret|Oudômxai.secret]] 
 

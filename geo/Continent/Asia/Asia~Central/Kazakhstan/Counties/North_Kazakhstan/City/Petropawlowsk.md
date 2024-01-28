@@ -1,5 +1,5 @@
 ﻿---
-location: [54.88,69.12]
+location: [54.88,69.12] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,27 +12,28 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::69.12]
-[geo-lat::54.88]
-[name::Petropawlowsk]
-[State::]
-[Country::[[Russia]]]
-[StateId::]
-[Population::]
-[Unknown::]
+[geo-lon::69.12] 
+[geo-lat::54.88] 
+[name::Petropawlowsk] 
+State ::  
+Country :: [[Russia]]  
+[StateId::] 
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Petropawlowsk
-coordinates: [[Petropawlowsk]]
-markerFile: [[Petropawlowsk]]
+coordinates: [[Petropawlowsk]] 
+markerFile: [[Petropawlowsk]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_public/geo/Continent/Europe/Russia/City/Petropawlowsk.md|Petropawlowsk]] 
+- [[../../../../../../_Standards/geo/Continent/Europe/Russia/City/Petropawlowsk|Petropawlowsk]] 
+- [[../../../../../../_public/geo/Continent/Europe/Russia/City/Petropawlowsk.public|Petropawlowsk.public]] 
 - [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Petropawlowsk.internal|Petropawlowsk.internal]] 
 - [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Petropawlowsk.protect|Petropawlowsk.protect]] 
 - [[../../../../../../_private/geo/Continent/Europe/Russia/City/Petropawlowsk.private|Petropawlowsk.private]] 

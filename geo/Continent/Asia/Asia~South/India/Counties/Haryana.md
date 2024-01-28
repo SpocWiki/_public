@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 29.3 , 76 ] 
 type: geo-Region
 title: Haryana
@@ -40,10 +40,11 @@ markerFolder: ./Haryana/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Asia/Asia~South/India/Counties/Haryana.md|Haryana]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~South/India/Counties/Haryana.internal|Haryana.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~South/India/Counties/Haryana.protect|Haryana.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~South/India/Counties/Haryana.private|Haryana.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~South/India/Counties/Haryana.personal|Haryana.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~South/India/Counties/Haryana.secret|Haryana.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South/India/Counties/Haryana|Haryana]] 
+- [[../../../../../../../_public/geo/Continent/Asia/Asia~South/India/Counties/Haryana.public|Haryana.public]] 
+- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South/India/Counties/Haryana.internal|Haryana.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South/India/Counties/Haryana.protect|Haryana.protect]] 
+- [[../../../../../../../_private/geo/Continent/Asia/Asia~South/India/Counties/Haryana.private|Haryana.private]] 
+- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South/India/Counties/Haryana.personal|Haryana.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South/India/Counties/Haryana.secret|Haryana.secret]] 
 

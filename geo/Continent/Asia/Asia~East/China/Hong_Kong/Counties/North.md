@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 22.5 , 114.2 ] 
 type: geo-Region
 title: North
@@ -40,10 +40,11 @@ markerFolder: ./North/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Asia/Asia~East/China/Hong_Kong/Counties/North.md|North]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~East/China/Hong_Kong/Counties/North.internal|North.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~East/China/Hong_Kong/Counties/North.protect|North.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~East/China/Hong_Kong/Counties/North.private|North.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~East/China/Hong_Kong/Counties/North.personal|North.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~East/China/Hong_Kong/Counties/North.secret|North.secret]] 
+- [[../../../../../../../../_Standards/geo/Continent/Asia/Asia~East/China/Hong_Kong/Counties/North|North]] 
+- [[../../../../../../../../_public/geo/Continent/Asia/Asia~East/China/Hong_Kong/Counties/North.public|North.public]] 
+- [[../../../../../../../../_internal/geo/Continent/Asia/Asia~East/China/Hong_Kong/Counties/North.internal|North.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Asia/Asia~East/China/Hong_Kong/Counties/North.protect|North.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Asia/Asia~East/China/Hong_Kong/Counties/North.private|North.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Asia/Asia~East/China/Hong_Kong/Counties/North.personal|North.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Asia/Asia~East/China/Hong_Kong/Counties/North.secret|North.secret]] 
 

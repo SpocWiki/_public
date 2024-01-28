@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 30.4 , 45.4 ] 
 type: geo-Region
 title: Al-Muthannia
@@ -40,10 +40,11 @@ markerFolder: ./Al-Muthannia/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Asia/Asia~West/Iran/Iraq/Counties/Al-Muthannia.md|Al-Muthannia]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~West/Iran/Iraq/Counties/Al-Muthannia.internal|Al-Muthannia.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~West/Iran/Iraq/Counties/Al-Muthannia.protect|Al-Muthannia.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~West/Iran/Iraq/Counties/Al-Muthannia.private|Al-Muthannia.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~West/Iran/Iraq/Counties/Al-Muthannia.personal|Al-Muthannia.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~West/Iran/Iraq/Counties/Al-Muthannia.secret|Al-Muthannia.secret]] 
+- [[../../../../../../../../_Standards/geo/Continent/Asia/Asia~West/Iran/Iraq/Counties/Al-Muthannia|Al-Muthannia]] 
+- [[../../../../../../../../_public/geo/Continent/Asia/Asia~West/Iran/Iraq/Counties/Al-Muthannia.public|Al-Muthannia.public]] 
+- [[../../../../../../../../_internal/geo/Continent/Asia/Asia~West/Iran/Iraq/Counties/Al-Muthannia.internal|Al-Muthannia.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Asia/Asia~West/Iran/Iraq/Counties/Al-Muthannia.protect|Al-Muthannia.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Asia/Asia~West/Iran/Iraq/Counties/Al-Muthannia.private|Al-Muthannia.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Asia/Asia~West/Iran/Iraq/Counties/Al-Muthannia.personal|Al-Muthannia.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Asia/Asia~West/Iran/Iraq/Counties/Al-Muthannia.secret|Al-Muthannia.secret]] 
 

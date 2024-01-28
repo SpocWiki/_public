@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 10.1 , 106.6 ] 
 type: geo-Region
 title: Bến_Tre
@@ -40,10 +40,11 @@ markerFolder: ./Bến_Tre/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Bến_Tre.md|Bến_Tre]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Bến_Tre.internal|Bến_Tre.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Bến_Tre.protect|Bến_Tre.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Bến_Tre.private|Bến_Tre.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Bến_Tre.personal|Bến_Tre.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Bến_Tre.secret|Bến_Tre.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Bến_Tre|Bến_Tre]] 
+- [[../../../../../../../_public/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Bến_Tre.public|Bến_Tre.public]] 
+- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Bến_Tre.internal|Bến_Tre.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Bến_Tre.protect|Bến_Tre.protect]] 
+- [[../../../../../../../_private/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Bến_Tre.private|Bến_Tre.private]] 
+- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Bến_Tre.personal|Bến_Tre.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Bến_Tre.secret|Bến_Tre.secret]] 
 

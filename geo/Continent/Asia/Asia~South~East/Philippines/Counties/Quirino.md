@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 16.3 , 121.6 ] 
 type: geo-Region
 title: Quirino
@@ -40,10 +40,11 @@ markerFolder: ./Quirino/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Quirino.md|Quirino]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Quirino.internal|Quirino.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Quirino.protect|Quirino.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Quirino.private|Quirino.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Quirino.personal|Quirino.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Quirino.secret|Quirino.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Quirino|Quirino]] 
+- [[../../../../../../../_public/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Quirino.public|Quirino.public]] 
+- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Quirino.internal|Quirino.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Quirino.protect|Quirino.protect]] 
+- [[../../../../../../../_private/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Quirino.private|Quirino.private]] 
+- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Quirino.personal|Quirino.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Quirino.secret|Quirino.secret]] 
 

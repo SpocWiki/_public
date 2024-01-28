@@ -1,5 +1,5 @@
 ﻿---
-location: [39.62,67.72]
+location: [39.62,67.72] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,27 +12,28 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::67.72]
-[geo-lat::39.62]
-[name::Pendjekent]
-[State::]
-[Country::[[Russia]]]
-[StateId::]
-[Population::]
-[Unknown::]
+[geo-lon::67.72] 
+[geo-lat::39.62] 
+[name::Pendjekent] 
+State ::  
+Country :: [[Russia]]  
+[StateId::] 
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Pendjekent
-coordinates: [[Pendjekent]]
-markerFile: [[Pendjekent]]
+coordinates: [[Pendjekent]] 
+markerFile: [[Pendjekent]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_public/geo/Continent/Europe/Russia/City/Pendjekent.md|Pendjekent]] 
+- [[../../../../../../_Standards/geo/Continent/Europe/Russia/City/Pendjekent|Pendjekent]] 
+- [[../../../../../../_public/geo/Continent/Europe/Russia/City/Pendjekent.public|Pendjekent.public]] 
 - [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Pendjekent.internal|Pendjekent.internal]] 
 - [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Pendjekent.protect|Pendjekent.protect]] 
 - [[../../../../../../_private/geo/Continent/Europe/Russia/City/Pendjekent.private|Pendjekent.private]] 

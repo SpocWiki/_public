@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 35.3 , 40.3 ] 
 type: geo-Region
 title: Dayr_Az_Zawr
@@ -40,10 +40,11 @@ markerFolder: ./Dayr_Az_Zawr/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Asia/Asia~West/Syria/Counties/Dayr_Az_Zawr.md|Dayr_Az_Zawr]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~West/Syria/Counties/Dayr_Az_Zawr.internal|Dayr_Az_Zawr.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~West/Syria/Counties/Dayr_Az_Zawr.protect|Dayr_Az_Zawr.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~West/Syria/Counties/Dayr_Az_Zawr.private|Dayr_Az_Zawr.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~West/Syria/Counties/Dayr_Az_Zawr.personal|Dayr_Az_Zawr.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~West/Syria/Counties/Dayr_Az_Zawr.secret|Dayr_Az_Zawr.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~West/Syria/Counties/Dayr_Az_Zawr|Dayr_Az_Zawr]] 
+- [[../../../../../../../_public/geo/Continent/Asia/Asia~West/Syria/Counties/Dayr_Az_Zawr.public|Dayr_Az_Zawr.public]] 
+- [[../../../../../../../_internal/geo/Continent/Asia/Asia~West/Syria/Counties/Dayr_Az_Zawr.internal|Dayr_Az_Zawr.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Asia/Asia~West/Syria/Counties/Dayr_Az_Zawr.protect|Dayr_Az_Zawr.protect]] 
+- [[../../../../../../../_private/geo/Continent/Asia/Asia~West/Syria/Counties/Dayr_Az_Zawr.private|Dayr_Az_Zawr.private]] 
+- [[../../../../../../../_personal/geo/Continent/Asia/Asia~West/Syria/Counties/Dayr_Az_Zawr.personal|Dayr_Az_Zawr.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Asia/Asia~West/Syria/Counties/Dayr_Az_Zawr.secret|Dayr_Az_Zawr.secret]] 
 

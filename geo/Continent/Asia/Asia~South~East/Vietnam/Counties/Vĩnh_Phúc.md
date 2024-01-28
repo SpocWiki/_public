@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 21.3 , 105.6 ] 
 type: geo-Region
 title: Vĩnh_Phúc
@@ -40,10 +40,11 @@ markerFolder: ./Vĩnh_Phúc/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Vĩnh_Phúc.md|Vĩnh_Phúc]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Vĩnh_Phúc.internal|Vĩnh_Phúc.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Vĩnh_Phúc.protect|Vĩnh_Phúc.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Vĩnh_Phúc.private|Vĩnh_Phúc.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Vĩnh_Phúc.personal|Vĩnh_Phúc.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Vĩnh_Phúc.secret|Vĩnh_Phúc.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Vĩnh_Phúc|Vĩnh_Phúc]] 
+- [[../../../../../../../_public/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Vĩnh_Phúc.public|Vĩnh_Phúc.public]] 
+- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Vĩnh_Phúc.internal|Vĩnh_Phúc.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Vĩnh_Phúc.protect|Vĩnh_Phúc.protect]] 
+- [[../../../../../../../_private/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Vĩnh_Phúc.private|Vĩnh_Phúc.private]] 
+- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Vĩnh_Phúc.personal|Vĩnh_Phúc.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Vĩnh_Phúc.secret|Vĩnh_Phúc.secret]] 
 

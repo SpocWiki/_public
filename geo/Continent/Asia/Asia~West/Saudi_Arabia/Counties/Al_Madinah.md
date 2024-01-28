@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 25 , 39.9 ] 
 type: geo-Region
 title: Al_Madinah
@@ -40,10 +40,11 @@ markerFolder: ./Al_Madinah/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Asia/Asia~West/Saudi_Arabia/Counties/Al_Madinah.md|Al_Madinah]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~West/Saudi_Arabia/Counties/Al_Madinah.internal|Al_Madinah.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~West/Saudi_Arabia/Counties/Al_Madinah.protect|Al_Madinah.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~West/Saudi_Arabia/Counties/Al_Madinah.private|Al_Madinah.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~West/Saudi_Arabia/Counties/Al_Madinah.personal|Al_Madinah.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~West/Saudi_Arabia/Counties/Al_Madinah.secret|Al_Madinah.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~West/Saudi_Arabia/Counties/Al_Madinah|Al_Madinah]] 
+- [[../../../../../../../_public/geo/Continent/Asia/Asia~West/Saudi_Arabia/Counties/Al_Madinah.public|Al_Madinah.public]] 
+- [[../../../../../../../_internal/geo/Continent/Asia/Asia~West/Saudi_Arabia/Counties/Al_Madinah.internal|Al_Madinah.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Asia/Asia~West/Saudi_Arabia/Counties/Al_Madinah.protect|Al_Madinah.protect]] 
+- [[../../../../../../../_private/geo/Continent/Asia/Asia~West/Saudi_Arabia/Counties/Al_Madinah.private|Al_Madinah.private]] 
+- [[../../../../../../../_personal/geo/Continent/Asia/Asia~West/Saudi_Arabia/Counties/Al_Madinah.personal|Al_Madinah.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Asia/Asia~West/Saudi_Arabia/Counties/Al_Madinah.secret|Al_Madinah.secret]] 
 

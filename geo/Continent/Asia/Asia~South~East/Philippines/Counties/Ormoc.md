@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 11.1 , 124.6 ] 
 type: geo-Region
 title: Ormoc
@@ -40,10 +40,11 @@ markerFolder: ./Ormoc/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Ormoc.md|Ormoc]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Ormoc.internal|Ormoc.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Ormoc.protect|Ormoc.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Ormoc.private|Ormoc.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Ormoc.personal|Ormoc.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Ormoc.secret|Ormoc.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Ormoc|Ormoc]] 
+- [[../../../../../../../_public/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Ormoc.public|Ormoc.public]] 
+- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Ormoc.internal|Ormoc.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Ormoc.protect|Ormoc.protect]] 
+- [[../../../../../../../_private/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Ormoc.private|Ormoc.private]] 
+- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Ormoc.personal|Ormoc.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Ormoc.secret|Ormoc.secret]] 
 

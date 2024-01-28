@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 12.9 , 101.4 ] 
 type: geo-Region
 title: Rayong
@@ -40,10 +40,11 @@ markerFolder: ./Rayong/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Rayong.md|Rayong]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Rayong.internal|Rayong.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Rayong.protect|Rayong.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Rayong.private|Rayong.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Rayong.personal|Rayong.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Rayong.secret|Rayong.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Rayong|Rayong]] 
+- [[../../../../../../../_public/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Rayong.public|Rayong.public]] 
+- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Rayong.internal|Rayong.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Rayong.protect|Rayong.protect]] 
+- [[../../../../../../../_private/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Rayong.private|Rayong.private]] 
+- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Rayong.personal|Rayong.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Rayong.secret|Rayong.secret]] 
 

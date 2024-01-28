@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 31.4 , 64 ] 
 type: geo-Region
 title: Hilmand
@@ -40,10 +40,11 @@ markerFolder: ./Hilmand/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Asia/Asia~Central/Afghanistan/Counties/Hilmand.md|Hilmand]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~Central/Afghanistan/Counties/Hilmand.internal|Hilmand.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~Central/Afghanistan/Counties/Hilmand.protect|Hilmand.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~Central/Afghanistan/Counties/Hilmand.private|Hilmand.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~Central/Afghanistan/Counties/Hilmand.personal|Hilmand.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~Central/Afghanistan/Counties/Hilmand.secret|Hilmand.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~Central/Afghanistan/Counties/Hilmand|Hilmand]] 
+- [[../../../../../../../_public/geo/Continent/Asia/Asia~Central/Afghanistan/Counties/Hilmand.public|Hilmand.public]] 
+- [[../../../../../../../_internal/geo/Continent/Asia/Asia~Central/Afghanistan/Counties/Hilmand.internal|Hilmand.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Asia/Asia~Central/Afghanistan/Counties/Hilmand.protect|Hilmand.protect]] 
+- [[../../../../../../../_private/geo/Continent/Asia/Asia~Central/Afghanistan/Counties/Hilmand.private|Hilmand.private]] 
+- [[../../../../../../../_personal/geo/Continent/Asia/Asia~Central/Afghanistan/Counties/Hilmand.personal|Hilmand.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Asia/Asia~Central/Afghanistan/Counties/Hilmand.secret|Hilmand.secret]] 
 

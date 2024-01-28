@@ -1,5 +1,5 @@
-﻿---
-location: [14.06,44.61]
+---
+location: [14.06,44.61] 
 type: Country
 tags:
 - geo/Country
@@ -9,8 +9,8 @@ isDeleted: false
 confidential: public
 
 ---
-[ISO2::YE]
-[ISO3::YEM]
+[ISO2::YE] 
+[ISO3::YEM] 
 ```leaflet
 id: Yemen, Rep.
 zoomFeatures: true 
@@ -20,24 +20,24 @@ geojsonFolder: ./Yemen~Republic/
 markerFolder: ./Yemen~Republic/
 ```
 
-[name-en::Yemen, Rep.]
-[name-de::Jemen]
-[Area-Total::536869]
-[Area-Land::527970]
-[Continent::[[Asia]]]
-[VehicleCode::YEM]
-[Capital :: [[Yemen~Republic/City/Sana‘a]] ]
-[Alcohol-l::0.2]
-[Language-Id::472]
-[geo-lon::44.61]
-[geo-lat::14.06]
+[name-en::Yemen, Rep.] 
+[name-de::Jemen] 
+[Area-Total::536869] 
+[Area-Land::527970] 
+Continent :: [[Asia]]  
+[VehicleCode::YEM] 
+Capital :: [[Yemen~Republic/City/Sana‘a]] ] 
+[Alcohol-l::0.2] 
+[Language-Id::472] 
+[geo-lon::44.61] 
+[geo-lat::14.06] 
 
 
 
 ## Confidential Links & Embeds: 
--[[Yemen~Republic|Yemen~Republic]]] 
--[[../../../../../_internal/geo/Continent/Asia/Yemen~Republic.internal|Yemen~Republic.internal]]] 
-- [[../../../../_protect/geo/Continent/Asia/Yemen~Republic.protect|Yemen~Republic.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Yemen~Republic.private|Yemen~Republic.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Yemen~Republic.personal|Yemen~Republic.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Yemen~Republic.secret|Yemen~Republic.secret]] 
+- [[Yemen~Republic|Yemen~Republic]]  
+- [[../../../../../_internal/geo/Continent/Asia/Asia~West/Yemen~Republic.internal|Yemen~Republic.internal]]  
+- [[../../../../../_protect/geo/Continent/Asia/Asia~West/Yemen~Republic.protect|Yemen~Republic.protect]] 
+- [[../../../../../_private/geo/Continent/Asia/Asia~West/Yemen~Republic.private|Yemen~Republic.private]] 
+- [[../../../../../_personal/geo/Continent/Asia/Asia~West/Yemen~Republic.personal|Yemen~Republic.personal]] 
+- [[../../../../../_secret/geo/Continent/Asia/Asia~West/Yemen~Republic.secret|Yemen~Republic.secret]] 

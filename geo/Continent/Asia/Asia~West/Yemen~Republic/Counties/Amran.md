@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 16.1 , 44 ] 
 type: geo-Region
 title: Amran
@@ -40,10 +40,11 @@ markerFolder: ./Amran/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Asia/Asia~West/Yemen~Republic/Counties/Amran.md|Amran]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~West/Yemen~Republic/Counties/Amran.internal|Amran.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~West/Yemen~Republic/Counties/Amran.protect|Amran.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~West/Yemen~Republic/Counties/Amran.private|Amran.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~West/Yemen~Republic/Counties/Amran.personal|Amran.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~West/Yemen~Republic/Counties/Amran.secret|Amran.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~West/Yemen~Republic/Counties/Amran|Amran]] 
+- [[../../../../../../../_public/geo/Continent/Asia/Asia~West/Yemen~Republic/Counties/Amran.public|Amran.public]] 
+- [[../../../../../../../_internal/geo/Continent/Asia/Asia~West/Yemen~Republic/Counties/Amran.internal|Amran.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Asia/Asia~West/Yemen~Republic/Counties/Amran.protect|Amran.protect]] 
+- [[../../../../../../../_private/geo/Continent/Asia/Asia~West/Yemen~Republic/Counties/Amran.private|Amran.private]] 
+- [[../../../../../../../_personal/geo/Continent/Asia/Asia~West/Yemen~Republic/Counties/Amran.personal|Amran.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Asia/Asia~West/Yemen~Republic/Counties/Amran.secret|Amran.secret]] 
 

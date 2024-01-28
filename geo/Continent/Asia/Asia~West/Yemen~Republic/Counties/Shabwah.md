@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 14.7 , 46.7 ] 
 type: geo-Region
 title: Shabwah
@@ -40,10 +40,11 @@ markerFolder: ./Shabwah/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Asia/Asia~West/Yemen~Republic/Counties/Shabwah.md|Shabwah]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~West/Yemen~Republic/Counties/Shabwah.internal|Shabwah.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~West/Yemen~Republic/Counties/Shabwah.protect|Shabwah.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~West/Yemen~Republic/Counties/Shabwah.private|Shabwah.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~West/Yemen~Republic/Counties/Shabwah.personal|Shabwah.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~West/Yemen~Republic/Counties/Shabwah.secret|Shabwah.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~West/Yemen~Republic/Counties/Shabwah|Shabwah]] 
+- [[../../../../../../../_public/geo/Continent/Asia/Asia~West/Yemen~Republic/Counties/Shabwah.public|Shabwah.public]] 
+- [[../../../../../../../_internal/geo/Continent/Asia/Asia~West/Yemen~Republic/Counties/Shabwah.internal|Shabwah.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Asia/Asia~West/Yemen~Republic/Counties/Shabwah.protect|Shabwah.protect]] 
+- [[../../../../../../../_private/geo/Continent/Asia/Asia~West/Yemen~Republic/Counties/Shabwah.private|Shabwah.private]] 
+- [[../../../../../../../_personal/geo/Continent/Asia/Asia~West/Yemen~Republic/Counties/Shabwah.personal|Shabwah.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Asia/Asia~West/Yemen~Republic/Counties/Shabwah.secret|Shabwah.secret]] 
 

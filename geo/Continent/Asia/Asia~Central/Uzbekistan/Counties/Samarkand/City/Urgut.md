@@ -1,5 +1,5 @@
 ﻿---
-location: [39.53,67.33]
+location: [39.53,67.33] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,27 +12,28 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::67.33]
-[geo-lat::39.53]
-[name::Urgut]
-[State::]
-[Country::[[Russia]]]
-[StateId::]
-[Population::]
-[Unknown::]
+[geo-lon::67.33] 
+[geo-lat::39.53] 
+[name::Urgut] 
+State ::  
+Country :: [[Russia]]  
+[StateId::] 
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Urgut
-coordinates: [[Urgut]]
-markerFile: [[Urgut]]
+coordinates: [[Urgut]] 
+markerFile: [[Urgut]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_public/geo/Continent/Europe/Russia/City/Urgut.md|Urgut]] 
+- [[../../../../../../_Standards/geo/Continent/Europe/Russia/City/Urgut|Urgut]] 
+- [[../../../../../../_public/geo/Continent/Europe/Russia/City/Urgut.public|Urgut.public]] 
 - [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Urgut.internal|Urgut.internal]] 
 - [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Urgut.protect|Urgut.protect]] 
 - [[../../../../../../_private/geo/Continent/Europe/Russia/City/Urgut.private|Urgut.private]] 

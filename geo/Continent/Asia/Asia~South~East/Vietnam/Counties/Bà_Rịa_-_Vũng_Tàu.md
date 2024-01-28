@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 10.6 , 107.3 ] 
 type: geo-Region
 title: Bà_Rịa_-_Vũng_Tàu
@@ -40,10 +40,11 @@ markerFolder: ./Bà_Rịa_-_Vũng_Tàu/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Bà_Rịa_-_Vũng_Tàu.md|Bà_Rịa_-_Vũng_Tàu]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Bà_Rịa_-_Vũng_Tàu.internal|Bà_Rịa_-_Vũng_Tàu.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Bà_Rịa_-_Vũng_Tàu.protect|Bà_Rịa_-_Vũng_Tàu.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Bà_Rịa_-_Vũng_Tàu.private|Bà_Rịa_-_Vũng_Tàu.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Bà_Rịa_-_Vũng_Tàu.personal|Bà_Rịa_-_Vũng_Tàu.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Bà_Rịa_-_Vũng_Tàu.secret|Bà_Rịa_-_Vũng_Tàu.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Bà_Rịa_-_Vũng_Tàu|Bà_Rịa_-_Vũng_Tàu]] 
+- [[../../../../../../../_public/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Bà_Rịa_-_Vũng_Tàu.public|Bà_Rịa_-_Vũng_Tàu.public]] 
+- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Bà_Rịa_-_Vũng_Tàu.internal|Bà_Rịa_-_Vũng_Tàu.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Bà_Rịa_-_Vũng_Tàu.protect|Bà_Rịa_-_Vũng_Tàu.protect]] 
+- [[../../../../../../../_private/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Bà_Rịa_-_Vũng_Tàu.private|Bà_Rịa_-_Vũng_Tàu.private]] 
+- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Bà_Rịa_-_Vũng_Tàu.personal|Bà_Rịa_-_Vũng_Tàu.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Bà_Rịa_-_Vũng_Tàu.secret|Bà_Rịa_-_Vũng_Tàu.secret]] 
 

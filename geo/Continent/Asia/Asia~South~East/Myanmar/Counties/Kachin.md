@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 26.1 , 97.4 ] 
 type: geo-Region
 title: Kachin
@@ -40,10 +40,11 @@ markerFolder: ./Kachin/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Asia/Asia~South~East/Myanmar/Counties/Kachin.md|Kachin]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~South~East/Myanmar/Counties/Kachin.internal|Kachin.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~South~East/Myanmar/Counties/Kachin.protect|Kachin.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~South~East/Myanmar/Counties/Kachin.private|Kachin.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~South~East/Myanmar/Counties/Kachin.personal|Kachin.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~South~East/Myanmar/Counties/Kachin.secret|Kachin.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South~East/Myanmar/Counties/Kachin|Kachin]] 
+- [[../../../../../../../_public/geo/Continent/Asia/Asia~South~East/Myanmar/Counties/Kachin.public|Kachin.public]] 
+- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South~East/Myanmar/Counties/Kachin.internal|Kachin.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South~East/Myanmar/Counties/Kachin.protect|Kachin.protect]] 
+- [[../../../../../../../_private/geo/Continent/Asia/Asia~South~East/Myanmar/Counties/Kachin.private|Kachin.private]] 
+- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South~East/Myanmar/Counties/Kachin.personal|Kachin.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South~East/Myanmar/Counties/Kachin.secret|Kachin.secret]] 
 

@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 32.6 , 130.9 ] 
 type: geo-Region
 title: Kumamoto
@@ -40,10 +40,11 @@ markerFolder: ./Kumamoto/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Asia/Asia~East/Japan/Counties/Kumamoto.md|Kumamoto]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~East/Japan/Counties/Kumamoto.internal|Kumamoto.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~East/Japan/Counties/Kumamoto.protect|Kumamoto.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~East/Japan/Counties/Kumamoto.private|Kumamoto.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~East/Japan/Counties/Kumamoto.personal|Kumamoto.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~East/Japan/Counties/Kumamoto.secret|Kumamoto.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~East/Japan/Counties/Kumamoto|Kumamoto]] 
+- [[../../../../../../../_public/geo/Continent/Asia/Asia~East/Japan/Counties/Kumamoto.public|Kumamoto.public]] 
+- [[../../../../../../../_internal/geo/Continent/Asia/Asia~East/Japan/Counties/Kumamoto.internal|Kumamoto.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Asia/Asia~East/Japan/Counties/Kumamoto.protect|Kumamoto.protect]] 
+- [[../../../../../../../_private/geo/Continent/Asia/Asia~East/Japan/Counties/Kumamoto.private|Kumamoto.private]] 
+- [[../../../../../../../_personal/geo/Continent/Asia/Asia~East/Japan/Counties/Kumamoto.personal|Kumamoto.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Asia/Asia~East/Japan/Counties/Kumamoto.secret|Kumamoto.secret]] 
 

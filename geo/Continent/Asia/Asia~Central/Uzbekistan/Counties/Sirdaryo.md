@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 40.6 , 68.6 ] 
 type: geo-Region
 title: Sirdaryo
@@ -40,10 +40,11 @@ markerFolder: ./Sirdaryo/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Asia/Asia~Central/Uzbekistan/Counties/Sirdaryo.md|Sirdaryo]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~Central/Uzbekistan/Counties/Sirdaryo.internal|Sirdaryo.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~Central/Uzbekistan/Counties/Sirdaryo.protect|Sirdaryo.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~Central/Uzbekistan/Counties/Sirdaryo.private|Sirdaryo.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~Central/Uzbekistan/Counties/Sirdaryo.personal|Sirdaryo.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~Central/Uzbekistan/Counties/Sirdaryo.secret|Sirdaryo.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~Central/Uzbekistan/Counties/Sirdaryo|Sirdaryo]] 
+- [[../../../../../../../_public/geo/Continent/Asia/Asia~Central/Uzbekistan/Counties/Sirdaryo.public|Sirdaryo.public]] 
+- [[../../../../../../../_internal/geo/Continent/Asia/Asia~Central/Uzbekistan/Counties/Sirdaryo.internal|Sirdaryo.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Asia/Asia~Central/Uzbekistan/Counties/Sirdaryo.protect|Sirdaryo.protect]] 
+- [[../../../../../../../_private/geo/Continent/Asia/Asia~Central/Uzbekistan/Counties/Sirdaryo.private|Sirdaryo.private]] 
+- [[../../../../../../../_personal/geo/Continent/Asia/Asia~Central/Uzbekistan/Counties/Sirdaryo.personal|Sirdaryo.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Asia/Asia~Central/Uzbekistan/Counties/Sirdaryo.secret|Sirdaryo.secret]] 
 

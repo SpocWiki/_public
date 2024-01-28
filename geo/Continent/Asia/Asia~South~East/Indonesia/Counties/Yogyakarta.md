@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ -7.9 , 110.4 ] 
 type: geo-Region
 title: Yogyakarta
@@ -40,10 +40,11 @@ markerFolder: ./Yogyakarta/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Asia/Asia~South~East/Indonesia/Counties/Yogyakarta.md|Yogyakarta]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~South~East/Indonesia/Counties/Yogyakarta.internal|Yogyakarta.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~South~East/Indonesia/Counties/Yogyakarta.protect|Yogyakarta.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~South~East/Indonesia/Counties/Yogyakarta.private|Yogyakarta.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~South~East/Indonesia/Counties/Yogyakarta.personal|Yogyakarta.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~South~East/Indonesia/Counties/Yogyakarta.secret|Yogyakarta.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South~East/Indonesia/Counties/Yogyakarta|Yogyakarta]] 
+- [[../../../../../../../_public/geo/Continent/Asia/Asia~South~East/Indonesia/Counties/Yogyakarta.public|Yogyakarta.public]] 
+- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South~East/Indonesia/Counties/Yogyakarta.internal|Yogyakarta.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South~East/Indonesia/Counties/Yogyakarta.protect|Yogyakarta.protect]] 
+- [[../../../../../../../_private/geo/Continent/Asia/Asia~South~East/Indonesia/Counties/Yogyakarta.private|Yogyakarta.private]] 
+- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South~East/Indonesia/Counties/Yogyakarta.personal|Yogyakarta.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South~East/Indonesia/Counties/Yogyakarta.secret|Yogyakarta.secret]] 
 

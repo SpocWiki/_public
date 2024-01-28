@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 34.3 , 38.3 ] 
 type: geo-Region
 title: Homs_(Hims)
@@ -40,10 +40,11 @@ markerFolder: ./Homs_(Hims)/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Asia/Asia~West/Syria/Counties/Homs_(Hims).md|Homs_(Hims)]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~West/Syria/Counties/Homs_(Hims).internal|Homs_(Hims).internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~West/Syria/Counties/Homs_(Hims).protect|Homs_(Hims).protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~West/Syria/Counties/Homs_(Hims).private|Homs_(Hims).private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~West/Syria/Counties/Homs_(Hims).personal|Homs_(Hims).personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~West/Syria/Counties/Homs_(Hims).secret|Homs_(Hims).secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~West/Syria/Counties/Homs_(Hims)|Homs_(Hims)]] 
+- [[../../../../../../../_public/geo/Continent/Asia/Asia~West/Syria/Counties/Homs_(Hims).public|Homs_(Hims).public]] 
+- [[../../../../../../../_internal/geo/Continent/Asia/Asia~West/Syria/Counties/Homs_(Hims).internal|Homs_(Hims).internal]] 
+- [[../../../../../../../_protect/geo/Continent/Asia/Asia~West/Syria/Counties/Homs_(Hims).protect|Homs_(Hims).protect]] 
+- [[../../../../../../../_private/geo/Continent/Asia/Asia~West/Syria/Counties/Homs_(Hims).private|Homs_(Hims).private]] 
+- [[../../../../../../../_personal/geo/Continent/Asia/Asia~West/Syria/Counties/Homs_(Hims).personal|Homs_(Hims).personal]] 
+- [[../../../../../../../_secret/geo/Continent/Asia/Asia~West/Syria/Counties/Homs_(Hims).secret|Homs_(Hims).secret]] 
 

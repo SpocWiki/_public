@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 39.9 , 48.8 ] 
 type: geo-Region
 title: Sabirabad
@@ -40,10 +40,11 @@ markerFolder: ./Sabirabad/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Sabirabad.md|Sabirabad]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Sabirabad.internal|Sabirabad.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Sabirabad.protect|Sabirabad.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Sabirabad.private|Sabirabad.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Sabirabad.personal|Sabirabad.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Sabirabad.secret|Sabirabad.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Sabirabad|Sabirabad]] 
+- [[../../../../../../../_public/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Sabirabad.public|Sabirabad.public]] 
+- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Sabirabad.internal|Sabirabad.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Sabirabad.protect|Sabirabad.protect]] 
+- [[../../../../../../../_private/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Sabirabad.private|Sabirabad.private]] 
+- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Sabirabad.personal|Sabirabad.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Sabirabad.secret|Sabirabad.secret]] 
 

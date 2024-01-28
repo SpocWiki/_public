@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 39.6 , 46.9 ] 
 type: geo-Region
 title: Xocavənd
@@ -40,10 +40,11 @@ markerFolder: ./Xocavənd/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Xocavənd.md|Xocavənd]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Xocavənd.internal|Xocavənd.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Xocavənd.protect|Xocavənd.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Xocavənd.private|Xocavənd.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Xocavənd.personal|Xocavənd.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Xocavənd.secret|Xocavənd.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Xocavənd|Xocavənd]] 
+- [[../../../../../../../_public/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Xocavənd.public|Xocavənd.public]] 
+- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Xocavənd.internal|Xocavənd.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Xocavənd.protect|Xocavənd.protect]] 
+- [[../../../../../../../_private/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Xocavənd.private|Xocavənd.private]] 
+- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Xocavənd.personal|Xocavənd.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Xocavənd.secret|Xocavənd.secret]] 
 

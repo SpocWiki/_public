@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 47.7 , 108.3 ] 
 type: geo-Region
 title: Govĭ-Sümber
@@ -40,10 +40,11 @@ markerFolder: ./Govĭ-Sümber/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Asia/Asia~East/Mongolia/Counties/Govĭ-Sümber.md|Govĭ-Sümber]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~East/Mongolia/Counties/Govĭ-Sümber.internal|Govĭ-Sümber.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~East/Mongolia/Counties/Govĭ-Sümber.protect|Govĭ-Sümber.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~East/Mongolia/Counties/Govĭ-Sümber.private|Govĭ-Sümber.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~East/Mongolia/Counties/Govĭ-Sümber.personal|Govĭ-Sümber.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~East/Mongolia/Counties/Govĭ-Sümber.secret|Govĭ-Sümber.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~East/Mongolia/Counties/Govĭ-Sümber|Govĭ-Sümber]] 
+- [[../../../../../../../_public/geo/Continent/Asia/Asia~East/Mongolia/Counties/Govĭ-Sümber.public|Govĭ-Sümber.public]] 
+- [[../../../../../../../_internal/geo/Continent/Asia/Asia~East/Mongolia/Counties/Govĭ-Sümber.internal|Govĭ-Sümber.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Asia/Asia~East/Mongolia/Counties/Govĭ-Sümber.protect|Govĭ-Sümber.protect]] 
+- [[../../../../../../../_private/geo/Continent/Asia/Asia~East/Mongolia/Counties/Govĭ-Sümber.private|Govĭ-Sümber.private]] 
+- [[../../../../../../../_personal/geo/Continent/Asia/Asia~East/Mongolia/Counties/Govĭ-Sümber.personal|Govĭ-Sümber.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Asia/Asia~East/Mongolia/Counties/Govĭ-Sümber.secret|Govĭ-Sümber.secret]] 
 

@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 27.1 , 41.7 ] 
 type: geo-Region
 title: Ha'il
@@ -40,10 +40,11 @@ markerFolder: ./Ha'il/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Asia/Asia~West/Saudi_Arabia/Counties/Ha'il.md|Ha'il]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~West/Saudi_Arabia/Counties/Ha'il.internal|Ha'il.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~West/Saudi_Arabia/Counties/Ha'il.protect|Ha'il.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~West/Saudi_Arabia/Counties/Ha'il.private|Ha'il.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~West/Saudi_Arabia/Counties/Ha'il.personal|Ha'il.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~West/Saudi_Arabia/Counties/Ha'il.secret|Ha'il.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~West/Saudi_Arabia/Counties/Ha'il|Ha'il]] 
+- [[../../../../../../../_public/geo/Continent/Asia/Asia~West/Saudi_Arabia/Counties/Ha'il.public|Ha'il.public]] 
+- [[../../../../../../../_internal/geo/Continent/Asia/Asia~West/Saudi_Arabia/Counties/Ha'il.internal|Ha'il.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Asia/Asia~West/Saudi_Arabia/Counties/Ha'il.protect|Ha'il.protect]] 
+- [[../../../../../../../_private/geo/Continent/Asia/Asia~West/Saudi_Arabia/Counties/Ha'il.private|Ha'il.private]] 
+- [[../../../../../../../_personal/geo/Continent/Asia/Asia~West/Saudi_Arabia/Counties/Ha'il.personal|Ha'il.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Asia/Asia~West/Saudi_Arabia/Counties/Ha'il.secret|Ha'il.secret]] 
 

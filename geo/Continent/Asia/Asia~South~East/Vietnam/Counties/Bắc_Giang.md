@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 21.4 , 106.5 ] 
 type: geo-Region
 title: Bắc_Giang
@@ -40,10 +40,11 @@ markerFolder: ./Bắc_Giang/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Bắc_Giang.md|Bắc_Giang]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Bắc_Giang.internal|Bắc_Giang.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Bắc_Giang.protect|Bắc_Giang.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Bắc_Giang.private|Bắc_Giang.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Bắc_Giang.personal|Bắc_Giang.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Bắc_Giang.secret|Bắc_Giang.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Bắc_Giang|Bắc_Giang]] 
+- [[../../../../../../../_public/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Bắc_Giang.public|Bắc_Giang.public]] 
+- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Bắc_Giang.internal|Bắc_Giang.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Bắc_Giang.protect|Bắc_Giang.protect]] 
+- [[../../../../../../../_private/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Bắc_Giang.private|Bắc_Giang.private]] 
+- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Bắc_Giang.personal|Bắc_Giang.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Bắc_Giang.secret|Bắc_Giang.secret]] 
 

@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 26.9 , 106.6 ] 
 type: geo-Region
 title: Guizhou
@@ -40,10 +40,11 @@ markerFolder: ./Guizhou/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Asia/Asia~East/China/Counties/Guizhou.md|Guizhou]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~East/China/Counties/Guizhou.internal|Guizhou.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~East/China/Counties/Guizhou.protect|Guizhou.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~East/China/Counties/Guizhou.private|Guizhou.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~East/China/Counties/Guizhou.personal|Guizhou.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~East/China/Counties/Guizhou.secret|Guizhou.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~East/China/Counties/Guizhou|Guizhou]] 
+- [[../../../../../../../_public/geo/Continent/Asia/Asia~East/China/Counties/Guizhou.public|Guizhou.public]] 
+- [[../../../../../../../_internal/geo/Continent/Asia/Asia~East/China/Counties/Guizhou.internal|Guizhou.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Asia/Asia~East/China/Counties/Guizhou.protect|Guizhou.protect]] 
+- [[../../../../../../../_private/geo/Continent/Asia/Asia~East/China/Counties/Guizhou.private|Guizhou.private]] 
+- [[../../../../../../../_personal/geo/Continent/Asia/Asia~East/China/Counties/Guizhou.personal|Guizhou.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Asia/Asia~East/China/Counties/Guizhou.secret|Guizhou.secret]] 
 

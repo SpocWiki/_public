@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 26.1 , 94.5 ] 
 type: geo-Region
 title: Nagaland
@@ -40,10 +40,11 @@ markerFolder: ./Nagaland/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Asia/Asia~South/India/Counties/Nagaland.md|Nagaland]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~South/India/Counties/Nagaland.internal|Nagaland.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~South/India/Counties/Nagaland.protect|Nagaland.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~South/India/Counties/Nagaland.private|Nagaland.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~South/India/Counties/Nagaland.personal|Nagaland.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~South/India/Counties/Nagaland.secret|Nagaland.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South/India/Counties/Nagaland|Nagaland]] 
+- [[../../../../../../../_public/geo/Continent/Asia/Asia~South/India/Counties/Nagaland.public|Nagaland.public]] 
+- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South/India/Counties/Nagaland.internal|Nagaland.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South/India/Counties/Nagaland.protect|Nagaland.protect]] 
+- [[../../../../../../../_private/geo/Continent/Asia/Asia~South/India/Counties/Nagaland.private|Nagaland.private]] 
+- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South/India/Counties/Nagaland.personal|Nagaland.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South/India/Counties/Nagaland.secret|Nagaland.secret]] 
 

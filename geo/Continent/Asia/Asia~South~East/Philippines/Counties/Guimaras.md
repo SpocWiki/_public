@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 10.6 , 122.6 ] 
 type: geo-Region
 title: Guimaras
@@ -40,10 +40,11 @@ markerFolder: ./Guimaras/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Guimaras.md|Guimaras]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Guimaras.internal|Guimaras.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Guimaras.protect|Guimaras.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Guimaras.private|Guimaras.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Guimaras.personal|Guimaras.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Guimaras.secret|Guimaras.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Guimaras|Guimaras]] 
+- [[../../../../../../../_public/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Guimaras.public|Guimaras.public]] 
+- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Guimaras.internal|Guimaras.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Guimaras.protect|Guimaras.protect]] 
+- [[../../../../../../../_private/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Guimaras.private|Guimaras.private]] 
+- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Guimaras.personal|Guimaras.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Guimaras.secret|Guimaras.secret]] 
 

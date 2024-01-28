@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 7.9 , 122.5 ] 
 type: geo-Region
 title: Zamboanga_del_Norte
@@ -40,10 +40,11 @@ markerFolder: ./Zamboanga_del_Norte/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Zamboanga_del_Norte.md|Zamboanga_del_Norte]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Zamboanga_del_Norte.internal|Zamboanga_del_Norte.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Zamboanga_del_Norte.protect|Zamboanga_del_Norte.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Zamboanga_del_Norte.private|Zamboanga_del_Norte.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Zamboanga_del_Norte.personal|Zamboanga_del_Norte.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Zamboanga_del_Norte.secret|Zamboanga_del_Norte.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Zamboanga_del_Norte|Zamboanga_del_Norte]] 
+- [[../../../../../../../_public/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Zamboanga_del_Norte.public|Zamboanga_del_Norte.public]] 
+- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Zamboanga_del_Norte.internal|Zamboanga_del_Norte.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Zamboanga_del_Norte.protect|Zamboanga_del_Norte.protect]] 
+- [[../../../../../../../_private/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Zamboanga_del_Norte.private|Zamboanga_del_Norte.private]] 
+- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Zamboanga_del_Norte.personal|Zamboanga_del_Norte.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Zamboanga_del_Norte.secret|Zamboanga_del_Norte.secret]] 
 

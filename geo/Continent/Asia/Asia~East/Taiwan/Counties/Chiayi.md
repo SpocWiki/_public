@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 23.4 , 120.5 ] 
 type: geo-Region
 title: Chiayi
@@ -40,10 +40,11 @@ markerFolder: ./Chiayi/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Asia/Asia~East/Taiwan/Counties/Chiayi.md|Chiayi]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~East/Taiwan/Counties/Chiayi.internal|Chiayi.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~East/Taiwan/Counties/Chiayi.protect|Chiayi.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~East/Taiwan/Counties/Chiayi.private|Chiayi.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~East/Taiwan/Counties/Chiayi.personal|Chiayi.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~East/Taiwan/Counties/Chiayi.secret|Chiayi.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~East/Taiwan/Counties/Chiayi|Chiayi]] 
+- [[../../../../../../../_public/geo/Continent/Asia/Asia~East/Taiwan/Counties/Chiayi.public|Chiayi.public]] 
+- [[../../../../../../../_internal/geo/Continent/Asia/Asia~East/Taiwan/Counties/Chiayi.internal|Chiayi.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Asia/Asia~East/Taiwan/Counties/Chiayi.protect|Chiayi.protect]] 
+- [[../../../../../../../_private/geo/Continent/Asia/Asia~East/Taiwan/Counties/Chiayi.private|Chiayi.private]] 
+- [[../../../../../../../_personal/geo/Continent/Asia/Asia~East/Taiwan/Counties/Chiayi.personal|Chiayi.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Asia/Asia~East/Taiwan/Counties/Chiayi.secret|Chiayi.secret]] 
 

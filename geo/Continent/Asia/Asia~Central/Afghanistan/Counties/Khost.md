@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 33.4 , 69.9 ] 
 type: geo-Region
 title: Khost
@@ -40,10 +40,11 @@ markerFolder: ./Khost/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Asia/Asia~Central/Afghanistan/Counties/Khost.md|Khost]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~Central/Afghanistan/Counties/Khost.internal|Khost.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~Central/Afghanistan/Counties/Khost.protect|Khost.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~Central/Afghanistan/Counties/Khost.private|Khost.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~Central/Afghanistan/Counties/Khost.personal|Khost.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~Central/Afghanistan/Counties/Khost.secret|Khost.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~Central/Afghanistan/Counties/Khost|Khost]] 
+- [[../../../../../../../_public/geo/Continent/Asia/Asia~Central/Afghanistan/Counties/Khost.public|Khost.public]] 
+- [[../../../../../../../_internal/geo/Continent/Asia/Asia~Central/Afghanistan/Counties/Khost.internal|Khost.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Asia/Asia~Central/Afghanistan/Counties/Khost.protect|Khost.protect]] 
+- [[../../../../../../../_private/geo/Continent/Asia/Asia~Central/Afghanistan/Counties/Khost.private|Khost.private]] 
+- [[../../../../../../../_personal/geo/Continent/Asia/Asia~Central/Afghanistan/Counties/Khost.personal|Khost.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Asia/Asia~Central/Afghanistan/Counties/Khost.secret|Khost.secret]] 
 

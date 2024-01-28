@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ -4.8 , 105.1 ] 
 type: geo-Region
 title: Lampung
@@ -40,10 +40,11 @@ markerFolder: ./Lampung/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Asia/Asia~South~East/Indonesia/Counties/Lampung.md|Lampung]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~South~East/Indonesia/Counties/Lampung.internal|Lampung.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~South~East/Indonesia/Counties/Lampung.protect|Lampung.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~South~East/Indonesia/Counties/Lampung.private|Lampung.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~South~East/Indonesia/Counties/Lampung.personal|Lampung.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~South~East/Indonesia/Counties/Lampung.secret|Lampung.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South~East/Indonesia/Counties/Lampung|Lampung]] 
+- [[../../../../../../../_public/geo/Continent/Asia/Asia~South~East/Indonesia/Counties/Lampung.public|Lampung.public]] 
+- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South~East/Indonesia/Counties/Lampung.internal|Lampung.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South~East/Indonesia/Counties/Lampung.protect|Lampung.protect]] 
+- [[../../../../../../../_private/geo/Continent/Asia/Asia~South~East/Indonesia/Counties/Lampung.private|Lampung.private]] 
+- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South~East/Indonesia/Counties/Lampung.personal|Lampung.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South~East/Indonesia/Counties/Lampung.secret|Lampung.secret]] 
 

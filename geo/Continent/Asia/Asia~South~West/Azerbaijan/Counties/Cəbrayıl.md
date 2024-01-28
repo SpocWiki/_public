@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 39.3 , 46.9 ] 
 type: geo-Region
 title: Cəbrayıl
@@ -40,10 +40,11 @@ markerFolder: ./Cəbrayıl/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Cəbrayıl.md|Cəbrayıl]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Cəbrayıl.internal|Cəbrayıl.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Cəbrayıl.protect|Cəbrayıl.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Cəbrayıl.private|Cəbrayıl.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Cəbrayıl.personal|Cəbrayıl.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Cəbrayıl.secret|Cəbrayıl.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Cəbrayıl|Cəbrayıl]] 
+- [[../../../../../../../_public/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Cəbrayıl.public|Cəbrayıl.public]] 
+- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Cəbrayıl.internal|Cəbrayıl.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Cəbrayıl.protect|Cəbrayıl.protect]] 
+- [[../../../../../../../_private/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Cəbrayıl.private|Cəbrayıl.private]] 
+- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Cəbrayıl.personal|Cəbrayıl.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Cəbrayıl.secret|Cəbrayıl.secret]] 
 

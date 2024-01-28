@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 27 , 91.3 ] 
 type: geo-Region
 title: Pemagatsel
@@ -40,10 +40,11 @@ markerFolder: ./Pemagatsel/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Asia/Asia~South/Bhutan/Counties/Pemagatsel.md|Pemagatsel]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~South/Bhutan/Counties/Pemagatsel.internal|Pemagatsel.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~South/Bhutan/Counties/Pemagatsel.protect|Pemagatsel.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~South/Bhutan/Counties/Pemagatsel.private|Pemagatsel.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~South/Bhutan/Counties/Pemagatsel.personal|Pemagatsel.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~South/Bhutan/Counties/Pemagatsel.secret|Pemagatsel.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South/Bhutan/Counties/Pemagatsel|Pemagatsel]] 
+- [[../../../../../../../_public/geo/Continent/Asia/Asia~South/Bhutan/Counties/Pemagatsel.public|Pemagatsel.public]] 
+- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South/Bhutan/Counties/Pemagatsel.internal|Pemagatsel.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South/Bhutan/Counties/Pemagatsel.protect|Pemagatsel.protect]] 
+- [[../../../../../../../_private/geo/Continent/Asia/Asia~South/Bhutan/Counties/Pemagatsel.private|Pemagatsel.private]] 
+- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South/Bhutan/Counties/Pemagatsel.personal|Pemagatsel.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South/Bhutan/Counties/Pemagatsel.secret|Pemagatsel.secret]] 
 

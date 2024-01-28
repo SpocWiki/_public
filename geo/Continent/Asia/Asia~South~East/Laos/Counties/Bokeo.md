@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 20.3 , 100.7 ] 
 type: geo-Region
 title: Bokeo
@@ -40,10 +40,11 @@ markerFolder: ./Bokeo/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Asia/Asia~South~East/Laos/Counties/Bokeo.md|Bokeo]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~South~East/Laos/Counties/Bokeo.internal|Bokeo.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~South~East/Laos/Counties/Bokeo.protect|Bokeo.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~South~East/Laos/Counties/Bokeo.private|Bokeo.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~South~East/Laos/Counties/Bokeo.personal|Bokeo.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~South~East/Laos/Counties/Bokeo.secret|Bokeo.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South~East/Laos/Counties/Bokeo|Bokeo]] 
+- [[../../../../../../../_public/geo/Continent/Asia/Asia~South~East/Laos/Counties/Bokeo.public|Bokeo.public]] 
+- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South~East/Laos/Counties/Bokeo.internal|Bokeo.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South~East/Laos/Counties/Bokeo.protect|Bokeo.protect]] 
+- [[../../../../../../../_private/geo/Continent/Asia/Asia~South~East/Laos/Counties/Bokeo.private|Bokeo.private]] 
+- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South~East/Laos/Counties/Bokeo.personal|Bokeo.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South~East/Laos/Counties/Bokeo.secret|Bokeo.secret]] 
 

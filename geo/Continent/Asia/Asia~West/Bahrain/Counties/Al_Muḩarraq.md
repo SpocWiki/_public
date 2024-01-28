@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 26.25 , 50.63 ] 
 type: geo-Region
 title: Al_Muḩarraq
@@ -40,10 +40,11 @@ markerFolder: ./Al_Muḩarraq/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Asia/Asia~West/Bahrain/Counties/Al_Muḩarraq.md|Al_Muḩarraq]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~West/Bahrain/Counties/Al_Muḩarraq.internal|Al_Muḩarraq.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~West/Bahrain/Counties/Al_Muḩarraq.protect|Al_Muḩarraq.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~West/Bahrain/Counties/Al_Muḩarraq.private|Al_Muḩarraq.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~West/Bahrain/Counties/Al_Muḩarraq.personal|Al_Muḩarraq.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~West/Bahrain/Counties/Al_Muḩarraq.secret|Al_Muḩarraq.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~West/Bahrain/Counties/Al_Muḩarraq|Al_Muḩarraq]] 
+- [[../../../../../../../_public/geo/Continent/Asia/Asia~West/Bahrain/Counties/Al_Muḩarraq.public|Al_Muḩarraq.public]] 
+- [[../../../../../../../_internal/geo/Continent/Asia/Asia~West/Bahrain/Counties/Al_Muḩarraq.internal|Al_Muḩarraq.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Asia/Asia~West/Bahrain/Counties/Al_Muḩarraq.protect|Al_Muḩarraq.protect]] 
+- [[../../../../../../../_private/geo/Continent/Asia/Asia~West/Bahrain/Counties/Al_Muḩarraq.private|Al_Muḩarraq.private]] 
+- [[../../../../../../../_personal/geo/Continent/Asia/Asia~West/Bahrain/Counties/Al_Muḩarraq.personal|Al_Muḩarraq.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Asia/Asia~West/Bahrain/Counties/Al_Muḩarraq.secret|Al_Muḩarraq.secret]] 
 

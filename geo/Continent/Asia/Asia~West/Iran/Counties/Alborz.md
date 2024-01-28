@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 35.9 , 50.8 ] 
 type: geo-Region
 title: Alborz
@@ -40,10 +40,11 @@ markerFolder: ./Alborz/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Asia/Asia~West/Iran/Counties/Alborz.md|Alborz]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~West/Iran/Counties/Alborz.internal|Alborz.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~West/Iran/Counties/Alborz.protect|Alborz.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~West/Iran/Counties/Alborz.private|Alborz.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~West/Iran/Counties/Alborz.personal|Alborz.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~West/Iran/Counties/Alborz.secret|Alborz.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~West/Iran/Counties/Alborz|Alborz]] 
+- [[../../../../../../../_public/geo/Continent/Asia/Asia~West/Iran/Counties/Alborz.public|Alborz.public]] 
+- [[../../../../../../../_internal/geo/Continent/Asia/Asia~West/Iran/Counties/Alborz.internal|Alborz.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Asia/Asia~West/Iran/Counties/Alborz.protect|Alborz.protect]] 
+- [[../../../../../../../_private/geo/Continent/Asia/Asia~West/Iran/Counties/Alborz.private|Alborz.private]] 
+- [[../../../../../../../_personal/geo/Continent/Asia/Asia~West/Iran/Counties/Alborz.personal|Alborz.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Asia/Asia~West/Iran/Counties/Alborz.secret|Alborz.secret]] 
 

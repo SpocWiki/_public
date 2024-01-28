@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 34.9 , 127 ] 
 type: geo-Region
 title: South_Jeolla
@@ -40,10 +40,11 @@ markerFolder: ./South_Jeolla/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Asia/Asia~East/Korea~South/Counties/South_Jeolla.md|South_Jeolla]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~East/Korea~South/Counties/South_Jeolla.internal|South_Jeolla.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~East/Korea~South/Counties/South_Jeolla.protect|South_Jeolla.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~East/Korea~South/Counties/South_Jeolla.private|South_Jeolla.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~East/Korea~South/Counties/South_Jeolla.personal|South_Jeolla.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~East/Korea~South/Counties/South_Jeolla.secret|South_Jeolla.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~East/Korea~South/Counties/South_Jeolla|South_Jeolla]] 
+- [[../../../../../../../_public/geo/Continent/Asia/Asia~East/Korea~South/Counties/South_Jeolla.public|South_Jeolla.public]] 
+- [[../../../../../../../_internal/geo/Continent/Asia/Asia~East/Korea~South/Counties/South_Jeolla.internal|South_Jeolla.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Asia/Asia~East/Korea~South/Counties/South_Jeolla.protect|South_Jeolla.protect]] 
+- [[../../../../../../../_private/geo/Continent/Asia/Asia~East/Korea~South/Counties/South_Jeolla.private|South_Jeolla.private]] 
+- [[../../../../../../../_personal/geo/Continent/Asia/Asia~East/Korea~South/Counties/South_Jeolla.personal|South_Jeolla.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Asia/Asia~East/Korea~South/Counties/South_Jeolla.secret|South_Jeolla.secret]] 
 

@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 40.8 , 43.9 ] 
 type: geo-Region
 title: Shirak
@@ -40,10 +40,11 @@ markerFolder: ./Shirak/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Asia/Asia~South~West/Armenia/Counties/Shirak.md|Shirak]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~South~West/Armenia/Counties/Shirak.internal|Shirak.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~South~West/Armenia/Counties/Shirak.protect|Shirak.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~South~West/Armenia/Counties/Shirak.private|Shirak.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~South~West/Armenia/Counties/Shirak.personal|Shirak.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~South~West/Armenia/Counties/Shirak.secret|Shirak.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South~West/Armenia/Counties/Shirak|Shirak]] 
+- [[../../../../../../../_public/geo/Continent/Asia/Asia~South~West/Armenia/Counties/Shirak.public|Shirak.public]] 
+- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South~West/Armenia/Counties/Shirak.internal|Shirak.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South~West/Armenia/Counties/Shirak.protect|Shirak.protect]] 
+- [[../../../../../../../_private/geo/Continent/Asia/Asia~South~West/Armenia/Counties/Shirak.private|Shirak.private]] 
+- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South~West/Armenia/Counties/Shirak.personal|Shirak.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South~West/Armenia/Counties/Shirak.secret|Shirak.secret]] 
 

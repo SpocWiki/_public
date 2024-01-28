@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 10.2 , 105.6 ] 
 type: geo-Region
 title: Can_Tho
@@ -40,10 +40,11 @@ markerFolder: ./Can_Tho/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Can_Tho.md|Can_Tho]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Can_Tho.internal|Can_Tho.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Can_Tho.protect|Can_Tho.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Can_Tho.private|Can_Tho.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Can_Tho.personal|Can_Tho.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Can_Tho.secret|Can_Tho.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Can_Tho|Can_Tho]] 
+- [[../../../../../../../_public/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Can_Tho.public|Can_Tho.public]] 
+- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Can_Tho.internal|Can_Tho.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Can_Tho.protect|Can_Tho.protect]] 
+- [[../../../../../../../_private/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Can_Tho.private|Can_Tho.private]] 
+- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Can_Tho.personal|Can_Tho.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Can_Tho.secret|Can_Tho.secret]] 
 

@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 37.5 , 127.5 ] 
 type: geo-Region
 title: Gyeonggi
@@ -40,10 +40,11 @@ markerFolder: ./Gyeonggi/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Asia/Asia~East/Korea~South/Counties/Gyeonggi.md|Gyeonggi]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~East/Korea~South/Counties/Gyeonggi.internal|Gyeonggi.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~East/Korea~South/Counties/Gyeonggi.protect|Gyeonggi.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~East/Korea~South/Counties/Gyeonggi.private|Gyeonggi.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~East/Korea~South/Counties/Gyeonggi.personal|Gyeonggi.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~East/Korea~South/Counties/Gyeonggi.secret|Gyeonggi.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~East/Korea~South/Counties/Gyeonggi|Gyeonggi]] 
+- [[../../../../../../../_public/geo/Continent/Asia/Asia~East/Korea~South/Counties/Gyeonggi.public|Gyeonggi.public]] 
+- [[../../../../../../../_internal/geo/Continent/Asia/Asia~East/Korea~South/Counties/Gyeonggi.internal|Gyeonggi.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Asia/Asia~East/Korea~South/Counties/Gyeonggi.protect|Gyeonggi.protect]] 
+- [[../../../../../../../_private/geo/Continent/Asia/Asia~East/Korea~South/Counties/Gyeonggi.private|Gyeonggi.private]] 
+- [[../../../../../../../_personal/geo/Continent/Asia/Asia~East/Korea~South/Counties/Gyeonggi.personal|Gyeonggi.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Asia/Asia~East/Korea~South/Counties/Gyeonggi.secret|Gyeonggi.secret]] 
 

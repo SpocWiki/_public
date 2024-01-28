@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 22.36 , 114.13 ] 
 type: geo-Region
 title: Kwai_Tsing
@@ -40,10 +40,11 @@ markerFolder: ./Kwai_Tsing/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Asia/Asia~East/China/Hong_Kong/Counties/Kwai_Tsing.md|Kwai_Tsing]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~East/China/Hong_Kong/Counties/Kwai_Tsing.internal|Kwai_Tsing.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~East/China/Hong_Kong/Counties/Kwai_Tsing.protect|Kwai_Tsing.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~East/China/Hong_Kong/Counties/Kwai_Tsing.private|Kwai_Tsing.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~East/China/Hong_Kong/Counties/Kwai_Tsing.personal|Kwai_Tsing.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~East/China/Hong_Kong/Counties/Kwai_Tsing.secret|Kwai_Tsing.secret]] 
+- [[../../../../../../../../_Standards/geo/Continent/Asia/Asia~East/China/Hong_Kong/Counties/Kwai_Tsing|Kwai_Tsing]] 
+- [[../../../../../../../../_public/geo/Continent/Asia/Asia~East/China/Hong_Kong/Counties/Kwai_Tsing.public|Kwai_Tsing.public]] 
+- [[../../../../../../../../_internal/geo/Continent/Asia/Asia~East/China/Hong_Kong/Counties/Kwai_Tsing.internal|Kwai_Tsing.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Asia/Asia~East/China/Hong_Kong/Counties/Kwai_Tsing.protect|Kwai_Tsing.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Asia/Asia~East/China/Hong_Kong/Counties/Kwai_Tsing.private|Kwai_Tsing.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Asia/Asia~East/China/Hong_Kong/Counties/Kwai_Tsing.personal|Kwai_Tsing.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Asia/Asia~East/China/Hong_Kong/Counties/Kwai_Tsing.secret|Kwai_Tsing.secret]] 
 

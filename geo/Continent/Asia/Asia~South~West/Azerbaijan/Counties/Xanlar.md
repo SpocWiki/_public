@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 40.6 , 46.3 ] 
 type: geo-Region
 title: Xanlar
@@ -40,10 +40,11 @@ markerFolder: ./Xanlar/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Xanlar.md|Xanlar]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Xanlar.internal|Xanlar.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Xanlar.protect|Xanlar.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Xanlar.private|Xanlar.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Xanlar.personal|Xanlar.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Xanlar.secret|Xanlar.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Xanlar|Xanlar]] 
+- [[../../../../../../../_public/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Xanlar.public|Xanlar.public]] 
+- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Xanlar.internal|Xanlar.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Xanlar.protect|Xanlar.protect]] 
+- [[../../../../../../../_private/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Xanlar.private|Xanlar.private]] 
+- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Xanlar.personal|Xanlar.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Xanlar.secret|Xanlar.secret]] 
 

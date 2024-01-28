@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 30.2 , 107.9 ] 
 type: geo-Region
 title: Chongqing
@@ -40,10 +40,11 @@ markerFolder: ./Chongqing/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Asia/Asia~East/China/Counties/Chongqing.md|Chongqing]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~East/China/Counties/Chongqing.internal|Chongqing.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~East/China/Counties/Chongqing.protect|Chongqing.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~East/China/Counties/Chongqing.private|Chongqing.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~East/China/Counties/Chongqing.personal|Chongqing.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~East/China/Counties/Chongqing.secret|Chongqing.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~East/China/Counties/Chongqing|Chongqing]] 
+- [[../../../../../../../_public/geo/Continent/Asia/Asia~East/China/Counties/Chongqing.public|Chongqing.public]] 
+- [[../../../../../../../_internal/geo/Continent/Asia/Asia~East/China/Counties/Chongqing.internal|Chongqing.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Asia/Asia~East/China/Counties/Chongqing.protect|Chongqing.protect]] 
+- [[../../../../../../../_private/geo/Continent/Asia/Asia~East/China/Counties/Chongqing.private|Chongqing.private]] 
+- [[../../../../../../../_personal/geo/Continent/Asia/Asia~East/China/Counties/Chongqing.personal|Chongqing.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Asia/Asia~East/China/Counties/Chongqing.secret|Chongqing.secret]] 
 

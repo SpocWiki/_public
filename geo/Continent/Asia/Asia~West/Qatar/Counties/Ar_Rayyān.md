@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 25.2 , 51.1 ] 
 type: geo-Region
 title: Ar_Rayyān
@@ -40,10 +40,11 @@ markerFolder: ./Ar_Rayyān/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Asia/Asia~West/Qatar/Counties/Ar_Rayyān.md|Ar_Rayyān]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~West/Qatar/Counties/Ar_Rayyān.internal|Ar_Rayyān.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~West/Qatar/Counties/Ar_Rayyān.protect|Ar_Rayyān.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~West/Qatar/Counties/Ar_Rayyān.private|Ar_Rayyān.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~West/Qatar/Counties/Ar_Rayyān.personal|Ar_Rayyān.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~West/Qatar/Counties/Ar_Rayyān.secret|Ar_Rayyān.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~West/Qatar/Counties/Ar_Rayyān|Ar_Rayyān]] 
+- [[../../../../../../../_public/geo/Continent/Asia/Asia~West/Qatar/Counties/Ar_Rayyān.public|Ar_Rayyān.public]] 
+- [[../../../../../../../_internal/geo/Continent/Asia/Asia~West/Qatar/Counties/Ar_Rayyān.internal|Ar_Rayyān.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Asia/Asia~West/Qatar/Counties/Ar_Rayyān.protect|Ar_Rayyān.protect]] 
+- [[../../../../../../../_private/geo/Continent/Asia/Asia~West/Qatar/Counties/Ar_Rayyān.private|Ar_Rayyān.private]] 
+- [[../../../../../../../_personal/geo/Continent/Asia/Asia~West/Qatar/Counties/Ar_Rayyān.personal|Ar_Rayyān.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Asia/Asia~West/Qatar/Counties/Ar_Rayyān.secret|Ar_Rayyān.secret]] 
 

@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 33.9 , 113.1 ] 
 type: geo-Region
 title: Henan
@@ -40,10 +40,11 @@ markerFolder: ./Henan/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Asia/Asia~East/China/Counties/Henan.md|Henan]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~East/China/Counties/Henan.internal|Henan.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~East/China/Counties/Henan.protect|Henan.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~East/China/Counties/Henan.private|Henan.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~East/China/Counties/Henan.personal|Henan.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~East/China/Counties/Henan.secret|Henan.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~East/China/Counties/Henan|Henan]] 
+- [[../../../../../../../_public/geo/Continent/Asia/Asia~East/China/Counties/Henan.public|Henan.public]] 
+- [[../../../../../../../_internal/geo/Continent/Asia/Asia~East/China/Counties/Henan.internal|Henan.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Asia/Asia~East/China/Counties/Henan.protect|Henan.protect]] 
+- [[../../../../../../../_private/geo/Continent/Asia/Asia~East/China/Counties/Henan.private|Henan.private]] 
+- [[../../../../../../../_personal/geo/Continent/Asia/Asia~East/China/Counties/Henan.personal|Henan.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Asia/Asia~East/China/Counties/Henan.secret|Henan.secret]] 
 

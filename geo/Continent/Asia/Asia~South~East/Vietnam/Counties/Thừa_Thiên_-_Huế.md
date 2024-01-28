@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 16.4 , 107.4 ] 
 type: geo-Region
 title: Thừa_Thiên_-_Huế
@@ -40,10 +40,11 @@ markerFolder: ./Thừa_Thiên_-_Huế/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Thừa_Thiên_-_Huế.md|Thừa_Thiên_-_Huế]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Thừa_Thiên_-_Huế.internal|Thừa_Thiên_-_Huế.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Thừa_Thiên_-_Huế.protect|Thừa_Thiên_-_Huế.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Thừa_Thiên_-_Huế.private|Thừa_Thiên_-_Huế.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Thừa_Thiên_-_Huế.personal|Thừa_Thiên_-_Huế.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Thừa_Thiên_-_Huế.secret|Thừa_Thiên_-_Huế.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Thừa_Thiên_-_Huế|Thừa_Thiên_-_Huế]] 
+- [[../../../../../../../_public/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Thừa_Thiên_-_Huế.public|Thừa_Thiên_-_Huế.public]] 
+- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Thừa_Thiên_-_Huế.internal|Thừa_Thiên_-_Huế.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Thừa_Thiên_-_Huế.protect|Thừa_Thiên_-_Huế.protect]] 
+- [[../../../../../../../_private/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Thừa_Thiên_-_Huế.private|Thừa_Thiên_-_Huế.private]] 
+- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Thừa_Thiên_-_Huế.personal|Thừa_Thiên_-_Huế.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Thừa_Thiên_-_Huế.secret|Thừa_Thiên_-_Huế.secret]] 
 

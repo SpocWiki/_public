@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 5.2 , 120 ] 
 type: geo-Region
 title: Tawi-Tawi
@@ -40,10 +40,11 @@ markerFolder: ./Tawi-Tawi/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Tawi-Tawi.md|Tawi-Tawi]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Tawi-Tawi.internal|Tawi-Tawi.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Tawi-Tawi.protect|Tawi-Tawi.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Tawi-Tawi.private|Tawi-Tawi.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Tawi-Tawi.personal|Tawi-Tawi.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Tawi-Tawi.secret|Tawi-Tawi.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Tawi-Tawi|Tawi-Tawi]] 
+- [[../../../../../../../_public/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Tawi-Tawi.public|Tawi-Tawi.public]] 
+- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Tawi-Tawi.internal|Tawi-Tawi.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Tawi-Tawi.protect|Tawi-Tawi.protect]] 
+- [[../../../../../../../_private/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Tawi-Tawi.private|Tawi-Tawi.private]] 
+- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Tawi-Tawi.personal|Tawi-Tawi.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Tawi-Tawi.secret|Tawi-Tawi.secret]] 
 

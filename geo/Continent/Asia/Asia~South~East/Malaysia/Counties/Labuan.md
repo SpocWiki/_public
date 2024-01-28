@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 5.3 , 115.2 ] 
 type: geo-Region
 title: Labuan
@@ -40,10 +40,11 @@ markerFolder: ./Labuan/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Asia/Asia~South~East/Malaysia/Counties/Labuan.md|Labuan]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~South~East/Malaysia/Counties/Labuan.internal|Labuan.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~South~East/Malaysia/Counties/Labuan.protect|Labuan.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~South~East/Malaysia/Counties/Labuan.private|Labuan.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~South~East/Malaysia/Counties/Labuan.personal|Labuan.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~South~East/Malaysia/Counties/Labuan.secret|Labuan.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South~East/Malaysia/Counties/Labuan|Labuan]] 
+- [[../../../../../../../_public/geo/Continent/Asia/Asia~South~East/Malaysia/Counties/Labuan.public|Labuan.public]] 
+- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South~East/Malaysia/Counties/Labuan.internal|Labuan.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South~East/Malaysia/Counties/Labuan.protect|Labuan.protect]] 
+- [[../../../../../../../_private/geo/Continent/Asia/Asia~South~East/Malaysia/Counties/Labuan.private|Labuan.private]] 
+- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South~East/Malaysia/Counties/Labuan.personal|Labuan.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South~East/Malaysia/Counties/Labuan.secret|Labuan.secret]] 
 

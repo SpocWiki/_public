@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 47.9 , 107 ] 
 type: geo-Region
 title: Ulaanbaatar
@@ -40,10 +40,11 @@ markerFolder: ./Ulaanbaatar/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Asia/Asia~East/Mongolia/Counties/Ulaanbaatar.md|Ulaanbaatar]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~East/Mongolia/Counties/Ulaanbaatar.internal|Ulaanbaatar.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~East/Mongolia/Counties/Ulaanbaatar.protect|Ulaanbaatar.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~East/Mongolia/Counties/Ulaanbaatar.private|Ulaanbaatar.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~East/Mongolia/Counties/Ulaanbaatar.personal|Ulaanbaatar.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~East/Mongolia/Counties/Ulaanbaatar.secret|Ulaanbaatar.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~East/Mongolia/Counties/Ulaanbaatar|Ulaanbaatar]] 
+- [[../../../../../../../_public/geo/Continent/Asia/Asia~East/Mongolia/Counties/Ulaanbaatar.public|Ulaanbaatar.public]] 
+- [[../../../../../../../_internal/geo/Continent/Asia/Asia~East/Mongolia/Counties/Ulaanbaatar.internal|Ulaanbaatar.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Asia/Asia~East/Mongolia/Counties/Ulaanbaatar.protect|Ulaanbaatar.protect]] 
+- [[../../../../../../../_private/geo/Continent/Asia/Asia~East/Mongolia/Counties/Ulaanbaatar.private|Ulaanbaatar.private]] 
+- [[../../../../../../../_personal/geo/Continent/Asia/Asia~East/Mongolia/Counties/Ulaanbaatar.personal|Ulaanbaatar.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Asia/Asia~East/Mongolia/Counties/Ulaanbaatar.secret|Ulaanbaatar.secret]] 
 

@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 32.5 , 55.5 ] 
 type: geo-Region
 title: Yazd
@@ -40,10 +40,11 @@ markerFolder: ./Yazd/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Asia/Asia~West/Iran/Counties/Yazd.md|Yazd]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~West/Iran/Counties/Yazd.internal|Yazd.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~West/Iran/Counties/Yazd.protect|Yazd.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~West/Iran/Counties/Yazd.private|Yazd.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~West/Iran/Counties/Yazd.personal|Yazd.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~West/Iran/Counties/Yazd.secret|Yazd.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~West/Iran/Counties/Yazd|Yazd]] 
+- [[../../../../../../../_public/geo/Continent/Asia/Asia~West/Iran/Counties/Yazd.public|Yazd.public]] 
+- [[../../../../../../../_internal/geo/Continent/Asia/Asia~West/Iran/Counties/Yazd.internal|Yazd.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Asia/Asia~West/Iran/Counties/Yazd.protect|Yazd.protect]] 
+- [[../../../../../../../_private/geo/Continent/Asia/Asia~West/Iran/Counties/Yazd.private|Yazd.private]] 
+- [[../../../../../../../_personal/geo/Continent/Asia/Asia~West/Iran/Counties/Yazd.personal|Yazd.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Asia/Asia~West/Iran/Counties/Yazd.secret|Yazd.secret]] 
 

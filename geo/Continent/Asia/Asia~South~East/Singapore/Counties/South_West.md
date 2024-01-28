@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 1.35 , 103.72 ] 
 type: geo-Region
 title: South_West
@@ -40,10 +40,11 @@ markerFolder: ./South_West/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Asia/Asia~South~East/Singapore/Counties/South_West.md|South_West]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~South~East/Singapore/Counties/South_West.internal|South_West.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~South~East/Singapore/Counties/South_West.protect|South_West.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~South~East/Singapore/Counties/South_West.private|South_West.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~South~East/Singapore/Counties/South_West.personal|South_West.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~South~East/Singapore/Counties/South_West.secret|South_West.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South~East/Singapore/Counties/South_West|South_West]] 
+- [[../../../../../../../_public/geo/Continent/Asia/Asia~South~East/Singapore/Counties/South_West.public|South_West.public]] 
+- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South~East/Singapore/Counties/South_West.internal|South_West.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South~East/Singapore/Counties/South_West.protect|South_West.protect]] 
+- [[../../../../../../../_private/geo/Continent/Asia/Asia~South~East/Singapore/Counties/South_West.private|South_West.private]] 
+- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South~East/Singapore/Counties/South_West.personal|South_West.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South~East/Singapore/Counties/South_West.secret|South_West.secret]] 
 

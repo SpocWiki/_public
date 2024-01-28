@@ -1,5 +1,5 @@
 ﻿---
-location: [44.85,65.53]
+location: [44.85,65.53] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,27 +12,28 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::65.53]
-[geo-lat::44.85]
-[name::Perovsk]
-[State::]
-[Country::[[Russia]]]
-[StateId::]
-[Population::]
-[Unknown::]
+[geo-lon::65.53] 
+[geo-lat::44.85] 
+[name::Perovsk] 
+State ::  
+Country :: [[Russia]]  
+[StateId::] 
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Perovsk
-coordinates: [[Perovsk]]
-markerFile: [[Perovsk]]
+coordinates: [[Perovsk]] 
+markerFile: [[Perovsk]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_public/geo/Continent/Europe/Russia/City/Perovsk.md|Perovsk]] 
+- [[../../../../../../_Standards/geo/Continent/Europe/Russia/City/Perovsk|Perovsk]] 
+- [[../../../../../../_public/geo/Continent/Europe/Russia/City/Perovsk.public|Perovsk.public]] 
 - [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Perovsk.internal|Perovsk.internal]] 
 - [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Perovsk.protect|Perovsk.protect]] 
 - [[../../../../../../_private/geo/Continent/Europe/Russia/City/Perovsk.private|Perovsk.private]] 

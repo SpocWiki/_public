@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 4.43 , 72.95 ] 
 type: geo-Region
 title: Alifu_Alifu
@@ -40,10 +40,11 @@ markerFolder: ./Alifu_Alifu/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Asia/Asia~South/Maldives/Counties/Alifu_Alifu.md|Alifu_Alifu]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~South/Maldives/Counties/Alifu_Alifu.internal|Alifu_Alifu.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~South/Maldives/Counties/Alifu_Alifu.protect|Alifu_Alifu.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~South/Maldives/Counties/Alifu_Alifu.private|Alifu_Alifu.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~South/Maldives/Counties/Alifu_Alifu.personal|Alifu_Alifu.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~South/Maldives/Counties/Alifu_Alifu.secret|Alifu_Alifu.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South/Maldives/Counties/Alifu_Alifu|Alifu_Alifu]] 
+- [[../../../../../../../_public/geo/Continent/Asia/Asia~South/Maldives/Counties/Alifu_Alifu.public|Alifu_Alifu.public]] 
+- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South/Maldives/Counties/Alifu_Alifu.internal|Alifu_Alifu.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South/Maldives/Counties/Alifu_Alifu.protect|Alifu_Alifu.protect]] 
+- [[../../../../../../../_private/geo/Continent/Asia/Asia~South/Maldives/Counties/Alifu_Alifu.private|Alifu_Alifu.private]] 
+- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South/Maldives/Counties/Alifu_Alifu.personal|Alifu_Alifu.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South/Maldives/Counties/Alifu_Alifu.secret|Alifu_Alifu.secret]] 
 

@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 6.8 , 101.3 ] 
 type: geo-Region
 title: Pattani
@@ -40,10 +40,11 @@ markerFolder: ./Pattani/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Pattani.md|Pattani]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Pattani.internal|Pattani.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Pattani.protect|Pattani.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Pattani.private|Pattani.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Pattani.personal|Pattani.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Pattani.secret|Pattani.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Pattani|Pattani]] 
+- [[../../../../../../../_public/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Pattani.public|Pattani.public]] 
+- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Pattani.internal|Pattani.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Pattani.protect|Pattani.protect]] 
+- [[../../../../../../../_private/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Pattani.private|Pattani.private]] 
+- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Pattani.personal|Pattani.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Pattani.secret|Pattani.secret]] 
 

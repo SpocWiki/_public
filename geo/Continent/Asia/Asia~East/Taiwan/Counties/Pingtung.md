@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 22.4 , 120.7 ] 
 type: geo-Region
 title: Pingtung
@@ -40,10 +40,11 @@ markerFolder: ./Pingtung/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Asia/Asia~East/Taiwan/Counties/Pingtung.md|Pingtung]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~East/Taiwan/Counties/Pingtung.internal|Pingtung.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~East/Taiwan/Counties/Pingtung.protect|Pingtung.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~East/Taiwan/Counties/Pingtung.private|Pingtung.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~East/Taiwan/Counties/Pingtung.personal|Pingtung.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~East/Taiwan/Counties/Pingtung.secret|Pingtung.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~East/Taiwan/Counties/Pingtung|Pingtung]] 
+- [[../../../../../../../_public/geo/Continent/Asia/Asia~East/Taiwan/Counties/Pingtung.public|Pingtung.public]] 
+- [[../../../../../../../_internal/geo/Continent/Asia/Asia~East/Taiwan/Counties/Pingtung.internal|Pingtung.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Asia/Asia~East/Taiwan/Counties/Pingtung.protect|Pingtung.protect]] 
+- [[../../../../../../../_private/geo/Continent/Asia/Asia~East/Taiwan/Counties/Pingtung.private|Pingtung.private]] 
+- [[../../../../../../../_personal/geo/Continent/Asia/Asia~East/Taiwan/Counties/Pingtung.personal|Pingtung.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Asia/Asia~East/Taiwan/Counties/Pingtung.secret|Pingtung.secret]] 
 

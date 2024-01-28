@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 16.6 , 120.4 ] 
 type: geo-Region
 title: La_Union
@@ -40,10 +40,11 @@ markerFolder: ./La_Union/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Asia/Asia~South~East/Philippines/Counties/La_Union.md|La_Union]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~South~East/Philippines/Counties/La_Union.internal|La_Union.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~South~East/Philippines/Counties/La_Union.protect|La_Union.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~South~East/Philippines/Counties/La_Union.private|La_Union.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~South~East/Philippines/Counties/La_Union.personal|La_Union.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~South~East/Philippines/Counties/La_Union.secret|La_Union.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South~East/Philippines/Counties/La_Union|La_Union]] 
+- [[../../../../../../../_public/geo/Continent/Asia/Asia~South~East/Philippines/Counties/La_Union.public|La_Union.public]] 
+- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South~East/Philippines/Counties/La_Union.internal|La_Union.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South~East/Philippines/Counties/La_Union.protect|La_Union.protect]] 
+- [[../../../../../../../_private/geo/Continent/Asia/Asia~South~East/Philippines/Counties/La_Union.private|La_Union.private]] 
+- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South~East/Philippines/Counties/La_Union.personal|La_Union.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South~East/Philippines/Counties/La_Union.secret|La_Union.secret]] 
 

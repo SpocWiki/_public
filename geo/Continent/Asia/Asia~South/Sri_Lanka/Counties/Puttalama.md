@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 7.9 , 79.9 ] 
 type: geo-Region
 title: Puttalama
@@ -40,10 +40,11 @@ markerFolder: ./Puttalama/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Asia/Asia~South/Sri_Lanka/Counties/Puttalama.md|Puttalama]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~South/Sri_Lanka/Counties/Puttalama.internal|Puttalama.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~South/Sri_Lanka/Counties/Puttalama.protect|Puttalama.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~South/Sri_Lanka/Counties/Puttalama.private|Puttalama.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~South/Sri_Lanka/Counties/Puttalama.personal|Puttalama.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~South/Sri_Lanka/Counties/Puttalama.secret|Puttalama.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South/Sri_Lanka/Counties/Puttalama|Puttalama]] 
+- [[../../../../../../../_public/geo/Continent/Asia/Asia~South/Sri_Lanka/Counties/Puttalama.public|Puttalama.public]] 
+- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South/Sri_Lanka/Counties/Puttalama.internal|Puttalama.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South/Sri_Lanka/Counties/Puttalama.protect|Puttalama.protect]] 
+- [[../../../../../../../_private/geo/Continent/Asia/Asia~South/Sri_Lanka/Counties/Puttalama.private|Puttalama.private]] 
+- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South/Sri_Lanka/Counties/Puttalama.personal|Puttalama.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South/Sri_Lanka/Counties/Puttalama.secret|Puttalama.secret]] 
 

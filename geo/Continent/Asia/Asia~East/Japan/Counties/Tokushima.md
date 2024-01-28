@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 33.9 , 134.2 ] 
 type: geo-Region
 title: Tokushima
@@ -40,10 +40,11 @@ markerFolder: ./Tokushima/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Asia/Asia~East/Japan/Counties/Tokushima.md|Tokushima]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~East/Japan/Counties/Tokushima.internal|Tokushima.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~East/Japan/Counties/Tokushima.protect|Tokushima.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~East/Japan/Counties/Tokushima.private|Tokushima.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~East/Japan/Counties/Tokushima.personal|Tokushima.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~East/Japan/Counties/Tokushima.secret|Tokushima.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~East/Japan/Counties/Tokushima|Tokushima]] 
+- [[../../../../../../../_public/geo/Continent/Asia/Asia~East/Japan/Counties/Tokushima.public|Tokushima.public]] 
+- [[../../../../../../../_internal/geo/Continent/Asia/Asia~East/Japan/Counties/Tokushima.internal|Tokushima.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Asia/Asia~East/Japan/Counties/Tokushima.protect|Tokushima.protect]] 
+- [[../../../../../../../_private/geo/Continent/Asia/Asia~East/Japan/Counties/Tokushima.private|Tokushima.private]] 
+- [[../../../../../../../_personal/geo/Continent/Asia/Asia~East/Japan/Counties/Tokushima.personal|Tokushima.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Asia/Asia~East/Japan/Counties/Tokushima.secret|Tokushima.secret]] 
 

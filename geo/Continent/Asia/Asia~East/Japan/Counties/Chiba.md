@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 35.5 , 140.2 ] 
 type: geo-Region
 title: Chiba
@@ -40,10 +40,11 @@ markerFolder: ./Chiba/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Asia/Asia~East/Japan/Counties/Chiba.md|Chiba]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~East/Japan/Counties/Chiba.internal|Chiba.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~East/Japan/Counties/Chiba.protect|Chiba.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~East/Japan/Counties/Chiba.private|Chiba.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~East/Japan/Counties/Chiba.personal|Chiba.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~East/Japan/Counties/Chiba.secret|Chiba.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~East/Japan/Counties/Chiba|Chiba]] 
+- [[../../../../../../../_public/geo/Continent/Asia/Asia~East/Japan/Counties/Chiba.public|Chiba.public]] 
+- [[../../../../../../../_internal/geo/Continent/Asia/Asia~East/Japan/Counties/Chiba.internal|Chiba.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Asia/Asia~East/Japan/Counties/Chiba.protect|Chiba.protect]] 
+- [[../../../../../../../_private/geo/Continent/Asia/Asia~East/Japan/Counties/Chiba.private|Chiba.private]] 
+- [[../../../../../../../_personal/geo/Continent/Asia/Asia~East/Japan/Counties/Chiba.personal|Chiba.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Asia/Asia~East/Japan/Counties/Chiba.secret|Chiba.secret]] 
 

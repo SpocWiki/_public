@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 6.2 , 101.7 ] 
 type: geo-Region
 title: Narathiwat
@@ -40,10 +40,11 @@ markerFolder: ./Narathiwat/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Narathiwat.md|Narathiwat]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Narathiwat.internal|Narathiwat.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Narathiwat.protect|Narathiwat.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Narathiwat.private|Narathiwat.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Narathiwat.personal|Narathiwat.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Narathiwat.secret|Narathiwat.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Narathiwat|Narathiwat]] 
+- [[../../../../../../../_public/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Narathiwat.public|Narathiwat.public]] 
+- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Narathiwat.internal|Narathiwat.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Narathiwat.protect|Narathiwat.protect]] 
+- [[../../../../../../../_private/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Narathiwat.private|Narathiwat.private]] 
+- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Narathiwat.personal|Narathiwat.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Narathiwat.secret|Narathiwat.secret]] 
 

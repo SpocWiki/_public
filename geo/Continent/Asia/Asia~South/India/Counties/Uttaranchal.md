@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 30.1 , 79.3 ] 
 type: geo-Region
 title: Uttaranchal
@@ -40,10 +40,11 @@ markerFolder: ./Uttaranchal/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Asia/Asia~South/India/Counties/Uttaranchal.md|Uttaranchal]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~South/India/Counties/Uttaranchal.internal|Uttaranchal.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~South/India/Counties/Uttaranchal.protect|Uttaranchal.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~South/India/Counties/Uttaranchal.private|Uttaranchal.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~South/India/Counties/Uttaranchal.personal|Uttaranchal.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~South/India/Counties/Uttaranchal.secret|Uttaranchal.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South/India/Counties/Uttaranchal|Uttaranchal]] 
+- [[../../../../../../../_public/geo/Continent/Asia/Asia~South/India/Counties/Uttaranchal.public|Uttaranchal.public]] 
+- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South/India/Counties/Uttaranchal.internal|Uttaranchal.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South/India/Counties/Uttaranchal.protect|Uttaranchal.protect]] 
+- [[../../../../../../../_private/geo/Continent/Asia/Asia~South/India/Counties/Uttaranchal.private|Uttaranchal.private]] 
+- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South/India/Counties/Uttaranchal.personal|Uttaranchal.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South/India/Counties/Uttaranchal.secret|Uttaranchal.secret]] 
 

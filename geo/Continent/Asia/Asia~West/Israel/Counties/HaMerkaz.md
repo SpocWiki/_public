@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 32.1 , 34.9 ] 
 type: geo-Region
 title: HaMerkaz
@@ -40,10 +40,11 @@ markerFolder: ./HaMerkaz/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Asia/Asia~West/Israel/Counties/HaMerkaz.md|HaMerkaz]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~West/Israel/Counties/HaMerkaz.internal|HaMerkaz.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~West/Israel/Counties/HaMerkaz.protect|HaMerkaz.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~West/Israel/Counties/HaMerkaz.private|HaMerkaz.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~West/Israel/Counties/HaMerkaz.personal|HaMerkaz.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~West/Israel/Counties/HaMerkaz.secret|HaMerkaz.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~West/Israel/Counties/HaMerkaz|HaMerkaz]] 
+- [[../../../../../../../_public/geo/Continent/Asia/Asia~West/Israel/Counties/HaMerkaz.public|HaMerkaz.public]] 
+- [[../../../../../../../_internal/geo/Continent/Asia/Asia~West/Israel/Counties/HaMerkaz.internal|HaMerkaz.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Asia/Asia~West/Israel/Counties/HaMerkaz.protect|HaMerkaz.protect]] 
+- [[../../../../../../../_private/geo/Continent/Asia/Asia~West/Israel/Counties/HaMerkaz.private|HaMerkaz.private]] 
+- [[../../../../../../../_personal/geo/Continent/Asia/Asia~West/Israel/Counties/HaMerkaz.personal|HaMerkaz.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Asia/Asia~West/Israel/Counties/HaMerkaz.secret|HaMerkaz.secret]] 
 

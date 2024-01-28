@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 16.6 , 103.7 ] 
 type: geo-Region
 title: Kalasin
@@ -40,10 +40,11 @@ markerFolder: ./Kalasin/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Kalasin.md|Kalasin]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Kalasin.internal|Kalasin.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Kalasin.protect|Kalasin.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Kalasin.private|Kalasin.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Kalasin.personal|Kalasin.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Kalasin.secret|Kalasin.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Kalasin|Kalasin]] 
+- [[../../../../../../../_public/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Kalasin.public|Kalasin.public]] 
+- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Kalasin.internal|Kalasin.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Kalasin.protect|Kalasin.protect]] 
+- [[../../../../../../../_private/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Kalasin.private|Kalasin.private]] 
+- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Kalasin.personal|Kalasin.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Kalasin.secret|Kalasin.secret]] 
 

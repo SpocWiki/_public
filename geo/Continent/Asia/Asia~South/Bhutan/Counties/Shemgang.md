@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 27.1 , 90.8 ] 
 type: geo-Region
 title: Shemgang
@@ -40,10 +40,11 @@ markerFolder: ./Shemgang/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Asia/Asia~South/Bhutan/Counties/Shemgang.md|Shemgang]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~South/Bhutan/Counties/Shemgang.internal|Shemgang.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~South/Bhutan/Counties/Shemgang.protect|Shemgang.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~South/Bhutan/Counties/Shemgang.private|Shemgang.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~South/Bhutan/Counties/Shemgang.personal|Shemgang.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~South/Bhutan/Counties/Shemgang.secret|Shemgang.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South/Bhutan/Counties/Shemgang|Shemgang]] 
+- [[../../../../../../../_public/geo/Continent/Asia/Asia~South/Bhutan/Counties/Shemgang.public|Shemgang.public]] 
+- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South/Bhutan/Counties/Shemgang.internal|Shemgang.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South/Bhutan/Counties/Shemgang.protect|Shemgang.protect]] 
+- [[../../../../../../../_private/geo/Continent/Asia/Asia~South/Bhutan/Counties/Shemgang.private|Shemgang.private]] 
+- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South/Bhutan/Counties/Shemgang.personal|Shemgang.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South/Bhutan/Counties/Shemgang.secret|Shemgang.secret]] 
 

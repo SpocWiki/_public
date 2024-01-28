@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 22.25 , 113.93 ] 
 type: geo-Region
 title: Islands
@@ -40,10 +40,11 @@ markerFolder: ./Islands/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Asia/Asia~East/China/Hong_Kong/Counties/Islands.md|Islands]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~East/China/Hong_Kong/Counties/Islands.internal|Islands.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~East/China/Hong_Kong/Counties/Islands.protect|Islands.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~East/China/Hong_Kong/Counties/Islands.private|Islands.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~East/China/Hong_Kong/Counties/Islands.personal|Islands.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~East/China/Hong_Kong/Counties/Islands.secret|Islands.secret]] 
+- [[../../../../../../../../_Standards/geo/Continent/Asia/Asia~East/China/Hong_Kong/Counties/Islands|Islands]] 
+- [[../../../../../../../../_public/geo/Continent/Asia/Asia~East/China/Hong_Kong/Counties/Islands.public|Islands.public]] 
+- [[../../../../../../../../_internal/geo/Continent/Asia/Asia~East/China/Hong_Kong/Counties/Islands.internal|Islands.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Asia/Asia~East/China/Hong_Kong/Counties/Islands.protect|Islands.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Asia/Asia~East/China/Hong_Kong/Counties/Islands.private|Islands.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Asia/Asia~East/China/Hong_Kong/Counties/Islands.personal|Islands.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Asia/Asia~East/China/Hong_Kong/Counties/Islands.secret|Islands.secret]] 
 

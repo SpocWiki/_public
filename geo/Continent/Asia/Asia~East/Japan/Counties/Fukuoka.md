@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 33.5 , 130.5 ] 
 type: geo-Region
 title: Fukuoka
@@ -40,10 +40,11 @@ markerFolder: ./Fukuoka/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Asia/Asia~East/Japan/Counties/Fukuoka.md|Fukuoka]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~East/Japan/Counties/Fukuoka.internal|Fukuoka.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~East/Japan/Counties/Fukuoka.protect|Fukuoka.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~East/Japan/Counties/Fukuoka.private|Fukuoka.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~East/Japan/Counties/Fukuoka.personal|Fukuoka.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~East/Japan/Counties/Fukuoka.secret|Fukuoka.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~East/Japan/Counties/Fukuoka|Fukuoka]] 
+- [[../../../../../../../_public/geo/Continent/Asia/Asia~East/Japan/Counties/Fukuoka.public|Fukuoka.public]] 
+- [[../../../../../../../_internal/geo/Continent/Asia/Asia~East/Japan/Counties/Fukuoka.internal|Fukuoka.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Asia/Asia~East/Japan/Counties/Fukuoka.protect|Fukuoka.protect]] 
+- [[../../../../../../../_private/geo/Continent/Asia/Asia~East/Japan/Counties/Fukuoka.private|Fukuoka.private]] 
+- [[../../../../../../../_personal/geo/Continent/Asia/Asia~East/Japan/Counties/Fukuoka.personal|Fukuoka.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Asia/Asia~East/Japan/Counties/Fukuoka.secret|Fukuoka.secret]] 
 

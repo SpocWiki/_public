@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 27.6 , 88.4 ] 
 type: geo-Region
 title: Sikkim
@@ -40,10 +40,11 @@ markerFolder: ./Sikkim/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Asia/Asia~South/India/Counties/Sikkim.md|Sikkim]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~South/India/Counties/Sikkim.internal|Sikkim.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~South/India/Counties/Sikkim.protect|Sikkim.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~South/India/Counties/Sikkim.private|Sikkim.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~South/India/Counties/Sikkim.personal|Sikkim.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~South/India/Counties/Sikkim.secret|Sikkim.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South/India/Counties/Sikkim|Sikkim]] 
+- [[../../../../../../../_public/geo/Continent/Asia/Asia~South/India/Counties/Sikkim.public|Sikkim.public]] 
+- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South/India/Counties/Sikkim.internal|Sikkim.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South/India/Counties/Sikkim.protect|Sikkim.protect]] 
+- [[../../../../../../../_private/geo/Continent/Asia/Asia~South/India/Counties/Sikkim.private|Sikkim.private]] 
+- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South/India/Counties/Sikkim.personal|Sikkim.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South/India/Counties/Sikkim.secret|Sikkim.secret]] 
 

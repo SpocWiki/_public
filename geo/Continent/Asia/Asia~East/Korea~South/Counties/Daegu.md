@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 35.9 , 128.6 ] 
 type: geo-Region
 title: Daegu
@@ -40,10 +40,11 @@ markerFolder: ./Daegu/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Asia/Asia~East/Korea~South/Counties/Daegu.md|Daegu]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~East/Korea~South/Counties/Daegu.internal|Daegu.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~East/Korea~South/Counties/Daegu.protect|Daegu.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~East/Korea~South/Counties/Daegu.private|Daegu.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~East/Korea~South/Counties/Daegu.personal|Daegu.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~East/Korea~South/Counties/Daegu.secret|Daegu.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~East/Korea~South/Counties/Daegu|Daegu]] 
+- [[../../../../../../../_public/geo/Continent/Asia/Asia~East/Korea~South/Counties/Daegu.public|Daegu.public]] 
+- [[../../../../../../../_internal/geo/Continent/Asia/Asia~East/Korea~South/Counties/Daegu.internal|Daegu.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Asia/Asia~East/Korea~South/Counties/Daegu.protect|Daegu.protect]] 
+- [[../../../../../../../_private/geo/Continent/Asia/Asia~East/Korea~South/Counties/Daegu.private|Daegu.private]] 
+- [[../../../../../../../_personal/geo/Continent/Asia/Asia~East/Korea~South/Counties/Daegu.personal|Daegu.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Asia/Asia~East/Korea~South/Counties/Daegu.secret|Daegu.secret]] 
 

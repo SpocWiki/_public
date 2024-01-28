@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 2.69 , 72.87 ] 
 type: geo-Region
 title: Dhaalu
@@ -40,10 +40,11 @@ markerFolder: ./Dhaalu/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Asia/Asia~South/Maldives/Counties/Dhaalu.md|Dhaalu]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~South/Maldives/Counties/Dhaalu.internal|Dhaalu.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~South/Maldives/Counties/Dhaalu.protect|Dhaalu.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~South/Maldives/Counties/Dhaalu.private|Dhaalu.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~South/Maldives/Counties/Dhaalu.personal|Dhaalu.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~South/Maldives/Counties/Dhaalu.secret|Dhaalu.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South/Maldives/Counties/Dhaalu|Dhaalu]] 
+- [[../../../../../../../_public/geo/Continent/Asia/Asia~South/Maldives/Counties/Dhaalu.public|Dhaalu.public]] 
+- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South/Maldives/Counties/Dhaalu.internal|Dhaalu.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South/Maldives/Counties/Dhaalu.protect|Dhaalu.protect]] 
+- [[../../../../../../../_private/geo/Continent/Asia/Asia~South/Maldives/Counties/Dhaalu.private|Dhaalu.private]] 
+- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South/Maldives/Counties/Dhaalu.personal|Dhaalu.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South/Maldives/Counties/Dhaalu.secret|Dhaalu.secret]] 
 

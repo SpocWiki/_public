@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 26.14 , 50.58 ] 
 type: geo-Region
 title: Al_Wusţá
@@ -40,10 +40,11 @@ markerFolder: ./Al_Wusţá/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Asia/Asia~West/Bahrain/Counties/Al_Wusţá.md|Al_Wusţá]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~West/Bahrain/Counties/Al_Wusţá.internal|Al_Wusţá.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~West/Bahrain/Counties/Al_Wusţá.protect|Al_Wusţá.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~West/Bahrain/Counties/Al_Wusţá.private|Al_Wusţá.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~West/Bahrain/Counties/Al_Wusţá.personal|Al_Wusţá.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~West/Bahrain/Counties/Al_Wusţá.secret|Al_Wusţá.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~West/Bahrain/Counties/Al_Wusţá|Al_Wusţá]] 
+- [[../../../../../../../_public/geo/Continent/Asia/Asia~West/Bahrain/Counties/Al_Wusţá.public|Al_Wusţá.public]] 
+- [[../../../../../../../_internal/geo/Continent/Asia/Asia~West/Bahrain/Counties/Al_Wusţá.internal|Al_Wusţá.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Asia/Asia~West/Bahrain/Counties/Al_Wusţá.protect|Al_Wusţá.protect]] 
+- [[../../../../../../../_private/geo/Continent/Asia/Asia~West/Bahrain/Counties/Al_Wusţá.private|Al_Wusţá.private]] 
+- [[../../../../../../../_personal/geo/Continent/Asia/Asia~West/Bahrain/Counties/Al_Wusţá.personal|Al_Wusţá.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Asia/Asia~West/Bahrain/Counties/Al_Wusţá.secret|Al_Wusţá.secret]] 
 

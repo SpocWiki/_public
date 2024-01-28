@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 16 , 120.6 ] 
 type: geo-Region
 title: Pangasinan
@@ -40,10 +40,11 @@ markerFolder: ./Pangasinan/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Pangasinan.md|Pangasinan]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Pangasinan.internal|Pangasinan.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Pangasinan.protect|Pangasinan.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Pangasinan.private|Pangasinan.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Pangasinan.personal|Pangasinan.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Pangasinan.secret|Pangasinan.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Pangasinan|Pangasinan]] 
+- [[../../../../../../../_public/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Pangasinan.public|Pangasinan.public]] 
+- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Pangasinan.internal|Pangasinan.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Pangasinan.protect|Pangasinan.protect]] 
+- [[../../../../../../../_private/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Pangasinan.private|Pangasinan.private]] 
+- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Pangasinan.personal|Pangasinan.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Pangasinan.secret|Pangasinan.secret]] 
 

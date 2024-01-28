@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 27.2 , 80.8 ] 
 type: geo-Region
 title: Uttar_Pradesh
@@ -40,10 +40,11 @@ markerFolder: ./Uttar_Pradesh/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Asia/Asia~South/India/Counties/Uttar_Pradesh.md|Uttar_Pradesh]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~South/India/Counties/Uttar_Pradesh.internal|Uttar_Pradesh.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~South/India/Counties/Uttar_Pradesh.protect|Uttar_Pradesh.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~South/India/Counties/Uttar_Pradesh.private|Uttar_Pradesh.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~South/India/Counties/Uttar_Pradesh.personal|Uttar_Pradesh.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~South/India/Counties/Uttar_Pradesh.secret|Uttar_Pradesh.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South/India/Counties/Uttar_Pradesh|Uttar_Pradesh]] 
+- [[../../../../../../../_public/geo/Continent/Asia/Asia~South/India/Counties/Uttar_Pradesh.public|Uttar_Pradesh.public]] 
+- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South/India/Counties/Uttar_Pradesh.internal|Uttar_Pradesh.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South/India/Counties/Uttar_Pradesh.protect|Uttar_Pradesh.protect]] 
+- [[../../../../../../../_private/geo/Continent/Asia/Asia~South/India/Counties/Uttar_Pradesh.private|Uttar_Pradesh.private]] 
+- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South/India/Counties/Uttar_Pradesh.personal|Uttar_Pradesh.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South/India/Counties/Uttar_Pradesh.secret|Uttar_Pradesh.secret]] 
 

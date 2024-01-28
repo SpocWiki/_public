@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 8.6 , 99.7 ] 
 type: geo-Region
 title: Nakhon_Si_Thammarat
@@ -40,10 +40,11 @@ markerFolder: ./Nakhon_Si_Thammarat/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Nakhon_Si_Thammarat.md|Nakhon_Si_Thammarat]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Nakhon_Si_Thammarat.internal|Nakhon_Si_Thammarat.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Nakhon_Si_Thammarat.protect|Nakhon_Si_Thammarat.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Nakhon_Si_Thammarat.private|Nakhon_Si_Thammarat.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Nakhon_Si_Thammarat.personal|Nakhon_Si_Thammarat.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Nakhon_Si_Thammarat.secret|Nakhon_Si_Thammarat.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Nakhon_Si_Thammarat|Nakhon_Si_Thammarat]] 
+- [[../../../../../../../_public/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Nakhon_Si_Thammarat.public|Nakhon_Si_Thammarat.public]] 
+- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Nakhon_Si_Thammarat.internal|Nakhon_Si_Thammarat.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Nakhon_Si_Thammarat.protect|Nakhon_Si_Thammarat.protect]] 
+- [[../../../../../../../_private/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Nakhon_Si_Thammarat.private|Nakhon_Si_Thammarat.private]] 
+- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Nakhon_Si_Thammarat.personal|Nakhon_Si_Thammarat.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Nakhon_Si_Thammarat.secret|Nakhon_Si_Thammarat.secret]] 
 

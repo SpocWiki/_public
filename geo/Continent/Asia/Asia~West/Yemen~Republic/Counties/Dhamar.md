@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 14.6 , 44.4 ] 
 type: geo-Region
 title: Dhamar
@@ -40,10 +40,11 @@ markerFolder: ./Dhamar/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Asia/Asia~West/Yemen~Republic/Counties/Dhamar.md|Dhamar]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~West/Yemen~Republic/Counties/Dhamar.internal|Dhamar.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~West/Yemen~Republic/Counties/Dhamar.protect|Dhamar.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~West/Yemen~Republic/Counties/Dhamar.private|Dhamar.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~West/Yemen~Republic/Counties/Dhamar.personal|Dhamar.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~West/Yemen~Republic/Counties/Dhamar.secret|Dhamar.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~West/Yemen~Republic/Counties/Dhamar|Dhamar]] 
+- [[../../../../../../../_public/geo/Continent/Asia/Asia~West/Yemen~Republic/Counties/Dhamar.public|Dhamar.public]] 
+- [[../../../../../../../_internal/geo/Continent/Asia/Asia~West/Yemen~Republic/Counties/Dhamar.internal|Dhamar.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Asia/Asia~West/Yemen~Republic/Counties/Dhamar.protect|Dhamar.protect]] 
+- [[../../../../../../../_private/geo/Continent/Asia/Asia~West/Yemen~Republic/Counties/Dhamar.private|Dhamar.private]] 
+- [[../../../../../../../_personal/geo/Continent/Asia/Asia~West/Yemen~Republic/Counties/Dhamar.personal|Dhamar.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Asia/Asia~West/Yemen~Republic/Counties/Dhamar.secret|Dhamar.secret]] 
 

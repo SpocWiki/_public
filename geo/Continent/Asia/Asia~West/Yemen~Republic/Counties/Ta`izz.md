@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 13.3 , 43.8 ] 
 type: geo-Region
 title: Ta`izz
@@ -40,10 +40,11 @@ markerFolder: ./Ta`izz/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Asia/Asia~West/Yemen~Republic/Counties/Ta`izz.md|Ta`izz]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~West/Yemen~Republic/Counties/Ta`izz.internal|Ta`izz.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~West/Yemen~Republic/Counties/Ta`izz.protect|Ta`izz.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~West/Yemen~Republic/Counties/Ta`izz.private|Ta`izz.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~West/Yemen~Republic/Counties/Ta`izz.personal|Ta`izz.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~West/Yemen~Republic/Counties/Ta`izz.secret|Ta`izz.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~West/Yemen~Republic/Counties/Ta`izz|Ta`izz]] 
+- [[../../../../../../../_public/geo/Continent/Asia/Asia~West/Yemen~Republic/Counties/Ta`izz.public|Ta`izz.public]] 
+- [[../../../../../../../_internal/geo/Continent/Asia/Asia~West/Yemen~Republic/Counties/Ta`izz.internal|Ta`izz.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Asia/Asia~West/Yemen~Republic/Counties/Ta`izz.protect|Ta`izz.protect]] 
+- [[../../../../../../../_private/geo/Continent/Asia/Asia~West/Yemen~Republic/Counties/Ta`izz.private|Ta`izz.private]] 
+- [[../../../../../../../_personal/geo/Continent/Asia/Asia~West/Yemen~Republic/Counties/Ta`izz.personal|Ta`izz.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Asia/Asia~West/Yemen~Republic/Counties/Ta`izz.secret|Ta`izz.secret]] 
 

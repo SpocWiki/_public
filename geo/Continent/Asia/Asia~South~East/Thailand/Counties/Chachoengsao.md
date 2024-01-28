@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 13.6 , 101.6 ] 
 type: geo-Region
 title: Chachoengsao
@@ -40,10 +40,11 @@ markerFolder: ./Chachoengsao/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Chachoengsao.md|Chachoengsao]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Chachoengsao.internal|Chachoengsao.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Chachoengsao.protect|Chachoengsao.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Chachoengsao.private|Chachoengsao.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Chachoengsao.personal|Chachoengsao.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Chachoengsao.secret|Chachoengsao.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Chachoengsao|Chachoengsao]] 
+- [[../../../../../../../_public/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Chachoengsao.public|Chachoengsao.public]] 
+- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Chachoengsao.internal|Chachoengsao.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Chachoengsao.protect|Chachoengsao.protect]] 
+- [[../../../../../../../_private/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Chachoengsao.private|Chachoengsao.private]] 
+- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Chachoengsao.personal|Chachoengsao.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Chachoengsao.secret|Chachoengsao.secret]] 
 

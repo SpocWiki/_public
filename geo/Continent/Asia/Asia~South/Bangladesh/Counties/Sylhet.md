@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 24.6 , 91.7 ] 
 type: geo-Region
 title: Sylhet
@@ -40,10 +40,11 @@ markerFolder: ./Sylhet/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Asia/Asia~South/Bangladesh/Counties/Sylhet.md|Sylhet]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~South/Bangladesh/Counties/Sylhet.internal|Sylhet.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~South/Bangladesh/Counties/Sylhet.protect|Sylhet.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~South/Bangladesh/Counties/Sylhet.private|Sylhet.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~South/Bangladesh/Counties/Sylhet.personal|Sylhet.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~South/Bangladesh/Counties/Sylhet.secret|Sylhet.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South/Bangladesh/Counties/Sylhet|Sylhet]] 
+- [[../../../../../../../_public/geo/Continent/Asia/Asia~South/Bangladesh/Counties/Sylhet.public|Sylhet.public]] 
+- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South/Bangladesh/Counties/Sylhet.internal|Sylhet.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South/Bangladesh/Counties/Sylhet.protect|Sylhet.protect]] 
+- [[../../../../../../../_private/geo/Continent/Asia/Asia~South/Bangladesh/Counties/Sylhet.private|Sylhet.private]] 
+- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South/Bangladesh/Counties/Sylhet.personal|Sylhet.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South/Bangladesh/Counties/Sylhet.secret|Sylhet.secret]] 
 

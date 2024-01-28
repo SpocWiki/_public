@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 23.7 , 120.4 ] 
 type: geo-Region
 title: Yunlin
@@ -40,10 +40,11 @@ markerFolder: ./Yunlin/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Asia/Asia~East/Taiwan/Counties/Yunlin.md|Yunlin]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~East/Taiwan/Counties/Yunlin.internal|Yunlin.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~East/Taiwan/Counties/Yunlin.protect|Yunlin.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~East/Taiwan/Counties/Yunlin.private|Yunlin.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~East/Taiwan/Counties/Yunlin.personal|Yunlin.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~East/Taiwan/Counties/Yunlin.secret|Yunlin.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~East/Taiwan/Counties/Yunlin|Yunlin]] 
+- [[../../../../../../../_public/geo/Continent/Asia/Asia~East/Taiwan/Counties/Yunlin.public|Yunlin.public]] 
+- [[../../../../../../../_internal/geo/Continent/Asia/Asia~East/Taiwan/Counties/Yunlin.internal|Yunlin.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Asia/Asia~East/Taiwan/Counties/Yunlin.protect|Yunlin.protect]] 
+- [[../../../../../../../_private/geo/Continent/Asia/Asia~East/Taiwan/Counties/Yunlin.private|Yunlin.private]] 
+- [[../../../../../../../_personal/geo/Continent/Asia/Asia~East/Taiwan/Counties/Yunlin.personal|Yunlin.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Asia/Asia~East/Taiwan/Counties/Yunlin.secret|Yunlin.secret]] 
 

@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 30.2 , 47.6 ] 
 type: geo-Region
 title: Al-Basrah
@@ -40,10 +40,11 @@ markerFolder: ./Al-Basrah/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Asia/Asia~West/Iran/Iraq/Counties/Al-Basrah.md|Al-Basrah]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~West/Iran/Iraq/Counties/Al-Basrah.internal|Al-Basrah.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~West/Iran/Iraq/Counties/Al-Basrah.protect|Al-Basrah.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~West/Iran/Iraq/Counties/Al-Basrah.private|Al-Basrah.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~West/Iran/Iraq/Counties/Al-Basrah.personal|Al-Basrah.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~West/Iran/Iraq/Counties/Al-Basrah.secret|Al-Basrah.secret]] 
+- [[../../../../../../../../_Standards/geo/Continent/Asia/Asia~West/Iran/Iraq/Counties/Al-Basrah|Al-Basrah]] 
+- [[../../../../../../../../_public/geo/Continent/Asia/Asia~West/Iran/Iraq/Counties/Al-Basrah.public|Al-Basrah.public]] 
+- [[../../../../../../../../_internal/geo/Continent/Asia/Asia~West/Iran/Iraq/Counties/Al-Basrah.internal|Al-Basrah.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Asia/Asia~West/Iran/Iraq/Counties/Al-Basrah.protect|Al-Basrah.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Asia/Asia~West/Iran/Iraq/Counties/Al-Basrah.private|Al-Basrah.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Asia/Asia~West/Iran/Iraq/Counties/Al-Basrah.personal|Al-Basrah.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Asia/Asia~West/Iran/Iraq/Counties/Al-Basrah.secret|Al-Basrah.secret]] 
 

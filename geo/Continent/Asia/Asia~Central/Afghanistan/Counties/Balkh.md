@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 36.5 , 67 ] 
 type: geo-Region
 title: Balkh
@@ -40,10 +40,11 @@ markerFolder: ./Balkh/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Asia/Asia~Central/Afghanistan/Counties/Balkh.md|Balkh]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~Central/Afghanistan/Counties/Balkh.internal|Balkh.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~Central/Afghanistan/Counties/Balkh.protect|Balkh.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~Central/Afghanistan/Counties/Balkh.private|Balkh.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~Central/Afghanistan/Counties/Balkh.personal|Balkh.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~Central/Afghanistan/Counties/Balkh.secret|Balkh.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~Central/Afghanistan/Counties/Balkh|Balkh]] 
+- [[../../../../../../../_public/geo/Continent/Asia/Asia~Central/Afghanistan/Counties/Balkh.public|Balkh.public]] 
+- [[../../../../../../../_internal/geo/Continent/Asia/Asia~Central/Afghanistan/Counties/Balkh.internal|Balkh.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Asia/Asia~Central/Afghanistan/Counties/Balkh.protect|Balkh.protect]] 
+- [[../../../../../../../_private/geo/Continent/Asia/Asia~Central/Afghanistan/Counties/Balkh.private|Balkh.private]] 
+- [[../../../../../../../_personal/geo/Continent/Asia/Asia~Central/Afghanistan/Counties/Balkh.personal|Balkh.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Asia/Asia~Central/Afghanistan/Counties/Balkh.secret|Balkh.secret]] 
 

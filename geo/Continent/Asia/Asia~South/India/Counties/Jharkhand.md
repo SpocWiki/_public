@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 23.7 , 85.1 ] 
 type: geo-Region
 title: Jharkhand
@@ -40,10 +40,11 @@ markerFolder: ./Jharkhand/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Asia/Asia~South/India/Counties/Jharkhand.md|Jharkhand]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~South/India/Counties/Jharkhand.internal|Jharkhand.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~South/India/Counties/Jharkhand.protect|Jharkhand.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~South/India/Counties/Jharkhand.private|Jharkhand.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~South/India/Counties/Jharkhand.personal|Jharkhand.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~South/India/Counties/Jharkhand.secret|Jharkhand.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South/India/Counties/Jharkhand|Jharkhand]] 
+- [[../../../../../../../_public/geo/Continent/Asia/Asia~South/India/Counties/Jharkhand.public|Jharkhand.public]] 
+- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South/India/Counties/Jharkhand.internal|Jharkhand.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South/India/Counties/Jharkhand.protect|Jharkhand.protect]] 
+- [[../../../../../../../_private/geo/Continent/Asia/Asia~South/India/Counties/Jharkhand.private|Jharkhand.private]] 
+- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South/India/Counties/Jharkhand.personal|Jharkhand.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South/India/Counties/Jharkhand.secret|Jharkhand.secret]] 
 

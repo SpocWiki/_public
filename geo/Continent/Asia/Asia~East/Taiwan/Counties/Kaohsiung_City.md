@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 23 , 120.7 ] 
 type: geo-Region
 title: Kaohsiung_City
@@ -40,10 +40,11 @@ markerFolder: ./Kaohsiung_City/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Asia/Asia~East/Taiwan/Counties/Kaohsiung_City.md|Kaohsiung_City]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~East/Taiwan/Counties/Kaohsiung_City.internal|Kaohsiung_City.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~East/Taiwan/Counties/Kaohsiung_City.protect|Kaohsiung_City.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~East/Taiwan/Counties/Kaohsiung_City.private|Kaohsiung_City.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~East/Taiwan/Counties/Kaohsiung_City.personal|Kaohsiung_City.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~East/Taiwan/Counties/Kaohsiung_City.secret|Kaohsiung_City.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~East/Taiwan/Counties/Kaohsiung_City|Kaohsiung_City]] 
+- [[../../../../../../../_public/geo/Continent/Asia/Asia~East/Taiwan/Counties/Kaohsiung_City.public|Kaohsiung_City.public]] 
+- [[../../../../../../../_internal/geo/Continent/Asia/Asia~East/Taiwan/Counties/Kaohsiung_City.internal|Kaohsiung_City.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Asia/Asia~East/Taiwan/Counties/Kaohsiung_City.protect|Kaohsiung_City.protect]] 
+- [[../../../../../../../_private/geo/Continent/Asia/Asia~East/Taiwan/Counties/Kaohsiung_City.private|Kaohsiung_City.private]] 
+- [[../../../../../../../_personal/geo/Continent/Asia/Asia~East/Taiwan/Counties/Kaohsiung_City.personal|Kaohsiung_City.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Asia/Asia~East/Taiwan/Counties/Kaohsiung_City.secret|Kaohsiung_City.secret]] 
 

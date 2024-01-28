@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 33.5 , 48.5 ] 
 type: geo-Region
 title: Lorestan
@@ -40,10 +40,11 @@ markerFolder: ./Lorestan/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Asia/Asia~West/Iran/Counties/Lorestan.md|Lorestan]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~West/Iran/Counties/Lorestan.internal|Lorestan.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~West/Iran/Counties/Lorestan.protect|Lorestan.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~West/Iran/Counties/Lorestan.private|Lorestan.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~West/Iran/Counties/Lorestan.personal|Lorestan.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~West/Iran/Counties/Lorestan.secret|Lorestan.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~West/Iran/Counties/Lorestan|Lorestan]] 
+- [[../../../../../../../_public/geo/Continent/Asia/Asia~West/Iran/Counties/Lorestan.public|Lorestan.public]] 
+- [[../../../../../../../_internal/geo/Continent/Asia/Asia~West/Iran/Counties/Lorestan.internal|Lorestan.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Asia/Asia~West/Iran/Counties/Lorestan.protect|Lorestan.protect]] 
+- [[../../../../../../../_private/geo/Continent/Asia/Asia~West/Iran/Counties/Lorestan.private|Lorestan.private]] 
+- [[../../../../../../../_personal/geo/Continent/Asia/Asia~West/Iran/Counties/Lorestan.personal|Lorestan.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Asia/Asia~West/Iran/Counties/Lorestan.secret|Lorestan.secret]] 
 

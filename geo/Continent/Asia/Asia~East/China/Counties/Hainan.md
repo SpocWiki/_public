@@ -40,10 +40,11 @@ markerFolder: ./Hainan/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Asia/Asia~East/China/Counties/Hainan.md|Hainan]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~East/China/Counties/Hainan.internal|Hainan.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~East/China/Counties/Hainan.protect|Hainan.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~East/China/Counties/Hainan.private|Hainan.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~East/China/Counties/Hainan.personal|Hainan.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~East/China/Counties/Hainan.secret|Hainan.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~East/China/Counties/Hainan|Hainan]] 
+- [[../../../../../../../_public/geo/Continent/Asia/Asia~East/China/Counties/Hainan.public|Hainan.public]] 
+- [[../../../../../../../_internal/geo/Continent/Asia/Asia~East/China/Counties/Hainan.internal|Hainan.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Asia/Asia~East/China/Counties/Hainan.protect|Hainan.protect]] 
+- [[../../../../../../../_private/geo/Continent/Asia/Asia~East/China/Counties/Hainan.private|Hainan.private]] 
+- [[../../../../../../../_personal/geo/Continent/Asia/Asia~East/China/Counties/Hainan.personal|Hainan.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Asia/Asia~East/China/Counties/Hainan.secret|Hainan.secret]] 
 

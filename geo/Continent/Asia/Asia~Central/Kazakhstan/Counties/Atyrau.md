@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 47.5 , 51.7 ] 
 type: geo-Region
 title: Atyrau
@@ -40,10 +40,11 @@ markerFolder: ./Atyrau/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Asia/Asia~Central/Kazakhstan/Counties/Atyrau.md|Atyrau]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~Central/Kazakhstan/Counties/Atyrau.internal|Atyrau.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~Central/Kazakhstan/Counties/Atyrau.protect|Atyrau.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~Central/Kazakhstan/Counties/Atyrau.private|Atyrau.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~Central/Kazakhstan/Counties/Atyrau.personal|Atyrau.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~Central/Kazakhstan/Counties/Atyrau.secret|Atyrau.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~Central/Kazakhstan/Counties/Atyrau|Atyrau]] 
+- [[../../../../../../../_public/geo/Continent/Asia/Asia~Central/Kazakhstan/Counties/Atyrau.public|Atyrau.public]] 
+- [[../../../../../../../_internal/geo/Continent/Asia/Asia~Central/Kazakhstan/Counties/Atyrau.internal|Atyrau.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Asia/Asia~Central/Kazakhstan/Counties/Atyrau.protect|Atyrau.protect]] 
+- [[../../../../../../../_private/geo/Continent/Asia/Asia~Central/Kazakhstan/Counties/Atyrau.private|Atyrau.private]] 
+- [[../../../../../../../_personal/geo/Continent/Asia/Asia~Central/Kazakhstan/Counties/Atyrau.personal|Atyrau.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Asia/Asia~Central/Kazakhstan/Counties/Atyrau.secret|Atyrau.secret]] 
 

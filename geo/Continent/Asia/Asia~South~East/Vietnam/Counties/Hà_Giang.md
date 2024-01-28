@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 22.8 , 105 ] 
 type: geo-Region
 title: Hà_Giang
@@ -40,10 +40,11 @@ markerFolder: ./Hà_Giang/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Hà_Giang.md|Hà_Giang]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Hà_Giang.internal|Hà_Giang.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Hà_Giang.protect|Hà_Giang.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Hà_Giang.private|Hà_Giang.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Hà_Giang.personal|Hà_Giang.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Hà_Giang.secret|Hà_Giang.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Hà_Giang|Hà_Giang]] 
+- [[../../../../../../../_public/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Hà_Giang.public|Hà_Giang.public]] 
+- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Hà_Giang.internal|Hà_Giang.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Hà_Giang.protect|Hà_Giang.protect]] 
+- [[../../../../../../../_private/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Hà_Giang.private|Hà_Giang.private]] 
+- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Hà_Giang.personal|Hà_Giang.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Hà_Giang.secret|Hà_Giang.secret]] 
 

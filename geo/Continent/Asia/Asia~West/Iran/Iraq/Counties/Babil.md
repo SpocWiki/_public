@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 32.6 , 44.6 ] 
 type: geo-Region
 title: Babil
@@ -40,10 +40,11 @@ markerFolder: ./Babil/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Asia/Asia~West/Iran/Iraq/Counties/Babil.md|Babil]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~West/Iran/Iraq/Counties/Babil.internal|Babil.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~West/Iran/Iraq/Counties/Babil.protect|Babil.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~West/Iran/Iraq/Counties/Babil.private|Babil.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~West/Iran/Iraq/Counties/Babil.personal|Babil.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~West/Iran/Iraq/Counties/Babil.secret|Babil.secret]] 
+- [[../../../../../../../../_Standards/geo/Continent/Asia/Asia~West/Iran/Iraq/Counties/Babil|Babil]] 
+- [[../../../../../../../../_public/geo/Continent/Asia/Asia~West/Iran/Iraq/Counties/Babil.public|Babil.public]] 
+- [[../../../../../../../../_internal/geo/Continent/Asia/Asia~West/Iran/Iraq/Counties/Babil.internal|Babil.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Asia/Asia~West/Iran/Iraq/Counties/Babil.protect|Babil.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Asia/Asia~West/Iran/Iraq/Counties/Babil.private|Babil.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Asia/Asia~West/Iran/Iraq/Counties/Babil.personal|Babil.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Asia/Asia~West/Iran/Iraq/Counties/Babil.secret|Babil.secret]] 
 

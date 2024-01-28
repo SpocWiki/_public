@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 47.8 , 105.6 ] 
 type: geo-Region
 title: Töv
@@ -40,10 +40,11 @@ markerFolder: ./Töv/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Asia/Asia~East/Mongolia/Counties/Töv.md|Töv]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~East/Mongolia/Counties/Töv.internal|Töv.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~East/Mongolia/Counties/Töv.protect|Töv.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~East/Mongolia/Counties/Töv.private|Töv.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~East/Mongolia/Counties/Töv.personal|Töv.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~East/Mongolia/Counties/Töv.secret|Töv.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~East/Mongolia/Counties/Töv|Töv]] 
+- [[../../../../../../../_public/geo/Continent/Asia/Asia~East/Mongolia/Counties/Töv.public|Töv.public]] 
+- [[../../../../../../../_internal/geo/Continent/Asia/Asia~East/Mongolia/Counties/Töv.internal|Töv.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Asia/Asia~East/Mongolia/Counties/Töv.protect|Töv.protect]] 
+- [[../../../../../../../_private/geo/Continent/Asia/Asia~East/Mongolia/Counties/Töv.private|Töv.private]] 
+- [[../../../../../../../_personal/geo/Continent/Asia/Asia~East/Mongolia/Counties/Töv.personal|Töv.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Asia/Asia~East/Mongolia/Counties/Töv.secret|Töv.secret]] 
 

@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 27 , 90.4 ] 
 type: geo-Region
 title: Geylegphug
@@ -40,10 +40,11 @@ markerFolder: ./Geylegphug/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Asia/Asia~South/Bhutan/Counties/Geylegphug.md|Geylegphug]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~South/Bhutan/Counties/Geylegphug.internal|Geylegphug.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~South/Bhutan/Counties/Geylegphug.protect|Geylegphug.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~South/Bhutan/Counties/Geylegphug.private|Geylegphug.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~South/Bhutan/Counties/Geylegphug.personal|Geylegphug.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~South/Bhutan/Counties/Geylegphug.secret|Geylegphug.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South/Bhutan/Counties/Geylegphug|Geylegphug]] 
+- [[../../../../../../../_public/geo/Continent/Asia/Asia~South/Bhutan/Counties/Geylegphug.public|Geylegphug.public]] 
+- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South/Bhutan/Counties/Geylegphug.internal|Geylegphug.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South/Bhutan/Counties/Geylegphug.protect|Geylegphug.protect]] 
+- [[../../../../../../../_private/geo/Continent/Asia/Asia~South/Bhutan/Counties/Geylegphug.private|Geylegphug.private]] 
+- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South/Bhutan/Counties/Geylegphug.personal|Geylegphug.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South/Bhutan/Counties/Geylegphug.secret|Geylegphug.secret]] 
 

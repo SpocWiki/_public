@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 18.1 , 103.7 ] 
 type: geo-Region
 title: Bueng_Kan
@@ -40,10 +40,11 @@ markerFolder: ./Bueng_Kan/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Bueng_Kan.md|Bueng_Kan]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Bueng_Kan.internal|Bueng_Kan.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Bueng_Kan.protect|Bueng_Kan.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Bueng_Kan.private|Bueng_Kan.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Bueng_Kan.personal|Bueng_Kan.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Bueng_Kan.secret|Bueng_Kan.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Bueng_Kan|Bueng_Kan]] 
+- [[../../../../../../../_public/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Bueng_Kan.public|Bueng_Kan.public]] 
+- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Bueng_Kan.internal|Bueng_Kan.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Bueng_Kan.protect|Bueng_Kan.protect]] 
+- [[../../../../../../../_private/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Bueng_Kan.private|Bueng_Kan.private]] 
+- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Bueng_Kan.personal|Bueng_Kan.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Bueng_Kan.secret|Bueng_Kan.secret]] 
 

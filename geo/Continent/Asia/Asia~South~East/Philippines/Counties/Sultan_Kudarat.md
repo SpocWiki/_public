@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 6.5 , 124.3 ] 
 type: geo-Region
 title: Sultan_Kudarat
@@ -40,10 +40,11 @@ markerFolder: ./Sultan_Kudarat/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Sultan_Kudarat.md|Sultan_Kudarat]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Sultan_Kudarat.internal|Sultan_Kudarat.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Sultan_Kudarat.protect|Sultan_Kudarat.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Sultan_Kudarat.private|Sultan_Kudarat.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Sultan_Kudarat.personal|Sultan_Kudarat.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Sultan_Kudarat.secret|Sultan_Kudarat.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Sultan_Kudarat|Sultan_Kudarat]] 
+- [[../../../../../../../_public/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Sultan_Kudarat.public|Sultan_Kudarat.public]] 
+- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Sultan_Kudarat.internal|Sultan_Kudarat.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Sultan_Kudarat.protect|Sultan_Kudarat.protect]] 
+- [[../../../../../../../_private/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Sultan_Kudarat.private|Sultan_Kudarat.private]] 
+- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Sultan_Kudarat.personal|Sultan_Kudarat.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Sultan_Kudarat.secret|Sultan_Kudarat.secret]] 
 

@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 35 , 132.4 ] 
 type: geo-Region
 title: Shimane
@@ -40,10 +40,11 @@ markerFolder: ./Shimane/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Asia/Asia~East/Japan/Counties/Shimane.md|Shimane]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~East/Japan/Counties/Shimane.internal|Shimane.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~East/Japan/Counties/Shimane.protect|Shimane.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~East/Japan/Counties/Shimane.private|Shimane.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~East/Japan/Counties/Shimane.personal|Shimane.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~East/Japan/Counties/Shimane.secret|Shimane.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~East/Japan/Counties/Shimane|Shimane]] 
+- [[../../../../../../../_public/geo/Continent/Asia/Asia~East/Japan/Counties/Shimane.public|Shimane.public]] 
+- [[../../../../../../../_internal/geo/Continent/Asia/Asia~East/Japan/Counties/Shimane.internal|Shimane.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Asia/Asia~East/Japan/Counties/Shimane.protect|Shimane.protect]] 
+- [[../../../../../../../_private/geo/Continent/Asia/Asia~East/Japan/Counties/Shimane.private|Shimane.private]] 
+- [[../../../../../../../_personal/geo/Continent/Asia/Asia~East/Japan/Counties/Shimane.personal|Shimane.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Asia/Asia~East/Japan/Counties/Shimane.secret|Shimane.secret]] 
 

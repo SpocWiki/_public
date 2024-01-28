@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 17 , 96.1 ] 
 type: geo-Region
 title: Yangon
@@ -40,10 +40,11 @@ markerFolder: ./Yangon/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Asia/Asia~South~East/Myanmar/Counties/Yangon.md|Yangon]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~South~East/Myanmar/Counties/Yangon.internal|Yangon.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~South~East/Myanmar/Counties/Yangon.protect|Yangon.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~South~East/Myanmar/Counties/Yangon.private|Yangon.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~South~East/Myanmar/Counties/Yangon.personal|Yangon.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~South~East/Myanmar/Counties/Yangon.secret|Yangon.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South~East/Myanmar/Counties/Yangon|Yangon]] 
+- [[../../../../../../../_public/geo/Continent/Asia/Asia~South~East/Myanmar/Counties/Yangon.public|Yangon.public]] 
+- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South~East/Myanmar/Counties/Yangon.internal|Yangon.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South~East/Myanmar/Counties/Yangon.protect|Yangon.protect]] 
+- [[../../../../../../../_private/geo/Continent/Asia/Asia~South~East/Myanmar/Counties/Yangon.private|Yangon.private]] 
+- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South~East/Myanmar/Counties/Yangon.personal|Yangon.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South~East/Myanmar/Counties/Yangon.secret|Yangon.secret]] 
 

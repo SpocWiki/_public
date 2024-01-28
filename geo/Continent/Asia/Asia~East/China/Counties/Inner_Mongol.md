@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 45 , 118 ] 
 type: geo-Region
 title: Inner_Mongol
@@ -40,10 +40,11 @@ markerFolder: ./Inner_Mongol/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Asia/Asia~East/China/Counties/Inner_Mongol.md|Inner_Mongol]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~East/China/Counties/Inner_Mongol.internal|Inner_Mongol.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~East/China/Counties/Inner_Mongol.protect|Inner_Mongol.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~East/China/Counties/Inner_Mongol.private|Inner_Mongol.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~East/China/Counties/Inner_Mongol.personal|Inner_Mongol.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~East/China/Counties/Inner_Mongol.secret|Inner_Mongol.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~East/China/Counties/Inner_Mongol|Inner_Mongol]] 
+- [[../../../../../../../_public/geo/Continent/Asia/Asia~East/China/Counties/Inner_Mongol.public|Inner_Mongol.public]] 
+- [[../../../../../../../_internal/geo/Continent/Asia/Asia~East/China/Counties/Inner_Mongol.internal|Inner_Mongol.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Asia/Asia~East/China/Counties/Inner_Mongol.protect|Inner_Mongol.protect]] 
+- [[../../../../../../../_private/geo/Continent/Asia/Asia~East/China/Counties/Inner_Mongol.private|Inner_Mongol.private]] 
+- [[../../../../../../../_personal/geo/Continent/Asia/Asia~East/China/Counties/Inner_Mongol.personal|Inner_Mongol.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Asia/Asia~East/China/Counties/Inner_Mongol.secret|Inner_Mongol.secret]] 
 

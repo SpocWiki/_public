@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 39.6 , 141.4 ] 
 type: geo-Region
 title: Iwate
@@ -40,10 +40,11 @@ markerFolder: ./Iwate/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Asia/Asia~East/Japan/Counties/Iwate.md|Iwate]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~East/Japan/Counties/Iwate.internal|Iwate.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~East/Japan/Counties/Iwate.protect|Iwate.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~East/Japan/Counties/Iwate.private|Iwate.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~East/Japan/Counties/Iwate.personal|Iwate.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~East/Japan/Counties/Iwate.secret|Iwate.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~East/Japan/Counties/Iwate|Iwate]] 
+- [[../../../../../../../_public/geo/Continent/Asia/Asia~East/Japan/Counties/Iwate.public|Iwate.public]] 
+- [[../../../../../../../_internal/geo/Continent/Asia/Asia~East/Japan/Counties/Iwate.internal|Iwate.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Asia/Asia~East/Japan/Counties/Iwate.protect|Iwate.protect]] 
+- [[../../../../../../../_private/geo/Continent/Asia/Asia~East/Japan/Counties/Iwate.private|Iwate.private]] 
+- [[../../../../../../../_personal/geo/Continent/Asia/Asia~East/Japan/Counties/Iwate.personal|Iwate.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Asia/Asia~East/Japan/Counties/Iwate.secret|Iwate.secret]] 
 

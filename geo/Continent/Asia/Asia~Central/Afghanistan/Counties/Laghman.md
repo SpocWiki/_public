@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 34.8 , 70.3 ] 
 type: geo-Region
 title: Laghman
@@ -40,10 +40,11 @@ markerFolder: ./Laghman/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Asia/Asia~Central/Afghanistan/Counties/Laghman.md|Laghman]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~Central/Afghanistan/Counties/Laghman.internal|Laghman.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~Central/Afghanistan/Counties/Laghman.protect|Laghman.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~Central/Afghanistan/Counties/Laghman.private|Laghman.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~Central/Afghanistan/Counties/Laghman.personal|Laghman.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~Central/Afghanistan/Counties/Laghman.secret|Laghman.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~Central/Afghanistan/Counties/Laghman|Laghman]] 
+- [[../../../../../../../_public/geo/Continent/Asia/Asia~Central/Afghanistan/Counties/Laghman.public|Laghman.public]] 
+- [[../../../../../../../_internal/geo/Continent/Asia/Asia~Central/Afghanistan/Counties/Laghman.internal|Laghman.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Asia/Asia~Central/Afghanistan/Counties/Laghman.protect|Laghman.protect]] 
+- [[../../../../../../../_private/geo/Continent/Asia/Asia~Central/Afghanistan/Counties/Laghman.private|Laghman.private]] 
+- [[../../../../../../../_personal/geo/Continent/Asia/Asia~Central/Afghanistan/Counties/Laghman.personal|Laghman.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Asia/Asia~Central/Afghanistan/Counties/Laghman.secret|Laghman.secret]] 
 

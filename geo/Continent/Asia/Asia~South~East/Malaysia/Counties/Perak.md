@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 4.8 , 101 ] 
 type: geo-Region
 title: Perak
@@ -40,10 +40,11 @@ markerFolder: ./Perak/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Asia/Asia~South~East/Malaysia/Counties/Perak.md|Perak]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~South~East/Malaysia/Counties/Perak.internal|Perak.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~South~East/Malaysia/Counties/Perak.protect|Perak.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~South~East/Malaysia/Counties/Perak.private|Perak.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~South~East/Malaysia/Counties/Perak.personal|Perak.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~South~East/Malaysia/Counties/Perak.secret|Perak.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South~East/Malaysia/Counties/Perak|Perak]] 
+- [[../../../../../../../_public/geo/Continent/Asia/Asia~South~East/Malaysia/Counties/Perak.public|Perak.public]] 
+- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South~East/Malaysia/Counties/Perak.internal|Perak.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South~East/Malaysia/Counties/Perak.protect|Perak.protect]] 
+- [[../../../../../../../_private/geo/Continent/Asia/Asia~South~East/Malaysia/Counties/Perak.private|Perak.private]] 
+- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South~East/Malaysia/Counties/Perak.personal|Perak.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South~East/Malaysia/Counties/Perak.secret|Perak.secret]] 
 

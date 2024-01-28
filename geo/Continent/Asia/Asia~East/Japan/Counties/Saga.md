@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 33.2 , 130.1 ] 
 type: geo-Region
 title: Saga
@@ -40,10 +40,11 @@ markerFolder: ./Saga/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Asia/Asia~East/Japan/Counties/Saga.md|Saga]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~East/Japan/Counties/Saga.internal|Saga.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~East/Japan/Counties/Saga.protect|Saga.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~East/Japan/Counties/Saga.private|Saga.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~East/Japan/Counties/Saga.personal|Saga.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~East/Japan/Counties/Saga.secret|Saga.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~East/Japan/Counties/Saga|Saga]] 
+- [[../../../../../../../_public/geo/Continent/Asia/Asia~East/Japan/Counties/Saga.public|Saga.public]] 
+- [[../../../../../../../_internal/geo/Continent/Asia/Asia~East/Japan/Counties/Saga.internal|Saga.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Asia/Asia~East/Japan/Counties/Saga.protect|Saga.protect]] 
+- [[../../../../../../../_private/geo/Continent/Asia/Asia~East/Japan/Counties/Saga.private|Saga.private]] 
+- [[../../../../../../../_personal/geo/Continent/Asia/Asia~East/Japan/Counties/Saga.personal|Saga.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Asia/Asia~East/Japan/Counties/Saga.secret|Saga.secret]] 
 

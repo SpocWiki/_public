@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 33.9 , 35.7 ] 
 type: geo-Region
 title: Mount_Lebanon
@@ -40,10 +40,11 @@ markerFolder: ./Mount_Lebanon/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Asia/Asia~West/Lebanon/Counties/Mount_Lebanon.md|Mount_Lebanon]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~West/Lebanon/Counties/Mount_Lebanon.internal|Mount_Lebanon.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~West/Lebanon/Counties/Mount_Lebanon.protect|Mount_Lebanon.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~West/Lebanon/Counties/Mount_Lebanon.private|Mount_Lebanon.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~West/Lebanon/Counties/Mount_Lebanon.personal|Mount_Lebanon.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~West/Lebanon/Counties/Mount_Lebanon.secret|Mount_Lebanon.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~West/Lebanon/Counties/Mount_Lebanon|Mount_Lebanon]] 
+- [[../../../../../../../_public/geo/Continent/Asia/Asia~West/Lebanon/Counties/Mount_Lebanon.public|Mount_Lebanon.public]] 
+- [[../../../../../../../_internal/geo/Continent/Asia/Asia~West/Lebanon/Counties/Mount_Lebanon.internal|Mount_Lebanon.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Asia/Asia~West/Lebanon/Counties/Mount_Lebanon.protect|Mount_Lebanon.protect]] 
+- [[../../../../../../../_private/geo/Continent/Asia/Asia~West/Lebanon/Counties/Mount_Lebanon.private|Mount_Lebanon.private]] 
+- [[../../../../../../../_personal/geo/Continent/Asia/Asia~West/Lebanon/Counties/Mount_Lebanon.personal|Mount_Lebanon.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Asia/Asia~West/Lebanon/Counties/Mount_Lebanon.secret|Mount_Lebanon.secret]] 
 

@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 35.8 , 55 ] 
 type: geo-Region
 title: Semnan
@@ -40,10 +40,11 @@ markerFolder: ./Semnan/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Asia/Asia~West/Iran/Counties/Semnan.md|Semnan]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~West/Iran/Counties/Semnan.internal|Semnan.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~West/Iran/Counties/Semnan.protect|Semnan.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~West/Iran/Counties/Semnan.private|Semnan.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~West/Iran/Counties/Semnan.personal|Semnan.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~West/Iran/Counties/Semnan.secret|Semnan.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~West/Iran/Counties/Semnan|Semnan]] 
+- [[../../../../../../../_public/geo/Continent/Asia/Asia~West/Iran/Counties/Semnan.public|Semnan.public]] 
+- [[../../../../../../../_internal/geo/Continent/Asia/Asia~West/Iran/Counties/Semnan.internal|Semnan.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Asia/Asia~West/Iran/Counties/Semnan.protect|Semnan.protect]] 
+- [[../../../../../../../_private/geo/Continent/Asia/Asia~West/Iran/Counties/Semnan.private|Semnan.private]] 
+- [[../../../../../../../_personal/geo/Continent/Asia/Asia~West/Iran/Counties/Semnan.personal|Semnan.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Asia/Asia~West/Iran/Counties/Semnan.secret|Semnan.secret]] 
 

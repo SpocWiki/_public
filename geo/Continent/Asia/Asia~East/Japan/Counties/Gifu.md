@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 35.8 , 137 ] 
 type: geo-Region
 title: Gifu
@@ -40,10 +40,11 @@ markerFolder: ./Gifu/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Asia/Asia~East/Japan/Counties/Gifu.md|Gifu]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~East/Japan/Counties/Gifu.internal|Gifu.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~East/Japan/Counties/Gifu.protect|Gifu.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~East/Japan/Counties/Gifu.private|Gifu.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~East/Japan/Counties/Gifu.personal|Gifu.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~East/Japan/Counties/Gifu.secret|Gifu.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~East/Japan/Counties/Gifu|Gifu]] 
+- [[../../../../../../../_public/geo/Continent/Asia/Asia~East/Japan/Counties/Gifu.public|Gifu.public]] 
+- [[../../../../../../../_internal/geo/Continent/Asia/Asia~East/Japan/Counties/Gifu.internal|Gifu.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Asia/Asia~East/Japan/Counties/Gifu.protect|Gifu.protect]] 
+- [[../../../../../../../_private/geo/Continent/Asia/Asia~East/Japan/Counties/Gifu.private|Gifu.private]] 
+- [[../../../../../../../_personal/geo/Continent/Asia/Asia~East/Japan/Counties/Gifu.personal|Gifu.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Asia/Asia~East/Japan/Counties/Gifu.secret|Gifu.secret]] 
 

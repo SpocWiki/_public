@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 25.1 , 55.8 ] 
 type: geo-Region
 title: Sharjah
@@ -40,10 +40,11 @@ markerFolder: ./Sharjah/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Asia/Asia~West/United_Arab_Emirates/Counties/Sharjah.md|Sharjah]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~West/United_Arab_Emirates/Counties/Sharjah.internal|Sharjah.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~West/United_Arab_Emirates/Counties/Sharjah.protect|Sharjah.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~West/United_Arab_Emirates/Counties/Sharjah.private|Sharjah.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~West/United_Arab_Emirates/Counties/Sharjah.personal|Sharjah.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~West/United_Arab_Emirates/Counties/Sharjah.secret|Sharjah.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~West/United_Arab_Emirates/Counties/Sharjah|Sharjah]] 
+- [[../../../../../../../_public/geo/Continent/Asia/Asia~West/United_Arab_Emirates/Counties/Sharjah.public|Sharjah.public]] 
+- [[../../../../../../../_internal/geo/Continent/Asia/Asia~West/United_Arab_Emirates/Counties/Sharjah.internal|Sharjah.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Asia/Asia~West/United_Arab_Emirates/Counties/Sharjah.protect|Sharjah.protect]] 
+- [[../../../../../../../_private/geo/Continent/Asia/Asia~West/United_Arab_Emirates/Counties/Sharjah.private|Sharjah.private]] 
+- [[../../../../../../../_personal/geo/Continent/Asia/Asia~West/United_Arab_Emirates/Counties/Sharjah.personal|Sharjah.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Asia/Asia~West/United_Arab_Emirates/Counties/Sharjah.secret|Sharjah.secret]] 
 

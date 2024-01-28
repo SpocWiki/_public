@@ -1,5 +1,5 @@
 ---
-location: [44.52,50.13]
+location: [44.52,50.13] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,14 +12,14 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::50.13]
-[geo-lat::44.52]
-[name::Fort-Shevchenko]
-[State::]
-[Country::[[../../../Asia/Kazakhstan|Kazakhstan]]]
-[StateId::]
-[Population::]
-[Unknown::]
+[geo-lon::50.13] 
+[geo-lat::44.52] 
+[name::Fort-Shevchenko] 
+State ::  
+Country :: [[../../../Asia/Kazakhstan|Kazakhstan]]  
+[StateId::] 
+[Population::] 
+[Unknown::] 
 
 [Fort-Shevchenko - Wikipedia](https://en.wikipedia.org/wiki/Fort-Shevchenko)
 
@@ -28,8 +28,8 @@ Formerly known as Fort Alexandrowsk.
 
 ```leaflet
 id: Alexandrowsk
-coordinates: [[Alexandrowsk]]
-markerFile: [[Alexandrowsk]]
+coordinates: [[Alexandrowsk]] 
+markerFile: [[Alexandrowsk]] 
 defaultZoom: 11 
 maxZoom: 18
 ```

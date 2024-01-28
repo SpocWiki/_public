@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 31.1 , 121.4 ] 
 type: geo-Region
 title: Shanghai
@@ -40,10 +40,11 @@ markerFolder: ./Shanghai/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Asia/Asia~East/China/Counties/Shanghai.md|Shanghai]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~East/China/Counties/Shanghai.internal|Shanghai.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~East/China/Counties/Shanghai.protect|Shanghai.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~East/China/Counties/Shanghai.private|Shanghai.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~East/China/Counties/Shanghai.personal|Shanghai.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~East/China/Counties/Shanghai.secret|Shanghai.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~East/China/Counties/Shanghai|Shanghai]] 
+- [[../../../../../../../_public/geo/Continent/Asia/Asia~East/China/Counties/Shanghai.public|Shanghai.public]] 
+- [[../../../../../../../_internal/geo/Continent/Asia/Asia~East/China/Counties/Shanghai.internal|Shanghai.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Asia/Asia~East/China/Counties/Shanghai.protect|Shanghai.protect]] 
+- [[../../../../../../../_private/geo/Continent/Asia/Asia~East/China/Counties/Shanghai.private|Shanghai.private]] 
+- [[../../../../../../../_personal/geo/Continent/Asia/Asia~East/China/Counties/Shanghai.personal|Shanghai.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Asia/Asia~East/China/Counties/Shanghai.secret|Shanghai.secret]] 
 

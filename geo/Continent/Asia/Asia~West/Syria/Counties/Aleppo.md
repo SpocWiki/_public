@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 36.2 , 37.4 ] 
 type: geo-Region
 title: Aleppo
@@ -40,10 +40,11 @@ markerFolder: ./Aleppo/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Asia/Asia~West/Syria/Counties/Aleppo.md|Aleppo]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~West/Syria/Counties/Aleppo.internal|Aleppo.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~West/Syria/Counties/Aleppo.protect|Aleppo.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~West/Syria/Counties/Aleppo.private|Aleppo.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~West/Syria/Counties/Aleppo.personal|Aleppo.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~West/Syria/Counties/Aleppo.secret|Aleppo.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~West/Syria/Counties/Aleppo|Aleppo]] 
+- [[../../../../../../../_public/geo/Continent/Asia/Asia~West/Syria/Counties/Aleppo.public|Aleppo.public]] 
+- [[../../../../../../../_internal/geo/Continent/Asia/Asia~West/Syria/Counties/Aleppo.internal|Aleppo.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Asia/Asia~West/Syria/Counties/Aleppo.protect|Aleppo.protect]] 
+- [[../../../../../../../_private/geo/Continent/Asia/Asia~West/Syria/Counties/Aleppo.private|Aleppo.private]] 
+- [[../../../../../../../_personal/geo/Continent/Asia/Asia~West/Syria/Counties/Aleppo.personal|Aleppo.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Asia/Asia~West/Syria/Counties/Aleppo.secret|Aleppo.secret]] 
 

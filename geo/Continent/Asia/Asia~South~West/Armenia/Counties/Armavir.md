@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 40.1 , 44.1 ] 
 type: geo-Region
 title: Armavir
@@ -40,10 +40,11 @@ markerFolder: ./Armavir/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Asia/Asia~South~West/Armenia/Counties/Armavir.md|Armavir]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~South~West/Armenia/Counties/Armavir.internal|Armavir.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~South~West/Armenia/Counties/Armavir.protect|Armavir.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~South~West/Armenia/Counties/Armavir.private|Armavir.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~South~West/Armenia/Counties/Armavir.personal|Armavir.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~South~West/Armenia/Counties/Armavir.secret|Armavir.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South~West/Armenia/Counties/Armavir|Armavir]] 
+- [[../../../../../../../_public/geo/Continent/Asia/Asia~South~West/Armenia/Counties/Armavir.public|Armavir.public]] 
+- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South~West/Armenia/Counties/Armavir.internal|Armavir.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South~West/Armenia/Counties/Armavir.protect|Armavir.protect]] 
+- [[../../../../../../../_private/geo/Continent/Asia/Asia~South~West/Armenia/Counties/Armavir.private|Armavir.private]] 
+- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South~West/Armenia/Counties/Armavir.personal|Armavir.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South~West/Armenia/Counties/Armavir.secret|Armavir.secret]] 
 

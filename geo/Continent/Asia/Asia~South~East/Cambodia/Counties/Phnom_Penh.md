@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 11.6 , 104.9 ] 
 type: geo-Region
 title: Phnom_Penh
@@ -40,10 +40,11 @@ markerFolder: ./Phnom_Penh/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Asia/Asia~South~East/Cambodia/Counties/Phnom_Penh.md|Phnom_Penh]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~South~East/Cambodia/Counties/Phnom_Penh.internal|Phnom_Penh.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~South~East/Cambodia/Counties/Phnom_Penh.protect|Phnom_Penh.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~South~East/Cambodia/Counties/Phnom_Penh.private|Phnom_Penh.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~South~East/Cambodia/Counties/Phnom_Penh.personal|Phnom_Penh.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~South~East/Cambodia/Counties/Phnom_Penh.secret|Phnom_Penh.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South~East/Cambodia/Counties/Phnom_Penh|Phnom_Penh]] 
+- [[../../../../../../../_public/geo/Continent/Asia/Asia~South~East/Cambodia/Counties/Phnom_Penh.public|Phnom_Penh.public]] 
+- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South~East/Cambodia/Counties/Phnom_Penh.internal|Phnom_Penh.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South~East/Cambodia/Counties/Phnom_Penh.protect|Phnom_Penh.protect]] 
+- [[../../../../../../../_private/geo/Continent/Asia/Asia~South~East/Cambodia/Counties/Phnom_Penh.private|Phnom_Penh.private]] 
+- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South~East/Cambodia/Counties/Phnom_Penh.personal|Phnom_Penh.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South~East/Cambodia/Counties/Phnom_Penh.secret|Phnom_Penh.secret]] 
 

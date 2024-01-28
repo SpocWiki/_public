@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 40.9 , 44.5 ] 
 type: geo-Region
 title: Lori
@@ -40,10 +40,11 @@ markerFolder: ./Lori/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Asia/Asia~South~West/Armenia/Counties/Lori.md|Lori]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~South~West/Armenia/Counties/Lori.internal|Lori.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~South~West/Armenia/Counties/Lori.protect|Lori.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~South~West/Armenia/Counties/Lori.private|Lori.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~South~West/Armenia/Counties/Lori.personal|Lori.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~South~West/Armenia/Counties/Lori.secret|Lori.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South~West/Armenia/Counties/Lori|Lori]] 
+- [[../../../../../../../_public/geo/Continent/Asia/Asia~South~West/Armenia/Counties/Lori.public|Lori.public]] 
+- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South~West/Armenia/Counties/Lori.internal|Lori.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South~West/Armenia/Counties/Lori.protect|Lori.protect]] 
+- [[../../../../../../../_private/geo/Continent/Asia/Asia~South~West/Armenia/Counties/Lori.private|Lori.private]] 
+- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South~West/Armenia/Counties/Lori.personal|Lori.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South~West/Armenia/Counties/Lori.secret|Lori.secret]] 
 

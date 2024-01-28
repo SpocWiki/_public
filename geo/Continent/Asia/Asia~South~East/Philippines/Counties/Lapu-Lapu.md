@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 10.3 , 124 ] 
 type: geo-Region
 title: Lapu-Lapu
@@ -40,10 +40,11 @@ markerFolder: ./Lapu-Lapu/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Lapu-Lapu.md|Lapu-Lapu]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Lapu-Lapu.internal|Lapu-Lapu.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Lapu-Lapu.protect|Lapu-Lapu.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Lapu-Lapu.private|Lapu-Lapu.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Lapu-Lapu.personal|Lapu-Lapu.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Lapu-Lapu.secret|Lapu-Lapu.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Lapu-Lapu|Lapu-Lapu]] 
+- [[../../../../../../../_public/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Lapu-Lapu.public|Lapu-Lapu.public]] 
+- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Lapu-Lapu.internal|Lapu-Lapu.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Lapu-Lapu.protect|Lapu-Lapu.protect]] 
+- [[../../../../../../../_private/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Lapu-Lapu.private|Lapu-Lapu.private]] 
+- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Lapu-Lapu.personal|Lapu-Lapu.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Lapu-Lapu.secret|Lapu-Lapu.secret]] 
 

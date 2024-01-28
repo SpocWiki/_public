@@ -1,5 +1,5 @@
 ﻿---
-location: [53.25,69.42]
+location: [53.25,69.42] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,27 +12,28 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::69.42]
-[geo-lat::53.25]
-[name::Kokchetav]
-[State::]
-[Country::[[Russia]]]
-[StateId::]
-[Population::]
-[Unknown::]
+[geo-lon::69.42] 
+[geo-lat::53.25] 
+[name::Kokchetav] 
+State ::  
+Country :: [[Russia]]  
+[StateId::] 
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Kokchetav
-coordinates: [[Kokchetav]]
-markerFile: [[Kokchetav]]
+coordinates: [[Kokchetav]] 
+markerFile: [[Kokchetav]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_public/geo/Continent/Europe/Russia/City/Kokchetav.md|Kokchetav]] 
+- [[../../../../../../_Standards/geo/Continent/Europe/Russia/City/Kokchetav|Kokchetav]] 
+- [[../../../../../../_public/geo/Continent/Europe/Russia/City/Kokchetav.public|Kokchetav.public]] 
 - [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Kokchetav.internal|Kokchetav.internal]] 
 - [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Kokchetav.protect|Kokchetav.protect]] 
 - [[../../../../../../_private/geo/Continent/Europe/Russia/City/Kokchetav.private|Kokchetav.private]] 

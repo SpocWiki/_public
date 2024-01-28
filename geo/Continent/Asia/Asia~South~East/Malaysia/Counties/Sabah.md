@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 5.6 , 117.2 ] 
 type: geo-Region
 title: Sabah
@@ -40,10 +40,11 @@ markerFolder: ./Sabah/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Asia/Asia~South~East/Malaysia/Counties/Sabah.md|Sabah]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~South~East/Malaysia/Counties/Sabah.internal|Sabah.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~South~East/Malaysia/Counties/Sabah.protect|Sabah.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~South~East/Malaysia/Counties/Sabah.private|Sabah.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~South~East/Malaysia/Counties/Sabah.personal|Sabah.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~South~East/Malaysia/Counties/Sabah.secret|Sabah.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South~East/Malaysia/Counties/Sabah|Sabah]] 
+- [[../../../../../../../_public/geo/Continent/Asia/Asia~South~East/Malaysia/Counties/Sabah.public|Sabah.public]] 
+- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South~East/Malaysia/Counties/Sabah.internal|Sabah.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South~East/Malaysia/Counties/Sabah.protect|Sabah.protect]] 
+- [[../../../../../../../_private/geo/Continent/Asia/Asia~South~East/Malaysia/Counties/Sabah.private|Sabah.private]] 
+- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South~East/Malaysia/Counties/Sabah.personal|Sabah.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South~East/Malaysia/Counties/Sabah.secret|Sabah.secret]] 
 

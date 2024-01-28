@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 20.5 , 106.4 ] 
 type: geo-Region
 title: Thái_Bình
@@ -40,10 +40,11 @@ markerFolder: ./Thái_Bình/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Thái_Bình.md|Thái_Bình]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Thái_Bình.internal|Thái_Bình.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Thái_Bình.protect|Thái_Bình.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Thái_Bình.private|Thái_Bình.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Thái_Bình.personal|Thái_Bình.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Thái_Bình.secret|Thái_Bình.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Thái_Bình|Thái_Bình]] 
+- [[../../../../../../../_public/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Thái_Bình.public|Thái_Bình.public]] 
+- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Thái_Bình.internal|Thái_Bình.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Thái_Bình.protect|Thái_Bình.protect]] 
+- [[../../../../../../../_private/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Thái_Bình.private|Thái_Bình.private]] 
+- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Thái_Bình.personal|Thái_Bình.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Thái_Bình.secret|Thái_Bình.secret]] 
 

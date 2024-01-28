@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 29.26 , 48.06 ] 
 type: geo-Region
 title: Mubarak_Al-Kabeer
@@ -40,10 +40,11 @@ markerFolder: ./Mubarak_Al-Kabeer/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Asia/Asia~West/Kuwait/Counties/Mubarak_Al-Kabeer.md|Mubarak_Al-Kabeer]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~West/Kuwait/Counties/Mubarak_Al-Kabeer.internal|Mubarak_Al-Kabeer.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~West/Kuwait/Counties/Mubarak_Al-Kabeer.protect|Mubarak_Al-Kabeer.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~West/Kuwait/Counties/Mubarak_Al-Kabeer.private|Mubarak_Al-Kabeer.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~West/Kuwait/Counties/Mubarak_Al-Kabeer.personal|Mubarak_Al-Kabeer.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~West/Kuwait/Counties/Mubarak_Al-Kabeer.secret|Mubarak_Al-Kabeer.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~West/Kuwait/Counties/Mubarak_Al-Kabeer|Mubarak_Al-Kabeer]] 
+- [[../../../../../../../_public/geo/Continent/Asia/Asia~West/Kuwait/Counties/Mubarak_Al-Kabeer.public|Mubarak_Al-Kabeer.public]] 
+- [[../../../../../../../_internal/geo/Continent/Asia/Asia~West/Kuwait/Counties/Mubarak_Al-Kabeer.internal|Mubarak_Al-Kabeer.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Asia/Asia~West/Kuwait/Counties/Mubarak_Al-Kabeer.protect|Mubarak_Al-Kabeer.protect]] 
+- [[../../../../../../../_private/geo/Continent/Asia/Asia~West/Kuwait/Counties/Mubarak_Al-Kabeer.private|Mubarak_Al-Kabeer.private]] 
+- [[../../../../../../../_personal/geo/Continent/Asia/Asia~West/Kuwait/Counties/Mubarak_Al-Kabeer.personal|Mubarak_Al-Kabeer.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Asia/Asia~West/Kuwait/Counties/Mubarak_Al-Kabeer.secret|Mubarak_Al-Kabeer.secret]] 
 

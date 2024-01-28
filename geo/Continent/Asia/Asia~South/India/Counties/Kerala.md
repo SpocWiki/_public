@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 10.5 , 76.4 ] 
 type: geo-Region
 title: Kerala
@@ -40,10 +40,11 @@ markerFolder: ./Kerala/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Asia/Asia~South/India/Counties/Kerala.md|Kerala]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~South/India/Counties/Kerala.internal|Kerala.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~South/India/Counties/Kerala.protect|Kerala.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~South/India/Counties/Kerala.private|Kerala.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~South/India/Counties/Kerala.personal|Kerala.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~South/India/Counties/Kerala.secret|Kerala.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South/India/Counties/Kerala|Kerala]] 
+- [[../../../../../../../_public/geo/Continent/Asia/Asia~South/India/Counties/Kerala.public|Kerala.public]] 
+- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South/India/Counties/Kerala.internal|Kerala.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South/India/Counties/Kerala.protect|Kerala.protect]] 
+- [[../../../../../../../_private/geo/Continent/Asia/Asia~South/India/Counties/Kerala.private|Kerala.private]] 
+- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South/India/Counties/Kerala.personal|Kerala.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South/India/Counties/Kerala.secret|Kerala.secret]] 
 

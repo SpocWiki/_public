@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 14.9 , 100.3 ] 
 type: geo-Region
 title: Sing_Buri
@@ -40,10 +40,11 @@ markerFolder: ./Sing_Buri/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Sing_Buri.md|Sing_Buri]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Sing_Buri.internal|Sing_Buri.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Sing_Buri.protect|Sing_Buri.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Sing_Buri.private|Sing_Buri.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Sing_Buri.personal|Sing_Buri.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Sing_Buri.secret|Sing_Buri.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Sing_Buri|Sing_Buri]] 
+- [[../../../../../../../_public/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Sing_Buri.public|Sing_Buri.public]] 
+- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Sing_Buri.internal|Sing_Buri.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Sing_Buri.protect|Sing_Buri.protect]] 
+- [[../../../../../../../_private/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Sing_Buri.private|Sing_Buri.private]] 
+- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Sing_Buri.personal|Sing_Buri.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Sing_Buri.secret|Sing_Buri.secret]] 
 

@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 11.4 , 103.6 ] 
 type: geo-Region
 title: Kaôh_Kong
@@ -40,10 +40,11 @@ markerFolder: ./Kaôh_Kong/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Asia/Asia~South~East/Cambodia/Counties/Kaôh_Kong.md|Kaôh_Kong]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~South~East/Cambodia/Counties/Kaôh_Kong.internal|Kaôh_Kong.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~South~East/Cambodia/Counties/Kaôh_Kong.protect|Kaôh_Kong.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~South~East/Cambodia/Counties/Kaôh_Kong.private|Kaôh_Kong.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~South~East/Cambodia/Counties/Kaôh_Kong.personal|Kaôh_Kong.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~South~East/Cambodia/Counties/Kaôh_Kong.secret|Kaôh_Kong.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South~East/Cambodia/Counties/Kaôh_Kong|Kaôh_Kong]] 
+- [[../../../../../../../_public/geo/Continent/Asia/Asia~South~East/Cambodia/Counties/Kaôh_Kong.public|Kaôh_Kong.public]] 
+- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South~East/Cambodia/Counties/Kaôh_Kong.internal|Kaôh_Kong.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South~East/Cambodia/Counties/Kaôh_Kong.protect|Kaôh_Kong.protect]] 
+- [[../../../../../../../_private/geo/Continent/Asia/Asia~South~East/Cambodia/Counties/Kaôh_Kong.private|Kaôh_Kong.private]] 
+- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South~East/Cambodia/Counties/Kaôh_Kong.personal|Kaôh_Kong.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South~East/Cambodia/Counties/Kaôh_Kong.secret|Kaôh_Kong.secret]] 
 

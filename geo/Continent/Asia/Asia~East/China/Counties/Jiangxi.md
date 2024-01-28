@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 27.3 , 115.5 ] 
 type: geo-Region
 title: Jiangxi
@@ -40,10 +40,11 @@ markerFolder: ./Jiangxi/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Asia/Asia~East/China/Counties/Jiangxi.md|Jiangxi]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~East/China/Counties/Jiangxi.internal|Jiangxi.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~East/China/Counties/Jiangxi.protect|Jiangxi.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~East/China/Counties/Jiangxi.private|Jiangxi.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~East/China/Counties/Jiangxi.personal|Jiangxi.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~East/China/Counties/Jiangxi.secret|Jiangxi.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~East/China/Counties/Jiangxi|Jiangxi]] 
+- [[../../../../../../../_public/geo/Continent/Asia/Asia~East/China/Counties/Jiangxi.public|Jiangxi.public]] 
+- [[../../../../../../../_internal/geo/Continent/Asia/Asia~East/China/Counties/Jiangxi.internal|Jiangxi.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Asia/Asia~East/China/Counties/Jiangxi.protect|Jiangxi.protect]] 
+- [[../../../../../../../_private/geo/Continent/Asia/Asia~East/China/Counties/Jiangxi.private|Jiangxi.private]] 
+- [[../../../../../../../_personal/geo/Continent/Asia/Asia~East/China/Counties/Jiangxi.personal|Jiangxi.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Asia/Asia~East/China/Counties/Jiangxi.secret|Jiangxi.secret]] 
 

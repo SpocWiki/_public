@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 37.6 , 128.3 ] 
 type: geo-Region
 title: Gangwon
@@ -40,10 +40,11 @@ markerFolder: ./Gangwon/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Asia/Asia~East/Korea~South/Counties/Gangwon.md|Gangwon]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~East/Korea~South/Counties/Gangwon.internal|Gangwon.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~East/Korea~South/Counties/Gangwon.protect|Gangwon.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~East/Korea~South/Counties/Gangwon.private|Gangwon.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~East/Korea~South/Counties/Gangwon.personal|Gangwon.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~East/Korea~South/Counties/Gangwon.secret|Gangwon.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~East/Korea~South/Counties/Gangwon|Gangwon]] 
+- [[../../../../../../../_public/geo/Continent/Asia/Asia~East/Korea~South/Counties/Gangwon.public|Gangwon.public]] 
+- [[../../../../../../../_internal/geo/Continent/Asia/Asia~East/Korea~South/Counties/Gangwon.internal|Gangwon.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Asia/Asia~East/Korea~South/Counties/Gangwon.protect|Gangwon.protect]] 
+- [[../../../../../../../_private/geo/Continent/Asia/Asia~East/Korea~South/Counties/Gangwon.private|Gangwon.private]] 
+- [[../../../../../../../_personal/geo/Continent/Asia/Asia~East/Korea~South/Counties/Gangwon.personal|Gangwon.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Asia/Asia~East/Korea~South/Counties/Gangwon.secret|Gangwon.secret]] 
 

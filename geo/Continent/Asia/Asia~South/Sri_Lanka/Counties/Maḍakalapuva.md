@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 7.8 , 81.4 ] 
 type: geo-Region
 title: Maḍakalapuva
@@ -40,10 +40,11 @@ markerFolder: ./Maḍakalapuva/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Asia/Asia~South/Sri_Lanka/Counties/Maḍakalapuva.md|Maḍakalapuva]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~South/Sri_Lanka/Counties/Maḍakalapuva.internal|Maḍakalapuva.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~South/Sri_Lanka/Counties/Maḍakalapuva.protect|Maḍakalapuva.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~South/Sri_Lanka/Counties/Maḍakalapuva.private|Maḍakalapuva.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~South/Sri_Lanka/Counties/Maḍakalapuva.personal|Maḍakalapuva.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~South/Sri_Lanka/Counties/Maḍakalapuva.secret|Maḍakalapuva.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South/Sri_Lanka/Counties/Maḍakalapuva|Maḍakalapuva]] 
+- [[../../../../../../../_public/geo/Continent/Asia/Asia~South/Sri_Lanka/Counties/Maḍakalapuva.public|Maḍakalapuva.public]] 
+- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South/Sri_Lanka/Counties/Maḍakalapuva.internal|Maḍakalapuva.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South/Sri_Lanka/Counties/Maḍakalapuva.protect|Maḍakalapuva.protect]] 
+- [[../../../../../../../_private/geo/Continent/Asia/Asia~South/Sri_Lanka/Counties/Maḍakalapuva.private|Maḍakalapuva.private]] 
+- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South/Sri_Lanka/Counties/Maḍakalapuva.personal|Maḍakalapuva.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South/Sri_Lanka/Counties/Maḍakalapuva.secret|Maḍakalapuva.secret]] 
 

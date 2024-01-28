@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 24.2 , 56.6 ] 
 type: geo-Region
 title: Al_Batnah_North
@@ -40,10 +40,11 @@ markerFolder: ./Al_Batnah_North/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Asia/Asia~West/Oman/Counties/Al_Batnah_North.md|Al_Batnah_North]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~West/Oman/Counties/Al_Batnah_North.internal|Al_Batnah_North.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~West/Oman/Counties/Al_Batnah_North.protect|Al_Batnah_North.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~West/Oman/Counties/Al_Batnah_North.private|Al_Batnah_North.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~West/Oman/Counties/Al_Batnah_North.personal|Al_Batnah_North.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~West/Oman/Counties/Al_Batnah_North.secret|Al_Batnah_North.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~West/Oman/Counties/Al_Batnah_North|Al_Batnah_North]] 
+- [[../../../../../../../_public/geo/Continent/Asia/Asia~West/Oman/Counties/Al_Batnah_North.public|Al_Batnah_North.public]] 
+- [[../../../../../../../_internal/geo/Continent/Asia/Asia~West/Oman/Counties/Al_Batnah_North.internal|Al_Batnah_North.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Asia/Asia~West/Oman/Counties/Al_Batnah_North.protect|Al_Batnah_North.protect]] 
+- [[../../../../../../../_private/geo/Continent/Asia/Asia~West/Oman/Counties/Al_Batnah_North.private|Al_Batnah_North.private]] 
+- [[../../../../../../../_personal/geo/Continent/Asia/Asia~West/Oman/Counties/Al_Batnah_North.personal|Al_Batnah_North.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Asia/Asia~West/Oman/Counties/Al_Batnah_North.secret|Al_Batnah_North.secret]] 
 

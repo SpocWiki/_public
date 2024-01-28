@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 20.1 , 41.3 ] 
 type: geo-Region
 title: Al_Bahah
@@ -40,10 +40,11 @@ markerFolder: ./Al_Bahah/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Asia/Asia~West/Saudi_Arabia/Counties/Al_Bahah.md|Al_Bahah]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~West/Saudi_Arabia/Counties/Al_Bahah.internal|Al_Bahah.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~West/Saudi_Arabia/Counties/Al_Bahah.protect|Al_Bahah.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~West/Saudi_Arabia/Counties/Al_Bahah.private|Al_Bahah.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~West/Saudi_Arabia/Counties/Al_Bahah.personal|Al_Bahah.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~West/Saudi_Arabia/Counties/Al_Bahah.secret|Al_Bahah.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~West/Saudi_Arabia/Counties/Al_Bahah|Al_Bahah]] 
+- [[../../../../../../../_public/geo/Continent/Asia/Asia~West/Saudi_Arabia/Counties/Al_Bahah.public|Al_Bahah.public]] 
+- [[../../../../../../../_internal/geo/Continent/Asia/Asia~West/Saudi_Arabia/Counties/Al_Bahah.internal|Al_Bahah.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Asia/Asia~West/Saudi_Arabia/Counties/Al_Bahah.protect|Al_Bahah.protect]] 
+- [[../../../../../../../_private/geo/Continent/Asia/Asia~West/Saudi_Arabia/Counties/Al_Bahah.private|Al_Bahah.private]] 
+- [[../../../../../../../_personal/geo/Continent/Asia/Asia~West/Saudi_Arabia/Counties/Al_Bahah.personal|Al_Bahah.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Asia/Asia~West/Saudi_Arabia/Counties/Al_Bahah.secret|Al_Bahah.secret]] 
 

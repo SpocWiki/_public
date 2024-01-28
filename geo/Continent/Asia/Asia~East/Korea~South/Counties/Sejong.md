@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 36.6 , 127.2 ] 
 type: geo-Region
 title: Sejong
@@ -40,10 +40,11 @@ markerFolder: ./Sejong/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Asia/Asia~East/Korea~South/Counties/Sejong.md|Sejong]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~East/Korea~South/Counties/Sejong.internal|Sejong.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~East/Korea~South/Counties/Sejong.protect|Sejong.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~East/Korea~South/Counties/Sejong.private|Sejong.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~East/Korea~South/Counties/Sejong.personal|Sejong.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~East/Korea~South/Counties/Sejong.secret|Sejong.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~East/Korea~South/Counties/Sejong|Sejong]] 
+- [[../../../../../../../_public/geo/Continent/Asia/Asia~East/Korea~South/Counties/Sejong.public|Sejong.public]] 
+- [[../../../../../../../_internal/geo/Continent/Asia/Asia~East/Korea~South/Counties/Sejong.internal|Sejong.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Asia/Asia~East/Korea~South/Counties/Sejong.protect|Sejong.protect]] 
+- [[../../../../../../../_private/geo/Continent/Asia/Asia~East/Korea~South/Counties/Sejong.private|Sejong.private]] 
+- [[../../../../../../../_personal/geo/Continent/Asia/Asia~East/Korea~South/Counties/Sejong.personal|Sejong.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Asia/Asia~East/Korea~South/Counties/Sejong.secret|Sejong.secret]] 
 

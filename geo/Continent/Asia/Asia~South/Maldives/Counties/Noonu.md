@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 5.963 , 73.389 ] 
 type: geo-Region
 title: Noonu
@@ -40,10 +40,11 @@ markerFolder: ./Noonu/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Asia/Asia~South/Maldives/Counties/Noonu.md|Noonu]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~South/Maldives/Counties/Noonu.internal|Noonu.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~South/Maldives/Counties/Noonu.protect|Noonu.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~South/Maldives/Counties/Noonu.private|Noonu.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~South/Maldives/Counties/Noonu.personal|Noonu.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~South/Maldives/Counties/Noonu.secret|Noonu.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South/Maldives/Counties/Noonu|Noonu]] 
+- [[../../../../../../../_public/geo/Continent/Asia/Asia~South/Maldives/Counties/Noonu.public|Noonu.public]] 
+- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South/Maldives/Counties/Noonu.internal|Noonu.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South/Maldives/Counties/Noonu.protect|Noonu.protect]] 
+- [[../../../../../../../_private/geo/Continent/Asia/Asia~South/Maldives/Counties/Noonu.private|Noonu.private]] 
+- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South/Maldives/Counties/Noonu.personal|Noonu.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South/Maldives/Counties/Noonu.secret|Noonu.secret]] 
 

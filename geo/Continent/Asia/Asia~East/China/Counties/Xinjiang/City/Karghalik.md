@@ -1,5 +1,5 @@
 ﻿---
-location: [37.88,77.45]
+location: [37.88,77.45] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,27 +12,28 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::77.45]
-[geo-lat::37.88]
-[name::Karghalik]
-[State::]
-[Country::[[Russia]]]
-[StateId::]
-[Population::]
-[Unknown::]
+[geo-lon::77.45] 
+[geo-lat::37.88] 
+[name::Karghalik] 
+State ::  
+Country :: [[Russia]]  
+[StateId::] 
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Karghalik
-coordinates: [[Karghalik]]
-markerFile: [[Karghalik]]
+coordinates: [[Karghalik]] 
+markerFile: [[Karghalik]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_public/geo/Continent/Europe/Russia/City/Karghalik.md|Karghalik]] 
+- [[../../../../../../_Standards/geo/Continent/Europe/Russia/City/Karghalik|Karghalik]] 
+- [[../../../../../../_public/geo/Continent/Europe/Russia/City/Karghalik.public|Karghalik.public]] 
 - [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Karghalik.internal|Karghalik.internal]] 
 - [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Karghalik.protect|Karghalik.protect]] 
 - [[../../../../../../_private/geo/Continent/Europe/Russia/City/Karghalik.private|Karghalik.private]] 

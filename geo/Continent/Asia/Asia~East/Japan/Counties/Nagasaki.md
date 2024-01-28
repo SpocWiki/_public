@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 32.7 , 128.8 ] 
 type: geo-Region
 title: Nagasaki
@@ -40,10 +40,11 @@ markerFolder: ./Nagasaki/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Asia/Asia~East/Japan/Counties/Nagasaki.md|Nagasaki]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~East/Japan/Counties/Nagasaki.internal|Nagasaki.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~East/Japan/Counties/Nagasaki.protect|Nagasaki.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~East/Japan/Counties/Nagasaki.private|Nagasaki.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~East/Japan/Counties/Nagasaki.personal|Nagasaki.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~East/Japan/Counties/Nagasaki.secret|Nagasaki.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~East/Japan/Counties/Nagasaki|Nagasaki]] 
+- [[../../../../../../../_public/geo/Continent/Asia/Asia~East/Japan/Counties/Nagasaki.public|Nagasaki.public]] 
+- [[../../../../../../../_internal/geo/Continent/Asia/Asia~East/Japan/Counties/Nagasaki.internal|Nagasaki.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Asia/Asia~East/Japan/Counties/Nagasaki.protect|Nagasaki.protect]] 
+- [[../../../../../../../_private/geo/Continent/Asia/Asia~East/Japan/Counties/Nagasaki.private|Nagasaki.private]] 
+- [[../../../../../../../_personal/geo/Continent/Asia/Asia~East/Japan/Counties/Nagasaki.personal|Nagasaki.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Asia/Asia~East/Japan/Counties/Nagasaki.secret|Nagasaki.secret]] 
 

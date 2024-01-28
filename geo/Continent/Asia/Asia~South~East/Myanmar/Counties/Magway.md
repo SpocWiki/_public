@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 20.5 , 94.5 ] 
 type: geo-Region
 title: Magway
@@ -40,10 +40,11 @@ markerFolder: ./Magway/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Asia/Asia~South~East/Myanmar/Counties/Magway.md|Magway]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~South~East/Myanmar/Counties/Magway.internal|Magway.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~South~East/Myanmar/Counties/Magway.protect|Magway.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~South~East/Myanmar/Counties/Magway.private|Magway.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~South~East/Myanmar/Counties/Magway.personal|Magway.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~South~East/Myanmar/Counties/Magway.secret|Magway.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South~East/Myanmar/Counties/Magway|Magway]] 
+- [[../../../../../../../_public/geo/Continent/Asia/Asia~South~East/Myanmar/Counties/Magway.public|Magway.public]] 
+- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South~East/Myanmar/Counties/Magway.internal|Magway.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South~East/Myanmar/Counties/Magway.protect|Magway.protect]] 
+- [[../../../../../../../_private/geo/Continent/Asia/Asia~South~East/Myanmar/Counties/Magway.private|Magway.private]] 
+- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South~East/Myanmar/Counties/Magway.personal|Magway.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South~East/Myanmar/Counties/Magway.secret|Magway.secret]] 
 

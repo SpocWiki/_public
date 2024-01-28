@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 24 , 120.5 ] 
 type: geo-Region
 title: Changhua
@@ -40,10 +40,11 @@ markerFolder: ./Changhua/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Asia/Asia~East/Taiwan/Counties/Changhua.md|Changhua]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~East/Taiwan/Counties/Changhua.internal|Changhua.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~East/Taiwan/Counties/Changhua.protect|Changhua.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~East/Taiwan/Counties/Changhua.private|Changhua.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~East/Taiwan/Counties/Changhua.personal|Changhua.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~East/Taiwan/Counties/Changhua.secret|Changhua.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~East/Taiwan/Counties/Changhua|Changhua]] 
+- [[../../../../../../../_public/geo/Continent/Asia/Asia~East/Taiwan/Counties/Changhua.public|Changhua.public]] 
+- [[../../../../../../../_internal/geo/Continent/Asia/Asia~East/Taiwan/Counties/Changhua.internal|Changhua.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Asia/Asia~East/Taiwan/Counties/Changhua.protect|Changhua.protect]] 
+- [[../../../../../../../_private/geo/Continent/Asia/Asia~East/Taiwan/Counties/Changhua.private|Changhua.private]] 
+- [[../../../../../../../_personal/geo/Continent/Asia/Asia~East/Taiwan/Counties/Changhua.personal|Changhua.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Asia/Asia~East/Taiwan/Counties/Changhua.secret|Changhua.secret]] 
 

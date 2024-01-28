@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 8.3 , 123.7 ] 
 type: geo-Region
 title: Misamis_Occidental
@@ -40,10 +40,11 @@ markerFolder: ./Misamis_Occidental/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Misamis_Occidental.md|Misamis_Occidental]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Misamis_Occidental.internal|Misamis_Occidental.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Misamis_Occidental.protect|Misamis_Occidental.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Misamis_Occidental.private|Misamis_Occidental.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Misamis_Occidental.personal|Misamis_Occidental.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Misamis_Occidental.secret|Misamis_Occidental.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Misamis_Occidental|Misamis_Occidental]] 
+- [[../../../../../../../_public/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Misamis_Occidental.public|Misamis_Occidental.public]] 
+- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Misamis_Occidental.internal|Misamis_Occidental.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Misamis_Occidental.protect|Misamis_Occidental.protect]] 
+- [[../../../../../../../_private/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Misamis_Occidental.private|Misamis_Occidental.private]] 
+- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Misamis_Occidental.personal|Misamis_Occidental.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Misamis_Occidental.secret|Misamis_Occidental.secret]] 
 

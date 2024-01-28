@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 10.9 , 104.8 ] 
 type: geo-Region
 title: Takêv
@@ -40,10 +40,11 @@ markerFolder: ./Takêv/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Asia/Asia~South~East/Cambodia/Counties/Takêv.md|Takêv]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~South~East/Cambodia/Counties/Takêv.internal|Takêv.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~South~East/Cambodia/Counties/Takêv.protect|Takêv.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~South~East/Cambodia/Counties/Takêv.private|Takêv.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~South~East/Cambodia/Counties/Takêv.personal|Takêv.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~South~East/Cambodia/Counties/Takêv.secret|Takêv.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South~East/Cambodia/Counties/Takêv|Takêv]] 
+- [[../../../../../../../_public/geo/Continent/Asia/Asia~South~East/Cambodia/Counties/Takêv.public|Takêv.public]] 
+- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South~East/Cambodia/Counties/Takêv.internal|Takêv.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South~East/Cambodia/Counties/Takêv.protect|Takêv.protect]] 
+- [[../../../../../../../_private/geo/Continent/Asia/Asia~South~East/Cambodia/Counties/Takêv.private|Takêv.private]] 
+- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South~East/Cambodia/Counties/Takêv.personal|Takêv.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South~East/Cambodia/Counties/Takêv.secret|Takêv.secret]] 
 

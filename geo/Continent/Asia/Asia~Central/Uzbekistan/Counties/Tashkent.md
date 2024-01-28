@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 41.2 , 69.8 ] 
 type: geo-Region
 title: Tashkent
@@ -40,10 +40,11 @@ markerFolder: ./Tashkent/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Asia/Asia~Central/Uzbekistan/Counties/Tashkent.md|Tashkent]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~Central/Uzbekistan/Counties/Tashkent.internal|Tashkent.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~Central/Uzbekistan/Counties/Tashkent.protect|Tashkent.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~Central/Uzbekistan/Counties/Tashkent.private|Tashkent.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~Central/Uzbekistan/Counties/Tashkent.personal|Tashkent.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~Central/Uzbekistan/Counties/Tashkent.secret|Tashkent.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~Central/Uzbekistan/Counties/Tashkent|Tashkent]] 
+- [[../../../../../../../_public/geo/Continent/Asia/Asia~Central/Uzbekistan/Counties/Tashkent.public|Tashkent.public]] 
+- [[../../../../../../../_internal/geo/Continent/Asia/Asia~Central/Uzbekistan/Counties/Tashkent.internal|Tashkent.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Asia/Asia~Central/Uzbekistan/Counties/Tashkent.protect|Tashkent.protect]] 
+- [[../../../../../../../_private/geo/Continent/Asia/Asia~Central/Uzbekistan/Counties/Tashkent.private|Tashkent.private]] 
+- [[../../../../../../../_personal/geo/Continent/Asia/Asia~Central/Uzbekistan/Counties/Tashkent.personal|Tashkent.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Asia/Asia~Central/Uzbekistan/Counties/Tashkent.secret|Tashkent.secret]] 
 

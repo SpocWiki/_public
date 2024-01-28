@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 36.1 , 50 ] 
 type: geo-Region
 title: Qazvin
@@ -40,10 +40,11 @@ markerFolder: ./Qazvin/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Asia/Asia~West/Iran/Counties/Qazvin.md|Qazvin]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~West/Iran/Counties/Qazvin.internal|Qazvin.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~West/Iran/Counties/Qazvin.protect|Qazvin.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~West/Iran/Counties/Qazvin.private|Qazvin.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~West/Iran/Counties/Qazvin.personal|Qazvin.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~West/Iran/Counties/Qazvin.secret|Qazvin.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~West/Iran/Counties/Qazvin|Qazvin]] 
+- [[../../../../../../../_public/geo/Continent/Asia/Asia~West/Iran/Counties/Qazvin.public|Qazvin.public]] 
+- [[../../../../../../../_internal/geo/Continent/Asia/Asia~West/Iran/Counties/Qazvin.internal|Qazvin.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Asia/Asia~West/Iran/Counties/Qazvin.protect|Qazvin.protect]] 
+- [[../../../../../../../_private/geo/Continent/Asia/Asia~West/Iran/Counties/Qazvin.private|Qazvin.private]] 
+- [[../../../../../../../_personal/geo/Continent/Asia/Asia~West/Iran/Counties/Qazvin.personal|Qazvin.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Asia/Asia~West/Iran/Counties/Qazvin.secret|Qazvin.secret]] 
 

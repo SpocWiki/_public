@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 36.5 , 138.9 ] 
 type: geo-Region
 title: Gunma
@@ -40,10 +40,11 @@ markerFolder: ./Gunma/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Asia/Asia~East/Japan/Counties/Gunma.md|Gunma]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~East/Japan/Counties/Gunma.internal|Gunma.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~East/Japan/Counties/Gunma.protect|Gunma.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~East/Japan/Counties/Gunma.private|Gunma.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~East/Japan/Counties/Gunma.personal|Gunma.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~East/Japan/Counties/Gunma.secret|Gunma.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~East/Japan/Counties/Gunma|Gunma]] 
+- [[../../../../../../../_public/geo/Continent/Asia/Asia~East/Japan/Counties/Gunma.public|Gunma.public]] 
+- [[../../../../../../../_internal/geo/Continent/Asia/Asia~East/Japan/Counties/Gunma.internal|Gunma.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Asia/Asia~East/Japan/Counties/Gunma.protect|Gunma.protect]] 
+- [[../../../../../../../_private/geo/Continent/Asia/Asia~East/Japan/Counties/Gunma.private|Gunma.private]] 
+- [[../../../../../../../_personal/geo/Continent/Asia/Asia~East/Japan/Counties/Gunma.personal|Gunma.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Asia/Asia~East/Japan/Counties/Gunma.secret|Gunma.secret]] 
 

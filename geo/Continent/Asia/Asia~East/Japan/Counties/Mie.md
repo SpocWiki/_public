@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 34.5 , 136.5 ] 
 type: geo-Region
 title: Mie
@@ -40,10 +40,11 @@ markerFolder: ./Mie/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Asia/Asia~East/Japan/Counties/Mie.md|Mie]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~East/Japan/Counties/Mie.internal|Mie.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~East/Japan/Counties/Mie.protect|Mie.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~East/Japan/Counties/Mie.private|Mie.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~East/Japan/Counties/Mie.personal|Mie.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~East/Japan/Counties/Mie.secret|Mie.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~East/Japan/Counties/Mie|Mie]] 
+- [[../../../../../../../_public/geo/Continent/Asia/Asia~East/Japan/Counties/Mie.public|Mie.public]] 
+- [[../../../../../../../_internal/geo/Continent/Asia/Asia~East/Japan/Counties/Mie.internal|Mie.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Asia/Asia~East/Japan/Counties/Mie.protect|Mie.protect]] 
+- [[../../../../../../../_private/geo/Continent/Asia/Asia~East/Japan/Counties/Mie.private|Mie.private]] 
+- [[../../../../../../../_personal/geo/Continent/Asia/Asia~East/Japan/Counties/Mie.personal|Mie.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Asia/Asia~East/Japan/Counties/Mie.secret|Mie.secret]] 
 

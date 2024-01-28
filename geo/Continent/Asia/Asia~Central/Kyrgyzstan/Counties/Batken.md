@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 39.9 , 71.6 ] 
 type: geo-Region
 title: Batken
@@ -40,10 +40,11 @@ markerFolder: ./Batken/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Asia/Asia~Central/Kyrgyzstan/Counties/Batken.md|Batken]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~Central/Kyrgyzstan/Counties/Batken.internal|Batken.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~Central/Kyrgyzstan/Counties/Batken.protect|Batken.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~Central/Kyrgyzstan/Counties/Batken.private|Batken.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~Central/Kyrgyzstan/Counties/Batken.personal|Batken.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~Central/Kyrgyzstan/Counties/Batken.secret|Batken.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~Central/Kyrgyzstan/Counties/Batken|Batken]] 
+- [[../../../../../../../_public/geo/Continent/Asia/Asia~Central/Kyrgyzstan/Counties/Batken.public|Batken.public]] 
+- [[../../../../../../../_internal/geo/Continent/Asia/Asia~Central/Kyrgyzstan/Counties/Batken.internal|Batken.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Asia/Asia~Central/Kyrgyzstan/Counties/Batken.protect|Batken.protect]] 
+- [[../../../../../../../_private/geo/Continent/Asia/Asia~Central/Kyrgyzstan/Counties/Batken.private|Batken.private]] 
+- [[../../../../../../../_personal/geo/Continent/Asia/Asia~Central/Kyrgyzstan/Counties/Batken.personal|Batken.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Asia/Asia~Central/Kyrgyzstan/Counties/Batken.secret|Batken.secret]] 
 

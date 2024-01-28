@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 17.9 , 103.1 ] 
 type: geo-Region
 title: Nong_Khai
@@ -40,10 +40,11 @@ markerFolder: ./Nong_Khai/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Nong_Khai.md|Nong_Khai]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Nong_Khai.internal|Nong_Khai.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Nong_Khai.protect|Nong_Khai.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Nong_Khai.private|Nong_Khai.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Nong_Khai.personal|Nong_Khai.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Nong_Khai.secret|Nong_Khai.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Nong_Khai|Nong_Khai]] 
+- [[../../../../../../../_public/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Nong_Khai.public|Nong_Khai.public]] 
+- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Nong_Khai.internal|Nong_Khai.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Nong_Khai.protect|Nong_Khai.protect]] 
+- [[../../../../../../../_private/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Nong_Khai.private|Nong_Khai.private]] 
+- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Nong_Khai.personal|Nong_Khai.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Nong_Khai.secret|Nong_Khai.secret]] 
 

@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 24.8 , 93.8 ] 
 type: geo-Region
 title: Manipur
@@ -40,10 +40,11 @@ markerFolder: ./Manipur/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Asia/Asia~South/India/Counties/Manipur.md|Manipur]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~South/India/Counties/Manipur.internal|Manipur.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~South/India/Counties/Manipur.protect|Manipur.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~South/India/Counties/Manipur.private|Manipur.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~South/India/Counties/Manipur.personal|Manipur.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~South/India/Counties/Manipur.secret|Manipur.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South/India/Counties/Manipur|Manipur]] 
+- [[../../../../../../../_public/geo/Continent/Asia/Asia~South/India/Counties/Manipur.public|Manipur.public]] 
+- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South/India/Counties/Manipur.internal|Manipur.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South/India/Counties/Manipur.protect|Manipur.protect]] 
+- [[../../../../../../../_private/geo/Continent/Asia/Asia~South/India/Counties/Manipur.private|Manipur.private]] 
+- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South/India/Counties/Manipur.personal|Manipur.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South/India/Counties/Manipur.secret|Manipur.secret]] 
 

@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 12.9 , 121.4 ] 
 type: geo-Region
 title: Mindoro_Oriental
@@ -40,10 +40,11 @@ markerFolder: ./Mindoro_Oriental/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Mindoro_Oriental.md|Mindoro_Oriental]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Mindoro_Oriental.internal|Mindoro_Oriental.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Mindoro_Oriental.protect|Mindoro_Oriental.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Mindoro_Oriental.private|Mindoro_Oriental.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Mindoro_Oriental.personal|Mindoro_Oriental.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Mindoro_Oriental.secret|Mindoro_Oriental.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Mindoro_Oriental|Mindoro_Oriental]] 
+- [[../../../../../../../_public/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Mindoro_Oriental.public|Mindoro_Oriental.public]] 
+- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Mindoro_Oriental.internal|Mindoro_Oriental.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Mindoro_Oriental.protect|Mindoro_Oriental.protect]] 
+- [[../../../../../../../_private/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Mindoro_Oriental.private|Mindoro_Oriental.private]] 
+- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Mindoro_Oriental.personal|Mindoro_Oriental.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Mindoro_Oriental.secret|Mindoro_Oriental.secret]] 
 

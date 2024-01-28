@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 23.3 , 58.8 ] 
 type: geo-Region
 title: Muscat
@@ -40,10 +40,11 @@ markerFolder: ./Muscat/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Asia/Asia~West/Oman/Counties/Muscat.md|Muscat]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~West/Oman/Counties/Muscat.internal|Muscat.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~West/Oman/Counties/Muscat.protect|Muscat.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~West/Oman/Counties/Muscat.private|Muscat.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~West/Oman/Counties/Muscat.personal|Muscat.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~West/Oman/Counties/Muscat.secret|Muscat.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~West/Oman/Counties/Muscat|Muscat]] 
+- [[../../../../../../../_public/geo/Continent/Asia/Asia~West/Oman/Counties/Muscat.public|Muscat.public]] 
+- [[../../../../../../../_internal/geo/Continent/Asia/Asia~West/Oman/Counties/Muscat.internal|Muscat.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Asia/Asia~West/Oman/Counties/Muscat.protect|Muscat.protect]] 
+- [[../../../../../../../_private/geo/Continent/Asia/Asia~West/Oman/Counties/Muscat.private|Muscat.private]] 
+- [[../../../../../../../_personal/geo/Continent/Asia/Asia~West/Oman/Counties/Muscat.personal|Muscat.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Asia/Asia~West/Oman/Counties/Muscat.secret|Muscat.secret]] 
 

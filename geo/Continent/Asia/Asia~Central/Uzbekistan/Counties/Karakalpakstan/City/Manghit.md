@@ -1,5 +1,5 @@
 ---
-location: [42.1,60.08]
+location: [42.1,60.08] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,27 +12,28 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::60.08]
-[geo-lat::42.1]
-[name::Manghit]
-[State::]
-[Country::[[Russia]]]
-[StateId::]
-[Population::]
-[Unknown::]
+[geo-lon::60.08] 
+[geo-lat::42.1] 
+[name::Manghit] 
+State ::  
+Country :: [[Russia]]  
+[StateId::] 
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Manghit
-coordinates: [[Manghit]]
-markerFile: [[Manghit]]
+coordinates: [[Manghit]] 
+markerFile: [[Manghit]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_public/geo/Continent/Europe/Russia/City/Manghit.md|Manghit]] 
+- [[../../../../../../_Standards/geo/Continent/Europe/Russia/City/Manghit|Manghit]] 
+- [[../../../../../../_public/geo/Continent/Europe/Russia/City/Manghit.public|Manghit.public]] 
 - [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Manghit.internal|Manghit.internal]] 
 - [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Manghit.protect|Manghit.protect]] 
 - [[../../../../../../_private/geo/Continent/Europe/Russia/City/Manghit.private|Manghit.private]] 

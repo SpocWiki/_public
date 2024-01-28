@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 35.7 , 139.5 ] 
 type: geo-Region
 title: Tokyo
@@ -40,10 +40,11 @@ markerFolder: ./Tokyo/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Asia/Asia~East/Japan/Counties/Tokyo.md|Tokyo]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~East/Japan/Counties/Tokyo.internal|Tokyo.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~East/Japan/Counties/Tokyo.protect|Tokyo.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~East/Japan/Counties/Tokyo.private|Tokyo.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~East/Japan/Counties/Tokyo.personal|Tokyo.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~East/Japan/Counties/Tokyo.secret|Tokyo.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~East/Japan/Counties/Tokyo|Tokyo]] 
+- [[../../../../../../../_public/geo/Continent/Asia/Asia~East/Japan/Counties/Tokyo.public|Tokyo.public]] 
+- [[../../../../../../../_internal/geo/Continent/Asia/Asia~East/Japan/Counties/Tokyo.internal|Tokyo.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Asia/Asia~East/Japan/Counties/Tokyo.protect|Tokyo.protect]] 
+- [[../../../../../../../_private/geo/Continent/Asia/Asia~East/Japan/Counties/Tokyo.private|Tokyo.private]] 
+- [[../../../../../../../_personal/geo/Continent/Asia/Asia~East/Japan/Counties/Tokyo.personal|Tokyo.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Asia/Asia~East/Japan/Counties/Tokyo.secret|Tokyo.secret]] 
 

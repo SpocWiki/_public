@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 37.9 , 59.3 ] 
 type: geo-Region
 title: Ahal
@@ -40,10 +40,11 @@ markerFolder: ./Ahal/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Asia/Asia~Central/Turkmenistan/Counties/Ahal.md|Ahal]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~Central/Turkmenistan/Counties/Ahal.internal|Ahal.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~Central/Turkmenistan/Counties/Ahal.protect|Ahal.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~Central/Turkmenistan/Counties/Ahal.private|Ahal.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~Central/Turkmenistan/Counties/Ahal.personal|Ahal.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~Central/Turkmenistan/Counties/Ahal.secret|Ahal.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~Central/Turkmenistan/Counties/Ahal|Ahal]] 
+- [[../../../../../../../_public/geo/Continent/Asia/Asia~Central/Turkmenistan/Counties/Ahal.public|Ahal.public]] 
+- [[../../../../../../../_internal/geo/Continent/Asia/Asia~Central/Turkmenistan/Counties/Ahal.internal|Ahal.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Asia/Asia~Central/Turkmenistan/Counties/Ahal.protect|Ahal.protect]] 
+- [[../../../../../../../_private/geo/Continent/Asia/Asia~Central/Turkmenistan/Counties/Ahal.private|Ahal.private]] 
+- [[../../../../../../../_personal/geo/Continent/Asia/Asia~Central/Turkmenistan/Counties/Ahal.personal|Ahal.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Asia/Asia~Central/Turkmenistan/Counties/Ahal.secret|Ahal.secret]] 
 

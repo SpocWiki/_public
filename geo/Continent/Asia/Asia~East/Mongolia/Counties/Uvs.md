@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 49.6 , 92.9 ] 
 type: geo-Region
 title: Uvs
@@ -40,10 +40,11 @@ markerFolder: ./Uvs/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Asia/Asia~East/Mongolia/Counties/Uvs.md|Uvs]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~East/Mongolia/Counties/Uvs.internal|Uvs.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~East/Mongolia/Counties/Uvs.protect|Uvs.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~East/Mongolia/Counties/Uvs.private|Uvs.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~East/Mongolia/Counties/Uvs.personal|Uvs.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~East/Mongolia/Counties/Uvs.secret|Uvs.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~East/Mongolia/Counties/Uvs|Uvs]] 
+- [[../../../../../../../_public/geo/Continent/Asia/Asia~East/Mongolia/Counties/Uvs.public|Uvs.public]] 
+- [[../../../../../../../_internal/geo/Continent/Asia/Asia~East/Mongolia/Counties/Uvs.internal|Uvs.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Asia/Asia~East/Mongolia/Counties/Uvs.protect|Uvs.protect]] 
+- [[../../../../../../../_private/geo/Continent/Asia/Asia~East/Mongolia/Counties/Uvs.private|Uvs.private]] 
+- [[../../../../../../../_personal/geo/Continent/Asia/Asia~East/Mongolia/Counties/Uvs.personal|Uvs.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Asia/Asia~East/Mongolia/Counties/Uvs.secret|Uvs.secret]] 
 

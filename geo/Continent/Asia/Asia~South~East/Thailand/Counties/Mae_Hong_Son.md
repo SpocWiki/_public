@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 18.7 , 97.9 ] 
 type: geo-Region
 title: Mae_Hong_Son
@@ -40,10 +40,11 @@ markerFolder: ./Mae_Hong_Son/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Mae_Hong_Son.md|Mae_Hong_Son]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Mae_Hong_Son.internal|Mae_Hong_Son.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Mae_Hong_Son.protect|Mae_Hong_Son.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Mae_Hong_Son.private|Mae_Hong_Son.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Mae_Hong_Son.personal|Mae_Hong_Son.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Mae_Hong_Son.secret|Mae_Hong_Son.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Mae_Hong_Son|Mae_Hong_Son]] 
+- [[../../../../../../../_public/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Mae_Hong_Son.public|Mae_Hong_Son.public]] 
+- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Mae_Hong_Son.internal|Mae_Hong_Son.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Mae_Hong_Son.protect|Mae_Hong_Son.protect]] 
+- [[../../../../../../../_private/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Mae_Hong_Son.private|Mae_Hong_Son.private]] 
+- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Mae_Hong_Son.personal|Mae_Hong_Son.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Mae_Hong_Son.secret|Mae_Hong_Son.secret]] 
 

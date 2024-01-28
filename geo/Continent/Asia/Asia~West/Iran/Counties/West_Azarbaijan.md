@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 37.9 , 44.8 ] 
 type: geo-Region
 title: West_Azarbaijan
@@ -40,10 +40,11 @@ markerFolder: ./West_Azarbaijan/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Asia/Asia~West/Iran/Counties/West_Azarbaijan.md|West_Azarbaijan]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~West/Iran/Counties/West_Azarbaijan.internal|West_Azarbaijan.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~West/Iran/Counties/West_Azarbaijan.protect|West_Azarbaijan.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~West/Iran/Counties/West_Azarbaijan.private|West_Azarbaijan.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~West/Iran/Counties/West_Azarbaijan.personal|West_Azarbaijan.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~West/Iran/Counties/West_Azarbaijan.secret|West_Azarbaijan.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~West/Iran/Counties/West_Azarbaijan|West_Azarbaijan]] 
+- [[../../../../../../../_public/geo/Continent/Asia/Asia~West/Iran/Counties/West_Azarbaijan.public|West_Azarbaijan.public]] 
+- [[../../../../../../../_internal/geo/Continent/Asia/Asia~West/Iran/Counties/West_Azarbaijan.internal|West_Azarbaijan.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Asia/Asia~West/Iran/Counties/West_Azarbaijan.protect|West_Azarbaijan.protect]] 
+- [[../../../../../../../_private/geo/Continent/Asia/Asia~West/Iran/Counties/West_Azarbaijan.private|West_Azarbaijan.private]] 
+- [[../../../../../../../_personal/geo/Continent/Asia/Asia~West/Iran/Counties/West_Azarbaijan.personal|West_Azarbaijan.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Asia/Asia~West/Iran/Counties/West_Azarbaijan.secret|West_Azarbaijan.secret]] 
 

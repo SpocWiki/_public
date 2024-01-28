@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 35.2 , 129.1 ] 
 type: geo-Region
 title: Busan
@@ -40,10 +40,11 @@ markerFolder: ./Busan/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Asia/Asia~East/Korea~South/Counties/Busan.md|Busan]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~East/Korea~South/Counties/Busan.internal|Busan.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~East/Korea~South/Counties/Busan.protect|Busan.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~East/Korea~South/Counties/Busan.private|Busan.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~East/Korea~South/Counties/Busan.personal|Busan.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~East/Korea~South/Counties/Busan.secret|Busan.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~East/Korea~South/Counties/Busan|Busan]] 
+- [[../../../../../../../_public/geo/Continent/Asia/Asia~East/Korea~South/Counties/Busan.public|Busan.public]] 
+- [[../../../../../../../_internal/geo/Continent/Asia/Asia~East/Korea~South/Counties/Busan.internal|Busan.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Asia/Asia~East/Korea~South/Counties/Busan.protect|Busan.protect]] 
+- [[../../../../../../../_private/geo/Continent/Asia/Asia~East/Korea~South/Counties/Busan.private|Busan.private]] 
+- [[../../../../../../../_personal/geo/Continent/Asia/Asia~East/Korea~South/Counties/Busan.personal|Busan.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Asia/Asia~East/Korea~South/Counties/Busan.secret|Busan.secret]] 
 

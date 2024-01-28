@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 27.8 , 83.6 ] 
 type: geo-Region
 title: Lumbini
@@ -40,10 +40,11 @@ markerFolder: ./Lumbini/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Asia/Asia~South/Nepal/Counties/Lumbini.md|Lumbini]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~South/Nepal/Counties/Lumbini.internal|Lumbini.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~South/Nepal/Counties/Lumbini.protect|Lumbini.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~South/Nepal/Counties/Lumbini.private|Lumbini.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~South/Nepal/Counties/Lumbini.personal|Lumbini.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~South/Nepal/Counties/Lumbini.secret|Lumbini.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South/Nepal/Counties/Lumbini|Lumbini]] 
+- [[../../../../../../../_public/geo/Continent/Asia/Asia~South/Nepal/Counties/Lumbini.public|Lumbini.public]] 
+- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South/Nepal/Counties/Lumbini.internal|Lumbini.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South/Nepal/Counties/Lumbini.protect|Lumbini.protect]] 
+- [[../../../../../../../_private/geo/Continent/Asia/Asia~South/Nepal/Counties/Lumbini.private|Lumbini.private]] 
+- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South/Nepal/Counties/Lumbini.personal|Lumbini.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South/Nepal/Counties/Lumbini.secret|Lumbini.secret]] 
 

@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 35.5 , 45.4 ] 
 type: geo-Region
 title: As-Sulaymaniyah
@@ -40,10 +40,11 @@ markerFolder: ./As-Sulaymaniyah/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Asia/Asia~West/Iran/Iraq/Counties/As-Sulaymaniyah.md|As-Sulaymaniyah]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~West/Iran/Iraq/Counties/As-Sulaymaniyah.internal|As-Sulaymaniyah.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~West/Iran/Iraq/Counties/As-Sulaymaniyah.protect|As-Sulaymaniyah.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~West/Iran/Iraq/Counties/As-Sulaymaniyah.private|As-Sulaymaniyah.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~West/Iran/Iraq/Counties/As-Sulaymaniyah.personal|As-Sulaymaniyah.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~West/Iran/Iraq/Counties/As-Sulaymaniyah.secret|As-Sulaymaniyah.secret]] 
+- [[../../../../../../../../_Standards/geo/Continent/Asia/Asia~West/Iran/Iraq/Counties/As-Sulaymaniyah|As-Sulaymaniyah]] 
+- [[../../../../../../../../_public/geo/Continent/Asia/Asia~West/Iran/Iraq/Counties/As-Sulaymaniyah.public|As-Sulaymaniyah.public]] 
+- [[../../../../../../../../_internal/geo/Continent/Asia/Asia~West/Iran/Iraq/Counties/As-Sulaymaniyah.internal|As-Sulaymaniyah.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Asia/Asia~West/Iran/Iraq/Counties/As-Sulaymaniyah.protect|As-Sulaymaniyah.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Asia/Asia~West/Iran/Iraq/Counties/As-Sulaymaniyah.private|As-Sulaymaniyah.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Asia/Asia~West/Iran/Iraq/Counties/As-Sulaymaniyah.personal|As-Sulaymaniyah.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Asia/Asia~West/Iran/Iraq/Counties/As-Sulaymaniyah.secret|As-Sulaymaniyah.secret]] 
 

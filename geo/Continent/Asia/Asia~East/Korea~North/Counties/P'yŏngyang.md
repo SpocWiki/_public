@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 39 , 126 ] 
 type: geo-Region
 title: P'yŏngyang
@@ -40,10 +40,11 @@ markerFolder: ./P'yŏngyang/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Asia/Asia~East/Korea~North/Counties/P'yŏngyang.md|P'yŏngyang]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~East/Korea~North/Counties/P'yŏngyang.internal|P'yŏngyang.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~East/Korea~North/Counties/P'yŏngyang.protect|P'yŏngyang.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~East/Korea~North/Counties/P'yŏngyang.private|P'yŏngyang.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~East/Korea~North/Counties/P'yŏngyang.personal|P'yŏngyang.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~East/Korea~North/Counties/P'yŏngyang.secret|P'yŏngyang.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~East/Korea~North/Counties/P'yŏngyang|P'yŏngyang]] 
+- [[../../../../../../../_public/geo/Continent/Asia/Asia~East/Korea~North/Counties/P'yŏngyang.public|P'yŏngyang.public]] 
+- [[../../../../../../../_internal/geo/Continent/Asia/Asia~East/Korea~North/Counties/P'yŏngyang.internal|P'yŏngyang.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Asia/Asia~East/Korea~North/Counties/P'yŏngyang.protect|P'yŏngyang.protect]] 
+- [[../../../../../../../_private/geo/Continent/Asia/Asia~East/Korea~North/Counties/P'yŏngyang.private|P'yŏngyang.private]] 
+- [[../../../../../../../_personal/geo/Continent/Asia/Asia~East/Korea~North/Counties/P'yŏngyang.personal|P'yŏngyang.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Asia/Asia~East/Korea~North/Counties/P'yŏngyang.secret|P'yŏngyang.secret]] 
 

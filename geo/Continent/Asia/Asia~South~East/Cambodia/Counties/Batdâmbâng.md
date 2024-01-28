@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 12.9 , 103.2 ] 
 type: geo-Region
 title: Batdâmbâng
@@ -40,10 +40,11 @@ markerFolder: ./Batdâmbâng/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Asia/Asia~South~East/Cambodia/Counties/Batdâmbâng.md|Batdâmbâng]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~South~East/Cambodia/Counties/Batdâmbâng.internal|Batdâmbâng.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~South~East/Cambodia/Counties/Batdâmbâng.protect|Batdâmbâng.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~South~East/Cambodia/Counties/Batdâmbâng.private|Batdâmbâng.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~South~East/Cambodia/Counties/Batdâmbâng.personal|Batdâmbâng.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~South~East/Cambodia/Counties/Batdâmbâng.secret|Batdâmbâng.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South~East/Cambodia/Counties/Batdâmbâng|Batdâmbâng]] 
+- [[../../../../../../../_public/geo/Continent/Asia/Asia~South~East/Cambodia/Counties/Batdâmbâng.public|Batdâmbâng.public]] 
+- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South~East/Cambodia/Counties/Batdâmbâng.internal|Batdâmbâng.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South~East/Cambodia/Counties/Batdâmbâng.protect|Batdâmbâng.protect]] 
+- [[../../../../../../../_private/geo/Continent/Asia/Asia~South~East/Cambodia/Counties/Batdâmbâng.private|Batdâmbâng.private]] 
+- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South~East/Cambodia/Counties/Batdâmbâng.personal|Batdâmbâng.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South~East/Cambodia/Counties/Batdâmbâng.secret|Batdâmbâng.secret]] 
 

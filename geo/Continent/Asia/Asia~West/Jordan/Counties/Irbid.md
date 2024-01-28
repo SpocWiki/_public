@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 32.5 , 35.8 ] 
 type: geo-Region
 title: Irbid
@@ -40,10 +40,11 @@ markerFolder: ./Irbid/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Asia/Asia~West/Jordan/Counties/Irbid.md|Irbid]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~West/Jordan/Counties/Irbid.internal|Irbid.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~West/Jordan/Counties/Irbid.protect|Irbid.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~West/Jordan/Counties/Irbid.private|Irbid.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~West/Jordan/Counties/Irbid.personal|Irbid.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~West/Jordan/Counties/Irbid.secret|Irbid.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~West/Jordan/Counties/Irbid|Irbid]] 
+- [[../../../../../../../_public/geo/Continent/Asia/Asia~West/Jordan/Counties/Irbid.public|Irbid.public]] 
+- [[../../../../../../../_internal/geo/Continent/Asia/Asia~West/Jordan/Counties/Irbid.internal|Irbid.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Asia/Asia~West/Jordan/Counties/Irbid.protect|Irbid.protect]] 
+- [[../../../../../../../_private/geo/Continent/Asia/Asia~West/Jordan/Counties/Irbid.private|Irbid.private]] 
+- [[../../../../../../../_personal/geo/Continent/Asia/Asia~West/Jordan/Counties/Irbid.personal|Irbid.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Asia/Asia~West/Jordan/Counties/Irbid.secret|Irbid.secret]] 
 

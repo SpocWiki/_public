@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 33.5 , 36.3 ] 
 type: geo-Region
 title: Damascus
@@ -40,10 +40,11 @@ markerFolder: ./Damascus/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Asia/Asia~West/Syria/Counties/Damascus.md|Damascus]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~West/Syria/Counties/Damascus.internal|Damascus.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~West/Syria/Counties/Damascus.protect|Damascus.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~West/Syria/Counties/Damascus.private|Damascus.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~West/Syria/Counties/Damascus.personal|Damascus.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~West/Syria/Counties/Damascus.secret|Damascus.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~West/Syria/Counties/Damascus|Damascus]] 
+- [[../../../../../../../_public/geo/Continent/Asia/Asia~West/Syria/Counties/Damascus.public|Damascus.public]] 
+- [[../../../../../../../_internal/geo/Continent/Asia/Asia~West/Syria/Counties/Damascus.internal|Damascus.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Asia/Asia~West/Syria/Counties/Damascus.protect|Damascus.protect]] 
+- [[../../../../../../../_private/geo/Continent/Asia/Asia~West/Syria/Counties/Damascus.private|Damascus.private]] 
+- [[../../../../../../../_personal/geo/Continent/Asia/Asia~West/Syria/Counties/Damascus.personal|Damascus.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Asia/Asia~West/Syria/Counties/Damascus.secret|Damascus.secret]] 
 

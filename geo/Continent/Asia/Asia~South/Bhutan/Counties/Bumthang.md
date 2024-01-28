@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 27.7 , 90.7 ] 
 type: geo-Region
 title: Bumthang
@@ -40,10 +40,11 @@ markerFolder: ./Bumthang/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Asia/Asia~South/Bhutan/Counties/Bumthang.md|Bumthang]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~South/Bhutan/Counties/Bumthang.internal|Bumthang.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~South/Bhutan/Counties/Bumthang.protect|Bumthang.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~South/Bhutan/Counties/Bumthang.private|Bumthang.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~South/Bhutan/Counties/Bumthang.personal|Bumthang.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~South/Bhutan/Counties/Bumthang.secret|Bumthang.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South/Bhutan/Counties/Bumthang|Bumthang]] 
+- [[../../../../../../../_public/geo/Continent/Asia/Asia~South/Bhutan/Counties/Bumthang.public|Bumthang.public]] 
+- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South/Bhutan/Counties/Bumthang.internal|Bumthang.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South/Bhutan/Counties/Bumthang.protect|Bumthang.protect]] 
+- [[../../../../../../../_private/geo/Continent/Asia/Asia~South/Bhutan/Counties/Bumthang.private|Bumthang.private]] 
+- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South/Bhutan/Counties/Bumthang.personal|Bumthang.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South/Bhutan/Counties/Bumthang.secret|Bumthang.secret]] 
 

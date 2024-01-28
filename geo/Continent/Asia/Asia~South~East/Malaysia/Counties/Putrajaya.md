@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 2.9 , 101.7 ] 
 type: geo-Region
 title: Putrajaya
@@ -40,10 +40,11 @@ markerFolder: ./Putrajaya/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Asia/Asia~South~East/Malaysia/Counties/Putrajaya.md|Putrajaya]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~South~East/Malaysia/Counties/Putrajaya.internal|Putrajaya.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~South~East/Malaysia/Counties/Putrajaya.protect|Putrajaya.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~South~East/Malaysia/Counties/Putrajaya.private|Putrajaya.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~South~East/Malaysia/Counties/Putrajaya.personal|Putrajaya.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~South~East/Malaysia/Counties/Putrajaya.secret|Putrajaya.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South~East/Malaysia/Counties/Putrajaya|Putrajaya]] 
+- [[../../../../../../../_public/geo/Continent/Asia/Asia~South~East/Malaysia/Counties/Putrajaya.public|Putrajaya.public]] 
+- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South~East/Malaysia/Counties/Putrajaya.internal|Putrajaya.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South~East/Malaysia/Counties/Putrajaya.protect|Putrajaya.protect]] 
+- [[../../../../../../../_private/geo/Continent/Asia/Asia~South~East/Malaysia/Counties/Putrajaya.private|Putrajaya.private]] 
+- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South~East/Malaysia/Counties/Putrajaya.personal|Putrajaya.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South~East/Malaysia/Counties/Putrajaya.secret|Putrajaya.secret]] 
 

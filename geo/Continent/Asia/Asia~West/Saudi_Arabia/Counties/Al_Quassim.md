@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 26 , 43.4 ] 
 type: geo-Region
 title: Al_Quassim
@@ -40,10 +40,11 @@ markerFolder: ./Al_Quassim/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Asia/Asia~West/Saudi_Arabia/Counties/Al_Quassim.md|Al_Quassim]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~West/Saudi_Arabia/Counties/Al_Quassim.internal|Al_Quassim.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~West/Saudi_Arabia/Counties/Al_Quassim.protect|Al_Quassim.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~West/Saudi_Arabia/Counties/Al_Quassim.private|Al_Quassim.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~West/Saudi_Arabia/Counties/Al_Quassim.personal|Al_Quassim.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~West/Saudi_Arabia/Counties/Al_Quassim.secret|Al_Quassim.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~West/Saudi_Arabia/Counties/Al_Quassim|Al_Quassim]] 
+- [[../../../../../../../_public/geo/Continent/Asia/Asia~West/Saudi_Arabia/Counties/Al_Quassim.public|Al_Quassim.public]] 
+- [[../../../../../../../_internal/geo/Continent/Asia/Asia~West/Saudi_Arabia/Counties/Al_Quassim.internal|Al_Quassim.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Asia/Asia~West/Saudi_Arabia/Counties/Al_Quassim.protect|Al_Quassim.protect]] 
+- [[../../../../../../../_private/geo/Continent/Asia/Asia~West/Saudi_Arabia/Counties/Al_Quassim.private|Al_Quassim.private]] 
+- [[../../../../../../../_personal/geo/Continent/Asia/Asia~West/Saudi_Arabia/Counties/Al_Quassim.personal|Al_Quassim.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Asia/Asia~West/Saudi_Arabia/Counties/Al_Quassim.secret|Al_Quassim.secret]] 
 

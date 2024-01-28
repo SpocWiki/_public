@@ -1,5 +1,5 @@
 ﻿---
-location: [38.33,67.83]
+location: [38.33,67.83] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,27 +12,28 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::67.83]
-[geo-lat::38.33]
-[name::Yourtchi]
-[State::]
-[Country::[[Russia]]]
-[StateId::]
-[Population::]
-[Unknown::]
+[geo-lon::67.83] 
+[geo-lat::38.33] 
+[name::Yourtchi] 
+State ::  
+Country :: [[Russia]]  
+[StateId::] 
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Yourtchi
-coordinates: [[Yourtchi]]
-markerFile: [[Yourtchi]]
+coordinates: [[Yourtchi]] 
+markerFile: [[Yourtchi]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_public/geo/Continent/Europe/Russia/City/Yourtchi.md|Yourtchi]] 
+- [[../../../../../../_Standards/geo/Continent/Europe/Russia/City/Yourtchi|Yourtchi]] 
+- [[../../../../../../_public/geo/Continent/Europe/Russia/City/Yourtchi.public|Yourtchi.public]] 
 - [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Yourtchi.internal|Yourtchi.internal]] 
 - [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Yourtchi.protect|Yourtchi.protect]] 
 - [[../../../../../../_private/geo/Continent/Europe/Russia/City/Yourtchi.private|Yourtchi.private]] 

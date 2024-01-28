@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 16.3 , 79.4 ] 
 type: geo-Region
 title: Andhra_Pradesh
@@ -40,10 +40,11 @@ markerFolder: ./Andhra_Pradesh/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Asia/Asia~South/India/Counties/Andhra_Pradesh.md|Andhra_Pradesh]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~South/India/Counties/Andhra_Pradesh.internal|Andhra_Pradesh.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~South/India/Counties/Andhra_Pradesh.protect|Andhra_Pradesh.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~South/India/Counties/Andhra_Pradesh.private|Andhra_Pradesh.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~South/India/Counties/Andhra_Pradesh.personal|Andhra_Pradesh.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~South/India/Counties/Andhra_Pradesh.secret|Andhra_Pradesh.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South/India/Counties/Andhra_Pradesh|Andhra_Pradesh]] 
+- [[../../../../../../../_public/geo/Continent/Asia/Asia~South/India/Counties/Andhra_Pradesh.public|Andhra_Pradesh.public]] 
+- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South/India/Counties/Andhra_Pradesh.internal|Andhra_Pradesh.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South/India/Counties/Andhra_Pradesh.protect|Andhra_Pradesh.protect]] 
+- [[../../../../../../../_private/geo/Continent/Asia/Asia~South/India/Counties/Andhra_Pradesh.private|Andhra_Pradesh.private]] 
+- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South/India/Counties/Andhra_Pradesh.personal|Andhra_Pradesh.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South/India/Counties/Andhra_Pradesh.secret|Andhra_Pradesh.secret]] 
 

@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 32.3 , 59.5 ] 
 type: geo-Region
 title: South_Khorasan
@@ -40,10 +40,11 @@ markerFolder: ./South_Khorasan/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Asia/Asia~West/Iran/Counties/South_Khorasan.md|South_Khorasan]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~West/Iran/Counties/South_Khorasan.internal|South_Khorasan.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~West/Iran/Counties/South_Khorasan.protect|South_Khorasan.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~West/Iran/Counties/South_Khorasan.private|South_Khorasan.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~West/Iran/Counties/South_Khorasan.personal|South_Khorasan.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~West/Iran/Counties/South_Khorasan.secret|South_Khorasan.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~West/Iran/Counties/South_Khorasan|South_Khorasan]] 
+- [[../../../../../../../_public/geo/Continent/Asia/Asia~West/Iran/Counties/South_Khorasan.public|South_Khorasan.public]] 
+- [[../../../../../../../_internal/geo/Continent/Asia/Asia~West/Iran/Counties/South_Khorasan.internal|South_Khorasan.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Asia/Asia~West/Iran/Counties/South_Khorasan.protect|South_Khorasan.protect]] 
+- [[../../../../../../../_private/geo/Continent/Asia/Asia~West/Iran/Counties/South_Khorasan.private|South_Khorasan.private]] 
+- [[../../../../../../../_personal/geo/Continent/Asia/Asia~West/Iran/Counties/South_Khorasan.personal|South_Khorasan.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Asia/Asia~West/Iran/Counties/South_Khorasan.secret|South_Khorasan.secret]] 
 

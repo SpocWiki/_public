@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 20.23 , 106.35 ] 
 type: geo-Region
 title: Nam_Định
@@ -40,10 +40,11 @@ markerFolder: ./Nam_Định/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Nam_Định.md|Nam_Định]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Nam_Định.internal|Nam_Định.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Nam_Định.protect|Nam_Định.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Nam_Định.private|Nam_Định.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Nam_Định.personal|Nam_Định.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Nam_Định.secret|Nam_Định.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Nam_Định|Nam_Định]] 
+- [[../../../../../../../_public/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Nam_Định.public|Nam_Định.public]] 
+- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Nam_Định.internal|Nam_Định.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Nam_Định.protect|Nam_Định.protect]] 
+- [[../../../../../../../_private/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Nam_Định.private|Nam_Định.private]] 
+- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Nam_Định.personal|Nam_Định.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Nam_Định.secret|Nam_Định.secret]] 
 

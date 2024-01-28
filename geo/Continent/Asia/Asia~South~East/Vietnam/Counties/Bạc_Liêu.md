@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 9.3 , 105.6 ] 
 type: geo-Region
 title: Bạc_Liêu
@@ -40,10 +40,11 @@ markerFolder: ./Bạc_Liêu/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Bạc_Liêu.md|Bạc_Liêu]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Bạc_Liêu.internal|Bạc_Liêu.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Bạc_Liêu.protect|Bạc_Liêu.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Bạc_Liêu.private|Bạc_Liêu.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Bạc_Liêu.personal|Bạc_Liêu.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Bạc_Liêu.secret|Bạc_Liêu.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Bạc_Liêu|Bạc_Liêu]] 
+- [[../../../../../../../_public/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Bạc_Liêu.public|Bạc_Liêu.public]] 
+- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Bạc_Liêu.internal|Bạc_Liêu.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Bạc_Liêu.protect|Bạc_Liêu.protect]] 
+- [[../../../../../../../_private/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Bạc_Liêu.private|Bạc_Liêu.private]] 
+- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Bạc_Liêu.personal|Bạc_Liêu.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Bạc_Liêu.secret|Bạc_Liêu.secret]] 
 

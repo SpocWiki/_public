@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 7.8 , 123.3 ] 
 type: geo-Region
 title: Zamboanga_del_Sur
@@ -40,10 +40,11 @@ markerFolder: ./Zamboanga_del_Sur/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Zamboanga_del_Sur.md|Zamboanga_del_Sur]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Zamboanga_del_Sur.internal|Zamboanga_del_Sur.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Zamboanga_del_Sur.protect|Zamboanga_del_Sur.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Zamboanga_del_Sur.private|Zamboanga_del_Sur.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Zamboanga_del_Sur.personal|Zamboanga_del_Sur.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Zamboanga_del_Sur.secret|Zamboanga_del_Sur.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Zamboanga_del_Sur|Zamboanga_del_Sur]] 
+- [[../../../../../../../_public/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Zamboanga_del_Sur.public|Zamboanga_del_Sur.public]] 
+- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Zamboanga_del_Sur.internal|Zamboanga_del_Sur.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Zamboanga_del_Sur.protect|Zamboanga_del_Sur.protect]] 
+- [[../../../../../../../_private/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Zamboanga_del_Sur.private|Zamboanga_del_Sur.private]] 
+- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Zamboanga_del_Sur.personal|Zamboanga_del_Sur.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Zamboanga_del_Sur.secret|Zamboanga_del_Sur.secret]] 
 

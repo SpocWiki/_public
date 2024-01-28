@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 17.5 , 106.3 ] 
 type: geo-Region
 title: Quảng_Bình
@@ -40,10 +40,11 @@ markerFolder: ./Quảng_Bình/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Quảng_Bình.md|Quảng_Bình]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Quảng_Bình.internal|Quảng_Bình.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Quảng_Bình.protect|Quảng_Bình.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Quảng_Bình.private|Quảng_Bình.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Quảng_Bình.personal|Quảng_Bình.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Quảng_Bình.secret|Quảng_Bình.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Quảng_Bình|Quảng_Bình]] 
+- [[../../../../../../../_public/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Quảng_Bình.public|Quảng_Bình.public]] 
+- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Quảng_Bình.internal|Quảng_Bình.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Quảng_Bình.protect|Quảng_Bình.protect]] 
+- [[../../../../../../../_private/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Quảng_Bình.private|Quảng_Bình.private]] 
+- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Quảng_Bình.personal|Quảng_Bình.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Quảng_Bình.secret|Quảng_Bình.secret]] 
 

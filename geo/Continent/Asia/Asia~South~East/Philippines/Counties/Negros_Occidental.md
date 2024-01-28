@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 10.2 , 123 ] 
 type: geo-Region
 title: Negros_Occidental
@@ -40,10 +40,11 @@ markerFolder: ./Negros_Occidental/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Negros_Occidental.md|Negros_Occidental]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Negros_Occidental.internal|Negros_Occidental.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Negros_Occidental.protect|Negros_Occidental.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Negros_Occidental.private|Negros_Occidental.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Negros_Occidental.personal|Negros_Occidental.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Negros_Occidental.secret|Negros_Occidental.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Negros_Occidental|Negros_Occidental]] 
+- [[../../../../../../../_public/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Negros_Occidental.public|Negros_Occidental.public]] 
+- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Negros_Occidental.internal|Negros_Occidental.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Negros_Occidental.protect|Negros_Occidental.protect]] 
+- [[../../../../../../../_private/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Negros_Occidental.private|Negros_Occidental.private]] 
+- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Negros_Occidental.personal|Negros_Occidental.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Negros_Occidental.secret|Negros_Occidental.secret]] 
 

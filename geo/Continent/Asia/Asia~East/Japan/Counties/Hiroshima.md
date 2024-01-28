@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 34.6 , 132.8 ] 
 type: geo-Region
 title: Hiroshima
@@ -40,10 +40,11 @@ markerFolder: ./Hiroshima/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Asia/Asia~East/Japan/Counties/Hiroshima.md|Hiroshima]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~East/Japan/Counties/Hiroshima.internal|Hiroshima.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~East/Japan/Counties/Hiroshima.protect|Hiroshima.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~East/Japan/Counties/Hiroshima.private|Hiroshima.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~East/Japan/Counties/Hiroshima.personal|Hiroshima.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~East/Japan/Counties/Hiroshima.secret|Hiroshima.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~East/Japan/Counties/Hiroshima|Hiroshima]] 
+- [[../../../../../../../_public/geo/Continent/Asia/Asia~East/Japan/Counties/Hiroshima.public|Hiroshima.public]] 
+- [[../../../../../../../_internal/geo/Continent/Asia/Asia~East/Japan/Counties/Hiroshima.internal|Hiroshima.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Asia/Asia~East/Japan/Counties/Hiroshima.protect|Hiroshima.protect]] 
+- [[../../../../../../../_private/geo/Continent/Asia/Asia~East/Japan/Counties/Hiroshima.private|Hiroshima.private]] 
+- [[../../../../../../../_personal/geo/Continent/Asia/Asia~East/Japan/Counties/Hiroshima.personal|Hiroshima.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Asia/Asia~East/Japan/Counties/Hiroshima.secret|Hiroshima.secret]] 
 

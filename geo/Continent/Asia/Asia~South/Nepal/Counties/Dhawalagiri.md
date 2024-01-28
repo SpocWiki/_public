@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 28.6 , 83.5 ] 
 type: geo-Region
 title: Dhawalagiri
@@ -40,10 +40,11 @@ markerFolder: ./Dhawalagiri/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Asia/Asia~South/Nepal/Counties/Dhawalagiri.md|Dhawalagiri]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~South/Nepal/Counties/Dhawalagiri.internal|Dhawalagiri.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~South/Nepal/Counties/Dhawalagiri.protect|Dhawalagiri.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~South/Nepal/Counties/Dhawalagiri.private|Dhawalagiri.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~South/Nepal/Counties/Dhawalagiri.personal|Dhawalagiri.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~South/Nepal/Counties/Dhawalagiri.secret|Dhawalagiri.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South/Nepal/Counties/Dhawalagiri|Dhawalagiri]] 
+- [[../../../../../../../_public/geo/Continent/Asia/Asia~South/Nepal/Counties/Dhawalagiri.public|Dhawalagiri.public]] 
+- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South/Nepal/Counties/Dhawalagiri.internal|Dhawalagiri.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South/Nepal/Counties/Dhawalagiri.protect|Dhawalagiri.protect]] 
+- [[../../../../../../../_private/geo/Continent/Asia/Asia~South/Nepal/Counties/Dhawalagiri.private|Dhawalagiri.private]] 
+- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South/Nepal/Counties/Dhawalagiri.personal|Dhawalagiri.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South/Nepal/Counties/Dhawalagiri.secret|Dhawalagiri.secret]] 
 

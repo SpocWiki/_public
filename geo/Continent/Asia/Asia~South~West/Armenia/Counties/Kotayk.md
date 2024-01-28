@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 40.4 , 44.7 ] 
 type: geo-Region
 title: Kotayk
@@ -40,10 +40,11 @@ markerFolder: ./Kotayk/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Asia/Asia~South~West/Armenia/Counties/Kotayk.md|Kotayk]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~South~West/Armenia/Counties/Kotayk.internal|Kotayk.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~South~West/Armenia/Counties/Kotayk.protect|Kotayk.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~South~West/Armenia/Counties/Kotayk.private|Kotayk.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~South~West/Armenia/Counties/Kotayk.personal|Kotayk.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~South~West/Armenia/Counties/Kotayk.secret|Kotayk.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South~West/Armenia/Counties/Kotayk|Kotayk]] 
+- [[../../../../../../../_public/geo/Continent/Asia/Asia~South~West/Armenia/Counties/Kotayk.public|Kotayk.public]] 
+- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South~West/Armenia/Counties/Kotayk.internal|Kotayk.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South~West/Armenia/Counties/Kotayk.protect|Kotayk.protect]] 
+- [[../../../../../../../_private/geo/Continent/Asia/Asia~South~West/Armenia/Counties/Kotayk.private|Kotayk.private]] 
+- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South~West/Armenia/Counties/Kotayk.personal|Kotayk.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South~West/Armenia/Counties/Kotayk.secret|Kotayk.secret]] 
 

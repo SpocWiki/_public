@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 24.9 , 51.4 ] 
 type: geo-Region
 title: Al_Wakrah
@@ -40,10 +40,11 @@ markerFolder: ./Al_Wakrah/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Asia/Asia~West/Qatar/Counties/Al_Wakrah.md|Al_Wakrah]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~West/Qatar/Counties/Al_Wakrah.internal|Al_Wakrah.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~West/Qatar/Counties/Al_Wakrah.protect|Al_Wakrah.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~West/Qatar/Counties/Al_Wakrah.private|Al_Wakrah.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~West/Qatar/Counties/Al_Wakrah.personal|Al_Wakrah.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~West/Qatar/Counties/Al_Wakrah.secret|Al_Wakrah.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~West/Qatar/Counties/Al_Wakrah|Al_Wakrah]] 
+- [[../../../../../../../_public/geo/Continent/Asia/Asia~West/Qatar/Counties/Al_Wakrah.public|Al_Wakrah.public]] 
+- [[../../../../../../../_internal/geo/Continent/Asia/Asia~West/Qatar/Counties/Al_Wakrah.internal|Al_Wakrah.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Asia/Asia~West/Qatar/Counties/Al_Wakrah.protect|Al_Wakrah.protect]] 
+- [[../../../../../../../_private/geo/Continent/Asia/Asia~West/Qatar/Counties/Al_Wakrah.private|Al_Wakrah.private]] 
+- [[../../../../../../../_personal/geo/Continent/Asia/Asia~West/Qatar/Counties/Al_Wakrah.personal|Al_Wakrah.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Asia/Asia~West/Qatar/Counties/Al_Wakrah.secret|Al_Wakrah.secret]] 
 

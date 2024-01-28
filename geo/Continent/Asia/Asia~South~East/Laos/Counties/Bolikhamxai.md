@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 18.5 , 104 ] 
 type: geo-Region
 title: Bolikhamxai
@@ -40,10 +40,11 @@ markerFolder: ./Bolikhamxai/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Asia/Asia~South~East/Laos/Counties/Bolikhamxai.md|Bolikhamxai]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~South~East/Laos/Counties/Bolikhamxai.internal|Bolikhamxai.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~South~East/Laos/Counties/Bolikhamxai.protect|Bolikhamxai.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~South~East/Laos/Counties/Bolikhamxai.private|Bolikhamxai.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~South~East/Laos/Counties/Bolikhamxai.personal|Bolikhamxai.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~South~East/Laos/Counties/Bolikhamxai.secret|Bolikhamxai.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South~East/Laos/Counties/Bolikhamxai|Bolikhamxai]] 
+- [[../../../../../../../_public/geo/Continent/Asia/Asia~South~East/Laos/Counties/Bolikhamxai.public|Bolikhamxai.public]] 
+- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South~East/Laos/Counties/Bolikhamxai.internal|Bolikhamxai.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South~East/Laos/Counties/Bolikhamxai.protect|Bolikhamxai.protect]] 
+- [[../../../../../../../_private/geo/Continent/Asia/Asia~South~East/Laos/Counties/Bolikhamxai.private|Bolikhamxai.private]] 
+- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South~East/Laos/Counties/Bolikhamxai.personal|Bolikhamxai.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South~East/Laos/Counties/Bolikhamxai.secret|Bolikhamxai.secret]] 
 

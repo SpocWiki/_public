@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 29.4 , 80.5 ] 
 type: geo-Region
 title: Mahakali
@@ -40,10 +40,11 @@ markerFolder: ./Mahakali/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Asia/Asia~South/Nepal/Counties/Mahakali.md|Mahakali]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~South/Nepal/Counties/Mahakali.internal|Mahakali.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~South/Nepal/Counties/Mahakali.protect|Mahakali.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~South/Nepal/Counties/Mahakali.private|Mahakali.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~South/Nepal/Counties/Mahakali.personal|Mahakali.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~South/Nepal/Counties/Mahakali.secret|Mahakali.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South/Nepal/Counties/Mahakali|Mahakali]] 
+- [[../../../../../../../_public/geo/Continent/Asia/Asia~South/Nepal/Counties/Mahakali.public|Mahakali.public]] 
+- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South/Nepal/Counties/Mahakali.internal|Mahakali.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South/Nepal/Counties/Mahakali.protect|Mahakali.protect]] 
+- [[../../../../../../../_private/geo/Continent/Asia/Asia~South/Nepal/Counties/Mahakali.private|Mahakali.private]] 
+- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South/Nepal/Counties/Mahakali.personal|Mahakali.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South/Nepal/Counties/Mahakali.secret|Mahakali.secret]] 
 

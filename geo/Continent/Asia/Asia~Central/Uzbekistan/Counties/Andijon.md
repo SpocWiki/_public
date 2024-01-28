@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 40.7 , 72.3 ] 
 type: geo-Region
 title: Andijon
@@ -40,10 +40,11 @@ markerFolder: ./Andijon/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Asia/Asia~Central/Uzbekistan/Counties/Andijon.md|Andijon]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~Central/Uzbekistan/Counties/Andijon.internal|Andijon.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~Central/Uzbekistan/Counties/Andijon.protect|Andijon.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~Central/Uzbekistan/Counties/Andijon.private|Andijon.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~Central/Uzbekistan/Counties/Andijon.personal|Andijon.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~Central/Uzbekistan/Counties/Andijon.secret|Andijon.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~Central/Uzbekistan/Counties/Andijon|Andijon]] 
+- [[../../../../../../../_public/geo/Continent/Asia/Asia~Central/Uzbekistan/Counties/Andijon.public|Andijon.public]] 
+- [[../../../../../../../_internal/geo/Continent/Asia/Asia~Central/Uzbekistan/Counties/Andijon.internal|Andijon.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Asia/Asia~Central/Uzbekistan/Counties/Andijon.protect|Andijon.protect]] 
+- [[../../../../../../../_private/geo/Continent/Asia/Asia~Central/Uzbekistan/Counties/Andijon.private|Andijon.private]] 
+- [[../../../../../../../_personal/geo/Continent/Asia/Asia~Central/Uzbekistan/Counties/Andijon.personal|Andijon.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Asia/Asia~Central/Uzbekistan/Counties/Andijon.secret|Andijon.secret]] 
 

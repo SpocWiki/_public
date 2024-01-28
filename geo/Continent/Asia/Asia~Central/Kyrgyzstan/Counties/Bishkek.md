@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 42.9 , 74.6 ] 
 type: geo-Region
 title: Bishkek
@@ -40,10 +40,11 @@ markerFolder: ./Bishkek/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Asia/Asia~Central/Kyrgyzstan/Counties/Bishkek.md|Bishkek]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~Central/Kyrgyzstan/Counties/Bishkek.internal|Bishkek.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~Central/Kyrgyzstan/Counties/Bishkek.protect|Bishkek.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~Central/Kyrgyzstan/Counties/Bishkek.private|Bishkek.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~Central/Kyrgyzstan/Counties/Bishkek.personal|Bishkek.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~Central/Kyrgyzstan/Counties/Bishkek.secret|Bishkek.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~Central/Kyrgyzstan/Counties/Bishkek|Bishkek]] 
+- [[../../../../../../../_public/geo/Continent/Asia/Asia~Central/Kyrgyzstan/Counties/Bishkek.public|Bishkek.public]] 
+- [[../../../../../../../_internal/geo/Continent/Asia/Asia~Central/Kyrgyzstan/Counties/Bishkek.internal|Bishkek.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Asia/Asia~Central/Kyrgyzstan/Counties/Bishkek.protect|Bishkek.protect]] 
+- [[../../../../../../../_private/geo/Continent/Asia/Asia~Central/Kyrgyzstan/Counties/Bishkek.private|Bishkek.private]] 
+- [[../../../../../../../_personal/geo/Continent/Asia/Asia~Central/Kyrgyzstan/Counties/Bishkek.personal|Bishkek.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Asia/Asia~Central/Kyrgyzstan/Counties/Bishkek.secret|Bishkek.secret]] 
 

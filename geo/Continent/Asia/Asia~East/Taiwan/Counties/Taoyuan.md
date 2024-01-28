@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 24.9 , 121.3 ] 
 type: geo-Region
 title: Taoyuan
@@ -40,10 +40,11 @@ markerFolder: ./Taoyuan/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Asia/Asia~East/Taiwan/Counties/Taoyuan.md|Taoyuan]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~East/Taiwan/Counties/Taoyuan.internal|Taoyuan.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~East/Taiwan/Counties/Taoyuan.protect|Taoyuan.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~East/Taiwan/Counties/Taoyuan.private|Taoyuan.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~East/Taiwan/Counties/Taoyuan.personal|Taoyuan.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~East/Taiwan/Counties/Taoyuan.secret|Taoyuan.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~East/Taiwan/Counties/Taoyuan|Taoyuan]] 
+- [[../../../../../../../_public/geo/Continent/Asia/Asia~East/Taiwan/Counties/Taoyuan.public|Taoyuan.public]] 
+- [[../../../../../../../_internal/geo/Continent/Asia/Asia~East/Taiwan/Counties/Taoyuan.internal|Taoyuan.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Asia/Asia~East/Taiwan/Counties/Taoyuan.protect|Taoyuan.protect]] 
+- [[../../../../../../../_private/geo/Continent/Asia/Asia~East/Taiwan/Counties/Taoyuan.private|Taoyuan.private]] 
+- [[../../../../../../../_personal/geo/Continent/Asia/Asia~East/Taiwan/Counties/Taoyuan.personal|Taoyuan.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Asia/Asia~East/Taiwan/Counties/Taoyuan.secret|Taoyuan.secret]] 
 

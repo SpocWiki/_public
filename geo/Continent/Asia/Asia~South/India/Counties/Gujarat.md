@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 22.4 , 71.9 ] 
 type: geo-Region
 title: Gujarat
@@ -40,10 +40,11 @@ markerFolder: ./Gujarat/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Asia/Asia~South/India/Counties/Gujarat.md|Gujarat]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~South/India/Counties/Gujarat.internal|Gujarat.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~South/India/Counties/Gujarat.protect|Gujarat.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~South/India/Counties/Gujarat.private|Gujarat.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~South/India/Counties/Gujarat.personal|Gujarat.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~South/India/Counties/Gujarat.secret|Gujarat.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South/India/Counties/Gujarat|Gujarat]] 
+- [[../../../../../../../_public/geo/Continent/Asia/Asia~South/India/Counties/Gujarat.public|Gujarat.public]] 
+- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South/India/Counties/Gujarat.internal|Gujarat.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South/India/Counties/Gujarat.protect|Gujarat.protect]] 
+- [[../../../../../../../_private/geo/Continent/Asia/Asia~South/India/Counties/Gujarat.private|Gujarat.private]] 
+- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South/India/Counties/Gujarat.personal|Gujarat.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South/India/Counties/Gujarat.secret|Gujarat.secret]] 
 

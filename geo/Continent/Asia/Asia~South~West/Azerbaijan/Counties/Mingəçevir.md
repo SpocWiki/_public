@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 40.76 , 46.99 ] 
 type: geo-Region
 title: Mingəçevir
@@ -40,10 +40,11 @@ markerFolder: ./Mingəçevir/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Mingəçevir.md|Mingəçevir]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Mingəçevir.internal|Mingəçevir.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Mingəçevir.protect|Mingəçevir.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Mingəçevir.private|Mingəçevir.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Mingəçevir.personal|Mingəçevir.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Mingəçevir.secret|Mingəçevir.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Mingəçevir|Mingəçevir]] 
+- [[../../../../../../../_public/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Mingəçevir.public|Mingəçevir.public]] 
+- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Mingəçevir.internal|Mingəçevir.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Mingəçevir.protect|Mingəçevir.protect]] 
+- [[../../../../../../../_private/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Mingəçevir.private|Mingəçevir.private]] 
+- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Mingəçevir.personal|Mingəçevir.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Mingəçevir.secret|Mingəçevir.secret]] 
 

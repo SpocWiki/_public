@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 33.3 , 133.1 ] 
 type: geo-Region
 title: Kochi
@@ -40,10 +40,11 @@ markerFolder: ./Kochi/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Asia/Asia~East/Japan/Counties/Kochi.md|Kochi]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~East/Japan/Counties/Kochi.internal|Kochi.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~East/Japan/Counties/Kochi.protect|Kochi.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~East/Japan/Counties/Kochi.private|Kochi.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~East/Japan/Counties/Kochi.personal|Kochi.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~East/Japan/Counties/Kochi.secret|Kochi.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~East/Japan/Counties/Kochi|Kochi]] 
+- [[../../../../../../../_public/geo/Continent/Asia/Asia~East/Japan/Counties/Kochi.public|Kochi.public]] 
+- [[../../../../../../../_internal/geo/Continent/Asia/Asia~East/Japan/Counties/Kochi.internal|Kochi.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Asia/Asia~East/Japan/Counties/Kochi.protect|Kochi.protect]] 
+- [[../../../../../../../_private/geo/Continent/Asia/Asia~East/Japan/Counties/Kochi.private|Kochi.private]] 
+- [[../../../../../../../_personal/geo/Continent/Asia/Asia~East/Japan/Counties/Kochi.personal|Kochi.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Asia/Asia~East/Japan/Counties/Kochi.secret|Kochi.secret]] 
 

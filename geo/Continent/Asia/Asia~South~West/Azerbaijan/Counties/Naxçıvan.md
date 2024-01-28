@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 39.2 , 45.4 ] 
 type: geo-Region
 title: Naxçıvan
@@ -40,10 +40,11 @@ markerFolder: ./Naxçıvan/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Naxçıvan.md|Naxçıvan]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Naxçıvan.internal|Naxçıvan.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Naxçıvan.protect|Naxçıvan.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Naxçıvan.private|Naxçıvan.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Naxçıvan.personal|Naxçıvan.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Naxçıvan.secret|Naxçıvan.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Naxçıvan|Naxçıvan]] 
+- [[../../../../../../../_public/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Naxçıvan.public|Naxçıvan.public]] 
+- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Naxçıvan.internal|Naxçıvan.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Naxçıvan.protect|Naxçıvan.protect]] 
+- [[../../../../../../../_private/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Naxçıvan.private|Naxçıvan.private]] 
+- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Naxçıvan.personal|Naxçıvan.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Naxçıvan.secret|Naxçıvan.secret]] 
 

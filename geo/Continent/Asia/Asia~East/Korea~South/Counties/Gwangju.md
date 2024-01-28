@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 35.2 , 126.9 ] 
 type: geo-Region
 title: Gwangju
@@ -40,10 +40,11 @@ markerFolder: ./Gwangju/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Asia/Asia~East/Korea~South/Counties/Gwangju.md|Gwangju]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~East/Korea~South/Counties/Gwangju.internal|Gwangju.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~East/Korea~South/Counties/Gwangju.protect|Gwangju.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~East/Korea~South/Counties/Gwangju.private|Gwangju.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~East/Korea~South/Counties/Gwangju.personal|Gwangju.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~East/Korea~South/Counties/Gwangju.secret|Gwangju.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~East/Korea~South/Counties/Gwangju|Gwangju]] 
+- [[../../../../../../../_public/geo/Continent/Asia/Asia~East/Korea~South/Counties/Gwangju.public|Gwangju.public]] 
+- [[../../../../../../../_internal/geo/Continent/Asia/Asia~East/Korea~South/Counties/Gwangju.internal|Gwangju.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Asia/Asia~East/Korea~South/Counties/Gwangju.protect|Gwangju.protect]] 
+- [[../../../../../../../_private/geo/Continent/Asia/Asia~East/Korea~South/Counties/Gwangju.private|Gwangju.private]] 
+- [[../../../../../../../_personal/geo/Continent/Asia/Asia~East/Korea~South/Counties/Gwangju.personal|Gwangju.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Asia/Asia~East/Korea~South/Counties/Gwangju.secret|Gwangju.secret]] 
 

@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 15.3 , 43.6 ] 
 type: geo-Region
 title: Al_Mahwit
@@ -40,10 +40,11 @@ markerFolder: ./Al_Mahwit/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Asia/Asia~West/Yemen~Republic/Counties/Al_Mahwit.md|Al_Mahwit]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~West/Yemen~Republic/Counties/Al_Mahwit.internal|Al_Mahwit.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~West/Yemen~Republic/Counties/Al_Mahwit.protect|Al_Mahwit.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~West/Yemen~Republic/Counties/Al_Mahwit.private|Al_Mahwit.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~West/Yemen~Republic/Counties/Al_Mahwit.personal|Al_Mahwit.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~West/Yemen~Republic/Counties/Al_Mahwit.secret|Al_Mahwit.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~West/Yemen~Republic/Counties/Al_Mahwit|Al_Mahwit]] 
+- [[../../../../../../../_public/geo/Continent/Asia/Asia~West/Yemen~Republic/Counties/Al_Mahwit.public|Al_Mahwit.public]] 
+- [[../../../../../../../_internal/geo/Continent/Asia/Asia~West/Yemen~Republic/Counties/Al_Mahwit.internal|Al_Mahwit.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Asia/Asia~West/Yemen~Republic/Counties/Al_Mahwit.protect|Al_Mahwit.protect]] 
+- [[../../../../../../../_private/geo/Continent/Asia/Asia~West/Yemen~Republic/Counties/Al_Mahwit.private|Al_Mahwit.private]] 
+- [[../../../../../../../_personal/geo/Continent/Asia/Asia~West/Yemen~Republic/Counties/Al_Mahwit.personal|Al_Mahwit.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Asia/Asia~West/Yemen~Republic/Counties/Al_Mahwit.secret|Al_Mahwit.secret]] 
 

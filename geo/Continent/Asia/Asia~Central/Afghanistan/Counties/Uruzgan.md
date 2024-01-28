@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 33.7 , 66.4 ] 
 type: geo-Region
 title: Uruzgan
@@ -40,10 +40,11 @@ markerFolder: ./Uruzgan/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Asia/Asia~Central/Afghanistan/Counties/Uruzgan.md|Uruzgan]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~Central/Afghanistan/Counties/Uruzgan.internal|Uruzgan.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~Central/Afghanistan/Counties/Uruzgan.protect|Uruzgan.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~Central/Afghanistan/Counties/Uruzgan.private|Uruzgan.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~Central/Afghanistan/Counties/Uruzgan.personal|Uruzgan.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~Central/Afghanistan/Counties/Uruzgan.secret|Uruzgan.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~Central/Afghanistan/Counties/Uruzgan|Uruzgan]] 
+- [[../../../../../../../_public/geo/Continent/Asia/Asia~Central/Afghanistan/Counties/Uruzgan.public|Uruzgan.public]] 
+- [[../../../../../../../_internal/geo/Continent/Asia/Asia~Central/Afghanistan/Counties/Uruzgan.internal|Uruzgan.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Asia/Asia~Central/Afghanistan/Counties/Uruzgan.protect|Uruzgan.protect]] 
+- [[../../../../../../../_private/geo/Continent/Asia/Asia~Central/Afghanistan/Counties/Uruzgan.private|Uruzgan.private]] 
+- [[../../../../../../../_personal/geo/Continent/Asia/Asia~Central/Afghanistan/Counties/Uruzgan.personal|Uruzgan.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Asia/Asia~Central/Afghanistan/Counties/Uruzgan.secret|Uruzgan.secret]] 
 

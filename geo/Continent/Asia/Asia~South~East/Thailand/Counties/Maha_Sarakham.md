@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 16 , 103.2 ] 
 type: geo-Region
 title: Maha_Sarakham
@@ -40,10 +40,11 @@ markerFolder: ./Maha_Sarakham/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Maha_Sarakham.md|Maha_Sarakham]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Maha_Sarakham.internal|Maha_Sarakham.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Maha_Sarakham.protect|Maha_Sarakham.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Maha_Sarakham.private|Maha_Sarakham.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Maha_Sarakham.personal|Maha_Sarakham.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Maha_Sarakham.secret|Maha_Sarakham.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Maha_Sarakham|Maha_Sarakham]] 
+- [[../../../../../../../_public/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Maha_Sarakham.public|Maha_Sarakham.public]] 
+- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Maha_Sarakham.internal|Maha_Sarakham.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Maha_Sarakham.protect|Maha_Sarakham.protect]] 
+- [[../../../../../../../_private/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Maha_Sarakham.private|Maha_Sarakham.private]] 
+- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Maha_Sarakham.personal|Maha_Sarakham.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Maha_Sarakham.secret|Maha_Sarakham.secret]] 
 

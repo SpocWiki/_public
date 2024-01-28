@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 12.9 , 99.6 ] 
 type: geo-Region
 title: Phetchaburi
@@ -40,10 +40,11 @@ markerFolder: ./Phetchaburi/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Phetchaburi.md|Phetchaburi]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Phetchaburi.internal|Phetchaburi.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Phetchaburi.protect|Phetchaburi.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Phetchaburi.private|Phetchaburi.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Phetchaburi.personal|Phetchaburi.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Phetchaburi.secret|Phetchaburi.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Phetchaburi|Phetchaburi]] 
+- [[../../../../../../../_public/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Phetchaburi.public|Phetchaburi.public]] 
+- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Phetchaburi.internal|Phetchaburi.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Phetchaburi.protect|Phetchaburi.protect]] 
+- [[../../../../../../../_private/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Phetchaburi.private|Phetchaburi.private]] 
+- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Phetchaburi.personal|Phetchaburi.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Phetchaburi.secret|Phetchaburi.secret]] 
 

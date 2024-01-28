@@ -9,8 +9,8 @@ isDeleted: false
 confidential: public
 
 ---
-[ISO2::]
-[ISO3::]
+[ISO2::] 
+[ISO3::] 
 ```leaflet
 id: Asian Shipping
 zoomFeatures: true 
@@ -20,22 +20,23 @@ geojsonFolder: ./Asian_Shipping/
 markerFolder: ./Asian_Shipping/
 ```
 
-[name-en::Asian Shipping]
-[name-de::Asien Schiffahrt]
-[Area-Total::]
-[Area-Land::]
-[Continent::[[Asia]]]
-[VehicleCode::]
-[Capital-Id::]
-[Alcohol-l::]
-[Language-Id::]
-[geo-lon::]
-[geo-lat::]
+[name-en::Asian Shipping] 
+[name-de::Asien Schiffahrt] 
+[Area-Total::] 
+[Area-Land::] 
+Continent :: [[Asia]]  
+[VehicleCode::] 
+[Capital-Id::] 
+[Alcohol-l::] 
+[Language-Id::] 
+[geo-lon::] 
+[geo-lat::] 
 
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Asia/Asian_Shipping.md|Asian_Shipping]] 
+- [[../../../../_Standards/geo/Continent/Asia/Asian_Shipping|Asian_Shipping]] 
+- [[../../../../_public/geo/Continent/Asia/Asian_Shipping.public|Asian_Shipping.public]] 
 - [[../../../../_internal/geo/Continent/Asia/Asian_Shipping.internal|Asian_Shipping.internal]] 
 - [[../../../../_protect/geo/Continent/Asia/Asian_Shipping.protect|Asian_Shipping.protect]] 
 - [[../../../../_private/geo/Continent/Asia/Asian_Shipping.private|Asian_Shipping.private]] 

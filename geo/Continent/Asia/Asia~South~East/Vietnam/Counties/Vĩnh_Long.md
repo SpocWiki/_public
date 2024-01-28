@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 10.1 , 106 ] 
 type: geo-Region
 title: Vĩnh_Long
@@ -40,10 +40,11 @@ markerFolder: ./Vĩnh_Long/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Vĩnh_Long.md|Vĩnh_Long]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Vĩnh_Long.internal|Vĩnh_Long.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Vĩnh_Long.protect|Vĩnh_Long.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Vĩnh_Long.private|Vĩnh_Long.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Vĩnh_Long.personal|Vĩnh_Long.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Vĩnh_Long.secret|Vĩnh_Long.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Vĩnh_Long|Vĩnh_Long]] 
+- [[../../../../../../../_public/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Vĩnh_Long.public|Vĩnh_Long.public]] 
+- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Vĩnh_Long.internal|Vĩnh_Long.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Vĩnh_Long.protect|Vĩnh_Long.protect]] 
+- [[../../../../../../../_private/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Vĩnh_Long.private|Vĩnh_Long.private]] 
+- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Vĩnh_Long.personal|Vĩnh_Long.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Vĩnh_Long.secret|Vĩnh_Long.secret]] 
 

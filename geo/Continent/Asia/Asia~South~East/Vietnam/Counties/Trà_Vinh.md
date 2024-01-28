@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 9.8 , 106.3 ] 
 type: geo-Region
 title: Trà_Vinh
@@ -40,10 +40,11 @@ markerFolder: ./Trà_Vinh/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Trà_Vinh.md|Trà_Vinh]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Trà_Vinh.internal|Trà_Vinh.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Trà_Vinh.protect|Trà_Vinh.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Trà_Vinh.private|Trà_Vinh.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Trà_Vinh.personal|Trà_Vinh.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Trà_Vinh.secret|Trà_Vinh.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Trà_Vinh|Trà_Vinh]] 
+- [[../../../../../../../_public/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Trà_Vinh.public|Trà_Vinh.public]] 
+- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Trà_Vinh.internal|Trà_Vinh.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Trà_Vinh.protect|Trà_Vinh.protect]] 
+- [[../../../../../../../_private/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Trà_Vinh.private|Trà_Vinh.private]] 
+- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Trà_Vinh.personal|Trà_Vinh.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Trà_Vinh.secret|Trà_Vinh.secret]] 
 

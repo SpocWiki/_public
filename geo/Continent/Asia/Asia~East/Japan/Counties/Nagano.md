@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 36.1 , 138.1 ] 
 type: geo-Region
 title: Nagano
@@ -40,10 +40,11 @@ markerFolder: ./Nagano/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Asia/Asia~East/Japan/Counties/Nagano.md|Nagano]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~East/Japan/Counties/Nagano.internal|Nagano.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~East/Japan/Counties/Nagano.protect|Nagano.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~East/Japan/Counties/Nagano.private|Nagano.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~East/Japan/Counties/Nagano.personal|Nagano.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~East/Japan/Counties/Nagano.secret|Nagano.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~East/Japan/Counties/Nagano|Nagano]] 
+- [[../../../../../../../_public/geo/Continent/Asia/Asia~East/Japan/Counties/Nagano.public|Nagano.public]] 
+- [[../../../../../../../_internal/geo/Continent/Asia/Asia~East/Japan/Counties/Nagano.internal|Nagano.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Asia/Asia~East/Japan/Counties/Nagano.protect|Nagano.protect]] 
+- [[../../../../../../../_private/geo/Continent/Asia/Asia~East/Japan/Counties/Nagano.private|Nagano.private]] 
+- [[../../../../../../../_personal/geo/Continent/Asia/Asia~East/Japan/Counties/Nagano.personal|Nagano.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Asia/Asia~East/Japan/Counties/Nagano.secret|Nagano.secret]] 
 

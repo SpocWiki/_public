@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 5.28 , 73.58 ] 
 type: geo-Region
 title: Lhaviyani
@@ -40,10 +40,11 @@ markerFolder: ./Lhaviyani/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Asia/Asia~South/Maldives/Counties/Lhaviyani.md|Lhaviyani]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~South/Maldives/Counties/Lhaviyani.internal|Lhaviyani.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~South/Maldives/Counties/Lhaviyani.protect|Lhaviyani.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~South/Maldives/Counties/Lhaviyani.private|Lhaviyani.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~South/Maldives/Counties/Lhaviyani.personal|Lhaviyani.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~South/Maldives/Counties/Lhaviyani.secret|Lhaviyani.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South/Maldives/Counties/Lhaviyani|Lhaviyani]] 
+- [[../../../../../../../_public/geo/Continent/Asia/Asia~South/Maldives/Counties/Lhaviyani.public|Lhaviyani.public]] 
+- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South/Maldives/Counties/Lhaviyani.internal|Lhaviyani.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South/Maldives/Counties/Lhaviyani.protect|Lhaviyani.protect]] 
+- [[../../../../../../../_private/geo/Continent/Asia/Asia~South/Maldives/Counties/Lhaviyani.private|Lhaviyani.private]] 
+- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South/Maldives/Counties/Lhaviyani.personal|Lhaviyani.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South/Maldives/Counties/Lhaviyani.secret|Lhaviyani.secret]] 
 

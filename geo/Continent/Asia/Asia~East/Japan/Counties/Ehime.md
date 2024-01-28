@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 33.5 , 132.7 ] 
 type: geo-Region
 title: Ehime
@@ -40,10 +40,11 @@ markerFolder: ./Ehime/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Asia/Asia~East/Japan/Counties/Ehime.md|Ehime]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~East/Japan/Counties/Ehime.internal|Ehime.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~East/Japan/Counties/Ehime.protect|Ehime.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~East/Japan/Counties/Ehime.private|Ehime.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~East/Japan/Counties/Ehime.personal|Ehime.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~East/Japan/Counties/Ehime.secret|Ehime.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~East/Japan/Counties/Ehime|Ehime]] 
+- [[../../../../../../../_public/geo/Continent/Asia/Asia~East/Japan/Counties/Ehime.public|Ehime.public]] 
+- [[../../../../../../../_internal/geo/Continent/Asia/Asia~East/Japan/Counties/Ehime.internal|Ehime.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Asia/Asia~East/Japan/Counties/Ehime.protect|Ehime.protect]] 
+- [[../../../../../../../_private/geo/Continent/Asia/Asia~East/Japan/Counties/Ehime.private|Ehime.private]] 
+- [[../../../../../../../_personal/geo/Continent/Asia/Asia~East/Japan/Counties/Ehime.personal|Ehime.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Asia/Asia~East/Japan/Counties/Ehime.secret|Ehime.secret]] 
 

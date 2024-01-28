@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 7.6 , 125.6 ] 
 type: geo-Region
 title: Davao_del_Norte
@@ -40,10 +40,11 @@ markerFolder: ./Davao_del_Norte/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Davao_del_Norte.md|Davao_del_Norte]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Davao_del_Norte.internal|Davao_del_Norte.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Davao_del_Norte.protect|Davao_del_Norte.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Davao_del_Norte.private|Davao_del_Norte.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Davao_del_Norte.personal|Davao_del_Norte.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Davao_del_Norte.secret|Davao_del_Norte.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Davao_del_Norte|Davao_del_Norte]] 
+- [[../../../../../../../_public/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Davao_del_Norte.public|Davao_del_Norte.public]] 
+- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Davao_del_Norte.internal|Davao_del_Norte.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Davao_del_Norte.protect|Davao_del_Norte.protect]] 
+- [[../../../../../../../_private/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Davao_del_Norte.private|Davao_del_Norte.private]] 
+- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Davao_del_Norte.personal|Davao_del_Norte.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Davao_del_Norte.secret|Davao_del_Norte.secret]] 
 

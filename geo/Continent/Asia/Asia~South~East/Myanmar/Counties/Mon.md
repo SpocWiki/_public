@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 17.1 , 97.4 ] 
 type: geo-Region
 title: Mon
@@ -40,10 +40,11 @@ markerFolder: ./Mon/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Asia/Asia~South~East/Myanmar/Counties/Mon.md|Mon]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~South~East/Myanmar/Counties/Mon.internal|Mon.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~South~East/Myanmar/Counties/Mon.protect|Mon.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~South~East/Myanmar/Counties/Mon.private|Mon.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~South~East/Myanmar/Counties/Mon.personal|Mon.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~South~East/Myanmar/Counties/Mon.secret|Mon.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South~East/Myanmar/Counties/Mon|Mon]] 
+- [[../../../../../../../_public/geo/Continent/Asia/Asia~South~East/Myanmar/Counties/Mon.public|Mon.public]] 
+- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South~East/Myanmar/Counties/Mon.internal|Mon.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South~East/Myanmar/Counties/Mon.protect|Mon.protect]] 
+- [[../../../../../../../_private/geo/Continent/Asia/Asia~South~East/Myanmar/Counties/Mon.private|Mon.private]] 
+- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South~East/Myanmar/Counties/Mon.personal|Mon.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South~East/Myanmar/Counties/Mon.secret|Mon.secret]] 
 

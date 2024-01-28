@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 17.1 , 121.1 ] 
 type: geo-Region
 title: Mountain_Province
@@ -40,10 +40,11 @@ markerFolder: ./Mountain_Province/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Mountain_Province.md|Mountain_Province]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Mountain_Province.internal|Mountain_Province.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Mountain_Province.protect|Mountain_Province.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Mountain_Province.private|Mountain_Province.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Mountain_Province.personal|Mountain_Province.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Mountain_Province.secret|Mountain_Province.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Mountain_Province|Mountain_Province]] 
+- [[../../../../../../../_public/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Mountain_Province.public|Mountain_Province.public]] 
+- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Mountain_Province.internal|Mountain_Province.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Mountain_Province.protect|Mountain_Province.protect]] 
+- [[../../../../../../../_private/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Mountain_Province.private|Mountain_Province.private]] 
+- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Mountain_Province.personal|Mountain_Province.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Mountain_Province.secret|Mountain_Province.secret]] 
 

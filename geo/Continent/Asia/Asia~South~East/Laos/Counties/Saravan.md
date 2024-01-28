@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 15.9 , 106.3 ] 
 type: geo-Region
 title: Saravan
@@ -40,10 +40,11 @@ markerFolder: ./Saravan/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Asia/Asia~South~East/Laos/Counties/Saravan.md|Saravan]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~South~East/Laos/Counties/Saravan.internal|Saravan.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~South~East/Laos/Counties/Saravan.protect|Saravan.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~South~East/Laos/Counties/Saravan.private|Saravan.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~South~East/Laos/Counties/Saravan.personal|Saravan.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~South~East/Laos/Counties/Saravan.secret|Saravan.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South~East/Laos/Counties/Saravan|Saravan]] 
+- [[../../../../../../../_public/geo/Continent/Asia/Asia~South~East/Laos/Counties/Saravan.public|Saravan.public]] 
+- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South~East/Laos/Counties/Saravan.internal|Saravan.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South~East/Laos/Counties/Saravan.protect|Saravan.protect]] 
+- [[../../../../../../../_private/geo/Continent/Asia/Asia~South~East/Laos/Counties/Saravan.private|Saravan.private]] 
+- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South~East/Laos/Counties/Saravan.personal|Saravan.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South~East/Laos/Counties/Saravan.secret|Saravan.secret]] 
 

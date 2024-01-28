@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 36.4 , 127.4 ] 
 type: geo-Region
 title: Daejeon
@@ -40,10 +40,11 @@ markerFolder: ./Daejeon/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Asia/Asia~East/Korea~South/Counties/Daejeon.md|Daejeon]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~East/Korea~South/Counties/Daejeon.internal|Daejeon.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~East/Korea~South/Counties/Daejeon.protect|Daejeon.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~East/Korea~South/Counties/Daejeon.private|Daejeon.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~East/Korea~South/Counties/Daejeon.personal|Daejeon.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~East/Korea~South/Counties/Daejeon.secret|Daejeon.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~East/Korea~South/Counties/Daejeon|Daejeon]] 
+- [[../../../../../../../_public/geo/Continent/Asia/Asia~East/Korea~South/Counties/Daejeon.public|Daejeon.public]] 
+- [[../../../../../../../_internal/geo/Continent/Asia/Asia~East/Korea~South/Counties/Daejeon.internal|Daejeon.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Asia/Asia~East/Korea~South/Counties/Daejeon.protect|Daejeon.protect]] 
+- [[../../../../../../../_private/geo/Continent/Asia/Asia~East/Korea~South/Counties/Daejeon.private|Daejeon.private]] 
+- [[../../../../../../../_personal/geo/Continent/Asia/Asia~East/Korea~South/Counties/Daejeon.personal|Daejeon.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Asia/Asia~East/Korea~South/Counties/Daejeon.secret|Daejeon.secret]] 
 

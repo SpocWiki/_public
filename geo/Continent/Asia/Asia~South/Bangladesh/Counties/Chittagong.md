@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 22.5 , 92.1 ] 
 type: geo-Region
 title: Chittagong
@@ -40,10 +40,11 @@ markerFolder: ./Chittagong/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Asia/Asia~South/Bangladesh/Counties/Chittagong.md|Chittagong]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~South/Bangladesh/Counties/Chittagong.internal|Chittagong.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~South/Bangladesh/Counties/Chittagong.protect|Chittagong.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~South/Bangladesh/Counties/Chittagong.private|Chittagong.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~South/Bangladesh/Counties/Chittagong.personal|Chittagong.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~South/Bangladesh/Counties/Chittagong.secret|Chittagong.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South/Bangladesh/Counties/Chittagong|Chittagong]] 
+- [[../../../../../../../_public/geo/Continent/Asia/Asia~South/Bangladesh/Counties/Chittagong.public|Chittagong.public]] 
+- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South/Bangladesh/Counties/Chittagong.internal|Chittagong.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South/Bangladesh/Counties/Chittagong.protect|Chittagong.protect]] 
+- [[../../../../../../../_private/geo/Continent/Asia/Asia~South/Bangladesh/Counties/Chittagong.private|Chittagong.private]] 
+- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South/Bangladesh/Counties/Chittagong.personal|Chittagong.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South/Bangladesh/Counties/Chittagong.secret|Chittagong.secret]] 
 

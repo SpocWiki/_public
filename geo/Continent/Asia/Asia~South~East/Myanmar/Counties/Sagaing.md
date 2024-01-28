@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 24.5 , 95.3 ] 
 type: geo-Region
 title: Sagaing
@@ -40,10 +40,11 @@ markerFolder: ./Sagaing/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Asia/Asia~South~East/Myanmar/Counties/Sagaing.md|Sagaing]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~South~East/Myanmar/Counties/Sagaing.internal|Sagaing.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~South~East/Myanmar/Counties/Sagaing.protect|Sagaing.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~South~East/Myanmar/Counties/Sagaing.private|Sagaing.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~South~East/Myanmar/Counties/Sagaing.personal|Sagaing.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~South~East/Myanmar/Counties/Sagaing.secret|Sagaing.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South~East/Myanmar/Counties/Sagaing|Sagaing]] 
+- [[../../../../../../../_public/geo/Continent/Asia/Asia~South~East/Myanmar/Counties/Sagaing.public|Sagaing.public]] 
+- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South~East/Myanmar/Counties/Sagaing.internal|Sagaing.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South~East/Myanmar/Counties/Sagaing.protect|Sagaing.protect]] 
+- [[../../../../../../../_private/geo/Continent/Asia/Asia~South~East/Myanmar/Counties/Sagaing.private|Sagaing.private]] 
+- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South~East/Myanmar/Counties/Sagaing.personal|Sagaing.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South~East/Myanmar/Counties/Sagaing.secret|Sagaing.secret]] 
 

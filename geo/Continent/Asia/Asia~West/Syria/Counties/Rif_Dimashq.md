@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 33.5 , 36.8 ] 
 type: geo-Region
 title: Rif_Dimashq
@@ -40,10 +40,11 @@ markerFolder: ./Rif_Dimashq/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Asia/Asia~West/Syria/Counties/Rif_Dimashq.md|Rif_Dimashq]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~West/Syria/Counties/Rif_Dimashq.internal|Rif_Dimashq.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~West/Syria/Counties/Rif_Dimashq.protect|Rif_Dimashq.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~West/Syria/Counties/Rif_Dimashq.private|Rif_Dimashq.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~West/Syria/Counties/Rif_Dimashq.personal|Rif_Dimashq.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~West/Syria/Counties/Rif_Dimashq.secret|Rif_Dimashq.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~West/Syria/Counties/Rif_Dimashq|Rif_Dimashq]] 
+- [[../../../../../../../_public/geo/Continent/Asia/Asia~West/Syria/Counties/Rif_Dimashq.public|Rif_Dimashq.public]] 
+- [[../../../../../../../_internal/geo/Continent/Asia/Asia~West/Syria/Counties/Rif_Dimashq.internal|Rif_Dimashq.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Asia/Asia~West/Syria/Counties/Rif_Dimashq.protect|Rif_Dimashq.protect]] 
+- [[../../../../../../../_private/geo/Continent/Asia/Asia~West/Syria/Counties/Rif_Dimashq.private|Rif_Dimashq.private]] 
+- [[../../../../../../../_personal/geo/Continent/Asia/Asia~West/Syria/Counties/Rif_Dimashq.personal|Rif_Dimashq.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Asia/Asia~West/Syria/Counties/Rif_Dimashq.secret|Rif_Dimashq.secret]] 
 

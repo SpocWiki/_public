@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 26 , 117.8 ] 
 type: geo-Region
 title: Fujian
@@ -40,10 +40,11 @@ markerFolder: ./Fujian/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Asia/Asia~East/China/Counties/Fujian.md|Fujian]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~East/China/Counties/Fujian.internal|Fujian.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~East/China/Counties/Fujian.protect|Fujian.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~East/China/Counties/Fujian.private|Fujian.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~East/China/Counties/Fujian.personal|Fujian.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~East/China/Counties/Fujian.secret|Fujian.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~East/China/Counties/Fujian|Fujian]] 
+- [[../../../../../../../_public/geo/Continent/Asia/Asia~East/China/Counties/Fujian.public|Fujian.public]] 
+- [[../../../../../../../_internal/geo/Continent/Asia/Asia~East/China/Counties/Fujian.internal|Fujian.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Asia/Asia~East/China/Counties/Fujian.protect|Fujian.protect]] 
+- [[../../../../../../../_private/geo/Continent/Asia/Asia~East/China/Counties/Fujian.private|Fujian.private]] 
+- [[../../../../../../../_personal/geo/Continent/Asia/Asia~East/China/Counties/Fujian.personal|Fujian.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Asia/Asia~East/China/Counties/Fujian.secret|Fujian.secret]] 
 

@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 25 , 121.8 ] 
 type: geo-Region
 title: New_Taipei_City
@@ -40,10 +40,11 @@ markerFolder: ./New_Taipei_City/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Asia/Asia~East/Taiwan/Counties/New_Taipei_City.md|New_Taipei_City]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~East/Taiwan/Counties/New_Taipei_City.internal|New_Taipei_City.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~East/Taiwan/Counties/New_Taipei_City.protect|New_Taipei_City.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~East/Taiwan/Counties/New_Taipei_City.private|New_Taipei_City.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~East/Taiwan/Counties/New_Taipei_City.personal|New_Taipei_City.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~East/Taiwan/Counties/New_Taipei_City.secret|New_Taipei_City.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~East/Taiwan/Counties/New_Taipei_City|New_Taipei_City]] 
+- [[../../../../../../../_public/geo/Continent/Asia/Asia~East/Taiwan/Counties/New_Taipei_City.public|New_Taipei_City.public]] 
+- [[../../../../../../../_internal/geo/Continent/Asia/Asia~East/Taiwan/Counties/New_Taipei_City.internal|New_Taipei_City.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Asia/Asia~East/Taiwan/Counties/New_Taipei_City.protect|New_Taipei_City.protect]] 
+- [[../../../../../../../_private/geo/Continent/Asia/Asia~East/Taiwan/Counties/New_Taipei_City.private|New_Taipei_City.private]] 
+- [[../../../../../../../_personal/geo/Continent/Asia/Asia~East/Taiwan/Counties/New_Taipei_City.personal|New_Taipei_City.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Asia/Asia~East/Taiwan/Counties/New_Taipei_City.secret|New_Taipei_City.secret]] 
 

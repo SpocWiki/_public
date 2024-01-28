@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 36.3 , 140.3 ] 
 type: geo-Region
 title: Ibaraki
@@ -40,10 +40,11 @@ markerFolder: ./Ibaraki/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Asia/Asia~East/Japan/Counties/Ibaraki.md|Ibaraki]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~East/Japan/Counties/Ibaraki.internal|Ibaraki.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~East/Japan/Counties/Ibaraki.protect|Ibaraki.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~East/Japan/Counties/Ibaraki.private|Ibaraki.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~East/Japan/Counties/Ibaraki.personal|Ibaraki.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~East/Japan/Counties/Ibaraki.secret|Ibaraki.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~East/Japan/Counties/Ibaraki|Ibaraki]] 
+- [[../../../../../../../_public/geo/Continent/Asia/Asia~East/Japan/Counties/Ibaraki.public|Ibaraki.public]] 
+- [[../../../../../../../_internal/geo/Continent/Asia/Asia~East/Japan/Counties/Ibaraki.internal|Ibaraki.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Asia/Asia~East/Japan/Counties/Ibaraki.protect|Ibaraki.protect]] 
+- [[../../../../../../../_private/geo/Continent/Asia/Asia~East/Japan/Counties/Ibaraki.private|Ibaraki.private]] 
+- [[../../../../../../../_personal/geo/Continent/Asia/Asia~East/Japan/Counties/Ibaraki.personal|Ibaraki.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Asia/Asia~East/Japan/Counties/Ibaraki.secret|Ibaraki.secret]] 
 

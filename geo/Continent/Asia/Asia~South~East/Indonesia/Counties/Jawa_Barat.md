@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ -6.9 , 107.6 ] 
 type: geo-Region
 title: Jawa_Barat
@@ -40,10 +40,11 @@ markerFolder: ./Jawa_Barat/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Asia/Asia~South~East/Indonesia/Counties/Jawa_Barat.md|Jawa_Barat]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~South~East/Indonesia/Counties/Jawa_Barat.internal|Jawa_Barat.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~South~East/Indonesia/Counties/Jawa_Barat.protect|Jawa_Barat.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~South~East/Indonesia/Counties/Jawa_Barat.private|Jawa_Barat.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~South~East/Indonesia/Counties/Jawa_Barat.personal|Jawa_Barat.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~South~East/Indonesia/Counties/Jawa_Barat.secret|Jawa_Barat.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South~East/Indonesia/Counties/Jawa_Barat|Jawa_Barat]] 
+- [[../../../../../../../_public/geo/Continent/Asia/Asia~South~East/Indonesia/Counties/Jawa_Barat.public|Jawa_Barat.public]] 
+- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South~East/Indonesia/Counties/Jawa_Barat.internal|Jawa_Barat.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South~East/Indonesia/Counties/Jawa_Barat.protect|Jawa_Barat.protect]] 
+- [[../../../../../../../_private/geo/Continent/Asia/Asia~South~East/Indonesia/Counties/Jawa_Barat.private|Jawa_Barat.private]] 
+- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South~East/Indonesia/Counties/Jawa_Barat.personal|Jawa_Barat.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South~East/Indonesia/Counties/Jawa_Barat.secret|Jawa_Barat.secret]] 
 

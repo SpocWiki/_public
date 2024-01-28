@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 13.6 , 104 ] 
 type: geo-Region
 title: Siemréab
@@ -40,10 +40,11 @@ markerFolder: ./Siemréab/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Asia/Asia~South~East/Cambodia/Counties/Siemréab.md|Siemréab]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~South~East/Cambodia/Counties/Siemréab.internal|Siemréab.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~South~East/Cambodia/Counties/Siemréab.protect|Siemréab.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~South~East/Cambodia/Counties/Siemréab.private|Siemréab.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~South~East/Cambodia/Counties/Siemréab.personal|Siemréab.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~South~East/Cambodia/Counties/Siemréab.secret|Siemréab.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South~East/Cambodia/Counties/Siemréab|Siemréab]] 
+- [[../../../../../../../_public/geo/Continent/Asia/Asia~South~East/Cambodia/Counties/Siemréab.public|Siemréab.public]] 
+- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South~East/Cambodia/Counties/Siemréab.internal|Siemréab.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South~East/Cambodia/Counties/Siemréab.protect|Siemréab.protect]] 
+- [[../../../../../../../_private/geo/Continent/Asia/Asia~South~East/Cambodia/Counties/Siemréab.private|Siemréab.private]] 
+- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South~East/Cambodia/Counties/Siemréab.personal|Siemréab.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South~East/Cambodia/Counties/Siemréab.secret|Siemréab.secret]] 
 

@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 22.4 , 57.2 ] 
 type: geo-Region
 title: Ad_Dakhliyah
@@ -40,10 +40,11 @@ markerFolder: ./Ad_Dakhliyah/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Asia/Asia~West/Oman/Counties/Ad_Dakhliyah.md|Ad_Dakhliyah]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~West/Oman/Counties/Ad_Dakhliyah.internal|Ad_Dakhliyah.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~West/Oman/Counties/Ad_Dakhliyah.protect|Ad_Dakhliyah.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~West/Oman/Counties/Ad_Dakhliyah.private|Ad_Dakhliyah.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~West/Oman/Counties/Ad_Dakhliyah.personal|Ad_Dakhliyah.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~West/Oman/Counties/Ad_Dakhliyah.secret|Ad_Dakhliyah.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~West/Oman/Counties/Ad_Dakhliyah|Ad_Dakhliyah]] 
+- [[../../../../../../../_public/geo/Continent/Asia/Asia~West/Oman/Counties/Ad_Dakhliyah.public|Ad_Dakhliyah.public]] 
+- [[../../../../../../../_internal/geo/Continent/Asia/Asia~West/Oman/Counties/Ad_Dakhliyah.internal|Ad_Dakhliyah.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Asia/Asia~West/Oman/Counties/Ad_Dakhliyah.protect|Ad_Dakhliyah.protect]] 
+- [[../../../../../../../_private/geo/Continent/Asia/Asia~West/Oman/Counties/Ad_Dakhliyah.private|Ad_Dakhliyah.private]] 
+- [[../../../../../../../_personal/geo/Continent/Asia/Asia~West/Oman/Counties/Ad_Dakhliyah.personal|Ad_Dakhliyah.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Asia/Asia~West/Oman/Counties/Ad_Dakhliyah.secret|Ad_Dakhliyah.secret]] 
 

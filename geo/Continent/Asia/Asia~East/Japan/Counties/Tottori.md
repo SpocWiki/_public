@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 35.33 , 133.62 ] 
 type: geo-Region
 title: Tottori
@@ -40,10 +40,11 @@ markerFolder: ./Tottori/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Asia/Asia~East/Japan/Counties/Tottori.md|Tottori]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~East/Japan/Counties/Tottori.internal|Tottori.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~East/Japan/Counties/Tottori.protect|Tottori.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~East/Japan/Counties/Tottori.private|Tottori.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~East/Japan/Counties/Tottori.personal|Tottori.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~East/Japan/Counties/Tottori.secret|Tottori.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~East/Japan/Counties/Tottori|Tottori]] 
+- [[../../../../../../../_public/geo/Continent/Asia/Asia~East/Japan/Counties/Tottori.public|Tottori.public]] 
+- [[../../../../../../../_internal/geo/Continent/Asia/Asia~East/Japan/Counties/Tottori.internal|Tottori.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Asia/Asia~East/Japan/Counties/Tottori.protect|Tottori.protect]] 
+- [[../../../../../../../_private/geo/Continent/Asia/Asia~East/Japan/Counties/Tottori.private|Tottori.private]] 
+- [[../../../../../../../_personal/geo/Continent/Asia/Asia~East/Japan/Counties/Tottori.personal|Tottori.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Asia/Asia~East/Japan/Counties/Tottori.secret|Tottori.secret]] 
 

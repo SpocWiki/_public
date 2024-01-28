@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 48.3 , 89.7 ] 
 type: geo-Region
 title: Bayan-Ölgiy
@@ -40,10 +40,11 @@ markerFolder: ./Bayan-Ölgiy/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Asia/Asia~East/Mongolia/Counties/Bayan-Ölgiy.md|Bayan-Ölgiy]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~East/Mongolia/Counties/Bayan-Ölgiy.internal|Bayan-Ölgiy.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~East/Mongolia/Counties/Bayan-Ölgiy.protect|Bayan-Ölgiy.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~East/Mongolia/Counties/Bayan-Ölgiy.private|Bayan-Ölgiy.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~East/Mongolia/Counties/Bayan-Ölgiy.personal|Bayan-Ölgiy.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~East/Mongolia/Counties/Bayan-Ölgiy.secret|Bayan-Ölgiy.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~East/Mongolia/Counties/Bayan-Ölgiy|Bayan-Ölgiy]] 
+- [[../../../../../../../_public/geo/Continent/Asia/Asia~East/Mongolia/Counties/Bayan-Ölgiy.public|Bayan-Ölgiy.public]] 
+- [[../../../../../../../_internal/geo/Continent/Asia/Asia~East/Mongolia/Counties/Bayan-Ölgiy.internal|Bayan-Ölgiy.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Asia/Asia~East/Mongolia/Counties/Bayan-Ölgiy.protect|Bayan-Ölgiy.protect]] 
+- [[../../../../../../../_private/geo/Continent/Asia/Asia~East/Mongolia/Counties/Bayan-Ölgiy.private|Bayan-Ölgiy.private]] 
+- [[../../../../../../../_personal/geo/Continent/Asia/Asia~East/Mongolia/Counties/Bayan-Ölgiy.personal|Bayan-Ölgiy.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Asia/Asia~East/Mongolia/Counties/Bayan-Ölgiy.secret|Bayan-Ölgiy.secret]] 
 

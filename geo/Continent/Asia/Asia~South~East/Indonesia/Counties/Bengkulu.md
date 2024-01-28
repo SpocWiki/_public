@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ -3.6 , 102.5 ] 
 type: geo-Region
 title: Bengkulu
@@ -40,10 +40,11 @@ markerFolder: ./Bengkulu/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Asia/Asia~South~East/Indonesia/Counties/Bengkulu.md|Bengkulu]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~South~East/Indonesia/Counties/Bengkulu.internal|Bengkulu.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~South~East/Indonesia/Counties/Bengkulu.protect|Bengkulu.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~South~East/Indonesia/Counties/Bengkulu.private|Bengkulu.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~South~East/Indonesia/Counties/Bengkulu.personal|Bengkulu.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~South~East/Indonesia/Counties/Bengkulu.secret|Bengkulu.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South~East/Indonesia/Counties/Bengkulu|Bengkulu]] 
+- [[../../../../../../../_public/geo/Continent/Asia/Asia~South~East/Indonesia/Counties/Bengkulu.public|Bengkulu.public]] 
+- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South~East/Indonesia/Counties/Bengkulu.internal|Bengkulu.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South~East/Indonesia/Counties/Bengkulu.protect|Bengkulu.protect]] 
+- [[../../../../../../../_private/geo/Continent/Asia/Asia~South~East/Indonesia/Counties/Bengkulu.private|Bengkulu.private]] 
+- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South~East/Indonesia/Counties/Bengkulu.personal|Bengkulu.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South~East/Indonesia/Counties/Bengkulu.secret|Bengkulu.secret]] 
 

@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 42 , 87 ] 
 type: geo-Region
 title: Xinjiang
@@ -40,10 +40,11 @@ markerFolder: ./Xinjiang/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Asia/Asia~East/China/Counties/Xinjiang.md|Xinjiang]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~East/China/Counties/Xinjiang.internal|Xinjiang.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~East/China/Counties/Xinjiang.protect|Xinjiang.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~East/China/Counties/Xinjiang.private|Xinjiang.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~East/China/Counties/Xinjiang.personal|Xinjiang.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~East/China/Counties/Xinjiang.secret|Xinjiang.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~East/China/Counties/Xinjiang|Xinjiang]] 
+- [[../../../../../../../_public/geo/Continent/Asia/Asia~East/China/Counties/Xinjiang.public|Xinjiang.public]] 
+- [[../../../../../../../_internal/geo/Continent/Asia/Asia~East/China/Counties/Xinjiang.internal|Xinjiang.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Asia/Asia~East/China/Counties/Xinjiang.protect|Xinjiang.protect]] 
+- [[../../../../../../../_private/geo/Continent/Asia/Asia~East/China/Counties/Xinjiang.private|Xinjiang.private]] 
+- [[../../../../../../../_personal/geo/Continent/Asia/Asia~East/China/Counties/Xinjiang.personal|Xinjiang.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Asia/Asia~East/China/Counties/Xinjiang.secret|Xinjiang.secret]] 
 

@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 32.6 , 35 ] 
 type: geo-Region
 title: Haifa
@@ -40,10 +40,11 @@ markerFolder: ./Haifa/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Asia/Asia~West/Israel/Counties/Haifa.md|Haifa]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~West/Israel/Counties/Haifa.internal|Haifa.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~West/Israel/Counties/Haifa.protect|Haifa.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~West/Israel/Counties/Haifa.private|Haifa.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~West/Israel/Counties/Haifa.personal|Haifa.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~West/Israel/Counties/Haifa.secret|Haifa.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~West/Israel/Counties/Haifa|Haifa]] 
+- [[../../../../../../../_public/geo/Continent/Asia/Asia~West/Israel/Counties/Haifa.public|Haifa.public]] 
+- [[../../../../../../../_internal/geo/Continent/Asia/Asia~West/Israel/Counties/Haifa.internal|Haifa.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Asia/Asia~West/Israel/Counties/Haifa.protect|Haifa.protect]] 
+- [[../../../../../../../_private/geo/Continent/Asia/Asia~West/Israel/Counties/Haifa.private|Haifa.private]] 
+- [[../../../../../../../_personal/geo/Continent/Asia/Asia~West/Israel/Counties/Haifa.personal|Haifa.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Asia/Asia~West/Israel/Counties/Haifa.secret|Haifa.secret]] 
 

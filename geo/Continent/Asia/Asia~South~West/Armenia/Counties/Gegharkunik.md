@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 40.3 , 45.3 ] 
 type: geo-Region
 title: Gegharkunik
@@ -40,10 +40,11 @@ markerFolder: ./Gegharkunik/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Asia/Asia~South~West/Armenia/Counties/Gegharkunik.md|Gegharkunik]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~South~West/Armenia/Counties/Gegharkunik.internal|Gegharkunik.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~South~West/Armenia/Counties/Gegharkunik.protect|Gegharkunik.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~South~West/Armenia/Counties/Gegharkunik.private|Gegharkunik.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~South~West/Armenia/Counties/Gegharkunik.personal|Gegharkunik.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~South~West/Armenia/Counties/Gegharkunik.secret|Gegharkunik.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South~West/Armenia/Counties/Gegharkunik|Gegharkunik]] 
+- [[../../../../../../../_public/geo/Continent/Asia/Asia~South~West/Armenia/Counties/Gegharkunik.public|Gegharkunik.public]] 
+- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South~West/Armenia/Counties/Gegharkunik.internal|Gegharkunik.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South~West/Armenia/Counties/Gegharkunik.protect|Gegharkunik.protect]] 
+- [[../../../../../../../_private/geo/Continent/Asia/Asia~South~West/Armenia/Counties/Gegharkunik.private|Gegharkunik.private]] 
+- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South~West/Armenia/Counties/Gegharkunik.personal|Gegharkunik.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South~West/Armenia/Counties/Gegharkunik.secret|Gegharkunik.secret]] 
 

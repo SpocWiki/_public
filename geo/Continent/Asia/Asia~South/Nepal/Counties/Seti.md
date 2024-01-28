@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 29.2 , 81.1 ] 
 type: geo-Region
 title: Seti
@@ -40,10 +40,11 @@ markerFolder: ./Seti/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Asia/Asia~South/Nepal/Counties/Seti.md|Seti]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~South/Nepal/Counties/Seti.internal|Seti.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~South/Nepal/Counties/Seti.protect|Seti.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~South/Nepal/Counties/Seti.private|Seti.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~South/Nepal/Counties/Seti.personal|Seti.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~South/Nepal/Counties/Seti.secret|Seti.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South/Nepal/Counties/Seti|Seti]] 
+- [[../../../../../../../_public/geo/Continent/Asia/Asia~South/Nepal/Counties/Seti.public|Seti.public]] 
+- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South/Nepal/Counties/Seti.internal|Seti.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South/Nepal/Counties/Seti.protect|Seti.protect]] 
+- [[../../../../../../../_private/geo/Continent/Asia/Asia~South/Nepal/Counties/Seti.private|Seti.private]] 
+- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South/Nepal/Counties/Seti.personal|Seti.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South/Nepal/Counties/Seti.secret|Seti.secret]] 
 

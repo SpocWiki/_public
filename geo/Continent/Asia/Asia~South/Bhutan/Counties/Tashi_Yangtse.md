@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 27.7 , 91.5 ] 
 type: geo-Region
 title: Tashi_Yangtse
@@ -40,10 +40,11 @@ markerFolder: ./Tashi_Yangtse/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Asia/Asia~South/Bhutan/Counties/Tashi_Yangtse.md|Tashi_Yangtse]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~South/Bhutan/Counties/Tashi_Yangtse.internal|Tashi_Yangtse.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~South/Bhutan/Counties/Tashi_Yangtse.protect|Tashi_Yangtse.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~South/Bhutan/Counties/Tashi_Yangtse.private|Tashi_Yangtse.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~South/Bhutan/Counties/Tashi_Yangtse.personal|Tashi_Yangtse.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~South/Bhutan/Counties/Tashi_Yangtse.secret|Tashi_Yangtse.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South/Bhutan/Counties/Tashi_Yangtse|Tashi_Yangtse]] 
+- [[../../../../../../../_public/geo/Continent/Asia/Asia~South/Bhutan/Counties/Tashi_Yangtse.public|Tashi_Yangtse.public]] 
+- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South/Bhutan/Counties/Tashi_Yangtse.internal|Tashi_Yangtse.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South/Bhutan/Counties/Tashi_Yangtse.protect|Tashi_Yangtse.protect]] 
+- [[../../../../../../../_private/geo/Continent/Asia/Asia~South/Bhutan/Counties/Tashi_Yangtse.private|Tashi_Yangtse.private]] 
+- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South/Bhutan/Counties/Tashi_Yangtse.personal|Tashi_Yangtse.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South/Bhutan/Counties/Tashi_Yangtse.secret|Tashi_Yangtse.secret]] 
 

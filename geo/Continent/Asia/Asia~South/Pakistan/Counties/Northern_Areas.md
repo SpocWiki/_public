@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 35.8 , 74.8 ] 
 type: geo-Region
 title: Northern_Areas
@@ -40,10 +40,11 @@ markerFolder: ./Northern_Areas/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Asia/Asia~South/Pakistan/Counties/Northern_Areas.md|Northern_Areas]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~South/Pakistan/Counties/Northern_Areas.internal|Northern_Areas.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~South/Pakistan/Counties/Northern_Areas.protect|Northern_Areas.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~South/Pakistan/Counties/Northern_Areas.private|Northern_Areas.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~South/Pakistan/Counties/Northern_Areas.personal|Northern_Areas.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~South/Pakistan/Counties/Northern_Areas.secret|Northern_Areas.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South/Pakistan/Counties/Northern_Areas|Northern_Areas]] 
+- [[../../../../../../../_public/geo/Continent/Asia/Asia~South/Pakistan/Counties/Northern_Areas.public|Northern_Areas.public]] 
+- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South/Pakistan/Counties/Northern_Areas.internal|Northern_Areas.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South/Pakistan/Counties/Northern_Areas.protect|Northern_Areas.protect]] 
+- [[../../../../../../../_private/geo/Continent/Asia/Asia~South/Pakistan/Counties/Northern_Areas.private|Northern_Areas.private]] 
+- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South/Pakistan/Counties/Northern_Areas.personal|Northern_Areas.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South/Pakistan/Counties/Northern_Areas.secret|Northern_Areas.secret]] 
 

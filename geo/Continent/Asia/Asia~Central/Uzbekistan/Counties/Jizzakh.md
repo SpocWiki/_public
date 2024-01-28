@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 40.4 , 67.5 ] 
 type: geo-Region
 title: Jizzakh
@@ -40,10 +40,11 @@ markerFolder: ./Jizzakh/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Asia/Asia~Central/Uzbekistan/Counties/Jizzakh.md|Jizzakh]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~Central/Uzbekistan/Counties/Jizzakh.internal|Jizzakh.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~Central/Uzbekistan/Counties/Jizzakh.protect|Jizzakh.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~Central/Uzbekistan/Counties/Jizzakh.private|Jizzakh.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~Central/Uzbekistan/Counties/Jizzakh.personal|Jizzakh.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~Central/Uzbekistan/Counties/Jizzakh.secret|Jizzakh.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~Central/Uzbekistan/Counties/Jizzakh|Jizzakh]] 
+- [[../../../../../../../_public/geo/Continent/Asia/Asia~Central/Uzbekistan/Counties/Jizzakh.public|Jizzakh.public]] 
+- [[../../../../../../../_internal/geo/Continent/Asia/Asia~Central/Uzbekistan/Counties/Jizzakh.internal|Jizzakh.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Asia/Asia~Central/Uzbekistan/Counties/Jizzakh.protect|Jizzakh.protect]] 
+- [[../../../../../../../_private/geo/Continent/Asia/Asia~Central/Uzbekistan/Counties/Jizzakh.private|Jizzakh.private]] 
+- [[../../../../../../../_personal/geo/Continent/Asia/Asia~Central/Uzbekistan/Counties/Jizzakh.personal|Jizzakh.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Asia/Asia~Central/Uzbekistan/Counties/Jizzakh.secret|Jizzakh.secret]] 
 

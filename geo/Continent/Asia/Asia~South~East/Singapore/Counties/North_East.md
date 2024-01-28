@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 1.38 , 103.93 ] 
 type: geo-Region
 title: North_East
@@ -40,10 +40,11 @@ markerFolder: ./North_East/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Asia/Asia~South~East/Singapore/Counties/North_East.md|North_East]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~South~East/Singapore/Counties/North_East.internal|North_East.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~South~East/Singapore/Counties/North_East.protect|North_East.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~South~East/Singapore/Counties/North_East.private|North_East.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~South~East/Singapore/Counties/North_East.personal|North_East.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~South~East/Singapore/Counties/North_East.secret|North_East.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South~East/Singapore/Counties/North_East|North_East]] 
+- [[../../../../../../../_public/geo/Continent/Asia/Asia~South~East/Singapore/Counties/North_East.public|North_East.public]] 
+- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South~East/Singapore/Counties/North_East.internal|North_East.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South~East/Singapore/Counties/North_East.protect|North_East.protect]] 
+- [[../../../../../../../_private/geo/Continent/Asia/Asia~South~East/Singapore/Counties/North_East.private|North_East.private]] 
+- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South~East/Singapore/Counties/North_East.personal|North_East.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South~East/Singapore/Counties/North_East.secret|North_East.secret]] 
 

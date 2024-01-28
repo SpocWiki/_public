@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 28 , 95 ] 
 type: geo-Region
 title: Arunachal_Pradesh
@@ -40,10 +40,11 @@ markerFolder: ./Arunachal_Pradesh/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Asia/Asia~South/India/Counties/Arunachal_Pradesh.md|Arunachal_Pradesh]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~South/India/Counties/Arunachal_Pradesh.internal|Arunachal_Pradesh.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~South/India/Counties/Arunachal_Pradesh.protect|Arunachal_Pradesh.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~South/India/Counties/Arunachal_Pradesh.private|Arunachal_Pradesh.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~South/India/Counties/Arunachal_Pradesh.personal|Arunachal_Pradesh.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~South/India/Counties/Arunachal_Pradesh.secret|Arunachal_Pradesh.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South/India/Counties/Arunachal_Pradesh|Arunachal_Pradesh]] 
+- [[../../../../../../../_public/geo/Continent/Asia/Asia~South/India/Counties/Arunachal_Pradesh.public|Arunachal_Pradesh.public]] 
+- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South/India/Counties/Arunachal_Pradesh.internal|Arunachal_Pradesh.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South/India/Counties/Arunachal_Pradesh.protect|Arunachal_Pradesh.protect]] 
+- [[../../../../../../../_private/geo/Continent/Asia/Asia~South/India/Counties/Arunachal_Pradesh.private|Arunachal_Pradesh.private]] 
+- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South/India/Counties/Arunachal_Pradesh.personal|Arunachal_Pradesh.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South/India/Counties/Arunachal_Pradesh.secret|Arunachal_Pradesh.secret]] 
 

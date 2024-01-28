@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 35.8 , 136.4 ] 
 type: geo-Region
 title: Fukui
@@ -40,10 +40,11 @@ markerFolder: ./Fukui/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Asia/Asia~East/Japan/Counties/Fukui.md|Fukui]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~East/Japan/Counties/Fukui.internal|Fukui.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~East/Japan/Counties/Fukui.protect|Fukui.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~East/Japan/Counties/Fukui.private|Fukui.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~East/Japan/Counties/Fukui.personal|Fukui.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~East/Japan/Counties/Fukui.secret|Fukui.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~East/Japan/Counties/Fukui|Fukui]] 
+- [[../../../../../../../_public/geo/Continent/Asia/Asia~East/Japan/Counties/Fukui.public|Fukui.public]] 
+- [[../../../../../../../_internal/geo/Continent/Asia/Asia~East/Japan/Counties/Fukui.internal|Fukui.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Asia/Asia~East/Japan/Counties/Fukui.protect|Fukui.protect]] 
+- [[../../../../../../../_private/geo/Continent/Asia/Asia~East/Japan/Counties/Fukui.private|Fukui.private]] 
+- [[../../../../../../../_personal/geo/Continent/Asia/Asia~East/Japan/Counties/Fukui.personal|Fukui.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Asia/Asia~East/Japan/Counties/Fukui.secret|Fukui.secret]] 
 

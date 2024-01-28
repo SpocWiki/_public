@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 22.46 , 114.17 ] 
 type: geo-Region
 title: Tai_Po
@@ -40,10 +40,11 @@ markerFolder: ./Tai_Po/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Asia/Asia~East/China/Hong_Kong/Counties/Tai_Po.md|Tai_Po]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~East/China/Hong_Kong/Counties/Tai_Po.internal|Tai_Po.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~East/China/Hong_Kong/Counties/Tai_Po.protect|Tai_Po.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~East/China/Hong_Kong/Counties/Tai_Po.private|Tai_Po.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~East/China/Hong_Kong/Counties/Tai_Po.personal|Tai_Po.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~East/China/Hong_Kong/Counties/Tai_Po.secret|Tai_Po.secret]] 
+- [[../../../../../../../../_Standards/geo/Continent/Asia/Asia~East/China/Hong_Kong/Counties/Tai_Po|Tai_Po]] 
+- [[../../../../../../../../_public/geo/Continent/Asia/Asia~East/China/Hong_Kong/Counties/Tai_Po.public|Tai_Po.public]] 
+- [[../../../../../../../../_internal/geo/Continent/Asia/Asia~East/China/Hong_Kong/Counties/Tai_Po.internal|Tai_Po.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Asia/Asia~East/China/Hong_Kong/Counties/Tai_Po.protect|Tai_Po.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Asia/Asia~East/China/Hong_Kong/Counties/Tai_Po.private|Tai_Po.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Asia/Asia~East/China/Hong_Kong/Counties/Tai_Po.personal|Tai_Po.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Asia/Asia~East/China/Hong_Kong/Counties/Tai_Po.secret|Tai_Po.secret]] 
 

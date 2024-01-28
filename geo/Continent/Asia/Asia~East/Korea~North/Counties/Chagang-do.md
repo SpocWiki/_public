@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 40.9 , 126.6 ] 
 type: geo-Region
 title: Chagang-do
@@ -40,10 +40,11 @@ markerFolder: ./Chagang-do/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Asia/Asia~East/Korea~North/Counties/Chagang-do.md|Chagang-do]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~East/Korea~North/Counties/Chagang-do.internal|Chagang-do.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~East/Korea~North/Counties/Chagang-do.protect|Chagang-do.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~East/Korea~North/Counties/Chagang-do.private|Chagang-do.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~East/Korea~North/Counties/Chagang-do.personal|Chagang-do.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~East/Korea~North/Counties/Chagang-do.secret|Chagang-do.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~East/Korea~North/Counties/Chagang-do|Chagang-do]] 
+- [[../../../../../../../_public/geo/Continent/Asia/Asia~East/Korea~North/Counties/Chagang-do.public|Chagang-do.public]] 
+- [[../../../../../../../_internal/geo/Continent/Asia/Asia~East/Korea~North/Counties/Chagang-do.internal|Chagang-do.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Asia/Asia~East/Korea~North/Counties/Chagang-do.protect|Chagang-do.protect]] 
+- [[../../../../../../../_private/geo/Continent/Asia/Asia~East/Korea~North/Counties/Chagang-do.private|Chagang-do.private]] 
+- [[../../../../../../../_personal/geo/Continent/Asia/Asia~East/Korea~North/Counties/Chagang-do.personal|Chagang-do.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Asia/Asia~East/Korea~North/Counties/Chagang-do.secret|Chagang-do.secret]] 
 

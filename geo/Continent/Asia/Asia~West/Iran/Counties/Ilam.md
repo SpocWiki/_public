@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 33.1 , 46.8 ] 
 type: geo-Region
 title: Ilam
@@ -40,10 +40,11 @@ markerFolder: ./Ilam/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Asia/Asia~West/Iran/Counties/Ilam.md|Ilam]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~West/Iran/Counties/Ilam.internal|Ilam.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~West/Iran/Counties/Ilam.protect|Ilam.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~West/Iran/Counties/Ilam.private|Ilam.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~West/Iran/Counties/Ilam.personal|Ilam.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~West/Iran/Counties/Ilam.secret|Ilam.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~West/Iran/Counties/Ilam|Ilam]] 
+- [[../../../../../../../_public/geo/Continent/Asia/Asia~West/Iran/Counties/Ilam.public|Ilam.public]] 
+- [[../../../../../../../_internal/geo/Continent/Asia/Asia~West/Iran/Counties/Ilam.internal|Ilam.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Asia/Asia~West/Iran/Counties/Ilam.protect|Ilam.protect]] 
+- [[../../../../../../../_private/geo/Continent/Asia/Asia~West/Iran/Counties/Ilam.private|Ilam.private]] 
+- [[../../../../../../../_personal/geo/Continent/Asia/Asia~West/Iran/Counties/Ilam.personal|Ilam.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Asia/Asia~West/Iran/Counties/Ilam.secret|Ilam.secret]] 
 

@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ -7.1 , 114 ] 
 type: geo-Region
 title: Indonesia
@@ -29,7 +29,7 @@ expiryDate:
 
 # Indonesia
  
-![[Flag_of_Indonesia.svg|350]]
+![[Flag_of_Indonesia.svg|350]] 
 
 
 ```leaflet
@@ -44,8 +44,8 @@ markerFolder: ./Indonesia/
 
 ## Confidential Links & Embeds: 
 - [[Indonesia|Indonesia]] 
-- [[../../../../../_internal/geo/Continent/Asia/Indonesia.internal|Indonesia.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Indonesia.protect|Indonesia.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Indonesia.private|Indonesia.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Indonesia.personal|Indonesia.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Indonesia.secret|Indonesia.secret]] 
+- [[../../../../../_internal/geo/Continent/Asia/Asia~South~East/Indonesia.internal|Indonesia.internal]] 
+- [[../../../../../_protect/geo/Continent/Asia/Asia~South~East/Indonesia.protect|Indonesia.protect]] 
+- [[../../../../../_private/geo/Continent/Asia/Asia~South~East/Indonesia.private|Indonesia.private]] 
+- [[../../../../../_personal/geo/Continent/Asia/Asia~South~East/Indonesia.personal|Indonesia.personal]] 
+- [[../../../../../_secret/geo/Continent/Asia/Asia~South~East/Indonesia.secret|Indonesia.secret]] 

@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 32 , 117.2 ] 
 type: geo-Region
 title: Anhui
@@ -40,10 +40,11 @@ markerFolder: ./Anhui/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Asia/Asia~East/China/Counties/Anhui.md|Anhui]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~East/China/Counties/Anhui.internal|Anhui.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~East/China/Counties/Anhui.protect|Anhui.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~East/China/Counties/Anhui.private|Anhui.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~East/China/Counties/Anhui.personal|Anhui.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~East/China/Counties/Anhui.secret|Anhui.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~East/China/Counties/Anhui|Anhui]] 
+- [[../../../../../../../_public/geo/Continent/Asia/Asia~East/China/Counties/Anhui.public|Anhui.public]] 
+- [[../../../../../../../_internal/geo/Continent/Asia/Asia~East/China/Counties/Anhui.internal|Anhui.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Asia/Asia~East/China/Counties/Anhui.protect|Anhui.protect]] 
+- [[../../../../../../../_private/geo/Continent/Asia/Asia~East/China/Counties/Anhui.private|Anhui.private]] 
+- [[../../../../../../../_personal/geo/Continent/Asia/Asia~East/China/Counties/Anhui.personal|Anhui.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Asia/Asia~East/China/Counties/Anhui.secret|Anhui.secret]] 
 

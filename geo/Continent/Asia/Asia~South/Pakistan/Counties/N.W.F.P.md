@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 34.1 , 72.4 ] 
 type: geo-Region
 title: N.W.F.P
@@ -40,10 +40,11 @@ markerFolder: ./N.W.F.P/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Asia/Asia~South/Pakistan/Counties/N.W.F.P.md|N.W.F.P]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~South/Pakistan/Counties/N.W.F.P.internal|N.W.F.P.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~South/Pakistan/Counties/N.W.F.P.protect|N.W.F.P.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~South/Pakistan/Counties/N.W.F.P.private|N.W.F.P.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~South/Pakistan/Counties/N.W.F.P.personal|N.W.F.P.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~South/Pakistan/Counties/N.W.F.P.secret|N.W.F.P.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South/Pakistan/Counties/N.W.F.P|N.W.F.P]] 
+- [[../../../../../../../_public/geo/Continent/Asia/Asia~South/Pakistan/Counties/N.W.F.P.public|N.W.F.P.public]] 
+- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South/Pakistan/Counties/N.W.F.P.internal|N.W.F.P.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South/Pakistan/Counties/N.W.F.P.protect|N.W.F.P.protect]] 
+- [[../../../../../../../_private/geo/Continent/Asia/Asia~South/Pakistan/Counties/N.W.F.P.private|N.W.F.P.private]] 
+- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South/Pakistan/Counties/N.W.F.P.personal|N.W.F.P.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South/Pakistan/Counties/N.W.F.P.secret|N.W.F.P.secret]] 
 

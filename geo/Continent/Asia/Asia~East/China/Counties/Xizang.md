@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 32 , 87 ] 
 type: geo-Region
 title: Xizang
@@ -40,10 +40,11 @@ markerFolder: ./Xizang/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Asia/Asia~East/China/Counties/Xizang.md|Xizang]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~East/China/Counties/Xizang.internal|Xizang.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~East/China/Counties/Xizang.protect|Xizang.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~East/China/Counties/Xizang.private|Xizang.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~East/China/Counties/Xizang.personal|Xizang.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~East/China/Counties/Xizang.secret|Xizang.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~East/China/Counties/Xizang|Xizang]] 
+- [[../../../../../../../_public/geo/Continent/Asia/Asia~East/China/Counties/Xizang.public|Xizang.public]] 
+- [[../../../../../../../_internal/geo/Continent/Asia/Asia~East/China/Counties/Xizang.internal|Xizang.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Asia/Asia~East/China/Counties/Xizang.protect|Xizang.protect]] 
+- [[../../../../../../../_private/geo/Continent/Asia/Asia~East/China/Counties/Xizang.private|Xizang.private]] 
+- [[../../../../../../../_personal/geo/Continent/Asia/Asia~East/China/Counties/Xizang.personal|Xizang.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Asia/Asia~East/China/Counties/Xizang.secret|Xizang.secret]] 
 

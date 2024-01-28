@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 7.2 , 124.3 ] 
 type: geo-Region
 title: Maguindanao
@@ -40,10 +40,11 @@ markerFolder: ./Maguindanao/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Maguindanao.md|Maguindanao]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Maguindanao.internal|Maguindanao.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Maguindanao.protect|Maguindanao.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Maguindanao.private|Maguindanao.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Maguindanao.personal|Maguindanao.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Maguindanao.secret|Maguindanao.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Maguindanao|Maguindanao]] 
+- [[../../../../../../../_public/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Maguindanao.public|Maguindanao.public]] 
+- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Maguindanao.internal|Maguindanao.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Maguindanao.protect|Maguindanao.protect]] 
+- [[../../../../../../../_private/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Maguindanao.private|Maguindanao.private]] 
+- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Maguindanao.personal|Maguindanao.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Maguindanao.secret|Maguindanao.secret]] 
 

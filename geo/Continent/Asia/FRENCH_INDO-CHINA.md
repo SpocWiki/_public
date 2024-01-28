@@ -9,8 +9,8 @@ isDeleted: false
 confidential: public
 
 ---
-[ISO2::]
-[ISO3::]
+[ISO2::] 
+[ISO3::] 
 ```leaflet
 id: FRENCH INDO-CHINA
 zoomFeatures: true 
@@ -20,22 +20,23 @@ geojsonFolder: ./FRENCH_INDO-CHINA/
 markerFolder: ./FRENCH_INDO-CHINA/
 ```
 
-[name-en::FRENCH INDO-CHINA]
-[name-de::Franz. Indochina]
-[Area-Total::]
-[Area-Land::]
-[Continent::[[Asia]]]
-[VehicleCode::]
-[Capital-Id::]
-[Alcohol-l::]
-[Language-Id::]
-[geo-lon::]
-[geo-lat::]
+[name-en::FRENCH INDO-CHINA] 
+[name-de::Franz. Indochina] 
+[Area-Total::] 
+[Area-Land::] 
+Continent :: [[Asia]]  
+[VehicleCode::] 
+[Capital-Id::] 
+[Alcohol-l::] 
+[Language-Id::] 
+[geo-lon::] 
+[geo-lat::] 
 
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Asia/FRENCH_INDO-CHINA.md|FRENCH_INDO-CHINA]] 
+- [[../../../../_Standards/geo/Continent/Asia/FRENCH_INDO-CHINA|FRENCH_INDO-CHINA]] 
+- [[../../../../_public/geo/Continent/Asia/FRENCH_INDO-CHINA.public|FRENCH_INDO-CHINA.public]] 
 - [[../../../../_internal/geo/Continent/Asia/FRENCH_INDO-CHINA.internal|FRENCH_INDO-CHINA.internal]] 
 - [[../../../../_protect/geo/Continent/Asia/FRENCH_INDO-CHINA.protect|FRENCH_INDO-CHINA.protect]] 
 - [[../../../../_private/geo/Continent/Asia/FRENCH_INDO-CHINA.private|FRENCH_INDO-CHINA.private]] 

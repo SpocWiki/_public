@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 27 , 89.5 ] 
 type: geo-Region
 title: Chhukha
@@ -40,10 +40,11 @@ markerFolder: ./Chhukha/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Asia/Asia~South/Bhutan/Counties/Chhukha.md|Chhukha]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~South/Bhutan/Counties/Chhukha.internal|Chhukha.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~South/Bhutan/Counties/Chhukha.protect|Chhukha.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~South/Bhutan/Counties/Chhukha.private|Chhukha.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~South/Bhutan/Counties/Chhukha.personal|Chhukha.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~South/Bhutan/Counties/Chhukha.secret|Chhukha.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South/Bhutan/Counties/Chhukha|Chhukha]] 
+- [[../../../../../../../_public/geo/Continent/Asia/Asia~South/Bhutan/Counties/Chhukha.public|Chhukha.public]] 
+- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South/Bhutan/Counties/Chhukha.internal|Chhukha.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South/Bhutan/Counties/Chhukha.protect|Chhukha.protect]] 
+- [[../../../../../../../_private/geo/Continent/Asia/Asia~South/Bhutan/Counties/Chhukha.private|Chhukha.private]] 
+- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South/Bhutan/Counties/Chhukha.personal|Chhukha.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South/Bhutan/Counties/Chhukha.secret|Chhukha.secret]] 
 

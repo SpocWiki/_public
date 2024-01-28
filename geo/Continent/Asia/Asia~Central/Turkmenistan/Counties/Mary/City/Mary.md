@@ -1,5 +1,5 @@
 ﻿---
-location: [37.6,61.83]
+location: [37.6,61.83] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,27 +12,28 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::61.83]
-[geo-lat::37.6]
-[name::Mary]
-[State::]
-[Country::[[Russia]]]
-[StateId::]
-[Population::]
-[Unknown::]
+[geo-lon::61.83] 
+[geo-lat::37.6] 
+[name::Mary] 
+State ::  
+Country :: [[Russia]]  
+[StateId::] 
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Mary
-coordinates: [[Mary]]
-markerFile: [[Mary]]
+coordinates: [[Mary]] 
+markerFile: [[Mary]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_public/geo/Continent/Europe/Russia/City/Mary.md|Mary]] 
+- [[../../../../../../_Standards/geo/Continent/Europe/Russia/City/Mary|Mary]] 
+- [[../../../../../../_public/geo/Continent/Europe/Russia/City/Mary.public|Mary.public]] 
 - [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Mary.internal|Mary.internal]] 
 - [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Mary.protect|Mary.protect]] 
 - [[../../../../../../_private/geo/Continent/Europe/Russia/City/Mary.private|Mary.private]] 

@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ -0.61 , 73.1 ] 
 type: geo-Region
 title: Addu
@@ -40,10 +40,11 @@ markerFolder: ./Addu/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Asia/Asia~South/Maldives/Counties/Addu.md|Addu]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~South/Maldives/Counties/Addu.internal|Addu.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~South/Maldives/Counties/Addu.protect|Addu.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~South/Maldives/Counties/Addu.private|Addu.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~South/Maldives/Counties/Addu.personal|Addu.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~South/Maldives/Counties/Addu.secret|Addu.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South/Maldives/Counties/Addu|Addu]] 
+- [[../../../../../../../_public/geo/Continent/Asia/Asia~South/Maldives/Counties/Addu.public|Addu.public]] 
+- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South/Maldives/Counties/Addu.internal|Addu.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South/Maldives/Counties/Addu.protect|Addu.protect]] 
+- [[../../../../../../../_private/geo/Continent/Asia/Asia~South/Maldives/Counties/Addu.private|Addu.private]] 
+- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South/Maldives/Counties/Addu.personal|Addu.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South/Maldives/Counties/Addu.secret|Addu.secret]] 
 

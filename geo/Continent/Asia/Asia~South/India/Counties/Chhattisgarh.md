@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 21 , 81.5 ] 
 type: geo-Region
 title: Chhattisgarh
@@ -40,10 +40,11 @@ markerFolder: ./Chhattisgarh/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Asia/Asia~South/India/Counties/Chhattisgarh.md|Chhattisgarh]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~South/India/Counties/Chhattisgarh.internal|Chhattisgarh.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~South/India/Counties/Chhattisgarh.protect|Chhattisgarh.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~South/India/Counties/Chhattisgarh.private|Chhattisgarh.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~South/India/Counties/Chhattisgarh.personal|Chhattisgarh.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~South/India/Counties/Chhattisgarh.secret|Chhattisgarh.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South/India/Counties/Chhattisgarh|Chhattisgarh]] 
+- [[../../../../../../../_public/geo/Continent/Asia/Asia~South/India/Counties/Chhattisgarh.public|Chhattisgarh.public]] 
+- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South/India/Counties/Chhattisgarh.internal|Chhattisgarh.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South/India/Counties/Chhattisgarh.protect|Chhattisgarh.protect]] 
+- [[../../../../../../../_private/geo/Continent/Asia/Asia~South/India/Counties/Chhattisgarh.private|Chhattisgarh.private]] 
+- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South/India/Counties/Chhattisgarh.personal|Chhattisgarh.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South/India/Counties/Chhattisgarh.secret|Chhattisgarh.secret]] 
 

@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 24.2 , 120.9 ] 
 type: geo-Region
 title: Taichung_City
@@ -40,10 +40,11 @@ markerFolder: ./Taichung_City/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Asia/Asia~East/Taiwan/Counties/Taichung_City.md|Taichung_City]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~East/Taiwan/Counties/Taichung_City.internal|Taichung_City.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~East/Taiwan/Counties/Taichung_City.protect|Taichung_City.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~East/Taiwan/Counties/Taichung_City.private|Taichung_City.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~East/Taiwan/Counties/Taichung_City.personal|Taichung_City.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~East/Taiwan/Counties/Taichung_City.secret|Taichung_City.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~East/Taiwan/Counties/Taichung_City|Taichung_City]] 
+- [[../../../../../../../_public/geo/Continent/Asia/Asia~East/Taiwan/Counties/Taichung_City.public|Taichung_City.public]] 
+- [[../../../../../../../_internal/geo/Continent/Asia/Asia~East/Taiwan/Counties/Taichung_City.internal|Taichung_City.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Asia/Asia~East/Taiwan/Counties/Taichung_City.protect|Taichung_City.protect]] 
+- [[../../../../../../../_private/geo/Continent/Asia/Asia~East/Taiwan/Counties/Taichung_City.private|Taichung_City.private]] 
+- [[../../../../../../../_personal/geo/Continent/Asia/Asia~East/Taiwan/Counties/Taichung_City.personal|Taichung_City.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Asia/Asia~East/Taiwan/Counties/Taichung_City.secret|Taichung_City.secret]] 
 

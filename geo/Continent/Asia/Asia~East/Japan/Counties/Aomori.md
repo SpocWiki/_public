@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 40.9 , 140.5 ] 
 type: geo-Region
 title: Aomori
@@ -40,10 +40,11 @@ markerFolder: ./Aomori/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Asia/Asia~East/Japan/Counties/Aomori.md|Aomori]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~East/Japan/Counties/Aomori.internal|Aomori.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~East/Japan/Counties/Aomori.protect|Aomori.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~East/Japan/Counties/Aomori.private|Aomori.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~East/Japan/Counties/Aomori.personal|Aomori.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~East/Japan/Counties/Aomori.secret|Aomori.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~East/Japan/Counties/Aomori|Aomori]] 
+- [[../../../../../../../_public/geo/Continent/Asia/Asia~East/Japan/Counties/Aomori.public|Aomori.public]] 
+- [[../../../../../../../_internal/geo/Continent/Asia/Asia~East/Japan/Counties/Aomori.internal|Aomori.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Asia/Asia~East/Japan/Counties/Aomori.protect|Aomori.protect]] 
+- [[../../../../../../../_private/geo/Continent/Asia/Asia~East/Japan/Counties/Aomori.private|Aomori.private]] 
+- [[../../../../../../../_personal/geo/Continent/Asia/Asia~East/Japan/Counties/Aomori.personal|Aomori.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Asia/Asia~East/Japan/Counties/Aomori.secret|Aomori.secret]] 
 

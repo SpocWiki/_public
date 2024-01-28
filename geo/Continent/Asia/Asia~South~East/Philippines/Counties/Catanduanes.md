@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 13.8 , 124.3 ] 
 type: geo-Region
 title: Catanduanes
@@ -40,10 +40,11 @@ markerFolder: ./Catanduanes/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Catanduanes.md|Catanduanes]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Catanduanes.internal|Catanduanes.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Catanduanes.protect|Catanduanes.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Catanduanes.private|Catanduanes.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Catanduanes.personal|Catanduanes.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Catanduanes.secret|Catanduanes.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Catanduanes|Catanduanes]] 
+- [[../../../../../../../_public/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Catanduanes.public|Catanduanes.public]] 
+- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Catanduanes.internal|Catanduanes.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Catanduanes.protect|Catanduanes.protect]] 
+- [[../../../../../../../_private/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Catanduanes.private|Catanduanes.private]] 
+- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Catanduanes.personal|Catanduanes.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Catanduanes.secret|Catanduanes.secret]] 
 

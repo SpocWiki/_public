@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 11.6 , 104.3 ] 
 type: geo-Region
 title: Kâmpóng_Spœ
@@ -40,10 +40,11 @@ markerFolder: ./Kâmpóng_Spœ/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Asia/Asia~South~East/Cambodia/Counties/Kâmpóng_Spœ.md|Kâmpóng_Spœ]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~South~East/Cambodia/Counties/Kâmpóng_Spœ.internal|Kâmpóng_Spœ.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~South~East/Cambodia/Counties/Kâmpóng_Spœ.protect|Kâmpóng_Spœ.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~South~East/Cambodia/Counties/Kâmpóng_Spœ.private|Kâmpóng_Spœ.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~South~East/Cambodia/Counties/Kâmpóng_Spœ.personal|Kâmpóng_Spœ.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~South~East/Cambodia/Counties/Kâmpóng_Spœ.secret|Kâmpóng_Spœ.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South~East/Cambodia/Counties/Kâmpóng_Spœ|Kâmpóng_Spœ]] 
+- [[../../../../../../../_public/geo/Continent/Asia/Asia~South~East/Cambodia/Counties/Kâmpóng_Spœ.public|Kâmpóng_Spœ.public]] 
+- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South~East/Cambodia/Counties/Kâmpóng_Spœ.internal|Kâmpóng_Spœ.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South~East/Cambodia/Counties/Kâmpóng_Spœ.protect|Kâmpóng_Spœ.protect]] 
+- [[../../../../../../../_private/geo/Continent/Asia/Asia~South~East/Cambodia/Counties/Kâmpóng_Spœ.private|Kâmpóng_Spœ.private]] 
+- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South~East/Cambodia/Counties/Kâmpóng_Spœ.personal|Kâmpóng_Spœ.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South~East/Cambodia/Counties/Kâmpóng_Spœ.secret|Kâmpóng_Spœ.secret]] 
 

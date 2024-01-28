@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 41.4 , 76 ] 
 type: geo-Region
 title: Naryn
@@ -40,10 +40,11 @@ markerFolder: ./Naryn/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Asia/Asia~Central/Kyrgyzstan/Counties/Naryn.md|Naryn]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~Central/Kyrgyzstan/Counties/Naryn.internal|Naryn.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~Central/Kyrgyzstan/Counties/Naryn.protect|Naryn.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~Central/Kyrgyzstan/Counties/Naryn.private|Naryn.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~Central/Kyrgyzstan/Counties/Naryn.personal|Naryn.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~Central/Kyrgyzstan/Counties/Naryn.secret|Naryn.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~Central/Kyrgyzstan/Counties/Naryn|Naryn]] 
+- [[../../../../../../../_public/geo/Continent/Asia/Asia~Central/Kyrgyzstan/Counties/Naryn.public|Naryn.public]] 
+- [[../../../../../../../_internal/geo/Continent/Asia/Asia~Central/Kyrgyzstan/Counties/Naryn.internal|Naryn.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Asia/Asia~Central/Kyrgyzstan/Counties/Naryn.protect|Naryn.protect]] 
+- [[../../../../../../../_private/geo/Continent/Asia/Asia~Central/Kyrgyzstan/Counties/Naryn.private|Naryn.private]] 
+- [[../../../../../../../_personal/geo/Continent/Asia/Asia~Central/Kyrgyzstan/Counties/Naryn.personal|Naryn.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Asia/Asia~Central/Kyrgyzstan/Counties/Naryn.secret|Naryn.secret]] 
 

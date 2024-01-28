@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 2.9 , 73.36 ] 
 type: geo-Region
 title: Meemu
@@ -40,10 +40,11 @@ markerFolder: ./Meemu/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Asia/Asia~South/Maldives/Counties/Meemu.md|Meemu]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~South/Maldives/Counties/Meemu.internal|Meemu.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~South/Maldives/Counties/Meemu.protect|Meemu.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~South/Maldives/Counties/Meemu.private|Meemu.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~South/Maldives/Counties/Meemu.personal|Meemu.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~South/Maldives/Counties/Meemu.secret|Meemu.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South/Maldives/Counties/Meemu|Meemu]] 
+- [[../../../../../../../_public/geo/Continent/Asia/Asia~South/Maldives/Counties/Meemu.public|Meemu.public]] 
+- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South/Maldives/Counties/Meemu.internal|Meemu.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South/Maldives/Counties/Meemu.protect|Meemu.protect]] 
+- [[../../../../../../../_private/geo/Continent/Asia/Asia~South/Maldives/Counties/Meemu.private|Meemu.private]] 
+- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South/Maldives/Counties/Meemu.personal|Meemu.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South/Maldives/Counties/Meemu.secret|Meemu.secret]] 
 

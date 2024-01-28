@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 33.3 , 35.3 ] 
 type: geo-Region
 title: South_Lebanon
@@ -40,10 +40,11 @@ markerFolder: ./South_Lebanon/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Asia/Asia~West/Lebanon/Counties/South_Lebanon.md|South_Lebanon]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~West/Lebanon/Counties/South_Lebanon.internal|South_Lebanon.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~West/Lebanon/Counties/South_Lebanon.protect|South_Lebanon.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~West/Lebanon/Counties/South_Lebanon.private|South_Lebanon.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~West/Lebanon/Counties/South_Lebanon.personal|South_Lebanon.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~West/Lebanon/Counties/South_Lebanon.secret|South_Lebanon.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~West/Lebanon/Counties/South_Lebanon|South_Lebanon]] 
+- [[../../../../../../../_public/geo/Continent/Asia/Asia~West/Lebanon/Counties/South_Lebanon.public|South_Lebanon.public]] 
+- [[../../../../../../../_internal/geo/Continent/Asia/Asia~West/Lebanon/Counties/South_Lebanon.internal|South_Lebanon.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Asia/Asia~West/Lebanon/Counties/South_Lebanon.protect|South_Lebanon.protect]] 
+- [[../../../../../../../_private/geo/Continent/Asia/Asia~West/Lebanon/Counties/South_Lebanon.private|South_Lebanon.private]] 
+- [[../../../../../../../_personal/geo/Continent/Asia/Asia~West/Lebanon/Counties/South_Lebanon.personal|South_Lebanon.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Asia/Asia~West/Lebanon/Counties/South_Lebanon.secret|South_Lebanon.secret]] 
 

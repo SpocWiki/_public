@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 38.5 , 126.2 ] 
 type: geo-Region
 title: Hwanghae-bukto
@@ -40,10 +40,11 @@ markerFolder: ./Hwanghae-bukto/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Asia/Asia~East/Korea~North/Counties/Hwanghae-bukto.md|Hwanghae-bukto]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~East/Korea~North/Counties/Hwanghae-bukto.internal|Hwanghae-bukto.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~East/Korea~North/Counties/Hwanghae-bukto.protect|Hwanghae-bukto.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~East/Korea~North/Counties/Hwanghae-bukto.private|Hwanghae-bukto.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~East/Korea~North/Counties/Hwanghae-bukto.personal|Hwanghae-bukto.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~East/Korea~North/Counties/Hwanghae-bukto.secret|Hwanghae-bukto.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~East/Korea~North/Counties/Hwanghae-bukto|Hwanghae-bukto]] 
+- [[../../../../../../../_public/geo/Continent/Asia/Asia~East/Korea~North/Counties/Hwanghae-bukto.public|Hwanghae-bukto.public]] 
+- [[../../../../../../../_internal/geo/Continent/Asia/Asia~East/Korea~North/Counties/Hwanghae-bukto.internal|Hwanghae-bukto.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Asia/Asia~East/Korea~North/Counties/Hwanghae-bukto.protect|Hwanghae-bukto.protect]] 
+- [[../../../../../../../_private/geo/Continent/Asia/Asia~East/Korea~North/Counties/Hwanghae-bukto.private|Hwanghae-bukto.private]] 
+- [[../../../../../../../_personal/geo/Continent/Asia/Asia~East/Korea~North/Counties/Hwanghae-bukto.personal|Hwanghae-bukto.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Asia/Asia~East/Korea~North/Counties/Hwanghae-bukto.secret|Hwanghae-bukto.secret]] 
 

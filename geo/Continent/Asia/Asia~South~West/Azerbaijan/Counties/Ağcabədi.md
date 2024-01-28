@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 40 , 47.4 ] 
 type: geo-Region
 title: Ağcabədi
@@ -40,10 +40,11 @@ markerFolder: ./Ağcabədi/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Ağcabədi.md|Ağcabədi]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Ağcabədi.internal|Ağcabədi.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Ağcabədi.protect|Ağcabədi.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Ağcabədi.private|Ağcabədi.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Ağcabədi.personal|Ağcabədi.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Ağcabədi.secret|Ağcabədi.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Ağcabədi|Ağcabədi]] 
+- [[../../../../../../../_public/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Ağcabədi.public|Ağcabədi.public]] 
+- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Ağcabədi.internal|Ağcabədi.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Ağcabədi.protect|Ağcabədi.protect]] 
+- [[../../../../../../../_private/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Ağcabədi.private|Ağcabədi.private]] 
+- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Ağcabədi.personal|Ağcabədi.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Ağcabədi.secret|Ağcabədi.secret]] 
 

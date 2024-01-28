@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 36.7 , 65.9 ] 
 type: geo-Region
 title: Jawzjan
@@ -40,10 +40,11 @@ markerFolder: ./Jawzjan/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Asia/Asia~Central/Afghanistan/Counties/Jawzjan.md|Jawzjan]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~Central/Afghanistan/Counties/Jawzjan.internal|Jawzjan.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~Central/Afghanistan/Counties/Jawzjan.protect|Jawzjan.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~Central/Afghanistan/Counties/Jawzjan.private|Jawzjan.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~Central/Afghanistan/Counties/Jawzjan.personal|Jawzjan.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~Central/Afghanistan/Counties/Jawzjan.secret|Jawzjan.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~Central/Afghanistan/Counties/Jawzjan|Jawzjan]] 
+- [[../../../../../../../_public/geo/Continent/Asia/Asia~Central/Afghanistan/Counties/Jawzjan.public|Jawzjan.public]] 
+- [[../../../../../../../_internal/geo/Continent/Asia/Asia~Central/Afghanistan/Counties/Jawzjan.internal|Jawzjan.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Asia/Asia~Central/Afghanistan/Counties/Jawzjan.protect|Jawzjan.protect]] 
+- [[../../../../../../../_private/geo/Continent/Asia/Asia~Central/Afghanistan/Counties/Jawzjan.private|Jawzjan.private]] 
+- [[../../../../../../../_personal/geo/Continent/Asia/Asia~Central/Afghanistan/Counties/Jawzjan.personal|Jawzjan.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Asia/Asia~Central/Afghanistan/Counties/Jawzjan.secret|Jawzjan.secret]] 
 

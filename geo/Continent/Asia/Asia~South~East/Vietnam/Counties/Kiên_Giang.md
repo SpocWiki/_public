@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 10 , 105.3 ] 
 type: geo-Region
 title: Kiên_Giang
@@ -40,10 +40,11 @@ markerFolder: ./Kiên_Giang/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Kiên_Giang.md|Kiên_Giang]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Kiên_Giang.internal|Kiên_Giang.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Kiên_Giang.protect|Kiên_Giang.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Kiên_Giang.private|Kiên_Giang.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Kiên_Giang.personal|Kiên_Giang.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Kiên_Giang.secret|Kiên_Giang.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Kiên_Giang|Kiên_Giang]] 
+- [[../../../../../../../_public/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Kiên_Giang.public|Kiên_Giang.public]] 
+- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Kiên_Giang.internal|Kiên_Giang.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Kiên_Giang.protect|Kiên_Giang.protect]] 
+- [[../../../../../../../_private/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Kiên_Giang.private|Kiên_Giang.private]] 
+- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Kiên_Giang.personal|Kiên_Giang.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Kiên_Giang.secret|Kiên_Giang.secret]] 
 

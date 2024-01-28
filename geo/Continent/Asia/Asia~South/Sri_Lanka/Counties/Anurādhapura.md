@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 8.4 , 80.4 ] 
 type: geo-Region
 title: Anurādhapura
@@ -40,10 +40,11 @@ markerFolder: ./Anurādhapura/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Asia/Asia~South/Sri_Lanka/Counties/Anurādhapura.md|Anurādhapura]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~South/Sri_Lanka/Counties/Anurādhapura.internal|Anurādhapura.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~South/Sri_Lanka/Counties/Anurādhapura.protect|Anurādhapura.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~South/Sri_Lanka/Counties/Anurādhapura.private|Anurādhapura.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~South/Sri_Lanka/Counties/Anurādhapura.personal|Anurādhapura.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~South/Sri_Lanka/Counties/Anurādhapura.secret|Anurādhapura.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South/Sri_Lanka/Counties/Anurādhapura|Anurādhapura]] 
+- [[../../../../../../../_public/geo/Continent/Asia/Asia~South/Sri_Lanka/Counties/Anurādhapura.public|Anurādhapura.public]] 
+- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South/Sri_Lanka/Counties/Anurādhapura.internal|Anurādhapura.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South/Sri_Lanka/Counties/Anurādhapura.protect|Anurādhapura.protect]] 
+- [[../../../../../../../_private/geo/Continent/Asia/Asia~South/Sri_Lanka/Counties/Anurādhapura.private|Anurādhapura.private]] 
+- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South/Sri_Lanka/Counties/Anurādhapura.personal|Anurādhapura.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South/Sri_Lanka/Counties/Anurādhapura.secret|Anurādhapura.secret]] 
 

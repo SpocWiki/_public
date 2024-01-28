@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 10.8 , 106.7 ] 
 type: geo-Region
 title: Hồ_Chí_Minh_city
@@ -40,10 +40,11 @@ markerFolder: ./Hồ_Chí_Minh_city/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Hồ_Chí_Minh_city.md|Hồ_Chí_Minh_city]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Hồ_Chí_Minh_city.internal|Hồ_Chí_Minh_city.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Hồ_Chí_Minh_city.protect|Hồ_Chí_Minh_city.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Hồ_Chí_Minh_city.private|Hồ_Chí_Minh_city.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Hồ_Chí_Minh_city.personal|Hồ_Chí_Minh_city.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Hồ_Chí_Minh_city.secret|Hồ_Chí_Minh_city.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Hồ_Chí_Minh_city|Hồ_Chí_Minh_city]] 
+- [[../../../../../../../_public/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Hồ_Chí_Minh_city.public|Hồ_Chí_Minh_city.public]] 
+- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Hồ_Chí_Minh_city.internal|Hồ_Chí_Minh_city.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Hồ_Chí_Minh_city.protect|Hồ_Chí_Minh_city.protect]] 
+- [[../../../../../../../_private/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Hồ_Chí_Minh_city.private|Hồ_Chí_Minh_city.private]] 
+- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Hồ_Chí_Minh_city.personal|Hồ_Chí_Minh_city.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Hồ_Chí_Minh_city.secret|Hồ_Chí_Minh_city.secret]] 
 

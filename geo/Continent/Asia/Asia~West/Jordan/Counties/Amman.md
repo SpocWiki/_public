@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 31.6 , 36.3 ] 
 type: geo-Region
 title: Amman
@@ -40,10 +40,11 @@ markerFolder: ./Amman/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Asia/Asia~West/Jordan/Counties/Amman.md|Amman]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~West/Jordan/Counties/Amman.internal|Amman.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~West/Jordan/Counties/Amman.protect|Amman.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~West/Jordan/Counties/Amman.private|Amman.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~West/Jordan/Counties/Amman.personal|Amman.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~West/Jordan/Counties/Amman.secret|Amman.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~West/Jordan/Counties/Amman|Amman]] 
+- [[../../../../../../../_public/geo/Continent/Asia/Asia~West/Jordan/Counties/Amman.public|Amman.public]] 
+- [[../../../../../../../_internal/geo/Continent/Asia/Asia~West/Jordan/Counties/Amman.internal|Amman.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Asia/Asia~West/Jordan/Counties/Amman.protect|Amman.protect]] 
+- [[../../../../../../../_private/geo/Continent/Asia/Asia~West/Jordan/Counties/Amman.private|Amman.private]] 
+- [[../../../../../../../_personal/geo/Continent/Asia/Asia~West/Jordan/Counties/Amman.personal|Amman.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Asia/Asia~West/Jordan/Counties/Amman.secret|Amman.secret]] 
 

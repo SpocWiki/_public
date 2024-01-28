@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 30.7 , 34.9 ] 
 type: geo-Region
 title: HaDarom
@@ -40,12 +40,13 @@ markerFolder: ./HaDarom/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Asia/Asia~West/Israel/Counties/HaDarom.md|HaDarom]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~West/Israel/Counties/HaDarom.internal|HaDarom.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~West/Israel/Counties/HaDarom.protect|HaDarom.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~West/Israel/Counties/HaDarom.private|HaDarom.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~West/Israel/Counties/HaDarom.personal|HaDarom.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~West/Israel/Counties/HaDarom.secret|HaDarom.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~West/Israel/Counties/HaDarom|HaDarom]] 
+- [[../../../../../../../_public/geo/Continent/Asia/Asia~West/Israel/Counties/HaDarom.public|HaDarom.public]] 
+- [[../../../../../../../_internal/geo/Continent/Asia/Asia~West/Israel/Counties/HaDarom.internal|HaDarom.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Asia/Asia~West/Israel/Counties/HaDarom.protect|HaDarom.protect]] 
+- [[../../../../../../../_private/geo/Continent/Asia/Asia~West/Israel/Counties/HaDarom.private|HaDarom.private]] 
+- [[../../../../../../../_personal/geo/Continent/Asia/Asia~West/Israel/Counties/HaDarom.personal|HaDarom.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Asia/Asia~West/Israel/Counties/HaDarom.secret|HaDarom.secret]] 
 
 
 ```leaflet

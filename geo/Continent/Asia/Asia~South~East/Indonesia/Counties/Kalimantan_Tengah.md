@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ -1.4 , 113.4 ] 
 type: geo-Region
 title: Kalimantan_Tengah
@@ -40,10 +40,11 @@ markerFolder: ./Kalimantan_Tengah/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Asia/Asia~South~East/Indonesia/Counties/Kalimantan_Tengah.md|Kalimantan_Tengah]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~South~East/Indonesia/Counties/Kalimantan_Tengah.internal|Kalimantan_Tengah.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~South~East/Indonesia/Counties/Kalimantan_Tengah.protect|Kalimantan_Tengah.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~South~East/Indonesia/Counties/Kalimantan_Tengah.private|Kalimantan_Tengah.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~South~East/Indonesia/Counties/Kalimantan_Tengah.personal|Kalimantan_Tengah.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~South~East/Indonesia/Counties/Kalimantan_Tengah.secret|Kalimantan_Tengah.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South~East/Indonesia/Counties/Kalimantan_Tengah|Kalimantan_Tengah]] 
+- [[../../../../../../../_public/geo/Continent/Asia/Asia~South~East/Indonesia/Counties/Kalimantan_Tengah.public|Kalimantan_Tengah.public]] 
+- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South~East/Indonesia/Counties/Kalimantan_Tengah.internal|Kalimantan_Tengah.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South~East/Indonesia/Counties/Kalimantan_Tengah.protect|Kalimantan_Tengah.protect]] 
+- [[../../../../../../../_private/geo/Continent/Asia/Asia~South~East/Indonesia/Counties/Kalimantan_Tengah.private|Kalimantan_Tengah.private]] 
+- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South~East/Indonesia/Counties/Kalimantan_Tengah.personal|Kalimantan_Tengah.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South~East/Indonesia/Counties/Kalimantan_Tengah.secret|Kalimantan_Tengah.secret]] 
 

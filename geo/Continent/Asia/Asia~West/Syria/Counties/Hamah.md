@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 35.3 , 37.3 ] 
 type: geo-Region
 title: Hamah
@@ -40,10 +40,11 @@ markerFolder: ./Hamah/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Asia/Asia~West/Syria/Counties/Hamah.md|Hamah]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~West/Syria/Counties/Hamah.internal|Hamah.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~West/Syria/Counties/Hamah.protect|Hamah.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~West/Syria/Counties/Hamah.private|Hamah.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~West/Syria/Counties/Hamah.personal|Hamah.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~West/Syria/Counties/Hamah.secret|Hamah.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~West/Syria/Counties/Hamah|Hamah]] 
+- [[../../../../../../../_public/geo/Continent/Asia/Asia~West/Syria/Counties/Hamah.public|Hamah.public]] 
+- [[../../../../../../../_internal/geo/Continent/Asia/Asia~West/Syria/Counties/Hamah.internal|Hamah.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Asia/Asia~West/Syria/Counties/Hamah.protect|Hamah.protect]] 
+- [[../../../../../../../_private/geo/Continent/Asia/Asia~West/Syria/Counties/Hamah.private|Hamah.private]] 
+- [[../../../../../../../_personal/geo/Continent/Asia/Asia~West/Syria/Counties/Hamah.personal|Hamah.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Asia/Asia~West/Syria/Counties/Hamah.secret|Hamah.secret]] 
 

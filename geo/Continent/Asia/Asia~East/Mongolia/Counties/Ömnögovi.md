@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 43.4 , 103.8 ] 
 type: geo-Region
 title: Ömnögovi
@@ -40,10 +40,11 @@ markerFolder: ./Ömnögovi/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Asia/Asia~East/Mongolia/Counties/Ömnögovi.md|Ömnögovi]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~East/Mongolia/Counties/Ömnögovi.internal|Ömnögovi.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~East/Mongolia/Counties/Ömnögovi.protect|Ömnögovi.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~East/Mongolia/Counties/Ömnögovi.private|Ömnögovi.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~East/Mongolia/Counties/Ömnögovi.personal|Ömnögovi.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~East/Mongolia/Counties/Ömnögovi.secret|Ömnögovi.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~East/Mongolia/Counties/Ömnögovi|Ömnögovi]] 
+- [[../../../../../../../_public/geo/Continent/Asia/Asia~East/Mongolia/Counties/Ömnögovi.public|Ömnögovi.public]] 
+- [[../../../../../../../_internal/geo/Continent/Asia/Asia~East/Mongolia/Counties/Ömnögovi.internal|Ömnögovi.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Asia/Asia~East/Mongolia/Counties/Ömnögovi.protect|Ömnögovi.protect]] 
+- [[../../../../../../../_private/geo/Continent/Asia/Asia~East/Mongolia/Counties/Ömnögovi.private|Ömnögovi.private]] 
+- [[../../../../../../../_personal/geo/Continent/Asia/Asia~East/Mongolia/Counties/Ömnögovi.personal|Ömnögovi.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Asia/Asia~East/Mongolia/Counties/Ömnögovi.secret|Ömnögovi.secret]] 
 

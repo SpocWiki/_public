@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 49 , 104.3 ] 
 type: geo-Region
 title: Orhon
@@ -40,10 +40,11 @@ markerFolder: ./Orhon/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Asia/Asia~East/Mongolia/Counties/Orhon.md|Orhon]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~East/Mongolia/Counties/Orhon.internal|Orhon.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~East/Mongolia/Counties/Orhon.protect|Orhon.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~East/Mongolia/Counties/Orhon.private|Orhon.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~East/Mongolia/Counties/Orhon.personal|Orhon.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~East/Mongolia/Counties/Orhon.secret|Orhon.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~East/Mongolia/Counties/Orhon|Orhon]] 
+- [[../../../../../../../_public/geo/Continent/Asia/Asia~East/Mongolia/Counties/Orhon.public|Orhon.public]] 
+- [[../../../../../../../_internal/geo/Continent/Asia/Asia~East/Mongolia/Counties/Orhon.internal|Orhon.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Asia/Asia~East/Mongolia/Counties/Orhon.protect|Orhon.protect]] 
+- [[../../../../../../../_private/geo/Continent/Asia/Asia~East/Mongolia/Counties/Orhon.private|Orhon.private]] 
+- [[../../../../../../../_personal/geo/Continent/Asia/Asia~East/Mongolia/Counties/Orhon.personal|Orhon.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Asia/Asia~East/Mongolia/Counties/Orhon.secret|Orhon.secret]] 
 

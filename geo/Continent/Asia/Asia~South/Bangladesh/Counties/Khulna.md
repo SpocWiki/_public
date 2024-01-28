@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 22.9 , 89.4 ] 
 type: geo-Region
 title: Khulna
@@ -40,10 +40,11 @@ markerFolder: ./Khulna/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Asia/Asia~South/Bangladesh/Counties/Khulna.md|Khulna]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~South/Bangladesh/Counties/Khulna.internal|Khulna.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~South/Bangladesh/Counties/Khulna.protect|Khulna.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~South/Bangladesh/Counties/Khulna.private|Khulna.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~South/Bangladesh/Counties/Khulna.personal|Khulna.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~South/Bangladesh/Counties/Khulna.secret|Khulna.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South/Bangladesh/Counties/Khulna|Khulna]] 
+- [[../../../../../../../_public/geo/Continent/Asia/Asia~South/Bangladesh/Counties/Khulna.public|Khulna.public]] 
+- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South/Bangladesh/Counties/Khulna.internal|Khulna.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South/Bangladesh/Counties/Khulna.protect|Khulna.protect]] 
+- [[../../../../../../../_private/geo/Continent/Asia/Asia~South/Bangladesh/Counties/Khulna.private|Khulna.private]] 
+- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South/Bangladesh/Counties/Khulna.personal|Khulna.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South/Bangladesh/Counties/Khulna.secret|Khulna.secret]] 
 

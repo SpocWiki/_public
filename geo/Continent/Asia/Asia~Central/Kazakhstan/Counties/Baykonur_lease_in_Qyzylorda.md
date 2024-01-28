@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 46 , 63.4 ] 
 type: geo-Region
 title: Baykonur_lease_in_Qyzylorda
@@ -40,10 +40,11 @@ markerFolder: ./Baykonur_lease_in_Qyzylorda/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Asia/Asia~Central/Kazakhstan/Counties/Baykonur_lease_in_Qyzylorda.md|Baykonur_lease_in_Qyzylorda]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~Central/Kazakhstan/Counties/Baykonur_lease_in_Qyzylorda.internal|Baykonur_lease_in_Qyzylorda.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~Central/Kazakhstan/Counties/Baykonur_lease_in_Qyzylorda.protect|Baykonur_lease_in_Qyzylorda.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~Central/Kazakhstan/Counties/Baykonur_lease_in_Qyzylorda.private|Baykonur_lease_in_Qyzylorda.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~Central/Kazakhstan/Counties/Baykonur_lease_in_Qyzylorda.personal|Baykonur_lease_in_Qyzylorda.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~Central/Kazakhstan/Counties/Baykonur_lease_in_Qyzylorda.secret|Baykonur_lease_in_Qyzylorda.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~Central/Kazakhstan/Counties/Baykonur_lease_in_Qyzylorda|Baykonur_lease_in_Qyzylorda]] 
+- [[../../../../../../../_public/geo/Continent/Asia/Asia~Central/Kazakhstan/Counties/Baykonur_lease_in_Qyzylorda.public|Baykonur_lease_in_Qyzylorda.public]] 
+- [[../../../../../../../_internal/geo/Continent/Asia/Asia~Central/Kazakhstan/Counties/Baykonur_lease_in_Qyzylorda.internal|Baykonur_lease_in_Qyzylorda.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Asia/Asia~Central/Kazakhstan/Counties/Baykonur_lease_in_Qyzylorda.protect|Baykonur_lease_in_Qyzylorda.protect]] 
+- [[../../../../../../../_private/geo/Continent/Asia/Asia~Central/Kazakhstan/Counties/Baykonur_lease_in_Qyzylorda.private|Baykonur_lease_in_Qyzylorda.private]] 
+- [[../../../../../../../_personal/geo/Continent/Asia/Asia~Central/Kazakhstan/Counties/Baykonur_lease_in_Qyzylorda.personal|Baykonur_lease_in_Qyzylorda.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Asia/Asia~Central/Kazakhstan/Counties/Baykonur_lease_in_Qyzylorda.secret|Baykonur_lease_in_Qyzylorda.secret]] 
 

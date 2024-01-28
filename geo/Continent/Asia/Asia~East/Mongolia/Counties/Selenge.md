@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 49.5 , 107.5 ] 
 type: geo-Region
 title: Selenge
@@ -40,10 +40,11 @@ markerFolder: ./Selenge/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Asia/Asia~East/Mongolia/Counties/Selenge.md|Selenge]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~East/Mongolia/Counties/Selenge.internal|Selenge.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~East/Mongolia/Counties/Selenge.protect|Selenge.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~East/Mongolia/Counties/Selenge.private|Selenge.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~East/Mongolia/Counties/Selenge.personal|Selenge.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~East/Mongolia/Counties/Selenge.secret|Selenge.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~East/Mongolia/Counties/Selenge|Selenge]] 
+- [[../../../../../../../_public/geo/Continent/Asia/Asia~East/Mongolia/Counties/Selenge.public|Selenge.public]] 
+- [[../../../../../../../_internal/geo/Continent/Asia/Asia~East/Mongolia/Counties/Selenge.internal|Selenge.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Asia/Asia~East/Mongolia/Counties/Selenge.protect|Selenge.protect]] 
+- [[../../../../../../../_private/geo/Continent/Asia/Asia~East/Mongolia/Counties/Selenge.private|Selenge.private]] 
+- [[../../../../../../../_personal/geo/Continent/Asia/Asia~East/Mongolia/Counties/Selenge.personal|Selenge.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Asia/Asia~East/Mongolia/Counties/Selenge.secret|Selenge.secret]] 
 

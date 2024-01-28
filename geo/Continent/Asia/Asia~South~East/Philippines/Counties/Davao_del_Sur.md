@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 6.3 , 125.6 ] 
 type: geo-Region
 title: Davao_del_Sur
@@ -40,10 +40,11 @@ markerFolder: ./Davao_del_Sur/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Davao_del_Sur.md|Davao_del_Sur]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Davao_del_Sur.internal|Davao_del_Sur.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Davao_del_Sur.protect|Davao_del_Sur.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Davao_del_Sur.private|Davao_del_Sur.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Davao_del_Sur.personal|Davao_del_Sur.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Davao_del_Sur.secret|Davao_del_Sur.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Davao_del_Sur|Davao_del_Sur]] 
+- [[../../../../../../../_public/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Davao_del_Sur.public|Davao_del_Sur.public]] 
+- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Davao_del_Sur.internal|Davao_del_Sur.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Davao_del_Sur.protect|Davao_del_Sur.protect]] 
+- [[../../../../../../../_private/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Davao_del_Sur.private|Davao_del_Sur.private]] 
+- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Davao_del_Sur.personal|Davao_del_Sur.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Davao_del_Sur.secret|Davao_del_Sur.secret]] 
 

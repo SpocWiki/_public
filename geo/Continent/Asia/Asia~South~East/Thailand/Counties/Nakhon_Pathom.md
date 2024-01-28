@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 13.9 , 100.1 ] 
 type: geo-Region
 title: Nakhon_Pathom
@@ -40,10 +40,11 @@ markerFolder: ./Nakhon_Pathom/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Nakhon_Pathom.md|Nakhon_Pathom]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Nakhon_Pathom.internal|Nakhon_Pathom.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Nakhon_Pathom.protect|Nakhon_Pathom.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Nakhon_Pathom.private|Nakhon_Pathom.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Nakhon_Pathom.personal|Nakhon_Pathom.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Nakhon_Pathom.secret|Nakhon_Pathom.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Nakhon_Pathom|Nakhon_Pathom]] 
+- [[../../../../../../../_public/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Nakhon_Pathom.public|Nakhon_Pathom.public]] 
+- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Nakhon_Pathom.internal|Nakhon_Pathom.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Nakhon_Pathom.protect|Nakhon_Pathom.protect]] 
+- [[../../../../../../../_private/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Nakhon_Pathom.private|Nakhon_Pathom.private]] 
+- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Nakhon_Pathom.personal|Nakhon_Pathom.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Nakhon_Pathom.secret|Nakhon_Pathom.secret]] 
 

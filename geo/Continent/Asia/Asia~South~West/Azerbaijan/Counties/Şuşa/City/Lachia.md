@@ -1,5 +1,5 @@
 ﻿---
-location: [39.63,46.53]
+location: [39.63,46.53] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,27 +12,28 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::46.53]
-[geo-lat::39.63]
-[name::Lachia]
-[State::]
-[Country::[[Russia]]]
-[StateId::]
-[Population::]
-[Unknown::]
+[geo-lon::46.53] 
+[geo-lat::39.63] 
+[name::Lachia] 
+State ::  
+Country :: [[Russia]]  
+[StateId::] 
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Lachia
-coordinates: [[Lachia]]
-markerFile: [[Lachia]]
+coordinates: [[Lachia]] 
+markerFile: [[Lachia]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_public/geo/Continent/Europe/Russia/City/Lachia.md|Lachia]] 
+- [[../../../../../../_Standards/geo/Continent/Europe/Russia/City/Lachia|Lachia]] 
+- [[../../../../../../_public/geo/Continent/Europe/Russia/City/Lachia.public|Lachia.public]] 
 - [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Lachia.internal|Lachia.internal]] 
 - [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Lachia.protect|Lachia.protect]] 
 - [[../../../../../../_private/geo/Continent/Europe/Russia/City/Lachia.private|Lachia.private]] 

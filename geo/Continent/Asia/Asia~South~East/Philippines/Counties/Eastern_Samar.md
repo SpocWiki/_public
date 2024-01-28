@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 11.7 , 125.4 ] 
 type: geo-Region
 title: Eastern_Samar
@@ -40,10 +40,11 @@ markerFolder: ./Eastern_Samar/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Eastern_Samar.md|Eastern_Samar]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Eastern_Samar.internal|Eastern_Samar.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Eastern_Samar.protect|Eastern_Samar.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Eastern_Samar.private|Eastern_Samar.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Eastern_Samar.personal|Eastern_Samar.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Eastern_Samar.secret|Eastern_Samar.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Eastern_Samar|Eastern_Samar]] 
+- [[../../../../../../../_public/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Eastern_Samar.public|Eastern_Samar.public]] 
+- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Eastern_Samar.internal|Eastern_Samar.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Eastern_Samar.protect|Eastern_Samar.protect]] 
+- [[../../../../../../../_private/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Eastern_Samar.private|Eastern_Samar.private]] 
+- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Eastern_Samar.personal|Eastern_Samar.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Eastern_Samar.secret|Eastern_Samar.secret]] 
 

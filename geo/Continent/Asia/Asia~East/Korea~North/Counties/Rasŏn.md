@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 42.4 , 130.5 ] 
 type: geo-Region
 title: Rasŏn
@@ -40,10 +40,11 @@ markerFolder: ./Rasŏn/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Asia/Asia~East/Korea~North/Counties/Rasŏn.md|Rasŏn]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~East/Korea~North/Counties/Rasŏn.internal|Rasŏn.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~East/Korea~North/Counties/Rasŏn.protect|Rasŏn.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~East/Korea~North/Counties/Rasŏn.private|Rasŏn.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~East/Korea~North/Counties/Rasŏn.personal|Rasŏn.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~East/Korea~North/Counties/Rasŏn.secret|Rasŏn.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~East/Korea~North/Counties/Rasŏn|Rasŏn]] 
+- [[../../../../../../../_public/geo/Continent/Asia/Asia~East/Korea~North/Counties/Rasŏn.public|Rasŏn.public]] 
+- [[../../../../../../../_internal/geo/Continent/Asia/Asia~East/Korea~North/Counties/Rasŏn.internal|Rasŏn.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Asia/Asia~East/Korea~North/Counties/Rasŏn.protect|Rasŏn.protect]] 
+- [[../../../../../../../_private/geo/Continent/Asia/Asia~East/Korea~North/Counties/Rasŏn.private|Rasŏn.private]] 
+- [[../../../../../../../_personal/geo/Continent/Asia/Asia~East/Korea~North/Counties/Rasŏn.personal|Rasŏn.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Asia/Asia~East/Korea~North/Counties/Rasŏn.secret|Rasŏn.secret]] 
 

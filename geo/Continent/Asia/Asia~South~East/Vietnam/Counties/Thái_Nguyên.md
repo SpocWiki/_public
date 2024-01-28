@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 21.7 , 105.9 ] 
 type: geo-Region
 title: Thái_Nguyên
@@ -40,10 +40,11 @@ markerFolder: ./Thái_Nguyên/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Thái_Nguyên.md|Thái_Nguyên]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Thái_Nguyên.internal|Thái_Nguyên.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Thái_Nguyên.protect|Thái_Nguyên.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Thái_Nguyên.private|Thái_Nguyên.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Thái_Nguyên.personal|Thái_Nguyên.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Thái_Nguyên.secret|Thái_Nguyên.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Thái_Nguyên|Thái_Nguyên]] 
+- [[../../../../../../../_public/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Thái_Nguyên.public|Thái_Nguyên.public]] 
+- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Thái_Nguyên.internal|Thái_Nguyên.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Thái_Nguyên.protect|Thái_Nguyên.protect]] 
+- [[../../../../../../../_private/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Thái_Nguyên.private|Thái_Nguyên.private]] 
+- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Thái_Nguyên.personal|Thái_Nguyên.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Thái_Nguyên.secret|Thái_Nguyên.secret]] 
 

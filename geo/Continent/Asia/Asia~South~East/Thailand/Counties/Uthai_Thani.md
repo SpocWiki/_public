@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 15.4 , 99.6 ] 
 type: geo-Region
 title: Uthai_Thani
@@ -40,10 +40,11 @@ markerFolder: ./Uthai_Thani/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Uthai_Thani.md|Uthai_Thani]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Uthai_Thani.internal|Uthai_Thani.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Uthai_Thani.protect|Uthai_Thani.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Uthai_Thani.private|Uthai_Thani.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Uthai_Thani.personal|Uthai_Thani.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Uthai_Thani.secret|Uthai_Thani.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Uthai_Thani|Uthai_Thani]] 
+- [[../../../../../../../_public/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Uthai_Thani.public|Uthai_Thani.public]] 
+- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Uthai_Thani.internal|Uthai_Thani.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Uthai_Thani.protect|Uthai_Thani.protect]] 
+- [[../../../../../../../_private/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Uthai_Thani.private|Uthai_Thani.private]] 
+- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Uthai_Thani.personal|Uthai_Thani.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Uthai_Thani.secret|Uthai_Thani.secret]] 
 

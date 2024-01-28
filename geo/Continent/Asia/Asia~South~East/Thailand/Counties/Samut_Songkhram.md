@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 13.4 , 99.9 ] 
 type: geo-Region
 title: Samut_Songkhram
@@ -40,10 +40,11 @@ markerFolder: ./Samut_Songkhram/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Samut_Songkhram.md|Samut_Songkhram]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Samut_Songkhram.internal|Samut_Songkhram.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Samut_Songkhram.protect|Samut_Songkhram.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Samut_Songkhram.private|Samut_Songkhram.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Samut_Songkhram.personal|Samut_Songkhram.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Samut_Songkhram.secret|Samut_Songkhram.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Samut_Songkhram|Samut_Songkhram]] 
+- [[../../../../../../../_public/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Samut_Songkhram.public|Samut_Songkhram.public]] 
+- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Samut_Songkhram.internal|Samut_Songkhram.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Samut_Songkhram.protect|Samut_Songkhram.protect]] 
+- [[../../../../../../../_private/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Samut_Songkhram.private|Samut_Songkhram.private]] 
+- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Samut_Songkhram.personal|Samut_Songkhram.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Samut_Songkhram.secret|Samut_Songkhram.secret]] 
 

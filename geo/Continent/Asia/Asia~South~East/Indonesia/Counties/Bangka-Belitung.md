@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ -2.9 , 107.9 ] 
 type: geo-Region
 title: Bangka-Belitung
@@ -40,10 +40,11 @@ markerFolder: ./Bangka-Belitung/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Asia/Asia~South~East/Indonesia/Counties/Bangka-Belitung.md|Bangka-Belitung]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~South~East/Indonesia/Counties/Bangka-Belitung.internal|Bangka-Belitung.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~South~East/Indonesia/Counties/Bangka-Belitung.protect|Bangka-Belitung.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~South~East/Indonesia/Counties/Bangka-Belitung.private|Bangka-Belitung.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~South~East/Indonesia/Counties/Bangka-Belitung.personal|Bangka-Belitung.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~South~East/Indonesia/Counties/Bangka-Belitung.secret|Bangka-Belitung.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South~East/Indonesia/Counties/Bangka-Belitung|Bangka-Belitung]] 
+- [[../../../../../../../_public/geo/Continent/Asia/Asia~South~East/Indonesia/Counties/Bangka-Belitung.public|Bangka-Belitung.public]] 
+- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South~East/Indonesia/Counties/Bangka-Belitung.internal|Bangka-Belitung.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South~East/Indonesia/Counties/Bangka-Belitung.protect|Bangka-Belitung.protect]] 
+- [[../../../../../../../_private/geo/Continent/Asia/Asia~South~East/Indonesia/Counties/Bangka-Belitung.private|Bangka-Belitung.private]] 
+- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South~East/Indonesia/Counties/Bangka-Belitung.personal|Bangka-Belitung.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South~East/Indonesia/Counties/Bangka-Belitung.secret|Bangka-Belitung.secret]] 
 

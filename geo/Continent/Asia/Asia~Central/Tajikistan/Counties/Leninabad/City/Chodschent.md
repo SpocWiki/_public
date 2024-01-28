@@ -1,5 +1,5 @@
 ﻿---
-location: [40.28,69.62]
+location: [40.28,69.62] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,27 +12,28 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::69.62]
-[geo-lat::40.28]
-[name::Chodschent]
-[State::]
-[Country::[[Russia]]]
-[StateId::]
-[Population::]
-[Unknown::]
+[geo-lon::69.62] 
+[geo-lat::40.28] 
+[name::Chodschent] 
+State ::  
+Country :: [[Russia]]  
+[StateId::] 
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Chodschent
-coordinates: [[Chodschent]]
-markerFile: [[Chodschent]]
+coordinates: [[Chodschent]] 
+markerFile: [[Chodschent]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_public/geo/Continent/Europe/Russia/City/Chodschent.md|Chodschent]] 
+- [[../../../../../../_Standards/geo/Continent/Europe/Russia/City/Chodschent|Chodschent]] 
+- [[../../../../../../_public/geo/Continent/Europe/Russia/City/Chodschent.public|Chodschent.public]] 
 - [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Chodschent.internal|Chodschent.internal]] 
 - [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Chodschent.protect|Chodschent.protect]] 
 - [[../../../../../../_private/geo/Continent/Europe/Russia/City/Chodschent.private|Chodschent.private]] 

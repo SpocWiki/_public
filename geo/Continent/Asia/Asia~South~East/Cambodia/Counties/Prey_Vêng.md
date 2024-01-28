@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 11.4 , 105.5 ] 
 type: geo-Region
 title: Prey_Vêng
@@ -40,10 +40,11 @@ markerFolder: ./Prey_Vêng/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Asia/Asia~South~East/Cambodia/Counties/Prey_Vêng.md|Prey_Vêng]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~South~East/Cambodia/Counties/Prey_Vêng.internal|Prey_Vêng.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~South~East/Cambodia/Counties/Prey_Vêng.protect|Prey_Vêng.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~South~East/Cambodia/Counties/Prey_Vêng.private|Prey_Vêng.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~South~East/Cambodia/Counties/Prey_Vêng.personal|Prey_Vêng.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~South~East/Cambodia/Counties/Prey_Vêng.secret|Prey_Vêng.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South~East/Cambodia/Counties/Prey_Vêng|Prey_Vêng]] 
+- [[../../../../../../../_public/geo/Continent/Asia/Asia~South~East/Cambodia/Counties/Prey_Vêng.public|Prey_Vêng.public]] 
+- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South~East/Cambodia/Counties/Prey_Vêng.internal|Prey_Vêng.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South~East/Cambodia/Counties/Prey_Vêng.protect|Prey_Vêng.protect]] 
+- [[../../../../../../../_private/geo/Continent/Asia/Asia~South~East/Cambodia/Counties/Prey_Vêng.private|Prey_Vêng.private]] 
+- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South~East/Cambodia/Counties/Prey_Vêng.personal|Prey_Vêng.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South~East/Cambodia/Counties/Prey_Vêng.secret|Prey_Vêng.secret]] 
 

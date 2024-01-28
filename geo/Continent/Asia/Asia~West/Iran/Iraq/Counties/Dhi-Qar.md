@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 31.3 , 46.3 ] 
 type: geo-Region
 title: Dhi-Qar
@@ -40,10 +40,11 @@ markerFolder: ./Dhi-Qar/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Asia/Asia~West/Iran/Iraq/Counties/Dhi-Qar.md|Dhi-Qar]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~West/Iran/Iraq/Counties/Dhi-Qar.internal|Dhi-Qar.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~West/Iran/Iraq/Counties/Dhi-Qar.protect|Dhi-Qar.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~West/Iran/Iraq/Counties/Dhi-Qar.private|Dhi-Qar.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~West/Iran/Iraq/Counties/Dhi-Qar.personal|Dhi-Qar.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~West/Iran/Iraq/Counties/Dhi-Qar.secret|Dhi-Qar.secret]] 
+- [[../../../../../../../../_Standards/geo/Continent/Asia/Asia~West/Iran/Iraq/Counties/Dhi-Qar|Dhi-Qar]] 
+- [[../../../../../../../../_public/geo/Continent/Asia/Asia~West/Iran/Iraq/Counties/Dhi-Qar.public|Dhi-Qar.public]] 
+- [[../../../../../../../../_internal/geo/Continent/Asia/Asia~West/Iran/Iraq/Counties/Dhi-Qar.internal|Dhi-Qar.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Asia/Asia~West/Iran/Iraq/Counties/Dhi-Qar.protect|Dhi-Qar.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Asia/Asia~West/Iran/Iraq/Counties/Dhi-Qar.private|Dhi-Qar.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Asia/Asia~West/Iran/Iraq/Counties/Dhi-Qar.personal|Dhi-Qar.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Asia/Asia~West/Iran/Iraq/Counties/Dhi-Qar.secret|Dhi-Qar.secret]] 
 

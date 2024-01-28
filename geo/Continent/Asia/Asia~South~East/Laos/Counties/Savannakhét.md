@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 16.5 , 105.7 ] 
 type: geo-Region
 title: Savannakhét
@@ -40,10 +40,11 @@ markerFolder: ./Savannakhét/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Asia/Asia~South~East/Laos/Counties/Savannakhét.md|Savannakhét]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~South~East/Laos/Counties/Savannakhét.internal|Savannakhét.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~South~East/Laos/Counties/Savannakhét.protect|Savannakhét.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~South~East/Laos/Counties/Savannakhét.private|Savannakhét.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~South~East/Laos/Counties/Savannakhét.personal|Savannakhét.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~South~East/Laos/Counties/Savannakhét.secret|Savannakhét.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South~East/Laos/Counties/Savannakhét|Savannakhét]] 
+- [[../../../../../../../_public/geo/Continent/Asia/Asia~South~East/Laos/Counties/Savannakhét.public|Savannakhét.public]] 
+- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South~East/Laos/Counties/Savannakhét.internal|Savannakhét.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South~East/Laos/Counties/Savannakhét.protect|Savannakhét.protect]] 
+- [[../../../../../../../_private/geo/Continent/Asia/Asia~South~East/Laos/Counties/Savannakhét.private|Savannakhét.private]] 
+- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South~East/Laos/Counties/Savannakhét.personal|Savannakhét.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South~East/Laos/Counties/Savannakhét.secret|Savannakhét.secret]] 
 

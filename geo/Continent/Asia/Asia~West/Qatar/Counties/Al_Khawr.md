@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 25.8 , 51.3 ] 
 type: geo-Region
 title: Al_Khawr
@@ -40,10 +40,11 @@ markerFolder: ./Al_Khawr/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Asia/Asia~West/Qatar/Counties/Al_Khawr.md|Al_Khawr]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~West/Qatar/Counties/Al_Khawr.internal|Al_Khawr.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~West/Qatar/Counties/Al_Khawr.protect|Al_Khawr.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~West/Qatar/Counties/Al_Khawr.private|Al_Khawr.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~West/Qatar/Counties/Al_Khawr.personal|Al_Khawr.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~West/Qatar/Counties/Al_Khawr.secret|Al_Khawr.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~West/Qatar/Counties/Al_Khawr|Al_Khawr]] 
+- [[../../../../../../../_public/geo/Continent/Asia/Asia~West/Qatar/Counties/Al_Khawr.public|Al_Khawr.public]] 
+- [[../../../../../../../_internal/geo/Continent/Asia/Asia~West/Qatar/Counties/Al_Khawr.internal|Al_Khawr.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Asia/Asia~West/Qatar/Counties/Al_Khawr.protect|Al_Khawr.protect]] 
+- [[../../../../../../../_private/geo/Continent/Asia/Asia~West/Qatar/Counties/Al_Khawr.private|Al_Khawr.private]] 
+- [[../../../../../../../_personal/geo/Continent/Asia/Asia~West/Qatar/Counties/Al_Khawr.personal|Al_Khawr.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Asia/Asia~West/Qatar/Counties/Al_Khawr.secret|Al_Khawr.secret]] 
 

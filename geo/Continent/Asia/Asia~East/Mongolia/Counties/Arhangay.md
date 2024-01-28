@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 48 , 100.5 ] 
 type: geo-Region
 title: Arhangay
@@ -40,10 +40,11 @@ markerFolder: ./Arhangay/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Asia/Asia~East/Mongolia/Counties/Arhangay.md|Arhangay]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~East/Mongolia/Counties/Arhangay.internal|Arhangay.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~East/Mongolia/Counties/Arhangay.protect|Arhangay.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~East/Mongolia/Counties/Arhangay.private|Arhangay.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~East/Mongolia/Counties/Arhangay.personal|Arhangay.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~East/Mongolia/Counties/Arhangay.secret|Arhangay.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~East/Mongolia/Counties/Arhangay|Arhangay]] 
+- [[../../../../../../../_public/geo/Continent/Asia/Asia~East/Mongolia/Counties/Arhangay.public|Arhangay.public]] 
+- [[../../../../../../../_internal/geo/Continent/Asia/Asia~East/Mongolia/Counties/Arhangay.internal|Arhangay.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Asia/Asia~East/Mongolia/Counties/Arhangay.protect|Arhangay.protect]] 
+- [[../../../../../../../_private/geo/Continent/Asia/Asia~East/Mongolia/Counties/Arhangay.private|Arhangay.private]] 
+- [[../../../../../../../_personal/geo/Continent/Asia/Asia~East/Mongolia/Counties/Arhangay.personal|Arhangay.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Asia/Asia~East/Mongolia/Counties/Arhangay.secret|Arhangay.secret]] 
 

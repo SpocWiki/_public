@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 37.13 , 136.98 ] 
 type: geo-Region
 title: Ishikawa
@@ -40,10 +40,11 @@ markerFolder: ./Ishikawa/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Asia/Asia~East/Japan/Counties/Ishikawa.md|Ishikawa]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~East/Japan/Counties/Ishikawa.internal|Ishikawa.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~East/Japan/Counties/Ishikawa.protect|Ishikawa.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~East/Japan/Counties/Ishikawa.private|Ishikawa.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~East/Japan/Counties/Ishikawa.personal|Ishikawa.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~East/Japan/Counties/Ishikawa.secret|Ishikawa.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~East/Japan/Counties/Ishikawa|Ishikawa]] 
+- [[../../../../../../../_public/geo/Continent/Asia/Asia~East/Japan/Counties/Ishikawa.public|Ishikawa.public]] 
+- [[../../../../../../../_internal/geo/Continent/Asia/Asia~East/Japan/Counties/Ishikawa.internal|Ishikawa.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Asia/Asia~East/Japan/Counties/Ishikawa.protect|Ishikawa.protect]] 
+- [[../../../../../../../_private/geo/Continent/Asia/Asia~East/Japan/Counties/Ishikawa.private|Ishikawa.private]] 
+- [[../../../../../../../_personal/geo/Continent/Asia/Asia~East/Japan/Counties/Ishikawa.personal|Ishikawa.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Asia/Asia~East/Japan/Counties/Ishikawa.secret|Ishikawa.secret]] 
 

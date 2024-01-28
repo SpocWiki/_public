@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 10.8 , 104.3 ] 
 type: geo-Region
 title: Kâmpôt
@@ -40,10 +40,11 @@ markerFolder: ./Kâmpôt/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Asia/Asia~South~East/Cambodia/Counties/Kâmpôt.md|Kâmpôt]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~South~East/Cambodia/Counties/Kâmpôt.internal|Kâmpôt.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~South~East/Cambodia/Counties/Kâmpôt.protect|Kâmpôt.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~South~East/Cambodia/Counties/Kâmpôt.private|Kâmpôt.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~South~East/Cambodia/Counties/Kâmpôt.personal|Kâmpôt.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~South~East/Cambodia/Counties/Kâmpôt.secret|Kâmpôt.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South~East/Cambodia/Counties/Kâmpôt|Kâmpôt]] 
+- [[../../../../../../../_public/geo/Continent/Asia/Asia~South~East/Cambodia/Counties/Kâmpôt.public|Kâmpôt.public]] 
+- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South~East/Cambodia/Counties/Kâmpôt.internal|Kâmpôt.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South~East/Cambodia/Counties/Kâmpôt.protect|Kâmpôt.protect]] 
+- [[../../../../../../../_private/geo/Continent/Asia/Asia~South~East/Cambodia/Counties/Kâmpôt.private|Kâmpôt.private]] 
+- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South~East/Cambodia/Counties/Kâmpôt.personal|Kâmpôt.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South~East/Cambodia/Counties/Kâmpôt.secret|Kâmpôt.secret]] 
 

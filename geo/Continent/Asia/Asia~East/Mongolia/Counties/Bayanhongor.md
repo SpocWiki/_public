@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 45.1 , 99.8 ] 
 type: geo-Region
 title: Bayanhongor
@@ -40,10 +40,11 @@ markerFolder: ./Bayanhongor/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Asia/Asia~East/Mongolia/Counties/Bayanhongor.md|Bayanhongor]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~East/Mongolia/Counties/Bayanhongor.internal|Bayanhongor.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~East/Mongolia/Counties/Bayanhongor.protect|Bayanhongor.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~East/Mongolia/Counties/Bayanhongor.private|Bayanhongor.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~East/Mongolia/Counties/Bayanhongor.personal|Bayanhongor.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~East/Mongolia/Counties/Bayanhongor.secret|Bayanhongor.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~East/Mongolia/Counties/Bayanhongor|Bayanhongor]] 
+- [[../../../../../../../_public/geo/Continent/Asia/Asia~East/Mongolia/Counties/Bayanhongor.public|Bayanhongor.public]] 
+- [[../../../../../../../_internal/geo/Continent/Asia/Asia~East/Mongolia/Counties/Bayanhongor.internal|Bayanhongor.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Asia/Asia~East/Mongolia/Counties/Bayanhongor.protect|Bayanhongor.protect]] 
+- [[../../../../../../../_private/geo/Continent/Asia/Asia~East/Mongolia/Counties/Bayanhongor.private|Bayanhongor.private]] 
+- [[../../../../../../../_personal/geo/Continent/Asia/Asia~East/Mongolia/Counties/Bayanhongor.personal|Bayanhongor.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Asia/Asia~East/Mongolia/Counties/Bayanhongor.secret|Bayanhongor.secret]] 
 

@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 20.7 , 105.2 ] 
 type: geo-Region
 title: Hòa_Bình
@@ -40,10 +40,11 @@ markerFolder: ./Hòa_Bình/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Hòa_Bình.md|Hòa_Bình]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Hòa_Bình.internal|Hòa_Bình.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Hòa_Bình.protect|Hòa_Bình.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Hòa_Bình.private|Hòa_Bình.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Hòa_Bình.personal|Hòa_Bình.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Hòa_Bình.secret|Hòa_Bình.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Hòa_Bình|Hòa_Bình]] 
+- [[../../../../../../../_public/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Hòa_Bình.public|Hòa_Bình.public]] 
+- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Hòa_Bình.internal|Hòa_Bình.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Hòa_Bình.protect|Hòa_Bình.protect]] 
+- [[../../../../../../../_private/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Hòa_Bình.private|Hòa_Bình.private]] 
+- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Hòa_Bình.personal|Hòa_Bình.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Hòa_Bình.secret|Hòa_Bình.secret]] 
 

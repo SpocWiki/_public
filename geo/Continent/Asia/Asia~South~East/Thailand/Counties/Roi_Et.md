@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 15.9 , 103.8 ] 
 type: geo-Region
 title: Roi_Et
@@ -40,10 +40,11 @@ markerFolder: ./Roi_Et/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Roi_Et.md|Roi_Et]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Roi_Et.internal|Roi_Et.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Roi_Et.protect|Roi_Et.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Roi_Et.private|Roi_Et.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Roi_Et.personal|Roi_Et.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Roi_Et.secret|Roi_Et.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Roi_Et|Roi_Et]] 
+- [[../../../../../../../_public/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Roi_Et.public|Roi_Et.public]] 
+- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Roi_Et.internal|Roi_Et.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Roi_Et.protect|Roi_Et.protect]] 
+- [[../../../../../../../_private/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Roi_Et.private|Roi_Et.private]] 
+- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Roi_Et.personal|Roi_Et.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Roi_Et.secret|Roi_Et.secret]] 
 

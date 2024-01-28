@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 18.7 , 98.6 ] 
 type: geo-Region
 title: Chiang_Mai
@@ -40,10 +40,11 @@ markerFolder: ./Chiang_Mai/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Chiang_Mai.md|Chiang_Mai]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Chiang_Mai.internal|Chiang_Mai.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Chiang_Mai.protect|Chiang_Mai.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Chiang_Mai.private|Chiang_Mai.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Chiang_Mai.personal|Chiang_Mai.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Chiang_Mai.secret|Chiang_Mai.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Chiang_Mai|Chiang_Mai]] 
+- [[../../../../../../../_public/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Chiang_Mai.public|Chiang_Mai.public]] 
+- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Chiang_Mai.internal|Chiang_Mai.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Chiang_Mai.protect|Chiang_Mai.protect]] 
+- [[../../../../../../../_private/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Chiang_Mai.private|Chiang_Mai.private]] 
+- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Chiang_Mai.personal|Chiang_Mai.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Chiang_Mai.secret|Chiang_Mai.secret]] 
 

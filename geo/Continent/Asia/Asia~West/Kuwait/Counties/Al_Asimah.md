@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 29.43 , 48.34 ] 
 type: geo-Region
 title: Al_Asimah
@@ -40,10 +40,11 @@ markerFolder: ./Al_Asimah/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Asia/Asia~West/Kuwait/Counties/Al_Asimah.md|Al_Asimah]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~West/Kuwait/Counties/Al_Asimah.internal|Al_Asimah.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~West/Kuwait/Counties/Al_Asimah.protect|Al_Asimah.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~West/Kuwait/Counties/Al_Asimah.private|Al_Asimah.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~West/Kuwait/Counties/Al_Asimah.personal|Al_Asimah.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~West/Kuwait/Counties/Al_Asimah.secret|Al_Asimah.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~West/Kuwait/Counties/Al_Asimah|Al_Asimah]] 
+- [[../../../../../../../_public/geo/Continent/Asia/Asia~West/Kuwait/Counties/Al_Asimah.public|Al_Asimah.public]] 
+- [[../../../../../../../_internal/geo/Continent/Asia/Asia~West/Kuwait/Counties/Al_Asimah.internal|Al_Asimah.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Asia/Asia~West/Kuwait/Counties/Al_Asimah.protect|Al_Asimah.protect]] 
+- [[../../../../../../../_private/geo/Continent/Asia/Asia~West/Kuwait/Counties/Al_Asimah.private|Al_Asimah.private]] 
+- [[../../../../../../../_personal/geo/Continent/Asia/Asia~West/Kuwait/Counties/Al_Asimah.personal|Al_Asimah.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Asia/Asia~West/Kuwait/Counties/Al_Asimah.secret|Al_Asimah.secret]] 
 

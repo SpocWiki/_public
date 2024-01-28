@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 14.58 , 121.05 ] 
 type: geo-Region
 title: Mandaluyong_City
@@ -40,10 +40,11 @@ markerFolder: ./Mandaluyong_City/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Mandaluyong_City.md|Mandaluyong_City]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Mandaluyong_City.internal|Mandaluyong_City.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Mandaluyong_City.protect|Mandaluyong_City.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Mandaluyong_City.private|Mandaluyong_City.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Mandaluyong_City.personal|Mandaluyong_City.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Mandaluyong_City.secret|Mandaluyong_City.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Mandaluyong_City|Mandaluyong_City]] 
+- [[../../../../../../../_public/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Mandaluyong_City.public|Mandaluyong_City.public]] 
+- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Mandaluyong_City.internal|Mandaluyong_City.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Mandaluyong_City.protect|Mandaluyong_City.protect]] 
+- [[../../../../../../../_private/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Mandaluyong_City.private|Mandaluyong_City.private]] 
+- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Mandaluyong_City.personal|Mandaluyong_City.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Mandaluyong_City.secret|Mandaluyong_City.secret]] 
 

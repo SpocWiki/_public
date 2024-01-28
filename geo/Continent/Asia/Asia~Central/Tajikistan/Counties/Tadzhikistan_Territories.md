@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 38.8 , 69.3 ] 
 type: geo-Region
 title: Tadzhikistan_Territories
@@ -40,10 +40,11 @@ markerFolder: ./Tadzhikistan_Territories/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Asia/Asia~Central/Tajikistan/Counties/Tadzhikistan_Territories.md|Tadzhikistan_Territories]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~Central/Tajikistan/Counties/Tadzhikistan_Territories.internal|Tadzhikistan_Territories.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~Central/Tajikistan/Counties/Tadzhikistan_Territories.protect|Tadzhikistan_Territories.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~Central/Tajikistan/Counties/Tadzhikistan_Territories.private|Tadzhikistan_Territories.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~Central/Tajikistan/Counties/Tadzhikistan_Territories.personal|Tadzhikistan_Territories.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~Central/Tajikistan/Counties/Tadzhikistan_Territories.secret|Tadzhikistan_Territories.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~Central/Tajikistan/Counties/Tadzhikistan_Territories|Tadzhikistan_Territories]] 
+- [[../../../../../../../_public/geo/Continent/Asia/Asia~Central/Tajikistan/Counties/Tadzhikistan_Territories.public|Tadzhikistan_Territories.public]] 
+- [[../../../../../../../_internal/geo/Continent/Asia/Asia~Central/Tajikistan/Counties/Tadzhikistan_Territories.internal|Tadzhikistan_Territories.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Asia/Asia~Central/Tajikistan/Counties/Tadzhikistan_Territories.protect|Tadzhikistan_Territories.protect]] 
+- [[../../../../../../../_private/geo/Continent/Asia/Asia~Central/Tajikistan/Counties/Tadzhikistan_Territories.private|Tadzhikistan_Territories.private]] 
+- [[../../../../../../../_personal/geo/Continent/Asia/Asia~Central/Tajikistan/Counties/Tadzhikistan_Territories.personal|Tadzhikistan_Territories.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Asia/Asia~Central/Tajikistan/Counties/Tadzhikistan_Territories.secret|Tadzhikistan_Territories.secret]] 
 

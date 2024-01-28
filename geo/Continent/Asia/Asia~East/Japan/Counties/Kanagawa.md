@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 35.4 , 139.3 ] 
 type: geo-Region
 title: Kanagawa
@@ -40,10 +40,11 @@ markerFolder: ./Kanagawa/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Asia/Asia~East/Japan/Counties/Kanagawa.md|Kanagawa]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~East/Japan/Counties/Kanagawa.internal|Kanagawa.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~East/Japan/Counties/Kanagawa.protect|Kanagawa.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~East/Japan/Counties/Kanagawa.private|Kanagawa.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~East/Japan/Counties/Kanagawa.personal|Kanagawa.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~East/Japan/Counties/Kanagawa.secret|Kanagawa.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~East/Japan/Counties/Kanagawa|Kanagawa]] 
+- [[../../../../../../../_public/geo/Continent/Asia/Asia~East/Japan/Counties/Kanagawa.public|Kanagawa.public]] 
+- [[../../../../../../../_internal/geo/Continent/Asia/Asia~East/Japan/Counties/Kanagawa.internal|Kanagawa.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Asia/Asia~East/Japan/Counties/Kanagawa.protect|Kanagawa.protect]] 
+- [[../../../../../../../_private/geo/Continent/Asia/Asia~East/Japan/Counties/Kanagawa.private|Kanagawa.private]] 
+- [[../../../../../../../_personal/geo/Continent/Asia/Asia~East/Japan/Counties/Kanagawa.personal|Kanagawa.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Asia/Asia~East/Japan/Counties/Kanagawa.secret|Kanagawa.secret]] 
 

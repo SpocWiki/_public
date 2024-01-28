@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 37.7 , 112.4 ] 
 type: geo-Region
 title: Shanxi
@@ -40,10 +40,11 @@ markerFolder: ./Shanxi/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Asia/Asia~East/China/Counties/Shanxi.md|Shanxi]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~East/China/Counties/Shanxi.internal|Shanxi.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~East/China/Counties/Shanxi.protect|Shanxi.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~East/China/Counties/Shanxi.private|Shanxi.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~East/China/Counties/Shanxi.personal|Shanxi.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~East/China/Counties/Shanxi.secret|Shanxi.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~East/China/Counties/Shanxi|Shanxi]] 
+- [[../../../../../../../_public/geo/Continent/Asia/Asia~East/China/Counties/Shanxi.public|Shanxi.public]] 
+- [[../../../../../../../_internal/geo/Continent/Asia/Asia~East/China/Counties/Shanxi.internal|Shanxi.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Asia/Asia~East/China/Counties/Shanxi.protect|Shanxi.protect]] 
+- [[../../../../../../../_private/geo/Continent/Asia/Asia~East/China/Counties/Shanxi.private|Shanxi.private]] 
+- [[../../../../../../../_personal/geo/Continent/Asia/Asia~East/China/Counties/Shanxi.personal|Shanxi.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Asia/Asia~East/China/Counties/Shanxi.secret|Shanxi.secret]] 
 

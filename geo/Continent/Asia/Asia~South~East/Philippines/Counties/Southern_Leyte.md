@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 10.3 , 125.2 ] 
 type: geo-Region
 title: Southern_Leyte
@@ -40,10 +40,11 @@ markerFolder: ./Southern_Leyte/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Southern_Leyte.md|Southern_Leyte]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Southern_Leyte.internal|Southern_Leyte.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Southern_Leyte.protect|Southern_Leyte.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Southern_Leyte.private|Southern_Leyte.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Southern_Leyte.personal|Southern_Leyte.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Southern_Leyte.secret|Southern_Leyte.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Southern_Leyte|Southern_Leyte]] 
+- [[../../../../../../../_public/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Southern_Leyte.public|Southern_Leyte.public]] 
+- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Southern_Leyte.internal|Southern_Leyte.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Southern_Leyte.protect|Southern_Leyte.protect]] 
+- [[../../../../../../../_private/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Southern_Leyte.private|Southern_Leyte.private]] 
+- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Southern_Leyte.personal|Southern_Leyte.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Southern_Leyte.secret|Southern_Leyte.secret]] 
 

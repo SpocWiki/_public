@@ -1,5 +1,5 @@
 ﻿---
-location: [49.83,73.17]
+location: [49.83,73.17] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,27 +12,28 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::73.17]
-[geo-lat::49.83]
-[name::Karaganda]
-[State::]
-[Country::[[Russia]]]
-[StateId::]
-[Population::]
-[Unknown::]
+[geo-lon::73.17] 
+[geo-lat::49.83] 
+[name::Karaganda] 
+State ::  
+Country :: [[Russia]]  
+[StateId::] 
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Karaganda
-coordinates: [[Karaganda]]
-markerFile: [[Karaganda]]
+coordinates: [[Karaganda]] 
+markerFile: [[Karaganda]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_public/geo/Continent/Europe/Russia/City/Karaganda.md|Karaganda]] 
+- [[../../../../../../_Standards/geo/Continent/Europe/Russia/City/Karaganda|Karaganda]] 
+- [[../../../../../../_public/geo/Continent/Europe/Russia/City/Karaganda.public|Karaganda.public]] 
 - [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Karaganda.internal|Karaganda.internal]] 
 - [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Karaganda.protect|Karaganda.protect]] 
 - [[../../../../../../_private/geo/Continent/Europe/Russia/City/Karaganda.private|Karaganda.private]] 

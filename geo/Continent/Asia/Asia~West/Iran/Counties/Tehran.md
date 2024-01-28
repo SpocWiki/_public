@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 35.5 , 51.4 ] 
 type: geo-Region
 title: Tehran
@@ -40,10 +40,11 @@ markerFolder: ./Tehran/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Asia/Asia~West/Iran/Counties/Tehran.md|Tehran]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~West/Iran/Counties/Tehran.internal|Tehran.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~West/Iran/Counties/Tehran.protect|Tehran.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~West/Iran/Counties/Tehran.private|Tehran.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~West/Iran/Counties/Tehran.personal|Tehran.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~West/Iran/Counties/Tehran.secret|Tehran.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~West/Iran/Counties/Tehran|Tehran]] 
+- [[../../../../../../../_public/geo/Continent/Asia/Asia~West/Iran/Counties/Tehran.public|Tehran.public]] 
+- [[../../../../../../../_internal/geo/Continent/Asia/Asia~West/Iran/Counties/Tehran.internal|Tehran.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Asia/Asia~West/Iran/Counties/Tehran.protect|Tehran.protect]] 
+- [[../../../../../../../_private/geo/Continent/Asia/Asia~West/Iran/Counties/Tehran.private|Tehran.private]] 
+- [[../../../../../../../_personal/geo/Continent/Asia/Asia~West/Iran/Counties/Tehran.personal|Tehran.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Asia/Asia~West/Iran/Counties/Tehran.secret|Tehran.secret]] 
 

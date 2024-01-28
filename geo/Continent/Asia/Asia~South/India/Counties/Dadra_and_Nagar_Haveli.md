@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 20.2 , 73 ] 
 type: geo-Region
 title: Dadra_and_Nagar_Haveli
@@ -40,10 +40,11 @@ markerFolder: ./Dadra_and_Nagar_Haveli/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Asia/Asia~South/India/Counties/Dadra_and_Nagar_Haveli.md|Dadra_and_Nagar_Haveli]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~South/India/Counties/Dadra_and_Nagar_Haveli.internal|Dadra_and_Nagar_Haveli.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~South/India/Counties/Dadra_and_Nagar_Haveli.protect|Dadra_and_Nagar_Haveli.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~South/India/Counties/Dadra_and_Nagar_Haveli.private|Dadra_and_Nagar_Haveli.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~South/India/Counties/Dadra_and_Nagar_Haveli.personal|Dadra_and_Nagar_Haveli.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~South/India/Counties/Dadra_and_Nagar_Haveli.secret|Dadra_and_Nagar_Haveli.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South/India/Counties/Dadra_and_Nagar_Haveli|Dadra_and_Nagar_Haveli]] 
+- [[../../../../../../../_public/geo/Continent/Asia/Asia~South/India/Counties/Dadra_and_Nagar_Haveli.public|Dadra_and_Nagar_Haveli.public]] 
+- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South/India/Counties/Dadra_and_Nagar_Haveli.internal|Dadra_and_Nagar_Haveli.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South/India/Counties/Dadra_and_Nagar_Haveli.protect|Dadra_and_Nagar_Haveli.protect]] 
+- [[../../../../../../../_private/geo/Continent/Asia/Asia~South/India/Counties/Dadra_and_Nagar_Haveli.private|Dadra_and_Nagar_Haveli.private]] 
+- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South/India/Counties/Dadra_and_Nagar_Haveli.personal|Dadra_and_Nagar_Haveli.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South/India/Counties/Dadra_and_Nagar_Haveli.secret|Dadra_and_Nagar_Haveli.secret]] 
 

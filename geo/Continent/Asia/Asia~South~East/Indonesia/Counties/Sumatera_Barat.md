@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ -0.8 , 100.8 ] 
 type: geo-Region
 title: Sumatera_Barat
@@ -40,10 +40,11 @@ markerFolder: ./Sumatera_Barat/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Asia/Asia~South~East/Indonesia/Counties/Sumatera_Barat.md|Sumatera_Barat]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~South~East/Indonesia/Counties/Sumatera_Barat.internal|Sumatera_Barat.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~South~East/Indonesia/Counties/Sumatera_Barat.protect|Sumatera_Barat.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~South~East/Indonesia/Counties/Sumatera_Barat.private|Sumatera_Barat.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~South~East/Indonesia/Counties/Sumatera_Barat.personal|Sumatera_Barat.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~South~East/Indonesia/Counties/Sumatera_Barat.secret|Sumatera_Barat.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South~East/Indonesia/Counties/Sumatera_Barat|Sumatera_Barat]] 
+- [[../../../../../../../_public/geo/Continent/Asia/Asia~South~East/Indonesia/Counties/Sumatera_Barat.public|Sumatera_Barat.public]] 
+- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South~East/Indonesia/Counties/Sumatera_Barat.internal|Sumatera_Barat.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South~East/Indonesia/Counties/Sumatera_Barat.protect|Sumatera_Barat.protect]] 
+- [[../../../../../../../_private/geo/Continent/Asia/Asia~South~East/Indonesia/Counties/Sumatera_Barat.private|Sumatera_Barat.private]] 
+- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South~East/Indonesia/Counties/Sumatera_Barat.personal|Sumatera_Barat.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South~East/Indonesia/Counties/Sumatera_Barat.secret|Sumatera_Barat.secret]] 
 

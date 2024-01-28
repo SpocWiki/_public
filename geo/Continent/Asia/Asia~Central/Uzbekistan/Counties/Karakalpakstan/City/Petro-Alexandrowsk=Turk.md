@@ -1,5 +1,5 @@
 ﻿---
-location: [41.45,61.1]
+location: [41.45,61.1] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,27 +12,28 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::61.1]
-[geo-lat::41.45]
-[name::Petro-Alexandrowsk=Turk]
-[State::]
-[Country::[[Russia]]]
-[StateId::]
-[Population::]
-[Unknown::]
+[geo-lon::61.1] 
+[geo-lat::41.45] 
+[name::Petro-Alexandrowsk=Turk] 
+State ::  
+Country :: [[Russia]]  
+[StateId::] 
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Petro-Alexandrowsk=Turk
-coordinates: [[Petro-Alexandrowsk=Turk]]
-markerFile: [[Petro-Alexandrowsk=Turk]]
+coordinates: [[Petro-Alexandrowsk=Turk]] 
+markerFile: [[Petro-Alexandrowsk=Turk]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_public/geo/Continent/Europe/Russia/City/Petro-Alexandrowsk=Turk.md|Petro-Alexandrowsk=Turk]] 
+- [[../../../../../../_Standards/geo/Continent/Europe/Russia/City/Petro-Alexandrowsk=Turk|Petro-Alexandrowsk=Turk]] 
+- [[../../../../../../_public/geo/Continent/Europe/Russia/City/Petro-Alexandrowsk=Turk.public|Petro-Alexandrowsk=Turk.public]] 
 - [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Petro-Alexandrowsk=Turk.internal|Petro-Alexandrowsk=Turk.internal]] 
 - [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Petro-Alexandrowsk=Turk.protect|Petro-Alexandrowsk=Turk.protect]] 
 - [[../../../../../../_private/geo/Continent/Europe/Russia/City/Petro-Alexandrowsk=Turk.private|Petro-Alexandrowsk=Turk.private]] 

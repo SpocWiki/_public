@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 30.9 , 72.3 ] 
 type: geo-Region
 title: Punjab
@@ -40,10 +40,11 @@ markerFolder: ./Punjab/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Asia/Asia~South/Pakistan/Counties/Punjab.md|Punjab]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~South/Pakistan/Counties/Punjab.internal|Punjab.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~South/Pakistan/Counties/Punjab.protect|Punjab.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~South/Pakistan/Counties/Punjab.private|Punjab.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~South/Pakistan/Counties/Punjab.personal|Punjab.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~South/Pakistan/Counties/Punjab.secret|Punjab.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South/Pakistan/Counties/Punjab|Punjab]] 
+- [[../../../../../../../_public/geo/Continent/Asia/Asia~South/Pakistan/Counties/Punjab.public|Punjab.public]] 
+- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South/Pakistan/Counties/Punjab.internal|Punjab.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South/Pakistan/Counties/Punjab.protect|Punjab.protect]] 
+- [[../../../../../../../_private/geo/Continent/Asia/Asia~South/Pakistan/Counties/Punjab.private|Punjab.private]] 
+- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South/Pakistan/Counties/Punjab.personal|Punjab.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South/Pakistan/Counties/Punjab.secret|Punjab.secret]] 
 

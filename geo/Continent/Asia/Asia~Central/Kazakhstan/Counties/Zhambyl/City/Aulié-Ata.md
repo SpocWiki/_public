@@ -1,5 +1,5 @@
 ﻿---
-location: [42.9,71.38]
+location: [42.9,71.38] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,27 +12,28 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::71.38]
-[geo-lat::42.9]
-[name::Aulié-Ata]
-[State::]
-[Country::[[Russia]]]
-[StateId::]
-[Population::]
-[Unknown::]
+[geo-lon::71.38] 
+[geo-lat::42.9] 
+[name::Aulié-Ata] 
+State ::  
+Country :: [[Russia]]  
+[StateId::] 
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Aulié-Ata
-coordinates: [[Aulié-Ata]]
-markerFile: [[Aulié-Ata]]
+coordinates: [[Aulié-Ata]] 
+markerFile: [[Aulié-Ata]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_public/geo/Continent/Europe/Russia/City/Aulié-Ata.md|Aulié-Ata]] 
+- [[../../../../../../_Standards/geo/Continent/Europe/Russia/City/Aulié-Ata|Aulié-Ata]] 
+- [[../../../../../../_public/geo/Continent/Europe/Russia/City/Aulié-Ata.public|Aulié-Ata.public]] 
 - [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Aulié-Ata.internal|Aulié-Ata.internal]] 
 - [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Aulié-Ata.protect|Aulié-Ata.protect]] 
 - [[../../../../../../_private/geo/Continent/Europe/Russia/City/Aulié-Ata.private|Aulié-Ata.private]] 

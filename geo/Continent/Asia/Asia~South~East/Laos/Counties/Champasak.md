@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 14.7 , 105.9 ] 
 type: geo-Region
 title: Champasak
@@ -40,10 +40,11 @@ markerFolder: ./Champasak/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Asia/Asia~South~East/Laos/Counties/Champasak.md|Champasak]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~South~East/Laos/Counties/Champasak.internal|Champasak.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~South~East/Laos/Counties/Champasak.protect|Champasak.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~South~East/Laos/Counties/Champasak.private|Champasak.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~South~East/Laos/Counties/Champasak.personal|Champasak.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~South~East/Laos/Counties/Champasak.secret|Champasak.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South~East/Laos/Counties/Champasak|Champasak]] 
+- [[../../../../../../../_public/geo/Continent/Asia/Asia~South~East/Laos/Counties/Champasak.public|Champasak.public]] 
+- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South~East/Laos/Counties/Champasak.internal|Champasak.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South~East/Laos/Counties/Champasak.protect|Champasak.protect]] 
+- [[../../../../../../../_private/geo/Continent/Asia/Asia~South~East/Laos/Counties/Champasak.private|Champasak.private]] 
+- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South~East/Laos/Counties/Champasak.personal|Champasak.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South~East/Laos/Counties/Champasak.secret|Champasak.secret]] 
 

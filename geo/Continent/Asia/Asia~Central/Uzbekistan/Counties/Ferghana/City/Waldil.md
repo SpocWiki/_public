@@ -1,5 +1,5 @@
 ﻿---
-location: [40.17,71.7]
+location: [40.17,71.7] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,27 +12,28 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::71.7]
-[geo-lat::40.17]
-[name::Waldil]
-[State::]
-[Country::[[Russia]]]
-[StateId::]
-[Population::]
-[Unknown::]
+[geo-lon::71.7] 
+[geo-lat::40.17] 
+[name::Waldil] 
+State ::  
+Country :: [[Russia]]  
+[StateId::] 
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Waldil
-coordinates: [[Waldil]]
-markerFile: [[Waldil]]
+coordinates: [[Waldil]] 
+markerFile: [[Waldil]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_public/geo/Continent/Europe/Russia/City/Waldil.md|Waldil]] 
+- [[../../../../../../_Standards/geo/Continent/Europe/Russia/City/Waldil|Waldil]] 
+- [[../../../../../../_public/geo/Continent/Europe/Russia/City/Waldil.public|Waldil.public]] 
 - [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Waldil.internal|Waldil.internal]] 
 - [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Waldil.protect|Waldil.protect]] 
 - [[../../../../../../_private/geo/Continent/Europe/Russia/City/Waldil.private|Waldil.private]] 

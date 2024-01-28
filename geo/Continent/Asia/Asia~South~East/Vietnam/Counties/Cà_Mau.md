@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 9.1 , 105.1 ] 
 type: geo-Region
 title: Cà_Mau
@@ -40,10 +40,11 @@ markerFolder: ./Cà_Mau/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Cà_Mau.md|Cà_Mau]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Cà_Mau.internal|Cà_Mau.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Cà_Mau.protect|Cà_Mau.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Cà_Mau.private|Cà_Mau.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Cà_Mau.personal|Cà_Mau.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Cà_Mau.secret|Cà_Mau.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Cà_Mau|Cà_Mau]] 
+- [[../../../../../../../_public/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Cà_Mau.public|Cà_Mau.public]] 
+- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Cà_Mau.internal|Cà_Mau.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Cà_Mau.protect|Cà_Mau.protect]] 
+- [[../../../../../../../_private/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Cà_Mau.private|Cà_Mau.private]] 
+- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Cà_Mau.personal|Cà_Mau.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Cà_Mau.secret|Cà_Mau.secret]] 
 

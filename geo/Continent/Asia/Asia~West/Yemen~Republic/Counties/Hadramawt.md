@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 16.5 , 48.7 ] 
 type: geo-Region
 title: Hadramawt
@@ -40,10 +40,11 @@ markerFolder: ./Hadramawt/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Asia/Asia~West/Yemen~Republic/Counties/Hadramawt.md|Hadramawt]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~West/Yemen~Republic/Counties/Hadramawt.internal|Hadramawt.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~West/Yemen~Republic/Counties/Hadramawt.protect|Hadramawt.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~West/Yemen~Republic/Counties/Hadramawt.private|Hadramawt.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~West/Yemen~Republic/Counties/Hadramawt.personal|Hadramawt.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~West/Yemen~Republic/Counties/Hadramawt.secret|Hadramawt.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~West/Yemen~Republic/Counties/Hadramawt|Hadramawt]] 
+- [[../../../../../../../_public/geo/Continent/Asia/Asia~West/Yemen~Republic/Counties/Hadramawt.public|Hadramawt.public]] 
+- [[../../../../../../../_internal/geo/Continent/Asia/Asia~West/Yemen~Republic/Counties/Hadramawt.internal|Hadramawt.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Asia/Asia~West/Yemen~Republic/Counties/Hadramawt.protect|Hadramawt.protect]] 
+- [[../../../../../../../_private/geo/Continent/Asia/Asia~West/Yemen~Republic/Counties/Hadramawt.private|Hadramawt.private]] 
+- [[../../../../../../../_personal/geo/Continent/Asia/Asia~West/Yemen~Republic/Counties/Hadramawt.personal|Hadramawt.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Asia/Asia~West/Yemen~Republic/Counties/Hadramawt.secret|Hadramawt.secret]] 
 

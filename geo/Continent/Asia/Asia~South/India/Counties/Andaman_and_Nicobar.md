@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 12.5 , 92.9 ] 
 type: geo-Region
 title: Andaman_and_Nicobar
@@ -40,10 +40,11 @@ markerFolder: ./Andaman_and_Nicobar/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Asia/Asia~South/India/Counties/Andaman_and_Nicobar.md|Andaman_and_Nicobar]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~South/India/Counties/Andaman_and_Nicobar.internal|Andaman_and_Nicobar.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~South/India/Counties/Andaman_and_Nicobar.protect|Andaman_and_Nicobar.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~South/India/Counties/Andaman_and_Nicobar.private|Andaman_and_Nicobar.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~South/India/Counties/Andaman_and_Nicobar.personal|Andaman_and_Nicobar.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~South/India/Counties/Andaman_and_Nicobar.secret|Andaman_and_Nicobar.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South/India/Counties/Andaman_and_Nicobar|Andaman_and_Nicobar]] 
+- [[../../../../../../../_public/geo/Continent/Asia/Asia~South/India/Counties/Andaman_and_Nicobar.public|Andaman_and_Nicobar.public]] 
+- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South/India/Counties/Andaman_and_Nicobar.internal|Andaman_and_Nicobar.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South/India/Counties/Andaman_and_Nicobar.protect|Andaman_and_Nicobar.protect]] 
+- [[../../../../../../../_private/geo/Continent/Asia/Asia~South/India/Counties/Andaman_and_Nicobar.private|Andaman_and_Nicobar.private]] 
+- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South/India/Counties/Andaman_and_Nicobar.personal|Andaman_and_Nicobar.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South/India/Counties/Andaman_and_Nicobar.secret|Andaman_and_Nicobar.secret]] 
 

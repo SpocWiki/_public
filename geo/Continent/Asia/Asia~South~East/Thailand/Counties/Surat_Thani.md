@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 9.1 , 99.1 ] 
 type: geo-Region
 title: Surat_Thani
@@ -40,10 +40,11 @@ markerFolder: ./Surat_Thani/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Surat_Thani.md|Surat_Thani]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Surat_Thani.internal|Surat_Thani.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Surat_Thani.protect|Surat_Thani.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Surat_Thani.private|Surat_Thani.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Surat_Thani.personal|Surat_Thani.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Surat_Thani.secret|Surat_Thani.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Surat_Thani|Surat_Thani]] 
+- [[../../../../../../../_public/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Surat_Thani.public|Surat_Thani.public]] 
+- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Surat_Thani.internal|Surat_Thani.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Surat_Thani.protect|Surat_Thani.protect]] 
+- [[../../../../../../../_private/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Surat_Thani.private|Surat_Thani.private]] 
+- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Surat_Thani.personal|Surat_Thani.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Surat_Thani.secret|Surat_Thani.secret]] 
 

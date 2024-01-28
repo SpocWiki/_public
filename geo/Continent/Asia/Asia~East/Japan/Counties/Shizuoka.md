@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 35.1 , 138.2 ] 
 type: geo-Region
 title: Shizuoka
@@ -40,10 +40,11 @@ markerFolder: ./Shizuoka/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Asia/Asia~East/Japan/Counties/Shizuoka.md|Shizuoka]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~East/Japan/Counties/Shizuoka.internal|Shizuoka.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~East/Japan/Counties/Shizuoka.protect|Shizuoka.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~East/Japan/Counties/Shizuoka.private|Shizuoka.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~East/Japan/Counties/Shizuoka.personal|Shizuoka.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~East/Japan/Counties/Shizuoka.secret|Shizuoka.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~East/Japan/Counties/Shizuoka|Shizuoka]] 
+- [[../../../../../../../_public/geo/Continent/Asia/Asia~East/Japan/Counties/Shizuoka.public|Shizuoka.public]] 
+- [[../../../../../../../_internal/geo/Continent/Asia/Asia~East/Japan/Counties/Shizuoka.internal|Shizuoka.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Asia/Asia~East/Japan/Counties/Shizuoka.protect|Shizuoka.protect]] 
+- [[../../../../../../../_private/geo/Continent/Asia/Asia~East/Japan/Counties/Shizuoka.private|Shizuoka.private]] 
+- [[../../../../../../../_personal/geo/Continent/Asia/Asia~East/Japan/Counties/Shizuoka.personal|Shizuoka.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Asia/Asia~East/Japan/Counties/Shizuoka.secret|Shizuoka.secret]] 
 

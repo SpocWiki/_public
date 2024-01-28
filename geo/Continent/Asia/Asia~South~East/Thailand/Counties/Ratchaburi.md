@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 13.5 , 99.6 ] 
 type: geo-Region
 title: Ratchaburi
@@ -40,10 +40,11 @@ markerFolder: ./Ratchaburi/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Ratchaburi.md|Ratchaburi]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Ratchaburi.internal|Ratchaburi.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Ratchaburi.protect|Ratchaburi.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Ratchaburi.private|Ratchaburi.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Ratchaburi.personal|Ratchaburi.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Ratchaburi.secret|Ratchaburi.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Ratchaburi|Ratchaburi]] 
+- [[../../../../../../../_public/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Ratchaburi.public|Ratchaburi.public]] 
+- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Ratchaburi.internal|Ratchaburi.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Ratchaburi.protect|Ratchaburi.protect]] 
+- [[../../../../../../../_private/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Ratchaburi.private|Ratchaburi.private]] 
+- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Ratchaburi.personal|Ratchaburi.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Ratchaburi.secret|Ratchaburi.secret]] 
 

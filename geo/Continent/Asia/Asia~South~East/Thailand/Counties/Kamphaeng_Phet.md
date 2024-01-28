@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 16.3 , 99.5 ] 
 type: geo-Region
 title: Kamphaeng_Phet
@@ -40,10 +40,11 @@ markerFolder: ./Kamphaeng_Phet/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Kamphaeng_Phet.md|Kamphaeng_Phet]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Kamphaeng_Phet.internal|Kamphaeng_Phet.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Kamphaeng_Phet.protect|Kamphaeng_Phet.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Kamphaeng_Phet.private|Kamphaeng_Phet.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Kamphaeng_Phet.personal|Kamphaeng_Phet.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Kamphaeng_Phet.secret|Kamphaeng_Phet.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Kamphaeng_Phet|Kamphaeng_Phet]] 
+- [[../../../../../../../_public/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Kamphaeng_Phet.public|Kamphaeng_Phet.public]] 
+- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Kamphaeng_Phet.internal|Kamphaeng_Phet.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Kamphaeng_Phet.protect|Kamphaeng_Phet.protect]] 
+- [[../../../../../../../_private/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Kamphaeng_Phet.private|Kamphaeng_Phet.private]] 
+- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Kamphaeng_Phet.personal|Kamphaeng_Phet.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Kamphaeng_Phet.secret|Kamphaeng_Phet.secret]] 
 

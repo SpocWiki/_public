@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 27.7 , 89.8 ] 
 type: geo-Region
 title: Punakha
@@ -40,10 +40,11 @@ markerFolder: ./Punakha/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Asia/Asia~South/Bhutan/Counties/Punakha.md|Punakha]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~South/Bhutan/Counties/Punakha.internal|Punakha.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~South/Bhutan/Counties/Punakha.protect|Punakha.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~South/Bhutan/Counties/Punakha.private|Punakha.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~South/Bhutan/Counties/Punakha.personal|Punakha.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~South/Bhutan/Counties/Punakha.secret|Punakha.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South/Bhutan/Counties/Punakha|Punakha]] 
+- [[../../../../../../../_public/geo/Continent/Asia/Asia~South/Bhutan/Counties/Punakha.public|Punakha.public]] 
+- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South/Bhutan/Counties/Punakha.internal|Punakha.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South/Bhutan/Counties/Punakha.protect|Punakha.protect]] 
+- [[../../../../../../../_private/geo/Continent/Asia/Asia~South/Bhutan/Counties/Punakha.private|Punakha.private]] 
+- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South/Bhutan/Counties/Punakha.personal|Punakha.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South/Bhutan/Counties/Punakha.secret|Punakha.secret]] 
 

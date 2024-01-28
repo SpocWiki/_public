@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 26 , 50.5 ] 
 type: geo-Region
 title: Al_Janūbīyah
@@ -40,10 +40,11 @@ markerFolder: ./Al_Janūbīyah/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Asia/Asia~West/Bahrain/Counties/Al_Janūbīyah.md|Al_Janūbīyah]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~West/Bahrain/Counties/Al_Janūbīyah.internal|Al_Janūbīyah.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~West/Bahrain/Counties/Al_Janūbīyah.protect|Al_Janūbīyah.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~West/Bahrain/Counties/Al_Janūbīyah.private|Al_Janūbīyah.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~West/Bahrain/Counties/Al_Janūbīyah.personal|Al_Janūbīyah.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~West/Bahrain/Counties/Al_Janūbīyah.secret|Al_Janūbīyah.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~West/Bahrain/Counties/Al_Janūbīyah|Al_Janūbīyah]] 
+- [[../../../../../../../_public/geo/Continent/Asia/Asia~West/Bahrain/Counties/Al_Janūbīyah.public|Al_Janūbīyah.public]] 
+- [[../../../../../../../_internal/geo/Continent/Asia/Asia~West/Bahrain/Counties/Al_Janūbīyah.internal|Al_Janūbīyah.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Asia/Asia~West/Bahrain/Counties/Al_Janūbīyah.protect|Al_Janūbīyah.protect]] 
+- [[../../../../../../../_private/geo/Continent/Asia/Asia~West/Bahrain/Counties/Al_Janūbīyah.private|Al_Janūbīyah.private]] 
+- [[../../../../../../../_personal/geo/Continent/Asia/Asia~West/Bahrain/Counties/Al_Janūbīyah.personal|Al_Janūbīyah.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Asia/Asia~West/Bahrain/Counties/Al_Janūbīyah.secret|Al_Janūbīyah.secret]] 
 

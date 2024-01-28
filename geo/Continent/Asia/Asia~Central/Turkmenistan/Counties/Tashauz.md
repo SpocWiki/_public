@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 41.2 , 58.8 ] 
 type: geo-Region
 title: Tashauz
@@ -40,10 +40,11 @@ markerFolder: ./Tashauz/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Asia/Asia~Central/Turkmenistan/Counties/Tashauz.md|Tashauz]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~Central/Turkmenistan/Counties/Tashauz.internal|Tashauz.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~Central/Turkmenistan/Counties/Tashauz.protect|Tashauz.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~Central/Turkmenistan/Counties/Tashauz.private|Tashauz.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~Central/Turkmenistan/Counties/Tashauz.personal|Tashauz.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~Central/Turkmenistan/Counties/Tashauz.secret|Tashauz.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~Central/Turkmenistan/Counties/Tashauz|Tashauz]] 
+- [[../../../../../../../_public/geo/Continent/Asia/Asia~Central/Turkmenistan/Counties/Tashauz.public|Tashauz.public]] 
+- [[../../../../../../../_internal/geo/Continent/Asia/Asia~Central/Turkmenistan/Counties/Tashauz.internal|Tashauz.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Asia/Asia~Central/Turkmenistan/Counties/Tashauz.protect|Tashauz.protect]] 
+- [[../../../../../../../_private/geo/Continent/Asia/Asia~Central/Turkmenistan/Counties/Tashauz.private|Tashauz.private]] 
+- [[../../../../../../../_personal/geo/Continent/Asia/Asia~Central/Turkmenistan/Counties/Tashauz.personal|Tashauz.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Asia/Asia~Central/Turkmenistan/Counties/Tashauz.secret|Tashauz.secret]] 
 

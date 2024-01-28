@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 20.8 , 106.6 ] 
 type: geo-Region
 title: Hải_Phòng
@@ -40,10 +40,11 @@ markerFolder: ./Hải_Phòng/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Hải_Phòng.md|Hải_Phòng]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Hải_Phòng.internal|Hải_Phòng.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Hải_Phòng.protect|Hải_Phòng.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Hải_Phòng.private|Hải_Phòng.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Hải_Phòng.personal|Hải_Phòng.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Hải_Phòng.secret|Hải_Phòng.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Hải_Phòng|Hải_Phòng]] 
+- [[../../../../../../../_public/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Hải_Phòng.public|Hải_Phòng.public]] 
+- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Hải_Phòng.internal|Hải_Phòng.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Hải_Phòng.protect|Hải_Phòng.protect]] 
+- [[../../../../../../../_private/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Hải_Phòng.private|Hải_Phòng.private]] 
+- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Hải_Phòng.personal|Hải_Phòng.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Hải_Phòng.secret|Hải_Phòng.secret]] 
 

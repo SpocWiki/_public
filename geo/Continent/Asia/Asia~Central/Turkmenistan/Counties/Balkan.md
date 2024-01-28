@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 39.8 , 55.3 ] 
 type: geo-Region
 title: Balkan
@@ -40,10 +40,11 @@ markerFolder: ./Balkan/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Asia/Asia~Central/Turkmenistan/Counties/Balkan.md|Balkan]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~Central/Turkmenistan/Counties/Balkan.internal|Balkan.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~Central/Turkmenistan/Counties/Balkan.protect|Balkan.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~Central/Turkmenistan/Counties/Balkan.private|Balkan.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~Central/Turkmenistan/Counties/Balkan.personal|Balkan.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~Central/Turkmenistan/Counties/Balkan.secret|Balkan.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~Central/Turkmenistan/Counties/Balkan|Balkan]] 
+- [[../../../../../../../_public/geo/Continent/Asia/Asia~Central/Turkmenistan/Counties/Balkan.public|Balkan.public]] 
+- [[../../../../../../../_internal/geo/Continent/Asia/Asia~Central/Turkmenistan/Counties/Balkan.internal|Balkan.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Asia/Asia~Central/Turkmenistan/Counties/Balkan.protect|Balkan.protect]] 
+- [[../../../../../../../_private/geo/Continent/Asia/Asia~Central/Turkmenistan/Counties/Balkan.private|Balkan.private]] 
+- [[../../../../../../../_personal/geo/Continent/Asia/Asia~Central/Turkmenistan/Counties/Balkan.personal|Balkan.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Asia/Asia~Central/Turkmenistan/Counties/Balkan.secret|Balkan.secret]] 
 

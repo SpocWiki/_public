@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 27.1 , 87.8 ] 
 type: geo-Region
 title: Mechi
@@ -40,10 +40,11 @@ markerFolder: ./Mechi/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Asia/Asia~South/Nepal/Counties/Mechi.md|Mechi]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~South/Nepal/Counties/Mechi.internal|Mechi.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~South/Nepal/Counties/Mechi.protect|Mechi.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~South/Nepal/Counties/Mechi.private|Mechi.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~South/Nepal/Counties/Mechi.personal|Mechi.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~South/Nepal/Counties/Mechi.secret|Mechi.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South/Nepal/Counties/Mechi|Mechi]] 
+- [[../../../../../../../_public/geo/Continent/Asia/Asia~South/Nepal/Counties/Mechi.public|Mechi.public]] 
+- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South/Nepal/Counties/Mechi.internal|Mechi.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South/Nepal/Counties/Mechi.protect|Mechi.protect]] 
+- [[../../../../../../../_private/geo/Continent/Asia/Asia~South/Nepal/Counties/Mechi.private|Mechi.private]] 
+- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South/Nepal/Counties/Mechi.personal|Mechi.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South/Nepal/Counties/Mechi.secret|Mechi.secret]] 
 

@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 32.7 , 51.5 ] 
 type: geo-Region
 title: Esfahan
@@ -40,10 +40,11 @@ markerFolder: ./Esfahan/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Asia/Asia~West/Iran/Counties/Esfahan.md|Esfahan]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~West/Iran/Counties/Esfahan.internal|Esfahan.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~West/Iran/Counties/Esfahan.protect|Esfahan.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~West/Iran/Counties/Esfahan.private|Esfahan.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~West/Iran/Counties/Esfahan.personal|Esfahan.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~West/Iran/Counties/Esfahan.secret|Esfahan.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~West/Iran/Counties/Esfahan|Esfahan]] 
+- [[../../../../../../../_public/geo/Continent/Asia/Asia~West/Iran/Counties/Esfahan.public|Esfahan.public]] 
+- [[../../../../../../../_internal/geo/Continent/Asia/Asia~West/Iran/Counties/Esfahan.internal|Esfahan.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Asia/Asia~West/Iran/Counties/Esfahan.protect|Esfahan.protect]] 
+- [[../../../../../../../_private/geo/Continent/Asia/Asia~West/Iran/Counties/Esfahan.private|Esfahan.private]] 
+- [[../../../../../../../_personal/geo/Continent/Asia/Asia~West/Iran/Counties/Esfahan.personal|Esfahan.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Asia/Asia~West/Iran/Counties/Esfahan.secret|Esfahan.secret]] 
 

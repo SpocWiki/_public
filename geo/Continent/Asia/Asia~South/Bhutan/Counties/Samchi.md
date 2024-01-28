@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 27 , 89.1 ] 
 type: geo-Region
 title: Samchi
@@ -40,10 +40,11 @@ markerFolder: ./Samchi/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Asia/Asia~South/Bhutan/Counties/Samchi.md|Samchi]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~South/Bhutan/Counties/Samchi.internal|Samchi.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~South/Bhutan/Counties/Samchi.protect|Samchi.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~South/Bhutan/Counties/Samchi.private|Samchi.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~South/Bhutan/Counties/Samchi.personal|Samchi.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~South/Bhutan/Counties/Samchi.secret|Samchi.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South/Bhutan/Counties/Samchi|Samchi]] 
+- [[../../../../../../../_public/geo/Continent/Asia/Asia~South/Bhutan/Counties/Samchi.public|Samchi.public]] 
+- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South/Bhutan/Counties/Samchi.internal|Samchi.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South/Bhutan/Counties/Samchi.protect|Samchi.protect]] 
+- [[../../../../../../../_private/geo/Continent/Asia/Asia~South/Bhutan/Counties/Samchi.private|Samchi.private]] 
+- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South/Bhutan/Counties/Samchi.personal|Samchi.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South/Bhutan/Counties/Samchi.secret|Samchi.secret]] 
 

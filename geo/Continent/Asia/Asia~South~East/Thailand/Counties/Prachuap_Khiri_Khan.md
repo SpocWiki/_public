@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 11.8 , 99.7 ] 
 type: geo-Region
 title: Prachuap_Khiri_Khan
@@ -40,10 +40,11 @@ markerFolder: ./Prachuap_Khiri_Khan/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Prachuap_Khiri_Khan.md|Prachuap_Khiri_Khan]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Prachuap_Khiri_Khan.internal|Prachuap_Khiri_Khan.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Prachuap_Khiri_Khan.protect|Prachuap_Khiri_Khan.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Prachuap_Khiri_Khan.private|Prachuap_Khiri_Khan.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Prachuap_Khiri_Khan.personal|Prachuap_Khiri_Khan.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Prachuap_Khiri_Khan.secret|Prachuap_Khiri_Khan.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Prachuap_Khiri_Khan|Prachuap_Khiri_Khan]] 
+- [[../../../../../../../_public/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Prachuap_Khiri_Khan.public|Prachuap_Khiri_Khan.public]] 
+- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Prachuap_Khiri_Khan.internal|Prachuap_Khiri_Khan.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Prachuap_Khiri_Khan.protect|Prachuap_Khiri_Khan.protect]] 
+- [[../../../../../../../_private/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Prachuap_Khiri_Khan.private|Prachuap_Khiri_Khan.private]] 
+- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Prachuap_Khiri_Khan.personal|Prachuap_Khiri_Khan.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Prachuap_Khiri_Khan.secret|Prachuap_Khiri_Khan.secret]] 
 

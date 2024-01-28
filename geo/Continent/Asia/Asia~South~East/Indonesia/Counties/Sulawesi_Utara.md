@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 1 , 124.6 ] 
 type: geo-Region
 title: Sulawesi_Utara
@@ -40,10 +40,11 @@ markerFolder: ./Sulawesi_Utara/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Asia/Asia~South~East/Indonesia/Counties/Sulawesi_Utara.md|Sulawesi_Utara]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~South~East/Indonesia/Counties/Sulawesi_Utara.internal|Sulawesi_Utara.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~South~East/Indonesia/Counties/Sulawesi_Utara.protect|Sulawesi_Utara.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~South~East/Indonesia/Counties/Sulawesi_Utara.private|Sulawesi_Utara.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~South~East/Indonesia/Counties/Sulawesi_Utara.personal|Sulawesi_Utara.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~South~East/Indonesia/Counties/Sulawesi_Utara.secret|Sulawesi_Utara.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South~East/Indonesia/Counties/Sulawesi_Utara|Sulawesi_Utara]] 
+- [[../../../../../../../_public/geo/Continent/Asia/Asia~South~East/Indonesia/Counties/Sulawesi_Utara.public|Sulawesi_Utara.public]] 
+- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South~East/Indonesia/Counties/Sulawesi_Utara.internal|Sulawesi_Utara.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South~East/Indonesia/Counties/Sulawesi_Utara.protect|Sulawesi_Utara.protect]] 
+- [[../../../../../../../_private/geo/Continent/Asia/Asia~South~East/Indonesia/Counties/Sulawesi_Utara.private|Sulawesi_Utara.private]] 
+- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South~East/Indonesia/Counties/Sulawesi_Utara.personal|Sulawesi_Utara.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South~East/Indonesia/Counties/Sulawesi_Utara.secret|Sulawesi_Utara.secret]] 
 

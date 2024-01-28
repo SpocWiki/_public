@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 9.7 , 80.1 ] 
 type: geo-Region
 title: Yāpanaya
@@ -40,10 +40,11 @@ markerFolder: ./Yāpanaya/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Asia/Asia~South/Sri_Lanka/Counties/Yāpanaya.md|Yāpanaya]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~South/Sri_Lanka/Counties/Yāpanaya.internal|Yāpanaya.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~South/Sri_Lanka/Counties/Yāpanaya.protect|Yāpanaya.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~South/Sri_Lanka/Counties/Yāpanaya.private|Yāpanaya.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~South/Sri_Lanka/Counties/Yāpanaya.personal|Yāpanaya.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~South/Sri_Lanka/Counties/Yāpanaya.secret|Yāpanaya.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South/Sri_Lanka/Counties/Yāpanaya|Yāpanaya]] 
+- [[../../../../../../../_public/geo/Continent/Asia/Asia~South/Sri_Lanka/Counties/Yāpanaya.public|Yāpanaya.public]] 
+- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South/Sri_Lanka/Counties/Yāpanaya.internal|Yāpanaya.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South/Sri_Lanka/Counties/Yāpanaya.protect|Yāpanaya.protect]] 
+- [[../../../../../../../_private/geo/Continent/Asia/Asia~South/Sri_Lanka/Counties/Yāpanaya.private|Yāpanaya.private]] 
+- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South/Sri_Lanka/Counties/Yāpanaya.personal|Yāpanaya.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South/Sri_Lanka/Counties/Yāpanaya.secret|Yāpanaya.secret]] 
 

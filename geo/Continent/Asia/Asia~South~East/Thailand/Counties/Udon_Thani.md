@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 17.5 , 102.8 ] 
 type: geo-Region
 title: Udon_Thani
@@ -40,10 +40,11 @@ markerFolder: ./Udon_Thani/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Udon_Thani.md|Udon_Thani]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Udon_Thani.internal|Udon_Thani.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Udon_Thani.protect|Udon_Thani.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Udon_Thani.private|Udon_Thani.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Udon_Thani.personal|Udon_Thani.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Udon_Thani.secret|Udon_Thani.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Udon_Thani|Udon_Thani]] 
+- [[../../../../../../../_public/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Udon_Thani.public|Udon_Thani.public]] 
+- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Udon_Thani.internal|Udon_Thani.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Udon_Thani.protect|Udon_Thani.protect]] 
+- [[../../../../../../../_private/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Udon_Thani.private|Udon_Thani.private]] 
+- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Udon_Thani.personal|Udon_Thani.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Udon_Thani.secret|Udon_Thani.secret]] 
 

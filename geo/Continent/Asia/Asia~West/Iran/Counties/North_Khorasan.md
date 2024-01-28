@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 37.5 , 57.1 ] 
 type: geo-Region
 title: North_Khorasan
@@ -40,10 +40,11 @@ markerFolder: ./North_Khorasan/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Asia/Asia~West/Iran/Counties/North_Khorasan.md|North_Khorasan]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~West/Iran/Counties/North_Khorasan.internal|North_Khorasan.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~West/Iran/Counties/North_Khorasan.protect|North_Khorasan.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~West/Iran/Counties/North_Khorasan.private|North_Khorasan.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~West/Iran/Counties/North_Khorasan.personal|North_Khorasan.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~West/Iran/Counties/North_Khorasan.secret|North_Khorasan.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~West/Iran/Counties/North_Khorasan|North_Khorasan]] 
+- [[../../../../../../../_public/geo/Continent/Asia/Asia~West/Iran/Counties/North_Khorasan.public|North_Khorasan.public]] 
+- [[../../../../../../../_internal/geo/Continent/Asia/Asia~West/Iran/Counties/North_Khorasan.internal|North_Khorasan.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Asia/Asia~West/Iran/Counties/North_Khorasan.protect|North_Khorasan.protect]] 
+- [[../../../../../../../_private/geo/Continent/Asia/Asia~West/Iran/Counties/North_Khorasan.private|North_Khorasan.private]] 
+- [[../../../../../../../_personal/geo/Continent/Asia/Asia~West/Iran/Counties/North_Khorasan.personal|North_Khorasan.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Asia/Asia~West/Iran/Counties/North_Khorasan.secret|North_Khorasan.secret]] 
 

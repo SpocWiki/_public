@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 35 , 137.3 ] 
 type: geo-Region
 title: Aichi
@@ -40,10 +40,11 @@ markerFolder: ./Aichi/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Asia/Asia~East/Japan/Counties/Aichi.md|Aichi]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~East/Japan/Counties/Aichi.internal|Aichi.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~East/Japan/Counties/Aichi.protect|Aichi.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~East/Japan/Counties/Aichi.private|Aichi.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~East/Japan/Counties/Aichi.personal|Aichi.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~East/Japan/Counties/Aichi.secret|Aichi.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~East/Japan/Counties/Aichi|Aichi]] 
+- [[../../../../../../../_public/geo/Continent/Asia/Asia~East/Japan/Counties/Aichi.public|Aichi.public]] 
+- [[../../../../../../../_internal/geo/Continent/Asia/Asia~East/Japan/Counties/Aichi.internal|Aichi.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Asia/Asia~East/Japan/Counties/Aichi.protect|Aichi.protect]] 
+- [[../../../../../../../_private/geo/Continent/Asia/Asia~East/Japan/Counties/Aichi.private|Aichi.private]] 
+- [[../../../../../../../_personal/geo/Continent/Asia/Asia~East/Japan/Counties/Aichi.personal|Aichi.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Asia/Asia~East/Japan/Counties/Aichi.secret|Aichi.secret]] 
 

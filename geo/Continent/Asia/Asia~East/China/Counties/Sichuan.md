@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 30 , 102 ] 
 type: geo-Region
 title: Sichuan
@@ -40,10 +40,11 @@ markerFolder: ./Sichuan/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Asia/Asia~East/China/Counties/Sichuan.md|Sichuan]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~East/China/Counties/Sichuan.internal|Sichuan.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~East/China/Counties/Sichuan.protect|Sichuan.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~East/China/Counties/Sichuan.private|Sichuan.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~East/China/Counties/Sichuan.personal|Sichuan.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~East/China/Counties/Sichuan.secret|Sichuan.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~East/China/Counties/Sichuan|Sichuan]] 
+- [[../../../../../../../_public/geo/Continent/Asia/Asia~East/China/Counties/Sichuan.public|Sichuan.public]] 
+- [[../../../../../../../_internal/geo/Continent/Asia/Asia~East/China/Counties/Sichuan.internal|Sichuan.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Asia/Asia~East/China/Counties/Sichuan.protect|Sichuan.protect]] 
+- [[../../../../../../../_private/geo/Continent/Asia/Asia~East/China/Counties/Sichuan.private|Sichuan.private]] 
+- [[../../../../../../../_personal/geo/Continent/Asia/Asia~East/China/Counties/Sichuan.personal|Sichuan.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Asia/Asia~East/China/Counties/Sichuan.secret|Sichuan.secret]] 
 

@@ -1,4 +1,4 @@
-﻿---
+---
 location:
 - 34.175
 - 51.555
@@ -38,73 +38,73 @@ Languages:
 ---
 
 
-[	ISO4217-currency_alphabetic	 :: IRR ]
-[	ISO4217-currency_name	 :: Iranian Rial ]
-[	ISO4217-currency_numeric	 :: 364 ]
-[	ISO4217-currency_minor_unit	 :: 2 ]
-[	ISO4217-currency_country_name	 :: IRAN (ISLAMIC REPUBLIC OF) ]
+[	ISO4217-currency_alphabetic	 :: IRR ] 
+[	ISO4217-currency_name	 :: Iranian Rial ] 
+[	ISO4217-currency_numeric	 :: 364 ] 
+[	ISO4217-currency_minor_unit	 :: 2 ] 
+[	ISO4217-currency_country_name	 :: IRAN (ISLAMIC REPUBLIC OF) ] 
 
-[	Telephone	 :: 98 ]
+[	Telephone	 :: 98 ] 
 
-[	Global	 :: True ]
-[	Global_Name	 :: World ]
+[	Global	 :: True ] 
+[	Global_Name	 :: World ] 
 
-[	name	 :: Iran ]
-[	name-en	 :: Iran (Islamic Republic of) ]
-[	name-es	 :: Irán (República Islámica del) ]
-[	name-fr	 :: Iran (République islamique d') ]
-[	name-cn	 :: 伊朗(伊斯兰共和国) ]
-[	name-ar	 :: إيران (جمهورية - الإسلامية) ]
-[	name-ru	 :: Иран (Исламская Республика) ]
+[	name	 :: Iran ] 
+[	name-en	 :: Iran (Islamic Republic of) ] 
+[	name-es	 :: Irán (República Islámica del) ] 
+[	name-fr	 :: Iran (République islamique d') ] 
+[	name-cn	 :: 伊朗(伊斯兰共和国) ] 
+[	name-ar	 :: إيران (جمهورية - الإسلامية) ] 
+[	name-ru	 :: Иран (Исламская Республика) ] 
 
-[	CLDR_display_name	 :: Iran ]
+[	CLDR_display_name	 :: Iran ] 
 
-[	UNTERM_English	 :: Iran (Islamic Republic of) ]
-[	UNTERM_English_Formal	 :: the Islamic Republic of Iran ]
-[	UNTERM_Spanish_Formal	 :: la República Islámica del Irán ]
-[	UNTERM_Spanish	 :: Irán (República Islámica del) ]
-[	UNTERM_French	 :: Iran (République islamique d') ]
-[	UNTERM_Arabic	 :: إيران (جمهورية - الإسلامية) ]
-[	UNTERM_Arabic_Formal	 :: جمهورية إيران الإسلامية ]
-[	UNTERM_Chinese	 :: 伊朗（伊斯兰共和国） ]
-[	UNTERM_Chinese_Formal	 :: 伊朗伊斯兰共和国 ]
-[	UNTERM_French_Formal	 :: la République islamique d'Iran ]
-[	UNTERM_Russian	 :: Иран (Исламская Республика) ]
-[	UNTERM_Russian_Formal	 :: Исламская Республика Иран ]
+[	UNTERM_English	 :: Iran (Islamic Republic of) ] 
+[	UNTERM_English_Formal	 :: the Islamic Republic of Iran ] 
+[	UNTERM_Spanish_Formal	 :: la República Islámica del Irán ] 
+[	UNTERM_Spanish	 :: Irán (República Islámica del) ] 
+[	UNTERM_French	 :: Iran (République islamique d') ] 
+[	UNTERM_Arabic	 :: إيران (جمهورية - الإسلامية) ] 
+[	UNTERM_Arabic_Formal	 :: جمهورية إيران الإسلامية ] 
+[	UNTERM_Chinese	 :: 伊朗（伊斯兰共和国） ] 
+[	UNTERM_Chinese_Formal	 :: 伊朗伊斯兰共和国 ] 
+[	UNTERM_French_Formal	 :: la République islamique d'Iran ] 
+[	UNTERM_Russian	 :: Иран (Исламская Республика) ] 
+[	UNTERM_Russian_Formal	 :: Исламская Республика Иран ] 
 
-[	Region_Name	 :: [[Asia]] ]
-[	Intermediate_Region_Name	 :: [[]] ]
-[	Sub-region_Name	 :: [[Southern Asia]] ]
+Region_Name ::  [[Asia]] ] 
+Intermediate_Region_Name ::  [[]] ] 
+Sub-region_Name ::  [[Southern Asia]] ] 
 
-[	Region	 :: 142 ]
-[	Intermediate_Region	 ::  ]
-[	Sub-region	 :: 34 ]
+[	Region	 :: 142 ] 
+[	Intermediate_Region	 ::  ] 
+[	Sub-region	 :: 34 ] 
 
-[	Geoname-ID	 :: 130758 ]
-[	FIPS	 :: IR ]
-[	FIFA	 :: IRN ]
-[	IOC	 :: IRI ]
-[	MARC	 :: ir ]
-[	GAUL	 :: 117 ]
-[	WMO	 :: IR ]
-[	ITU	 :: IRN ]
-[	DS	 :: IR ]
-[	TLD	 :: .ir ]
-[	EDGAR	 ::  ]
-[	M49	 :: 364 ]
+[	Geoname-ID	 :: 130758 ] 
+[	FIPS	 :: IR ] 
+[	FIFA	 :: IRN ] 
+[	IOC	 :: IRI ] 
+[	MARC	 :: ir ] 
+[	GAUL	 :: 117 ] 
+[	WMO	 :: IR ] 
+[	ITU	 :: IRN ] 
+[	DS	 :: IR ] 
+[	TLD	 :: .ir ] 
+[	EDGAR	 ::  ] 
+[	M49	 :: 364 ] 
 
-[	is_independent	 :: Yes ]
-[	Developed_/_Developing_Countries	 :: Developing ]
-[	Land_Locked_Developing_Countries_(LLDC)	 ::  ]
-[	Least_Developed_Countries_(LDC)	 ::  ]
-[	Small_Island_Developing_States_(SIDS)	 ::  ]
+[	is_independent	 :: Yes ] 
+[	Developed_/_Developing_Countries	 :: Developing ] 
+[	Land_Locked_Developing_Countries_(LLDC)	 ::  ] 
+[	Least_Developed_Countries_(LDC)	 ::  ] 
+[	Small_Island_Developing_States_(SIDS)	 ::  ] 
 
-[	ISO3166-1-numeric	 :: 364 ]
+[	ISO3166-1-numeric	 :: 364 ] 
 
 
 
-[ISO2::IR]
-[ISO3::IRN]
+[ISO2::IR] 
+[ISO3::IRN] 
 ```leaflet
 id: Iran
 zoomFeatures: true 
@@ -114,28 +114,28 @@ geojsonFolder: ./Iran/
 markerFolder: ./Iran/
 ```
 
-[name-en::Iran]
-[name-de::Iran (Islamic Republic of)]
-![[Iran/Emblem_of_Iran.svg|350]]]
+[name-en::Iran] 
+[name-de::Iran (Islamic Republic of)] 
+![[Iran/Emblem_of_Iran.svg|350]]  
 
-![[Iran/Flag_of_Iran.svg|350]]]
+![[Iran/Flag_of_Iran.svg|350]]  
 
-[Area-Total::1648000]
-[Area-Land::1636000]
-[Continent::[[Asia]]]
-[VehicleCode::IR]
-[Capital:[[Iran/Counties/Tehran/City/Teheran=Tehran]]]]
-[Alcohol-l::1]
-[Language-Id::]
-[geo-lon::51.555]
-[geo-lat::34.175]
+[Area-Total::1648000] 
+[Area-Land::1636000] 
+Continent :: [[Asia]]  
+[VehicleCode::IR] 
+Capital :: [[Iran/Counties/Tehran/City/Teheran=Tehran]]  
+[Alcohol-l::1] 
+[Language-Id::] 
+[geo-lon::51.555] 
+[geo-lat::34.175] 
 
 
 
 ## Confidential Links & Embeds: 
--[[Iran|Iran]]] 
--[[../../../../../_internal/geo/Continent/Asia/Iran.internal|Iran.internal]]] 
-- [[../../../../_protect/geo/Continent/Asia/Iran.protect|Iran.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Iran.private|Iran.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Iran.personal|Iran.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Iran.secret|Iran.secret]] 
+- [[Iran|Iran]]  
+- [[../../../../../_internal/geo/Continent/Asia/Asia~West/Iran.internal|Iran.internal]]  
+- [[../../../../../_protect/geo/Continent/Asia/Asia~West/Iran.protect|Iran.protect]] 
+- [[../../../../../_private/geo/Continent/Asia/Asia~West/Iran.private|Iran.private]] 
+- [[../../../../../_personal/geo/Continent/Asia/Asia~West/Iran.personal|Iran.personal]] 
+- [[../../../../../_secret/geo/Continent/Asia/Asia~West/Iran.secret|Iran.secret]] 

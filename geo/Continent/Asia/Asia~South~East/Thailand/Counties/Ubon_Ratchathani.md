@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 15.2 , 105.1 ] 
 type: geo-Region
 title: Ubon_Ratchathani
@@ -40,10 +40,11 @@ markerFolder: ./Ubon_Ratchathani/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Ubon_Ratchathani.md|Ubon_Ratchathani]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Ubon_Ratchathani.internal|Ubon_Ratchathani.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Ubon_Ratchathani.protect|Ubon_Ratchathani.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Ubon_Ratchathani.private|Ubon_Ratchathani.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Ubon_Ratchathani.personal|Ubon_Ratchathani.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Ubon_Ratchathani.secret|Ubon_Ratchathani.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Ubon_Ratchathani|Ubon_Ratchathani]] 
+- [[../../../../../../../_public/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Ubon_Ratchathani.public|Ubon_Ratchathani.public]] 
+- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Ubon_Ratchathani.internal|Ubon_Ratchathani.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Ubon_Ratchathani.protect|Ubon_Ratchathani.protect]] 
+- [[../../../../../../../_private/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Ubon_Ratchathani.private|Ubon_Ratchathani.private]] 
+- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Ubon_Ratchathani.personal|Ubon_Ratchathani.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Ubon_Ratchathani.secret|Ubon_Ratchathani.secret]] 
 

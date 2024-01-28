@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 40.3 , 48.2 ] 
 type: geo-Region
 title: Kürdəmir
@@ -40,10 +40,11 @@ markerFolder: ./Kürdəmir/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Kürdəmir.md|Kürdəmir]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Kürdəmir.internal|Kürdəmir.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Kürdəmir.protect|Kürdəmir.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Kürdəmir.private|Kürdəmir.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Kürdəmir.personal|Kürdəmir.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Kürdəmir.secret|Kürdəmir.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Kürdəmir|Kürdəmir]] 
+- [[../../../../../../../_public/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Kürdəmir.public|Kürdəmir.public]] 
+- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Kürdəmir.internal|Kürdəmir.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Kürdəmir.protect|Kürdəmir.protect]] 
+- [[../../../../../../../_private/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Kürdəmir.private|Kürdəmir.private]] 
+- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Kürdəmir.personal|Kürdəmir.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Kürdəmir.secret|Kürdəmir.secret]] 
 

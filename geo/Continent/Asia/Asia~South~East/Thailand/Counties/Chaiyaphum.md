@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 16 , 101.9 ] 
 type: geo-Region
 title: Chaiyaphum
@@ -40,10 +40,11 @@ markerFolder: ./Chaiyaphum/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Chaiyaphum.md|Chaiyaphum]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Chaiyaphum.internal|Chaiyaphum.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Chaiyaphum.protect|Chaiyaphum.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Chaiyaphum.private|Chaiyaphum.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Chaiyaphum.personal|Chaiyaphum.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Chaiyaphum.secret|Chaiyaphum.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Chaiyaphum|Chaiyaphum]] 
+- [[../../../../../../../_public/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Chaiyaphum.public|Chaiyaphum.public]] 
+- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Chaiyaphum.internal|Chaiyaphum.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Chaiyaphum.protect|Chaiyaphum.protect]] 
+- [[../../../../../../../_private/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Chaiyaphum.private|Chaiyaphum.private]] 
+- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Chaiyaphum.personal|Chaiyaphum.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Chaiyaphum.secret|Chaiyaphum.secret]] 
 

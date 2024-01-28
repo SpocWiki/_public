@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 43.9 , 53.5 ] 
 type: geo-Region
 title: Mangghystau
@@ -40,10 +40,11 @@ markerFolder: ./Mangghystau/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Asia/Asia~Central/Kazakhstan/Counties/Mangghystau.md|Mangghystau]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~Central/Kazakhstan/Counties/Mangghystau.internal|Mangghystau.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~Central/Kazakhstan/Counties/Mangghystau.protect|Mangghystau.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~Central/Kazakhstan/Counties/Mangghystau.private|Mangghystau.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~Central/Kazakhstan/Counties/Mangghystau.personal|Mangghystau.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~Central/Kazakhstan/Counties/Mangghystau.secret|Mangghystau.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~Central/Kazakhstan/Counties/Mangghystau|Mangghystau]] 
+- [[../../../../../../../_public/geo/Continent/Asia/Asia~Central/Kazakhstan/Counties/Mangghystau.public|Mangghystau.public]] 
+- [[../../../../../../../_internal/geo/Continent/Asia/Asia~Central/Kazakhstan/Counties/Mangghystau.internal|Mangghystau.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Asia/Asia~Central/Kazakhstan/Counties/Mangghystau.protect|Mangghystau.protect]] 
+- [[../../../../../../../_private/geo/Continent/Asia/Asia~Central/Kazakhstan/Counties/Mangghystau.private|Mangghystau.private]] 
+- [[../../../../../../../_personal/geo/Continent/Asia/Asia~Central/Kazakhstan/Counties/Mangghystau.personal|Mangghystau.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Asia/Asia~Central/Kazakhstan/Counties/Mangghystau.secret|Mangghystau.secret]] 
 

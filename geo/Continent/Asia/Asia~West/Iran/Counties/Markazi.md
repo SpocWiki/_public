@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 34.6 , 49.5 ] 
 type: geo-Region
 title: Markazi
@@ -40,10 +40,11 @@ markerFolder: ./Markazi/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Asia/Asia~West/Iran/Counties/Markazi.md|Markazi]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~West/Iran/Counties/Markazi.internal|Markazi.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~West/Iran/Counties/Markazi.protect|Markazi.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~West/Iran/Counties/Markazi.private|Markazi.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~West/Iran/Counties/Markazi.personal|Markazi.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~West/Iran/Counties/Markazi.secret|Markazi.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~West/Iran/Counties/Markazi|Markazi]] 
+- [[../../../../../../../_public/geo/Continent/Asia/Asia~West/Iran/Counties/Markazi.public|Markazi.public]] 
+- [[../../../../../../../_internal/geo/Continent/Asia/Asia~West/Iran/Counties/Markazi.internal|Markazi.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Asia/Asia~West/Iran/Counties/Markazi.protect|Markazi.protect]] 
+- [[../../../../../../../_private/geo/Continent/Asia/Asia~West/Iran/Counties/Markazi.private|Markazi.private]] 
+- [[../../../../../../../_personal/geo/Continent/Asia/Asia~West/Iran/Counties/Markazi.personal|Markazi.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Asia/Asia~West/Iran/Counties/Markazi.secret|Markazi.secret]] 
 

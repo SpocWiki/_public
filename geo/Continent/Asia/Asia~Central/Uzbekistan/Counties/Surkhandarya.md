@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 38.1 , 67.5 ] 
 type: geo-Region
 title: Surkhandarya
@@ -40,10 +40,11 @@ markerFolder: ./Surkhandarya/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Asia/Asia~Central/Uzbekistan/Counties/Surkhandarya.md|Surkhandarya]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~Central/Uzbekistan/Counties/Surkhandarya.internal|Surkhandarya.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~Central/Uzbekistan/Counties/Surkhandarya.protect|Surkhandarya.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~Central/Uzbekistan/Counties/Surkhandarya.private|Surkhandarya.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~Central/Uzbekistan/Counties/Surkhandarya.personal|Surkhandarya.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~Central/Uzbekistan/Counties/Surkhandarya.secret|Surkhandarya.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~Central/Uzbekistan/Counties/Surkhandarya|Surkhandarya]] 
+- [[../../../../../../../_public/geo/Continent/Asia/Asia~Central/Uzbekistan/Counties/Surkhandarya.public|Surkhandarya.public]] 
+- [[../../../../../../../_internal/geo/Continent/Asia/Asia~Central/Uzbekistan/Counties/Surkhandarya.internal|Surkhandarya.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Asia/Asia~Central/Uzbekistan/Counties/Surkhandarya.protect|Surkhandarya.protect]] 
+- [[../../../../../../../_private/geo/Continent/Asia/Asia~Central/Uzbekistan/Counties/Surkhandarya.private|Surkhandarya.private]] 
+- [[../../../../../../../_personal/geo/Continent/Asia/Asia~Central/Uzbekistan/Counties/Surkhandarya.personal|Surkhandarya.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Asia/Asia~Central/Uzbekistan/Counties/Surkhandarya.secret|Surkhandarya.secret]] 
 

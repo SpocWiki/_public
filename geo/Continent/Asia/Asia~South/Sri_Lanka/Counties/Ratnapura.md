@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 6.6 , 80.6 ] 
 type: geo-Region
 title: Ratnapura
@@ -40,10 +40,11 @@ markerFolder: ./Ratnapura/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Asia/Asia~South/Sri_Lanka/Counties/Ratnapura.md|Ratnapura]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~South/Sri_Lanka/Counties/Ratnapura.internal|Ratnapura.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~South/Sri_Lanka/Counties/Ratnapura.protect|Ratnapura.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~South/Sri_Lanka/Counties/Ratnapura.private|Ratnapura.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~South/Sri_Lanka/Counties/Ratnapura.personal|Ratnapura.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~South/Sri_Lanka/Counties/Ratnapura.secret|Ratnapura.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South/Sri_Lanka/Counties/Ratnapura|Ratnapura]] 
+- [[../../../../../../../_public/geo/Continent/Asia/Asia~South/Sri_Lanka/Counties/Ratnapura.public|Ratnapura.public]] 
+- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South/Sri_Lanka/Counties/Ratnapura.internal|Ratnapura.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South/Sri_Lanka/Counties/Ratnapura.protect|Ratnapura.protect]] 
+- [[../../../../../../../_private/geo/Continent/Asia/Asia~South/Sri_Lanka/Counties/Ratnapura.private|Ratnapura.private]] 
+- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South/Sri_Lanka/Counties/Ratnapura.personal|Ratnapura.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South/Sri_Lanka/Counties/Ratnapura.secret|Ratnapura.secret]] 
 

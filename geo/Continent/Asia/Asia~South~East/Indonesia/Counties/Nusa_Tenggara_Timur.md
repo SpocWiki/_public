@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ -8.5 , 120.6 ] 
 type: geo-Region
 title: Nusa_Tenggara_Timur
@@ -40,10 +40,11 @@ markerFolder: ./Nusa_Tenggara_Timur/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Asia/Asia~South~East/Indonesia/Counties/Nusa_Tenggara_Timur.md|Nusa_Tenggara_Timur]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~South~East/Indonesia/Counties/Nusa_Tenggara_Timur.internal|Nusa_Tenggara_Timur.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~South~East/Indonesia/Counties/Nusa_Tenggara_Timur.protect|Nusa_Tenggara_Timur.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~South~East/Indonesia/Counties/Nusa_Tenggara_Timur.private|Nusa_Tenggara_Timur.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~South~East/Indonesia/Counties/Nusa_Tenggara_Timur.personal|Nusa_Tenggara_Timur.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~South~East/Indonesia/Counties/Nusa_Tenggara_Timur.secret|Nusa_Tenggara_Timur.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South~East/Indonesia/Counties/Nusa_Tenggara_Timur|Nusa_Tenggara_Timur]] 
+- [[../../../../../../../_public/geo/Continent/Asia/Asia~South~East/Indonesia/Counties/Nusa_Tenggara_Timur.public|Nusa_Tenggara_Timur.public]] 
+- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South~East/Indonesia/Counties/Nusa_Tenggara_Timur.internal|Nusa_Tenggara_Timur.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South~East/Indonesia/Counties/Nusa_Tenggara_Timur.protect|Nusa_Tenggara_Timur.protect]] 
+- [[../../../../../../../_private/geo/Continent/Asia/Asia~South~East/Indonesia/Counties/Nusa_Tenggara_Timur.private|Nusa_Tenggara_Timur.private]] 
+- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South~East/Indonesia/Counties/Nusa_Tenggara_Timur.personal|Nusa_Tenggara_Timur.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South~East/Indonesia/Counties/Nusa_Tenggara_Timur.secret|Nusa_Tenggara_Timur.secret]] 
 

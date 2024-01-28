@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 33.7 , 73.1 ] 
 type: geo-Region
 title: F.C.T
@@ -40,10 +40,11 @@ markerFolder: ./F.C.T/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Asia/Asia~South/Pakistan/Counties/F.C.T.md|F.C.T]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~South/Pakistan/Counties/F.C.T.internal|F.C.T.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~South/Pakistan/Counties/F.C.T.protect|F.C.T.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~South/Pakistan/Counties/F.C.T.private|F.C.T.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~South/Pakistan/Counties/F.C.T.personal|F.C.T.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~South/Pakistan/Counties/F.C.T.secret|F.C.T.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South/Pakistan/Counties/F.C.T|F.C.T]] 
+- [[../../../../../../../_public/geo/Continent/Asia/Asia~South/Pakistan/Counties/F.C.T.public|F.C.T.public]] 
+- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South/Pakistan/Counties/F.C.T.internal|F.C.T.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South/Pakistan/Counties/F.C.T.protect|F.C.T.protect]] 
+- [[../../../../../../../_private/geo/Continent/Asia/Asia~South/Pakistan/Counties/F.C.T.private|F.C.T.private]] 
+- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South/Pakistan/Counties/F.C.T.personal|F.C.T.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South/Pakistan/Counties/F.C.T.secret|F.C.T.secret]] 
 

@@ -1,5 +1,5 @@
 ﻿---
-location: [39.75,45.33]
+location: [39.75,45.33] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,27 +12,28 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::45.33]
-[geo-lat::39.75]
-[name::Kaschischkend=Mikojan]
-[State::]
-[Country::[[Russia]]]
-[StateId::]
-[Population::]
-[Unknown::]
+[geo-lon::45.33] 
+[geo-lat::39.75] 
+[name::Kaschischkend=Mikojan] 
+State ::  
+Country :: [[Russia]]  
+[StateId::] 
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Kaschischkend=Mikojan
-coordinates: [[Kaschischkend=Mikojan]]
-markerFile: [[Kaschischkend=Mikojan]]
+coordinates: [[Kaschischkend=Mikojan]] 
+markerFile: [[Kaschischkend=Mikojan]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_public/geo/Continent/Europe/Russia/City/Kaschischkend=Mikojan.md|Kaschischkend=Mikojan]] 
+- [[../../../../../../_Standards/geo/Continent/Europe/Russia/City/Kaschischkend=Mikojan|Kaschischkend=Mikojan]] 
+- [[../../../../../../_public/geo/Continent/Europe/Russia/City/Kaschischkend=Mikojan.public|Kaschischkend=Mikojan.public]] 
 - [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Kaschischkend=Mikojan.internal|Kaschischkend=Mikojan.internal]] 
 - [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Kaschischkend=Mikojan.protect|Kaschischkend=Mikojan.protect]] 
 - [[../../../../../../_private/geo/Continent/Europe/Russia/City/Kaschischkend=Mikojan.private|Kaschischkend=Mikojan.private]] 

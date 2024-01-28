@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 18.8 , 75.4 ] 
 type: geo-Region
 title: Maharashtra
@@ -40,10 +40,11 @@ markerFolder: ./Maharashtra/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Asia/Asia~South/India/Counties/Maharashtra.md|Maharashtra]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~South/India/Counties/Maharashtra.internal|Maharashtra.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~South/India/Counties/Maharashtra.protect|Maharashtra.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~South/India/Counties/Maharashtra.private|Maharashtra.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~South/India/Counties/Maharashtra.personal|Maharashtra.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~South/India/Counties/Maharashtra.secret|Maharashtra.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South/India/Counties/Maharashtra|Maharashtra]] 
+- [[../../../../../../../_public/geo/Continent/Asia/Asia~South/India/Counties/Maharashtra.public|Maharashtra.public]] 
+- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South/India/Counties/Maharashtra.internal|Maharashtra.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South/India/Counties/Maharashtra.protect|Maharashtra.protect]] 
+- [[../../../../../../../_private/geo/Continent/Asia/Asia~South/India/Counties/Maharashtra.private|Maharashtra.private]] 
+- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South/India/Counties/Maharashtra.personal|Maharashtra.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South/India/Counties/Maharashtra.secret|Maharashtra.secret]] 
 

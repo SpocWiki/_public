@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 29.34 , 48.04 ] 
 type: geo-Region
 title: Hawalli
@@ -40,10 +40,11 @@ markerFolder: ./Hawalli/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Asia/Asia~West/Kuwait/Counties/Hawalli.md|Hawalli]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~West/Kuwait/Counties/Hawalli.internal|Hawalli.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~West/Kuwait/Counties/Hawalli.protect|Hawalli.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~West/Kuwait/Counties/Hawalli.private|Hawalli.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~West/Kuwait/Counties/Hawalli.personal|Hawalli.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~West/Kuwait/Counties/Hawalli.secret|Hawalli.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~West/Kuwait/Counties/Hawalli|Hawalli]] 
+- [[../../../../../../../_public/geo/Continent/Asia/Asia~West/Kuwait/Counties/Hawalli.public|Hawalli.public]] 
+- [[../../../../../../../_internal/geo/Continent/Asia/Asia~West/Kuwait/Counties/Hawalli.internal|Hawalli.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Asia/Asia~West/Kuwait/Counties/Hawalli.protect|Hawalli.protect]] 
+- [[../../../../../../../_private/geo/Continent/Asia/Asia~West/Kuwait/Counties/Hawalli.private|Hawalli.private]] 
+- [[../../../../../../../_personal/geo/Continent/Asia/Asia~West/Kuwait/Counties/Hawalli.personal|Hawalli.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Asia/Asia~West/Kuwait/Counties/Hawalli.secret|Hawalli.secret]] 
 

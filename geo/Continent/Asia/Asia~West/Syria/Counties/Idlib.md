@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 35.8 , 36.6 ] 
 type: geo-Region
 title: Idlib
@@ -40,10 +40,11 @@ markerFolder: ./Idlib/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Asia/Asia~West/Syria/Counties/Idlib.md|Idlib]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~West/Syria/Counties/Idlib.internal|Idlib.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~West/Syria/Counties/Idlib.protect|Idlib.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~West/Syria/Counties/Idlib.private|Idlib.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~West/Syria/Counties/Idlib.personal|Idlib.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~West/Syria/Counties/Idlib.secret|Idlib.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~West/Syria/Counties/Idlib|Idlib]] 
+- [[../../../../../../../_public/geo/Continent/Asia/Asia~West/Syria/Counties/Idlib.public|Idlib.public]] 
+- [[../../../../../../../_internal/geo/Continent/Asia/Asia~West/Syria/Counties/Idlib.internal|Idlib.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Asia/Asia~West/Syria/Counties/Idlib.protect|Idlib.protect]] 
+- [[../../../../../../../_private/geo/Continent/Asia/Asia~West/Syria/Counties/Idlib.private|Idlib.private]] 
+- [[../../../../../../../_personal/geo/Continent/Asia/Asia~West/Syria/Counties/Idlib.personal|Idlib.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Asia/Asia~West/Syria/Counties/Idlib.secret|Idlib.secret]] 
 

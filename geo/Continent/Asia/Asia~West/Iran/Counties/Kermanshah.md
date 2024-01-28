@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 34.5 , 46.7 ] 
 type: geo-Region
 title: Kermanshah
@@ -40,10 +40,11 @@ markerFolder: ./Kermanshah/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Asia/Asia~West/Iran/Counties/Kermanshah.md|Kermanshah]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~West/Iran/Counties/Kermanshah.internal|Kermanshah.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~West/Iran/Counties/Kermanshah.protect|Kermanshah.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~West/Iran/Counties/Kermanshah.private|Kermanshah.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~West/Iran/Counties/Kermanshah.personal|Kermanshah.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~West/Iran/Counties/Kermanshah.secret|Kermanshah.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~West/Iran/Counties/Kermanshah|Kermanshah]] 
+- [[../../../../../../../_public/geo/Continent/Asia/Asia~West/Iran/Counties/Kermanshah.public|Kermanshah.public]] 
+- [[../../../../../../../_internal/geo/Continent/Asia/Asia~West/Iran/Counties/Kermanshah.internal|Kermanshah.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Asia/Asia~West/Iran/Counties/Kermanshah.protect|Kermanshah.protect]] 
+- [[../../../../../../../_private/geo/Continent/Asia/Asia~West/Iran/Counties/Kermanshah.private|Kermanshah.private]] 
+- [[../../../../../../../_personal/geo/Continent/Asia/Asia~West/Iran/Counties/Kermanshah.personal|Kermanshah.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Asia/Asia~West/Iran/Counties/Kermanshah.secret|Kermanshah.secret]] 
 

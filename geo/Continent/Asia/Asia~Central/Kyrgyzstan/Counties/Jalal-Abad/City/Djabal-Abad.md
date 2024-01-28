@@ -1,5 +1,5 @@
 ﻿---
-location: [40.92,73]
+location: [40.92,73] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,27 +12,28 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::73]
-[geo-lat::40.92]
-[name::Djabal-Abad]
-[State::]
-[Country::[[Russia]]]
-[StateId::]
-[Population::]
-[Unknown::]
+[geo-lon::73] 
+[geo-lat::40.92] 
+[name::Djabal-Abad] 
+State ::  
+Country :: [[Russia]]  
+[StateId::] 
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Djabal-Abad
-coordinates: [[Djabal-Abad]]
-markerFile: [[Djabal-Abad]]
+coordinates: [[Djabal-Abad]] 
+markerFile: [[Djabal-Abad]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_public/geo/Continent/Europe/Russia/City/Djabal-Abad.md|Djabal-Abad]] 
+- [[../../../../../../_Standards/geo/Continent/Europe/Russia/City/Djabal-Abad|Djabal-Abad]] 
+- [[../../../../../../_public/geo/Continent/Europe/Russia/City/Djabal-Abad.public|Djabal-Abad.public]] 
 - [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Djabal-Abad.internal|Djabal-Abad.internal]] 
 - [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Djabal-Abad.protect|Djabal-Abad.protect]] 
 - [[../../../../../../_private/geo/Continent/Europe/Russia/City/Djabal-Abad.private|Djabal-Abad.private]] 

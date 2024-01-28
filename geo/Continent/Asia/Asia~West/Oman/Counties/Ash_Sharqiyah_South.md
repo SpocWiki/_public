@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 21.6 , 58.8 ] 
 type: geo-Region
 title: Ash_Sharqiyah_South
@@ -40,10 +40,11 @@ markerFolder: ./Ash_Sharqiyah_South/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Asia/Asia~West/Oman/Counties/Ash_Sharqiyah_South.md|Ash_Sharqiyah_South]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~West/Oman/Counties/Ash_Sharqiyah_South.internal|Ash_Sharqiyah_South.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~West/Oman/Counties/Ash_Sharqiyah_South.protect|Ash_Sharqiyah_South.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~West/Oman/Counties/Ash_Sharqiyah_South.private|Ash_Sharqiyah_South.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~West/Oman/Counties/Ash_Sharqiyah_South.personal|Ash_Sharqiyah_South.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~West/Oman/Counties/Ash_Sharqiyah_South.secret|Ash_Sharqiyah_South.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~West/Oman/Counties/Ash_Sharqiyah_South|Ash_Sharqiyah_South]] 
+- [[../../../../../../../_public/geo/Continent/Asia/Asia~West/Oman/Counties/Ash_Sharqiyah_South.public|Ash_Sharqiyah_South.public]] 
+- [[../../../../../../../_internal/geo/Continent/Asia/Asia~West/Oman/Counties/Ash_Sharqiyah_South.internal|Ash_Sharqiyah_South.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Asia/Asia~West/Oman/Counties/Ash_Sharqiyah_South.protect|Ash_Sharqiyah_South.protect]] 
+- [[../../../../../../../_private/geo/Continent/Asia/Asia~West/Oman/Counties/Ash_Sharqiyah_South.private|Ash_Sharqiyah_South.private]] 
+- [[../../../../../../../_personal/geo/Continent/Asia/Asia~West/Oman/Counties/Ash_Sharqiyah_South.personal|Ash_Sharqiyah_South.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Asia/Asia~West/Oman/Counties/Ash_Sharqiyah_South.secret|Ash_Sharqiyah_South.secret]] 
 

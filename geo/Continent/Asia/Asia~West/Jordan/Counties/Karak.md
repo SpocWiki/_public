@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 31.1 , 35.8 ] 
 type: geo-Region
 title: Karak
@@ -40,10 +40,11 @@ markerFolder: ./Karak/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Asia/Asia~West/Jordan/Counties/Karak.md|Karak]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~West/Jordan/Counties/Karak.internal|Karak.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~West/Jordan/Counties/Karak.protect|Karak.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~West/Jordan/Counties/Karak.private|Karak.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~West/Jordan/Counties/Karak.personal|Karak.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~West/Jordan/Counties/Karak.secret|Karak.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~West/Jordan/Counties/Karak|Karak]] 
+- [[../../../../../../../_public/geo/Continent/Asia/Asia~West/Jordan/Counties/Karak.public|Karak.public]] 
+- [[../../../../../../../_internal/geo/Continent/Asia/Asia~West/Jordan/Counties/Karak.internal|Karak.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Asia/Asia~West/Jordan/Counties/Karak.protect|Karak.protect]] 
+- [[../../../../../../../_private/geo/Continent/Asia/Asia~West/Jordan/Counties/Karak.private|Karak.private]] 
+- [[../../../../../../../_personal/geo/Continent/Asia/Asia~West/Jordan/Counties/Karak.personal|Karak.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Asia/Asia~West/Jordan/Counties/Karak.secret|Karak.secret]] 
 

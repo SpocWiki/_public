@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 22.4 , 90.3 ] 
 type: geo-Region
 title: Barisal
@@ -40,10 +40,11 @@ markerFolder: ./Barisal/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Asia/Asia~South/Bangladesh/Counties/Barisal.md|Barisal]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~South/Bangladesh/Counties/Barisal.internal|Barisal.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~South/Bangladesh/Counties/Barisal.protect|Barisal.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~South/Bangladesh/Counties/Barisal.private|Barisal.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~South/Bangladesh/Counties/Barisal.personal|Barisal.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~South/Bangladesh/Counties/Barisal.secret|Barisal.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South/Bangladesh/Counties/Barisal|Barisal]] 
+- [[../../../../../../../_public/geo/Continent/Asia/Asia~South/Bangladesh/Counties/Barisal.public|Barisal.public]] 
+- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South/Bangladesh/Counties/Barisal.internal|Barisal.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South/Bangladesh/Counties/Barisal.protect|Barisal.protect]] 
+- [[../../../../../../../_private/geo/Continent/Asia/Asia~South/Bangladesh/Counties/Barisal.private|Barisal.private]] 
+- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South/Bangladesh/Counties/Barisal.personal|Barisal.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South/Bangladesh/Counties/Barisal.secret|Barisal.secret]] 
 

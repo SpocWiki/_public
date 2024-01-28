@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 27.3 , 86.6 ] 
 type: geo-Region
 title: Sagarmatha
@@ -40,10 +40,11 @@ markerFolder: ./Sagarmatha/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Asia/Asia~South/Nepal/Counties/Sagarmatha.md|Sagarmatha]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~South/Nepal/Counties/Sagarmatha.internal|Sagarmatha.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~South/Nepal/Counties/Sagarmatha.protect|Sagarmatha.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~South/Nepal/Counties/Sagarmatha.private|Sagarmatha.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~South/Nepal/Counties/Sagarmatha.personal|Sagarmatha.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~South/Nepal/Counties/Sagarmatha.secret|Sagarmatha.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South/Nepal/Counties/Sagarmatha|Sagarmatha]] 
+- [[../../../../../../../_public/geo/Continent/Asia/Asia~South/Nepal/Counties/Sagarmatha.public|Sagarmatha.public]] 
+- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South/Nepal/Counties/Sagarmatha.internal|Sagarmatha.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South/Nepal/Counties/Sagarmatha.protect|Sagarmatha.protect]] 
+- [[../../../../../../../_private/geo/Continent/Asia/Asia~South/Nepal/Counties/Sagarmatha.private|Sagarmatha.private]] 
+- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South/Nepal/Counties/Sagarmatha.personal|Sagarmatha.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South/Nepal/Counties/Sagarmatha.secret|Sagarmatha.secret]] 
 

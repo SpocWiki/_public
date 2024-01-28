@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 3.106 , 72.979 ] 
 type: geo-Region
 title: Faafu
@@ -40,10 +40,11 @@ markerFolder: ./Faafu/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Asia/Asia~South/Maldives/Counties/Faafu.md|Faafu]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~South/Maldives/Counties/Faafu.internal|Faafu.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~South/Maldives/Counties/Faafu.protect|Faafu.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~South/Maldives/Counties/Faafu.private|Faafu.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~South/Maldives/Counties/Faafu.personal|Faafu.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~South/Maldives/Counties/Faafu.secret|Faafu.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South/Maldives/Counties/Faafu|Faafu]] 
+- [[../../../../../../../_public/geo/Continent/Asia/Asia~South/Maldives/Counties/Faafu.public|Faafu.public]] 
+- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South/Maldives/Counties/Faafu.internal|Faafu.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South/Maldives/Counties/Faafu.protect|Faafu.protect]] 
+- [[../../../../../../../_private/geo/Continent/Asia/Asia~South/Maldives/Counties/Faafu.private|Faafu.private]] 
+- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South/Maldives/Counties/Faafu.personal|Faafu.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South/Maldives/Counties/Faafu.secret|Faafu.secret]] 
 

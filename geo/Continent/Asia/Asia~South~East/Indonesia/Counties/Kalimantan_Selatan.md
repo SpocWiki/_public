@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ -2.8 , 115.5 ] 
 type: geo-Region
 title: Kalimantan_Selatan
@@ -40,10 +40,11 @@ markerFolder: ./Kalimantan_Selatan/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Asia/Asia~South~East/Indonesia/Counties/Kalimantan_Selatan.md|Kalimantan_Selatan]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~South~East/Indonesia/Counties/Kalimantan_Selatan.internal|Kalimantan_Selatan.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~South~East/Indonesia/Counties/Kalimantan_Selatan.protect|Kalimantan_Selatan.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~South~East/Indonesia/Counties/Kalimantan_Selatan.private|Kalimantan_Selatan.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~South~East/Indonesia/Counties/Kalimantan_Selatan.personal|Kalimantan_Selatan.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~South~East/Indonesia/Counties/Kalimantan_Selatan.secret|Kalimantan_Selatan.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South~East/Indonesia/Counties/Kalimantan_Selatan|Kalimantan_Selatan]] 
+- [[../../../../../../../_public/geo/Continent/Asia/Asia~South~East/Indonesia/Counties/Kalimantan_Selatan.public|Kalimantan_Selatan.public]] 
+- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South~East/Indonesia/Counties/Kalimantan_Selatan.internal|Kalimantan_Selatan.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South~East/Indonesia/Counties/Kalimantan_Selatan.protect|Kalimantan_Selatan.protect]] 
+- [[../../../../../../../_private/geo/Continent/Asia/Asia~South~East/Indonesia/Counties/Kalimantan_Selatan.private|Kalimantan_Selatan.private]] 
+- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South~East/Indonesia/Counties/Kalimantan_Selatan.personal|Kalimantan_Selatan.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South~East/Indonesia/Counties/Kalimantan_Selatan.secret|Kalimantan_Selatan.secret]] 
 

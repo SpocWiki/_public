@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 15 , 104.3 ] 
 type: geo-Region
 title: Si_Sa_Ket
@@ -40,10 +40,11 @@ markerFolder: ./Si_Sa_Ket/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Si_Sa_Ket.md|Si_Sa_Ket]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Si_Sa_Ket.internal|Si_Sa_Ket.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Si_Sa_Ket.protect|Si_Sa_Ket.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Si_Sa_Ket.private|Si_Sa_Ket.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Si_Sa_Ket.personal|Si_Sa_Ket.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Si_Sa_Ket.secret|Si_Sa_Ket.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Si_Sa_Ket|Si_Sa_Ket]] 
+- [[../../../../../../../_public/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Si_Sa_Ket.public|Si_Sa_Ket.public]] 
+- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Si_Sa_Ket.internal|Si_Sa_Ket.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Si_Sa_Ket.protect|Si_Sa_Ket.protect]] 
+- [[../../../../../../../_private/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Si_Sa_Ket.private|Si_Sa_Ket.private]] 
+- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Si_Sa_Ket.personal|Si_Sa_Ket.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Si_Sa_Ket.secret|Si_Sa_Ket.secret]] 
 

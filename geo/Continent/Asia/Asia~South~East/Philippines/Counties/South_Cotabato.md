@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 6.3 , 124.9 ] 
 type: geo-Region
 title: South_Cotabato
@@ -40,10 +40,11 @@ markerFolder: ./South_Cotabato/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Asia/Asia~South~East/Philippines/Counties/South_Cotabato.md|South_Cotabato]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~South~East/Philippines/Counties/South_Cotabato.internal|South_Cotabato.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~South~East/Philippines/Counties/South_Cotabato.protect|South_Cotabato.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~South~East/Philippines/Counties/South_Cotabato.private|South_Cotabato.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~South~East/Philippines/Counties/South_Cotabato.personal|South_Cotabato.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~South~East/Philippines/Counties/South_Cotabato.secret|South_Cotabato.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South~East/Philippines/Counties/South_Cotabato|South_Cotabato]] 
+- [[../../../../../../../_public/geo/Continent/Asia/Asia~South~East/Philippines/Counties/South_Cotabato.public|South_Cotabato.public]] 
+- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South~East/Philippines/Counties/South_Cotabato.internal|South_Cotabato.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South~East/Philippines/Counties/South_Cotabato.protect|South_Cotabato.protect]] 
+- [[../../../../../../../_private/geo/Continent/Asia/Asia~South~East/Philippines/Counties/South_Cotabato.private|South_Cotabato.private]] 
+- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South~East/Philippines/Counties/South_Cotabato.personal|South_Cotabato.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South~East/Philippines/Counties/South_Cotabato.secret|South_Cotabato.secret]] 
 

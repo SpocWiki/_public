@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 53.8 , 69.8 ] 
 type: geo-Region
 title: North_Kazakhstan
@@ -40,10 +40,11 @@ markerFolder: ./North_Kazakhstan/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Asia/Asia~Central/Kazakhstan/Counties/North_Kazakhstan.md|North_Kazakhstan]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~Central/Kazakhstan/Counties/North_Kazakhstan.internal|North_Kazakhstan.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~Central/Kazakhstan/Counties/North_Kazakhstan.protect|North_Kazakhstan.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~Central/Kazakhstan/Counties/North_Kazakhstan.private|North_Kazakhstan.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~Central/Kazakhstan/Counties/North_Kazakhstan.personal|North_Kazakhstan.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~Central/Kazakhstan/Counties/North_Kazakhstan.secret|North_Kazakhstan.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~Central/Kazakhstan/Counties/North_Kazakhstan|North_Kazakhstan]] 
+- [[../../../../../../../_public/geo/Continent/Asia/Asia~Central/Kazakhstan/Counties/North_Kazakhstan.public|North_Kazakhstan.public]] 
+- [[../../../../../../../_internal/geo/Continent/Asia/Asia~Central/Kazakhstan/Counties/North_Kazakhstan.internal|North_Kazakhstan.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Asia/Asia~Central/Kazakhstan/Counties/North_Kazakhstan.protect|North_Kazakhstan.protect]] 
+- [[../../../../../../../_private/geo/Continent/Asia/Asia~Central/Kazakhstan/Counties/North_Kazakhstan.private|North_Kazakhstan.private]] 
+- [[../../../../../../../_personal/geo/Continent/Asia/Asia~Central/Kazakhstan/Counties/North_Kazakhstan.personal|North_Kazakhstan.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Asia/Asia~Central/Kazakhstan/Counties/North_Kazakhstan.secret|North_Kazakhstan.secret]] 
 

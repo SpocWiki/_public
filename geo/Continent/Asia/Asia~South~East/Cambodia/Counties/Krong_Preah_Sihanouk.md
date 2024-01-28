@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 10.7 , 103.8 ] 
 type: geo-Region
 title: Krong_Preah_Sihanouk
@@ -40,10 +40,11 @@ markerFolder: ./Krong_Preah_Sihanouk/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Asia/Asia~South~East/Cambodia/Counties/Krong_Preah_Sihanouk.md|Krong_Preah_Sihanouk]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~South~East/Cambodia/Counties/Krong_Preah_Sihanouk.internal|Krong_Preah_Sihanouk.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~South~East/Cambodia/Counties/Krong_Preah_Sihanouk.protect|Krong_Preah_Sihanouk.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~South~East/Cambodia/Counties/Krong_Preah_Sihanouk.private|Krong_Preah_Sihanouk.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~South~East/Cambodia/Counties/Krong_Preah_Sihanouk.personal|Krong_Preah_Sihanouk.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~South~East/Cambodia/Counties/Krong_Preah_Sihanouk.secret|Krong_Preah_Sihanouk.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South~East/Cambodia/Counties/Krong_Preah_Sihanouk|Krong_Preah_Sihanouk]] 
+- [[../../../../../../../_public/geo/Continent/Asia/Asia~South~East/Cambodia/Counties/Krong_Preah_Sihanouk.public|Krong_Preah_Sihanouk.public]] 
+- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South~East/Cambodia/Counties/Krong_Preah_Sihanouk.internal|Krong_Preah_Sihanouk.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South~East/Cambodia/Counties/Krong_Preah_Sihanouk.protect|Krong_Preah_Sihanouk.protect]] 
+- [[../../../../../../../_private/geo/Continent/Asia/Asia~South~East/Cambodia/Counties/Krong_Preah_Sihanouk.private|Krong_Preah_Sihanouk.private]] 
+- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South~East/Cambodia/Counties/Krong_Preah_Sihanouk.personal|Krong_Preah_Sihanouk.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South~East/Cambodia/Counties/Krong_Preah_Sihanouk.secret|Krong_Preah_Sihanouk.secret]] 
 

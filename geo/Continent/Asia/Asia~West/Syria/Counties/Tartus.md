@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 34.9 , 36.1 ] 
 type: geo-Region
 title: Tartus
@@ -40,10 +40,11 @@ markerFolder: ./Tartus/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Asia/Asia~West/Syria/Counties/Tartus.md|Tartus]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~West/Syria/Counties/Tartus.internal|Tartus.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~West/Syria/Counties/Tartus.protect|Tartus.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~West/Syria/Counties/Tartus.private|Tartus.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~West/Syria/Counties/Tartus.personal|Tartus.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~West/Syria/Counties/Tartus.secret|Tartus.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~West/Syria/Counties/Tartus|Tartus]] 
+- [[../../../../../../../_public/geo/Continent/Asia/Asia~West/Syria/Counties/Tartus.public|Tartus.public]] 
+- [[../../../../../../../_internal/geo/Continent/Asia/Asia~West/Syria/Counties/Tartus.internal|Tartus.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Asia/Asia~West/Syria/Counties/Tartus.protect|Tartus.protect]] 
+- [[../../../../../../../_private/geo/Continent/Asia/Asia~West/Syria/Counties/Tartus.private|Tartus.private]] 
+- [[../../../../../../../_personal/geo/Continent/Asia/Asia~West/Syria/Counties/Tartus.personal|Tartus.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Asia/Asia~West/Syria/Counties/Tartus.secret|Tartus.secret]] 
 

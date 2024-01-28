@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 6.8 , 80 ] 
 type: geo-Region
 title: Kŏḷamba
@@ -40,10 +40,11 @@ markerFolder: ./Kŏḷamba/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Asia/Asia~South/Sri_Lanka/Counties/Kŏḷamba.md|Kŏḷamba]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~South/Sri_Lanka/Counties/Kŏḷamba.internal|Kŏḷamba.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~South/Sri_Lanka/Counties/Kŏḷamba.protect|Kŏḷamba.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~South/Sri_Lanka/Counties/Kŏḷamba.private|Kŏḷamba.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~South/Sri_Lanka/Counties/Kŏḷamba.personal|Kŏḷamba.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~South/Sri_Lanka/Counties/Kŏḷamba.secret|Kŏḷamba.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South/Sri_Lanka/Counties/Kŏḷamba|Kŏḷamba]] 
+- [[../../../../../../../_public/geo/Continent/Asia/Asia~South/Sri_Lanka/Counties/Kŏḷamba.public|Kŏḷamba.public]] 
+- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South/Sri_Lanka/Counties/Kŏḷamba.internal|Kŏḷamba.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South/Sri_Lanka/Counties/Kŏḷamba.protect|Kŏḷamba.protect]] 
+- [[../../../../../../../_private/geo/Continent/Asia/Asia~South/Sri_Lanka/Counties/Kŏḷamba.private|Kŏḷamba.private]] 
+- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South/Sri_Lanka/Counties/Kŏḷamba.personal|Kŏḷamba.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South/Sri_Lanka/Counties/Kŏḷamba.secret|Kŏḷamba.secret]] 
 

@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 25.5 , 51.3 ] 
 type: geo-Region
 title: Umm_Salal
@@ -40,10 +40,11 @@ markerFolder: ./Umm_Salal/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Asia/Asia~West/Qatar/Counties/Umm_Salal.md|Umm_Salal]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~West/Qatar/Counties/Umm_Salal.internal|Umm_Salal.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~West/Qatar/Counties/Umm_Salal.protect|Umm_Salal.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~West/Qatar/Counties/Umm_Salal.private|Umm_Salal.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~West/Qatar/Counties/Umm_Salal.personal|Umm_Salal.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~West/Qatar/Counties/Umm_Salal.secret|Umm_Salal.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~West/Qatar/Counties/Umm_Salal|Umm_Salal]] 
+- [[../../../../../../../_public/geo/Continent/Asia/Asia~West/Qatar/Counties/Umm_Salal.public|Umm_Salal.public]] 
+- [[../../../../../../../_internal/geo/Continent/Asia/Asia~West/Qatar/Counties/Umm_Salal.internal|Umm_Salal.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Asia/Asia~West/Qatar/Counties/Umm_Salal.protect|Umm_Salal.protect]] 
+- [[../../../../../../../_private/geo/Continent/Asia/Asia~West/Qatar/Counties/Umm_Salal.private|Umm_Salal.private]] 
+- [[../../../../../../../_personal/geo/Continent/Asia/Asia~West/Qatar/Counties/Umm_Salal.personal|Umm_Salal.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Asia/Asia~West/Qatar/Counties/Umm_Salal.secret|Umm_Salal.secret]] 
 

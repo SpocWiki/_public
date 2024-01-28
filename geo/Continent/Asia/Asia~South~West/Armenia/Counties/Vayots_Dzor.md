@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 39.7 , 45.4 ] 
 type: geo-Region
 title: Vayots_Dzor
@@ -40,10 +40,11 @@ markerFolder: ./Vayots_Dzor/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Asia/Asia~South~West/Armenia/Counties/Vayots_Dzor.md|Vayots_Dzor]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~South~West/Armenia/Counties/Vayots_Dzor.internal|Vayots_Dzor.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~South~West/Armenia/Counties/Vayots_Dzor.protect|Vayots_Dzor.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~South~West/Armenia/Counties/Vayots_Dzor.private|Vayots_Dzor.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~South~West/Armenia/Counties/Vayots_Dzor.personal|Vayots_Dzor.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~South~West/Armenia/Counties/Vayots_Dzor.secret|Vayots_Dzor.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South~West/Armenia/Counties/Vayots_Dzor|Vayots_Dzor]] 
+- [[../../../../../../../_public/geo/Continent/Asia/Asia~South~West/Armenia/Counties/Vayots_Dzor.public|Vayots_Dzor.public]] 
+- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South~West/Armenia/Counties/Vayots_Dzor.internal|Vayots_Dzor.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South~West/Armenia/Counties/Vayots_Dzor.protect|Vayots_Dzor.protect]] 
+- [[../../../../../../../_private/geo/Continent/Asia/Asia~South~West/Armenia/Counties/Vayots_Dzor.private|Vayots_Dzor.private]] 
+- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South~West/Armenia/Counties/Vayots_Dzor.personal|Vayots_Dzor.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South~West/Armenia/Counties/Vayots_Dzor.secret|Vayots_Dzor.secret]] 
 

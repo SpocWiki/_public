@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 24.7 , 121.1 ] 
 type: geo-Region
 title: Hsinchu
@@ -40,10 +40,11 @@ markerFolder: ./Hsinchu/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Asia/Asia~East/Taiwan/Counties/Hsinchu.md|Hsinchu]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~East/Taiwan/Counties/Hsinchu.internal|Hsinchu.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~East/Taiwan/Counties/Hsinchu.protect|Hsinchu.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~East/Taiwan/Counties/Hsinchu.private|Hsinchu.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~East/Taiwan/Counties/Hsinchu.personal|Hsinchu.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~East/Taiwan/Counties/Hsinchu.secret|Hsinchu.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~East/Taiwan/Counties/Hsinchu|Hsinchu]] 
+- [[../../../../../../../_public/geo/Continent/Asia/Asia~East/Taiwan/Counties/Hsinchu.public|Hsinchu.public]] 
+- [[../../../../../../../_internal/geo/Continent/Asia/Asia~East/Taiwan/Counties/Hsinchu.internal|Hsinchu.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Asia/Asia~East/Taiwan/Counties/Hsinchu.protect|Hsinchu.protect]] 
+- [[../../../../../../../_private/geo/Continent/Asia/Asia~East/Taiwan/Counties/Hsinchu.private|Hsinchu.private]] 
+- [[../../../../../../../_personal/geo/Continent/Asia/Asia~East/Taiwan/Counties/Hsinchu.personal|Hsinchu.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Asia/Asia~East/Taiwan/Counties/Hsinchu.secret|Hsinchu.secret]] 
 

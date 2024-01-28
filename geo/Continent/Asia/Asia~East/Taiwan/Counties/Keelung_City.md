@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 25.1 , 121.7 ] 
 type: geo-Region
 title: Keelung_City
@@ -40,10 +40,11 @@ markerFolder: ./Keelung_City/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Asia/Asia~East/Taiwan/Counties/Keelung_City.md|Keelung_City]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~East/Taiwan/Counties/Keelung_City.internal|Keelung_City.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~East/Taiwan/Counties/Keelung_City.protect|Keelung_City.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~East/Taiwan/Counties/Keelung_City.private|Keelung_City.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~East/Taiwan/Counties/Keelung_City.personal|Keelung_City.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~East/Taiwan/Counties/Keelung_City.secret|Keelung_City.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~East/Taiwan/Counties/Keelung_City|Keelung_City]] 
+- [[../../../../../../../_public/geo/Continent/Asia/Asia~East/Taiwan/Counties/Keelung_City.public|Keelung_City.public]] 
+- [[../../../../../../../_internal/geo/Continent/Asia/Asia~East/Taiwan/Counties/Keelung_City.internal|Keelung_City.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Asia/Asia~East/Taiwan/Counties/Keelung_City.protect|Keelung_City.protect]] 
+- [[../../../../../../../_private/geo/Continent/Asia/Asia~East/Taiwan/Counties/Keelung_City.private|Keelung_City.private]] 
+- [[../../../../../../../_personal/geo/Continent/Asia/Asia~East/Taiwan/Counties/Keelung_City.personal|Keelung_City.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Asia/Asia~East/Taiwan/Counties/Keelung_City.secret|Keelung_City.secret]] 
 

@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 27.7 , 91.1 ] 
 type: geo-Region
 title: Lhuntshi
@@ -40,10 +40,11 @@ markerFolder: ./Lhuntshi/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Asia/Asia~South/Bhutan/Counties/Lhuntshi.md|Lhuntshi]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~South/Bhutan/Counties/Lhuntshi.internal|Lhuntshi.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~South/Bhutan/Counties/Lhuntshi.protect|Lhuntshi.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~South/Bhutan/Counties/Lhuntshi.private|Lhuntshi.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~South/Bhutan/Counties/Lhuntshi.personal|Lhuntshi.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~South/Bhutan/Counties/Lhuntshi.secret|Lhuntshi.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South/Bhutan/Counties/Lhuntshi|Lhuntshi]] 
+- [[../../../../../../../_public/geo/Continent/Asia/Asia~South/Bhutan/Counties/Lhuntshi.public|Lhuntshi.public]] 
+- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South/Bhutan/Counties/Lhuntshi.internal|Lhuntshi.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South/Bhutan/Counties/Lhuntshi.protect|Lhuntshi.protect]] 
+- [[../../../../../../../_private/geo/Continent/Asia/Asia~South/Bhutan/Counties/Lhuntshi.private|Lhuntshi.private]] 
+- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South/Bhutan/Counties/Lhuntshi.personal|Lhuntshi.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South/Bhutan/Counties/Lhuntshi.secret|Lhuntshi.secret]] 
 

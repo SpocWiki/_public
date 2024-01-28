@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 40.1 , 46.3 ] 
 type: geo-Region
 title: Kəlbəcər
@@ -40,10 +40,11 @@ markerFolder: ./Kəlbəcər/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Kəlbəcər.md|Kəlbəcər]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Kəlbəcər.internal|Kəlbəcər.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Kəlbəcər.protect|Kəlbəcər.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Kəlbəcər.private|Kəlbəcər.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Kəlbəcər.personal|Kəlbəcər.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Kəlbəcər.secret|Kəlbəcər.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Kəlbəcər|Kəlbəcər]] 
+- [[../../../../../../../_public/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Kəlbəcər.public|Kəlbəcər.public]] 
+- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Kəlbəcər.internal|Kəlbəcər.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Kəlbəcər.protect|Kəlbəcər.protect]] 
+- [[../../../../../../../_private/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Kəlbəcər.private|Kəlbəcər.private]] 
+- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Kəlbəcər.personal|Kəlbəcər.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Kəlbəcər.secret|Kəlbəcər.secret]] 
 

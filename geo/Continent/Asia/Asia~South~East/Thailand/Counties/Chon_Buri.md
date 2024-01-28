@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 13.1 , 101.2 ] 
 type: geo-Region
 title: Chon_Buri
@@ -40,10 +40,11 @@ markerFolder: ./Chon_Buri/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Chon_Buri.md|Chon_Buri]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Chon_Buri.internal|Chon_Buri.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Chon_Buri.protect|Chon_Buri.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Chon_Buri.private|Chon_Buri.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Chon_Buri.personal|Chon_Buri.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Chon_Buri.secret|Chon_Buri.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Chon_Buri|Chon_Buri]] 
+- [[../../../../../../../_public/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Chon_Buri.public|Chon_Buri.public]] 
+- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Chon_Buri.internal|Chon_Buri.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Chon_Buri.protect|Chon_Buri.protect]] 
+- [[../../../../../../../_private/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Chon_Buri.private|Chon_Buri.private]] 
+- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Chon_Buri.personal|Chon_Buri.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Chon_Buri.secret|Chon_Buri.secret]] 
 

@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 35.7 , 66.1 ] 
 type: geo-Region
 title: Sari_Pul
@@ -40,10 +40,11 @@ markerFolder: ./Sari_Pul/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Asia/Asia~Central/Afghanistan/Counties/Sari_Pul.md|Sari_Pul]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~Central/Afghanistan/Counties/Sari_Pul.internal|Sari_Pul.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~Central/Afghanistan/Counties/Sari_Pul.protect|Sari_Pul.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~Central/Afghanistan/Counties/Sari_Pul.private|Sari_Pul.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~Central/Afghanistan/Counties/Sari_Pul.personal|Sari_Pul.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~Central/Afghanistan/Counties/Sari_Pul.secret|Sari_Pul.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~Central/Afghanistan/Counties/Sari_Pul|Sari_Pul]] 
+- [[../../../../../../../_public/geo/Continent/Asia/Asia~Central/Afghanistan/Counties/Sari_Pul.public|Sari_Pul.public]] 
+- [[../../../../../../../_internal/geo/Continent/Asia/Asia~Central/Afghanistan/Counties/Sari_Pul.internal|Sari_Pul.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Asia/Asia~Central/Afghanistan/Counties/Sari_Pul.protect|Sari_Pul.protect]] 
+- [[../../../../../../../_private/geo/Continent/Asia/Asia~Central/Afghanistan/Counties/Sari_Pul.private|Sari_Pul.private]] 
+- [[../../../../../../../_personal/geo/Continent/Asia/Asia~Central/Afghanistan/Counties/Sari_Pul.personal|Sari_Pul.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Asia/Asia~Central/Afghanistan/Counties/Sari_Pul.secret|Sari_Pul.secret]] 
 

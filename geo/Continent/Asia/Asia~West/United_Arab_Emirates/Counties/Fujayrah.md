@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 25.4 , 56.2 ] 
 type: geo-Region
 title: Fujayrah
@@ -40,10 +40,11 @@ markerFolder: ./Fujayrah/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Asia/Asia~West/United_Arab_Emirates/Counties/Fujayrah.md|Fujayrah]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~West/United_Arab_Emirates/Counties/Fujayrah.internal|Fujayrah.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~West/United_Arab_Emirates/Counties/Fujayrah.protect|Fujayrah.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~West/United_Arab_Emirates/Counties/Fujayrah.private|Fujayrah.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~West/United_Arab_Emirates/Counties/Fujayrah.personal|Fujayrah.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~West/United_Arab_Emirates/Counties/Fujayrah.secret|Fujayrah.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~West/United_Arab_Emirates/Counties/Fujayrah|Fujayrah]] 
+- [[../../../../../../../_public/geo/Continent/Asia/Asia~West/United_Arab_Emirates/Counties/Fujayrah.public|Fujayrah.public]] 
+- [[../../../../../../../_internal/geo/Continent/Asia/Asia~West/United_Arab_Emirates/Counties/Fujayrah.internal|Fujayrah.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Asia/Asia~West/United_Arab_Emirates/Counties/Fujayrah.protect|Fujayrah.protect]] 
+- [[../../../../../../../_private/geo/Continent/Asia/Asia~West/United_Arab_Emirates/Counties/Fujayrah.private|Fujayrah.private]] 
+- [[../../../../../../../_personal/geo/Continent/Asia/Asia~West/United_Arab_Emirates/Counties/Fujayrah.personal|Fujayrah.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Asia/Asia~West/United_Arab_Emirates/Counties/Fujayrah.secret|Fujayrah.secret]] 
 

@@ -1,5 +1,5 @@
 ---
-location: [40.2,46.8]
+location: [40.2,46.8] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,27 +12,28 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::46.8]
-[geo-lat::40.2]
-[name::Mardakert]
-[State::]
-[Country::[[Russia]]]
-[StateId::]
-[Population::]
-[Unknown::]
+[geo-lon::46.8] 
+[geo-lat::40.2] 
+[name::Mardakert] 
+State ::  
+Country :: [[Russia]]  
+[StateId::] 
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Mardakert
-coordinates: [[Mardakert]]
-markerFile: [[Mardakert]]
+coordinates: [[Mardakert]] 
+markerFile: [[Mardakert]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_public/geo/Continent/Europe/Russia/City/Mardakert.md|Mardakert]] 
+- [[../../../../../../_Standards/geo/Continent/Europe/Russia/City/Mardakert|Mardakert]] 
+- [[../../../../../../_public/geo/Continent/Europe/Russia/City/Mardakert.public|Mardakert.public]] 
 - [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Mardakert.internal|Mardakert.internal]] 
 - [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Mardakert.protect|Mardakert.protect]] 
 - [[../../../../../../_private/geo/Continent/Europe/Russia/City/Mardakert.private|Mardakert.private]] 

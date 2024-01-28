@@ -1,5 +1,5 @@
 ﻿---
-location: [14.59,120.97]
+location: [14.59,120.97] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,27 +12,28 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::120.97]
-[geo-lat::14.59]
-[name::Manila]
-[State::]
-[Country::[[Philippines]]]
-[StateId::]
-[Population::]
-[Unknown::]
+[geo-lon::120.97] 
+[geo-lat::14.59] 
+[name::Manila] 
+State ::  
+Country :: [[Philippines]]  
+[StateId::] 
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Manila
-coordinates: [[Manila]]
-markerFile: [[Manila]]
+coordinates: [[Manila]] 
+markerFile: [[Manila]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_public/geo/Continent/Oceania/Philippines/City/Manila.md|Manila]] 
+- [[../../../../../../_Standards/geo/Continent/Oceania/Philippines/City/Manila|Manila]] 
+- [[../../../../../../_public/geo/Continent/Oceania/Philippines/City/Manila.public|Manila.public]] 
 - [[../../../../../../_internal/geo/Continent/Oceania/Philippines/City/Manila.internal|Manila.internal]] 
 - [[../../../../../../_protect/geo/Continent/Oceania/Philippines/City/Manila.protect|Manila.protect]] 
 - [[../../../../../../_private/geo/Continent/Oceania/Philippines/City/Manila.private|Manila.private]] 

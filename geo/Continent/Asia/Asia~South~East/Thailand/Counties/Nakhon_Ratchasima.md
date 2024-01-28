@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 14.9 , 102 ] 
 type: geo-Region
 title: Nakhon_Ratchasima
@@ -40,10 +40,11 @@ markerFolder: ./Nakhon_Ratchasima/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Nakhon_Ratchasima.md|Nakhon_Ratchasima]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Nakhon_Ratchasima.internal|Nakhon_Ratchasima.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Nakhon_Ratchasima.protect|Nakhon_Ratchasima.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Nakhon_Ratchasima.private|Nakhon_Ratchasima.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Nakhon_Ratchasima.personal|Nakhon_Ratchasima.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Nakhon_Ratchasima.secret|Nakhon_Ratchasima.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Nakhon_Ratchasima|Nakhon_Ratchasima]] 
+- [[../../../../../../../_public/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Nakhon_Ratchasima.public|Nakhon_Ratchasima.public]] 
+- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Nakhon_Ratchasima.internal|Nakhon_Ratchasima.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Nakhon_Ratchasima.protect|Nakhon_Ratchasima.protect]] 
+- [[../../../../../../../_private/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Nakhon_Ratchasima.private|Nakhon_Ratchasima.private]] 
+- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Nakhon_Ratchasima.personal|Nakhon_Ratchasima.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Nakhon_Ratchasima.secret|Nakhon_Ratchasima.secret]] 
 

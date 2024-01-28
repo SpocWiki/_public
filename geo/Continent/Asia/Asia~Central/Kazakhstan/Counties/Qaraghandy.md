@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 49 , 71 ] 
 type: geo-Region
 title: Qaraghandy
@@ -40,10 +40,11 @@ markerFolder: ./Qaraghandy/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Asia/Asia~Central/Kazakhstan/Counties/Qaraghandy.md|Qaraghandy]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~Central/Kazakhstan/Counties/Qaraghandy.internal|Qaraghandy.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~Central/Kazakhstan/Counties/Qaraghandy.protect|Qaraghandy.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~Central/Kazakhstan/Counties/Qaraghandy.private|Qaraghandy.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~Central/Kazakhstan/Counties/Qaraghandy.personal|Qaraghandy.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~Central/Kazakhstan/Counties/Qaraghandy.secret|Qaraghandy.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~Central/Kazakhstan/Counties/Qaraghandy|Qaraghandy]] 
+- [[../../../../../../../_public/geo/Continent/Asia/Asia~Central/Kazakhstan/Counties/Qaraghandy.public|Qaraghandy.public]] 
+- [[../../../../../../../_internal/geo/Continent/Asia/Asia~Central/Kazakhstan/Counties/Qaraghandy.internal|Qaraghandy.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Asia/Asia~Central/Kazakhstan/Counties/Qaraghandy.protect|Qaraghandy.protect]] 
+- [[../../../../../../../_private/geo/Continent/Asia/Asia~Central/Kazakhstan/Counties/Qaraghandy.private|Qaraghandy.private]] 
+- [[../../../../../../../_personal/geo/Continent/Asia/Asia~Central/Kazakhstan/Counties/Qaraghandy.personal|Qaraghandy.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Asia/Asia~Central/Kazakhstan/Counties/Qaraghandy.secret|Qaraghandy.secret]] 
 

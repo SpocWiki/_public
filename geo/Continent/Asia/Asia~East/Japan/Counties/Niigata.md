@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 37.6 , 139.2 ] 
 type: geo-Region
 title: Niigata
@@ -40,10 +40,11 @@ markerFolder: ./Niigata/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Asia/Asia~East/Japan/Counties/Niigata.md|Niigata]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~East/Japan/Counties/Niigata.internal|Niigata.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~East/Japan/Counties/Niigata.protect|Niigata.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~East/Japan/Counties/Niigata.private|Niigata.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~East/Japan/Counties/Niigata.personal|Niigata.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~East/Japan/Counties/Niigata.secret|Niigata.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~East/Japan/Counties/Niigata|Niigata]] 
+- [[../../../../../../../_public/geo/Continent/Asia/Asia~East/Japan/Counties/Niigata.public|Niigata.public]] 
+- [[../../../../../../../_internal/geo/Continent/Asia/Asia~East/Japan/Counties/Niigata.internal|Niigata.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Asia/Asia~East/Japan/Counties/Niigata.protect|Niigata.protect]] 
+- [[../../../../../../../_private/geo/Continent/Asia/Asia~East/Japan/Counties/Niigata.private|Niigata.private]] 
+- [[../../../../../../../_personal/geo/Continent/Asia/Asia~East/Japan/Counties/Niigata.personal|Niigata.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Asia/Asia~East/Japan/Counties/Niigata.secret|Niigata.secret]] 
 

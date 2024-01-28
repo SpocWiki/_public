@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 13.2 , 109.1 ] 
 type: geo-Region
 title: Phú_Yên
@@ -40,10 +40,11 @@ markerFolder: ./Phú_Yên/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Phú_Yên.md|Phú_Yên]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Phú_Yên.internal|Phú_Yên.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Phú_Yên.protect|Phú_Yên.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Phú_Yên.private|Phú_Yên.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Phú_Yên.personal|Phú_Yên.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Phú_Yên.secret|Phú_Yên.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Phú_Yên|Phú_Yên]] 
+- [[../../../../../../../_public/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Phú_Yên.public|Phú_Yên.public]] 
+- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Phú_Yên.internal|Phú_Yên.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Phú_Yên.protect|Phú_Yên.protect]] 
+- [[../../../../../../../_private/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Phú_Yên.private|Phú_Yên.private]] 
+- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Phú_Yên.personal|Phú_Yên.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Phú_Yên.secret|Phú_Yên.secret]] 
 

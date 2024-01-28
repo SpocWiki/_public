@@ -1,5 +1,5 @@
 ﻿---
-location: [41.47,76.03]
+location: [41.47,76.03] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,27 +12,28 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::76.03]
-[geo-lat::41.47]
-[name::Naryn]
-[State::]
-[Country::[[Russia]]]
-[StateId::]
-[Population::]
-[Unknown::]
+[geo-lon::76.03] 
+[geo-lat::41.47] 
+[name::Naryn] 
+State ::  
+Country :: [[Russia]]  
+[StateId::] 
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Naryn
-coordinates: [[Naryn]]
-markerFile: [[Naryn]]
+coordinates: [[Naryn]] 
+markerFile: [[Naryn]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_public/geo/Continent/Europe/Russia/City/Naryn.md|Naryn]] 
+- [[../../../../../../_Standards/geo/Continent/Europe/Russia/City/Naryn|Naryn]] 
+- [[../../../../../../_public/geo/Continent/Europe/Russia/City/Naryn.public|Naryn.public]] 
 - [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Naryn.internal|Naryn.internal]] 
 - [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Naryn.protect|Naryn.protect]] 
 - [[../../../../../../_private/geo/Continent/Europe/Russia/City/Naryn.private|Naryn.private]] 

@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 8 , 123.9 ] 
 type: geo-Region
 title: Lanao_del_Norte
@@ -40,10 +40,11 @@ markerFolder: ./Lanao_del_Norte/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Lanao_del_Norte.md|Lanao_del_Norte]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Lanao_del_Norte.internal|Lanao_del_Norte.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Lanao_del_Norte.protect|Lanao_del_Norte.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Lanao_del_Norte.private|Lanao_del_Norte.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Lanao_del_Norte.personal|Lanao_del_Norte.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Lanao_del_Norte.secret|Lanao_del_Norte.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Lanao_del_Norte|Lanao_del_Norte]] 
+- [[../../../../../../../_public/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Lanao_del_Norte.public|Lanao_del_Norte.public]] 
+- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Lanao_del_Norte.internal|Lanao_del_Norte.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Lanao_del_Norte.protect|Lanao_del_Norte.protect]] 
+- [[../../../../../../../_private/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Lanao_del_Norte.private|Lanao_del_Norte.private]] 
+- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Lanao_del_Norte.personal|Lanao_del_Norte.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Lanao_del_Norte.secret|Lanao_del_Norte.secret]] 
 

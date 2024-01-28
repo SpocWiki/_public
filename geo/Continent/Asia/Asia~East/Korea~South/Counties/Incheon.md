@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 37.5 , 126.7 ] 
 type: geo-Region
 title: Incheon
@@ -40,10 +40,11 @@ markerFolder: ./Incheon/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Asia/Asia~East/Korea~South/Counties/Incheon.md|Incheon]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~East/Korea~South/Counties/Incheon.internal|Incheon.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~East/Korea~South/Counties/Incheon.protect|Incheon.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~East/Korea~South/Counties/Incheon.private|Incheon.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~East/Korea~South/Counties/Incheon.personal|Incheon.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~East/Korea~South/Counties/Incheon.secret|Incheon.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~East/Korea~South/Counties/Incheon|Incheon]] 
+- [[../../../../../../../_public/geo/Continent/Asia/Asia~East/Korea~South/Counties/Incheon.public|Incheon.public]] 
+- [[../../../../../../../_internal/geo/Continent/Asia/Asia~East/Korea~South/Counties/Incheon.internal|Incheon.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Asia/Asia~East/Korea~South/Counties/Incheon.protect|Incheon.protect]] 
+- [[../../../../../../../_private/geo/Continent/Asia/Asia~East/Korea~South/Counties/Incheon.private|Incheon.private]] 
+- [[../../../../../../../_personal/geo/Continent/Asia/Asia~East/Korea~South/Counties/Incheon.personal|Incheon.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Asia/Asia~East/Korea~South/Counties/Incheon.secret|Incheon.secret]] 
 

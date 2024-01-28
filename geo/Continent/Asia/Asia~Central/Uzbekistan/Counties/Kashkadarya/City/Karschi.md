@@ -1,5 +1,5 @@
 ﻿---
-location: [38.87,65.78]
+location: [38.87,65.78] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,27 +12,28 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::65.78]
-[geo-lat::38.87]
-[name::Karschi]
-[State::]
-[Country::[[Russia]]]
-[StateId::]
-[Population::]
-[Unknown::]
+[geo-lon::65.78] 
+[geo-lat::38.87] 
+[name::Karschi] 
+State ::  
+Country :: [[Russia]]  
+[StateId::] 
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Karschi
-coordinates: [[Karschi]]
-markerFile: [[Karschi]]
+coordinates: [[Karschi]] 
+markerFile: [[Karschi]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_public/geo/Continent/Europe/Russia/City/Karschi.md|Karschi]] 
+- [[../../../../../../_Standards/geo/Continent/Europe/Russia/City/Karschi|Karschi]] 
+- [[../../../../../../_public/geo/Continent/Europe/Russia/City/Karschi.public|Karschi.public]] 
 - [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Karschi.internal|Karschi.internal]] 
 - [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Karschi.protect|Karschi.protect]] 
 - [[../../../../../../_private/geo/Continent/Europe/Russia/City/Karschi.private|Karschi.private]] 

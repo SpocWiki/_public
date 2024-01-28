@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 29.6 , 82.5 ] 
 type: geo-Region
 title: Karnali
@@ -40,10 +40,11 @@ markerFolder: ./Karnali/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Asia/Asia~South/Nepal/Counties/Karnali.md|Karnali]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~South/Nepal/Counties/Karnali.internal|Karnali.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~South/Nepal/Counties/Karnali.protect|Karnali.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~South/Nepal/Counties/Karnali.private|Karnali.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~South/Nepal/Counties/Karnali.personal|Karnali.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~South/Nepal/Counties/Karnali.secret|Karnali.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South/Nepal/Counties/Karnali|Karnali]] 
+- [[../../../../../../../_public/geo/Continent/Asia/Asia~South/Nepal/Counties/Karnali.public|Karnali.public]] 
+- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South/Nepal/Counties/Karnali.internal|Karnali.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South/Nepal/Counties/Karnali.protect|Karnali.protect]] 
+- [[../../../../../../../_private/geo/Continent/Asia/Asia~South/Nepal/Counties/Karnali.private|Karnali.private]] 
+- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South/Nepal/Counties/Karnali.personal|Karnali.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South/Nepal/Counties/Karnali.secret|Karnali.secret]] 
 

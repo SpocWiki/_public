@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 12.2 , 104.5 ] 
 type: geo-Region
 title: Kâmpóng_Chhnang
@@ -40,10 +40,11 @@ markerFolder: ./Kâmpóng_Chhnang/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Asia/Asia~South~East/Cambodia/Counties/Kâmpóng_Chhnang.md|Kâmpóng_Chhnang]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~South~East/Cambodia/Counties/Kâmpóng_Chhnang.internal|Kâmpóng_Chhnang.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~South~East/Cambodia/Counties/Kâmpóng_Chhnang.protect|Kâmpóng_Chhnang.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~South~East/Cambodia/Counties/Kâmpóng_Chhnang.private|Kâmpóng_Chhnang.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~South~East/Cambodia/Counties/Kâmpóng_Chhnang.personal|Kâmpóng_Chhnang.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~South~East/Cambodia/Counties/Kâmpóng_Chhnang.secret|Kâmpóng_Chhnang.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South~East/Cambodia/Counties/Kâmpóng_Chhnang|Kâmpóng_Chhnang]] 
+- [[../../../../../../../_public/geo/Continent/Asia/Asia~South~East/Cambodia/Counties/Kâmpóng_Chhnang.public|Kâmpóng_Chhnang.public]] 
+- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South~East/Cambodia/Counties/Kâmpóng_Chhnang.internal|Kâmpóng_Chhnang.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South~East/Cambodia/Counties/Kâmpóng_Chhnang.protect|Kâmpóng_Chhnang.protect]] 
+- [[../../../../../../../_private/geo/Continent/Asia/Asia~South~East/Cambodia/Counties/Kâmpóng_Chhnang.private|Kâmpóng_Chhnang.private]] 
+- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South~East/Cambodia/Counties/Kâmpóng_Chhnang.personal|Kâmpóng_Chhnang.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South~East/Cambodia/Counties/Kâmpóng_Chhnang.secret|Kâmpóng_Chhnang.secret]] 
 

@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 17.2 , 102.3 ] 
 type: geo-Region
 title: Nong_Bua_Lam_Phu
@@ -40,10 +40,11 @@ markerFolder: ./Nong_Bua_Lam_Phu/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Nong_Bua_Lam_Phu.md|Nong_Bua_Lam_Phu]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Nong_Bua_Lam_Phu.internal|Nong_Bua_Lam_Phu.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Nong_Bua_Lam_Phu.protect|Nong_Bua_Lam_Phu.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Nong_Bua_Lam_Phu.private|Nong_Bua_Lam_Phu.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Nong_Bua_Lam_Phu.personal|Nong_Bua_Lam_Phu.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Nong_Bua_Lam_Phu.secret|Nong_Bua_Lam_Phu.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Nong_Bua_Lam_Phu|Nong_Bua_Lam_Phu]] 
+- [[../../../../../../../_public/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Nong_Bua_Lam_Phu.public|Nong_Bua_Lam_Phu.public]] 
+- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Nong_Bua_Lam_Phu.internal|Nong_Bua_Lam_Phu.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Nong_Bua_Lam_Phu.protect|Nong_Bua_Lam_Phu.protect]] 
+- [[../../../../../../../_private/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Nong_Bua_Lam_Phu.private|Nong_Bua_Lam_Phu.private]] 
+- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Nong_Bua_Lam_Phu.personal|Nong_Bua_Lam_Phu.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Nong_Bua_Lam_Phu.secret|Nong_Bua_Lam_Phu.secret]] 
 

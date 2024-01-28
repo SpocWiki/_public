@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 52.2 , 76.4 ] 
 type: geo-Region
 title: Pavlodar
@@ -40,10 +40,11 @@ markerFolder: ./Pavlodar/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Asia/Asia~Central/Kazakhstan/Counties/Pavlodar.md|Pavlodar]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~Central/Kazakhstan/Counties/Pavlodar.internal|Pavlodar.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~Central/Kazakhstan/Counties/Pavlodar.protect|Pavlodar.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~Central/Kazakhstan/Counties/Pavlodar.private|Pavlodar.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~Central/Kazakhstan/Counties/Pavlodar.personal|Pavlodar.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~Central/Kazakhstan/Counties/Pavlodar.secret|Pavlodar.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~Central/Kazakhstan/Counties/Pavlodar|Pavlodar]] 
+- [[../../../../../../../_public/geo/Continent/Asia/Asia~Central/Kazakhstan/Counties/Pavlodar.public|Pavlodar.public]] 
+- [[../../../../../../../_internal/geo/Continent/Asia/Asia~Central/Kazakhstan/Counties/Pavlodar.internal|Pavlodar.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Asia/Asia~Central/Kazakhstan/Counties/Pavlodar.protect|Pavlodar.protect]] 
+- [[../../../../../../../_private/geo/Continent/Asia/Asia~Central/Kazakhstan/Counties/Pavlodar.private|Pavlodar.private]] 
+- [[../../../../../../../_personal/geo/Continent/Asia/Asia~Central/Kazakhstan/Counties/Pavlodar.personal|Pavlodar.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Asia/Asia~Central/Kazakhstan/Counties/Pavlodar.secret|Pavlodar.secret]] 
 

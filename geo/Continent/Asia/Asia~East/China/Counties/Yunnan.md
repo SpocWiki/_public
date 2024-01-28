@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 25.2 , 101.3 ] 
 type: geo-Region
 title: Yunnan
@@ -40,10 +40,11 @@ markerFolder: ./Yunnan/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Asia/Asia~East/China/Counties/Yunnan.md|Yunnan]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~East/China/Counties/Yunnan.internal|Yunnan.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~East/China/Counties/Yunnan.protect|Yunnan.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~East/China/Counties/Yunnan.private|Yunnan.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~East/China/Counties/Yunnan.personal|Yunnan.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~East/China/Counties/Yunnan.secret|Yunnan.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~East/China/Counties/Yunnan|Yunnan]] 
+- [[../../../../../../../_public/geo/Continent/Asia/Asia~East/China/Counties/Yunnan.public|Yunnan.public]] 
+- [[../../../../../../../_internal/geo/Continent/Asia/Asia~East/China/Counties/Yunnan.internal|Yunnan.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Asia/Asia~East/China/Counties/Yunnan.protect|Yunnan.protect]] 
+- [[../../../../../../../_private/geo/Continent/Asia/Asia~East/China/Counties/Yunnan.private|Yunnan.private]] 
+- [[../../../../../../../_personal/geo/Continent/Asia/Asia~East/China/Counties/Yunnan.personal|Yunnan.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Asia/Asia~East/China/Counties/Yunnan.secret|Yunnan.secret]] 
 

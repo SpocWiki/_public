@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 15.6 , 121 ] 
 type: geo-Region
 title: Nueva_Ecija
@@ -40,10 +40,11 @@ markerFolder: ./Nueva_Ecija/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Nueva_Ecija.md|Nueva_Ecija]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Nueva_Ecija.internal|Nueva_Ecija.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Nueva_Ecija.protect|Nueva_Ecija.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Nueva_Ecija.private|Nueva_Ecija.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Nueva_Ecija.personal|Nueva_Ecija.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Nueva_Ecija.secret|Nueva_Ecija.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Nueva_Ecija|Nueva_Ecija]] 
+- [[../../../../../../../_public/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Nueva_Ecija.public|Nueva_Ecija.public]] 
+- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Nueva_Ecija.internal|Nueva_Ecija.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Nueva_Ecija.protect|Nueva_Ecija.protect]] 
+- [[../../../../../../../_private/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Nueva_Ecija.private|Nueva_Ecija.private]] 
+- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Nueva_Ecija.personal|Nueva_Ecija.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Nueva_Ecija.secret|Nueva_Ecija.secret]] 
 

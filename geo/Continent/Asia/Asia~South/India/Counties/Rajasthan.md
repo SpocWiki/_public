@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 26.6 , 73.8 ] 
 type: geo-Region
 title: Rajasthan
@@ -40,10 +40,11 @@ markerFolder: ./Rajasthan/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Asia/Asia~South/India/Counties/Rajasthan.md|Rajasthan]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~South/India/Counties/Rajasthan.internal|Rajasthan.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~South/India/Counties/Rajasthan.protect|Rajasthan.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~South/India/Counties/Rajasthan.private|Rajasthan.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~South/India/Counties/Rajasthan.personal|Rajasthan.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~South/India/Counties/Rajasthan.secret|Rajasthan.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South/India/Counties/Rajasthan|Rajasthan]] 
+- [[../../../../../../../_public/geo/Continent/Asia/Asia~South/India/Counties/Rajasthan.public|Rajasthan.public]] 
+- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South/India/Counties/Rajasthan.internal|Rajasthan.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South/India/Counties/Rajasthan.protect|Rajasthan.protect]] 
+- [[../../../../../../../_private/geo/Continent/Asia/Asia~South/India/Counties/Rajasthan.private|Rajasthan.private]] 
+- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South/India/Counties/Rajasthan.personal|Rajasthan.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South/India/Counties/Rajasthan.secret|Rajasthan.secret]] 
 

@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 28.8 , 51.5 ] 
 type: geo-Region
 title: Bushehr
@@ -40,10 +40,11 @@ markerFolder: ./Bushehr/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Asia/Asia~West/Iran/Counties/Bushehr.md|Bushehr]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~West/Iran/Counties/Bushehr.internal|Bushehr.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~West/Iran/Counties/Bushehr.protect|Bushehr.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~West/Iran/Counties/Bushehr.private|Bushehr.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~West/Iran/Counties/Bushehr.personal|Bushehr.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~West/Iran/Counties/Bushehr.secret|Bushehr.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~West/Iran/Counties/Bushehr|Bushehr]] 
+- [[../../../../../../../_public/geo/Continent/Asia/Asia~West/Iran/Counties/Bushehr.public|Bushehr.public]] 
+- [[../../../../../../../_internal/geo/Continent/Asia/Asia~West/Iran/Counties/Bushehr.internal|Bushehr.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Asia/Asia~West/Iran/Counties/Bushehr.protect|Bushehr.protect]] 
+- [[../../../../../../../_private/geo/Continent/Asia/Asia~West/Iran/Counties/Bushehr.private|Bushehr.private]] 
+- [[../../../../../../../_personal/geo/Continent/Asia/Asia~West/Iran/Counties/Bushehr.personal|Bushehr.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Asia/Asia~West/Iran/Counties/Bushehr.secret|Bushehr.secret]] 
 

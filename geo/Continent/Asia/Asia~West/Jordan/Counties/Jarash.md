@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 32.2 , 35.9 ] 
 type: geo-Region
 title: Jarash
@@ -40,10 +40,11 @@ markerFolder: ./Jarash/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Asia/Asia~West/Jordan/Counties/Jarash.md|Jarash]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~West/Jordan/Counties/Jarash.internal|Jarash.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~West/Jordan/Counties/Jarash.protect|Jarash.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~West/Jordan/Counties/Jarash.private|Jarash.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~West/Jordan/Counties/Jarash.personal|Jarash.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~West/Jordan/Counties/Jarash.secret|Jarash.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~West/Jordan/Counties/Jarash|Jarash]] 
+- [[../../../../../../../_public/geo/Continent/Asia/Asia~West/Jordan/Counties/Jarash.public|Jarash.public]] 
+- [[../../../../../../../_internal/geo/Continent/Asia/Asia~West/Jordan/Counties/Jarash.internal|Jarash.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Asia/Asia~West/Jordan/Counties/Jarash.protect|Jarash.protect]] 
+- [[../../../../../../../_private/geo/Continent/Asia/Asia~West/Jordan/Counties/Jarash.private|Jarash.private]] 
+- [[../../../../../../../_personal/geo/Continent/Asia/Asia~West/Jordan/Counties/Jarash.personal|Jarash.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Asia/Asia~West/Jordan/Counties/Jarash.secret|Jarash.secret]] 
 

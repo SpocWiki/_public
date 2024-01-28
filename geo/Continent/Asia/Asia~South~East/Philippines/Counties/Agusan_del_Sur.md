@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 8.6 , 125.7 ] 
 type: geo-Region
 title: Agusan_del_Sur
@@ -40,10 +40,11 @@ markerFolder: ./Agusan_del_Sur/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Agusan_del_Sur.md|Agusan_del_Sur]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Agusan_del_Sur.internal|Agusan_del_Sur.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Agusan_del_Sur.protect|Agusan_del_Sur.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Agusan_del_Sur.private|Agusan_del_Sur.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Agusan_del_Sur.personal|Agusan_del_Sur.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Agusan_del_Sur.secret|Agusan_del_Sur.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Agusan_del_Sur|Agusan_del_Sur]] 
+- [[../../../../../../../_public/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Agusan_del_Sur.public|Agusan_del_Sur.public]] 
+- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Agusan_del_Sur.internal|Agusan_del_Sur.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Agusan_del_Sur.protect|Agusan_del_Sur.protect]] 
+- [[../../../../../../../_private/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Agusan_del_Sur.private|Agusan_del_Sur.private]] 
+- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Agusan_del_Sur.personal|Agusan_del_Sur.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Agusan_del_Sur.secret|Agusan_del_Sur.secret]] 
 

@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 21.7 , 102.2 ] 
 type: geo-Region
 title: Phôngsali
@@ -40,10 +40,11 @@ markerFolder: ./Phôngsali/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Asia/Asia~South~East/Laos/Counties/Phôngsali.md|Phôngsali]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~South~East/Laos/Counties/Phôngsali.internal|Phôngsali.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~South~East/Laos/Counties/Phôngsali.protect|Phôngsali.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~South~East/Laos/Counties/Phôngsali.private|Phôngsali.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~South~East/Laos/Counties/Phôngsali.personal|Phôngsali.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~South~East/Laos/Counties/Phôngsali.secret|Phôngsali.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South~East/Laos/Counties/Phôngsali|Phôngsali]] 
+- [[../../../../../../../_public/geo/Continent/Asia/Asia~South~East/Laos/Counties/Phôngsali.public|Phôngsali.public]] 
+- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South~East/Laos/Counties/Phôngsali.internal|Phôngsali.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South~East/Laos/Counties/Phôngsali.protect|Phôngsali.protect]] 
+- [[../../../../../../../_private/geo/Continent/Asia/Asia~South~East/Laos/Counties/Phôngsali.private|Phôngsali.private]] 
+- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South~East/Laos/Counties/Phôngsali.personal|Phôngsali.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South~East/Laos/Counties/Phôngsali.secret|Phôngsali.secret]] 
 

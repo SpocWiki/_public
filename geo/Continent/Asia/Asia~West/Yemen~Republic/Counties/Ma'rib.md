@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 15.3 , 45.5 ] 
 type: geo-Region
 title: Ma'rib
@@ -40,10 +40,11 @@ markerFolder: ./Ma'rib/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Asia/Asia~West/Yemen~Republic/Counties/Ma'rib.md|Ma'rib]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~West/Yemen~Republic/Counties/Ma'rib.internal|Ma'rib.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~West/Yemen~Republic/Counties/Ma'rib.protect|Ma'rib.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~West/Yemen~Republic/Counties/Ma'rib.private|Ma'rib.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~West/Yemen~Republic/Counties/Ma'rib.personal|Ma'rib.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~West/Yemen~Republic/Counties/Ma'rib.secret|Ma'rib.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~West/Yemen~Republic/Counties/Ma'rib|Ma'rib]] 
+- [[../../../../../../../_public/geo/Continent/Asia/Asia~West/Yemen~Republic/Counties/Ma'rib.public|Ma'rib.public]] 
+- [[../../../../../../../_internal/geo/Continent/Asia/Asia~West/Yemen~Republic/Counties/Ma'rib.internal|Ma'rib.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Asia/Asia~West/Yemen~Republic/Counties/Ma'rib.protect|Ma'rib.protect]] 
+- [[../../../../../../../_private/geo/Continent/Asia/Asia~West/Yemen~Republic/Counties/Ma'rib.private|Ma'rib.private]] 
+- [[../../../../../../../_personal/geo/Continent/Asia/Asia~West/Yemen~Republic/Counties/Ma'rib.personal|Ma'rib.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Asia/Asia~West/Yemen~Republic/Counties/Ma'rib.secret|Ma'rib.secret]] 
 

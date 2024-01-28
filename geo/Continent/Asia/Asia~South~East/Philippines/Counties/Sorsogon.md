@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 12.8 , 124 ] 
 type: geo-Region
 title: Sorsogon
@@ -40,10 +40,11 @@ markerFolder: ./Sorsogon/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Sorsogon.md|Sorsogon]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Sorsogon.internal|Sorsogon.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Sorsogon.protect|Sorsogon.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Sorsogon.private|Sorsogon.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Sorsogon.personal|Sorsogon.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Sorsogon.secret|Sorsogon.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Sorsogon|Sorsogon]] 
+- [[../../../../../../../_public/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Sorsogon.public|Sorsogon.public]] 
+- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Sorsogon.internal|Sorsogon.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Sorsogon.protect|Sorsogon.protect]] 
+- [[../../../../../../../_private/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Sorsogon.private|Sorsogon.private]] 
+- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Sorsogon.personal|Sorsogon.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Sorsogon.secret|Sorsogon.secret]] 
 

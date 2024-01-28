@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 40.6 , 49.6 ] 
 type: geo-Region
 title: Sumqayıt
@@ -40,10 +40,11 @@ markerFolder: ./Sumqayıt/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Sumqayıt.md|Sumqayıt]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Sumqayıt.internal|Sumqayıt.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Sumqayıt.protect|Sumqayıt.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Sumqayıt.private|Sumqayıt.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Sumqayıt.personal|Sumqayıt.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Sumqayıt.secret|Sumqayıt.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Sumqayıt|Sumqayıt]] 
+- [[../../../../../../../_public/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Sumqayıt.public|Sumqayıt.public]] 
+- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Sumqayıt.internal|Sumqayıt.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Sumqayıt.protect|Sumqayıt.protect]] 
+- [[../../../../../../../_private/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Sumqayıt.private|Sumqayıt.private]] 
+- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Sumqayıt.personal|Sumqayıt.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Sumqayıt.secret|Sumqayıt.secret]] 
 

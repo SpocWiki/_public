@@ -1,4 +1,4 @@
-﻿---
+---
 
 type: Country
 tags:
@@ -9,8 +9,8 @@ isDeleted: false
 confidential: public
 
 ---
-[ISO2::]
-[ISO3::]
+[ISO2::] 
+[ISO3::] 
 ```leaflet
 id: Yemen Democratic (Former)
 zoomFeatures: true 
@@ -20,23 +20,23 @@ geojsonFolder: ./Yemen_Democratic_(Former)/
 markerFolder: ./Yemen_Democratic_(Former)/
 ```
 
-[name-en::Yemen Democratic (Former)]
-[name-de::Süd Jemen]
-[Area-Total::]
-[Area-Land::]
-[Continent::[[Africa]]]
-[VehicleCode::]
-[Capital-Id::]
-[Alcohol-l::]
-[Language-Id::472]
-[geo-lon::]
-[geo-lat::]
+[name-en::Yemen Democratic (Former)] 
+[name-de::Süd Jemen] 
+[Area-Total::] 
+[Area-Land::] 
+Continent :: [[Africa]]  
+[VehicleCode::] 
+[Capital-Id::] 
+[Alcohol-l::] 
+[Language-Id::472] 
+[geo-lon::] 
+[geo-lat::] 
 
 
 
 ## Confidential Links & Embeds: 
--[[Yemen_Democratic_(Former)|Yemen_Democratic_(Former)]]] 
--[[../../../../../_internal/geo/Continent/Africa/Yemen_Democratic_(Former).internal|Yemen_Democratic_(Former).internal]]] 
+- [[Yemen_Democratic_(Former)|Yemen_Democratic_(Former)]]  
+- [[../../../../_internal/geo/Continent/Africa/Yemen_Democratic_(Former).internal|Yemen_Democratic_(Former).internal]]  
 - [[../../../../_protect/geo/Continent/Africa/Yemen_Democratic_(Former).protect|Yemen_Democratic_(Former).protect]] 
 - [[../../../../_private/geo/Continent/Africa/Yemen_Democratic_(Former).private|Yemen_Democratic_(Former).private]] 
 - [[../../../../_personal/geo/Continent/Africa/Yemen_Democratic_(Former).personal|Yemen_Democratic_(Former).personal]] 

@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 38.4 , 47.9 ] 
 type: geo-Region
 title: Ardebil
@@ -40,10 +40,11 @@ markerFolder: ./Ardebil/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Asia/Asia~West/Iran/Counties/Ardebil.md|Ardebil]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~West/Iran/Counties/Ardebil.internal|Ardebil.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~West/Iran/Counties/Ardebil.protect|Ardebil.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~West/Iran/Counties/Ardebil.private|Ardebil.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~West/Iran/Counties/Ardebil.personal|Ardebil.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~West/Iran/Counties/Ardebil.secret|Ardebil.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~West/Iran/Counties/Ardebil|Ardebil]] 
+- [[../../../../../../../_public/geo/Continent/Asia/Asia~West/Iran/Counties/Ardebil.public|Ardebil.public]] 
+- [[../../../../../../../_internal/geo/Continent/Asia/Asia~West/Iran/Counties/Ardebil.internal|Ardebil.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Asia/Asia~West/Iran/Counties/Ardebil.protect|Ardebil.protect]] 
+- [[../../../../../../../_private/geo/Continent/Asia/Asia~West/Iran/Counties/Ardebil.private|Ardebil.private]] 
+- [[../../../../../../../_personal/geo/Continent/Asia/Asia~West/Iran/Counties/Ardebil.personal|Ardebil.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Asia/Asia~West/Iran/Counties/Ardebil.secret|Ardebil.secret]] 
 

@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 12.2 , 107.7 ] 
 type: geo-Region
 title: Đắk_Nông
@@ -40,10 +40,11 @@ markerFolder: ./Đắk_Nông/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Đắk_Nông.md|Đắk_Nông]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Đắk_Nông.internal|Đắk_Nông.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Đắk_Nông.protect|Đắk_Nông.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Đắk_Nông.private|Đắk_Nông.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Đắk_Nông.personal|Đắk_Nông.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Đắk_Nông.secret|Đắk_Nông.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Đắk_Nông|Đắk_Nông]] 
+- [[../../../../../../../_public/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Đắk_Nông.public|Đắk_Nông.public]] 
+- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Đắk_Nông.internal|Đắk_Nông.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Đắk_Nông.protect|Đắk_Nông.protect]] 
+- [[../../../../../../../_private/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Đắk_Nông.private|Đắk_Nông.private]] 
+- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Đắk_Nông.personal|Đắk_Nông.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Đắk_Nông.secret|Đắk_Nông.secret]] 
 

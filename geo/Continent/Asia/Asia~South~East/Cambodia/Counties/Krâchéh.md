@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 12.7 , 106.1 ] 
 type: geo-Region
 title: Krâchéh
@@ -40,10 +40,11 @@ markerFolder: ./Krâchéh/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Asia/Asia~South~East/Cambodia/Counties/Krâchéh.md|Krâchéh]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~South~East/Cambodia/Counties/Krâchéh.internal|Krâchéh.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~South~East/Cambodia/Counties/Krâchéh.protect|Krâchéh.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~South~East/Cambodia/Counties/Krâchéh.private|Krâchéh.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~South~East/Cambodia/Counties/Krâchéh.personal|Krâchéh.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~South~East/Cambodia/Counties/Krâchéh.secret|Krâchéh.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South~East/Cambodia/Counties/Krâchéh|Krâchéh]] 
+- [[../../../../../../../_public/geo/Continent/Asia/Asia~South~East/Cambodia/Counties/Krâchéh.public|Krâchéh.public]] 
+- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South~East/Cambodia/Counties/Krâchéh.internal|Krâchéh.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South~East/Cambodia/Counties/Krâchéh.protect|Krâchéh.protect]] 
+- [[../../../../../../../_private/geo/Continent/Asia/Asia~South~East/Cambodia/Counties/Krâchéh.private|Krâchéh.private]] 
+- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South~East/Cambodia/Counties/Krâchéh.personal|Krâchéh.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South~East/Cambodia/Counties/Krâchéh.secret|Krâchéh.secret]] 
 

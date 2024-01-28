@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 14.7 , 121 ] 
 type: geo-Region
 title: Valenzuela
@@ -40,10 +40,11 @@ markerFolder: ./Valenzuela/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Valenzuela.md|Valenzuela]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Valenzuela.internal|Valenzuela.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Valenzuela.protect|Valenzuela.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Valenzuela.private|Valenzuela.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Valenzuela.personal|Valenzuela.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Valenzuela.secret|Valenzuela.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Valenzuela|Valenzuela]] 
+- [[../../../../../../../_public/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Valenzuela.public|Valenzuela.public]] 
+- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Valenzuela.internal|Valenzuela.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Valenzuela.protect|Valenzuela.protect]] 
+- [[../../../../../../../_private/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Valenzuela.private|Valenzuela.private]] 
+- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Valenzuela.personal|Valenzuela.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Valenzuela.secret|Valenzuela.secret]] 
 

@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 11.2 , 105.8 ] 
 type: geo-Region
 title: Svay_Rieng
@@ -40,10 +40,11 @@ markerFolder: ./Svay_Rieng/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Asia/Asia~South~East/Cambodia/Counties/Svay_Rieng.md|Svay_Rieng]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~South~East/Cambodia/Counties/Svay_Rieng.internal|Svay_Rieng.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~South~East/Cambodia/Counties/Svay_Rieng.protect|Svay_Rieng.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~South~East/Cambodia/Counties/Svay_Rieng.private|Svay_Rieng.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~South~East/Cambodia/Counties/Svay_Rieng.personal|Svay_Rieng.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~South~East/Cambodia/Counties/Svay_Rieng.secret|Svay_Rieng.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South~East/Cambodia/Counties/Svay_Rieng|Svay_Rieng]] 
+- [[../../../../../../../_public/geo/Continent/Asia/Asia~South~East/Cambodia/Counties/Svay_Rieng.public|Svay_Rieng.public]] 
+- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South~East/Cambodia/Counties/Svay_Rieng.internal|Svay_Rieng.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South~East/Cambodia/Counties/Svay_Rieng.protect|Svay_Rieng.protect]] 
+- [[../../../../../../../_private/geo/Continent/Asia/Asia~South~East/Cambodia/Counties/Svay_Rieng.private|Svay_Rieng.private]] 
+- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South~East/Cambodia/Counties/Svay_Rieng.personal|Svay_Rieng.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South~East/Cambodia/Counties/Svay_Rieng.secret|Svay_Rieng.secret]] 
 

@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 15.2 , 100 ] 
 type: geo-Region
 title: Chai_Nat
@@ -40,10 +40,11 @@ markerFolder: ./Chai_Nat/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Chai_Nat.md|Chai_Nat]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Chai_Nat.internal|Chai_Nat.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Chai_Nat.protect|Chai_Nat.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Chai_Nat.private|Chai_Nat.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Chai_Nat.personal|Chai_Nat.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Chai_Nat.secret|Chai_Nat.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Chai_Nat|Chai_Nat]] 
+- [[../../../../../../../_public/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Chai_Nat.public|Chai_Nat.public]] 
+- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Chai_Nat.internal|Chai_Nat.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Chai_Nat.protect|Chai_Nat.protect]] 
+- [[../../../../../../../_private/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Chai_Nat.private|Chai_Nat.private]] 
+- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Chai_Nat.personal|Chai_Nat.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South~East/Thailand/Counties/Chai_Nat.secret|Chai_Nat.secret]] 
 

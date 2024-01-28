@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 3.1 , 101.7 ] 
 type: geo-Region
 title: Kuala_Lumpur
@@ -40,10 +40,11 @@ markerFolder: ./Kuala_Lumpur/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Asia/Asia~South~East/Malaysia/Counties/Kuala_Lumpur.md|Kuala_Lumpur]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~South~East/Malaysia/Counties/Kuala_Lumpur.internal|Kuala_Lumpur.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~South~East/Malaysia/Counties/Kuala_Lumpur.protect|Kuala_Lumpur.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~South~East/Malaysia/Counties/Kuala_Lumpur.private|Kuala_Lumpur.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~South~East/Malaysia/Counties/Kuala_Lumpur.personal|Kuala_Lumpur.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~South~East/Malaysia/Counties/Kuala_Lumpur.secret|Kuala_Lumpur.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South~East/Malaysia/Counties/Kuala_Lumpur|Kuala_Lumpur]] 
+- [[../../../../../../../_public/geo/Continent/Asia/Asia~South~East/Malaysia/Counties/Kuala_Lumpur.public|Kuala_Lumpur.public]] 
+- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South~East/Malaysia/Counties/Kuala_Lumpur.internal|Kuala_Lumpur.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South~East/Malaysia/Counties/Kuala_Lumpur.protect|Kuala_Lumpur.protect]] 
+- [[../../../../../../../_private/geo/Continent/Asia/Asia~South~East/Malaysia/Counties/Kuala_Lumpur.private|Kuala_Lumpur.private]] 
+- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South~East/Malaysia/Counties/Kuala_Lumpur.personal|Kuala_Lumpur.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South~East/Malaysia/Counties/Kuala_Lumpur.secret|Kuala_Lumpur.secret]] 
 

@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 41.5 , 73.2 ] 
 type: geo-Region
 title: Jalal-Abad
@@ -40,10 +40,11 @@ markerFolder: ./Jalal-Abad/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Asia/Asia~Central/Kyrgyzstan/Counties/Jalal-Abad.md|Jalal-Abad]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~Central/Kyrgyzstan/Counties/Jalal-Abad.internal|Jalal-Abad.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~Central/Kyrgyzstan/Counties/Jalal-Abad.protect|Jalal-Abad.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~Central/Kyrgyzstan/Counties/Jalal-Abad.private|Jalal-Abad.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~Central/Kyrgyzstan/Counties/Jalal-Abad.personal|Jalal-Abad.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~Central/Kyrgyzstan/Counties/Jalal-Abad.secret|Jalal-Abad.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~Central/Kyrgyzstan/Counties/Jalal-Abad|Jalal-Abad]] 
+- [[../../../../../../../_public/geo/Continent/Asia/Asia~Central/Kyrgyzstan/Counties/Jalal-Abad.public|Jalal-Abad.public]] 
+- [[../../../../../../../_internal/geo/Continent/Asia/Asia~Central/Kyrgyzstan/Counties/Jalal-Abad.internal|Jalal-Abad.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Asia/Asia~Central/Kyrgyzstan/Counties/Jalal-Abad.protect|Jalal-Abad.protect]] 
+- [[../../../../../../../_private/geo/Continent/Asia/Asia~Central/Kyrgyzstan/Counties/Jalal-Abad.private|Jalal-Abad.private]] 
+- [[../../../../../../../_personal/geo/Continent/Asia/Asia~Central/Kyrgyzstan/Counties/Jalal-Abad.personal|Jalal-Abad.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Asia/Asia~Central/Kyrgyzstan/Counties/Jalal-Abad.secret|Jalal-Abad.secret]] 
 

@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 12.4 , 124.8 ] 
 type: geo-Region
 title: Northern_Samar
@@ -40,10 +40,11 @@ markerFolder: ./Northern_Samar/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Northern_Samar.md|Northern_Samar]] 
-- [[../../../../_internal/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Northern_Samar.internal|Northern_Samar.internal]] 
-- [[../../../../_protect/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Northern_Samar.protect|Northern_Samar.protect]] 
-- [[../../../../_private/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Northern_Samar.private|Northern_Samar.private]] 
-- [[../../../../_personal/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Northern_Samar.personal|Northern_Samar.personal]] 
-- [[../../../../_secret/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Northern_Samar.secret|Northern_Samar.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Northern_Samar|Northern_Samar]] 
+- [[../../../../../../../_public/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Northern_Samar.public|Northern_Samar.public]] 
+- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Northern_Samar.internal|Northern_Samar.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Northern_Samar.protect|Northern_Samar.protect]] 
+- [[../../../../../../../_private/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Northern_Samar.private|Northern_Samar.private]] 
+- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Northern_Samar.personal|Northern_Samar.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South~East/Philippines/Counties/Northern_Samar.secret|Northern_Samar.secret]] 
 
