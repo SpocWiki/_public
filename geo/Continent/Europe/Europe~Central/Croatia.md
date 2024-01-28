@@ -134,9 +134,10 @@ markerFolder: ./Croatia//
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Croatia.md|Croatia]] 
-- [[../../../../_internal/geo/Continent/Europe/Croatia.internal|Croatia.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Croatia.protect|Croatia.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Croatia.private|Croatia.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Croatia.personal|Croatia.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Croatia.secret|Croatia.secret]] 
+- [[../../../../../_Standards/geo/Continent/Europe/Europe~Central/Croatia|Croatia]] 
+- [[../../../../../_public/geo/Continent/Europe/Europe~Central/Croatia.public|Croatia.public]] 
+- [[../../../../../_internal/geo/Continent/Europe/Europe~Central/Croatia.internal|Croatia.internal]] 
+- [[../../../../../_protect/geo/Continent/Europe/Europe~Central/Croatia.protect|Croatia.protect]] 
+- [[../../../../../_private/geo/Continent/Europe/Europe~Central/Croatia.private|Croatia.private]] 
+- [[../../../../../_personal/geo/Continent/Europe/Europe~Central/Croatia.personal|Croatia.personal]] 
+- [[../../../../../_secret/geo/Continent/Europe/Europe~Central/Croatia.secret|Croatia.secret]] 

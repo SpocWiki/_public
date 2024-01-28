@@ -135,9 +135,10 @@ markerFolder: ./Austria///
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Austria.md|Austria]] 
-- [[../../../../_internal/geo/Continent/Europe/Austria.internal|Austria.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Austria.protect|Austria.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Austria.private|Austria.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Austria.personal|Austria.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Austria.secret|Austria.secret]] 
+- [[../../../../../_Standards/geo/Continent/Europe/Europe~Central/Austria|Austria]] 
+- [[../../../../../_public/geo/Continent/Europe/Europe~Central/Austria.public|Austria.public]] 
+- [[../../../../../_internal/geo/Continent/Europe/Europe~Central/Austria.internal|Austria.internal]] 
+- [[../../../../../_protect/geo/Continent/Europe/Europe~Central/Austria.protect|Austria.protect]] 
+- [[../../../../../_private/geo/Continent/Europe/Europe~Central/Austria.private|Austria.private]] 
+- [[../../../../../_personal/geo/Continent/Europe/Europe~Central/Austria.personal|Austria.personal]] 
+- [[../../../../../_secret/geo/Continent/Europe/Europe~Central/Austria.secret|Austria.secret]] 

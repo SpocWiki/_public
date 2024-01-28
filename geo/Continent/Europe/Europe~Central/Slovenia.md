@@ -132,9 +132,12 @@ markerFolder: ./Slovenia//
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Slovenia.md|Slovenia]] 
-- [[../../../../_internal/geo/Continent/Europe/Slovenia.internal|Slovenia.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Slovenia.protect|Slovenia.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Slovenia.private|Slovenia.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Slovenia.personal|Slovenia.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Slovenia.secret|Slovenia.secret]] 
+- [[../../../../../_Standards/geo/Continent/Europe/Europe~Central/Slovenia|Slovenia]] 
+- [[../../../../../_public/geo/Continent/Europe/Europe~Central/Slovenia.public|Slovenia.public]] 
+- [[../../../../../_internal/geo/Continent/Europe/Europe~Central/Slovenia.internal|Slovenia.internal]] 
+- [[../../../../../_protect/geo/Continent/Europe/Europe~Central/Slovenia.protect|Slovenia.protect]] 
+- [[../../../../../_private/geo/Continent/Europe/Europe~Central/Slovenia.private|Slovenia.private]] 
+- [[../../../../../_personal/geo/Continent/Europe/Europe~Central/Slovenia.personal|Slovenia.personal]] 
+- [[../../../../../_secret/geo/Continent/Europe/Europe~Central/Slovenia.secret|Slovenia.secret]] 
+
+

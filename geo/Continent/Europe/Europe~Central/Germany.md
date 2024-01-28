@@ -39,6 +39,7 @@ expiryDate:
 ---
 
 
+
 [	ISO4217-currency_alphabetic	 :: EUR ]
 [	ISO4217-currency_name	 :: Euro ]
 [	ISO4217-currency_numeric	 :: 978 ]
@@ -115,8 +116,8 @@ id: Germany
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18
-geojsonFolder: ./Germany//
-markerFolder: ./Germany/
+geojsonFolder: ./Germany.public//
+markerFolder: ./Germany.public/
 ```
 
 [name-en::Germany]
@@ -141,9 +142,13 @@ markerFolder: ./Germany/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Germany.md|Germany]] 
-- [[../../../../_internal/geo/Continent/Europe/Germany.internal|Germany.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Germany.protect|Germany.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Germany.private|Germany.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Germany.personal|Germany.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Germany.secret|Germany.secret]] 
+- [[../../../../../_Standards/geo/Continent/Europe/Europe~Central/Germany|Germany]] 
+- [[../../../../../_public/geo/Continent/Europe/Europe~Central/Germany.public|Germany.public]] 
+- [[../../../../../_internal/geo/Continent/Europe/Europe~Central/Germany.internal|Germany.internal]] 
+- [[../../../../../_protect/geo/Continent/Europe/Europe~Central/Germany.protect|Germany.protect]] 
+- [[../../../../../_private/geo/Continent/Europe/Europe~Central/Germany.private|Germany.private]] 
+- [[../../../../../_personal/geo/Continent/Europe/Europe~Central/Germany.personal|Germany.personal]] 
+- [[../../../../../_secret/geo/Continent/Europe/Europe~Central/Germany.secret|Germany.secret]] 
+
+
+[[Germany]] 

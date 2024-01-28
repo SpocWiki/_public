@@ -39,9 +39,10 @@ markerFolder: ./Czech_Republic//
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Czech_Republic.md|Czech_Republic]] 
-- [[../../../../_internal/geo/Continent/Europe/Czech_Republic.internal|Czech_Republic.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Czech_Republic.protect|Czech_Republic.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Czech_Republic.private|Czech_Republic.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Czech_Republic.personal|Czech_Republic.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Czech_Republic.secret|Czech_Republic.secret]] 
+- [[../../../../../_Standards/geo/Continent/Europe/Europe~Central/Czech_Republic|Czech_Republic]] 
+- [[../../../../../_public/geo/Continent/Europe/Europe~Central/Czech_Republic.public|Czech_Republic.public]] 
+- [[../../../../../_internal/geo/Continent/Europe/Europe~Central/Czech_Republic.internal|Czech_Republic.internal]] 
+- [[../../../../../_protect/geo/Continent/Europe/Europe~Central/Czech_Republic.protect|Czech_Republic.protect]] 
+- [[../../../../../_private/geo/Continent/Europe/Europe~Central/Czech_Republic.private|Czech_Republic.private]] 
+- [[../../../../../_personal/geo/Continent/Europe/Europe~Central/Czech_Republic.personal|Czech_Republic.personal]] 
+- [[../../../../../_secret/geo/Continent/Europe/Europe~Central/Czech_Republic.secret|Czech_Republic.secret]] 

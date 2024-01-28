@@ -33,9 +33,10 @@ markerFolder: ./Czechoslovakia/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Czechoslovakia.md|Czechoslovakia]] 
-- [[../../../../_internal/geo/Continent/Europe/Czechoslovakia.internal|Czechoslovakia.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Czechoslovakia.protect|Czechoslovakia.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Czechoslovakia.private|Czechoslovakia.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Czechoslovakia.personal|Czechoslovakia.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Czechoslovakia.secret|Czechoslovakia.secret]] 
+- [[../../../../../_Standards/geo/Continent/Europe/Europe~Central/Czechoslovakia|Czechoslovakia]] 
+- [[../../../../../_public/geo/Continent/Europe/Europe~Central/Czechoslovakia.public|Czechoslovakia.public]] 
+- [[../../../../../_internal/geo/Continent/Europe/Europe~Central/Czechoslovakia.internal|Czechoslovakia.internal]] 
+- [[../../../../../_protect/geo/Continent/Europe/Europe~Central/Czechoslovakia.protect|Czechoslovakia.protect]] 
+- [[../../../../../_private/geo/Continent/Europe/Europe~Central/Czechoslovakia.private|Czechoslovakia.private]] 
+- [[../../../../../_personal/geo/Continent/Europe/Europe~Central/Czechoslovakia.personal|Czechoslovakia.personal]] 
+- [[../../../../../_secret/geo/Continent/Europe/Europe~Central/Czechoslovakia.secret|Czechoslovakia.secret]] 

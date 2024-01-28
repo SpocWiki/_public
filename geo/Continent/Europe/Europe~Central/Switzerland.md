@@ -37,7 +37,7 @@ Languages:
 - it-CH
 - rm
 ---
-
+# [[Switzerland]] 
 
 [	ISO4217-currency_alphabetic	 :: CHF ]
 [	ISO4217-currency_name	 :: Swiss Franc ]
@@ -137,9 +137,10 @@ markerFolder: ./Switzerland//
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Europe/Switzerland.md|Switzerland]] 
-- [[../../../../_internal/geo/Continent/Europe/Switzerland.internal|Switzerland.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Switzerland.protect|Switzerland.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Switzerland.private|Switzerland.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Switzerland.personal|Switzerland.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Switzerland.secret|Switzerland.secret]] 
+- [[../../../../../_Standards/geo/Continent/Europe/Europe~Central/Switzerland|Switzerland]] 
+- [[../../../../../_public/geo/Continent/Europe/Europe~Central/Switzerland.public|Switzerland.public]] 
+- [[../../../../../_internal/geo/Continent/Europe/Europe~Central/Switzerland.internal|Switzerland.internal]] 
+- [[../../../../../_protect/geo/Continent/Europe/Europe~Central/Switzerland.protect|Switzerland.protect]] 
+- [[../../../../../_private/geo/Continent/Europe/Europe~Central/Switzerland.private|Switzerland.private]] 
+- [[../../../../../_personal/geo/Continent/Europe/Europe~Central/Switzerland.personal|Switzerland.personal]] 
+- [[../../../../../_secret/geo/Continent/Europe/Europe~Central/Switzerland.secret|Switzerland.secret]] 
