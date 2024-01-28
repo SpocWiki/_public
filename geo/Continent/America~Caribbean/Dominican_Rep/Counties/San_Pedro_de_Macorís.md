@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 18.6 , -69.5 ] 
 type: geo-Region
 title: San_Pedro_de_Macorís
@@ -40,10 +40,11 @@ markerFolder: ./San_Pedro_de_Macorís/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/America~Caribbean/Dominican_Rep/Counties/San_Pedro_de_Macorís.md|San_Pedro_de_Macorís]] 
-- [[../../../../_internal/geo/Continent/America~Caribbean/Dominican_Rep/Counties/San_Pedro_de_Macorís.internal|San_Pedro_de_Macorís.internal]] 
-- [[../../../../_protect/geo/Continent/America~Caribbean/Dominican_Rep/Counties/San_Pedro_de_Macorís.protect|San_Pedro_de_Macorís.protect]] 
-- [[../../../../_private/geo/Continent/America~Caribbean/Dominican_Rep/Counties/San_Pedro_de_Macorís.private|San_Pedro_de_Macorís.private]] 
-- [[../../../../_personal/geo/Continent/America~Caribbean/Dominican_Rep/Counties/San_Pedro_de_Macorís.personal|San_Pedro_de_Macorís.personal]] 
-- [[../../../../_secret/geo/Continent/America~Caribbean/Dominican_Rep/Counties/San_Pedro_de_Macorís.secret|San_Pedro_de_Macorís.secret]] 
+- [[../../../../../../_Standards/geo/Continent/America~Caribbean/Dominican_Rep/Counties/San_Pedro_de_Macorís|San_Pedro_de_Macorís]] 
+- [[../../../../../../_public/geo/Continent/America~Caribbean/Dominican_Rep/Counties/San_Pedro_de_Macorís.public|San_Pedro_de_Macorís.public]] 
+- [[../../../../../../_internal/geo/Continent/America~Caribbean/Dominican_Rep/Counties/San_Pedro_de_Macorís.internal|San_Pedro_de_Macorís.internal]] 
+- [[../../../../../../_protect/geo/Continent/America~Caribbean/Dominican_Rep/Counties/San_Pedro_de_Macorís.protect|San_Pedro_de_Macorís.protect]] 
+- [[../../../../../../_private/geo/Continent/America~Caribbean/Dominican_Rep/Counties/San_Pedro_de_Macorís.private|San_Pedro_de_Macorís.private]] 
+- [[../../../../../../_personal/geo/Continent/America~Caribbean/Dominican_Rep/Counties/San_Pedro_de_Macorís.personal|San_Pedro_de_Macorís.personal]] 
+- [[../../../../../../_secret/geo/Continent/America~Caribbean/Dominican_Rep/Counties/San_Pedro_de_Macorís.secret|San_Pedro_de_Macorís.secret]] 
 

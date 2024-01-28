@@ -1,5 +1,5 @@
 ﻿---
-location: [36,-6]
+location: [36,-6] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,27 +12,28 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::-6]
-[geo-lat::36]
-[name::Tanger]
-[State::]
-[Country::[[Morocco]]]
-[StateId::]
-[Population::]
-[Unknown::]
+[geo-lon::-6] 
+[geo-lat::36] 
+[name::Tanger] 
+State ::  
+Country :: [[Morocco]]  
+[StateId::] 
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Tanger
-coordinates: [[Tanger]]
-markerFile: [[Tanger]]
+coordinates: [[Tanger]] 
+markerFile: [[Tanger]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_public/geo/Continent/Africa/Morocco/City/Tanger.md|Tanger]] 
+- [[../../../../../../_Standards/geo/Continent/Africa/Morocco/City/Tanger|Tanger]] 
+- [[../../../../../../_public/geo/Continent/Africa/Morocco/City/Tanger.public|Tanger.public]] 
 - [[../../../../../../_internal/geo/Continent/Africa/Morocco/City/Tanger.internal|Tanger.internal]] 
 - [[../../../../../../_protect/geo/Continent/Africa/Morocco/City/Tanger.protect|Tanger.protect]] 
 - [[../../../../../../_private/geo/Continent/Africa/Morocco/City/Tanger.private|Tanger.private]] 

@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 20.9 , -101.3 ] 
 type: geo-Region
 title: Guanajuato
@@ -40,10 +40,11 @@ markerFolder: ./Guanajuato/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/America~Central/Mexico/Counties/Guanajuato.md|Guanajuato]] 
-- [[../../../../_internal/geo/Continent/America~Central/Mexico/Counties/Guanajuato.internal|Guanajuato.internal]] 
-- [[../../../../_protect/geo/Continent/America~Central/Mexico/Counties/Guanajuato.protect|Guanajuato.protect]] 
-- [[../../../../_private/geo/Continent/America~Central/Mexico/Counties/Guanajuato.private|Guanajuato.private]] 
-- [[../../../../_personal/geo/Continent/America~Central/Mexico/Counties/Guanajuato.personal|Guanajuato.personal]] 
-- [[../../../../_secret/geo/Continent/America~Central/Mexico/Counties/Guanajuato.secret|Guanajuato.secret]] 
+- [[../../../../../../_Standards/geo/Continent/America~Central/Mexico/Counties/Guanajuato|Guanajuato]] 
+- [[../../../../../../_public/geo/Continent/America~Central/Mexico/Counties/Guanajuato.public|Guanajuato.public]] 
+- [[../../../../../../_internal/geo/Continent/America~Central/Mexico/Counties/Guanajuato.internal|Guanajuato.internal]] 
+- [[../../../../../../_protect/geo/Continent/America~Central/Mexico/Counties/Guanajuato.protect|Guanajuato.protect]] 
+- [[../../../../../../_private/geo/Continent/America~Central/Mexico/Counties/Guanajuato.private|Guanajuato.private]] 
+- [[../../../../../../_personal/geo/Continent/America~Central/Mexico/Counties/Guanajuato.personal|Guanajuato.personal]] 
+- [[../../../../../../_secret/geo/Continent/America~Central/Mexico/Counties/Guanajuato.secret|Guanajuato.secret]] 
 

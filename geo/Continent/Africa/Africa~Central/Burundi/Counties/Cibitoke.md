@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ -2.8 , 29.3 ] 
 type: geo-Region
 title: Cibitoke
@@ -40,10 +40,11 @@ markerFolder: ./Cibitoke/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Africa/Burundi/Counties/Cibitoke.md|Cibitoke]] 
-- [[../../../../_internal/geo/Continent/Africa/Burundi/Counties/Cibitoke.internal|Cibitoke.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Burundi/Counties/Cibitoke.protect|Cibitoke.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Burundi/Counties/Cibitoke.private|Cibitoke.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Burundi/Counties/Cibitoke.personal|Cibitoke.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Burundi/Counties/Cibitoke.secret|Cibitoke.secret]] 
+- [[../../../../../../_Standards/geo/Continent/Africa/Burundi/Counties/Cibitoke|Cibitoke]] 
+- [[../../../../../../_public/geo/Continent/Africa/Burundi/Counties/Cibitoke.public|Cibitoke.public]] 
+- [[../../../../../../_internal/geo/Continent/Africa/Burundi/Counties/Cibitoke.internal|Cibitoke.internal]] 
+- [[../../../../../../_protect/geo/Continent/Africa/Burundi/Counties/Cibitoke.protect|Cibitoke.protect]] 
+- [[../../../../../../_private/geo/Continent/Africa/Burundi/Counties/Cibitoke.private|Cibitoke.private]] 
+- [[../../../../../../_personal/geo/Continent/Africa/Burundi/Counties/Cibitoke.personal|Cibitoke.personal]] 
+- [[../../../../../../_secret/geo/Continent/Africa/Burundi/Counties/Cibitoke.secret|Cibitoke.secret]] 
 

@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 27.23 , -78.33 ] 
 type: geo-Region
 title: Grand_Cay
@@ -40,10 +40,11 @@ markerFolder: ./Grand_Cay/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/America~Caribbean/Bahamas/Counties/Grand_Cay.md|Grand_Cay]] 
-- [[../../../../_internal/geo/Continent/America~Caribbean/Bahamas/Counties/Grand_Cay.internal|Grand_Cay.internal]] 
-- [[../../../../_protect/geo/Continent/America~Caribbean/Bahamas/Counties/Grand_Cay.protect|Grand_Cay.protect]] 
-- [[../../../../_private/geo/Continent/America~Caribbean/Bahamas/Counties/Grand_Cay.private|Grand_Cay.private]] 
-- [[../../../../_personal/geo/Continent/America~Caribbean/Bahamas/Counties/Grand_Cay.personal|Grand_Cay.personal]] 
-- [[../../../../_secret/geo/Continent/America~Caribbean/Bahamas/Counties/Grand_Cay.secret|Grand_Cay.secret]] 
+- [[../../../../../../_Standards/geo/Continent/America~Caribbean/Bahamas/Counties/Grand_Cay|Grand_Cay]] 
+- [[../../../../../../_public/geo/Continent/America~Caribbean/Bahamas/Counties/Grand_Cay.public|Grand_Cay.public]] 
+- [[../../../../../../_internal/geo/Continent/America~Caribbean/Bahamas/Counties/Grand_Cay.internal|Grand_Cay.internal]] 
+- [[../../../../../../_protect/geo/Continent/America~Caribbean/Bahamas/Counties/Grand_Cay.protect|Grand_Cay.protect]] 
+- [[../../../../../../_private/geo/Continent/America~Caribbean/Bahamas/Counties/Grand_Cay.private|Grand_Cay.private]] 
+- [[../../../../../../_personal/geo/Continent/America~Caribbean/Bahamas/Counties/Grand_Cay.personal|Grand_Cay.personal]] 
+- [[../../../../../../_secret/geo/Continent/America~Caribbean/Bahamas/Counties/Grand_Cay.secret|Grand_Cay.secret]] 
 

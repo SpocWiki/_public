@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 8.7 , 17.5 ] 
 type: geo-Region
 title: Mandoul
@@ -40,10 +40,11 @@ markerFolder: ./Mandoul/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Africa/Chad/Counties/Mandoul.md|Mandoul]] 
-- [[../../../../_internal/geo/Continent/Africa/Chad/Counties/Mandoul.internal|Mandoul.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Chad/Counties/Mandoul.protect|Mandoul.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Chad/Counties/Mandoul.private|Mandoul.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Chad/Counties/Mandoul.personal|Mandoul.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Chad/Counties/Mandoul.secret|Mandoul.secret]] 
+- [[../../../../../../_Standards/geo/Continent/Africa/Chad/Counties/Mandoul|Mandoul]] 
+- [[../../../../../../_public/geo/Continent/Africa/Chad/Counties/Mandoul.public|Mandoul.public]] 
+- [[../../../../../../_internal/geo/Continent/Africa/Chad/Counties/Mandoul.internal|Mandoul.internal]] 
+- [[../../../../../../_protect/geo/Continent/Africa/Chad/Counties/Mandoul.protect|Mandoul.protect]] 
+- [[../../../../../../_private/geo/Continent/Africa/Chad/Counties/Mandoul.private|Mandoul.private]] 
+- [[../../../../../../_personal/geo/Continent/Africa/Chad/Counties/Mandoul.personal|Mandoul.personal]] 
+- [[../../../../../../_secret/geo/Continent/Africa/Chad/Counties/Mandoul.secret|Mandoul.secret]] 
 

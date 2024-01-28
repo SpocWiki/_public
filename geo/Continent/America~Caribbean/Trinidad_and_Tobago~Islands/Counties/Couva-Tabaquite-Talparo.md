@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 10.4 , -61.3 ] 
 type: geo-Region
 title: Couva-Tabaquite-Talparo
@@ -40,10 +40,11 @@ markerFolder: ./Couva-Tabaquite-Talparo/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/America~Caribbean/Trinidad_and_Tobago~Islands/Counties/Couva-Tabaquite-Talparo.md|Couva-Tabaquite-Talparo]] 
-- [[../../../../_internal/geo/Continent/America~Caribbean/Trinidad_and_Tobago~Islands/Counties/Couva-Tabaquite-Talparo.internal|Couva-Tabaquite-Talparo.internal]] 
-- [[../../../../_protect/geo/Continent/America~Caribbean/Trinidad_and_Tobago~Islands/Counties/Couva-Tabaquite-Talparo.protect|Couva-Tabaquite-Talparo.protect]] 
-- [[../../../../_private/geo/Continent/America~Caribbean/Trinidad_and_Tobago~Islands/Counties/Couva-Tabaquite-Talparo.private|Couva-Tabaquite-Talparo.private]] 
-- [[../../../../_personal/geo/Continent/America~Caribbean/Trinidad_and_Tobago~Islands/Counties/Couva-Tabaquite-Talparo.personal|Couva-Tabaquite-Talparo.personal]] 
-- [[../../../../_secret/geo/Continent/America~Caribbean/Trinidad_and_Tobago~Islands/Counties/Couva-Tabaquite-Talparo.secret|Couva-Tabaquite-Talparo.secret]] 
+- [[../../../../../../_Standards/geo/Continent/America~Caribbean/Trinidad_and_Tobago~Islands/Counties/Couva-Tabaquite-Talparo|Couva-Tabaquite-Talparo]] 
+- [[../../../../../../_public/geo/Continent/America~Caribbean/Trinidad_and_Tobago~Islands/Counties/Couva-Tabaquite-Talparo.public|Couva-Tabaquite-Talparo.public]] 
+- [[../../../../../../_internal/geo/Continent/America~Caribbean/Trinidad_and_Tobago~Islands/Counties/Couva-Tabaquite-Talparo.internal|Couva-Tabaquite-Talparo.internal]] 
+- [[../../../../../../_protect/geo/Continent/America~Caribbean/Trinidad_and_Tobago~Islands/Counties/Couva-Tabaquite-Talparo.protect|Couva-Tabaquite-Talparo.protect]] 
+- [[../../../../../../_private/geo/Continent/America~Caribbean/Trinidad_and_Tobago~Islands/Counties/Couva-Tabaquite-Talparo.private|Couva-Tabaquite-Talparo.private]] 
+- [[../../../../../../_personal/geo/Continent/America~Caribbean/Trinidad_and_Tobago~Islands/Counties/Couva-Tabaquite-Talparo.personal|Couva-Tabaquite-Talparo.personal]] 
+- [[../../../../../../_secret/geo/Continent/America~Caribbean/Trinidad_and_Tobago~Islands/Counties/Couva-Tabaquite-Talparo.secret|Couva-Tabaquite-Talparo.secret]] 
 

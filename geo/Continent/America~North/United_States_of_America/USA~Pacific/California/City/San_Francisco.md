@@ -1,5 +1,5 @@
 ﻿---
-location: [37.79,-122.43]
+location: [37.79,-122.43] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,28 +12,29 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::-122.43]
-[geo-lat::37.79]
-[name::San Francisco]
-[Country:[[../../../../United_States_of_America]]]]
-[State:[[../../California]]]]
-[Population::]
-[Unknown::]
+[geo-lon::-122.43] 
+[geo-lat::37.79] 
+[name::San Francisco] 
+Country :: [[../../../../United_States_of_America]]  
+State :: [[../../California]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: San Francisco
-coordinates: [[San_Francisco]]
-markerFile: [[San_Francisco]]
+coordinates: [[San_Francisco]] 
+markerFile: [[San_Francisco]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_public/geo/Continent/North-America/United_States_of_America/California/City/San_Francisco.md|San_Francisco]] 
-- [[../../../../../../../_internal/geo/Continent/North-America/United_States_of_America/California/City/San_Francisco.internal|San_Francisco.internal]] 
-- [[../../../../../../../_protect/geo/Continent/North-America/United_States_of_America/California/City/San_Francisco.protect|San_Francisco.protect]] 
-- [[../../../../../../../_private/geo/Continent/North-America/United_States_of_America/California/City/San_Francisco.private|San_Francisco.private]] 
-- [[../../../../../../../_personal/geo/Continent/North-America/United_States_of_America/California/City/San_Francisco.personal|San_Francisco.personal]] 
-- [[../../../../../../../_secret/geo/Continent/North-America/United_States_of_America/California/City/San_Francisco.secret|San_Francisco.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/America~North/United_States_of_America/California/City/San_Francisco|San_Francisco]] 
+- [[../../../../../../../_public/geo/Continent/America~North/United_States_of_America/California/City/San_Francisco.public|San_Francisco.public]] 
+- [[../../../../../../../_internal/geo/Continent/America~North/United_States_of_America/California/City/San_Francisco.internal|San_Francisco.internal]] 
+- [[../../../../../../../_protect/geo/Continent/America~North/United_States_of_America/California/City/San_Francisco.protect|San_Francisco.protect]] 
+- [[../../../../../../../_private/geo/Continent/America~North/United_States_of_America/California/City/San_Francisco.private|San_Francisco.private]] 
+- [[../../../../../../../_personal/geo/Continent/America~North/United_States_of_America/California/City/San_Francisco.personal|San_Francisco.personal]] 
+- [[../../../../../../../_secret/geo/Continent/America~North/United_States_of_America/California/City/San_Francisco.secret|San_Francisco.secret]] 

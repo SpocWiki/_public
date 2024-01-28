@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 14.6 , -87.7 ] 
 type: geo-Region
 title: Comayagua
@@ -40,10 +40,11 @@ markerFolder: ./Comayagua/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/America~Central/Honduras/Counties/Comayagua.md|Comayagua]] 
-- [[../../../../_internal/geo/Continent/America~Central/Honduras/Counties/Comayagua.internal|Comayagua.internal]] 
-- [[../../../../_protect/geo/Continent/America~Central/Honduras/Counties/Comayagua.protect|Comayagua.protect]] 
-- [[../../../../_private/geo/Continent/America~Central/Honduras/Counties/Comayagua.private|Comayagua.private]] 
-- [[../../../../_personal/geo/Continent/America~Central/Honduras/Counties/Comayagua.personal|Comayagua.personal]] 
-- [[../../../../_secret/geo/Continent/America~Central/Honduras/Counties/Comayagua.secret|Comayagua.secret]] 
+- [[../../../../../../_Standards/geo/Continent/America~Central/Honduras/Counties/Comayagua|Comayagua]] 
+- [[../../../../../../_public/geo/Continent/America~Central/Honduras/Counties/Comayagua.public|Comayagua.public]] 
+- [[../../../../../../_internal/geo/Continent/America~Central/Honduras/Counties/Comayagua.internal|Comayagua.internal]] 
+- [[../../../../../../_protect/geo/Continent/America~Central/Honduras/Counties/Comayagua.protect|Comayagua.protect]] 
+- [[../../../../../../_private/geo/Continent/America~Central/Honduras/Counties/Comayagua.private|Comayagua.private]] 
+- [[../../../../../../_personal/geo/Continent/America~Central/Honduras/Counties/Comayagua.personal|Comayagua.personal]] 
+- [[../../../../../../_secret/geo/Continent/America~Central/Honduras/Counties/Comayagua.secret|Comayagua.secret]] 
 

@@ -1,5 +1,5 @@
 ﻿---
-location: [39.72,-105]
+location: [39.72,-105] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,28 +12,29 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::-105]
-[geo-lat::39.72]
-[name::Denver]
-[Country:[[../../../../United_States_of_America]]]]
-[State:[[../../Colorado]]]]
-[Population::]
-[Unknown::]
+[geo-lon::-105] 
+[geo-lat::39.72] 
+[name::Denver] 
+Country :: [[../../../../United_States_of_America]]  
+State :: [[../../Colorado]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Denver
-coordinates: [[Denver]]
-markerFile: [[Denver]]
+coordinates: [[Denver]] 
+markerFile: [[Denver]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_public/geo/Continent/North-America/United_States_of_America/Colorado/City/Denver.md|Denver]] 
-- [[../../../../../../../_internal/geo/Continent/North-America/United_States_of_America/Colorado/City/Denver.internal|Denver.internal]] 
-- [[../../../../../../../_protect/geo/Continent/North-America/United_States_of_America/Colorado/City/Denver.protect|Denver.protect]] 
-- [[../../../../../../../_private/geo/Continent/North-America/United_States_of_America/Colorado/City/Denver.private|Denver.private]] 
-- [[../../../../../../../_personal/geo/Continent/North-America/United_States_of_America/Colorado/City/Denver.personal|Denver.personal]] 
-- [[../../../../../../../_secret/geo/Continent/North-America/United_States_of_America/Colorado/City/Denver.secret|Denver.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/America~North/United_States_of_America/Colorado/City/Denver|Denver]] 
+- [[../../../../../../../_public/geo/Continent/America~North/United_States_of_America/Colorado/City/Denver.public|Denver.public]] 
+- [[../../../../../../../_internal/geo/Continent/America~North/United_States_of_America/Colorado/City/Denver.internal|Denver.internal]] 
+- [[../../../../../../../_protect/geo/Continent/America~North/United_States_of_America/Colorado/City/Denver.protect|Denver.protect]] 
+- [[../../../../../../../_private/geo/Continent/America~North/United_States_of_America/Colorado/City/Denver.private|Denver.private]] 
+- [[../../../../../../../_personal/geo/Continent/America~North/United_States_of_America/Colorado/City/Denver.personal|Denver.personal]] 
+- [[../../../../../../../_secret/geo/Continent/America~North/United_States_of_America/Colorado/City/Denver.secret|Denver.secret]] 

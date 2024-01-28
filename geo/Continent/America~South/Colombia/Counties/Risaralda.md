@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 5.1 , -76 ] 
 type: geo-Region
 title: Risaralda
@@ -40,10 +40,11 @@ markerFolder: ./Risaralda/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/America~South/Colombia/Counties/Risaralda.md|Risaralda]] 
-- [[../../../../_internal/geo/Continent/America~South/Colombia/Counties/Risaralda.internal|Risaralda.internal]] 
-- [[../../../../_protect/geo/Continent/America~South/Colombia/Counties/Risaralda.protect|Risaralda.protect]] 
-- [[../../../../_private/geo/Continent/America~South/Colombia/Counties/Risaralda.private|Risaralda.private]] 
-- [[../../../../_personal/geo/Continent/America~South/Colombia/Counties/Risaralda.personal|Risaralda.personal]] 
-- [[../../../../_secret/geo/Continent/America~South/Colombia/Counties/Risaralda.secret|Risaralda.secret]] 
+- [[../../../../../../_Standards/geo/Continent/America~South/Colombia/Counties/Risaralda|Risaralda]] 
+- [[../../../../../../_public/geo/Continent/America~South/Colombia/Counties/Risaralda.public|Risaralda.public]] 
+- [[../../../../../../_internal/geo/Continent/America~South/Colombia/Counties/Risaralda.internal|Risaralda.internal]] 
+- [[../../../../../../_protect/geo/Continent/America~South/Colombia/Counties/Risaralda.protect|Risaralda.protect]] 
+- [[../../../../../../_private/geo/Continent/America~South/Colombia/Counties/Risaralda.private|Risaralda.private]] 
+- [[../../../../../../_personal/geo/Continent/America~South/Colombia/Counties/Risaralda.personal|Risaralda.personal]] 
+- [[../../../../../../_secret/geo/Continent/America~South/Colombia/Counties/Risaralda.secret|Risaralda.secret]] 
 

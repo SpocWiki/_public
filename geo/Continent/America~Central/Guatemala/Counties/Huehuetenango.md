@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 15.6 , -91.7 ] 
 type: geo-Region
 title: Huehuetenango
@@ -40,10 +40,11 @@ markerFolder: ./Huehuetenango/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/America~Central/Guatemala/Counties/Huehuetenango.md|Huehuetenango]] 
-- [[../../../../_internal/geo/Continent/America~Central/Guatemala/Counties/Huehuetenango.internal|Huehuetenango.internal]] 
-- [[../../../../_protect/geo/Continent/America~Central/Guatemala/Counties/Huehuetenango.protect|Huehuetenango.protect]] 
-- [[../../../../_private/geo/Continent/America~Central/Guatemala/Counties/Huehuetenango.private|Huehuetenango.private]] 
-- [[../../../../_personal/geo/Continent/America~Central/Guatemala/Counties/Huehuetenango.personal|Huehuetenango.personal]] 
-- [[../../../../_secret/geo/Continent/America~Central/Guatemala/Counties/Huehuetenango.secret|Huehuetenango.secret]] 
+- [[../../../../../../_Standards/geo/Continent/America~Central/Guatemala/Counties/Huehuetenango|Huehuetenango]] 
+- [[../../../../../../_public/geo/Continent/America~Central/Guatemala/Counties/Huehuetenango.public|Huehuetenango.public]] 
+- [[../../../../../../_internal/geo/Continent/America~Central/Guatemala/Counties/Huehuetenango.internal|Huehuetenango.internal]] 
+- [[../../../../../../_protect/geo/Continent/America~Central/Guatemala/Counties/Huehuetenango.protect|Huehuetenango.protect]] 
+- [[../../../../../../_private/geo/Continent/America~Central/Guatemala/Counties/Huehuetenango.private|Huehuetenango.private]] 
+- [[../../../../../../_personal/geo/Continent/America~Central/Guatemala/Counties/Huehuetenango.personal|Huehuetenango.personal]] 
+- [[../../../../../../_secret/geo/Continent/America~Central/Guatemala/Counties/Huehuetenango.secret|Huehuetenango.secret]] 
 

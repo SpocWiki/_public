@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ -46.4 , -72.7 ] 
 type: geo-Region
 title: Aisén_del_General_Carlos_Ibáñez_del_Campo
@@ -40,10 +40,11 @@ markerFolder: ./Aisén_del_General_Carlos_Ibáñez_del_Campo/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/America~South/Chile/Counties/Aisén_del_General_Carlos_Ibáñez_del_Campo.md|Aisén_del_General_Carlos_Ibáñez_del_Campo]] 
-- [[../../../../_internal/geo/Continent/America~South/Chile/Counties/Aisén_del_General_Carlos_Ibáñez_del_Campo.internal|Aisén_del_General_Carlos_Ibáñez_del_Campo.internal]] 
-- [[../../../../_protect/geo/Continent/America~South/Chile/Counties/Aisén_del_General_Carlos_Ibáñez_del_Campo.protect|Aisén_del_General_Carlos_Ibáñez_del_Campo.protect]] 
-- [[../../../../_private/geo/Continent/America~South/Chile/Counties/Aisén_del_General_Carlos_Ibáñez_del_Campo.private|Aisén_del_General_Carlos_Ibáñez_del_Campo.private]] 
-- [[../../../../_personal/geo/Continent/America~South/Chile/Counties/Aisén_del_General_Carlos_Ibáñez_del_Campo.personal|Aisén_del_General_Carlos_Ibáñez_del_Campo.personal]] 
-- [[../../../../_secret/geo/Continent/America~South/Chile/Counties/Aisén_del_General_Carlos_Ibáñez_del_Campo.secret|Aisén_del_General_Carlos_Ibáñez_del_Campo.secret]] 
+- [[../../../../../../_Standards/geo/Continent/America~South/Chile/Counties/Aisén_del_General_Carlos_Ibáñez_del_Campo|Aisén_del_General_Carlos_Ibáñez_del_Campo]] 
+- [[../../../../../../_public/geo/Continent/America~South/Chile/Counties/Aisén_del_General_Carlos_Ibáñez_del_Campo.public|Aisén_del_General_Carlos_Ibáñez_del_Campo.public]] 
+- [[../../../../../../_internal/geo/Continent/America~South/Chile/Counties/Aisén_del_General_Carlos_Ibáñez_del_Campo.internal|Aisén_del_General_Carlos_Ibáñez_del_Campo.internal]] 
+- [[../../../../../../_protect/geo/Continent/America~South/Chile/Counties/Aisén_del_General_Carlos_Ibáñez_del_Campo.protect|Aisén_del_General_Carlos_Ibáñez_del_Campo.protect]] 
+- [[../../../../../../_private/geo/Continent/America~South/Chile/Counties/Aisén_del_General_Carlos_Ibáñez_del_Campo.private|Aisén_del_General_Carlos_Ibáñez_del_Campo.private]] 
+- [[../../../../../../_personal/geo/Continent/America~South/Chile/Counties/Aisén_del_General_Carlos_Ibáñez_del_Campo.personal|Aisén_del_General_Carlos_Ibáñez_del_Campo.personal]] 
+- [[../../../../../../_secret/geo/Continent/America~South/Chile/Counties/Aisén_del_General_Carlos_Ibáñez_del_Campo.secret|Aisén_del_General_Carlos_Ibáñez_del_Campo.secret]] 
 

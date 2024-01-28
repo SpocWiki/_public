@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ -10.4 , -75.1 ] 
 type: geo-Region
 title: Pasco
@@ -40,10 +40,11 @@ markerFolder: ./Pasco/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/America~South/Peru/Counties/Pasco.md|Pasco]] 
-- [[../../../../_internal/geo/Continent/America~South/Peru/Counties/Pasco.internal|Pasco.internal]] 
-- [[../../../../_protect/geo/Continent/America~South/Peru/Counties/Pasco.protect|Pasco.protect]] 
-- [[../../../../_private/geo/Continent/America~South/Peru/Counties/Pasco.private|Pasco.private]] 
-- [[../../../../_personal/geo/Continent/America~South/Peru/Counties/Pasco.personal|Pasco.personal]] 
-- [[../../../../_secret/geo/Continent/America~South/Peru/Counties/Pasco.secret|Pasco.secret]] 
+- [[../../../../../../_Standards/geo/Continent/America~South/Peru/Counties/Pasco|Pasco]] 
+- [[../../../../../../_public/geo/Continent/America~South/Peru/Counties/Pasco.public|Pasco.public]] 
+- [[../../../../../../_internal/geo/Continent/America~South/Peru/Counties/Pasco.internal|Pasco.internal]] 
+- [[../../../../../../_protect/geo/Continent/America~South/Peru/Counties/Pasco.protect|Pasco.protect]] 
+- [[../../../../../../_private/geo/Continent/America~South/Peru/Counties/Pasco.private|Pasco.private]] 
+- [[../../../../../../_personal/geo/Continent/America~South/Peru/Counties/Pasco.personal|Pasco.personal]] 
+- [[../../../../../../_secret/geo/Continent/America~South/Peru/Counties/Pasco.secret|Pasco.secret]] 
 

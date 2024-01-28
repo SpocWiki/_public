@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ -15 , -68.4 ] 
 type: geo-Region
 title: La_Paz
@@ -40,10 +40,11 @@ markerFolder: ./La_Paz/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/America~South/Bolivia/Counties/La_Paz.md|La_Paz]] 
-- [[../../../../_internal/geo/Continent/America~South/Bolivia/Counties/La_Paz.internal|La_Paz.internal]] 
-- [[../../../../_protect/geo/Continent/America~South/Bolivia/Counties/La_Paz.protect|La_Paz.protect]] 
-- [[../../../../_private/geo/Continent/America~South/Bolivia/Counties/La_Paz.private|La_Paz.private]] 
-- [[../../../../_personal/geo/Continent/America~South/Bolivia/Counties/La_Paz.personal|La_Paz.personal]] 
-- [[../../../../_secret/geo/Continent/America~South/Bolivia/Counties/La_Paz.secret|La_Paz.secret]] 
+- [[../../../../../../_Standards/geo/Continent/America~South/Bolivia/Counties/La_Paz|La_Paz]] 
+- [[../../../../../../_public/geo/Continent/America~South/Bolivia/Counties/La_Paz.public|La_Paz.public]] 
+- [[../../../../../../_internal/geo/Continent/America~South/Bolivia/Counties/La_Paz.internal|La_Paz.internal]] 
+- [[../../../../../../_protect/geo/Continent/America~South/Bolivia/Counties/La_Paz.protect|La_Paz.protect]] 
+- [[../../../../../../_private/geo/Continent/America~South/Bolivia/Counties/La_Paz.private|La_Paz.private]] 
+- [[../../../../../../_personal/geo/Continent/America~South/Bolivia/Counties/La_Paz.personal|La_Paz.personal]] 
+- [[../../../../../../_secret/geo/Continent/America~South/Bolivia/Counties/La_Paz.secret|La_Paz.secret]] 
 

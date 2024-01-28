@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ -0.5 , 31.8 ] 
 type: geo-Region
 title: Masaka
@@ -40,10 +40,11 @@ markerFolder: ./Masaka/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Africa/Uganda/Counties/Masaka.md|Masaka]] 
-- [[../../../../_internal/geo/Continent/Africa/Uganda/Counties/Masaka.internal|Masaka.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Uganda/Counties/Masaka.protect|Masaka.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Uganda/Counties/Masaka.private|Masaka.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Uganda/Counties/Masaka.personal|Masaka.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Uganda/Counties/Masaka.secret|Masaka.secret]] 
+- [[../../../../../../_Standards/geo/Continent/Africa/Uganda/Counties/Masaka|Masaka]] 
+- [[../../../../../../_public/geo/Continent/Africa/Uganda/Counties/Masaka.public|Masaka.public]] 
+- [[../../../../../../_internal/geo/Continent/Africa/Uganda/Counties/Masaka.internal|Masaka.internal]] 
+- [[../../../../../../_protect/geo/Continent/Africa/Uganda/Counties/Masaka.protect|Masaka.protect]] 
+- [[../../../../../../_private/geo/Continent/Africa/Uganda/Counties/Masaka.private|Masaka.private]] 
+- [[../../../../../../_personal/geo/Continent/Africa/Uganda/Counties/Masaka.personal|Masaka.personal]] 
+- [[../../../../../../_secret/geo/Continent/Africa/Uganda/Counties/Masaka.secret|Masaka.secret]] 
 

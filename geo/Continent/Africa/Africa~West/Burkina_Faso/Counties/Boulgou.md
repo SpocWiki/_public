@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 11.5 , -0.3 ] 
 type: geo-Region
 title: Boulgou
@@ -40,10 +40,11 @@ markerFolder: ./Boulgou/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Africa/Burkina_Faso/Counties/Boulgou.md|Boulgou]] 
-- [[../../../../_internal/geo/Continent/Africa/Burkina_Faso/Counties/Boulgou.internal|Boulgou.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Burkina_Faso/Counties/Boulgou.protect|Boulgou.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Burkina_Faso/Counties/Boulgou.private|Boulgou.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Burkina_Faso/Counties/Boulgou.personal|Boulgou.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Burkina_Faso/Counties/Boulgou.secret|Boulgou.secret]] 
+- [[../../../../../../_Standards/geo/Continent/Africa/Burkina_Faso/Counties/Boulgou|Boulgou]] 
+- [[../../../../../../_public/geo/Continent/Africa/Burkina_Faso/Counties/Boulgou.public|Boulgou.public]] 
+- [[../../../../../../_internal/geo/Continent/Africa/Burkina_Faso/Counties/Boulgou.internal|Boulgou.internal]] 
+- [[../../../../../../_protect/geo/Continent/Africa/Burkina_Faso/Counties/Boulgou.protect|Boulgou.protect]] 
+- [[../../../../../../_private/geo/Continent/Africa/Burkina_Faso/Counties/Boulgou.private|Boulgou.private]] 
+- [[../../../../../../_personal/geo/Continent/Africa/Burkina_Faso/Counties/Boulgou.personal|Boulgou.personal]] 
+- [[../../../../../../_secret/geo/Continent/Africa/Burkina_Faso/Counties/Boulgou.secret|Boulgou.secret]] 
 

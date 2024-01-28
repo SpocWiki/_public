@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 26.52 , -78.63 ] 
 type: geo-Region
 title: City_of_Freeport
@@ -40,10 +40,11 @@ markerFolder: ./City_of_Freeport/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/America~Caribbean/Bahamas/Counties/City_of_Freeport.md|City_of_Freeport]] 
-- [[../../../../_internal/geo/Continent/America~Caribbean/Bahamas/Counties/City_of_Freeport.internal|City_of_Freeport.internal]] 
-- [[../../../../_protect/geo/Continent/America~Caribbean/Bahamas/Counties/City_of_Freeport.protect|City_of_Freeport.protect]] 
-- [[../../../../_private/geo/Continent/America~Caribbean/Bahamas/Counties/City_of_Freeport.private|City_of_Freeport.private]] 
-- [[../../../../_personal/geo/Continent/America~Caribbean/Bahamas/Counties/City_of_Freeport.personal|City_of_Freeport.personal]] 
-- [[../../../../_secret/geo/Continent/America~Caribbean/Bahamas/Counties/City_of_Freeport.secret|City_of_Freeport.secret]] 
+- [[../../../../../../_Standards/geo/Continent/America~Caribbean/Bahamas/Counties/City_of_Freeport|City_of_Freeport]] 
+- [[../../../../../../_public/geo/Continent/America~Caribbean/Bahamas/Counties/City_of_Freeport.public|City_of_Freeport.public]] 
+- [[../../../../../../_internal/geo/Continent/America~Caribbean/Bahamas/Counties/City_of_Freeport.internal|City_of_Freeport.internal]] 
+- [[../../../../../../_protect/geo/Continent/America~Caribbean/Bahamas/Counties/City_of_Freeport.protect|City_of_Freeport.protect]] 
+- [[../../../../../../_private/geo/Continent/America~Caribbean/Bahamas/Counties/City_of_Freeport.private|City_of_Freeport.private]] 
+- [[../../../../../../_personal/geo/Continent/America~Caribbean/Bahamas/Counties/City_of_Freeport.personal|City_of_Freeport.personal]] 
+- [[../../../../../../_secret/geo/Continent/America~Caribbean/Bahamas/Counties/City_of_Freeport.secret|City_of_Freeport.secret]] 
 

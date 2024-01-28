@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 2.1 , 45.4 ] 
 type: geo-Region
 title: Banaadir
@@ -40,10 +40,11 @@ markerFolder: ./Banaadir/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Africa/Somalia/Counties/Banaadir.md|Banaadir]] 
-- [[../../../../_internal/geo/Continent/Africa/Somalia/Counties/Banaadir.internal|Banaadir.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Somalia/Counties/Banaadir.protect|Banaadir.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Somalia/Counties/Banaadir.private|Banaadir.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Somalia/Counties/Banaadir.personal|Banaadir.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Somalia/Counties/Banaadir.secret|Banaadir.secret]] 
+- [[../../../../../../_Standards/geo/Continent/Africa/Somalia/Counties/Banaadir|Banaadir]] 
+- [[../../../../../../_public/geo/Continent/Africa/Somalia/Counties/Banaadir.public|Banaadir.public]] 
+- [[../../../../../../_internal/geo/Continent/Africa/Somalia/Counties/Banaadir.internal|Banaadir.internal]] 
+- [[../../../../../../_protect/geo/Continent/Africa/Somalia/Counties/Banaadir.protect|Banaadir.protect]] 
+- [[../../../../../../_private/geo/Continent/Africa/Somalia/Counties/Banaadir.private|Banaadir.private]] 
+- [[../../../../../../_personal/geo/Continent/Africa/Somalia/Counties/Banaadir.personal|Banaadir.personal]] 
+- [[../../../../../../_secret/geo/Continent/Africa/Somalia/Counties/Banaadir.secret|Banaadir.secret]] 
 

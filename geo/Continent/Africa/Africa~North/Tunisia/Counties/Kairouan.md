@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 35.6 , 9.8 ] 
 type: geo-Region
 title: Kairouan
@@ -40,10 +40,11 @@ markerFolder: ./Kairouan/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Africa/Tunisia/Counties/Kairouan.md|Kairouan]] 
-- [[../../../../_internal/geo/Continent/Africa/Tunisia/Counties/Kairouan.internal|Kairouan.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Tunisia/Counties/Kairouan.protect|Kairouan.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Tunisia/Counties/Kairouan.private|Kairouan.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Tunisia/Counties/Kairouan.personal|Kairouan.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Tunisia/Counties/Kairouan.secret|Kairouan.secret]] 
+- [[../../../../../../_Standards/geo/Continent/Africa/Tunisia/Counties/Kairouan|Kairouan]] 
+- [[../../../../../../_public/geo/Continent/Africa/Tunisia/Counties/Kairouan.public|Kairouan.public]] 
+- [[../../../../../../_internal/geo/Continent/Africa/Tunisia/Counties/Kairouan.internal|Kairouan.internal]] 
+- [[../../../../../../_protect/geo/Continent/Africa/Tunisia/Counties/Kairouan.protect|Kairouan.protect]] 
+- [[../../../../../../_private/geo/Continent/Africa/Tunisia/Counties/Kairouan.private|Kairouan.private]] 
+- [[../../../../../../_personal/geo/Continent/Africa/Tunisia/Counties/Kairouan.personal|Kairouan.personal]] 
+- [[../../../../../../_secret/geo/Continent/Africa/Tunisia/Counties/Kairouan.secret|Kairouan.secret]] 
 

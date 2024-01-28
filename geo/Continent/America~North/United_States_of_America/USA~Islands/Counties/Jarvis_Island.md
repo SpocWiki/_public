@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ -0.38 , -160.02 ] 
 type: geo-Region
 title: Jarvis_Island
@@ -40,10 +40,11 @@ markerFolder: ./Jarvis_Island/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/America~North/United_States_of_America/USA~Islands/Counties/Jarvis_Island.md|Jarvis_Island]] 
-- [[../../../../_internal/geo/Continent/America~North/United_States_of_America/USA~Islands/Counties/Jarvis_Island.internal|Jarvis_Island.internal]] 
-- [[../../../../_protect/geo/Continent/America~North/United_States_of_America/USA~Islands/Counties/Jarvis_Island.protect|Jarvis_Island.protect]] 
-- [[../../../../_private/geo/Continent/America~North/United_States_of_America/USA~Islands/Counties/Jarvis_Island.private|Jarvis_Island.private]] 
-- [[../../../../_personal/geo/Continent/America~North/United_States_of_America/USA~Islands/Counties/Jarvis_Island.personal|Jarvis_Island.personal]] 
-- [[../../../../_secret/geo/Continent/America~North/United_States_of_America/USA~Islands/Counties/Jarvis_Island.secret|Jarvis_Island.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/America~North/United_States_of_America/USA~Islands/Counties/Jarvis_Island|Jarvis_Island]] 
+- [[../../../../../../../_public/geo/Continent/America~North/United_States_of_America/USA~Islands/Counties/Jarvis_Island.public|Jarvis_Island.public]] 
+- [[../../../../../../../_internal/geo/Continent/America~North/United_States_of_America/USA~Islands/Counties/Jarvis_Island.internal|Jarvis_Island.internal]] 
+- [[../../../../../../../_protect/geo/Continent/America~North/United_States_of_America/USA~Islands/Counties/Jarvis_Island.protect|Jarvis_Island.protect]] 
+- [[../../../../../../../_private/geo/Continent/America~North/United_States_of_America/USA~Islands/Counties/Jarvis_Island.private|Jarvis_Island.private]] 
+- [[../../../../../../../_personal/geo/Continent/America~North/United_States_of_America/USA~Islands/Counties/Jarvis_Island.personal|Jarvis_Island.personal]] 
+- [[../../../../../../../_secret/geo/Continent/America~North/United_States_of_America/USA~Islands/Counties/Jarvis_Island.secret|Jarvis_Island.secret]] 
 

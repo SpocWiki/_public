@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ -5.8 , 35.9 ] 
 type: geo-Region
 title: Dodoma
@@ -40,10 +40,11 @@ markerFolder: ./Dodoma/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Africa/Tanzania/Counties/Dodoma.md|Dodoma]] 
-- [[../../../../_internal/geo/Continent/Africa/Tanzania/Counties/Dodoma.internal|Dodoma.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Tanzania/Counties/Dodoma.protect|Dodoma.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Tanzania/Counties/Dodoma.private|Dodoma.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Tanzania/Counties/Dodoma.personal|Dodoma.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Tanzania/Counties/Dodoma.secret|Dodoma.secret]] 
+- [[../../../../../../_Standards/geo/Continent/Africa/Tanzania/Counties/Dodoma|Dodoma]] 
+- [[../../../../../../_public/geo/Continent/Africa/Tanzania/Counties/Dodoma.public|Dodoma.public]] 
+- [[../../../../../../_internal/geo/Continent/Africa/Tanzania/Counties/Dodoma.internal|Dodoma.internal]] 
+- [[../../../../../../_protect/geo/Continent/Africa/Tanzania/Counties/Dodoma.protect|Dodoma.protect]] 
+- [[../../../../../../_private/geo/Continent/Africa/Tanzania/Counties/Dodoma.private|Dodoma.private]] 
+- [[../../../../../../_personal/geo/Continent/Africa/Tanzania/Counties/Dodoma.personal|Dodoma.personal]] 
+- [[../../../../../../_secret/geo/Continent/Africa/Tanzania/Counties/Dodoma.secret|Dodoma.secret]] 
 

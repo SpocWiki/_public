@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 10.3 , 7.9 ] 
 type: geo-Region
 title: Kaduna
@@ -40,10 +40,11 @@ markerFolder: ./Kaduna/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Africa/Nigeria/Counties/Kaduna.md|Kaduna]] 
-- [[../../../../_internal/geo/Continent/Africa/Nigeria/Counties/Kaduna.internal|Kaduna.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Nigeria/Counties/Kaduna.protect|Kaduna.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Nigeria/Counties/Kaduna.private|Kaduna.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Nigeria/Counties/Kaduna.personal|Kaduna.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Nigeria/Counties/Kaduna.secret|Kaduna.secret]] 
+- [[../../../../../../_Standards/geo/Continent/Africa/Nigeria/Counties/Kaduna|Kaduna]] 
+- [[../../../../../../_public/geo/Continent/Africa/Nigeria/Counties/Kaduna.public|Kaduna.public]] 
+- [[../../../../../../_internal/geo/Continent/Africa/Nigeria/Counties/Kaduna.internal|Kaduna.internal]] 
+- [[../../../../../../_protect/geo/Continent/Africa/Nigeria/Counties/Kaduna.protect|Kaduna.protect]] 
+- [[../../../../../../_private/geo/Continent/Africa/Nigeria/Counties/Kaduna.private|Kaduna.private]] 
+- [[../../../../../../_personal/geo/Continent/Africa/Nigeria/Counties/Kaduna.personal|Kaduna.personal]] 
+- [[../../../../../../_secret/geo/Continent/Africa/Nigeria/Counties/Kaduna.secret|Kaduna.secret]] 
 

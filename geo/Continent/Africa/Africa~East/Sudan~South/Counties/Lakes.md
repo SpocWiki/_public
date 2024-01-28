@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 6.8 , 30.1 ] 
 type: geo-Region
 title: Lakes
@@ -40,10 +40,11 @@ markerFolder: ./Lakes/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Africa/Sudan~South/Counties/Lakes.md|Lakes]] 
-- [[../../../../_internal/geo/Continent/Africa/Sudan~South/Counties/Lakes.internal|Lakes.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Sudan~South/Counties/Lakes.protect|Lakes.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Sudan~South/Counties/Lakes.private|Lakes.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Sudan~South/Counties/Lakes.personal|Lakes.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Sudan~South/Counties/Lakes.secret|Lakes.secret]] 
+- [[../../../../../../_Standards/geo/Continent/Africa/Sudan~South/Counties/Lakes|Lakes]] 
+- [[../../../../../../_public/geo/Continent/Africa/Sudan~South/Counties/Lakes.public|Lakes.public]] 
+- [[../../../../../../_internal/geo/Continent/Africa/Sudan~South/Counties/Lakes.internal|Lakes.internal]] 
+- [[../../../../../../_protect/geo/Continent/Africa/Sudan~South/Counties/Lakes.protect|Lakes.protect]] 
+- [[../../../../../../_private/geo/Continent/Africa/Sudan~South/Counties/Lakes.private|Lakes.private]] 
+- [[../../../../../../_personal/geo/Continent/Africa/Sudan~South/Counties/Lakes.personal|Lakes.personal]] 
+- [[../../../../../../_secret/geo/Continent/Africa/Sudan~South/Counties/Lakes.secret|Lakes.secret]] 
 

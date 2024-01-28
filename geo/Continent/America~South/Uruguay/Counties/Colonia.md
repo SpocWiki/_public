@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ -34.1 , -57.6 ] 
 type: geo-Region
 title: Colonia
@@ -40,10 +40,11 @@ markerFolder: ./Colonia/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/America~South/Uruguay/Counties/Colonia.md|Colonia]] 
-- [[../../../../_internal/geo/Continent/America~South/Uruguay/Counties/Colonia.internal|Colonia.internal]] 
-- [[../../../../_protect/geo/Continent/America~South/Uruguay/Counties/Colonia.protect|Colonia.protect]] 
-- [[../../../../_private/geo/Continent/America~South/Uruguay/Counties/Colonia.private|Colonia.private]] 
-- [[../../../../_personal/geo/Continent/America~South/Uruguay/Counties/Colonia.personal|Colonia.personal]] 
-- [[../../../../_secret/geo/Continent/America~South/Uruguay/Counties/Colonia.secret|Colonia.secret]] 
+- [[../../../../../../_Standards/geo/Continent/America~South/Uruguay/Counties/Colonia|Colonia]] 
+- [[../../../../../../_public/geo/Continent/America~South/Uruguay/Counties/Colonia.public|Colonia.public]] 
+- [[../../../../../../_internal/geo/Continent/America~South/Uruguay/Counties/Colonia.internal|Colonia.internal]] 
+- [[../../../../../../_protect/geo/Continent/America~South/Uruguay/Counties/Colonia.protect|Colonia.protect]] 
+- [[../../../../../../_private/geo/Continent/America~South/Uruguay/Counties/Colonia.private|Colonia.private]] 
+- [[../../../../../../_personal/geo/Continent/America~South/Uruguay/Counties/Colonia.personal|Colonia.personal]] 
+- [[../../../../../../_secret/geo/Continent/America~South/Uruguay/Counties/Colonia.secret|Colonia.secret]] 
 

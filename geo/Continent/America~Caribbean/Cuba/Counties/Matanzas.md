@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 22.6 , -81.1 ] 
 type: geo-Region
 title: Matanzas
@@ -40,10 +40,11 @@ markerFolder: ./Matanzas/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/America~Caribbean/Cuba/Counties/Matanzas.md|Matanzas]] 
-- [[../../../../_internal/geo/Continent/America~Caribbean/Cuba/Counties/Matanzas.internal|Matanzas.internal]] 
-- [[../../../../_protect/geo/Continent/America~Caribbean/Cuba/Counties/Matanzas.protect|Matanzas.protect]] 
-- [[../../../../_private/geo/Continent/America~Caribbean/Cuba/Counties/Matanzas.private|Matanzas.private]] 
-- [[../../../../_personal/geo/Continent/America~Caribbean/Cuba/Counties/Matanzas.personal|Matanzas.personal]] 
-- [[../../../../_secret/geo/Continent/America~Caribbean/Cuba/Counties/Matanzas.secret|Matanzas.secret]] 
+- [[../../../../../../_Standards/geo/Continent/America~Caribbean/Cuba/Counties/Matanzas|Matanzas]] 
+- [[../../../../../../_public/geo/Continent/America~Caribbean/Cuba/Counties/Matanzas.public|Matanzas.public]] 
+- [[../../../../../../_internal/geo/Continent/America~Caribbean/Cuba/Counties/Matanzas.internal|Matanzas.internal]] 
+- [[../../../../../../_protect/geo/Continent/America~Caribbean/Cuba/Counties/Matanzas.protect|Matanzas.protect]] 
+- [[../../../../../../_private/geo/Continent/America~Caribbean/Cuba/Counties/Matanzas.private|Matanzas.private]] 
+- [[../../../../../../_personal/geo/Continent/America~Caribbean/Cuba/Counties/Matanzas.personal|Matanzas.personal]] 
+- [[../../../../../../_secret/geo/Continent/America~Caribbean/Cuba/Counties/Matanzas.secret|Matanzas.secret]] 
 

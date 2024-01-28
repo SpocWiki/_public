@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ -20.1 , 57.6 ] 
 type: geo-Region
 title: Pamplemousses
@@ -40,10 +40,11 @@ markerFolder: ./Pamplemousses/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Africa/Mauritius/Counties/Pamplemousses.md|Pamplemousses]] 
-- [[../../../../_internal/geo/Continent/Africa/Mauritius/Counties/Pamplemousses.internal|Pamplemousses.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Mauritius/Counties/Pamplemousses.protect|Pamplemousses.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Mauritius/Counties/Pamplemousses.private|Pamplemousses.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Mauritius/Counties/Pamplemousses.personal|Pamplemousses.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Mauritius/Counties/Pamplemousses.secret|Pamplemousses.secret]] 
+- [[../../../../../../_Standards/geo/Continent/Africa/Mauritius/Counties/Pamplemousses|Pamplemousses]] 
+- [[../../../../../../_public/geo/Continent/Africa/Mauritius/Counties/Pamplemousses.public|Pamplemousses.public]] 
+- [[../../../../../../_internal/geo/Continent/Africa/Mauritius/Counties/Pamplemousses.internal|Pamplemousses.internal]] 
+- [[../../../../../../_protect/geo/Continent/Africa/Mauritius/Counties/Pamplemousses.protect|Pamplemousses.protect]] 
+- [[../../../../../../_private/geo/Continent/Africa/Mauritius/Counties/Pamplemousses.private|Pamplemousses.private]] 
+- [[../../../../../../_personal/geo/Continent/Africa/Mauritius/Counties/Pamplemousses.personal|Pamplemousses.personal]] 
+- [[../../../../../../_secret/geo/Continent/Africa/Mauritius/Counties/Pamplemousses.secret|Pamplemousses.secret]] 
 

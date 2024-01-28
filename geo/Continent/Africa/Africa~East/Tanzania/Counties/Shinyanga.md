@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ -3.8 , 33 ] 
 type: geo-Region
 title: Shinyanga
@@ -40,10 +40,11 @@ markerFolder: ./Shinyanga/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Africa/Tanzania/Counties/Shinyanga.md|Shinyanga]] 
-- [[../../../../_internal/geo/Continent/Africa/Tanzania/Counties/Shinyanga.internal|Shinyanga.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Tanzania/Counties/Shinyanga.protect|Shinyanga.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Tanzania/Counties/Shinyanga.private|Shinyanga.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Tanzania/Counties/Shinyanga.personal|Shinyanga.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Tanzania/Counties/Shinyanga.secret|Shinyanga.secret]] 
+- [[../../../../../../_Standards/geo/Continent/Africa/Tanzania/Counties/Shinyanga|Shinyanga]] 
+- [[../../../../../../_public/geo/Continent/Africa/Tanzania/Counties/Shinyanga.public|Shinyanga.public]] 
+- [[../../../../../../_internal/geo/Continent/Africa/Tanzania/Counties/Shinyanga.internal|Shinyanga.internal]] 
+- [[../../../../../../_protect/geo/Continent/Africa/Tanzania/Counties/Shinyanga.protect|Shinyanga.protect]] 
+- [[../../../../../../_private/geo/Continent/Africa/Tanzania/Counties/Shinyanga.private|Shinyanga.private]] 
+- [[../../../../../../_personal/geo/Continent/Africa/Tanzania/Counties/Shinyanga.personal|Shinyanga.personal]] 
+- [[../../../../../../_secret/geo/Continent/Africa/Tanzania/Counties/Shinyanga.secret|Shinyanga.secret]] 
 

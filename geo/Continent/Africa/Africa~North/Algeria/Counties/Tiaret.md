@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 34.9 , 1.6 ] 
 type: geo-Region
 title: Tiaret
@@ -40,10 +40,11 @@ markerFolder: ./Tiaret/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Africa/Algeria/Counties/Tiaret.md|Tiaret]] 
-- [[../../../../_internal/geo/Continent/Africa/Algeria/Counties/Tiaret.internal|Tiaret.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Algeria/Counties/Tiaret.protect|Tiaret.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Algeria/Counties/Tiaret.private|Tiaret.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Algeria/Counties/Tiaret.personal|Tiaret.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Algeria/Counties/Tiaret.secret|Tiaret.secret]] 
+- [[../../../../../../_Standards/geo/Continent/Africa/Algeria/Counties/Tiaret|Tiaret]] 
+- [[../../../../../../_public/geo/Continent/Africa/Algeria/Counties/Tiaret.public|Tiaret.public]] 
+- [[../../../../../../_internal/geo/Continent/Africa/Algeria/Counties/Tiaret.internal|Tiaret.internal]] 
+- [[../../../../../../_protect/geo/Continent/Africa/Algeria/Counties/Tiaret.protect|Tiaret.protect]] 
+- [[../../../../../../_private/geo/Continent/Africa/Algeria/Counties/Tiaret.private|Tiaret.private]] 
+- [[../../../../../../_personal/geo/Continent/Africa/Algeria/Counties/Tiaret.personal|Tiaret.personal]] 
+- [[../../../../../../_secret/geo/Continent/Africa/Algeria/Counties/Tiaret.secret|Tiaret.secret]] 
 

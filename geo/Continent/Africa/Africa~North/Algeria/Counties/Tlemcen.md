@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 34.7 , -1.3 ] 
 type: geo-Region
 title: Tlemcen
@@ -40,10 +40,11 @@ markerFolder: ./Tlemcen/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Africa/Algeria/Counties/Tlemcen.md|Tlemcen]] 
-- [[../../../../_internal/geo/Continent/Africa/Algeria/Counties/Tlemcen.internal|Tlemcen.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Algeria/Counties/Tlemcen.protect|Tlemcen.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Algeria/Counties/Tlemcen.private|Tlemcen.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Algeria/Counties/Tlemcen.personal|Tlemcen.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Algeria/Counties/Tlemcen.secret|Tlemcen.secret]] 
+- [[../../../../../../_Standards/geo/Continent/Africa/Algeria/Counties/Tlemcen|Tlemcen]] 
+- [[../../../../../../_public/geo/Continent/Africa/Algeria/Counties/Tlemcen.public|Tlemcen.public]] 
+- [[../../../../../../_internal/geo/Continent/Africa/Algeria/Counties/Tlemcen.internal|Tlemcen.internal]] 
+- [[../../../../../../_protect/geo/Continent/Africa/Algeria/Counties/Tlemcen.protect|Tlemcen.protect]] 
+- [[../../../../../../_private/geo/Continent/Africa/Algeria/Counties/Tlemcen.private|Tlemcen.private]] 
+- [[../../../../../../_personal/geo/Continent/Africa/Algeria/Counties/Tlemcen.personal|Tlemcen.personal]] 
+- [[../../../../../../_secret/geo/Continent/Africa/Algeria/Counties/Tlemcen.secret|Tlemcen.secret]] 
 

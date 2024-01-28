@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 24.6 , -104.6 ] 
 type: geo-Region
 title: Durango
@@ -40,10 +40,11 @@ markerFolder: ./Durango/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/America~Central/Mexico/Counties/Durango.md|Durango]] 
-- [[../../../../_internal/geo/Continent/America~Central/Mexico/Counties/Durango.internal|Durango.internal]] 
-- [[../../../../_protect/geo/Continent/America~Central/Mexico/Counties/Durango.protect|Durango.protect]] 
-- [[../../../../_private/geo/Continent/America~Central/Mexico/Counties/Durango.private|Durango.private]] 
-- [[../../../../_personal/geo/Continent/America~Central/Mexico/Counties/Durango.personal|Durango.personal]] 
-- [[../../../../_secret/geo/Continent/America~Central/Mexico/Counties/Durango.secret|Durango.secret]] 
+- [[../../../../../../_Standards/geo/Continent/America~Central/Mexico/Counties/Durango|Durango]] 
+- [[../../../../../../_public/geo/Continent/America~Central/Mexico/Counties/Durango.public|Durango.public]] 
+- [[../../../../../../_internal/geo/Continent/America~Central/Mexico/Counties/Durango.internal|Durango.internal]] 
+- [[../../../../../../_protect/geo/Continent/America~Central/Mexico/Counties/Durango.protect|Durango.protect]] 
+- [[../../../../../../_private/geo/Continent/America~Central/Mexico/Counties/Durango.private|Durango.private]] 
+- [[../../../../../../_personal/geo/Continent/America~Central/Mexico/Counties/Durango.personal|Durango.personal]] 
+- [[../../../../../../_secret/geo/Continent/America~Central/Mexico/Counties/Durango.secret|Durango.secret]] 
 

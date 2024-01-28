@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 12.2 , -4.2 ] 
 type: geo-Region
 title: Banwa
@@ -40,10 +40,11 @@ markerFolder: ./Banwa/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Africa/Burkina_Faso/Counties/Banwa.md|Banwa]] 
-- [[../../../../_internal/geo/Continent/Africa/Burkina_Faso/Counties/Banwa.internal|Banwa.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Burkina_Faso/Counties/Banwa.protect|Banwa.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Burkina_Faso/Counties/Banwa.private|Banwa.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Burkina_Faso/Counties/Banwa.personal|Banwa.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Burkina_Faso/Counties/Banwa.secret|Banwa.secret]] 
+- [[../../../../../../_Standards/geo/Continent/Africa/Burkina_Faso/Counties/Banwa|Banwa]] 
+- [[../../../../../../_public/geo/Continent/Africa/Burkina_Faso/Counties/Banwa.public|Banwa.public]] 
+- [[../../../../../../_internal/geo/Continent/Africa/Burkina_Faso/Counties/Banwa.internal|Banwa.internal]] 
+- [[../../../../../../_protect/geo/Continent/Africa/Burkina_Faso/Counties/Banwa.protect|Banwa.protect]] 
+- [[../../../../../../_private/geo/Continent/Africa/Burkina_Faso/Counties/Banwa.private|Banwa.private]] 
+- [[../../../../../../_personal/geo/Continent/Africa/Burkina_Faso/Counties/Banwa.personal|Banwa.personal]] 
+- [[../../../../../../_secret/geo/Continent/Africa/Burkina_Faso/Counties/Banwa.secret|Banwa.secret]] 
 

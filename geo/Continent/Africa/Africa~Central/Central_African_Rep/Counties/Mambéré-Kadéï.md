@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 4.5 , 15.9 ] 
 type: geo-Region
 title: Mambéré-Kadéï
@@ -40,10 +40,11 @@ markerFolder: ./Mambéré-Kadéï/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Africa/Central_African_Rep/Counties/Mambéré-Kadéï.md|Mambéré-Kadéï]] 
-- [[../../../../_internal/geo/Continent/Africa/Central_African_Rep/Counties/Mambéré-Kadéï.internal|Mambéré-Kadéï.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Central_African_Rep/Counties/Mambéré-Kadéï.protect|Mambéré-Kadéï.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Central_African_Rep/Counties/Mambéré-Kadéï.private|Mambéré-Kadéï.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Central_African_Rep/Counties/Mambéré-Kadéï.personal|Mambéré-Kadéï.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Central_African_Rep/Counties/Mambéré-Kadéï.secret|Mambéré-Kadéï.secret]] 
+- [[../../../../../../_Standards/geo/Continent/Africa/Central_African_Rep/Counties/Mambéré-Kadéï|Mambéré-Kadéï]] 
+- [[../../../../../../_public/geo/Continent/Africa/Central_African_Rep/Counties/Mambéré-Kadéï.public|Mambéré-Kadéï.public]] 
+- [[../../../../../../_internal/geo/Continent/Africa/Central_African_Rep/Counties/Mambéré-Kadéï.internal|Mambéré-Kadéï.internal]] 
+- [[../../../../../../_protect/geo/Continent/Africa/Central_African_Rep/Counties/Mambéré-Kadéï.protect|Mambéré-Kadéï.protect]] 
+- [[../../../../../../_private/geo/Continent/Africa/Central_African_Rep/Counties/Mambéré-Kadéï.private|Mambéré-Kadéï.private]] 
+- [[../../../../../../_personal/geo/Continent/Africa/Central_African_Rep/Counties/Mambéré-Kadéï.personal|Mambéré-Kadéï.personal]] 
+- [[../../../../../../_secret/geo/Continent/Africa/Central_African_Rep/Counties/Mambéré-Kadéï.secret|Mambéré-Kadéï.secret]] 
 

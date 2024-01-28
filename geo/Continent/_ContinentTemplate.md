@@ -23,12 +23,13 @@ geojsonFolder: ./{{EnglishName}}/
 markerFolder: ./{{EnglishName}}/
 ```
 
-[name-en::{{EnglishName}}]
-[name-de::{{GermanName}}]
+[name-en::{{EnglishName}}] 
+[name-de::{{GermanName}}] 
 
 
 ## Confidential Links & Embeds: 
-- [[../../../_public/geo/Continent/_ContinentTemplate.md|_ContinentTemplate]] 
+- [[../../../_Standards/geo/Continent/_ContinentTemplate|_ContinentTemplate]] 
+- [[../../../_public/geo/Continent/_ContinentTemplate.public|_ContinentTemplate.public]] 
 - [[../../../_internal/geo/Continent/_ContinentTemplate.internal|_ContinentTemplate.internal]] 
 - [[../../../_protect/geo/Continent/_ContinentTemplate.protect|_ContinentTemplate.protect]] 
 - [[../../../_private/geo/Continent/_ContinentTemplate.private|_ContinentTemplate.private]] 

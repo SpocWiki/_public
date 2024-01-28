@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ -36.7 , 174.6 ] 
 type: geo-Region
 title: Auckland
@@ -40,10 +40,11 @@ markerFolder: ./Auckland/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Australia/New_Zealand/Counties/Auckland.md|Auckland]] 
-- [[../../../../_internal/geo/Continent/Australia/New_Zealand/Counties/Auckland.internal|Auckland.internal]] 
-- [[../../../../_protect/geo/Continent/Australia/New_Zealand/Counties/Auckland.protect|Auckland.protect]] 
-- [[../../../../_private/geo/Continent/Australia/New_Zealand/Counties/Auckland.private|Auckland.private]] 
-- [[../../../../_personal/geo/Continent/Australia/New_Zealand/Counties/Auckland.personal|Auckland.personal]] 
-- [[../../../../_secret/geo/Continent/Australia/New_Zealand/Counties/Auckland.secret|Auckland.secret]] 
+- [[../../../../../../_Standards/geo/Continent/Australia/New_Zealand/Counties/Auckland|Auckland]] 
+- [[../../../../../../_public/geo/Continent/Australia/New_Zealand/Counties/Auckland.public|Auckland.public]] 
+- [[../../../../../../_internal/geo/Continent/Australia/New_Zealand/Counties/Auckland.internal|Auckland.internal]] 
+- [[../../../../../../_protect/geo/Continent/Australia/New_Zealand/Counties/Auckland.protect|Auckland.protect]] 
+- [[../../../../../../_private/geo/Continent/Australia/New_Zealand/Counties/Auckland.private|Auckland.private]] 
+- [[../../../../../../_personal/geo/Continent/Australia/New_Zealand/Counties/Auckland.personal|Auckland.personal]] 
+- [[../../../../../../_secret/geo/Continent/Australia/New_Zealand/Counties/Auckland.secret|Auckland.secret]] 
 

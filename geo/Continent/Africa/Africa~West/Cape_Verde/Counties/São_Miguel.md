@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 15.18 , -23.64 ] 
 type: geo-Region
 title: São_Miguel
@@ -40,10 +40,11 @@ markerFolder: ./São_Miguel/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Africa/Cape_Verde/Counties/São_Miguel.md|São_Miguel]] 
-- [[../../../../_internal/geo/Continent/Africa/Cape_Verde/Counties/São_Miguel.internal|São_Miguel.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Cape_Verde/Counties/São_Miguel.protect|São_Miguel.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Cape_Verde/Counties/São_Miguel.private|São_Miguel.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Cape_Verde/Counties/São_Miguel.personal|São_Miguel.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Cape_Verde/Counties/São_Miguel.secret|São_Miguel.secret]] 
+- [[../../../../../../_Standards/geo/Continent/Africa/Cape_Verde/Counties/São_Miguel|São_Miguel]] 
+- [[../../../../../../_public/geo/Continent/Africa/Cape_Verde/Counties/São_Miguel.public|São_Miguel.public]] 
+- [[../../../../../../_internal/geo/Continent/Africa/Cape_Verde/Counties/São_Miguel.internal|São_Miguel.internal]] 
+- [[../../../../../../_protect/geo/Continent/Africa/Cape_Verde/Counties/São_Miguel.protect|São_Miguel.protect]] 
+- [[../../../../../../_private/geo/Continent/Africa/Cape_Verde/Counties/São_Miguel.private|São_Miguel.private]] 
+- [[../../../../../../_personal/geo/Continent/Africa/Cape_Verde/Counties/São_Miguel.personal|São_Miguel.personal]] 
+- [[../../../../../../_secret/geo/Continent/Africa/Cape_Verde/Counties/São_Miguel.secret|São_Miguel.secret]] 
 

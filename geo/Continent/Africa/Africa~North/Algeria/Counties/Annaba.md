@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 36.8 , 7.6 ] 
 type: geo-Region
 title: Annaba
@@ -40,10 +40,11 @@ markerFolder: ./Annaba/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Africa/Algeria/Counties/Annaba.md|Annaba]] 
-- [[../../../../_internal/geo/Continent/Africa/Algeria/Counties/Annaba.internal|Annaba.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Algeria/Counties/Annaba.protect|Annaba.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Algeria/Counties/Annaba.private|Annaba.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Algeria/Counties/Annaba.personal|Annaba.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Algeria/Counties/Annaba.secret|Annaba.secret]] 
+- [[../../../../../../_Standards/geo/Continent/Africa/Algeria/Counties/Annaba|Annaba]] 
+- [[../../../../../../_public/geo/Continent/Africa/Algeria/Counties/Annaba.public|Annaba.public]] 
+- [[../../../../../../_internal/geo/Continent/Africa/Algeria/Counties/Annaba.internal|Annaba.internal]] 
+- [[../../../../../../_protect/geo/Continent/Africa/Algeria/Counties/Annaba.protect|Annaba.protect]] 
+- [[../../../../../../_private/geo/Continent/Africa/Algeria/Counties/Annaba.private|Annaba.private]] 
+- [[../../../../../../_personal/geo/Continent/Africa/Algeria/Counties/Annaba.personal|Annaba.personal]] 
+- [[../../../../../../_secret/geo/Continent/Africa/Algeria/Counties/Annaba.secret|Annaba.secret]] 
 

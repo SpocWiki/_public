@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 10.1 , -72.5 ] 
 type: geo-Region
 title: Zulia
@@ -40,10 +40,11 @@ markerFolder: ./Zulia/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/America~South/Venezuela/Counties/Zulia.md|Zulia]] 
-- [[../../../../_internal/geo/Continent/America~South/Venezuela/Counties/Zulia.internal|Zulia.internal]] 
-- [[../../../../_protect/geo/Continent/America~South/Venezuela/Counties/Zulia.protect|Zulia.protect]] 
-- [[../../../../_private/geo/Continent/America~South/Venezuela/Counties/Zulia.private|Zulia.private]] 
-- [[../../../../_personal/geo/Continent/America~South/Venezuela/Counties/Zulia.personal|Zulia.personal]] 
-- [[../../../../_secret/geo/Continent/America~South/Venezuela/Counties/Zulia.secret|Zulia.secret]] 
+- [[../../../../../../_Standards/geo/Continent/America~South/Venezuela/Counties/Zulia|Zulia]] 
+- [[../../../../../../_public/geo/Continent/America~South/Venezuela/Counties/Zulia.public|Zulia.public]] 
+- [[../../../../../../_internal/geo/Continent/America~South/Venezuela/Counties/Zulia.internal|Zulia.internal]] 
+- [[../../../../../../_protect/geo/Continent/America~South/Venezuela/Counties/Zulia.protect|Zulia.protect]] 
+- [[../../../../../../_private/geo/Continent/America~South/Venezuela/Counties/Zulia.private|Zulia.private]] 
+- [[../../../../../../_personal/geo/Continent/America~South/Venezuela/Counties/Zulia.personal|Zulia.personal]] 
+- [[../../../../../../_secret/geo/Continent/America~South/Venezuela/Counties/Zulia.secret|Zulia.secret]] 
 

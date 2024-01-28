@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ -18.6 , -67.8 ] 
 type: geo-Region
 title: Oruro
@@ -40,10 +40,11 @@ markerFolder: ./Oruro/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/America~South/Bolivia/Counties/Oruro.md|Oruro]] 
-- [[../../../../_internal/geo/Continent/America~South/Bolivia/Counties/Oruro.internal|Oruro.internal]] 
-- [[../../../../_protect/geo/Continent/America~South/Bolivia/Counties/Oruro.protect|Oruro.protect]] 
-- [[../../../../_private/geo/Continent/America~South/Bolivia/Counties/Oruro.private|Oruro.private]] 
-- [[../../../../_personal/geo/Continent/America~South/Bolivia/Counties/Oruro.personal|Oruro.personal]] 
-- [[../../../../_secret/geo/Continent/America~South/Bolivia/Counties/Oruro.secret|Oruro.secret]] 
+- [[../../../../../../_Standards/geo/Continent/America~South/Bolivia/Counties/Oruro|Oruro]] 
+- [[../../../../../../_public/geo/Continent/America~South/Bolivia/Counties/Oruro.public|Oruro.public]] 
+- [[../../../../../../_internal/geo/Continent/America~South/Bolivia/Counties/Oruro.internal|Oruro.internal]] 
+- [[../../../../../../_protect/geo/Continent/America~South/Bolivia/Counties/Oruro.protect|Oruro.protect]] 
+- [[../../../../../../_private/geo/Continent/America~South/Bolivia/Counties/Oruro.private|Oruro.private]] 
+- [[../../../../../../_personal/geo/Continent/America~South/Bolivia/Counties/Oruro.personal|Oruro.personal]] 
+- [[../../../../../../_secret/geo/Continent/America~South/Bolivia/Counties/Oruro.secret|Oruro.secret]] 
 

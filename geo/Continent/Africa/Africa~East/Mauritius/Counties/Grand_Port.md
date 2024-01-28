@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ -20.4 , 57.6 ] 
 type: geo-Region
 title: Grand_Port
@@ -40,10 +40,11 @@ markerFolder: ./Grand_Port/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Africa/Mauritius/Counties/Grand_Port.md|Grand_Port]] 
-- [[../../../../_internal/geo/Continent/Africa/Mauritius/Counties/Grand_Port.internal|Grand_Port.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Mauritius/Counties/Grand_Port.protect|Grand_Port.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Mauritius/Counties/Grand_Port.private|Grand_Port.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Mauritius/Counties/Grand_Port.personal|Grand_Port.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Mauritius/Counties/Grand_Port.secret|Grand_Port.secret]] 
+- [[../../../../../../_Standards/geo/Continent/Africa/Mauritius/Counties/Grand_Port|Grand_Port]] 
+- [[../../../../../../_public/geo/Continent/Africa/Mauritius/Counties/Grand_Port.public|Grand_Port.public]] 
+- [[../../../../../../_internal/geo/Continent/Africa/Mauritius/Counties/Grand_Port.internal|Grand_Port.internal]] 
+- [[../../../../../../_protect/geo/Continent/Africa/Mauritius/Counties/Grand_Port.protect|Grand_Port.protect]] 
+- [[../../../../../../_private/geo/Continent/Africa/Mauritius/Counties/Grand_Port.private|Grand_Port.private]] 
+- [[../../../../../../_personal/geo/Continent/Africa/Mauritius/Counties/Grand_Port.personal|Grand_Port.personal]] 
+- [[../../../../../../_secret/geo/Continent/Africa/Mauritius/Counties/Grand_Port.secret|Grand_Port.secret]] 
 

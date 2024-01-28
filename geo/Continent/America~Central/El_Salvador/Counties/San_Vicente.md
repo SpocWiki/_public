@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 13.5 , -88.7 ] 
 type: geo-Region
 title: San_Vicente
@@ -40,10 +40,11 @@ markerFolder: ./San_Vicente/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/America~Central/El_Salvador/Counties/San_Vicente.md|San_Vicente]] 
-- [[../../../../_internal/geo/Continent/America~Central/El_Salvador/Counties/San_Vicente.internal|San_Vicente.internal]] 
-- [[../../../../_protect/geo/Continent/America~Central/El_Salvador/Counties/San_Vicente.protect|San_Vicente.protect]] 
-- [[../../../../_private/geo/Continent/America~Central/El_Salvador/Counties/San_Vicente.private|San_Vicente.private]] 
-- [[../../../../_personal/geo/Continent/America~Central/El_Salvador/Counties/San_Vicente.personal|San_Vicente.personal]] 
-- [[../../../../_secret/geo/Continent/America~Central/El_Salvador/Counties/San_Vicente.secret|San_Vicente.secret]] 
+- [[../../../../../../_Standards/geo/Continent/America~Central/El_Salvador/Counties/San_Vicente|San_Vicente]] 
+- [[../../../../../../_public/geo/Continent/America~Central/El_Salvador/Counties/San_Vicente.public|San_Vicente.public]] 
+- [[../../../../../../_internal/geo/Continent/America~Central/El_Salvador/Counties/San_Vicente.internal|San_Vicente.internal]] 
+- [[../../../../../../_protect/geo/Continent/America~Central/El_Salvador/Counties/San_Vicente.protect|San_Vicente.protect]] 
+- [[../../../../../../_private/geo/Continent/America~Central/El_Salvador/Counties/San_Vicente.private|San_Vicente.private]] 
+- [[../../../../../../_personal/geo/Continent/America~Central/El_Salvador/Counties/San_Vicente.personal|San_Vicente.personal]] 
+- [[../../../../../../_secret/geo/Continent/America~Central/El_Salvador/Counties/San_Vicente.secret|San_Vicente.secret]] 
 

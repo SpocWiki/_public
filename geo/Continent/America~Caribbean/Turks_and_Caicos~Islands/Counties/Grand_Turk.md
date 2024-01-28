@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 21.47 , -71.14 ] 
 type: geo-Region
 title: Grand_Turk
@@ -40,10 +40,11 @@ markerFolder: ./Grand_Turk/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/America~Caribbean/Turks_and_Caicos~Islands/Counties/Grand_Turk.md|Grand_Turk]] 
-- [[../../../../_internal/geo/Continent/America~Caribbean/Turks_and_Caicos~Islands/Counties/Grand_Turk.internal|Grand_Turk.internal]] 
-- [[../../../../_protect/geo/Continent/America~Caribbean/Turks_and_Caicos~Islands/Counties/Grand_Turk.protect|Grand_Turk.protect]] 
-- [[../../../../_private/geo/Continent/America~Caribbean/Turks_and_Caicos~Islands/Counties/Grand_Turk.private|Grand_Turk.private]] 
-- [[../../../../_personal/geo/Continent/America~Caribbean/Turks_and_Caicos~Islands/Counties/Grand_Turk.personal|Grand_Turk.personal]] 
-- [[../../../../_secret/geo/Continent/America~Caribbean/Turks_and_Caicos~Islands/Counties/Grand_Turk.secret|Grand_Turk.secret]] 
+- [[../../../../../../_Standards/geo/Continent/America~Caribbean/Turks_and_Caicos~Islands/Counties/Grand_Turk|Grand_Turk]] 
+- [[../../../../../../_public/geo/Continent/America~Caribbean/Turks_and_Caicos~Islands/Counties/Grand_Turk.public|Grand_Turk.public]] 
+- [[../../../../../../_internal/geo/Continent/America~Caribbean/Turks_and_Caicos~Islands/Counties/Grand_Turk.internal|Grand_Turk.internal]] 
+- [[../../../../../../_protect/geo/Continent/America~Caribbean/Turks_and_Caicos~Islands/Counties/Grand_Turk.protect|Grand_Turk.protect]] 
+- [[../../../../../../_private/geo/Continent/America~Caribbean/Turks_and_Caicos~Islands/Counties/Grand_Turk.private|Grand_Turk.private]] 
+- [[../../../../../../_personal/geo/Continent/America~Caribbean/Turks_and_Caicos~Islands/Counties/Grand_Turk.personal|Grand_Turk.personal]] 
+- [[../../../../../../_secret/geo/Continent/America~Caribbean/Turks_and_Caicos~Islands/Counties/Grand_Turk.secret|Grand_Turk.secret]] 
 

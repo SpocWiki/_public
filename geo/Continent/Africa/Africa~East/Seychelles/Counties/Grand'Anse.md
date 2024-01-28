@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ -4.68 , 55.47 ] 
 type: geo-Region
 title: Grand'Anse
@@ -40,10 +40,11 @@ markerFolder: ./Grand'Anse/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Africa/Seychelles/Counties/Grand'Anse.md|Grand'Anse]] 
-- [[../../../../_internal/geo/Continent/Africa/Seychelles/Counties/Grand'Anse.internal|Grand'Anse.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Seychelles/Counties/Grand'Anse.protect|Grand'Anse.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Seychelles/Counties/Grand'Anse.private|Grand'Anse.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Seychelles/Counties/Grand'Anse.personal|Grand'Anse.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Seychelles/Counties/Grand'Anse.secret|Grand'Anse.secret]] 
+- [[../../../../../../_Standards/geo/Continent/Africa/Seychelles/Counties/Grand'Anse|Grand'Anse]] 
+- [[../../../../../../_public/geo/Continent/Africa/Seychelles/Counties/Grand'Anse.public|Grand'Anse.public]] 
+- [[../../../../../../_internal/geo/Continent/Africa/Seychelles/Counties/Grand'Anse.internal|Grand'Anse.internal]] 
+- [[../../../../../../_protect/geo/Continent/Africa/Seychelles/Counties/Grand'Anse.protect|Grand'Anse.protect]] 
+- [[../../../../../../_private/geo/Continent/Africa/Seychelles/Counties/Grand'Anse.private|Grand'Anse.private]] 
+- [[../../../../../../_personal/geo/Continent/Africa/Seychelles/Counties/Grand'Anse.personal|Grand'Anse.personal]] 
+- [[../../../../../../_secret/geo/Continent/Africa/Seychelles/Counties/Grand'Anse.secret|Grand'Anse.secret]] 
 

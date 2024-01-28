@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 3 , 31.1 ] 
 type: geo-Region
 title: Arua
@@ -40,10 +40,11 @@ markerFolder: ./Arua/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Africa/Uganda/Counties/Arua.md|Arua]] 
-- [[../../../../_internal/geo/Continent/Africa/Uganda/Counties/Arua.internal|Arua.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Uganda/Counties/Arua.protect|Arua.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Uganda/Counties/Arua.private|Arua.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Uganda/Counties/Arua.personal|Arua.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Uganda/Counties/Arua.secret|Arua.secret]] 
+- [[../../../../../../_Standards/geo/Continent/Africa/Uganda/Counties/Arua|Arua]] 
+- [[../../../../../../_public/geo/Continent/Africa/Uganda/Counties/Arua.public|Arua.public]] 
+- [[../../../../../../_internal/geo/Continent/Africa/Uganda/Counties/Arua.internal|Arua.internal]] 
+- [[../../../../../../_protect/geo/Continent/Africa/Uganda/Counties/Arua.protect|Arua.protect]] 
+- [[../../../../../../_private/geo/Continent/Africa/Uganda/Counties/Arua.private|Arua.private]] 
+- [[../../../../../../_personal/geo/Continent/Africa/Uganda/Counties/Arua.personal|Arua.personal]] 
+- [[../../../../../../_secret/geo/Continent/Africa/Uganda/Counties/Arua.secret|Arua.secret]] 
 

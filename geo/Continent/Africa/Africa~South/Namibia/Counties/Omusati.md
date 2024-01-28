@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ -18.4 , 14.9 ] 
 type: geo-Region
 title: Omusati
@@ -40,10 +40,11 @@ markerFolder: ./Omusati/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Africa/Namibia/Counties/Omusati.md|Omusati]] 
-- [[../../../../_internal/geo/Continent/Africa/Namibia/Counties/Omusati.internal|Omusati.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Namibia/Counties/Omusati.protect|Omusati.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Namibia/Counties/Omusati.private|Omusati.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Namibia/Counties/Omusati.personal|Omusati.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Namibia/Counties/Omusati.secret|Omusati.secret]] 
+- [[../../../../../../_Standards/geo/Continent/Africa/Namibia/Counties/Omusati|Omusati]] 
+- [[../../../../../../_public/geo/Continent/Africa/Namibia/Counties/Omusati.public|Omusati.public]] 
+- [[../../../../../../_internal/geo/Continent/Africa/Namibia/Counties/Omusati.internal|Omusati.internal]] 
+- [[../../../../../../_protect/geo/Continent/Africa/Namibia/Counties/Omusati.protect|Omusati.protect]] 
+- [[../../../../../../_private/geo/Continent/Africa/Namibia/Counties/Omusati.private|Omusati.private]] 
+- [[../../../../../../_personal/geo/Continent/Africa/Namibia/Counties/Omusati.personal|Omusati.personal]] 
+- [[../../../../../../_secret/geo/Continent/Africa/Namibia/Counties/Omusati.secret|Omusati.secret]] 
 

@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ -27.1 , -65.4 ] 
 type: geo-Region
 title: Tucumán
@@ -40,10 +40,11 @@ markerFolder: ./Tucumán/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/America~South/Argentina/Counties/Tucumán.md|Tucumán]] 
-- [[../../../../_internal/geo/Continent/America~South/Argentina/Counties/Tucumán.internal|Tucumán.internal]] 
-- [[../../../../_protect/geo/Continent/America~South/Argentina/Counties/Tucumán.protect|Tucumán.protect]] 
-- [[../../../../_private/geo/Continent/America~South/Argentina/Counties/Tucumán.private|Tucumán.private]] 
-- [[../../../../_personal/geo/Continent/America~South/Argentina/Counties/Tucumán.personal|Tucumán.personal]] 
-- [[../../../../_secret/geo/Continent/America~South/Argentina/Counties/Tucumán.secret|Tucumán.secret]] 
+- [[../../../../../../_Standards/geo/Continent/America~South/Argentina/Counties/Tucumán|Tucumán]] 
+- [[../../../../../../_public/geo/Continent/America~South/Argentina/Counties/Tucumán.public|Tucumán.public]] 
+- [[../../../../../../_internal/geo/Continent/America~South/Argentina/Counties/Tucumán.internal|Tucumán.internal]] 
+- [[../../../../../../_protect/geo/Continent/America~South/Argentina/Counties/Tucumán.protect|Tucumán.protect]] 
+- [[../../../../../../_private/geo/Continent/America~South/Argentina/Counties/Tucumán.private|Tucumán.private]] 
+- [[../../../../../../_personal/geo/Continent/America~South/Argentina/Counties/Tucumán.personal|Tucumán.personal]] 
+- [[../../../../../../_secret/geo/Continent/America~South/Argentina/Counties/Tucumán.secret|Tucumán.secret]] 
 

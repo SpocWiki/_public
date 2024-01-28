@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 0.5 , 32.1 ] 
 type: geo-Region
 title: Mityana
@@ -40,10 +40,11 @@ markerFolder: ./Mityana/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Africa/Uganda/Counties/Mityana.md|Mityana]] 
-- [[../../../../_internal/geo/Continent/Africa/Uganda/Counties/Mityana.internal|Mityana.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Uganda/Counties/Mityana.protect|Mityana.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Uganda/Counties/Mityana.private|Mityana.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Uganda/Counties/Mityana.personal|Mityana.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Uganda/Counties/Mityana.secret|Mityana.secret]] 
+- [[../../../../../../_Standards/geo/Continent/Africa/Uganda/Counties/Mityana|Mityana]] 
+- [[../../../../../../_public/geo/Continent/Africa/Uganda/Counties/Mityana.public|Mityana.public]] 
+- [[../../../../../../_internal/geo/Continent/Africa/Uganda/Counties/Mityana.internal|Mityana.internal]] 
+- [[../../../../../../_protect/geo/Continent/Africa/Uganda/Counties/Mityana.protect|Mityana.protect]] 
+- [[../../../../../../_private/geo/Continent/Africa/Uganda/Counties/Mityana.private|Mityana.private]] 
+- [[../../../../../../_personal/geo/Continent/Africa/Uganda/Counties/Mityana.personal|Mityana.personal]] 
+- [[../../../../../../_secret/geo/Continent/Africa/Uganda/Counties/Mityana.secret|Mityana.secret]] 
 

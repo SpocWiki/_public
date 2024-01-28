@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 31.9 , 22.6 ] 
 type: geo-Region
 title: Al_Qubbah
@@ -40,10 +40,11 @@ markerFolder: ./Al_Qubbah/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Africa/Libya/Counties/Al_Qubbah.md|Al_Qubbah]] 
-- [[../../../../_internal/geo/Continent/Africa/Libya/Counties/Al_Qubbah.internal|Al_Qubbah.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Libya/Counties/Al_Qubbah.protect|Al_Qubbah.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Libya/Counties/Al_Qubbah.private|Al_Qubbah.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Libya/Counties/Al_Qubbah.personal|Al_Qubbah.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Libya/Counties/Al_Qubbah.secret|Al_Qubbah.secret]] 
+- [[../../../../../../_Standards/geo/Continent/Africa/Libya/Counties/Al_Qubbah|Al_Qubbah]] 
+- [[../../../../../../_public/geo/Continent/Africa/Libya/Counties/Al_Qubbah.public|Al_Qubbah.public]] 
+- [[../../../../../../_internal/geo/Continent/Africa/Libya/Counties/Al_Qubbah.internal|Al_Qubbah.internal]] 
+- [[../../../../../../_protect/geo/Continent/Africa/Libya/Counties/Al_Qubbah.protect|Al_Qubbah.protect]] 
+- [[../../../../../../_private/geo/Continent/Africa/Libya/Counties/Al_Qubbah.private|Al_Qubbah.private]] 
+- [[../../../../../../_personal/geo/Continent/Africa/Libya/Counties/Al_Qubbah.personal|Al_Qubbah.personal]] 
+- [[../../../../../../_secret/geo/Continent/Africa/Libya/Counties/Al_Qubbah.secret|Al_Qubbah.secret]] 
 

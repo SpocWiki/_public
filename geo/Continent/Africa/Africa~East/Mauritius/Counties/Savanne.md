@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ -20.5 , 57.5 ] 
 type: geo-Region
 title: Savanne
@@ -40,10 +40,11 @@ markerFolder: ./Savanne/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Africa/Mauritius/Counties/Savanne.md|Savanne]] 
-- [[../../../../_internal/geo/Continent/Africa/Mauritius/Counties/Savanne.internal|Savanne.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Mauritius/Counties/Savanne.protect|Savanne.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Mauritius/Counties/Savanne.private|Savanne.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Mauritius/Counties/Savanne.personal|Savanne.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Mauritius/Counties/Savanne.secret|Savanne.secret]] 
+- [[../../../../../../_Standards/geo/Continent/Africa/Mauritius/Counties/Savanne|Savanne]] 
+- [[../../../../../../_public/geo/Continent/Africa/Mauritius/Counties/Savanne.public|Savanne.public]] 
+- [[../../../../../../_internal/geo/Continent/Africa/Mauritius/Counties/Savanne.internal|Savanne.internal]] 
+- [[../../../../../../_protect/geo/Continent/Africa/Mauritius/Counties/Savanne.protect|Savanne.protect]] 
+- [[../../../../../../_private/geo/Continent/Africa/Mauritius/Counties/Savanne.private|Savanne.private]] 
+- [[../../../../../../_personal/geo/Continent/Africa/Mauritius/Counties/Savanne.personal|Savanne.personal]] 
+- [[../../../../../../_secret/geo/Continent/Africa/Mauritius/Counties/Savanne.secret|Savanne.secret]] 
 

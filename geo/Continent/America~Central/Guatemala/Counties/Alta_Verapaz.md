@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 15.6 , -90.1 ] 
 type: geo-Region
 title: Alta_Verapaz
@@ -40,10 +40,11 @@ markerFolder: ./Alta_Verapaz/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/America~Central/Guatemala/Counties/Alta_Verapaz.md|Alta_Verapaz]] 
-- [[../../../../_internal/geo/Continent/America~Central/Guatemala/Counties/Alta_Verapaz.internal|Alta_Verapaz.internal]] 
-- [[../../../../_protect/geo/Continent/America~Central/Guatemala/Counties/Alta_Verapaz.protect|Alta_Verapaz.protect]] 
-- [[../../../../_private/geo/Continent/America~Central/Guatemala/Counties/Alta_Verapaz.private|Alta_Verapaz.private]] 
-- [[../../../../_personal/geo/Continent/America~Central/Guatemala/Counties/Alta_Verapaz.personal|Alta_Verapaz.personal]] 
-- [[../../../../_secret/geo/Continent/America~Central/Guatemala/Counties/Alta_Verapaz.secret|Alta_Verapaz.secret]] 
+- [[../../../../../../_Standards/geo/Continent/America~Central/Guatemala/Counties/Alta_Verapaz|Alta_Verapaz]] 
+- [[../../../../../../_public/geo/Continent/America~Central/Guatemala/Counties/Alta_Verapaz.public|Alta_Verapaz.public]] 
+- [[../../../../../../_internal/geo/Continent/America~Central/Guatemala/Counties/Alta_Verapaz.internal|Alta_Verapaz.internal]] 
+- [[../../../../../../_protect/geo/Continent/America~Central/Guatemala/Counties/Alta_Verapaz.protect|Alta_Verapaz.protect]] 
+- [[../../../../../../_private/geo/Continent/America~Central/Guatemala/Counties/Alta_Verapaz.private|Alta_Verapaz.private]] 
+- [[../../../../../../_personal/geo/Continent/America~Central/Guatemala/Counties/Alta_Verapaz.personal|Alta_Verapaz.personal]] 
+- [[../../../../../../_secret/geo/Continent/America~Central/Guatemala/Counties/Alta_Verapaz.secret|Alta_Verapaz.secret]] 
 

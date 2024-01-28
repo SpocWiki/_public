@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 16.73 , -169.54 ] 
 type: geo-Region
 title: Johnston_Atoll
@@ -40,10 +40,11 @@ markerFolder: ./Johnston_Atoll/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/America~North/United_States_of_America/USA~Islands/Counties/Johnston_Atoll.md|Johnston_Atoll]] 
-- [[../../../../_internal/geo/Continent/America~North/United_States_of_America/USA~Islands/Counties/Johnston_Atoll.internal|Johnston_Atoll.internal]] 
-- [[../../../../_protect/geo/Continent/America~North/United_States_of_America/USA~Islands/Counties/Johnston_Atoll.protect|Johnston_Atoll.protect]] 
-- [[../../../../_private/geo/Continent/America~North/United_States_of_America/USA~Islands/Counties/Johnston_Atoll.private|Johnston_Atoll.private]] 
-- [[../../../../_personal/geo/Continent/America~North/United_States_of_America/USA~Islands/Counties/Johnston_Atoll.personal|Johnston_Atoll.personal]] 
-- [[../../../../_secret/geo/Continent/America~North/United_States_of_America/USA~Islands/Counties/Johnston_Atoll.secret|Johnston_Atoll.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/America~North/United_States_of_America/USA~Islands/Counties/Johnston_Atoll|Johnston_Atoll]] 
+- [[../../../../../../../_public/geo/Continent/America~North/United_States_of_America/USA~Islands/Counties/Johnston_Atoll.public|Johnston_Atoll.public]] 
+- [[../../../../../../../_internal/geo/Continent/America~North/United_States_of_America/USA~Islands/Counties/Johnston_Atoll.internal|Johnston_Atoll.internal]] 
+- [[../../../../../../../_protect/geo/Continent/America~North/United_States_of_America/USA~Islands/Counties/Johnston_Atoll.protect|Johnston_Atoll.protect]] 
+- [[../../../../../../../_private/geo/Continent/America~North/United_States_of_America/USA~Islands/Counties/Johnston_Atoll.private|Johnston_Atoll.private]] 
+- [[../../../../../../../_personal/geo/Continent/America~North/United_States_of_America/USA~Islands/Counties/Johnston_Atoll.personal|Johnston_Atoll.personal]] 
+- [[../../../../../../../_secret/geo/Continent/America~North/United_States_of_America/USA~Islands/Counties/Johnston_Atoll.secret|Johnston_Atoll.secret]] 
 

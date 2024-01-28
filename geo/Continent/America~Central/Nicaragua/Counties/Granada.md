@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 11.9 , -85.8 ] 
 type: geo-Region
 title: Granada
@@ -40,10 +40,11 @@ markerFolder: ./Granada/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/America~Central/Nicaragua/Counties/Granada.md|Granada]] 
-- [[../../../../_internal/geo/Continent/America~Central/Nicaragua/Counties/Granada.internal|Granada.internal]] 
-- [[../../../../_protect/geo/Continent/America~Central/Nicaragua/Counties/Granada.protect|Granada.protect]] 
-- [[../../../../_private/geo/Continent/America~Central/Nicaragua/Counties/Granada.private|Granada.private]] 
-- [[../../../../_personal/geo/Continent/America~Central/Nicaragua/Counties/Granada.personal|Granada.personal]] 
-- [[../../../../_secret/geo/Continent/America~Central/Nicaragua/Counties/Granada.secret|Granada.secret]] 
+- [[../../../../../../_Standards/geo/Continent/America~Central/Nicaragua/Counties/Granada|Granada]] 
+- [[../../../../../../_public/geo/Continent/America~Central/Nicaragua/Counties/Granada.public|Granada.public]] 
+- [[../../../../../../_internal/geo/Continent/America~Central/Nicaragua/Counties/Granada.internal|Granada.internal]] 
+- [[../../../../../../_protect/geo/Continent/America~Central/Nicaragua/Counties/Granada.protect|Granada.protect]] 
+- [[../../../../../../_private/geo/Continent/America~Central/Nicaragua/Counties/Granada.private|Granada.private]] 
+- [[../../../../../../_personal/geo/Continent/America~Central/Nicaragua/Counties/Granada.personal|Granada.personal]] 
+- [[../../../../../../_secret/geo/Continent/America~Central/Nicaragua/Counties/Granada.secret|Granada.secret]] 
 

@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 22.9 , -82.1 ] 
 type: geo-Region
 title: Mayabeque
@@ -40,10 +40,11 @@ markerFolder: ./Mayabeque/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/America~Caribbean/Cuba/Counties/Mayabeque.md|Mayabeque]] 
-- [[../../../../_internal/geo/Continent/America~Caribbean/Cuba/Counties/Mayabeque.internal|Mayabeque.internal]] 
-- [[../../../../_protect/geo/Continent/America~Caribbean/Cuba/Counties/Mayabeque.protect|Mayabeque.protect]] 
-- [[../../../../_private/geo/Continent/America~Caribbean/Cuba/Counties/Mayabeque.private|Mayabeque.private]] 
-- [[../../../../_personal/geo/Continent/America~Caribbean/Cuba/Counties/Mayabeque.personal|Mayabeque.personal]] 
-- [[../../../../_secret/geo/Continent/America~Caribbean/Cuba/Counties/Mayabeque.secret|Mayabeque.secret]] 
+- [[../../../../../../_Standards/geo/Continent/America~Caribbean/Cuba/Counties/Mayabeque|Mayabeque]] 
+- [[../../../../../../_public/geo/Continent/America~Caribbean/Cuba/Counties/Mayabeque.public|Mayabeque.public]] 
+- [[../../../../../../_internal/geo/Continent/America~Caribbean/Cuba/Counties/Mayabeque.internal|Mayabeque.internal]] 
+- [[../../../../../../_protect/geo/Continent/America~Caribbean/Cuba/Counties/Mayabeque.protect|Mayabeque.protect]] 
+- [[../../../../../../_private/geo/Continent/America~Caribbean/Cuba/Counties/Mayabeque.private|Mayabeque.private]] 
+- [[../../../../../../_personal/geo/Continent/America~Caribbean/Cuba/Counties/Mayabeque.personal|Mayabeque.personal]] 
+- [[../../../../../../_secret/geo/Continent/America~Caribbean/Cuba/Counties/Mayabeque.secret|Mayabeque.secret]] 
 

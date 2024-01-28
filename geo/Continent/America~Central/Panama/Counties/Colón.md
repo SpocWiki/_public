@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 9.1 , -80.2 ] 
 type: geo-Region
 title: Colón
@@ -40,10 +40,11 @@ markerFolder: ./Colón/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/America~Central/Panama/Counties/Colón.md|Colón]] 
-- [[../../../../_internal/geo/Continent/America~Central/Panama/Counties/Colón.internal|Colón.internal]] 
-- [[../../../../_protect/geo/Continent/America~Central/Panama/Counties/Colón.protect|Colón.protect]] 
-- [[../../../../_private/geo/Continent/America~Central/Panama/Counties/Colón.private|Colón.private]] 
-- [[../../../../_personal/geo/Continent/America~Central/Panama/Counties/Colón.personal|Colón.personal]] 
-- [[../../../../_secret/geo/Continent/America~Central/Panama/Counties/Colón.secret|Colón.secret]] 
+- [[../../../../../../_Standards/geo/Continent/America~Central/Panama/Counties/Colón|Colón]] 
+- [[../../../../../../_public/geo/Continent/America~Central/Panama/Counties/Colón.public|Colón.public]] 
+- [[../../../../../../_internal/geo/Continent/America~Central/Panama/Counties/Colón.internal|Colón.internal]] 
+- [[../../../../../../_protect/geo/Continent/America~Central/Panama/Counties/Colón.protect|Colón.protect]] 
+- [[../../../../../../_private/geo/Continent/America~Central/Panama/Counties/Colón.private|Colón.private]] 
+- [[../../../../../../_personal/geo/Continent/America~Central/Panama/Counties/Colón.personal|Colón.personal]] 
+- [[../../../../../../_secret/geo/Continent/America~Central/Panama/Counties/Colón.secret|Colón.secret]] 
 

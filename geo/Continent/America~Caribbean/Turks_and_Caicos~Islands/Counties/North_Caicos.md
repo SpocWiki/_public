@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 21.89 , -71.93 ] 
 type: geo-Region
 title: North_Caicos
@@ -40,10 +40,11 @@ markerFolder: ./North_Caicos/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/America~Caribbean/Turks_and_Caicos~Islands/Counties/North_Caicos.md|North_Caicos]] 
-- [[../../../../_internal/geo/Continent/America~Caribbean/Turks_and_Caicos~Islands/Counties/North_Caicos.internal|North_Caicos.internal]] 
-- [[../../../../_protect/geo/Continent/America~Caribbean/Turks_and_Caicos~Islands/Counties/North_Caicos.protect|North_Caicos.protect]] 
-- [[../../../../_private/geo/Continent/America~Caribbean/Turks_and_Caicos~Islands/Counties/North_Caicos.private|North_Caicos.private]] 
-- [[../../../../_personal/geo/Continent/America~Caribbean/Turks_and_Caicos~Islands/Counties/North_Caicos.personal|North_Caicos.personal]] 
-- [[../../../../_secret/geo/Continent/America~Caribbean/Turks_and_Caicos~Islands/Counties/North_Caicos.secret|North_Caicos.secret]] 
+- [[../../../../../../_Standards/geo/Continent/America~Caribbean/Turks_and_Caicos~Islands/Counties/North_Caicos|North_Caicos]] 
+- [[../../../../../../_public/geo/Continent/America~Caribbean/Turks_and_Caicos~Islands/Counties/North_Caicos.public|North_Caicos.public]] 
+- [[../../../../../../_internal/geo/Continent/America~Caribbean/Turks_and_Caicos~Islands/Counties/North_Caicos.internal|North_Caicos.internal]] 
+- [[../../../../../../_protect/geo/Continent/America~Caribbean/Turks_and_Caicos~Islands/Counties/North_Caicos.protect|North_Caicos.protect]] 
+- [[../../../../../../_private/geo/Continent/America~Caribbean/Turks_and_Caicos~Islands/Counties/North_Caicos.private|North_Caicos.private]] 
+- [[../../../../../../_personal/geo/Continent/America~Caribbean/Turks_and_Caicos~Islands/Counties/North_Caicos.personal|North_Caicos.personal]] 
+- [[../../../../../../_secret/geo/Continent/America~Caribbean/Turks_and_Caicos~Islands/Counties/North_Caicos.secret|North_Caicos.secret]] 
 

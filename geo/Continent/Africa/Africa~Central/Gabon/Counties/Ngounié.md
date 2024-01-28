@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ -1.7 , 11 ] 
 type: geo-Region
 title: Ngounié
@@ -40,10 +40,11 @@ markerFolder: ./Ngounié/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Africa/Gabon/Counties/Ngounié.md|Ngounié]] 
-- [[../../../../_internal/geo/Continent/Africa/Gabon/Counties/Ngounié.internal|Ngounié.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Gabon/Counties/Ngounié.protect|Ngounié.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Gabon/Counties/Ngounié.private|Ngounié.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Gabon/Counties/Ngounié.personal|Ngounié.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Gabon/Counties/Ngounié.secret|Ngounié.secret]] 
+- [[../../../../../../_Standards/geo/Continent/Africa/Gabon/Counties/Ngounié|Ngounié]] 
+- [[../../../../../../_public/geo/Continent/Africa/Gabon/Counties/Ngounié.public|Ngounié.public]] 
+- [[../../../../../../_internal/geo/Continent/Africa/Gabon/Counties/Ngounié.internal|Ngounié.internal]] 
+- [[../../../../../../_protect/geo/Continent/Africa/Gabon/Counties/Ngounié.protect|Ngounié.protect]] 
+- [[../../../../../../_private/geo/Continent/Africa/Gabon/Counties/Ngounié.private|Ngounié.private]] 
+- [[../../../../../../_personal/geo/Continent/Africa/Gabon/Counties/Ngounié.personal|Ngounié.personal]] 
+- [[../../../../../../_secret/geo/Continent/Africa/Gabon/Counties/Ngounié.secret|Ngounié.secret]] 
 

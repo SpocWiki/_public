@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ -17.7 , 45 ] 
 type: geo-Region
 title: Melaky
@@ -40,10 +40,11 @@ markerFolder: ./Melaky/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Africa/Madagascar/Counties/Melaky.md|Melaky]] 
-- [[../../../../_internal/geo/Continent/Africa/Madagascar/Counties/Melaky.internal|Melaky.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Madagascar/Counties/Melaky.protect|Melaky.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Madagascar/Counties/Melaky.private|Melaky.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Madagascar/Counties/Melaky.personal|Melaky.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Madagascar/Counties/Melaky.secret|Melaky.secret]] 
+- [[../../../../../../_Standards/geo/Continent/Africa/Madagascar/Counties/Melaky|Melaky]] 
+- [[../../../../../../_public/geo/Continent/Africa/Madagascar/Counties/Melaky.public|Melaky.public]] 
+- [[../../../../../../_internal/geo/Continent/Africa/Madagascar/Counties/Melaky.internal|Melaky.internal]] 
+- [[../../../../../../_protect/geo/Continent/Africa/Madagascar/Counties/Melaky.protect|Melaky.protect]] 
+- [[../../../../../../_private/geo/Continent/Africa/Madagascar/Counties/Melaky.private|Melaky.private]] 
+- [[../../../../../../_personal/geo/Continent/Africa/Madagascar/Counties/Melaky.personal|Melaky.personal]] 
+- [[../../../../../../_secret/geo/Continent/Africa/Madagascar/Counties/Melaky.secret|Melaky.secret]] 
 

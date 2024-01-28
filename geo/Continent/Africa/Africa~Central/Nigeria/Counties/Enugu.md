@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 6.5 , 7.4 ] 
 type: geo-Region
 title: Enugu
@@ -40,10 +40,11 @@ markerFolder: ./Enugu/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Africa/Nigeria/Counties/Enugu.md|Enugu]] 
-- [[../../../../_internal/geo/Continent/Africa/Nigeria/Counties/Enugu.internal|Enugu.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Nigeria/Counties/Enugu.protect|Enugu.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Nigeria/Counties/Enugu.private|Enugu.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Nigeria/Counties/Enugu.personal|Enugu.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Nigeria/Counties/Enugu.secret|Enugu.secret]] 
+- [[../../../../../../_Standards/geo/Continent/Africa/Nigeria/Counties/Enugu|Enugu]] 
+- [[../../../../../../_public/geo/Continent/Africa/Nigeria/Counties/Enugu.public|Enugu.public]] 
+- [[../../../../../../_internal/geo/Continent/Africa/Nigeria/Counties/Enugu.internal|Enugu.internal]] 
+- [[../../../../../../_protect/geo/Continent/Africa/Nigeria/Counties/Enugu.protect|Enugu.protect]] 
+- [[../../../../../../_private/geo/Continent/Africa/Nigeria/Counties/Enugu.private|Enugu.private]] 
+- [[../../../../../../_personal/geo/Continent/Africa/Nigeria/Counties/Enugu.personal|Enugu.personal]] 
+- [[../../../../../../_secret/geo/Continent/Africa/Nigeria/Counties/Enugu.secret|Enugu.secret]] 
 

@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 12.1 , -14.8 ] 
 type: geo-Region
 title: Bafatá
@@ -40,10 +40,11 @@ markerFolder: ./Bafatá/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Africa/Guinea-Bissau/Counties/Bafatá.md|Bafatá]] 
-- [[../../../../_internal/geo/Continent/Africa/Guinea-Bissau/Counties/Bafatá.internal|Bafatá.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Guinea-Bissau/Counties/Bafatá.protect|Bafatá.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Guinea-Bissau/Counties/Bafatá.private|Bafatá.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Guinea-Bissau/Counties/Bafatá.personal|Bafatá.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Guinea-Bissau/Counties/Bafatá.secret|Bafatá.secret]] 
+- [[../../../../../../_Standards/geo/Continent/Africa/Guinea-Bissau/Counties/Bafatá|Bafatá]] 
+- [[../../../../../../_public/geo/Continent/Africa/Guinea-Bissau/Counties/Bafatá.public|Bafatá.public]] 
+- [[../../../../../../_internal/geo/Continent/Africa/Guinea-Bissau/Counties/Bafatá.internal|Bafatá.internal]] 
+- [[../../../../../../_protect/geo/Continent/Africa/Guinea-Bissau/Counties/Bafatá.protect|Bafatá.protect]] 
+- [[../../../../../../_private/geo/Continent/Africa/Guinea-Bissau/Counties/Bafatá.private|Bafatá.private]] 
+- [[../../../../../../_personal/geo/Continent/Africa/Guinea-Bissau/Counties/Bafatá.personal|Bafatá.personal]] 
+- [[../../../../../../_secret/geo/Continent/Africa/Guinea-Bissau/Counties/Bafatá.secret|Bafatá.secret]] 
 

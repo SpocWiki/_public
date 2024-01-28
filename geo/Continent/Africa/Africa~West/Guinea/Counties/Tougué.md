@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 11.5 , -11.4 ] 
 type: geo-Region
 title: Tougué
@@ -40,10 +40,11 @@ markerFolder: ./Tougué/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Africa/Guinea/Counties/Tougué.md|Tougué]] 
-- [[../../../../_internal/geo/Continent/Africa/Guinea/Counties/Tougué.internal|Tougué.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Guinea/Counties/Tougué.protect|Tougué.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Guinea/Counties/Tougué.private|Tougué.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Guinea/Counties/Tougué.personal|Tougué.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Guinea/Counties/Tougué.secret|Tougué.secret]] 
+- [[../../../../../../_Standards/geo/Continent/Africa/Guinea/Counties/Tougué|Tougué]] 
+- [[../../../../../../_public/geo/Continent/Africa/Guinea/Counties/Tougué.public|Tougué.public]] 
+- [[../../../../../../_internal/geo/Continent/Africa/Guinea/Counties/Tougué.internal|Tougué.internal]] 
+- [[../../../../../../_protect/geo/Continent/Africa/Guinea/Counties/Tougué.protect|Tougué.protect]] 
+- [[../../../../../../_private/geo/Continent/Africa/Guinea/Counties/Tougué.private|Tougué.private]] 
+- [[../../../../../../_personal/geo/Continent/Africa/Guinea/Counties/Tougué.personal|Tougué.personal]] 
+- [[../../../../../../_secret/geo/Continent/Africa/Guinea/Counties/Tougué.secret|Tougué.secret]] 
 

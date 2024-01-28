@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ -19 , 33.4 ] 
 type: geo-Region
 title: Manica
@@ -40,10 +40,11 @@ markerFolder: ./Manica/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Africa/Mozambique/Counties/Manica.md|Manica]] 
-- [[../../../../_internal/geo/Continent/Africa/Mozambique/Counties/Manica.internal|Manica.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Mozambique/Counties/Manica.protect|Manica.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Mozambique/Counties/Manica.private|Manica.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Mozambique/Counties/Manica.personal|Manica.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Mozambique/Counties/Manica.secret|Manica.secret]] 
+- [[../../../../../../_Standards/geo/Continent/Africa/Mozambique/Counties/Manica|Manica]] 
+- [[../../../../../../_public/geo/Continent/Africa/Mozambique/Counties/Manica.public|Manica.public]] 
+- [[../../../../../../_internal/geo/Continent/Africa/Mozambique/Counties/Manica.internal|Manica.internal]] 
+- [[../../../../../../_protect/geo/Continent/Africa/Mozambique/Counties/Manica.protect|Manica.protect]] 
+- [[../../../../../../_private/geo/Continent/Africa/Mozambique/Counties/Manica.private|Manica.private]] 
+- [[../../../../../../_personal/geo/Continent/Africa/Mozambique/Counties/Manica.personal|Manica.personal]] 
+- [[../../../../../../_secret/geo/Continent/Africa/Mozambique/Counties/Manica.secret|Manica.secret]] 
 

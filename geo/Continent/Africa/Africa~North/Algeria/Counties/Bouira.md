@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 36.3 , 3.9 ] 
 type: geo-Region
 title: Bouira
@@ -40,10 +40,11 @@ markerFolder: ./Bouira/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Africa/Algeria/Counties/Bouira.md|Bouira]] 
-- [[../../../../_internal/geo/Continent/Africa/Algeria/Counties/Bouira.internal|Bouira.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Algeria/Counties/Bouira.protect|Bouira.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Algeria/Counties/Bouira.private|Bouira.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Algeria/Counties/Bouira.personal|Bouira.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Algeria/Counties/Bouira.secret|Bouira.secret]] 
+- [[../../../../../../_Standards/geo/Continent/Africa/Algeria/Counties/Bouira|Bouira]] 
+- [[../../../../../../_public/geo/Continent/Africa/Algeria/Counties/Bouira.public|Bouira.public]] 
+- [[../../../../../../_internal/geo/Continent/Africa/Algeria/Counties/Bouira.internal|Bouira.internal]] 
+- [[../../../../../../_protect/geo/Continent/Africa/Algeria/Counties/Bouira.protect|Bouira.protect]] 
+- [[../../../../../../_private/geo/Continent/Africa/Algeria/Counties/Bouira.private|Bouira.private]] 
+- [[../../../../../../_personal/geo/Continent/Africa/Algeria/Counties/Bouira.personal|Bouira.personal]] 
+- [[../../../../../../_secret/geo/Continent/Africa/Algeria/Counties/Bouira.secret|Bouira.secret]] 
 

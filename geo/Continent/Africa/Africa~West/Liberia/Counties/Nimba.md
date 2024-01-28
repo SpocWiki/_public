@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 6.8 , -8.7 ] 
 type: geo-Region
 title: Nimba
@@ -40,10 +40,11 @@ markerFolder: ./Nimba/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Africa/Liberia/Counties/Nimba.md|Nimba]] 
-- [[../../../../_internal/geo/Continent/Africa/Liberia/Counties/Nimba.internal|Nimba.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Liberia/Counties/Nimba.protect|Nimba.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Liberia/Counties/Nimba.private|Nimba.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Liberia/Counties/Nimba.personal|Nimba.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Liberia/Counties/Nimba.secret|Nimba.secret]] 
+- [[../../../../../../_Standards/geo/Continent/Africa/Liberia/Counties/Nimba|Nimba]] 
+- [[../../../../../../_public/geo/Continent/Africa/Liberia/Counties/Nimba.public|Nimba.public]] 
+- [[../../../../../../_internal/geo/Continent/Africa/Liberia/Counties/Nimba.internal|Nimba.internal]] 
+- [[../../../../../../_protect/geo/Continent/Africa/Liberia/Counties/Nimba.protect|Nimba.protect]] 
+- [[../../../../../../_private/geo/Continent/Africa/Liberia/Counties/Nimba.private|Nimba.private]] 
+- [[../../../../../../_personal/geo/Continent/Africa/Liberia/Counties/Nimba.personal|Nimba.personal]] 
+- [[../../../../../../_secret/geo/Continent/Africa/Liberia/Counties/Nimba.secret|Nimba.secret]] 
 

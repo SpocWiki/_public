@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 1 , 32.2 ] 
 type: geo-Region
 title: Nakaseke
@@ -40,10 +40,11 @@ markerFolder: ./Nakaseke/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Africa/Uganda/Counties/Nakaseke.md|Nakaseke]] 
-- [[../../../../_internal/geo/Continent/Africa/Uganda/Counties/Nakaseke.internal|Nakaseke.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Uganda/Counties/Nakaseke.protect|Nakaseke.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Uganda/Counties/Nakaseke.private|Nakaseke.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Uganda/Counties/Nakaseke.personal|Nakaseke.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Uganda/Counties/Nakaseke.secret|Nakaseke.secret]] 
+- [[../../../../../../_Standards/geo/Continent/Africa/Uganda/Counties/Nakaseke|Nakaseke]] 
+- [[../../../../../../_public/geo/Continent/Africa/Uganda/Counties/Nakaseke.public|Nakaseke.public]] 
+- [[../../../../../../_internal/geo/Continent/Africa/Uganda/Counties/Nakaseke.internal|Nakaseke.internal]] 
+- [[../../../../../../_protect/geo/Continent/Africa/Uganda/Counties/Nakaseke.protect|Nakaseke.protect]] 
+- [[../../../../../../_private/geo/Continent/Africa/Uganda/Counties/Nakaseke.private|Nakaseke.private]] 
+- [[../../../../../../_personal/geo/Continent/Africa/Uganda/Counties/Nakaseke.personal|Nakaseke.personal]] 
+- [[../../../../../../_secret/geo/Continent/Africa/Uganda/Counties/Nakaseke.secret|Nakaseke.secret]] 
 

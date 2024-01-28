@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ -11.7 , -74.9 ] 
 type: geo-Region
 title: Junín
@@ -40,10 +40,11 @@ markerFolder: ./Junín/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/America~South/Peru/Counties/Junín.md|Junín]] 
-- [[../../../../_internal/geo/Continent/America~South/Peru/Counties/Junín.internal|Junín.internal]] 
-- [[../../../../_protect/geo/Continent/America~South/Peru/Counties/Junín.protect|Junín.protect]] 
-- [[../../../../_private/geo/Continent/America~South/Peru/Counties/Junín.private|Junín.private]] 
-- [[../../../../_personal/geo/Continent/America~South/Peru/Counties/Junín.personal|Junín.personal]] 
-- [[../../../../_secret/geo/Continent/America~South/Peru/Counties/Junín.secret|Junín.secret]] 
+- [[../../../../../../_Standards/geo/Continent/America~South/Peru/Counties/Junín|Junín]] 
+- [[../../../../../../_public/geo/Continent/America~South/Peru/Counties/Junín.public|Junín.public]] 
+- [[../../../../../../_internal/geo/Continent/America~South/Peru/Counties/Junín.internal|Junín.internal]] 
+- [[../../../../../../_protect/geo/Continent/America~South/Peru/Counties/Junín.protect|Junín.protect]] 
+- [[../../../../../../_private/geo/Continent/America~South/Peru/Counties/Junín.private|Junín.private]] 
+- [[../../../../../../_personal/geo/Continent/America~South/Peru/Counties/Junín.personal|Junín.personal]] 
+- [[../../../../../../_secret/geo/Continent/America~South/Peru/Counties/Junín.secret|Junín.secret]] 
 

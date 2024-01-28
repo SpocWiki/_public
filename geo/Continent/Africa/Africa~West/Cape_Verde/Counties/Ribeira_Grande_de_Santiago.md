@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 15 , -23.6 ] 
 type: geo-Region
 title: Ribeira_Grande_de_Santiago
@@ -40,10 +40,11 @@ markerFolder: ./Ribeira_Grande_de_Santiago/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Africa/Cape_Verde/Counties/Ribeira_Grande_de_Santiago.md|Ribeira_Grande_de_Santiago]] 
-- [[../../../../_internal/geo/Continent/Africa/Cape_Verde/Counties/Ribeira_Grande_de_Santiago.internal|Ribeira_Grande_de_Santiago.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Cape_Verde/Counties/Ribeira_Grande_de_Santiago.protect|Ribeira_Grande_de_Santiago.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Cape_Verde/Counties/Ribeira_Grande_de_Santiago.private|Ribeira_Grande_de_Santiago.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Cape_Verde/Counties/Ribeira_Grande_de_Santiago.personal|Ribeira_Grande_de_Santiago.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Cape_Verde/Counties/Ribeira_Grande_de_Santiago.secret|Ribeira_Grande_de_Santiago.secret]] 
+- [[../../../../../../_Standards/geo/Continent/Africa/Cape_Verde/Counties/Ribeira_Grande_de_Santiago|Ribeira_Grande_de_Santiago]] 
+- [[../../../../../../_public/geo/Continent/Africa/Cape_Verde/Counties/Ribeira_Grande_de_Santiago.public|Ribeira_Grande_de_Santiago.public]] 
+- [[../../../../../../_internal/geo/Continent/Africa/Cape_Verde/Counties/Ribeira_Grande_de_Santiago.internal|Ribeira_Grande_de_Santiago.internal]] 
+- [[../../../../../../_protect/geo/Continent/Africa/Cape_Verde/Counties/Ribeira_Grande_de_Santiago.protect|Ribeira_Grande_de_Santiago.protect]] 
+- [[../../../../../../_private/geo/Continent/Africa/Cape_Verde/Counties/Ribeira_Grande_de_Santiago.private|Ribeira_Grande_de_Santiago.private]] 
+- [[../../../../../../_personal/geo/Continent/Africa/Cape_Verde/Counties/Ribeira_Grande_de_Santiago.personal|Ribeira_Grande_de_Santiago.personal]] 
+- [[../../../../../../_secret/geo/Continent/Africa/Cape_Verde/Counties/Ribeira_Grande_de_Santiago.secret|Ribeira_Grande_de_Santiago.secret]] 
 

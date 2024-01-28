@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ -9.4 , -75.8 ] 
 type: geo-Region
 title: Huánuco
@@ -40,10 +40,11 @@ markerFolder: ./Huánuco/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/America~South/Peru/Counties/Huánuco.md|Huánuco]] 
-- [[../../../../_internal/geo/Continent/America~South/Peru/Counties/Huánuco.internal|Huánuco.internal]] 
-- [[../../../../_protect/geo/Continent/America~South/Peru/Counties/Huánuco.protect|Huánuco.protect]] 
-- [[../../../../_private/geo/Continent/America~South/Peru/Counties/Huánuco.private|Huánuco.private]] 
-- [[../../../../_personal/geo/Continent/America~South/Peru/Counties/Huánuco.personal|Huánuco.personal]] 
-- [[../../../../_secret/geo/Continent/America~South/Peru/Counties/Huánuco.secret|Huánuco.secret]] 
+- [[../../../../../../_Standards/geo/Continent/America~South/Peru/Counties/Huánuco|Huánuco]] 
+- [[../../../../../../_public/geo/Continent/America~South/Peru/Counties/Huánuco.public|Huánuco.public]] 
+- [[../../../../../../_internal/geo/Continent/America~South/Peru/Counties/Huánuco.internal|Huánuco.internal]] 
+- [[../../../../../../_protect/geo/Continent/America~South/Peru/Counties/Huánuco.protect|Huánuco.protect]] 
+- [[../../../../../../_private/geo/Continent/America~South/Peru/Counties/Huánuco.private|Huánuco.private]] 
+- [[../../../../../../_personal/geo/Continent/America~South/Peru/Counties/Huánuco.personal|Huánuco.personal]] 
+- [[../../../../../../_secret/geo/Continent/America~South/Peru/Counties/Huánuco.secret|Huánuco.secret]] 
 

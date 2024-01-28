@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 17.06 , -61.71 ] 
 type: geo-Region
 title: Saint_Philip
@@ -40,10 +40,11 @@ markerFolder: ./Saint_Philip/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/America~Caribbean/Antigua_and_Barbuda/Counties/Saint_Philip.md|Saint_Philip]] 
-- [[../../../../_internal/geo/Continent/America~Caribbean/Antigua_and_Barbuda/Counties/Saint_Philip.internal|Saint_Philip.internal]] 
-- [[../../../../_protect/geo/Continent/America~Caribbean/Antigua_and_Barbuda/Counties/Saint_Philip.protect|Saint_Philip.protect]] 
-- [[../../../../_private/geo/Continent/America~Caribbean/Antigua_and_Barbuda/Counties/Saint_Philip.private|Saint_Philip.private]] 
-- [[../../../../_personal/geo/Continent/America~Caribbean/Antigua_and_Barbuda/Counties/Saint_Philip.personal|Saint_Philip.personal]] 
-- [[../../../../_secret/geo/Continent/America~Caribbean/Antigua_and_Barbuda/Counties/Saint_Philip.secret|Saint_Philip.secret]] 
+- [[../../../../../../_Standards/geo/Continent/America~Caribbean/Antigua_and_Barbuda/Counties/Saint_Philip|Saint_Philip]] 
+- [[../../../../../../_public/geo/Continent/America~Caribbean/Antigua_and_Barbuda/Counties/Saint_Philip.public|Saint_Philip.public]] 
+- [[../../../../../../_internal/geo/Continent/America~Caribbean/Antigua_and_Barbuda/Counties/Saint_Philip.internal|Saint_Philip.internal]] 
+- [[../../../../../../_protect/geo/Continent/America~Caribbean/Antigua_and_Barbuda/Counties/Saint_Philip.protect|Saint_Philip.protect]] 
+- [[../../../../../../_private/geo/Continent/America~Caribbean/Antigua_and_Barbuda/Counties/Saint_Philip.private|Saint_Philip.private]] 
+- [[../../../../../../_personal/geo/Continent/America~Caribbean/Antigua_and_Barbuda/Counties/Saint_Philip.personal|Saint_Philip.personal]] 
+- [[../../../../../../_secret/geo/Continent/America~Caribbean/Antigua_and_Barbuda/Counties/Saint_Philip.secret|Saint_Philip.secret]] 
 

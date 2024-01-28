@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ -0.8 , 16.3 ] 
 type: geo-Region
 title: Cuvette
@@ -40,10 +40,11 @@ markerFolder: ./Cuvette/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Africa/Congo~Brazzaville/Counties/Cuvette.md|Cuvette]] 
-- [[../../../../_internal/geo/Continent/Africa/Congo~Brazzaville/Counties/Cuvette.internal|Cuvette.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Congo~Brazzaville/Counties/Cuvette.protect|Cuvette.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Congo~Brazzaville/Counties/Cuvette.private|Cuvette.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Congo~Brazzaville/Counties/Cuvette.personal|Cuvette.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Congo~Brazzaville/Counties/Cuvette.secret|Cuvette.secret]] 
+- [[../../../../../../_Standards/geo/Continent/Africa/Congo~Brazzaville/Counties/Cuvette|Cuvette]] 
+- [[../../../../../../_public/geo/Continent/Africa/Congo~Brazzaville/Counties/Cuvette.public|Cuvette.public]] 
+- [[../../../../../../_internal/geo/Continent/Africa/Congo~Brazzaville/Counties/Cuvette.internal|Cuvette.internal]] 
+- [[../../../../../../_protect/geo/Continent/Africa/Congo~Brazzaville/Counties/Cuvette.protect|Cuvette.protect]] 
+- [[../../../../../../_private/geo/Continent/Africa/Congo~Brazzaville/Counties/Cuvette.private|Cuvette.private]] 
+- [[../../../../../../_personal/geo/Continent/Africa/Congo~Brazzaville/Counties/Cuvette.personal|Cuvette.personal]] 
+- [[../../../../../../_secret/geo/Continent/Africa/Congo~Brazzaville/Counties/Cuvette.secret|Cuvette.secret]] 
 

@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ -26.8 , -54.4 ] 
 type: geo-Region
 title: Misiones
@@ -40,10 +40,11 @@ markerFolder: ./Misiones/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/America~South/Argentina/Counties/Misiones.md|Misiones]] 
-- [[../../../../_internal/geo/Continent/America~South/Argentina/Counties/Misiones.internal|Misiones.internal]] 
-- [[../../../../_protect/geo/Continent/America~South/Argentina/Counties/Misiones.protect|Misiones.protect]] 
-- [[../../../../_private/geo/Continent/America~South/Argentina/Counties/Misiones.private|Misiones.private]] 
-- [[../../../../_personal/geo/Continent/America~South/Argentina/Counties/Misiones.personal|Misiones.personal]] 
-- [[../../../../_secret/geo/Continent/America~South/Argentina/Counties/Misiones.secret|Misiones.secret]] 
+- [[../../../../../../_Standards/geo/Continent/America~South/Argentina/Counties/Misiones|Misiones]] 
+- [[../../../../../../_public/geo/Continent/America~South/Argentina/Counties/Misiones.public|Misiones.public]] 
+- [[../../../../../../_internal/geo/Continent/America~South/Argentina/Counties/Misiones.internal|Misiones.internal]] 
+- [[../../../../../../_protect/geo/Continent/America~South/Argentina/Counties/Misiones.protect|Misiones.protect]] 
+- [[../../../../../../_private/geo/Continent/America~South/Argentina/Counties/Misiones.private|Misiones.private]] 
+- [[../../../../../../_personal/geo/Continent/America~South/Argentina/Counties/Misiones.personal|Misiones.personal]] 
+- [[../../../../../../_secret/geo/Continent/America~South/Argentina/Counties/Misiones.secret|Misiones.secret]] 
 

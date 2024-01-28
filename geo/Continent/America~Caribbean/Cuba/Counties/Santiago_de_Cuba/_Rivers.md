@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 20.083807684369035 , -75.73029537668707 ] 
 type: geo-Region
 title: _Rivers
@@ -40,10 +40,11 @@ markerFolder: ./_Rivers/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/America~Caribbean/Cuba/Counties/Santiago_de_Cuba/_Rivers.md|_Rivers]] 
-- [[../../../../_internal/geo/Continent/America~Caribbean/Cuba/Counties/Santiago_de_Cuba/_Rivers.internal|_Rivers.internal]] 
-- [[../../../../_protect/geo/Continent/America~Caribbean/Cuba/Counties/Santiago_de_Cuba/_Rivers.protect|_Rivers.protect]] 
-- [[../../../../_private/geo/Continent/America~Caribbean/Cuba/Counties/Santiago_de_Cuba/_Rivers.private|_Rivers.private]] 
-- [[../../../../_personal/geo/Continent/America~Caribbean/Cuba/Counties/Santiago_de_Cuba/_Rivers.personal|_Rivers.personal]] 
-- [[../../../../_secret/geo/Continent/America~Caribbean/Cuba/Counties/Santiago_de_Cuba/_Rivers.secret|_Rivers.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/America~Caribbean/Cuba/Counties/Santiago_de_Cuba/_Rivers|_Rivers]] 
+- [[../../../../../../../_public/geo/Continent/America~Caribbean/Cuba/Counties/Santiago_de_Cuba/_Rivers.public|_Rivers.public]] 
+- [[../../../../../../../_internal/geo/Continent/America~Caribbean/Cuba/Counties/Santiago_de_Cuba/_Rivers.internal|_Rivers.internal]] 
+- [[../../../../../../../_protect/geo/Continent/America~Caribbean/Cuba/Counties/Santiago_de_Cuba/_Rivers.protect|_Rivers.protect]] 
+- [[../../../../../../../_private/geo/Continent/America~Caribbean/Cuba/Counties/Santiago_de_Cuba/_Rivers.private|_Rivers.private]] 
+- [[../../../../../../../_personal/geo/Continent/America~Caribbean/Cuba/Counties/Santiago_de_Cuba/_Rivers.personal|_Rivers.personal]] 
+- [[../../../../../../../_secret/geo/Continent/America~Caribbean/Cuba/Counties/Santiago_de_Cuba/_Rivers.secret|_Rivers.secret]] 
 

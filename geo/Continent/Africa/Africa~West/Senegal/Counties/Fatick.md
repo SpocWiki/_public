@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 14.3 , -16.5 ] 
 type: geo-Region
 title: Fatick
@@ -40,10 +40,11 @@ markerFolder: ./Fatick/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Africa/Senegal/Counties/Fatick.md|Fatick]] 
-- [[../../../../_internal/geo/Continent/Africa/Senegal/Counties/Fatick.internal|Fatick.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Senegal/Counties/Fatick.protect|Fatick.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Senegal/Counties/Fatick.private|Fatick.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Senegal/Counties/Fatick.personal|Fatick.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Senegal/Counties/Fatick.secret|Fatick.secret]] 
+- [[../../../../../../_Standards/geo/Continent/Africa/Senegal/Counties/Fatick|Fatick]] 
+- [[../../../../../../_public/geo/Continent/Africa/Senegal/Counties/Fatick.public|Fatick.public]] 
+- [[../../../../../../_internal/geo/Continent/Africa/Senegal/Counties/Fatick.internal|Fatick.internal]] 
+- [[../../../../../../_protect/geo/Continent/Africa/Senegal/Counties/Fatick.protect|Fatick.protect]] 
+- [[../../../../../../_private/geo/Continent/Africa/Senegal/Counties/Fatick.private|Fatick.private]] 
+- [[../../../../../../_personal/geo/Continent/Africa/Senegal/Counties/Fatick.personal|Fatick.personal]] 
+- [[../../../../../../_secret/geo/Continent/Africa/Senegal/Counties/Fatick.secret|Fatick.secret]] 
 

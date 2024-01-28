@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 18.4 , -10.6 ] 
 type: geo-Region
 title: Tagant
@@ -40,10 +40,11 @@ markerFolder: ./Tagant/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Africa/Mauritania/Counties/Tagant.md|Tagant]] 
-- [[../../../../_internal/geo/Continent/Africa/Mauritania/Counties/Tagant.internal|Tagant.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Mauritania/Counties/Tagant.protect|Tagant.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Mauritania/Counties/Tagant.private|Tagant.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Mauritania/Counties/Tagant.personal|Tagant.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Mauritania/Counties/Tagant.secret|Tagant.secret]] 
+- [[../../../../../../_Standards/geo/Continent/Africa/Mauritania/Counties/Tagant|Tagant]] 
+- [[../../../../../../_public/geo/Continent/Africa/Mauritania/Counties/Tagant.public|Tagant.public]] 
+- [[../../../../../../_internal/geo/Continent/Africa/Mauritania/Counties/Tagant.internal|Tagant.internal]] 
+- [[../../../../../../_protect/geo/Continent/Africa/Mauritania/Counties/Tagant.protect|Tagant.protect]] 
+- [[../../../../../../_private/geo/Continent/Africa/Mauritania/Counties/Tagant.private|Tagant.private]] 
+- [[../../../../../../_personal/geo/Continent/Africa/Mauritania/Counties/Tagant.personal|Tagant.personal]] 
+- [[../../../../../../_secret/geo/Continent/Africa/Mauritania/Counties/Tagant.secret|Tagant.secret]] 
 

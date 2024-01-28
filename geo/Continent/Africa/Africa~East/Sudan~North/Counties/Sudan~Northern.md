@@ -40,10 +40,11 @@ markerFolder: ./Sudan~Northern/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Africa/Sudan/Counties/Sudan~Northern.md|Sudan~Northern]] 
-- [[../../../../_internal/geo/Continent/Africa/Sudan/Counties/Sudan~Northern.internal|Sudan~Northern.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Sudan/Counties/Sudan~Northern.protect|Sudan~Northern.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Sudan/Counties/Sudan~Northern.private|Sudan~Northern.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Sudan/Counties/Sudan~Northern.personal|Sudan~Northern.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Sudan/Counties/Sudan~Northern.secret|Sudan~Northern.secret]] 
+- [[../../../../../../_Standards/geo/Continent/Africa/Sudan/Counties/Sudan~Northern|Sudan~Northern]] 
+- [[../../../../../../_public/geo/Continent/Africa/Sudan/Counties/Sudan~Northern.public|Sudan~Northern.public]] 
+- [[../../../../../../_internal/geo/Continent/Africa/Sudan/Counties/Sudan~Northern.internal|Sudan~Northern.internal]] 
+- [[../../../../../../_protect/geo/Continent/Africa/Sudan/Counties/Sudan~Northern.protect|Sudan~Northern.protect]] 
+- [[../../../../../../_private/geo/Continent/Africa/Sudan/Counties/Sudan~Northern.private|Sudan~Northern.private]] 
+- [[../../../../../../_personal/geo/Continent/Africa/Sudan/Counties/Sudan~Northern.personal|Sudan~Northern.personal]] 
+- [[../../../../../../_secret/geo/Continent/Africa/Sudan/Counties/Sudan~Northern.secret|Sudan~Northern.secret]] 
 

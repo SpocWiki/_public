@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 1.8 , -72.4 ] 
 type: geo-Region
 title: Guaviare
@@ -40,10 +40,11 @@ markerFolder: ./Guaviare/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/America~South/Colombia/Counties/Guaviare.md|Guaviare]] 
-- [[../../../../_internal/geo/Continent/America~South/Colombia/Counties/Guaviare.internal|Guaviare.internal]] 
-- [[../../../../_protect/geo/Continent/America~South/Colombia/Counties/Guaviare.protect|Guaviare.protect]] 
-- [[../../../../_private/geo/Continent/America~South/Colombia/Counties/Guaviare.private|Guaviare.private]] 
-- [[../../../../_personal/geo/Continent/America~South/Colombia/Counties/Guaviare.personal|Guaviare.personal]] 
-- [[../../../../_secret/geo/Continent/America~South/Colombia/Counties/Guaviare.secret|Guaviare.secret]] 
+- [[../../../../../../_Standards/geo/Continent/America~South/Colombia/Counties/Guaviare|Guaviare]] 
+- [[../../../../../../_public/geo/Continent/America~South/Colombia/Counties/Guaviare.public|Guaviare.public]] 
+- [[../../../../../../_internal/geo/Continent/America~South/Colombia/Counties/Guaviare.internal|Guaviare.internal]] 
+- [[../../../../../../_protect/geo/Continent/America~South/Colombia/Counties/Guaviare.protect|Guaviare.protect]] 
+- [[../../../../../../_private/geo/Continent/America~South/Colombia/Counties/Guaviare.private|Guaviare.private]] 
+- [[../../../../../../_personal/geo/Continent/America~South/Colombia/Counties/Guaviare.personal|Guaviare.personal]] 
+- [[../../../../../../_secret/geo/Continent/America~South/Colombia/Counties/Guaviare.secret|Guaviare.secret]] 
 

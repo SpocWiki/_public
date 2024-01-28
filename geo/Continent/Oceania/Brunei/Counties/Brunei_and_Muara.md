@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 4.9 , 114.9 ] 
 type: geo-Region
 title: Brunei_and_Muara
@@ -40,10 +40,11 @@ markerFolder: ./Brunei_and_Muara/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Oceania/Brunei/Counties/Brunei_and_Muara.md|Brunei_and_Muara]] 
-- [[../../../../_internal/geo/Continent/Oceania/Brunei/Counties/Brunei_and_Muara.internal|Brunei_and_Muara.internal]] 
-- [[../../../../_protect/geo/Continent/Oceania/Brunei/Counties/Brunei_and_Muara.protect|Brunei_and_Muara.protect]] 
-- [[../../../../_private/geo/Continent/Oceania/Brunei/Counties/Brunei_and_Muara.private|Brunei_and_Muara.private]] 
-- [[../../../../_personal/geo/Continent/Oceania/Brunei/Counties/Brunei_and_Muara.personal|Brunei_and_Muara.personal]] 
-- [[../../../../_secret/geo/Continent/Oceania/Brunei/Counties/Brunei_and_Muara.secret|Brunei_and_Muara.secret]] 
+- [[../../../../../../_Standards/geo/Continent/Oceania/Brunei/Counties/Brunei_and_Muara|Brunei_and_Muara]] 
+- [[../../../../../../_public/geo/Continent/Oceania/Brunei/Counties/Brunei_and_Muara.public|Brunei_and_Muara.public]] 
+- [[../../../../../../_internal/geo/Continent/Oceania/Brunei/Counties/Brunei_and_Muara.internal|Brunei_and_Muara.internal]] 
+- [[../../../../../../_protect/geo/Continent/Oceania/Brunei/Counties/Brunei_and_Muara.protect|Brunei_and_Muara.protect]] 
+- [[../../../../../../_private/geo/Continent/Oceania/Brunei/Counties/Brunei_and_Muara.private|Brunei_and_Muara.private]] 
+- [[../../../../../../_personal/geo/Continent/Oceania/Brunei/Counties/Brunei_and_Muara.personal|Brunei_and_Muara.personal]] 
+- [[../../../../../../_secret/geo/Continent/Oceania/Brunei/Counties/Brunei_and_Muara.secret|Brunei_and_Muara.secret]] 
 

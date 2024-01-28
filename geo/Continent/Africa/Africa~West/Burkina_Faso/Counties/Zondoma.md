@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 13.2 , -2.3 ] 
 type: geo-Region
 title: Zondoma
@@ -40,10 +40,11 @@ markerFolder: ./Zondoma/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Africa/Burkina_Faso/Counties/Zondoma.md|Zondoma]] 
-- [[../../../../_internal/geo/Continent/Africa/Burkina_Faso/Counties/Zondoma.internal|Zondoma.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Burkina_Faso/Counties/Zondoma.protect|Zondoma.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Burkina_Faso/Counties/Zondoma.private|Zondoma.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Burkina_Faso/Counties/Zondoma.personal|Zondoma.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Burkina_Faso/Counties/Zondoma.secret|Zondoma.secret]] 
+- [[../../../../../../_Standards/geo/Continent/Africa/Burkina_Faso/Counties/Zondoma|Zondoma]] 
+- [[../../../../../../_public/geo/Continent/Africa/Burkina_Faso/Counties/Zondoma.public|Zondoma.public]] 
+- [[../../../../../../_internal/geo/Continent/Africa/Burkina_Faso/Counties/Zondoma.internal|Zondoma.internal]] 
+- [[../../../../../../_protect/geo/Continent/Africa/Burkina_Faso/Counties/Zondoma.protect|Zondoma.protect]] 
+- [[../../../../../../_private/geo/Continent/Africa/Burkina_Faso/Counties/Zondoma.private|Zondoma.private]] 
+- [[../../../../../../_personal/geo/Continent/Africa/Burkina_Faso/Counties/Zondoma.personal|Zondoma.personal]] 
+- [[../../../../../../_secret/geo/Continent/Africa/Burkina_Faso/Counties/Zondoma.secret|Zondoma.secret]] 
 

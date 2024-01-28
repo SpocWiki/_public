@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 28.2 , 30.1 ] 
 type: geo-Region
 title: Al_Minya
@@ -40,10 +40,11 @@ markerFolder: ./Al_Minya/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Africa/Egypt/Counties/Al_Minya.md|Al_Minya]] 
-- [[../../../../_internal/geo/Continent/Africa/Egypt/Counties/Al_Minya.internal|Al_Minya.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Egypt/Counties/Al_Minya.protect|Al_Minya.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Egypt/Counties/Al_Minya.private|Al_Minya.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Egypt/Counties/Al_Minya.personal|Al_Minya.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Egypt/Counties/Al_Minya.secret|Al_Minya.secret]] 
+- [[../../../../../../_Standards/geo/Continent/Africa/Egypt/Counties/Al_Minya|Al_Minya]] 
+- [[../../../../../../_public/geo/Continent/Africa/Egypt/Counties/Al_Minya.public|Al_Minya.public]] 
+- [[../../../../../../_internal/geo/Continent/Africa/Egypt/Counties/Al_Minya.internal|Al_Minya.internal]] 
+- [[../../../../../../_protect/geo/Continent/Africa/Egypt/Counties/Al_Minya.protect|Al_Minya.protect]] 
+- [[../../../../../../_private/geo/Continent/Africa/Egypt/Counties/Al_Minya.private|Al_Minya.private]] 
+- [[../../../../../../_personal/geo/Continent/Africa/Egypt/Counties/Al_Minya.personal|Al_Minya.personal]] 
+- [[../../../../../../_secret/geo/Continent/Africa/Egypt/Counties/Al_Minya.secret|Al_Minya.secret]] 
 

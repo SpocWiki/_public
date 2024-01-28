@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 1.5 , 33.8 ] 
 type: geo-Region
 title: Ngora
@@ -40,10 +40,11 @@ markerFolder: ./Ngora/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Africa/Uganda/Counties/Ngora.md|Ngora]] 
-- [[../../../../_internal/geo/Continent/Africa/Uganda/Counties/Ngora.internal|Ngora.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Uganda/Counties/Ngora.protect|Ngora.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Uganda/Counties/Ngora.private|Ngora.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Uganda/Counties/Ngora.personal|Ngora.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Uganda/Counties/Ngora.secret|Ngora.secret]] 
+- [[../../../../../../_Standards/geo/Continent/Africa/Uganda/Counties/Ngora|Ngora]] 
+- [[../../../../../../_public/geo/Continent/Africa/Uganda/Counties/Ngora.public|Ngora.public]] 
+- [[../../../../../../_internal/geo/Continent/Africa/Uganda/Counties/Ngora.internal|Ngora.internal]] 
+- [[../../../../../../_protect/geo/Continent/Africa/Uganda/Counties/Ngora.protect|Ngora.protect]] 
+- [[../../../../../../_private/geo/Continent/Africa/Uganda/Counties/Ngora.private|Ngora.private]] 
+- [[../../../../../../_personal/geo/Continent/Africa/Uganda/Counties/Ngora.personal|Ngora.personal]] 
+- [[../../../../../../_secret/geo/Continent/Africa/Uganda/Counties/Ngora.secret|Ngora.secret]] 
 

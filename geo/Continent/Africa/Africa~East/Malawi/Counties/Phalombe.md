@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ -15.7 , 35.7 ] 
 type: geo-Region
 title: Phalombe
@@ -40,10 +40,11 @@ markerFolder: ./Phalombe/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Africa/Malawi/Counties/Phalombe.md|Phalombe]] 
-- [[../../../../_internal/geo/Continent/Africa/Malawi/Counties/Phalombe.internal|Phalombe.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Malawi/Counties/Phalombe.protect|Phalombe.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Malawi/Counties/Phalombe.private|Phalombe.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Malawi/Counties/Phalombe.personal|Phalombe.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Malawi/Counties/Phalombe.secret|Phalombe.secret]] 
+- [[../../../../../../_Standards/geo/Continent/Africa/Malawi/Counties/Phalombe|Phalombe]] 
+- [[../../../../../../_public/geo/Continent/Africa/Malawi/Counties/Phalombe.public|Phalombe.public]] 
+- [[../../../../../../_internal/geo/Continent/Africa/Malawi/Counties/Phalombe.internal|Phalombe.internal]] 
+- [[../../../../../../_protect/geo/Continent/Africa/Malawi/Counties/Phalombe.protect|Phalombe.protect]] 
+- [[../../../../../../_private/geo/Continent/Africa/Malawi/Counties/Phalombe.private|Phalombe.private]] 
+- [[../../../../../../_personal/geo/Continent/Africa/Malawi/Counties/Phalombe.personal|Phalombe.personal]] 
+- [[../../../../../../_secret/geo/Continent/Africa/Malawi/Counties/Phalombe.secret|Phalombe.secret]] 
 

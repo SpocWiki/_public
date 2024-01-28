@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 10.53 , -61.42 ] 
 type: geo-Region
 title: Chaguanas
@@ -40,10 +40,11 @@ markerFolder: ./Chaguanas/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/America~Caribbean/Trinidad_and_Tobago~Islands/Counties/Chaguanas.md|Chaguanas]] 
-- [[../../../../_internal/geo/Continent/America~Caribbean/Trinidad_and_Tobago~Islands/Counties/Chaguanas.internal|Chaguanas.internal]] 
-- [[../../../../_protect/geo/Continent/America~Caribbean/Trinidad_and_Tobago~Islands/Counties/Chaguanas.protect|Chaguanas.protect]] 
-- [[../../../../_private/geo/Continent/America~Caribbean/Trinidad_and_Tobago~Islands/Counties/Chaguanas.private|Chaguanas.private]] 
-- [[../../../../_personal/geo/Continent/America~Caribbean/Trinidad_and_Tobago~Islands/Counties/Chaguanas.personal|Chaguanas.personal]] 
-- [[../../../../_secret/geo/Continent/America~Caribbean/Trinidad_and_Tobago~Islands/Counties/Chaguanas.secret|Chaguanas.secret]] 
+- [[../../../../../../_Standards/geo/Continent/America~Caribbean/Trinidad_and_Tobago~Islands/Counties/Chaguanas|Chaguanas]] 
+- [[../../../../../../_public/geo/Continent/America~Caribbean/Trinidad_and_Tobago~Islands/Counties/Chaguanas.public|Chaguanas.public]] 
+- [[../../../../../../_internal/geo/Continent/America~Caribbean/Trinidad_and_Tobago~Islands/Counties/Chaguanas.internal|Chaguanas.internal]] 
+- [[../../../../../../_protect/geo/Continent/America~Caribbean/Trinidad_and_Tobago~Islands/Counties/Chaguanas.protect|Chaguanas.protect]] 
+- [[../../../../../../_private/geo/Continent/America~Caribbean/Trinidad_and_Tobago~Islands/Counties/Chaguanas.private|Chaguanas.private]] 
+- [[../../../../../../_personal/geo/Continent/America~Caribbean/Trinidad_and_Tobago~Islands/Counties/Chaguanas.personal|Chaguanas.personal]] 
+- [[../../../../../../_secret/geo/Continent/America~Caribbean/Trinidad_and_Tobago~Islands/Counties/Chaguanas.secret|Chaguanas.secret]] 
 

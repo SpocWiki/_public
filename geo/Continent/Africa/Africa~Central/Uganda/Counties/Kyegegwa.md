@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 0.4 , 31 ] 
 type: geo-Region
 title: Kyegegwa
@@ -40,10 +40,11 @@ markerFolder: ./Kyegegwa/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Africa/Uganda/Counties/Kyegegwa.md|Kyegegwa]] 
-- [[../../../../_internal/geo/Continent/Africa/Uganda/Counties/Kyegegwa.internal|Kyegegwa.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Uganda/Counties/Kyegegwa.protect|Kyegegwa.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Uganda/Counties/Kyegegwa.private|Kyegegwa.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Uganda/Counties/Kyegegwa.personal|Kyegegwa.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Uganda/Counties/Kyegegwa.secret|Kyegegwa.secret]] 
+- [[../../../../../../_Standards/geo/Continent/Africa/Uganda/Counties/Kyegegwa|Kyegegwa]] 
+- [[../../../../../../_public/geo/Continent/Africa/Uganda/Counties/Kyegegwa.public|Kyegegwa.public]] 
+- [[../../../../../../_internal/geo/Continent/Africa/Uganda/Counties/Kyegegwa.internal|Kyegegwa.internal]] 
+- [[../../../../../../_protect/geo/Continent/Africa/Uganda/Counties/Kyegegwa.protect|Kyegegwa.protect]] 
+- [[../../../../../../_private/geo/Continent/Africa/Uganda/Counties/Kyegegwa.private|Kyegegwa.private]] 
+- [[../../../../../../_personal/geo/Continent/Africa/Uganda/Counties/Kyegegwa.personal|Kyegegwa.personal]] 
+- [[../../../../../../_secret/geo/Continent/Africa/Uganda/Counties/Kyegegwa.secret|Kyegegwa.secret]] 
 

@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 0.7 , -79.3 ] 
 type: geo-Region
 title: Esmeraldas
@@ -40,10 +40,11 @@ markerFolder: ./Esmeraldas/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/America~South/Ecuador/Counties/Esmeraldas.md|Esmeraldas]] 
-- [[../../../../_internal/geo/Continent/America~South/Ecuador/Counties/Esmeraldas.internal|Esmeraldas.internal]] 
-- [[../../../../_protect/geo/Continent/America~South/Ecuador/Counties/Esmeraldas.protect|Esmeraldas.protect]] 
-- [[../../../../_private/geo/Continent/America~South/Ecuador/Counties/Esmeraldas.private|Esmeraldas.private]] 
-- [[../../../../_personal/geo/Continent/America~South/Ecuador/Counties/Esmeraldas.personal|Esmeraldas.personal]] 
-- [[../../../../_secret/geo/Continent/America~South/Ecuador/Counties/Esmeraldas.secret|Esmeraldas.secret]] 
+- [[../../../../../../_Standards/geo/Continent/America~South/Ecuador/Counties/Esmeraldas|Esmeraldas]] 
+- [[../../../../../../_public/geo/Continent/America~South/Ecuador/Counties/Esmeraldas.public|Esmeraldas.public]] 
+- [[../../../../../../_internal/geo/Continent/America~South/Ecuador/Counties/Esmeraldas.internal|Esmeraldas.internal]] 
+- [[../../../../../../_protect/geo/Continent/America~South/Ecuador/Counties/Esmeraldas.protect|Esmeraldas.protect]] 
+- [[../../../../../../_private/geo/Continent/America~South/Ecuador/Counties/Esmeraldas.private|Esmeraldas.private]] 
+- [[../../../../../../_personal/geo/Continent/America~South/Ecuador/Counties/Esmeraldas.personal|Esmeraldas.personal]] 
+- [[../../../../../../_secret/geo/Continent/America~South/Ecuador/Counties/Esmeraldas.secret|Esmeraldas.secret]] 
 

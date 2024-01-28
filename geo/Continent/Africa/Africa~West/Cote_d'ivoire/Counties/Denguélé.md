@@ -40,10 +40,11 @@ markerFolder: ./Denguélé/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Africa/Cote_d'Ivoire/Counties/Denguélé.md|Denguélé]] 
-- [[../../../../_internal/geo/Continent/Africa/Cote_d'Ivoire/Counties/Denguélé.internal|Denguélé.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Cote_d'Ivoire/Counties/Denguélé.protect|Denguélé.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Cote_d'Ivoire/Counties/Denguélé.private|Denguélé.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Cote_d'Ivoire/Counties/Denguélé.personal|Denguélé.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Cote_d'Ivoire/Counties/Denguélé.secret|Denguélé.secret]] 
+- [[../../../../../../_Standards/geo/Continent/Africa/Cote_d'Ivoire/Counties/Denguélé|Denguélé]] 
+- [[../../../../../../_public/geo/Continent/Africa/Cote_d'Ivoire/Counties/Denguélé.public|Denguélé.public]] 
+- [[../../../../../../_internal/geo/Continent/Africa/Cote_d'Ivoire/Counties/Denguélé.internal|Denguélé.internal]] 
+- [[../../../../../../_protect/geo/Continent/Africa/Cote_d'Ivoire/Counties/Denguélé.protect|Denguélé.protect]] 
+- [[../../../../../../_private/geo/Continent/Africa/Cote_d'Ivoire/Counties/Denguélé.private|Denguélé.private]] 
+- [[../../../../../../_personal/geo/Continent/Africa/Cote_d'Ivoire/Counties/Denguélé.personal|Denguélé.personal]] 
+- [[../../../../../../_secret/geo/Continent/Africa/Cote_d'Ivoire/Counties/Denguélé.secret|Denguélé.secret]] 
 

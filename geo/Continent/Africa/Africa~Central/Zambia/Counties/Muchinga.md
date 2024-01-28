@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ -11.3 , 32 ] 
 type: geo-Region
 title: Muchinga
@@ -40,10 +40,11 @@ markerFolder: ./Muchinga/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Africa/Zambia/Counties/Muchinga.md|Muchinga]] 
-- [[../../../../_internal/geo/Continent/Africa/Zambia/Counties/Muchinga.internal|Muchinga.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Zambia/Counties/Muchinga.protect|Muchinga.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Zambia/Counties/Muchinga.private|Muchinga.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Zambia/Counties/Muchinga.personal|Muchinga.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Zambia/Counties/Muchinga.secret|Muchinga.secret]] 
+- [[../../../../../../_Standards/geo/Continent/Africa/Zambia/Counties/Muchinga|Muchinga]] 
+- [[../../../../../../_public/geo/Continent/Africa/Zambia/Counties/Muchinga.public|Muchinga.public]] 
+- [[../../../../../../_internal/geo/Continent/Africa/Zambia/Counties/Muchinga.internal|Muchinga.internal]] 
+- [[../../../../../../_protect/geo/Continent/Africa/Zambia/Counties/Muchinga.protect|Muchinga.protect]] 
+- [[../../../../../../_private/geo/Continent/Africa/Zambia/Counties/Muchinga.private|Muchinga.private]] 
+- [[../../../../../../_personal/geo/Continent/Africa/Zambia/Counties/Muchinga.personal|Muchinga.personal]] 
+- [[../../../../../../_secret/geo/Continent/Africa/Zambia/Counties/Muchinga.secret|Muchinga.secret]] 
 

@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 6.6 , -71 ] 
 type: geo-Region
 title: Arauca
@@ -40,10 +40,11 @@ markerFolder: ./Arauca/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/America~South/Colombia/Counties/Arauca.md|Arauca]] 
-- [[../../../../_internal/geo/Continent/America~South/Colombia/Counties/Arauca.internal|Arauca.internal]] 
-- [[../../../../_protect/geo/Continent/America~South/Colombia/Counties/Arauca.protect|Arauca.protect]] 
-- [[../../../../_private/geo/Continent/America~South/Colombia/Counties/Arauca.private|Arauca.private]] 
-- [[../../../../_personal/geo/Continent/America~South/Colombia/Counties/Arauca.personal|Arauca.personal]] 
-- [[../../../../_secret/geo/Continent/America~South/Colombia/Counties/Arauca.secret|Arauca.secret]] 
+- [[../../../../../../_Standards/geo/Continent/America~South/Colombia/Counties/Arauca|Arauca]] 
+- [[../../../../../../_public/geo/Continent/America~South/Colombia/Counties/Arauca.public|Arauca.public]] 
+- [[../../../../../../_internal/geo/Continent/America~South/Colombia/Counties/Arauca.internal|Arauca.internal]] 
+- [[../../../../../../_protect/geo/Continent/America~South/Colombia/Counties/Arauca.protect|Arauca.protect]] 
+- [[../../../../../../_private/geo/Continent/America~South/Colombia/Counties/Arauca.private|Arauca.private]] 
+- [[../../../../../../_personal/geo/Continent/America~South/Colombia/Counties/Arauca.personal|Arauca.personal]] 
+- [[../../../../../../_secret/geo/Continent/America~South/Colombia/Counties/Arauca.secret|Arauca.secret]] 
 

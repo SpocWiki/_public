@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 15.4 , -61.3 ] 
 type: geo-Region
 title: Saint_David
@@ -40,10 +40,11 @@ markerFolder: ./Saint_David/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/America~Caribbean/Dominica/Counties/Saint_David.md|Saint_David]] 
-- [[../../../../_internal/geo/Continent/America~Caribbean/Dominica/Counties/Saint_David.internal|Saint_David.internal]] 
-- [[../../../../_protect/geo/Continent/America~Caribbean/Dominica/Counties/Saint_David.protect|Saint_David.protect]] 
-- [[../../../../_private/geo/Continent/America~Caribbean/Dominica/Counties/Saint_David.private|Saint_David.private]] 
-- [[../../../../_personal/geo/Continent/America~Caribbean/Dominica/Counties/Saint_David.personal|Saint_David.personal]] 
-- [[../../../../_secret/geo/Continent/America~Caribbean/Dominica/Counties/Saint_David.secret|Saint_David.secret]] 
+- [[../../../../../../_Standards/geo/Continent/America~Caribbean/Dominica/Counties/Saint_David|Saint_David]] 
+- [[../../../../../../_public/geo/Continent/America~Caribbean/Dominica/Counties/Saint_David.public|Saint_David.public]] 
+- [[../../../../../../_internal/geo/Continent/America~Caribbean/Dominica/Counties/Saint_David.internal|Saint_David.internal]] 
+- [[../../../../../../_protect/geo/Continent/America~Caribbean/Dominica/Counties/Saint_David.protect|Saint_David.protect]] 
+- [[../../../../../../_private/geo/Continent/America~Caribbean/Dominica/Counties/Saint_David.private|Saint_David.private]] 
+- [[../../../../../../_personal/geo/Continent/America~Caribbean/Dominica/Counties/Saint_David.personal|Saint_David.personal]] 
+- [[../../../../../../_secret/geo/Continent/America~Caribbean/Dominica/Counties/Saint_David.secret|Saint_David.secret]] 
 

@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 6.5 , -10.3 ] 
 type: geo-Region
 title: Margibi
@@ -40,10 +40,11 @@ markerFolder: ./Margibi/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Africa/Liberia/Counties/Margibi.md|Margibi]] 
-- [[../../../../_internal/geo/Continent/Africa/Liberia/Counties/Margibi.internal|Margibi.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Liberia/Counties/Margibi.protect|Margibi.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Liberia/Counties/Margibi.private|Margibi.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Liberia/Counties/Margibi.personal|Margibi.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Liberia/Counties/Margibi.secret|Margibi.secret]] 
+- [[../../../../../../_Standards/geo/Continent/Africa/Liberia/Counties/Margibi|Margibi]] 
+- [[../../../../../../_public/geo/Continent/Africa/Liberia/Counties/Margibi.public|Margibi.public]] 
+- [[../../../../../../_internal/geo/Continent/Africa/Liberia/Counties/Margibi.internal|Margibi.internal]] 
+- [[../../../../../../_protect/geo/Continent/Africa/Liberia/Counties/Margibi.protect|Margibi.protect]] 
+- [[../../../../../../_private/geo/Continent/Africa/Liberia/Counties/Margibi.private|Margibi.private]] 
+- [[../../../../../../_personal/geo/Continent/Africa/Liberia/Counties/Margibi.personal|Margibi.personal]] 
+- [[../../../../../../_secret/geo/Continent/Africa/Liberia/Counties/Margibi.secret|Margibi.secret]] 
 

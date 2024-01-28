@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ -16.425 , 59.614 ] 
 type: geo-Region
 title: Cargados_Carajos_Shoals
@@ -40,10 +40,11 @@ markerFolder: ./Cargados_Carajos_Shoals/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Africa/Mauritius/Counties/Cargados_Carajos_Shoals.md|Cargados_Carajos_Shoals]] 
-- [[../../../../_internal/geo/Continent/Africa/Mauritius/Counties/Cargados_Carajos_Shoals.internal|Cargados_Carajos_Shoals.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Mauritius/Counties/Cargados_Carajos_Shoals.protect|Cargados_Carajos_Shoals.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Mauritius/Counties/Cargados_Carajos_Shoals.private|Cargados_Carajos_Shoals.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Mauritius/Counties/Cargados_Carajos_Shoals.personal|Cargados_Carajos_Shoals.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Mauritius/Counties/Cargados_Carajos_Shoals.secret|Cargados_Carajos_Shoals.secret]] 
+- [[../../../../../../_Standards/geo/Continent/Africa/Mauritius/Counties/Cargados_Carajos_Shoals|Cargados_Carajos_Shoals]] 
+- [[../../../../../../_public/geo/Continent/Africa/Mauritius/Counties/Cargados_Carajos_Shoals.public|Cargados_Carajos_Shoals.public]] 
+- [[../../../../../../_internal/geo/Continent/Africa/Mauritius/Counties/Cargados_Carajos_Shoals.internal|Cargados_Carajos_Shoals.internal]] 
+- [[../../../../../../_protect/geo/Continent/Africa/Mauritius/Counties/Cargados_Carajos_Shoals.protect|Cargados_Carajos_Shoals.protect]] 
+- [[../../../../../../_private/geo/Continent/Africa/Mauritius/Counties/Cargados_Carajos_Shoals.private|Cargados_Carajos_Shoals.private]] 
+- [[../../../../../../_personal/geo/Continent/Africa/Mauritius/Counties/Cargados_Carajos_Shoals.personal|Cargados_Carajos_Shoals.personal]] 
+- [[../../../../../../_secret/geo/Continent/Africa/Mauritius/Counties/Cargados_Carajos_Shoals.secret|Cargados_Carajos_Shoals.secret]] 
 

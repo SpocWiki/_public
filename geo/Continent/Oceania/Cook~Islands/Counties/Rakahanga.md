@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ -10.036 , 198.918 ] 
 type: geo-Region
 title: Rakahanga
@@ -40,10 +40,11 @@ markerFolder: ./Rakahanga/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Oceania/Cook~Islands/Counties/Rakahanga.md|Rakahanga]] 
-- [[../../../../_internal/geo/Continent/Oceania/Cook~Islands/Counties/Rakahanga.internal|Rakahanga.internal]] 
-- [[../../../../_protect/geo/Continent/Oceania/Cook~Islands/Counties/Rakahanga.protect|Rakahanga.protect]] 
-- [[../../../../_private/geo/Continent/Oceania/Cook~Islands/Counties/Rakahanga.private|Rakahanga.private]] 
-- [[../../../../_personal/geo/Continent/Oceania/Cook~Islands/Counties/Rakahanga.personal|Rakahanga.personal]] 
-- [[../../../../_secret/geo/Continent/Oceania/Cook~Islands/Counties/Rakahanga.secret|Rakahanga.secret]] 
+- [[../../../../../../_Standards/geo/Continent/Oceania/Cook~Islands/Counties/Rakahanga|Rakahanga]] 
+- [[../../../../../../_public/geo/Continent/Oceania/Cook~Islands/Counties/Rakahanga.public|Rakahanga.public]] 
+- [[../../../../../../_internal/geo/Continent/Oceania/Cook~Islands/Counties/Rakahanga.internal|Rakahanga.internal]] 
+- [[../../../../../../_protect/geo/Continent/Oceania/Cook~Islands/Counties/Rakahanga.protect|Rakahanga.protect]] 
+- [[../../../../../../_private/geo/Continent/Oceania/Cook~Islands/Counties/Rakahanga.private|Rakahanga.private]] 
+- [[../../../../../../_personal/geo/Continent/Oceania/Cook~Islands/Counties/Rakahanga.personal|Rakahanga.personal]] 
+- [[../../../../../../_secret/geo/Continent/Oceania/Cook~Islands/Counties/Rakahanga.secret|Rakahanga.secret]] 
 

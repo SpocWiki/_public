@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 15 , -91.9 ] 
 type: geo-Region
 title: San_Marcos
@@ -40,10 +40,11 @@ markerFolder: ./San_Marcos/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/America~Central/Guatemala/Counties/San_Marcos.md|San_Marcos]] 
-- [[../../../../_internal/geo/Continent/America~Central/Guatemala/Counties/San_Marcos.internal|San_Marcos.internal]] 
-- [[../../../../_protect/geo/Continent/America~Central/Guatemala/Counties/San_Marcos.protect|San_Marcos.protect]] 
-- [[../../../../_private/geo/Continent/America~Central/Guatemala/Counties/San_Marcos.private|San_Marcos.private]] 
-- [[../../../../_personal/geo/Continent/America~Central/Guatemala/Counties/San_Marcos.personal|San_Marcos.personal]] 
-- [[../../../../_secret/geo/Continent/America~Central/Guatemala/Counties/San_Marcos.secret|San_Marcos.secret]] 
+- [[../../../../../../_Standards/geo/Continent/America~Central/Guatemala/Counties/San_Marcos|San_Marcos]] 
+- [[../../../../../../_public/geo/Continent/America~Central/Guatemala/Counties/San_Marcos.public|San_Marcos.public]] 
+- [[../../../../../../_internal/geo/Continent/America~Central/Guatemala/Counties/San_Marcos.internal|San_Marcos.internal]] 
+- [[../../../../../../_protect/geo/Continent/America~Central/Guatemala/Counties/San_Marcos.protect|San_Marcos.protect]] 
+- [[../../../../../../_private/geo/Continent/America~Central/Guatemala/Counties/San_Marcos.private|San_Marcos.private]] 
+- [[../../../../../../_personal/geo/Continent/America~Central/Guatemala/Counties/San_Marcos.personal|San_Marcos.personal]] 
+- [[../../../../../../_secret/geo/Continent/America~Central/Guatemala/Counties/San_Marcos.secret|San_Marcos.secret]] 
 

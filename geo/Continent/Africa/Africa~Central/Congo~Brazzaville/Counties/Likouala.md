@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 1.5 , 17.4 ] 
 type: geo-Region
 title: Likouala
@@ -40,10 +40,11 @@ markerFolder: ./Likouala/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Africa/Congo~Brazzaville/Counties/Likouala.md|Likouala]] 
-- [[../../../../_internal/geo/Continent/Africa/Congo~Brazzaville/Counties/Likouala.internal|Likouala.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Congo~Brazzaville/Counties/Likouala.protect|Likouala.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Congo~Brazzaville/Counties/Likouala.private|Likouala.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Congo~Brazzaville/Counties/Likouala.personal|Likouala.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Congo~Brazzaville/Counties/Likouala.secret|Likouala.secret]] 
+- [[../../../../../../_Standards/geo/Continent/Africa/Congo~Brazzaville/Counties/Likouala|Likouala]] 
+- [[../../../../../../_public/geo/Continent/Africa/Congo~Brazzaville/Counties/Likouala.public|Likouala.public]] 
+- [[../../../../../../_internal/geo/Continent/Africa/Congo~Brazzaville/Counties/Likouala.internal|Likouala.internal]] 
+- [[../../../../../../_protect/geo/Continent/Africa/Congo~Brazzaville/Counties/Likouala.protect|Likouala.protect]] 
+- [[../../../../../../_private/geo/Continent/Africa/Congo~Brazzaville/Counties/Likouala.private|Likouala.private]] 
+- [[../../../../../../_personal/geo/Continent/Africa/Congo~Brazzaville/Counties/Likouala.personal|Likouala.personal]] 
+- [[../../../../../../_secret/geo/Continent/Africa/Congo~Brazzaville/Counties/Likouala.secret|Likouala.secret]] 
 

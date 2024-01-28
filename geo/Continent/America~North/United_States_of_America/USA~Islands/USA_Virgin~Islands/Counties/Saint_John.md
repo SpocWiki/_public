@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 18.34 , -64.75 ] 
 type: geo-Region
 title: Saint_John
@@ -40,10 +40,11 @@ markerFolder: ./Saint_John/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/America~North/United_States_of_America/USA~Islands/USA_Virgin~Islands/Counties/Saint_John.md|Saint_John]] 
-- [[../../../../_internal/geo/Continent/America~North/United_States_of_America/USA~Islands/USA_Virgin~Islands/Counties/Saint_John.internal|Saint_John.internal]] 
-- [[../../../../_protect/geo/Continent/America~North/United_States_of_America/USA~Islands/USA_Virgin~Islands/Counties/Saint_John.protect|Saint_John.protect]] 
-- [[../../../../_private/geo/Continent/America~North/United_States_of_America/USA~Islands/USA_Virgin~Islands/Counties/Saint_John.private|Saint_John.private]] 
-- [[../../../../_personal/geo/Continent/America~North/United_States_of_America/USA~Islands/USA_Virgin~Islands/Counties/Saint_John.personal|Saint_John.personal]] 
-- [[../../../../_secret/geo/Continent/America~North/United_States_of_America/USA~Islands/USA_Virgin~Islands/Counties/Saint_John.secret|Saint_John.secret]] 
+- [[../../../../../../../../_Standards/geo/Continent/America~North/United_States_of_America/USA~Islands/USA_Virgin~Islands/Counties/Saint_John|Saint_John]] 
+- [[../../../../../../../../_public/geo/Continent/America~North/United_States_of_America/USA~Islands/USA_Virgin~Islands/Counties/Saint_John.public|Saint_John.public]] 
+- [[../../../../../../../../_internal/geo/Continent/America~North/United_States_of_America/USA~Islands/USA_Virgin~Islands/Counties/Saint_John.internal|Saint_John.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/America~North/United_States_of_America/USA~Islands/USA_Virgin~Islands/Counties/Saint_John.protect|Saint_John.protect]] 
+- [[../../../../../../../../_private/geo/Continent/America~North/United_States_of_America/USA~Islands/USA_Virgin~Islands/Counties/Saint_John.private|Saint_John.private]] 
+- [[../../../../../../../../_personal/geo/Continent/America~North/United_States_of_America/USA~Islands/USA_Virgin~Islands/Counties/Saint_John.personal|Saint_John.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/America~North/United_States_of_America/USA~Islands/USA_Virgin~Islands/Counties/Saint_John.secret|Saint_John.secret]] 
 

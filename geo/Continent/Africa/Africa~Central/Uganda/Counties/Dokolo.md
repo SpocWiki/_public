@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 1.9 , 33.1 ] 
 type: geo-Region
 title: Dokolo
@@ -40,10 +40,11 @@ markerFolder: ./Dokolo/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Africa/Uganda/Counties/Dokolo.md|Dokolo]] 
-- [[../../../../_internal/geo/Continent/Africa/Uganda/Counties/Dokolo.internal|Dokolo.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Uganda/Counties/Dokolo.protect|Dokolo.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Uganda/Counties/Dokolo.private|Dokolo.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Uganda/Counties/Dokolo.personal|Dokolo.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Uganda/Counties/Dokolo.secret|Dokolo.secret]] 
+- [[../../../../../../_Standards/geo/Continent/Africa/Uganda/Counties/Dokolo|Dokolo]] 
+- [[../../../../../../_public/geo/Continent/Africa/Uganda/Counties/Dokolo.public|Dokolo.public]] 
+- [[../../../../../../_internal/geo/Continent/Africa/Uganda/Counties/Dokolo.internal|Dokolo.internal]] 
+- [[../../../../../../_protect/geo/Continent/Africa/Uganda/Counties/Dokolo.protect|Dokolo.protect]] 
+- [[../../../../../../_private/geo/Continent/Africa/Uganda/Counties/Dokolo.private|Dokolo.private]] 
+- [[../../../../../../_personal/geo/Continent/Africa/Uganda/Counties/Dokolo.personal|Dokolo.personal]] 
+- [[../../../../../../_secret/geo/Continent/Africa/Uganda/Counties/Dokolo.secret|Dokolo.secret]] 
 

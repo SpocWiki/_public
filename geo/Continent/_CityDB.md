@@ -342,7 +342,8 @@ filters:
 ```
 
 ## Confidential Links & Embeds: 
-- [[../../../_public/geo/Continent/_CityDB.md|_CityDB]] 
+- [[../../../_Standards/geo/Continent/_CityDB|_CityDB]] 
+- [[../../../_public/geo/Continent/_CityDB.public|_CityDB.public]] 
 - [[../../../_internal/geo/Continent/_CityDB.internal|_CityDB.internal]] 
 - [[../../../_protect/geo/Continent/_CityDB.protect|_CityDB.protect]] 
 - [[../../../_private/geo/Continent/_CityDB.private|_CityDB.private]] 

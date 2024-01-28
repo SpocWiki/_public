@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 17.14 , -25.13 ] 
 type: geo-Region
 title: Ribeira_Grande
@@ -40,10 +40,11 @@ markerFolder: ./Ribeira_Grande/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Africa/Cape_Verde/Counties/Ribeira_Grande.md|Ribeira_Grande]] 
-- [[../../../../_internal/geo/Continent/Africa/Cape_Verde/Counties/Ribeira_Grande.internal|Ribeira_Grande.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Cape_Verde/Counties/Ribeira_Grande.protect|Ribeira_Grande.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Cape_Verde/Counties/Ribeira_Grande.private|Ribeira_Grande.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Cape_Verde/Counties/Ribeira_Grande.personal|Ribeira_Grande.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Cape_Verde/Counties/Ribeira_Grande.secret|Ribeira_Grande.secret]] 
+- [[../../../../../../_Standards/geo/Continent/Africa/Cape_Verde/Counties/Ribeira_Grande|Ribeira_Grande]] 
+- [[../../../../../../_public/geo/Continent/Africa/Cape_Verde/Counties/Ribeira_Grande.public|Ribeira_Grande.public]] 
+- [[../../../../../../_internal/geo/Continent/Africa/Cape_Verde/Counties/Ribeira_Grande.internal|Ribeira_Grande.internal]] 
+- [[../../../../../../_protect/geo/Continent/Africa/Cape_Verde/Counties/Ribeira_Grande.protect|Ribeira_Grande.protect]] 
+- [[../../../../../../_private/geo/Continent/Africa/Cape_Verde/Counties/Ribeira_Grande.private|Ribeira_Grande.private]] 
+- [[../../../../../../_personal/geo/Continent/Africa/Cape_Verde/Counties/Ribeira_Grande.personal|Ribeira_Grande.personal]] 
+- [[../../../../../../_secret/geo/Continent/Africa/Cape_Verde/Counties/Ribeira_Grande.secret|Ribeira_Grande.secret]] 
 

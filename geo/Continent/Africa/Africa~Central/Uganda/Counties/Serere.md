@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 1.5 , 33.5 ] 
 type: geo-Region
 title: Serere
@@ -40,10 +40,11 @@ markerFolder: ./Serere/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Africa/Uganda/Counties/Serere.md|Serere]] 
-- [[../../../../_internal/geo/Continent/Africa/Uganda/Counties/Serere.internal|Serere.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Uganda/Counties/Serere.protect|Serere.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Uganda/Counties/Serere.private|Serere.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Uganda/Counties/Serere.personal|Serere.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Uganda/Counties/Serere.secret|Serere.secret]] 
+- [[../../../../../../_Standards/geo/Continent/Africa/Uganda/Counties/Serere|Serere]] 
+- [[../../../../../../_public/geo/Continent/Africa/Uganda/Counties/Serere.public|Serere.public]] 
+- [[../../../../../../_internal/geo/Continent/Africa/Uganda/Counties/Serere.internal|Serere.internal]] 
+- [[../../../../../../_protect/geo/Continent/Africa/Uganda/Counties/Serere.protect|Serere.protect]] 
+- [[../../../../../../_private/geo/Continent/Africa/Uganda/Counties/Serere.private|Serere.private]] 
+- [[../../../../../../_personal/geo/Continent/Africa/Uganda/Counties/Serere.personal|Serere.personal]] 
+- [[../../../../../../_secret/geo/Continent/Africa/Uganda/Counties/Serere.secret|Serere.secret]] 
 

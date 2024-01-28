@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 22.2 , -80.5 ] 
 type: geo-Region
 title: Cienfuegos
@@ -40,10 +40,11 @@ markerFolder: ./Cienfuegos/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/America~Caribbean/Cuba/Counties/Cienfuegos.md|Cienfuegos]] 
-- [[../../../../_internal/geo/Continent/America~Caribbean/Cuba/Counties/Cienfuegos.internal|Cienfuegos.internal]] 
-- [[../../../../_protect/geo/Continent/America~Caribbean/Cuba/Counties/Cienfuegos.protect|Cienfuegos.protect]] 
-- [[../../../../_private/geo/Continent/America~Caribbean/Cuba/Counties/Cienfuegos.private|Cienfuegos.private]] 
-- [[../../../../_personal/geo/Continent/America~Caribbean/Cuba/Counties/Cienfuegos.personal|Cienfuegos.personal]] 
-- [[../../../../_secret/geo/Continent/America~Caribbean/Cuba/Counties/Cienfuegos.secret|Cienfuegos.secret]] 
+- [[../../../../../../_Standards/geo/Continent/America~Caribbean/Cuba/Counties/Cienfuegos|Cienfuegos]] 
+- [[../../../../../../_public/geo/Continent/America~Caribbean/Cuba/Counties/Cienfuegos.public|Cienfuegos.public]] 
+- [[../../../../../../_internal/geo/Continent/America~Caribbean/Cuba/Counties/Cienfuegos.internal|Cienfuegos.internal]] 
+- [[../../../../../../_protect/geo/Continent/America~Caribbean/Cuba/Counties/Cienfuegos.protect|Cienfuegos.protect]] 
+- [[../../../../../../_private/geo/Continent/America~Caribbean/Cuba/Counties/Cienfuegos.private|Cienfuegos.private]] 
+- [[../../../../../../_personal/geo/Continent/America~Caribbean/Cuba/Counties/Cienfuegos.personal|Cienfuegos.personal]] 
+- [[../../../../../../_secret/geo/Continent/America~Caribbean/Cuba/Counties/Cienfuegos.secret|Cienfuegos.secret]] 
 

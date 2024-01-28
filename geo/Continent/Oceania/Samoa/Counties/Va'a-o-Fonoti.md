@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ -13.96 , 188.46 ] 
 type: geo-Region
 title: Va'a-o-Fonoti
@@ -40,10 +40,11 @@ markerFolder: ./Va'a-o-Fonoti/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Oceania/Samoa/Counties/Va'a-o-Fonoti.md|Va'a-o-Fonoti]] 
-- [[../../../../_internal/geo/Continent/Oceania/Samoa/Counties/Va'a-o-Fonoti.internal|Va'a-o-Fonoti.internal]] 
-- [[../../../../_protect/geo/Continent/Oceania/Samoa/Counties/Va'a-o-Fonoti.protect|Va'a-o-Fonoti.protect]] 
-- [[../../../../_private/geo/Continent/Oceania/Samoa/Counties/Va'a-o-Fonoti.private|Va'a-o-Fonoti.private]] 
-- [[../../../../_personal/geo/Continent/Oceania/Samoa/Counties/Va'a-o-Fonoti.personal|Va'a-o-Fonoti.personal]] 
-- [[../../../../_secret/geo/Continent/Oceania/Samoa/Counties/Va'a-o-Fonoti.secret|Va'a-o-Fonoti.secret]] 
+- [[../../../../../../_Standards/geo/Continent/Oceania/Samoa/Counties/Va'a-o-Fonoti|Va'a-o-Fonoti]] 
+- [[../../../../../../_public/geo/Continent/Oceania/Samoa/Counties/Va'a-o-Fonoti.public|Va'a-o-Fonoti.public]] 
+- [[../../../../../../_internal/geo/Continent/Oceania/Samoa/Counties/Va'a-o-Fonoti.internal|Va'a-o-Fonoti.internal]] 
+- [[../../../../../../_protect/geo/Continent/Oceania/Samoa/Counties/Va'a-o-Fonoti.protect|Va'a-o-Fonoti.protect]] 
+- [[../../../../../../_private/geo/Continent/Oceania/Samoa/Counties/Va'a-o-Fonoti.private|Va'a-o-Fonoti.private]] 
+- [[../../../../../../_personal/geo/Continent/Oceania/Samoa/Counties/Va'a-o-Fonoti.personal|Va'a-o-Fonoti.personal]] 
+- [[../../../../../../_secret/geo/Continent/Oceania/Samoa/Counties/Va'a-o-Fonoti.secret|Va'a-o-Fonoti.secret]] 
 

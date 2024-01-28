@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 10.5 , -84.5 ] 
 type: geo-Region
 title: Alajuela
@@ -40,10 +40,11 @@ markerFolder: ./Alajuela/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/America~Central/Costa_Rica/Counties/Alajuela.md|Alajuela]] 
-- [[../../../../_internal/geo/Continent/America~Central/Costa_Rica/Counties/Alajuela.internal|Alajuela.internal]] 
-- [[../../../../_protect/geo/Continent/America~Central/Costa_Rica/Counties/Alajuela.protect|Alajuela.protect]] 
-- [[../../../../_private/geo/Continent/America~Central/Costa_Rica/Counties/Alajuela.private|Alajuela.private]] 
-- [[../../../../_personal/geo/Continent/America~Central/Costa_Rica/Counties/Alajuela.personal|Alajuela.personal]] 
-- [[../../../../_secret/geo/Continent/America~Central/Costa_Rica/Counties/Alajuela.secret|Alajuela.secret]] 
+- [[../../../../../../_Standards/geo/Continent/America~Central/Costa_Rica/Counties/Alajuela|Alajuela]] 
+- [[../../../../../../_public/geo/Continent/America~Central/Costa_Rica/Counties/Alajuela.public|Alajuela.public]] 
+- [[../../../../../../_internal/geo/Continent/America~Central/Costa_Rica/Counties/Alajuela.internal|Alajuela.internal]] 
+- [[../../../../../../_protect/geo/Continent/America~Central/Costa_Rica/Counties/Alajuela.protect|Alajuela.protect]] 
+- [[../../../../../../_private/geo/Continent/America~Central/Costa_Rica/Counties/Alajuela.private|Alajuela.private]] 
+- [[../../../../../../_personal/geo/Continent/America~Central/Costa_Rica/Counties/Alajuela.personal|Alajuela.personal]] 
+- [[../../../../../../_secret/geo/Continent/America~Central/Costa_Rica/Counties/Alajuela.secret|Alajuela.secret]] 
 

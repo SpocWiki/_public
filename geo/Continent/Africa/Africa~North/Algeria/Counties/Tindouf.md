@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 27.5 , -5.9 ] 
 type: geo-Region
 title: Tindouf
@@ -40,10 +40,11 @@ markerFolder: ./Tindouf/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Africa/Algeria/Counties/Tindouf.md|Tindouf]] 
-- [[../../../../_internal/geo/Continent/Africa/Algeria/Counties/Tindouf.internal|Tindouf.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Algeria/Counties/Tindouf.protect|Tindouf.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Algeria/Counties/Tindouf.private|Tindouf.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Algeria/Counties/Tindouf.personal|Tindouf.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Algeria/Counties/Tindouf.secret|Tindouf.secret]] 
+- [[../../../../../../_Standards/geo/Continent/Africa/Algeria/Counties/Tindouf|Tindouf]] 
+- [[../../../../../../_public/geo/Continent/Africa/Algeria/Counties/Tindouf.public|Tindouf.public]] 
+- [[../../../../../../_internal/geo/Continent/Africa/Algeria/Counties/Tindouf.internal|Tindouf.internal]] 
+- [[../../../../../../_protect/geo/Continent/Africa/Algeria/Counties/Tindouf.protect|Tindouf.protect]] 
+- [[../../../../../../_private/geo/Continent/Africa/Algeria/Counties/Tindouf.private|Tindouf.private]] 
+- [[../../../../../../_personal/geo/Continent/Africa/Algeria/Counties/Tindouf.personal|Tindouf.personal]] 
+- [[../../../../../../_secret/geo/Continent/Africa/Algeria/Counties/Tindouf.secret|Tindouf.secret]] 
 

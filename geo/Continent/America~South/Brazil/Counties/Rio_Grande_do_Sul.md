@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ -30.4 , -53.8 ] 
 type: geo-Region
 title: Rio_Grande_do_Sul
@@ -40,10 +40,11 @@ markerFolder: ./Rio_Grande_do_Sul/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/America~South/Brazil/Counties/Rio_Grande_do_Sul.md|Rio_Grande_do_Sul]] 
-- [[../../../../_internal/geo/Continent/America~South/Brazil/Counties/Rio_Grande_do_Sul.internal|Rio_Grande_do_Sul.internal]] 
-- [[../../../../_protect/geo/Continent/America~South/Brazil/Counties/Rio_Grande_do_Sul.protect|Rio_Grande_do_Sul.protect]] 
-- [[../../../../_private/geo/Continent/America~South/Brazil/Counties/Rio_Grande_do_Sul.private|Rio_Grande_do_Sul.private]] 
-- [[../../../../_personal/geo/Continent/America~South/Brazil/Counties/Rio_Grande_do_Sul.personal|Rio_Grande_do_Sul.personal]] 
-- [[../../../../_secret/geo/Continent/America~South/Brazil/Counties/Rio_Grande_do_Sul.secret|Rio_Grande_do_Sul.secret]] 
+- [[../../../../../../_Standards/geo/Continent/America~South/Brazil/Counties/Rio_Grande_do_Sul|Rio_Grande_do_Sul]] 
+- [[../../../../../../_public/geo/Continent/America~South/Brazil/Counties/Rio_Grande_do_Sul.public|Rio_Grande_do_Sul.public]] 
+- [[../../../../../../_internal/geo/Continent/America~South/Brazil/Counties/Rio_Grande_do_Sul.internal|Rio_Grande_do_Sul.internal]] 
+- [[../../../../../../_protect/geo/Continent/America~South/Brazil/Counties/Rio_Grande_do_Sul.protect|Rio_Grande_do_Sul.protect]] 
+- [[../../../../../../_private/geo/Continent/America~South/Brazil/Counties/Rio_Grande_do_Sul.private|Rio_Grande_do_Sul.private]] 
+- [[../../../../../../_personal/geo/Continent/America~South/Brazil/Counties/Rio_Grande_do_Sul.personal|Rio_Grande_do_Sul.personal]] 
+- [[../../../../../../_secret/geo/Continent/America~South/Brazil/Counties/Rio_Grande_do_Sul.secret|Rio_Grande_do_Sul.secret]] 
 

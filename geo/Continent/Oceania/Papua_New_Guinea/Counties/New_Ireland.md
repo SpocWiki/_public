@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ -2.5 , 150.3 ] 
 type: geo-Region
 title: New_Ireland
@@ -40,10 +40,11 @@ markerFolder: ./New_Ireland/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Oceania/Papua_New_Guinea/Counties/New_Ireland.md|New_Ireland]] 
-- [[../../../../_internal/geo/Continent/Oceania/Papua_New_Guinea/Counties/New_Ireland.internal|New_Ireland.internal]] 
-- [[../../../../_protect/geo/Continent/Oceania/Papua_New_Guinea/Counties/New_Ireland.protect|New_Ireland.protect]] 
-- [[../../../../_private/geo/Continent/Oceania/Papua_New_Guinea/Counties/New_Ireland.private|New_Ireland.private]] 
-- [[../../../../_personal/geo/Continent/Oceania/Papua_New_Guinea/Counties/New_Ireland.personal|New_Ireland.personal]] 
-- [[../../../../_secret/geo/Continent/Oceania/Papua_New_Guinea/Counties/New_Ireland.secret|New_Ireland.secret]] 
+- [[../../../../../../_Standards/geo/Continent/Oceania/Papua_New_Guinea/Counties/New_Ireland|New_Ireland]] 
+- [[../../../../../../_public/geo/Continent/Oceania/Papua_New_Guinea/Counties/New_Ireland.public|New_Ireland.public]] 
+- [[../../../../../../_internal/geo/Continent/Oceania/Papua_New_Guinea/Counties/New_Ireland.internal|New_Ireland.internal]] 
+- [[../../../../../../_protect/geo/Continent/Oceania/Papua_New_Guinea/Counties/New_Ireland.protect|New_Ireland.protect]] 
+- [[../../../../../../_private/geo/Continent/Oceania/Papua_New_Guinea/Counties/New_Ireland.private|New_Ireland.private]] 
+- [[../../../../../../_personal/geo/Continent/Oceania/Papua_New_Guinea/Counties/New_Ireland.personal|New_Ireland.personal]] 
+- [[../../../../../../_secret/geo/Continent/Oceania/Papua_New_Guinea/Counties/New_Ireland.secret|New_Ireland.secret]] 
 

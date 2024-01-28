@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 11.6 , -1.1 ] 
 type: geo-Region
 title: Zoundwéogo
@@ -40,10 +40,11 @@ markerFolder: ./Zoundwéogo/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Africa/Burkina_Faso/Counties/Zoundwéogo.md|Zoundwéogo]] 
-- [[../../../../_internal/geo/Continent/Africa/Burkina_Faso/Counties/Zoundwéogo.internal|Zoundwéogo.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Burkina_Faso/Counties/Zoundwéogo.protect|Zoundwéogo.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Burkina_Faso/Counties/Zoundwéogo.private|Zoundwéogo.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Burkina_Faso/Counties/Zoundwéogo.personal|Zoundwéogo.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Burkina_Faso/Counties/Zoundwéogo.secret|Zoundwéogo.secret]] 
+- [[../../../../../../_Standards/geo/Continent/Africa/Burkina_Faso/Counties/Zoundwéogo|Zoundwéogo]] 
+- [[../../../../../../_public/geo/Continent/Africa/Burkina_Faso/Counties/Zoundwéogo.public|Zoundwéogo.public]] 
+- [[../../../../../../_internal/geo/Continent/Africa/Burkina_Faso/Counties/Zoundwéogo.internal|Zoundwéogo.internal]] 
+- [[../../../../../../_protect/geo/Continent/Africa/Burkina_Faso/Counties/Zoundwéogo.protect|Zoundwéogo.protect]] 
+- [[../../../../../../_private/geo/Continent/Africa/Burkina_Faso/Counties/Zoundwéogo.private|Zoundwéogo.private]] 
+- [[../../../../../../_personal/geo/Continent/Africa/Burkina_Faso/Counties/Zoundwéogo.personal|Zoundwéogo.personal]] 
+- [[../../../../../../_secret/geo/Continent/Africa/Burkina_Faso/Counties/Zoundwéogo.secret|Zoundwéogo.secret]] 
 

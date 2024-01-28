@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 4.8 , 31.4 ] 
 type: geo-Region
 title: Central_Equatoria
@@ -40,10 +40,11 @@ markerFolder: ./Central_Equatoria/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Africa/Sudan~South/Counties/Central_Equatoria.md|Central_Equatoria]] 
-- [[../../../../_internal/geo/Continent/Africa/Sudan~South/Counties/Central_Equatoria.internal|Central_Equatoria.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Sudan~South/Counties/Central_Equatoria.protect|Central_Equatoria.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Sudan~South/Counties/Central_Equatoria.private|Central_Equatoria.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Sudan~South/Counties/Central_Equatoria.personal|Central_Equatoria.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Sudan~South/Counties/Central_Equatoria.secret|Central_Equatoria.secret]] 
+- [[../../../../../../_Standards/geo/Continent/Africa/Sudan~South/Counties/Central_Equatoria|Central_Equatoria]] 
+- [[../../../../../../_public/geo/Continent/Africa/Sudan~South/Counties/Central_Equatoria.public|Central_Equatoria.public]] 
+- [[../../../../../../_internal/geo/Continent/Africa/Sudan~South/Counties/Central_Equatoria.internal|Central_Equatoria.internal]] 
+- [[../../../../../../_protect/geo/Continent/Africa/Sudan~South/Counties/Central_Equatoria.protect|Central_Equatoria.protect]] 
+- [[../../../../../../_private/geo/Continent/Africa/Sudan~South/Counties/Central_Equatoria.private|Central_Equatoria.private]] 
+- [[../../../../../../_personal/geo/Continent/Africa/Sudan~South/Counties/Central_Equatoria.personal|Central_Equatoria.personal]] 
+- [[../../../../../../_secret/geo/Continent/Africa/Sudan~South/Counties/Central_Equatoria.secret|Central_Equatoria.secret]] 
 

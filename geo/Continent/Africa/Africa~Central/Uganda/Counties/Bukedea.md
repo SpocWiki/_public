@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 1.4 , 34.1 ] 
 type: geo-Region
 title: Bukedea
@@ -40,10 +40,11 @@ markerFolder: ./Bukedea/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Africa/Uganda/Counties/Bukedea.md|Bukedea]] 
-- [[../../../../_internal/geo/Continent/Africa/Uganda/Counties/Bukedea.internal|Bukedea.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Uganda/Counties/Bukedea.protect|Bukedea.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Uganda/Counties/Bukedea.private|Bukedea.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Uganda/Counties/Bukedea.personal|Bukedea.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Uganda/Counties/Bukedea.secret|Bukedea.secret]] 
+- [[../../../../../../_Standards/geo/Continent/Africa/Uganda/Counties/Bukedea|Bukedea]] 
+- [[../../../../../../_public/geo/Continent/Africa/Uganda/Counties/Bukedea.public|Bukedea.public]] 
+- [[../../../../../../_internal/geo/Continent/Africa/Uganda/Counties/Bukedea.internal|Bukedea.internal]] 
+- [[../../../../../../_protect/geo/Continent/Africa/Uganda/Counties/Bukedea.protect|Bukedea.protect]] 
+- [[../../../../../../_private/geo/Continent/Africa/Uganda/Counties/Bukedea.private|Bukedea.private]] 
+- [[../../../../../../_personal/geo/Continent/Africa/Uganda/Counties/Bukedea.personal|Bukedea.personal]] 
+- [[../../../../../../_secret/geo/Continent/Africa/Uganda/Counties/Bukedea.secret|Bukedea.secret]] 
 

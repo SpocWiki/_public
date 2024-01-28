@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ -21.5 , 46.5 ] 
 type: geo-Region
 title: Haute_Matsiatra
@@ -40,10 +40,11 @@ markerFolder: ./Haute_Matsiatra/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Africa/Madagascar/Counties/Haute_Matsiatra.md|Haute_Matsiatra]] 
-- [[../../../../_internal/geo/Continent/Africa/Madagascar/Counties/Haute_Matsiatra.internal|Haute_Matsiatra.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Madagascar/Counties/Haute_Matsiatra.protect|Haute_Matsiatra.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Madagascar/Counties/Haute_Matsiatra.private|Haute_Matsiatra.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Madagascar/Counties/Haute_Matsiatra.personal|Haute_Matsiatra.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Madagascar/Counties/Haute_Matsiatra.secret|Haute_Matsiatra.secret]] 
+- [[../../../../../../_Standards/geo/Continent/Africa/Madagascar/Counties/Haute_Matsiatra|Haute_Matsiatra]] 
+- [[../../../../../../_public/geo/Continent/Africa/Madagascar/Counties/Haute_Matsiatra.public|Haute_Matsiatra.public]] 
+- [[../../../../../../_internal/geo/Continent/Africa/Madagascar/Counties/Haute_Matsiatra.internal|Haute_Matsiatra.internal]] 
+- [[../../../../../../_protect/geo/Continent/Africa/Madagascar/Counties/Haute_Matsiatra.protect|Haute_Matsiatra.protect]] 
+- [[../../../../../../_private/geo/Continent/Africa/Madagascar/Counties/Haute_Matsiatra.private|Haute_Matsiatra.private]] 
+- [[../../../../../../_personal/geo/Continent/Africa/Madagascar/Counties/Haute_Matsiatra.personal|Haute_Matsiatra.personal]] 
+- [[../../../../../../_secret/geo/Continent/Africa/Madagascar/Counties/Haute_Matsiatra.secret|Haute_Matsiatra.secret]] 
 

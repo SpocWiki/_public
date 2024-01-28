@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 0.9 , 33.1 ] 
 type: geo-Region
 title: Kamuli
@@ -40,10 +40,11 @@ markerFolder: ./Kamuli/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Africa/Uganda/Counties/Kamuli.md|Kamuli]] 
-- [[../../../../_internal/geo/Continent/Africa/Uganda/Counties/Kamuli.internal|Kamuli.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Uganda/Counties/Kamuli.protect|Kamuli.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Uganda/Counties/Kamuli.private|Kamuli.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Uganda/Counties/Kamuli.personal|Kamuli.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Uganda/Counties/Kamuli.secret|Kamuli.secret]] 
+- [[../../../../../../_Standards/geo/Continent/Africa/Uganda/Counties/Kamuli|Kamuli]] 
+- [[../../../../../../_public/geo/Continent/Africa/Uganda/Counties/Kamuli.public|Kamuli.public]] 
+- [[../../../../../../_internal/geo/Continent/Africa/Uganda/Counties/Kamuli.internal|Kamuli.internal]] 
+- [[../../../../../../_protect/geo/Continent/Africa/Uganda/Counties/Kamuli.protect|Kamuli.protect]] 
+- [[../../../../../../_private/geo/Continent/Africa/Uganda/Counties/Kamuli.private|Kamuli.private]] 
+- [[../../../../../../_personal/geo/Continent/Africa/Uganda/Counties/Kamuli.personal|Kamuli.personal]] 
+- [[../../../../../../_secret/geo/Continent/Africa/Uganda/Counties/Kamuli.secret|Kamuli.secret]] 
 

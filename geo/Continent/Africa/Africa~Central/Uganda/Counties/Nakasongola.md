@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 1.3 , 32.5 ] 
 type: geo-Region
 title: Nakasongola
@@ -40,10 +40,11 @@ markerFolder: ./Nakasongola/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Africa/Uganda/Counties/Nakasongola.md|Nakasongola]] 
-- [[../../../../_internal/geo/Continent/Africa/Uganda/Counties/Nakasongola.internal|Nakasongola.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Uganda/Counties/Nakasongola.protect|Nakasongola.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Uganda/Counties/Nakasongola.private|Nakasongola.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Uganda/Counties/Nakasongola.personal|Nakasongola.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Uganda/Counties/Nakasongola.secret|Nakasongola.secret]] 
+- [[../../../../../../_Standards/geo/Continent/Africa/Uganda/Counties/Nakasongola|Nakasongola]] 
+- [[../../../../../../_public/geo/Continent/Africa/Uganda/Counties/Nakasongola.public|Nakasongola.public]] 
+- [[../../../../../../_internal/geo/Continent/Africa/Uganda/Counties/Nakasongola.internal|Nakasongola.internal]] 
+- [[../../../../../../_protect/geo/Continent/Africa/Uganda/Counties/Nakasongola.protect|Nakasongola.protect]] 
+- [[../../../../../../_private/geo/Continent/Africa/Uganda/Counties/Nakasongola.private|Nakasongola.private]] 
+- [[../../../../../../_personal/geo/Continent/Africa/Uganda/Counties/Nakasongola.personal|Nakasongola.personal]] 
+- [[../../../../../../_secret/geo/Continent/Africa/Uganda/Counties/Nakasongola.secret|Nakasongola.secret]] 
 

@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ -15.2 , -70.1 ] 
 type: geo-Region
 title: Callao
@@ -40,10 +40,11 @@ markerFolder: ./Callao/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/America~South/Peru/Counties/Callao.md|Callao]] 
-- [[../../../../_internal/geo/Continent/America~South/Peru/Counties/Callao.internal|Callao.internal]] 
-- [[../../../../_protect/geo/Continent/America~South/Peru/Counties/Callao.protect|Callao.protect]] 
-- [[../../../../_private/geo/Continent/America~South/Peru/Counties/Callao.private|Callao.private]] 
-- [[../../../../_personal/geo/Continent/America~South/Peru/Counties/Callao.personal|Callao.personal]] 
-- [[../../../../_secret/geo/Continent/America~South/Peru/Counties/Callao.secret|Callao.secret]] 
+- [[../../../../../../_Standards/geo/Continent/America~South/Peru/Counties/Callao|Callao]] 
+- [[../../../../../../_public/geo/Continent/America~South/Peru/Counties/Callao.public|Callao.public]] 
+- [[../../../../../../_internal/geo/Continent/America~South/Peru/Counties/Callao.internal|Callao.internal]] 
+- [[../../../../../../_protect/geo/Continent/America~South/Peru/Counties/Callao.protect|Callao.protect]] 
+- [[../../../../../../_private/geo/Continent/America~South/Peru/Counties/Callao.private|Callao.private]] 
+- [[../../../../../../_personal/geo/Continent/America~South/Peru/Counties/Callao.personal|Callao.personal]] 
+- [[../../../../../../_secret/geo/Continent/America~South/Peru/Counties/Callao.secret|Callao.secret]] 
 

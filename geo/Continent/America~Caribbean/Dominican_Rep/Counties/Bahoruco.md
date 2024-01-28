@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 18.5 , -71.3 ] 
 type: geo-Region
 title: Bahoruco
@@ -40,10 +40,11 @@ markerFolder: ./Bahoruco/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/America~Caribbean/Dominican_Rep/Counties/Bahoruco.md|Bahoruco]] 
-- [[../../../../_internal/geo/Continent/America~Caribbean/Dominican_Rep/Counties/Bahoruco.internal|Bahoruco.internal]] 
-- [[../../../../_protect/geo/Continent/America~Caribbean/Dominican_Rep/Counties/Bahoruco.protect|Bahoruco.protect]] 
-- [[../../../../_private/geo/Continent/America~Caribbean/Dominican_Rep/Counties/Bahoruco.private|Bahoruco.private]] 
-- [[../../../../_personal/geo/Continent/America~Caribbean/Dominican_Rep/Counties/Bahoruco.personal|Bahoruco.personal]] 
-- [[../../../../_secret/geo/Continent/America~Caribbean/Dominican_Rep/Counties/Bahoruco.secret|Bahoruco.secret]] 
+- [[../../../../../../_Standards/geo/Continent/America~Caribbean/Dominican_Rep/Counties/Bahoruco|Bahoruco]] 
+- [[../../../../../../_public/geo/Continent/America~Caribbean/Dominican_Rep/Counties/Bahoruco.public|Bahoruco.public]] 
+- [[../../../../../../_internal/geo/Continent/America~Caribbean/Dominican_Rep/Counties/Bahoruco.internal|Bahoruco.internal]] 
+- [[../../../../../../_protect/geo/Continent/America~Caribbean/Dominican_Rep/Counties/Bahoruco.protect|Bahoruco.protect]] 
+- [[../../../../../../_private/geo/Continent/America~Caribbean/Dominican_Rep/Counties/Bahoruco.private|Bahoruco.private]] 
+- [[../../../../../../_personal/geo/Continent/America~Caribbean/Dominican_Rep/Counties/Bahoruco.personal|Bahoruco.personal]] 
+- [[../../../../../../_secret/geo/Continent/America~Caribbean/Dominican_Rep/Counties/Bahoruco.secret|Bahoruco.secret]] 
 

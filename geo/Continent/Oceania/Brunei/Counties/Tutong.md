@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 4.6 , 114.7 ] 
 type: geo-Region
 title: Tutong
@@ -40,10 +40,11 @@ markerFolder: ./Tutong/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Oceania/Brunei/Counties/Tutong.md|Tutong]] 
-- [[../../../../_internal/geo/Continent/Oceania/Brunei/Counties/Tutong.internal|Tutong.internal]] 
-- [[../../../../_protect/geo/Continent/Oceania/Brunei/Counties/Tutong.protect|Tutong.protect]] 
-- [[../../../../_private/geo/Continent/Oceania/Brunei/Counties/Tutong.private|Tutong.private]] 
-- [[../../../../_personal/geo/Continent/Oceania/Brunei/Counties/Tutong.personal|Tutong.personal]] 
-- [[../../../../_secret/geo/Continent/Oceania/Brunei/Counties/Tutong.secret|Tutong.secret]] 
+- [[../../../../../../_Standards/geo/Continent/Oceania/Brunei/Counties/Tutong|Tutong]] 
+- [[../../../../../../_public/geo/Continent/Oceania/Brunei/Counties/Tutong.public|Tutong.public]] 
+- [[../../../../../../_internal/geo/Continent/Oceania/Brunei/Counties/Tutong.internal|Tutong.internal]] 
+- [[../../../../../../_protect/geo/Continent/Oceania/Brunei/Counties/Tutong.protect|Tutong.protect]] 
+- [[../../../../../../_private/geo/Continent/Oceania/Brunei/Counties/Tutong.private|Tutong.private]] 
+- [[../../../../../../_personal/geo/Continent/Oceania/Brunei/Counties/Tutong.personal|Tutong.personal]] 
+- [[../../../../../../_secret/geo/Continent/Oceania/Brunei/Counties/Tutong.secret|Tutong.secret]] 
 

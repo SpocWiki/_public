@@ -1,5 +1,5 @@
-﻿---
-location: [3.83,11.5]
+---
+location: [3.83,11.5] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,27 +12,28 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::11.5]
-[geo-lat::3.83]
-[name::Yaund]
-[State::]
-[Country::[[Cameroon]]]
-[StateId::]
-[Population::]
-[Unknown::]
+[geo-lon::11.5] 
+[geo-lat::3.83] 
+[name::Yaund] 
+State ::  
+Country :: [[Cameroon]]  
+[StateId::] 
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Yaund
-coordinates: [[Yaund]]
-markerFile: [[Yaund]]
+coordinates: [[Yaund]] 
+markerFile: [[Yaund]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_public/geo/Continent/Africa/Cameroon/City/Yaund.md|Yaund]] 
+- [[../../../../../../_Standards/geo/Continent/Africa/Cameroon/City/Yaund|Yaund]] 
+- [[../../../../../../_public/geo/Continent/Africa/Cameroon/City/Yaund.public|Yaund.public]] 
 - [[../../../../../../_internal/geo/Continent/Africa/Cameroon/City/Yaund.internal|Yaund.internal]] 
 - [[../../../../../../_protect/geo/Continent/Africa/Cameroon/City/Yaund.protect|Yaund.protect]] 
 - [[../../../../../../_private/geo/Continent/Africa/Cameroon/City/Yaund.private|Yaund.private]] 

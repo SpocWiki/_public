@@ -40,10 +40,11 @@ markerFolder: ./Fiji~Eastern/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Oceania/Fiji/Counties/Fiji~Eastern.md|Fiji~Eastern]] 
-- [[../../../../_internal/geo/Continent/Oceania/Fiji/Counties/Fiji~Eastern.internal|Fiji~Eastern.internal]] 
-- [[../../../../_protect/geo/Continent/Oceania/Fiji/Counties/Fiji~Eastern.protect|Fiji~Eastern.protect]] 
-- [[../../../../_private/geo/Continent/Oceania/Fiji/Counties/Fiji~Eastern.private|Fiji~Eastern.private]] 
-- [[../../../../_personal/geo/Continent/Oceania/Fiji/Counties/Fiji~Eastern.personal|Fiji~Eastern.personal]] 
-- [[../../../../_secret/geo/Continent/Oceania/Fiji/Counties/Fiji~Eastern.secret|Fiji~Eastern.secret]] 
+- [[../../../../../../_Standards/geo/Continent/Oceania/Fiji/Counties/Fiji~Eastern|Fiji~Eastern]] 
+- [[../../../../../../_public/geo/Continent/Oceania/Fiji/Counties/Fiji~Eastern.public|Fiji~Eastern.public]] 
+- [[../../../../../../_internal/geo/Continent/Oceania/Fiji/Counties/Fiji~Eastern.internal|Fiji~Eastern.internal]] 
+- [[../../../../../../_protect/geo/Continent/Oceania/Fiji/Counties/Fiji~Eastern.protect|Fiji~Eastern.protect]] 
+- [[../../../../../../_private/geo/Continent/Oceania/Fiji/Counties/Fiji~Eastern.private|Fiji~Eastern.private]] 
+- [[../../../../../../_personal/geo/Continent/Oceania/Fiji/Counties/Fiji~Eastern.personal|Fiji~Eastern.personal]] 
+- [[../../../../../../_secret/geo/Continent/Oceania/Fiji/Counties/Fiji~Eastern.secret|Fiji~Eastern.secret]] 
 

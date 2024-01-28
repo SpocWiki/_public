@@ -1,5 +1,5 @@
-﻿---
-location: [-9.466666,159.8167]
+---
+location: [-9.466666,159.8167] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,27 +12,28 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::159.8167]
-[geo-lat::-9.466666]
-[name::Honiara]
-[State::]
-[Country:[[../../../../../../../_0-New/Solomon~Islands]]ands]]]]
-[StateId::]
-[Population::]
-[Unknown::]
+[geo-lon::159.8167] 
+[geo-lat::-9.466666] 
+[name::Honiara] 
+State ::  
+Country :: [[../_0-New/Solomon~Islands]] 
+[StateId::] 
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Honiara
-coordinates: [[Honiara]]
-markerFile: [[Honiara]]
+coordinates: [[Honiara]] 
+markerFile: [[Honiara]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_public/geo/Continent/Oceania/Solomon~Islands/City/Honiara.md|Honiara]] 
+- [[../../../../../../_Standards/geo/Continent/Oceania/Solomon~Islands/City/Honiara|Honiara]] 
+- [[../../../../../../_public/geo/Continent/Oceania/Solomon~Islands/City/Honiara.public|Honiara.public]] 
 - [[../../../../../../_internal/geo/Continent/Oceania/Solomon~Islands/City/Honiara.internal|Honiara.internal]] 
 - [[../../../../../../_protect/geo/Continent/Oceania/Solomon~Islands/City/Honiara.protect|Honiara.protect]] 
 - [[../../../../../../_private/geo/Continent/Oceania/Solomon~Islands/City/Honiara.private|Honiara.private]] 

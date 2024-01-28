@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 2.8 , 33.7 ] 
 type: geo-Region
 title: Abim
@@ -40,10 +40,11 @@ markerFolder: ./Abim/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Africa/Uganda/Counties/Abim.md|Abim]] 
-- [[../../../../_internal/geo/Continent/Africa/Uganda/Counties/Abim.internal|Abim.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Uganda/Counties/Abim.protect|Abim.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Uganda/Counties/Abim.private|Abim.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Uganda/Counties/Abim.personal|Abim.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Uganda/Counties/Abim.secret|Abim.secret]] 
+- [[../../../../../../_Standards/geo/Continent/Africa/Uganda/Counties/Abim|Abim]] 
+- [[../../../../../../_public/geo/Continent/Africa/Uganda/Counties/Abim.public|Abim.public]] 
+- [[../../../../../../_internal/geo/Continent/Africa/Uganda/Counties/Abim.internal|Abim.internal]] 
+- [[../../../../../../_protect/geo/Continent/Africa/Uganda/Counties/Abim.protect|Abim.protect]] 
+- [[../../../../../../_private/geo/Continent/Africa/Uganda/Counties/Abim.private|Abim.private]] 
+- [[../../../../../../_personal/geo/Continent/Africa/Uganda/Counties/Abim.personal|Abim.personal]] 
+- [[../../../../../../_secret/geo/Continent/Africa/Uganda/Counties/Abim.secret|Abim.secret]] 
 

@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 35.9 , 10.4 ] 
 type: geo-Region
 title: Sousse
@@ -40,10 +40,11 @@ markerFolder: ./Sousse/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Africa/Tunisia/Counties/Sousse.md|Sousse]] 
-- [[../../../../_internal/geo/Continent/Africa/Tunisia/Counties/Sousse.internal|Sousse.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Tunisia/Counties/Sousse.protect|Sousse.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Tunisia/Counties/Sousse.private|Sousse.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Tunisia/Counties/Sousse.personal|Sousse.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Tunisia/Counties/Sousse.secret|Sousse.secret]] 
+- [[../../../../../../_Standards/geo/Continent/Africa/Tunisia/Counties/Sousse|Sousse]] 
+- [[../../../../../../_public/geo/Continent/Africa/Tunisia/Counties/Sousse.public|Sousse.public]] 
+- [[../../../../../../_internal/geo/Continent/Africa/Tunisia/Counties/Sousse.internal|Sousse.internal]] 
+- [[../../../../../../_protect/geo/Continent/Africa/Tunisia/Counties/Sousse.protect|Sousse.protect]] 
+- [[../../../../../../_private/geo/Continent/Africa/Tunisia/Counties/Sousse.private|Sousse.private]] 
+- [[../../../../../../_personal/geo/Continent/Africa/Tunisia/Counties/Sousse.personal|Sousse.personal]] 
+- [[../../../../../../_secret/geo/Continent/Africa/Tunisia/Counties/Sousse.secret|Sousse.secret]] 
 

@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ -20.4 , -67.1 ] 
 type: geo-Region
 title: Potosí
@@ -40,10 +40,11 @@ markerFolder: ./Potosí/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/America~South/Bolivia/Counties/Potosí.md|Potosí]] 
-- [[../../../../_internal/geo/Continent/America~South/Bolivia/Counties/Potosí.internal|Potosí.internal]] 
-- [[../../../../_protect/geo/Continent/America~South/Bolivia/Counties/Potosí.protect|Potosí.protect]] 
-- [[../../../../_private/geo/Continent/America~South/Bolivia/Counties/Potosí.private|Potosí.private]] 
-- [[../../../../_personal/geo/Continent/America~South/Bolivia/Counties/Potosí.personal|Potosí.personal]] 
-- [[../../../../_secret/geo/Continent/America~South/Bolivia/Counties/Potosí.secret|Potosí.secret]] 
+- [[../../../../../../_Standards/geo/Continent/America~South/Bolivia/Counties/Potosí|Potosí]] 
+- [[../../../../../../_public/geo/Continent/America~South/Bolivia/Counties/Potosí.public|Potosí.public]] 
+- [[../../../../../../_internal/geo/Continent/America~South/Bolivia/Counties/Potosí.internal|Potosí.internal]] 
+- [[../../../../../../_protect/geo/Continent/America~South/Bolivia/Counties/Potosí.protect|Potosí.protect]] 
+- [[../../../../../../_private/geo/Continent/America~South/Bolivia/Counties/Potosí.private|Potosí.private]] 
+- [[../../../../../../_personal/geo/Continent/America~South/Bolivia/Counties/Potosí.personal|Potosí.personal]] 
+- [[../../../../../../_secret/geo/Continent/America~South/Bolivia/Counties/Potosí.secret|Potosí.secret]] 
 

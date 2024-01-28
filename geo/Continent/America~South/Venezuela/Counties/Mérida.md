@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 8.5 , -71.4 ] 
 type: geo-Region
 title: Mérida
@@ -40,10 +40,11 @@ markerFolder: ./Mérida/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/America~South/Venezuela/Counties/Mérida.md|Mérida]] 
-- [[../../../../_internal/geo/Continent/America~South/Venezuela/Counties/Mérida.internal|Mérida.internal]] 
-- [[../../../../_protect/geo/Continent/America~South/Venezuela/Counties/Mérida.protect|Mérida.protect]] 
-- [[../../../../_private/geo/Continent/America~South/Venezuela/Counties/Mérida.private|Mérida.private]] 
-- [[../../../../_personal/geo/Continent/America~South/Venezuela/Counties/Mérida.personal|Mérida.personal]] 
-- [[../../../../_secret/geo/Continent/America~South/Venezuela/Counties/Mérida.secret|Mérida.secret]] 
+- [[../../../../../../_Standards/geo/Continent/America~South/Venezuela/Counties/Mérida|Mérida]] 
+- [[../../../../../../_public/geo/Continent/America~South/Venezuela/Counties/Mérida.public|Mérida.public]] 
+- [[../../../../../../_internal/geo/Continent/America~South/Venezuela/Counties/Mérida.internal|Mérida.internal]] 
+- [[../../../../../../_protect/geo/Continent/America~South/Venezuela/Counties/Mérida.protect|Mérida.protect]] 
+- [[../../../../../../_private/geo/Continent/America~South/Venezuela/Counties/Mérida.private|Mérida.private]] 
+- [[../../../../../../_personal/geo/Continent/America~South/Venezuela/Counties/Mérida.personal|Mérida.personal]] 
+- [[../../../../../../_secret/geo/Continent/America~South/Venezuela/Counties/Mérida.secret|Mérida.secret]] 
 

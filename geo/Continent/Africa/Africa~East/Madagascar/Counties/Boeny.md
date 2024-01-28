@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ -16.2 , 46.1 ] 
 type: geo-Region
 title: Boeny
@@ -40,10 +40,11 @@ markerFolder: ./Boeny/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Africa/Madagascar/Counties/Boeny.md|Boeny]] 
-- [[../../../../_internal/geo/Continent/Africa/Madagascar/Counties/Boeny.internal|Boeny.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Madagascar/Counties/Boeny.protect|Boeny.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Madagascar/Counties/Boeny.private|Boeny.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Madagascar/Counties/Boeny.personal|Boeny.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Madagascar/Counties/Boeny.secret|Boeny.secret]] 
+- [[../../../../../../_Standards/geo/Continent/Africa/Madagascar/Counties/Boeny|Boeny]] 
+- [[../../../../../../_public/geo/Continent/Africa/Madagascar/Counties/Boeny.public|Boeny.public]] 
+- [[../../../../../../_internal/geo/Continent/Africa/Madagascar/Counties/Boeny.internal|Boeny.internal]] 
+- [[../../../../../../_protect/geo/Continent/Africa/Madagascar/Counties/Boeny.protect|Boeny.protect]] 
+- [[../../../../../../_private/geo/Continent/Africa/Madagascar/Counties/Boeny.private|Boeny.private]] 
+- [[../../../../../../_personal/geo/Continent/Africa/Madagascar/Counties/Boeny.personal|Boeny.personal]] 
+- [[../../../../../../_secret/geo/Continent/Africa/Madagascar/Counties/Boeny.secret|Boeny.secret]] 
 

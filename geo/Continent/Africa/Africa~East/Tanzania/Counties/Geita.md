@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ -3.3 , 31.7 ] 
 type: geo-Region
 title: Geita
@@ -40,10 +40,11 @@ markerFolder: ./Geita/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Africa/Tanzania/Counties/Geita.md|Geita]] 
-- [[../../../../_internal/geo/Continent/Africa/Tanzania/Counties/Geita.internal|Geita.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Tanzania/Counties/Geita.protect|Geita.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Tanzania/Counties/Geita.private|Geita.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Tanzania/Counties/Geita.personal|Geita.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Tanzania/Counties/Geita.secret|Geita.secret]] 
+- [[../../../../../../_Standards/geo/Continent/Africa/Tanzania/Counties/Geita|Geita]] 
+- [[../../../../../../_public/geo/Continent/Africa/Tanzania/Counties/Geita.public|Geita.public]] 
+- [[../../../../../../_internal/geo/Continent/Africa/Tanzania/Counties/Geita.internal|Geita.internal]] 
+- [[../../../../../../_protect/geo/Continent/Africa/Tanzania/Counties/Geita.protect|Geita.protect]] 
+- [[../../../../../../_private/geo/Continent/Africa/Tanzania/Counties/Geita.private|Geita.private]] 
+- [[../../../../../../_personal/geo/Continent/Africa/Tanzania/Counties/Geita.personal|Geita.personal]] 
+- [[../../../../../../_secret/geo/Continent/Africa/Tanzania/Counties/Geita.secret|Geita.secret]] 
 

@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ -53.8 , -68.1 ] 
 type: geo-Region
 title: Tierra_del_Fuego
@@ -40,10 +40,11 @@ markerFolder: ./Tierra_del_Fuego/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/America~South/Argentina/Counties/Tierra_del_Fuego.md|Tierra_del_Fuego]] 
-- [[../../../../_internal/geo/Continent/America~South/Argentina/Counties/Tierra_del_Fuego.internal|Tierra_del_Fuego.internal]] 
-- [[../../../../_protect/geo/Continent/America~South/Argentina/Counties/Tierra_del_Fuego.protect|Tierra_del_Fuego.protect]] 
-- [[../../../../_private/geo/Continent/America~South/Argentina/Counties/Tierra_del_Fuego.private|Tierra_del_Fuego.private]] 
-- [[../../../../_personal/geo/Continent/America~South/Argentina/Counties/Tierra_del_Fuego.personal|Tierra_del_Fuego.personal]] 
-- [[../../../../_secret/geo/Continent/America~South/Argentina/Counties/Tierra_del_Fuego.secret|Tierra_del_Fuego.secret]] 
+- [[../../../../../../_Standards/geo/Continent/America~South/Argentina/Counties/Tierra_del_Fuego|Tierra_del_Fuego]] 
+- [[../../../../../../_public/geo/Continent/America~South/Argentina/Counties/Tierra_del_Fuego.public|Tierra_del_Fuego.public]] 
+- [[../../../../../../_internal/geo/Continent/America~South/Argentina/Counties/Tierra_del_Fuego.internal|Tierra_del_Fuego.internal]] 
+- [[../../../../../../_protect/geo/Continent/America~South/Argentina/Counties/Tierra_del_Fuego.protect|Tierra_del_Fuego.protect]] 
+- [[../../../../../../_private/geo/Continent/America~South/Argentina/Counties/Tierra_del_Fuego.private|Tierra_del_Fuego.private]] 
+- [[../../../../../../_personal/geo/Continent/America~South/Argentina/Counties/Tierra_del_Fuego.personal|Tierra_del_Fuego.personal]] 
+- [[../../../../../../_secret/geo/Continent/America~South/Argentina/Counties/Tierra_del_Fuego.secret|Tierra_del_Fuego.secret]] 
 

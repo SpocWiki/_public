@@ -1,5 +1,5 @@
 ﻿---
-location: [36.8,10.18]
+location: [36.8,10.18] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,27 +12,28 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::10.18]
-[geo-lat::36.8]
-[name::Tunis]
-[State::]
-[Country::[[Tunisia]]]
-[StateId::]
-[Population::]
-[Unknown::]
+[geo-lon::10.18] 
+[geo-lat::36.8] 
+[name::Tunis] 
+State ::  
+Country :: [[Tunisia]]  
+[StateId::] 
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Tunis
-coordinates: [[Tunis]]
-markerFile: [[Tunis]]
+coordinates: [[Tunis]] 
+markerFile: [[Tunis]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_public/geo/Continent/Africa/Tunisia/City/Tunis.md|Tunis]] 
+- [[../../../../../../_Standards/geo/Continent/Africa/Tunisia/City/Tunis|Tunis]] 
+- [[../../../../../../_public/geo/Continent/Africa/Tunisia/City/Tunis.public|Tunis.public]] 
 - [[../../../../../../_internal/geo/Continent/Africa/Tunisia/City/Tunis.internal|Tunis.internal]] 
 - [[../../../../../../_protect/geo/Continent/Africa/Tunisia/City/Tunis.protect|Tunis.protect]] 
 - [[../../../../../../_private/geo/Continent/Africa/Tunisia/City/Tunis.private|Tunis.private]] 

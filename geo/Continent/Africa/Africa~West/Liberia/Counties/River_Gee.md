@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 5.2 , -7.9 ] 
 type: geo-Region
 title: River_Gee
@@ -40,10 +40,11 @@ markerFolder: ./River_Gee/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Africa/Liberia/Counties/River_Gee.md|River_Gee]] 
-- [[../../../../_internal/geo/Continent/Africa/Liberia/Counties/River_Gee.internal|River_Gee.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Liberia/Counties/River_Gee.protect|River_Gee.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Liberia/Counties/River_Gee.private|River_Gee.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Liberia/Counties/River_Gee.personal|River_Gee.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Liberia/Counties/River_Gee.secret|River_Gee.secret]] 
+- [[../../../../../../_Standards/geo/Continent/Africa/Liberia/Counties/River_Gee|River_Gee]] 
+- [[../../../../../../_public/geo/Continent/Africa/Liberia/Counties/River_Gee.public|River_Gee.public]] 
+- [[../../../../../../_internal/geo/Continent/Africa/Liberia/Counties/River_Gee.internal|River_Gee.internal]] 
+- [[../../../../../../_protect/geo/Continent/Africa/Liberia/Counties/River_Gee.protect|River_Gee.protect]] 
+- [[../../../../../../_private/geo/Continent/Africa/Liberia/Counties/River_Gee.private|River_Gee.private]] 
+- [[../../../../../../_personal/geo/Continent/Africa/Liberia/Counties/River_Gee.personal|River_Gee.personal]] 
+- [[../../../../../../_secret/geo/Continent/Africa/Liberia/Counties/River_Gee.secret|River_Gee.secret]] 
 

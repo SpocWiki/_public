@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 2.4 , 34.2 ] 
 type: geo-Region
 title: Napak
@@ -40,10 +40,11 @@ markerFolder: ./Napak/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Africa/Uganda/Counties/Napak.md|Napak]] 
-- [[../../../../_internal/geo/Continent/Africa/Uganda/Counties/Napak.internal|Napak.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Uganda/Counties/Napak.protect|Napak.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Uganda/Counties/Napak.private|Napak.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Uganda/Counties/Napak.personal|Napak.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Uganda/Counties/Napak.secret|Napak.secret]] 
+- [[../../../../../../_Standards/geo/Continent/Africa/Uganda/Counties/Napak|Napak]] 
+- [[../../../../../../_public/geo/Continent/Africa/Uganda/Counties/Napak.public|Napak.public]] 
+- [[../../../../../../_internal/geo/Continent/Africa/Uganda/Counties/Napak.internal|Napak.internal]] 
+- [[../../../../../../_protect/geo/Continent/Africa/Uganda/Counties/Napak.protect|Napak.protect]] 
+- [[../../../../../../_private/geo/Continent/Africa/Uganda/Counties/Napak.private|Napak.private]] 
+- [[../../../../../../_personal/geo/Continent/Africa/Uganda/Counties/Napak.personal|Napak.personal]] 
+- [[../../../../../../_secret/geo/Continent/Africa/Uganda/Counties/Napak.secret|Napak.secret]] 
 

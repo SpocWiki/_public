@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 1 , 30.4 ] 
 type: geo-Region
 title: Ntoroko
@@ -40,10 +40,11 @@ markerFolder: ./Ntoroko/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Africa/Uganda/Counties/Ntoroko.md|Ntoroko]] 
-- [[../../../../_internal/geo/Continent/Africa/Uganda/Counties/Ntoroko.internal|Ntoroko.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Uganda/Counties/Ntoroko.protect|Ntoroko.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Uganda/Counties/Ntoroko.private|Ntoroko.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Uganda/Counties/Ntoroko.personal|Ntoroko.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Uganda/Counties/Ntoroko.secret|Ntoroko.secret]] 
+- [[../../../../../../_Standards/geo/Continent/Africa/Uganda/Counties/Ntoroko|Ntoroko]] 
+- [[../../../../../../_public/geo/Continent/Africa/Uganda/Counties/Ntoroko.public|Ntoroko.public]] 
+- [[../../../../../../_internal/geo/Continent/Africa/Uganda/Counties/Ntoroko.internal|Ntoroko.internal]] 
+- [[../../../../../../_protect/geo/Continent/Africa/Uganda/Counties/Ntoroko.protect|Ntoroko.protect]] 
+- [[../../../../../../_private/geo/Continent/Africa/Uganda/Counties/Ntoroko.private|Ntoroko.private]] 
+- [[../../../../../../_personal/geo/Continent/Africa/Uganda/Counties/Ntoroko.personal|Ntoroko.personal]] 
+- [[../../../../../../_secret/geo/Continent/Africa/Uganda/Counties/Ntoroko.secret|Ntoroko.secret]] 
 

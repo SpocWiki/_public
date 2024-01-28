@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ -9.6 , 160.1 ] 
 type: geo-Region
 title: Guadalcanal
@@ -40,10 +40,11 @@ markerFolder: ./Guadalcanal/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Oceania/Solomon~Islands/Counties/Guadalcanal.md|Guadalcanal]] 
-- [[../../../../_internal/geo/Continent/Oceania/Solomon~Islands/Counties/Guadalcanal.internal|Guadalcanal.internal]] 
-- [[../../../../_protect/geo/Continent/Oceania/Solomon~Islands/Counties/Guadalcanal.protect|Guadalcanal.protect]] 
-- [[../../../../_private/geo/Continent/Oceania/Solomon~Islands/Counties/Guadalcanal.private|Guadalcanal.private]] 
-- [[../../../../_personal/geo/Continent/Oceania/Solomon~Islands/Counties/Guadalcanal.personal|Guadalcanal.personal]] 
-- [[../../../../_secret/geo/Continent/Oceania/Solomon~Islands/Counties/Guadalcanal.secret|Guadalcanal.secret]] 
+- [[../../../../../../_Standards/geo/Continent/Oceania/Solomon~Islands/Counties/Guadalcanal|Guadalcanal]] 
+- [[../../../../../../_public/geo/Continent/Oceania/Solomon~Islands/Counties/Guadalcanal.public|Guadalcanal.public]] 
+- [[../../../../../../_internal/geo/Continent/Oceania/Solomon~Islands/Counties/Guadalcanal.internal|Guadalcanal.internal]] 
+- [[../../../../../../_protect/geo/Continent/Oceania/Solomon~Islands/Counties/Guadalcanal.protect|Guadalcanal.protect]] 
+- [[../../../../../../_private/geo/Continent/Oceania/Solomon~Islands/Counties/Guadalcanal.private|Guadalcanal.private]] 
+- [[../../../../../../_personal/geo/Continent/Oceania/Solomon~Islands/Counties/Guadalcanal.personal|Guadalcanal.personal]] 
+- [[../../../../../../_secret/geo/Continent/Oceania/Solomon~Islands/Counties/Guadalcanal.secret|Guadalcanal.secret]] 
 

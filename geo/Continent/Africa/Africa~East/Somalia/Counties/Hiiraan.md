@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 4.3 , 45.5 ] 
 type: geo-Region
 title: Hiiraan
@@ -40,10 +40,11 @@ markerFolder: ./Hiiraan/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Africa/Somalia/Counties/Hiiraan.md|Hiiraan]] 
-- [[../../../../_internal/geo/Continent/Africa/Somalia/Counties/Hiiraan.internal|Hiiraan.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Somalia/Counties/Hiiraan.protect|Hiiraan.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Somalia/Counties/Hiiraan.private|Hiiraan.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Somalia/Counties/Hiiraan.personal|Hiiraan.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Somalia/Counties/Hiiraan.secret|Hiiraan.secret]] 
+- [[../../../../../../_Standards/geo/Continent/Africa/Somalia/Counties/Hiiraan|Hiiraan]] 
+- [[../../../../../../_public/geo/Continent/Africa/Somalia/Counties/Hiiraan.public|Hiiraan.public]] 
+- [[../../../../../../_internal/geo/Continent/Africa/Somalia/Counties/Hiiraan.internal|Hiiraan.internal]] 
+- [[../../../../../../_protect/geo/Continent/Africa/Somalia/Counties/Hiiraan.protect|Hiiraan.protect]] 
+- [[../../../../../../_private/geo/Continent/Africa/Somalia/Counties/Hiiraan.private|Hiiraan.private]] 
+- [[../../../../../../_personal/geo/Continent/Africa/Somalia/Counties/Hiiraan.personal|Hiiraan.personal]] 
+- [[../../../../../../_secret/geo/Continent/Africa/Somalia/Counties/Hiiraan.secret|Hiiraan.secret]] 
 

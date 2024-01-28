@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 17.39 , -62.84 ] 
 type: geo-Region
 title: Saint_Paul_Capesterre
@@ -40,10 +40,11 @@ markerFolder: ./Saint_Paul_Capesterre/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/America~Caribbean/Saint_Kitts_and_Nevis~Islands/Counties/Saint_Paul_Capesterre.md|Saint_Paul_Capesterre]] 
-- [[../../../../_internal/geo/Continent/America~Caribbean/Saint_Kitts_and_Nevis~Islands/Counties/Saint_Paul_Capesterre.internal|Saint_Paul_Capesterre.internal]] 
-- [[../../../../_protect/geo/Continent/America~Caribbean/Saint_Kitts_and_Nevis~Islands/Counties/Saint_Paul_Capesterre.protect|Saint_Paul_Capesterre.protect]] 
-- [[../../../../_private/geo/Continent/America~Caribbean/Saint_Kitts_and_Nevis~Islands/Counties/Saint_Paul_Capesterre.private|Saint_Paul_Capesterre.private]] 
-- [[../../../../_personal/geo/Continent/America~Caribbean/Saint_Kitts_and_Nevis~Islands/Counties/Saint_Paul_Capesterre.personal|Saint_Paul_Capesterre.personal]] 
-- [[../../../../_secret/geo/Continent/America~Caribbean/Saint_Kitts_and_Nevis~Islands/Counties/Saint_Paul_Capesterre.secret|Saint_Paul_Capesterre.secret]] 
+- [[../../../../../../_Standards/geo/Continent/America~Caribbean/Saint_Kitts_and_Nevis~Islands/Counties/Saint_Paul_Capesterre|Saint_Paul_Capesterre]] 
+- [[../../../../../../_public/geo/Continent/America~Caribbean/Saint_Kitts_and_Nevis~Islands/Counties/Saint_Paul_Capesterre.public|Saint_Paul_Capesterre.public]] 
+- [[../../../../../../_internal/geo/Continent/America~Caribbean/Saint_Kitts_and_Nevis~Islands/Counties/Saint_Paul_Capesterre.internal|Saint_Paul_Capesterre.internal]] 
+- [[../../../../../../_protect/geo/Continent/America~Caribbean/Saint_Kitts_and_Nevis~Islands/Counties/Saint_Paul_Capesterre.protect|Saint_Paul_Capesterre.protect]] 
+- [[../../../../../../_private/geo/Continent/America~Caribbean/Saint_Kitts_and_Nevis~Islands/Counties/Saint_Paul_Capesterre.private|Saint_Paul_Capesterre.private]] 
+- [[../../../../../../_personal/geo/Continent/America~Caribbean/Saint_Kitts_and_Nevis~Islands/Counties/Saint_Paul_Capesterre.personal|Saint_Paul_Capesterre.personal]] 
+- [[../../../../../../_secret/geo/Continent/America~Caribbean/Saint_Kitts_and_Nevis~Islands/Counties/Saint_Paul_Capesterre.secret|Saint_Paul_Capesterre.secret]] 
 

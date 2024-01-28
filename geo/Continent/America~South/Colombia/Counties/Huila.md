@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 2.7 , -75.4 ] 
 type: geo-Region
 title: Huila
@@ -40,10 +40,11 @@ markerFolder: ./Huila/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/America~South/Colombia/Counties/Huila.md|Huila]] 
-- [[../../../../_internal/geo/Continent/America~South/Colombia/Counties/Huila.internal|Huila.internal]] 
-- [[../../../../_protect/geo/Continent/America~South/Colombia/Counties/Huila.protect|Huila.protect]] 
-- [[../../../../_private/geo/Continent/America~South/Colombia/Counties/Huila.private|Huila.private]] 
-- [[../../../../_personal/geo/Continent/America~South/Colombia/Counties/Huila.personal|Huila.personal]] 
-- [[../../../../_secret/geo/Continent/America~South/Colombia/Counties/Huila.secret|Huila.secret]] 
+- [[../../../../../../_Standards/geo/Continent/America~South/Colombia/Counties/Huila|Huila]] 
+- [[../../../../../../_public/geo/Continent/America~South/Colombia/Counties/Huila.public|Huila.public]] 
+- [[../../../../../../_internal/geo/Continent/America~South/Colombia/Counties/Huila.internal|Huila.internal]] 
+- [[../../../../../../_protect/geo/Continent/America~South/Colombia/Counties/Huila.protect|Huila.protect]] 
+- [[../../../../../../_private/geo/Continent/America~South/Colombia/Counties/Huila.private|Huila.private]] 
+- [[../../../../../../_personal/geo/Continent/America~South/Colombia/Counties/Huila.personal|Huila.personal]] 
+- [[../../../../../../_secret/geo/Continent/America~South/Colombia/Counties/Huila.secret|Huila.secret]] 
 

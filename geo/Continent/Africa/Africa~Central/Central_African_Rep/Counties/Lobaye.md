@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 4.3 , 17.5 ] 
 type: geo-Region
 title: Lobaye
@@ -40,10 +40,11 @@ markerFolder: ./Lobaye/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Africa/Central_African_Rep/Counties/Lobaye.md|Lobaye]] 
-- [[../../../../_internal/geo/Continent/Africa/Central_African_Rep/Counties/Lobaye.internal|Lobaye.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Central_African_Rep/Counties/Lobaye.protect|Lobaye.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Central_African_Rep/Counties/Lobaye.private|Lobaye.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Central_African_Rep/Counties/Lobaye.personal|Lobaye.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Central_African_Rep/Counties/Lobaye.secret|Lobaye.secret]] 
+- [[../../../../../../_Standards/geo/Continent/Africa/Central_African_Rep/Counties/Lobaye|Lobaye]] 
+- [[../../../../../../_public/geo/Continent/Africa/Central_African_Rep/Counties/Lobaye.public|Lobaye.public]] 
+- [[../../../../../../_internal/geo/Continent/Africa/Central_African_Rep/Counties/Lobaye.internal|Lobaye.internal]] 
+- [[../../../../../../_protect/geo/Continent/Africa/Central_African_Rep/Counties/Lobaye.protect|Lobaye.protect]] 
+- [[../../../../../../_private/geo/Continent/Africa/Central_African_Rep/Counties/Lobaye.private|Lobaye.private]] 
+- [[../../../../../../_personal/geo/Continent/Africa/Central_African_Rep/Counties/Lobaye.personal|Lobaye.personal]] 
+- [[../../../../../../_secret/geo/Continent/Africa/Central_African_Rep/Counties/Lobaye.secret|Lobaye.secret]] 
 

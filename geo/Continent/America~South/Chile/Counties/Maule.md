@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ -35.6 , -71.5 ] 
 type: geo-Region
 title: Maule
@@ -40,10 +40,11 @@ markerFolder: ./Maule/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/America~South/Chile/Counties/Maule.md|Maule]] 
-- [[../../../../_internal/geo/Continent/America~South/Chile/Counties/Maule.internal|Maule.internal]] 
-- [[../../../../_protect/geo/Continent/America~South/Chile/Counties/Maule.protect|Maule.protect]] 
-- [[../../../../_private/geo/Continent/America~South/Chile/Counties/Maule.private|Maule.private]] 
-- [[../../../../_personal/geo/Continent/America~South/Chile/Counties/Maule.personal|Maule.personal]] 
-- [[../../../../_secret/geo/Continent/America~South/Chile/Counties/Maule.secret|Maule.secret]] 
+- [[../../../../../../_Standards/geo/Continent/America~South/Chile/Counties/Maule|Maule]] 
+- [[../../../../../../_public/geo/Continent/America~South/Chile/Counties/Maule.public|Maule.public]] 
+- [[../../../../../../_internal/geo/Continent/America~South/Chile/Counties/Maule.internal|Maule.internal]] 
+- [[../../../../../../_protect/geo/Continent/America~South/Chile/Counties/Maule.protect|Maule.protect]] 
+- [[../../../../../../_private/geo/Continent/America~South/Chile/Counties/Maule.private|Maule.private]] 
+- [[../../../../../../_personal/geo/Continent/America~South/Chile/Counties/Maule.personal|Maule.personal]] 
+- [[../../../../../../_secret/geo/Continent/America~South/Chile/Counties/Maule.secret|Maule.secret]] 
 

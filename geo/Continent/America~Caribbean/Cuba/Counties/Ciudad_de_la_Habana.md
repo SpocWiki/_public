@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 23.1 , -82.4 ] 
 type: geo-Region
 title: Ciudad_de_la_Habana
@@ -40,10 +40,11 @@ markerFolder: ./Ciudad_de_la_Habana/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/America~Caribbean/Cuba/Counties/Ciudad_de_la_Habana.md|Ciudad_de_la_Habana]] 
-- [[../../../../_internal/geo/Continent/America~Caribbean/Cuba/Counties/Ciudad_de_la_Habana.internal|Ciudad_de_la_Habana.internal]] 
-- [[../../../../_protect/geo/Continent/America~Caribbean/Cuba/Counties/Ciudad_de_la_Habana.protect|Ciudad_de_la_Habana.protect]] 
-- [[../../../../_private/geo/Continent/America~Caribbean/Cuba/Counties/Ciudad_de_la_Habana.private|Ciudad_de_la_Habana.private]] 
-- [[../../../../_personal/geo/Continent/America~Caribbean/Cuba/Counties/Ciudad_de_la_Habana.personal|Ciudad_de_la_Habana.personal]] 
-- [[../../../../_secret/geo/Continent/America~Caribbean/Cuba/Counties/Ciudad_de_la_Habana.secret|Ciudad_de_la_Habana.secret]] 
+- [[../../../../../../_Standards/geo/Continent/America~Caribbean/Cuba/Counties/Ciudad_de_la_Habana|Ciudad_de_la_Habana]] 
+- [[../../../../../../_public/geo/Continent/America~Caribbean/Cuba/Counties/Ciudad_de_la_Habana.public|Ciudad_de_la_Habana.public]] 
+- [[../../../../../../_internal/geo/Continent/America~Caribbean/Cuba/Counties/Ciudad_de_la_Habana.internal|Ciudad_de_la_Habana.internal]] 
+- [[../../../../../../_protect/geo/Continent/America~Caribbean/Cuba/Counties/Ciudad_de_la_Habana.protect|Ciudad_de_la_Habana.protect]] 
+- [[../../../../../../_private/geo/Continent/America~Caribbean/Cuba/Counties/Ciudad_de_la_Habana.private|Ciudad_de_la_Habana.private]] 
+- [[../../../../../../_personal/geo/Continent/America~Caribbean/Cuba/Counties/Ciudad_de_la_Habana.personal|Ciudad_de_la_Habana.personal]] 
+- [[../../../../../../_secret/geo/Continent/America~Caribbean/Cuba/Counties/Ciudad_de_la_Habana.secret|Ciudad_de_la_Habana.secret]] 
 

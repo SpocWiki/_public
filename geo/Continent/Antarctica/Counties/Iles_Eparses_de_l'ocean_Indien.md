@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ -22.34 , 40.34 ] 
 type: geo-Region
 title: Iles_Eparses_de_l'ocean_Indien
@@ -40,10 +40,11 @@ markerFolder: ./Iles_Eparses_de_l'ocean_Indien/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Antarctica/Counties/Iles_Eparses_de_l'ocean_Indien.md|Iles_Eparses_de_l'ocean_Indien]] 
-- [[../../../../_internal/geo/Continent/Antarctica/Counties/Iles_Eparses_de_l'ocean_Indien.internal|Iles_Eparses_de_l'ocean_Indien.internal]] 
-- [[../../../../_protect/geo/Continent/Antarctica/Counties/Iles_Eparses_de_l'ocean_Indien.protect|Iles_Eparses_de_l'ocean_Indien.protect]] 
-- [[../../../../_private/geo/Continent/Antarctica/Counties/Iles_Eparses_de_l'ocean_Indien.private|Iles_Eparses_de_l'ocean_Indien.private]] 
-- [[../../../../_personal/geo/Continent/Antarctica/Counties/Iles_Eparses_de_l'ocean_Indien.personal|Iles_Eparses_de_l'ocean_Indien.personal]] 
-- [[../../../../_secret/geo/Continent/Antarctica/Counties/Iles_Eparses_de_l'ocean_Indien.secret|Iles_Eparses_de_l'ocean_Indien.secret]] 
+- [[../../../../../_Standards/geo/Continent/Antarctica/Counties/Iles_Eparses_de_l'ocean_Indien|Iles_Eparses_de_l'ocean_Indien]] 
+- [[../../../../../_public/geo/Continent/Antarctica/Counties/Iles_Eparses_de_l'ocean_Indien.public|Iles_Eparses_de_l'ocean_Indien.public]] 
+- [[../../../../../_internal/geo/Continent/Antarctica/Counties/Iles_Eparses_de_l'ocean_Indien.internal|Iles_Eparses_de_l'ocean_Indien.internal]] 
+- [[../../../../../_protect/geo/Continent/Antarctica/Counties/Iles_Eparses_de_l'ocean_Indien.protect|Iles_Eparses_de_l'ocean_Indien.protect]] 
+- [[../../../../../_private/geo/Continent/Antarctica/Counties/Iles_Eparses_de_l'ocean_Indien.private|Iles_Eparses_de_l'ocean_Indien.private]] 
+- [[../../../../../_personal/geo/Continent/Antarctica/Counties/Iles_Eparses_de_l'ocean_Indien.personal|Iles_Eparses_de_l'ocean_Indien.personal]] 
+- [[../../../../../_secret/geo/Continent/Antarctica/Counties/Iles_Eparses_de_l'ocean_Indien.secret|Iles_Eparses_de_l'ocean_Indien.secret]] 
 

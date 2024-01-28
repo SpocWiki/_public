@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ -15.3 , 29.3 ] 
 type: geo-Region
 title: Lusaka
@@ -40,10 +40,11 @@ markerFolder: ./Lusaka/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Africa/Zambia/Counties/Lusaka.md|Lusaka]] 
-- [[../../../../_internal/geo/Continent/Africa/Zambia/Counties/Lusaka.internal|Lusaka.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Zambia/Counties/Lusaka.protect|Lusaka.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Zambia/Counties/Lusaka.private|Lusaka.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Zambia/Counties/Lusaka.personal|Lusaka.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Zambia/Counties/Lusaka.secret|Lusaka.secret]] 
+- [[../../../../../../_Standards/geo/Continent/Africa/Zambia/Counties/Lusaka|Lusaka]] 
+- [[../../../../../../_public/geo/Continent/Africa/Zambia/Counties/Lusaka.public|Lusaka.public]] 
+- [[../../../../../../_internal/geo/Continent/Africa/Zambia/Counties/Lusaka.internal|Lusaka.internal]] 
+- [[../../../../../../_protect/geo/Continent/Africa/Zambia/Counties/Lusaka.protect|Lusaka.protect]] 
+- [[../../../../../../_private/geo/Continent/Africa/Zambia/Counties/Lusaka.private|Lusaka.private]] 
+- [[../../../../../../_personal/geo/Continent/Africa/Zambia/Counties/Lusaka.personal|Lusaka.personal]] 
+- [[../../../../../../_secret/geo/Continent/Africa/Zambia/Counties/Lusaka.secret|Lusaka.secret]] 
 

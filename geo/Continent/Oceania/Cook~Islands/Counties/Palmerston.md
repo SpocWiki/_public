@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ -18.86 , 200.21 ] 
 type: geo-Region
 title: Palmerston
@@ -40,10 +40,11 @@ markerFolder: ./Palmerston/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Oceania/Cook~Islands/Counties/Palmerston.md|Palmerston]] 
-- [[../../../../_internal/geo/Continent/Oceania/Cook~Islands/Counties/Palmerston.internal|Palmerston.internal]] 
-- [[../../../../_protect/geo/Continent/Oceania/Cook~Islands/Counties/Palmerston.protect|Palmerston.protect]] 
-- [[../../../../_private/geo/Continent/Oceania/Cook~Islands/Counties/Palmerston.private|Palmerston.private]] 
-- [[../../../../_personal/geo/Continent/Oceania/Cook~Islands/Counties/Palmerston.personal|Palmerston.personal]] 
-- [[../../../../_secret/geo/Continent/Oceania/Cook~Islands/Counties/Palmerston.secret|Palmerston.secret]] 
+- [[../../../../../../_Standards/geo/Continent/Oceania/Cook~Islands/Counties/Palmerston|Palmerston]] 
+- [[../../../../../../_public/geo/Continent/Oceania/Cook~Islands/Counties/Palmerston.public|Palmerston.public]] 
+- [[../../../../../../_internal/geo/Continent/Oceania/Cook~Islands/Counties/Palmerston.internal|Palmerston.internal]] 
+- [[../../../../../../_protect/geo/Continent/Oceania/Cook~Islands/Counties/Palmerston.protect|Palmerston.protect]] 
+- [[../../../../../../_private/geo/Continent/Oceania/Cook~Islands/Counties/Palmerston.private|Palmerston.private]] 
+- [[../../../../../../_personal/geo/Continent/Oceania/Cook~Islands/Counties/Palmerston.personal|Palmerston.personal]] 
+- [[../../../../../../_secret/geo/Continent/Oceania/Cook~Islands/Counties/Palmerston.secret|Palmerston.secret]] 
 

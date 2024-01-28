@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 28.8 , 33.9 ] 
 type: geo-Region
 title: Janub_Sina'
@@ -40,10 +40,11 @@ markerFolder: ./Janub_Sina'/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Africa/Egypt/Counties/Janub_Sina'.md|Janub_Sina']] 
-- [[../../../../_internal/geo/Continent/Africa/Egypt/Counties/Janub_Sina'.internal|Janub_Sina'.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Egypt/Counties/Janub_Sina'.protect|Janub_Sina'.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Egypt/Counties/Janub_Sina'.private|Janub_Sina'.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Egypt/Counties/Janub_Sina'.personal|Janub_Sina'.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Egypt/Counties/Janub_Sina'.secret|Janub_Sina'.secret]] 
+- [[../../../../../../_Standards/geo/Continent/Africa/Egypt/Counties/Janub_Sina'|Janub_Sina']] 
+- [[../../../../../../_public/geo/Continent/Africa/Egypt/Counties/Janub_Sina'.public|Janub_Sina'.public]] 
+- [[../../../../../../_internal/geo/Continent/Africa/Egypt/Counties/Janub_Sina'.internal|Janub_Sina'.internal]] 
+- [[../../../../../../_protect/geo/Continent/Africa/Egypt/Counties/Janub_Sina'.protect|Janub_Sina'.protect]] 
+- [[../../../../../../_private/geo/Continent/Africa/Egypt/Counties/Janub_Sina'.private|Janub_Sina'.private]] 
+- [[../../../../../../_personal/geo/Continent/Africa/Egypt/Counties/Janub_Sina'.personal|Janub_Sina'.personal]] 
+- [[../../../../../../_secret/geo/Continent/Africa/Egypt/Counties/Janub_Sina'.secret|Janub_Sina'.secret]] 
 

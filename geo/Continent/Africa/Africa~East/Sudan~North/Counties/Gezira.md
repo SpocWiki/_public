@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 14.5 , 33.3 ] 
 type: geo-Region
 title: Gezira
@@ -40,10 +40,11 @@ markerFolder: ./Gezira/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Africa/Sudan/Counties/Gezira.md|Gezira]] 
-- [[../../../../_internal/geo/Continent/Africa/Sudan/Counties/Gezira.internal|Gezira.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Sudan/Counties/Gezira.protect|Gezira.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Sudan/Counties/Gezira.private|Gezira.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Sudan/Counties/Gezira.personal|Gezira.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Sudan/Counties/Gezira.secret|Gezira.secret]] 
+- [[../../../../../../_Standards/geo/Continent/Africa/Sudan/Counties/Gezira|Gezira]] 
+- [[../../../../../../_public/geo/Continent/Africa/Sudan/Counties/Gezira.public|Gezira.public]] 
+- [[../../../../../../_internal/geo/Continent/Africa/Sudan/Counties/Gezira.internal|Gezira.internal]] 
+- [[../../../../../../_protect/geo/Continent/Africa/Sudan/Counties/Gezira.protect|Gezira.protect]] 
+- [[../../../../../../_private/geo/Continent/Africa/Sudan/Counties/Gezira.private|Gezira.private]] 
+- [[../../../../../../_personal/geo/Continent/Africa/Sudan/Counties/Gezira.personal|Gezira.personal]] 
+- [[../../../../../../_secret/geo/Continent/Africa/Sudan/Counties/Gezira.secret|Gezira.secret]] 
 

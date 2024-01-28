@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ -0.6 , 32.4 ] 
 type: geo-Region
 title: Kalangala
@@ -40,10 +40,11 @@ markerFolder: ./Kalangala/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Africa/Uganda/Counties/Kalangala.md|Kalangala]] 
-- [[../../../../_internal/geo/Continent/Africa/Uganda/Counties/Kalangala.internal|Kalangala.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Uganda/Counties/Kalangala.protect|Kalangala.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Uganda/Counties/Kalangala.private|Kalangala.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Uganda/Counties/Kalangala.personal|Kalangala.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Uganda/Counties/Kalangala.secret|Kalangala.secret]] 
+- [[../../../../../../_Standards/geo/Continent/Africa/Uganda/Counties/Kalangala|Kalangala]] 
+- [[../../../../../../_public/geo/Continent/Africa/Uganda/Counties/Kalangala.public|Kalangala.public]] 
+- [[../../../../../../_internal/geo/Continent/Africa/Uganda/Counties/Kalangala.internal|Kalangala.internal]] 
+- [[../../../../../../_protect/geo/Continent/Africa/Uganda/Counties/Kalangala.protect|Kalangala.protect]] 
+- [[../../../../../../_private/geo/Continent/Africa/Uganda/Counties/Kalangala.private|Kalangala.private]] 
+- [[../../../../../../_personal/geo/Continent/Africa/Uganda/Counties/Kalangala.personal|Kalangala.personal]] 
+- [[../../../../../../_secret/geo/Continent/Africa/Uganda/Counties/Kalangala.secret|Kalangala.secret]] 
 

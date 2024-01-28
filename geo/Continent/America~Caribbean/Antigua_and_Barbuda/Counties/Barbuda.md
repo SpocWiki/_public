@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 17.6 , -61.8 ] 
 type: geo-Region
 title: Barbuda
@@ -40,10 +40,11 @@ markerFolder: ./Barbuda/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/America~Caribbean/Antigua_and_Barbuda/Counties/Barbuda.md|Barbuda]] 
-- [[../../../../_internal/geo/Continent/America~Caribbean/Antigua_and_Barbuda/Counties/Barbuda.internal|Barbuda.internal]] 
-- [[../../../../_protect/geo/Continent/America~Caribbean/Antigua_and_Barbuda/Counties/Barbuda.protect|Barbuda.protect]] 
-- [[../../../../_private/geo/Continent/America~Caribbean/Antigua_and_Barbuda/Counties/Barbuda.private|Barbuda.private]] 
-- [[../../../../_personal/geo/Continent/America~Caribbean/Antigua_and_Barbuda/Counties/Barbuda.personal|Barbuda.personal]] 
-- [[../../../../_secret/geo/Continent/America~Caribbean/Antigua_and_Barbuda/Counties/Barbuda.secret|Barbuda.secret]] 
+- [[../../../../../../_Standards/geo/Continent/America~Caribbean/Antigua_and_Barbuda/Counties/Barbuda|Barbuda]] 
+- [[../../../../../../_public/geo/Continent/America~Caribbean/Antigua_and_Barbuda/Counties/Barbuda.public|Barbuda.public]] 
+- [[../../../../../../_internal/geo/Continent/America~Caribbean/Antigua_and_Barbuda/Counties/Barbuda.internal|Barbuda.internal]] 
+- [[../../../../../../_protect/geo/Continent/America~Caribbean/Antigua_and_Barbuda/Counties/Barbuda.protect|Barbuda.protect]] 
+- [[../../../../../../_private/geo/Continent/America~Caribbean/Antigua_and_Barbuda/Counties/Barbuda.private|Barbuda.private]] 
+- [[../../../../../../_personal/geo/Continent/America~Caribbean/Antigua_and_Barbuda/Counties/Barbuda.personal|Barbuda.personal]] 
+- [[../../../../../../_secret/geo/Continent/America~Caribbean/Antigua_and_Barbuda/Counties/Barbuda.secret|Barbuda.secret]] 
 

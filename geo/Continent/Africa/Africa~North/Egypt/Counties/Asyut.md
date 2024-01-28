@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 27.2 , 31.1 ] 
 type: geo-Region
 title: Asyut
@@ -40,10 +40,11 @@ markerFolder: ./Asyut/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Africa/Egypt/Counties/Asyut.md|Asyut]] 
-- [[../../../../_internal/geo/Continent/Africa/Egypt/Counties/Asyut.internal|Asyut.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Egypt/Counties/Asyut.protect|Asyut.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Egypt/Counties/Asyut.private|Asyut.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Egypt/Counties/Asyut.personal|Asyut.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Egypt/Counties/Asyut.secret|Asyut.secret]] 
+- [[../../../../../../_Standards/geo/Continent/Africa/Egypt/Counties/Asyut|Asyut]] 
+- [[../../../../../../_public/geo/Continent/Africa/Egypt/Counties/Asyut.public|Asyut.public]] 
+- [[../../../../../../_internal/geo/Continent/Africa/Egypt/Counties/Asyut.internal|Asyut.internal]] 
+- [[../../../../../../_protect/geo/Continent/Africa/Egypt/Counties/Asyut.protect|Asyut.protect]] 
+- [[../../../../../../_private/geo/Continent/Africa/Egypt/Counties/Asyut.private|Asyut.private]] 
+- [[../../../../../../_personal/geo/Continent/Africa/Egypt/Counties/Asyut.personal|Asyut.personal]] 
+- [[../../../../../../_secret/geo/Continent/Africa/Egypt/Counties/Asyut.secret|Asyut.secret]] 
 

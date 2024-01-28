@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ -45.5 , 168.2 ] 
 type: geo-Region
 title: Southland
@@ -40,10 +40,11 @@ markerFolder: ./Southland/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Australia/New_Zealand/Counties/Southland.md|Southland]] 
-- [[../../../../_internal/geo/Continent/Australia/New_Zealand/Counties/Southland.internal|Southland.internal]] 
-- [[../../../../_protect/geo/Continent/Australia/New_Zealand/Counties/Southland.protect|Southland.protect]] 
-- [[../../../../_private/geo/Continent/Australia/New_Zealand/Counties/Southland.private|Southland.private]] 
-- [[../../../../_personal/geo/Continent/Australia/New_Zealand/Counties/Southland.personal|Southland.personal]] 
-- [[../../../../_secret/geo/Continent/Australia/New_Zealand/Counties/Southland.secret|Southland.secret]] 
+- [[../../../../../../_Standards/geo/Continent/Australia/New_Zealand/Counties/Southland|Southland]] 
+- [[../../../../../../_public/geo/Continent/Australia/New_Zealand/Counties/Southland.public|Southland.public]] 
+- [[../../../../../../_internal/geo/Continent/Australia/New_Zealand/Counties/Southland.internal|Southland.internal]] 
+- [[../../../../../../_protect/geo/Continent/Australia/New_Zealand/Counties/Southland.protect|Southland.protect]] 
+- [[../../../../../../_private/geo/Continent/Australia/New_Zealand/Counties/Southland.private|Southland.private]] 
+- [[../../../../../../_personal/geo/Continent/Australia/New_Zealand/Counties/Southland.personal|Southland.personal]] 
+- [[../../../../../../_secret/geo/Continent/Australia/New_Zealand/Counties/Southland.secret|Southland.secret]] 
 

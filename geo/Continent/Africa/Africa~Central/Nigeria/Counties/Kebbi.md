@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 11.7 , 4.1 ] 
 type: geo-Region
 title: Kebbi
@@ -40,10 +40,11 @@ markerFolder: ./Kebbi/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Africa/Nigeria/Counties/Kebbi.md|Kebbi]] 
-- [[../../../../_internal/geo/Continent/Africa/Nigeria/Counties/Kebbi.internal|Kebbi.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Nigeria/Counties/Kebbi.protect|Kebbi.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Nigeria/Counties/Kebbi.private|Kebbi.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Nigeria/Counties/Kebbi.personal|Kebbi.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Nigeria/Counties/Kebbi.secret|Kebbi.secret]] 
+- [[../../../../../../_Standards/geo/Continent/Africa/Nigeria/Counties/Kebbi|Kebbi]] 
+- [[../../../../../../_public/geo/Continent/Africa/Nigeria/Counties/Kebbi.public|Kebbi.public]] 
+- [[../../../../../../_internal/geo/Continent/Africa/Nigeria/Counties/Kebbi.internal|Kebbi.internal]] 
+- [[../../../../../../_protect/geo/Continent/Africa/Nigeria/Counties/Kebbi.protect|Kebbi.protect]] 
+- [[../../../../../../_private/geo/Continent/Africa/Nigeria/Counties/Kebbi.private|Kebbi.private]] 
+- [[../../../../../../_personal/geo/Continent/Africa/Nigeria/Counties/Kebbi.personal|Kebbi.personal]] 
+- [[../../../../../../_secret/geo/Continent/Africa/Nigeria/Counties/Kebbi.secret|Kebbi.secret]] 
 

@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ -4.673 , 55.515 ] 
 type: geo-Region
 title: Pointe_La_Rue
@@ -40,10 +40,11 @@ markerFolder: ./Pointe_La_Rue/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Africa/Seychelles/Counties/Pointe_La_Rue.md|Pointe_La_Rue]] 
-- [[../../../../_internal/geo/Continent/Africa/Seychelles/Counties/Pointe_La_Rue.internal|Pointe_La_Rue.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Seychelles/Counties/Pointe_La_Rue.protect|Pointe_La_Rue.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Seychelles/Counties/Pointe_La_Rue.private|Pointe_La_Rue.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Seychelles/Counties/Pointe_La_Rue.personal|Pointe_La_Rue.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Seychelles/Counties/Pointe_La_Rue.secret|Pointe_La_Rue.secret]] 
+- [[../../../../../../_Standards/geo/Continent/Africa/Seychelles/Counties/Pointe_La_Rue|Pointe_La_Rue]] 
+- [[../../../../../../_public/geo/Continent/Africa/Seychelles/Counties/Pointe_La_Rue.public|Pointe_La_Rue.public]] 
+- [[../../../../../../_internal/geo/Continent/Africa/Seychelles/Counties/Pointe_La_Rue.internal|Pointe_La_Rue.internal]] 
+- [[../../../../../../_protect/geo/Continent/Africa/Seychelles/Counties/Pointe_La_Rue.protect|Pointe_La_Rue.protect]] 
+- [[../../../../../../_private/geo/Continent/Africa/Seychelles/Counties/Pointe_La_Rue.private|Pointe_La_Rue.private]] 
+- [[../../../../../../_personal/geo/Continent/Africa/Seychelles/Counties/Pointe_La_Rue.personal|Pointe_La_Rue.personal]] 
+- [[../../../../../../_secret/geo/Continent/Africa/Seychelles/Counties/Pointe_La_Rue.secret|Pointe_La_Rue.secret]] 
 

@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 7.6 , 6.9 ] 
 type: geo-Region
 title: Kogi
@@ -40,10 +40,11 @@ markerFolder: ./Kogi/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Africa/Nigeria/Counties/Kogi.md|Kogi]] 
-- [[../../../../_internal/geo/Continent/Africa/Nigeria/Counties/Kogi.internal|Kogi.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Nigeria/Counties/Kogi.protect|Kogi.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Nigeria/Counties/Kogi.private|Kogi.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Nigeria/Counties/Kogi.personal|Kogi.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Nigeria/Counties/Kogi.secret|Kogi.secret]] 
+- [[../../../../../../_Standards/geo/Continent/Africa/Nigeria/Counties/Kogi|Kogi]] 
+- [[../../../../../../_public/geo/Continent/Africa/Nigeria/Counties/Kogi.public|Kogi.public]] 
+- [[../../../../../../_internal/geo/Continent/Africa/Nigeria/Counties/Kogi.internal|Kogi.internal]] 
+- [[../../../../../../_protect/geo/Continent/Africa/Nigeria/Counties/Kogi.protect|Kogi.protect]] 
+- [[../../../../../../_private/geo/Continent/Africa/Nigeria/Counties/Kogi.private|Kogi.private]] 
+- [[../../../../../../_personal/geo/Continent/Africa/Nigeria/Counties/Kogi.personal|Kogi.personal]] 
+- [[../../../../../../_secret/geo/Continent/Africa/Nigeria/Counties/Kogi.secret|Kogi.secret]] 
 

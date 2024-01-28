@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 7.1 , 2.6 ] 
 type: geo-Region
 title: Plateau
@@ -40,10 +40,11 @@ markerFolder: ./Plateau/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Africa/Benin/Counties/Plateau.md|Plateau]] 
-- [[../../../../_internal/geo/Continent/Africa/Benin/Counties/Plateau.internal|Plateau.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Benin/Counties/Plateau.protect|Plateau.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Benin/Counties/Plateau.private|Plateau.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Benin/Counties/Plateau.personal|Plateau.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Benin/Counties/Plateau.secret|Plateau.secret]] 
+- [[../../../../../../_Standards/geo/Continent/Africa/Benin/Counties/Plateau|Plateau]] 
+- [[../../../../../../_public/geo/Continent/Africa/Benin/Counties/Plateau.public|Plateau.public]] 
+- [[../../../../../../_internal/geo/Continent/Africa/Benin/Counties/Plateau.internal|Plateau.internal]] 
+- [[../../../../../../_protect/geo/Continent/Africa/Benin/Counties/Plateau.protect|Plateau.protect]] 
+- [[../../../../../../_private/geo/Continent/Africa/Benin/Counties/Plateau.private|Plateau.private]] 
+- [[../../../../../../_personal/geo/Continent/Africa/Benin/Counties/Plateau.personal|Plateau.personal]] 
+- [[../../../../../../_secret/geo/Continent/Africa/Benin/Counties/Plateau.secret|Plateau.secret]] 
 

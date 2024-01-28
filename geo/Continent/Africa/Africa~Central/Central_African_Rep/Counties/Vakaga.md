@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 9.8 , 22.4 ] 
 type: geo-Region
 title: Vakaga
@@ -40,10 +40,11 @@ markerFolder: ./Vakaga/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Africa/Central_African_Rep/Counties/Vakaga.md|Vakaga]] 
-- [[../../../../_internal/geo/Continent/Africa/Central_African_Rep/Counties/Vakaga.internal|Vakaga.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Central_African_Rep/Counties/Vakaga.protect|Vakaga.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Central_African_Rep/Counties/Vakaga.private|Vakaga.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Central_African_Rep/Counties/Vakaga.personal|Vakaga.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Central_African_Rep/Counties/Vakaga.secret|Vakaga.secret]] 
+- [[../../../../../../_Standards/geo/Continent/Africa/Central_African_Rep/Counties/Vakaga|Vakaga]] 
+- [[../../../../../../_public/geo/Continent/Africa/Central_African_Rep/Counties/Vakaga.public|Vakaga.public]] 
+- [[../../../../../../_internal/geo/Continent/Africa/Central_African_Rep/Counties/Vakaga.internal|Vakaga.internal]] 
+- [[../../../../../../_protect/geo/Continent/Africa/Central_African_Rep/Counties/Vakaga.protect|Vakaga.protect]] 
+- [[../../../../../../_private/geo/Continent/Africa/Central_African_Rep/Counties/Vakaga.private|Vakaga.private]] 
+- [[../../../../../../_personal/geo/Continent/Africa/Central_African_Rep/Counties/Vakaga.personal|Vakaga.personal]] 
+- [[../../../../../../_secret/geo/Continent/Africa/Central_African_Rep/Counties/Vakaga.secret|Vakaga.secret]] 
 

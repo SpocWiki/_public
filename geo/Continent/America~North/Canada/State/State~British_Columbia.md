@@ -1,5 +1,5 @@
 ---
-location: [48.8461,-123.243]
+location: [48.8461,-123.243] 
 type: State
 tags:
 - geo/State
@@ -10,13 +10,13 @@ isDeleted: false
 confidential: public
 
 ---
-[name::British Columbia]
-[name-abbr::BRC]
-[Country::[[../../Canada]]]
-[Capital::[[Victoria]]]
-[geo-lon::-123.243]
-[geo-lat::48.8461]
-[Population::]
+[name::British Columbia] 
+[name-abbr::BRC] 
+Country :: [[../../Canada]]  
+Capital :: [[Victoria]]  
+[geo-lon::-123.243] 
+[geo-lat::48.8461] 
+[Population::] 
 
 
 
@@ -31,9 +31,9 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
--[[State~British_Columbia|State~British_Columbia]]] 
-- [[../../../../../../_internal/geo/Continent/North-America/Canada/State/State~British_Columbia.internal|State~British_Columbia.internal]] 
-- [[../../../../../../_protect/geo/Continent/North-America/Canada/State/State~British_Columbia.protect|State~British_Columbia.protect]] 
-- [[../../../../../../_private/geo/Continent/North-America/Canada/State/State~British_Columbia.private|State~British_Columbia.private]] 
-- [[../../../../../../_personal/geo/Continent/North-America/Canada/State/State~British_Columbia.personal|State~British_Columbia.personal]] 
-- [[../../../../../../_secret/geo/Continent/North-America/Canada/State/State~British_Columbia.secret|State~British_Columbia.secret]] 
+- [[State~British_Columbia|State~British_Columbia]]  
+- [[../../../../../../_internal/geo/Continent/America~North/Canada/State/State~British_Columbia.internal|State~British_Columbia.internal]] 
+- [[../../../../../../_protect/geo/Continent/America~North/Canada/State/State~British_Columbia.protect|State~British_Columbia.protect]] 
+- [[../../../../../../_private/geo/Continent/America~North/Canada/State/State~British_Columbia.private|State~British_Columbia.private]] 
+- [[../../../../../../_personal/geo/Continent/America~North/Canada/State/State~British_Columbia.personal|State~British_Columbia.personal]] 
+- [[../../../../../../_secret/geo/Continent/America~North/Canada/State/State~British_Columbia.secret|State~British_Columbia.secret]] 

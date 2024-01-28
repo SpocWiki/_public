@@ -20,13 +20,14 @@ geojsonFolder: ./Antarctica/
 markerFolder: ./Antarctica/
 ```
 
-[name-en::Antarctica]
-[name-de::Antarktis]
-[ #has/_code  :: AN ]
+[name-en::Antarctica] 
+[name-de::Antarktis] 
+[ #has/_code  :: AN ] 
 
 
 ## Confidential Links & Embeds: 
-- [[../../../_public/geo/Continent/Antarctica.md|Antarctica]] 
+- [[../../../_Standards/geo/Continent/Antarctica|Antarctica]] 
+- [[../../../_public/geo/Continent/Antarctica.public|Antarctica.public]] 
 - [[../../../_internal/geo/Continent/Antarctica.internal|Antarctica.internal]] 
 - [[../../../_protect/geo/Continent/Antarctica.protect|Antarctica.protect]] 
 - [[../../../_private/geo/Continent/Antarctica.private|Antarctica.private]] 

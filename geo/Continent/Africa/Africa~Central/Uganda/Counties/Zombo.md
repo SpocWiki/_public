@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 2.5 , 30.9 ] 
 type: geo-Region
 title: Zombo
@@ -40,10 +40,11 @@ markerFolder: ./Zombo/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Africa/Uganda/Counties/Zombo.md|Zombo]] 
-- [[../../../../_internal/geo/Continent/Africa/Uganda/Counties/Zombo.internal|Zombo.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Uganda/Counties/Zombo.protect|Zombo.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Uganda/Counties/Zombo.private|Zombo.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Uganda/Counties/Zombo.personal|Zombo.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Uganda/Counties/Zombo.secret|Zombo.secret]] 
+- [[../../../../../../_Standards/geo/Continent/Africa/Uganda/Counties/Zombo|Zombo]] 
+- [[../../../../../../_public/geo/Continent/Africa/Uganda/Counties/Zombo.public|Zombo.public]] 
+- [[../../../../../../_internal/geo/Continent/Africa/Uganda/Counties/Zombo.internal|Zombo.internal]] 
+- [[../../../../../../_protect/geo/Continent/Africa/Uganda/Counties/Zombo.protect|Zombo.protect]] 
+- [[../../../../../../_private/geo/Continent/Africa/Uganda/Counties/Zombo.private|Zombo.private]] 
+- [[../../../../../../_personal/geo/Continent/Africa/Uganda/Counties/Zombo.personal|Zombo.personal]] 
+- [[../../../../../../_secret/geo/Continent/Africa/Uganda/Counties/Zombo.secret|Zombo.secret]] 
 

@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ -19.1 , 29.9 ] 
 type: geo-Region
 title: Midlands
@@ -40,10 +40,11 @@ markerFolder: ./Midlands/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Africa/Zimbabwe/Counties/Midlands.md|Midlands]] 
-- [[../../../../_internal/geo/Continent/Africa/Zimbabwe/Counties/Midlands.internal|Midlands.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Zimbabwe/Counties/Midlands.protect|Midlands.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Zimbabwe/Counties/Midlands.private|Midlands.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Zimbabwe/Counties/Midlands.personal|Midlands.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Zimbabwe/Counties/Midlands.secret|Midlands.secret]] 
+- [[../../../../../../_Standards/geo/Continent/Africa/Zimbabwe/Counties/Midlands|Midlands]] 
+- [[../../../../../../_public/geo/Continent/Africa/Zimbabwe/Counties/Midlands.public|Midlands.public]] 
+- [[../../../../../../_internal/geo/Continent/Africa/Zimbabwe/Counties/Midlands.internal|Midlands.internal]] 
+- [[../../../../../../_protect/geo/Continent/Africa/Zimbabwe/Counties/Midlands.protect|Midlands.protect]] 
+- [[../../../../../../_private/geo/Continent/Africa/Zimbabwe/Counties/Midlands.private|Midlands.private]] 
+- [[../../../../../../_personal/geo/Continent/Africa/Zimbabwe/Counties/Midlands.personal|Midlands.personal]] 
+- [[../../../../../../_secret/geo/Continent/Africa/Zimbabwe/Counties/Midlands.secret|Midlands.secret]] 
 

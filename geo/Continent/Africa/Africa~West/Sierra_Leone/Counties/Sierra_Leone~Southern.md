@@ -40,10 +40,11 @@ markerFolder: ./Sierra_Leone~Southern/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Africa/Sierra_Leone/Counties/Sierra_Leone~Southern.md|Sierra_Leone~Southern]] 
-- [[../../../../_internal/geo/Continent/Africa/Sierra_Leone/Counties/Sierra_Leone~Southern.internal|Sierra_Leone~Southern.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Sierra_Leone/Counties/Sierra_Leone~Southern.protect|Sierra_Leone~Southern.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Sierra_Leone/Counties/Sierra_Leone~Southern.private|Sierra_Leone~Southern.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Sierra_Leone/Counties/Sierra_Leone~Southern.personal|Sierra_Leone~Southern.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Sierra_Leone/Counties/Sierra_Leone~Southern.secret|Sierra_Leone~Southern.secret]] 
+- [[../../../../../../_Standards/geo/Continent/Africa/Sierra_Leone/Counties/Sierra_Leone~Southern|Sierra_Leone~Southern]] 
+- [[../../../../../../_public/geo/Continent/Africa/Sierra_Leone/Counties/Sierra_Leone~Southern.public|Sierra_Leone~Southern.public]] 
+- [[../../../../../../_internal/geo/Continent/Africa/Sierra_Leone/Counties/Sierra_Leone~Southern.internal|Sierra_Leone~Southern.internal]] 
+- [[../../../../../../_protect/geo/Continent/Africa/Sierra_Leone/Counties/Sierra_Leone~Southern.protect|Sierra_Leone~Southern.protect]] 
+- [[../../../../../../_private/geo/Continent/Africa/Sierra_Leone/Counties/Sierra_Leone~Southern.private|Sierra_Leone~Southern.private]] 
+- [[../../../../../../_personal/geo/Continent/Africa/Sierra_Leone/Counties/Sierra_Leone~Southern.personal|Sierra_Leone~Southern.personal]] 
+- [[../../../../../../_secret/geo/Continent/Africa/Sierra_Leone/Counties/Sierra_Leone~Southern.secret|Sierra_Leone~Southern.secret]] 
 

@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 10.5 , 0.4 ] 
 type: geo-Region
 title: Savanes
@@ -40,10 +40,11 @@ markerFolder: ./Savanes/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Africa/Togo/Counties/Savanes.md|Savanes]] 
-- [[../../../../_internal/geo/Continent/Africa/Togo/Counties/Savanes.internal|Savanes.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Togo/Counties/Savanes.protect|Savanes.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Togo/Counties/Savanes.private|Savanes.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Togo/Counties/Savanes.personal|Savanes.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Togo/Counties/Savanes.secret|Savanes.secret]] 
+- [[../../../../../../_Standards/geo/Continent/Africa/Togo/Counties/Savanes|Savanes]] 
+- [[../../../../../../_public/geo/Continent/Africa/Togo/Counties/Savanes.public|Savanes.public]] 
+- [[../../../../../../_internal/geo/Continent/Africa/Togo/Counties/Savanes.internal|Savanes.internal]] 
+- [[../../../../../../_protect/geo/Continent/Africa/Togo/Counties/Savanes.protect|Savanes.protect]] 
+- [[../../../../../../_private/geo/Continent/Africa/Togo/Counties/Savanes.private|Savanes.private]] 
+- [[../../../../../../_personal/geo/Continent/Africa/Togo/Counties/Savanes.personal|Savanes.personal]] 
+- [[../../../../../../_secret/geo/Continent/Africa/Togo/Counties/Savanes.secret|Savanes.secret]] 
 

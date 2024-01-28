@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 5.9 , -72.9 ] 
 type: geo-Region
 title: Boyacá
@@ -40,10 +40,11 @@ markerFolder: ./Boyacá/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/America~South/Colombia/Counties/Boyacá.md|Boyacá]] 
-- [[../../../../_internal/geo/Continent/America~South/Colombia/Counties/Boyacá.internal|Boyacá.internal]] 
-- [[../../../../_protect/geo/Continent/America~South/Colombia/Counties/Boyacá.protect|Boyacá.protect]] 
-- [[../../../../_private/geo/Continent/America~South/Colombia/Counties/Boyacá.private|Boyacá.private]] 
-- [[../../../../_personal/geo/Continent/America~South/Colombia/Counties/Boyacá.personal|Boyacá.personal]] 
-- [[../../../../_secret/geo/Continent/America~South/Colombia/Counties/Boyacá.secret|Boyacá.secret]] 
+- [[../../../../../../_Standards/geo/Continent/America~South/Colombia/Counties/Boyacá|Boyacá]] 
+- [[../../../../../../_public/geo/Continent/America~South/Colombia/Counties/Boyacá.public|Boyacá.public]] 
+- [[../../../../../../_internal/geo/Continent/America~South/Colombia/Counties/Boyacá.internal|Boyacá.internal]] 
+- [[../../../../../../_protect/geo/Continent/America~South/Colombia/Counties/Boyacá.protect|Boyacá.protect]] 
+- [[../../../../../../_private/geo/Continent/America~South/Colombia/Counties/Boyacá.private|Boyacá.private]] 
+- [[../../../../../../_personal/geo/Continent/America~South/Colombia/Counties/Boyacá.personal|Boyacá.personal]] 
+- [[../../../../../../_secret/geo/Continent/America~South/Colombia/Counties/Boyacá.secret|Boyacá.secret]] 
 

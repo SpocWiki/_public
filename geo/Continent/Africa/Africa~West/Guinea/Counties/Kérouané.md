@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 9.3 , -8.9 ] 
 type: geo-Region
 title: Kérouané
@@ -40,10 +40,11 @@ markerFolder: ./Kérouané/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Africa/Guinea/Counties/Kérouané.md|Kérouané]] 
-- [[../../../../_internal/geo/Continent/Africa/Guinea/Counties/Kérouané.internal|Kérouané.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Guinea/Counties/Kérouané.protect|Kérouané.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Guinea/Counties/Kérouané.private|Kérouané.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Guinea/Counties/Kérouané.personal|Kérouané.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Guinea/Counties/Kérouané.secret|Kérouané.secret]] 
+- [[../../../../../../_Standards/geo/Continent/Africa/Guinea/Counties/Kérouané|Kérouané]] 
+- [[../../../../../../_public/geo/Continent/Africa/Guinea/Counties/Kérouané.public|Kérouané.public]] 
+- [[../../../../../../_internal/geo/Continent/Africa/Guinea/Counties/Kérouané.internal|Kérouané.internal]] 
+- [[../../../../../../_protect/geo/Continent/Africa/Guinea/Counties/Kérouané.protect|Kérouané.protect]] 
+- [[../../../../../../_private/geo/Continent/Africa/Guinea/Counties/Kérouané.private|Kérouané.private]] 
+- [[../../../../../../_personal/geo/Continent/Africa/Guinea/Counties/Kérouané.personal|Kérouané.personal]] 
+- [[../../../../../../_secret/geo/Continent/Africa/Guinea/Counties/Kérouané.secret|Kérouané.secret]] 
 

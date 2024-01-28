@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 5.4 , 7.5 ] 
 type: geo-Region
 title: Abia
@@ -40,10 +40,11 @@ markerFolder: ./Abia/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Africa/Nigeria/Counties/Abia.md|Abia]] 
-- [[../../../../_internal/geo/Continent/Africa/Nigeria/Counties/Abia.internal|Abia.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Nigeria/Counties/Abia.protect|Abia.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Nigeria/Counties/Abia.private|Abia.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Nigeria/Counties/Abia.personal|Abia.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Nigeria/Counties/Abia.secret|Abia.secret]] 
+- [[../../../../../../_Standards/geo/Continent/Africa/Nigeria/Counties/Abia|Abia]] 
+- [[../../../../../../_public/geo/Continent/Africa/Nigeria/Counties/Abia.public|Abia.public]] 
+- [[../../../../../../_internal/geo/Continent/Africa/Nigeria/Counties/Abia.internal|Abia.internal]] 
+- [[../../../../../../_protect/geo/Continent/Africa/Nigeria/Counties/Abia.protect|Abia.protect]] 
+- [[../../../../../../_private/geo/Continent/Africa/Nigeria/Counties/Abia.private|Abia.private]] 
+- [[../../../../../../_personal/geo/Continent/Africa/Nigeria/Counties/Abia.personal|Abia.personal]] 
+- [[../../../../../../_secret/geo/Continent/Africa/Nigeria/Counties/Abia.secret|Abia.secret]] 
 

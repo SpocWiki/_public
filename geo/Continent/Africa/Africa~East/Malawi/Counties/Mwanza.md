@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ -15.7 , 34.6 ] 
 type: geo-Region
 title: Mwanza
@@ -40,10 +40,11 @@ markerFolder: ./Mwanza/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Africa/Malawi/Counties/Mwanza.md|Mwanza]] 
-- [[../../../../_internal/geo/Continent/Africa/Malawi/Counties/Mwanza.internal|Mwanza.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Malawi/Counties/Mwanza.protect|Mwanza.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Malawi/Counties/Mwanza.private|Mwanza.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Malawi/Counties/Mwanza.personal|Mwanza.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Malawi/Counties/Mwanza.secret|Mwanza.secret]] 
+- [[../../../../../../_Standards/geo/Continent/Africa/Malawi/Counties/Mwanza|Mwanza]] 
+- [[../../../../../../_public/geo/Continent/Africa/Malawi/Counties/Mwanza.public|Mwanza.public]] 
+- [[../../../../../../_internal/geo/Continent/Africa/Malawi/Counties/Mwanza.internal|Mwanza.internal]] 
+- [[../../../../../../_protect/geo/Continent/Africa/Malawi/Counties/Mwanza.protect|Mwanza.protect]] 
+- [[../../../../../../_private/geo/Continent/Africa/Malawi/Counties/Mwanza.private|Mwanza.private]] 
+- [[../../../../../../_personal/geo/Continent/Africa/Malawi/Counties/Mwanza.personal|Mwanza.personal]] 
+- [[../../../../../../_secret/geo/Continent/Africa/Malawi/Counties/Mwanza.secret|Mwanza.secret]] 
 

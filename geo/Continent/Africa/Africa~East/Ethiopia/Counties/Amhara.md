@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 11.3 , 38.3 ] 
 type: geo-Region
 title: Amhara
@@ -40,10 +40,11 @@ markerFolder: ./Amhara/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Africa/Ethiopia/Counties/Amhara.md|Amhara]] 
-- [[../../../../_internal/geo/Continent/Africa/Ethiopia/Counties/Amhara.internal|Amhara.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Ethiopia/Counties/Amhara.protect|Amhara.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Ethiopia/Counties/Amhara.private|Amhara.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Ethiopia/Counties/Amhara.personal|Amhara.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Ethiopia/Counties/Amhara.secret|Amhara.secret]] 
+- [[../../../../../../_Standards/geo/Continent/Africa/Ethiopia/Counties/Amhara|Amhara]] 
+- [[../../../../../../_public/geo/Continent/Africa/Ethiopia/Counties/Amhara.public|Amhara.public]] 
+- [[../../../../../../_internal/geo/Continent/Africa/Ethiopia/Counties/Amhara.internal|Amhara.internal]] 
+- [[../../../../../../_protect/geo/Continent/Africa/Ethiopia/Counties/Amhara.protect|Amhara.protect]] 
+- [[../../../../../../_private/geo/Continent/Africa/Ethiopia/Counties/Amhara.private|Amhara.private]] 
+- [[../../../../../../_personal/geo/Continent/Africa/Ethiopia/Counties/Amhara.personal|Amhara.personal]] 
+- [[../../../../../../_secret/geo/Continent/Africa/Ethiopia/Counties/Amhara.secret|Amhara.secret]] 
 

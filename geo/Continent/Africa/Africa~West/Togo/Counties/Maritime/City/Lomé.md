@@ -1,5 +1,5 @@
 ﻿---
-location: [6.116667,1.216667]
+location: [6.116667,1.216667] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,27 +12,28 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::1.216667]
-[geo-lat::6.116667]
-[name::Lomé]
-[State::]
-[Country::[[Togo]]]
-[StateId::]
-[Population::]
-[Unknown::32]
+[geo-lon::1.216667] 
+[geo-lat::6.116667] 
+[name::Lomé] 
+State ::  
+Country :: [[Togo]]  
+[StateId::] 
+[Population::] 
+[Unknown::32] 
 
 
 ```leaflet
 id: Lomé
-coordinates: [[Lomé]]
-markerFile: [[Lomé]]
+coordinates: [[Lomé]] 
+markerFile: [[Lomé]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_public/geo/Continent/Africa/Togo/City/Lomé.md|Lomé]] 
+- [[../../../../../../_Standards/geo/Continent/Africa/Togo/City/Lomé|Lomé]] 
+- [[../../../../../../_public/geo/Continent/Africa/Togo/City/Lomé.public|Lomé.public]] 
 - [[../../../../../../_internal/geo/Continent/Africa/Togo/City/Lomé.internal|Lomé.internal]] 
 - [[../../../../../../_protect/geo/Continent/Africa/Togo/City/Lomé.protect|Lomé.protect]] 
 - [[../../../../../../_private/geo/Continent/Africa/Togo/City/Lomé.private|Lomé.private]] 

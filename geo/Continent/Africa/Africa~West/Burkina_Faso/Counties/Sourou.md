@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 13.2 , -2.9 ] 
 type: geo-Region
 title: Sourou
@@ -40,10 +40,11 @@ markerFolder: ./Sourou/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Africa/Burkina_Faso/Counties/Sourou.md|Sourou]] 
-- [[../../../../_internal/geo/Continent/Africa/Burkina_Faso/Counties/Sourou.internal|Sourou.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Burkina_Faso/Counties/Sourou.protect|Sourou.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Burkina_Faso/Counties/Sourou.private|Sourou.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Burkina_Faso/Counties/Sourou.personal|Sourou.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Burkina_Faso/Counties/Sourou.secret|Sourou.secret]] 
+- [[../../../../../../_Standards/geo/Continent/Africa/Burkina_Faso/Counties/Sourou|Sourou]] 
+- [[../../../../../../_public/geo/Continent/Africa/Burkina_Faso/Counties/Sourou.public|Sourou.public]] 
+- [[../../../../../../_internal/geo/Continent/Africa/Burkina_Faso/Counties/Sourou.internal|Sourou.internal]] 
+- [[../../../../../../_protect/geo/Continent/Africa/Burkina_Faso/Counties/Sourou.protect|Sourou.protect]] 
+- [[../../../../../../_private/geo/Continent/Africa/Burkina_Faso/Counties/Sourou.private|Sourou.private]] 
+- [[../../../../../../_personal/geo/Continent/Africa/Burkina_Faso/Counties/Sourou.personal|Sourou.personal]] 
+- [[../../../../../../_secret/geo/Continent/Africa/Burkina_Faso/Counties/Sourou.secret|Sourou.secret]] 
 

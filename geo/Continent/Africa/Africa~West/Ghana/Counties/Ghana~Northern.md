@@ -40,10 +40,11 @@ markerFolder: ./Ghana~Northern/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Africa/Ghana/Counties/Ghana~Northern.md|Ghana~Northern]] 
-- [[../../../../_internal/geo/Continent/Africa/Ghana/Counties/Ghana~Northern.internal|Ghana~Northern.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Ghana/Counties/Ghana~Northern.protect|Ghana~Northern.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Ghana/Counties/Ghana~Northern.private|Ghana~Northern.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Ghana/Counties/Ghana~Northern.personal|Ghana~Northern.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Ghana/Counties/Ghana~Northern.secret|Ghana~Northern.secret]] 
+- [[../../../../../../_Standards/geo/Continent/Africa/Ghana/Counties/Ghana~Northern|Ghana~Northern]] 
+- [[../../../../../../_public/geo/Continent/Africa/Ghana/Counties/Ghana~Northern.public|Ghana~Northern.public]] 
+- [[../../../../../../_internal/geo/Continent/Africa/Ghana/Counties/Ghana~Northern.internal|Ghana~Northern.internal]] 
+- [[../../../../../../_protect/geo/Continent/Africa/Ghana/Counties/Ghana~Northern.protect|Ghana~Northern.protect]] 
+- [[../../../../../../_private/geo/Continent/Africa/Ghana/Counties/Ghana~Northern.private|Ghana~Northern.private]] 
+- [[../../../../../../_personal/geo/Continent/Africa/Ghana/Counties/Ghana~Northern.personal|Ghana~Northern.personal]] 
+- [[../../../../../../_secret/geo/Continent/Africa/Ghana/Counties/Ghana~Northern.secret|Ghana~Northern.secret]] 
 

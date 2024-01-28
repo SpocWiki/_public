@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 0.2 , 32.5 ] 
 type: geo-Region
 title: Wakiso
@@ -40,10 +40,11 @@ markerFolder: ./Wakiso/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Africa/Uganda/Counties/Wakiso.md|Wakiso]] 
-- [[../../../../_internal/geo/Continent/Africa/Uganda/Counties/Wakiso.internal|Wakiso.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Uganda/Counties/Wakiso.protect|Wakiso.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Uganda/Counties/Wakiso.private|Wakiso.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Uganda/Counties/Wakiso.personal|Wakiso.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Uganda/Counties/Wakiso.secret|Wakiso.secret]] 
+- [[../../../../../../_Standards/geo/Continent/Africa/Uganda/Counties/Wakiso|Wakiso]] 
+- [[../../../../../../_public/geo/Continent/Africa/Uganda/Counties/Wakiso.public|Wakiso.public]] 
+- [[../../../../../../_internal/geo/Continent/Africa/Uganda/Counties/Wakiso.internal|Wakiso.internal]] 
+- [[../../../../../../_protect/geo/Continent/Africa/Uganda/Counties/Wakiso.protect|Wakiso.protect]] 
+- [[../../../../../../_private/geo/Continent/Africa/Uganda/Counties/Wakiso.private|Wakiso.private]] 
+- [[../../../../../../_personal/geo/Continent/Africa/Uganda/Counties/Wakiso.personal|Wakiso.personal]] 
+- [[../../../../../../_secret/geo/Continent/Africa/Uganda/Counties/Wakiso.secret|Wakiso.secret]] 
 

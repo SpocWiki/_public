@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 16.2 , -14.8 ] 
 type: geo-Region
 title: Saint-Louis
@@ -40,10 +40,11 @@ markerFolder: ./Saint-Louis/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Africa/Senegal/Counties/Saint-Louis.md|Saint-Louis]] 
-- [[../../../../_internal/geo/Continent/Africa/Senegal/Counties/Saint-Louis.internal|Saint-Louis.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Senegal/Counties/Saint-Louis.protect|Saint-Louis.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Senegal/Counties/Saint-Louis.private|Saint-Louis.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Senegal/Counties/Saint-Louis.personal|Saint-Louis.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Senegal/Counties/Saint-Louis.secret|Saint-Louis.secret]] 
+- [[../../../../../../_Standards/geo/Continent/Africa/Senegal/Counties/Saint-Louis|Saint-Louis]] 
+- [[../../../../../../_public/geo/Continent/Africa/Senegal/Counties/Saint-Louis.public|Saint-Louis.public]] 
+- [[../../../../../../_internal/geo/Continent/Africa/Senegal/Counties/Saint-Louis.internal|Saint-Louis.internal]] 
+- [[../../../../../../_protect/geo/Continent/Africa/Senegal/Counties/Saint-Louis.protect|Saint-Louis.protect]] 
+- [[../../../../../../_private/geo/Continent/Africa/Senegal/Counties/Saint-Louis.private|Saint-Louis.private]] 
+- [[../../../../../../_personal/geo/Continent/Africa/Senegal/Counties/Saint-Louis.personal|Saint-Louis.personal]] 
+- [[../../../../../../_secret/geo/Continent/Africa/Senegal/Counties/Saint-Louis.secret|Saint-Louis.secret]] 
 

@@ -1,5 +1,5 @@
 ﻿---
-location: [14.7,-17.4]
+location: [14.7,-17.4] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,27 +12,28 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::-17.4]
-[geo-lat::14.7]
-[name::Dakar]
-[State::]
-[Country::[[Senegal]]]
-[StateId::]
-[Population::]
-[Unknown::]
+[geo-lon::-17.4] 
+[geo-lat::14.7] 
+[name::Dakar] 
+State ::  
+Country :: [[Senegal]]  
+[StateId::] 
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Dakar
-coordinates: [[Dakar]]
-markerFile: [[Dakar]]
+coordinates: [[Dakar]] 
+markerFile: [[Dakar]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_public/geo/Continent/Africa/Senegal/City/Dakar.md|Dakar]] 
+- [[../../../../../../_Standards/geo/Continent/Africa/Senegal/City/Dakar|Dakar]] 
+- [[../../../../../../_public/geo/Continent/Africa/Senegal/City/Dakar.public|Dakar.public]] 
 - [[../../../../../../_internal/geo/Continent/Africa/Senegal/City/Dakar.internal|Dakar.internal]] 
 - [[../../../../../../_protect/geo/Continent/Africa/Senegal/City/Dakar.protect|Dakar.protect]] 
 - [[../../../../../../_private/geo/Continent/Africa/Senegal/City/Dakar.private|Dakar.private]] 

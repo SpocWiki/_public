@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 17.03 , -61.77 ] 
 type: geo-Region
 title: Saint_Paul
@@ -40,10 +40,11 @@ markerFolder: ./Saint_Paul/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/America~Caribbean/Antigua_and_Barbuda/Counties/Saint_Paul.md|Saint_Paul]] 
-- [[../../../../_internal/geo/Continent/America~Caribbean/Antigua_and_Barbuda/Counties/Saint_Paul.internal|Saint_Paul.internal]] 
-- [[../../../../_protect/geo/Continent/America~Caribbean/Antigua_and_Barbuda/Counties/Saint_Paul.protect|Saint_Paul.protect]] 
-- [[../../../../_private/geo/Continent/America~Caribbean/Antigua_and_Barbuda/Counties/Saint_Paul.private|Saint_Paul.private]] 
-- [[../../../../_personal/geo/Continent/America~Caribbean/Antigua_and_Barbuda/Counties/Saint_Paul.personal|Saint_Paul.personal]] 
-- [[../../../../_secret/geo/Continent/America~Caribbean/Antigua_and_Barbuda/Counties/Saint_Paul.secret|Saint_Paul.secret]] 
+- [[../../../../../../_Standards/geo/Continent/America~Caribbean/Antigua_and_Barbuda/Counties/Saint_Paul|Saint_Paul]] 
+- [[../../../../../../_public/geo/Continent/America~Caribbean/Antigua_and_Barbuda/Counties/Saint_Paul.public|Saint_Paul.public]] 
+- [[../../../../../../_internal/geo/Continent/America~Caribbean/Antigua_and_Barbuda/Counties/Saint_Paul.internal|Saint_Paul.internal]] 
+- [[../../../../../../_protect/geo/Continent/America~Caribbean/Antigua_and_Barbuda/Counties/Saint_Paul.protect|Saint_Paul.protect]] 
+- [[../../../../../../_private/geo/Continent/America~Caribbean/Antigua_and_Barbuda/Counties/Saint_Paul.private|Saint_Paul.private]] 
+- [[../../../../../../_personal/geo/Continent/America~Caribbean/Antigua_and_Barbuda/Counties/Saint_Paul.personal|Saint_Paul.personal]] 
+- [[../../../../../../_secret/geo/Continent/America~Caribbean/Antigua_and_Barbuda/Counties/Saint_Paul.secret|Saint_Paul.secret]] 
 

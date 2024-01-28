@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 36.4 , 6.7 ] 
 type: geo-Region
 title: Constantine
@@ -40,10 +40,11 @@ markerFolder: ./Constantine/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Africa/Algeria/Counties/Constantine.md|Constantine]] 
-- [[../../../../_internal/geo/Continent/Africa/Algeria/Counties/Constantine.internal|Constantine.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Algeria/Counties/Constantine.protect|Constantine.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Algeria/Counties/Constantine.private|Constantine.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Algeria/Counties/Constantine.personal|Constantine.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Algeria/Counties/Constantine.secret|Constantine.secret]] 
+- [[../../../../../../_Standards/geo/Continent/Africa/Algeria/Counties/Constantine|Constantine]] 
+- [[../../../../../../_public/geo/Continent/Africa/Algeria/Counties/Constantine.public|Constantine.public]] 
+- [[../../../../../../_internal/geo/Continent/Africa/Algeria/Counties/Constantine.internal|Constantine.internal]] 
+- [[../../../../../../_protect/geo/Continent/Africa/Algeria/Counties/Constantine.protect|Constantine.protect]] 
+- [[../../../../../../_private/geo/Continent/Africa/Algeria/Counties/Constantine.private|Constantine.private]] 
+- [[../../../../../../_personal/geo/Continent/Africa/Algeria/Counties/Constantine.personal|Constantine.personal]] 
+- [[../../../../../../_secret/geo/Continent/Africa/Algeria/Counties/Constantine.secret|Constantine.secret]] 
 

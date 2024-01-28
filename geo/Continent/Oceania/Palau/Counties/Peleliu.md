@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 7.03 , 134.26 ] 
 type: geo-Region
 title: Peleliu
@@ -40,10 +40,11 @@ markerFolder: ./Peleliu/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Oceania/Palau/Counties/Peleliu.md|Peleliu]] 
-- [[../../../../_internal/geo/Continent/Oceania/Palau/Counties/Peleliu.internal|Peleliu.internal]] 
-- [[../../../../_protect/geo/Continent/Oceania/Palau/Counties/Peleliu.protect|Peleliu.protect]] 
-- [[../../../../_private/geo/Continent/Oceania/Palau/Counties/Peleliu.private|Peleliu.private]] 
-- [[../../../../_personal/geo/Continent/Oceania/Palau/Counties/Peleliu.personal|Peleliu.personal]] 
-- [[../../../../_secret/geo/Continent/Oceania/Palau/Counties/Peleliu.secret|Peleliu.secret]] 
+- [[../../../../../../_Standards/geo/Continent/Oceania/Palau/Counties/Peleliu|Peleliu]] 
+- [[../../../../../../_public/geo/Continent/Oceania/Palau/Counties/Peleliu.public|Peleliu.public]] 
+- [[../../../../../../_internal/geo/Continent/Oceania/Palau/Counties/Peleliu.internal|Peleliu.internal]] 
+- [[../../../../../../_protect/geo/Continent/Oceania/Palau/Counties/Peleliu.protect|Peleliu.protect]] 
+- [[../../../../../../_private/geo/Continent/Oceania/Palau/Counties/Peleliu.private|Peleliu.private]] 
+- [[../../../../../../_personal/geo/Continent/Oceania/Palau/Counties/Peleliu.personal|Peleliu.personal]] 
+- [[../../../../../../_secret/geo/Continent/Oceania/Palau/Counties/Peleliu.secret|Peleliu.secret]] 
 

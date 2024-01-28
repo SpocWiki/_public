@@ -1,5 +1,5 @@
 ﻿---
-location: [5.55,-0.25]
+location: [5.55,-0.25] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,27 +12,28 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::-0.25]
-[geo-lat::5.55]
-[name::Accra]
-[State::]
-[Country::[[Ghana]]]
-[StateId::]
-[Population::]
-[Unknown::32]
+[geo-lon::-0.25] 
+[geo-lat::5.55] 
+[name::Accra] 
+State ::  
+Country :: [[Ghana]]  
+[StateId::] 
+[Population::] 
+[Unknown::32] 
 
 
 ```leaflet
 id: Accra
-coordinates: [[Accra]]
-markerFile: [[Accra]]
+coordinates: [[Accra]] 
+markerFile: [[Accra]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_public/geo/Continent/Africa/Ghana/City/Accra.md|Accra]] 
+- [[../../../../../../_Standards/geo/Continent/Africa/Ghana/City/Accra|Accra]] 
+- [[../../../../../../_public/geo/Continent/Africa/Ghana/City/Accra.public|Accra.public]] 
 - [[../../../../../../_internal/geo/Continent/Africa/Ghana/City/Accra.internal|Accra.internal]] 
 - [[../../../../../../_protect/geo/Continent/Africa/Ghana/City/Accra.protect|Accra.protect]] 
 - [[../../../../../../_private/geo/Continent/Africa/Ghana/City/Accra.private|Accra.private]] 

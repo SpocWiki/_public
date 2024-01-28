@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ -15.1 , 167 ] 
 type: geo-Region
 title: Sanma
@@ -40,10 +40,11 @@ markerFolder: ./Sanma/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Oceania/Vanuatu/Counties/Sanma.md|Sanma]] 
-- [[../../../../_internal/geo/Continent/Oceania/Vanuatu/Counties/Sanma.internal|Sanma.internal]] 
-- [[../../../../_protect/geo/Continent/Oceania/Vanuatu/Counties/Sanma.protect|Sanma.protect]] 
-- [[../../../../_private/geo/Continent/Oceania/Vanuatu/Counties/Sanma.private|Sanma.private]] 
-- [[../../../../_personal/geo/Continent/Oceania/Vanuatu/Counties/Sanma.personal|Sanma.personal]] 
-- [[../../../../_secret/geo/Continent/Oceania/Vanuatu/Counties/Sanma.secret|Sanma.secret]] 
+- [[../../../../../../_Standards/geo/Continent/Oceania/Vanuatu/Counties/Sanma|Sanma]] 
+- [[../../../../../../_public/geo/Continent/Oceania/Vanuatu/Counties/Sanma.public|Sanma.public]] 
+- [[../../../../../../_internal/geo/Continent/Oceania/Vanuatu/Counties/Sanma.internal|Sanma.internal]] 
+- [[../../../../../../_protect/geo/Continent/Oceania/Vanuatu/Counties/Sanma.protect|Sanma.protect]] 
+- [[../../../../../../_private/geo/Continent/Oceania/Vanuatu/Counties/Sanma.private|Sanma.private]] 
+- [[../../../../../../_personal/geo/Continent/Oceania/Vanuatu/Counties/Sanma.personal|Sanma.personal]] 
+- [[../../../../../../_secret/geo/Continent/Oceania/Vanuatu/Counties/Sanma.secret|Sanma.secret]] 
 

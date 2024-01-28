@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 10.63 , -61.28 ] 
 type: geo-Region
 title: Arima
@@ -40,10 +40,11 @@ markerFolder: ./Arima/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/America~Caribbean/Trinidad_and_Tobago~Islands/Counties/Arima.md|Arima]] 
-- [[../../../../_internal/geo/Continent/America~Caribbean/Trinidad_and_Tobago~Islands/Counties/Arima.internal|Arima.internal]] 
-- [[../../../../_protect/geo/Continent/America~Caribbean/Trinidad_and_Tobago~Islands/Counties/Arima.protect|Arima.protect]] 
-- [[../../../../_private/geo/Continent/America~Caribbean/Trinidad_and_Tobago~Islands/Counties/Arima.private|Arima.private]] 
-- [[../../../../_personal/geo/Continent/America~Caribbean/Trinidad_and_Tobago~Islands/Counties/Arima.personal|Arima.personal]] 
-- [[../../../../_secret/geo/Continent/America~Caribbean/Trinidad_and_Tobago~Islands/Counties/Arima.secret|Arima.secret]] 
+- [[../../../../../../_Standards/geo/Continent/America~Caribbean/Trinidad_and_Tobago~Islands/Counties/Arima|Arima]] 
+- [[../../../../../../_public/geo/Continent/America~Caribbean/Trinidad_and_Tobago~Islands/Counties/Arima.public|Arima.public]] 
+- [[../../../../../../_internal/geo/Continent/America~Caribbean/Trinidad_and_Tobago~Islands/Counties/Arima.internal|Arima.internal]] 
+- [[../../../../../../_protect/geo/Continent/America~Caribbean/Trinidad_and_Tobago~Islands/Counties/Arima.protect|Arima.protect]] 
+- [[../../../../../../_private/geo/Continent/America~Caribbean/Trinidad_and_Tobago~Islands/Counties/Arima.private|Arima.private]] 
+- [[../../../../../../_personal/geo/Continent/America~Caribbean/Trinidad_and_Tobago~Islands/Counties/Arima.personal|Arima.personal]] 
+- [[../../../../../../_secret/geo/Continent/America~Caribbean/Trinidad_and_Tobago~Islands/Counties/Arima.secret|Arima.secret]] 
 

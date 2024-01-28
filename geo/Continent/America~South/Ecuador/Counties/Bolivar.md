@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ -1.7 , -79.1 ] 
 type: geo-Region
 title: Bolivar
@@ -40,10 +40,11 @@ markerFolder: ./Bolivar/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/America~South/Ecuador/Counties/Bolivar.md|Bolivar]] 
-- [[../../../../_internal/geo/Continent/America~South/Ecuador/Counties/Bolivar.internal|Bolivar.internal]] 
-- [[../../../../_protect/geo/Continent/America~South/Ecuador/Counties/Bolivar.protect|Bolivar.protect]] 
-- [[../../../../_private/geo/Continent/America~South/Ecuador/Counties/Bolivar.private|Bolivar.private]] 
-- [[../../../../_personal/geo/Continent/America~South/Ecuador/Counties/Bolivar.personal|Bolivar.personal]] 
-- [[../../../../_secret/geo/Continent/America~South/Ecuador/Counties/Bolivar.secret|Bolivar.secret]] 
+- [[../../../../../../_Standards/geo/Continent/America~South/Ecuador/Counties/Bolivar|Bolivar]] 
+- [[../../../../../../_public/geo/Continent/America~South/Ecuador/Counties/Bolivar.public|Bolivar.public]] 
+- [[../../../../../../_internal/geo/Continent/America~South/Ecuador/Counties/Bolivar.internal|Bolivar.internal]] 
+- [[../../../../../../_protect/geo/Continent/America~South/Ecuador/Counties/Bolivar.protect|Bolivar.protect]] 
+- [[../../../../../../_private/geo/Continent/America~South/Ecuador/Counties/Bolivar.private|Bolivar.private]] 
+- [[../../../../../../_personal/geo/Continent/America~South/Ecuador/Counties/Bolivar.personal|Bolivar.personal]] 
+- [[../../../../../../_secret/geo/Continent/America~South/Ecuador/Counties/Bolivar.secret|Bolivar.secret]] 
 

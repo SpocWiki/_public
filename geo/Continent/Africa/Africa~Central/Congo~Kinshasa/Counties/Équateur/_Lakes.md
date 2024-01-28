@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ -0.8 , 18 ] 
 type: geo-Region
 title: _Lakes
@@ -40,10 +40,11 @@ markerFolder: ./_Lakes/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Africa/Congo~Kinshasa/Counties/Équateur/_Lakes.md|_Lakes]] 
-- [[../../../../_internal/geo/Continent/Africa/Congo~Kinshasa/Counties/Équateur/_Lakes.internal|_Lakes.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Congo~Kinshasa/Counties/Équateur/_Lakes.protect|_Lakes.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Congo~Kinshasa/Counties/Équateur/_Lakes.private|_Lakes.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Congo~Kinshasa/Counties/Équateur/_Lakes.personal|_Lakes.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Congo~Kinshasa/Counties/Équateur/_Lakes.secret|_Lakes.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Africa/Congo~Kinshasa/Counties/Équateur/_Lakes|_Lakes]] 
+- [[../../../../../../../_public/geo/Continent/Africa/Congo~Kinshasa/Counties/Équateur/_Lakes.public|_Lakes.public]] 
+- [[../../../../../../../_internal/geo/Continent/Africa/Congo~Kinshasa/Counties/Équateur/_Lakes.internal|_Lakes.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Africa/Congo~Kinshasa/Counties/Équateur/_Lakes.protect|_Lakes.protect]] 
+- [[../../../../../../../_private/geo/Continent/Africa/Congo~Kinshasa/Counties/Équateur/_Lakes.private|_Lakes.private]] 
+- [[../../../../../../../_personal/geo/Continent/Africa/Congo~Kinshasa/Counties/Équateur/_Lakes.personal|_Lakes.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Africa/Congo~Kinshasa/Counties/Équateur/_Lakes.secret|_Lakes.secret]] 
 

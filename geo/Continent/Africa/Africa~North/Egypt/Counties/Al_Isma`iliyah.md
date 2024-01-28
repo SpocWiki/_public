@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 30.7 , 32.4 ] 
 type: geo-Region
 title: Al_Isma`iliyah
@@ -40,10 +40,11 @@ markerFolder: ./Al_Isma`iliyah/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Africa/Egypt/Counties/Al_Isma`iliyah.md|Al_Isma`iliyah]] 
-- [[../../../../_internal/geo/Continent/Africa/Egypt/Counties/Al_Isma`iliyah.internal|Al_Isma`iliyah.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Egypt/Counties/Al_Isma`iliyah.protect|Al_Isma`iliyah.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Egypt/Counties/Al_Isma`iliyah.private|Al_Isma`iliyah.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Egypt/Counties/Al_Isma`iliyah.personal|Al_Isma`iliyah.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Egypt/Counties/Al_Isma`iliyah.secret|Al_Isma`iliyah.secret]] 
+- [[../../../../../../_Standards/geo/Continent/Africa/Egypt/Counties/Al_Isma`iliyah|Al_Isma`iliyah]] 
+- [[../../../../../../_public/geo/Continent/Africa/Egypt/Counties/Al_Isma`iliyah.public|Al_Isma`iliyah.public]] 
+- [[../../../../../../_internal/geo/Continent/Africa/Egypt/Counties/Al_Isma`iliyah.internal|Al_Isma`iliyah.internal]] 
+- [[../../../../../../_protect/geo/Continent/Africa/Egypt/Counties/Al_Isma`iliyah.protect|Al_Isma`iliyah.protect]] 
+- [[../../../../../../_private/geo/Continent/Africa/Egypt/Counties/Al_Isma`iliyah.private|Al_Isma`iliyah.private]] 
+- [[../../../../../../_personal/geo/Continent/Africa/Egypt/Counties/Al_Isma`iliyah.personal|Al_Isma`iliyah.personal]] 
+- [[../../../../../../_secret/geo/Continent/Africa/Egypt/Counties/Al_Isma`iliyah.secret|Al_Isma`iliyah.secret]] 
 

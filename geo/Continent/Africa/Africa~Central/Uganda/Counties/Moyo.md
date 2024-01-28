@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 3.5 , 31.6 ] 
 type: geo-Region
 title: Moyo
@@ -40,10 +40,11 @@ markerFolder: ./Moyo/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Africa/Uganda/Counties/Moyo.md|Moyo]] 
-- [[../../../../_internal/geo/Continent/Africa/Uganda/Counties/Moyo.internal|Moyo.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Uganda/Counties/Moyo.protect|Moyo.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Uganda/Counties/Moyo.private|Moyo.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Uganda/Counties/Moyo.personal|Moyo.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Uganda/Counties/Moyo.secret|Moyo.secret]] 
+- [[../../../../../../_Standards/geo/Continent/Africa/Uganda/Counties/Moyo|Moyo]] 
+- [[../../../../../../_public/geo/Continent/Africa/Uganda/Counties/Moyo.public|Moyo.public]] 
+- [[../../../../../../_internal/geo/Continent/Africa/Uganda/Counties/Moyo.internal|Moyo.internal]] 
+- [[../../../../../../_protect/geo/Continent/Africa/Uganda/Counties/Moyo.protect|Moyo.protect]] 
+- [[../../../../../../_private/geo/Continent/Africa/Uganda/Counties/Moyo.private|Moyo.private]] 
+- [[../../../../../../_personal/geo/Continent/Africa/Uganda/Counties/Moyo.personal|Moyo.personal]] 
+- [[../../../../../../_secret/geo/Continent/Africa/Uganda/Counties/Moyo.secret|Moyo.secret]] 
 

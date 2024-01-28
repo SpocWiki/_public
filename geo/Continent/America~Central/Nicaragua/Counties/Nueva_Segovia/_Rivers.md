@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 13.636989650514877 , -86.57551022043707 ] 
 type: geo-Region
 title: _Rivers
@@ -40,10 +40,11 @@ markerFolder: ./_Rivers/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/America~Central/Nicaragua/Counties/Nueva_Segovia/_Rivers.md|_Rivers]] 
-- [[../../../../_internal/geo/Continent/America~Central/Nicaragua/Counties/Nueva_Segovia/_Rivers.internal|_Rivers.internal]] 
-- [[../../../../_protect/geo/Continent/America~Central/Nicaragua/Counties/Nueva_Segovia/_Rivers.protect|_Rivers.protect]] 
-- [[../../../../_private/geo/Continent/America~Central/Nicaragua/Counties/Nueva_Segovia/_Rivers.private|_Rivers.private]] 
-- [[../../../../_personal/geo/Continent/America~Central/Nicaragua/Counties/Nueva_Segovia/_Rivers.personal|_Rivers.personal]] 
-- [[../../../../_secret/geo/Continent/America~Central/Nicaragua/Counties/Nueva_Segovia/_Rivers.secret|_Rivers.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/America~Central/Nicaragua/Counties/Nueva_Segovia/_Rivers|_Rivers]] 
+- [[../../../../../../../_public/geo/Continent/America~Central/Nicaragua/Counties/Nueva_Segovia/_Rivers.public|_Rivers.public]] 
+- [[../../../../../../../_internal/geo/Continent/America~Central/Nicaragua/Counties/Nueva_Segovia/_Rivers.internal|_Rivers.internal]] 
+- [[../../../../../../../_protect/geo/Continent/America~Central/Nicaragua/Counties/Nueva_Segovia/_Rivers.protect|_Rivers.protect]] 
+- [[../../../../../../../_private/geo/Continent/America~Central/Nicaragua/Counties/Nueva_Segovia/_Rivers.private|_Rivers.private]] 
+- [[../../../../../../../_personal/geo/Continent/America~Central/Nicaragua/Counties/Nueva_Segovia/_Rivers.personal|_Rivers.personal]] 
+- [[../../../../../../../_secret/geo/Continent/America~Central/Nicaragua/Counties/Nueva_Segovia/_Rivers.secret|_Rivers.secret]] 
 

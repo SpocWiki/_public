@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 11.1 , 34.1 ] 
 type: geo-Region
 title: Blue_Nile
@@ -40,10 +40,11 @@ markerFolder: ./Blue_Nile/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Africa/Sudan/Counties/Blue_Nile.md|Blue_Nile]] 
-- [[../../../../_internal/geo/Continent/Africa/Sudan/Counties/Blue_Nile.internal|Blue_Nile.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Sudan/Counties/Blue_Nile.protect|Blue_Nile.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Sudan/Counties/Blue_Nile.private|Blue_Nile.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Sudan/Counties/Blue_Nile.personal|Blue_Nile.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Sudan/Counties/Blue_Nile.secret|Blue_Nile.secret]] 
+- [[../../../../../../_Standards/geo/Continent/Africa/Sudan/Counties/Blue_Nile|Blue_Nile]] 
+- [[../../../../../../_public/geo/Continent/Africa/Sudan/Counties/Blue_Nile.public|Blue_Nile.public]] 
+- [[../../../../../../_internal/geo/Continent/Africa/Sudan/Counties/Blue_Nile.internal|Blue_Nile.internal]] 
+- [[../../../../../../_protect/geo/Continent/Africa/Sudan/Counties/Blue_Nile.protect|Blue_Nile.protect]] 
+- [[../../../../../../_private/geo/Continent/Africa/Sudan/Counties/Blue_Nile.private|Blue_Nile.private]] 
+- [[../../../../../../_personal/geo/Continent/Africa/Sudan/Counties/Blue_Nile.personal|Blue_Nile.personal]] 
+- [[../../../../../../_secret/geo/Continent/Africa/Sudan/Counties/Blue_Nile.secret|Blue_Nile.secret]] 
 

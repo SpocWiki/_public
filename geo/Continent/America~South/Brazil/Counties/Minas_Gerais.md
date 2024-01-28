@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ -19 , -45 ] 
 type: geo-Region
 title: Minas_Gerais
@@ -40,10 +40,11 @@ markerFolder: ./Minas_Gerais/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/America~South/Brazil/Counties/Minas_Gerais.md|Minas_Gerais]] 
-- [[../../../../_internal/geo/Continent/America~South/Brazil/Counties/Minas_Gerais.internal|Minas_Gerais.internal]] 
-- [[../../../../_protect/geo/Continent/America~South/Brazil/Counties/Minas_Gerais.protect|Minas_Gerais.protect]] 
-- [[../../../../_private/geo/Continent/America~South/Brazil/Counties/Minas_Gerais.private|Minas_Gerais.private]] 
-- [[../../../../_personal/geo/Continent/America~South/Brazil/Counties/Minas_Gerais.personal|Minas_Gerais.personal]] 
-- [[../../../../_secret/geo/Continent/America~South/Brazil/Counties/Minas_Gerais.secret|Minas_Gerais.secret]] 
+- [[../../../../../../_Standards/geo/Continent/America~South/Brazil/Counties/Minas_Gerais|Minas_Gerais]] 
+- [[../../../../../../_public/geo/Continent/America~South/Brazil/Counties/Minas_Gerais.public|Minas_Gerais.public]] 
+- [[../../../../../../_internal/geo/Continent/America~South/Brazil/Counties/Minas_Gerais.internal|Minas_Gerais.internal]] 
+- [[../../../../../../_protect/geo/Continent/America~South/Brazil/Counties/Minas_Gerais.protect|Minas_Gerais.protect]] 
+- [[../../../../../../_private/geo/Continent/America~South/Brazil/Counties/Minas_Gerais.private|Minas_Gerais.private]] 
+- [[../../../../../../_personal/geo/Continent/America~South/Brazil/Counties/Minas_Gerais.personal|Minas_Gerais.personal]] 
+- [[../../../../../../_secret/geo/Continent/America~South/Brazil/Counties/Minas_Gerais.secret|Minas_Gerais.secret]] 
 

@@ -1,5 +1,5 @@
 ﻿---
-location: [32.3,-64.78333]
+location: [32.3,-64.78333] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,27 +12,28 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::-64.78333]
-[geo-lat::32.3]
-[name::Hamilton]
-[State::]
-[Country::[[United_Kingdom]]]
-[StateId::]
-[Population::]
-[Unknown::32]
+[geo-lon::-64.78333] 
+[geo-lat::32.3] 
+[name::Hamilton] 
+State ::  
+Country :: [[United_Kingdom]]  
+[StateId::] 
+[Population::] 
+[Unknown::32] 
 
 
 ```leaflet
 id: Hamilton
-coordinates: [[Hamilton]]
-markerFile: [[Hamilton]]
+coordinates: [[Hamilton]] 
+markerFile: [[Hamilton]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Hamilton.md|Hamilton]] 
+- [[../../../../../../_Standards/geo/Continent/Europe/United_Kingdom/City/Hamilton|Hamilton]] 
+- [[../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Hamilton.public|Hamilton.public]] 
 - [[../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Hamilton.internal|Hamilton.internal]] 
 - [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Hamilton.protect|Hamilton.protect]] 
 - [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Hamilton.private|Hamilton.private]] 

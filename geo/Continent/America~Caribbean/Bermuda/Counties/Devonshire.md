@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 32.3 , -64.76 ] 
 type: geo-Region
 title: Devonshire
@@ -40,10 +40,11 @@ markerFolder: ./Devonshire/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/America~Caribbean/Bermuda/Counties/Devonshire.md|Devonshire]] 
-- [[../../../../_internal/geo/Continent/America~Caribbean/Bermuda/Counties/Devonshire.internal|Devonshire.internal]] 
-- [[../../../../_protect/geo/Continent/America~Caribbean/Bermuda/Counties/Devonshire.protect|Devonshire.protect]] 
-- [[../../../../_private/geo/Continent/America~Caribbean/Bermuda/Counties/Devonshire.private|Devonshire.private]] 
-- [[../../../../_personal/geo/Continent/America~Caribbean/Bermuda/Counties/Devonshire.personal|Devonshire.personal]] 
-- [[../../../../_secret/geo/Continent/America~Caribbean/Bermuda/Counties/Devonshire.secret|Devonshire.secret]] 
+- [[../../../../../../_Standards/geo/Continent/America~Caribbean/Bermuda/Counties/Devonshire|Devonshire]] 
+- [[../../../../../../_public/geo/Continent/America~Caribbean/Bermuda/Counties/Devonshire.public|Devonshire.public]] 
+- [[../../../../../../_internal/geo/Continent/America~Caribbean/Bermuda/Counties/Devonshire.internal|Devonshire.internal]] 
+- [[../../../../../../_protect/geo/Continent/America~Caribbean/Bermuda/Counties/Devonshire.protect|Devonshire.protect]] 
+- [[../../../../../../_private/geo/Continent/America~Caribbean/Bermuda/Counties/Devonshire.private|Devonshire.private]] 
+- [[../../../../../../_personal/geo/Continent/America~Caribbean/Bermuda/Counties/Devonshire.personal|Devonshire.personal]] 
+- [[../../../../../../_secret/geo/Continent/America~Caribbean/Bermuda/Counties/Devonshire.secret|Devonshire.secret]] 
 

@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 11.6 , -10.6 ] 
 type: geo-Region
 title: Dinguiraye
@@ -40,10 +40,11 @@ markerFolder: ./Dinguiraye/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Africa/Guinea/Counties/Dinguiraye.md|Dinguiraye]] 
-- [[../../../../_internal/geo/Continent/Africa/Guinea/Counties/Dinguiraye.internal|Dinguiraye.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Guinea/Counties/Dinguiraye.protect|Dinguiraye.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Guinea/Counties/Dinguiraye.private|Dinguiraye.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Guinea/Counties/Dinguiraye.personal|Dinguiraye.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Guinea/Counties/Dinguiraye.secret|Dinguiraye.secret]] 
+- [[../../../../../../_Standards/geo/Continent/Africa/Guinea/Counties/Dinguiraye|Dinguiraye]] 
+- [[../../../../../../_public/geo/Continent/Africa/Guinea/Counties/Dinguiraye.public|Dinguiraye.public]] 
+- [[../../../../../../_internal/geo/Continent/Africa/Guinea/Counties/Dinguiraye.internal|Dinguiraye.internal]] 
+- [[../../../../../../_protect/geo/Continent/Africa/Guinea/Counties/Dinguiraye.protect|Dinguiraye.protect]] 
+- [[../../../../../../_private/geo/Continent/Africa/Guinea/Counties/Dinguiraye.private|Dinguiraye.private]] 
+- [[../../../../../../_personal/geo/Continent/Africa/Guinea/Counties/Dinguiraye.personal|Dinguiraye.personal]] 
+- [[../../../../../../_secret/geo/Continent/Africa/Guinea/Counties/Dinguiraye.secret|Dinguiraye.secret]] 
 

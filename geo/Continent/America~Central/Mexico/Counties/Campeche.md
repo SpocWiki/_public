@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 19.3 , -89.9 ] 
 type: geo-Region
 title: Campeche
@@ -40,10 +40,11 @@ markerFolder: ./Campeche/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/America~Central/Mexico/Counties/Campeche.md|Campeche]] 
-- [[../../../../_internal/geo/Continent/America~Central/Mexico/Counties/Campeche.internal|Campeche.internal]] 
-- [[../../../../_protect/geo/Continent/America~Central/Mexico/Counties/Campeche.protect|Campeche.protect]] 
-- [[../../../../_private/geo/Continent/America~Central/Mexico/Counties/Campeche.private|Campeche.private]] 
-- [[../../../../_personal/geo/Continent/America~Central/Mexico/Counties/Campeche.personal|Campeche.personal]] 
-- [[../../../../_secret/geo/Continent/America~Central/Mexico/Counties/Campeche.secret|Campeche.secret]] 
+- [[../../../../../../_Standards/geo/Continent/America~Central/Mexico/Counties/Campeche|Campeche]] 
+- [[../../../../../../_public/geo/Continent/America~Central/Mexico/Counties/Campeche.public|Campeche.public]] 
+- [[../../../../../../_internal/geo/Continent/America~Central/Mexico/Counties/Campeche.internal|Campeche.internal]] 
+- [[../../../../../../_protect/geo/Continent/America~Central/Mexico/Counties/Campeche.protect|Campeche.protect]] 
+- [[../../../../../../_private/geo/Continent/America~Central/Mexico/Counties/Campeche.private|Campeche.private]] 
+- [[../../../../../../_personal/geo/Continent/America~Central/Mexico/Counties/Campeche.personal|Campeche.personal]] 
+- [[../../../../../../_secret/geo/Continent/America~Central/Mexico/Counties/Campeche.secret|Campeche.secret]] 
 

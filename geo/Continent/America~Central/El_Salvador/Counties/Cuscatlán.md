@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 13.9 , -89 ] 
 type: geo-Region
 title: Cuscatlán
@@ -40,10 +40,11 @@ markerFolder: ./Cuscatlán/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/America~Central/El_Salvador/Counties/Cuscatlán.md|Cuscatlán]] 
-- [[../../../../_internal/geo/Continent/America~Central/El_Salvador/Counties/Cuscatlán.internal|Cuscatlán.internal]] 
-- [[../../../../_protect/geo/Continent/America~Central/El_Salvador/Counties/Cuscatlán.protect|Cuscatlán.protect]] 
-- [[../../../../_private/geo/Continent/America~Central/El_Salvador/Counties/Cuscatlán.private|Cuscatlán.private]] 
-- [[../../../../_personal/geo/Continent/America~Central/El_Salvador/Counties/Cuscatlán.personal|Cuscatlán.personal]] 
-- [[../../../../_secret/geo/Continent/America~Central/El_Salvador/Counties/Cuscatlán.secret|Cuscatlán.secret]] 
+- [[../../../../../../_Standards/geo/Continent/America~Central/El_Salvador/Counties/Cuscatlán|Cuscatlán]] 
+- [[../../../../../../_public/geo/Continent/America~Central/El_Salvador/Counties/Cuscatlán.public|Cuscatlán.public]] 
+- [[../../../../../../_internal/geo/Continent/America~Central/El_Salvador/Counties/Cuscatlán.internal|Cuscatlán.internal]] 
+- [[../../../../../../_protect/geo/Continent/America~Central/El_Salvador/Counties/Cuscatlán.protect|Cuscatlán.protect]] 
+- [[../../../../../../_private/geo/Continent/America~Central/El_Salvador/Counties/Cuscatlán.private|Cuscatlán.private]] 
+- [[../../../../../../_personal/geo/Continent/America~Central/El_Salvador/Counties/Cuscatlán.personal|Cuscatlán.personal]] 
+- [[../../../../../../_secret/geo/Continent/America~Central/El_Salvador/Counties/Cuscatlán.secret|Cuscatlán.secret]] 
 

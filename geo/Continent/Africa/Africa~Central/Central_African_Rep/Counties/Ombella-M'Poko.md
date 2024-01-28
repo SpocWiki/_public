@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 4.9 , 18.2 ] 
 type: geo-Region
 title: Ombella-M'Poko
@@ -40,10 +40,11 @@ markerFolder: ./Ombella-M'Poko/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Africa/Central_African_Rep/Counties/Ombella-M'Poko.md|Ombella-M'Poko]] 
-- [[../../../../_internal/geo/Continent/Africa/Central_African_Rep/Counties/Ombella-M'Poko.internal|Ombella-M'Poko.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Central_African_Rep/Counties/Ombella-M'Poko.protect|Ombella-M'Poko.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Central_African_Rep/Counties/Ombella-M'Poko.private|Ombella-M'Poko.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Central_African_Rep/Counties/Ombella-M'Poko.personal|Ombella-M'Poko.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Central_African_Rep/Counties/Ombella-M'Poko.secret|Ombella-M'Poko.secret]] 
+- [[../../../../../../_Standards/geo/Continent/Africa/Central_African_Rep/Counties/Ombella-M'Poko|Ombella-M'Poko]] 
+- [[../../../../../../_public/geo/Continent/Africa/Central_African_Rep/Counties/Ombella-M'Poko.public|Ombella-M'Poko.public]] 
+- [[../../../../../../_internal/geo/Continent/Africa/Central_African_Rep/Counties/Ombella-M'Poko.internal|Ombella-M'Poko.internal]] 
+- [[../../../../../../_protect/geo/Continent/Africa/Central_African_Rep/Counties/Ombella-M'Poko.protect|Ombella-M'Poko.protect]] 
+- [[../../../../../../_private/geo/Continent/Africa/Central_African_Rep/Counties/Ombella-M'Poko.private|Ombella-M'Poko.private]] 
+- [[../../../../../../_personal/geo/Continent/Africa/Central_African_Rep/Counties/Ombella-M'Poko.personal|Ombella-M'Poko.personal]] 
+- [[../../../../../../_secret/geo/Continent/Africa/Central_African_Rep/Counties/Ombella-M'Poko.secret|Ombella-M'Poko.secret]] 
 

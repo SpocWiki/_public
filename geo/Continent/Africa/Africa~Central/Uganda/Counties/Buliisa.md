@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 2 , 31.4 ] 
 type: geo-Region
 title: Buliisa
@@ -40,10 +40,11 @@ markerFolder: ./Buliisa/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Africa/Uganda/Counties/Buliisa.md|Buliisa]] 
-- [[../../../../_internal/geo/Continent/Africa/Uganda/Counties/Buliisa.internal|Buliisa.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Uganda/Counties/Buliisa.protect|Buliisa.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Uganda/Counties/Buliisa.private|Buliisa.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Uganda/Counties/Buliisa.personal|Buliisa.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Uganda/Counties/Buliisa.secret|Buliisa.secret]] 
+- [[../../../../../../_Standards/geo/Continent/Africa/Uganda/Counties/Buliisa|Buliisa]] 
+- [[../../../../../../_public/geo/Continent/Africa/Uganda/Counties/Buliisa.public|Buliisa.public]] 
+- [[../../../../../../_internal/geo/Continent/Africa/Uganda/Counties/Buliisa.internal|Buliisa.internal]] 
+- [[../../../../../../_protect/geo/Continent/Africa/Uganda/Counties/Buliisa.protect|Buliisa.protect]] 
+- [[../../../../../../_private/geo/Continent/Africa/Uganda/Counties/Buliisa.private|Buliisa.private]] 
+- [[../../../../../../_personal/geo/Continent/Africa/Uganda/Counties/Buliisa.personal|Buliisa.personal]] 
+- [[../../../../../../_secret/geo/Continent/Africa/Uganda/Counties/Buliisa.secret|Buliisa.secret]] 
 

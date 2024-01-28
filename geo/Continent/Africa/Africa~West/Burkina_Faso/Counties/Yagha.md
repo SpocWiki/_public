@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 13.4 , 0.6 ] 
 type: geo-Region
 title: Yagha
@@ -40,10 +40,11 @@ markerFolder: ./Yagha/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Africa/Burkina_Faso/Counties/Yagha.md|Yagha]] 
-- [[../../../../_internal/geo/Continent/Africa/Burkina_Faso/Counties/Yagha.internal|Yagha.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Burkina_Faso/Counties/Yagha.protect|Yagha.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Burkina_Faso/Counties/Yagha.private|Yagha.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Burkina_Faso/Counties/Yagha.personal|Yagha.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Burkina_Faso/Counties/Yagha.secret|Yagha.secret]] 
+- [[../../../../../../_Standards/geo/Continent/Africa/Burkina_Faso/Counties/Yagha|Yagha]] 
+- [[../../../../../../_public/geo/Continent/Africa/Burkina_Faso/Counties/Yagha.public|Yagha.public]] 
+- [[../../../../../../_internal/geo/Continent/Africa/Burkina_Faso/Counties/Yagha.internal|Yagha.internal]] 
+- [[../../../../../../_protect/geo/Continent/Africa/Burkina_Faso/Counties/Yagha.protect|Yagha.protect]] 
+- [[../../../../../../_private/geo/Continent/Africa/Burkina_Faso/Counties/Yagha.private|Yagha.private]] 
+- [[../../../../../../_personal/geo/Continent/Africa/Burkina_Faso/Counties/Yagha.personal|Yagha.personal]] 
+- [[../../../../../../_secret/geo/Continent/Africa/Burkina_Faso/Counties/Yagha.secret|Yagha.secret]] 
 

@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 36 , 0.3 ] 
 type: geo-Region
 title: Mostaganem
@@ -40,10 +40,11 @@ markerFolder: ./Mostaganem/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Africa/Algeria/Counties/Mostaganem.md|Mostaganem]] 
-- [[../../../../_internal/geo/Continent/Africa/Algeria/Counties/Mostaganem.internal|Mostaganem.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Algeria/Counties/Mostaganem.protect|Mostaganem.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Algeria/Counties/Mostaganem.private|Mostaganem.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Algeria/Counties/Mostaganem.personal|Mostaganem.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Algeria/Counties/Mostaganem.secret|Mostaganem.secret]] 
+- [[../../../../../../_Standards/geo/Continent/Africa/Algeria/Counties/Mostaganem|Mostaganem]] 
+- [[../../../../../../_public/geo/Continent/Africa/Algeria/Counties/Mostaganem.public|Mostaganem.public]] 
+- [[../../../../../../_internal/geo/Continent/Africa/Algeria/Counties/Mostaganem.internal|Mostaganem.internal]] 
+- [[../../../../../../_protect/geo/Continent/Africa/Algeria/Counties/Mostaganem.protect|Mostaganem.protect]] 
+- [[../../../../../../_private/geo/Continent/Africa/Algeria/Counties/Mostaganem.private|Mostaganem.private]] 
+- [[../../../../../../_personal/geo/Continent/Africa/Algeria/Counties/Mostaganem.personal|Mostaganem.personal]] 
+- [[../../../../../../_secret/geo/Continent/Africa/Algeria/Counties/Mostaganem.secret|Mostaganem.secret]] 
 

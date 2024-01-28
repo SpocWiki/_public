@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ -19.4 , 23 ] 
 type: geo-Region
 title: North-West
@@ -40,10 +40,11 @@ markerFolder: ./North-West/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Africa/Botswana/Counties/North-West.md|North-West]] 
-- [[../../../../_internal/geo/Continent/Africa/Botswana/Counties/North-West.internal|North-West.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Botswana/Counties/North-West.protect|North-West.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Botswana/Counties/North-West.private|North-West.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Botswana/Counties/North-West.personal|North-West.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Botswana/Counties/North-West.secret|North-West.secret]] 
+- [[../../../../../../_Standards/geo/Continent/Africa/Botswana/Counties/North-West|North-West]] 
+- [[../../../../../../_public/geo/Continent/Africa/Botswana/Counties/North-West.public|North-West.public]] 
+- [[../../../../../../_internal/geo/Continent/Africa/Botswana/Counties/North-West.internal|North-West.internal]] 
+- [[../../../../../../_protect/geo/Continent/Africa/Botswana/Counties/North-West.protect|North-West.protect]] 
+- [[../../../../../../_private/geo/Continent/Africa/Botswana/Counties/North-West.private|North-West.private]] 
+- [[../../../../../../_personal/geo/Continent/Africa/Botswana/Counties/North-West.personal|North-West.personal]] 
+- [[../../../../../../_secret/geo/Continent/Africa/Botswana/Counties/North-West.secret|North-West.secret]] 
 

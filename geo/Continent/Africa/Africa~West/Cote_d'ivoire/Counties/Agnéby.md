@@ -40,10 +40,11 @@ markerFolder: ./Agnéby/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Africa/Cote_d'Ivoire/Counties/Agnéby.md|Agnéby]] 
-- [[../../../../_internal/geo/Continent/Africa/Cote_d'Ivoire/Counties/Agnéby.internal|Agnéby.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Cote_d'Ivoire/Counties/Agnéby.protect|Agnéby.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Cote_d'Ivoire/Counties/Agnéby.private|Agnéby.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Cote_d'Ivoire/Counties/Agnéby.personal|Agnéby.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Cote_d'Ivoire/Counties/Agnéby.secret|Agnéby.secret]] 
+- [[../../../../../../_Standards/geo/Continent/Africa/Cote_d'Ivoire/Counties/Agnéby|Agnéby]] 
+- [[../../../../../../_public/geo/Continent/Africa/Cote_d'Ivoire/Counties/Agnéby.public|Agnéby.public]] 
+- [[../../../../../../_internal/geo/Continent/Africa/Cote_d'Ivoire/Counties/Agnéby.internal|Agnéby.internal]] 
+- [[../../../../../../_protect/geo/Continent/Africa/Cote_d'Ivoire/Counties/Agnéby.protect|Agnéby.protect]] 
+- [[../../../../../../_private/geo/Continent/Africa/Cote_d'Ivoire/Counties/Agnéby.private|Agnéby.private]] 
+- [[../../../../../../_personal/geo/Continent/Africa/Cote_d'Ivoire/Counties/Agnéby.personal|Agnéby.personal]] 
+- [[../../../../../../_secret/geo/Continent/Africa/Cote_d'Ivoire/Counties/Agnéby.secret|Agnéby.secret]] 
 

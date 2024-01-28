@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ -7.7 , 145.7 ] 
 type: geo-Region
 title: Gulf
@@ -40,10 +40,11 @@ markerFolder: ./Gulf/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Oceania/Papua_New_Guinea/Counties/Gulf.md|Gulf]] 
-- [[../../../../_internal/geo/Continent/Oceania/Papua_New_Guinea/Counties/Gulf.internal|Gulf.internal]] 
-- [[../../../../_protect/geo/Continent/Oceania/Papua_New_Guinea/Counties/Gulf.protect|Gulf.protect]] 
-- [[../../../../_private/geo/Continent/Oceania/Papua_New_Guinea/Counties/Gulf.private|Gulf.private]] 
-- [[../../../../_personal/geo/Continent/Oceania/Papua_New_Guinea/Counties/Gulf.personal|Gulf.personal]] 
-- [[../../../../_secret/geo/Continent/Oceania/Papua_New_Guinea/Counties/Gulf.secret|Gulf.secret]] 
+- [[../../../../../../_Standards/geo/Continent/Oceania/Papua_New_Guinea/Counties/Gulf|Gulf]] 
+- [[../../../../../../_public/geo/Continent/Oceania/Papua_New_Guinea/Counties/Gulf.public|Gulf.public]] 
+- [[../../../../../../_internal/geo/Continent/Oceania/Papua_New_Guinea/Counties/Gulf.internal|Gulf.internal]] 
+- [[../../../../../../_protect/geo/Continent/Oceania/Papua_New_Guinea/Counties/Gulf.protect|Gulf.protect]] 
+- [[../../../../../../_private/geo/Continent/Oceania/Papua_New_Guinea/Counties/Gulf.private|Gulf.private]] 
+- [[../../../../../../_personal/geo/Continent/Oceania/Papua_New_Guinea/Counties/Gulf.personal|Gulf.personal]] 
+- [[../../../../../../_secret/geo/Continent/Oceania/Papua_New_Guinea/Counties/Gulf.secret|Gulf.secret]] 
 

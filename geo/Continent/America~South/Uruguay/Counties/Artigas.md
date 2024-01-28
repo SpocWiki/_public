@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ -30.6 , -57 ] 
 type: geo-Region
 title: Artigas
@@ -40,10 +40,11 @@ markerFolder: ./Artigas/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/America~South/Uruguay/Counties/Artigas.md|Artigas]] 
-- [[../../../../_internal/geo/Continent/America~South/Uruguay/Counties/Artigas.internal|Artigas.internal]] 
-- [[../../../../_protect/geo/Continent/America~South/Uruguay/Counties/Artigas.protect|Artigas.protect]] 
-- [[../../../../_private/geo/Continent/America~South/Uruguay/Counties/Artigas.private|Artigas.private]] 
-- [[../../../../_personal/geo/Continent/America~South/Uruguay/Counties/Artigas.personal|Artigas.personal]] 
-- [[../../../../_secret/geo/Continent/America~South/Uruguay/Counties/Artigas.secret|Artigas.secret]] 
+- [[../../../../../../_Standards/geo/Continent/America~South/Uruguay/Counties/Artigas|Artigas]] 
+- [[../../../../../../_public/geo/Continent/America~South/Uruguay/Counties/Artigas.public|Artigas.public]] 
+- [[../../../../../../_internal/geo/Continent/America~South/Uruguay/Counties/Artigas.internal|Artigas.internal]] 
+- [[../../../../../../_protect/geo/Continent/America~South/Uruguay/Counties/Artigas.protect|Artigas.protect]] 
+- [[../../../../../../_private/geo/Continent/America~South/Uruguay/Counties/Artigas.private|Artigas.private]] 
+- [[../../../../../../_personal/geo/Continent/America~South/Uruguay/Counties/Artigas.personal|Artigas.personal]] 
+- [[../../../../../../_secret/geo/Continent/America~South/Uruguay/Counties/Artigas.secret|Artigas.secret]] 
 

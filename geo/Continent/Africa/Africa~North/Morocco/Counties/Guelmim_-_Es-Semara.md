@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 28.2 , -10.2 ] 
 type: geo-Region
 title: Guelmim_-_Es-Semara
@@ -40,10 +40,11 @@ markerFolder: ./Guelmim_-_Es-Semara/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Africa/Morocco/Counties/Guelmim_-_Es-Semara.md|Guelmim_-_Es-Semara]] 
-- [[../../../../_internal/geo/Continent/Africa/Morocco/Counties/Guelmim_-_Es-Semara.internal|Guelmim_-_Es-Semara.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Morocco/Counties/Guelmim_-_Es-Semara.protect|Guelmim_-_Es-Semara.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Morocco/Counties/Guelmim_-_Es-Semara.private|Guelmim_-_Es-Semara.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Morocco/Counties/Guelmim_-_Es-Semara.personal|Guelmim_-_Es-Semara.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Morocco/Counties/Guelmim_-_Es-Semara.secret|Guelmim_-_Es-Semara.secret]] 
+- [[../../../../../../_Standards/geo/Continent/Africa/Morocco/Counties/Guelmim_-_Es-Semara|Guelmim_-_Es-Semara]] 
+- [[../../../../../../_public/geo/Continent/Africa/Morocco/Counties/Guelmim_-_Es-Semara.public|Guelmim_-_Es-Semara.public]] 
+- [[../../../../../../_internal/geo/Continent/Africa/Morocco/Counties/Guelmim_-_Es-Semara.internal|Guelmim_-_Es-Semara.internal]] 
+- [[../../../../../../_protect/geo/Continent/Africa/Morocco/Counties/Guelmim_-_Es-Semara.protect|Guelmim_-_Es-Semara.protect]] 
+- [[../../../../../../_private/geo/Continent/Africa/Morocco/Counties/Guelmim_-_Es-Semara.private|Guelmim_-_Es-Semara.private]] 
+- [[../../../../../../_personal/geo/Continent/Africa/Morocco/Counties/Guelmim_-_Es-Semara.personal|Guelmim_-_Es-Semara.personal]] 
+- [[../../../../../../_secret/geo/Continent/Africa/Morocco/Counties/Guelmim_-_Es-Semara.secret|Guelmim_-_Es-Semara.secret]] 
 

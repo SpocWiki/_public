@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 2.9 , 11.4 ] 
 type: geo-Region
 title: Sud
@@ -40,10 +40,11 @@ markerFolder: ./Sud/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Africa/Cameroon/Counties/Sud.md|Sud]] 
-- [[../../../../_internal/geo/Continent/Africa/Cameroon/Counties/Sud.internal|Sud.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Cameroon/Counties/Sud.protect|Sud.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Cameroon/Counties/Sud.private|Sud.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Cameroon/Counties/Sud.personal|Sud.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Cameroon/Counties/Sud.secret|Sud.secret]] 
+- [[../../../../../../_Standards/geo/Continent/Africa/Cameroon/Counties/Sud|Sud]] 
+- [[../../../../../../_public/geo/Continent/Africa/Cameroon/Counties/Sud.public|Sud.public]] 
+- [[../../../../../../_internal/geo/Continent/Africa/Cameroon/Counties/Sud.internal|Sud.internal]] 
+- [[../../../../../../_protect/geo/Continent/Africa/Cameroon/Counties/Sud.protect|Sud.protect]] 
+- [[../../../../../../_private/geo/Continent/Africa/Cameroon/Counties/Sud.private|Sud.private]] 
+- [[../../../../../../_personal/geo/Continent/Africa/Cameroon/Counties/Sud.personal|Sud.personal]] 
+- [[../../../../../../_secret/geo/Continent/Africa/Cameroon/Counties/Sud.secret|Sud.secret]] 
 

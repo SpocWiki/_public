@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 2.8 , -59 ] 
 type: geo-Region
 title: Upper_Demerara-Berbice
@@ -40,10 +40,11 @@ markerFolder: ./Upper_Demerara-Berbice/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/America~South/Guyana/Counties/Upper_Demerara-Berbice.md|Upper_Demerara-Berbice]] 
-- [[../../../../_internal/geo/Continent/America~South/Guyana/Counties/Upper_Demerara-Berbice.internal|Upper_Demerara-Berbice.internal]] 
-- [[../../../../_protect/geo/Continent/America~South/Guyana/Counties/Upper_Demerara-Berbice.protect|Upper_Demerara-Berbice.protect]] 
-- [[../../../../_private/geo/Continent/America~South/Guyana/Counties/Upper_Demerara-Berbice.private|Upper_Demerara-Berbice.private]] 
-- [[../../../../_personal/geo/Continent/America~South/Guyana/Counties/Upper_Demerara-Berbice.personal|Upper_Demerara-Berbice.personal]] 
-- [[../../../../_secret/geo/Continent/America~South/Guyana/Counties/Upper_Demerara-Berbice.secret|Upper_Demerara-Berbice.secret]] 
+- [[../../../../../../_Standards/geo/Continent/America~South/Guyana/Counties/Upper_Demerara-Berbice|Upper_Demerara-Berbice]] 
+- [[../../../../../../_public/geo/Continent/America~South/Guyana/Counties/Upper_Demerara-Berbice.public|Upper_Demerara-Berbice.public]] 
+- [[../../../../../../_internal/geo/Continent/America~South/Guyana/Counties/Upper_Demerara-Berbice.internal|Upper_Demerara-Berbice.internal]] 
+- [[../../../../../../_protect/geo/Continent/America~South/Guyana/Counties/Upper_Demerara-Berbice.protect|Upper_Demerara-Berbice.protect]] 
+- [[../../../../../../_private/geo/Continent/America~South/Guyana/Counties/Upper_Demerara-Berbice.private|Upper_Demerara-Berbice.private]] 
+- [[../../../../../../_personal/geo/Continent/America~South/Guyana/Counties/Upper_Demerara-Berbice.personal|Upper_Demerara-Berbice.personal]] 
+- [[../../../../../../_secret/geo/Continent/America~South/Guyana/Counties/Upper_Demerara-Berbice.secret|Upper_Demerara-Berbice.secret]] 
 

@@ -1,5 +1,5 @@
 ﻿---
-location: [-26.31667,31.13333]
+location: [-26.31667,31.13333] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,27 +12,28 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::31.13333]
-[geo-lat::-26.31667]
-[name::Mbabane]
-[State::]
-[Country::[[Swaziland]]]
-[StateId::]
-[Population::]
-[Unknown::32]
+[geo-lon::31.13333] 
+[geo-lat::-26.31667] 
+[name::Mbabane] 
+State ::  
+Country :: [[Swaziland]]  
+[StateId::] 
+[Population::] 
+[Unknown::32] 
 
 
 ```leaflet
 id: Mbabane
-coordinates: [[Mbabane]]
-markerFile: [[Mbabane]]
+coordinates: [[Mbabane]] 
+markerFile: [[Mbabane]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_public/geo/Continent/Africa/Swaziland/City/Mbabane.md|Mbabane]] 
+- [[../../../../../../_Standards/geo/Continent/Africa/Swaziland/City/Mbabane|Mbabane]] 
+- [[../../../../../../_public/geo/Continent/Africa/Swaziland/City/Mbabane.public|Mbabane.public]] 
 - [[../../../../../../_internal/geo/Continent/Africa/Swaziland/City/Mbabane.internal|Mbabane.internal]] 
 - [[../../../../../../_protect/geo/Continent/Africa/Swaziland/City/Mbabane.protect|Mbabane.protect]] 
 - [[../../../../../../_private/geo/Continent/Africa/Swaziland/City/Mbabane.private|Mbabane.private]] 

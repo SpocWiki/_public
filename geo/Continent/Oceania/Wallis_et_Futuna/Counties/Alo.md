@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ -14.36 , 181.97 ] 
 type: geo-Region
 title: Alo
@@ -40,10 +40,11 @@ markerFolder: ./Alo/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Oceania/Wallis_et_Futuna/Counties/Alo.md|Alo]] 
-- [[../../../../_internal/geo/Continent/Oceania/Wallis_et_Futuna/Counties/Alo.internal|Alo.internal]] 
-- [[../../../../_protect/geo/Continent/Oceania/Wallis_et_Futuna/Counties/Alo.protect|Alo.protect]] 
-- [[../../../../_private/geo/Continent/Oceania/Wallis_et_Futuna/Counties/Alo.private|Alo.private]] 
-- [[../../../../_personal/geo/Continent/Oceania/Wallis_et_Futuna/Counties/Alo.personal|Alo.personal]] 
-- [[../../../../_secret/geo/Continent/Oceania/Wallis_et_Futuna/Counties/Alo.secret|Alo.secret]] 
+- [[../../../../../../_Standards/geo/Continent/Oceania/Wallis_et_Futuna/Counties/Alo|Alo]] 
+- [[../../../../../../_public/geo/Continent/Oceania/Wallis_et_Futuna/Counties/Alo.public|Alo.public]] 
+- [[../../../../../../_internal/geo/Continent/Oceania/Wallis_et_Futuna/Counties/Alo.internal|Alo.internal]] 
+- [[../../../../../../_protect/geo/Continent/Oceania/Wallis_et_Futuna/Counties/Alo.protect|Alo.protect]] 
+- [[../../../../../../_private/geo/Continent/Oceania/Wallis_et_Futuna/Counties/Alo.private|Alo.private]] 
+- [[../../../../../../_personal/geo/Continent/Oceania/Wallis_et_Futuna/Counties/Alo.personal|Alo.personal]] 
+- [[../../../../../../_secret/geo/Continent/Oceania/Wallis_et_Futuna/Counties/Alo.secret|Alo.secret]] 
 

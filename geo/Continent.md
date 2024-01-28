@@ -2,7 +2,7 @@
 
 Naively described as  contiguous Land-Mass 
 surrounded by Water-Mass 
-or high Barries like Mountain-Ranges 
+or high Barriers like Mountain-Ranges 
 (e.g. [[Ural Mountains]], [[Himalayas]]) 
 on a global-scale 
 (in Opposition to Islands, the largest of which is [[Greenland]]). 
@@ -26,7 +26,8 @@ type: folder_brief_live
 
 
 ## Confidential Links & Embeds: 
-- [[../../_public/geo/Continent.md|Continent]] 
+- [[../../_Standards/geo/Continent|Continent]] 
+- [[../../_public/geo/Continent.public|Continent.public]] 
 - [[../../_internal/geo/Continent.internal|Continent.internal]] 
 - [[../../_protect/geo/Continent.protect|Continent.protect]] 
 - [[../../_private/geo/Continent.private|Continent.private]] 

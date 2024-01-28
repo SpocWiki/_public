@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ -45.3 , 170 ] 
 type: geo-Region
 title: Otago
@@ -40,10 +40,11 @@ markerFolder: ./Otago/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Australia/New_Zealand/Counties/Otago.md|Otago]] 
-- [[../../../../_internal/geo/Continent/Australia/New_Zealand/Counties/Otago.internal|Otago.internal]] 
-- [[../../../../_protect/geo/Continent/Australia/New_Zealand/Counties/Otago.protect|Otago.protect]] 
-- [[../../../../_private/geo/Continent/Australia/New_Zealand/Counties/Otago.private|Otago.private]] 
-- [[../../../../_personal/geo/Continent/Australia/New_Zealand/Counties/Otago.personal|Otago.personal]] 
-- [[../../../../_secret/geo/Continent/Australia/New_Zealand/Counties/Otago.secret|Otago.secret]] 
+- [[../../../../../../_Standards/geo/Continent/Australia/New_Zealand/Counties/Otago|Otago]] 
+- [[../../../../../../_public/geo/Continent/Australia/New_Zealand/Counties/Otago.public|Otago.public]] 
+- [[../../../../../../_internal/geo/Continent/Australia/New_Zealand/Counties/Otago.internal|Otago.internal]] 
+- [[../../../../../../_protect/geo/Continent/Australia/New_Zealand/Counties/Otago.protect|Otago.protect]] 
+- [[../../../../../../_private/geo/Continent/Australia/New_Zealand/Counties/Otago.private|Otago.private]] 
+- [[../../../../../../_personal/geo/Continent/Australia/New_Zealand/Counties/Otago.personal|Otago.personal]] 
+- [[../../../../../../_secret/geo/Continent/Australia/New_Zealand/Counties/Otago.secret|Otago.secret]] 
 

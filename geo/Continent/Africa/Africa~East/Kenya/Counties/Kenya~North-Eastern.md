@@ -40,10 +40,11 @@ markerFolder: ./Kenya~North-Eastern/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Africa/Kenya/Counties/Kenya~North-Eastern.md|Kenya~North-Eastern]] 
-- [[../../../../_internal/geo/Continent/Africa/Kenya/Counties/Kenya~North-Eastern.internal|Kenya~North-Eastern.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Kenya/Counties/Kenya~North-Eastern.protect|Kenya~North-Eastern.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Kenya/Counties/Kenya~North-Eastern.private|Kenya~North-Eastern.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Kenya/Counties/Kenya~North-Eastern.personal|Kenya~North-Eastern.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Kenya/Counties/Kenya~North-Eastern.secret|Kenya~North-Eastern.secret]] 
+- [[../../../../../../_Standards/geo/Continent/Africa/Kenya/Counties/Kenya~North-Eastern|Kenya~North-Eastern]] 
+- [[../../../../../../_public/geo/Continent/Africa/Kenya/Counties/Kenya~North-Eastern.public|Kenya~North-Eastern.public]] 
+- [[../../../../../../_internal/geo/Continent/Africa/Kenya/Counties/Kenya~North-Eastern.internal|Kenya~North-Eastern.internal]] 
+- [[../../../../../../_protect/geo/Continent/Africa/Kenya/Counties/Kenya~North-Eastern.protect|Kenya~North-Eastern.protect]] 
+- [[../../../../../../_private/geo/Continent/Africa/Kenya/Counties/Kenya~North-Eastern.private|Kenya~North-Eastern.private]] 
+- [[../../../../../../_personal/geo/Continent/Africa/Kenya/Counties/Kenya~North-Eastern.personal|Kenya~North-Eastern.personal]] 
+- [[../../../../../../_secret/geo/Continent/Africa/Kenya/Counties/Kenya~North-Eastern.secret|Kenya~North-Eastern.secret]] 
 

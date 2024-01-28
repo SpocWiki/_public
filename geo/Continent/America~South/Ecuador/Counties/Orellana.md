@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ -0.8 , -76.2 ] 
 type: geo-Region
 title: Orellana
@@ -40,10 +40,11 @@ markerFolder: ./Orellana/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/America~South/Ecuador/Counties/Orellana.md|Orellana]] 
-- [[../../../../_internal/geo/Continent/America~South/Ecuador/Counties/Orellana.internal|Orellana.internal]] 
-- [[../../../../_protect/geo/Continent/America~South/Ecuador/Counties/Orellana.protect|Orellana.protect]] 
-- [[../../../../_private/geo/Continent/America~South/Ecuador/Counties/Orellana.private|Orellana.private]] 
-- [[../../../../_personal/geo/Continent/America~South/Ecuador/Counties/Orellana.personal|Orellana.personal]] 
-- [[../../../../_secret/geo/Continent/America~South/Ecuador/Counties/Orellana.secret|Orellana.secret]] 
+- [[../../../../../../_Standards/geo/Continent/America~South/Ecuador/Counties/Orellana|Orellana]] 
+- [[../../../../../../_public/geo/Continent/America~South/Ecuador/Counties/Orellana.public|Orellana.public]] 
+- [[../../../../../../_internal/geo/Continent/America~South/Ecuador/Counties/Orellana.internal|Orellana.internal]] 
+- [[../../../../../../_protect/geo/Continent/America~South/Ecuador/Counties/Orellana.protect|Orellana.protect]] 
+- [[../../../../../../_private/geo/Continent/America~South/Ecuador/Counties/Orellana.private|Orellana.private]] 
+- [[../../../../../../_personal/geo/Continent/America~South/Ecuador/Counties/Orellana.personal|Orellana.personal]] 
+- [[../../../../../../_secret/geo/Continent/America~South/Ecuador/Counties/Orellana.secret|Orellana.secret]] 
 

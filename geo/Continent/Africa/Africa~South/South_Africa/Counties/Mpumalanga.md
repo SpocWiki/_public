@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ -25.7 , 30.2 ] 
 type: geo-Region
 title: Mpumalanga
@@ -40,10 +40,11 @@ markerFolder: ./Mpumalanga/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Africa/South_Africa/Counties/Mpumalanga.md|Mpumalanga]] 
-- [[../../../../_internal/geo/Continent/Africa/South_Africa/Counties/Mpumalanga.internal|Mpumalanga.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/South_Africa/Counties/Mpumalanga.protect|Mpumalanga.protect]] 
-- [[../../../../_private/geo/Continent/Africa/South_Africa/Counties/Mpumalanga.private|Mpumalanga.private]] 
-- [[../../../../_personal/geo/Continent/Africa/South_Africa/Counties/Mpumalanga.personal|Mpumalanga.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/South_Africa/Counties/Mpumalanga.secret|Mpumalanga.secret]] 
+- [[../../../../../../_Standards/geo/Continent/Africa/South_Africa/Counties/Mpumalanga|Mpumalanga]] 
+- [[../../../../../../_public/geo/Continent/Africa/South_Africa/Counties/Mpumalanga.public|Mpumalanga.public]] 
+- [[../../../../../../_internal/geo/Continent/Africa/South_Africa/Counties/Mpumalanga.internal|Mpumalanga.internal]] 
+- [[../../../../../../_protect/geo/Continent/Africa/South_Africa/Counties/Mpumalanga.protect|Mpumalanga.protect]] 
+- [[../../../../../../_private/geo/Continent/Africa/South_Africa/Counties/Mpumalanga.private|Mpumalanga.private]] 
+- [[../../../../../../_personal/geo/Continent/Africa/South_Africa/Counties/Mpumalanga.personal|Mpumalanga.personal]] 
+- [[../../../../../../_secret/geo/Continent/Africa/South_Africa/Counties/Mpumalanga.secret|Mpumalanga.secret]] 
 

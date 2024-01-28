@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ -9.4 , 38.4 ] 
 type: geo-Region
 title: Lindi
@@ -40,10 +40,11 @@ markerFolder: ./Lindi/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Africa/Tanzania/Counties/Lindi.md|Lindi]] 
-- [[../../../../_internal/geo/Continent/Africa/Tanzania/Counties/Lindi.internal|Lindi.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Tanzania/Counties/Lindi.protect|Lindi.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Tanzania/Counties/Lindi.private|Lindi.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Tanzania/Counties/Lindi.personal|Lindi.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Tanzania/Counties/Lindi.secret|Lindi.secret]] 
+- [[../../../../../../_Standards/geo/Continent/Africa/Tanzania/Counties/Lindi|Lindi]] 
+- [[../../../../../../_public/geo/Continent/Africa/Tanzania/Counties/Lindi.public|Lindi.public]] 
+- [[../../../../../../_internal/geo/Continent/Africa/Tanzania/Counties/Lindi.internal|Lindi.internal]] 
+- [[../../../../../../_protect/geo/Continent/Africa/Tanzania/Counties/Lindi.protect|Lindi.protect]] 
+- [[../../../../../../_private/geo/Continent/Africa/Tanzania/Counties/Lindi.private|Lindi.private]] 
+- [[../../../../../../_personal/geo/Continent/Africa/Tanzania/Counties/Lindi.personal|Lindi.personal]] 
+- [[../../../../../../_secret/geo/Continent/Africa/Tanzania/Counties/Lindi.secret|Lindi.secret]] 
 

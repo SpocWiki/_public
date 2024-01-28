@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 9.5 , 0.8 ] 
 type: geo-Region
 title: Kara
@@ -40,10 +40,11 @@ markerFolder: ./Kara/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Africa/Togo/Counties/Kara.md|Kara]] 
-- [[../../../../_internal/geo/Continent/Africa/Togo/Counties/Kara.internal|Kara.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Togo/Counties/Kara.protect|Kara.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Togo/Counties/Kara.private|Kara.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Togo/Counties/Kara.personal|Kara.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Togo/Counties/Kara.secret|Kara.secret]] 
+- [[../../../../../../_Standards/geo/Continent/Africa/Togo/Counties/Kara|Kara]] 
+- [[../../../../../../_public/geo/Continent/Africa/Togo/Counties/Kara.public|Kara.public]] 
+- [[../../../../../../_internal/geo/Continent/Africa/Togo/Counties/Kara.internal|Kara.internal]] 
+- [[../../../../../../_protect/geo/Continent/Africa/Togo/Counties/Kara.protect|Kara.protect]] 
+- [[../../../../../../_private/geo/Continent/Africa/Togo/Counties/Kara.private|Kara.private]] 
+- [[../../../../../../_personal/geo/Continent/Africa/Togo/Counties/Kara.personal|Kara.personal]] 
+- [[../../../../../../_secret/geo/Continent/Africa/Togo/Counties/Kara.secret|Kara.secret]] 
 

@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 24.5 , 15.3 ] 
 type: geo-Region
 title: Murzuq
@@ -40,10 +40,11 @@ markerFolder: ./Murzuq/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Africa/Libya/Counties/Murzuq.md|Murzuq]] 
-- [[../../../../_internal/geo/Continent/Africa/Libya/Counties/Murzuq.internal|Murzuq.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Libya/Counties/Murzuq.protect|Murzuq.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Libya/Counties/Murzuq.private|Murzuq.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Libya/Counties/Murzuq.personal|Murzuq.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Libya/Counties/Murzuq.secret|Murzuq.secret]] 
+- [[../../../../../../_Standards/geo/Continent/Africa/Libya/Counties/Murzuq|Murzuq]] 
+- [[../../../../../../_public/geo/Continent/Africa/Libya/Counties/Murzuq.public|Murzuq.public]] 
+- [[../../../../../../_internal/geo/Continent/Africa/Libya/Counties/Murzuq.internal|Murzuq.internal]] 
+- [[../../../../../../_protect/geo/Continent/Africa/Libya/Counties/Murzuq.protect|Murzuq.protect]] 
+- [[../../../../../../_private/geo/Continent/Africa/Libya/Counties/Murzuq.private|Murzuq.private]] 
+- [[../../../../../../_personal/geo/Continent/Africa/Libya/Counties/Murzuq.personal|Murzuq.personal]] 
+- [[../../../../../../_secret/geo/Continent/Africa/Libya/Counties/Murzuq.secret|Murzuq.secret]] 
 

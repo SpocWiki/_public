@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 27 , 7.9 ] 
 type: geo-Region
 title: Illizi
@@ -40,10 +40,11 @@ markerFolder: ./Illizi/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Africa/Algeria/Counties/Illizi.md|Illizi]] 
-- [[../../../../_internal/geo/Continent/Africa/Algeria/Counties/Illizi.internal|Illizi.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Algeria/Counties/Illizi.protect|Illizi.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Algeria/Counties/Illizi.private|Illizi.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Algeria/Counties/Illizi.personal|Illizi.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Algeria/Counties/Illizi.secret|Illizi.secret]] 
+- [[../../../../../../_Standards/geo/Continent/Africa/Algeria/Counties/Illizi|Illizi]] 
+- [[../../../../../../_public/geo/Continent/Africa/Algeria/Counties/Illizi.public|Illizi.public]] 
+- [[../../../../../../_internal/geo/Continent/Africa/Algeria/Counties/Illizi.internal|Illizi.internal]] 
+- [[../../../../../../_protect/geo/Continent/Africa/Algeria/Counties/Illizi.protect|Illizi.protect]] 
+- [[../../../../../../_private/geo/Continent/Africa/Algeria/Counties/Illizi.private|Illizi.private]] 
+- [[../../../../../../_personal/geo/Continent/Africa/Algeria/Counties/Illizi.personal|Illizi.personal]] 
+- [[../../../../../../_secret/geo/Continent/Africa/Algeria/Counties/Illizi.secret|Illizi.secret]] 
 

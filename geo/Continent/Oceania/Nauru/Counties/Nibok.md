@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ -0.52 , 166.92 ] 
 type: geo-Region
 title: Nibok
@@ -40,10 +40,11 @@ markerFolder: ./Nibok/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Oceania/Nauru/Counties/Nibok.md|Nibok]] 
-- [[../../../../_internal/geo/Continent/Oceania/Nauru/Counties/Nibok.internal|Nibok.internal]] 
-- [[../../../../_protect/geo/Continent/Oceania/Nauru/Counties/Nibok.protect|Nibok.protect]] 
-- [[../../../../_private/geo/Continent/Oceania/Nauru/Counties/Nibok.private|Nibok.private]] 
-- [[../../../../_personal/geo/Continent/Oceania/Nauru/Counties/Nibok.personal|Nibok.personal]] 
-- [[../../../../_secret/geo/Continent/Oceania/Nauru/Counties/Nibok.secret|Nibok.secret]] 
+- [[../../../../../../_Standards/geo/Continent/Oceania/Nauru/Counties/Nibok|Nibok]] 
+- [[../../../../../../_public/geo/Continent/Oceania/Nauru/Counties/Nibok.public|Nibok.public]] 
+- [[../../../../../../_internal/geo/Continent/Oceania/Nauru/Counties/Nibok.internal|Nibok.internal]] 
+- [[../../../../../../_protect/geo/Continent/Oceania/Nauru/Counties/Nibok.protect|Nibok.protect]] 
+- [[../../../../../../_private/geo/Continent/Oceania/Nauru/Counties/Nibok.private|Nibok.private]] 
+- [[../../../../../../_personal/geo/Continent/Oceania/Nauru/Counties/Nibok.personal|Nibok.personal]] 
+- [[../../../../../../_secret/geo/Continent/Oceania/Nauru/Counties/Nibok.secret|Nibok.secret]] 
 

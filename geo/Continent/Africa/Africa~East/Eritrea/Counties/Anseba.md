@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 15.4 , 38.9 ] 
 type: geo-Region
 title: Anseba
@@ -40,10 +40,11 @@ markerFolder: ./Anseba/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Africa/Eritrea/Counties/Anseba.md|Anseba]] 
-- [[../../../../_internal/geo/Continent/Africa/Eritrea/Counties/Anseba.internal|Anseba.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Eritrea/Counties/Anseba.protect|Anseba.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Eritrea/Counties/Anseba.private|Anseba.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Eritrea/Counties/Anseba.personal|Anseba.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Eritrea/Counties/Anseba.secret|Anseba.secret]] 
+- [[../../../../../../_Standards/geo/Continent/Africa/Eritrea/Counties/Anseba|Anseba]] 
+- [[../../../../../../_public/geo/Continent/Africa/Eritrea/Counties/Anseba.public|Anseba.public]] 
+- [[../../../../../../_internal/geo/Continent/Africa/Eritrea/Counties/Anseba.internal|Anseba.internal]] 
+- [[../../../../../../_protect/geo/Continent/Africa/Eritrea/Counties/Anseba.protect|Anseba.protect]] 
+- [[../../../../../../_private/geo/Continent/Africa/Eritrea/Counties/Anseba.private|Anseba.private]] 
+- [[../../../../../../_personal/geo/Continent/Africa/Eritrea/Counties/Anseba.personal|Anseba.personal]] 
+- [[../../../../../../_secret/geo/Continent/Africa/Eritrea/Counties/Anseba.secret|Anseba.secret]] 
 

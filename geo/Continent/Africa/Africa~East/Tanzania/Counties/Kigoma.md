@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ -4.8 , 30.4 ] 
 type: geo-Region
 title: Kigoma
@@ -40,10 +40,11 @@ markerFolder: ./Kigoma/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Africa/Tanzania/Counties/Kigoma.md|Kigoma]] 
-- [[../../../../_internal/geo/Continent/Africa/Tanzania/Counties/Kigoma.internal|Kigoma.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Tanzania/Counties/Kigoma.protect|Kigoma.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Tanzania/Counties/Kigoma.private|Kigoma.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Tanzania/Counties/Kigoma.personal|Kigoma.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Tanzania/Counties/Kigoma.secret|Kigoma.secret]] 
+- [[../../../../../../_Standards/geo/Continent/Africa/Tanzania/Counties/Kigoma|Kigoma]] 
+- [[../../../../../../_public/geo/Continent/Africa/Tanzania/Counties/Kigoma.public|Kigoma.public]] 
+- [[../../../../../../_internal/geo/Continent/Africa/Tanzania/Counties/Kigoma.internal|Kigoma.internal]] 
+- [[../../../../../../_protect/geo/Continent/Africa/Tanzania/Counties/Kigoma.protect|Kigoma.protect]] 
+- [[../../../../../../_private/geo/Continent/Africa/Tanzania/Counties/Kigoma.private|Kigoma.private]] 
+- [[../../../../../../_personal/geo/Continent/Africa/Tanzania/Counties/Kigoma.personal|Kigoma.personal]] 
+- [[../../../../../../_secret/geo/Continent/Africa/Tanzania/Counties/Kigoma.secret|Kigoma.secret]] 
 

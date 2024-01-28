@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ -26 , -60.7 ] 
 type: geo-Region
 title: Chaco
@@ -40,10 +40,11 @@ markerFolder: ./Chaco/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/America~South/Argentina/Counties/Chaco.md|Chaco]] 
-- [[../../../../_internal/geo/Continent/America~South/Argentina/Counties/Chaco.internal|Chaco.internal]] 
-- [[../../../../_protect/geo/Continent/America~South/Argentina/Counties/Chaco.protect|Chaco.protect]] 
-- [[../../../../_private/geo/Continent/America~South/Argentina/Counties/Chaco.private|Chaco.private]] 
-- [[../../../../_personal/geo/Continent/America~South/Argentina/Counties/Chaco.personal|Chaco.personal]] 
-- [[../../../../_secret/geo/Continent/America~South/Argentina/Counties/Chaco.secret|Chaco.secret]] 
+- [[../../../../../../_Standards/geo/Continent/America~South/Argentina/Counties/Chaco|Chaco]] 
+- [[../../../../../../_public/geo/Continent/America~South/Argentina/Counties/Chaco.public|Chaco.public]] 
+- [[../../../../../../_internal/geo/Continent/America~South/Argentina/Counties/Chaco.internal|Chaco.internal]] 
+- [[../../../../../../_protect/geo/Continent/America~South/Argentina/Counties/Chaco.protect|Chaco.protect]] 
+- [[../../../../../../_private/geo/Continent/America~South/Argentina/Counties/Chaco.private|Chaco.private]] 
+- [[../../../../../../_personal/geo/Continent/America~South/Argentina/Counties/Chaco.personal|Chaco.personal]] 
+- [[../../../../../../_secret/geo/Continent/America~South/Argentina/Counties/Chaco.secret|Chaco.secret]] 
 

@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ -19.25 , 201.09 ] 
 type: geo-Region
 title: Aitutaki
@@ -40,10 +40,11 @@ markerFolder: ./Aitutaki/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Oceania/Cook~Islands/Counties/Aitutaki.md|Aitutaki]] 
-- [[../../../../_internal/geo/Continent/Oceania/Cook~Islands/Counties/Aitutaki.internal|Aitutaki.internal]] 
-- [[../../../../_protect/geo/Continent/Oceania/Cook~Islands/Counties/Aitutaki.protect|Aitutaki.protect]] 
-- [[../../../../_private/geo/Continent/Oceania/Cook~Islands/Counties/Aitutaki.private|Aitutaki.private]] 
-- [[../../../../_personal/geo/Continent/Oceania/Cook~Islands/Counties/Aitutaki.personal|Aitutaki.personal]] 
-- [[../../../../_secret/geo/Continent/Oceania/Cook~Islands/Counties/Aitutaki.secret|Aitutaki.secret]] 
+- [[../../../../../../_Standards/geo/Continent/Oceania/Cook~Islands/Counties/Aitutaki|Aitutaki]] 
+- [[../../../../../../_public/geo/Continent/Oceania/Cook~Islands/Counties/Aitutaki.public|Aitutaki.public]] 
+- [[../../../../../../_internal/geo/Continent/Oceania/Cook~Islands/Counties/Aitutaki.internal|Aitutaki.internal]] 
+- [[../../../../../../_protect/geo/Continent/Oceania/Cook~Islands/Counties/Aitutaki.protect|Aitutaki.protect]] 
+- [[../../../../../../_private/geo/Continent/Oceania/Cook~Islands/Counties/Aitutaki.private|Aitutaki.private]] 
+- [[../../../../../../_personal/geo/Continent/Oceania/Cook~Islands/Counties/Aitutaki.personal|Aitutaki.personal]] 
+- [[../../../../../../_secret/geo/Continent/Oceania/Cook~Islands/Counties/Aitutaki.secret|Aitutaki.secret]] 
 

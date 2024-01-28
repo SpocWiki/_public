@@ -40,10 +40,11 @@ markerFolder: ./Sierra_Leone~Northern/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Africa/Sierra_Leone/Counties/Sierra_Leone~Northern.md|Sierra_Leone~Northern]] 
-- [[../../../../_internal/geo/Continent/Africa/Sierra_Leone/Counties/Sierra_Leone~Northern.internal|Sierra_Leone~Northern.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Sierra_Leone/Counties/Sierra_Leone~Northern.protect|Sierra_Leone~Northern.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Sierra_Leone/Counties/Sierra_Leone~Northern.private|Sierra_Leone~Northern.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Sierra_Leone/Counties/Sierra_Leone~Northern.personal|Sierra_Leone~Northern.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Sierra_Leone/Counties/Sierra_Leone~Northern.secret|Sierra_Leone~Northern.secret]] 
+- [[../../../../../../_Standards/geo/Continent/Africa/Sierra_Leone/Counties/Sierra_Leone~Northern|Sierra_Leone~Northern]] 
+- [[../../../../../../_public/geo/Continent/Africa/Sierra_Leone/Counties/Sierra_Leone~Northern.public|Sierra_Leone~Northern.public]] 
+- [[../../../../../../_internal/geo/Continent/Africa/Sierra_Leone/Counties/Sierra_Leone~Northern.internal|Sierra_Leone~Northern.internal]] 
+- [[../../../../../../_protect/geo/Continent/Africa/Sierra_Leone/Counties/Sierra_Leone~Northern.protect|Sierra_Leone~Northern.protect]] 
+- [[../../../../../../_private/geo/Continent/Africa/Sierra_Leone/Counties/Sierra_Leone~Northern.private|Sierra_Leone~Northern.private]] 
+- [[../../../../../../_personal/geo/Continent/Africa/Sierra_Leone/Counties/Sierra_Leone~Northern.personal|Sierra_Leone~Northern.personal]] 
+- [[../../../../../../_secret/geo/Continent/Africa/Sierra_Leone/Counties/Sierra_Leone~Northern.secret|Sierra_Leone~Northern.secret]] 
 

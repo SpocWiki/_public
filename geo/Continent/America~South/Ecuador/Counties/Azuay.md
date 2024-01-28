@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ -3.1 , -79.2 ] 
 type: geo-Region
 title: Azuay
@@ -40,10 +40,11 @@ markerFolder: ./Azuay/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/America~South/Ecuador/Counties/Azuay.md|Azuay]] 
-- [[../../../../_internal/geo/Continent/America~South/Ecuador/Counties/Azuay.internal|Azuay.internal]] 
-- [[../../../../_protect/geo/Continent/America~South/Ecuador/Counties/Azuay.protect|Azuay.protect]] 
-- [[../../../../_private/geo/Continent/America~South/Ecuador/Counties/Azuay.private|Azuay.private]] 
-- [[../../../../_personal/geo/Continent/America~South/Ecuador/Counties/Azuay.personal|Azuay.personal]] 
-- [[../../../../_secret/geo/Continent/America~South/Ecuador/Counties/Azuay.secret|Azuay.secret]] 
+- [[../../../../../../_Standards/geo/Continent/America~South/Ecuador/Counties/Azuay|Azuay]] 
+- [[../../../../../../_public/geo/Continent/America~South/Ecuador/Counties/Azuay.public|Azuay.public]] 
+- [[../../../../../../_internal/geo/Continent/America~South/Ecuador/Counties/Azuay.internal|Azuay.internal]] 
+- [[../../../../../../_protect/geo/Continent/America~South/Ecuador/Counties/Azuay.protect|Azuay.protect]] 
+- [[../../../../../../_private/geo/Continent/America~South/Ecuador/Counties/Azuay.private|Azuay.private]] 
+- [[../../../../../../_personal/geo/Continent/America~South/Ecuador/Counties/Azuay.personal|Azuay.personal]] 
+- [[../../../../../../_secret/geo/Continent/America~South/Ecuador/Counties/Azuay.secret|Azuay.secret]] 
 

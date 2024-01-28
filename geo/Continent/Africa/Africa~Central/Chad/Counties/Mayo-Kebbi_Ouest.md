@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 9.2 , 14.9 ] 
 type: geo-Region
 title: Mayo-Kebbi_Ouest
@@ -40,10 +40,11 @@ markerFolder: ./Mayo-Kebbi_Ouest/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Africa/Chad/Counties/Mayo-Kebbi_Ouest.md|Mayo-Kebbi_Ouest]] 
-- [[../../../../_internal/geo/Continent/Africa/Chad/Counties/Mayo-Kebbi_Ouest.internal|Mayo-Kebbi_Ouest.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Chad/Counties/Mayo-Kebbi_Ouest.protect|Mayo-Kebbi_Ouest.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Chad/Counties/Mayo-Kebbi_Ouest.private|Mayo-Kebbi_Ouest.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Chad/Counties/Mayo-Kebbi_Ouest.personal|Mayo-Kebbi_Ouest.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Chad/Counties/Mayo-Kebbi_Ouest.secret|Mayo-Kebbi_Ouest.secret]] 
+- [[../../../../../../_Standards/geo/Continent/Africa/Chad/Counties/Mayo-Kebbi_Ouest|Mayo-Kebbi_Ouest]] 
+- [[../../../../../../_public/geo/Continent/Africa/Chad/Counties/Mayo-Kebbi_Ouest.public|Mayo-Kebbi_Ouest.public]] 
+- [[../../../../../../_internal/geo/Continent/Africa/Chad/Counties/Mayo-Kebbi_Ouest.internal|Mayo-Kebbi_Ouest.internal]] 
+- [[../../../../../../_protect/geo/Continent/Africa/Chad/Counties/Mayo-Kebbi_Ouest.protect|Mayo-Kebbi_Ouest.protect]] 
+- [[../../../../../../_private/geo/Continent/Africa/Chad/Counties/Mayo-Kebbi_Ouest.private|Mayo-Kebbi_Ouest.private]] 
+- [[../../../../../../_personal/geo/Continent/Africa/Chad/Counties/Mayo-Kebbi_Ouest.personal|Mayo-Kebbi_Ouest.personal]] 
+- [[../../../../../../_secret/geo/Continent/Africa/Chad/Counties/Mayo-Kebbi_Ouest.secret|Mayo-Kebbi_Ouest.secret]] 
 

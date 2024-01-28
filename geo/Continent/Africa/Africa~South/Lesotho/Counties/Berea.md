@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ -29.2 , 27.9 ] 
 type: geo-Region
 title: Berea
@@ -40,10 +40,11 @@ markerFolder: ./Berea/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Africa/Lesotho/Counties/Berea.md|Berea]] 
-- [[../../../../_internal/geo/Continent/Africa/Lesotho/Counties/Berea.internal|Berea.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Lesotho/Counties/Berea.protect|Berea.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Lesotho/Counties/Berea.private|Berea.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Lesotho/Counties/Berea.personal|Berea.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Lesotho/Counties/Berea.secret|Berea.secret]] 
+- [[../../../../../../_Standards/geo/Continent/Africa/Lesotho/Counties/Berea|Berea]] 
+- [[../../../../../../_public/geo/Continent/Africa/Lesotho/Counties/Berea.public|Berea.public]] 
+- [[../../../../../../_internal/geo/Continent/Africa/Lesotho/Counties/Berea.internal|Berea.internal]] 
+- [[../../../../../../_protect/geo/Continent/Africa/Lesotho/Counties/Berea.protect|Berea.protect]] 
+- [[../../../../../../_private/geo/Continent/Africa/Lesotho/Counties/Berea.private|Berea.private]] 
+- [[../../../../../../_personal/geo/Continent/Africa/Lesotho/Counties/Berea.personal|Berea.personal]] 
+- [[../../../../../../_secret/geo/Continent/Africa/Lesotho/Counties/Berea.secret|Berea.secret]] 
 

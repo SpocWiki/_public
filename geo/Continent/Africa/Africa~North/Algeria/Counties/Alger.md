@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 36.7 , 3.1 ] 
 type: geo-Region
 title: Alger
@@ -40,10 +40,11 @@ markerFolder: ./Alger/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Africa/Algeria/Counties/Alger.md|Alger]] 
-- [[../../../../_internal/geo/Continent/Africa/Algeria/Counties/Alger.internal|Alger.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Algeria/Counties/Alger.protect|Alger.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Algeria/Counties/Alger.private|Alger.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Algeria/Counties/Alger.personal|Alger.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Algeria/Counties/Alger.secret|Alger.secret]] 
+- [[../../../../../../_Standards/geo/Continent/Africa/Algeria/Counties/Alger|Alger]] 
+- [[../../../../../../_public/geo/Continent/Africa/Algeria/Counties/Alger.public|Alger.public]] 
+- [[../../../../../../_internal/geo/Continent/Africa/Algeria/Counties/Alger.internal|Alger.internal]] 
+- [[../../../../../../_protect/geo/Continent/Africa/Algeria/Counties/Alger.protect|Alger.protect]] 
+- [[../../../../../../_private/geo/Continent/Africa/Algeria/Counties/Alger.private|Alger.private]] 
+- [[../../../../../../_personal/geo/Continent/Africa/Algeria/Counties/Alger.personal|Alger.personal]] 
+- [[../../../../../../_secret/geo/Continent/Africa/Algeria/Counties/Alger.secret|Alger.secret]] 
 

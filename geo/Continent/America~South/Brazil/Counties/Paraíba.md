@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ -7.1 , -36.7 ] 
 type: geo-Region
 title: Paraíba
@@ -40,10 +40,11 @@ markerFolder: ./Paraíba/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/America~South/Brazil/Counties/Paraíba.md|Paraíba]] 
-- [[../../../../_internal/geo/Continent/America~South/Brazil/Counties/Paraíba.internal|Paraíba.internal]] 
-- [[../../../../_protect/geo/Continent/America~South/Brazil/Counties/Paraíba.protect|Paraíba.protect]] 
-- [[../../../../_private/geo/Continent/America~South/Brazil/Counties/Paraíba.private|Paraíba.private]] 
-- [[../../../../_personal/geo/Continent/America~South/Brazil/Counties/Paraíba.personal|Paraíba.personal]] 
-- [[../../../../_secret/geo/Continent/America~South/Brazil/Counties/Paraíba.secret|Paraíba.secret]] 
+- [[../../../../../../_Standards/geo/Continent/America~South/Brazil/Counties/Paraíba|Paraíba]] 
+- [[../../../../../../_public/geo/Continent/America~South/Brazil/Counties/Paraíba.public|Paraíba.public]] 
+- [[../../../../../../_internal/geo/Continent/America~South/Brazil/Counties/Paraíba.internal|Paraíba.internal]] 
+- [[../../../../../../_protect/geo/Continent/America~South/Brazil/Counties/Paraíba.protect|Paraíba.protect]] 
+- [[../../../../../../_private/geo/Continent/America~South/Brazil/Counties/Paraíba.private|Paraíba.private]] 
+- [[../../../../../../_personal/geo/Continent/America~South/Brazil/Counties/Paraíba.personal|Paraíba.personal]] 
+- [[../../../../../../_secret/geo/Continent/America~South/Brazil/Counties/Paraíba.secret|Paraíba.secret]] 
 

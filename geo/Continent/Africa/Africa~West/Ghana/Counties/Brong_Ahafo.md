@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 7.6 , -2.2 ] 
 type: geo-Region
 title: Brong_Ahafo
@@ -40,10 +40,11 @@ markerFolder: ./Brong_Ahafo/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Africa/Ghana/Counties/Brong_Ahafo.md|Brong_Ahafo]] 
-- [[../../../../_internal/geo/Continent/Africa/Ghana/Counties/Brong_Ahafo.internal|Brong_Ahafo.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Ghana/Counties/Brong_Ahafo.protect|Brong_Ahafo.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Ghana/Counties/Brong_Ahafo.private|Brong_Ahafo.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Ghana/Counties/Brong_Ahafo.personal|Brong_Ahafo.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Ghana/Counties/Brong_Ahafo.secret|Brong_Ahafo.secret]] 
+- [[../../../../../../_Standards/geo/Continent/Africa/Ghana/Counties/Brong_Ahafo|Brong_Ahafo]] 
+- [[../../../../../../_public/geo/Continent/Africa/Ghana/Counties/Brong_Ahafo.public|Brong_Ahafo.public]] 
+- [[../../../../../../_internal/geo/Continent/Africa/Ghana/Counties/Brong_Ahafo.internal|Brong_Ahafo.internal]] 
+- [[../../../../../../_protect/geo/Continent/Africa/Ghana/Counties/Brong_Ahafo.protect|Brong_Ahafo.protect]] 
+- [[../../../../../../_private/geo/Continent/Africa/Ghana/Counties/Brong_Ahafo.private|Brong_Ahafo.private]] 
+- [[../../../../../../_personal/geo/Continent/Africa/Ghana/Counties/Brong_Ahafo.personal|Brong_Ahafo.personal]] 
+- [[../../../../../../_secret/geo/Continent/Africa/Ghana/Counties/Brong_Ahafo.secret|Brong_Ahafo.secret]] 
 

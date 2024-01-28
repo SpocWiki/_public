@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 15.5 , -89 ] 
 type: geo-Region
 title: Izabal
@@ -40,10 +40,11 @@ markerFolder: ./Izabal/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/America~Central/Guatemala/Counties/Izabal.md|Izabal]] 
-- [[../../../../_internal/geo/Continent/America~Central/Guatemala/Counties/Izabal.internal|Izabal.internal]] 
-- [[../../../../_protect/geo/Continent/America~Central/Guatemala/Counties/Izabal.protect|Izabal.protect]] 
-- [[../../../../_private/geo/Continent/America~Central/Guatemala/Counties/Izabal.private|Izabal.private]] 
-- [[../../../../_personal/geo/Continent/America~Central/Guatemala/Counties/Izabal.personal|Izabal.personal]] 
-- [[../../../../_secret/geo/Continent/America~Central/Guatemala/Counties/Izabal.secret|Izabal.secret]] 
+- [[../../../../../../_Standards/geo/Continent/America~Central/Guatemala/Counties/Izabal|Izabal]] 
+- [[../../../../../../_public/geo/Continent/America~Central/Guatemala/Counties/Izabal.public|Izabal.public]] 
+- [[../../../../../../_internal/geo/Continent/America~Central/Guatemala/Counties/Izabal.internal|Izabal.internal]] 
+- [[../../../../../../_protect/geo/Continent/America~Central/Guatemala/Counties/Izabal.protect|Izabal.protect]] 
+- [[../../../../../../_private/geo/Continent/America~Central/Guatemala/Counties/Izabal.private|Izabal.private]] 
+- [[../../../../../../_personal/geo/Continent/America~Central/Guatemala/Counties/Izabal.personal|Izabal.personal]] 
+- [[../../../../../../_secret/geo/Continent/America~Central/Guatemala/Counties/Izabal.secret|Izabal.secret]] 
 

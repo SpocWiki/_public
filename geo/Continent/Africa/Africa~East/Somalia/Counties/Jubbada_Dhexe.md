@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 1.1 , 42.8 ] 
 type: geo-Region
 title: Jubbada_Dhexe
@@ -40,10 +40,11 @@ markerFolder: ./Jubbada_Dhexe/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Africa/Somalia/Counties/Jubbada_Dhexe.md|Jubbada_Dhexe]] 
-- [[../../../../_internal/geo/Continent/Africa/Somalia/Counties/Jubbada_Dhexe.internal|Jubbada_Dhexe.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Somalia/Counties/Jubbada_Dhexe.protect|Jubbada_Dhexe.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Somalia/Counties/Jubbada_Dhexe.private|Jubbada_Dhexe.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Somalia/Counties/Jubbada_Dhexe.personal|Jubbada_Dhexe.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Somalia/Counties/Jubbada_Dhexe.secret|Jubbada_Dhexe.secret]] 
+- [[../../../../../../_Standards/geo/Continent/Africa/Somalia/Counties/Jubbada_Dhexe|Jubbada_Dhexe]] 
+- [[../../../../../../_public/geo/Continent/Africa/Somalia/Counties/Jubbada_Dhexe.public|Jubbada_Dhexe.public]] 
+- [[../../../../../../_internal/geo/Continent/Africa/Somalia/Counties/Jubbada_Dhexe.internal|Jubbada_Dhexe.internal]] 
+- [[../../../../../../_protect/geo/Continent/Africa/Somalia/Counties/Jubbada_Dhexe.protect|Jubbada_Dhexe.protect]] 
+- [[../../../../../../_private/geo/Continent/Africa/Somalia/Counties/Jubbada_Dhexe.private|Jubbada_Dhexe.private]] 
+- [[../../../../../../_personal/geo/Continent/Africa/Somalia/Counties/Jubbada_Dhexe.personal|Jubbada_Dhexe.personal]] 
+- [[../../../../../../_secret/geo/Continent/Africa/Somalia/Counties/Jubbada_Dhexe.secret|Jubbada_Dhexe.secret]] 
 

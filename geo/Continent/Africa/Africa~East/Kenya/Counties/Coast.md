@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ -2.4 , 39.8 ] 
 type: geo-Region
 title: Coast
@@ -40,10 +40,11 @@ markerFolder: ./Coast/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Africa/Kenya/Counties/Coast.md|Coast]] 
-- [[../../../../_internal/geo/Continent/Africa/Kenya/Counties/Coast.internal|Coast.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Kenya/Counties/Coast.protect|Coast.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Kenya/Counties/Coast.private|Coast.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Kenya/Counties/Coast.personal|Coast.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Kenya/Counties/Coast.secret|Coast.secret]] 
+- [[../../../../../../_Standards/geo/Continent/Africa/Kenya/Counties/Coast|Coast]] 
+- [[../../../../../../_public/geo/Continent/Africa/Kenya/Counties/Coast.public|Coast.public]] 
+- [[../../../../../../_internal/geo/Continent/Africa/Kenya/Counties/Coast.internal|Coast.internal]] 
+- [[../../../../../../_protect/geo/Continent/Africa/Kenya/Counties/Coast.protect|Coast.protect]] 
+- [[../../../../../../_private/geo/Continent/Africa/Kenya/Counties/Coast.private|Coast.private]] 
+- [[../../../../../../_personal/geo/Continent/Africa/Kenya/Counties/Coast.personal|Coast.personal]] 
+- [[../../../../../../_secret/geo/Continent/Africa/Kenya/Counties/Coast.secret|Coast.secret]] 
 

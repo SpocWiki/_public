@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ -14 , 33.7 ] 
 type: geo-Region
 title: Lilongwe
@@ -40,10 +40,11 @@ markerFolder: ./Lilongwe/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Africa/Malawi/Counties/Lilongwe.md|Lilongwe]] 
-- [[../../../../_internal/geo/Continent/Africa/Malawi/Counties/Lilongwe.internal|Lilongwe.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Malawi/Counties/Lilongwe.protect|Lilongwe.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Malawi/Counties/Lilongwe.private|Lilongwe.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Malawi/Counties/Lilongwe.personal|Lilongwe.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Malawi/Counties/Lilongwe.secret|Lilongwe.secret]] 
+- [[../../../../../../_Standards/geo/Continent/Africa/Malawi/Counties/Lilongwe|Lilongwe]] 
+- [[../../../../../../_public/geo/Continent/Africa/Malawi/Counties/Lilongwe.public|Lilongwe.public]] 
+- [[../../../../../../_internal/geo/Continent/Africa/Malawi/Counties/Lilongwe.internal|Lilongwe.internal]] 
+- [[../../../../../../_protect/geo/Continent/Africa/Malawi/Counties/Lilongwe.protect|Lilongwe.protect]] 
+- [[../../../../../../_private/geo/Continent/Africa/Malawi/Counties/Lilongwe.private|Lilongwe.private]] 
+- [[../../../../../../_personal/geo/Continent/Africa/Malawi/Counties/Lilongwe.personal|Lilongwe.personal]] 
+- [[../../../../../../_secret/geo/Continent/Africa/Malawi/Counties/Lilongwe.secret|Lilongwe.secret]] 
 

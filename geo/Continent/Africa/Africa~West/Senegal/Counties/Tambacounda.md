@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 14 , -13.3 ] 
 type: geo-Region
 title: Tambacounda
@@ -40,10 +40,11 @@ markerFolder: ./Tambacounda/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Africa/Senegal/Counties/Tambacounda.md|Tambacounda]] 
-- [[../../../../_internal/geo/Continent/Africa/Senegal/Counties/Tambacounda.internal|Tambacounda.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Senegal/Counties/Tambacounda.protect|Tambacounda.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Senegal/Counties/Tambacounda.private|Tambacounda.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Senegal/Counties/Tambacounda.personal|Tambacounda.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Senegal/Counties/Tambacounda.secret|Tambacounda.secret]] 
+- [[../../../../../../_Standards/geo/Continent/Africa/Senegal/Counties/Tambacounda|Tambacounda]] 
+- [[../../../../../../_public/geo/Continent/Africa/Senegal/Counties/Tambacounda.public|Tambacounda.public]] 
+- [[../../../../../../_internal/geo/Continent/Africa/Senegal/Counties/Tambacounda.internal|Tambacounda.internal]] 
+- [[../../../../../../_protect/geo/Continent/Africa/Senegal/Counties/Tambacounda.protect|Tambacounda.protect]] 
+- [[../../../../../../_private/geo/Continent/Africa/Senegal/Counties/Tambacounda.private|Tambacounda.private]] 
+- [[../../../../../../_personal/geo/Continent/Africa/Senegal/Counties/Tambacounda.personal|Tambacounda.personal]] 
+- [[../../../../../../_secret/geo/Continent/Africa/Senegal/Counties/Tambacounda.secret|Tambacounda.secret]] 
 

@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ -8.8 , 125.4 ] 
 type: geo-Region
 title: Ermera
@@ -40,10 +40,11 @@ markerFolder: ./Ermera/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Oceania/Timor-Leste/Counties/Ermera.md|Ermera]] 
-- [[../../../../_internal/geo/Continent/Oceania/Timor-Leste/Counties/Ermera.internal|Ermera.internal]] 
-- [[../../../../_protect/geo/Continent/Oceania/Timor-Leste/Counties/Ermera.protect|Ermera.protect]] 
-- [[../../../../_private/geo/Continent/Oceania/Timor-Leste/Counties/Ermera.private|Ermera.private]] 
-- [[../../../../_personal/geo/Continent/Oceania/Timor-Leste/Counties/Ermera.personal|Ermera.personal]] 
-- [[../../../../_secret/geo/Continent/Oceania/Timor-Leste/Counties/Ermera.secret|Ermera.secret]] 
+- [[../../../../../../_Standards/geo/Continent/Oceania/Timor-Leste/Counties/Ermera|Ermera]] 
+- [[../../../../../../_public/geo/Continent/Oceania/Timor-Leste/Counties/Ermera.public|Ermera.public]] 
+- [[../../../../../../_internal/geo/Continent/Oceania/Timor-Leste/Counties/Ermera.internal|Ermera.internal]] 
+- [[../../../../../../_protect/geo/Continent/Oceania/Timor-Leste/Counties/Ermera.protect|Ermera.protect]] 
+- [[../../../../../../_private/geo/Continent/Oceania/Timor-Leste/Counties/Ermera.private|Ermera.private]] 
+- [[../../../../../../_personal/geo/Continent/Oceania/Timor-Leste/Counties/Ermera.personal|Ermera.personal]] 
+- [[../../../../../../_secret/geo/Continent/Oceania/Timor-Leste/Counties/Ermera.secret|Ermera.secret]] 
 

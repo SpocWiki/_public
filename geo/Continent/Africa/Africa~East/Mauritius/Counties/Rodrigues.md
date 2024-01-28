@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ -19.7 , 63.4 ] 
 type: geo-Region
 title: Rodrigues
@@ -40,10 +40,11 @@ markerFolder: ./Rodrigues/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Africa/Mauritius/Counties/Rodrigues.md|Rodrigues]] 
-- [[../../../../_internal/geo/Continent/Africa/Mauritius/Counties/Rodrigues.internal|Rodrigues.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Mauritius/Counties/Rodrigues.protect|Rodrigues.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Mauritius/Counties/Rodrigues.private|Rodrigues.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Mauritius/Counties/Rodrigues.personal|Rodrigues.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Mauritius/Counties/Rodrigues.secret|Rodrigues.secret]] 
+- [[../../../../../../_Standards/geo/Continent/Africa/Mauritius/Counties/Rodrigues|Rodrigues]] 
+- [[../../../../../../_public/geo/Continent/Africa/Mauritius/Counties/Rodrigues.public|Rodrigues.public]] 
+- [[../../../../../../_internal/geo/Continent/Africa/Mauritius/Counties/Rodrigues.internal|Rodrigues.internal]] 
+- [[../../../../../../_protect/geo/Continent/Africa/Mauritius/Counties/Rodrigues.protect|Rodrigues.protect]] 
+- [[../../../../../../_private/geo/Continent/Africa/Mauritius/Counties/Rodrigues.private|Rodrigues.private]] 
+- [[../../../../../../_personal/geo/Continent/Africa/Mauritius/Counties/Rodrigues.personal|Rodrigues.personal]] 
+- [[../../../../../../_secret/geo/Continent/Africa/Mauritius/Counties/Rodrigues.secret|Rodrigues.secret]] 
 

@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 33 , 11.3 ] 
 type: geo-Region
 title: Médenine
@@ -40,10 +40,11 @@ markerFolder: ./Médenine/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Africa/Tunisia/Counties/Médenine.md|Médenine]] 
-- [[../../../../_internal/geo/Continent/Africa/Tunisia/Counties/Médenine.internal|Médenine.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Tunisia/Counties/Médenine.protect|Médenine.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Tunisia/Counties/Médenine.private|Médenine.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Tunisia/Counties/Médenine.personal|Médenine.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Tunisia/Counties/Médenine.secret|Médenine.secret]] 
+- [[../../../../../../_Standards/geo/Continent/Africa/Tunisia/Counties/Médenine|Médenine]] 
+- [[../../../../../../_public/geo/Continent/Africa/Tunisia/Counties/Médenine.public|Médenine.public]] 
+- [[../../../../../../_internal/geo/Continent/Africa/Tunisia/Counties/Médenine.internal|Médenine.internal]] 
+- [[../../../../../../_protect/geo/Continent/Africa/Tunisia/Counties/Médenine.protect|Médenine.protect]] 
+- [[../../../../../../_private/geo/Continent/Africa/Tunisia/Counties/Médenine.private|Médenine.private]] 
+- [[../../../../../../_personal/geo/Continent/Africa/Tunisia/Counties/Médenine.personal|Médenine.personal]] 
+- [[../../../../../../_secret/geo/Continent/Africa/Tunisia/Counties/Médenine.secret|Médenine.secret]] 
 

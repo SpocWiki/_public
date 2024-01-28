@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 13.9 , -2.1 ] 
 type: geo-Region
 title: Loroum
@@ -40,10 +40,11 @@ markerFolder: ./Loroum/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Africa/Burkina_Faso/Counties/Loroum.md|Loroum]] 
-- [[../../../../_internal/geo/Continent/Africa/Burkina_Faso/Counties/Loroum.internal|Loroum.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Burkina_Faso/Counties/Loroum.protect|Loroum.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Burkina_Faso/Counties/Loroum.private|Loroum.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Burkina_Faso/Counties/Loroum.personal|Loroum.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Burkina_Faso/Counties/Loroum.secret|Loroum.secret]] 
+- [[../../../../../../_Standards/geo/Continent/Africa/Burkina_Faso/Counties/Loroum|Loroum]] 
+- [[../../../../../../_public/geo/Continent/Africa/Burkina_Faso/Counties/Loroum.public|Loroum.public]] 
+- [[../../../../../../_internal/geo/Continent/Africa/Burkina_Faso/Counties/Loroum.internal|Loroum.internal]] 
+- [[../../../../../../_protect/geo/Continent/Africa/Burkina_Faso/Counties/Loroum.protect|Loroum.protect]] 
+- [[../../../../../../_private/geo/Continent/Africa/Burkina_Faso/Counties/Loroum.private|Loroum.private]] 
+- [[../../../../../../_personal/geo/Continent/Africa/Burkina_Faso/Counties/Loroum.personal|Loroum.personal]] 
+- [[../../../../../../_secret/geo/Continent/Africa/Burkina_Faso/Counties/Loroum.secret|Loroum.secret]] 
 

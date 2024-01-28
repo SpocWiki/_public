@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 19.29 , -193.35 ] 
 type: geo-Region
 title: Wake_Atoll
@@ -40,10 +40,11 @@ markerFolder: ./Wake_Atoll/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/America~North/United_States_of_America/USA~Islands/Counties/Wake_Atoll.md|Wake_Atoll]] 
-- [[../../../../_internal/geo/Continent/America~North/United_States_of_America/USA~Islands/Counties/Wake_Atoll.internal|Wake_Atoll.internal]] 
-- [[../../../../_protect/geo/Continent/America~North/United_States_of_America/USA~Islands/Counties/Wake_Atoll.protect|Wake_Atoll.protect]] 
-- [[../../../../_private/geo/Continent/America~North/United_States_of_America/USA~Islands/Counties/Wake_Atoll.private|Wake_Atoll.private]] 
-- [[../../../../_personal/geo/Continent/America~North/United_States_of_America/USA~Islands/Counties/Wake_Atoll.personal|Wake_Atoll.personal]] 
-- [[../../../../_secret/geo/Continent/America~North/United_States_of_America/USA~Islands/Counties/Wake_Atoll.secret|Wake_Atoll.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/America~North/United_States_of_America/USA~Islands/Counties/Wake_Atoll|Wake_Atoll]] 
+- [[../../../../../../../_public/geo/Continent/America~North/United_States_of_America/USA~Islands/Counties/Wake_Atoll.public|Wake_Atoll.public]] 
+- [[../../../../../../../_internal/geo/Continent/America~North/United_States_of_America/USA~Islands/Counties/Wake_Atoll.internal|Wake_Atoll.internal]] 
+- [[../../../../../../../_protect/geo/Continent/America~North/United_States_of_America/USA~Islands/Counties/Wake_Atoll.protect|Wake_Atoll.protect]] 
+- [[../../../../../../../_private/geo/Continent/America~North/United_States_of_America/USA~Islands/Counties/Wake_Atoll.private|Wake_Atoll.private]] 
+- [[../../../../../../../_personal/geo/Continent/America~North/United_States_of_America/USA~Islands/Counties/Wake_Atoll.personal|Wake_Atoll.personal]] 
+- [[../../../../../../../_secret/geo/Continent/America~North/United_States_of_America/USA~Islands/Counties/Wake_Atoll.secret|Wake_Atoll.secret]] 
 

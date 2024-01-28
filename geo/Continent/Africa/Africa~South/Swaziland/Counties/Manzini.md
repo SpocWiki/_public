@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ -26.5 , 31.2 ] 
 type: geo-Region
 title: Manzini
@@ -40,10 +40,11 @@ markerFolder: ./Manzini/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Africa/Swaziland/Counties/Manzini.md|Manzini]] 
-- [[../../../../_internal/geo/Continent/Africa/Swaziland/Counties/Manzini.internal|Manzini.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Swaziland/Counties/Manzini.protect|Manzini.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Swaziland/Counties/Manzini.private|Manzini.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Swaziland/Counties/Manzini.personal|Manzini.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Swaziland/Counties/Manzini.secret|Manzini.secret]] 
+- [[../../../../../../_Standards/geo/Continent/Africa/Swaziland/Counties/Manzini|Manzini]] 
+- [[../../../../../../_public/geo/Continent/Africa/Swaziland/Counties/Manzini.public|Manzini.public]] 
+- [[../../../../../../_internal/geo/Continent/Africa/Swaziland/Counties/Manzini.internal|Manzini.internal]] 
+- [[../../../../../../_protect/geo/Continent/Africa/Swaziland/Counties/Manzini.protect|Manzini.protect]] 
+- [[../../../../../../_private/geo/Continent/Africa/Swaziland/Counties/Manzini.private|Manzini.private]] 
+- [[../../../../../../_personal/geo/Continent/Africa/Swaziland/Counties/Manzini.personal|Manzini.personal]] 
+- [[../../../../../../_secret/geo/Continent/Africa/Swaziland/Counties/Manzini.secret|Manzini.secret]] 
 

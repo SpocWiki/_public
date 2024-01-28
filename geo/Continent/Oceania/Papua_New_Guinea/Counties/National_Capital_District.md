@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ -9.5 , 147.2 ] 
 type: geo-Region
 title: National_Capital_District
@@ -40,10 +40,11 @@ markerFolder: ./National_Capital_District/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Oceania/Papua_New_Guinea/Counties/National_Capital_District.md|National_Capital_District]] 
-- [[../../../../_internal/geo/Continent/Oceania/Papua_New_Guinea/Counties/National_Capital_District.internal|National_Capital_District.internal]] 
-- [[../../../../_protect/geo/Continent/Oceania/Papua_New_Guinea/Counties/National_Capital_District.protect|National_Capital_District.protect]] 
-- [[../../../../_private/geo/Continent/Oceania/Papua_New_Guinea/Counties/National_Capital_District.private|National_Capital_District.private]] 
-- [[../../../../_personal/geo/Continent/Oceania/Papua_New_Guinea/Counties/National_Capital_District.personal|National_Capital_District.personal]] 
-- [[../../../../_secret/geo/Continent/Oceania/Papua_New_Guinea/Counties/National_Capital_District.secret|National_Capital_District.secret]] 
+- [[../../../../../../_Standards/geo/Continent/Oceania/Papua_New_Guinea/Counties/National_Capital_District|National_Capital_District]] 
+- [[../../../../../../_public/geo/Continent/Oceania/Papua_New_Guinea/Counties/National_Capital_District.public|National_Capital_District.public]] 
+- [[../../../../../../_internal/geo/Continent/Oceania/Papua_New_Guinea/Counties/National_Capital_District.internal|National_Capital_District.internal]] 
+- [[../../../../../../_protect/geo/Continent/Oceania/Papua_New_Guinea/Counties/National_Capital_District.protect|National_Capital_District.protect]] 
+- [[../../../../../../_private/geo/Continent/Oceania/Papua_New_Guinea/Counties/National_Capital_District.private|National_Capital_District.private]] 
+- [[../../../../../../_personal/geo/Continent/Oceania/Papua_New_Guinea/Counties/National_Capital_District.personal|National_Capital_District.personal]] 
+- [[../../../../../../_secret/geo/Continent/Oceania/Papua_New_Guinea/Counties/National_Capital_District.secret|National_Capital_District.secret]] 
 

@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 18.4 , -73.3 ] 
 type: geo-Region
 title: Nippes
@@ -40,10 +40,11 @@ markerFolder: ./Nippes/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/America~Caribbean/Haiti/Counties/Nippes.md|Nippes]] 
-- [[../../../../_internal/geo/Continent/America~Caribbean/Haiti/Counties/Nippes.internal|Nippes.internal]] 
-- [[../../../../_protect/geo/Continent/America~Caribbean/Haiti/Counties/Nippes.protect|Nippes.protect]] 
-- [[../../../../_private/geo/Continent/America~Caribbean/Haiti/Counties/Nippes.private|Nippes.private]] 
-- [[../../../../_personal/geo/Continent/America~Caribbean/Haiti/Counties/Nippes.personal|Nippes.personal]] 
-- [[../../../../_secret/geo/Continent/America~Caribbean/Haiti/Counties/Nippes.secret|Nippes.secret]] 
+- [[../../../../../../_Standards/geo/Continent/America~Caribbean/Haiti/Counties/Nippes|Nippes]] 
+- [[../../../../../../_public/geo/Continent/America~Caribbean/Haiti/Counties/Nippes.public|Nippes.public]] 
+- [[../../../../../../_internal/geo/Continent/America~Caribbean/Haiti/Counties/Nippes.internal|Nippes.internal]] 
+- [[../../../../../../_protect/geo/Continent/America~Caribbean/Haiti/Counties/Nippes.protect|Nippes.protect]] 
+- [[../../../../../../_private/geo/Continent/America~Caribbean/Haiti/Counties/Nippes.private|Nippes.private]] 
+- [[../../../../../../_personal/geo/Continent/America~Caribbean/Haiti/Counties/Nippes.personal|Nippes.personal]] 
+- [[../../../../../../_secret/geo/Continent/America~Caribbean/Haiti/Counties/Nippes.secret|Nippes.secret]] 
 

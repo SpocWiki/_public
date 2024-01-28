@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ -0.6 , 34.5 ] 
 type: geo-Region
 title: Nyanza
@@ -40,10 +40,11 @@ markerFolder: ./Nyanza/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Africa/Kenya/Counties/Nyanza.md|Nyanza]] 
-- [[../../../../_internal/geo/Continent/Africa/Kenya/Counties/Nyanza.internal|Nyanza.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Kenya/Counties/Nyanza.protect|Nyanza.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Kenya/Counties/Nyanza.private|Nyanza.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Kenya/Counties/Nyanza.personal|Nyanza.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Kenya/Counties/Nyanza.secret|Nyanza.secret]] 
+- [[../../../../../../_Standards/geo/Continent/Africa/Kenya/Counties/Nyanza|Nyanza]] 
+- [[../../../../../../_public/geo/Continent/Africa/Kenya/Counties/Nyanza.public|Nyanza.public]] 
+- [[../../../../../../_internal/geo/Continent/Africa/Kenya/Counties/Nyanza.internal|Nyanza.internal]] 
+- [[../../../../../../_protect/geo/Continent/Africa/Kenya/Counties/Nyanza.protect|Nyanza.protect]] 
+- [[../../../../../../_private/geo/Continent/Africa/Kenya/Counties/Nyanza.private|Nyanza.private]] 
+- [[../../../../../../_personal/geo/Continent/Africa/Kenya/Counties/Nyanza.personal|Nyanza.personal]] 
+- [[../../../../../../_secret/geo/Continent/Africa/Kenya/Counties/Nyanza.secret|Nyanza.secret]] 
 

@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ -13.9 , 188.1 ] 
 type: geo-Region
 title: A'ana
@@ -40,10 +40,11 @@ markerFolder: ./A'ana/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Oceania/Samoa/Counties/A'ana.md|A'ana]] 
-- [[../../../../_internal/geo/Continent/Oceania/Samoa/Counties/A'ana.internal|A'ana.internal]] 
-- [[../../../../_protect/geo/Continent/Oceania/Samoa/Counties/A'ana.protect|A'ana.protect]] 
-- [[../../../../_private/geo/Continent/Oceania/Samoa/Counties/A'ana.private|A'ana.private]] 
-- [[../../../../_personal/geo/Continent/Oceania/Samoa/Counties/A'ana.personal|A'ana.personal]] 
-- [[../../../../_secret/geo/Continent/Oceania/Samoa/Counties/A'ana.secret|A'ana.secret]] 
+- [[../../../../../../_Standards/geo/Continent/Oceania/Samoa/Counties/A'ana|A'ana]] 
+- [[../../../../../../_public/geo/Continent/Oceania/Samoa/Counties/A'ana.public|A'ana.public]] 
+- [[../../../../../../_internal/geo/Continent/Oceania/Samoa/Counties/A'ana.internal|A'ana.internal]] 
+- [[../../../../../../_protect/geo/Continent/Oceania/Samoa/Counties/A'ana.protect|A'ana.protect]] 
+- [[../../../../../../_private/geo/Continent/Oceania/Samoa/Counties/A'ana.private|A'ana.private]] 
+- [[../../../../../../_personal/geo/Continent/Oceania/Samoa/Counties/A'ana.personal|A'ana.personal]] 
+- [[../../../../../../_secret/geo/Continent/Oceania/Samoa/Counties/A'ana.secret|A'ana.secret]] 
 

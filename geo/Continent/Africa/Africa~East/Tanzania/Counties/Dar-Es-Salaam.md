@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ -6.9 , 39.3 ] 
 type: geo-Region
 title: Dar-Es-Salaam
@@ -40,10 +40,11 @@ markerFolder: ./Dar-Es-Salaam/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Africa/Tanzania/Counties/Dar-Es-Salaam.md|Dar-Es-Salaam]] 
-- [[../../../../_internal/geo/Continent/Africa/Tanzania/Counties/Dar-Es-Salaam.internal|Dar-Es-Salaam.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Tanzania/Counties/Dar-Es-Salaam.protect|Dar-Es-Salaam.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Tanzania/Counties/Dar-Es-Salaam.private|Dar-Es-Salaam.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Tanzania/Counties/Dar-Es-Salaam.personal|Dar-Es-Salaam.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Tanzania/Counties/Dar-Es-Salaam.secret|Dar-Es-Salaam.secret]] 
+- [[../../../../../../_Standards/geo/Continent/Africa/Tanzania/Counties/Dar-Es-Salaam|Dar-Es-Salaam]] 
+- [[../../../../../../_public/geo/Continent/Africa/Tanzania/Counties/Dar-Es-Salaam.public|Dar-Es-Salaam.public]] 
+- [[../../../../../../_internal/geo/Continent/Africa/Tanzania/Counties/Dar-Es-Salaam.internal|Dar-Es-Salaam.internal]] 
+- [[../../../../../../_protect/geo/Continent/Africa/Tanzania/Counties/Dar-Es-Salaam.protect|Dar-Es-Salaam.protect]] 
+- [[../../../../../../_private/geo/Continent/Africa/Tanzania/Counties/Dar-Es-Salaam.private|Dar-Es-Salaam.private]] 
+- [[../../../../../../_personal/geo/Continent/Africa/Tanzania/Counties/Dar-Es-Salaam.personal|Dar-Es-Salaam.personal]] 
+- [[../../../../../../_secret/geo/Continent/Africa/Tanzania/Counties/Dar-Es-Salaam.secret|Dar-Es-Salaam.secret]] 
 

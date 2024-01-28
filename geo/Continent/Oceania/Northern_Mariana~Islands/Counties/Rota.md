@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 14.16 , 145.21 ] 
 type: geo-Region
 title: Rota
@@ -40,10 +40,11 @@ markerFolder: ./Rota/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Oceania/Northern_Mariana~Islands/Counties/Rota.md|Rota]] 
-- [[../../../../_internal/geo/Continent/Oceania/Northern_Mariana~Islands/Counties/Rota.internal|Rota.internal]] 
-- [[../../../../_protect/geo/Continent/Oceania/Northern_Mariana~Islands/Counties/Rota.protect|Rota.protect]] 
-- [[../../../../_private/geo/Continent/Oceania/Northern_Mariana~Islands/Counties/Rota.private|Rota.private]] 
-- [[../../../../_personal/geo/Continent/Oceania/Northern_Mariana~Islands/Counties/Rota.personal|Rota.personal]] 
-- [[../../../../_secret/geo/Continent/Oceania/Northern_Mariana~Islands/Counties/Rota.secret|Rota.secret]] 
+- [[../../../../../../_Standards/geo/Continent/Oceania/Northern_Mariana~Islands/Counties/Rota|Rota]] 
+- [[../../../../../../_public/geo/Continent/Oceania/Northern_Mariana~Islands/Counties/Rota.public|Rota.public]] 
+- [[../../../../../../_internal/geo/Continent/Oceania/Northern_Mariana~Islands/Counties/Rota.internal|Rota.internal]] 
+- [[../../../../../../_protect/geo/Continent/Oceania/Northern_Mariana~Islands/Counties/Rota.protect|Rota.protect]] 
+- [[../../../../../../_private/geo/Continent/Oceania/Northern_Mariana~Islands/Counties/Rota.private|Rota.private]] 
+- [[../../../../../../_personal/geo/Continent/Oceania/Northern_Mariana~Islands/Counties/Rota.personal|Rota.personal]] 
+- [[../../../../../../_secret/geo/Continent/Oceania/Northern_Mariana~Islands/Counties/Rota.secret|Rota.secret]] 
 

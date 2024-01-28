@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 11.4 , -5 ] 
 type: geo-Region
 title: Kénédougou
@@ -40,10 +40,11 @@ markerFolder: ./Kénédougou/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Africa/Burkina_Faso/Counties/Kénédougou.md|Kénédougou]] 
-- [[../../../../_internal/geo/Continent/Africa/Burkina_Faso/Counties/Kénédougou.internal|Kénédougou.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Burkina_Faso/Counties/Kénédougou.protect|Kénédougou.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Burkina_Faso/Counties/Kénédougou.private|Kénédougou.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Burkina_Faso/Counties/Kénédougou.personal|Kénédougou.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Burkina_Faso/Counties/Kénédougou.secret|Kénédougou.secret]] 
+- [[../../../../../../_Standards/geo/Continent/Africa/Burkina_Faso/Counties/Kénédougou|Kénédougou]] 
+- [[../../../../../../_public/geo/Continent/Africa/Burkina_Faso/Counties/Kénédougou.public|Kénédougou.public]] 
+- [[../../../../../../_internal/geo/Continent/Africa/Burkina_Faso/Counties/Kénédougou.internal|Kénédougou.internal]] 
+- [[../../../../../../_protect/geo/Continent/Africa/Burkina_Faso/Counties/Kénédougou.protect|Kénédougou.protect]] 
+- [[../../../../../../_private/geo/Continent/Africa/Burkina_Faso/Counties/Kénédougou.private|Kénédougou.private]] 
+- [[../../../../../../_personal/geo/Continent/Africa/Burkina_Faso/Counties/Kénédougou.personal|Kénédougou.personal]] 
+- [[../../../../../../_secret/geo/Continent/Africa/Burkina_Faso/Counties/Kénédougou.secret|Kénédougou.secret]] 
 

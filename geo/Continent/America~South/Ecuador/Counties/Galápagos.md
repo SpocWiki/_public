@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ -0.6 , -90.4 ] 
 type: geo-Region
 title: Galápagos
@@ -40,10 +40,11 @@ markerFolder: ./Galápagos/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/America~South/Ecuador/Counties/Galápagos.md|Galápagos]] 
-- [[../../../../_internal/geo/Continent/America~South/Ecuador/Counties/Galápagos.internal|Galápagos.internal]] 
-- [[../../../../_protect/geo/Continent/America~South/Ecuador/Counties/Galápagos.protect|Galápagos.protect]] 
-- [[../../../../_private/geo/Continent/America~South/Ecuador/Counties/Galápagos.private|Galápagos.private]] 
-- [[../../../../_personal/geo/Continent/America~South/Ecuador/Counties/Galápagos.personal|Galápagos.personal]] 
-- [[../../../../_secret/geo/Continent/America~South/Ecuador/Counties/Galápagos.secret|Galápagos.secret]] 
+- [[../../../../../../_Standards/geo/Continent/America~South/Ecuador/Counties/Galápagos|Galápagos]] 
+- [[../../../../../../_public/geo/Continent/America~South/Ecuador/Counties/Galápagos.public|Galápagos.public]] 
+- [[../../../../../../_internal/geo/Continent/America~South/Ecuador/Counties/Galápagos.internal|Galápagos.internal]] 
+- [[../../../../../../_protect/geo/Continent/America~South/Ecuador/Counties/Galápagos.protect|Galápagos.protect]] 
+- [[../../../../../../_private/geo/Continent/America~South/Ecuador/Counties/Galápagos.private|Galápagos.private]] 
+- [[../../../../../../_personal/geo/Continent/America~South/Ecuador/Counties/Galápagos.personal|Galápagos.personal]] 
+- [[../../../../../../_secret/geo/Continent/America~South/Ecuador/Counties/Galápagos.secret|Galápagos.secret]] 
 

@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ -2.5 , 30.2 ] 
 type: geo-Region
 title: Kirundo
@@ -40,10 +40,11 @@ markerFolder: ./Kirundo/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Africa/Burundi/Counties/Kirundo.md|Kirundo]] 
-- [[../../../../_internal/geo/Continent/Africa/Burundi/Counties/Kirundo.internal|Kirundo.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Burundi/Counties/Kirundo.protect|Kirundo.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Burundi/Counties/Kirundo.private|Kirundo.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Burundi/Counties/Kirundo.personal|Kirundo.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Burundi/Counties/Kirundo.secret|Kirundo.secret]] 
+- [[../../../../../../_Standards/geo/Continent/Africa/Burundi/Counties/Kirundo|Kirundo]] 
+- [[../../../../../../_public/geo/Continent/Africa/Burundi/Counties/Kirundo.public|Kirundo.public]] 
+- [[../../../../../../_internal/geo/Continent/Africa/Burundi/Counties/Kirundo.internal|Kirundo.internal]] 
+- [[../../../../../../_protect/geo/Continent/Africa/Burundi/Counties/Kirundo.protect|Kirundo.protect]] 
+- [[../../../../../../_private/geo/Continent/Africa/Burundi/Counties/Kirundo.private|Kirundo.private]] 
+- [[../../../../../../_personal/geo/Continent/Africa/Burundi/Counties/Kirundo.personal|Kirundo.personal]] 
+- [[../../../../../../_secret/geo/Continent/Africa/Burundi/Counties/Kirundo.secret|Kirundo.secret]] 
 

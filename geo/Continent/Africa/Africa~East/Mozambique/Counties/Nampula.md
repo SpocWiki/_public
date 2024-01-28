@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ -15.2 , 39 ] 
 type: geo-Region
 title: Nampula
@@ -40,10 +40,11 @@ markerFolder: ./Nampula/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Africa/Mozambique/Counties/Nampula.md|Nampula]] 
-- [[../../../../_internal/geo/Continent/Africa/Mozambique/Counties/Nampula.internal|Nampula.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Mozambique/Counties/Nampula.protect|Nampula.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Mozambique/Counties/Nampula.private|Nampula.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Mozambique/Counties/Nampula.personal|Nampula.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Mozambique/Counties/Nampula.secret|Nampula.secret]] 
+- [[../../../../../../_Standards/geo/Continent/Africa/Mozambique/Counties/Nampula|Nampula]] 
+- [[../../../../../../_public/geo/Continent/Africa/Mozambique/Counties/Nampula.public|Nampula.public]] 
+- [[../../../../../../_internal/geo/Continent/Africa/Mozambique/Counties/Nampula.internal|Nampula.internal]] 
+- [[../../../../../../_protect/geo/Continent/Africa/Mozambique/Counties/Nampula.protect|Nampula.protect]] 
+- [[../../../../../../_private/geo/Continent/Africa/Mozambique/Counties/Nampula.private|Nampula.private]] 
+- [[../../../../../../_personal/geo/Continent/Africa/Mozambique/Counties/Nampula.personal|Nampula.personal]] 
+- [[../../../../../../_secret/geo/Continent/Africa/Mozambique/Counties/Nampula.secret|Nampula.secret]] 
 

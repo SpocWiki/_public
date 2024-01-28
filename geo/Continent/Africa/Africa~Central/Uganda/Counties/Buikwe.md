@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 0.1 , 32.9 ] 
 type: geo-Region
 title: Buikwe
@@ -40,10 +40,11 @@ markerFolder: ./Buikwe/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Africa/Uganda/Counties/Buikwe.md|Buikwe]] 
-- [[../../../../_internal/geo/Continent/Africa/Uganda/Counties/Buikwe.internal|Buikwe.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Uganda/Counties/Buikwe.protect|Buikwe.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Uganda/Counties/Buikwe.private|Buikwe.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Uganda/Counties/Buikwe.personal|Buikwe.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Uganda/Counties/Buikwe.secret|Buikwe.secret]] 
+- [[../../../../../../_Standards/geo/Continent/Africa/Uganda/Counties/Buikwe|Buikwe]] 
+- [[../../../../../../_public/geo/Continent/Africa/Uganda/Counties/Buikwe.public|Buikwe.public]] 
+- [[../../../../../../_internal/geo/Continent/Africa/Uganda/Counties/Buikwe.internal|Buikwe.internal]] 
+- [[../../../../../../_protect/geo/Continent/Africa/Uganda/Counties/Buikwe.protect|Buikwe.protect]] 
+- [[../../../../../../_private/geo/Continent/Africa/Uganda/Counties/Buikwe.private|Buikwe.private]] 
+- [[../../../../../../_personal/geo/Continent/Africa/Uganda/Counties/Buikwe.personal|Buikwe.personal]] 
+- [[../../../../../../_secret/geo/Continent/Africa/Uganda/Counties/Buikwe.secret|Buikwe.secret]] 
 

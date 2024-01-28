@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ -19.1 , 47 ] 
 type: geo-Region
 title: Itasy
@@ -40,10 +40,11 @@ markerFolder: ./Itasy/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Africa/Madagascar/Counties/Itasy.md|Itasy]] 
-- [[../../../../_internal/geo/Continent/Africa/Madagascar/Counties/Itasy.internal|Itasy.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Madagascar/Counties/Itasy.protect|Itasy.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Madagascar/Counties/Itasy.private|Itasy.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Madagascar/Counties/Itasy.personal|Itasy.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Madagascar/Counties/Itasy.secret|Itasy.secret]] 
+- [[../../../../../../_Standards/geo/Continent/Africa/Madagascar/Counties/Itasy|Itasy]] 
+- [[../../../../../../_public/geo/Continent/Africa/Madagascar/Counties/Itasy.public|Itasy.public]] 
+- [[../../../../../../_internal/geo/Continent/Africa/Madagascar/Counties/Itasy.internal|Itasy.internal]] 
+- [[../../../../../../_protect/geo/Continent/Africa/Madagascar/Counties/Itasy.protect|Itasy.protect]] 
+- [[../../../../../../_private/geo/Continent/Africa/Madagascar/Counties/Itasy.private|Itasy.private]] 
+- [[../../../../../../_personal/geo/Continent/Africa/Madagascar/Counties/Itasy.personal|Itasy.personal]] 
+- [[../../../../../../_secret/geo/Continent/Africa/Madagascar/Counties/Itasy.secret|Itasy.secret]] 
 

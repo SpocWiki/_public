@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 15 , -24.4 ] 
 type: geo-Region
 title: Mosteiros
@@ -40,10 +40,11 @@ markerFolder: ./Mosteiros/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Africa/Cape_Verde/Counties/Mosteiros.md|Mosteiros]] 
-- [[../../../../_internal/geo/Continent/Africa/Cape_Verde/Counties/Mosteiros.internal|Mosteiros.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Cape_Verde/Counties/Mosteiros.protect|Mosteiros.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Cape_Verde/Counties/Mosteiros.private|Mosteiros.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Cape_Verde/Counties/Mosteiros.personal|Mosteiros.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Cape_Verde/Counties/Mosteiros.secret|Mosteiros.secret]] 
+- [[../../../../../../_Standards/geo/Continent/Africa/Cape_Verde/Counties/Mosteiros|Mosteiros]] 
+- [[../../../../../../_public/geo/Continent/Africa/Cape_Verde/Counties/Mosteiros.public|Mosteiros.public]] 
+- [[../../../../../../_internal/geo/Continent/Africa/Cape_Verde/Counties/Mosteiros.internal|Mosteiros.internal]] 
+- [[../../../../../../_protect/geo/Continent/Africa/Cape_Verde/Counties/Mosteiros.protect|Mosteiros.protect]] 
+- [[../../../../../../_private/geo/Continent/Africa/Cape_Verde/Counties/Mosteiros.private|Mosteiros.private]] 
+- [[../../../../../../_personal/geo/Continent/Africa/Cape_Verde/Counties/Mosteiros.personal|Mosteiros.personal]] 
+- [[../../../../../../_secret/geo/Continent/Africa/Cape_Verde/Counties/Mosteiros.secret|Mosteiros.secret]] 
 

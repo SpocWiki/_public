@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 9.8 , 5.8 ] 
 type: geo-Region
 title: Niger
@@ -40,10 +40,11 @@ markerFolder: ./Niger/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Africa/Nigeria/Counties/Niger.md|Niger]] 
-- [[../../../../_internal/geo/Continent/Africa/Nigeria/Counties/Niger.internal|Niger.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Nigeria/Counties/Niger.protect|Niger.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Nigeria/Counties/Niger.private|Niger.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Nigeria/Counties/Niger.personal|Niger.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Nigeria/Counties/Niger.secret|Niger.secret]] 
+- [[../../../../../../_Standards/geo/Continent/Africa/Nigeria/Counties/Niger|Niger]] 
+- [[../../../../../../_public/geo/Continent/Africa/Nigeria/Counties/Niger.public|Niger.public]] 
+- [[../../../../../../_internal/geo/Continent/Africa/Nigeria/Counties/Niger.internal|Niger.internal]] 
+- [[../../../../../../_protect/geo/Continent/Africa/Nigeria/Counties/Niger.protect|Niger.protect]] 
+- [[../../../../../../_private/geo/Continent/Africa/Nigeria/Counties/Niger.private|Niger.private]] 
+- [[../../../../../../_personal/geo/Continent/Africa/Nigeria/Counties/Niger.personal|Niger.personal]] 
+- [[../../../../../../_secret/geo/Continent/Africa/Nigeria/Counties/Niger.secret|Niger.secret]] 
 

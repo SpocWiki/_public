@@ -40,10 +40,11 @@ markerFolder: ./Rwanda~Southern/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Africa/Rwanda/Counties/Rwanda~Southern.md|Rwanda~Southern]] 
-- [[../../../../_internal/geo/Continent/Africa/Rwanda/Counties/Rwanda~Southern.internal|Rwanda~Southern.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Rwanda/Counties/Rwanda~Southern.protect|Rwanda~Southern.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Rwanda/Counties/Rwanda~Southern.private|Rwanda~Southern.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Rwanda/Counties/Rwanda~Southern.personal|Rwanda~Southern.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Rwanda/Counties/Rwanda~Southern.secret|Rwanda~Southern.secret]] 
+- [[../../../../../../_Standards/geo/Continent/Africa/Rwanda/Counties/Rwanda~Southern|Rwanda~Southern]] 
+- [[../../../../../../_public/geo/Continent/Africa/Rwanda/Counties/Rwanda~Southern.public|Rwanda~Southern.public]] 
+- [[../../../../../../_internal/geo/Continent/Africa/Rwanda/Counties/Rwanda~Southern.internal|Rwanda~Southern.internal]] 
+- [[../../../../../../_protect/geo/Continent/Africa/Rwanda/Counties/Rwanda~Southern.protect|Rwanda~Southern.protect]] 
+- [[../../../../../../_private/geo/Continent/Africa/Rwanda/Counties/Rwanda~Southern.private|Rwanda~Southern.private]] 
+- [[../../../../../../_personal/geo/Continent/Africa/Rwanda/Counties/Rwanda~Southern.personal|Rwanda~Southern.personal]] 
+- [[../../../../../../_secret/geo/Continent/Africa/Rwanda/Counties/Rwanda~Southern.secret|Rwanda~Southern.secret]] 
 

@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ -10.7 , 39.2 ] 
 type: geo-Region
 title: Mtwara
@@ -40,10 +40,11 @@ markerFolder: ./Mtwara/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Africa/Tanzania/Counties/Mtwara.md|Mtwara]] 
-- [[../../../../_internal/geo/Continent/Africa/Tanzania/Counties/Mtwara.internal|Mtwara.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Tanzania/Counties/Mtwara.protect|Mtwara.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Tanzania/Counties/Mtwara.private|Mtwara.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Tanzania/Counties/Mtwara.personal|Mtwara.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Tanzania/Counties/Mtwara.secret|Mtwara.secret]] 
+- [[../../../../../../_Standards/geo/Continent/Africa/Tanzania/Counties/Mtwara|Mtwara]] 
+- [[../../../../../../_public/geo/Continent/Africa/Tanzania/Counties/Mtwara.public|Mtwara.public]] 
+- [[../../../../../../_internal/geo/Continent/Africa/Tanzania/Counties/Mtwara.internal|Mtwara.internal]] 
+- [[../../../../../../_protect/geo/Continent/Africa/Tanzania/Counties/Mtwara.protect|Mtwara.protect]] 
+- [[../../../../../../_private/geo/Continent/Africa/Tanzania/Counties/Mtwara.private|Mtwara.private]] 
+- [[../../../../../../_personal/geo/Continent/Africa/Tanzania/Counties/Mtwara.personal|Mtwara.personal]] 
+- [[../../../../../../_secret/geo/Continent/Africa/Tanzania/Counties/Mtwara.secret|Mtwara.secret]] 
 

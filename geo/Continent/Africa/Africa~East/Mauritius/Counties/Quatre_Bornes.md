@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ -20.27 , 57.48 ] 
 type: geo-Region
 title: Quatre_Bornes
@@ -40,10 +40,11 @@ markerFolder: ./Quatre_Bornes/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Africa/Mauritius/Counties/Quatre_Bornes.md|Quatre_Bornes]] 
-- [[../../../../_internal/geo/Continent/Africa/Mauritius/Counties/Quatre_Bornes.internal|Quatre_Bornes.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Mauritius/Counties/Quatre_Bornes.protect|Quatre_Bornes.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Mauritius/Counties/Quatre_Bornes.private|Quatre_Bornes.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Mauritius/Counties/Quatre_Bornes.personal|Quatre_Bornes.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Mauritius/Counties/Quatre_Bornes.secret|Quatre_Bornes.secret]] 
+- [[../../../../../../_Standards/geo/Continent/Africa/Mauritius/Counties/Quatre_Bornes|Quatre_Bornes]] 
+- [[../../../../../../_public/geo/Continent/Africa/Mauritius/Counties/Quatre_Bornes.public|Quatre_Bornes.public]] 
+- [[../../../../../../_internal/geo/Continent/Africa/Mauritius/Counties/Quatre_Bornes.internal|Quatre_Bornes.internal]] 
+- [[../../../../../../_protect/geo/Continent/Africa/Mauritius/Counties/Quatre_Bornes.protect|Quatre_Bornes.protect]] 
+- [[../../../../../../_private/geo/Continent/Africa/Mauritius/Counties/Quatre_Bornes.private|Quatre_Bornes.private]] 
+- [[../../../../../../_personal/geo/Continent/Africa/Mauritius/Counties/Quatre_Bornes.personal|Quatre_Bornes.personal]] 
+- [[../../../../../../_secret/geo/Continent/Africa/Mauritius/Counties/Quatre_Bornes.secret|Quatre_Bornes.secret]] 
 

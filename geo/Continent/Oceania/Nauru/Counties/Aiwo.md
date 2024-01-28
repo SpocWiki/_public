@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ -0.53 , 166.91 ] 
 type: geo-Region
 title: Aiwo
@@ -40,10 +40,11 @@ markerFolder: ./Aiwo/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Oceania/Nauru/Counties/Aiwo.md|Aiwo]] 
-- [[../../../../_internal/geo/Continent/Oceania/Nauru/Counties/Aiwo.internal|Aiwo.internal]] 
-- [[../../../../_protect/geo/Continent/Oceania/Nauru/Counties/Aiwo.protect|Aiwo.protect]] 
-- [[../../../../_private/geo/Continent/Oceania/Nauru/Counties/Aiwo.private|Aiwo.private]] 
-- [[../../../../_personal/geo/Continent/Oceania/Nauru/Counties/Aiwo.personal|Aiwo.personal]] 
-- [[../../../../_secret/geo/Continent/Oceania/Nauru/Counties/Aiwo.secret|Aiwo.secret]] 
+- [[../../../../../../_Standards/geo/Continent/Oceania/Nauru/Counties/Aiwo|Aiwo]] 
+- [[../../../../../../_public/geo/Continent/Oceania/Nauru/Counties/Aiwo.public|Aiwo.public]] 
+- [[../../../../../../_internal/geo/Continent/Oceania/Nauru/Counties/Aiwo.internal|Aiwo.internal]] 
+- [[../../../../../../_protect/geo/Continent/Oceania/Nauru/Counties/Aiwo.protect|Aiwo.protect]] 
+- [[../../../../../../_private/geo/Continent/Oceania/Nauru/Counties/Aiwo.private|Aiwo.private]] 
+- [[../../../../../../_personal/geo/Continent/Oceania/Nauru/Counties/Aiwo.personal|Aiwo.personal]] 
+- [[../../../../../../_secret/geo/Continent/Oceania/Nauru/Counties/Aiwo.secret|Aiwo.secret]] 
 

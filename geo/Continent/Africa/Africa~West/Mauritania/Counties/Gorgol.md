@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 16 , -12.7 ] 
 type: geo-Region
 title: Gorgol
@@ -40,10 +40,11 @@ markerFolder: ./Gorgol/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Africa/Mauritania/Counties/Gorgol.md|Gorgol]] 
-- [[../../../../_internal/geo/Continent/Africa/Mauritania/Counties/Gorgol.internal|Gorgol.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Mauritania/Counties/Gorgol.protect|Gorgol.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Mauritania/Counties/Gorgol.private|Gorgol.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Mauritania/Counties/Gorgol.personal|Gorgol.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Mauritania/Counties/Gorgol.secret|Gorgol.secret]] 
+- [[../../../../../../_Standards/geo/Continent/Africa/Mauritania/Counties/Gorgol|Gorgol]] 
+- [[../../../../../../_public/geo/Continent/Africa/Mauritania/Counties/Gorgol.public|Gorgol.public]] 
+- [[../../../../../../_internal/geo/Continent/Africa/Mauritania/Counties/Gorgol.internal|Gorgol.internal]] 
+- [[../../../../../../_protect/geo/Continent/Africa/Mauritania/Counties/Gorgol.protect|Gorgol.protect]] 
+- [[../../../../../../_private/geo/Continent/Africa/Mauritania/Counties/Gorgol.private|Gorgol.private]] 
+- [[../../../../../../_personal/geo/Continent/Africa/Mauritania/Counties/Gorgol.personal|Gorgol.personal]] 
+- [[../../../../../../_secret/geo/Continent/Africa/Mauritania/Counties/Gorgol.secret|Gorgol.secret]] 
 

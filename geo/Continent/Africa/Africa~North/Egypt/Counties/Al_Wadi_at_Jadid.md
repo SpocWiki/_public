@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 24.8 , 28.9 ] 
 type: geo-Region
 title: Al_Wadi_at_Jadid
@@ -40,10 +40,11 @@ markerFolder: ./Al_Wadi_at_Jadid/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Africa/Egypt/Counties/Al_Wadi_at_Jadid.md|Al_Wadi_at_Jadid]] 
-- [[../../../../_internal/geo/Continent/Africa/Egypt/Counties/Al_Wadi_at_Jadid.internal|Al_Wadi_at_Jadid.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Egypt/Counties/Al_Wadi_at_Jadid.protect|Al_Wadi_at_Jadid.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Egypt/Counties/Al_Wadi_at_Jadid.private|Al_Wadi_at_Jadid.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Egypt/Counties/Al_Wadi_at_Jadid.personal|Al_Wadi_at_Jadid.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Egypt/Counties/Al_Wadi_at_Jadid.secret|Al_Wadi_at_Jadid.secret]] 
+- [[../../../../../../_Standards/geo/Continent/Africa/Egypt/Counties/Al_Wadi_at_Jadid|Al_Wadi_at_Jadid]] 
+- [[../../../../../../_public/geo/Continent/Africa/Egypt/Counties/Al_Wadi_at_Jadid.public|Al_Wadi_at_Jadid.public]] 
+- [[../../../../../../_internal/geo/Continent/Africa/Egypt/Counties/Al_Wadi_at_Jadid.internal|Al_Wadi_at_Jadid.internal]] 
+- [[../../../../../../_protect/geo/Continent/Africa/Egypt/Counties/Al_Wadi_at_Jadid.protect|Al_Wadi_at_Jadid.protect]] 
+- [[../../../../../../_private/geo/Continent/Africa/Egypt/Counties/Al_Wadi_at_Jadid.private|Al_Wadi_at_Jadid.private]] 
+- [[../../../../../../_personal/geo/Continent/Africa/Egypt/Counties/Al_Wadi_at_Jadid.personal|Al_Wadi_at_Jadid.personal]] 
+- [[../../../../../../_secret/geo/Continent/Africa/Egypt/Counties/Al_Wadi_at_Jadid.secret|Al_Wadi_at_Jadid.secret]] 
 

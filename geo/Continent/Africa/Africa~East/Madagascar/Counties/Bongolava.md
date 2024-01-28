@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ -18.6 , 46.3 ] 
 type: geo-Region
 title: Bongolava
@@ -40,10 +40,11 @@ markerFolder: ./Bongolava/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Africa/Madagascar/Counties/Bongolava.md|Bongolava]] 
-- [[../../../../_internal/geo/Continent/Africa/Madagascar/Counties/Bongolava.internal|Bongolava.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Madagascar/Counties/Bongolava.protect|Bongolava.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Madagascar/Counties/Bongolava.private|Bongolava.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Madagascar/Counties/Bongolava.personal|Bongolava.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Madagascar/Counties/Bongolava.secret|Bongolava.secret]] 
+- [[../../../../../../_Standards/geo/Continent/Africa/Madagascar/Counties/Bongolava|Bongolava]] 
+- [[../../../../../../_public/geo/Continent/Africa/Madagascar/Counties/Bongolava.public|Bongolava.public]] 
+- [[../../../../../../_internal/geo/Continent/Africa/Madagascar/Counties/Bongolava.internal|Bongolava.internal]] 
+- [[../../../../../../_protect/geo/Continent/Africa/Madagascar/Counties/Bongolava.protect|Bongolava.protect]] 
+- [[../../../../../../_private/geo/Continent/Africa/Madagascar/Counties/Bongolava.private|Bongolava.private]] 
+- [[../../../../../../_personal/geo/Continent/Africa/Madagascar/Counties/Bongolava.personal|Bongolava.personal]] 
+- [[../../../../../../_secret/geo/Continent/Africa/Madagascar/Counties/Bongolava.secret|Bongolava.secret]] 
 

@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ -4 , -63 ] 
 type: geo-Region
 title: Amazonas
@@ -40,10 +40,11 @@ markerFolder: ./Amazonas/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/America~South/Brazil/Counties/Amazonas.md|Amazonas]] 
-- [[../../../../_internal/geo/Continent/America~South/Brazil/Counties/Amazonas.internal|Amazonas.internal]] 
-- [[../../../../_protect/geo/Continent/America~South/Brazil/Counties/Amazonas.protect|Amazonas.protect]] 
-- [[../../../../_private/geo/Continent/America~South/Brazil/Counties/Amazonas.private|Amazonas.private]] 
-- [[../../../../_personal/geo/Continent/America~South/Brazil/Counties/Amazonas.personal|Amazonas.personal]] 
-- [[../../../../_secret/geo/Continent/America~South/Brazil/Counties/Amazonas.secret|Amazonas.secret]] 
+- [[../../../../../../_Standards/geo/Continent/America~South/Brazil/Counties/Amazonas|Amazonas]] 
+- [[../../../../../../_public/geo/Continent/America~South/Brazil/Counties/Amazonas.public|Amazonas.public]] 
+- [[../../../../../../_internal/geo/Continent/America~South/Brazil/Counties/Amazonas.internal|Amazonas.internal]] 
+- [[../../../../../../_protect/geo/Continent/America~South/Brazil/Counties/Amazonas.protect|Amazonas.protect]] 
+- [[../../../../../../_private/geo/Continent/America~South/Brazil/Counties/Amazonas.private|Amazonas.private]] 
+- [[../../../../../../_personal/geo/Continent/America~South/Brazil/Counties/Amazonas.personal|Amazonas.personal]] 
+- [[../../../../../../_secret/geo/Continent/America~South/Brazil/Counties/Amazonas.secret|Amazonas.secret]] 
 

@@ -40,10 +40,11 @@ markerFolder: ./Botswana~Central/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Africa/Botswana/Counties/Botswana~Central.md|Botswana~Central]] 
-- [[../../../../_internal/geo/Continent/Africa/Botswana/Counties/Botswana~Central.internal|Botswana~Central.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Botswana/Counties/Botswana~Central.protect|Botswana~Central.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Botswana/Counties/Botswana~Central.private|Botswana~Central.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Botswana/Counties/Botswana~Central.personal|Botswana~Central.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Botswana/Counties/Botswana~Central.secret|Botswana~Central.secret]] 
+- [[../../../../../../_Standards/geo/Continent/Africa/Botswana/Counties/Botswana~Central|Botswana~Central]] 
+- [[../../../../../../_public/geo/Continent/Africa/Botswana/Counties/Botswana~Central.public|Botswana~Central.public]] 
+- [[../../../../../../_internal/geo/Continent/Africa/Botswana/Counties/Botswana~Central.internal|Botswana~Central.internal]] 
+- [[../../../../../../_protect/geo/Continent/Africa/Botswana/Counties/Botswana~Central.protect|Botswana~Central.protect]] 
+- [[../../../../../../_private/geo/Continent/Africa/Botswana/Counties/Botswana~Central.private|Botswana~Central.private]] 
+- [[../../../../../../_personal/geo/Continent/Africa/Botswana/Counties/Botswana~Central.personal|Botswana~Central.personal]] 
+- [[../../../../../../_secret/geo/Continent/Africa/Botswana/Counties/Botswana~Central.secret|Botswana~Central.secret]] 
 

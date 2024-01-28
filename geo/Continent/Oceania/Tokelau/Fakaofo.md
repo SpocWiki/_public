@@ -1,5 +1,5 @@
 ---
-location: [-9.366667,-171.2167]
+location: [-9.366667,-171.2167] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,27 +12,28 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::-171.2167]
-[geo-lat::-9.366667]
-[name::Fakaofo]
-[State::]
-[Country::[[Tokelau]]]
-[StateId::]
-[Population::]
-[Unknown::]
+[geo-lon::-171.2167] 
+[geo-lat::-9.366667] 
+[name::Fakaofo] 
+State ::  
+Country :: [[Tokelau]]  
+[StateId::] 
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Fakaofo
-coordinates: [[Fakaofo]]
-markerFile: [[Fakaofo]]
+coordinates: [[Fakaofo]] 
+markerFile: [[Fakaofo]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_public/geo/Continent/Oceania/Tokelau/Fakaofo.md|Fakaofo]] 
+- [[../../../../../_Standards/geo/Continent/Oceania/Tokelau/Fakaofo|Fakaofo]] 
+- [[../../../../../_public/geo/Continent/Oceania/Tokelau/Fakaofo.public|Fakaofo.public]] 
 - [[../../../../../_internal/geo/Continent/Oceania/Tokelau/Fakaofo.internal|Fakaofo.internal]] 
 - [[../../../../../_protect/geo/Continent/Oceania/Tokelau/Fakaofo.protect|Fakaofo.protect]] 
 - [[../../../../../_private/geo/Continent/Oceania/Tokelau/Fakaofo.private|Fakaofo.private]] 

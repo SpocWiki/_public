@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ -0.499 , 166.937 ] 
 type: geo-Region
 title: Anetan
@@ -40,10 +40,11 @@ markerFolder: ./Anetan/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Oceania/Nauru/Counties/Anetan.md|Anetan]] 
-- [[../../../../_internal/geo/Continent/Oceania/Nauru/Counties/Anetan.internal|Anetan.internal]] 
-- [[../../../../_protect/geo/Continent/Oceania/Nauru/Counties/Anetan.protect|Anetan.protect]] 
-- [[../../../../_private/geo/Continent/Oceania/Nauru/Counties/Anetan.private|Anetan.private]] 
-- [[../../../../_personal/geo/Continent/Oceania/Nauru/Counties/Anetan.personal|Anetan.personal]] 
-- [[../../../../_secret/geo/Continent/Oceania/Nauru/Counties/Anetan.secret|Anetan.secret]] 
+- [[../../../../../../_Standards/geo/Continent/Oceania/Nauru/Counties/Anetan|Anetan]] 
+- [[../../../../../../_public/geo/Continent/Oceania/Nauru/Counties/Anetan.public|Anetan.public]] 
+- [[../../../../../../_internal/geo/Continent/Oceania/Nauru/Counties/Anetan.internal|Anetan.internal]] 
+- [[../../../../../../_protect/geo/Continent/Oceania/Nauru/Counties/Anetan.protect|Anetan.protect]] 
+- [[../../../../../../_private/geo/Continent/Oceania/Nauru/Counties/Anetan.private|Anetan.private]] 
+- [[../../../../../../_personal/geo/Continent/Oceania/Nauru/Counties/Anetan.personal|Anetan.personal]] 
+- [[../../../../../../_secret/geo/Continent/Oceania/Nauru/Counties/Anetan.secret|Anetan.secret]] 
 

@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ -22.1 , -42.1 ] 
 type: geo-Region
 title: Rio_de_Janeiro
@@ -40,10 +40,11 @@ markerFolder: ./Rio_de_Janeiro/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/America~South/Brazil/Counties/Rio_de_Janeiro.md|Rio_de_Janeiro]] 
-- [[../../../../_internal/geo/Continent/America~South/Brazil/Counties/Rio_de_Janeiro.internal|Rio_de_Janeiro.internal]] 
-- [[../../../../_protect/geo/Continent/America~South/Brazil/Counties/Rio_de_Janeiro.protect|Rio_de_Janeiro.protect]] 
-- [[../../../../_private/geo/Continent/America~South/Brazil/Counties/Rio_de_Janeiro.private|Rio_de_Janeiro.private]] 
-- [[../../../../_personal/geo/Continent/America~South/Brazil/Counties/Rio_de_Janeiro.personal|Rio_de_Janeiro.personal]] 
-- [[../../../../_secret/geo/Continent/America~South/Brazil/Counties/Rio_de_Janeiro.secret|Rio_de_Janeiro.secret]] 
+- [[../../../../../../_Standards/geo/Continent/America~South/Brazil/Counties/Rio_de_Janeiro|Rio_de_Janeiro]] 
+- [[../../../../../../_public/geo/Continent/America~South/Brazil/Counties/Rio_de_Janeiro.public|Rio_de_Janeiro.public]] 
+- [[../../../../../../_internal/geo/Continent/America~South/Brazil/Counties/Rio_de_Janeiro.internal|Rio_de_Janeiro.internal]] 
+- [[../../../../../../_protect/geo/Continent/America~South/Brazil/Counties/Rio_de_Janeiro.protect|Rio_de_Janeiro.protect]] 
+- [[../../../../../../_private/geo/Continent/America~South/Brazil/Counties/Rio_de_Janeiro.private|Rio_de_Janeiro.private]] 
+- [[../../../../../../_personal/geo/Continent/America~South/Brazil/Counties/Rio_de_Janeiro.personal|Rio_de_Janeiro.personal]] 
+- [[../../../../../../_secret/geo/Continent/America~South/Brazil/Counties/Rio_de_Janeiro.secret|Rio_de_Janeiro.secret]] 
 

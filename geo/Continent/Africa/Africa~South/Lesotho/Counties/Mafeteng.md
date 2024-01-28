@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ -29.8 , 27.4 ] 
 type: geo-Region
 title: Mafeteng
@@ -40,10 +40,11 @@ markerFolder: ./Mafeteng/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Africa/Lesotho/Counties/Mafeteng.md|Mafeteng]] 
-- [[../../../../_internal/geo/Continent/Africa/Lesotho/Counties/Mafeteng.internal|Mafeteng.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Lesotho/Counties/Mafeteng.protect|Mafeteng.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Lesotho/Counties/Mafeteng.private|Mafeteng.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Lesotho/Counties/Mafeteng.personal|Mafeteng.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Lesotho/Counties/Mafeteng.secret|Mafeteng.secret]] 
+- [[../../../../../../_Standards/geo/Continent/Africa/Lesotho/Counties/Mafeteng|Mafeteng]] 
+- [[../../../../../../_public/geo/Continent/Africa/Lesotho/Counties/Mafeteng.public|Mafeteng.public]] 
+- [[../../../../../../_internal/geo/Continent/Africa/Lesotho/Counties/Mafeteng.internal|Mafeteng.internal]] 
+- [[../../../../../../_protect/geo/Continent/Africa/Lesotho/Counties/Mafeteng.protect|Mafeteng.protect]] 
+- [[../../../../../../_private/geo/Continent/Africa/Lesotho/Counties/Mafeteng.private|Mafeteng.private]] 
+- [[../../../../../../_personal/geo/Continent/Africa/Lesotho/Counties/Mafeteng.personal|Mafeteng.personal]] 
+- [[../../../../../../_secret/geo/Continent/Africa/Lesotho/Counties/Mafeteng.secret|Mafeteng.secret]] 
 

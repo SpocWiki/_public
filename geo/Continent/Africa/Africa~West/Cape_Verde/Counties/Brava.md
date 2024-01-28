@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 14.85 , -24.72 ] 
 type: geo-Region
 title: Brava
@@ -40,10 +40,11 @@ markerFolder: ./Brava/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Africa/Cape_Verde/Counties/Brava.md|Brava]] 
-- [[../../../../_internal/geo/Continent/Africa/Cape_Verde/Counties/Brava.internal|Brava.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Cape_Verde/Counties/Brava.protect|Brava.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Cape_Verde/Counties/Brava.private|Brava.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Cape_Verde/Counties/Brava.personal|Brava.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Cape_Verde/Counties/Brava.secret|Brava.secret]] 
+- [[../../../../../../_Standards/geo/Continent/Africa/Cape_Verde/Counties/Brava|Brava]] 
+- [[../../../../../../_public/geo/Continent/Africa/Cape_Verde/Counties/Brava.public|Brava.public]] 
+- [[../../../../../../_internal/geo/Continent/Africa/Cape_Verde/Counties/Brava.internal|Brava.internal]] 
+- [[../../../../../../_protect/geo/Continent/Africa/Cape_Verde/Counties/Brava.protect|Brava.protect]] 
+- [[../../../../../../_private/geo/Continent/Africa/Cape_Verde/Counties/Brava.private|Brava.private]] 
+- [[../../../../../../_personal/geo/Continent/Africa/Cape_Verde/Counties/Brava.personal|Brava.personal]] 
+- [[../../../../../../_secret/geo/Continent/Africa/Cape_Verde/Counties/Brava.secret|Brava.secret]] 
 

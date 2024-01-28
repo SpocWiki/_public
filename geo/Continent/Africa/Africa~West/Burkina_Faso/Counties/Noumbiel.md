@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 9.7 , -2.9 ] 
 type: geo-Region
 title: Noumbiel
@@ -40,10 +40,11 @@ markerFolder: ./Noumbiel/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Africa/Burkina_Faso/Counties/Noumbiel.md|Noumbiel]] 
-- [[../../../../_internal/geo/Continent/Africa/Burkina_Faso/Counties/Noumbiel.internal|Noumbiel.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Burkina_Faso/Counties/Noumbiel.protect|Noumbiel.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Burkina_Faso/Counties/Noumbiel.private|Noumbiel.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Burkina_Faso/Counties/Noumbiel.personal|Noumbiel.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Burkina_Faso/Counties/Noumbiel.secret|Noumbiel.secret]] 
+- [[../../../../../../_Standards/geo/Continent/Africa/Burkina_Faso/Counties/Noumbiel|Noumbiel]] 
+- [[../../../../../../_public/geo/Continent/Africa/Burkina_Faso/Counties/Noumbiel.public|Noumbiel.public]] 
+- [[../../../../../../_internal/geo/Continent/Africa/Burkina_Faso/Counties/Noumbiel.internal|Noumbiel.internal]] 
+- [[../../../../../../_protect/geo/Continent/Africa/Burkina_Faso/Counties/Noumbiel.protect|Noumbiel.protect]] 
+- [[../../../../../../_private/geo/Continent/Africa/Burkina_Faso/Counties/Noumbiel.private|Noumbiel.private]] 
+- [[../../../../../../_personal/geo/Continent/Africa/Burkina_Faso/Counties/Noumbiel.personal|Noumbiel.personal]] 
+- [[../../../../../../_secret/geo/Continent/Africa/Burkina_Faso/Counties/Noumbiel.secret|Noumbiel.secret]] 
 

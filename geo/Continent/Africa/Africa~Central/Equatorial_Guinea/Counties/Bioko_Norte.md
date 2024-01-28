@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 3.6 , 8.8 ] 
 type: geo-Region
 title: Bioko_Norte
@@ -40,10 +40,11 @@ markerFolder: ./Bioko_Norte/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Africa/Equatorial_Guinea/Counties/Bioko_Norte.md|Bioko_Norte]] 
-- [[../../../../_internal/geo/Continent/Africa/Equatorial_Guinea/Counties/Bioko_Norte.internal|Bioko_Norte.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Equatorial_Guinea/Counties/Bioko_Norte.protect|Bioko_Norte.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Equatorial_Guinea/Counties/Bioko_Norte.private|Bioko_Norte.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Equatorial_Guinea/Counties/Bioko_Norte.personal|Bioko_Norte.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Equatorial_Guinea/Counties/Bioko_Norte.secret|Bioko_Norte.secret]] 
+- [[../../../../../../_Standards/geo/Continent/Africa/Equatorial_Guinea/Counties/Bioko_Norte|Bioko_Norte]] 
+- [[../../../../../../_public/geo/Continent/Africa/Equatorial_Guinea/Counties/Bioko_Norte.public|Bioko_Norte.public]] 
+- [[../../../../../../_internal/geo/Continent/Africa/Equatorial_Guinea/Counties/Bioko_Norte.internal|Bioko_Norte.internal]] 
+- [[../../../../../../_protect/geo/Continent/Africa/Equatorial_Guinea/Counties/Bioko_Norte.protect|Bioko_Norte.protect]] 
+- [[../../../../../../_private/geo/Continent/Africa/Equatorial_Guinea/Counties/Bioko_Norte.private|Bioko_Norte.private]] 
+- [[../../../../../../_personal/geo/Continent/Africa/Equatorial_Guinea/Counties/Bioko_Norte.personal|Bioko_Norte.personal]] 
+- [[../../../../../../_secret/geo/Continent/Africa/Equatorial_Guinea/Counties/Bioko_Norte.secret|Bioko_Norte.secret]] 
 

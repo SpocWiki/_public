@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 11.5 , 42.7 ] 
 type: geo-Region
 title: Arta
@@ -40,10 +40,11 @@ markerFolder: ./Arta/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Africa/Djibouti/Counties/Arta.md|Arta]] 
-- [[../../../../_internal/geo/Continent/Africa/Djibouti/Counties/Arta.internal|Arta.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Djibouti/Counties/Arta.protect|Arta.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Djibouti/Counties/Arta.private|Arta.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Djibouti/Counties/Arta.personal|Arta.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Djibouti/Counties/Arta.secret|Arta.secret]] 
+- [[../../../../../../_Standards/geo/Continent/Africa/Djibouti/Counties/Arta|Arta]] 
+- [[../../../../../../_public/geo/Continent/Africa/Djibouti/Counties/Arta.public|Arta.public]] 
+- [[../../../../../../_internal/geo/Continent/Africa/Djibouti/Counties/Arta.internal|Arta.internal]] 
+- [[../../../../../../_protect/geo/Continent/Africa/Djibouti/Counties/Arta.protect|Arta.protect]] 
+- [[../../../../../../_private/geo/Continent/Africa/Djibouti/Counties/Arta.private|Arta.private]] 
+- [[../../../../../../_personal/geo/Continent/Africa/Djibouti/Counties/Arta.personal|Arta.personal]] 
+- [[../../../../../../_secret/geo/Continent/Africa/Djibouti/Counties/Arta.secret|Arta.secret]] 
 

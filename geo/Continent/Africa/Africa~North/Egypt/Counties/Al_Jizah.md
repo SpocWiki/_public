@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 29 , 29.4 ] 
 type: geo-Region
 title: Al_Jizah
@@ -40,10 +40,11 @@ markerFolder: ./Al_Jizah/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Africa/Egypt/Counties/Al_Jizah.md|Al_Jizah]] 
-- [[../../../../_internal/geo/Continent/Africa/Egypt/Counties/Al_Jizah.internal|Al_Jizah.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Egypt/Counties/Al_Jizah.protect|Al_Jizah.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Egypt/Counties/Al_Jizah.private|Al_Jizah.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Egypt/Counties/Al_Jizah.personal|Al_Jizah.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Egypt/Counties/Al_Jizah.secret|Al_Jizah.secret]] 
+- [[../../../../../../_Standards/geo/Continent/Africa/Egypt/Counties/Al_Jizah|Al_Jizah]] 
+- [[../../../../../../_public/geo/Continent/Africa/Egypt/Counties/Al_Jizah.public|Al_Jizah.public]] 
+- [[../../../../../../_internal/geo/Continent/Africa/Egypt/Counties/Al_Jizah.internal|Al_Jizah.internal]] 
+- [[../../../../../../_protect/geo/Continent/Africa/Egypt/Counties/Al_Jizah.protect|Al_Jizah.protect]] 
+- [[../../../../../../_private/geo/Continent/Africa/Egypt/Counties/Al_Jizah.private|Al_Jizah.private]] 
+- [[../../../../../../_personal/geo/Continent/Africa/Egypt/Counties/Al_Jizah.personal|Al_Jizah.personal]] 
+- [[../../../../../../_secret/geo/Continent/Africa/Egypt/Counties/Al_Jizah.secret|Al_Jizah.secret]] 
 

@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ -13.5 , 187.7 ] 
 type: geo-Region
 title: Gaga'emauga
@@ -40,10 +40,11 @@ markerFolder: ./Gaga'emauga/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Oceania/Samoa/Counties/Gaga'emauga.md|Gaga'emauga]] 
-- [[../../../../_internal/geo/Continent/Oceania/Samoa/Counties/Gaga'emauga.internal|Gaga'emauga.internal]] 
-- [[../../../../_protect/geo/Continent/Oceania/Samoa/Counties/Gaga'emauga.protect|Gaga'emauga.protect]] 
-- [[../../../../_private/geo/Continent/Oceania/Samoa/Counties/Gaga'emauga.private|Gaga'emauga.private]] 
-- [[../../../../_personal/geo/Continent/Oceania/Samoa/Counties/Gaga'emauga.personal|Gaga'emauga.personal]] 
-- [[../../../../_secret/geo/Continent/Oceania/Samoa/Counties/Gaga'emauga.secret|Gaga'emauga.secret]] 
+- [[../../../../../../_Standards/geo/Continent/Oceania/Samoa/Counties/Gaga'emauga|Gaga'emauga]] 
+- [[../../../../../../_public/geo/Continent/Oceania/Samoa/Counties/Gaga'emauga.public|Gaga'emauga.public]] 
+- [[../../../../../../_internal/geo/Continent/Oceania/Samoa/Counties/Gaga'emauga.internal|Gaga'emauga.internal]] 
+- [[../../../../../../_protect/geo/Continent/Oceania/Samoa/Counties/Gaga'emauga.protect|Gaga'emauga.protect]] 
+- [[../../../../../../_private/geo/Continent/Oceania/Samoa/Counties/Gaga'emauga.private|Gaga'emauga.private]] 
+- [[../../../../../../_personal/geo/Continent/Oceania/Samoa/Counties/Gaga'emauga.personal|Gaga'emauga.personal]] 
+- [[../../../../../../_secret/geo/Continent/Oceania/Samoa/Counties/Gaga'emauga.secret|Gaga'emauga.secret]] 
 

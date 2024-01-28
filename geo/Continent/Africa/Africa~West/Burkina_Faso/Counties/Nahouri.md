@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 11.2 , -1.3 ] 
 type: geo-Region
 title: Nahouri
@@ -40,10 +40,11 @@ markerFolder: ./Nahouri/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Africa/Burkina_Faso/Counties/Nahouri.md|Nahouri]] 
-- [[../../../../_internal/geo/Continent/Africa/Burkina_Faso/Counties/Nahouri.internal|Nahouri.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Burkina_Faso/Counties/Nahouri.protect|Nahouri.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Burkina_Faso/Counties/Nahouri.private|Nahouri.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Burkina_Faso/Counties/Nahouri.personal|Nahouri.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Burkina_Faso/Counties/Nahouri.secret|Nahouri.secret]] 
+- [[../../../../../../_Standards/geo/Continent/Africa/Burkina_Faso/Counties/Nahouri|Nahouri]] 
+- [[../../../../../../_public/geo/Continent/Africa/Burkina_Faso/Counties/Nahouri.public|Nahouri.public]] 
+- [[../../../../../../_internal/geo/Continent/Africa/Burkina_Faso/Counties/Nahouri.internal|Nahouri.internal]] 
+- [[../../../../../../_protect/geo/Continent/Africa/Burkina_Faso/Counties/Nahouri.protect|Nahouri.protect]] 
+- [[../../../../../../_private/geo/Continent/Africa/Burkina_Faso/Counties/Nahouri.private|Nahouri.private]] 
+- [[../../../../../../_personal/geo/Continent/Africa/Burkina_Faso/Counties/Nahouri.personal|Nahouri.personal]] 
+- [[../../../../../../_secret/geo/Continent/Africa/Burkina_Faso/Counties/Nahouri.secret|Nahouri.secret]] 
 

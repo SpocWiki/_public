@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ -34.8 , -56.2 ] 
 type: geo-Region
 title: Montevideo
@@ -40,10 +40,11 @@ markerFolder: ./Montevideo/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/America~South/Uruguay/Counties/Montevideo.md|Montevideo]] 
-- [[../../../../_internal/geo/Continent/America~South/Uruguay/Counties/Montevideo.internal|Montevideo.internal]] 
-- [[../../../../_protect/geo/Continent/America~South/Uruguay/Counties/Montevideo.protect|Montevideo.protect]] 
-- [[../../../../_private/geo/Continent/America~South/Uruguay/Counties/Montevideo.private|Montevideo.private]] 
-- [[../../../../_personal/geo/Continent/America~South/Uruguay/Counties/Montevideo.personal|Montevideo.personal]] 
-- [[../../../../_secret/geo/Continent/America~South/Uruguay/Counties/Montevideo.secret|Montevideo.secret]] 
+- [[../../../../../../_Standards/geo/Continent/America~South/Uruguay/Counties/Montevideo|Montevideo]] 
+- [[../../../../../../_public/geo/Continent/America~South/Uruguay/Counties/Montevideo.public|Montevideo.public]] 
+- [[../../../../../../_internal/geo/Continent/America~South/Uruguay/Counties/Montevideo.internal|Montevideo.internal]] 
+- [[../../../../../../_protect/geo/Continent/America~South/Uruguay/Counties/Montevideo.protect|Montevideo.protect]] 
+- [[../../../../../../_private/geo/Continent/America~South/Uruguay/Counties/Montevideo.private|Montevideo.private]] 
+- [[../../../../../../_personal/geo/Continent/America~South/Uruguay/Counties/Montevideo.personal|Montevideo.personal]] 
+- [[../../../../../../_secret/geo/Continent/America~South/Uruguay/Counties/Montevideo.secret|Montevideo.secret]] 
 

@@ -1,5 +1,5 @@
 ﻿---
-location: [2.02,45.33]
+location: [2.02,45.33] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,27 +12,28 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::45.33]
-[geo-lat::2.02]
-[name::Mogadischu=Mogadisho]
-[State::]
-[Country::[[Somalia]]]
-[StateId::]
-[Population::]
-[Unknown::]
+[geo-lon::45.33] 
+[geo-lat::2.02] 
+[name::Mogadischu=Mogadisho] 
+State ::  
+Country :: [[Somalia]]  
+[StateId::] 
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Mogadischu=Mogadisho
-coordinates: [[Mogadischu=Mogadisho]]
-markerFile: [[Mogadischu=Mogadisho]]
+coordinates: [[Mogadischu=Mogadisho]] 
+markerFile: [[Mogadischu=Mogadisho]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_public/geo/Continent/Africa/Somalia/City/Mogadischu=Mogadisho.md|Mogadischu=Mogadisho]] 
+- [[../../../../../../_Standards/geo/Continent/Africa/Somalia/City/Mogadischu=Mogadisho|Mogadischu=Mogadisho]] 
+- [[../../../../../../_public/geo/Continent/Africa/Somalia/City/Mogadischu=Mogadisho.public|Mogadischu=Mogadisho.public]] 
 - [[../../../../../../_internal/geo/Continent/Africa/Somalia/City/Mogadischu=Mogadisho.internal|Mogadischu=Mogadisho.internal]] 
 - [[../../../../../../_protect/geo/Continent/Africa/Somalia/City/Mogadischu=Mogadisho.protect|Mogadischu=Mogadisho.protect]] 
 - [[../../../../../../_private/geo/Continent/Africa/Somalia/City/Mogadischu=Mogadisho.private|Mogadischu=Mogadisho.private]] 

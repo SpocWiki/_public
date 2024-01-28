@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 13.6 , -87.6 ] 
 type: geo-Region
 title: Valle
@@ -40,10 +40,11 @@ markerFolder: ./Valle/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/America~Central/Honduras/Counties/Valle.md|Valle]] 
-- [[../../../../_internal/geo/Continent/America~Central/Honduras/Counties/Valle.internal|Valle.internal]] 
-- [[../../../../_protect/geo/Continent/America~Central/Honduras/Counties/Valle.protect|Valle.protect]] 
-- [[../../../../_private/geo/Continent/America~Central/Honduras/Counties/Valle.private|Valle.private]] 
-- [[../../../../_personal/geo/Continent/America~Central/Honduras/Counties/Valle.personal|Valle.personal]] 
-- [[../../../../_secret/geo/Continent/America~Central/Honduras/Counties/Valle.secret|Valle.secret]] 
+- [[../../../../../../_Standards/geo/Continent/America~Central/Honduras/Counties/Valle|Valle]] 
+- [[../../../../../../_public/geo/Continent/America~Central/Honduras/Counties/Valle.public|Valle.public]] 
+- [[../../../../../../_internal/geo/Continent/America~Central/Honduras/Counties/Valle.internal|Valle.internal]] 
+- [[../../../../../../_protect/geo/Continent/America~Central/Honduras/Counties/Valle.protect|Valle.protect]] 
+- [[../../../../../../_private/geo/Continent/America~Central/Honduras/Counties/Valle.private|Valle.private]] 
+- [[../../../../../../_personal/geo/Continent/America~Central/Honduras/Counties/Valle.personal|Valle.personal]] 
+- [[../../../../../../_secret/geo/Continent/America~Central/Honduras/Counties/Valle.secret|Valle.secret]] 
 

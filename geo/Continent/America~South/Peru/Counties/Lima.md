@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ -11.8 , -76.5 ] 
 type: geo-Region
 title: Lima
@@ -40,10 +40,11 @@ markerFolder: ./Lima/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/America~South/Peru/Counties/Lima.md|Lima]] 
-- [[../../../../_internal/geo/Continent/America~South/Peru/Counties/Lima.internal|Lima.internal]] 
-- [[../../../../_protect/geo/Continent/America~South/Peru/Counties/Lima.protect|Lima.protect]] 
-- [[../../../../_private/geo/Continent/America~South/Peru/Counties/Lima.private|Lima.private]] 
-- [[../../../../_personal/geo/Continent/America~South/Peru/Counties/Lima.personal|Lima.personal]] 
-- [[../../../../_secret/geo/Continent/America~South/Peru/Counties/Lima.secret|Lima.secret]] 
+- [[../../../../../../_Standards/geo/Continent/America~South/Peru/Counties/Lima|Lima]] 
+- [[../../../../../../_public/geo/Continent/America~South/Peru/Counties/Lima.public|Lima.public]] 
+- [[../../../../../../_internal/geo/Continent/America~South/Peru/Counties/Lima.internal|Lima.internal]] 
+- [[../../../../../../_protect/geo/Continent/America~South/Peru/Counties/Lima.protect|Lima.protect]] 
+- [[../../../../../../_private/geo/Continent/America~South/Peru/Counties/Lima.private|Lima.private]] 
+- [[../../../../../../_personal/geo/Continent/America~South/Peru/Counties/Lima.personal|Lima.personal]] 
+- [[../../../../../../_secret/geo/Continent/America~South/Peru/Counties/Lima.secret|Lima.secret]] 
 

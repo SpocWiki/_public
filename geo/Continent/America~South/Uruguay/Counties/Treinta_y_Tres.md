@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ -33.1 , -54.3 ] 
 type: geo-Region
 title: Treinta_y_Tres
@@ -40,10 +40,11 @@ markerFolder: ./Treinta_y_Tres/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/America~South/Uruguay/Counties/Treinta_y_Tres.md|Treinta_y_Tres]] 
-- [[../../../../_internal/geo/Continent/America~South/Uruguay/Counties/Treinta_y_Tres.internal|Treinta_y_Tres.internal]] 
-- [[../../../../_protect/geo/Continent/America~South/Uruguay/Counties/Treinta_y_Tres.protect|Treinta_y_Tres.protect]] 
-- [[../../../../_private/geo/Continent/America~South/Uruguay/Counties/Treinta_y_Tres.private|Treinta_y_Tres.private]] 
-- [[../../../../_personal/geo/Continent/America~South/Uruguay/Counties/Treinta_y_Tres.personal|Treinta_y_Tres.personal]] 
-- [[../../../../_secret/geo/Continent/America~South/Uruguay/Counties/Treinta_y_Tres.secret|Treinta_y_Tres.secret]] 
+- [[../../../../../../_Standards/geo/Continent/America~South/Uruguay/Counties/Treinta_y_Tres|Treinta_y_Tres]] 
+- [[../../../../../../_public/geo/Continent/America~South/Uruguay/Counties/Treinta_y_Tres.public|Treinta_y_Tres.public]] 
+- [[../../../../../../_internal/geo/Continent/America~South/Uruguay/Counties/Treinta_y_Tres.internal|Treinta_y_Tres.internal]] 
+- [[../../../../../../_protect/geo/Continent/America~South/Uruguay/Counties/Treinta_y_Tres.protect|Treinta_y_Tres.protect]] 
+- [[../../../../../../_private/geo/Continent/America~South/Uruguay/Counties/Treinta_y_Tres.private|Treinta_y_Tres.private]] 
+- [[../../../../../../_personal/geo/Continent/America~South/Uruguay/Counties/Treinta_y_Tres.personal|Treinta_y_Tres.personal]] 
+- [[../../../../../../_secret/geo/Continent/America~South/Uruguay/Counties/Treinta_y_Tres.secret|Treinta_y_Tres.secret]] 
 

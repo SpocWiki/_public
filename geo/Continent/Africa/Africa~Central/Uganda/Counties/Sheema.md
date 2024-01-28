@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ -0.6 , 30.4 ] 
 type: geo-Region
 title: Sheema
@@ -40,10 +40,11 @@ markerFolder: ./Sheema/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Africa/Uganda/Counties/Sheema.md|Sheema]] 
-- [[../../../../_internal/geo/Continent/Africa/Uganda/Counties/Sheema.internal|Sheema.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Uganda/Counties/Sheema.protect|Sheema.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Uganda/Counties/Sheema.private|Sheema.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Uganda/Counties/Sheema.personal|Sheema.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Uganda/Counties/Sheema.secret|Sheema.secret]] 
+- [[../../../../../../_Standards/geo/Continent/Africa/Uganda/Counties/Sheema|Sheema]] 
+- [[../../../../../../_public/geo/Continent/Africa/Uganda/Counties/Sheema.public|Sheema.public]] 
+- [[../../../../../../_internal/geo/Continent/Africa/Uganda/Counties/Sheema.internal|Sheema.internal]] 
+- [[../../../../../../_protect/geo/Continent/Africa/Uganda/Counties/Sheema.protect|Sheema.protect]] 
+- [[../../../../../../_private/geo/Continent/Africa/Uganda/Counties/Sheema.private|Sheema.private]] 
+- [[../../../../../../_personal/geo/Continent/Africa/Uganda/Counties/Sheema.personal|Sheema.personal]] 
+- [[../../../../../../_secret/geo/Continent/Africa/Uganda/Counties/Sheema.secret|Sheema.secret]] 
 

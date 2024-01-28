@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 17.31 , -62.75 ] 
 type: geo-Region
 title: Trinity_Palmetto_Point
@@ -40,10 +40,11 @@ markerFolder: ./Trinity_Palmetto_Point/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/America~Caribbean/Saint_Kitts_and_Nevis~Islands/Counties/Trinity_Palmetto_Point.md|Trinity_Palmetto_Point]] 
-- [[../../../../_internal/geo/Continent/America~Caribbean/Saint_Kitts_and_Nevis~Islands/Counties/Trinity_Palmetto_Point.internal|Trinity_Palmetto_Point.internal]] 
-- [[../../../../_protect/geo/Continent/America~Caribbean/Saint_Kitts_and_Nevis~Islands/Counties/Trinity_Palmetto_Point.protect|Trinity_Palmetto_Point.protect]] 
-- [[../../../../_private/geo/Continent/America~Caribbean/Saint_Kitts_and_Nevis~Islands/Counties/Trinity_Palmetto_Point.private|Trinity_Palmetto_Point.private]] 
-- [[../../../../_personal/geo/Continent/America~Caribbean/Saint_Kitts_and_Nevis~Islands/Counties/Trinity_Palmetto_Point.personal|Trinity_Palmetto_Point.personal]] 
-- [[../../../../_secret/geo/Continent/America~Caribbean/Saint_Kitts_and_Nevis~Islands/Counties/Trinity_Palmetto_Point.secret|Trinity_Palmetto_Point.secret]] 
+- [[../../../../../../_Standards/geo/Continent/America~Caribbean/Saint_Kitts_and_Nevis~Islands/Counties/Trinity_Palmetto_Point|Trinity_Palmetto_Point]] 
+- [[../../../../../../_public/geo/Continent/America~Caribbean/Saint_Kitts_and_Nevis~Islands/Counties/Trinity_Palmetto_Point.public|Trinity_Palmetto_Point.public]] 
+- [[../../../../../../_internal/geo/Continent/America~Caribbean/Saint_Kitts_and_Nevis~Islands/Counties/Trinity_Palmetto_Point.internal|Trinity_Palmetto_Point.internal]] 
+- [[../../../../../../_protect/geo/Continent/America~Caribbean/Saint_Kitts_and_Nevis~Islands/Counties/Trinity_Palmetto_Point.protect|Trinity_Palmetto_Point.protect]] 
+- [[../../../../../../_private/geo/Continent/America~Caribbean/Saint_Kitts_and_Nevis~Islands/Counties/Trinity_Palmetto_Point.private|Trinity_Palmetto_Point.private]] 
+- [[../../../../../../_personal/geo/Continent/America~Caribbean/Saint_Kitts_and_Nevis~Islands/Counties/Trinity_Palmetto_Point.personal|Trinity_Palmetto_Point.personal]] 
+- [[../../../../../../_secret/geo/Continent/America~Caribbean/Saint_Kitts_and_Nevis~Islands/Counties/Trinity_Palmetto_Point.secret|Trinity_Palmetto_Point.secret]] 
 

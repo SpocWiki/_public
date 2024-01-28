@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 0.8 , -78 ] 
 type: geo-Region
 title: Carchi
@@ -40,10 +40,11 @@ markerFolder: ./Carchi/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/America~South/Ecuador/Counties/Carchi.md|Carchi]] 
-- [[../../../../_internal/geo/Continent/America~South/Ecuador/Counties/Carchi.internal|Carchi.internal]] 
-- [[../../../../_protect/geo/Continent/America~South/Ecuador/Counties/Carchi.protect|Carchi.protect]] 
-- [[../../../../_private/geo/Continent/America~South/Ecuador/Counties/Carchi.private|Carchi.private]] 
-- [[../../../../_personal/geo/Continent/America~South/Ecuador/Counties/Carchi.personal|Carchi.personal]] 
-- [[../../../../_secret/geo/Continent/America~South/Ecuador/Counties/Carchi.secret|Carchi.secret]] 
+- [[../../../../../../_Standards/geo/Continent/America~South/Ecuador/Counties/Carchi|Carchi]] 
+- [[../../../../../../_public/geo/Continent/America~South/Ecuador/Counties/Carchi.public|Carchi.public]] 
+- [[../../../../../../_internal/geo/Continent/America~South/Ecuador/Counties/Carchi.internal|Carchi.internal]] 
+- [[../../../../../../_protect/geo/Continent/America~South/Ecuador/Counties/Carchi.protect|Carchi.protect]] 
+- [[../../../../../../_private/geo/Continent/America~South/Ecuador/Counties/Carchi.private|Carchi.private]] 
+- [[../../../../../../_personal/geo/Continent/America~South/Ecuador/Counties/Carchi.personal|Carchi.personal]] 
+- [[../../../../../../_secret/geo/Continent/America~South/Ecuador/Counties/Carchi.secret|Carchi.secret]] 
 

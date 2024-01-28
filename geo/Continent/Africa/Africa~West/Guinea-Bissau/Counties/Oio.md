@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 12.3 , -15.3 ] 
 type: geo-Region
 title: Oio
@@ -40,10 +40,11 @@ markerFolder: ./Oio/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Africa/Guinea-Bissau/Counties/Oio.md|Oio]] 
-- [[../../../../_internal/geo/Continent/Africa/Guinea-Bissau/Counties/Oio.internal|Oio.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Guinea-Bissau/Counties/Oio.protect|Oio.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Guinea-Bissau/Counties/Oio.private|Oio.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Guinea-Bissau/Counties/Oio.personal|Oio.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Guinea-Bissau/Counties/Oio.secret|Oio.secret]] 
+- [[../../../../../../_Standards/geo/Continent/Africa/Guinea-Bissau/Counties/Oio|Oio]] 
+- [[../../../../../../_public/geo/Continent/Africa/Guinea-Bissau/Counties/Oio.public|Oio.public]] 
+- [[../../../../../../_internal/geo/Continent/Africa/Guinea-Bissau/Counties/Oio.internal|Oio.internal]] 
+- [[../../../../../../_protect/geo/Continent/Africa/Guinea-Bissau/Counties/Oio.protect|Oio.protect]] 
+- [[../../../../../../_private/geo/Continent/Africa/Guinea-Bissau/Counties/Oio.private|Oio.private]] 
+- [[../../../../../../_personal/geo/Continent/Africa/Guinea-Bissau/Counties/Oio.personal|Oio.personal]] 
+- [[../../../../../../_secret/geo/Continent/Africa/Guinea-Bissau/Counties/Oio.secret|Oio.secret]] 
 

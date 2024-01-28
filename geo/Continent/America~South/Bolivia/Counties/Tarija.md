@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ -21.9 , -63.9 ] 
 type: geo-Region
 title: Tarija
@@ -40,10 +40,11 @@ markerFolder: ./Tarija/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/America~South/Bolivia/Counties/Tarija.md|Tarija]] 
-- [[../../../../_internal/geo/Continent/America~South/Bolivia/Counties/Tarija.internal|Tarija.internal]] 
-- [[../../../../_protect/geo/Continent/America~South/Bolivia/Counties/Tarija.protect|Tarija.protect]] 
-- [[../../../../_private/geo/Continent/America~South/Bolivia/Counties/Tarija.private|Tarija.private]] 
-- [[../../../../_personal/geo/Continent/America~South/Bolivia/Counties/Tarija.personal|Tarija.personal]] 
-- [[../../../../_secret/geo/Continent/America~South/Bolivia/Counties/Tarija.secret|Tarija.secret]] 
+- [[../../../../../../_Standards/geo/Continent/America~South/Bolivia/Counties/Tarija|Tarija]] 
+- [[../../../../../../_public/geo/Continent/America~South/Bolivia/Counties/Tarija.public|Tarija.public]] 
+- [[../../../../../../_internal/geo/Continent/America~South/Bolivia/Counties/Tarija.internal|Tarija.internal]] 
+- [[../../../../../../_protect/geo/Continent/America~South/Bolivia/Counties/Tarija.protect|Tarija.protect]] 
+- [[../../../../../../_private/geo/Continent/America~South/Bolivia/Counties/Tarija.private|Tarija.private]] 
+- [[../../../../../../_personal/geo/Continent/America~South/Bolivia/Counties/Tarija.personal|Tarija.personal]] 
+- [[../../../../../../_secret/geo/Continent/America~South/Bolivia/Counties/Tarija.secret|Tarija.secret]] 
 

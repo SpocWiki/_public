@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 6 , -8.4 ] 
 type: geo-Region
 title: Grand_Gedeh
@@ -40,10 +40,11 @@ markerFolder: ./Grand_Gedeh/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Africa/Liberia/Counties/Grand_Gedeh.md|Grand_Gedeh]] 
-- [[../../../../_internal/geo/Continent/Africa/Liberia/Counties/Grand_Gedeh.internal|Grand_Gedeh.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Liberia/Counties/Grand_Gedeh.protect|Grand_Gedeh.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Liberia/Counties/Grand_Gedeh.private|Grand_Gedeh.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Liberia/Counties/Grand_Gedeh.personal|Grand_Gedeh.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Liberia/Counties/Grand_Gedeh.secret|Grand_Gedeh.secret]] 
+- [[../../../../../../_Standards/geo/Continent/Africa/Liberia/Counties/Grand_Gedeh|Grand_Gedeh]] 
+- [[../../../../../../_public/geo/Continent/Africa/Liberia/Counties/Grand_Gedeh.public|Grand_Gedeh.public]] 
+- [[../../../../../../_internal/geo/Continent/Africa/Liberia/Counties/Grand_Gedeh.internal|Grand_Gedeh.internal]] 
+- [[../../../../../../_protect/geo/Continent/Africa/Liberia/Counties/Grand_Gedeh.protect|Grand_Gedeh.protect]] 
+- [[../../../../../../_private/geo/Continent/Africa/Liberia/Counties/Grand_Gedeh.private|Grand_Gedeh.private]] 
+- [[../../../../../../_personal/geo/Continent/Africa/Liberia/Counties/Grand_Gedeh.personal|Grand_Gedeh.personal]] 
+- [[../../../../../../_secret/geo/Continent/Africa/Liberia/Counties/Grand_Gedeh.secret|Grand_Gedeh.secret]] 
 

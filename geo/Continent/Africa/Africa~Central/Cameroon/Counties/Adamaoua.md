@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 7.1 , 13.2 ] 
 type: geo-Region
 title: Adamaoua
@@ -40,10 +40,11 @@ markerFolder: ./Adamaoua/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Africa/Cameroon/Counties/Adamaoua.md|Adamaoua]] 
-- [[../../../../_internal/geo/Continent/Africa/Cameroon/Counties/Adamaoua.internal|Adamaoua.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Cameroon/Counties/Adamaoua.protect|Adamaoua.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Cameroon/Counties/Adamaoua.private|Adamaoua.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Cameroon/Counties/Adamaoua.personal|Adamaoua.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Cameroon/Counties/Adamaoua.secret|Adamaoua.secret]] 
+- [[../../../../../../_Standards/geo/Continent/Africa/Cameroon/Counties/Adamaoua|Adamaoua]] 
+- [[../../../../../../_public/geo/Continent/Africa/Cameroon/Counties/Adamaoua.public|Adamaoua.public]] 
+- [[../../../../../../_internal/geo/Continent/Africa/Cameroon/Counties/Adamaoua.internal|Adamaoua.internal]] 
+- [[../../../../../../_protect/geo/Continent/Africa/Cameroon/Counties/Adamaoua.protect|Adamaoua.protect]] 
+- [[../../../../../../_private/geo/Continent/Africa/Cameroon/Counties/Adamaoua.private|Adamaoua.private]] 
+- [[../../../../../../_personal/geo/Continent/Africa/Cameroon/Counties/Adamaoua.personal|Adamaoua.personal]] 
+- [[../../../../../../_secret/geo/Continent/Africa/Cameroon/Counties/Adamaoua.secret|Adamaoua.secret]] 
 

@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 1.2 , 34.3 ] 
 type: geo-Region
 title: Sironko
@@ -40,10 +40,11 @@ markerFolder: ./Sironko/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Africa/Uganda/Counties/Sironko.md|Sironko]] 
-- [[../../../../_internal/geo/Continent/Africa/Uganda/Counties/Sironko.internal|Sironko.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Uganda/Counties/Sironko.protect|Sironko.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Uganda/Counties/Sironko.private|Sironko.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Uganda/Counties/Sironko.personal|Sironko.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Uganda/Counties/Sironko.secret|Sironko.secret]] 
+- [[../../../../../../_Standards/geo/Continent/Africa/Uganda/Counties/Sironko|Sironko]] 
+- [[../../../../../../_public/geo/Continent/Africa/Uganda/Counties/Sironko.public|Sironko.public]] 
+- [[../../../../../../_internal/geo/Continent/Africa/Uganda/Counties/Sironko.internal|Sironko.internal]] 
+- [[../../../../../../_protect/geo/Continent/Africa/Uganda/Counties/Sironko.protect|Sironko.protect]] 
+- [[../../../../../../_private/geo/Continent/Africa/Uganda/Counties/Sironko.private|Sironko.private]] 
+- [[../../../../../../_personal/geo/Continent/Africa/Uganda/Counties/Sironko.personal|Sironko.personal]] 
+- [[../../../../../../_secret/geo/Continent/Africa/Uganda/Counties/Sironko.secret|Sironko.secret]] 
 

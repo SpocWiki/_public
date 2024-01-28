@@ -40,7 +40,8 @@ markerFolder: ./Spratly_Islands/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Oceania/Spratly_Islands.md|Spratly_Islands]] 
+- [[../../../../_Standards/geo/Continent/Oceania/Spratly_Islands|Spratly_Islands]] 
+- [[../../../../_public/geo/Continent/Oceania/Spratly_Islands.public|Spratly_Islands.public]] 
 - [[../../../../_internal/geo/Continent/Oceania/Spratly_Islands.internal|Spratly_Islands.internal]] 
 - [[../../../../_protect/geo/Continent/Oceania/Spratly_Islands.protect|Spratly_Islands.protect]] 
 - [[../../../../_private/geo/Continent/Oceania/Spratly_Islands.private|Spratly_Islands.private]] 

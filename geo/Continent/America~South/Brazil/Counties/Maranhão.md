@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ -5.7 , -45.3 ] 
 type: geo-Region
 title: Maranhão
@@ -40,10 +40,11 @@ markerFolder: ./Maranhão/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/America~South/Brazil/Counties/Maranhão.md|Maranhão]] 
-- [[../../../../_internal/geo/Continent/America~South/Brazil/Counties/Maranhão.internal|Maranhão.internal]] 
-- [[../../../../_protect/geo/Continent/America~South/Brazil/Counties/Maranhão.protect|Maranhão.protect]] 
-- [[../../../../_private/geo/Continent/America~South/Brazil/Counties/Maranhão.private|Maranhão.private]] 
-- [[../../../../_personal/geo/Continent/America~South/Brazil/Counties/Maranhão.personal|Maranhão.personal]] 
-- [[../../../../_secret/geo/Continent/America~South/Brazil/Counties/Maranhão.secret|Maranhão.secret]] 
+- [[../../../../../../_Standards/geo/Continent/America~South/Brazil/Counties/Maranhão|Maranhão]] 
+- [[../../../../../../_public/geo/Continent/America~South/Brazil/Counties/Maranhão.public|Maranhão.public]] 
+- [[../../../../../../_internal/geo/Continent/America~South/Brazil/Counties/Maranhão.internal|Maranhão.internal]] 
+- [[../../../../../../_protect/geo/Continent/America~South/Brazil/Counties/Maranhão.protect|Maranhão.protect]] 
+- [[../../../../../../_private/geo/Continent/America~South/Brazil/Counties/Maranhão.private|Maranhão.private]] 
+- [[../../../../../../_personal/geo/Continent/America~South/Brazil/Counties/Maranhão.personal|Maranhão.personal]] 
+- [[../../../../../../_secret/geo/Continent/America~South/Brazil/Counties/Maranhão.secret|Maranhão.secret]] 
 

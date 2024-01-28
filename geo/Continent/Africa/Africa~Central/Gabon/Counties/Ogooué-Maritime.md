@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ -1.5 , 9.7 ] 
 type: geo-Region
 title: Ogooué-Maritime
@@ -40,10 +40,11 @@ markerFolder: ./Ogooué-Maritime/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Africa/Gabon/Counties/Ogooué-Maritime.md|Ogooué-Maritime]] 
-- [[../../../../_internal/geo/Continent/Africa/Gabon/Counties/Ogooué-Maritime.internal|Ogooué-Maritime.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Gabon/Counties/Ogooué-Maritime.protect|Ogooué-Maritime.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Gabon/Counties/Ogooué-Maritime.private|Ogooué-Maritime.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Gabon/Counties/Ogooué-Maritime.personal|Ogooué-Maritime.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Gabon/Counties/Ogooué-Maritime.secret|Ogooué-Maritime.secret]] 
+- [[../../../../../../_Standards/geo/Continent/Africa/Gabon/Counties/Ogooué-Maritime|Ogooué-Maritime]] 
+- [[../../../../../../_public/geo/Continent/Africa/Gabon/Counties/Ogooué-Maritime.public|Ogooué-Maritime.public]] 
+- [[../../../../../../_internal/geo/Continent/Africa/Gabon/Counties/Ogooué-Maritime.internal|Ogooué-Maritime.internal]] 
+- [[../../../../../../_protect/geo/Continent/Africa/Gabon/Counties/Ogooué-Maritime.protect|Ogooué-Maritime.protect]] 
+- [[../../../../../../_private/geo/Continent/Africa/Gabon/Counties/Ogooué-Maritime.private|Ogooué-Maritime.private]] 
+- [[../../../../../../_personal/geo/Continent/Africa/Gabon/Counties/Ogooué-Maritime.personal|Ogooué-Maritime.personal]] 
+- [[../../../../../../_secret/geo/Continent/Africa/Gabon/Counties/Ogooué-Maritime.secret|Ogooué-Maritime.secret]] 
 

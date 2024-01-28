@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 1.6 , 10.3 ] 
 type: geo-Region
 title: Centro_Sur
@@ -40,10 +40,11 @@ markerFolder: ./Centro_Sur/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Africa/Equatorial_Guinea/Counties/Centro_Sur.md|Centro_Sur]] 
-- [[../../../../_internal/geo/Continent/Africa/Equatorial_Guinea/Counties/Centro_Sur.internal|Centro_Sur.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Equatorial_Guinea/Counties/Centro_Sur.protect|Centro_Sur.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Equatorial_Guinea/Counties/Centro_Sur.private|Centro_Sur.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Equatorial_Guinea/Counties/Centro_Sur.personal|Centro_Sur.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Equatorial_Guinea/Counties/Centro_Sur.secret|Centro_Sur.secret]] 
+- [[../../../../../../_Standards/geo/Continent/Africa/Equatorial_Guinea/Counties/Centro_Sur|Centro_Sur]] 
+- [[../../../../../../_public/geo/Continent/Africa/Equatorial_Guinea/Counties/Centro_Sur.public|Centro_Sur.public]] 
+- [[../../../../../../_internal/geo/Continent/Africa/Equatorial_Guinea/Counties/Centro_Sur.internal|Centro_Sur.internal]] 
+- [[../../../../../../_protect/geo/Continent/Africa/Equatorial_Guinea/Counties/Centro_Sur.protect|Centro_Sur.protect]] 
+- [[../../../../../../_private/geo/Continent/Africa/Equatorial_Guinea/Counties/Centro_Sur.private|Centro_Sur.private]] 
+- [[../../../../../../_personal/geo/Continent/Africa/Equatorial_Guinea/Counties/Centro_Sur.personal|Centro_Sur.personal]] 
+- [[../../../../../../_secret/geo/Continent/Africa/Equatorial_Guinea/Counties/Centro_Sur.secret|Centro_Sur.secret]] 
 

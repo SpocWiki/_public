@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 3.53 , 30.95 ] 
 type: geo-Region
 title: Koboko
@@ -40,10 +40,11 @@ markerFolder: ./Koboko/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Africa/Uganda/Counties/Koboko.md|Koboko]] 
-- [[../../../../_internal/geo/Continent/Africa/Uganda/Counties/Koboko.internal|Koboko.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Uganda/Counties/Koboko.protect|Koboko.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Uganda/Counties/Koboko.private|Koboko.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Uganda/Counties/Koboko.personal|Koboko.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Uganda/Counties/Koboko.secret|Koboko.secret]] 
+- [[../../../../../../_Standards/geo/Continent/Africa/Uganda/Counties/Koboko|Koboko]] 
+- [[../../../../../../_public/geo/Continent/Africa/Uganda/Counties/Koboko.public|Koboko.public]] 
+- [[../../../../../../_internal/geo/Continent/Africa/Uganda/Counties/Koboko.internal|Koboko.internal]] 
+- [[../../../../../../_protect/geo/Continent/Africa/Uganda/Counties/Koboko.protect|Koboko.protect]] 
+- [[../../../../../../_private/geo/Continent/Africa/Uganda/Counties/Koboko.private|Koboko.private]] 
+- [[../../../../../../_personal/geo/Continent/Africa/Uganda/Counties/Koboko.personal|Koboko.personal]] 
+- [[../../../../../../_secret/geo/Continent/Africa/Uganda/Counties/Koboko.secret|Koboko.secret]] 
 

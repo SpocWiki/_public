@@ -1,5 +1,5 @@
 ﻿---
-location: [13.46667,-16.6]
+location: [13.46667,-16.6] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,27 +12,28 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::-16.6]
-[geo-lat::13.46667]
-[name::Banjul]
-[State::]
-[Country::[[Gambia]]]
-[StateId::]
-[Population::]
-[Unknown::32]
+[geo-lon::-16.6] 
+[geo-lat::13.46667] 
+[name::Banjul] 
+State ::  
+Country :: [[Gambia]]  
+[StateId::] 
+[Population::] 
+[Unknown::32] 
 
 
 ```leaflet
 id: Banjul
-coordinates: [[Banjul]]
-markerFile: [[Banjul]]
+coordinates: [[Banjul]] 
+markerFile: [[Banjul]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_public/geo/Continent/Africa/Gambia/City/Banjul.md|Banjul]] 
+- [[../../../../../../_Standards/geo/Continent/Africa/Gambia/City/Banjul|Banjul]] 
+- [[../../../../../../_public/geo/Continent/Africa/Gambia/City/Banjul.public|Banjul.public]] 
 - [[../../../../../../_internal/geo/Continent/Africa/Gambia/City/Banjul.internal|Banjul.internal]] 
 - [[../../../../../../_protect/geo/Continent/Africa/Gambia/City/Banjul.protect|Banjul.protect]] 
 - [[../../../../../../_private/geo/Continent/Africa/Gambia/City/Banjul.private|Banjul.private]] 

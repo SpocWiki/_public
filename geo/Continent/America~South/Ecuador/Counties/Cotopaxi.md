@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ -0.8 , -78.8 ] 
 type: geo-Region
 title: Cotopaxi
@@ -40,10 +40,11 @@ markerFolder: ./Cotopaxi/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/America~South/Ecuador/Counties/Cotopaxi.md|Cotopaxi]] 
-- [[../../../../_internal/geo/Continent/America~South/Ecuador/Counties/Cotopaxi.internal|Cotopaxi.internal]] 
-- [[../../../../_protect/geo/Continent/America~South/Ecuador/Counties/Cotopaxi.protect|Cotopaxi.protect]] 
-- [[../../../../_private/geo/Continent/America~South/Ecuador/Counties/Cotopaxi.private|Cotopaxi.private]] 
-- [[../../../../_personal/geo/Continent/America~South/Ecuador/Counties/Cotopaxi.personal|Cotopaxi.personal]] 
-- [[../../../../_secret/geo/Continent/America~South/Ecuador/Counties/Cotopaxi.secret|Cotopaxi.secret]] 
+- [[../../../../../../_Standards/geo/Continent/America~South/Ecuador/Counties/Cotopaxi|Cotopaxi]] 
+- [[../../../../../../_public/geo/Continent/America~South/Ecuador/Counties/Cotopaxi.public|Cotopaxi.public]] 
+- [[../../../../../../_internal/geo/Continent/America~South/Ecuador/Counties/Cotopaxi.internal|Cotopaxi.internal]] 
+- [[../../../../../../_protect/geo/Continent/America~South/Ecuador/Counties/Cotopaxi.protect|Cotopaxi.protect]] 
+- [[../../../../../../_private/geo/Continent/America~South/Ecuador/Counties/Cotopaxi.private|Cotopaxi.private]] 
+- [[../../../../../../_personal/geo/Continent/America~South/Ecuador/Counties/Cotopaxi.personal|Cotopaxi.personal]] 
+- [[../../../../../../_secret/geo/Continent/America~South/Ecuador/Counties/Cotopaxi.secret|Cotopaxi.secret]] 
 

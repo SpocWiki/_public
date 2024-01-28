@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ -3.4 , 29.3 ] 
 type: geo-Region
 title: Bujumbura_Mairie
@@ -40,10 +40,11 @@ markerFolder: ./Bujumbura_Mairie/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Africa/Burundi/Counties/Bujumbura_Mairie.md|Bujumbura_Mairie]] 
-- [[../../../../_internal/geo/Continent/Africa/Burundi/Counties/Bujumbura_Mairie.internal|Bujumbura_Mairie.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Burundi/Counties/Bujumbura_Mairie.protect|Bujumbura_Mairie.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Burundi/Counties/Bujumbura_Mairie.private|Bujumbura_Mairie.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Burundi/Counties/Bujumbura_Mairie.personal|Bujumbura_Mairie.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Burundi/Counties/Bujumbura_Mairie.secret|Bujumbura_Mairie.secret]] 
+- [[../../../../../../_Standards/geo/Continent/Africa/Burundi/Counties/Bujumbura_Mairie|Bujumbura_Mairie]] 
+- [[../../../../../../_public/geo/Continent/Africa/Burundi/Counties/Bujumbura_Mairie.public|Bujumbura_Mairie.public]] 
+- [[../../../../../../_internal/geo/Continent/Africa/Burundi/Counties/Bujumbura_Mairie.internal|Bujumbura_Mairie.internal]] 
+- [[../../../../../../_protect/geo/Continent/Africa/Burundi/Counties/Bujumbura_Mairie.protect|Bujumbura_Mairie.protect]] 
+- [[../../../../../../_private/geo/Continent/Africa/Burundi/Counties/Bujumbura_Mairie.private|Bujumbura_Mairie.private]] 
+- [[../../../../../../_personal/geo/Continent/Africa/Burundi/Counties/Bujumbura_Mairie.personal|Bujumbura_Mairie.personal]] 
+- [[../../../../../../_secret/geo/Continent/Africa/Burundi/Counties/Bujumbura_Mairie.secret|Bujumbura_Mairie.secret]] 
 

@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 2.1 , 33.6 ] 
 type: geo-Region
 title: Amuria
@@ -40,10 +40,11 @@ markerFolder: ./Amuria/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Africa/Uganda/Counties/Amuria.md|Amuria]] 
-- [[../../../../_internal/geo/Continent/Africa/Uganda/Counties/Amuria.internal|Amuria.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Uganda/Counties/Amuria.protect|Amuria.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Uganda/Counties/Amuria.private|Amuria.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Uganda/Counties/Amuria.personal|Amuria.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Uganda/Counties/Amuria.secret|Amuria.secret]] 
+- [[../../../../../../_Standards/geo/Continent/Africa/Uganda/Counties/Amuria|Amuria]] 
+- [[../../../../../../_public/geo/Continent/Africa/Uganda/Counties/Amuria.public|Amuria.public]] 
+- [[../../../../../../_internal/geo/Continent/Africa/Uganda/Counties/Amuria.internal|Amuria.internal]] 
+- [[../../../../../../_protect/geo/Continent/Africa/Uganda/Counties/Amuria.protect|Amuria.protect]] 
+- [[../../../../../../_private/geo/Continent/Africa/Uganda/Counties/Amuria.private|Amuria.private]] 
+- [[../../../../../../_personal/geo/Continent/Africa/Uganda/Counties/Amuria.personal|Amuria.personal]] 
+- [[../../../../../../_secret/geo/Continent/Africa/Uganda/Counties/Amuria.secret|Amuria.secret]] 
 

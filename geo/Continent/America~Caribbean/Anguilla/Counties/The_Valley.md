@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 18.24 , -63.06 ] 
 type: geo-Region
 title: The_Valley
@@ -40,10 +40,11 @@ markerFolder: ./The_Valley/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/America~Caribbean/Anguilla/Counties/The_Valley.md|The_Valley]] 
-- [[../../../../_internal/geo/Continent/America~Caribbean/Anguilla/Counties/The_Valley.internal|The_Valley.internal]] 
-- [[../../../../_protect/geo/Continent/America~Caribbean/Anguilla/Counties/The_Valley.protect|The_Valley.protect]] 
-- [[../../../../_private/geo/Continent/America~Caribbean/Anguilla/Counties/The_Valley.private|The_Valley.private]] 
-- [[../../../../_personal/geo/Continent/America~Caribbean/Anguilla/Counties/The_Valley.personal|The_Valley.personal]] 
-- [[../../../../_secret/geo/Continent/America~Caribbean/Anguilla/Counties/The_Valley.secret|The_Valley.secret]] 
+- [[../../../../../../_Standards/geo/Continent/America~Caribbean/Anguilla/Counties/The_Valley|The_Valley]] 
+- [[../../../../../../_public/geo/Continent/America~Caribbean/Anguilla/Counties/The_Valley.public|The_Valley.public]] 
+- [[../../../../../../_internal/geo/Continent/America~Caribbean/Anguilla/Counties/The_Valley.internal|The_Valley.internal]] 
+- [[../../../../../../_protect/geo/Continent/America~Caribbean/Anguilla/Counties/The_Valley.protect|The_Valley.protect]] 
+- [[../../../../../../_private/geo/Continent/America~Caribbean/Anguilla/Counties/The_Valley.private|The_Valley.private]] 
+- [[../../../../../../_personal/geo/Continent/America~Caribbean/Anguilla/Counties/The_Valley.personal|The_Valley.personal]] 
+- [[../../../../../../_secret/geo/Continent/America~Caribbean/Anguilla/Counties/The_Valley.secret|The_Valley.secret]] 
 

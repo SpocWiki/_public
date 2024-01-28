@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 30.3 , 13.3 ] 
 type: geo-Region
 title: Mizdah
@@ -40,10 +40,11 @@ markerFolder: ./Mizdah/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Africa/Libya/Counties/Mizdah.md|Mizdah]] 
-- [[../../../../_internal/geo/Continent/Africa/Libya/Counties/Mizdah.internal|Mizdah.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Libya/Counties/Mizdah.protect|Mizdah.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Libya/Counties/Mizdah.private|Mizdah.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Libya/Counties/Mizdah.personal|Mizdah.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Libya/Counties/Mizdah.secret|Mizdah.secret]] 
+- [[../../../../../../_Standards/geo/Continent/Africa/Libya/Counties/Mizdah|Mizdah]] 
+- [[../../../../../../_public/geo/Continent/Africa/Libya/Counties/Mizdah.public|Mizdah.public]] 
+- [[../../../../../../_internal/geo/Continent/Africa/Libya/Counties/Mizdah.internal|Mizdah.internal]] 
+- [[../../../../../../_protect/geo/Continent/Africa/Libya/Counties/Mizdah.protect|Mizdah.protect]] 
+- [[../../../../../../_private/geo/Continent/Africa/Libya/Counties/Mizdah.private|Mizdah.private]] 
+- [[../../../../../../_personal/geo/Continent/Africa/Libya/Counties/Mizdah.personal|Mizdah.personal]] 
+- [[../../../../../../_secret/geo/Continent/Africa/Libya/Counties/Mizdah.secret|Mizdah.secret]] 
 

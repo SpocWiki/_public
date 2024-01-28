@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 11.4 , 18.1 ] 
 type: geo-Region
 title: Guéra
@@ -40,10 +40,11 @@ markerFolder: ./Guéra/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Africa/Chad/Counties/Guéra.md|Guéra]] 
-- [[../../../../_internal/geo/Continent/Africa/Chad/Counties/Guéra.internal|Guéra.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Chad/Counties/Guéra.protect|Guéra.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Chad/Counties/Guéra.private|Guéra.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Chad/Counties/Guéra.personal|Guéra.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Chad/Counties/Guéra.secret|Guéra.secret]] 
+- [[../../../../../../_Standards/geo/Continent/Africa/Chad/Counties/Guéra|Guéra]] 
+- [[../../../../../../_public/geo/Continent/Africa/Chad/Counties/Guéra.public|Guéra.public]] 
+- [[../../../../../../_internal/geo/Continent/Africa/Chad/Counties/Guéra.internal|Guéra.internal]] 
+- [[../../../../../../_protect/geo/Continent/Africa/Chad/Counties/Guéra.protect|Guéra.protect]] 
+- [[../../../../../../_private/geo/Continent/Africa/Chad/Counties/Guéra.private|Guéra.private]] 
+- [[../../../../../../_personal/geo/Continent/Africa/Chad/Counties/Guéra.personal|Guéra.personal]] 
+- [[../../../../../../_secret/geo/Continent/Africa/Chad/Counties/Guéra.secret|Guéra.secret]] 
 

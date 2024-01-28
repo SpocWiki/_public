@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ -31.3 , -57.1 ] 
 type: geo-Region
 title: Salto
@@ -40,10 +40,11 @@ markerFolder: ./Salto/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/America~South/Uruguay/Counties/Salto.md|Salto]] 
-- [[../../../../_internal/geo/Continent/America~South/Uruguay/Counties/Salto.internal|Salto.internal]] 
-- [[../../../../_protect/geo/Continent/America~South/Uruguay/Counties/Salto.protect|Salto.protect]] 
-- [[../../../../_private/geo/Continent/America~South/Uruguay/Counties/Salto.private|Salto.private]] 
-- [[../../../../_personal/geo/Continent/America~South/Uruguay/Counties/Salto.personal|Salto.personal]] 
-- [[../../../../_secret/geo/Continent/America~South/Uruguay/Counties/Salto.secret|Salto.secret]] 
+- [[../../../../../../_Standards/geo/Continent/America~South/Uruguay/Counties/Salto|Salto]] 
+- [[../../../../../../_public/geo/Continent/America~South/Uruguay/Counties/Salto.public|Salto.public]] 
+- [[../../../../../../_internal/geo/Continent/America~South/Uruguay/Counties/Salto.internal|Salto.internal]] 
+- [[../../../../../../_protect/geo/Continent/America~South/Uruguay/Counties/Salto.protect|Salto.protect]] 
+- [[../../../../../../_private/geo/Continent/America~South/Uruguay/Counties/Salto.private|Salto.private]] 
+- [[../../../../../../_personal/geo/Continent/America~South/Uruguay/Counties/Salto.personal|Salto.personal]] 
+- [[../../../../../../_secret/geo/Continent/America~South/Uruguay/Counties/Salto.secret|Salto.secret]] 
 

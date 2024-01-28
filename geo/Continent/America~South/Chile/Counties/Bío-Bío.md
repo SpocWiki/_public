@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ -37.3 , -72.4 ] 
 type: geo-Region
 title: Bío-Bío
@@ -40,10 +40,11 @@ markerFolder: ./Bío-Bío/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/America~South/Chile/Counties/Bío-Bío.md|Bío-Bío]] 
-- [[../../../../_internal/geo/Continent/America~South/Chile/Counties/Bío-Bío.internal|Bío-Bío.internal]] 
-- [[../../../../_protect/geo/Continent/America~South/Chile/Counties/Bío-Bío.protect|Bío-Bío.protect]] 
-- [[../../../../_private/geo/Continent/America~South/Chile/Counties/Bío-Bío.private|Bío-Bío.private]] 
-- [[../../../../_personal/geo/Continent/America~South/Chile/Counties/Bío-Bío.personal|Bío-Bío.personal]] 
-- [[../../../../_secret/geo/Continent/America~South/Chile/Counties/Bío-Bío.secret|Bío-Bío.secret]] 
+- [[../../../../../../_Standards/geo/Continent/America~South/Chile/Counties/Bío-Bío|Bío-Bío]] 
+- [[../../../../../../_public/geo/Continent/America~South/Chile/Counties/Bío-Bío.public|Bío-Bío.public]] 
+- [[../../../../../../_internal/geo/Continent/America~South/Chile/Counties/Bío-Bío.internal|Bío-Bío.internal]] 
+- [[../../../../../../_protect/geo/Continent/America~South/Chile/Counties/Bío-Bío.protect|Bío-Bío.protect]] 
+- [[../../../../../../_private/geo/Continent/America~South/Chile/Counties/Bío-Bío.private|Bío-Bío.private]] 
+- [[../../../../../../_personal/geo/Continent/America~South/Chile/Counties/Bío-Bío.personal|Bío-Bío.personal]] 
+- [[../../../../../../_secret/geo/Continent/America~South/Chile/Counties/Bío-Bío.secret|Bío-Bío.secret]] 
 

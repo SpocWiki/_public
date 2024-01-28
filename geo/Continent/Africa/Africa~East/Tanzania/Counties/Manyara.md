@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ -4.7 , 37.2 ] 
 type: geo-Region
 title: Manyara
@@ -40,10 +40,11 @@ markerFolder: ./Manyara/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Africa/Tanzania/Counties/Manyara.md|Manyara]] 
-- [[../../../../_internal/geo/Continent/Africa/Tanzania/Counties/Manyara.internal|Manyara.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Tanzania/Counties/Manyara.protect|Manyara.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Tanzania/Counties/Manyara.private|Manyara.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Tanzania/Counties/Manyara.personal|Manyara.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Tanzania/Counties/Manyara.secret|Manyara.secret]] 
+- [[../../../../../../_Standards/geo/Continent/Africa/Tanzania/Counties/Manyara|Manyara]] 
+- [[../../../../../../_public/geo/Continent/Africa/Tanzania/Counties/Manyara.public|Manyara.public]] 
+- [[../../../../../../_internal/geo/Continent/Africa/Tanzania/Counties/Manyara.internal|Manyara.internal]] 
+- [[../../../../../../_protect/geo/Continent/Africa/Tanzania/Counties/Manyara.protect|Manyara.protect]] 
+- [[../../../../../../_private/geo/Continent/Africa/Tanzania/Counties/Manyara.private|Manyara.private]] 
+- [[../../../../../../_personal/geo/Continent/Africa/Tanzania/Counties/Manyara.personal|Manyara.personal]] 
+- [[../../../../../../_secret/geo/Continent/Africa/Tanzania/Counties/Manyara.secret|Manyara.secret]] 
 

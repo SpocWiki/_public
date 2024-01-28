@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ -4.1 , -79.8 ] 
 type: geo-Region
 title: Loja
@@ -40,10 +40,11 @@ markerFolder: ./Loja/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/America~South/Ecuador/Counties/Loja.md|Loja]] 
-- [[../../../../_internal/geo/Continent/America~South/Ecuador/Counties/Loja.internal|Loja.internal]] 
-- [[../../../../_protect/geo/Continent/America~South/Ecuador/Counties/Loja.protect|Loja.protect]] 
-- [[../../../../_private/geo/Continent/America~South/Ecuador/Counties/Loja.private|Loja.private]] 
-- [[../../../../_personal/geo/Continent/America~South/Ecuador/Counties/Loja.personal|Loja.personal]] 
-- [[../../../../_secret/geo/Continent/America~South/Ecuador/Counties/Loja.secret|Loja.secret]] 
+- [[../../../../../../_Standards/geo/Continent/America~South/Ecuador/Counties/Loja|Loja]] 
+- [[../../../../../../_public/geo/Continent/America~South/Ecuador/Counties/Loja.public|Loja.public]] 
+- [[../../../../../../_internal/geo/Continent/America~South/Ecuador/Counties/Loja.internal|Loja.internal]] 
+- [[../../../../../../_protect/geo/Continent/America~South/Ecuador/Counties/Loja.protect|Loja.protect]] 
+- [[../../../../../../_private/geo/Continent/America~South/Ecuador/Counties/Loja.private|Loja.private]] 
+- [[../../../../../../_personal/geo/Continent/America~South/Ecuador/Counties/Loja.personal|Loja.personal]] 
+- [[../../../../../../_secret/geo/Continent/America~South/Ecuador/Counties/Loja.secret|Loja.secret]] 
 

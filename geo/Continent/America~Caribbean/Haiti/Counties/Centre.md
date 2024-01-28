@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 19 , -72 ] 
 type: geo-Region
 title: Centre
@@ -40,10 +40,11 @@ markerFolder: ./Centre/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/America~Caribbean/Haiti/Counties/Centre.md|Centre]] 
-- [[../../../../_internal/geo/Continent/America~Caribbean/Haiti/Counties/Centre.internal|Centre.internal]] 
-- [[../../../../_protect/geo/Continent/America~Caribbean/Haiti/Counties/Centre.protect|Centre.protect]] 
-- [[../../../../_private/geo/Continent/America~Caribbean/Haiti/Counties/Centre.private|Centre.private]] 
-- [[../../../../_personal/geo/Continent/America~Caribbean/Haiti/Counties/Centre.personal|Centre.personal]] 
-- [[../../../../_secret/geo/Continent/America~Caribbean/Haiti/Counties/Centre.secret|Centre.secret]] 
+- [[../../../../../../_Standards/geo/Continent/America~Caribbean/Haiti/Counties/Centre|Centre]] 
+- [[../../../../../../_public/geo/Continent/America~Caribbean/Haiti/Counties/Centre.public|Centre.public]] 
+- [[../../../../../../_internal/geo/Continent/America~Caribbean/Haiti/Counties/Centre.internal|Centre.internal]] 
+- [[../../../../../../_protect/geo/Continent/America~Caribbean/Haiti/Counties/Centre.protect|Centre.protect]] 
+- [[../../../../../../_private/geo/Continent/America~Caribbean/Haiti/Counties/Centre.private|Centre.private]] 
+- [[../../../../../../_personal/geo/Continent/America~Caribbean/Haiti/Counties/Centre.personal|Centre.personal]] 
+- [[../../../../../../_secret/geo/Continent/America~Caribbean/Haiti/Counties/Centre.secret|Centre.secret]] 
 

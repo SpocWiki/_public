@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 34.4 , 4.7 ] 
 type: geo-Region
 title: Biskra
@@ -40,10 +40,11 @@ markerFolder: ./Biskra/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Africa/Algeria/Counties/Biskra.md|Biskra]] 
-- [[../../../../_internal/geo/Continent/Africa/Algeria/Counties/Biskra.internal|Biskra.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Algeria/Counties/Biskra.protect|Biskra.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Algeria/Counties/Biskra.private|Biskra.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Algeria/Counties/Biskra.personal|Biskra.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Algeria/Counties/Biskra.secret|Biskra.secret]] 
+- [[../../../../../../_Standards/geo/Continent/Africa/Algeria/Counties/Biskra|Biskra]] 
+- [[../../../../../../_public/geo/Continent/Africa/Algeria/Counties/Biskra.public|Biskra.public]] 
+- [[../../../../../../_internal/geo/Continent/Africa/Algeria/Counties/Biskra.internal|Biskra.internal]] 
+- [[../../../../../../_protect/geo/Continent/Africa/Algeria/Counties/Biskra.protect|Biskra.protect]] 
+- [[../../../../../../_private/geo/Continent/Africa/Algeria/Counties/Biskra.private|Biskra.private]] 
+- [[../../../../../../_personal/geo/Continent/Africa/Algeria/Counties/Biskra.personal|Biskra.personal]] 
+- [[../../../../../../_secret/geo/Continent/Africa/Algeria/Counties/Biskra.secret|Biskra.secret]] 
 

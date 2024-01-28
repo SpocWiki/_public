@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 12.9 , -0 ] 
 type: geo-Region
 title: Gnagna
@@ -40,10 +40,11 @@ markerFolder: ./Gnagna/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Africa/Burkina_Faso/Counties/Gnagna.md|Gnagna]] 
-- [[../../../../_internal/geo/Continent/Africa/Burkina_Faso/Counties/Gnagna.internal|Gnagna.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Burkina_Faso/Counties/Gnagna.protect|Gnagna.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Burkina_Faso/Counties/Gnagna.private|Gnagna.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Burkina_Faso/Counties/Gnagna.personal|Gnagna.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Burkina_Faso/Counties/Gnagna.secret|Gnagna.secret]] 
+- [[../../../../../../_Standards/geo/Continent/Africa/Burkina_Faso/Counties/Gnagna|Gnagna]] 
+- [[../../../../../../_public/geo/Continent/Africa/Burkina_Faso/Counties/Gnagna.public|Gnagna.public]] 
+- [[../../../../../../_internal/geo/Continent/Africa/Burkina_Faso/Counties/Gnagna.internal|Gnagna.internal]] 
+- [[../../../../../../_protect/geo/Continent/Africa/Burkina_Faso/Counties/Gnagna.protect|Gnagna.protect]] 
+- [[../../../../../../_private/geo/Continent/Africa/Burkina_Faso/Counties/Gnagna.private|Gnagna.private]] 
+- [[../../../../../../_personal/geo/Continent/Africa/Burkina_Faso/Counties/Gnagna.personal|Gnagna.personal]] 
+- [[../../../../../../_secret/geo/Continent/Africa/Burkina_Faso/Counties/Gnagna.secret|Gnagna.secret]] 
 

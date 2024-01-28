@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 9.3 , -68.3 ] 
 type: geo-Region
 title: Cojedes
@@ -40,10 +40,11 @@ markerFolder: ./Cojedes/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/America~South/Venezuela/Counties/Cojedes.md|Cojedes]] 
-- [[../../../../_internal/geo/Continent/America~South/Venezuela/Counties/Cojedes.internal|Cojedes.internal]] 
-- [[../../../../_protect/geo/Continent/America~South/Venezuela/Counties/Cojedes.protect|Cojedes.protect]] 
-- [[../../../../_private/geo/Continent/America~South/Venezuela/Counties/Cojedes.private|Cojedes.private]] 
-- [[../../../../_personal/geo/Continent/America~South/Venezuela/Counties/Cojedes.personal|Cojedes.personal]] 
-- [[../../../../_secret/geo/Continent/America~South/Venezuela/Counties/Cojedes.secret|Cojedes.secret]] 
+- [[../../../../../../_Standards/geo/Continent/America~South/Venezuela/Counties/Cojedes|Cojedes]] 
+- [[../../../../../../_public/geo/Continent/America~South/Venezuela/Counties/Cojedes.public|Cojedes.public]] 
+- [[../../../../../../_internal/geo/Continent/America~South/Venezuela/Counties/Cojedes.internal|Cojedes.internal]] 
+- [[../../../../../../_protect/geo/Continent/America~South/Venezuela/Counties/Cojedes.protect|Cojedes.protect]] 
+- [[../../../../../../_private/geo/Continent/America~South/Venezuela/Counties/Cojedes.private|Cojedes.private]] 
+- [[../../../../../../_personal/geo/Continent/America~South/Venezuela/Counties/Cojedes.personal|Cojedes.personal]] 
+- [[../../../../../../_secret/geo/Continent/America~South/Venezuela/Counties/Cojedes.secret|Cojedes.secret]] 
 

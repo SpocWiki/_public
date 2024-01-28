@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 8.2 , -78 ] 
 type: geo-Region
 title: Darién
@@ -40,10 +40,11 @@ markerFolder: ./Darién/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/America~Central/Panama/Counties/Darién.md|Darién]] 
-- [[../../../../_internal/geo/Continent/America~Central/Panama/Counties/Darién.internal|Darién.internal]] 
-- [[../../../../_protect/geo/Continent/America~Central/Panama/Counties/Darién.protect|Darién.protect]] 
-- [[../../../../_private/geo/Continent/America~Central/Panama/Counties/Darién.private|Darién.private]] 
-- [[../../../../_personal/geo/Continent/America~Central/Panama/Counties/Darién.personal|Darién.personal]] 
-- [[../../../../_secret/geo/Continent/America~Central/Panama/Counties/Darién.secret|Darién.secret]] 
+- [[../../../../../../_Standards/geo/Continent/America~Central/Panama/Counties/Darién|Darién]] 
+- [[../../../../../../_public/geo/Continent/America~Central/Panama/Counties/Darién.public|Darién.public]] 
+- [[../../../../../../_internal/geo/Continent/America~Central/Panama/Counties/Darién.internal|Darién.internal]] 
+- [[../../../../../../_protect/geo/Continent/America~Central/Panama/Counties/Darién.protect|Darién.protect]] 
+- [[../../../../../../_private/geo/Continent/America~Central/Panama/Counties/Darién.private|Darién.private]] 
+- [[../../../../../../_personal/geo/Continent/America~Central/Panama/Counties/Darién.personal|Darién.personal]] 
+- [[../../../../../../_secret/geo/Continent/America~Central/Panama/Counties/Darién.secret|Darién.secret]] 
 

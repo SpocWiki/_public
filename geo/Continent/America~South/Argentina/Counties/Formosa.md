@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ -24.7 , -60.1 ] 
 type: geo-Region
 title: Formosa
@@ -40,10 +40,11 @@ markerFolder: ./Formosa/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/America~South/Argentina/Counties/Formosa.md|Formosa]] 
-- [[../../../../_internal/geo/Continent/America~South/Argentina/Counties/Formosa.internal|Formosa.internal]] 
-- [[../../../../_protect/geo/Continent/America~South/Argentina/Counties/Formosa.protect|Formosa.protect]] 
-- [[../../../../_private/geo/Continent/America~South/Argentina/Counties/Formosa.private|Formosa.private]] 
-- [[../../../../_personal/geo/Continent/America~South/Argentina/Counties/Formosa.personal|Formosa.personal]] 
-- [[../../../../_secret/geo/Continent/America~South/Argentina/Counties/Formosa.secret|Formosa.secret]] 
+- [[../../../../../../_Standards/geo/Continent/America~South/Argentina/Counties/Formosa|Formosa]] 
+- [[../../../../../../_public/geo/Continent/America~South/Argentina/Counties/Formosa.public|Formosa.public]] 
+- [[../../../../../../_internal/geo/Continent/America~South/Argentina/Counties/Formosa.internal|Formosa.internal]] 
+- [[../../../../../../_protect/geo/Continent/America~South/Argentina/Counties/Formosa.protect|Formosa.protect]] 
+- [[../../../../../../_private/geo/Continent/America~South/Argentina/Counties/Formosa.private|Formosa.private]] 
+- [[../../../../../../_personal/geo/Continent/America~South/Argentina/Counties/Formosa.personal|Formosa.personal]] 
+- [[../../../../../../_secret/geo/Continent/America~South/Argentina/Counties/Formosa.secret|Formosa.secret]] 
 

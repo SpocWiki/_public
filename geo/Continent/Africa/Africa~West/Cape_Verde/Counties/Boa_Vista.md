@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 16.1 , -22.8 ] 
 type: geo-Region
 title: Boa_Vista
@@ -40,10 +40,11 @@ markerFolder: ./Boa_Vista/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Africa/Cape_Verde/Counties/Boa_Vista.md|Boa_Vista]] 
-- [[../../../../_internal/geo/Continent/Africa/Cape_Verde/Counties/Boa_Vista.internal|Boa_Vista.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Cape_Verde/Counties/Boa_Vista.protect|Boa_Vista.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Cape_Verde/Counties/Boa_Vista.private|Boa_Vista.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Cape_Verde/Counties/Boa_Vista.personal|Boa_Vista.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Cape_Verde/Counties/Boa_Vista.secret|Boa_Vista.secret]] 
+- [[../../../../../../_Standards/geo/Continent/Africa/Cape_Verde/Counties/Boa_Vista|Boa_Vista]] 
+- [[../../../../../../_public/geo/Continent/Africa/Cape_Verde/Counties/Boa_Vista.public|Boa_Vista.public]] 
+- [[../../../../../../_internal/geo/Continent/Africa/Cape_Verde/Counties/Boa_Vista.internal|Boa_Vista.internal]] 
+- [[../../../../../../_protect/geo/Continent/Africa/Cape_Verde/Counties/Boa_Vista.protect|Boa_Vista.protect]] 
+- [[../../../../../../_private/geo/Continent/Africa/Cape_Verde/Counties/Boa_Vista.private|Boa_Vista.private]] 
+- [[../../../../../../_personal/geo/Continent/Africa/Cape_Verde/Counties/Boa_Vista.personal|Boa_Vista.personal]] 
+- [[../../../../../../_secret/geo/Continent/Africa/Cape_Verde/Counties/Boa_Vista.secret|Boa_Vista.secret]] 
 

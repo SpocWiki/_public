@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 5.4 , 23.4 ] 
 type: geo-Region
 title: Mbomou
@@ -40,10 +40,11 @@ markerFolder: ./Mbomou/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Africa/Central_African_Rep/Counties/Mbomou.md|Mbomou]] 
-- [[../../../../_internal/geo/Continent/Africa/Central_African_Rep/Counties/Mbomou.internal|Mbomou.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Central_African_Rep/Counties/Mbomou.protect|Mbomou.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Central_African_Rep/Counties/Mbomou.private|Mbomou.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Central_African_Rep/Counties/Mbomou.personal|Mbomou.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Central_African_Rep/Counties/Mbomou.secret|Mbomou.secret]] 
+- [[../../../../../../_Standards/geo/Continent/Africa/Central_African_Rep/Counties/Mbomou|Mbomou]] 
+- [[../../../../../../_public/geo/Continent/Africa/Central_African_Rep/Counties/Mbomou.public|Mbomou.public]] 
+- [[../../../../../../_internal/geo/Continent/Africa/Central_African_Rep/Counties/Mbomou.internal|Mbomou.internal]] 
+- [[../../../../../../_protect/geo/Continent/Africa/Central_African_Rep/Counties/Mbomou.protect|Mbomou.protect]] 
+- [[../../../../../../_private/geo/Continent/Africa/Central_African_Rep/Counties/Mbomou.private|Mbomou.private]] 
+- [[../../../../../../_personal/geo/Continent/Africa/Central_African_Rep/Counties/Mbomou.personal|Mbomou.personal]] 
+- [[../../../../../../_secret/geo/Continent/Africa/Central_African_Rep/Counties/Mbomou.secret|Mbomou.secret]] 
 

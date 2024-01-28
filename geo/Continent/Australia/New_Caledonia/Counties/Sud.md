@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ -21.9 , 166.2 ] 
 type: geo-Region
 title: Sud
@@ -40,10 +40,11 @@ markerFolder: ./Sud/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Australia/New_Caledonia/Counties/Sud.md|Sud]] 
-- [[../../../../_internal/geo/Continent/Australia/New_Caledonia/Counties/Sud.internal|Sud.internal]] 
-- [[../../../../_protect/geo/Continent/Australia/New_Caledonia/Counties/Sud.protect|Sud.protect]] 
-- [[../../../../_private/geo/Continent/Australia/New_Caledonia/Counties/Sud.private|Sud.private]] 
-- [[../../../../_personal/geo/Continent/Australia/New_Caledonia/Counties/Sud.personal|Sud.personal]] 
-- [[../../../../_secret/geo/Continent/Australia/New_Caledonia/Counties/Sud.secret|Sud.secret]] 
+- [[../../../../../../_Standards/geo/Continent/Australia/New_Caledonia/Counties/Sud|Sud]] 
+- [[../../../../../../_public/geo/Continent/Australia/New_Caledonia/Counties/Sud.public|Sud.public]] 
+- [[../../../../../../_internal/geo/Continent/Australia/New_Caledonia/Counties/Sud.internal|Sud.internal]] 
+- [[../../../../../../_protect/geo/Continent/Australia/New_Caledonia/Counties/Sud.protect|Sud.protect]] 
+- [[../../../../../../_private/geo/Continent/Australia/New_Caledonia/Counties/Sud.private|Sud.private]] 
+- [[../../../../../../_personal/geo/Continent/Australia/New_Caledonia/Counties/Sud.personal|Sud.personal]] 
+- [[../../../../../../_secret/geo/Continent/Australia/New_Caledonia/Counties/Sud.secret|Sud.secret]] 
 

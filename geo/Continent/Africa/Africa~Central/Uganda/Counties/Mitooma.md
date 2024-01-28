@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ -0.6 , 30 ] 
 type: geo-Region
 title: Mitooma
@@ -40,10 +40,11 @@ markerFolder: ./Mitooma/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Africa/Uganda/Counties/Mitooma.md|Mitooma]] 
-- [[../../../../_internal/geo/Continent/Africa/Uganda/Counties/Mitooma.internal|Mitooma.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Uganda/Counties/Mitooma.protect|Mitooma.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Uganda/Counties/Mitooma.private|Mitooma.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Uganda/Counties/Mitooma.personal|Mitooma.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Uganda/Counties/Mitooma.secret|Mitooma.secret]] 
+- [[../../../../../../_Standards/geo/Continent/Africa/Uganda/Counties/Mitooma|Mitooma]] 
+- [[../../../../../../_public/geo/Continent/Africa/Uganda/Counties/Mitooma.public|Mitooma.public]] 
+- [[../../../../../../_internal/geo/Continent/Africa/Uganda/Counties/Mitooma.internal|Mitooma.internal]] 
+- [[../../../../../../_protect/geo/Continent/Africa/Uganda/Counties/Mitooma.protect|Mitooma.protect]] 
+- [[../../../../../../_private/geo/Continent/Africa/Uganda/Counties/Mitooma.private|Mitooma.private]] 
+- [[../../../../../../_personal/geo/Continent/Africa/Uganda/Counties/Mitooma.personal|Mitooma.personal]] 
+- [[../../../../../../_secret/geo/Continent/Africa/Uganda/Counties/Mitooma.secret|Mitooma.secret]] 
 

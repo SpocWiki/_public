@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 14.2 , -15.2 ] 
 type: geo-Region
 title: Kaffrine
@@ -40,10 +40,11 @@ markerFolder: ./Kaffrine/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Africa/Senegal/Counties/Kaffrine.md|Kaffrine]] 
-- [[../../../../_internal/geo/Continent/Africa/Senegal/Counties/Kaffrine.internal|Kaffrine.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Senegal/Counties/Kaffrine.protect|Kaffrine.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Senegal/Counties/Kaffrine.private|Kaffrine.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Senegal/Counties/Kaffrine.personal|Kaffrine.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Senegal/Counties/Kaffrine.secret|Kaffrine.secret]] 
+- [[../../../../../../_Standards/geo/Continent/Africa/Senegal/Counties/Kaffrine|Kaffrine]] 
+- [[../../../../../../_public/geo/Continent/Africa/Senegal/Counties/Kaffrine.public|Kaffrine.public]] 
+- [[../../../../../../_internal/geo/Continent/Africa/Senegal/Counties/Kaffrine.internal|Kaffrine.internal]] 
+- [[../../../../../../_protect/geo/Continent/Africa/Senegal/Counties/Kaffrine.protect|Kaffrine.protect]] 
+- [[../../../../../../_private/geo/Continent/Africa/Senegal/Counties/Kaffrine.private|Kaffrine.private]] 
+- [[../../../../../../_personal/geo/Continent/Africa/Senegal/Counties/Kaffrine.personal|Kaffrine.personal]] 
+- [[../../../../../../_secret/geo/Continent/Africa/Senegal/Counties/Kaffrine.secret|Kaffrine.secret]] 
 

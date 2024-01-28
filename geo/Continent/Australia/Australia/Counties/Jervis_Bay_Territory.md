@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ -35.16 , 150.7 ] 
 type: geo-Region
 title: Jervis_Bay_Territory
@@ -40,10 +40,11 @@ markerFolder: ./Jervis_Bay_Territory/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Australia/Australia/Counties/Jervis_Bay_Territory.md|Jervis_Bay_Territory]] 
-- [[../../../../_internal/geo/Continent/Australia/Australia/Counties/Jervis_Bay_Territory.internal|Jervis_Bay_Territory.internal]] 
-- [[../../../../_protect/geo/Continent/Australia/Australia/Counties/Jervis_Bay_Territory.protect|Jervis_Bay_Territory.protect]] 
-- [[../../../../_private/geo/Continent/Australia/Australia/Counties/Jervis_Bay_Territory.private|Jervis_Bay_Territory.private]] 
-- [[../../../../_personal/geo/Continent/Australia/Australia/Counties/Jervis_Bay_Territory.personal|Jervis_Bay_Territory.personal]] 
-- [[../../../../_secret/geo/Continent/Australia/Australia/Counties/Jervis_Bay_Territory.secret|Jervis_Bay_Territory.secret]] 
+- [[../../../../../../_Standards/geo/Continent/Australia/Australia/Counties/Jervis_Bay_Territory|Jervis_Bay_Territory]] 
+- [[../../../../../../_public/geo/Continent/Australia/Australia/Counties/Jervis_Bay_Territory.public|Jervis_Bay_Territory.public]] 
+- [[../../../../../../_internal/geo/Continent/Australia/Australia/Counties/Jervis_Bay_Territory.internal|Jervis_Bay_Territory.internal]] 
+- [[../../../../../../_protect/geo/Continent/Australia/Australia/Counties/Jervis_Bay_Territory.protect|Jervis_Bay_Territory.protect]] 
+- [[../../../../../../_private/geo/Continent/Australia/Australia/Counties/Jervis_Bay_Territory.private|Jervis_Bay_Territory.private]] 
+- [[../../../../../../_personal/geo/Continent/Australia/Australia/Counties/Jervis_Bay_Territory.personal|Jervis_Bay_Territory.personal]] 
+- [[../../../../../../_secret/geo/Continent/Australia/Australia/Counties/Jervis_Bay_Territory.secret|Jervis_Bay_Territory.secret]] 
 

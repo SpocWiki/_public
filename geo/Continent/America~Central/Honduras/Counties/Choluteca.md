@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 13.4 , -87.1 ] 
 type: geo-Region
 title: Choluteca
@@ -40,10 +40,11 @@ markerFolder: ./Choluteca/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/America~Central/Honduras/Counties/Choluteca.md|Choluteca]] 
-- [[../../../../_internal/geo/Continent/America~Central/Honduras/Counties/Choluteca.internal|Choluteca.internal]] 
-- [[../../../../_protect/geo/Continent/America~Central/Honduras/Counties/Choluteca.protect|Choluteca.protect]] 
-- [[../../../../_private/geo/Continent/America~Central/Honduras/Counties/Choluteca.private|Choluteca.private]] 
-- [[../../../../_personal/geo/Continent/America~Central/Honduras/Counties/Choluteca.personal|Choluteca.personal]] 
-- [[../../../../_secret/geo/Continent/America~Central/Honduras/Counties/Choluteca.secret|Choluteca.secret]] 
+- [[../../../../../../_Standards/geo/Continent/America~Central/Honduras/Counties/Choluteca|Choluteca]] 
+- [[../../../../../../_public/geo/Continent/America~Central/Honduras/Counties/Choluteca.public|Choluteca.public]] 
+- [[../../../../../../_internal/geo/Continent/America~Central/Honduras/Counties/Choluteca.internal|Choluteca.internal]] 
+- [[../../../../../../_protect/geo/Continent/America~Central/Honduras/Counties/Choluteca.protect|Choluteca.protect]] 
+- [[../../../../../../_private/geo/Continent/America~Central/Honduras/Counties/Choluteca.private|Choluteca.private]] 
+- [[../../../../../../_personal/geo/Continent/America~Central/Honduras/Counties/Choluteca.personal|Choluteca.personal]] 
+- [[../../../../../../_secret/geo/Continent/America~Central/Honduras/Counties/Choluteca.secret|Choluteca.secret]] 
 

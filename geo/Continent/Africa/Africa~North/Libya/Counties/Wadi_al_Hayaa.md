@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 26.4 , 12.8 ] 
 type: geo-Region
 title: Wadi_al_Hayaa
@@ -40,10 +40,11 @@ markerFolder: ./Wadi_al_Hayaa/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Africa/Libya/Counties/Wadi_al_Hayaa.md|Wadi_al_Hayaa]] 
-- [[../../../../_internal/geo/Continent/Africa/Libya/Counties/Wadi_al_Hayaa.internal|Wadi_al_Hayaa.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Libya/Counties/Wadi_al_Hayaa.protect|Wadi_al_Hayaa.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Libya/Counties/Wadi_al_Hayaa.private|Wadi_al_Hayaa.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Libya/Counties/Wadi_al_Hayaa.personal|Wadi_al_Hayaa.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Libya/Counties/Wadi_al_Hayaa.secret|Wadi_al_Hayaa.secret]] 
+- [[../../../../../../_Standards/geo/Continent/Africa/Libya/Counties/Wadi_al_Hayaa|Wadi_al_Hayaa]] 
+- [[../../../../../../_public/geo/Continent/Africa/Libya/Counties/Wadi_al_Hayaa.public|Wadi_al_Hayaa.public]] 
+- [[../../../../../../_internal/geo/Continent/Africa/Libya/Counties/Wadi_al_Hayaa.internal|Wadi_al_Hayaa.internal]] 
+- [[../../../../../../_protect/geo/Continent/Africa/Libya/Counties/Wadi_al_Hayaa.protect|Wadi_al_Hayaa.protect]] 
+- [[../../../../../../_private/geo/Continent/Africa/Libya/Counties/Wadi_al_Hayaa.private|Wadi_al_Hayaa.private]] 
+- [[../../../../../../_personal/geo/Continent/Africa/Libya/Counties/Wadi_al_Hayaa.personal|Wadi_al_Hayaa.personal]] 
+- [[../../../../../../_secret/geo/Continent/Africa/Libya/Counties/Wadi_al_Hayaa.secret|Wadi_al_Hayaa.secret]] 
 

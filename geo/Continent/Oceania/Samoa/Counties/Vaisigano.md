@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ -13.6 , 187.3 ] 
 type: geo-Region
 title: Vaisigano
@@ -40,10 +40,11 @@ markerFolder: ./Vaisigano/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Oceania/Samoa/Counties/Vaisigano.md|Vaisigano]] 
-- [[../../../../_internal/geo/Continent/Oceania/Samoa/Counties/Vaisigano.internal|Vaisigano.internal]] 
-- [[../../../../_protect/geo/Continent/Oceania/Samoa/Counties/Vaisigano.protect|Vaisigano.protect]] 
-- [[../../../../_private/geo/Continent/Oceania/Samoa/Counties/Vaisigano.private|Vaisigano.private]] 
-- [[../../../../_personal/geo/Continent/Oceania/Samoa/Counties/Vaisigano.personal|Vaisigano.personal]] 
-- [[../../../../_secret/geo/Continent/Oceania/Samoa/Counties/Vaisigano.secret|Vaisigano.secret]] 
+- [[../../../../../../_Standards/geo/Continent/Oceania/Samoa/Counties/Vaisigano|Vaisigano]] 
+- [[../../../../../../_public/geo/Continent/Oceania/Samoa/Counties/Vaisigano.public|Vaisigano.public]] 
+- [[../../../../../../_internal/geo/Continent/Oceania/Samoa/Counties/Vaisigano.internal|Vaisigano.internal]] 
+- [[../../../../../../_protect/geo/Continent/Oceania/Samoa/Counties/Vaisigano.protect|Vaisigano.protect]] 
+- [[../../../../../../_private/geo/Continent/Oceania/Samoa/Counties/Vaisigano.private|Vaisigano.private]] 
+- [[../../../../../../_personal/geo/Continent/Oceania/Samoa/Counties/Vaisigano.personal|Vaisigano.personal]] 
+- [[../../../../../../_secret/geo/Continent/Oceania/Samoa/Counties/Vaisigano.secret|Vaisigano.secret]] 
 

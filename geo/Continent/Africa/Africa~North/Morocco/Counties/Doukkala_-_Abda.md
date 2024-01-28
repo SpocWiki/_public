@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 32.6 , -8.6 ] 
 type: geo-Region
 title: Doukkala_-_Abda
@@ -40,10 +40,11 @@ markerFolder: ./Doukkala_-_Abda/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Africa/Morocco/Counties/Doukkala_-_Abda.md|Doukkala_-_Abda]] 
-- [[../../../../_internal/geo/Continent/Africa/Morocco/Counties/Doukkala_-_Abda.internal|Doukkala_-_Abda.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Morocco/Counties/Doukkala_-_Abda.protect|Doukkala_-_Abda.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Morocco/Counties/Doukkala_-_Abda.private|Doukkala_-_Abda.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Morocco/Counties/Doukkala_-_Abda.personal|Doukkala_-_Abda.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Morocco/Counties/Doukkala_-_Abda.secret|Doukkala_-_Abda.secret]] 
+- [[../../../../../../_Standards/geo/Continent/Africa/Morocco/Counties/Doukkala_-_Abda|Doukkala_-_Abda]] 
+- [[../../../../../../_public/geo/Continent/Africa/Morocco/Counties/Doukkala_-_Abda.public|Doukkala_-_Abda.public]] 
+- [[../../../../../../_internal/geo/Continent/Africa/Morocco/Counties/Doukkala_-_Abda.internal|Doukkala_-_Abda.internal]] 
+- [[../../../../../../_protect/geo/Continent/Africa/Morocco/Counties/Doukkala_-_Abda.protect|Doukkala_-_Abda.protect]] 
+- [[../../../../../../_private/geo/Continent/Africa/Morocco/Counties/Doukkala_-_Abda.private|Doukkala_-_Abda.private]] 
+- [[../../../../../../_personal/geo/Continent/Africa/Morocco/Counties/Doukkala_-_Abda.personal|Doukkala_-_Abda.personal]] 
+- [[../../../../../../_secret/geo/Continent/Africa/Morocco/Counties/Doukkala_-_Abda.secret|Doukkala_-_Abda.secret]] 
 

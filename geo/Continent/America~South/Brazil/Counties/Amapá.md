@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 1.6 , -52 ] 
 type: geo-Region
 title: Amapá
@@ -40,10 +40,11 @@ markerFolder: ./Amapá/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/America~South/Brazil/Counties/Amapá.md|Amapá]] 
-- [[../../../../_internal/geo/Continent/America~South/Brazil/Counties/Amapá.internal|Amapá.internal]] 
-- [[../../../../_protect/geo/Continent/America~South/Brazil/Counties/Amapá.protect|Amapá.protect]] 
-- [[../../../../_private/geo/Continent/America~South/Brazil/Counties/Amapá.private|Amapá.private]] 
-- [[../../../../_personal/geo/Continent/America~South/Brazil/Counties/Amapá.personal|Amapá.personal]] 
-- [[../../../../_secret/geo/Continent/America~South/Brazil/Counties/Amapá.secret|Amapá.secret]] 
+- [[../../../../../../_Standards/geo/Continent/America~South/Brazil/Counties/Amapá|Amapá]] 
+- [[../../../../../../_public/geo/Continent/America~South/Brazil/Counties/Amapá.public|Amapá.public]] 
+- [[../../../../../../_internal/geo/Continent/America~South/Brazil/Counties/Amapá.internal|Amapá.internal]] 
+- [[../../../../../../_protect/geo/Continent/America~South/Brazil/Counties/Amapá.protect|Amapá.protect]] 
+- [[../../../../../../_private/geo/Continent/America~South/Brazil/Counties/Amapá.private|Amapá.private]] 
+- [[../../../../../../_personal/geo/Continent/America~South/Brazil/Counties/Amapá.personal|Amapá.personal]] 
+- [[../../../../../../_secret/geo/Continent/America~South/Brazil/Counties/Amapá.secret|Amapá.secret]] 
 

@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 23.3 , 22.1 ] 
 type: geo-Region
 title: Al_Kufrah
@@ -40,10 +40,11 @@ markerFolder: ./Al_Kufrah/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Africa/Libya/Counties/Al_Kufrah.md|Al_Kufrah]] 
-- [[../../../../_internal/geo/Continent/Africa/Libya/Counties/Al_Kufrah.internal|Al_Kufrah.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Libya/Counties/Al_Kufrah.protect|Al_Kufrah.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Libya/Counties/Al_Kufrah.private|Al_Kufrah.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Libya/Counties/Al_Kufrah.personal|Al_Kufrah.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Libya/Counties/Al_Kufrah.secret|Al_Kufrah.secret]] 
+- [[../../../../../../_Standards/geo/Continent/Africa/Libya/Counties/Al_Kufrah|Al_Kufrah]] 
+- [[../../../../../../_public/geo/Continent/Africa/Libya/Counties/Al_Kufrah.public|Al_Kufrah.public]] 
+- [[../../../../../../_internal/geo/Continent/Africa/Libya/Counties/Al_Kufrah.internal|Al_Kufrah.internal]] 
+- [[../../../../../../_protect/geo/Continent/Africa/Libya/Counties/Al_Kufrah.protect|Al_Kufrah.protect]] 
+- [[../../../../../../_private/geo/Continent/Africa/Libya/Counties/Al_Kufrah.private|Al_Kufrah.private]] 
+- [[../../../../../../_personal/geo/Continent/Africa/Libya/Counties/Al_Kufrah.personal|Al_Kufrah.personal]] 
+- [[../../../../../../_secret/geo/Continent/Africa/Libya/Counties/Al_Kufrah.secret|Al_Kufrah.secret]] 
 

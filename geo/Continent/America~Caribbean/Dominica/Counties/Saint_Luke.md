@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 15.25 , -61.36 ] 
 type: geo-Region
 title: Saint_Luke
@@ -40,10 +40,11 @@ markerFolder: ./Saint_Luke/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/America~Caribbean/Dominica/Counties/Saint_Luke.md|Saint_Luke]] 
-- [[../../../../_internal/geo/Continent/America~Caribbean/Dominica/Counties/Saint_Luke.internal|Saint_Luke.internal]] 
-- [[../../../../_protect/geo/Continent/America~Caribbean/Dominica/Counties/Saint_Luke.protect|Saint_Luke.protect]] 
-- [[../../../../_private/geo/Continent/America~Caribbean/Dominica/Counties/Saint_Luke.private|Saint_Luke.private]] 
-- [[../../../../_personal/geo/Continent/America~Caribbean/Dominica/Counties/Saint_Luke.personal|Saint_Luke.personal]] 
-- [[../../../../_secret/geo/Continent/America~Caribbean/Dominica/Counties/Saint_Luke.secret|Saint_Luke.secret]] 
+- [[../../../../../../_Standards/geo/Continent/America~Caribbean/Dominica/Counties/Saint_Luke|Saint_Luke]] 
+- [[../../../../../../_public/geo/Continent/America~Caribbean/Dominica/Counties/Saint_Luke.public|Saint_Luke.public]] 
+- [[../../../../../../_internal/geo/Continent/America~Caribbean/Dominica/Counties/Saint_Luke.internal|Saint_Luke.internal]] 
+- [[../../../../../../_protect/geo/Continent/America~Caribbean/Dominica/Counties/Saint_Luke.protect|Saint_Luke.protect]] 
+- [[../../../../../../_private/geo/Continent/America~Caribbean/Dominica/Counties/Saint_Luke.private|Saint_Luke.private]] 
+- [[../../../../../../_personal/geo/Continent/America~Caribbean/Dominica/Counties/Saint_Luke.personal|Saint_Luke.personal]] 
+- [[../../../../../../_secret/geo/Continent/America~Caribbean/Dominica/Counties/Saint_Luke.secret|Saint_Luke.secret]] 
 

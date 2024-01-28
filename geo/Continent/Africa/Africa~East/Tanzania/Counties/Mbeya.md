@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ -8.3 , 33.7 ] 
 type: geo-Region
 title: Mbeya
@@ -40,10 +40,11 @@ markerFolder: ./Mbeya/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Africa/Tanzania/Counties/Mbeya.md|Mbeya]] 
-- [[../../../../_internal/geo/Continent/Africa/Tanzania/Counties/Mbeya.internal|Mbeya.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Tanzania/Counties/Mbeya.protect|Mbeya.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Tanzania/Counties/Mbeya.private|Mbeya.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Tanzania/Counties/Mbeya.personal|Mbeya.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Tanzania/Counties/Mbeya.secret|Mbeya.secret]] 
+- [[../../../../../../_Standards/geo/Continent/Africa/Tanzania/Counties/Mbeya|Mbeya]] 
+- [[../../../../../../_public/geo/Continent/Africa/Tanzania/Counties/Mbeya.public|Mbeya.public]] 
+- [[../../../../../../_internal/geo/Continent/Africa/Tanzania/Counties/Mbeya.internal|Mbeya.internal]] 
+- [[../../../../../../_protect/geo/Continent/Africa/Tanzania/Counties/Mbeya.protect|Mbeya.protect]] 
+- [[../../../../../../_private/geo/Continent/Africa/Tanzania/Counties/Mbeya.private|Mbeya.private]] 
+- [[../../../../../../_personal/geo/Continent/Africa/Tanzania/Counties/Mbeya.personal|Mbeya.personal]] 
+- [[../../../../../../_secret/geo/Continent/Africa/Tanzania/Counties/Mbeya.secret|Mbeya.secret]] 
 

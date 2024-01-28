@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ -23.8 , 24.5 ] 
 type: geo-Region
 title: Kweneng
@@ -40,10 +40,11 @@ markerFolder: ./Kweneng/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Africa/Botswana/Counties/Kweneng.md|Kweneng]] 
-- [[../../../../_internal/geo/Continent/Africa/Botswana/Counties/Kweneng.internal|Kweneng.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Botswana/Counties/Kweneng.protect|Kweneng.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Botswana/Counties/Kweneng.private|Kweneng.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Botswana/Counties/Kweneng.personal|Kweneng.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Botswana/Counties/Kweneng.secret|Kweneng.secret]] 
+- [[../../../../../../_Standards/geo/Continent/Africa/Botswana/Counties/Kweneng|Kweneng]] 
+- [[../../../../../../_public/geo/Continent/Africa/Botswana/Counties/Kweneng.public|Kweneng.public]] 
+- [[../../../../../../_internal/geo/Continent/Africa/Botswana/Counties/Kweneng.internal|Kweneng.internal]] 
+- [[../../../../../../_protect/geo/Continent/Africa/Botswana/Counties/Kweneng.protect|Kweneng.protect]] 
+- [[../../../../../../_private/geo/Continent/Africa/Botswana/Counties/Kweneng.private|Kweneng.private]] 
+- [[../../../../../../_personal/geo/Continent/Africa/Botswana/Counties/Kweneng.personal|Kweneng.personal]] 
+- [[../../../../../../_secret/geo/Continent/Africa/Botswana/Counties/Kweneng.secret|Kweneng.secret]] 
 

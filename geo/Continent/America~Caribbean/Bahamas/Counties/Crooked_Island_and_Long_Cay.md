@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 22.75 , -74.24 ] 
 type: geo-Region
 title: Crooked_Island_and_Long_Cay
@@ -40,10 +40,11 @@ markerFolder: ./Crooked_Island_and_Long_Cay/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/America~Caribbean/Bahamas/Counties/Crooked_Island_and_Long_Cay.md|Crooked_Island_and_Long_Cay]] 
-- [[../../../../_internal/geo/Continent/America~Caribbean/Bahamas/Counties/Crooked_Island_and_Long_Cay.internal|Crooked_Island_and_Long_Cay.internal]] 
-- [[../../../../_protect/geo/Continent/America~Caribbean/Bahamas/Counties/Crooked_Island_and_Long_Cay.protect|Crooked_Island_and_Long_Cay.protect]] 
-- [[../../../../_private/geo/Continent/America~Caribbean/Bahamas/Counties/Crooked_Island_and_Long_Cay.private|Crooked_Island_and_Long_Cay.private]] 
-- [[../../../../_personal/geo/Continent/America~Caribbean/Bahamas/Counties/Crooked_Island_and_Long_Cay.personal|Crooked_Island_and_Long_Cay.personal]] 
-- [[../../../../_secret/geo/Continent/America~Caribbean/Bahamas/Counties/Crooked_Island_and_Long_Cay.secret|Crooked_Island_and_Long_Cay.secret]] 
+- [[../../../../../../_Standards/geo/Continent/America~Caribbean/Bahamas/Counties/Crooked_Island_and_Long_Cay|Crooked_Island_and_Long_Cay]] 
+- [[../../../../../../_public/geo/Continent/America~Caribbean/Bahamas/Counties/Crooked_Island_and_Long_Cay.public|Crooked_Island_and_Long_Cay.public]] 
+- [[../../../../../../_internal/geo/Continent/America~Caribbean/Bahamas/Counties/Crooked_Island_and_Long_Cay.internal|Crooked_Island_and_Long_Cay.internal]] 
+- [[../../../../../../_protect/geo/Continent/America~Caribbean/Bahamas/Counties/Crooked_Island_and_Long_Cay.protect|Crooked_Island_and_Long_Cay.protect]] 
+- [[../../../../../../_private/geo/Continent/America~Caribbean/Bahamas/Counties/Crooked_Island_and_Long_Cay.private|Crooked_Island_and_Long_Cay.private]] 
+- [[../../../../../../_personal/geo/Continent/America~Caribbean/Bahamas/Counties/Crooked_Island_and_Long_Cay.personal|Crooked_Island_and_Long_Cay.personal]] 
+- [[../../../../../../_secret/geo/Continent/America~Caribbean/Bahamas/Counties/Crooked_Island_and_Long_Cay.secret|Crooked_Island_and_Long_Cay.secret]] 
 

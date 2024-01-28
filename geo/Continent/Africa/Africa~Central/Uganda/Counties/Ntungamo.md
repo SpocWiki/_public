@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ -1 , 30.3 ] 
 type: geo-Region
 title: Ntungamo
@@ -40,10 +40,11 @@ markerFolder: ./Ntungamo/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Africa/Uganda/Counties/Ntungamo.md|Ntungamo]] 
-- [[../../../../_internal/geo/Continent/Africa/Uganda/Counties/Ntungamo.internal|Ntungamo.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Uganda/Counties/Ntungamo.protect|Ntungamo.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Uganda/Counties/Ntungamo.private|Ntungamo.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Uganda/Counties/Ntungamo.personal|Ntungamo.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Uganda/Counties/Ntungamo.secret|Ntungamo.secret]] 
+- [[../../../../../../_Standards/geo/Continent/Africa/Uganda/Counties/Ntungamo|Ntungamo]] 
+- [[../../../../../../_public/geo/Continent/Africa/Uganda/Counties/Ntungamo.public|Ntungamo.public]] 
+- [[../../../../../../_internal/geo/Continent/Africa/Uganda/Counties/Ntungamo.internal|Ntungamo.internal]] 
+- [[../../../../../../_protect/geo/Continent/Africa/Uganda/Counties/Ntungamo.protect|Ntungamo.protect]] 
+- [[../../../../../../_private/geo/Continent/Africa/Uganda/Counties/Ntungamo.private|Ntungamo.private]] 
+- [[../../../../../../_personal/geo/Continent/Africa/Uganda/Counties/Ntungamo.personal|Ntungamo.personal]] 
+- [[../../../../../../_secret/geo/Continent/Africa/Uganda/Counties/Ntungamo.secret|Ntungamo.secret]] 
 

@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ -17 , -61.6 ] 
 type: geo-Region
 title: Santa_Cruz
@@ -40,10 +40,11 @@ markerFolder: ./Santa_Cruz/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/America~South/Bolivia/Counties/Santa_Cruz.md|Santa_Cruz]] 
-- [[../../../../_internal/geo/Continent/America~South/Bolivia/Counties/Santa_Cruz.internal|Santa_Cruz.internal]] 
-- [[../../../../_protect/geo/Continent/America~South/Bolivia/Counties/Santa_Cruz.protect|Santa_Cruz.protect]] 
-- [[../../../../_private/geo/Continent/America~South/Bolivia/Counties/Santa_Cruz.private|Santa_Cruz.private]] 
-- [[../../../../_personal/geo/Continent/America~South/Bolivia/Counties/Santa_Cruz.personal|Santa_Cruz.personal]] 
-- [[../../../../_secret/geo/Continent/America~South/Bolivia/Counties/Santa_Cruz.secret|Santa_Cruz.secret]] 
+- [[../../../../../../_Standards/geo/Continent/America~South/Bolivia/Counties/Santa_Cruz|Santa_Cruz]] 
+- [[../../../../../../_public/geo/Continent/America~South/Bolivia/Counties/Santa_Cruz.public|Santa_Cruz.public]] 
+- [[../../../../../../_internal/geo/Continent/America~South/Bolivia/Counties/Santa_Cruz.internal|Santa_Cruz.internal]] 
+- [[../../../../../../_protect/geo/Continent/America~South/Bolivia/Counties/Santa_Cruz.protect|Santa_Cruz.protect]] 
+- [[../../../../../../_private/geo/Continent/America~South/Bolivia/Counties/Santa_Cruz.private|Santa_Cruz.private]] 
+- [[../../../../../../_personal/geo/Continent/America~South/Bolivia/Counties/Santa_Cruz.personal|Santa_Cruz.personal]] 
+- [[../../../../../../_secret/geo/Continent/America~South/Bolivia/Counties/Santa_Cruz.secret|Santa_Cruz.secret]] 
 

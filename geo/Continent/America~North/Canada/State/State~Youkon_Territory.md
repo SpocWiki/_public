@@ -1,5 +1,5 @@
 ---
-location: [60.7167,-135.05]
+location: [60.7167,-135.05] 
 type: State
 tags:
 - geo/State
@@ -10,13 +10,13 @@ isDeleted: false
 confidential: public
 
 ---
-[name::Youkon Territory]
-[name-abbr::YKT]
-[Country::[[../../Canada]]]
-[Capital::[[State~Youkon_Territory/City/Whitehorse]]]
-[geo-lon::-135.05]
-[geo-lat::60.7167]
-[Population::]
+[name::Youkon Territory] 
+[name-abbr::YKT] 
+Country :: [[../../Canada]]  
+Capital :: [[State~Youkon_Territory/City/Whitehorse]]  
+[geo-lon::-135.05] 
+[geo-lat::60.7167] 
+[Population::] 
 
 
 
@@ -31,9 +31,9 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
--[[State~Youkon_Territory|State~Youkon_Territory]]] 
-- [[../../../../../../_internal/geo/Continent/North-America/Canada/State/State~Youkon_Territory.internal|State~Youkon_Territory.internal]] 
-- [[../../../../../../_protect/geo/Continent/North-America/Canada/State/State~Youkon_Territory.protect|State~Youkon_Territory.protect]] 
-- [[../../../../../../_private/geo/Continent/North-America/Canada/State/State~Youkon_Territory.private|State~Youkon_Territory.private]] 
-- [[../../../../../../_personal/geo/Continent/North-America/Canada/State/State~Youkon_Territory.personal|State~Youkon_Territory.personal]] 
-- [[../../../../../../_secret/geo/Continent/North-America/Canada/State/State~Youkon_Territory.secret|State~Youkon_Territory.secret]] 
+- [[State~Youkon_Territory|State~Youkon_Territory]]  
+- [[../../../../../../_internal/geo/Continent/America~North/Canada/State/State~Youkon_Territory.internal|State~Youkon_Territory.internal]] 
+- [[../../../../../../_protect/geo/Continent/America~North/Canada/State/State~Youkon_Territory.protect|State~Youkon_Territory.protect]] 
+- [[../../../../../../_private/geo/Continent/America~North/Canada/State/State~Youkon_Territory.private|State~Youkon_Territory.private]] 
+- [[../../../../../../_personal/geo/Continent/America~North/Canada/State/State~Youkon_Territory.personal|State~Youkon_Territory.personal]] 
+- [[../../../../../../_secret/geo/Continent/America~North/Canada/State/State~Youkon_Territory.secret|State~Youkon_Territory.secret]] 

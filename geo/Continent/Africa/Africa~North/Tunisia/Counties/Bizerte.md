@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 37 , 9.6 ] 
 type: geo-Region
 title: Bizerte
@@ -40,10 +40,11 @@ markerFolder: ./Bizerte/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Africa/Tunisia/Counties/Bizerte.md|Bizerte]] 
-- [[../../../../_internal/geo/Continent/Africa/Tunisia/Counties/Bizerte.internal|Bizerte.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Tunisia/Counties/Bizerte.protect|Bizerte.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Tunisia/Counties/Bizerte.private|Bizerte.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Tunisia/Counties/Bizerte.personal|Bizerte.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Tunisia/Counties/Bizerte.secret|Bizerte.secret]] 
+- [[../../../../../../_Standards/geo/Continent/Africa/Tunisia/Counties/Bizerte|Bizerte]] 
+- [[../../../../../../_public/geo/Continent/Africa/Tunisia/Counties/Bizerte.public|Bizerte.public]] 
+- [[../../../../../../_internal/geo/Continent/Africa/Tunisia/Counties/Bizerte.internal|Bizerte.internal]] 
+- [[../../../../../../_protect/geo/Continent/Africa/Tunisia/Counties/Bizerte.protect|Bizerte.protect]] 
+- [[../../../../../../_private/geo/Continent/Africa/Tunisia/Counties/Bizerte.private|Bizerte.private]] 
+- [[../../../../../../_personal/geo/Continent/Africa/Tunisia/Counties/Bizerte.personal|Bizerte.personal]] 
+- [[../../../../../../_secret/geo/Continent/Africa/Tunisia/Counties/Bizerte.secret|Bizerte.secret]] 
 

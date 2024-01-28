@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ -10.4 , 36.3 ] 
 type: geo-Region
 title: Ruvuma
@@ -40,10 +40,11 @@ markerFolder: ./Ruvuma/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Africa/Tanzania/Counties/Ruvuma.md|Ruvuma]] 
-- [[../../../../_internal/geo/Continent/Africa/Tanzania/Counties/Ruvuma.internal|Ruvuma.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Tanzania/Counties/Ruvuma.protect|Ruvuma.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Tanzania/Counties/Ruvuma.private|Ruvuma.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Tanzania/Counties/Ruvuma.personal|Ruvuma.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Tanzania/Counties/Ruvuma.secret|Ruvuma.secret]] 
+- [[../../../../../../_Standards/geo/Continent/Africa/Tanzania/Counties/Ruvuma|Ruvuma]] 
+- [[../../../../../../_public/geo/Continent/Africa/Tanzania/Counties/Ruvuma.public|Ruvuma.public]] 
+- [[../../../../../../_internal/geo/Continent/Africa/Tanzania/Counties/Ruvuma.internal|Ruvuma.internal]] 
+- [[../../../../../../_protect/geo/Continent/Africa/Tanzania/Counties/Ruvuma.protect|Ruvuma.protect]] 
+- [[../../../../../../_private/geo/Continent/Africa/Tanzania/Counties/Ruvuma.private|Ruvuma.private]] 
+- [[../../../../../../_personal/geo/Continent/Africa/Tanzania/Counties/Ruvuma.personal|Ruvuma.personal]] 
+- [[../../../../../../_secret/geo/Continent/Africa/Tanzania/Counties/Ruvuma.secret|Ruvuma.secret]] 
 

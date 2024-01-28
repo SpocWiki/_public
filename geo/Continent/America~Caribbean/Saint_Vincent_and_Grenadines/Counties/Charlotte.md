@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 13.28 , -61.15 ] 
 type: geo-Region
 title: Charlotte
@@ -40,10 +40,11 @@ markerFolder: ./Charlotte/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/America~Caribbean/Saint_Vincent_and_Grenadines/Counties/Charlotte.md|Charlotte]] 
-- [[../../../../_internal/geo/Continent/America~Caribbean/Saint_Vincent_and_Grenadines/Counties/Charlotte.internal|Charlotte.internal]] 
-- [[../../../../_protect/geo/Continent/America~Caribbean/Saint_Vincent_and_Grenadines/Counties/Charlotte.protect|Charlotte.protect]] 
-- [[../../../../_private/geo/Continent/America~Caribbean/Saint_Vincent_and_Grenadines/Counties/Charlotte.private|Charlotte.private]] 
-- [[../../../../_personal/geo/Continent/America~Caribbean/Saint_Vincent_and_Grenadines/Counties/Charlotte.personal|Charlotte.personal]] 
-- [[../../../../_secret/geo/Continent/America~Caribbean/Saint_Vincent_and_Grenadines/Counties/Charlotte.secret|Charlotte.secret]] 
+- [[../../../../../../_Standards/geo/Continent/America~Caribbean/Saint_Vincent_and_Grenadines/Counties/Charlotte|Charlotte]] 
+- [[../../../../../../_public/geo/Continent/America~Caribbean/Saint_Vincent_and_Grenadines/Counties/Charlotte.public|Charlotte.public]] 
+- [[../../../../../../_internal/geo/Continent/America~Caribbean/Saint_Vincent_and_Grenadines/Counties/Charlotte.internal|Charlotte.internal]] 
+- [[../../../../../../_protect/geo/Continent/America~Caribbean/Saint_Vincent_and_Grenadines/Counties/Charlotte.protect|Charlotte.protect]] 
+- [[../../../../../../_private/geo/Continent/America~Caribbean/Saint_Vincent_and_Grenadines/Counties/Charlotte.private|Charlotte.private]] 
+- [[../../../../../../_personal/geo/Continent/America~Caribbean/Saint_Vincent_and_Grenadines/Counties/Charlotte.personal|Charlotte.personal]] 
+- [[../../../../../../_secret/geo/Continent/America~Caribbean/Saint_Vincent_and_Grenadines/Counties/Charlotte.secret|Charlotte.secret]] 
 

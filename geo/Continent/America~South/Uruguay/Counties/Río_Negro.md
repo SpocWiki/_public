@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ -32.9 , -57.4 ] 
 type: geo-Region
 title: Río_Negro
@@ -40,10 +40,11 @@ markerFolder: ./Río_Negro/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/America~South/Uruguay/Counties/Río_Negro.md|Río_Negro]] 
-- [[../../../../_internal/geo/Continent/America~South/Uruguay/Counties/Río_Negro.internal|Río_Negro.internal]] 
-- [[../../../../_protect/geo/Continent/America~South/Uruguay/Counties/Río_Negro.protect|Río_Negro.protect]] 
-- [[../../../../_private/geo/Continent/America~South/Uruguay/Counties/Río_Negro.private|Río_Negro.private]] 
-- [[../../../../_personal/geo/Continent/America~South/Uruguay/Counties/Río_Negro.personal|Río_Negro.personal]] 
-- [[../../../../_secret/geo/Continent/America~South/Uruguay/Counties/Río_Negro.secret|Río_Negro.secret]] 
+- [[../../../../../../_Standards/geo/Continent/America~South/Uruguay/Counties/Río_Negro|Río_Negro]] 
+- [[../../../../../../_public/geo/Continent/America~South/Uruguay/Counties/Río_Negro.public|Río_Negro.public]] 
+- [[../../../../../../_internal/geo/Continent/America~South/Uruguay/Counties/Río_Negro.internal|Río_Negro.internal]] 
+- [[../../../../../../_protect/geo/Continent/America~South/Uruguay/Counties/Río_Negro.protect|Río_Negro.protect]] 
+- [[../../../../../../_private/geo/Continent/America~South/Uruguay/Counties/Río_Negro.private|Río_Negro.private]] 
+- [[../../../../../../_personal/geo/Continent/America~South/Uruguay/Counties/Río_Negro.personal|Río_Negro.personal]] 
+- [[../../../../../../_secret/geo/Continent/America~South/Uruguay/Counties/Río_Negro.secret|Río_Negro.secret]] 
 

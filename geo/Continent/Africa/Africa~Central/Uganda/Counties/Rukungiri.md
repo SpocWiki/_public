@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ -0.7 , 29.9 ] 
 type: geo-Region
 title: Rukungiri
@@ -40,10 +40,11 @@ markerFolder: ./Rukungiri/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Africa/Uganda/Counties/Rukungiri.md|Rukungiri]] 
-- [[../../../../_internal/geo/Continent/Africa/Uganda/Counties/Rukungiri.internal|Rukungiri.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Uganda/Counties/Rukungiri.protect|Rukungiri.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Uganda/Counties/Rukungiri.private|Rukungiri.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Uganda/Counties/Rukungiri.personal|Rukungiri.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Uganda/Counties/Rukungiri.secret|Rukungiri.secret]] 
+- [[../../../../../../_Standards/geo/Continent/Africa/Uganda/Counties/Rukungiri|Rukungiri]] 
+- [[../../../../../../_public/geo/Continent/Africa/Uganda/Counties/Rukungiri.public|Rukungiri.public]] 
+- [[../../../../../../_internal/geo/Continent/Africa/Uganda/Counties/Rukungiri.internal|Rukungiri.internal]] 
+- [[../../../../../../_protect/geo/Continent/Africa/Uganda/Counties/Rukungiri.protect|Rukungiri.protect]] 
+- [[../../../../../../_private/geo/Continent/Africa/Uganda/Counties/Rukungiri.private|Rukungiri.private]] 
+- [[../../../../../../_personal/geo/Continent/Africa/Uganda/Counties/Rukungiri.personal|Rukungiri.personal]] 
+- [[../../../../../../_secret/geo/Continent/Africa/Uganda/Counties/Rukungiri.secret|Rukungiri.secret]] 
 

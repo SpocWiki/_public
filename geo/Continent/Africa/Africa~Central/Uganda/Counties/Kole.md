@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 2.3 , 32.7 ] 
 type: geo-Region
 title: Kole
@@ -40,10 +40,11 @@ markerFolder: ./Kole/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Africa/Uganda/Counties/Kole.md|Kole]] 
-- [[../../../../_internal/geo/Continent/Africa/Uganda/Counties/Kole.internal|Kole.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Uganda/Counties/Kole.protect|Kole.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Uganda/Counties/Kole.private|Kole.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Uganda/Counties/Kole.personal|Kole.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Uganda/Counties/Kole.secret|Kole.secret]] 
+- [[../../../../../../_Standards/geo/Continent/Africa/Uganda/Counties/Kole|Kole]] 
+- [[../../../../../../_public/geo/Continent/Africa/Uganda/Counties/Kole.public|Kole.public]] 
+- [[../../../../../../_internal/geo/Continent/Africa/Uganda/Counties/Kole.internal|Kole.internal]] 
+- [[../../../../../../_protect/geo/Continent/Africa/Uganda/Counties/Kole.protect|Kole.protect]] 
+- [[../../../../../../_private/geo/Continent/Africa/Uganda/Counties/Kole.private|Kole.private]] 
+- [[../../../../../../_personal/geo/Continent/Africa/Uganda/Counties/Kole.personal|Kole.personal]] 
+- [[../../../../../../_secret/geo/Continent/Africa/Uganda/Counties/Kole.secret|Kole.secret]] 
 

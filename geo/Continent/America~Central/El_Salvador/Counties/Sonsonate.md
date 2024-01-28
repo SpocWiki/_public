@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 13.7 , -89.7 ] 
 type: geo-Region
 title: Sonsonate
@@ -40,10 +40,11 @@ markerFolder: ./Sonsonate/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/America~Central/El_Salvador/Counties/Sonsonate.md|Sonsonate]] 
-- [[../../../../_internal/geo/Continent/America~Central/El_Salvador/Counties/Sonsonate.internal|Sonsonate.internal]] 
-- [[../../../../_protect/geo/Continent/America~Central/El_Salvador/Counties/Sonsonate.protect|Sonsonate.protect]] 
-- [[../../../../_private/geo/Continent/America~Central/El_Salvador/Counties/Sonsonate.private|Sonsonate.private]] 
-- [[../../../../_personal/geo/Continent/America~Central/El_Salvador/Counties/Sonsonate.personal|Sonsonate.personal]] 
-- [[../../../../_secret/geo/Continent/America~Central/El_Salvador/Counties/Sonsonate.secret|Sonsonate.secret]] 
+- [[../../../../../../_Standards/geo/Continent/America~Central/El_Salvador/Counties/Sonsonate|Sonsonate]] 
+- [[../../../../../../_public/geo/Continent/America~Central/El_Salvador/Counties/Sonsonate.public|Sonsonate.public]] 
+- [[../../../../../../_internal/geo/Continent/America~Central/El_Salvador/Counties/Sonsonate.internal|Sonsonate.internal]] 
+- [[../../../../../../_protect/geo/Continent/America~Central/El_Salvador/Counties/Sonsonate.protect|Sonsonate.protect]] 
+- [[../../../../../../_private/geo/Continent/America~Central/El_Salvador/Counties/Sonsonate.private|Sonsonate.private]] 
+- [[../../../../../../_personal/geo/Continent/America~Central/El_Salvador/Counties/Sonsonate.personal|Sonsonate.personal]] 
+- [[../../../../../../_secret/geo/Continent/America~Central/El_Salvador/Counties/Sonsonate.secret|Sonsonate.secret]] 
 

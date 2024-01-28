@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 18.29 , -62.95 ] 
 type: geo-Region
 title: East_End
@@ -40,10 +40,11 @@ markerFolder: ./East_End/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/America~Caribbean/Anguilla/Counties/East_End.md|East_End]] 
-- [[../../../../_internal/geo/Continent/America~Caribbean/Anguilla/Counties/East_End.internal|East_End.internal]] 
-- [[../../../../_protect/geo/Continent/America~Caribbean/Anguilla/Counties/East_End.protect|East_End.protect]] 
-- [[../../../../_private/geo/Continent/America~Caribbean/Anguilla/Counties/East_End.private|East_End.private]] 
-- [[../../../../_personal/geo/Continent/America~Caribbean/Anguilla/Counties/East_End.personal|East_End.personal]] 
-- [[../../../../_secret/geo/Continent/America~Caribbean/Anguilla/Counties/East_End.secret|East_End.secret]] 
+- [[../../../../../../_Standards/geo/Continent/America~Caribbean/Anguilla/Counties/East_End|East_End]] 
+- [[../../../../../../_public/geo/Continent/America~Caribbean/Anguilla/Counties/East_End.public|East_End.public]] 
+- [[../../../../../../_internal/geo/Continent/America~Caribbean/Anguilla/Counties/East_End.internal|East_End.internal]] 
+- [[../../../../../../_protect/geo/Continent/America~Caribbean/Anguilla/Counties/East_End.protect|East_End.protect]] 
+- [[../../../../../../_private/geo/Continent/America~Caribbean/Anguilla/Counties/East_End.private|East_End.private]] 
+- [[../../../../../../_personal/geo/Continent/America~Caribbean/Anguilla/Counties/East_End.personal|East_End.personal]] 
+- [[../../../../../../_secret/geo/Continent/America~Caribbean/Anguilla/Counties/East_End.secret|East_End.secret]] 
 

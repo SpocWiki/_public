@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 14.2 , -89.1 ] 
 type: geo-Region
 title: Chalatenango
@@ -40,10 +40,11 @@ markerFolder: ./Chalatenango/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/America~Central/El_Salvador/Counties/Chalatenango.md|Chalatenango]] 
-- [[../../../../_internal/geo/Continent/America~Central/El_Salvador/Counties/Chalatenango.internal|Chalatenango.internal]] 
-- [[../../../../_protect/geo/Continent/America~Central/El_Salvador/Counties/Chalatenango.protect|Chalatenango.protect]] 
-- [[../../../../_private/geo/Continent/America~Central/El_Salvador/Counties/Chalatenango.private|Chalatenango.private]] 
-- [[../../../../_personal/geo/Continent/America~Central/El_Salvador/Counties/Chalatenango.personal|Chalatenango.personal]] 
-- [[../../../../_secret/geo/Continent/America~Central/El_Salvador/Counties/Chalatenango.secret|Chalatenango.secret]] 
+- [[../../../../../../_Standards/geo/Continent/America~Central/El_Salvador/Counties/Chalatenango|Chalatenango]] 
+- [[../../../../../../_public/geo/Continent/America~Central/El_Salvador/Counties/Chalatenango.public|Chalatenango.public]] 
+- [[../../../../../../_internal/geo/Continent/America~Central/El_Salvador/Counties/Chalatenango.internal|Chalatenango.internal]] 
+- [[../../../../../../_protect/geo/Continent/America~Central/El_Salvador/Counties/Chalatenango.protect|Chalatenango.protect]] 
+- [[../../../../../../_private/geo/Continent/America~Central/El_Salvador/Counties/Chalatenango.private|Chalatenango.private]] 
+- [[../../../../../../_personal/geo/Continent/America~Central/El_Salvador/Counties/Chalatenango.personal|Chalatenango.personal]] 
+- [[../../../../../../_secret/geo/Continent/America~Central/El_Salvador/Counties/Chalatenango.secret|Chalatenango.secret]] 
 

@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 36.8 , 10.1 ] 
 type: geo-Region
 title: Tunis
@@ -40,10 +40,11 @@ markerFolder: ./Tunis/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Africa/Tunisia/Counties/Tunis.md|Tunis]] 
-- [[../../../../_internal/geo/Continent/Africa/Tunisia/Counties/Tunis.internal|Tunis.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Tunisia/Counties/Tunis.protect|Tunis.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Tunisia/Counties/Tunis.private|Tunis.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Tunisia/Counties/Tunis.personal|Tunis.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Tunisia/Counties/Tunis.secret|Tunis.secret]] 
+- [[../../../../../../_Standards/geo/Continent/Africa/Tunisia/Counties/Tunis|Tunis]] 
+- [[../../../../../../_public/geo/Continent/Africa/Tunisia/Counties/Tunis.public|Tunis.public]] 
+- [[../../../../../../_internal/geo/Continent/Africa/Tunisia/Counties/Tunis.internal|Tunis.internal]] 
+- [[../../../../../../_protect/geo/Continent/Africa/Tunisia/Counties/Tunis.protect|Tunis.protect]] 
+- [[../../../../../../_private/geo/Continent/Africa/Tunisia/Counties/Tunis.private|Tunis.private]] 
+- [[../../../../../../_personal/geo/Continent/Africa/Tunisia/Counties/Tunis.personal|Tunis.personal]] 
+- [[../../../../../../_secret/geo/Continent/Africa/Tunisia/Counties/Tunis.secret|Tunis.secret]] 
 

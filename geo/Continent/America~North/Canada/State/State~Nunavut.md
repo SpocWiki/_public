@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 66 , -100 ] 
 type: geo-Region
 title: State~Nunavut
@@ -40,10 +40,11 @@ markerFolder: ./State~Nunavut/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/America~North/Canada/State/State~Nunavut.md|State~Nunavut]] 
-- [[../../../../_internal/geo/Continent/America~North/Canada/State/State~Nunavut.internal|State~Nunavut.internal]] 
-- [[../../../../_protect/geo/Continent/America~North/Canada/State/State~Nunavut.protect|State~Nunavut.protect]] 
-- [[../../../../_private/geo/Continent/America~North/Canada/State/State~Nunavut.private|State~Nunavut.private]] 
-- [[../../../../_personal/geo/Continent/America~North/Canada/State/State~Nunavut.personal|State~Nunavut.personal]] 
-- [[../../../../_secret/geo/Continent/America~North/Canada/State/State~Nunavut.secret|State~Nunavut.secret]] 
+- [[../../../../../../_Standards/geo/Continent/America~North/Canada/State/State~Nunavut|State~Nunavut]] 
+- [[../../../../../../_public/geo/Continent/America~North/Canada/State/State~Nunavut.public|State~Nunavut.public]] 
+- [[../../../../../../_internal/geo/Continent/America~North/Canada/State/State~Nunavut.internal|State~Nunavut.internal]] 
+- [[../../../../../../_protect/geo/Continent/America~North/Canada/State/State~Nunavut.protect|State~Nunavut.protect]] 
+- [[../../../../../../_private/geo/Continent/America~North/Canada/State/State~Nunavut.private|State~Nunavut.private]] 
+- [[../../../../../../_personal/geo/Continent/America~North/Canada/State/State~Nunavut.personal|State~Nunavut.personal]] 
+- [[../../../../../../_secret/geo/Continent/America~North/Canada/State/State~Nunavut.secret|State~Nunavut.secret]] 
 

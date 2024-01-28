@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ -19.9 , -64.3 ] 
 type: geo-Region
 title: Chuquisaca
@@ -40,10 +40,11 @@ markerFolder: ./Chuquisaca/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/America~South/Bolivia/Counties/Chuquisaca.md|Chuquisaca]] 
-- [[../../../../_internal/geo/Continent/America~South/Bolivia/Counties/Chuquisaca.internal|Chuquisaca.internal]] 
-- [[../../../../_protect/geo/Continent/America~South/Bolivia/Counties/Chuquisaca.protect|Chuquisaca.protect]] 
-- [[../../../../_private/geo/Continent/America~South/Bolivia/Counties/Chuquisaca.private|Chuquisaca.private]] 
-- [[../../../../_personal/geo/Continent/America~South/Bolivia/Counties/Chuquisaca.personal|Chuquisaca.personal]] 
-- [[../../../../_secret/geo/Continent/America~South/Bolivia/Counties/Chuquisaca.secret|Chuquisaca.secret]] 
+- [[../../../../../../_Standards/geo/Continent/America~South/Bolivia/Counties/Chuquisaca|Chuquisaca]] 
+- [[../../../../../../_public/geo/Continent/America~South/Bolivia/Counties/Chuquisaca.public|Chuquisaca.public]] 
+- [[../../../../../../_internal/geo/Continent/America~South/Bolivia/Counties/Chuquisaca.internal|Chuquisaca.internal]] 
+- [[../../../../../../_protect/geo/Continent/America~South/Bolivia/Counties/Chuquisaca.protect|Chuquisaca.protect]] 
+- [[../../../../../../_private/geo/Continent/America~South/Bolivia/Counties/Chuquisaca.private|Chuquisaca.private]] 
+- [[../../../../../../_personal/geo/Continent/America~South/Bolivia/Counties/Chuquisaca.personal|Chuquisaca.personal]] 
+- [[../../../../../../_secret/geo/Continent/America~South/Bolivia/Counties/Chuquisaca.secret|Chuquisaca.secret]] 
 

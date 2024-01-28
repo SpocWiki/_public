@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ -27 , 31.3 ] 
 type: geo-Region
 title: Shiselweni
@@ -40,10 +40,11 @@ markerFolder: ./Shiselweni/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Africa/Swaziland/Counties/Shiselweni.md|Shiselweni]] 
-- [[../../../../_internal/geo/Continent/Africa/Swaziland/Counties/Shiselweni.internal|Shiselweni.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Swaziland/Counties/Shiselweni.protect|Shiselweni.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Swaziland/Counties/Shiselweni.private|Shiselweni.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Swaziland/Counties/Shiselweni.personal|Shiselweni.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Swaziland/Counties/Shiselweni.secret|Shiselweni.secret]] 
+- [[../../../../../../_Standards/geo/Continent/Africa/Swaziland/Counties/Shiselweni|Shiselweni]] 
+- [[../../../../../../_public/geo/Continent/Africa/Swaziland/Counties/Shiselweni.public|Shiselweni.public]] 
+- [[../../../../../../_internal/geo/Continent/Africa/Swaziland/Counties/Shiselweni.internal|Shiselweni.internal]] 
+- [[../../../../../../_protect/geo/Continent/Africa/Swaziland/Counties/Shiselweni.protect|Shiselweni.protect]] 
+- [[../../../../../../_private/geo/Continent/Africa/Swaziland/Counties/Shiselweni.private|Shiselweni.private]] 
+- [[../../../../../../_personal/geo/Continent/Africa/Swaziland/Counties/Shiselweni.personal|Shiselweni.personal]] 
+- [[../../../../../../_secret/geo/Continent/Africa/Swaziland/Counties/Shiselweni.secret|Shiselweni.secret]] 
 

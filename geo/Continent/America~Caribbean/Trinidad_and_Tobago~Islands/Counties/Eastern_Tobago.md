@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 11.3 , -60.6 ] 
 type: geo-Region
 title: Eastern_Tobago
@@ -40,10 +40,11 @@ markerFolder: ./Eastern_Tobago/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/America~Caribbean/Trinidad_and_Tobago~Islands/Counties/Eastern_Tobago.md|Eastern_Tobago]] 
-- [[../../../../_internal/geo/Continent/America~Caribbean/Trinidad_and_Tobago~Islands/Counties/Eastern_Tobago.internal|Eastern_Tobago.internal]] 
-- [[../../../../_protect/geo/Continent/America~Caribbean/Trinidad_and_Tobago~Islands/Counties/Eastern_Tobago.protect|Eastern_Tobago.protect]] 
-- [[../../../../_private/geo/Continent/America~Caribbean/Trinidad_and_Tobago~Islands/Counties/Eastern_Tobago.private|Eastern_Tobago.private]] 
-- [[../../../../_personal/geo/Continent/America~Caribbean/Trinidad_and_Tobago~Islands/Counties/Eastern_Tobago.personal|Eastern_Tobago.personal]] 
-- [[../../../../_secret/geo/Continent/America~Caribbean/Trinidad_and_Tobago~Islands/Counties/Eastern_Tobago.secret|Eastern_Tobago.secret]] 
+- [[../../../../../../_Standards/geo/Continent/America~Caribbean/Trinidad_and_Tobago~Islands/Counties/Eastern_Tobago|Eastern_Tobago]] 
+- [[../../../../../../_public/geo/Continent/America~Caribbean/Trinidad_and_Tobago~Islands/Counties/Eastern_Tobago.public|Eastern_Tobago.public]] 
+- [[../../../../../../_internal/geo/Continent/America~Caribbean/Trinidad_and_Tobago~Islands/Counties/Eastern_Tobago.internal|Eastern_Tobago.internal]] 
+- [[../../../../../../_protect/geo/Continent/America~Caribbean/Trinidad_and_Tobago~Islands/Counties/Eastern_Tobago.protect|Eastern_Tobago.protect]] 
+- [[../../../../../../_private/geo/Continent/America~Caribbean/Trinidad_and_Tobago~Islands/Counties/Eastern_Tobago.private|Eastern_Tobago.private]] 
+- [[../../../../../../_personal/geo/Continent/America~Caribbean/Trinidad_and_Tobago~Islands/Counties/Eastern_Tobago.personal|Eastern_Tobago.personal]] 
+- [[../../../../../../_secret/geo/Continent/America~Caribbean/Trinidad_and_Tobago~Islands/Counties/Eastern_Tobago.secret|Eastern_Tobago.secret]] 
 

@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ -20.31 , 57.56 ] 
 type: geo-Region
 title: Plaines_Wilhems
@@ -40,10 +40,11 @@ markerFolder: ./Plaines_Wilhems/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Africa/Mauritius/Counties/Plaines_Wilhems.md|Plaines_Wilhems]] 
-- [[../../../../_internal/geo/Continent/Africa/Mauritius/Counties/Plaines_Wilhems.internal|Plaines_Wilhems.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Mauritius/Counties/Plaines_Wilhems.protect|Plaines_Wilhems.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Mauritius/Counties/Plaines_Wilhems.private|Plaines_Wilhems.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Mauritius/Counties/Plaines_Wilhems.personal|Plaines_Wilhems.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Mauritius/Counties/Plaines_Wilhems.secret|Plaines_Wilhems.secret]] 
+- [[../../../../../../_Standards/geo/Continent/Africa/Mauritius/Counties/Plaines_Wilhems|Plaines_Wilhems]] 
+- [[../../../../../../_public/geo/Continent/Africa/Mauritius/Counties/Plaines_Wilhems.public|Plaines_Wilhems.public]] 
+- [[../../../../../../_internal/geo/Continent/Africa/Mauritius/Counties/Plaines_Wilhems.internal|Plaines_Wilhems.internal]] 
+- [[../../../../../../_protect/geo/Continent/Africa/Mauritius/Counties/Plaines_Wilhems.protect|Plaines_Wilhems.protect]] 
+- [[../../../../../../_private/geo/Continent/Africa/Mauritius/Counties/Plaines_Wilhems.private|Plaines_Wilhems.private]] 
+- [[../../../../../../_personal/geo/Continent/Africa/Mauritius/Counties/Plaines_Wilhems.personal|Plaines_Wilhems.personal]] 
+- [[../../../../../../_secret/geo/Continent/Africa/Mauritius/Counties/Plaines_Wilhems.secret|Plaines_Wilhems.secret]] 
 

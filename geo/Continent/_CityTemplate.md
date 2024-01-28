@@ -14,38 +14,39 @@ tags:
 aliases:
 - 
 ---
-location: [{{y}},{{x}}]
+location: [{{y}},{{x}}] 
 SpocWebEntityId: {{SpocWebEntityId}}
 
-[geo-lon::{{x}}]
-[geo-lat::{{y}}]
-[name::{{City}}]
-[State::{{State}}]
-[CountryId::{{CountryId}}]
-[StateId::{{StateId}}]
-[Population::{{Population}}]
-[Unknown::{{_0}}]
+[geo-lon::{{x}}] 
+[geo-lat::{{y}}] 
+[name::{{City}}] 
+State :: {{State}}] 
+[CountryId::{{CountryId}}] 
+[StateId::{{StateId}}] 
+[Population::{{Population}}] 
+[Unknown::{{_0}}] 
 
 
 ```leaflet
 id: {{City}}
-coordinates: [[{{City}}]]
-markerFile: [[{{City}}]]
+coordinates: [[{{City}}]] 
+markerFile: [[{{City}}]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 ```leaflet
 id: {{City}}
-coordinates: [[{{City}}]]
-markerFile: [[{{City}}]]
+coordinates: [[{{City}}]] 
+markerFile: [[{{City}}]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
-- [[../../../_public/geo/Continent/_CityTemplate.md|_CityTemplate]] 
+- [[../../../_Standards/geo/Continent/_CityTemplate|_CityTemplate]] 
+- [[../../../_public/geo/Continent/_CityTemplate.public|_CityTemplate.public]] 
 - [[../../../_internal/geo/Continent/_CityTemplate.internal|_CityTemplate.internal]] 
 - [[../../../_protect/geo/Continent/_CityTemplate.protect|_CityTemplate.protect]] 
 - [[../../../_private/geo/Continent/_CityTemplate.private|_CityTemplate.private]] 

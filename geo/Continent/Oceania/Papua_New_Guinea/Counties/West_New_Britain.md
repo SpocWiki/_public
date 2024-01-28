@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ -5.6 , 149.7 ] 
 type: geo-Region
 title: West_New_Britain
@@ -40,10 +40,11 @@ markerFolder: ./West_New_Britain/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Oceania/Papua_New_Guinea/Counties/West_New_Britain.md|West_New_Britain]] 
-- [[../../../../_internal/geo/Continent/Oceania/Papua_New_Guinea/Counties/West_New_Britain.internal|West_New_Britain.internal]] 
-- [[../../../../_protect/geo/Continent/Oceania/Papua_New_Guinea/Counties/West_New_Britain.protect|West_New_Britain.protect]] 
-- [[../../../../_private/geo/Continent/Oceania/Papua_New_Guinea/Counties/West_New_Britain.private|West_New_Britain.private]] 
-- [[../../../../_personal/geo/Continent/Oceania/Papua_New_Guinea/Counties/West_New_Britain.personal|West_New_Britain.personal]] 
-- [[../../../../_secret/geo/Continent/Oceania/Papua_New_Guinea/Counties/West_New_Britain.secret|West_New_Britain.secret]] 
+- [[../../../../../../_Standards/geo/Continent/Oceania/Papua_New_Guinea/Counties/West_New_Britain|West_New_Britain]] 
+- [[../../../../../../_public/geo/Continent/Oceania/Papua_New_Guinea/Counties/West_New_Britain.public|West_New_Britain.public]] 
+- [[../../../../../../_internal/geo/Continent/Oceania/Papua_New_Guinea/Counties/West_New_Britain.internal|West_New_Britain.internal]] 
+- [[../../../../../../_protect/geo/Continent/Oceania/Papua_New_Guinea/Counties/West_New_Britain.protect|West_New_Britain.protect]] 
+- [[../../../../../../_private/geo/Continent/Oceania/Papua_New_Guinea/Counties/West_New_Britain.private|West_New_Britain.private]] 
+- [[../../../../../../_personal/geo/Continent/Oceania/Papua_New_Guinea/Counties/West_New_Britain.personal|West_New_Britain.personal]] 
+- [[../../../../../../_secret/geo/Continent/Oceania/Papua_New_Guinea/Counties/West_New_Britain.secret|West_New_Britain.secret]] 
 

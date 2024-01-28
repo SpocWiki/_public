@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 12.2 , -0.2 ] 
 type: geo-Region
 title: Kouritenga
@@ -40,10 +40,11 @@ markerFolder: ./Kouritenga/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Africa/Burkina_Faso/Counties/Kouritenga.md|Kouritenga]] 
-- [[../../../../_internal/geo/Continent/Africa/Burkina_Faso/Counties/Kouritenga.internal|Kouritenga.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Burkina_Faso/Counties/Kouritenga.protect|Kouritenga.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Burkina_Faso/Counties/Kouritenga.private|Kouritenga.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Burkina_Faso/Counties/Kouritenga.personal|Kouritenga.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Burkina_Faso/Counties/Kouritenga.secret|Kouritenga.secret]] 
+- [[../../../../../../_Standards/geo/Continent/Africa/Burkina_Faso/Counties/Kouritenga|Kouritenga]] 
+- [[../../../../../../_public/geo/Continent/Africa/Burkina_Faso/Counties/Kouritenga.public|Kouritenga.public]] 
+- [[../../../../../../_internal/geo/Continent/Africa/Burkina_Faso/Counties/Kouritenga.internal|Kouritenga.internal]] 
+- [[../../../../../../_protect/geo/Continent/Africa/Burkina_Faso/Counties/Kouritenga.protect|Kouritenga.protect]] 
+- [[../../../../../../_private/geo/Continent/Africa/Burkina_Faso/Counties/Kouritenga.private|Kouritenga.private]] 
+- [[../../../../../../_personal/geo/Continent/Africa/Burkina_Faso/Counties/Kouritenga.personal|Kouritenga.personal]] 
+- [[../../../../../../_secret/geo/Continent/Africa/Burkina_Faso/Counties/Kouritenga.secret|Kouritenga.secret]] 
 

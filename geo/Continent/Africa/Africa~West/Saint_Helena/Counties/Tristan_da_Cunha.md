@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ -37.1 , -12.3 ] 
 type: geo-Region
 title: Tristan_da_Cunha
@@ -40,10 +40,11 @@ markerFolder: ./Tristan_da_Cunha/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Africa/Saint_Helena/Counties/Tristan_da_Cunha.md|Tristan_da_Cunha]] 
-- [[../../../../_internal/geo/Continent/Africa/Saint_Helena/Counties/Tristan_da_Cunha.internal|Tristan_da_Cunha.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Saint_Helena/Counties/Tristan_da_Cunha.protect|Tristan_da_Cunha.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Saint_Helena/Counties/Tristan_da_Cunha.private|Tristan_da_Cunha.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Saint_Helena/Counties/Tristan_da_Cunha.personal|Tristan_da_Cunha.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Saint_Helena/Counties/Tristan_da_Cunha.secret|Tristan_da_Cunha.secret]] 
+- [[../../../../../../_Standards/geo/Continent/Africa/Saint_Helena/Counties/Tristan_da_Cunha|Tristan_da_Cunha]] 
+- [[../../../../../../_public/geo/Continent/Africa/Saint_Helena/Counties/Tristan_da_Cunha.public|Tristan_da_Cunha.public]] 
+- [[../../../../../../_internal/geo/Continent/Africa/Saint_Helena/Counties/Tristan_da_Cunha.internal|Tristan_da_Cunha.internal]] 
+- [[../../../../../../_protect/geo/Continent/Africa/Saint_Helena/Counties/Tristan_da_Cunha.protect|Tristan_da_Cunha.protect]] 
+- [[../../../../../../_private/geo/Continent/Africa/Saint_Helena/Counties/Tristan_da_Cunha.private|Tristan_da_Cunha.private]] 
+- [[../../../../../../_personal/geo/Continent/Africa/Saint_Helena/Counties/Tristan_da_Cunha.personal|Tristan_da_Cunha.personal]] 
+- [[../../../../../../_secret/geo/Continent/Africa/Saint_Helena/Counties/Tristan_da_Cunha.secret|Tristan_da_Cunha.secret]] 
 

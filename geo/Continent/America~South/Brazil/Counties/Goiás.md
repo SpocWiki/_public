@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ -15.9 , -50.3 ] 
 type: geo-Region
 title: Goiás
@@ -40,10 +40,11 @@ markerFolder: ./Goiás/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/America~South/Brazil/Counties/Goiás.md|Goiás]] 
-- [[../../../../_internal/geo/Continent/America~South/Brazil/Counties/Goiás.internal|Goiás.internal]] 
-- [[../../../../_protect/geo/Continent/America~South/Brazil/Counties/Goiás.protect|Goiás.protect]] 
-- [[../../../../_private/geo/Continent/America~South/Brazil/Counties/Goiás.private|Goiás.private]] 
-- [[../../../../_personal/geo/Continent/America~South/Brazil/Counties/Goiás.personal|Goiás.personal]] 
-- [[../../../../_secret/geo/Continent/America~South/Brazil/Counties/Goiás.secret|Goiás.secret]] 
+- [[../../../../../../_Standards/geo/Continent/America~South/Brazil/Counties/Goiás|Goiás]] 
+- [[../../../../../../_public/geo/Continent/America~South/Brazil/Counties/Goiás.public|Goiás.public]] 
+- [[../../../../../../_internal/geo/Continent/America~South/Brazil/Counties/Goiás.internal|Goiás.internal]] 
+- [[../../../../../../_protect/geo/Continent/America~South/Brazil/Counties/Goiás.protect|Goiás.protect]] 
+- [[../../../../../../_private/geo/Continent/America~South/Brazil/Counties/Goiás.private|Goiás.private]] 
+- [[../../../../../../_personal/geo/Continent/America~South/Brazil/Counties/Goiás.personal|Goiás.personal]] 
+- [[../../../../../../_secret/geo/Continent/America~South/Brazil/Counties/Goiás.secret|Goiás.secret]] 
 

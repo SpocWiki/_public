@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 0.1 , 32 ] 
 type: geo-Region
 title: Butambala
@@ -40,10 +40,11 @@ markerFolder: ./Butambala/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Africa/Uganda/Counties/Butambala.md|Butambala]] 
-- [[../../../../_internal/geo/Continent/Africa/Uganda/Counties/Butambala.internal|Butambala.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Uganda/Counties/Butambala.protect|Butambala.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Uganda/Counties/Butambala.private|Butambala.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Uganda/Counties/Butambala.personal|Butambala.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Uganda/Counties/Butambala.secret|Butambala.secret]] 
+- [[../../../../../../_Standards/geo/Continent/Africa/Uganda/Counties/Butambala|Butambala]] 
+- [[../../../../../../_public/geo/Continent/Africa/Uganda/Counties/Butambala.public|Butambala.public]] 
+- [[../../../../../../_internal/geo/Continent/Africa/Uganda/Counties/Butambala.internal|Butambala.internal]] 
+- [[../../../../../../_protect/geo/Continent/Africa/Uganda/Counties/Butambala.protect|Butambala.protect]] 
+- [[../../../../../../_private/geo/Continent/Africa/Uganda/Counties/Butambala.private|Butambala.private]] 
+- [[../../../../../../_personal/geo/Continent/Africa/Uganda/Counties/Butambala.personal|Butambala.personal]] 
+- [[../../../../../../_secret/geo/Continent/Africa/Uganda/Counties/Butambala.secret|Butambala.secret]] 
 

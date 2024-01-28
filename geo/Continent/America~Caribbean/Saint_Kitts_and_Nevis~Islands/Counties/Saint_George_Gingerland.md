@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 17.13 , -62.56 ] 
 type: geo-Region
 title: Saint_George_Gingerland
@@ -40,10 +40,11 @@ markerFolder: ./Saint_George_Gingerland/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/America~Caribbean/Saint_Kitts_and_Nevis~Islands/Counties/Saint_George_Gingerland.md|Saint_George_Gingerland]] 
-- [[../../../../_internal/geo/Continent/America~Caribbean/Saint_Kitts_and_Nevis~Islands/Counties/Saint_George_Gingerland.internal|Saint_George_Gingerland.internal]] 
-- [[../../../../_protect/geo/Continent/America~Caribbean/Saint_Kitts_and_Nevis~Islands/Counties/Saint_George_Gingerland.protect|Saint_George_Gingerland.protect]] 
-- [[../../../../_private/geo/Continent/America~Caribbean/Saint_Kitts_and_Nevis~Islands/Counties/Saint_George_Gingerland.private|Saint_George_Gingerland.private]] 
-- [[../../../../_personal/geo/Continent/America~Caribbean/Saint_Kitts_and_Nevis~Islands/Counties/Saint_George_Gingerland.personal|Saint_George_Gingerland.personal]] 
-- [[../../../../_secret/geo/Continent/America~Caribbean/Saint_Kitts_and_Nevis~Islands/Counties/Saint_George_Gingerland.secret|Saint_George_Gingerland.secret]] 
+- [[../../../../../../_Standards/geo/Continent/America~Caribbean/Saint_Kitts_and_Nevis~Islands/Counties/Saint_George_Gingerland|Saint_George_Gingerland]] 
+- [[../../../../../../_public/geo/Continent/America~Caribbean/Saint_Kitts_and_Nevis~Islands/Counties/Saint_George_Gingerland.public|Saint_George_Gingerland.public]] 
+- [[../../../../../../_internal/geo/Continent/America~Caribbean/Saint_Kitts_and_Nevis~Islands/Counties/Saint_George_Gingerland.internal|Saint_George_Gingerland.internal]] 
+- [[../../../../../../_protect/geo/Continent/America~Caribbean/Saint_Kitts_and_Nevis~Islands/Counties/Saint_George_Gingerland.protect|Saint_George_Gingerland.protect]] 
+- [[../../../../../../_private/geo/Continent/America~Caribbean/Saint_Kitts_and_Nevis~Islands/Counties/Saint_George_Gingerland.private|Saint_George_Gingerland.private]] 
+- [[../../../../../../_personal/geo/Continent/America~Caribbean/Saint_Kitts_and_Nevis~Islands/Counties/Saint_George_Gingerland.personal|Saint_George_Gingerland.personal]] 
+- [[../../../../../../_secret/geo/Continent/America~Caribbean/Saint_Kitts_and_Nevis~Islands/Counties/Saint_George_Gingerland.secret|Saint_George_Gingerland.secret]] 
 

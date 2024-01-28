@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 5.6 , -56.8 ] 
 type: geo-Region
 title: Nickerie
@@ -40,10 +40,11 @@ markerFolder: ./Nickerie/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/America~South/Suriname/Counties/Nickerie.md|Nickerie]] 
-- [[../../../../_internal/geo/Continent/America~South/Suriname/Counties/Nickerie.internal|Nickerie.internal]] 
-- [[../../../../_protect/geo/Continent/America~South/Suriname/Counties/Nickerie.protect|Nickerie.protect]] 
-- [[../../../../_private/geo/Continent/America~South/Suriname/Counties/Nickerie.private|Nickerie.private]] 
-- [[../../../../_personal/geo/Continent/America~South/Suriname/Counties/Nickerie.personal|Nickerie.personal]] 
-- [[../../../../_secret/geo/Continent/America~South/Suriname/Counties/Nickerie.secret|Nickerie.secret]] 
+- [[../../../../../../_Standards/geo/Continent/America~South/Suriname/Counties/Nickerie|Nickerie]] 
+- [[../../../../../../_public/geo/Continent/America~South/Suriname/Counties/Nickerie.public|Nickerie.public]] 
+- [[../../../../../../_internal/geo/Continent/America~South/Suriname/Counties/Nickerie.internal|Nickerie.internal]] 
+- [[../../../../../../_protect/geo/Continent/America~South/Suriname/Counties/Nickerie.protect|Nickerie.protect]] 
+- [[../../../../../../_private/geo/Continent/America~South/Suriname/Counties/Nickerie.private|Nickerie.private]] 
+- [[../../../../../../_personal/geo/Continent/America~South/Suriname/Counties/Nickerie.personal|Nickerie.personal]] 
+- [[../../../../../../_secret/geo/Continent/America~South/Suriname/Counties/Nickerie.secret|Nickerie.secret]] 
 

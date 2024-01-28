@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ -0.3 , 33.2 ] 
 type: geo-Region
 title: Buvuma
@@ -40,10 +40,11 @@ markerFolder: ./Buvuma/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Africa/Uganda/Counties/Buvuma.md|Buvuma]] 
-- [[../../../../_internal/geo/Continent/Africa/Uganda/Counties/Buvuma.internal|Buvuma.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Uganda/Counties/Buvuma.protect|Buvuma.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Uganda/Counties/Buvuma.private|Buvuma.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Uganda/Counties/Buvuma.personal|Buvuma.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Uganda/Counties/Buvuma.secret|Buvuma.secret]] 
+- [[../../../../../../_Standards/geo/Continent/Africa/Uganda/Counties/Buvuma|Buvuma]] 
+- [[../../../../../../_public/geo/Continent/Africa/Uganda/Counties/Buvuma.public|Buvuma.public]] 
+- [[../../../../../../_internal/geo/Continent/Africa/Uganda/Counties/Buvuma.internal|Buvuma.internal]] 
+- [[../../../../../../_protect/geo/Continent/Africa/Uganda/Counties/Buvuma.protect|Buvuma.protect]] 
+- [[../../../../../../_private/geo/Continent/Africa/Uganda/Counties/Buvuma.private|Buvuma.private]] 
+- [[../../../../../../_personal/geo/Continent/Africa/Uganda/Counties/Buvuma.personal|Buvuma.personal]] 
+- [[../../../../../../_secret/geo/Continent/Africa/Uganda/Counties/Buvuma.secret|Buvuma.secret]] 
 

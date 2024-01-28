@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 10.7 , -5.2 ] 
 type: geo-Region
 title: Léraba
@@ -40,10 +40,11 @@ markerFolder: ./Léraba/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Africa/Burkina_Faso/Counties/Léraba.md|Léraba]] 
-- [[../../../../_internal/geo/Continent/Africa/Burkina_Faso/Counties/Léraba.internal|Léraba.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Burkina_Faso/Counties/Léraba.protect|Léraba.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Burkina_Faso/Counties/Léraba.private|Léraba.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Burkina_Faso/Counties/Léraba.personal|Léraba.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Burkina_Faso/Counties/Léraba.secret|Léraba.secret]] 
+- [[../../../../../../_Standards/geo/Continent/Africa/Burkina_Faso/Counties/Léraba|Léraba]] 
+- [[../../../../../../_public/geo/Continent/Africa/Burkina_Faso/Counties/Léraba.public|Léraba.public]] 
+- [[../../../../../../_internal/geo/Continent/Africa/Burkina_Faso/Counties/Léraba.internal|Léraba.internal]] 
+- [[../../../../../../_protect/geo/Continent/Africa/Burkina_Faso/Counties/Léraba.protect|Léraba.protect]] 
+- [[../../../../../../_private/geo/Continent/Africa/Burkina_Faso/Counties/Léraba.private|Léraba.private]] 
+- [[../../../../../../_personal/geo/Continent/Africa/Burkina_Faso/Counties/Léraba.personal|Léraba.personal]] 
+- [[../../../../../../_secret/geo/Continent/Africa/Burkina_Faso/Counties/Léraba.secret|Léraba.secret]] 
 

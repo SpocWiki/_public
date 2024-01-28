@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ -32 , 137 ] 
 type: geo-Region
 title: South_Australia
@@ -40,10 +40,11 @@ markerFolder: ./South_Australia/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Australia/Australia/Counties/South_Australia.md|South_Australia]] 
-- [[../../../../_internal/geo/Continent/Australia/Australia/Counties/South_Australia.internal|South_Australia.internal]] 
-- [[../../../../_protect/geo/Continent/Australia/Australia/Counties/South_Australia.protect|South_Australia.protect]] 
-- [[../../../../_private/geo/Continent/Australia/Australia/Counties/South_Australia.private|South_Australia.private]] 
-- [[../../../../_personal/geo/Continent/Australia/Australia/Counties/South_Australia.personal|South_Australia.personal]] 
-- [[../../../../_secret/geo/Continent/Australia/Australia/Counties/South_Australia.secret|South_Australia.secret]] 
+- [[../../../../../../_Standards/geo/Continent/Australia/Australia/Counties/South_Australia|South_Australia]] 
+- [[../../../../../../_public/geo/Continent/Australia/Australia/Counties/South_Australia.public|South_Australia.public]] 
+- [[../../../../../../_internal/geo/Continent/Australia/Australia/Counties/South_Australia.internal|South_Australia.internal]] 
+- [[../../../../../../_protect/geo/Continent/Australia/Australia/Counties/South_Australia.protect|South_Australia.protect]] 
+- [[../../../../../../_private/geo/Continent/Australia/Australia/Counties/South_Australia.private|South_Australia.private]] 
+- [[../../../../../../_personal/geo/Continent/Australia/Australia/Counties/South_Australia.personal|South_Australia.personal]] 
+- [[../../../../../../_secret/geo/Continent/Australia/Australia/Counties/South_Australia.secret|South_Australia.secret]] 
 

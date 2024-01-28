@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ -2.1 , -80.5 ] 
 type: geo-Region
 title: Santa_Elena
@@ -40,10 +40,11 @@ markerFolder: ./Santa_Elena/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/America~South/Ecuador/Counties/Santa_Elena.md|Santa_Elena]] 
-- [[../../../../_internal/geo/Continent/America~South/Ecuador/Counties/Santa_Elena.internal|Santa_Elena.internal]] 
-- [[../../../../_protect/geo/Continent/America~South/Ecuador/Counties/Santa_Elena.protect|Santa_Elena.protect]] 
-- [[../../../../_private/geo/Continent/America~South/Ecuador/Counties/Santa_Elena.private|Santa_Elena.private]] 
-- [[../../../../_personal/geo/Continent/America~South/Ecuador/Counties/Santa_Elena.personal|Santa_Elena.personal]] 
-- [[../../../../_secret/geo/Continent/America~South/Ecuador/Counties/Santa_Elena.secret|Santa_Elena.secret]] 
+- [[../../../../../../_Standards/geo/Continent/America~South/Ecuador/Counties/Santa_Elena|Santa_Elena]] 
+- [[../../../../../../_public/geo/Continent/America~South/Ecuador/Counties/Santa_Elena.public|Santa_Elena.public]] 
+- [[../../../../../../_internal/geo/Continent/America~South/Ecuador/Counties/Santa_Elena.internal|Santa_Elena.internal]] 
+- [[../../../../../../_protect/geo/Continent/America~South/Ecuador/Counties/Santa_Elena.protect|Santa_Elena.protect]] 
+- [[../../../../../../_private/geo/Continent/America~South/Ecuador/Counties/Santa_Elena.private|Santa_Elena.private]] 
+- [[../../../../../../_personal/geo/Continent/America~South/Ecuador/Counties/Santa_Elena.personal|Santa_Elena.personal]] 
+- [[../../../../../../_secret/geo/Continent/America~South/Ecuador/Counties/Santa_Elena.secret|Santa_Elena.secret]] 
 

@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 1.5 , 33.9 ] 
 type: geo-Region
 title: Kumi
@@ -40,10 +40,11 @@ markerFolder: ./Kumi/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Africa/Uganda/Counties/Kumi.md|Kumi]] 
-- [[../../../../_internal/geo/Continent/Africa/Uganda/Counties/Kumi.internal|Kumi.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Uganda/Counties/Kumi.protect|Kumi.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Uganda/Counties/Kumi.private|Kumi.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Uganda/Counties/Kumi.personal|Kumi.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Uganda/Counties/Kumi.secret|Kumi.secret]] 
+- [[../../../../../../_Standards/geo/Continent/Africa/Uganda/Counties/Kumi|Kumi]] 
+- [[../../../../../../_public/geo/Continent/Africa/Uganda/Counties/Kumi.public|Kumi.public]] 
+- [[../../../../../../_internal/geo/Continent/Africa/Uganda/Counties/Kumi.internal|Kumi.internal]] 
+- [[../../../../../../_protect/geo/Continent/Africa/Uganda/Counties/Kumi.protect|Kumi.protect]] 
+- [[../../../../../../_private/geo/Continent/Africa/Uganda/Counties/Kumi.private|Kumi.private]] 
+- [[../../../../../../_personal/geo/Continent/Africa/Uganda/Counties/Kumi.personal|Kumi.personal]] 
+- [[../../../../../../_secret/geo/Continent/Africa/Uganda/Counties/Kumi.secret|Kumi.secret]] 
 

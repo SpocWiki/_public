@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 2.5 , 31.9 ] 
 type: geo-Region
 title: Nwoya
@@ -40,10 +40,11 @@ markerFolder: ./Nwoya/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Africa/Uganda/Counties/Nwoya.md|Nwoya]] 
-- [[../../../../_internal/geo/Continent/Africa/Uganda/Counties/Nwoya.internal|Nwoya.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Uganda/Counties/Nwoya.protect|Nwoya.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Uganda/Counties/Nwoya.private|Nwoya.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Uganda/Counties/Nwoya.personal|Nwoya.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Uganda/Counties/Nwoya.secret|Nwoya.secret]] 
+- [[../../../../../../_Standards/geo/Continent/Africa/Uganda/Counties/Nwoya|Nwoya]] 
+- [[../../../../../../_public/geo/Continent/Africa/Uganda/Counties/Nwoya.public|Nwoya.public]] 
+- [[../../../../../../_internal/geo/Continent/Africa/Uganda/Counties/Nwoya.internal|Nwoya.internal]] 
+- [[../../../../../../_protect/geo/Continent/Africa/Uganda/Counties/Nwoya.protect|Nwoya.protect]] 
+- [[../../../../../../_private/geo/Continent/Africa/Uganda/Counties/Nwoya.private|Nwoya.private]] 
+- [[../../../../../../_personal/geo/Continent/Africa/Uganda/Counties/Nwoya.personal|Nwoya.personal]] 
+- [[../../../../../../_secret/geo/Continent/Africa/Uganda/Counties/Nwoya.secret|Nwoya.secret]] 
 

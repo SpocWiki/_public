@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ -24.6 , -51.8 ] 
 type: geo-Region
 title: Paraná
@@ -40,10 +40,11 @@ markerFolder: ./Paraná/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/America~South/Brazil/Counties/Paraná.md|Paraná]] 
-- [[../../../../_internal/geo/Continent/America~South/Brazil/Counties/Paraná.internal|Paraná.internal]] 
-- [[../../../../_protect/geo/Continent/America~South/Brazil/Counties/Paraná.protect|Paraná.protect]] 
-- [[../../../../_private/geo/Continent/America~South/Brazil/Counties/Paraná.private|Paraná.private]] 
-- [[../../../../_personal/geo/Continent/America~South/Brazil/Counties/Paraná.personal|Paraná.personal]] 
-- [[../../../../_secret/geo/Continent/America~South/Brazil/Counties/Paraná.secret|Paraná.secret]] 
+- [[../../../../../../_Standards/geo/Continent/America~South/Brazil/Counties/Paraná|Paraná]] 
+- [[../../../../../../_public/geo/Continent/America~South/Brazil/Counties/Paraná.public|Paraná.public]] 
+- [[../../../../../../_internal/geo/Continent/America~South/Brazil/Counties/Paraná.internal|Paraná.internal]] 
+- [[../../../../../../_protect/geo/Continent/America~South/Brazil/Counties/Paraná.protect|Paraná.protect]] 
+- [[../../../../../../_private/geo/Continent/America~South/Brazil/Counties/Paraná.private|Paraná.private]] 
+- [[../../../../../../_personal/geo/Continent/America~South/Brazil/Counties/Paraná.personal|Paraná.personal]] 
+- [[../../../../../../_secret/geo/Continent/America~South/Brazil/Counties/Paraná.secret|Paraná.secret]] 
 

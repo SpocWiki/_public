@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 12.9 , -15.6 ] 
 type: geo-Region
 title: Sédhiou
@@ -40,10 +40,11 @@ markerFolder: ./Sédhiou/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Africa/Senegal/Counties/Sédhiou.md|Sédhiou]] 
-- [[../../../../_internal/geo/Continent/Africa/Senegal/Counties/Sédhiou.internal|Sédhiou.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Senegal/Counties/Sédhiou.protect|Sédhiou.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Senegal/Counties/Sédhiou.private|Sédhiou.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Senegal/Counties/Sédhiou.personal|Sédhiou.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Senegal/Counties/Sédhiou.secret|Sédhiou.secret]] 
+- [[../../../../../../_Standards/geo/Continent/Africa/Senegal/Counties/Sédhiou|Sédhiou]] 
+- [[../../../../../../_public/geo/Continent/Africa/Senegal/Counties/Sédhiou.public|Sédhiou.public]] 
+- [[../../../../../../_internal/geo/Continent/Africa/Senegal/Counties/Sédhiou.internal|Sédhiou.internal]] 
+- [[../../../../../../_protect/geo/Continent/Africa/Senegal/Counties/Sédhiou.protect|Sédhiou.protect]] 
+- [[../../../../../../_private/geo/Continent/Africa/Senegal/Counties/Sédhiou.private|Sédhiou.private]] 
+- [[../../../../../../_personal/geo/Continent/Africa/Senegal/Counties/Sédhiou.personal|Sédhiou.personal]] 
+- [[../../../../../../_secret/geo/Continent/Africa/Senegal/Counties/Sédhiou.secret|Sédhiou.secret]] 
 

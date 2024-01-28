@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ -3.3 , 28.1 ] 
 type: geo-Region
 title: Sud-Kivu
@@ -40,10 +40,11 @@ markerFolder: ./Sud-Kivu/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Africa/Congo~Kinshasa/Counties/Sud-Kivu.md|Sud-Kivu]] 
-- [[../../../../_internal/geo/Continent/Africa/Congo~Kinshasa/Counties/Sud-Kivu.internal|Sud-Kivu.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Congo~Kinshasa/Counties/Sud-Kivu.protect|Sud-Kivu.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Congo~Kinshasa/Counties/Sud-Kivu.private|Sud-Kivu.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Congo~Kinshasa/Counties/Sud-Kivu.personal|Sud-Kivu.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Congo~Kinshasa/Counties/Sud-Kivu.secret|Sud-Kivu.secret]] 
+- [[../../../../../../_Standards/geo/Continent/Africa/Congo~Kinshasa/Counties/Sud-Kivu|Sud-Kivu]] 
+- [[../../../../../../_public/geo/Continent/Africa/Congo~Kinshasa/Counties/Sud-Kivu.public|Sud-Kivu.public]] 
+- [[../../../../../../_internal/geo/Continent/Africa/Congo~Kinshasa/Counties/Sud-Kivu.internal|Sud-Kivu.internal]] 
+- [[../../../../../../_protect/geo/Continent/Africa/Congo~Kinshasa/Counties/Sud-Kivu.protect|Sud-Kivu.protect]] 
+- [[../../../../../../_private/geo/Continent/Africa/Congo~Kinshasa/Counties/Sud-Kivu.private|Sud-Kivu.private]] 
+- [[../../../../../../_personal/geo/Continent/Africa/Congo~Kinshasa/Counties/Sud-Kivu.personal|Sud-Kivu.personal]] 
+- [[../../../../../../_secret/geo/Continent/Africa/Congo~Kinshasa/Counties/Sud-Kivu.secret|Sud-Kivu.secret]] 
 

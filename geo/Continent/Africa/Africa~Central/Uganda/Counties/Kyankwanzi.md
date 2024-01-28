@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 1.1 , 31.7 ] 
 type: geo-Region
 title: Kyankwanzi
@@ -40,10 +40,11 @@ markerFolder: ./Kyankwanzi/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Africa/Uganda/Counties/Kyankwanzi.md|Kyankwanzi]] 
-- [[../../../../_internal/geo/Continent/Africa/Uganda/Counties/Kyankwanzi.internal|Kyankwanzi.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Uganda/Counties/Kyankwanzi.protect|Kyankwanzi.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Uganda/Counties/Kyankwanzi.private|Kyankwanzi.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Uganda/Counties/Kyankwanzi.personal|Kyankwanzi.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Uganda/Counties/Kyankwanzi.secret|Kyankwanzi.secret]] 
+- [[../../../../../../_Standards/geo/Continent/Africa/Uganda/Counties/Kyankwanzi|Kyankwanzi]] 
+- [[../../../../../../_public/geo/Continent/Africa/Uganda/Counties/Kyankwanzi.public|Kyankwanzi.public]] 
+- [[../../../../../../_internal/geo/Continent/Africa/Uganda/Counties/Kyankwanzi.internal|Kyankwanzi.internal]] 
+- [[../../../../../../_protect/geo/Continent/Africa/Uganda/Counties/Kyankwanzi.protect|Kyankwanzi.protect]] 
+- [[../../../../../../_private/geo/Continent/Africa/Uganda/Counties/Kyankwanzi.private|Kyankwanzi.private]] 
+- [[../../../../../../_personal/geo/Continent/Africa/Uganda/Counties/Kyankwanzi.personal|Kyankwanzi.personal]] 
+- [[../../../../../../_secret/geo/Continent/Africa/Uganda/Counties/Kyankwanzi.secret|Kyankwanzi.secret]] 
 

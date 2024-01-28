@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 10.6 , -11.9 ] 
 type: geo-Region
 title: Mamou
@@ -40,10 +40,11 @@ markerFolder: ./Mamou/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Africa/Guinea/Counties/Mamou.md|Mamou]] 
-- [[../../../../_internal/geo/Continent/Africa/Guinea/Counties/Mamou.internal|Mamou.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Guinea/Counties/Mamou.protect|Mamou.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Guinea/Counties/Mamou.private|Mamou.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Guinea/Counties/Mamou.personal|Mamou.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Guinea/Counties/Mamou.secret|Mamou.secret]] 
+- [[../../../../../../_Standards/geo/Continent/Africa/Guinea/Counties/Mamou|Mamou]] 
+- [[../../../../../../_public/geo/Continent/Africa/Guinea/Counties/Mamou.public|Mamou.public]] 
+- [[../../../../../../_internal/geo/Continent/Africa/Guinea/Counties/Mamou.internal|Mamou.internal]] 
+- [[../../../../../../_protect/geo/Continent/Africa/Guinea/Counties/Mamou.protect|Mamou.protect]] 
+- [[../../../../../../_private/geo/Continent/Africa/Guinea/Counties/Mamou.private|Mamou.private]] 
+- [[../../../../../../_personal/geo/Continent/Africa/Guinea/Counties/Mamou.personal|Mamou.personal]] 
+- [[../../../../../../_secret/geo/Continent/Africa/Guinea/Counties/Mamou.secret|Mamou.secret]] 
 

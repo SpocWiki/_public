@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 21.1 , -73.3 ] 
 type: geo-Region
 title: Inagua
@@ -40,10 +40,11 @@ markerFolder: ./Inagua/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/America~Caribbean/Bahamas/Counties/Inagua.md|Inagua]] 
-- [[../../../../_internal/geo/Continent/America~Caribbean/Bahamas/Counties/Inagua.internal|Inagua.internal]] 
-- [[../../../../_protect/geo/Continent/America~Caribbean/Bahamas/Counties/Inagua.protect|Inagua.protect]] 
-- [[../../../../_private/geo/Continent/America~Caribbean/Bahamas/Counties/Inagua.private|Inagua.private]] 
-- [[../../../../_personal/geo/Continent/America~Caribbean/Bahamas/Counties/Inagua.personal|Inagua.personal]] 
-- [[../../../../_secret/geo/Continent/America~Caribbean/Bahamas/Counties/Inagua.secret|Inagua.secret]] 
+- [[../../../../../../_Standards/geo/Continent/America~Caribbean/Bahamas/Counties/Inagua|Inagua]] 
+- [[../../../../../../_public/geo/Continent/America~Caribbean/Bahamas/Counties/Inagua.public|Inagua.public]] 
+- [[../../../../../../_internal/geo/Continent/America~Caribbean/Bahamas/Counties/Inagua.internal|Inagua.internal]] 
+- [[../../../../../../_protect/geo/Continent/America~Caribbean/Bahamas/Counties/Inagua.protect|Inagua.protect]] 
+- [[../../../../../../_private/geo/Continent/America~Caribbean/Bahamas/Counties/Inagua.private|Inagua.private]] 
+- [[../../../../../../_personal/geo/Continent/America~Caribbean/Bahamas/Counties/Inagua.personal|Inagua.personal]] 
+- [[../../../../../../_secret/geo/Continent/America~Caribbean/Bahamas/Counties/Inagua.secret|Inagua.secret]] 
 

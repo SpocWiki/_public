@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 19.4 , -70 ] 
 type: geo-Region
 title: María_Trinidad_Sánchez
@@ -40,10 +40,11 @@ markerFolder: ./María_Trinidad_Sánchez/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/America~Caribbean/Dominican_Rep/Counties/María_Trinidad_Sánchez.md|María_Trinidad_Sánchez]] 
-- [[../../../../_internal/geo/Continent/America~Caribbean/Dominican_Rep/Counties/María_Trinidad_Sánchez.internal|María_Trinidad_Sánchez.internal]] 
-- [[../../../../_protect/geo/Continent/America~Caribbean/Dominican_Rep/Counties/María_Trinidad_Sánchez.protect|María_Trinidad_Sánchez.protect]] 
-- [[../../../../_private/geo/Continent/America~Caribbean/Dominican_Rep/Counties/María_Trinidad_Sánchez.private|María_Trinidad_Sánchez.private]] 
-- [[../../../../_personal/geo/Continent/America~Caribbean/Dominican_Rep/Counties/María_Trinidad_Sánchez.personal|María_Trinidad_Sánchez.personal]] 
-- [[../../../../_secret/geo/Continent/America~Caribbean/Dominican_Rep/Counties/María_Trinidad_Sánchez.secret|María_Trinidad_Sánchez.secret]] 
+- [[../../../../../../_Standards/geo/Continent/America~Caribbean/Dominican_Rep/Counties/María_Trinidad_Sánchez|María_Trinidad_Sánchez]] 
+- [[../../../../../../_public/geo/Continent/America~Caribbean/Dominican_Rep/Counties/María_Trinidad_Sánchez.public|María_Trinidad_Sánchez.public]] 
+- [[../../../../../../_internal/geo/Continent/America~Caribbean/Dominican_Rep/Counties/María_Trinidad_Sánchez.internal|María_Trinidad_Sánchez.internal]] 
+- [[../../../../../../_protect/geo/Continent/America~Caribbean/Dominican_Rep/Counties/María_Trinidad_Sánchez.protect|María_Trinidad_Sánchez.protect]] 
+- [[../../../../../../_private/geo/Continent/America~Caribbean/Dominican_Rep/Counties/María_Trinidad_Sánchez.private|María_Trinidad_Sánchez.private]] 
+- [[../../../../../../_personal/geo/Continent/America~Caribbean/Dominican_Rep/Counties/María_Trinidad_Sánchez.personal|María_Trinidad_Sánchez.personal]] 
+- [[../../../../../../_secret/geo/Continent/America~Caribbean/Dominican_Rep/Counties/María_Trinidad_Sánchez.secret|María_Trinidad_Sánchez.secret]] 
 

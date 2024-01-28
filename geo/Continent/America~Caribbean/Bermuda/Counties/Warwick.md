@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 32.27 , -64.81 ] 
 type: geo-Region
 title: Warwick
@@ -40,10 +40,11 @@ markerFolder: ./Warwick/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/America~Caribbean/Bermuda/Counties/Warwick.md|Warwick]] 
-- [[../../../../_internal/geo/Continent/America~Caribbean/Bermuda/Counties/Warwick.internal|Warwick.internal]] 
-- [[../../../../_protect/geo/Continent/America~Caribbean/Bermuda/Counties/Warwick.protect|Warwick.protect]] 
-- [[../../../../_private/geo/Continent/America~Caribbean/Bermuda/Counties/Warwick.private|Warwick.private]] 
-- [[../../../../_personal/geo/Continent/America~Caribbean/Bermuda/Counties/Warwick.personal|Warwick.personal]] 
-- [[../../../../_secret/geo/Continent/America~Caribbean/Bermuda/Counties/Warwick.secret|Warwick.secret]] 
+- [[../../../../../../_Standards/geo/Continent/America~Caribbean/Bermuda/Counties/Warwick|Warwick]] 
+- [[../../../../../../_public/geo/Continent/America~Caribbean/Bermuda/Counties/Warwick.public|Warwick.public]] 
+- [[../../../../../../_internal/geo/Continent/America~Caribbean/Bermuda/Counties/Warwick.internal|Warwick.internal]] 
+- [[../../../../../../_protect/geo/Continent/America~Caribbean/Bermuda/Counties/Warwick.protect|Warwick.protect]] 
+- [[../../../../../../_private/geo/Continent/America~Caribbean/Bermuda/Counties/Warwick.private|Warwick.private]] 
+- [[../../../../../../_personal/geo/Continent/America~Caribbean/Bermuda/Counties/Warwick.personal|Warwick.personal]] 
+- [[../../../../../../_secret/geo/Continent/America~Caribbean/Bermuda/Counties/Warwick.secret|Warwick.secret]] 
 

@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ -15.7 , 32.1 ] 
 type: geo-Region
 title: _Lakes
@@ -40,10 +40,11 @@ markerFolder: ./_Lakes/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Africa/Mozambique/Counties/Tete/_Lakes.md|_Lakes]] 
-- [[../../../../_internal/geo/Continent/Africa/Mozambique/Counties/Tete/_Lakes.internal|_Lakes.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Mozambique/Counties/Tete/_Lakes.protect|_Lakes.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Mozambique/Counties/Tete/_Lakes.private|_Lakes.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Mozambique/Counties/Tete/_Lakes.personal|_Lakes.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Mozambique/Counties/Tete/_Lakes.secret|_Lakes.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Africa/Mozambique/Counties/Tete/_Lakes|_Lakes]] 
+- [[../../../../../../../_public/geo/Continent/Africa/Mozambique/Counties/Tete/_Lakes.public|_Lakes.public]] 
+- [[../../../../../../../_internal/geo/Continent/Africa/Mozambique/Counties/Tete/_Lakes.internal|_Lakes.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Africa/Mozambique/Counties/Tete/_Lakes.protect|_Lakes.protect]] 
+- [[../../../../../../../_private/geo/Continent/Africa/Mozambique/Counties/Tete/_Lakes.private|_Lakes.private]] 
+- [[../../../../../../../_personal/geo/Continent/Africa/Mozambique/Counties/Tete/_Lakes.personal|_Lakes.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Africa/Mozambique/Counties/Tete/_Lakes.secret|_Lakes.secret]] 
 

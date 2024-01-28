@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 11.3 , -69.5 ] 
 type: geo-Region
 title: Falcón
@@ -40,10 +40,11 @@ markerFolder: ./Falcón/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/America~South/Venezuela/Counties/Falcón.md|Falcón]] 
-- [[../../../../_internal/geo/Continent/America~South/Venezuela/Counties/Falcón.internal|Falcón.internal]] 
-- [[../../../../_protect/geo/Continent/America~South/Venezuela/Counties/Falcón.protect|Falcón.protect]] 
-- [[../../../../_private/geo/Continent/America~South/Venezuela/Counties/Falcón.private|Falcón.private]] 
-- [[../../../../_personal/geo/Continent/America~South/Venezuela/Counties/Falcón.personal|Falcón.personal]] 
-- [[../../../../_secret/geo/Continent/America~South/Venezuela/Counties/Falcón.secret|Falcón.secret]] 
+- [[../../../../../../_Standards/geo/Continent/America~South/Venezuela/Counties/Falcón|Falcón]] 
+- [[../../../../../../_public/geo/Continent/America~South/Venezuela/Counties/Falcón.public|Falcón.public]] 
+- [[../../../../../../_internal/geo/Continent/America~South/Venezuela/Counties/Falcón.internal|Falcón.internal]] 
+- [[../../../../../../_protect/geo/Continent/America~South/Venezuela/Counties/Falcón.protect|Falcón.protect]] 
+- [[../../../../../../_private/geo/Continent/America~South/Venezuela/Counties/Falcón.private|Falcón.private]] 
+- [[../../../../../../_personal/geo/Continent/America~South/Venezuela/Counties/Falcón.personal|Falcón.personal]] 
+- [[../../../../../../_secret/geo/Continent/America~South/Venezuela/Counties/Falcón.secret|Falcón.secret]] 
 

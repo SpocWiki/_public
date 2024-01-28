@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 10 , -13.6 ] 
 type: geo-Region
 title: Dubréka
@@ -40,10 +40,11 @@ markerFolder: ./Dubréka/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Africa/Guinea/Counties/Dubréka.md|Dubréka]] 
-- [[../../../../_internal/geo/Continent/Africa/Guinea/Counties/Dubréka.internal|Dubréka.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Guinea/Counties/Dubréka.protect|Dubréka.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Guinea/Counties/Dubréka.private|Dubréka.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Guinea/Counties/Dubréka.personal|Dubréka.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Guinea/Counties/Dubréka.secret|Dubréka.secret]] 
+- [[../../../../../../_Standards/geo/Continent/Africa/Guinea/Counties/Dubréka|Dubréka]] 
+- [[../../../../../../_public/geo/Continent/Africa/Guinea/Counties/Dubréka.public|Dubréka.public]] 
+- [[../../../../../../_internal/geo/Continent/Africa/Guinea/Counties/Dubréka.internal|Dubréka.internal]] 
+- [[../../../../../../_protect/geo/Continent/Africa/Guinea/Counties/Dubréka.protect|Dubréka.protect]] 
+- [[../../../../../../_private/geo/Continent/Africa/Guinea/Counties/Dubréka.private|Dubréka.private]] 
+- [[../../../../../../_personal/geo/Continent/Africa/Guinea/Counties/Dubréka.personal|Dubréka.personal]] 
+- [[../../../../../../_secret/geo/Continent/Africa/Guinea/Counties/Dubréka.secret|Dubréka.secret]] 
 

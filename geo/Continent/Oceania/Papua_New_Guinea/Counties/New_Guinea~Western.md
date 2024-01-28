@@ -40,10 +40,11 @@ markerFolder: ./New_Guinea~Western/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Oceania/Papua_New_Guinea/Counties/New_Guinea~Western.md|New_Guinea~Western]] 
-- [[../../../../_internal/geo/Continent/Oceania/Papua_New_Guinea/Counties/New_Guinea~Western.internal|New_Guinea~Western.internal]] 
-- [[../../../../_protect/geo/Continent/Oceania/Papua_New_Guinea/Counties/New_Guinea~Western.protect|New_Guinea~Western.protect]] 
-- [[../../../../_private/geo/Continent/Oceania/Papua_New_Guinea/Counties/New_Guinea~Western.private|New_Guinea~Western.private]] 
-- [[../../../../_personal/geo/Continent/Oceania/Papua_New_Guinea/Counties/New_Guinea~Western.personal|New_Guinea~Western.personal]] 
-- [[../../../../_secret/geo/Continent/Oceania/Papua_New_Guinea/Counties/New_Guinea~Western.secret|New_Guinea~Western.secret]] 
+- [[../../../../../../_Standards/geo/Continent/Oceania/Papua_New_Guinea/Counties/New_Guinea~Western|New_Guinea~Western]] 
+- [[../../../../../../_public/geo/Continent/Oceania/Papua_New_Guinea/Counties/New_Guinea~Western.public|New_Guinea~Western.public]] 
+- [[../../../../../../_internal/geo/Continent/Oceania/Papua_New_Guinea/Counties/New_Guinea~Western.internal|New_Guinea~Western.internal]] 
+- [[../../../../../../_protect/geo/Continent/Oceania/Papua_New_Guinea/Counties/New_Guinea~Western.protect|New_Guinea~Western.protect]] 
+- [[../../../../../../_private/geo/Continent/Oceania/Papua_New_Guinea/Counties/New_Guinea~Western.private|New_Guinea~Western.private]] 
+- [[../../../../../../_personal/geo/Continent/Oceania/Papua_New_Guinea/Counties/New_Guinea~Western.personal|New_Guinea~Western.personal]] 
+- [[../../../../../../_secret/geo/Continent/Oceania/Papua_New_Guinea/Counties/New_Guinea~Western.secret|New_Guinea~Western.secret]] 
 

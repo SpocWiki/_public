@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 6.4 , 36.3 ] 
 type: geo-Region
 title: Southern_Nations,_Nationalities_and_Peoples
@@ -40,10 +40,11 @@ markerFolder: ./Southern_Nations,_Nationalities_and_Peoples/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Africa/Ethiopia/Counties/Southern_Nations,_Nationalities_and_Peoples.md|Southern_Nations,_Nationalities_and_Peoples]] 
-- [[../../../../_internal/geo/Continent/Africa/Ethiopia/Counties/Southern_Nations,_Nationalities_and_Peoples.internal|Southern_Nations,_Nationalities_and_Peoples.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Ethiopia/Counties/Southern_Nations,_Nationalities_and_Peoples.protect|Southern_Nations,_Nationalities_and_Peoples.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Ethiopia/Counties/Southern_Nations,_Nationalities_and_Peoples.private|Southern_Nations,_Nationalities_and_Peoples.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Ethiopia/Counties/Southern_Nations,_Nationalities_and_Peoples.personal|Southern_Nations,_Nationalities_and_Peoples.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Ethiopia/Counties/Southern_Nations,_Nationalities_and_Peoples.secret|Southern_Nations,_Nationalities_and_Peoples.secret]] 
+- [[../../../../../../_Standards/geo/Continent/Africa/Ethiopia/Counties/Southern_Nations,_Nationalities_and_Peoples|Southern_Nations,_Nationalities_and_Peoples]] 
+- [[../../../../../../_public/geo/Continent/Africa/Ethiopia/Counties/Southern_Nations,_Nationalities_and_Peoples.public|Southern_Nations,_Nationalities_and_Peoples.public]] 
+- [[../../../../../../_internal/geo/Continent/Africa/Ethiopia/Counties/Southern_Nations,_Nationalities_and_Peoples.internal|Southern_Nations,_Nationalities_and_Peoples.internal]] 
+- [[../../../../../../_protect/geo/Continent/Africa/Ethiopia/Counties/Southern_Nations,_Nationalities_and_Peoples.protect|Southern_Nations,_Nationalities_and_Peoples.protect]] 
+- [[../../../../../../_private/geo/Continent/Africa/Ethiopia/Counties/Southern_Nations,_Nationalities_and_Peoples.private|Southern_Nations,_Nationalities_and_Peoples.private]] 
+- [[../../../../../../_personal/geo/Continent/Africa/Ethiopia/Counties/Southern_Nations,_Nationalities_and_Peoples.personal|Southern_Nations,_Nationalities_and_Peoples.personal]] 
+- [[../../../../../../_secret/geo/Continent/Africa/Ethiopia/Counties/Southern_Nations,_Nationalities_and_Peoples.secret|Southern_Nations,_Nationalities_and_Peoples.secret]] 
 

@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ -8.7 , 125.6 ] 
 type: geo-Region
 title: Aileu
@@ -40,10 +40,11 @@ markerFolder: ./Aileu/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Oceania/Timor-Leste/Counties/Aileu.md|Aileu]] 
-- [[../../../../_internal/geo/Continent/Oceania/Timor-Leste/Counties/Aileu.internal|Aileu.internal]] 
-- [[../../../../_protect/geo/Continent/Oceania/Timor-Leste/Counties/Aileu.protect|Aileu.protect]] 
-- [[../../../../_private/geo/Continent/Oceania/Timor-Leste/Counties/Aileu.private|Aileu.private]] 
-- [[../../../../_personal/geo/Continent/Oceania/Timor-Leste/Counties/Aileu.personal|Aileu.personal]] 
-- [[../../../../_secret/geo/Continent/Oceania/Timor-Leste/Counties/Aileu.secret|Aileu.secret]] 
+- [[../../../../../../_Standards/geo/Continent/Oceania/Timor-Leste/Counties/Aileu|Aileu]] 
+- [[../../../../../../_public/geo/Continent/Oceania/Timor-Leste/Counties/Aileu.public|Aileu.public]] 
+- [[../../../../../../_internal/geo/Continent/Oceania/Timor-Leste/Counties/Aileu.internal|Aileu.internal]] 
+- [[../../../../../../_protect/geo/Continent/Oceania/Timor-Leste/Counties/Aileu.protect|Aileu.protect]] 
+- [[../../../../../../_private/geo/Continent/Oceania/Timor-Leste/Counties/Aileu.private|Aileu.private]] 
+- [[../../../../../../_personal/geo/Continent/Oceania/Timor-Leste/Counties/Aileu.personal|Aileu.personal]] 
+- [[../../../../../../_secret/geo/Continent/Oceania/Timor-Leste/Counties/Aileu.secret|Aileu.secret]] 
 

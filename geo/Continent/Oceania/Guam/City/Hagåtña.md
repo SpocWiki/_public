@@ -1,5 +1,5 @@
 ---
-location: [13.47917,144.75]
+location: [13.47917,144.75] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,27 +12,28 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::144.75]
-[geo-lat::13.47917]
-[name::Hagåtña]
-[State::]
-[Country::[[../../../../../Oceania/Guam]]]
-[StateId::]
-[Population::]
-[Unknown::32]
+[geo-lon::144.75] 
+[geo-lat::13.47917] 
+[name::Hagåtña] 
+State ::  
+Country :: [[../../../../../Oceania/Guam]]  
+[StateId::] 
+[Population::] 
+[Unknown::32] 
 
 
 ```leaflet
 id: Hagåtña
-coordinates: [[Hagåtña]]
-markerFile: [[Hagåtña]]
+coordinates: [[Hagåtña]] 
+markerFile: [[Hagåtña]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_public/geo/Continent/Oceania/Guam/City/Hagåtña.md|Hagåtña]] 
+- [[../../../../../../_Standards/geo/Continent/Oceania/Guam/City/Hagåtña|Hagåtña]] 
+- [[../../../../../../_public/geo/Continent/Oceania/Guam/City/Hagåtña.public|Hagåtña.public]] 
 - [[../../../../../../_internal/geo/Continent/Oceania/Guam/City/Hagåtña.internal|Hagåtña.internal]] 
 - [[../../../../../../_protect/geo/Continent/Oceania/Guam/City/Hagåtña.protect|Hagåtña.protect]] 
 - [[../../../../../../_private/geo/Continent/Oceania/Guam/City/Hagåtña.private|Hagåtña.private]] 

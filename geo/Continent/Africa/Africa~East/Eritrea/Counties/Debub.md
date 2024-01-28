@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 16.2 , 38.9 ] 
 type: geo-Region
 title: Debub
@@ -40,10 +40,11 @@ markerFolder: ./Debub/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Africa/Eritrea/Counties/Debub.md|Debub]] 
-- [[../../../../_internal/geo/Continent/Africa/Eritrea/Counties/Debub.internal|Debub.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Eritrea/Counties/Debub.protect|Debub.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Eritrea/Counties/Debub.private|Debub.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Eritrea/Counties/Debub.personal|Debub.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Eritrea/Counties/Debub.secret|Debub.secret]] 
+- [[../../../../../../_Standards/geo/Continent/Africa/Eritrea/Counties/Debub|Debub]] 
+- [[../../../../../../_public/geo/Continent/Africa/Eritrea/Counties/Debub.public|Debub.public]] 
+- [[../../../../../../_internal/geo/Continent/Africa/Eritrea/Counties/Debub.internal|Debub.internal]] 
+- [[../../../../../../_protect/geo/Continent/Africa/Eritrea/Counties/Debub.protect|Debub.protect]] 
+- [[../../../../../../_private/geo/Continent/Africa/Eritrea/Counties/Debub.private|Debub.private]] 
+- [[../../../../../../_personal/geo/Continent/Africa/Eritrea/Counties/Debub.personal|Debub.personal]] 
+- [[../../../../../../_secret/geo/Continent/Africa/Eritrea/Counties/Debub.secret|Debub.secret]] 
 

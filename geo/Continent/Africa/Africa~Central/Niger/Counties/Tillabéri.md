@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 13.8 , 2 ] 
 type: geo-Region
 title: Tillabéri
@@ -40,10 +40,11 @@ markerFolder: ./Tillabéri/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Africa/Niger/Counties/Tillabéri.md|Tillabéri]] 
-- [[../../../../_internal/geo/Continent/Africa/Niger/Counties/Tillabéri.internal|Tillabéri.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Niger/Counties/Tillabéri.protect|Tillabéri.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Niger/Counties/Tillabéri.private|Tillabéri.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Niger/Counties/Tillabéri.personal|Tillabéri.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Niger/Counties/Tillabéri.secret|Tillabéri.secret]] 
+- [[../../../../../../_Standards/geo/Continent/Africa/Niger/Counties/Tillabéri|Tillabéri]] 
+- [[../../../../../../_public/geo/Continent/Africa/Niger/Counties/Tillabéri.public|Tillabéri.public]] 
+- [[../../../../../../_internal/geo/Continent/Africa/Niger/Counties/Tillabéri.internal|Tillabéri.internal]] 
+- [[../../../../../../_protect/geo/Continent/Africa/Niger/Counties/Tillabéri.protect|Tillabéri.protect]] 
+- [[../../../../../../_private/geo/Continent/Africa/Niger/Counties/Tillabéri.private|Tillabéri.private]] 
+- [[../../../../../../_personal/geo/Continent/Africa/Niger/Counties/Tillabéri.personal|Tillabéri.personal]] 
+- [[../../../../../../_secret/geo/Continent/Africa/Niger/Counties/Tillabéri.secret|Tillabéri.secret]] 
 

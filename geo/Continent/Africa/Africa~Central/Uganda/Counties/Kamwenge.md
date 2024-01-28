@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 0.2 , 30.5 ] 
 type: geo-Region
 title: Kamwenge
@@ -40,10 +40,11 @@ markerFolder: ./Kamwenge/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Africa/Uganda/Counties/Kamwenge.md|Kamwenge]] 
-- [[../../../../_internal/geo/Continent/Africa/Uganda/Counties/Kamwenge.internal|Kamwenge.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Uganda/Counties/Kamwenge.protect|Kamwenge.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Uganda/Counties/Kamwenge.private|Kamwenge.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Uganda/Counties/Kamwenge.personal|Kamwenge.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Uganda/Counties/Kamwenge.secret|Kamwenge.secret]] 
+- [[../../../../../../_Standards/geo/Continent/Africa/Uganda/Counties/Kamwenge|Kamwenge]] 
+- [[../../../../../../_public/geo/Continent/Africa/Uganda/Counties/Kamwenge.public|Kamwenge.public]] 
+- [[../../../../../../_internal/geo/Continent/Africa/Uganda/Counties/Kamwenge.internal|Kamwenge.internal]] 
+- [[../../../../../../_protect/geo/Continent/Africa/Uganda/Counties/Kamwenge.protect|Kamwenge.protect]] 
+- [[../../../../../../_private/geo/Continent/Africa/Uganda/Counties/Kamwenge.private|Kamwenge.private]] 
+- [[../../../../../../_personal/geo/Continent/Africa/Uganda/Counties/Kamwenge.personal|Kamwenge.personal]] 
+- [[../../../../../../_secret/geo/Continent/Africa/Uganda/Counties/Kamwenge.secret|Kamwenge.secret]] 
 

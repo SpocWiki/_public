@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ -34.5 , -56 ] 
 type: geo-Region
 title: Canelones
@@ -40,10 +40,11 @@ markerFolder: ./Canelones/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/America~South/Uruguay/Counties/Canelones.md|Canelones]] 
-- [[../../../../_internal/geo/Continent/America~South/Uruguay/Counties/Canelones.internal|Canelones.internal]] 
-- [[../../../../_protect/geo/Continent/America~South/Uruguay/Counties/Canelones.protect|Canelones.protect]] 
-- [[../../../../_private/geo/Continent/America~South/Uruguay/Counties/Canelones.private|Canelones.private]] 
-- [[../../../../_personal/geo/Continent/America~South/Uruguay/Counties/Canelones.personal|Canelones.personal]] 
-- [[../../../../_secret/geo/Continent/America~South/Uruguay/Counties/Canelones.secret|Canelones.secret]] 
+- [[../../../../../../_Standards/geo/Continent/America~South/Uruguay/Counties/Canelones|Canelones]] 
+- [[../../../../../../_public/geo/Continent/America~South/Uruguay/Counties/Canelones.public|Canelones.public]] 
+- [[../../../../../../_internal/geo/Continent/America~South/Uruguay/Counties/Canelones.internal|Canelones.internal]] 
+- [[../../../../../../_protect/geo/Continent/America~South/Uruguay/Counties/Canelones.protect|Canelones.protect]] 
+- [[../../../../../../_private/geo/Continent/America~South/Uruguay/Counties/Canelones.private|Canelones.private]] 
+- [[../../../../../../_personal/geo/Continent/America~South/Uruguay/Counties/Canelones.personal|Canelones.personal]] 
+- [[../../../../../../_secret/geo/Continent/America~South/Uruguay/Counties/Canelones.secret|Canelones.secret]] 
 

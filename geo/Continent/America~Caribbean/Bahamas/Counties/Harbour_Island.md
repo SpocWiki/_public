@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 25.55 , -76.77 ] 
 type: geo-Region
 title: Harbour_Island
@@ -40,10 +40,11 @@ markerFolder: ./Harbour_Island/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/America~Caribbean/Bahamas/Counties/Harbour_Island.md|Harbour_Island]] 
-- [[../../../../_internal/geo/Continent/America~Caribbean/Bahamas/Counties/Harbour_Island.internal|Harbour_Island.internal]] 
-- [[../../../../_protect/geo/Continent/America~Caribbean/Bahamas/Counties/Harbour_Island.protect|Harbour_Island.protect]] 
-- [[../../../../_private/geo/Continent/America~Caribbean/Bahamas/Counties/Harbour_Island.private|Harbour_Island.private]] 
-- [[../../../../_personal/geo/Continent/America~Caribbean/Bahamas/Counties/Harbour_Island.personal|Harbour_Island.personal]] 
-- [[../../../../_secret/geo/Continent/America~Caribbean/Bahamas/Counties/Harbour_Island.secret|Harbour_Island.secret]] 
+- [[../../../../../../_Standards/geo/Continent/America~Caribbean/Bahamas/Counties/Harbour_Island|Harbour_Island]] 
+- [[../../../../../../_public/geo/Continent/America~Caribbean/Bahamas/Counties/Harbour_Island.public|Harbour_Island.public]] 
+- [[../../../../../../_internal/geo/Continent/America~Caribbean/Bahamas/Counties/Harbour_Island.internal|Harbour_Island.internal]] 
+- [[../../../../../../_protect/geo/Continent/America~Caribbean/Bahamas/Counties/Harbour_Island.protect|Harbour_Island.protect]] 
+- [[../../../../../../_private/geo/Continent/America~Caribbean/Bahamas/Counties/Harbour_Island.private|Harbour_Island.private]] 
+- [[../../../../../../_personal/geo/Continent/America~Caribbean/Bahamas/Counties/Harbour_Island.personal|Harbour_Island.personal]] 
+- [[../../../../../../_secret/geo/Continent/America~Caribbean/Bahamas/Counties/Harbour_Island.secret|Harbour_Island.secret]] 
 

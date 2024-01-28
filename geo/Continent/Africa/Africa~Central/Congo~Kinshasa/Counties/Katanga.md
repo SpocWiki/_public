@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ -9.2 , 25.1 ] 
 type: geo-Region
 title: Katanga
@@ -40,10 +40,11 @@ markerFolder: ./Katanga/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Africa/Congo~Kinshasa/Counties/Katanga.md|Katanga]] 
-- [[../../../../_internal/geo/Continent/Africa/Congo~Kinshasa/Counties/Katanga.internal|Katanga.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Congo~Kinshasa/Counties/Katanga.protect|Katanga.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Congo~Kinshasa/Counties/Katanga.private|Katanga.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Congo~Kinshasa/Counties/Katanga.personal|Katanga.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Congo~Kinshasa/Counties/Katanga.secret|Katanga.secret]] 
+- [[../../../../../../_Standards/geo/Continent/Africa/Congo~Kinshasa/Counties/Katanga|Katanga]] 
+- [[../../../../../../_public/geo/Continent/Africa/Congo~Kinshasa/Counties/Katanga.public|Katanga.public]] 
+- [[../../../../../../_internal/geo/Continent/Africa/Congo~Kinshasa/Counties/Katanga.internal|Katanga.internal]] 
+- [[../../../../../../_protect/geo/Continent/Africa/Congo~Kinshasa/Counties/Katanga.protect|Katanga.protect]] 
+- [[../../../../../../_private/geo/Continent/Africa/Congo~Kinshasa/Counties/Katanga.private|Katanga.private]] 
+- [[../../../../../../_personal/geo/Continent/Africa/Congo~Kinshasa/Counties/Katanga.personal|Katanga.personal]] 
+- [[../../../../../../_secret/geo/Continent/Africa/Congo~Kinshasa/Counties/Katanga.secret|Katanga.secret]] 
 

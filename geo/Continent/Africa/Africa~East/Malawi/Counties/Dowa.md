@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ -13.54 , 33.79 ] 
 type: geo-Region
 title: Dowa
@@ -40,10 +40,11 @@ markerFolder: ./Dowa/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Africa/Malawi/Counties/Dowa.md|Dowa]] 
-- [[../../../../_internal/geo/Continent/Africa/Malawi/Counties/Dowa.internal|Dowa.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Malawi/Counties/Dowa.protect|Dowa.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Malawi/Counties/Dowa.private|Dowa.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Malawi/Counties/Dowa.personal|Dowa.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Malawi/Counties/Dowa.secret|Dowa.secret]] 
+- [[../../../../../../_Standards/geo/Continent/Africa/Malawi/Counties/Dowa|Dowa]] 
+- [[../../../../../../_public/geo/Continent/Africa/Malawi/Counties/Dowa.public|Dowa.public]] 
+- [[../../../../../../_internal/geo/Continent/Africa/Malawi/Counties/Dowa.internal|Dowa.internal]] 
+- [[../../../../../../_protect/geo/Continent/Africa/Malawi/Counties/Dowa.protect|Dowa.protect]] 
+- [[../../../../../../_private/geo/Continent/Africa/Malawi/Counties/Dowa.private|Dowa.private]] 
+- [[../../../../../../_personal/geo/Continent/Africa/Malawi/Counties/Dowa.personal|Dowa.personal]] 
+- [[../../../../../../_secret/geo/Continent/Africa/Malawi/Counties/Dowa.secret|Dowa.secret]] 
 

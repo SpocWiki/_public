@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ -4.63 , 55.4 ] 
 type: geo-Region
 title: Bel_Ombre
@@ -40,10 +40,11 @@ markerFolder: ./Bel_Ombre/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Africa/Seychelles/Counties/Bel_Ombre.md|Bel_Ombre]] 
-- [[../../../../_internal/geo/Continent/Africa/Seychelles/Counties/Bel_Ombre.internal|Bel_Ombre.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Seychelles/Counties/Bel_Ombre.protect|Bel_Ombre.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Seychelles/Counties/Bel_Ombre.private|Bel_Ombre.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Seychelles/Counties/Bel_Ombre.personal|Bel_Ombre.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Seychelles/Counties/Bel_Ombre.secret|Bel_Ombre.secret]] 
+- [[../../../../../../_Standards/geo/Continent/Africa/Seychelles/Counties/Bel_Ombre|Bel_Ombre]] 
+- [[../../../../../../_public/geo/Continent/Africa/Seychelles/Counties/Bel_Ombre.public|Bel_Ombre.public]] 
+- [[../../../../../../_internal/geo/Continent/Africa/Seychelles/Counties/Bel_Ombre.internal|Bel_Ombre.internal]] 
+- [[../../../../../../_protect/geo/Continent/Africa/Seychelles/Counties/Bel_Ombre.protect|Bel_Ombre.protect]] 
+- [[../../../../../../_private/geo/Continent/Africa/Seychelles/Counties/Bel_Ombre.private|Bel_Ombre.private]] 
+- [[../../../../../../_personal/geo/Continent/Africa/Seychelles/Counties/Bel_Ombre.personal|Bel_Ombre.personal]] 
+- [[../../../../../../_secret/geo/Continent/Africa/Seychelles/Counties/Bel_Ombre.secret|Bel_Ombre.secret]] 
 

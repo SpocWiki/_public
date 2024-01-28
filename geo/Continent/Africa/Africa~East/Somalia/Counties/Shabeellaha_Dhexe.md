@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 3 , 45.9 ] 
 type: geo-Region
 title: Shabeellaha_Dhexe
@@ -40,10 +40,11 @@ markerFolder: ./Shabeellaha_Dhexe/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Africa/Somalia/Counties/Shabeellaha_Dhexe.md|Shabeellaha_Dhexe]] 
-- [[../../../../_internal/geo/Continent/Africa/Somalia/Counties/Shabeellaha_Dhexe.internal|Shabeellaha_Dhexe.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Somalia/Counties/Shabeellaha_Dhexe.protect|Shabeellaha_Dhexe.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Somalia/Counties/Shabeellaha_Dhexe.private|Shabeellaha_Dhexe.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Somalia/Counties/Shabeellaha_Dhexe.personal|Shabeellaha_Dhexe.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Somalia/Counties/Shabeellaha_Dhexe.secret|Shabeellaha_Dhexe.secret]] 
+- [[../../../../../../_Standards/geo/Continent/Africa/Somalia/Counties/Shabeellaha_Dhexe|Shabeellaha_Dhexe]] 
+- [[../../../../../../_public/geo/Continent/Africa/Somalia/Counties/Shabeellaha_Dhexe.public|Shabeellaha_Dhexe.public]] 
+- [[../../../../../../_internal/geo/Continent/Africa/Somalia/Counties/Shabeellaha_Dhexe.internal|Shabeellaha_Dhexe.internal]] 
+- [[../../../../../../_protect/geo/Continent/Africa/Somalia/Counties/Shabeellaha_Dhexe.protect|Shabeellaha_Dhexe.protect]] 
+- [[../../../../../../_private/geo/Continent/Africa/Somalia/Counties/Shabeellaha_Dhexe.private|Shabeellaha_Dhexe.private]] 
+- [[../../../../../../_personal/geo/Continent/Africa/Somalia/Counties/Shabeellaha_Dhexe.personal|Shabeellaha_Dhexe.personal]] 
+- [[../../../../../../_secret/geo/Continent/Africa/Somalia/Counties/Shabeellaha_Dhexe.secret|Shabeellaha_Dhexe.secret]] 
 

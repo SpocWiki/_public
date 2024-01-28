@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 1 , 33.8 ] 
 type: geo-Region
 title: Kibuku
@@ -40,10 +40,11 @@ markerFolder: ./Kibuku/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Africa/Uganda/Counties/Kibuku.md|Kibuku]] 
-- [[../../../../_internal/geo/Continent/Africa/Uganda/Counties/Kibuku.internal|Kibuku.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Uganda/Counties/Kibuku.protect|Kibuku.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Uganda/Counties/Kibuku.private|Kibuku.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Uganda/Counties/Kibuku.personal|Kibuku.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Uganda/Counties/Kibuku.secret|Kibuku.secret]] 
+- [[../../../../../../_Standards/geo/Continent/Africa/Uganda/Counties/Kibuku|Kibuku]] 
+- [[../../../../../../_public/geo/Continent/Africa/Uganda/Counties/Kibuku.public|Kibuku.public]] 
+- [[../../../../../../_internal/geo/Continent/Africa/Uganda/Counties/Kibuku.internal|Kibuku.internal]] 
+- [[../../../../../../_protect/geo/Continent/Africa/Uganda/Counties/Kibuku.protect|Kibuku.protect]] 
+- [[../../../../../../_private/geo/Continent/Africa/Uganda/Counties/Kibuku.private|Kibuku.private]] 
+- [[../../../../../../_personal/geo/Continent/Africa/Uganda/Counties/Kibuku.personal|Kibuku.personal]] 
+- [[../../../../../../_secret/geo/Continent/Africa/Uganda/Counties/Kibuku.secret|Kibuku.secret]] 
 

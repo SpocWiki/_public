@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 10.5 , -9.9 ] 
 type: geo-Region
 title: Kouroussa
@@ -40,10 +40,11 @@ markerFolder: ./Kouroussa/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Africa/Guinea/Counties/Kouroussa.md|Kouroussa]] 
-- [[../../../../_internal/geo/Continent/Africa/Guinea/Counties/Kouroussa.internal|Kouroussa.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Guinea/Counties/Kouroussa.protect|Kouroussa.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Guinea/Counties/Kouroussa.private|Kouroussa.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Guinea/Counties/Kouroussa.personal|Kouroussa.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Guinea/Counties/Kouroussa.secret|Kouroussa.secret]] 
+- [[../../../../../../_Standards/geo/Continent/Africa/Guinea/Counties/Kouroussa|Kouroussa]] 
+- [[../../../../../../_public/geo/Continent/Africa/Guinea/Counties/Kouroussa.public|Kouroussa.public]] 
+- [[../../../../../../_internal/geo/Continent/Africa/Guinea/Counties/Kouroussa.internal|Kouroussa.internal]] 
+- [[../../../../../../_protect/geo/Continent/Africa/Guinea/Counties/Kouroussa.protect|Kouroussa.protect]] 
+- [[../../../../../../_private/geo/Continent/Africa/Guinea/Counties/Kouroussa.private|Kouroussa.private]] 
+- [[../../../../../../_personal/geo/Continent/Africa/Guinea/Counties/Kouroussa.personal|Kouroussa.personal]] 
+- [[../../../../../../_secret/geo/Continent/Africa/Guinea/Counties/Kouroussa.secret|Kouroussa.secret]] 
 

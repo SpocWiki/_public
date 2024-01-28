@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 10.1 , -61.6 ] 
 type: geo-Region
 title: Siparia
@@ -40,10 +40,11 @@ markerFolder: ./Siparia/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/America~Caribbean/Trinidad_and_Tobago~Islands/Counties/Siparia.md|Siparia]] 
-- [[../../../../_internal/geo/Continent/America~Caribbean/Trinidad_and_Tobago~Islands/Counties/Siparia.internal|Siparia.internal]] 
-- [[../../../../_protect/geo/Continent/America~Caribbean/Trinidad_and_Tobago~Islands/Counties/Siparia.protect|Siparia.protect]] 
-- [[../../../../_private/geo/Continent/America~Caribbean/Trinidad_and_Tobago~Islands/Counties/Siparia.private|Siparia.private]] 
-- [[../../../../_personal/geo/Continent/America~Caribbean/Trinidad_and_Tobago~Islands/Counties/Siparia.personal|Siparia.personal]] 
-- [[../../../../_secret/geo/Continent/America~Caribbean/Trinidad_and_Tobago~Islands/Counties/Siparia.secret|Siparia.secret]] 
+- [[../../../../../../_Standards/geo/Continent/America~Caribbean/Trinidad_and_Tobago~Islands/Counties/Siparia|Siparia]] 
+- [[../../../../../../_public/geo/Continent/America~Caribbean/Trinidad_and_Tobago~Islands/Counties/Siparia.public|Siparia.public]] 
+- [[../../../../../../_internal/geo/Continent/America~Caribbean/Trinidad_and_Tobago~Islands/Counties/Siparia.internal|Siparia.internal]] 
+- [[../../../../../../_protect/geo/Continent/America~Caribbean/Trinidad_and_Tobago~Islands/Counties/Siparia.protect|Siparia.protect]] 
+- [[../../../../../../_private/geo/Continent/America~Caribbean/Trinidad_and_Tobago~Islands/Counties/Siparia.private|Siparia.private]] 
+- [[../../../../../../_personal/geo/Continent/America~Caribbean/Trinidad_and_Tobago~Islands/Counties/Siparia.personal|Siparia.personal]] 
+- [[../../../../../../_secret/geo/Continent/America~Caribbean/Trinidad_and_Tobago~Islands/Counties/Siparia.secret|Siparia.secret]] 
 

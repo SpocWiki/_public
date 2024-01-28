@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ -26.5 , 31.9 ] 
 type: geo-Region
 title: Lubombo
@@ -40,10 +40,11 @@ markerFolder: ./Lubombo/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Africa/Swaziland/Counties/Lubombo.md|Lubombo]] 
-- [[../../../../_internal/geo/Continent/Africa/Swaziland/Counties/Lubombo.internal|Lubombo.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Swaziland/Counties/Lubombo.protect|Lubombo.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Swaziland/Counties/Lubombo.private|Lubombo.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Swaziland/Counties/Lubombo.personal|Lubombo.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Swaziland/Counties/Lubombo.secret|Lubombo.secret]] 
+- [[../../../../../../_Standards/geo/Continent/Africa/Swaziland/Counties/Lubombo|Lubombo]] 
+- [[../../../../../../_public/geo/Continent/Africa/Swaziland/Counties/Lubombo.public|Lubombo.public]] 
+- [[../../../../../../_internal/geo/Continent/Africa/Swaziland/Counties/Lubombo.internal|Lubombo.internal]] 
+- [[../../../../../../_protect/geo/Continent/Africa/Swaziland/Counties/Lubombo.protect|Lubombo.protect]] 
+- [[../../../../../../_private/geo/Continent/Africa/Swaziland/Counties/Lubombo.private|Lubombo.private]] 
+- [[../../../../../../_personal/geo/Continent/Africa/Swaziland/Counties/Lubombo.personal|Lubombo.personal]] 
+- [[../../../../../../_secret/geo/Continent/Africa/Swaziland/Counties/Lubombo.secret|Lubombo.secret]] 
 

@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ -16 , -72.4 ] 
 type: geo-Region
 title: Arequipa
@@ -40,10 +40,11 @@ markerFolder: ./Arequipa/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/America~South/Peru/Counties/Arequipa.md|Arequipa]] 
-- [[../../../../_internal/geo/Continent/America~South/Peru/Counties/Arequipa.internal|Arequipa.internal]] 
-- [[../../../../_protect/geo/Continent/America~South/Peru/Counties/Arequipa.protect|Arequipa.protect]] 
-- [[../../../../_private/geo/Continent/America~South/Peru/Counties/Arequipa.private|Arequipa.private]] 
-- [[../../../../_personal/geo/Continent/America~South/Peru/Counties/Arequipa.personal|Arequipa.personal]] 
-- [[../../../../_secret/geo/Continent/America~South/Peru/Counties/Arequipa.secret|Arequipa.secret]] 
+- [[../../../../../../_Standards/geo/Continent/America~South/Peru/Counties/Arequipa|Arequipa]] 
+- [[../../../../../../_public/geo/Continent/America~South/Peru/Counties/Arequipa.public|Arequipa.public]] 
+- [[../../../../../../_internal/geo/Continent/America~South/Peru/Counties/Arequipa.internal|Arequipa.internal]] 
+- [[../../../../../../_protect/geo/Continent/America~South/Peru/Counties/Arequipa.protect|Arequipa.protect]] 
+- [[../../../../../../_private/geo/Continent/America~South/Peru/Counties/Arequipa.private|Arequipa.private]] 
+- [[../../../../../../_personal/geo/Continent/America~South/Peru/Counties/Arequipa.personal|Arequipa.personal]] 
+- [[../../../../../../_secret/geo/Continent/America~South/Peru/Counties/Arequipa.secret|Arequipa.secret]] 
 

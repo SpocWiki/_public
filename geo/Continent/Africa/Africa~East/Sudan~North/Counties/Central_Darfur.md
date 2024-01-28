@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 12.2 , 23.3 ] 
 type: geo-Region
 title: Central_Darfur
@@ -40,10 +40,11 @@ markerFolder: ./Central_Darfur/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Africa/Sudan/Counties/Central_Darfur.md|Central_Darfur]] 
-- [[../../../../_internal/geo/Continent/Africa/Sudan/Counties/Central_Darfur.internal|Central_Darfur.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Sudan/Counties/Central_Darfur.protect|Central_Darfur.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Sudan/Counties/Central_Darfur.private|Central_Darfur.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Sudan/Counties/Central_Darfur.personal|Central_Darfur.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Sudan/Counties/Central_Darfur.secret|Central_Darfur.secret]] 
+- [[../../../../../../_Standards/geo/Continent/Africa/Sudan/Counties/Central_Darfur|Central_Darfur]] 
+- [[../../../../../../_public/geo/Continent/Africa/Sudan/Counties/Central_Darfur.public|Central_Darfur.public]] 
+- [[../../../../../../_internal/geo/Continent/Africa/Sudan/Counties/Central_Darfur.internal|Central_Darfur.internal]] 
+- [[../../../../../../_protect/geo/Continent/Africa/Sudan/Counties/Central_Darfur.protect|Central_Darfur.protect]] 
+- [[../../../../../../_private/geo/Continent/Africa/Sudan/Counties/Central_Darfur.private|Central_Darfur.private]] 
+- [[../../../../../../_personal/geo/Continent/Africa/Sudan/Counties/Central_Darfur.personal|Central_Darfur.personal]] 
+- [[../../../../../../_secret/geo/Continent/Africa/Sudan/Counties/Central_Darfur.secret|Central_Darfur.secret]] 
 

@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 31.3 , 30.9 ] 
 type: geo-Region
 title: Kafr_ash_Shaykh
@@ -40,10 +40,11 @@ markerFolder: ./Kafr_ash_Shaykh/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Africa/Egypt/Counties/Kafr_ash_Shaykh.md|Kafr_ash_Shaykh]] 
-- [[../../../../_internal/geo/Continent/Africa/Egypt/Counties/Kafr_ash_Shaykh.internal|Kafr_ash_Shaykh.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Egypt/Counties/Kafr_ash_Shaykh.protect|Kafr_ash_Shaykh.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Egypt/Counties/Kafr_ash_Shaykh.private|Kafr_ash_Shaykh.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Egypt/Counties/Kafr_ash_Shaykh.personal|Kafr_ash_Shaykh.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Egypt/Counties/Kafr_ash_Shaykh.secret|Kafr_ash_Shaykh.secret]] 
+- [[../../../../../../_Standards/geo/Continent/Africa/Egypt/Counties/Kafr_ash_Shaykh|Kafr_ash_Shaykh]] 
+- [[../../../../../../_public/geo/Continent/Africa/Egypt/Counties/Kafr_ash_Shaykh.public|Kafr_ash_Shaykh.public]] 
+- [[../../../../../../_internal/geo/Continent/Africa/Egypt/Counties/Kafr_ash_Shaykh.internal|Kafr_ash_Shaykh.internal]] 
+- [[../../../../../../_protect/geo/Continent/Africa/Egypt/Counties/Kafr_ash_Shaykh.protect|Kafr_ash_Shaykh.protect]] 
+- [[../../../../../../_private/geo/Continent/Africa/Egypt/Counties/Kafr_ash_Shaykh.private|Kafr_ash_Shaykh.private]] 
+- [[../../../../../../_personal/geo/Continent/Africa/Egypt/Counties/Kafr_ash_Shaykh.personal|Kafr_ash_Shaykh.personal]] 
+- [[../../../../../../_secret/geo/Continent/Africa/Egypt/Counties/Kafr_ash_Shaykh.secret|Kafr_ash_Shaykh.secret]] 
 

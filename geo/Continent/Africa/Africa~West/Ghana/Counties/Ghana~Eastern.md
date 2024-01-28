@@ -40,10 +40,11 @@ markerFolder: ./Ghana~Eastern/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Africa/Ghana/Counties/Ghana~Eastern.md|Ghana~Eastern]] 
-- [[../../../../_internal/geo/Continent/Africa/Ghana/Counties/Ghana~Eastern.internal|Ghana~Eastern.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Ghana/Counties/Ghana~Eastern.protect|Ghana~Eastern.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Ghana/Counties/Ghana~Eastern.private|Ghana~Eastern.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Ghana/Counties/Ghana~Eastern.personal|Ghana~Eastern.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Ghana/Counties/Ghana~Eastern.secret|Ghana~Eastern.secret]] 
+- [[../../../../../../_Standards/geo/Continent/Africa/Ghana/Counties/Ghana~Eastern|Ghana~Eastern]] 
+- [[../../../../../../_public/geo/Continent/Africa/Ghana/Counties/Ghana~Eastern.public|Ghana~Eastern.public]] 
+- [[../../../../../../_internal/geo/Continent/Africa/Ghana/Counties/Ghana~Eastern.internal|Ghana~Eastern.internal]] 
+- [[../../../../../../_protect/geo/Continent/Africa/Ghana/Counties/Ghana~Eastern.protect|Ghana~Eastern.protect]] 
+- [[../../../../../../_private/geo/Continent/Africa/Ghana/Counties/Ghana~Eastern.private|Ghana~Eastern.private]] 
+- [[../../../../../../_personal/geo/Continent/Africa/Ghana/Counties/Ghana~Eastern.personal|Ghana~Eastern.personal]] 
+- [[../../../../../../_secret/geo/Continent/Africa/Ghana/Counties/Ghana~Eastern.secret|Ghana~Eastern.secret]] 
 

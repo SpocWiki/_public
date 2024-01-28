@@ -1,5 +1,5 @@
 ﻿---
-location: [-22.57,17.1]
+location: [-22.57,17.1] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,27 +12,28 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::17.1]
-[geo-lat::-22.57]
-[name::Windhoek]
-[State::]
-[Country::[[Namibia]]]
-[StateId::]
-[Population::]
-[Unknown::]
+[geo-lon::17.1] 
+[geo-lat::-22.57] 
+[name::Windhoek] 
+State ::  
+Country :: [[Namibia]]  
+[StateId::] 
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Windhoek
-coordinates: [[Windhoek]]
-markerFile: [[Windhoek]]
+coordinates: [[Windhoek]] 
+markerFile: [[Windhoek]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_public/geo/Continent/Africa/Namibia/City/Windhoek.md|Windhoek]] 
+- [[../../../../../../_Standards/geo/Continent/Africa/Namibia/City/Windhoek|Windhoek]] 
+- [[../../../../../../_public/geo/Continent/Africa/Namibia/City/Windhoek.public|Windhoek.public]] 
 - [[../../../../../../_internal/geo/Continent/Africa/Namibia/City/Windhoek.internal|Windhoek.internal]] 
 - [[../../../../../../_protect/geo/Continent/Africa/Namibia/City/Windhoek.protect|Windhoek.protect]] 
 - [[../../../../../../_private/geo/Continent/Africa/Namibia/City/Windhoek.private|Windhoek.private]] 

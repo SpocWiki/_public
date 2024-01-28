@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 9.58954498905662 , -4.385498046875 ] 
 type: geo-Region
 title: Komoé
@@ -40,10 +40,11 @@ markerFolder: ./Komoé/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Africa/Burkina_Faso/Counties/Komoé.md|Komoé]] 
-- [[../../../../_internal/geo/Continent/Africa/Burkina_Faso/Counties/Komoé.internal|Komoé.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Burkina_Faso/Counties/Komoé.protect|Komoé.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Burkina_Faso/Counties/Komoé.private|Komoé.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Burkina_Faso/Counties/Komoé.personal|Komoé.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Burkina_Faso/Counties/Komoé.secret|Komoé.secret]] 
+- [[../../../../../../_Standards/geo/Continent/Africa/Burkina_Faso/Counties/Komoé|Komoé]] 
+- [[../../../../../../_public/geo/Continent/Africa/Burkina_Faso/Counties/Komoé.public|Komoé.public]] 
+- [[../../../../../../_internal/geo/Continent/Africa/Burkina_Faso/Counties/Komoé.internal|Komoé.internal]] 
+- [[../../../../../../_protect/geo/Continent/Africa/Burkina_Faso/Counties/Komoé.protect|Komoé.protect]] 
+- [[../../../../../../_private/geo/Continent/Africa/Burkina_Faso/Counties/Komoé.private|Komoé.private]] 
+- [[../../../../../../_personal/geo/Continent/Africa/Burkina_Faso/Counties/Komoé.personal|Komoé.personal]] 
+- [[../../../../../../_secret/geo/Continent/Africa/Burkina_Faso/Counties/Komoé.secret|Komoé.secret]] 
 

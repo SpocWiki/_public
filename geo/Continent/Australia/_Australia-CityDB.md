@@ -342,7 +342,8 @@ filters:
 ```
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Australia/_Australia-CityDB.md|_Australia-CityDB]] 
+- [[../../../../_Standards/geo/Continent/Australia/_Australia-CityDB|_Australia-CityDB]] 
+- [[../../../../_public/geo/Continent/Australia/_Australia-CityDB.public|_Australia-CityDB.public]] 
 - [[../../../../_internal/geo/Continent/Australia/_Australia-CityDB.internal|_Australia-CityDB.internal]] 
 - [[../../../../_protect/geo/Continent/Australia/_Australia-CityDB.protect|_Australia-CityDB.protect]] 
 - [[../../../../_private/geo/Continent/Australia/_Australia-CityDB.private|_Australia-CityDB.private]] 

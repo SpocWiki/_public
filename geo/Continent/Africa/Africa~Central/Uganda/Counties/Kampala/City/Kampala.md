@@ -1,5 +1,5 @@
 ﻿---
-location: [0.3136111,32.58111]
+location: [0.3136111,32.58111] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,27 +12,28 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::32.58111]
-[geo-lat::0.3136111]
-[name::Kampala]
-[State::]
-[Country::[[Uganda]]]
-[StateId::]
-[Population::]
-[Unknown::32]
+[geo-lon::32.58111] 
+[geo-lat::0.3136111] 
+[name::Kampala] 
+State ::  
+Country :: [[Uganda]]  
+[StateId::] 
+[Population::] 
+[Unknown::32] 
 
 
 ```leaflet
 id: Kampala
-coordinates: [[Kampala]]
-markerFile: [[Kampala]]
+coordinates: [[Kampala]] 
+markerFile: [[Kampala]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_public/geo/Continent/Africa/Uganda/City/Kampala.md|Kampala]] 
+- [[../../../../../../_Standards/geo/Continent/Africa/Uganda/City/Kampala|Kampala]] 
+- [[../../../../../../_public/geo/Continent/Africa/Uganda/City/Kampala.public|Kampala.public]] 
 - [[../../../../../../_internal/geo/Continent/Africa/Uganda/City/Kampala.internal|Kampala.internal]] 
 - [[../../../../../../_protect/geo/Continent/Africa/Uganda/City/Kampala.protect|Kampala.protect]] 
 - [[../../../../../../_private/geo/Continent/Africa/Uganda/City/Kampala.private|Kampala.private]] 

@@ -1,5 +1,5 @@
 ---
-location: [12.05,-61.75]
+location: [12.05,-61.75] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,20 +12,20 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::-61.75]
-[geo-lat::12.05]
-[name::St. George’s]
-[State::]
-[Country::[[../../Grenada]]]
-[StateId::]
-[Population::]
-[Unknown::32]
+[geo-lon::-61.75] 
+[geo-lat::12.05] 
+[name::St. George’s] 
+State ::  
+Country :: [[../../Grenada]]  
+[StateId::] 
+[Population::] 
+[Unknown::32] 
 
 
 ```leaflet
 id: St. George’s
-coordinates: [[St._George’s]]
-markerFile: [[St._George’s]]
+coordinates: [[St._George’s]] 
+markerFile: [[St._George’s]] 
 defaultZoom: 11 
 maxZoom: 18
 ```

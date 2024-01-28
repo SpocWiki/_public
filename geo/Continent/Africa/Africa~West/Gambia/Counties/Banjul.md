@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 13.4 , -16.7 ] 
 type: geo-Region
 title: Banjul
@@ -40,10 +40,11 @@ markerFolder: ./Banjul/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Africa/Gambia/Counties/Banjul.md|Banjul]] 
-- [[../../../../_internal/geo/Continent/Africa/Gambia/Counties/Banjul.internal|Banjul.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Gambia/Counties/Banjul.protect|Banjul.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Gambia/Counties/Banjul.private|Banjul.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Gambia/Counties/Banjul.personal|Banjul.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Gambia/Counties/Banjul.secret|Banjul.secret]] 
+- [[../../../../../../_Standards/geo/Continent/Africa/Gambia/Counties/Banjul|Banjul]] 
+- [[../../../../../../_public/geo/Continent/Africa/Gambia/Counties/Banjul.public|Banjul.public]] 
+- [[../../../../../../_internal/geo/Continent/Africa/Gambia/Counties/Banjul.internal|Banjul.internal]] 
+- [[../../../../../../_protect/geo/Continent/Africa/Gambia/Counties/Banjul.protect|Banjul.protect]] 
+- [[../../../../../../_private/geo/Continent/Africa/Gambia/Counties/Banjul.private|Banjul.private]] 
+- [[../../../../../../_personal/geo/Continent/Africa/Gambia/Counties/Banjul.personal|Banjul.personal]] 
+- [[../../../../../../_secret/geo/Continent/Africa/Gambia/Counties/Banjul.secret|Banjul.secret]] 
 

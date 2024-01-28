@@ -40,10 +40,11 @@ markerFolder: ./Ghana~Upper_West/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Africa/Ghana/Counties/Ghana~Upper_West.md|Ghana~Upper_West]] 
-- [[../../../../_internal/geo/Continent/Africa/Ghana/Counties/Ghana~Upper_West.internal|Ghana~Upper_West.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Ghana/Counties/Ghana~Upper_West.protect|Ghana~Upper_West.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Ghana/Counties/Ghana~Upper_West.private|Ghana~Upper_West.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Ghana/Counties/Ghana~Upper_West.personal|Ghana~Upper_West.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Ghana/Counties/Ghana~Upper_West.secret|Ghana~Upper_West.secret]] 
+- [[../../../../../../_Standards/geo/Continent/Africa/Ghana/Counties/Ghana~Upper_West|Ghana~Upper_West]] 
+- [[../../../../../../_public/geo/Continent/Africa/Ghana/Counties/Ghana~Upper_West.public|Ghana~Upper_West.public]] 
+- [[../../../../../../_internal/geo/Continent/Africa/Ghana/Counties/Ghana~Upper_West.internal|Ghana~Upper_West.internal]] 
+- [[../../../../../../_protect/geo/Continent/Africa/Ghana/Counties/Ghana~Upper_West.protect|Ghana~Upper_West.protect]] 
+- [[../../../../../../_private/geo/Continent/Africa/Ghana/Counties/Ghana~Upper_West.private|Ghana~Upper_West.private]] 
+- [[../../../../../../_personal/geo/Continent/Africa/Ghana/Counties/Ghana~Upper_West.personal|Ghana~Upper_West.personal]] 
+- [[../../../../../../_secret/geo/Continent/Africa/Ghana/Counties/Ghana~Upper_West.secret|Ghana~Upper_West.secret]] 
 

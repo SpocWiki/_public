@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ -25.21 , 25.68 ] 
 type: geo-Region
 title: Lobatse
@@ -40,10 +40,11 @@ markerFolder: ./Lobatse/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Africa/Botswana/Counties/Lobatse.md|Lobatse]] 
-- [[../../../../_internal/geo/Continent/Africa/Botswana/Counties/Lobatse.internal|Lobatse.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Botswana/Counties/Lobatse.protect|Lobatse.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Botswana/Counties/Lobatse.private|Lobatse.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Botswana/Counties/Lobatse.personal|Lobatse.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Botswana/Counties/Lobatse.secret|Lobatse.secret]] 
+- [[../../../../../../_Standards/geo/Continent/Africa/Botswana/Counties/Lobatse|Lobatse]] 
+- [[../../../../../../_public/geo/Continent/Africa/Botswana/Counties/Lobatse.public|Lobatse.public]] 
+- [[../../../../../../_internal/geo/Continent/Africa/Botswana/Counties/Lobatse.internal|Lobatse.internal]] 
+- [[../../../../../../_protect/geo/Continent/Africa/Botswana/Counties/Lobatse.protect|Lobatse.protect]] 
+- [[../../../../../../_private/geo/Continent/Africa/Botswana/Counties/Lobatse.private|Lobatse.private]] 
+- [[../../../../../../_personal/geo/Continent/Africa/Botswana/Counties/Lobatse.personal|Lobatse.personal]] 
+- [[../../../../../../_secret/geo/Continent/Africa/Botswana/Counties/Lobatse.secret|Lobatse.secret]] 
 

@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 7.1 , -11.1 ] 
 type: geo-Region
 title: Grand_Cape_Mount
@@ -40,10 +40,11 @@ markerFolder: ./Grand_Cape_Mount/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Africa/Liberia/Counties/Grand_Cape_Mount.md|Grand_Cape_Mount]] 
-- [[../../../../_internal/geo/Continent/Africa/Liberia/Counties/Grand_Cape_Mount.internal|Grand_Cape_Mount.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Liberia/Counties/Grand_Cape_Mount.protect|Grand_Cape_Mount.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Liberia/Counties/Grand_Cape_Mount.private|Grand_Cape_Mount.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Liberia/Counties/Grand_Cape_Mount.personal|Grand_Cape_Mount.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Liberia/Counties/Grand_Cape_Mount.secret|Grand_Cape_Mount.secret]] 
+- [[../../../../../../_Standards/geo/Continent/Africa/Liberia/Counties/Grand_Cape_Mount|Grand_Cape_Mount]] 
+- [[../../../../../../_public/geo/Continent/Africa/Liberia/Counties/Grand_Cape_Mount.public|Grand_Cape_Mount.public]] 
+- [[../../../../../../_internal/geo/Continent/Africa/Liberia/Counties/Grand_Cape_Mount.internal|Grand_Cape_Mount.internal]] 
+- [[../../../../../../_protect/geo/Continent/Africa/Liberia/Counties/Grand_Cape_Mount.protect|Grand_Cape_Mount.protect]] 
+- [[../../../../../../_private/geo/Continent/Africa/Liberia/Counties/Grand_Cape_Mount.private|Grand_Cape_Mount.private]] 
+- [[../../../../../../_personal/geo/Continent/Africa/Liberia/Counties/Grand_Cape_Mount.personal|Grand_Cape_Mount.personal]] 
+- [[../../../../../../_secret/geo/Continent/Africa/Liberia/Counties/Grand_Cape_Mount.secret|Grand_Cape_Mount.secret]] 
 

@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 18 , -92.4 ] 
 type: geo-Region
 title: Tabasco
@@ -40,10 +40,11 @@ markerFolder: ./Tabasco/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/America~Central/Mexico/Counties/Tabasco.md|Tabasco]] 
-- [[../../../../_internal/geo/Continent/America~Central/Mexico/Counties/Tabasco.internal|Tabasco.internal]] 
-- [[../../../../_protect/geo/Continent/America~Central/Mexico/Counties/Tabasco.protect|Tabasco.protect]] 
-- [[../../../../_private/geo/Continent/America~Central/Mexico/Counties/Tabasco.private|Tabasco.private]] 
-- [[../../../../_personal/geo/Continent/America~Central/Mexico/Counties/Tabasco.personal|Tabasco.personal]] 
-- [[../../../../_secret/geo/Continent/America~Central/Mexico/Counties/Tabasco.secret|Tabasco.secret]] 
+- [[../../../../../../_Standards/geo/Continent/America~Central/Mexico/Counties/Tabasco|Tabasco]] 
+- [[../../../../../../_public/geo/Continent/America~Central/Mexico/Counties/Tabasco.public|Tabasco.public]] 
+- [[../../../../../../_internal/geo/Continent/America~Central/Mexico/Counties/Tabasco.internal|Tabasco.internal]] 
+- [[../../../../../../_protect/geo/Continent/America~Central/Mexico/Counties/Tabasco.protect|Tabasco.protect]] 
+- [[../../../../../../_private/geo/Continent/America~Central/Mexico/Counties/Tabasco.private|Tabasco.private]] 
+- [[../../../../../../_personal/geo/Continent/America~Central/Mexico/Counties/Tabasco.personal|Tabasco.personal]] 
+- [[../../../../../../_secret/geo/Continent/America~Central/Mexico/Counties/Tabasco.secret|Tabasco.secret]] 
 

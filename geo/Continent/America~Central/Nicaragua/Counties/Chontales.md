@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 12.1 , -85.2 ] 
 type: geo-Region
 title: Chontales
@@ -40,10 +40,11 @@ markerFolder: ./Chontales/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/America~Central/Nicaragua/Counties/Chontales.md|Chontales]] 
-- [[../../../../_internal/geo/Continent/America~Central/Nicaragua/Counties/Chontales.internal|Chontales.internal]] 
-- [[../../../../_protect/geo/Continent/America~Central/Nicaragua/Counties/Chontales.protect|Chontales.protect]] 
-- [[../../../../_private/geo/Continent/America~Central/Nicaragua/Counties/Chontales.private|Chontales.private]] 
-- [[../../../../_personal/geo/Continent/America~Central/Nicaragua/Counties/Chontales.personal|Chontales.personal]] 
-- [[../../../../_secret/geo/Continent/America~Central/Nicaragua/Counties/Chontales.secret|Chontales.secret]] 
+- [[../../../../../../_Standards/geo/Continent/America~Central/Nicaragua/Counties/Chontales|Chontales]] 
+- [[../../../../../../_public/geo/Continent/America~Central/Nicaragua/Counties/Chontales.public|Chontales.public]] 
+- [[../../../../../../_internal/geo/Continent/America~Central/Nicaragua/Counties/Chontales.internal|Chontales.internal]] 
+- [[../../../../../../_protect/geo/Continent/America~Central/Nicaragua/Counties/Chontales.protect|Chontales.protect]] 
+- [[../../../../../../_private/geo/Continent/America~Central/Nicaragua/Counties/Chontales.private|Chontales.private]] 
+- [[../../../../../../_personal/geo/Continent/America~Central/Nicaragua/Counties/Chontales.personal|Chontales.personal]] 
+- [[../../../../../../_secret/geo/Continent/America~Central/Nicaragua/Counties/Chontales.secret|Chontales.secret]] 
 

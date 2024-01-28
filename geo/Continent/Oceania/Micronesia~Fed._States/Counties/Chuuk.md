@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 7.44 , 151.88 ] 
 type: geo-Region
 title: Chuuk
@@ -40,10 +40,11 @@ markerFolder: ./Chuuk/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Oceania/Micronesia~Fed._States/Counties/Chuuk.md|Chuuk]] 
-- [[../../../../_internal/geo/Continent/Oceania/Micronesia~Fed._States/Counties/Chuuk.internal|Chuuk.internal]] 
-- [[../../../../_protect/geo/Continent/Oceania/Micronesia~Fed._States/Counties/Chuuk.protect|Chuuk.protect]] 
-- [[../../../../_private/geo/Continent/Oceania/Micronesia~Fed._States/Counties/Chuuk.private|Chuuk.private]] 
-- [[../../../../_personal/geo/Continent/Oceania/Micronesia~Fed._States/Counties/Chuuk.personal|Chuuk.personal]] 
-- [[../../../../_secret/geo/Continent/Oceania/Micronesia~Fed._States/Counties/Chuuk.secret|Chuuk.secret]] 
+- [[../../../../../../_Standards/geo/Continent/Oceania/Micronesia~Fed._States/Counties/Chuuk|Chuuk]] 
+- [[../../../../../../_public/geo/Continent/Oceania/Micronesia~Fed._States/Counties/Chuuk.public|Chuuk.public]] 
+- [[../../../../../../_internal/geo/Continent/Oceania/Micronesia~Fed._States/Counties/Chuuk.internal|Chuuk.internal]] 
+- [[../../../../../../_protect/geo/Continent/Oceania/Micronesia~Fed._States/Counties/Chuuk.protect|Chuuk.protect]] 
+- [[../../../../../../_private/geo/Continent/Oceania/Micronesia~Fed._States/Counties/Chuuk.private|Chuuk.private]] 
+- [[../../../../../../_personal/geo/Continent/Oceania/Micronesia~Fed._States/Counties/Chuuk.personal|Chuuk.personal]] 
+- [[../../../../../../_secret/geo/Continent/Oceania/Micronesia~Fed._States/Counties/Chuuk.secret|Chuuk.secret]] 
 

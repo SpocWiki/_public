@@ -17,13 +17,14 @@ markerFolder: ./Australia//
 zoomFeatures: true 
 ```
 
-[name-en::Australia]
-[name-de::Australien]
-[ #has/_code  :: AU ]
+[name-en::Australia] 
+[name-de::Australien] 
+[ #has/_code  :: AU ] 
 
 
 ## Confidential Links & Embeds: 
-- [[../../../_public/geo/Continent/Australia.md|Australia]] 
+- [[../../../_Standards/geo/Continent/Australia|Australia]] 
+- [[../../../_public/geo/Continent/Australia.public|Australia.public]] 
 - [[../../../_internal/geo/Continent/Australia.internal|Australia.internal]] 
 - [[../../../_protect/geo/Continent/Australia.protect|Australia.protect]] 
 - [[../../../_private/geo/Continent/Australia.private|Australia.private]] 

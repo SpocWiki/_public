@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ -26.6 , -57.9 ] 
 type: geo-Region
 title: Ñeembucú
@@ -40,10 +40,11 @@ markerFolder: ./Ñeembucú/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/America~South/Paraguay/Counties/Ñeembucú.md|Ñeembucú]] 
-- [[../../../../_internal/geo/Continent/America~South/Paraguay/Counties/Ñeembucú.internal|Ñeembucú.internal]] 
-- [[../../../../_protect/geo/Continent/America~South/Paraguay/Counties/Ñeembucú.protect|Ñeembucú.protect]] 
-- [[../../../../_private/geo/Continent/America~South/Paraguay/Counties/Ñeembucú.private|Ñeembucú.private]] 
-- [[../../../../_personal/geo/Continent/America~South/Paraguay/Counties/Ñeembucú.personal|Ñeembucú.personal]] 
-- [[../../../../_secret/geo/Continent/America~South/Paraguay/Counties/Ñeembucú.secret|Ñeembucú.secret]] 
+- [[../../../../../../_Standards/geo/Continent/America~South/Paraguay/Counties/Ñeembucú|Ñeembucú]] 
+- [[../../../../../../_public/geo/Continent/America~South/Paraguay/Counties/Ñeembucú.public|Ñeembucú.public]] 
+- [[../../../../../../_internal/geo/Continent/America~South/Paraguay/Counties/Ñeembucú.internal|Ñeembucú.internal]] 
+- [[../../../../../../_protect/geo/Continent/America~South/Paraguay/Counties/Ñeembucú.protect|Ñeembucú.protect]] 
+- [[../../../../../../_private/geo/Continent/America~South/Paraguay/Counties/Ñeembucú.private|Ñeembucú.private]] 
+- [[../../../../../../_personal/geo/Continent/America~South/Paraguay/Counties/Ñeembucú.personal|Ñeembucú.personal]] 
+- [[../../../../../../_secret/geo/Continent/America~South/Paraguay/Counties/Ñeembucú.secret|Ñeembucú.secret]] 
 

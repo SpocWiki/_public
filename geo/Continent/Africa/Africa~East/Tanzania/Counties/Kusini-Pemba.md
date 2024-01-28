@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ -5.3 , 39.8 ] 
 type: geo-Region
 title: Kusini-Pemba
@@ -40,10 +40,11 @@ markerFolder: ./Kusini-Pemba/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Africa/Tanzania/Counties/Kusini-Pemba.md|Kusini-Pemba]] 
-- [[../../../../_internal/geo/Continent/Africa/Tanzania/Counties/Kusini-Pemba.internal|Kusini-Pemba.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Tanzania/Counties/Kusini-Pemba.protect|Kusini-Pemba.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Tanzania/Counties/Kusini-Pemba.private|Kusini-Pemba.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Tanzania/Counties/Kusini-Pemba.personal|Kusini-Pemba.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Tanzania/Counties/Kusini-Pemba.secret|Kusini-Pemba.secret]] 
+- [[../../../../../../_Standards/geo/Continent/Africa/Tanzania/Counties/Kusini-Pemba|Kusini-Pemba]] 
+- [[../../../../../../_public/geo/Continent/Africa/Tanzania/Counties/Kusini-Pemba.public|Kusini-Pemba.public]] 
+- [[../../../../../../_internal/geo/Continent/Africa/Tanzania/Counties/Kusini-Pemba.internal|Kusini-Pemba.internal]] 
+- [[../../../../../../_protect/geo/Continent/Africa/Tanzania/Counties/Kusini-Pemba.protect|Kusini-Pemba.protect]] 
+- [[../../../../../../_private/geo/Continent/Africa/Tanzania/Counties/Kusini-Pemba.private|Kusini-Pemba.private]] 
+- [[../../../../../../_personal/geo/Continent/Africa/Tanzania/Counties/Kusini-Pemba.personal|Kusini-Pemba.personal]] 
+- [[../../../../../../_secret/geo/Continent/Africa/Tanzania/Counties/Kusini-Pemba.secret|Kusini-Pemba.secret]] 
 

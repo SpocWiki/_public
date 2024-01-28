@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 9.3 , 18.8 ] 
 type: geo-Region
 title: Moyen-Chari
@@ -40,10 +40,11 @@ markerFolder: ./Moyen-Chari/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Africa/Chad/Counties/Moyen-Chari.md|Moyen-Chari]] 
-- [[../../../../_internal/geo/Continent/Africa/Chad/Counties/Moyen-Chari.internal|Moyen-Chari.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Chad/Counties/Moyen-Chari.protect|Moyen-Chari.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Chad/Counties/Moyen-Chari.private|Moyen-Chari.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Chad/Counties/Moyen-Chari.personal|Moyen-Chari.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Chad/Counties/Moyen-Chari.secret|Moyen-Chari.secret]] 
+- [[../../../../../../_Standards/geo/Continent/Africa/Chad/Counties/Moyen-Chari|Moyen-Chari]] 
+- [[../../../../../../_public/geo/Continent/Africa/Chad/Counties/Moyen-Chari.public|Moyen-Chari.public]] 
+- [[../../../../../../_internal/geo/Continent/Africa/Chad/Counties/Moyen-Chari.internal|Moyen-Chari.internal]] 
+- [[../../../../../../_protect/geo/Continent/Africa/Chad/Counties/Moyen-Chari.protect|Moyen-Chari.protect]] 
+- [[../../../../../../_private/geo/Continent/Africa/Chad/Counties/Moyen-Chari.private|Moyen-Chari.private]] 
+- [[../../../../../../_personal/geo/Continent/Africa/Chad/Counties/Moyen-Chari.personal|Moyen-Chari.personal]] 
+- [[../../../../../../_secret/geo/Continent/Africa/Chad/Counties/Moyen-Chari.secret|Moyen-Chari.secret]] 
 

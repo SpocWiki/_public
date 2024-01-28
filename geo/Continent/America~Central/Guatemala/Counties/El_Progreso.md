@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 14.9 , -90 ] 
 type: geo-Region
 title: El_Progreso
@@ -40,10 +40,11 @@ markerFolder: ./El_Progreso/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/America~Central/Guatemala/Counties/El_Progreso.md|El_Progreso]] 
-- [[../../../../_internal/geo/Continent/America~Central/Guatemala/Counties/El_Progreso.internal|El_Progreso.internal]] 
-- [[../../../../_protect/geo/Continent/America~Central/Guatemala/Counties/El_Progreso.protect|El_Progreso.protect]] 
-- [[../../../../_private/geo/Continent/America~Central/Guatemala/Counties/El_Progreso.private|El_Progreso.private]] 
-- [[../../../../_personal/geo/Continent/America~Central/Guatemala/Counties/El_Progreso.personal|El_Progreso.personal]] 
-- [[../../../../_secret/geo/Continent/America~Central/Guatemala/Counties/El_Progreso.secret|El_Progreso.secret]] 
+- [[../../../../../../_Standards/geo/Continent/America~Central/Guatemala/Counties/El_Progreso|El_Progreso]] 
+- [[../../../../../../_public/geo/Continent/America~Central/Guatemala/Counties/El_Progreso.public|El_Progreso.public]] 
+- [[../../../../../../_internal/geo/Continent/America~Central/Guatemala/Counties/El_Progreso.internal|El_Progreso.internal]] 
+- [[../../../../../../_protect/geo/Continent/America~Central/Guatemala/Counties/El_Progreso.protect|El_Progreso.protect]] 
+- [[../../../../../../_private/geo/Continent/America~Central/Guatemala/Counties/El_Progreso.private|El_Progreso.private]] 
+- [[../../../../../../_personal/geo/Continent/America~Central/Guatemala/Counties/El_Progreso.personal|El_Progreso.personal]] 
+- [[../../../../../../_secret/geo/Continent/America~Central/Guatemala/Counties/El_Progreso.secret|El_Progreso.secret]] 
 

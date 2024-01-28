@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 14.9 , -88.9 ] 
 type: geo-Region
 title: Copán
@@ -40,10 +40,11 @@ markerFolder: ./Copán/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/America~Central/Honduras/Counties/Copán.md|Copán]] 
-- [[../../../../_internal/geo/Continent/America~Central/Honduras/Counties/Copán.internal|Copán.internal]] 
-- [[../../../../_protect/geo/Continent/America~Central/Honduras/Counties/Copán.protect|Copán.protect]] 
-- [[../../../../_private/geo/Continent/America~Central/Honduras/Counties/Copán.private|Copán.private]] 
-- [[../../../../_personal/geo/Continent/America~Central/Honduras/Counties/Copán.personal|Copán.personal]] 
-- [[../../../../_secret/geo/Continent/America~Central/Honduras/Counties/Copán.secret|Copán.secret]] 
+- [[../../../../../../_Standards/geo/Continent/America~Central/Honduras/Counties/Copán|Copán]] 
+- [[../../../../../../_public/geo/Continent/America~Central/Honduras/Counties/Copán.public|Copán.public]] 
+- [[../../../../../../_internal/geo/Continent/America~Central/Honduras/Counties/Copán.internal|Copán.internal]] 
+- [[../../../../../../_protect/geo/Continent/America~Central/Honduras/Counties/Copán.protect|Copán.protect]] 
+- [[../../../../../../_private/geo/Continent/America~Central/Honduras/Counties/Copán.private|Copán.private]] 
+- [[../../../../../../_personal/geo/Continent/America~Central/Honduras/Counties/Copán.personal|Copán.personal]] 
+- [[../../../../../../_secret/geo/Continent/America~Central/Honduras/Counties/Copán.secret|Copán.secret]] 
 

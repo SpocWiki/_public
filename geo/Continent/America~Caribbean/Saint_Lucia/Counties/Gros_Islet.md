@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 14.07 , -60.94 ] 
 type: geo-Region
 title: Gros_Islet
@@ -40,10 +40,11 @@ markerFolder: ./Gros_Islet/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/America~Caribbean/Saint_Lucia/Counties/Gros_Islet.md|Gros_Islet]] 
-- [[../../../../_internal/geo/Continent/America~Caribbean/Saint_Lucia/Counties/Gros_Islet.internal|Gros_Islet.internal]] 
-- [[../../../../_protect/geo/Continent/America~Caribbean/Saint_Lucia/Counties/Gros_Islet.protect|Gros_Islet.protect]] 
-- [[../../../../_private/geo/Continent/America~Caribbean/Saint_Lucia/Counties/Gros_Islet.private|Gros_Islet.private]] 
-- [[../../../../_personal/geo/Continent/America~Caribbean/Saint_Lucia/Counties/Gros_Islet.personal|Gros_Islet.personal]] 
-- [[../../../../_secret/geo/Continent/America~Caribbean/Saint_Lucia/Counties/Gros_Islet.secret|Gros_Islet.secret]] 
+- [[../../../../../../_Standards/geo/Continent/America~Caribbean/Saint_Lucia/Counties/Gros_Islet|Gros_Islet]] 
+- [[../../../../../../_public/geo/Continent/America~Caribbean/Saint_Lucia/Counties/Gros_Islet.public|Gros_Islet.public]] 
+- [[../../../../../../_internal/geo/Continent/America~Caribbean/Saint_Lucia/Counties/Gros_Islet.internal|Gros_Islet.internal]] 
+- [[../../../../../../_protect/geo/Continent/America~Caribbean/Saint_Lucia/Counties/Gros_Islet.protect|Gros_Islet.protect]] 
+- [[../../../../../../_private/geo/Continent/America~Caribbean/Saint_Lucia/Counties/Gros_Islet.private|Gros_Islet.private]] 
+- [[../../../../../../_personal/geo/Continent/America~Caribbean/Saint_Lucia/Counties/Gros_Islet.personal|Gros_Islet.personal]] 
+- [[../../../../../../_secret/geo/Continent/America~Caribbean/Saint_Lucia/Counties/Gros_Islet.secret|Gros_Islet.secret]] 
 

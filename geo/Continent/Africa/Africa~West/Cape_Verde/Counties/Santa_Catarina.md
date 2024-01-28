@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 15.1 , -23.7 ] 
 type: geo-Region
 title: Santa_Catarina
@@ -40,10 +40,11 @@ markerFolder: ./Santa_Catarina/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Africa/Cape_Verde/Counties/Santa_Catarina.md|Santa_Catarina]] 
-- [[../../../../_internal/geo/Continent/Africa/Cape_Verde/Counties/Santa_Catarina.internal|Santa_Catarina.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Cape_Verde/Counties/Santa_Catarina.protect|Santa_Catarina.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Cape_Verde/Counties/Santa_Catarina.private|Santa_Catarina.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Cape_Verde/Counties/Santa_Catarina.personal|Santa_Catarina.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Cape_Verde/Counties/Santa_Catarina.secret|Santa_Catarina.secret]] 
+- [[../../../../../../_Standards/geo/Continent/Africa/Cape_Verde/Counties/Santa_Catarina|Santa_Catarina]] 
+- [[../../../../../../_public/geo/Continent/Africa/Cape_Verde/Counties/Santa_Catarina.public|Santa_Catarina.public]] 
+- [[../../../../../../_internal/geo/Continent/Africa/Cape_Verde/Counties/Santa_Catarina.internal|Santa_Catarina.internal]] 
+- [[../../../../../../_protect/geo/Continent/Africa/Cape_Verde/Counties/Santa_Catarina.protect|Santa_Catarina.protect]] 
+- [[../../../../../../_private/geo/Continent/Africa/Cape_Verde/Counties/Santa_Catarina.private|Santa_Catarina.private]] 
+- [[../../../../../../_personal/geo/Continent/Africa/Cape_Verde/Counties/Santa_Catarina.personal|Santa_Catarina.personal]] 
+- [[../../../../../../_secret/geo/Continent/Africa/Cape_Verde/Counties/Santa_Catarina.secret|Santa_Catarina.secret]] 
 

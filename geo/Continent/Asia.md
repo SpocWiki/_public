@@ -21,13 +21,14 @@ geojsonFolder: ./Asia/
 markerFolder: ./Asia/
 ```
 
-[name-en::Asia]
-[name-de::Asien]
-[ #has/_code  :: AS ]
+[name-en::Asia] 
+[name-de::Asien] 
+[ #has/_code  :: AS ] 
 
 
 ## Confidential Links & Embeds: 
-- [[../../../_public/geo/Continent/Asia.md|Asia]] 
+- [[../../../_Standards/geo/Continent/Asia|Asia]] 
+- [[../../../_public/geo/Continent/Asia.public|Asia.public]] 
 - [[../../../_internal/geo/Continent/Asia.internal|Asia.internal]] 
 - [[../../../_protect/geo/Continent/Asia.protect|Asia.protect]] 
 - [[../../../_private/geo/Continent/Asia.private|Asia.private]] 

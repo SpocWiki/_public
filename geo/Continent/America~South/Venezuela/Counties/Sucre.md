@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 10.4 , -63.7 ] 
 type: geo-Region
 title: Sucre
@@ -40,10 +40,11 @@ markerFolder: ./Sucre/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/America~South/Venezuela/Counties/Sucre.md|Sucre]] 
-- [[../../../../_internal/geo/Continent/America~South/Venezuela/Counties/Sucre.internal|Sucre.internal]] 
-- [[../../../../_protect/geo/Continent/America~South/Venezuela/Counties/Sucre.protect|Sucre.protect]] 
-- [[../../../../_private/geo/Continent/America~South/Venezuela/Counties/Sucre.private|Sucre.private]] 
-- [[../../../../_personal/geo/Continent/America~South/Venezuela/Counties/Sucre.personal|Sucre.personal]] 
-- [[../../../../_secret/geo/Continent/America~South/Venezuela/Counties/Sucre.secret|Sucre.secret]] 
+- [[../../../../../../_Standards/geo/Continent/America~South/Venezuela/Counties/Sucre|Sucre]] 
+- [[../../../../../../_public/geo/Continent/America~South/Venezuela/Counties/Sucre.public|Sucre.public]] 
+- [[../../../../../../_internal/geo/Continent/America~South/Venezuela/Counties/Sucre.internal|Sucre.internal]] 
+- [[../../../../../../_protect/geo/Continent/America~South/Venezuela/Counties/Sucre.protect|Sucre.protect]] 
+- [[../../../../../../_private/geo/Continent/America~South/Venezuela/Counties/Sucre.private|Sucre.private]] 
+- [[../../../../../../_personal/geo/Continent/America~South/Venezuela/Counties/Sucre.personal|Sucre.personal]] 
+- [[../../../../../../_secret/geo/Continent/America~South/Venezuela/Counties/Sucre.secret|Sucre.secret]] 
 

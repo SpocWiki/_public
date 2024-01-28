@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 14.5 , -3.7 ] 
 type: geo-Region
 title: Mopti
@@ -40,10 +40,11 @@ markerFolder: ./Mopti/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Africa/Mali/Counties/Mopti.md|Mopti]] 
-- [[../../../../_internal/geo/Continent/Africa/Mali/Counties/Mopti.internal|Mopti.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Mali/Counties/Mopti.protect|Mopti.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Mali/Counties/Mopti.private|Mopti.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Mali/Counties/Mopti.personal|Mopti.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Mali/Counties/Mopti.secret|Mopti.secret]] 
+- [[../../../../../../_Standards/geo/Continent/Africa/Mali/Counties/Mopti|Mopti]] 
+- [[../../../../../../_public/geo/Continent/Africa/Mali/Counties/Mopti.public|Mopti.public]] 
+- [[../../../../../../_internal/geo/Continent/Africa/Mali/Counties/Mopti.internal|Mopti.internal]] 
+- [[../../../../../../_protect/geo/Continent/Africa/Mali/Counties/Mopti.protect|Mopti.protect]] 
+- [[../../../../../../_private/geo/Continent/Africa/Mali/Counties/Mopti.private|Mopti.private]] 
+- [[../../../../../../_personal/geo/Continent/Africa/Mali/Counties/Mopti.personal|Mopti.personal]] 
+- [[../../../../../../_secret/geo/Continent/Africa/Mali/Counties/Mopti.secret|Mopti.secret]] 
 

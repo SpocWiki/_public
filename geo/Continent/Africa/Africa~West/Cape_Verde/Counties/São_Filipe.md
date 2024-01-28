@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 14.9 , -24.5 ] 
 type: geo-Region
 title: São_Filipe
@@ -40,10 +40,11 @@ markerFolder: ./São_Filipe/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Africa/Cape_Verde/Counties/São_Filipe.md|São_Filipe]] 
-- [[../../../../_internal/geo/Continent/Africa/Cape_Verde/Counties/São_Filipe.internal|São_Filipe.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Cape_Verde/Counties/São_Filipe.protect|São_Filipe.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Cape_Verde/Counties/São_Filipe.private|São_Filipe.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Cape_Verde/Counties/São_Filipe.personal|São_Filipe.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Cape_Verde/Counties/São_Filipe.secret|São_Filipe.secret]] 
+- [[../../../../../../_Standards/geo/Continent/Africa/Cape_Verde/Counties/São_Filipe|São_Filipe]] 
+- [[../../../../../../_public/geo/Continent/Africa/Cape_Verde/Counties/São_Filipe.public|São_Filipe.public]] 
+- [[../../../../../../_internal/geo/Continent/Africa/Cape_Verde/Counties/São_Filipe.internal|São_Filipe.internal]] 
+- [[../../../../../../_protect/geo/Continent/Africa/Cape_Verde/Counties/São_Filipe.protect|São_Filipe.protect]] 
+- [[../../../../../../_private/geo/Continent/Africa/Cape_Verde/Counties/São_Filipe.private|São_Filipe.private]] 
+- [[../../../../../../_personal/geo/Continent/Africa/Cape_Verde/Counties/São_Filipe.personal|São_Filipe.personal]] 
+- [[../../../../../../_secret/geo/Continent/Africa/Cape_Verde/Counties/São_Filipe.secret|São_Filipe.secret]] 
 

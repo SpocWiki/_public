@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ -11.65 , 160.33 ] 
 type: geo-Region
 title: Rennell_and_Bellona
@@ -40,10 +40,11 @@ markerFolder: ./Rennell_and_Bellona/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Oceania/Solomon~Islands/Counties/Rennell_and_Bellona.md|Rennell_and_Bellona]] 
-- [[../../../../_internal/geo/Continent/Oceania/Solomon~Islands/Counties/Rennell_and_Bellona.internal|Rennell_and_Bellona.internal]] 
-- [[../../../../_protect/geo/Continent/Oceania/Solomon~Islands/Counties/Rennell_and_Bellona.protect|Rennell_and_Bellona.protect]] 
-- [[../../../../_private/geo/Continent/Oceania/Solomon~Islands/Counties/Rennell_and_Bellona.private|Rennell_and_Bellona.private]] 
-- [[../../../../_personal/geo/Continent/Oceania/Solomon~Islands/Counties/Rennell_and_Bellona.personal|Rennell_and_Bellona.personal]] 
-- [[../../../../_secret/geo/Continent/Oceania/Solomon~Islands/Counties/Rennell_and_Bellona.secret|Rennell_and_Bellona.secret]] 
+- [[../../../../../../_Standards/geo/Continent/Oceania/Solomon~Islands/Counties/Rennell_and_Bellona|Rennell_and_Bellona]] 
+- [[../../../../../../_public/geo/Continent/Oceania/Solomon~Islands/Counties/Rennell_and_Bellona.public|Rennell_and_Bellona.public]] 
+- [[../../../../../../_internal/geo/Continent/Oceania/Solomon~Islands/Counties/Rennell_and_Bellona.internal|Rennell_and_Bellona.internal]] 
+- [[../../../../../../_protect/geo/Continent/Oceania/Solomon~Islands/Counties/Rennell_and_Bellona.protect|Rennell_and_Bellona.protect]] 
+- [[../../../../../../_private/geo/Continent/Oceania/Solomon~Islands/Counties/Rennell_and_Bellona.private|Rennell_and_Bellona.private]] 
+- [[../../../../../../_personal/geo/Continent/Oceania/Solomon~Islands/Counties/Rennell_and_Bellona.personal|Rennell_and_Bellona.personal]] 
+- [[../../../../../../_secret/geo/Continent/Oceania/Solomon~Islands/Counties/Rennell_and_Bellona.secret|Rennell_and_Bellona.secret]] 
 

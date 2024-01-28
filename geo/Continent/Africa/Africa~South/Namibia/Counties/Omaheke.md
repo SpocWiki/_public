@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ -22.1 , 19 ] 
 type: geo-Region
 title: Omaheke
@@ -40,10 +40,11 @@ markerFolder: ./Omaheke/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Africa/Namibia/Counties/Omaheke.md|Omaheke]] 
-- [[../../../../_internal/geo/Continent/Africa/Namibia/Counties/Omaheke.internal|Omaheke.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Namibia/Counties/Omaheke.protect|Omaheke.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Namibia/Counties/Omaheke.private|Omaheke.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Namibia/Counties/Omaheke.personal|Omaheke.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Namibia/Counties/Omaheke.secret|Omaheke.secret]] 
+- [[../../../../../../_Standards/geo/Continent/Africa/Namibia/Counties/Omaheke|Omaheke]] 
+- [[../../../../../../_public/geo/Continent/Africa/Namibia/Counties/Omaheke.public|Omaheke.public]] 
+- [[../../../../../../_internal/geo/Continent/Africa/Namibia/Counties/Omaheke.internal|Omaheke.internal]] 
+- [[../../../../../../_protect/geo/Continent/Africa/Namibia/Counties/Omaheke.protect|Omaheke.protect]] 
+- [[../../../../../../_private/geo/Continent/Africa/Namibia/Counties/Omaheke.private|Omaheke.private]] 
+- [[../../../../../../_personal/geo/Continent/Africa/Namibia/Counties/Omaheke.personal|Omaheke.personal]] 
+- [[../../../../../../_secret/geo/Continent/Africa/Namibia/Counties/Omaheke.secret|Omaheke.secret]] 
 

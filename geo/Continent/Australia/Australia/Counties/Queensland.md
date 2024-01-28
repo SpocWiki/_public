@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ -20 , 143 ] 
 type: geo-Region
 title: Queensland
@@ -40,10 +40,11 @@ markerFolder: ./Queensland/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Australia/Australia/Counties/Queensland.md|Queensland]] 
-- [[../../../../_internal/geo/Continent/Australia/Australia/Counties/Queensland.internal|Queensland.internal]] 
-- [[../../../../_protect/geo/Continent/Australia/Australia/Counties/Queensland.protect|Queensland.protect]] 
-- [[../../../../_private/geo/Continent/Australia/Australia/Counties/Queensland.private|Queensland.private]] 
-- [[../../../../_personal/geo/Continent/Australia/Australia/Counties/Queensland.personal|Queensland.personal]] 
-- [[../../../../_secret/geo/Continent/Australia/Australia/Counties/Queensland.secret|Queensland.secret]] 
+- [[../../../../../../_Standards/geo/Continent/Australia/Australia/Counties/Queensland|Queensland]] 
+- [[../../../../../../_public/geo/Continent/Australia/Australia/Counties/Queensland.public|Queensland.public]] 
+- [[../../../../../../_internal/geo/Continent/Australia/Australia/Counties/Queensland.internal|Queensland.internal]] 
+- [[../../../../../../_protect/geo/Continent/Australia/Australia/Counties/Queensland.protect|Queensland.protect]] 
+- [[../../../../../../_private/geo/Continent/Australia/Australia/Counties/Queensland.private|Queensland.private]] 
+- [[../../../../../../_personal/geo/Continent/Australia/Australia/Counties/Queensland.personal|Queensland.personal]] 
+- [[../../../../../../_secret/geo/Continent/Australia/Australia/Counties/Queensland.secret|Queensland.secret]] 
 

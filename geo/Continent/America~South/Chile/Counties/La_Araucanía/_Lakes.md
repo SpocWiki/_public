@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ -39.24 , -72.09 ] 
 type: geo-Region
 title: _Lakes
@@ -40,10 +40,11 @@ markerFolder: ./_Lakes/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/America~South/Chile/Counties/La_Araucanía/_Lakes.md|_Lakes]] 
-- [[../../../../_internal/geo/Continent/America~South/Chile/Counties/La_Araucanía/_Lakes.internal|_Lakes.internal]] 
-- [[../../../../_protect/geo/Continent/America~South/Chile/Counties/La_Araucanía/_Lakes.protect|_Lakes.protect]] 
-- [[../../../../_private/geo/Continent/America~South/Chile/Counties/La_Araucanía/_Lakes.private|_Lakes.private]] 
-- [[../../../../_personal/geo/Continent/America~South/Chile/Counties/La_Araucanía/_Lakes.personal|_Lakes.personal]] 
-- [[../../../../_secret/geo/Continent/America~South/Chile/Counties/La_Araucanía/_Lakes.secret|_Lakes.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/America~South/Chile/Counties/La_Araucanía/_Lakes|_Lakes]] 
+- [[../../../../../../../_public/geo/Continent/America~South/Chile/Counties/La_Araucanía/_Lakes.public|_Lakes.public]] 
+- [[../../../../../../../_internal/geo/Continent/America~South/Chile/Counties/La_Araucanía/_Lakes.internal|_Lakes.internal]] 
+- [[../../../../../../../_protect/geo/Continent/America~South/Chile/Counties/La_Araucanía/_Lakes.protect|_Lakes.protect]] 
+- [[../../../../../../../_private/geo/Continent/America~South/Chile/Counties/La_Araucanía/_Lakes.private|_Lakes.private]] 
+- [[../../../../../../../_personal/geo/Continent/America~South/Chile/Counties/La_Araucanía/_Lakes.personal|_Lakes.personal]] 
+- [[../../../../../../../_secret/geo/Continent/America~South/Chile/Counties/La_Araucanía/_Lakes.secret|_Lakes.secret]] 
 

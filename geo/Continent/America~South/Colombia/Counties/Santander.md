@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 6.9 , -73.3 ] 
 type: geo-Region
 title: Santander
@@ -40,10 +40,11 @@ markerFolder: ./Santander/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/America~South/Colombia/Counties/Santander.md|Santander]] 
-- [[../../../../_internal/geo/Continent/America~South/Colombia/Counties/Santander.internal|Santander.internal]] 
-- [[../../../../_protect/geo/Continent/America~South/Colombia/Counties/Santander.protect|Santander.protect]] 
-- [[../../../../_private/geo/Continent/America~South/Colombia/Counties/Santander.private|Santander.private]] 
-- [[../../../../_personal/geo/Continent/America~South/Colombia/Counties/Santander.personal|Santander.personal]] 
-- [[../../../../_secret/geo/Continent/America~South/Colombia/Counties/Santander.secret|Santander.secret]] 
+- [[../../../../../../_Standards/geo/Continent/America~South/Colombia/Counties/Santander|Santander]] 
+- [[../../../../../../_public/geo/Continent/America~South/Colombia/Counties/Santander.public|Santander.public]] 
+- [[../../../../../../_internal/geo/Continent/America~South/Colombia/Counties/Santander.internal|Santander.internal]] 
+- [[../../../../../../_protect/geo/Continent/America~South/Colombia/Counties/Santander.protect|Santander.protect]] 
+- [[../../../../../../_private/geo/Continent/America~South/Colombia/Counties/Santander.private|Santander.private]] 
+- [[../../../../../../_personal/geo/Continent/America~South/Colombia/Counties/Santander.personal|Santander.personal]] 
+- [[../../../../../../_secret/geo/Continent/America~South/Colombia/Counties/Santander.secret|Santander.secret]] 
 

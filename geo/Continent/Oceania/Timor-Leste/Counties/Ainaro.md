@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ -9 , 125.5 ] 
 type: geo-Region
 title: Ainaro
@@ -40,10 +40,11 @@ markerFolder: ./Ainaro/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Oceania/Timor-Leste/Counties/Ainaro.md|Ainaro]] 
-- [[../../../../_internal/geo/Continent/Oceania/Timor-Leste/Counties/Ainaro.internal|Ainaro.internal]] 
-- [[../../../../_protect/geo/Continent/Oceania/Timor-Leste/Counties/Ainaro.protect|Ainaro.protect]] 
-- [[../../../../_private/geo/Continent/Oceania/Timor-Leste/Counties/Ainaro.private|Ainaro.private]] 
-- [[../../../../_personal/geo/Continent/Oceania/Timor-Leste/Counties/Ainaro.personal|Ainaro.personal]] 
-- [[../../../../_secret/geo/Continent/Oceania/Timor-Leste/Counties/Ainaro.secret|Ainaro.secret]] 
+- [[../../../../../../_Standards/geo/Continent/Oceania/Timor-Leste/Counties/Ainaro|Ainaro]] 
+- [[../../../../../../_public/geo/Continent/Oceania/Timor-Leste/Counties/Ainaro.public|Ainaro.public]] 
+- [[../../../../../../_internal/geo/Continent/Oceania/Timor-Leste/Counties/Ainaro.internal|Ainaro.internal]] 
+- [[../../../../../../_protect/geo/Continent/Oceania/Timor-Leste/Counties/Ainaro.protect|Ainaro.protect]] 
+- [[../../../../../../_private/geo/Continent/Oceania/Timor-Leste/Counties/Ainaro.private|Ainaro.private]] 
+- [[../../../../../../_personal/geo/Continent/Oceania/Timor-Leste/Counties/Ainaro.personal|Ainaro.personal]] 
+- [[../../../../../../_secret/geo/Continent/Oceania/Timor-Leste/Counties/Ainaro.secret|Ainaro.secret]] 
 

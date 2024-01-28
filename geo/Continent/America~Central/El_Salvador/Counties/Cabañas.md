@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 13.9 , -88.7 ] 
 type: geo-Region
 title: Cabañas
@@ -40,10 +40,11 @@ markerFolder: ./Cabañas/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/America~Central/El_Salvador/Counties/Cabañas.md|Cabañas]] 
-- [[../../../../_internal/geo/Continent/America~Central/El_Salvador/Counties/Cabañas.internal|Cabañas.internal]] 
-- [[../../../../_protect/geo/Continent/America~Central/El_Salvador/Counties/Cabañas.protect|Cabañas.protect]] 
-- [[../../../../_private/geo/Continent/America~Central/El_Salvador/Counties/Cabañas.private|Cabañas.private]] 
-- [[../../../../_personal/geo/Continent/America~Central/El_Salvador/Counties/Cabañas.personal|Cabañas.personal]] 
-- [[../../../../_secret/geo/Continent/America~Central/El_Salvador/Counties/Cabañas.secret|Cabañas.secret]] 
+- [[../../../../../../_Standards/geo/Continent/America~Central/El_Salvador/Counties/Cabañas|Cabañas]] 
+- [[../../../../../../_public/geo/Continent/America~Central/El_Salvador/Counties/Cabañas.public|Cabañas.public]] 
+- [[../../../../../../_internal/geo/Continent/America~Central/El_Salvador/Counties/Cabañas.internal|Cabañas.internal]] 
+- [[../../../../../../_protect/geo/Continent/America~Central/El_Salvador/Counties/Cabañas.protect|Cabañas.protect]] 
+- [[../../../../../../_private/geo/Continent/America~Central/El_Salvador/Counties/Cabañas.private|Cabañas.private]] 
+- [[../../../../../../_personal/geo/Continent/America~Central/El_Salvador/Counties/Cabañas.personal|Cabañas.personal]] 
+- [[../../../../../../_secret/geo/Continent/America~Central/El_Salvador/Counties/Cabañas.secret|Cabañas.secret]] 
 

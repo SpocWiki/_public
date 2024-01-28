@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 19 , -70.7 ] 
 type: geo-Region
 title: La_Vega
@@ -40,10 +40,11 @@ markerFolder: ./La_Vega/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/America~Caribbean/Dominican_Rep/Counties/La_Vega.md|La_Vega]] 
-- [[../../../../_internal/geo/Continent/America~Caribbean/Dominican_Rep/Counties/La_Vega.internal|La_Vega.internal]] 
-- [[../../../../_protect/geo/Continent/America~Caribbean/Dominican_Rep/Counties/La_Vega.protect|La_Vega.protect]] 
-- [[../../../../_private/geo/Continent/America~Caribbean/Dominican_Rep/Counties/La_Vega.private|La_Vega.private]] 
-- [[../../../../_personal/geo/Continent/America~Caribbean/Dominican_Rep/Counties/La_Vega.personal|La_Vega.personal]] 
-- [[../../../../_secret/geo/Continent/America~Caribbean/Dominican_Rep/Counties/La_Vega.secret|La_Vega.secret]] 
+- [[../../../../../../_Standards/geo/Continent/America~Caribbean/Dominican_Rep/Counties/La_Vega|La_Vega]] 
+- [[../../../../../../_public/geo/Continent/America~Caribbean/Dominican_Rep/Counties/La_Vega.public|La_Vega.public]] 
+- [[../../../../../../_internal/geo/Continent/America~Caribbean/Dominican_Rep/Counties/La_Vega.internal|La_Vega.internal]] 
+- [[../../../../../../_protect/geo/Continent/America~Caribbean/Dominican_Rep/Counties/La_Vega.protect|La_Vega.protect]] 
+- [[../../../../../../_private/geo/Continent/America~Caribbean/Dominican_Rep/Counties/La_Vega.private|La_Vega.private]] 
+- [[../../../../../../_personal/geo/Continent/America~Caribbean/Dominican_Rep/Counties/La_Vega.personal|La_Vega.personal]] 
+- [[../../../../../../_secret/geo/Continent/America~Caribbean/Dominican_Rep/Counties/La_Vega.secret|La_Vega.secret]] 
 

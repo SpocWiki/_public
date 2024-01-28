@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 15.4 , -61.4 ] 
 type: geo-Region
 title: Saint_Joseph
@@ -40,10 +40,11 @@ markerFolder: ./Saint_Joseph/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/America~Caribbean/Dominica/Counties/Saint_Joseph.md|Saint_Joseph]] 
-- [[../../../../_internal/geo/Continent/America~Caribbean/Dominica/Counties/Saint_Joseph.internal|Saint_Joseph.internal]] 
-- [[../../../../_protect/geo/Continent/America~Caribbean/Dominica/Counties/Saint_Joseph.protect|Saint_Joseph.protect]] 
-- [[../../../../_private/geo/Continent/America~Caribbean/Dominica/Counties/Saint_Joseph.private|Saint_Joseph.private]] 
-- [[../../../../_personal/geo/Continent/America~Caribbean/Dominica/Counties/Saint_Joseph.personal|Saint_Joseph.personal]] 
-- [[../../../../_secret/geo/Continent/America~Caribbean/Dominica/Counties/Saint_Joseph.secret|Saint_Joseph.secret]] 
+- [[../../../../../../_Standards/geo/Continent/America~Caribbean/Dominica/Counties/Saint_Joseph|Saint_Joseph]] 
+- [[../../../../../../_public/geo/Continent/America~Caribbean/Dominica/Counties/Saint_Joseph.public|Saint_Joseph.public]] 
+- [[../../../../../../_internal/geo/Continent/America~Caribbean/Dominica/Counties/Saint_Joseph.internal|Saint_Joseph.internal]] 
+- [[../../../../../../_protect/geo/Continent/America~Caribbean/Dominica/Counties/Saint_Joseph.protect|Saint_Joseph.protect]] 
+- [[../../../../../../_private/geo/Continent/America~Caribbean/Dominica/Counties/Saint_Joseph.private|Saint_Joseph.private]] 
+- [[../../../../../../_personal/geo/Continent/America~Caribbean/Dominica/Counties/Saint_Joseph.personal|Saint_Joseph.personal]] 
+- [[../../../../../../_secret/geo/Continent/America~Caribbean/Dominica/Counties/Saint_Joseph.secret|Saint_Joseph.secret]] 
 

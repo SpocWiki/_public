@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 36.8 , 9.2 ] 
 type: geo-Region
 title: Béja
@@ -40,10 +40,11 @@ markerFolder: ./Béja/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Africa/Tunisia/Counties/Béja.md|Béja]] 
-- [[../../../../_internal/geo/Continent/Africa/Tunisia/Counties/Béja.internal|Béja.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Tunisia/Counties/Béja.protect|Béja.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Tunisia/Counties/Béja.private|Béja.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Tunisia/Counties/Béja.personal|Béja.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Tunisia/Counties/Béja.secret|Béja.secret]] 
+- [[../../../../../../_Standards/geo/Continent/Africa/Tunisia/Counties/Béja|Béja]] 
+- [[../../../../../../_public/geo/Continent/Africa/Tunisia/Counties/Béja.public|Béja.public]] 
+- [[../../../../../../_internal/geo/Continent/Africa/Tunisia/Counties/Béja.internal|Béja.internal]] 
+- [[../../../../../../_protect/geo/Continent/Africa/Tunisia/Counties/Béja.protect|Béja.protect]] 
+- [[../../../../../../_private/geo/Continent/Africa/Tunisia/Counties/Béja.private|Béja.private]] 
+- [[../../../../../../_personal/geo/Continent/Africa/Tunisia/Counties/Béja.personal|Béja.personal]] 
+- [[../../../../../../_secret/geo/Continent/Africa/Tunisia/Counties/Béja.secret|Béja.secret]] 
 

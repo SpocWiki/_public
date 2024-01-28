@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 2.6 , 34.7 ] 
 type: geo-Region
 title: Moroto
@@ -40,10 +40,11 @@ markerFolder: ./Moroto/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Africa/Uganda/Counties/Moroto.md|Moroto]] 
-- [[../../../../_internal/geo/Continent/Africa/Uganda/Counties/Moroto.internal|Moroto.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Uganda/Counties/Moroto.protect|Moroto.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Uganda/Counties/Moroto.private|Moroto.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Uganda/Counties/Moroto.personal|Moroto.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Uganda/Counties/Moroto.secret|Moroto.secret]] 
+- [[../../../../../../_Standards/geo/Continent/Africa/Uganda/Counties/Moroto|Moroto]] 
+- [[../../../../../../_public/geo/Continent/Africa/Uganda/Counties/Moroto.public|Moroto.public]] 
+- [[../../../../../../_internal/geo/Continent/Africa/Uganda/Counties/Moroto.internal|Moroto.internal]] 
+- [[../../../../../../_protect/geo/Continent/Africa/Uganda/Counties/Moroto.protect|Moroto.protect]] 
+- [[../../../../../../_private/geo/Continent/Africa/Uganda/Counties/Moroto.private|Moroto.private]] 
+- [[../../../../../../_personal/geo/Continent/Africa/Uganda/Counties/Moroto.personal|Moroto.personal]] 
+- [[../../../../../../_secret/geo/Continent/Africa/Uganda/Counties/Moroto.secret|Moroto.secret]] 
 

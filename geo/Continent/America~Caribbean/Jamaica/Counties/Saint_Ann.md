@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 18.3 , -77.3 ] 
 type: geo-Region
 title: Saint_Ann
@@ -40,10 +40,11 @@ markerFolder: ./Saint_Ann/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/America~Caribbean/Jamaica/Counties/Saint_Ann.md|Saint_Ann]] 
-- [[../../../../_internal/geo/Continent/America~Caribbean/Jamaica/Counties/Saint_Ann.internal|Saint_Ann.internal]] 
-- [[../../../../_protect/geo/Continent/America~Caribbean/Jamaica/Counties/Saint_Ann.protect|Saint_Ann.protect]] 
-- [[../../../../_private/geo/Continent/America~Caribbean/Jamaica/Counties/Saint_Ann.private|Saint_Ann.private]] 
-- [[../../../../_personal/geo/Continent/America~Caribbean/Jamaica/Counties/Saint_Ann.personal|Saint_Ann.personal]] 
-- [[../../../../_secret/geo/Continent/America~Caribbean/Jamaica/Counties/Saint_Ann.secret|Saint_Ann.secret]] 
+- [[../../../../../../_Standards/geo/Continent/America~Caribbean/Jamaica/Counties/Saint_Ann|Saint_Ann]] 
+- [[../../../../../../_public/geo/Continent/America~Caribbean/Jamaica/Counties/Saint_Ann.public|Saint_Ann.public]] 
+- [[../../../../../../_internal/geo/Continent/America~Caribbean/Jamaica/Counties/Saint_Ann.internal|Saint_Ann.internal]] 
+- [[../../../../../../_protect/geo/Continent/America~Caribbean/Jamaica/Counties/Saint_Ann.protect|Saint_Ann.protect]] 
+- [[../../../../../../_private/geo/Continent/America~Caribbean/Jamaica/Counties/Saint_Ann.private|Saint_Ann.private]] 
+- [[../../../../../../_personal/geo/Continent/America~Caribbean/Jamaica/Counties/Saint_Ann.personal|Saint_Ann.personal]] 
+- [[../../../../../../_secret/geo/Continent/America~Caribbean/Jamaica/Counties/Saint_Ann.secret|Saint_Ann.secret]] 
 

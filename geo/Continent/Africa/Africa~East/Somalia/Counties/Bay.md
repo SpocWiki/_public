@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 2.7 , 43.6 ] 
 type: geo-Region
 title: Bay
@@ -40,10 +40,11 @@ markerFolder: ./Bay/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Africa/Somalia/Counties/Bay.md|Bay]] 
-- [[../../../../_internal/geo/Continent/Africa/Somalia/Counties/Bay.internal|Bay.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Somalia/Counties/Bay.protect|Bay.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Somalia/Counties/Bay.private|Bay.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Somalia/Counties/Bay.personal|Bay.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Somalia/Counties/Bay.secret|Bay.secret]] 
+- [[../../../../../../_Standards/geo/Continent/Africa/Somalia/Counties/Bay|Bay]] 
+- [[../../../../../../_public/geo/Continent/Africa/Somalia/Counties/Bay.public|Bay.public]] 
+- [[../../../../../../_internal/geo/Continent/Africa/Somalia/Counties/Bay.internal|Bay.internal]] 
+- [[../../../../../../_protect/geo/Continent/Africa/Somalia/Counties/Bay.protect|Bay.protect]] 
+- [[../../../../../../_private/geo/Continent/Africa/Somalia/Counties/Bay.private|Bay.private]] 
+- [[../../../../../../_personal/geo/Continent/Africa/Somalia/Counties/Bay.personal|Bay.personal]] 
+- [[../../../../../../_secret/geo/Continent/Africa/Somalia/Counties/Bay.secret|Bay.secret]] 
 

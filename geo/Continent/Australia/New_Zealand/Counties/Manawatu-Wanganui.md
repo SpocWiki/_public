@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ -39.7 , 175.6 ] 
 type: geo-Region
 title: Manawatu-Wanganui
@@ -40,10 +40,11 @@ markerFolder: ./Manawatu-Wanganui/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Australia/New_Zealand/Counties/Manawatu-Wanganui.md|Manawatu-Wanganui]] 
-- [[../../../../_internal/geo/Continent/Australia/New_Zealand/Counties/Manawatu-Wanganui.internal|Manawatu-Wanganui.internal]] 
-- [[../../../../_protect/geo/Continent/Australia/New_Zealand/Counties/Manawatu-Wanganui.protect|Manawatu-Wanganui.protect]] 
-- [[../../../../_private/geo/Continent/Australia/New_Zealand/Counties/Manawatu-Wanganui.private|Manawatu-Wanganui.private]] 
-- [[../../../../_personal/geo/Continent/Australia/New_Zealand/Counties/Manawatu-Wanganui.personal|Manawatu-Wanganui.personal]] 
-- [[../../../../_secret/geo/Continent/Australia/New_Zealand/Counties/Manawatu-Wanganui.secret|Manawatu-Wanganui.secret]] 
+- [[../../../../../../_Standards/geo/Continent/Australia/New_Zealand/Counties/Manawatu-Wanganui|Manawatu-Wanganui]] 
+- [[../../../../../../_public/geo/Continent/Australia/New_Zealand/Counties/Manawatu-Wanganui.public|Manawatu-Wanganui.public]] 
+- [[../../../../../../_internal/geo/Continent/Australia/New_Zealand/Counties/Manawatu-Wanganui.internal|Manawatu-Wanganui.internal]] 
+- [[../../../../../../_protect/geo/Continent/Australia/New_Zealand/Counties/Manawatu-Wanganui.protect|Manawatu-Wanganui.protect]] 
+- [[../../../../../../_private/geo/Continent/Australia/New_Zealand/Counties/Manawatu-Wanganui.private|Manawatu-Wanganui.private]] 
+- [[../../../../../../_personal/geo/Continent/Australia/New_Zealand/Counties/Manawatu-Wanganui.personal|Manawatu-Wanganui.personal]] 
+- [[../../../../../../_secret/geo/Continent/Australia/New_Zealand/Counties/Manawatu-Wanganui.secret|Manawatu-Wanganui.secret]] 
 

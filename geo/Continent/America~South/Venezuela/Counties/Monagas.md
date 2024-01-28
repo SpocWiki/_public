@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 9.4 , -63.1 ] 
 type: geo-Region
 title: Monagas
@@ -40,10 +40,11 @@ markerFolder: ./Monagas/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/America~South/Venezuela/Counties/Monagas.md|Monagas]] 
-- [[../../../../_internal/geo/Continent/America~South/Venezuela/Counties/Monagas.internal|Monagas.internal]] 
-- [[../../../../_protect/geo/Continent/America~South/Venezuela/Counties/Monagas.protect|Monagas.protect]] 
-- [[../../../../_private/geo/Continent/America~South/Venezuela/Counties/Monagas.private|Monagas.private]] 
-- [[../../../../_personal/geo/Continent/America~South/Venezuela/Counties/Monagas.personal|Monagas.personal]] 
-- [[../../../../_secret/geo/Continent/America~South/Venezuela/Counties/Monagas.secret|Monagas.secret]] 
+- [[../../../../../../_Standards/geo/Continent/America~South/Venezuela/Counties/Monagas|Monagas]] 
+- [[../../../../../../_public/geo/Continent/America~South/Venezuela/Counties/Monagas.public|Monagas.public]] 
+- [[../../../../../../_internal/geo/Continent/America~South/Venezuela/Counties/Monagas.internal|Monagas.internal]] 
+- [[../../../../../../_protect/geo/Continent/America~South/Venezuela/Counties/Monagas.protect|Monagas.protect]] 
+- [[../../../../../../_private/geo/Continent/America~South/Venezuela/Counties/Monagas.private|Monagas.private]] 
+- [[../../../../../../_personal/geo/Continent/America~South/Venezuela/Counties/Monagas.personal|Monagas.personal]] 
+- [[../../../../../../_secret/geo/Continent/America~South/Venezuela/Counties/Monagas.secret|Monagas.secret]] 
 

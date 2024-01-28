@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 8.1 , 3.6 ] 
 type: geo-Region
 title: Oyo
@@ -40,10 +40,11 @@ markerFolder: ./Oyo/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Africa/Nigeria/Counties/Oyo.md|Oyo]] 
-- [[../../../../_internal/geo/Continent/Africa/Nigeria/Counties/Oyo.internal|Oyo.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Nigeria/Counties/Oyo.protect|Oyo.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Nigeria/Counties/Oyo.private|Oyo.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Nigeria/Counties/Oyo.personal|Oyo.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Nigeria/Counties/Oyo.secret|Oyo.secret]] 
+- [[../../../../../../_Standards/geo/Continent/Africa/Nigeria/Counties/Oyo|Oyo]] 
+- [[../../../../../../_public/geo/Continent/Africa/Nigeria/Counties/Oyo.public|Oyo.public]] 
+- [[../../../../../../_internal/geo/Continent/Africa/Nigeria/Counties/Oyo.internal|Oyo.internal]] 
+- [[../../../../../../_protect/geo/Continent/Africa/Nigeria/Counties/Oyo.protect|Oyo.protect]] 
+- [[../../../../../../_private/geo/Continent/Africa/Nigeria/Counties/Oyo.private|Oyo.private]] 
+- [[../../../../../../_personal/geo/Continent/Africa/Nigeria/Counties/Oyo.personal|Oyo.personal]] 
+- [[../../../../../../_secret/geo/Continent/Africa/Nigeria/Counties/Oyo.secret|Oyo.secret]] 
 

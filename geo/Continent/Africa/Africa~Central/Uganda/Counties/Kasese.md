@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 0.1 , 30 ] 
 type: geo-Region
 title: Kasese
@@ -40,10 +40,11 @@ markerFolder: ./Kasese/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Africa/Uganda/Counties/Kasese.md|Kasese]] 
-- [[../../../../_internal/geo/Continent/Africa/Uganda/Counties/Kasese.internal|Kasese.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Uganda/Counties/Kasese.protect|Kasese.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Uganda/Counties/Kasese.private|Kasese.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Uganda/Counties/Kasese.personal|Kasese.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Uganda/Counties/Kasese.secret|Kasese.secret]] 
+- [[../../../../../../_Standards/geo/Continent/Africa/Uganda/Counties/Kasese|Kasese]] 
+- [[../../../../../../_public/geo/Continent/Africa/Uganda/Counties/Kasese.public|Kasese.public]] 
+- [[../../../../../../_internal/geo/Continent/Africa/Uganda/Counties/Kasese.internal|Kasese.internal]] 
+- [[../../../../../../_protect/geo/Continent/Africa/Uganda/Counties/Kasese.protect|Kasese.protect]] 
+- [[../../../../../../_private/geo/Continent/Africa/Uganda/Counties/Kasese.private|Kasese.private]] 
+- [[../../../../../../_personal/geo/Continent/Africa/Uganda/Counties/Kasese.personal|Kasese.personal]] 
+- [[../../../../../../_secret/geo/Continent/Africa/Uganda/Counties/Kasese.secret|Kasese.secret]] 
 

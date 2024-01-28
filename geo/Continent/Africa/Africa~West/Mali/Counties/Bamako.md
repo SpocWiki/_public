@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 12.6 , -8 ] 
 type: geo-Region
 title: Bamako
@@ -40,10 +40,11 @@ markerFolder: ./Bamako/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Africa/Mali/Counties/Bamako.md|Bamako]] 
-- [[../../../../_internal/geo/Continent/Africa/Mali/Counties/Bamako.internal|Bamako.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Mali/Counties/Bamako.protect|Bamako.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Mali/Counties/Bamako.private|Bamako.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Mali/Counties/Bamako.personal|Bamako.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Mali/Counties/Bamako.secret|Bamako.secret]] 
+- [[../../../../../../_Standards/geo/Continent/Africa/Mali/Counties/Bamako|Bamako]] 
+- [[../../../../../../_public/geo/Continent/Africa/Mali/Counties/Bamako.public|Bamako.public]] 
+- [[../../../../../../_internal/geo/Continent/Africa/Mali/Counties/Bamako.internal|Bamako.internal]] 
+- [[../../../../../../_protect/geo/Continent/Africa/Mali/Counties/Bamako.protect|Bamako.protect]] 
+- [[../../../../../../_private/geo/Continent/Africa/Mali/Counties/Bamako.private|Bamako.private]] 
+- [[../../../../../../_personal/geo/Continent/Africa/Mali/Counties/Bamako.personal|Bamako.personal]] 
+- [[../../../../../../_secret/geo/Continent/Africa/Mali/Counties/Bamako.secret|Bamako.secret]] 
 

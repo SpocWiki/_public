@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ -20.6 , 17.3 ] 
 type: geo-Region
 title: Otjozondjupa
@@ -40,10 +40,11 @@ markerFolder: ./Otjozondjupa/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Africa/Namibia/Counties/Otjozondjupa.md|Otjozondjupa]] 
-- [[../../../../_internal/geo/Continent/Africa/Namibia/Counties/Otjozondjupa.internal|Otjozondjupa.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Namibia/Counties/Otjozondjupa.protect|Otjozondjupa.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Namibia/Counties/Otjozondjupa.private|Otjozondjupa.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Namibia/Counties/Otjozondjupa.personal|Otjozondjupa.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Namibia/Counties/Otjozondjupa.secret|Otjozondjupa.secret]] 
+- [[../../../../../../_Standards/geo/Continent/Africa/Namibia/Counties/Otjozondjupa|Otjozondjupa]] 
+- [[../../../../../../_public/geo/Continent/Africa/Namibia/Counties/Otjozondjupa.public|Otjozondjupa.public]] 
+- [[../../../../../../_internal/geo/Continent/Africa/Namibia/Counties/Otjozondjupa.internal|Otjozondjupa.internal]] 
+- [[../../../../../../_protect/geo/Continent/Africa/Namibia/Counties/Otjozondjupa.protect|Otjozondjupa.protect]] 
+- [[../../../../../../_private/geo/Continent/Africa/Namibia/Counties/Otjozondjupa.private|Otjozondjupa.private]] 
+- [[../../../../../../_personal/geo/Continent/Africa/Namibia/Counties/Otjozondjupa.personal|Otjozondjupa.personal]] 
+- [[../../../../../../_secret/geo/Continent/Africa/Namibia/Counties/Otjozondjupa.secret|Otjozondjupa.secret]] 
 

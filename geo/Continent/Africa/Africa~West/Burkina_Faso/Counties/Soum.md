@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 14.3 , -1.3 ] 
 type: geo-Region
 title: Soum
@@ -40,10 +40,11 @@ markerFolder: ./Soum/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Africa/Burkina_Faso/Counties/Soum.md|Soum]] 
-- [[../../../../_internal/geo/Continent/Africa/Burkina_Faso/Counties/Soum.internal|Soum.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Burkina_Faso/Counties/Soum.protect|Soum.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Burkina_Faso/Counties/Soum.private|Soum.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Burkina_Faso/Counties/Soum.personal|Soum.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Burkina_Faso/Counties/Soum.secret|Soum.secret]] 
+- [[../../../../../../_Standards/geo/Continent/Africa/Burkina_Faso/Counties/Soum|Soum]] 
+- [[../../../../../../_public/geo/Continent/Africa/Burkina_Faso/Counties/Soum.public|Soum.public]] 
+- [[../../../../../../_internal/geo/Continent/Africa/Burkina_Faso/Counties/Soum.internal|Soum.internal]] 
+- [[../../../../../../_protect/geo/Continent/Africa/Burkina_Faso/Counties/Soum.protect|Soum.protect]] 
+- [[../../../../../../_private/geo/Continent/Africa/Burkina_Faso/Counties/Soum.private|Soum.private]] 
+- [[../../../../../../_personal/geo/Continent/Africa/Burkina_Faso/Counties/Soum.personal|Soum.personal]] 
+- [[../../../../../../_secret/geo/Continent/Africa/Burkina_Faso/Counties/Soum.secret|Soum.secret]] 
 

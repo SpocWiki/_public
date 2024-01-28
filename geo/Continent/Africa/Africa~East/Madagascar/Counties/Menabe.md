@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ -20 , 45.1 ] 
 type: geo-Region
 title: Menabe
@@ -40,10 +40,11 @@ markerFolder: ./Menabe/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Africa/Madagascar/Counties/Menabe.md|Menabe]] 
-- [[../../../../_internal/geo/Continent/Africa/Madagascar/Counties/Menabe.internal|Menabe.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Madagascar/Counties/Menabe.protect|Menabe.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Madagascar/Counties/Menabe.private|Menabe.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Madagascar/Counties/Menabe.personal|Menabe.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Madagascar/Counties/Menabe.secret|Menabe.secret]] 
+- [[../../../../../../_Standards/geo/Continent/Africa/Madagascar/Counties/Menabe|Menabe]] 
+- [[../../../../../../_public/geo/Continent/Africa/Madagascar/Counties/Menabe.public|Menabe.public]] 
+- [[../../../../../../_internal/geo/Continent/Africa/Madagascar/Counties/Menabe.internal|Menabe.internal]] 
+- [[../../../../../../_protect/geo/Continent/Africa/Madagascar/Counties/Menabe.protect|Menabe.protect]] 
+- [[../../../../../../_private/geo/Continent/Africa/Madagascar/Counties/Menabe.private|Menabe.private]] 
+- [[../../../../../../_personal/geo/Continent/Africa/Madagascar/Counties/Menabe.personal|Menabe.personal]] 
+- [[../../../../../../_secret/geo/Continent/Africa/Madagascar/Counties/Menabe.secret|Menabe.secret]] 
 

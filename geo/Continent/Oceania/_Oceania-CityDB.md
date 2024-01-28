@@ -342,7 +342,8 @@ filters:
 ```
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Oceania/_Oceania-CityDB.md|_Oceania-CityDB]] 
+- [[../../../../_Standards/geo/Continent/Oceania/_Oceania-CityDB|_Oceania-CityDB]] 
+- [[../../../../_public/geo/Continent/Oceania/_Oceania-CityDB.public|_Oceania-CityDB.public]] 
 - [[../../../../_internal/geo/Continent/Oceania/_Oceania-CityDB.internal|_Oceania-CityDB.internal]] 
 - [[../../../../_protect/geo/Continent/Oceania/_Oceania-CityDB.protect|_Oceania-CityDB.protect]] 
 - [[../../../../_private/geo/Continent/Oceania/_Oceania-CityDB.private|_Oceania-CityDB.private]] 

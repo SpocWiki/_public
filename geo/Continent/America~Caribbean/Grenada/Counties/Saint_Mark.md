@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 12.19 , -61.68 ] 
 type: geo-Region
 title: Saint_Mark
@@ -40,10 +40,11 @@ markerFolder: ./Saint_Mark/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/America~Caribbean/Grenada/Counties/Saint_Mark.md|Saint_Mark]] 
-- [[../../../../_internal/geo/Continent/America~Caribbean/Grenada/Counties/Saint_Mark.internal|Saint_Mark.internal]] 
-- [[../../../../_protect/geo/Continent/America~Caribbean/Grenada/Counties/Saint_Mark.protect|Saint_Mark.protect]] 
-- [[../../../../_private/geo/Continent/America~Caribbean/Grenada/Counties/Saint_Mark.private|Saint_Mark.private]] 
-- [[../../../../_personal/geo/Continent/America~Caribbean/Grenada/Counties/Saint_Mark.personal|Saint_Mark.personal]] 
-- [[../../../../_secret/geo/Continent/America~Caribbean/Grenada/Counties/Saint_Mark.secret|Saint_Mark.secret]] 
+- [[../../../../../../_Standards/geo/Continent/America~Caribbean/Grenada/Counties/Saint_Mark|Saint_Mark]] 
+- [[../../../../../../_public/geo/Continent/America~Caribbean/Grenada/Counties/Saint_Mark.public|Saint_Mark.public]] 
+- [[../../../../../../_internal/geo/Continent/America~Caribbean/Grenada/Counties/Saint_Mark.internal|Saint_Mark.internal]] 
+- [[../../../../../../_protect/geo/Continent/America~Caribbean/Grenada/Counties/Saint_Mark.protect|Saint_Mark.protect]] 
+- [[../../../../../../_private/geo/Continent/America~Caribbean/Grenada/Counties/Saint_Mark.private|Saint_Mark.private]] 
+- [[../../../../../../_personal/geo/Continent/America~Caribbean/Grenada/Counties/Saint_Mark.personal|Saint_Mark.personal]] 
+- [[../../../../../../_secret/geo/Continent/America~Caribbean/Grenada/Counties/Saint_Mark.secret|Saint_Mark.secret]] 
 

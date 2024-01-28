@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 11.2 , -60.7 ] 
 type: geo-Region
 title: Western_Tobago
@@ -40,10 +40,11 @@ markerFolder: ./Western_Tobago/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/America~Caribbean/Trinidad_and_Tobago~Islands/Counties/Western_Tobago.md|Western_Tobago]] 
-- [[../../../../_internal/geo/Continent/America~Caribbean/Trinidad_and_Tobago~Islands/Counties/Western_Tobago.internal|Western_Tobago.internal]] 
-- [[../../../../_protect/geo/Continent/America~Caribbean/Trinidad_and_Tobago~Islands/Counties/Western_Tobago.protect|Western_Tobago.protect]] 
-- [[../../../../_private/geo/Continent/America~Caribbean/Trinidad_and_Tobago~Islands/Counties/Western_Tobago.private|Western_Tobago.private]] 
-- [[../../../../_personal/geo/Continent/America~Caribbean/Trinidad_and_Tobago~Islands/Counties/Western_Tobago.personal|Western_Tobago.personal]] 
-- [[../../../../_secret/geo/Continent/America~Caribbean/Trinidad_and_Tobago~Islands/Counties/Western_Tobago.secret|Western_Tobago.secret]] 
+- [[../../../../../../_Standards/geo/Continent/America~Caribbean/Trinidad_and_Tobago~Islands/Counties/Western_Tobago|Western_Tobago]] 
+- [[../../../../../../_public/geo/Continent/America~Caribbean/Trinidad_and_Tobago~Islands/Counties/Western_Tobago.public|Western_Tobago.public]] 
+- [[../../../../../../_internal/geo/Continent/America~Caribbean/Trinidad_and_Tobago~Islands/Counties/Western_Tobago.internal|Western_Tobago.internal]] 
+- [[../../../../../../_protect/geo/Continent/America~Caribbean/Trinidad_and_Tobago~Islands/Counties/Western_Tobago.protect|Western_Tobago.protect]] 
+- [[../../../../../../_private/geo/Continent/America~Caribbean/Trinidad_and_Tobago~Islands/Counties/Western_Tobago.private|Western_Tobago.private]] 
+- [[../../../../../../_personal/geo/Continent/America~Caribbean/Trinidad_and_Tobago~Islands/Counties/Western_Tobago.personal|Western_Tobago.personal]] 
+- [[../../../../../../_secret/geo/Continent/America~Caribbean/Trinidad_and_Tobago~Islands/Counties/Western_Tobago.secret|Western_Tobago.secret]] 
 

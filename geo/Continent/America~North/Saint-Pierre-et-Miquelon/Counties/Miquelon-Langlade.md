@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 47 , -56.3 ] 
 type: geo-Region
 title: Miquelon-Langlade
@@ -40,10 +40,11 @@ markerFolder: ./Miquelon-Langlade/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/America~North/Saint-Pierre-et-Miquelon/Counties/Miquelon-Langlade.md|Miquelon-Langlade]] 
-- [[../../../../_internal/geo/Continent/America~North/Saint-Pierre-et-Miquelon/Counties/Miquelon-Langlade.internal|Miquelon-Langlade.internal]] 
-- [[../../../../_protect/geo/Continent/America~North/Saint-Pierre-et-Miquelon/Counties/Miquelon-Langlade.protect|Miquelon-Langlade.protect]] 
-- [[../../../../_private/geo/Continent/America~North/Saint-Pierre-et-Miquelon/Counties/Miquelon-Langlade.private|Miquelon-Langlade.private]] 
-- [[../../../../_personal/geo/Continent/America~North/Saint-Pierre-et-Miquelon/Counties/Miquelon-Langlade.personal|Miquelon-Langlade.personal]] 
-- [[../../../../_secret/geo/Continent/America~North/Saint-Pierre-et-Miquelon/Counties/Miquelon-Langlade.secret|Miquelon-Langlade.secret]] 
+- [[../../../../../../_Standards/geo/Continent/America~North/Saint-Pierre-et-Miquelon/Counties/Miquelon-Langlade|Miquelon-Langlade]] 
+- [[../../../../../../_public/geo/Continent/America~North/Saint-Pierre-et-Miquelon/Counties/Miquelon-Langlade.public|Miquelon-Langlade.public]] 
+- [[../../../../../../_internal/geo/Continent/America~North/Saint-Pierre-et-Miquelon/Counties/Miquelon-Langlade.internal|Miquelon-Langlade.internal]] 
+- [[../../../../../../_protect/geo/Continent/America~North/Saint-Pierre-et-Miquelon/Counties/Miquelon-Langlade.protect|Miquelon-Langlade.protect]] 
+- [[../../../../../../_private/geo/Continent/America~North/Saint-Pierre-et-Miquelon/Counties/Miquelon-Langlade.private|Miquelon-Langlade.private]] 
+- [[../../../../../../_personal/geo/Continent/America~North/Saint-Pierre-et-Miquelon/Counties/Miquelon-Langlade.personal|Miquelon-Langlade.personal]] 
+- [[../../../../../../_secret/geo/Continent/America~North/Saint-Pierre-et-Miquelon/Counties/Miquelon-Langlade.secret|Miquelon-Langlade.secret]] 
 

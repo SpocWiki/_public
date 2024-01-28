@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ -25.1 , 22.3 ] 
 type: geo-Region
 title: Kgalagadi
@@ -40,10 +40,11 @@ markerFolder: ./Kgalagadi/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Africa/Botswana/Counties/Kgalagadi.md|Kgalagadi]] 
-- [[../../../../_internal/geo/Continent/Africa/Botswana/Counties/Kgalagadi.internal|Kgalagadi.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Botswana/Counties/Kgalagadi.protect|Kgalagadi.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Botswana/Counties/Kgalagadi.private|Kgalagadi.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Botswana/Counties/Kgalagadi.personal|Kgalagadi.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Botswana/Counties/Kgalagadi.secret|Kgalagadi.secret]] 
+- [[../../../../../../_Standards/geo/Continent/Africa/Botswana/Counties/Kgalagadi|Kgalagadi]] 
+- [[../../../../../../_public/geo/Continent/Africa/Botswana/Counties/Kgalagadi.public|Kgalagadi.public]] 
+- [[../../../../../../_internal/geo/Continent/Africa/Botswana/Counties/Kgalagadi.internal|Kgalagadi.internal]] 
+- [[../../../../../../_protect/geo/Continent/Africa/Botswana/Counties/Kgalagadi.protect|Kgalagadi.protect]] 
+- [[../../../../../../_private/geo/Continent/Africa/Botswana/Counties/Kgalagadi.private|Kgalagadi.private]] 
+- [[../../../../../../_personal/geo/Continent/Africa/Botswana/Counties/Kgalagadi.personal|Kgalagadi.personal]] 
+- [[../../../../../../_secret/geo/Continent/Africa/Botswana/Counties/Kgalagadi.secret|Kgalagadi.secret]] 
 

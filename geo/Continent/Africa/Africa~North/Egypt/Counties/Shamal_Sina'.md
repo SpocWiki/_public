@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 30.4 , 33.6 ] 
 type: geo-Region
 title: Shamal_Sina'
@@ -40,10 +40,11 @@ markerFolder: ./Shamal_Sina'/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Africa/Egypt/Counties/Shamal_Sina'.md|Shamal_Sina']] 
-- [[../../../../_internal/geo/Continent/Africa/Egypt/Counties/Shamal_Sina'.internal|Shamal_Sina'.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Egypt/Counties/Shamal_Sina'.protect|Shamal_Sina'.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Egypt/Counties/Shamal_Sina'.private|Shamal_Sina'.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Egypt/Counties/Shamal_Sina'.personal|Shamal_Sina'.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Egypt/Counties/Shamal_Sina'.secret|Shamal_Sina'.secret]] 
+- [[../../../../../../_Standards/geo/Continent/Africa/Egypt/Counties/Shamal_Sina'|Shamal_Sina']] 
+- [[../../../../../../_public/geo/Continent/Africa/Egypt/Counties/Shamal_Sina'.public|Shamal_Sina'.public]] 
+- [[../../../../../../_internal/geo/Continent/Africa/Egypt/Counties/Shamal_Sina'.internal|Shamal_Sina'.internal]] 
+- [[../../../../../../_protect/geo/Continent/Africa/Egypt/Counties/Shamal_Sina'.protect|Shamal_Sina'.protect]] 
+- [[../../../../../../_private/geo/Continent/Africa/Egypt/Counties/Shamal_Sina'.private|Shamal_Sina'.private]] 
+- [[../../../../../../_personal/geo/Continent/Africa/Egypt/Counties/Shamal_Sina'.personal|Shamal_Sina'.personal]] 
+- [[../../../../../../_secret/geo/Continent/Africa/Egypt/Counties/Shamal_Sina'.secret|Shamal_Sina'.secret]] 
 

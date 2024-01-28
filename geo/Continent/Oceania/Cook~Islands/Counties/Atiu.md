@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ -20 , 201.9 ] 
 type: geo-Region
 title: Atiu
@@ -40,10 +40,11 @@ markerFolder: ./Atiu/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Oceania/Cook~Islands/Counties/Atiu.md|Atiu]] 
-- [[../../../../_internal/geo/Continent/Oceania/Cook~Islands/Counties/Atiu.internal|Atiu.internal]] 
-- [[../../../../_protect/geo/Continent/Oceania/Cook~Islands/Counties/Atiu.protect|Atiu.protect]] 
-- [[../../../../_private/geo/Continent/Oceania/Cook~Islands/Counties/Atiu.private|Atiu.private]] 
-- [[../../../../_personal/geo/Continent/Oceania/Cook~Islands/Counties/Atiu.personal|Atiu.personal]] 
-- [[../../../../_secret/geo/Continent/Oceania/Cook~Islands/Counties/Atiu.secret|Atiu.secret]] 
+- [[../../../../../../_Standards/geo/Continent/Oceania/Cook~Islands/Counties/Atiu|Atiu]] 
+- [[../../../../../../_public/geo/Continent/Oceania/Cook~Islands/Counties/Atiu.public|Atiu.public]] 
+- [[../../../../../../_internal/geo/Continent/Oceania/Cook~Islands/Counties/Atiu.internal|Atiu.internal]] 
+- [[../../../../../../_protect/geo/Continent/Oceania/Cook~Islands/Counties/Atiu.protect|Atiu.protect]] 
+- [[../../../../../../_private/geo/Continent/Oceania/Cook~Islands/Counties/Atiu.private|Atiu.private]] 
+- [[../../../../../../_personal/geo/Continent/Oceania/Cook~Islands/Counties/Atiu.personal|Atiu.personal]] 
+- [[../../../../../../_secret/geo/Continent/Oceania/Cook~Islands/Counties/Atiu.secret|Atiu.secret]] 
 

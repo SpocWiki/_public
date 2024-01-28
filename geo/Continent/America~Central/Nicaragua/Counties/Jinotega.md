@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 13.8 , -85.4 ] 
 type: geo-Region
 title: Jinotega
@@ -40,10 +40,11 @@ markerFolder: ./Jinotega/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/America~Central/Nicaragua/Counties/Jinotega.md|Jinotega]] 
-- [[../../../../_internal/geo/Continent/America~Central/Nicaragua/Counties/Jinotega.internal|Jinotega.internal]] 
-- [[../../../../_protect/geo/Continent/America~Central/Nicaragua/Counties/Jinotega.protect|Jinotega.protect]] 
-- [[../../../../_private/geo/Continent/America~Central/Nicaragua/Counties/Jinotega.private|Jinotega.private]] 
-- [[../../../../_personal/geo/Continent/America~Central/Nicaragua/Counties/Jinotega.personal|Jinotega.personal]] 
-- [[../../../../_secret/geo/Continent/America~Central/Nicaragua/Counties/Jinotega.secret|Jinotega.secret]] 
+- [[../../../../../../_Standards/geo/Continent/America~Central/Nicaragua/Counties/Jinotega|Jinotega]] 
+- [[../../../../../../_public/geo/Continent/America~Central/Nicaragua/Counties/Jinotega.public|Jinotega.public]] 
+- [[../../../../../../_internal/geo/Continent/America~Central/Nicaragua/Counties/Jinotega.internal|Jinotega.internal]] 
+- [[../../../../../../_protect/geo/Continent/America~Central/Nicaragua/Counties/Jinotega.protect|Jinotega.protect]] 
+- [[../../../../../../_private/geo/Continent/America~Central/Nicaragua/Counties/Jinotega.private|Jinotega.private]] 
+- [[../../../../../../_personal/geo/Continent/America~Central/Nicaragua/Counties/Jinotega.personal|Jinotega.personal]] 
+- [[../../../../../../_secret/geo/Continent/America~Central/Nicaragua/Counties/Jinotega.secret|Jinotega.secret]] 
 

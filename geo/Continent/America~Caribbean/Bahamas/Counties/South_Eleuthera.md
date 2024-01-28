@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 24.8 , -76.3 ] 
 type: geo-Region
 title: South_Eleuthera
@@ -40,10 +40,11 @@ markerFolder: ./South_Eleuthera/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/America~Caribbean/Bahamas/Counties/South_Eleuthera.md|South_Eleuthera]] 
-- [[../../../../_internal/geo/Continent/America~Caribbean/Bahamas/Counties/South_Eleuthera.internal|South_Eleuthera.internal]] 
-- [[../../../../_protect/geo/Continent/America~Caribbean/Bahamas/Counties/South_Eleuthera.protect|South_Eleuthera.protect]] 
-- [[../../../../_private/geo/Continent/America~Caribbean/Bahamas/Counties/South_Eleuthera.private|South_Eleuthera.private]] 
-- [[../../../../_personal/geo/Continent/America~Caribbean/Bahamas/Counties/South_Eleuthera.personal|South_Eleuthera.personal]] 
-- [[../../../../_secret/geo/Continent/America~Caribbean/Bahamas/Counties/South_Eleuthera.secret|South_Eleuthera.secret]] 
+- [[../../../../../../_Standards/geo/Continent/America~Caribbean/Bahamas/Counties/South_Eleuthera|South_Eleuthera]] 
+- [[../../../../../../_public/geo/Continent/America~Caribbean/Bahamas/Counties/South_Eleuthera.public|South_Eleuthera.public]] 
+- [[../../../../../../_internal/geo/Continent/America~Caribbean/Bahamas/Counties/South_Eleuthera.internal|South_Eleuthera.internal]] 
+- [[../../../../../../_protect/geo/Continent/America~Caribbean/Bahamas/Counties/South_Eleuthera.protect|South_Eleuthera.protect]] 
+- [[../../../../../../_private/geo/Continent/America~Caribbean/Bahamas/Counties/South_Eleuthera.private|South_Eleuthera.private]] 
+- [[../../../../../../_personal/geo/Continent/America~Caribbean/Bahamas/Counties/South_Eleuthera.personal|South_Eleuthera.personal]] 
+- [[../../../../../../_secret/geo/Continent/America~Caribbean/Bahamas/Counties/South_Eleuthera.secret|South_Eleuthera.secret]] 
 

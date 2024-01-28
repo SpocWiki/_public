@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 7.1 , -75.4 ] 
 type: geo-Region
 title: Antioquia
@@ -40,10 +40,11 @@ markerFolder: ./Antioquia/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/America~South/Colombia/Counties/Antioquia.md|Antioquia]] 
-- [[../../../../_internal/geo/Continent/America~South/Colombia/Counties/Antioquia.internal|Antioquia.internal]] 
-- [[../../../../_protect/geo/Continent/America~South/Colombia/Counties/Antioquia.protect|Antioquia.protect]] 
-- [[../../../../_private/geo/Continent/America~South/Colombia/Counties/Antioquia.private|Antioquia.private]] 
-- [[../../../../_personal/geo/Continent/America~South/Colombia/Counties/Antioquia.personal|Antioquia.personal]] 
-- [[../../../../_secret/geo/Continent/America~South/Colombia/Counties/Antioquia.secret|Antioquia.secret]] 
+- [[../../../../../../_Standards/geo/Continent/America~South/Colombia/Counties/Antioquia|Antioquia]] 
+- [[../../../../../../_public/geo/Continent/America~South/Colombia/Counties/Antioquia.public|Antioquia.public]] 
+- [[../../../../../../_internal/geo/Continent/America~South/Colombia/Counties/Antioquia.internal|Antioquia.internal]] 
+- [[../../../../../../_protect/geo/Continent/America~South/Colombia/Counties/Antioquia.protect|Antioquia.protect]] 
+- [[../../../../../../_private/geo/Continent/America~South/Colombia/Counties/Antioquia.private|Antioquia.private]] 
+- [[../../../../../../_personal/geo/Continent/America~South/Colombia/Counties/Antioquia.personal|Antioquia.personal]] 
+- [[../../../../../../_secret/geo/Continent/America~South/Colombia/Counties/Antioquia.secret|Antioquia.secret]] 
 

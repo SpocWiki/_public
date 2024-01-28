@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 11.7 , -9.5 ] 
 type: geo-Region
 title: Siguiri
@@ -40,10 +40,11 @@ markerFolder: ./Siguiri/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Africa/Guinea/Counties/Siguiri.md|Siguiri]] 
-- [[../../../../_internal/geo/Continent/Africa/Guinea/Counties/Siguiri.internal|Siguiri.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Guinea/Counties/Siguiri.protect|Siguiri.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Guinea/Counties/Siguiri.private|Siguiri.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Guinea/Counties/Siguiri.personal|Siguiri.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Guinea/Counties/Siguiri.secret|Siguiri.secret]] 
+- [[../../../../../../_Standards/geo/Continent/Africa/Guinea/Counties/Siguiri|Siguiri]] 
+- [[../../../../../../_public/geo/Continent/Africa/Guinea/Counties/Siguiri.public|Siguiri.public]] 
+- [[../../../../../../_internal/geo/Continent/Africa/Guinea/Counties/Siguiri.internal|Siguiri.internal]] 
+- [[../../../../../../_protect/geo/Continent/Africa/Guinea/Counties/Siguiri.protect|Siguiri.protect]] 
+- [[../../../../../../_private/geo/Continent/Africa/Guinea/Counties/Siguiri.private|Siguiri.private]] 
+- [[../../../../../../_personal/geo/Continent/Africa/Guinea/Counties/Siguiri.personal|Siguiri.personal]] 
+- [[../../../../../../_secret/geo/Continent/Africa/Guinea/Counties/Siguiri.secret|Siguiri.secret]] 
 

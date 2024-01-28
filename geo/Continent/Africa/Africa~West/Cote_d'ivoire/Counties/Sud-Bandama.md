@@ -40,10 +40,11 @@ markerFolder: ./Sud-Bandama/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Africa/Cote_d'Ivoire/Counties/Sud-Bandama.md|Sud-Bandama]] 
-- [[../../../../_internal/geo/Continent/Africa/Cote_d'Ivoire/Counties/Sud-Bandama.internal|Sud-Bandama.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Cote_d'Ivoire/Counties/Sud-Bandama.protect|Sud-Bandama.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Cote_d'Ivoire/Counties/Sud-Bandama.private|Sud-Bandama.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Cote_d'Ivoire/Counties/Sud-Bandama.personal|Sud-Bandama.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Cote_d'Ivoire/Counties/Sud-Bandama.secret|Sud-Bandama.secret]] 
+- [[../../../../../../_Standards/geo/Continent/Africa/Cote_d'Ivoire/Counties/Sud-Bandama|Sud-Bandama]] 
+- [[../../../../../../_public/geo/Continent/Africa/Cote_d'Ivoire/Counties/Sud-Bandama.public|Sud-Bandama.public]] 
+- [[../../../../../../_internal/geo/Continent/Africa/Cote_d'Ivoire/Counties/Sud-Bandama.internal|Sud-Bandama.internal]] 
+- [[../../../../../../_protect/geo/Continent/Africa/Cote_d'Ivoire/Counties/Sud-Bandama.protect|Sud-Bandama.protect]] 
+- [[../../../../../../_private/geo/Continent/Africa/Cote_d'Ivoire/Counties/Sud-Bandama.private|Sud-Bandama.private]] 
+- [[../../../../../../_personal/geo/Continent/Africa/Cote_d'Ivoire/Counties/Sud-Bandama.personal|Sud-Bandama.personal]] 
+- [[../../../../../../_secret/geo/Continent/Africa/Cote_d'Ivoire/Counties/Sud-Bandama.secret|Sud-Bandama.secret]] 
 

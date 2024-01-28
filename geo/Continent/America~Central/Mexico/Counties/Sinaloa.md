@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 24.8 , -107.4 ] 
 type: geo-Region
 title: Sinaloa
@@ -40,10 +40,11 @@ markerFolder: ./Sinaloa/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/America~Central/Mexico/Counties/Sinaloa.md|Sinaloa]] 
-- [[../../../../_internal/geo/Continent/America~Central/Mexico/Counties/Sinaloa.internal|Sinaloa.internal]] 
-- [[../../../../_protect/geo/Continent/America~Central/Mexico/Counties/Sinaloa.protect|Sinaloa.protect]] 
-- [[../../../../_private/geo/Continent/America~Central/Mexico/Counties/Sinaloa.private|Sinaloa.private]] 
-- [[../../../../_personal/geo/Continent/America~Central/Mexico/Counties/Sinaloa.personal|Sinaloa.personal]] 
-- [[../../../../_secret/geo/Continent/America~Central/Mexico/Counties/Sinaloa.secret|Sinaloa.secret]] 
+- [[../../../../../../_Standards/geo/Continent/America~Central/Mexico/Counties/Sinaloa|Sinaloa]] 
+- [[../../../../../../_public/geo/Continent/America~Central/Mexico/Counties/Sinaloa.public|Sinaloa.public]] 
+- [[../../../../../../_internal/geo/Continent/America~Central/Mexico/Counties/Sinaloa.internal|Sinaloa.internal]] 
+- [[../../../../../../_protect/geo/Continent/America~Central/Mexico/Counties/Sinaloa.protect|Sinaloa.protect]] 
+- [[../../../../../../_private/geo/Continent/America~Central/Mexico/Counties/Sinaloa.private|Sinaloa.private]] 
+- [[../../../../../../_personal/geo/Continent/America~Central/Mexico/Counties/Sinaloa.personal|Sinaloa.personal]] 
+- [[../../../../../../_secret/geo/Continent/America~Central/Mexico/Counties/Sinaloa.secret|Sinaloa.secret]] 
 

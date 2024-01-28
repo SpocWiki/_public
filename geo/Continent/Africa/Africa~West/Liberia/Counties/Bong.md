@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 6.9 , -9.8 ] 
 type: geo-Region
 title: Bong
@@ -40,10 +40,11 @@ markerFolder: ./Bong/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Africa/Liberia/Counties/Bong.md|Bong]] 
-- [[../../../../_internal/geo/Continent/Africa/Liberia/Counties/Bong.internal|Bong.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Liberia/Counties/Bong.protect|Bong.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Liberia/Counties/Bong.private|Bong.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Liberia/Counties/Bong.personal|Bong.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Liberia/Counties/Bong.secret|Bong.secret]] 
+- [[../../../../../../_Standards/geo/Continent/Africa/Liberia/Counties/Bong|Bong]] 
+- [[../../../../../../_public/geo/Continent/Africa/Liberia/Counties/Bong.public|Bong.public]] 
+- [[../../../../../../_internal/geo/Continent/Africa/Liberia/Counties/Bong.internal|Bong.internal]] 
+- [[../../../../../../_protect/geo/Continent/Africa/Liberia/Counties/Bong.protect|Bong.protect]] 
+- [[../../../../../../_private/geo/Continent/Africa/Liberia/Counties/Bong.private|Bong.private]] 
+- [[../../../../../../_personal/geo/Continent/Africa/Liberia/Counties/Bong.personal|Bong.personal]] 
+- [[../../../../../../_secret/geo/Continent/Africa/Liberia/Counties/Bong.secret|Bong.secret]] 
 

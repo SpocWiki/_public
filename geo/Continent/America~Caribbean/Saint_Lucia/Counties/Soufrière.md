@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 13.85 , -61.02 ] 
 type: geo-Region
 title: Soufrière
@@ -40,10 +40,11 @@ markerFolder: ./Soufrière/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/America~Caribbean/Saint_Lucia/Counties/Soufrière.md|Soufrière]] 
-- [[../../../../_internal/geo/Continent/America~Caribbean/Saint_Lucia/Counties/Soufrière.internal|Soufrière.internal]] 
-- [[../../../../_protect/geo/Continent/America~Caribbean/Saint_Lucia/Counties/Soufrière.protect|Soufrière.protect]] 
-- [[../../../../_private/geo/Continent/America~Caribbean/Saint_Lucia/Counties/Soufrière.private|Soufrière.private]] 
-- [[../../../../_personal/geo/Continent/America~Caribbean/Saint_Lucia/Counties/Soufrière.personal|Soufrière.personal]] 
-- [[../../../../_secret/geo/Continent/America~Caribbean/Saint_Lucia/Counties/Soufrière.secret|Soufrière.secret]] 
+- [[../../../../../../_Standards/geo/Continent/America~Caribbean/Saint_Lucia/Counties/Soufrière|Soufrière]] 
+- [[../../../../../../_public/geo/Continent/America~Caribbean/Saint_Lucia/Counties/Soufrière.public|Soufrière.public]] 
+- [[../../../../../../_internal/geo/Continent/America~Caribbean/Saint_Lucia/Counties/Soufrière.internal|Soufrière.internal]] 
+- [[../../../../../../_protect/geo/Continent/America~Caribbean/Saint_Lucia/Counties/Soufrière.protect|Soufrière.protect]] 
+- [[../../../../../../_private/geo/Continent/America~Caribbean/Saint_Lucia/Counties/Soufrière.private|Soufrière.private]] 
+- [[../../../../../../_personal/geo/Continent/America~Caribbean/Saint_Lucia/Counties/Soufrière.personal|Soufrière.personal]] 
+- [[../../../../../../_secret/geo/Continent/America~Caribbean/Saint_Lucia/Counties/Soufrière.secret|Soufrière.secret]] 
 

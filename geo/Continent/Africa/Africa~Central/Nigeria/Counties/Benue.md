@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 7.856317449994108 , 8.966699218750023 ] 
 type: geo-Region
 title: Benue
@@ -40,10 +40,11 @@ markerFolder: ./Benue/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Africa/Nigeria/Counties/Benue.md|Benue]] 
-- [[../../../../_internal/geo/Continent/Africa/Nigeria/Counties/Benue.internal|Benue.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Nigeria/Counties/Benue.protect|Benue.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Nigeria/Counties/Benue.private|Benue.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Nigeria/Counties/Benue.personal|Benue.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Nigeria/Counties/Benue.secret|Benue.secret]] 
+- [[../../../../../../_Standards/geo/Continent/Africa/Nigeria/Counties/Benue|Benue]] 
+- [[../../../../../../_public/geo/Continent/Africa/Nigeria/Counties/Benue.public|Benue.public]] 
+- [[../../../../../../_internal/geo/Continent/Africa/Nigeria/Counties/Benue.internal|Benue.internal]] 
+- [[../../../../../../_protect/geo/Continent/Africa/Nigeria/Counties/Benue.protect|Benue.protect]] 
+- [[../../../../../../_private/geo/Continent/Africa/Nigeria/Counties/Benue.private|Benue.private]] 
+- [[../../../../../../_personal/geo/Continent/Africa/Nigeria/Counties/Benue.personal|Benue.personal]] 
+- [[../../../../../../_secret/geo/Continent/Africa/Nigeria/Counties/Benue.secret|Benue.secret]] 
 

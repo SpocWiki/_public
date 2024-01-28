@@ -21,12 +21,13 @@ markerFolder: ./America~South//
 zoomFeatures: false 
 ```
 
-[name-en::South America]
-[name-de::Südamerika]
-[ #has/_code  :: SA ]
+[name-en::South America] 
+[name-de::Südamerika] 
+[ #has/_code  :: SA ] 
 
 ## Confidential Links & Embeds: 
-- [[../../../_public/geo/Continent/America~South.md|America~South]] 
+- [[../../../_Standards/geo/Continent/America~South|America~South]] 
+- [[../../../_public/geo/Continent/America~South.public|America~South.public]] 
 - [[../../../_internal/geo/Continent/America~South.internal|America~South.internal]] 
 - [[_protect/geo/Continent/America~South.protect|America~South.protect]] 
 - [[_private/geo/Continent/America~South.private|America~South.private]] 

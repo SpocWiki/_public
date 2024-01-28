@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 15 , 15 ] 
 type: geo-Region
 title: Kanem
@@ -40,10 +40,11 @@ markerFolder: ./Kanem/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Africa/Chad/Counties/Kanem.md|Kanem]] 
-- [[../../../../_internal/geo/Continent/Africa/Chad/Counties/Kanem.internal|Kanem.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Chad/Counties/Kanem.protect|Kanem.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Chad/Counties/Kanem.private|Kanem.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Chad/Counties/Kanem.personal|Kanem.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Chad/Counties/Kanem.secret|Kanem.secret]] 
+- [[../../../../../../_Standards/geo/Continent/Africa/Chad/Counties/Kanem|Kanem]] 
+- [[../../../../../../_public/geo/Continent/Africa/Chad/Counties/Kanem.public|Kanem.public]] 
+- [[../../../../../../_internal/geo/Continent/Africa/Chad/Counties/Kanem.internal|Kanem.internal]] 
+- [[../../../../../../_protect/geo/Continent/Africa/Chad/Counties/Kanem.protect|Kanem.protect]] 
+- [[../../../../../../_private/geo/Continent/Africa/Chad/Counties/Kanem.private|Kanem.private]] 
+- [[../../../../../../_personal/geo/Continent/Africa/Chad/Counties/Kanem.personal|Kanem.personal]] 
+- [[../../../../../../_secret/geo/Continent/Africa/Chad/Counties/Kanem.secret|Kanem.secret]] 
 

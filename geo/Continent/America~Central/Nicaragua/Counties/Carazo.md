@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 11.7 , -86.3 ] 
 type: geo-Region
 title: Carazo
@@ -40,10 +40,11 @@ markerFolder: ./Carazo/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/America~Central/Nicaragua/Counties/Carazo.md|Carazo]] 
-- [[../../../../_internal/geo/Continent/America~Central/Nicaragua/Counties/Carazo.internal|Carazo.internal]] 
-- [[../../../../_protect/geo/Continent/America~Central/Nicaragua/Counties/Carazo.protect|Carazo.protect]] 
-- [[../../../../_private/geo/Continent/America~Central/Nicaragua/Counties/Carazo.private|Carazo.private]] 
-- [[../../../../_personal/geo/Continent/America~Central/Nicaragua/Counties/Carazo.personal|Carazo.personal]] 
-- [[../../../../_secret/geo/Continent/America~Central/Nicaragua/Counties/Carazo.secret|Carazo.secret]] 
+- [[../../../../../../_Standards/geo/Continent/America~Central/Nicaragua/Counties/Carazo|Carazo]] 
+- [[../../../../../../_public/geo/Continent/America~Central/Nicaragua/Counties/Carazo.public|Carazo.public]] 
+- [[../../../../../../_internal/geo/Continent/America~Central/Nicaragua/Counties/Carazo.internal|Carazo.internal]] 
+- [[../../../../../../_protect/geo/Continent/America~Central/Nicaragua/Counties/Carazo.protect|Carazo.protect]] 
+- [[../../../../../../_private/geo/Continent/America~Central/Nicaragua/Counties/Carazo.private|Carazo.private]] 
+- [[../../../../../../_personal/geo/Continent/America~Central/Nicaragua/Counties/Carazo.personal|Carazo.personal]] 
+- [[../../../../../../_secret/geo/Continent/America~Central/Nicaragua/Counties/Carazo.secret|Carazo.secret]] 
 

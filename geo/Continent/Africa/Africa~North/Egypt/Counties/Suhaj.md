@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 26.5 , 31.8 ] 
 type: geo-Region
 title: Suhaj
@@ -40,10 +40,11 @@ markerFolder: ./Suhaj/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Africa/Egypt/Counties/Suhaj.md|Suhaj]] 
-- [[../../../../_internal/geo/Continent/Africa/Egypt/Counties/Suhaj.internal|Suhaj.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Egypt/Counties/Suhaj.protect|Suhaj.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Egypt/Counties/Suhaj.private|Suhaj.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Egypt/Counties/Suhaj.personal|Suhaj.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Egypt/Counties/Suhaj.secret|Suhaj.secret]] 
+- [[../../../../../../_Standards/geo/Continent/Africa/Egypt/Counties/Suhaj|Suhaj]] 
+- [[../../../../../../_public/geo/Continent/Africa/Egypt/Counties/Suhaj.public|Suhaj.public]] 
+- [[../../../../../../_internal/geo/Continent/Africa/Egypt/Counties/Suhaj.internal|Suhaj.internal]] 
+- [[../../../../../../_protect/geo/Continent/Africa/Egypt/Counties/Suhaj.protect|Suhaj.protect]] 
+- [[../../../../../../_private/geo/Continent/Africa/Egypt/Counties/Suhaj.private|Suhaj.private]] 
+- [[../../../../../../_personal/geo/Continent/Africa/Egypt/Counties/Suhaj.personal|Suhaj.personal]] 
+- [[../../../../../../_secret/geo/Continent/Africa/Egypt/Counties/Suhaj.secret|Suhaj.secret]] 
 

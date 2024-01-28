@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 15.2 , 9.7 ] 
 type: geo-Region
 title: Zinder
@@ -40,10 +40,11 @@ markerFolder: ./Zinder/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Africa/Niger/Counties/Zinder.md|Zinder]] 
-- [[../../../../_internal/geo/Continent/Africa/Niger/Counties/Zinder.internal|Zinder.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Niger/Counties/Zinder.protect|Zinder.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Niger/Counties/Zinder.private|Zinder.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Niger/Counties/Zinder.personal|Zinder.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Niger/Counties/Zinder.secret|Zinder.secret]] 
+- [[../../../../../../_Standards/geo/Continent/Africa/Niger/Counties/Zinder|Zinder]] 
+- [[../../../../../../_public/geo/Continent/Africa/Niger/Counties/Zinder.public|Zinder.public]] 
+- [[../../../../../../_internal/geo/Continent/Africa/Niger/Counties/Zinder.internal|Zinder.internal]] 
+- [[../../../../../../_protect/geo/Continent/Africa/Niger/Counties/Zinder.protect|Zinder.protect]] 
+- [[../../../../../../_private/geo/Continent/Africa/Niger/Counties/Zinder.private|Zinder.private]] 
+- [[../../../../../../_personal/geo/Continent/Africa/Niger/Counties/Zinder.personal|Zinder.personal]] 
+- [[../../../../../../_secret/geo/Continent/Africa/Niger/Counties/Zinder.secret|Zinder.secret]] 
 

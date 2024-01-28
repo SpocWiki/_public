@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ -17.5 , -61.4 ] 
 type: geo-Region
 title: _Lakes
@@ -40,10 +40,11 @@ markerFolder: ./_Lakes/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/America~South/Bolivia/Counties/Santa_Cruz/_Lakes.md|_Lakes]] 
-- [[../../../../_internal/geo/Continent/America~South/Bolivia/Counties/Santa_Cruz/_Lakes.internal|_Lakes.internal]] 
-- [[../../../../_protect/geo/Continent/America~South/Bolivia/Counties/Santa_Cruz/_Lakes.protect|_Lakes.protect]] 
-- [[../../../../_private/geo/Continent/America~South/Bolivia/Counties/Santa_Cruz/_Lakes.private|_Lakes.private]] 
-- [[../../../../_personal/geo/Continent/America~South/Bolivia/Counties/Santa_Cruz/_Lakes.personal|_Lakes.personal]] 
-- [[../../../../_secret/geo/Continent/America~South/Bolivia/Counties/Santa_Cruz/_Lakes.secret|_Lakes.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/America~South/Bolivia/Counties/Santa_Cruz/_Lakes|_Lakes]] 
+- [[../../../../../../../_public/geo/Continent/America~South/Bolivia/Counties/Santa_Cruz/_Lakes.public|_Lakes.public]] 
+- [[../../../../../../../_internal/geo/Continent/America~South/Bolivia/Counties/Santa_Cruz/_Lakes.internal|_Lakes.internal]] 
+- [[../../../../../../../_protect/geo/Continent/America~South/Bolivia/Counties/Santa_Cruz/_Lakes.protect|_Lakes.protect]] 
+- [[../../../../../../../_private/geo/Continent/America~South/Bolivia/Counties/Santa_Cruz/_Lakes.private|_Lakes.private]] 
+- [[../../../../../../../_personal/geo/Continent/America~South/Bolivia/Counties/Santa_Cruz/_Lakes.personal|_Lakes.personal]] 
+- [[../../../../../../../_secret/geo/Continent/America~South/Bolivia/Counties/Santa_Cruz/_Lakes.secret|_Lakes.secret]] 
 

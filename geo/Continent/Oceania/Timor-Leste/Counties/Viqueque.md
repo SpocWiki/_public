@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ -8.8 , 126.3 ] 
 type: geo-Region
 title: Viqueque
@@ -40,10 +40,11 @@ markerFolder: ./Viqueque/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Oceania/Timor-Leste/Counties/Viqueque.md|Viqueque]] 
-- [[../../../../_internal/geo/Continent/Oceania/Timor-Leste/Counties/Viqueque.internal|Viqueque.internal]] 
-- [[../../../../_protect/geo/Continent/Oceania/Timor-Leste/Counties/Viqueque.protect|Viqueque.protect]] 
-- [[../../../../_private/geo/Continent/Oceania/Timor-Leste/Counties/Viqueque.private|Viqueque.private]] 
-- [[../../../../_personal/geo/Continent/Oceania/Timor-Leste/Counties/Viqueque.personal|Viqueque.personal]] 
-- [[../../../../_secret/geo/Continent/Oceania/Timor-Leste/Counties/Viqueque.secret|Viqueque.secret]] 
+- [[../../../../../../_Standards/geo/Continent/Oceania/Timor-Leste/Counties/Viqueque|Viqueque]] 
+- [[../../../../../../_public/geo/Continent/Oceania/Timor-Leste/Counties/Viqueque.public|Viqueque.public]] 
+- [[../../../../../../_internal/geo/Continent/Oceania/Timor-Leste/Counties/Viqueque.internal|Viqueque.internal]] 
+- [[../../../../../../_protect/geo/Continent/Oceania/Timor-Leste/Counties/Viqueque.protect|Viqueque.protect]] 
+- [[../../../../../../_private/geo/Continent/Oceania/Timor-Leste/Counties/Viqueque.private|Viqueque.private]] 
+- [[../../../../../../_personal/geo/Continent/Oceania/Timor-Leste/Counties/Viqueque.personal|Viqueque.personal]] 
+- [[../../../../../../_secret/geo/Continent/Oceania/Timor-Leste/Counties/Viqueque.secret|Viqueque.secret]] 
 

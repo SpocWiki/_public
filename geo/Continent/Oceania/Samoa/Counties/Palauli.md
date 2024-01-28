@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ -13.7 , 187.5 ] 
 type: geo-Region
 title: Palauli
@@ -40,10 +40,11 @@ markerFolder: ./Palauli/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Oceania/Samoa/Counties/Palauli.md|Palauli]] 
-- [[../../../../_internal/geo/Continent/Oceania/Samoa/Counties/Palauli.internal|Palauli.internal]] 
-- [[../../../../_protect/geo/Continent/Oceania/Samoa/Counties/Palauli.protect|Palauli.protect]] 
-- [[../../../../_private/geo/Continent/Oceania/Samoa/Counties/Palauli.private|Palauli.private]] 
-- [[../../../../_personal/geo/Continent/Oceania/Samoa/Counties/Palauli.personal|Palauli.personal]] 
-- [[../../../../_secret/geo/Continent/Oceania/Samoa/Counties/Palauli.secret|Palauli.secret]] 
+- [[../../../../../../_Standards/geo/Continent/Oceania/Samoa/Counties/Palauli|Palauli]] 
+- [[../../../../../../_public/geo/Continent/Oceania/Samoa/Counties/Palauli.public|Palauli.public]] 
+- [[../../../../../../_internal/geo/Continent/Oceania/Samoa/Counties/Palauli.internal|Palauli.internal]] 
+- [[../../../../../../_protect/geo/Continent/Oceania/Samoa/Counties/Palauli.protect|Palauli.protect]] 
+- [[../../../../../../_private/geo/Continent/Oceania/Samoa/Counties/Palauli.private|Palauli.private]] 
+- [[../../../../../../_personal/geo/Continent/Oceania/Samoa/Counties/Palauli.personal|Palauli.personal]] 
+- [[../../../../../../_secret/geo/Continent/Oceania/Samoa/Counties/Palauli.secret|Palauli.secret]] 
 

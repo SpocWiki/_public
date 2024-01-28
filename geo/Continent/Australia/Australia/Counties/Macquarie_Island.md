@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ -54.6 , 158.9 ] 
 type: geo-Region
 title: Macquarie_Island
@@ -40,10 +40,11 @@ markerFolder: ./Macquarie_Island/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Australia/Australia/Counties/Macquarie_Island.md|Macquarie_Island]] 
-- [[../../../../_internal/geo/Continent/Australia/Australia/Counties/Macquarie_Island.internal|Macquarie_Island.internal]] 
-- [[../../../../_protect/geo/Continent/Australia/Australia/Counties/Macquarie_Island.protect|Macquarie_Island.protect]] 
-- [[../../../../_private/geo/Continent/Australia/Australia/Counties/Macquarie_Island.private|Macquarie_Island.private]] 
-- [[../../../../_personal/geo/Continent/Australia/Australia/Counties/Macquarie_Island.personal|Macquarie_Island.personal]] 
-- [[../../../../_secret/geo/Continent/Australia/Australia/Counties/Macquarie_Island.secret|Macquarie_Island.secret]] 
+- [[../../../../../../_Standards/geo/Continent/Australia/Australia/Counties/Macquarie_Island|Macquarie_Island]] 
+- [[../../../../../../_public/geo/Continent/Australia/Australia/Counties/Macquarie_Island.public|Macquarie_Island.public]] 
+- [[../../../../../../_internal/geo/Continent/Australia/Australia/Counties/Macquarie_Island.internal|Macquarie_Island.internal]] 
+- [[../../../../../../_protect/geo/Continent/Australia/Australia/Counties/Macquarie_Island.protect|Macquarie_Island.protect]] 
+- [[../../../../../../_private/geo/Continent/Australia/Australia/Counties/Macquarie_Island.private|Macquarie_Island.private]] 
+- [[../../../../../../_personal/geo/Continent/Australia/Australia/Counties/Macquarie_Island.personal|Macquarie_Island.personal]] 
+- [[../../../../../../_secret/geo/Continent/Australia/Australia/Counties/Macquarie_Island.secret|Macquarie_Island.secret]] 
 

@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 11 , 24.4 ] 
 type: geo-Region
 title: Southern_Darfur
@@ -40,10 +40,11 @@ markerFolder: ./Southern_Darfur/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Africa/Sudan/Counties/Southern_Darfur.md|Southern_Darfur]] 
-- [[../../../../_internal/geo/Continent/Africa/Sudan/Counties/Southern_Darfur.internal|Southern_Darfur.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Sudan/Counties/Southern_Darfur.protect|Southern_Darfur.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Sudan/Counties/Southern_Darfur.private|Southern_Darfur.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Sudan/Counties/Southern_Darfur.personal|Southern_Darfur.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Sudan/Counties/Southern_Darfur.secret|Southern_Darfur.secret]] 
+- [[../../../../../../_Standards/geo/Continent/Africa/Sudan/Counties/Southern_Darfur|Southern_Darfur]] 
+- [[../../../../../../_public/geo/Continent/Africa/Sudan/Counties/Southern_Darfur.public|Southern_Darfur.public]] 
+- [[../../../../../../_internal/geo/Continent/Africa/Sudan/Counties/Southern_Darfur.internal|Southern_Darfur.internal]] 
+- [[../../../../../../_protect/geo/Continent/Africa/Sudan/Counties/Southern_Darfur.protect|Southern_Darfur.protect]] 
+- [[../../../../../../_private/geo/Continent/Africa/Sudan/Counties/Southern_Darfur.private|Southern_Darfur.private]] 
+- [[../../../../../../_personal/geo/Continent/Africa/Sudan/Counties/Southern_Darfur.personal|Southern_Darfur.personal]] 
+- [[../../../../../../_secret/geo/Continent/Africa/Sudan/Counties/Southern_Darfur.secret|Southern_Darfur.secret]] 
 

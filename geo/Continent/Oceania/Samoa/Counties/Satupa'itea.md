@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ -13.64 , 187.38 ] 
 type: geo-Region
 title: Satupa'itea
@@ -40,10 +40,11 @@ markerFolder: ./Satupa'itea/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Oceania/Samoa/Counties/Satupa'itea.md|Satupa'itea]] 
-- [[../../../../_internal/geo/Continent/Oceania/Samoa/Counties/Satupa'itea.internal|Satupa'itea.internal]] 
-- [[../../../../_protect/geo/Continent/Oceania/Samoa/Counties/Satupa'itea.protect|Satupa'itea.protect]] 
-- [[../../../../_private/geo/Continent/Oceania/Samoa/Counties/Satupa'itea.private|Satupa'itea.private]] 
-- [[../../../../_personal/geo/Continent/Oceania/Samoa/Counties/Satupa'itea.personal|Satupa'itea.personal]] 
-- [[../../../../_secret/geo/Continent/Oceania/Samoa/Counties/Satupa'itea.secret|Satupa'itea.secret]] 
+- [[../../../../../../_Standards/geo/Continent/Oceania/Samoa/Counties/Satupa'itea|Satupa'itea]] 
+- [[../../../../../../_public/geo/Continent/Oceania/Samoa/Counties/Satupa'itea.public|Satupa'itea.public]] 
+- [[../../../../../../_internal/geo/Continent/Oceania/Samoa/Counties/Satupa'itea.internal|Satupa'itea.internal]] 
+- [[../../../../../../_protect/geo/Continent/Oceania/Samoa/Counties/Satupa'itea.protect|Satupa'itea.protect]] 
+- [[../../../../../../_private/geo/Continent/Oceania/Samoa/Counties/Satupa'itea.private|Satupa'itea.private]] 
+- [[../../../../../../_personal/geo/Continent/Oceania/Samoa/Counties/Satupa'itea.personal|Satupa'itea.personal]] 
+- [[../../../../../../_secret/geo/Continent/Oceania/Samoa/Counties/Satupa'itea.secret|Satupa'itea.secret]] 
 

@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 12 , 21.5 ] 
 type: geo-Region
 title: Sila
@@ -40,10 +40,11 @@ markerFolder: ./Sila/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Africa/Chad/Counties/Sila.md|Sila]] 
-- [[../../../../_internal/geo/Continent/Africa/Chad/Counties/Sila.internal|Sila.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Chad/Counties/Sila.protect|Sila.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Chad/Counties/Sila.private|Sila.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Chad/Counties/Sila.personal|Sila.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Chad/Counties/Sila.secret|Sila.secret]] 
+- [[../../../../../../_Standards/geo/Continent/Africa/Chad/Counties/Sila|Sila]] 
+- [[../../../../../../_public/geo/Continent/Africa/Chad/Counties/Sila.public|Sila.public]] 
+- [[../../../../../../_internal/geo/Continent/Africa/Chad/Counties/Sila.internal|Sila.internal]] 
+- [[../../../../../../_protect/geo/Continent/Africa/Chad/Counties/Sila.protect|Sila.protect]] 
+- [[../../../../../../_private/geo/Continent/Africa/Chad/Counties/Sila.private|Sila.private]] 
+- [[../../../../../../_personal/geo/Continent/Africa/Chad/Counties/Sila.personal|Sila.personal]] 
+- [[../../../../../../_secret/geo/Continent/Africa/Chad/Counties/Sila.secret|Sila.secret]] 
 

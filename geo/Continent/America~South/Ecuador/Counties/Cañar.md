@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ -2.5 , -78.9 ] 
 type: geo-Region
 title: Cañar
@@ -40,10 +40,11 @@ markerFolder: ./Cañar/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/America~South/Ecuador/Counties/Cañar.md|Cañar]] 
-- [[../../../../_internal/geo/Continent/America~South/Ecuador/Counties/Cañar.internal|Cañar.internal]] 
-- [[../../../../_protect/geo/Continent/America~South/Ecuador/Counties/Cañar.protect|Cañar.protect]] 
-- [[../../../../_private/geo/Continent/America~South/Ecuador/Counties/Cañar.private|Cañar.private]] 
-- [[../../../../_personal/geo/Continent/America~South/Ecuador/Counties/Cañar.personal|Cañar.personal]] 
-- [[../../../../_secret/geo/Continent/America~South/Ecuador/Counties/Cañar.secret|Cañar.secret]] 
+- [[../../../../../../_Standards/geo/Continent/America~South/Ecuador/Counties/Cañar|Cañar]] 
+- [[../../../../../../_public/geo/Continent/America~South/Ecuador/Counties/Cañar.public|Cañar.public]] 
+- [[../../../../../../_internal/geo/Continent/America~South/Ecuador/Counties/Cañar.internal|Cañar.internal]] 
+- [[../../../../../../_protect/geo/Continent/America~South/Ecuador/Counties/Cañar.protect|Cañar.protect]] 
+- [[../../../../../../_private/geo/Continent/America~South/Ecuador/Counties/Cañar.private|Cañar.private]] 
+- [[../../../../../../_personal/geo/Continent/America~South/Ecuador/Counties/Cañar.personal|Cañar.personal]] 
+- [[../../../../../../_secret/geo/Continent/America~South/Ecuador/Counties/Cañar.secret|Cañar.secret]] 
 

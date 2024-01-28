@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ -16.8 , 208.6 ] 
 type: geo-Region
 title: Leeward_Islands
@@ -40,10 +40,11 @@ markerFolder: ./Leeward_Islands/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Oceania/French_Polynesia/Counties/Leeward_Islands.md|Leeward_Islands]] 
-- [[../../../../_internal/geo/Continent/Oceania/French_Polynesia/Counties/Leeward_Islands.internal|Leeward_Islands.internal]] 
-- [[../../../../_protect/geo/Continent/Oceania/French_Polynesia/Counties/Leeward_Islands.protect|Leeward_Islands.protect]] 
-- [[../../../../_private/geo/Continent/Oceania/French_Polynesia/Counties/Leeward_Islands.private|Leeward_Islands.private]] 
-- [[../../../../_personal/geo/Continent/Oceania/French_Polynesia/Counties/Leeward_Islands.personal|Leeward_Islands.personal]] 
-- [[../../../../_secret/geo/Continent/Oceania/French_Polynesia/Counties/Leeward_Islands.secret|Leeward_Islands.secret]] 
+- [[../../../../../../_Standards/geo/Continent/Oceania/French_Polynesia/Counties/Leeward_Islands|Leeward_Islands]] 
+- [[../../../../../../_public/geo/Continent/Oceania/French_Polynesia/Counties/Leeward_Islands.public|Leeward_Islands.public]] 
+- [[../../../../../../_internal/geo/Continent/Oceania/French_Polynesia/Counties/Leeward_Islands.internal|Leeward_Islands.internal]] 
+- [[../../../../../../_protect/geo/Continent/Oceania/French_Polynesia/Counties/Leeward_Islands.protect|Leeward_Islands.protect]] 
+- [[../../../../../../_private/geo/Continent/Oceania/French_Polynesia/Counties/Leeward_Islands.private|Leeward_Islands.private]] 
+- [[../../../../../../_personal/geo/Continent/Oceania/French_Polynesia/Counties/Leeward_Islands.personal|Leeward_Islands.personal]] 
+- [[../../../../../../_secret/geo/Continent/Oceania/French_Polynesia/Counties/Leeward_Islands.secret|Leeward_Islands.secret]] 
 

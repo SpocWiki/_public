@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 31.3 , 31.7 ] 
 type: geo-Region
 title: Dumyat
@@ -40,10 +40,11 @@ markerFolder: ./Dumyat/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Africa/Egypt/Counties/Dumyat.md|Dumyat]] 
-- [[../../../../_internal/geo/Continent/Africa/Egypt/Counties/Dumyat.internal|Dumyat.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Egypt/Counties/Dumyat.protect|Dumyat.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Egypt/Counties/Dumyat.private|Dumyat.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Egypt/Counties/Dumyat.personal|Dumyat.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Egypt/Counties/Dumyat.secret|Dumyat.secret]] 
+- [[../../../../../../_Standards/geo/Continent/Africa/Egypt/Counties/Dumyat|Dumyat]] 
+- [[../../../../../../_public/geo/Continent/Africa/Egypt/Counties/Dumyat.public|Dumyat.public]] 
+- [[../../../../../../_internal/geo/Continent/Africa/Egypt/Counties/Dumyat.internal|Dumyat.internal]] 
+- [[../../../../../../_protect/geo/Continent/Africa/Egypt/Counties/Dumyat.protect|Dumyat.protect]] 
+- [[../../../../../../_private/geo/Continent/Africa/Egypt/Counties/Dumyat.private|Dumyat.private]] 
+- [[../../../../../../_personal/geo/Continent/Africa/Egypt/Counties/Dumyat.personal|Dumyat.personal]] 
+- [[../../../../../../_secret/geo/Continent/Africa/Egypt/Counties/Dumyat.secret|Dumyat.secret]] 
 

@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 2.5 , 31.3 ] 
 type: geo-Region
 title: Nebbi
@@ -40,10 +40,11 @@ markerFolder: ./Nebbi/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Africa/Uganda/Counties/Nebbi.md|Nebbi]] 
-- [[../../../../_internal/geo/Continent/Africa/Uganda/Counties/Nebbi.internal|Nebbi.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Uganda/Counties/Nebbi.protect|Nebbi.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Uganda/Counties/Nebbi.private|Nebbi.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Uganda/Counties/Nebbi.personal|Nebbi.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Uganda/Counties/Nebbi.secret|Nebbi.secret]] 
+- [[../../../../../../_Standards/geo/Continent/Africa/Uganda/Counties/Nebbi|Nebbi]] 
+- [[../../../../../../_public/geo/Continent/Africa/Uganda/Counties/Nebbi.public|Nebbi.public]] 
+- [[../../../../../../_internal/geo/Continent/Africa/Uganda/Counties/Nebbi.internal|Nebbi.internal]] 
+- [[../../../../../../_protect/geo/Continent/Africa/Uganda/Counties/Nebbi.protect|Nebbi.protect]] 
+- [[../../../../../../_private/geo/Continent/Africa/Uganda/Counties/Nebbi.private|Nebbi.private]] 
+- [[../../../../../../_personal/geo/Continent/Africa/Uganda/Counties/Nebbi.personal|Nebbi.personal]] 
+- [[../../../../../../_secret/geo/Continent/Africa/Uganda/Counties/Nebbi.secret|Nebbi.secret]] 
 

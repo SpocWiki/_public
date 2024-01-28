@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 32.3 , -4.6 ] 
 type: geo-Region
 title: Meknès_-_Tafilalet
@@ -40,10 +40,11 @@ markerFolder: ./Meknès_-_Tafilalet/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Africa/Morocco/Counties/Meknès_-_Tafilalet.md|Meknès_-_Tafilalet]] 
-- [[../../../../_internal/geo/Continent/Africa/Morocco/Counties/Meknès_-_Tafilalet.internal|Meknès_-_Tafilalet.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Morocco/Counties/Meknès_-_Tafilalet.protect|Meknès_-_Tafilalet.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Morocco/Counties/Meknès_-_Tafilalet.private|Meknès_-_Tafilalet.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Morocco/Counties/Meknès_-_Tafilalet.personal|Meknès_-_Tafilalet.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Morocco/Counties/Meknès_-_Tafilalet.secret|Meknès_-_Tafilalet.secret]] 
+- [[../../../../../../_Standards/geo/Continent/Africa/Morocco/Counties/Meknès_-_Tafilalet|Meknès_-_Tafilalet]] 
+- [[../../../../../../_public/geo/Continent/Africa/Morocco/Counties/Meknès_-_Tafilalet.public|Meknès_-_Tafilalet.public]] 
+- [[../../../../../../_internal/geo/Continent/Africa/Morocco/Counties/Meknès_-_Tafilalet.internal|Meknès_-_Tafilalet.internal]] 
+- [[../../../../../../_protect/geo/Continent/Africa/Morocco/Counties/Meknès_-_Tafilalet.protect|Meknès_-_Tafilalet.protect]] 
+- [[../../../../../../_private/geo/Continent/Africa/Morocco/Counties/Meknès_-_Tafilalet.private|Meknès_-_Tafilalet.private]] 
+- [[../../../../../../_personal/geo/Continent/Africa/Morocco/Counties/Meknès_-_Tafilalet.personal|Meknès_-_Tafilalet.personal]] 
+- [[../../../../../../_secret/geo/Continent/Africa/Morocco/Counties/Meknès_-_Tafilalet.secret|Meknès_-_Tafilalet.secret]] 
 

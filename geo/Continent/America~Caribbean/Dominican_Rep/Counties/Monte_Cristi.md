@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 19.7 , -71.4 ] 
 type: geo-Region
 title: Monte_Cristi
@@ -40,10 +40,11 @@ markerFolder: ./Monte_Cristi/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/America~Caribbean/Dominican_Rep/Counties/Monte_Cristi.md|Monte_Cristi]] 
-- [[../../../../_internal/geo/Continent/America~Caribbean/Dominican_Rep/Counties/Monte_Cristi.internal|Monte_Cristi.internal]] 
-- [[../../../../_protect/geo/Continent/America~Caribbean/Dominican_Rep/Counties/Monte_Cristi.protect|Monte_Cristi.protect]] 
-- [[../../../../_private/geo/Continent/America~Caribbean/Dominican_Rep/Counties/Monte_Cristi.private|Monte_Cristi.private]] 
-- [[../../../../_personal/geo/Continent/America~Caribbean/Dominican_Rep/Counties/Monte_Cristi.personal|Monte_Cristi.personal]] 
-- [[../../../../_secret/geo/Continent/America~Caribbean/Dominican_Rep/Counties/Monte_Cristi.secret|Monte_Cristi.secret]] 
+- [[../../../../../../_Standards/geo/Continent/America~Caribbean/Dominican_Rep/Counties/Monte_Cristi|Monte_Cristi]] 
+- [[../../../../../../_public/geo/Continent/America~Caribbean/Dominican_Rep/Counties/Monte_Cristi.public|Monte_Cristi.public]] 
+- [[../../../../../../_internal/geo/Continent/America~Caribbean/Dominican_Rep/Counties/Monte_Cristi.internal|Monte_Cristi.internal]] 
+- [[../../../../../../_protect/geo/Continent/America~Caribbean/Dominican_Rep/Counties/Monte_Cristi.protect|Monte_Cristi.protect]] 
+- [[../../../../../../_private/geo/Continent/America~Caribbean/Dominican_Rep/Counties/Monte_Cristi.private|Monte_Cristi.private]] 
+- [[../../../../../../_personal/geo/Continent/America~Caribbean/Dominican_Rep/Counties/Monte_Cristi.personal|Monte_Cristi.personal]] 
+- [[../../../../../../_secret/geo/Continent/America~Caribbean/Dominican_Rep/Counties/Monte_Cristi.secret|Monte_Cristi.secret]] 
 

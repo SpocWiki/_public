@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 16.75 , -62.17 ] 
 type: geo-Region
 title: Saint_Georges
@@ -40,10 +40,11 @@ markerFolder: ./Saint_Georges/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/America~Caribbean/Montserrat/Counties/Saint_Georges.md|Saint_Georges]] 
-- [[../../../../_internal/geo/Continent/America~Caribbean/Montserrat/Counties/Saint_Georges.internal|Saint_Georges.internal]] 
-- [[../../../../_protect/geo/Continent/America~Caribbean/Montserrat/Counties/Saint_Georges.protect|Saint_Georges.protect]] 
-- [[../../../../_private/geo/Continent/America~Caribbean/Montserrat/Counties/Saint_Georges.private|Saint_Georges.private]] 
-- [[../../../../_personal/geo/Continent/America~Caribbean/Montserrat/Counties/Saint_Georges.personal|Saint_Georges.personal]] 
-- [[../../../../_secret/geo/Continent/America~Caribbean/Montserrat/Counties/Saint_Georges.secret|Saint_Georges.secret]] 
+- [[../../../../../../_Standards/geo/Continent/America~Caribbean/Montserrat/Counties/Saint_Georges|Saint_Georges]] 
+- [[../../../../../../_public/geo/Continent/America~Caribbean/Montserrat/Counties/Saint_Georges.public|Saint_Georges.public]] 
+- [[../../../../../../_internal/geo/Continent/America~Caribbean/Montserrat/Counties/Saint_Georges.internal|Saint_Georges.internal]] 
+- [[../../../../../../_protect/geo/Continent/America~Caribbean/Montserrat/Counties/Saint_Georges.protect|Saint_Georges.protect]] 
+- [[../../../../../../_private/geo/Continent/America~Caribbean/Montserrat/Counties/Saint_Georges.private|Saint_Georges.private]] 
+- [[../../../../../../_personal/geo/Continent/America~Caribbean/Montserrat/Counties/Saint_Georges.personal|Saint_Georges.personal]] 
+- [[../../../../../../_secret/geo/Continent/America~Caribbean/Montserrat/Counties/Saint_Georges.secret|Saint_Georges.secret]] 
 

@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 8 , 10.4 ] 
 type: geo-Region
 title: Taraba
@@ -40,10 +40,11 @@ markerFolder: ./Taraba/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Africa/Nigeria/Counties/Taraba.md|Taraba]] 
-- [[../../../../_internal/geo/Continent/Africa/Nigeria/Counties/Taraba.internal|Taraba.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Nigeria/Counties/Taraba.protect|Taraba.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Nigeria/Counties/Taraba.private|Taraba.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Nigeria/Counties/Taraba.personal|Taraba.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Nigeria/Counties/Taraba.secret|Taraba.secret]] 
+- [[../../../../../../_Standards/geo/Continent/Africa/Nigeria/Counties/Taraba|Taraba]] 
+- [[../../../../../../_public/geo/Continent/Africa/Nigeria/Counties/Taraba.public|Taraba.public]] 
+- [[../../../../../../_internal/geo/Continent/Africa/Nigeria/Counties/Taraba.internal|Taraba.internal]] 
+- [[../../../../../../_protect/geo/Continent/Africa/Nigeria/Counties/Taraba.protect|Taraba.protect]] 
+- [[../../../../../../_private/geo/Continent/Africa/Nigeria/Counties/Taraba.private|Taraba.private]] 
+- [[../../../../../../_personal/geo/Continent/Africa/Nigeria/Counties/Taraba.personal|Taraba.personal]] 
+- [[../../../../../../_secret/geo/Continent/Africa/Nigeria/Counties/Taraba.secret|Taraba.secret]] 
 

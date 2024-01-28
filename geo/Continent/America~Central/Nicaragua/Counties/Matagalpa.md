@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 13 , -85.5 ] 
 type: geo-Region
 title: Matagalpa
@@ -40,10 +40,11 @@ markerFolder: ./Matagalpa/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/America~Central/Nicaragua/Counties/Matagalpa.md|Matagalpa]] 
-- [[../../../../_internal/geo/Continent/America~Central/Nicaragua/Counties/Matagalpa.internal|Matagalpa.internal]] 
-- [[../../../../_protect/geo/Continent/America~Central/Nicaragua/Counties/Matagalpa.protect|Matagalpa.protect]] 
-- [[../../../../_private/geo/Continent/America~Central/Nicaragua/Counties/Matagalpa.private|Matagalpa.private]] 
-- [[../../../../_personal/geo/Continent/America~Central/Nicaragua/Counties/Matagalpa.personal|Matagalpa.personal]] 
-- [[../../../../_secret/geo/Continent/America~Central/Nicaragua/Counties/Matagalpa.secret|Matagalpa.secret]] 
+- [[../../../../../../_Standards/geo/Continent/America~Central/Nicaragua/Counties/Matagalpa|Matagalpa]] 
+- [[../../../../../../_public/geo/Continent/America~Central/Nicaragua/Counties/Matagalpa.public|Matagalpa.public]] 
+- [[../../../../../../_internal/geo/Continent/America~Central/Nicaragua/Counties/Matagalpa.internal|Matagalpa.internal]] 
+- [[../../../../../../_protect/geo/Continent/America~Central/Nicaragua/Counties/Matagalpa.protect|Matagalpa.protect]] 
+- [[../../../../../../_private/geo/Continent/America~Central/Nicaragua/Counties/Matagalpa.private|Matagalpa.private]] 
+- [[../../../../../../_personal/geo/Continent/America~Central/Nicaragua/Counties/Matagalpa.personal|Matagalpa.personal]] 
+- [[../../../../../../_secret/geo/Continent/America~Central/Nicaragua/Counties/Matagalpa.secret|Matagalpa.secret]] 
 

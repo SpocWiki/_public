@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 11.16 , 166.87 ] 
 type: geo-Region
 title: Railik_Chain
@@ -40,10 +40,11 @@ markerFolder: ./Railik_Chain/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Oceania/Marshall~Islands/Counties/Railik_Chain.md|Railik_Chain]] 
-- [[../../../../_internal/geo/Continent/Oceania/Marshall~Islands/Counties/Railik_Chain.internal|Railik_Chain.internal]] 
-- [[../../../../_protect/geo/Continent/Oceania/Marshall~Islands/Counties/Railik_Chain.protect|Railik_Chain.protect]] 
-- [[../../../../_private/geo/Continent/Oceania/Marshall~Islands/Counties/Railik_Chain.private|Railik_Chain.private]] 
-- [[../../../../_personal/geo/Continent/Oceania/Marshall~Islands/Counties/Railik_Chain.personal|Railik_Chain.personal]] 
-- [[../../../../_secret/geo/Continent/Oceania/Marshall~Islands/Counties/Railik_Chain.secret|Railik_Chain.secret]] 
+- [[../../../../../../_Standards/geo/Continent/Oceania/Marshall~Islands/Counties/Railik_Chain|Railik_Chain]] 
+- [[../../../../../../_public/geo/Continent/Oceania/Marshall~Islands/Counties/Railik_Chain.public|Railik_Chain.public]] 
+- [[../../../../../../_internal/geo/Continent/Oceania/Marshall~Islands/Counties/Railik_Chain.internal|Railik_Chain.internal]] 
+- [[../../../../../../_protect/geo/Continent/Oceania/Marshall~Islands/Counties/Railik_Chain.protect|Railik_Chain.protect]] 
+- [[../../../../../../_private/geo/Continent/Oceania/Marshall~Islands/Counties/Railik_Chain.private|Railik_Chain.private]] 
+- [[../../../../../../_personal/geo/Continent/Oceania/Marshall~Islands/Counties/Railik_Chain.personal|Railik_Chain.personal]] 
+- [[../../../../../../_secret/geo/Continent/Oceania/Marshall~Islands/Counties/Railik_Chain.secret|Railik_Chain.secret]] 
 

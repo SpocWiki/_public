@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ -3.1 , 30.6 ] 
 type: geo-Region
 title: Cankuzo
@@ -40,10 +40,11 @@ markerFolder: ./Cankuzo/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Africa/Burundi/Counties/Cankuzo.md|Cankuzo]] 
-- [[../../../../_internal/geo/Continent/Africa/Burundi/Counties/Cankuzo.internal|Cankuzo.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Burundi/Counties/Cankuzo.protect|Cankuzo.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Burundi/Counties/Cankuzo.private|Cankuzo.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Burundi/Counties/Cankuzo.personal|Cankuzo.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Burundi/Counties/Cankuzo.secret|Cankuzo.secret]] 
+- [[../../../../../../_Standards/geo/Continent/Africa/Burundi/Counties/Cankuzo|Cankuzo]] 
+- [[../../../../../../_public/geo/Continent/Africa/Burundi/Counties/Cankuzo.public|Cankuzo.public]] 
+- [[../../../../../../_internal/geo/Continent/Africa/Burundi/Counties/Cankuzo.internal|Cankuzo.internal]] 
+- [[../../../../../../_protect/geo/Continent/Africa/Burundi/Counties/Cankuzo.protect|Cankuzo.protect]] 
+- [[../../../../../../_private/geo/Continent/Africa/Burundi/Counties/Cankuzo.private|Cankuzo.private]] 
+- [[../../../../../../_personal/geo/Continent/Africa/Burundi/Counties/Cankuzo.personal|Cankuzo.personal]] 
+- [[../../../../../../_secret/geo/Continent/Africa/Burundi/Counties/Cankuzo.secret|Cankuzo.secret]] 
 

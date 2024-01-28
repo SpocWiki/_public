@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 17.36 , -62.83 ] 
 type: geo-Region
 title: Saint_Anne_Sandy_Point
@@ -40,10 +40,11 @@ markerFolder: ./Saint_Anne_Sandy_Point/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/America~Caribbean/Saint_Kitts_and_Nevis~Islands/Counties/Saint_Anne_Sandy_Point.md|Saint_Anne_Sandy_Point]] 
-- [[../../../../_internal/geo/Continent/America~Caribbean/Saint_Kitts_and_Nevis~Islands/Counties/Saint_Anne_Sandy_Point.internal|Saint_Anne_Sandy_Point.internal]] 
-- [[../../../../_protect/geo/Continent/America~Caribbean/Saint_Kitts_and_Nevis~Islands/Counties/Saint_Anne_Sandy_Point.protect|Saint_Anne_Sandy_Point.protect]] 
-- [[../../../../_private/geo/Continent/America~Caribbean/Saint_Kitts_and_Nevis~Islands/Counties/Saint_Anne_Sandy_Point.private|Saint_Anne_Sandy_Point.private]] 
-- [[../../../../_personal/geo/Continent/America~Caribbean/Saint_Kitts_and_Nevis~Islands/Counties/Saint_Anne_Sandy_Point.personal|Saint_Anne_Sandy_Point.personal]] 
-- [[../../../../_secret/geo/Continent/America~Caribbean/Saint_Kitts_and_Nevis~Islands/Counties/Saint_Anne_Sandy_Point.secret|Saint_Anne_Sandy_Point.secret]] 
+- [[../../../../../../_Standards/geo/Continent/America~Caribbean/Saint_Kitts_and_Nevis~Islands/Counties/Saint_Anne_Sandy_Point|Saint_Anne_Sandy_Point]] 
+- [[../../../../../../_public/geo/Continent/America~Caribbean/Saint_Kitts_and_Nevis~Islands/Counties/Saint_Anne_Sandy_Point.public|Saint_Anne_Sandy_Point.public]] 
+- [[../../../../../../_internal/geo/Continent/America~Caribbean/Saint_Kitts_and_Nevis~Islands/Counties/Saint_Anne_Sandy_Point.internal|Saint_Anne_Sandy_Point.internal]] 
+- [[../../../../../../_protect/geo/Continent/America~Caribbean/Saint_Kitts_and_Nevis~Islands/Counties/Saint_Anne_Sandy_Point.protect|Saint_Anne_Sandy_Point.protect]] 
+- [[../../../../../../_private/geo/Continent/America~Caribbean/Saint_Kitts_and_Nevis~Islands/Counties/Saint_Anne_Sandy_Point.private|Saint_Anne_Sandy_Point.private]] 
+- [[../../../../../../_personal/geo/Continent/America~Caribbean/Saint_Kitts_and_Nevis~Islands/Counties/Saint_Anne_Sandy_Point.personal|Saint_Anne_Sandy_Point.personal]] 
+- [[../../../../../../_secret/geo/Continent/America~Caribbean/Saint_Kitts_and_Nevis~Islands/Counties/Saint_Anne_Sandy_Point.secret|Saint_Anne_Sandy_Point.secret]] 
 

@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ -33.8 , -55.9 ] 
 type: geo-Region
 title: Florida
@@ -40,10 +40,11 @@ markerFolder: ./Florida/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/America~South/Uruguay/Counties/Florida.md|Florida]] 
-- [[../../../../_internal/geo/Continent/America~South/Uruguay/Counties/Florida.internal|Florida.internal]] 
-- [[../../../../_protect/geo/Continent/America~South/Uruguay/Counties/Florida.protect|Florida.protect]] 
-- [[../../../../_private/geo/Continent/America~South/Uruguay/Counties/Florida.private|Florida.private]] 
-- [[../../../../_personal/geo/Continent/America~South/Uruguay/Counties/Florida.personal|Florida.personal]] 
-- [[../../../../_secret/geo/Continent/America~South/Uruguay/Counties/Florida.secret|Florida.secret]] 
+- [[../../../../../../_Standards/geo/Continent/America~South/Uruguay/Counties/Florida|Florida]] 
+- [[../../../../../../_public/geo/Continent/America~South/Uruguay/Counties/Florida.public|Florida.public]] 
+- [[../../../../../../_internal/geo/Continent/America~South/Uruguay/Counties/Florida.internal|Florida.internal]] 
+- [[../../../../../../_protect/geo/Continent/America~South/Uruguay/Counties/Florida.protect|Florida.protect]] 
+- [[../../../../../../_private/geo/Continent/America~South/Uruguay/Counties/Florida.private|Florida.private]] 
+- [[../../../../../../_personal/geo/Continent/America~South/Uruguay/Counties/Florida.personal|Florida.personal]] 
+- [[../../../../../../_secret/geo/Continent/America~South/Uruguay/Counties/Florida.secret|Florida.secret]] 
 

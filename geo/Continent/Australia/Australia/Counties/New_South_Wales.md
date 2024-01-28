@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ -33 , 146 ] 
 type: geo-Region
 title: New_South_Wales
@@ -40,10 +40,11 @@ markerFolder: ./New_South_Wales/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Australia/Australia/Counties/New_South_Wales.md|New_South_Wales]] 
-- [[../../../../_internal/geo/Continent/Australia/Australia/Counties/New_South_Wales.internal|New_South_Wales.internal]] 
-- [[../../../../_protect/geo/Continent/Australia/Australia/Counties/New_South_Wales.protect|New_South_Wales.protect]] 
-- [[../../../../_private/geo/Continent/Australia/Australia/Counties/New_South_Wales.private|New_South_Wales.private]] 
-- [[../../../../_personal/geo/Continent/Australia/Australia/Counties/New_South_Wales.personal|New_South_Wales.personal]] 
-- [[../../../../_secret/geo/Continent/Australia/Australia/Counties/New_South_Wales.secret|New_South_Wales.secret]] 
+- [[../../../../../../_Standards/geo/Continent/Australia/Australia/Counties/New_South_Wales|New_South_Wales]] 
+- [[../../../../../../_public/geo/Continent/Australia/Australia/Counties/New_South_Wales.public|New_South_Wales.public]] 
+- [[../../../../../../_internal/geo/Continent/Australia/Australia/Counties/New_South_Wales.internal|New_South_Wales.internal]] 
+- [[../../../../../../_protect/geo/Continent/Australia/Australia/Counties/New_South_Wales.protect|New_South_Wales.protect]] 
+- [[../../../../../../_private/geo/Continent/Australia/Australia/Counties/New_South_Wales.private|New_South_Wales.private]] 
+- [[../../../../../../_personal/geo/Continent/Australia/Australia/Counties/New_South_Wales.personal|New_South_Wales.personal]] 
+- [[../../../../../../_secret/geo/Continent/Australia/Australia/Counties/New_South_Wales.secret|New_South_Wales.secret]] 
 

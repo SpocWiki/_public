@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 32.5 , 12.6 ] 
 type: geo-Region
 title: Az_Zawiyah
@@ -40,10 +40,11 @@ markerFolder: ./Az_Zawiyah/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Africa/Libya/Counties/Az_Zawiyah.md|Az_Zawiyah]] 
-- [[../../../../_internal/geo/Continent/Africa/Libya/Counties/Az_Zawiyah.internal|Az_Zawiyah.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Libya/Counties/Az_Zawiyah.protect|Az_Zawiyah.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Libya/Counties/Az_Zawiyah.private|Az_Zawiyah.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Libya/Counties/Az_Zawiyah.personal|Az_Zawiyah.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Libya/Counties/Az_Zawiyah.secret|Az_Zawiyah.secret]] 
+- [[../../../../../../_Standards/geo/Continent/Africa/Libya/Counties/Az_Zawiyah|Az_Zawiyah]] 
+- [[../../../../../../_public/geo/Continent/Africa/Libya/Counties/Az_Zawiyah.public|Az_Zawiyah.public]] 
+- [[../../../../../../_internal/geo/Continent/Africa/Libya/Counties/Az_Zawiyah.internal|Az_Zawiyah.internal]] 
+- [[../../../../../../_protect/geo/Continent/Africa/Libya/Counties/Az_Zawiyah.protect|Az_Zawiyah.protect]] 
+- [[../../../../../../_private/geo/Continent/Africa/Libya/Counties/Az_Zawiyah.private|Az_Zawiyah.private]] 
+- [[../../../../../../_personal/geo/Continent/Africa/Libya/Counties/Az_Zawiyah.personal|Az_Zawiyah.personal]] 
+- [[../../../../../../_secret/geo/Continent/Africa/Libya/Counties/Az_Zawiyah.secret|Az_Zawiyah.secret]] 
 

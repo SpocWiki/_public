@@ -1,5 +1,5 @@
 ---
-location: [37.541,-77.4329]
+location: [37.541,-77.4329] 
 type: State
 tags:
 - geo/State
@@ -10,19 +10,19 @@ isDeleted: false
 confidential: public
 
 ---
-[name::Virginia]
-[name-abbr::VA]
+[name::Virginia] 
+[name-abbr::VA] 
 
-![[Virginia/Seal_of_Virginia.svg|350]]
+![[Virginia/Seal_of_Virginia.svg|350]] 
 
-![[Virginia/Flag_of_Virginia.svg|350]]
+![[Virginia/Flag_of_Virginia.svg|350]] 
 
 
-[Country::[[../../United_States_of_America]]]
-[Capital::[[Virginia/City/Richmond]]]
-[geo-lon::-77.4329]
-[geo-lat::37.541]
-[Population::]
+Country :: [[../../United_States_of_America]]  
+Capital :: [[Virginia/City/Richmond]]  
+[geo-lon::-77.4329] 
+[geo-lat::37.541] 
+[Population::] 
 
 
 
@@ -37,9 +37,10 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_public/geo/Continent/North-America/United_States_of_America/Virginia.md|Virginia]] 
-- [[../../../../../_internal/geo/Continent/North-America/United_States_of_America/Virginia.internal|Virginia.internal]] 
-- [[../../../../../_protect/geo/Continent/North-America/United_States_of_America/Virginia.protect|Virginia.protect]] 
-- [[../../../../../_private/geo/Continent/North-America/United_States_of_America/Virginia.private|Virginia.private]] 
-- [[../../../../../_personal/geo/Continent/North-America/United_States_of_America/Virginia.personal|Virginia.personal]] 
-- [[../../../../../_secret/geo/Continent/North-America/United_States_of_America/Virginia.secret|Virginia.secret]] 
+- [[../../../../../_Standards/geo/Continent/America~North/United_States_of_America/Virginia|Virginia]] 
+- [[../../../../../_public/geo/Continent/America~North/United_States_of_America/Virginia.public|Virginia.public]] 
+- [[../../../../../_internal/geo/Continent/America~North/United_States_of_America/Virginia.internal|Virginia.internal]] 
+- [[../../../../../_protect/geo/Continent/America~North/United_States_of_America/Virginia.protect|Virginia.protect]] 
+- [[../../../../../_private/geo/Continent/America~North/United_States_of_America/Virginia.private|Virginia.private]] 
+- [[../../../../../_personal/geo/Continent/America~North/United_States_of_America/Virginia.personal|Virginia.personal]] 
+- [[../../../../../_secret/geo/Continent/America~North/United_States_of_America/Virginia.secret|Virginia.secret]] 

@@ -5,7 +5,8 @@ _Cities/{{City}}.md
 
 
 ## Confidential Links & Embeds: 
-- [[../../../_public/geo/Continent/_CityName.md|_CityName]] 
+- [[../../../_Standards/geo/Continent/_CityName|_CityName]] 
+- [[../../../_public/geo/Continent/_CityName.public|_CityName.public]] 
 - [[../../../_internal/geo/Continent/_CityName.internal|_CityName.internal]] 
 - [[../../../_protect/geo/Continent/_CityName.protect|_CityName.protect]] 
 - [[../../../_private/geo/Continent/_CityName.private|_CityName.private]] 

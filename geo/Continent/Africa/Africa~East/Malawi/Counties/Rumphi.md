@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ -10.8 , 34.1 ] 
 type: geo-Region
 title: Rumphi
@@ -40,10 +40,11 @@ markerFolder: ./Rumphi/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Africa/Malawi/Counties/Rumphi.md|Rumphi]] 
-- [[../../../../_internal/geo/Continent/Africa/Malawi/Counties/Rumphi.internal|Rumphi.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Malawi/Counties/Rumphi.protect|Rumphi.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Malawi/Counties/Rumphi.private|Rumphi.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Malawi/Counties/Rumphi.personal|Rumphi.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Malawi/Counties/Rumphi.secret|Rumphi.secret]] 
+- [[../../../../../../_Standards/geo/Continent/Africa/Malawi/Counties/Rumphi|Rumphi]] 
+- [[../../../../../../_public/geo/Continent/Africa/Malawi/Counties/Rumphi.public|Rumphi.public]] 
+- [[../../../../../../_internal/geo/Continent/Africa/Malawi/Counties/Rumphi.internal|Rumphi.internal]] 
+- [[../../../../../../_protect/geo/Continent/Africa/Malawi/Counties/Rumphi.protect|Rumphi.protect]] 
+- [[../../../../../../_private/geo/Continent/Africa/Malawi/Counties/Rumphi.private|Rumphi.private]] 
+- [[../../../../../../_personal/geo/Continent/Africa/Malawi/Counties/Rumphi.personal|Rumphi.personal]] 
+- [[../../../../../../_secret/geo/Continent/Africa/Malawi/Counties/Rumphi.secret|Rumphi.secret]] 
 

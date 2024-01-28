@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ -52.5 , 169.2 ] 
 type: geo-Region
 title: Campbell_Islands
@@ -40,10 +40,11 @@ markerFolder: ./Campbell_Islands/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Australia/New_Zealand/Counties/Campbell_Islands.md|Campbell_Islands]] 
-- [[../../../../_internal/geo/Continent/Australia/New_Zealand/Counties/Campbell_Islands.internal|Campbell_Islands.internal]] 
-- [[../../../../_protect/geo/Continent/Australia/New_Zealand/Counties/Campbell_Islands.protect|Campbell_Islands.protect]] 
-- [[../../../../_private/geo/Continent/Australia/New_Zealand/Counties/Campbell_Islands.private|Campbell_Islands.private]] 
-- [[../../../../_personal/geo/Continent/Australia/New_Zealand/Counties/Campbell_Islands.personal|Campbell_Islands.personal]] 
-- [[../../../../_secret/geo/Continent/Australia/New_Zealand/Counties/Campbell_Islands.secret|Campbell_Islands.secret]] 
+- [[../../../../../../_Standards/geo/Continent/Australia/New_Zealand/Counties/Campbell_Islands|Campbell_Islands]] 
+- [[../../../../../../_public/geo/Continent/Australia/New_Zealand/Counties/Campbell_Islands.public|Campbell_Islands.public]] 
+- [[../../../../../../_internal/geo/Continent/Australia/New_Zealand/Counties/Campbell_Islands.internal|Campbell_Islands.internal]] 
+- [[../../../../../../_protect/geo/Continent/Australia/New_Zealand/Counties/Campbell_Islands.protect|Campbell_Islands.protect]] 
+- [[../../../../../../_private/geo/Continent/Australia/New_Zealand/Counties/Campbell_Islands.private|Campbell_Islands.private]] 
+- [[../../../../../../_personal/geo/Continent/Australia/New_Zealand/Counties/Campbell_Islands.personal|Campbell_Islands.personal]] 
+- [[../../../../../../_secret/geo/Continent/Australia/New_Zealand/Counties/Campbell_Islands.secret|Campbell_Islands.secret]] 
 

@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 17.3 , -13.3 ] 
 type: geo-Region
 title: Brakna
@@ -40,10 +40,11 @@ markerFolder: ./Brakna/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Africa/Mauritania/Counties/Brakna.md|Brakna]] 
-- [[../../../../_internal/geo/Continent/Africa/Mauritania/Counties/Brakna.internal|Brakna.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Mauritania/Counties/Brakna.protect|Brakna.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Mauritania/Counties/Brakna.private|Brakna.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Mauritania/Counties/Brakna.personal|Brakna.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Mauritania/Counties/Brakna.secret|Brakna.secret]] 
+- [[../../../../../../_Standards/geo/Continent/Africa/Mauritania/Counties/Brakna|Brakna]] 
+- [[../../../../../../_public/geo/Continent/Africa/Mauritania/Counties/Brakna.public|Brakna.public]] 
+- [[../../../../../../_internal/geo/Continent/Africa/Mauritania/Counties/Brakna.internal|Brakna.internal]] 
+- [[../../../../../../_protect/geo/Continent/Africa/Mauritania/Counties/Brakna.protect|Brakna.protect]] 
+- [[../../../../../../_private/geo/Continent/Africa/Mauritania/Counties/Brakna.private|Brakna.private]] 
+- [[../../../../../../_personal/geo/Continent/Africa/Mauritania/Counties/Brakna.personal|Brakna.personal]] 
+- [[../../../../../../_secret/geo/Continent/Africa/Mauritania/Counties/Brakna.secret|Brakna.secret]] 
 

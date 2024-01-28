@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ -15.4 , 34.7 ] 
 type: geo-Region
 title: Neno
@@ -40,10 +40,11 @@ markerFolder: ./Neno/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Africa/Malawi/Counties/Neno.md|Neno]] 
-- [[../../../../_internal/geo/Continent/Africa/Malawi/Counties/Neno.internal|Neno.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Malawi/Counties/Neno.protect|Neno.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Malawi/Counties/Neno.private|Neno.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Malawi/Counties/Neno.personal|Neno.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Malawi/Counties/Neno.secret|Neno.secret]] 
+- [[../../../../../../_Standards/geo/Continent/Africa/Malawi/Counties/Neno|Neno]] 
+- [[../../../../../../_public/geo/Continent/Africa/Malawi/Counties/Neno.public|Neno.public]] 
+- [[../../../../../../_internal/geo/Continent/Africa/Malawi/Counties/Neno.internal|Neno.internal]] 
+- [[../../../../../../_protect/geo/Continent/Africa/Malawi/Counties/Neno.protect|Neno.protect]] 
+- [[../../../../../../_private/geo/Continent/Africa/Malawi/Counties/Neno.private|Neno.private]] 
+- [[../../../../../../_personal/geo/Continent/Africa/Malawi/Counties/Neno.personal|Neno.personal]] 
+- [[../../../../../../_secret/geo/Continent/Africa/Malawi/Counties/Neno.secret|Neno.secret]] 
 

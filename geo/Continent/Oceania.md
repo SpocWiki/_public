@@ -17,12 +17,13 @@ geojsonFolder: ./Oceania/
 markerFolder: ./Oceania/
 ```
 
-[name-en::Oceania]
-[name-de::Ozeanien]
-[ #has/_code  :: OC ]
+[name-en::Oceania] 
+[name-de::Ozeanien] 
+[ #has/_code  :: OC ] 
 
 ## Confidential Links & Embeds: 
-- [[../../../_public/geo/Continent/Oceania.md|Oceania]] 
+- [[../../../_Standards/geo/Continent/Oceania|Oceania]] 
+- [[../../../_public/geo/Continent/Oceania.public|Oceania.public]] 
 - [[../../../_internal/geo/Continent/Oceania.internal|Oceania.internal]] 
 - [[../../../_protect/geo/Continent/Oceania.protect|Oceania.protect]] 
 - [[../../../_private/geo/Continent/Oceania.private|Oceania.private]] 

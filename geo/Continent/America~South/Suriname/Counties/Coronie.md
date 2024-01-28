@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 5.6 , -56.3 ] 
 type: geo-Region
 title: Coronie
@@ -40,10 +40,11 @@ markerFolder: ./Coronie/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/America~South/Suriname/Counties/Coronie.md|Coronie]] 
-- [[../../../../_internal/geo/Continent/America~South/Suriname/Counties/Coronie.internal|Coronie.internal]] 
-- [[../../../../_protect/geo/Continent/America~South/Suriname/Counties/Coronie.protect|Coronie.protect]] 
-- [[../../../../_private/geo/Continent/America~South/Suriname/Counties/Coronie.private|Coronie.private]] 
-- [[../../../../_personal/geo/Continent/America~South/Suriname/Counties/Coronie.personal|Coronie.personal]] 
-- [[../../../../_secret/geo/Continent/America~South/Suriname/Counties/Coronie.secret|Coronie.secret]] 
+- [[../../../../../../_Standards/geo/Continent/America~South/Suriname/Counties/Coronie|Coronie]] 
+- [[../../../../../../_public/geo/Continent/America~South/Suriname/Counties/Coronie.public|Coronie.public]] 
+- [[../../../../../../_internal/geo/Continent/America~South/Suriname/Counties/Coronie.internal|Coronie.internal]] 
+- [[../../../../../../_protect/geo/Continent/America~South/Suriname/Counties/Coronie.protect|Coronie.protect]] 
+- [[../../../../../../_private/geo/Continent/America~South/Suriname/Counties/Coronie.private|Coronie.private]] 
+- [[../../../../../../_personal/geo/Continent/America~South/Suriname/Counties/Coronie.personal|Coronie.personal]] 
+- [[../../../../../../_secret/geo/Continent/America~South/Suriname/Counties/Coronie.secret|Coronie.secret]] 
 

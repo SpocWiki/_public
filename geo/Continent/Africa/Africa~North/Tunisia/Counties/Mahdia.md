@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 35.3 , 10.6 ] 
 type: geo-Region
 title: Mahdia
@@ -40,10 +40,11 @@ markerFolder: ./Mahdia/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Africa/Tunisia/Counties/Mahdia.md|Mahdia]] 
-- [[../../../../_internal/geo/Continent/Africa/Tunisia/Counties/Mahdia.internal|Mahdia.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Tunisia/Counties/Mahdia.protect|Mahdia.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Tunisia/Counties/Mahdia.private|Mahdia.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Tunisia/Counties/Mahdia.personal|Mahdia.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Tunisia/Counties/Mahdia.secret|Mahdia.secret]] 
+- [[../../../../../../_Standards/geo/Continent/Africa/Tunisia/Counties/Mahdia|Mahdia]] 
+- [[../../../../../../_public/geo/Continent/Africa/Tunisia/Counties/Mahdia.public|Mahdia.public]] 
+- [[../../../../../../_internal/geo/Continent/Africa/Tunisia/Counties/Mahdia.internal|Mahdia.internal]] 
+- [[../../../../../../_protect/geo/Continent/Africa/Tunisia/Counties/Mahdia.protect|Mahdia.protect]] 
+- [[../../../../../../_private/geo/Continent/Africa/Tunisia/Counties/Mahdia.private|Mahdia.private]] 
+- [[../../../../../../_personal/geo/Continent/Africa/Tunisia/Counties/Mahdia.personal|Mahdia.personal]] 
+- [[../../../../../../_secret/geo/Continent/Africa/Tunisia/Counties/Mahdia.secret|Mahdia.secret]] 
 

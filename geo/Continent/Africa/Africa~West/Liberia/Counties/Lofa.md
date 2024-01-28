@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 7.9 , -9.8 ] 
 type: geo-Region
 title: Lofa
@@ -40,10 +40,11 @@ markerFolder: ./Lofa/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Africa/Liberia/Counties/Lofa.md|Lofa]] 
-- [[../../../../_internal/geo/Continent/Africa/Liberia/Counties/Lofa.internal|Lofa.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Liberia/Counties/Lofa.protect|Lofa.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Liberia/Counties/Lofa.private|Lofa.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Liberia/Counties/Lofa.personal|Lofa.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Liberia/Counties/Lofa.secret|Lofa.secret]] 
+- [[../../../../../../_Standards/geo/Continent/Africa/Liberia/Counties/Lofa|Lofa]] 
+- [[../../../../../../_public/geo/Continent/Africa/Liberia/Counties/Lofa.public|Lofa.public]] 
+- [[../../../../../../_internal/geo/Continent/Africa/Liberia/Counties/Lofa.internal|Lofa.internal]] 
+- [[../../../../../../_protect/geo/Continent/Africa/Liberia/Counties/Lofa.protect|Lofa.protect]] 
+- [[../../../../../../_private/geo/Continent/Africa/Liberia/Counties/Lofa.private|Lofa.private]] 
+- [[../../../../../../_personal/geo/Continent/Africa/Liberia/Counties/Lofa.personal|Lofa.personal]] 
+- [[../../../../../../_secret/geo/Continent/Africa/Liberia/Counties/Lofa.secret|Lofa.secret]] 
 

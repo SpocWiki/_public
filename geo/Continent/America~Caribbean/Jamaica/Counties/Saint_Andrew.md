@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 18 , -76.8 ] 
 type: geo-Region
 title: Saint_Andrew
@@ -40,10 +40,11 @@ markerFolder: ./Saint_Andrew/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/America~Caribbean/Jamaica/Counties/Saint_Andrew.md|Saint_Andrew]] 
-- [[../../../../_internal/geo/Continent/America~Caribbean/Jamaica/Counties/Saint_Andrew.internal|Saint_Andrew.internal]] 
-- [[../../../../_protect/geo/Continent/America~Caribbean/Jamaica/Counties/Saint_Andrew.protect|Saint_Andrew.protect]] 
-- [[../../../../_private/geo/Continent/America~Caribbean/Jamaica/Counties/Saint_Andrew.private|Saint_Andrew.private]] 
-- [[../../../../_personal/geo/Continent/America~Caribbean/Jamaica/Counties/Saint_Andrew.personal|Saint_Andrew.personal]] 
-- [[../../../../_secret/geo/Continent/America~Caribbean/Jamaica/Counties/Saint_Andrew.secret|Saint_Andrew.secret]] 
+- [[../../../../../../_Standards/geo/Continent/America~Caribbean/Jamaica/Counties/Saint_Andrew|Saint_Andrew]] 
+- [[../../../../../../_public/geo/Continent/America~Caribbean/Jamaica/Counties/Saint_Andrew.public|Saint_Andrew.public]] 
+- [[../../../../../../_internal/geo/Continent/America~Caribbean/Jamaica/Counties/Saint_Andrew.internal|Saint_Andrew.internal]] 
+- [[../../../../../../_protect/geo/Continent/America~Caribbean/Jamaica/Counties/Saint_Andrew.protect|Saint_Andrew.protect]] 
+- [[../../../../../../_private/geo/Continent/America~Caribbean/Jamaica/Counties/Saint_Andrew.private|Saint_Andrew.private]] 
+- [[../../../../../../_personal/geo/Continent/America~Caribbean/Jamaica/Counties/Saint_Andrew.personal|Saint_Andrew.personal]] 
+- [[../../../../../../_secret/geo/Continent/America~Caribbean/Jamaica/Counties/Saint_Andrew.secret|Saint_Andrew.secret]] 
 

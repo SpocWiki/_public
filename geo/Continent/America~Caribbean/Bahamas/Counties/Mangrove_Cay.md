@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 24.1 , -77.8 ] 
 type: geo-Region
 title: Mangrove_Cay
@@ -40,10 +40,11 @@ markerFolder: ./Mangrove_Cay/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/America~Caribbean/Bahamas/Counties/Mangrove_Cay.md|Mangrove_Cay]] 
-- [[../../../../_internal/geo/Continent/America~Caribbean/Bahamas/Counties/Mangrove_Cay.internal|Mangrove_Cay.internal]] 
-- [[../../../../_protect/geo/Continent/America~Caribbean/Bahamas/Counties/Mangrove_Cay.protect|Mangrove_Cay.protect]] 
-- [[../../../../_private/geo/Continent/America~Caribbean/Bahamas/Counties/Mangrove_Cay.private|Mangrove_Cay.private]] 
-- [[../../../../_personal/geo/Continent/America~Caribbean/Bahamas/Counties/Mangrove_Cay.personal|Mangrove_Cay.personal]] 
-- [[../../../../_secret/geo/Continent/America~Caribbean/Bahamas/Counties/Mangrove_Cay.secret|Mangrove_Cay.secret]] 
+- [[../../../../../../_Standards/geo/Continent/America~Caribbean/Bahamas/Counties/Mangrove_Cay|Mangrove_Cay]] 
+- [[../../../../../../_public/geo/Continent/America~Caribbean/Bahamas/Counties/Mangrove_Cay.public|Mangrove_Cay.public]] 
+- [[../../../../../../_internal/geo/Continent/America~Caribbean/Bahamas/Counties/Mangrove_Cay.internal|Mangrove_Cay.internal]] 
+- [[../../../../../../_protect/geo/Continent/America~Caribbean/Bahamas/Counties/Mangrove_Cay.protect|Mangrove_Cay.protect]] 
+- [[../../../../../../_private/geo/Continent/America~Caribbean/Bahamas/Counties/Mangrove_Cay.private|Mangrove_Cay.private]] 
+- [[../../../../../../_personal/geo/Continent/America~Caribbean/Bahamas/Counties/Mangrove_Cay.personal|Mangrove_Cay.personal]] 
+- [[../../../../../../_secret/geo/Continent/America~Caribbean/Bahamas/Counties/Mangrove_Cay.secret|Mangrove_Cay.secret]] 
 

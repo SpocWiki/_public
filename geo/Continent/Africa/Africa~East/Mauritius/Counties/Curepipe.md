@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ -20.32 , 57.52 ] 
 type: geo-Region
 title: Curepipe
@@ -40,10 +40,11 @@ markerFolder: ./Curepipe/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Africa/Mauritius/Counties/Curepipe.md|Curepipe]] 
-- [[../../../../_internal/geo/Continent/Africa/Mauritius/Counties/Curepipe.internal|Curepipe.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Mauritius/Counties/Curepipe.protect|Curepipe.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Mauritius/Counties/Curepipe.private|Curepipe.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Mauritius/Counties/Curepipe.personal|Curepipe.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Mauritius/Counties/Curepipe.secret|Curepipe.secret]] 
+- [[../../../../../../_Standards/geo/Continent/Africa/Mauritius/Counties/Curepipe|Curepipe]] 
+- [[../../../../../../_public/geo/Continent/Africa/Mauritius/Counties/Curepipe.public|Curepipe.public]] 
+- [[../../../../../../_internal/geo/Continent/Africa/Mauritius/Counties/Curepipe.internal|Curepipe.internal]] 
+- [[../../../../../../_protect/geo/Continent/Africa/Mauritius/Counties/Curepipe.protect|Curepipe.protect]] 
+- [[../../../../../../_private/geo/Continent/Africa/Mauritius/Counties/Curepipe.private|Curepipe.private]] 
+- [[../../../../../../_personal/geo/Continent/Africa/Mauritius/Counties/Curepipe.personal|Curepipe.personal]] 
+- [[../../../../../../_secret/geo/Continent/Africa/Mauritius/Counties/Curepipe.secret|Curepipe.secret]] 
 

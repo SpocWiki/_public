@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ -3.8 , 14.7 ] 
 type: geo-Region
 title: Pool
@@ -40,10 +40,11 @@ markerFolder: ./Pool/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Africa/Congo~Brazzaville/Counties/Pool.md|Pool]] 
-- [[../../../../_internal/geo/Continent/Africa/Congo~Brazzaville/Counties/Pool.internal|Pool.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Congo~Brazzaville/Counties/Pool.protect|Pool.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Congo~Brazzaville/Counties/Pool.private|Pool.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Congo~Brazzaville/Counties/Pool.personal|Pool.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Congo~Brazzaville/Counties/Pool.secret|Pool.secret]] 
+- [[../../../../../../_Standards/geo/Continent/Africa/Congo~Brazzaville/Counties/Pool|Pool]] 
+- [[../../../../../../_public/geo/Continent/Africa/Congo~Brazzaville/Counties/Pool.public|Pool.public]] 
+- [[../../../../../../_internal/geo/Continent/Africa/Congo~Brazzaville/Counties/Pool.internal|Pool.internal]] 
+- [[../../../../../../_protect/geo/Continent/Africa/Congo~Brazzaville/Counties/Pool.protect|Pool.protect]] 
+- [[../../../../../../_private/geo/Continent/Africa/Congo~Brazzaville/Counties/Pool.private|Pool.private]] 
+- [[../../../../../../_personal/geo/Continent/Africa/Congo~Brazzaville/Counties/Pool.personal|Pool.personal]] 
+- [[../../../../../../_secret/geo/Continent/Africa/Congo~Brazzaville/Counties/Pool.secret|Pool.secret]] 
 

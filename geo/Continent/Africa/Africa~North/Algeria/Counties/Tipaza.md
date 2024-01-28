@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 36.6 , 2.3 ] 
 type: geo-Region
 title: Tipaza
@@ -40,10 +40,11 @@ markerFolder: ./Tipaza/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Africa/Algeria/Counties/Tipaza.md|Tipaza]] 
-- [[../../../../_internal/geo/Continent/Africa/Algeria/Counties/Tipaza.internal|Tipaza.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Algeria/Counties/Tipaza.protect|Tipaza.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Algeria/Counties/Tipaza.private|Tipaza.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Algeria/Counties/Tipaza.personal|Tipaza.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Algeria/Counties/Tipaza.secret|Tipaza.secret]] 
+- [[../../../../../../_Standards/geo/Continent/Africa/Algeria/Counties/Tipaza|Tipaza]] 
+- [[../../../../../../_public/geo/Continent/Africa/Algeria/Counties/Tipaza.public|Tipaza.public]] 
+- [[../../../../../../_internal/geo/Continent/Africa/Algeria/Counties/Tipaza.internal|Tipaza.internal]] 
+- [[../../../../../../_protect/geo/Continent/Africa/Algeria/Counties/Tipaza.protect|Tipaza.protect]] 
+- [[../../../../../../_private/geo/Continent/Africa/Algeria/Counties/Tipaza.private|Tipaza.private]] 
+- [[../../../../../../_personal/geo/Continent/Africa/Algeria/Counties/Tipaza.personal|Tipaza.personal]] 
+- [[../../../../../../_secret/geo/Continent/Africa/Algeria/Counties/Tipaza.secret|Tipaza.secret]] 
 

@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 7.52 , 134.61 ] 
 type: geo-Region
 title: Melekeok
@@ -40,10 +40,11 @@ markerFolder: ./Melekeok/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Oceania/Palau/Counties/Melekeok.md|Melekeok]] 
-- [[../../../../_internal/geo/Continent/Oceania/Palau/Counties/Melekeok.internal|Melekeok.internal]] 
-- [[../../../../_protect/geo/Continent/Oceania/Palau/Counties/Melekeok.protect|Melekeok.protect]] 
-- [[../../../../_private/geo/Continent/Oceania/Palau/Counties/Melekeok.private|Melekeok.private]] 
-- [[../../../../_personal/geo/Continent/Oceania/Palau/Counties/Melekeok.personal|Melekeok.personal]] 
-- [[../../../../_secret/geo/Continent/Oceania/Palau/Counties/Melekeok.secret|Melekeok.secret]] 
+- [[../../../../../../_Standards/geo/Continent/Oceania/Palau/Counties/Melekeok|Melekeok]] 
+- [[../../../../../../_public/geo/Continent/Oceania/Palau/Counties/Melekeok.public|Melekeok.public]] 
+- [[../../../../../../_internal/geo/Continent/Oceania/Palau/Counties/Melekeok.internal|Melekeok.internal]] 
+- [[../../../../../../_protect/geo/Continent/Oceania/Palau/Counties/Melekeok.protect|Melekeok.protect]] 
+- [[../../../../../../_private/geo/Continent/Oceania/Palau/Counties/Melekeok.private|Melekeok.private]] 
+- [[../../../../../../_personal/geo/Continent/Oceania/Palau/Counties/Melekeok.personal|Melekeok.personal]] 
+- [[../../../../../../_secret/geo/Continent/Oceania/Palau/Counties/Melekeok.secret|Melekeok.secret]] 
 

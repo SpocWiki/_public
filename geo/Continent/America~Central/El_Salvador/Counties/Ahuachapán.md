@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 13.9 , -89.9 ] 
 type: geo-Region
 title: Ahuachapán
@@ -40,10 +40,11 @@ markerFolder: ./Ahuachapán/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/America~Central/El_Salvador/Counties/Ahuachapán.md|Ahuachapán]] 
-- [[../../../../_internal/geo/Continent/America~Central/El_Salvador/Counties/Ahuachapán.internal|Ahuachapán.internal]] 
-- [[../../../../_protect/geo/Continent/America~Central/El_Salvador/Counties/Ahuachapán.protect|Ahuachapán.protect]] 
-- [[../../../../_private/geo/Continent/America~Central/El_Salvador/Counties/Ahuachapán.private|Ahuachapán.private]] 
-- [[../../../../_personal/geo/Continent/America~Central/El_Salvador/Counties/Ahuachapán.personal|Ahuachapán.personal]] 
-- [[../../../../_secret/geo/Continent/America~Central/El_Salvador/Counties/Ahuachapán.secret|Ahuachapán.secret]] 
+- [[../../../../../../_Standards/geo/Continent/America~Central/El_Salvador/Counties/Ahuachapán|Ahuachapán]] 
+- [[../../../../../../_public/geo/Continent/America~Central/El_Salvador/Counties/Ahuachapán.public|Ahuachapán.public]] 
+- [[../../../../../../_internal/geo/Continent/America~Central/El_Salvador/Counties/Ahuachapán.internal|Ahuachapán.internal]] 
+- [[../../../../../../_protect/geo/Continent/America~Central/El_Salvador/Counties/Ahuachapán.protect|Ahuachapán.protect]] 
+- [[../../../../../../_private/geo/Continent/America~Central/El_Salvador/Counties/Ahuachapán.private|Ahuachapán.private]] 
+- [[../../../../../../_personal/geo/Continent/America~Central/El_Salvador/Counties/Ahuachapán.personal|Ahuachapán.personal]] 
+- [[../../../../../../_secret/geo/Continent/America~Central/El_Salvador/Counties/Ahuachapán.secret|Ahuachapán.secret]] 
 

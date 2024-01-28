@@ -1,5 +1,5 @@
 ﻿---
-location: [-24.63333,25.91667]
+location: [-24.63333,25.91667] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,27 +12,28 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::25.91667]
-[geo-lat::-24.63333]
-[name::Gaborone]
-[State::]
-[Country::[[Botswana]]]
-[StateId::]
-[Population::]
-[Unknown::32]
+[geo-lon::25.91667] 
+[geo-lat::-24.63333] 
+[name::Gaborone] 
+State ::  
+Country :: [[Botswana]]  
+[StateId::] 
+[Population::] 
+[Unknown::32] 
 
 
 ```leaflet
 id: Gaborone
-coordinates: [[Gaborone]]
-markerFile: [[Gaborone]]
+coordinates: [[Gaborone]] 
+markerFile: [[Gaborone]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_public/geo/Continent/Africa/Botswana/City/Gaborone.md|Gaborone]] 
+- [[../../../../../../_Standards/geo/Continent/Africa/Botswana/City/Gaborone|Gaborone]] 
+- [[../../../../../../_public/geo/Continent/Africa/Botswana/City/Gaborone.public|Gaborone.public]] 
 - [[../../../../../../_internal/geo/Continent/Africa/Botswana/City/Gaborone.internal|Gaborone.internal]] 
 - [[../../../../../../_protect/geo/Continent/Africa/Botswana/City/Gaborone.protect|Gaborone.protect]] 
 - [[../../../../../../_private/geo/Continent/Africa/Botswana/City/Gaborone.private|Gaborone.private]] 

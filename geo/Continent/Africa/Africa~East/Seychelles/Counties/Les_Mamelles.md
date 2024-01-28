@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ -4.66 , 55.48 ] 
 type: geo-Region
 title: Les_Mamelles
@@ -40,10 +40,11 @@ markerFolder: ./Les_Mamelles/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Africa/Seychelles/Counties/Les_Mamelles.md|Les_Mamelles]] 
-- [[../../../../_internal/geo/Continent/Africa/Seychelles/Counties/Les_Mamelles.internal|Les_Mamelles.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Seychelles/Counties/Les_Mamelles.protect|Les_Mamelles.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Seychelles/Counties/Les_Mamelles.private|Les_Mamelles.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Seychelles/Counties/Les_Mamelles.personal|Les_Mamelles.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Seychelles/Counties/Les_Mamelles.secret|Les_Mamelles.secret]] 
+- [[../../../../../../_Standards/geo/Continent/Africa/Seychelles/Counties/Les_Mamelles|Les_Mamelles]] 
+- [[../../../../../../_public/geo/Continent/Africa/Seychelles/Counties/Les_Mamelles.public|Les_Mamelles.public]] 
+- [[../../../../../../_internal/geo/Continent/Africa/Seychelles/Counties/Les_Mamelles.internal|Les_Mamelles.internal]] 
+- [[../../../../../../_protect/geo/Continent/Africa/Seychelles/Counties/Les_Mamelles.protect|Les_Mamelles.protect]] 
+- [[../../../../../../_private/geo/Continent/Africa/Seychelles/Counties/Les_Mamelles.private|Les_Mamelles.private]] 
+- [[../../../../../../_personal/geo/Continent/Africa/Seychelles/Counties/Les_Mamelles.personal|Les_Mamelles.personal]] 
+- [[../../../../../../_secret/geo/Continent/Africa/Seychelles/Counties/Les_Mamelles.secret|Les_Mamelles.secret]] 
 

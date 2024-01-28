@@ -21,20 +21,20 @@ geojsonFolder: ./Europe/
 markerFolder: ./Europe/City/
 ```
 
-[name-en::Europe]
-[name-de::Europa]
-[ #has/_code  :: EU ]
+[name-en::Europe] 
+[name-de::Europa] 
+[ #has/_code  :: EU ] 
 
 Many european Countries have joined the European Union which started out as an the Montan-Union
 after WW2 and developed into the Economic Union. 
 
 ![Flag|350](https://upload.wikimedia.org/wikipedia/commons/b/b7/Flag_of_Europe.svg)
 
-![[Seal_of_Europe.svg|350]]
+![[Seal_of_Europe.svg|350]] 
 
-![[Anthem-Eu-long.mp3]]
+![[Anthem-Eu-long.mp3]] 
 
-![[Flag_of_Europe.svg|350]]
+![[Flag_of_Europe.svg|350]] 
 
 
 ## Confidential Links & Embeds: 

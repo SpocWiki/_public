@@ -12,21 +12,22 @@ tags:
 aliases:
 - 
 ---
-location: [{{y}},{{x}}]
+location: [{{y}},{{x}}] 
 SpocWebEntityId: {{SpocWebEntityId}}
 
-[name::{{State}}]
-[name-abbr::{{StateAbbr}}]
-[CountryId::{{CountryId}}]
-[CapitalId::{{CapitalId}}]
-[geo-lon::{{x}}]
-[geo-lat::{{y}}]
-[Population::{{Population}}]
+[name::{{State}}] 
+[name-abbr::{{StateAbbr}}] 
+[CountryId::{{CountryId}}] 
+[CapitalId::{{CapitalId}}] 
+[geo-lon::{{x}}] 
+[geo-lat::{{y}}] 
+[Population::{{Population}}] 
 
 
 
 ## Confidential Links & Embeds: 
-- [[../../../_public/geo/Continent/_CountryState-Template.md|_CountryState-Template]] 
+- [[../../../_Standards/geo/Continent/_CountryState-Template|_CountryState-Template]] 
+- [[../../../_public/geo/Continent/_CountryState-Template.public|_CountryState-Template.public]] 
 - [[../../../_internal/geo/Continent/_CountryState-Template.internal|_CountryState-Template.internal]] 
 - [[../../../_protect/geo/Continent/_CountryState-Template.protect|_CountryState-Template.protect]] 
 - [[../../../_private/geo/Continent/_CountryState-Template.private|_CountryState-Template.private]] 

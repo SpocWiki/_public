@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ -14.9 , 35.6 ] 
 type: geo-Region
 title: Machinga
@@ -40,10 +40,11 @@ markerFolder: ./Machinga/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Africa/Malawi/Counties/Machinga.md|Machinga]] 
-- [[../../../../_internal/geo/Continent/Africa/Malawi/Counties/Machinga.internal|Machinga.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Malawi/Counties/Machinga.protect|Machinga.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Malawi/Counties/Machinga.private|Machinga.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Malawi/Counties/Machinga.personal|Machinga.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Malawi/Counties/Machinga.secret|Machinga.secret]] 
+- [[../../../../../../_Standards/geo/Continent/Africa/Malawi/Counties/Machinga|Machinga]] 
+- [[../../../../../../_public/geo/Continent/Africa/Malawi/Counties/Machinga.public|Machinga.public]] 
+- [[../../../../../../_internal/geo/Continent/Africa/Malawi/Counties/Machinga.internal|Machinga.internal]] 
+- [[../../../../../../_protect/geo/Continent/Africa/Malawi/Counties/Machinga.protect|Machinga.protect]] 
+- [[../../../../../../_private/geo/Continent/Africa/Malawi/Counties/Machinga.private|Machinga.private]] 
+- [[../../../../../../_personal/geo/Continent/Africa/Malawi/Counties/Machinga.personal|Machinga.personal]] 
+- [[../../../../../../_secret/geo/Continent/Africa/Malawi/Counties/Machinga.secret|Machinga.secret]] 
 

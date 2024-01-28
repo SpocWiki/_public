@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 36.3 , 6.2 ] 
 type: geo-Region
 title: Mila
@@ -40,10 +40,11 @@ markerFolder: ./Mila/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Africa/Algeria/Counties/Mila.md|Mila]] 
-- [[../../../../_internal/geo/Continent/Africa/Algeria/Counties/Mila.internal|Mila.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Algeria/Counties/Mila.protect|Mila.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Algeria/Counties/Mila.private|Mila.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Algeria/Counties/Mila.personal|Mila.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Algeria/Counties/Mila.secret|Mila.secret]] 
+- [[../../../../../../_Standards/geo/Continent/Africa/Algeria/Counties/Mila|Mila]] 
+- [[../../../../../../_public/geo/Continent/Africa/Algeria/Counties/Mila.public|Mila.public]] 
+- [[../../../../../../_internal/geo/Continent/Africa/Algeria/Counties/Mila.internal|Mila.internal]] 
+- [[../../../../../../_protect/geo/Continent/Africa/Algeria/Counties/Mila.protect|Mila.protect]] 
+- [[../../../../../../_private/geo/Continent/Africa/Algeria/Counties/Mila.private|Mila.private]] 
+- [[../../../../../../_personal/geo/Continent/Africa/Algeria/Counties/Mila.personal|Mila.personal]] 
+- [[../../../../../../_secret/geo/Continent/Africa/Algeria/Counties/Mila.secret|Mila.secret]] 
 

@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ -5.2 , 14.4 ] 
 type: geo-Region
 title: Bas-Congo
@@ -40,10 +40,11 @@ markerFolder: ./Bas-Congo/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Africa/Congo~Kinshasa/Counties/Bas-Congo.md|Bas-Congo]] 
-- [[../../../../_internal/geo/Continent/Africa/Congo~Kinshasa/Counties/Bas-Congo.internal|Bas-Congo.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Congo~Kinshasa/Counties/Bas-Congo.protect|Bas-Congo.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Congo~Kinshasa/Counties/Bas-Congo.private|Bas-Congo.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Congo~Kinshasa/Counties/Bas-Congo.personal|Bas-Congo.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Congo~Kinshasa/Counties/Bas-Congo.secret|Bas-Congo.secret]] 
+- [[../../../../../../_Standards/geo/Continent/Africa/Congo~Kinshasa/Counties/Bas-Congo|Bas-Congo]] 
+- [[../../../../../../_public/geo/Continent/Africa/Congo~Kinshasa/Counties/Bas-Congo.public|Bas-Congo.public]] 
+- [[../../../../../../_internal/geo/Continent/Africa/Congo~Kinshasa/Counties/Bas-Congo.internal|Bas-Congo.internal]] 
+- [[../../../../../../_protect/geo/Continent/Africa/Congo~Kinshasa/Counties/Bas-Congo.protect|Bas-Congo.protect]] 
+- [[../../../../../../_private/geo/Continent/Africa/Congo~Kinshasa/Counties/Bas-Congo.private|Bas-Congo.private]] 
+- [[../../../../../../_personal/geo/Continent/Africa/Congo~Kinshasa/Counties/Bas-Congo.personal|Bas-Congo.personal]] 
+- [[../../../../../../_secret/geo/Continent/Africa/Congo~Kinshasa/Counties/Bas-Congo.secret|Bas-Congo.secret]] 
 

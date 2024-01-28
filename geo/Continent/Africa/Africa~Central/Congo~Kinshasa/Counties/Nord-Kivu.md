@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ -0.6 , 28.7 ] 
 type: geo-Region
 title: Nord-Kivu
@@ -40,10 +40,11 @@ markerFolder: ./Nord-Kivu/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Africa/Congo~Kinshasa/Counties/Nord-Kivu.md|Nord-Kivu]] 
-- [[../../../../_internal/geo/Continent/Africa/Congo~Kinshasa/Counties/Nord-Kivu.internal|Nord-Kivu.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Congo~Kinshasa/Counties/Nord-Kivu.protect|Nord-Kivu.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Congo~Kinshasa/Counties/Nord-Kivu.private|Nord-Kivu.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Congo~Kinshasa/Counties/Nord-Kivu.personal|Nord-Kivu.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Congo~Kinshasa/Counties/Nord-Kivu.secret|Nord-Kivu.secret]] 
+- [[../../../../../../_Standards/geo/Continent/Africa/Congo~Kinshasa/Counties/Nord-Kivu|Nord-Kivu]] 
+- [[../../../../../../_public/geo/Continent/Africa/Congo~Kinshasa/Counties/Nord-Kivu.public|Nord-Kivu.public]] 
+- [[../../../../../../_internal/geo/Continent/Africa/Congo~Kinshasa/Counties/Nord-Kivu.internal|Nord-Kivu.internal]] 
+- [[../../../../../../_protect/geo/Continent/Africa/Congo~Kinshasa/Counties/Nord-Kivu.protect|Nord-Kivu.protect]] 
+- [[../../../../../../_private/geo/Continent/Africa/Congo~Kinshasa/Counties/Nord-Kivu.private|Nord-Kivu.private]] 
+- [[../../../../../../_personal/geo/Continent/Africa/Congo~Kinshasa/Counties/Nord-Kivu.personal|Nord-Kivu.personal]] 
+- [[../../../../../../_secret/geo/Continent/Africa/Congo~Kinshasa/Counties/Nord-Kivu.secret|Nord-Kivu.secret]] 
 

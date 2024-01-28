@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ -1.8 , -76.8 ] 
 type: geo-Region
 title: Pastaza
@@ -40,10 +40,11 @@ markerFolder: ./Pastaza/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/America~South/Ecuador/Counties/Pastaza.md|Pastaza]] 
-- [[../../../../_internal/geo/Continent/America~South/Ecuador/Counties/Pastaza.internal|Pastaza.internal]] 
-- [[../../../../_protect/geo/Continent/America~South/Ecuador/Counties/Pastaza.protect|Pastaza.protect]] 
-- [[../../../../_private/geo/Continent/America~South/Ecuador/Counties/Pastaza.private|Pastaza.private]] 
-- [[../../../../_personal/geo/Continent/America~South/Ecuador/Counties/Pastaza.personal|Pastaza.personal]] 
-- [[../../../../_secret/geo/Continent/America~South/Ecuador/Counties/Pastaza.secret|Pastaza.secret]] 
+- [[../../../../../../_Standards/geo/Continent/America~South/Ecuador/Counties/Pastaza|Pastaza]] 
+- [[../../../../../../_public/geo/Continent/America~South/Ecuador/Counties/Pastaza.public|Pastaza.public]] 
+- [[../../../../../../_internal/geo/Continent/America~South/Ecuador/Counties/Pastaza.internal|Pastaza.internal]] 
+- [[../../../../../../_protect/geo/Continent/America~South/Ecuador/Counties/Pastaza.protect|Pastaza.protect]] 
+- [[../../../../../../_private/geo/Continent/America~South/Ecuador/Counties/Pastaza.private|Pastaza.private]] 
+- [[../../../../../../_personal/geo/Continent/America~South/Ecuador/Counties/Pastaza.personal|Pastaza.personal]] 
+- [[../../../../../../_secret/geo/Continent/America~South/Ecuador/Counties/Pastaza.secret|Pastaza.secret]] 
 

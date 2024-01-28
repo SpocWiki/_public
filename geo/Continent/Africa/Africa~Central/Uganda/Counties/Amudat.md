@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 1.8 , 34.9 ] 
 type: geo-Region
 title: Amudat
@@ -40,10 +40,11 @@ markerFolder: ./Amudat/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Africa/Uganda/Counties/Amudat.md|Amudat]] 
-- [[../../../../_internal/geo/Continent/Africa/Uganda/Counties/Amudat.internal|Amudat.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Uganda/Counties/Amudat.protect|Amudat.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Uganda/Counties/Amudat.private|Amudat.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Uganda/Counties/Amudat.personal|Amudat.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Uganda/Counties/Amudat.secret|Amudat.secret]] 
+- [[../../../../../../_Standards/geo/Continent/Africa/Uganda/Counties/Amudat|Amudat]] 
+- [[../../../../../../_public/geo/Continent/Africa/Uganda/Counties/Amudat.public|Amudat.public]] 
+- [[../../../../../../_internal/geo/Continent/Africa/Uganda/Counties/Amudat.internal|Amudat.internal]] 
+- [[../../../../../../_protect/geo/Continent/Africa/Uganda/Counties/Amudat.protect|Amudat.protect]] 
+- [[../../../../../../_private/geo/Continent/Africa/Uganda/Counties/Amudat.private|Amudat.private]] 
+- [[../../../../../../_personal/geo/Continent/Africa/Uganda/Counties/Amudat.personal|Amudat.personal]] 
+- [[../../../../../../_secret/geo/Continent/Africa/Uganda/Counties/Amudat.secret|Amudat.secret]] 
 

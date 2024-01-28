@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 9 , 38.8 ] 
 type: geo-Region
 title: Addis_Ababa
@@ -40,10 +40,11 @@ markerFolder: ./Addis_Ababa/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Africa/Ethiopia/Counties/Addis_Ababa.md|Addis_Ababa]] 
-- [[../../../../_internal/geo/Continent/Africa/Ethiopia/Counties/Addis_Ababa.internal|Addis_Ababa.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Ethiopia/Counties/Addis_Ababa.protect|Addis_Ababa.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Ethiopia/Counties/Addis_Ababa.private|Addis_Ababa.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Ethiopia/Counties/Addis_Ababa.personal|Addis_Ababa.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Ethiopia/Counties/Addis_Ababa.secret|Addis_Ababa.secret]] 
+- [[../../../../../../_Standards/geo/Continent/Africa/Ethiopia/Counties/Addis_Ababa|Addis_Ababa]] 
+- [[../../../../../../_public/geo/Continent/Africa/Ethiopia/Counties/Addis_Ababa.public|Addis_Ababa.public]] 
+- [[../../../../../../_internal/geo/Continent/Africa/Ethiopia/Counties/Addis_Ababa.internal|Addis_Ababa.internal]] 
+- [[../../../../../../_protect/geo/Continent/Africa/Ethiopia/Counties/Addis_Ababa.protect|Addis_Ababa.protect]] 
+- [[../../../../../../_private/geo/Continent/Africa/Ethiopia/Counties/Addis_Ababa.private|Addis_Ababa.private]] 
+- [[../../../../../../_personal/geo/Continent/Africa/Ethiopia/Counties/Addis_Ababa.personal|Addis_Ababa.personal]] 
+- [[../../../../../../_secret/geo/Continent/Africa/Ethiopia/Counties/Addis_Ababa.secret|Addis_Ababa.secret]] 
 

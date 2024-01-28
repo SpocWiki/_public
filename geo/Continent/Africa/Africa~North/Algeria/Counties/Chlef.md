@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 36.2 , 1.3 ] 
 type: geo-Region
 title: Chlef
@@ -40,10 +40,11 @@ markerFolder: ./Chlef/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Africa/Algeria/Counties/Chlef.md|Chlef]] 
-- [[../../../../_internal/geo/Continent/Africa/Algeria/Counties/Chlef.internal|Chlef.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Algeria/Counties/Chlef.protect|Chlef.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Algeria/Counties/Chlef.private|Chlef.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Algeria/Counties/Chlef.personal|Chlef.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Algeria/Counties/Chlef.secret|Chlef.secret]] 
+- [[../../../../../../_Standards/geo/Continent/Africa/Algeria/Counties/Chlef|Chlef]] 
+- [[../../../../../../_public/geo/Continent/Africa/Algeria/Counties/Chlef.public|Chlef.public]] 
+- [[../../../../../../_internal/geo/Continent/Africa/Algeria/Counties/Chlef.internal|Chlef.internal]] 
+- [[../../../../../../_protect/geo/Continent/Africa/Algeria/Counties/Chlef.protect|Chlef.protect]] 
+- [[../../../../../../_private/geo/Continent/Africa/Algeria/Counties/Chlef.private|Chlef.private]] 
+- [[../../../../../../_personal/geo/Continent/Africa/Algeria/Counties/Chlef.personal|Chlef.personal]] 
+- [[../../../../../../_secret/geo/Continent/Africa/Algeria/Counties/Chlef.secret|Chlef.secret]] 
 

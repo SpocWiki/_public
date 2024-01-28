@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ -27.5 , -70 ] 
 type: geo-Region
 title: Atacama
@@ -40,10 +40,11 @@ markerFolder: ./Atacama/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/America~South/Chile/Counties/Atacama.md|Atacama]] 
-- [[../../../../_internal/geo/Continent/America~South/Chile/Counties/Atacama.internal|Atacama.internal]] 
-- [[../../../../_protect/geo/Continent/America~South/Chile/Counties/Atacama.protect|Atacama.protect]] 
-- [[../../../../_private/geo/Continent/America~South/Chile/Counties/Atacama.private|Atacama.private]] 
-- [[../../../../_personal/geo/Continent/America~South/Chile/Counties/Atacama.personal|Atacama.personal]] 
-- [[../../../../_secret/geo/Continent/America~South/Chile/Counties/Atacama.secret|Atacama.secret]] 
+- [[../../../../../../_Standards/geo/Continent/America~South/Chile/Counties/Atacama|Atacama]] 
+- [[../../../../../../_public/geo/Continent/America~South/Chile/Counties/Atacama.public|Atacama.public]] 
+- [[../../../../../../_internal/geo/Continent/America~South/Chile/Counties/Atacama.internal|Atacama.internal]] 
+- [[../../../../../../_protect/geo/Continent/America~South/Chile/Counties/Atacama.protect|Atacama.protect]] 
+- [[../../../../../../_private/geo/Continent/America~South/Chile/Counties/Atacama.private|Atacama.private]] 
+- [[../../../../../../_personal/geo/Continent/America~South/Chile/Counties/Atacama.personal|Atacama.personal]] 
+- [[../../../../../../_secret/geo/Continent/America~South/Chile/Counties/Atacama.secret|Atacama.secret]] 
 

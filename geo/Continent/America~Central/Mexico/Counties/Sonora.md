@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 29.4 , -110.5 ] 
 type: geo-Region
 title: Sonora
@@ -40,10 +40,11 @@ markerFolder: ./Sonora/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/America~Central/Mexico/Counties/Sonora.md|Sonora]] 
-- [[../../../../_internal/geo/Continent/America~Central/Mexico/Counties/Sonora.internal|Sonora.internal]] 
-- [[../../../../_protect/geo/Continent/America~Central/Mexico/Counties/Sonora.protect|Sonora.protect]] 
-- [[../../../../_private/geo/Continent/America~Central/Mexico/Counties/Sonora.private|Sonora.private]] 
-- [[../../../../_personal/geo/Continent/America~Central/Mexico/Counties/Sonora.personal|Sonora.personal]] 
-- [[../../../../_secret/geo/Continent/America~Central/Mexico/Counties/Sonora.secret|Sonora.secret]] 
+- [[../../../../../../_Standards/geo/Continent/America~Central/Mexico/Counties/Sonora|Sonora]] 
+- [[../../../../../../_public/geo/Continent/America~Central/Mexico/Counties/Sonora.public|Sonora.public]] 
+- [[../../../../../../_internal/geo/Continent/America~Central/Mexico/Counties/Sonora.internal|Sonora.internal]] 
+- [[../../../../../../_protect/geo/Continent/America~Central/Mexico/Counties/Sonora.protect|Sonora.protect]] 
+- [[../../../../../../_private/geo/Continent/America~Central/Mexico/Counties/Sonora.private|Sonora.private]] 
+- [[../../../../../../_personal/geo/Continent/America~Central/Mexico/Counties/Sonora.personal|Sonora.personal]] 
+- [[../../../../../../_secret/geo/Continent/America~Central/Mexico/Counties/Sonora.secret|Sonora.secret]] 
 

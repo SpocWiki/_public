@@ -1,5 +1,5 @@
 ﻿---
-location: [15.3,-61.38334]
+location: [15.3,-61.38334] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,27 +12,28 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::-61.38334]
-[geo-lat::15.3]
-[name::Roseau]
-[State::]
-[Countr[[../../../../Dominica]]]]]]
-[StateId::]
-[Population::]
-[Unknown::32]
+[geo-lon::-61.38334] 
+[geo-lat::15.3] 
+[name::Roseau] 
+State ::  
+Country :: [[../../../../Dominica]] 
+[StateId::] 
+[Population::] 
+[Unknown::32] 
 
 
 ```leaflet
 id: Roseau
-coordinates: [[Roseau]]
-markerFile: [[Roseau]]
+coordinates: [[Roseau]] 
+markerFile: [[Roseau]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_public/geo/Continent/South-America/Dominica/City/Roseau.md|Roseau]] 
+- [[../../../../../../_Standards/geo/Continent/South-America/Dominica/City/Roseau|Roseau]] 
+- [[../../../../../../_public/geo/Continent/South-America/Dominica/City/Roseau.public|Roseau.public]] 
 - [[../../../../../../_internal/geo/Continent/South-America/Dominica/City/Roseau.internal|Roseau.internal]] 
 - [[../../../../../../_protect/geo/Continent/South-America/Dominica/City/Roseau.protect|Roseau.protect]] 
 - [[../../../../../../_private/geo/Continent/South-America/Dominica/City/Roseau.private|Roseau.private]] 

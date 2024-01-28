@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 18.6 , -69.9 ] 
 type: geo-Region
 title: Santo_Domingo
@@ -40,10 +40,11 @@ markerFolder: ./Santo_Domingo/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/America~Caribbean/Dominican_Rep/Counties/Santo_Domingo.md|Santo_Domingo]] 
-- [[../../../../_internal/geo/Continent/America~Caribbean/Dominican_Rep/Counties/Santo_Domingo.internal|Santo_Domingo.internal]] 
-- [[../../../../_protect/geo/Continent/America~Caribbean/Dominican_Rep/Counties/Santo_Domingo.protect|Santo_Domingo.protect]] 
-- [[../../../../_private/geo/Continent/America~Caribbean/Dominican_Rep/Counties/Santo_Domingo.private|Santo_Domingo.private]] 
-- [[../../../../_personal/geo/Continent/America~Caribbean/Dominican_Rep/Counties/Santo_Domingo.personal|Santo_Domingo.personal]] 
-- [[../../../../_secret/geo/Continent/America~Caribbean/Dominican_Rep/Counties/Santo_Domingo.secret|Santo_Domingo.secret]] 
+- [[../../../../../../_Standards/geo/Continent/America~Caribbean/Dominican_Rep/Counties/Santo_Domingo|Santo_Domingo]] 
+- [[../../../../../../_public/geo/Continent/America~Caribbean/Dominican_Rep/Counties/Santo_Domingo.public|Santo_Domingo.public]] 
+- [[../../../../../../_internal/geo/Continent/America~Caribbean/Dominican_Rep/Counties/Santo_Domingo.internal|Santo_Domingo.internal]] 
+- [[../../../../../../_protect/geo/Continent/America~Caribbean/Dominican_Rep/Counties/Santo_Domingo.protect|Santo_Domingo.protect]] 
+- [[../../../../../../_private/geo/Continent/America~Caribbean/Dominican_Rep/Counties/Santo_Domingo.private|Santo_Domingo.private]] 
+- [[../../../../../../_personal/geo/Continent/America~Caribbean/Dominican_Rep/Counties/Santo_Domingo.personal|Santo_Domingo.personal]] 
+- [[../../../../../../_secret/geo/Continent/America~Caribbean/Dominican_Rep/Counties/Santo_Domingo.secret|Santo_Domingo.secret]] 
 

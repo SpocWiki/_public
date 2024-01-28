@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ -10.8 , -63.4 ] 
 type: geo-Region
 title: Rondônia
@@ -40,10 +40,11 @@ markerFolder: ./Rondônia/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/America~South/Brazil/Counties/Rondônia.md|Rondônia]] 
-- [[../../../../_internal/geo/Continent/America~South/Brazil/Counties/Rondônia.internal|Rondônia.internal]] 
-- [[../../../../_protect/geo/Continent/America~South/Brazil/Counties/Rondônia.protect|Rondônia.protect]] 
-- [[../../../../_private/geo/Continent/America~South/Brazil/Counties/Rondônia.private|Rondônia.private]] 
-- [[../../../../_personal/geo/Continent/America~South/Brazil/Counties/Rondônia.personal|Rondônia.personal]] 
-- [[../../../../_secret/geo/Continent/America~South/Brazil/Counties/Rondônia.secret|Rondônia.secret]] 
+- [[../../../../../../_Standards/geo/Continent/America~South/Brazil/Counties/Rondônia|Rondônia]] 
+- [[../../../../../../_public/geo/Continent/America~South/Brazil/Counties/Rondônia.public|Rondônia.public]] 
+- [[../../../../../../_internal/geo/Continent/America~South/Brazil/Counties/Rondônia.internal|Rondônia.internal]] 
+- [[../../../../../../_protect/geo/Continent/America~South/Brazil/Counties/Rondônia.protect|Rondônia.protect]] 
+- [[../../../../../../_private/geo/Continent/America~South/Brazil/Counties/Rondônia.private|Rondônia.private]] 
+- [[../../../../../../_personal/geo/Continent/America~South/Brazil/Counties/Rondônia.personal|Rondônia.personal]] 
+- [[../../../../../../_secret/geo/Continent/America~South/Brazil/Counties/Rondônia.secret|Rondônia.secret]] 
 

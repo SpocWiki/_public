@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ -34.3 , -56.8 ] 
 type: geo-Region
 title: San_José
@@ -40,10 +40,11 @@ markerFolder: ./San_José/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/America~South/Uruguay/Counties/San_José.md|San_José]] 
-- [[../../../../_internal/geo/Continent/America~South/Uruguay/Counties/San_José.internal|San_José.internal]] 
-- [[../../../../_protect/geo/Continent/America~South/Uruguay/Counties/San_José.protect|San_José.protect]] 
-- [[../../../../_private/geo/Continent/America~South/Uruguay/Counties/San_José.private|San_José.private]] 
-- [[../../../../_personal/geo/Continent/America~South/Uruguay/Counties/San_José.personal|San_José.personal]] 
-- [[../../../../_secret/geo/Continent/America~South/Uruguay/Counties/San_José.secret|San_José.secret]] 
+- [[../../../../../../_Standards/geo/Continent/America~South/Uruguay/Counties/San_José|San_José]] 
+- [[../../../../../../_public/geo/Continent/America~South/Uruguay/Counties/San_José.public|San_José.public]] 
+- [[../../../../../../_internal/geo/Continent/America~South/Uruguay/Counties/San_José.internal|San_José.internal]] 
+- [[../../../../../../_protect/geo/Continent/America~South/Uruguay/Counties/San_José.protect|San_José.protect]] 
+- [[../../../../../../_private/geo/Continent/America~South/Uruguay/Counties/San_José.private|San_José.private]] 
+- [[../../../../../../_personal/geo/Continent/America~South/Uruguay/Counties/San_José.personal|San_José.personal]] 
+- [[../../../../../../_secret/geo/Continent/America~South/Uruguay/Counties/San_José.secret|San_José.secret]] 
 

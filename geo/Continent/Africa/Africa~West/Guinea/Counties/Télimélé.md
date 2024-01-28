@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 10.9 , -13.4 ] 
 type: geo-Region
 title: Télimélé
@@ -40,10 +40,11 @@ markerFolder: ./Télimélé/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Africa/Guinea/Counties/Télimélé.md|Télimélé]] 
-- [[../../../../_internal/geo/Continent/Africa/Guinea/Counties/Télimélé.internal|Télimélé.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Guinea/Counties/Télimélé.protect|Télimélé.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Guinea/Counties/Télimélé.private|Télimélé.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Guinea/Counties/Télimélé.personal|Télimélé.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Guinea/Counties/Télimélé.secret|Télimélé.secret]] 
+- [[../../../../../../_Standards/geo/Continent/Africa/Guinea/Counties/Télimélé|Télimélé]] 
+- [[../../../../../../_public/geo/Continent/Africa/Guinea/Counties/Télimélé.public|Télimélé.public]] 
+- [[../../../../../../_internal/geo/Continent/Africa/Guinea/Counties/Télimélé.internal|Télimélé.internal]] 
+- [[../../../../../../_protect/geo/Continent/Africa/Guinea/Counties/Télimélé.protect|Télimélé.protect]] 
+- [[../../../../../../_private/geo/Continent/Africa/Guinea/Counties/Télimélé.private|Télimélé.private]] 
+- [[../../../../../../_personal/geo/Continent/Africa/Guinea/Counties/Télimélé.personal|Télimélé.personal]] 
+- [[../../../../../../_secret/geo/Continent/Africa/Guinea/Counties/Télimélé.secret|Télimélé.secret]] 
 

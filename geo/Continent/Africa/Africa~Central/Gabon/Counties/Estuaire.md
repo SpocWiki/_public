@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 0.2 , 10.2 ] 
 type: geo-Region
 title: Estuaire
@@ -40,10 +40,11 @@ markerFolder: ./Estuaire/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Africa/Gabon/Counties/Estuaire.md|Estuaire]] 
-- [[../../../../_internal/geo/Continent/Africa/Gabon/Counties/Estuaire.internal|Estuaire.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Gabon/Counties/Estuaire.protect|Estuaire.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Gabon/Counties/Estuaire.private|Estuaire.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Gabon/Counties/Estuaire.personal|Estuaire.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Gabon/Counties/Estuaire.secret|Estuaire.secret]] 
+- [[../../../../../../_Standards/geo/Continent/Africa/Gabon/Counties/Estuaire|Estuaire]] 
+- [[../../../../../../_public/geo/Continent/Africa/Gabon/Counties/Estuaire.public|Estuaire.public]] 
+- [[../../../../../../_internal/geo/Continent/Africa/Gabon/Counties/Estuaire.internal|Estuaire.internal]] 
+- [[../../../../../../_protect/geo/Continent/Africa/Gabon/Counties/Estuaire.protect|Estuaire.protect]] 
+- [[../../../../../../_private/geo/Continent/Africa/Gabon/Counties/Estuaire.private|Estuaire.private]] 
+- [[../../../../../../_personal/geo/Continent/Africa/Gabon/Counties/Estuaire.personal|Estuaire.personal]] 
+- [[../../../../../../_secret/geo/Continent/Africa/Gabon/Counties/Estuaire.secret|Estuaire.secret]] 
 

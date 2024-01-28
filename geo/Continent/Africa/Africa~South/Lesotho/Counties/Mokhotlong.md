@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ -29.2 , 29 ] 
 type: geo-Region
 title: Mokhotlong
@@ -40,10 +40,11 @@ markerFolder: ./Mokhotlong/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Africa/Lesotho/Counties/Mokhotlong.md|Mokhotlong]] 
-- [[../../../../_internal/geo/Continent/Africa/Lesotho/Counties/Mokhotlong.internal|Mokhotlong.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Lesotho/Counties/Mokhotlong.protect|Mokhotlong.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Lesotho/Counties/Mokhotlong.private|Mokhotlong.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Lesotho/Counties/Mokhotlong.personal|Mokhotlong.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Lesotho/Counties/Mokhotlong.secret|Mokhotlong.secret]] 
+- [[../../../../../../_Standards/geo/Continent/Africa/Lesotho/Counties/Mokhotlong|Mokhotlong]] 
+- [[../../../../../../_public/geo/Continent/Africa/Lesotho/Counties/Mokhotlong.public|Mokhotlong.public]] 
+- [[../../../../../../_internal/geo/Continent/Africa/Lesotho/Counties/Mokhotlong.internal|Mokhotlong.internal]] 
+- [[../../../../../../_protect/geo/Continent/Africa/Lesotho/Counties/Mokhotlong.protect|Mokhotlong.protect]] 
+- [[../../../../../../_private/geo/Continent/Africa/Lesotho/Counties/Mokhotlong.private|Mokhotlong.private]] 
+- [[../../../../../../_personal/geo/Continent/Africa/Lesotho/Counties/Mokhotlong.personal|Mokhotlong.personal]] 
+- [[../../../../../../_secret/geo/Continent/Africa/Lesotho/Counties/Mokhotlong.secret|Mokhotlong.secret]] 
 

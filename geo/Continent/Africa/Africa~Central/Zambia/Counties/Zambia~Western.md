@@ -40,10 +40,11 @@ markerFolder: ./Zambia~Western/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Africa/Zambia/Counties/Zambia~Western.md|Zambia~Western]] 
-- [[../../../../_internal/geo/Continent/Africa/Zambia/Counties/Zambia~Western.internal|Zambia~Western.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Zambia/Counties/Zambia~Western.protect|Zambia~Western.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Zambia/Counties/Zambia~Western.private|Zambia~Western.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Zambia/Counties/Zambia~Western.personal|Zambia~Western.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Zambia/Counties/Zambia~Western.secret|Zambia~Western.secret]] 
+- [[../../../../../../_Standards/geo/Continent/Africa/Zambia/Counties/Zambia~Western|Zambia~Western]] 
+- [[../../../../../../_public/geo/Continent/Africa/Zambia/Counties/Zambia~Western.public|Zambia~Western.public]] 
+- [[../../../../../../_internal/geo/Continent/Africa/Zambia/Counties/Zambia~Western.internal|Zambia~Western.internal]] 
+- [[../../../../../../_protect/geo/Continent/Africa/Zambia/Counties/Zambia~Western.protect|Zambia~Western.protect]] 
+- [[../../../../../../_private/geo/Continent/Africa/Zambia/Counties/Zambia~Western.private|Zambia~Western.private]] 
+- [[../../../../../../_personal/geo/Continent/Africa/Zambia/Counties/Zambia~Western.personal|Zambia~Western.personal]] 
+- [[../../../../../../_secret/geo/Continent/Africa/Zambia/Counties/Zambia~Western.secret|Zambia~Western.secret]] 
 

@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 17.7 , -64.8 ] 
 type: geo-Region
 title: Saint_Croix
@@ -40,10 +40,11 @@ markerFolder: ./Saint_Croix/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/America~North/United_States_of_America/USA~Islands/USA_Virgin~Islands/Counties/Saint_Croix.md|Saint_Croix]] 
-- [[../../../../_internal/geo/Continent/America~North/United_States_of_America/USA~Islands/USA_Virgin~Islands/Counties/Saint_Croix.internal|Saint_Croix.internal]] 
-- [[../../../../_protect/geo/Continent/America~North/United_States_of_America/USA~Islands/USA_Virgin~Islands/Counties/Saint_Croix.protect|Saint_Croix.protect]] 
-- [[../../../../_private/geo/Continent/America~North/United_States_of_America/USA~Islands/USA_Virgin~Islands/Counties/Saint_Croix.private|Saint_Croix.private]] 
-- [[../../../../_personal/geo/Continent/America~North/United_States_of_America/USA~Islands/USA_Virgin~Islands/Counties/Saint_Croix.personal|Saint_Croix.personal]] 
-- [[../../../../_secret/geo/Continent/America~North/United_States_of_America/USA~Islands/USA_Virgin~Islands/Counties/Saint_Croix.secret|Saint_Croix.secret]] 
+- [[../../../../../../../../_Standards/geo/Continent/America~North/United_States_of_America/USA~Islands/USA_Virgin~Islands/Counties/Saint_Croix|Saint_Croix]] 
+- [[../../../../../../../../_public/geo/Continent/America~North/United_States_of_America/USA~Islands/USA_Virgin~Islands/Counties/Saint_Croix.public|Saint_Croix.public]] 
+- [[../../../../../../../../_internal/geo/Continent/America~North/United_States_of_America/USA~Islands/USA_Virgin~Islands/Counties/Saint_Croix.internal|Saint_Croix.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/America~North/United_States_of_America/USA~Islands/USA_Virgin~Islands/Counties/Saint_Croix.protect|Saint_Croix.protect]] 
+- [[../../../../../../../../_private/geo/Continent/America~North/United_States_of_America/USA~Islands/USA_Virgin~Islands/Counties/Saint_Croix.private|Saint_Croix.private]] 
+- [[../../../../../../../../_personal/geo/Continent/America~North/United_States_of_America/USA~Islands/USA_Virgin~Islands/Counties/Saint_Croix.personal|Saint_Croix.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/America~North/United_States_of_America/USA~Islands/USA_Virgin~Islands/Counties/Saint_Croix.secret|Saint_Croix.secret]] 
 

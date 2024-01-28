@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ -1.45 , 5.63 ] 
 type: geo-Region
 title: Annobón
@@ -40,10 +40,11 @@ markerFolder: ./Annobón/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Africa/Equatorial_Guinea/Counties/Annobón.md|Annobón]] 
-- [[../../../../_internal/geo/Continent/Africa/Equatorial_Guinea/Counties/Annobón.internal|Annobón.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Equatorial_Guinea/Counties/Annobón.protect|Annobón.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Equatorial_Guinea/Counties/Annobón.private|Annobón.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Equatorial_Guinea/Counties/Annobón.personal|Annobón.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Equatorial_Guinea/Counties/Annobón.secret|Annobón.secret]] 
+- [[../../../../../../_Standards/geo/Continent/Africa/Equatorial_Guinea/Counties/Annobón|Annobón]] 
+- [[../../../../../../_public/geo/Continent/Africa/Equatorial_Guinea/Counties/Annobón.public|Annobón.public]] 
+- [[../../../../../../_internal/geo/Continent/Africa/Equatorial_Guinea/Counties/Annobón.internal|Annobón.internal]] 
+- [[../../../../../../_protect/geo/Continent/Africa/Equatorial_Guinea/Counties/Annobón.protect|Annobón.protect]] 
+- [[../../../../../../_private/geo/Continent/Africa/Equatorial_Guinea/Counties/Annobón.private|Annobón.private]] 
+- [[../../../../../../_personal/geo/Continent/Africa/Equatorial_Guinea/Counties/Annobón.personal|Annobón.personal]] 
+- [[../../../../../../_secret/geo/Continent/Africa/Equatorial_Guinea/Counties/Annobón.secret|Annobón.secret]] 
 

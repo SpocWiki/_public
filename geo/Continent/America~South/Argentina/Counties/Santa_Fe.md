@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ -31.2 , -61 ] 
 type: geo-Region
 title: Santa_Fe
@@ -40,10 +40,11 @@ markerFolder: ./Santa_Fe/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/America~South/Argentina/Counties/Santa_Fe.md|Santa_Fe]] 
-- [[../../../../_internal/geo/Continent/America~South/Argentina/Counties/Santa_Fe.internal|Santa_Fe.internal]] 
-- [[../../../../_protect/geo/Continent/America~South/Argentina/Counties/Santa_Fe.protect|Santa_Fe.protect]] 
-- [[../../../../_private/geo/Continent/America~South/Argentina/Counties/Santa_Fe.private|Santa_Fe.private]] 
-- [[../../../../_personal/geo/Continent/America~South/Argentina/Counties/Santa_Fe.personal|Santa_Fe.personal]] 
-- [[../../../../_secret/geo/Continent/America~South/Argentina/Counties/Santa_Fe.secret|Santa_Fe.secret]] 
+- [[../../../../../../_Standards/geo/Continent/America~South/Argentina/Counties/Santa_Fe|Santa_Fe]] 
+- [[../../../../../../_public/geo/Continent/America~South/Argentina/Counties/Santa_Fe.public|Santa_Fe.public]] 
+- [[../../../../../../_internal/geo/Continent/America~South/Argentina/Counties/Santa_Fe.internal|Santa_Fe.internal]] 
+- [[../../../../../../_protect/geo/Continent/America~South/Argentina/Counties/Santa_Fe.protect|Santa_Fe.protect]] 
+- [[../../../../../../_private/geo/Continent/America~South/Argentina/Counties/Santa_Fe.private|Santa_Fe.private]] 
+- [[../../../../../../_personal/geo/Continent/America~South/Argentina/Counties/Santa_Fe.personal|Santa_Fe.personal]] 
+- [[../../../../../../_secret/geo/Continent/America~South/Argentina/Counties/Santa_Fe.secret|Santa_Fe.secret]] 
 

@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 10.8 , -8.8 ] 
 type: geo-Region
 title: Mandiana
@@ -40,10 +40,11 @@ markerFolder: ./Mandiana/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Africa/Guinea/Counties/Mandiana.md|Mandiana]] 
-- [[../../../../_internal/geo/Continent/Africa/Guinea/Counties/Mandiana.internal|Mandiana.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Guinea/Counties/Mandiana.protect|Mandiana.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Guinea/Counties/Mandiana.private|Mandiana.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Guinea/Counties/Mandiana.personal|Mandiana.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Guinea/Counties/Mandiana.secret|Mandiana.secret]] 
+- [[../../../../../../_Standards/geo/Continent/Africa/Guinea/Counties/Mandiana|Mandiana]] 
+- [[../../../../../../_public/geo/Continent/Africa/Guinea/Counties/Mandiana.public|Mandiana.public]] 
+- [[../../../../../../_internal/geo/Continent/Africa/Guinea/Counties/Mandiana.internal|Mandiana.internal]] 
+- [[../../../../../../_protect/geo/Continent/Africa/Guinea/Counties/Mandiana.protect|Mandiana.protect]] 
+- [[../../../../../../_private/geo/Continent/Africa/Guinea/Counties/Mandiana.private|Mandiana.private]] 
+- [[../../../../../../_personal/geo/Continent/Africa/Guinea/Counties/Mandiana.personal|Mandiana.personal]] 
+- [[../../../../../../_secret/geo/Continent/Africa/Guinea/Counties/Mandiana.secret|Mandiana.secret]] 
 

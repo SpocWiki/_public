@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 21.8 , -71.8 ] 
 type: geo-Region
 title: Middle_Caicos
@@ -40,10 +40,11 @@ markerFolder: ./Middle_Caicos/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/America~Caribbean/Turks_and_Caicos~Islands/Counties/Middle_Caicos.md|Middle_Caicos]] 
-- [[../../../../_internal/geo/Continent/America~Caribbean/Turks_and_Caicos~Islands/Counties/Middle_Caicos.internal|Middle_Caicos.internal]] 
-- [[../../../../_protect/geo/Continent/America~Caribbean/Turks_and_Caicos~Islands/Counties/Middle_Caicos.protect|Middle_Caicos.protect]] 
-- [[../../../../_private/geo/Continent/America~Caribbean/Turks_and_Caicos~Islands/Counties/Middle_Caicos.private|Middle_Caicos.private]] 
-- [[../../../../_personal/geo/Continent/America~Caribbean/Turks_and_Caicos~Islands/Counties/Middle_Caicos.personal|Middle_Caicos.personal]] 
-- [[../../../../_secret/geo/Continent/America~Caribbean/Turks_and_Caicos~Islands/Counties/Middle_Caicos.secret|Middle_Caicos.secret]] 
+- [[../../../../../../_Standards/geo/Continent/America~Caribbean/Turks_and_Caicos~Islands/Counties/Middle_Caicos|Middle_Caicos]] 
+- [[../../../../../../_public/geo/Continent/America~Caribbean/Turks_and_Caicos~Islands/Counties/Middle_Caicos.public|Middle_Caicos.public]] 
+- [[../../../../../../_internal/geo/Continent/America~Caribbean/Turks_and_Caicos~Islands/Counties/Middle_Caicos.internal|Middle_Caicos.internal]] 
+- [[../../../../../../_protect/geo/Continent/America~Caribbean/Turks_and_Caicos~Islands/Counties/Middle_Caicos.protect|Middle_Caicos.protect]] 
+- [[../../../../../../_private/geo/Continent/America~Caribbean/Turks_and_Caicos~Islands/Counties/Middle_Caicos.private|Middle_Caicos.private]] 
+- [[../../../../../../_personal/geo/Continent/America~Caribbean/Turks_and_Caicos~Islands/Counties/Middle_Caicos.personal|Middle_Caicos.personal]] 
+- [[../../../../../../_secret/geo/Continent/America~Caribbean/Turks_and_Caicos~Islands/Counties/Middle_Caicos.secret|Middle_Caicos.secret]] 
 

@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 30.4 , 31.2 ] 
 type: geo-Region
 title: Al_Qalyubiyah
@@ -40,10 +40,11 @@ markerFolder: ./Al_Qalyubiyah/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Africa/Egypt/Counties/Al_Qalyubiyah.md|Al_Qalyubiyah]] 
-- [[../../../../_internal/geo/Continent/Africa/Egypt/Counties/Al_Qalyubiyah.internal|Al_Qalyubiyah.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Egypt/Counties/Al_Qalyubiyah.protect|Al_Qalyubiyah.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Egypt/Counties/Al_Qalyubiyah.private|Al_Qalyubiyah.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Egypt/Counties/Al_Qalyubiyah.personal|Al_Qalyubiyah.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Egypt/Counties/Al_Qalyubiyah.secret|Al_Qalyubiyah.secret]] 
+- [[../../../../../../_Standards/geo/Continent/Africa/Egypt/Counties/Al_Qalyubiyah|Al_Qalyubiyah]] 
+- [[../../../../../../_public/geo/Continent/Africa/Egypt/Counties/Al_Qalyubiyah.public|Al_Qalyubiyah.public]] 
+- [[../../../../../../_internal/geo/Continent/Africa/Egypt/Counties/Al_Qalyubiyah.internal|Al_Qalyubiyah.internal]] 
+- [[../../../../../../_protect/geo/Continent/Africa/Egypt/Counties/Al_Qalyubiyah.protect|Al_Qalyubiyah.protect]] 
+- [[../../../../../../_private/geo/Continent/Africa/Egypt/Counties/Al_Qalyubiyah.private|Al_Qalyubiyah.private]] 
+- [[../../../../../../_personal/geo/Continent/Africa/Egypt/Counties/Al_Qalyubiyah.personal|Al_Qalyubiyah.personal]] 
+- [[../../../../../../_secret/geo/Continent/Africa/Egypt/Counties/Al_Qalyubiyah.secret|Al_Qalyubiyah.secret]] 
 

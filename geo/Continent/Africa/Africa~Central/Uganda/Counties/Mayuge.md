@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ -0.6 , 33.5 ] 
 type: geo-Region
 title: Mayuge
@@ -40,10 +40,11 @@ markerFolder: ./Mayuge/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Africa/Uganda/Counties/Mayuge.md|Mayuge]] 
-- [[../../../../_internal/geo/Continent/Africa/Uganda/Counties/Mayuge.internal|Mayuge.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Uganda/Counties/Mayuge.protect|Mayuge.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Uganda/Counties/Mayuge.private|Mayuge.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Uganda/Counties/Mayuge.personal|Mayuge.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Uganda/Counties/Mayuge.secret|Mayuge.secret]] 
+- [[../../../../../../_Standards/geo/Continent/Africa/Uganda/Counties/Mayuge|Mayuge]] 
+- [[../../../../../../_public/geo/Continent/Africa/Uganda/Counties/Mayuge.public|Mayuge.public]] 
+- [[../../../../../../_internal/geo/Continent/Africa/Uganda/Counties/Mayuge.internal|Mayuge.internal]] 
+- [[../../../../../../_protect/geo/Continent/Africa/Uganda/Counties/Mayuge.protect|Mayuge.protect]] 
+- [[../../../../../../_private/geo/Continent/Africa/Uganda/Counties/Mayuge.private|Mayuge.private]] 
+- [[../../../../../../_personal/geo/Continent/Africa/Uganda/Counties/Mayuge.personal|Mayuge.personal]] 
+- [[../../../../../../_secret/geo/Continent/Africa/Uganda/Counties/Mayuge.secret|Mayuge.secret]] 
 

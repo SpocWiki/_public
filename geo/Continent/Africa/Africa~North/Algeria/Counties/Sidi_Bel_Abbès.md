@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 34.8 , -0.6 ] 
 type: geo-Region
 title: Sidi_Bel_Abbès
@@ -40,10 +40,11 @@ markerFolder: ./Sidi_Bel_Abbès/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Africa/Algeria/Counties/Sidi_Bel_Abbès.md|Sidi_Bel_Abbès]] 
-- [[../../../../_internal/geo/Continent/Africa/Algeria/Counties/Sidi_Bel_Abbès.internal|Sidi_Bel_Abbès.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Algeria/Counties/Sidi_Bel_Abbès.protect|Sidi_Bel_Abbès.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Algeria/Counties/Sidi_Bel_Abbès.private|Sidi_Bel_Abbès.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Algeria/Counties/Sidi_Bel_Abbès.personal|Sidi_Bel_Abbès.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Algeria/Counties/Sidi_Bel_Abbès.secret|Sidi_Bel_Abbès.secret]] 
+- [[../../../../../../_Standards/geo/Continent/Africa/Algeria/Counties/Sidi_Bel_Abbès|Sidi_Bel_Abbès]] 
+- [[../../../../../../_public/geo/Continent/Africa/Algeria/Counties/Sidi_Bel_Abbès.public|Sidi_Bel_Abbès.public]] 
+- [[../../../../../../_internal/geo/Continent/Africa/Algeria/Counties/Sidi_Bel_Abbès.internal|Sidi_Bel_Abbès.internal]] 
+- [[../../../../../../_protect/geo/Continent/Africa/Algeria/Counties/Sidi_Bel_Abbès.protect|Sidi_Bel_Abbès.protect]] 
+- [[../../../../../../_private/geo/Continent/Africa/Algeria/Counties/Sidi_Bel_Abbès.private|Sidi_Bel_Abbès.private]] 
+- [[../../../../../../_personal/geo/Continent/Africa/Algeria/Counties/Sidi_Bel_Abbès.personal|Sidi_Bel_Abbès.personal]] 
+- [[../../../../../../_secret/geo/Continent/Africa/Algeria/Counties/Sidi_Bel_Abbès.secret|Sidi_Bel_Abbès.secret]] 
 

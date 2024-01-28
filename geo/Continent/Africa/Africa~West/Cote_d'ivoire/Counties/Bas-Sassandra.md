@@ -40,10 +40,11 @@ markerFolder: ./Bas-Sassandra/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Africa/Cote_d'Ivoire/Counties/Bas-Sassandra.md|Bas-Sassandra]] 
-- [[../../../../_internal/geo/Continent/Africa/Cote_d'Ivoire/Counties/Bas-Sassandra.internal|Bas-Sassandra.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Cote_d'Ivoire/Counties/Bas-Sassandra.protect|Bas-Sassandra.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Cote_d'Ivoire/Counties/Bas-Sassandra.private|Bas-Sassandra.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Cote_d'Ivoire/Counties/Bas-Sassandra.personal|Bas-Sassandra.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Cote_d'Ivoire/Counties/Bas-Sassandra.secret|Bas-Sassandra.secret]] 
+- [[../../../../../../_Standards/geo/Continent/Africa/Cote_d'Ivoire/Counties/Bas-Sassandra|Bas-Sassandra]] 
+- [[../../../../../../_public/geo/Continent/Africa/Cote_d'Ivoire/Counties/Bas-Sassandra.public|Bas-Sassandra.public]] 
+- [[../../../../../../_internal/geo/Continent/Africa/Cote_d'Ivoire/Counties/Bas-Sassandra.internal|Bas-Sassandra.internal]] 
+- [[../../../../../../_protect/geo/Continent/Africa/Cote_d'Ivoire/Counties/Bas-Sassandra.protect|Bas-Sassandra.protect]] 
+- [[../../../../../../_private/geo/Continent/Africa/Cote_d'Ivoire/Counties/Bas-Sassandra.private|Bas-Sassandra.private]] 
+- [[../../../../../../_personal/geo/Continent/Africa/Cote_d'Ivoire/Counties/Bas-Sassandra.personal|Bas-Sassandra.personal]] 
+- [[../../../../../../_secret/geo/Continent/Africa/Cote_d'Ivoire/Counties/Bas-Sassandra.secret|Bas-Sassandra.secret]] 
 

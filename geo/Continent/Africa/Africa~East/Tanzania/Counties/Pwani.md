@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ -7.2 , 38.9 ] 
 type: geo-Region
 title: Pwani
@@ -40,10 +40,11 @@ markerFolder: ./Pwani/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Africa/Tanzania/Counties/Pwani.md|Pwani]] 
-- [[../../../../_internal/geo/Continent/Africa/Tanzania/Counties/Pwani.internal|Pwani.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Tanzania/Counties/Pwani.protect|Pwani.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Tanzania/Counties/Pwani.private|Pwani.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Tanzania/Counties/Pwani.personal|Pwani.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Tanzania/Counties/Pwani.secret|Pwani.secret]] 
+- [[../../../../../../_Standards/geo/Continent/Africa/Tanzania/Counties/Pwani|Pwani]] 
+- [[../../../../../../_public/geo/Continent/Africa/Tanzania/Counties/Pwani.public|Pwani.public]] 
+- [[../../../../../../_internal/geo/Continent/Africa/Tanzania/Counties/Pwani.internal|Pwani.internal]] 
+- [[../../../../../../_protect/geo/Continent/Africa/Tanzania/Counties/Pwani.protect|Pwani.protect]] 
+- [[../../../../../../_private/geo/Continent/Africa/Tanzania/Counties/Pwani.private|Pwani.private]] 
+- [[../../../../../../_personal/geo/Continent/Africa/Tanzania/Counties/Pwani.personal|Pwani.personal]] 
+- [[../../../../../../_secret/geo/Continent/Africa/Tanzania/Counties/Pwani.secret|Pwani.secret]] 
 

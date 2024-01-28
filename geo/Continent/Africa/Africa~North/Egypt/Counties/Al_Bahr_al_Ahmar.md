@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 25.7 , 33.7 ] 
 type: geo-Region
 title: Al_Bahr_al_Ahmar
@@ -40,10 +40,11 @@ markerFolder: ./Al_Bahr_al_Ahmar/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Africa/Egypt/Counties/Al_Bahr_al_Ahmar.md|Al_Bahr_al_Ahmar]] 
-- [[../../../../_internal/geo/Continent/Africa/Egypt/Counties/Al_Bahr_al_Ahmar.internal|Al_Bahr_al_Ahmar.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Egypt/Counties/Al_Bahr_al_Ahmar.protect|Al_Bahr_al_Ahmar.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Egypt/Counties/Al_Bahr_al_Ahmar.private|Al_Bahr_al_Ahmar.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Egypt/Counties/Al_Bahr_al_Ahmar.personal|Al_Bahr_al_Ahmar.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Egypt/Counties/Al_Bahr_al_Ahmar.secret|Al_Bahr_al_Ahmar.secret]] 
+- [[../../../../../../_Standards/geo/Continent/Africa/Egypt/Counties/Al_Bahr_al_Ahmar|Al_Bahr_al_Ahmar]] 
+- [[../../../../../../_public/geo/Continent/Africa/Egypt/Counties/Al_Bahr_al_Ahmar.public|Al_Bahr_al_Ahmar.public]] 
+- [[../../../../../../_internal/geo/Continent/Africa/Egypt/Counties/Al_Bahr_al_Ahmar.internal|Al_Bahr_al_Ahmar.internal]] 
+- [[../../../../../../_protect/geo/Continent/Africa/Egypt/Counties/Al_Bahr_al_Ahmar.protect|Al_Bahr_al_Ahmar.protect]] 
+- [[../../../../../../_private/geo/Continent/Africa/Egypt/Counties/Al_Bahr_al_Ahmar.private|Al_Bahr_al_Ahmar.private]] 
+- [[../../../../../../_personal/geo/Continent/Africa/Egypt/Counties/Al_Bahr_al_Ahmar.personal|Al_Bahr_al_Ahmar.personal]] 
+- [[../../../../../../_secret/geo/Continent/Africa/Egypt/Counties/Al_Bahr_al_Ahmar.secret|Al_Bahr_al_Ahmar.secret]] 
 

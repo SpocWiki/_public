@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 14.8 , -86 ] 
 type: geo-Region
 title: Olancho
@@ -40,10 +40,11 @@ markerFolder: ./Olancho/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/America~Central/Honduras/Counties/Olancho.md|Olancho]] 
-- [[../../../../_internal/geo/Continent/America~Central/Honduras/Counties/Olancho.internal|Olancho.internal]] 
-- [[../../../../_protect/geo/Continent/America~Central/Honduras/Counties/Olancho.protect|Olancho.protect]] 
-- [[../../../../_private/geo/Continent/America~Central/Honduras/Counties/Olancho.private|Olancho.private]] 
-- [[../../../../_personal/geo/Continent/America~Central/Honduras/Counties/Olancho.personal|Olancho.personal]] 
-- [[../../../../_secret/geo/Continent/America~Central/Honduras/Counties/Olancho.secret|Olancho.secret]] 
+- [[../../../../../../_Standards/geo/Continent/America~Central/Honduras/Counties/Olancho|Olancho]] 
+- [[../../../../../../_public/geo/Continent/America~Central/Honduras/Counties/Olancho.public|Olancho.public]] 
+- [[../../../../../../_internal/geo/Continent/America~Central/Honduras/Counties/Olancho.internal|Olancho.internal]] 
+- [[../../../../../../_protect/geo/Continent/America~Central/Honduras/Counties/Olancho.protect|Olancho.protect]] 
+- [[../../../../../../_private/geo/Continent/America~Central/Honduras/Counties/Olancho.private|Olancho.private]] 
+- [[../../../../../../_personal/geo/Continent/America~Central/Honduras/Counties/Olancho.personal|Olancho.personal]] 
+- [[../../../../../../_secret/geo/Continent/America~Central/Honduras/Counties/Olancho.secret|Olancho.secret]] 
 

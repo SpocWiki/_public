@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 1.2 , 33.7 ] 
 type: geo-Region
 title: Pallisa
@@ -40,10 +40,11 @@ markerFolder: ./Pallisa/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Africa/Uganda/Counties/Pallisa.md|Pallisa]] 
-- [[../../../../_internal/geo/Continent/Africa/Uganda/Counties/Pallisa.internal|Pallisa.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Uganda/Counties/Pallisa.protect|Pallisa.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Uganda/Counties/Pallisa.private|Pallisa.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Uganda/Counties/Pallisa.personal|Pallisa.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Uganda/Counties/Pallisa.secret|Pallisa.secret]] 
+- [[../../../../../../_Standards/geo/Continent/Africa/Uganda/Counties/Pallisa|Pallisa]] 
+- [[../../../../../../_public/geo/Continent/Africa/Uganda/Counties/Pallisa.public|Pallisa.public]] 
+- [[../../../../../../_internal/geo/Continent/Africa/Uganda/Counties/Pallisa.internal|Pallisa.internal]] 
+- [[../../../../../../_protect/geo/Continent/Africa/Uganda/Counties/Pallisa.protect|Pallisa.protect]] 
+- [[../../../../../../_private/geo/Continent/Africa/Uganda/Counties/Pallisa.private|Pallisa.private]] 
+- [[../../../../../../_personal/geo/Continent/Africa/Uganda/Counties/Pallisa.personal|Pallisa.personal]] 
+- [[../../../../../../_secret/geo/Continent/Africa/Uganda/Counties/Pallisa.secret|Pallisa.secret]] 
 

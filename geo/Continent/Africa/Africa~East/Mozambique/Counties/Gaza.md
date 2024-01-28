@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ -23.3 , 32.7 ] 
 type: geo-Region
 title: Gaza
@@ -40,10 +40,11 @@ markerFolder: ./Gaza/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Africa/Mozambique/Counties/Gaza.md|Gaza]] 
-- [[../../../../_internal/geo/Continent/Africa/Mozambique/Counties/Gaza.internal|Gaza.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Mozambique/Counties/Gaza.protect|Gaza.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Mozambique/Counties/Gaza.private|Gaza.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Mozambique/Counties/Gaza.personal|Gaza.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Mozambique/Counties/Gaza.secret|Gaza.secret]] 
+- [[../../../../../../_Standards/geo/Continent/Africa/Mozambique/Counties/Gaza|Gaza]] 
+- [[../../../../../../_public/geo/Continent/Africa/Mozambique/Counties/Gaza.public|Gaza.public]] 
+- [[../../../../../../_internal/geo/Continent/Africa/Mozambique/Counties/Gaza.internal|Gaza.internal]] 
+- [[../../../../../../_protect/geo/Continent/Africa/Mozambique/Counties/Gaza.protect|Gaza.protect]] 
+- [[../../../../../../_private/geo/Continent/Africa/Mozambique/Counties/Gaza.private|Gaza.private]] 
+- [[../../../../../../_personal/geo/Continent/Africa/Mozambique/Counties/Gaza.personal|Gaza.personal]] 
+- [[../../../../../../_secret/geo/Continent/Africa/Mozambique/Counties/Gaza.secret|Gaza.secret]] 
 

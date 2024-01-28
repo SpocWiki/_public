@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 15.3 , 37.7 ] 
 type: geo-Region
 title: Gash_Barka
@@ -40,10 +40,11 @@ markerFolder: ./Gash_Barka/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Africa/Eritrea/Counties/Gash_Barka.md|Gash_Barka]] 
-- [[../../../../_internal/geo/Continent/Africa/Eritrea/Counties/Gash_Barka.internal|Gash_Barka.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Eritrea/Counties/Gash_Barka.protect|Gash_Barka.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Eritrea/Counties/Gash_Barka.private|Gash_Barka.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Eritrea/Counties/Gash_Barka.personal|Gash_Barka.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Eritrea/Counties/Gash_Barka.secret|Gash_Barka.secret]] 
+- [[../../../../../../_Standards/geo/Continent/Africa/Eritrea/Counties/Gash_Barka|Gash_Barka]] 
+- [[../../../../../../_public/geo/Continent/Africa/Eritrea/Counties/Gash_Barka.public|Gash_Barka.public]] 
+- [[../../../../../../_internal/geo/Continent/Africa/Eritrea/Counties/Gash_Barka.internal|Gash_Barka.internal]] 
+- [[../../../../../../_protect/geo/Continent/Africa/Eritrea/Counties/Gash_Barka.protect|Gash_Barka.protect]] 
+- [[../../../../../../_private/geo/Continent/Africa/Eritrea/Counties/Gash_Barka.private|Gash_Barka.private]] 
+- [[../../../../../../_personal/geo/Continent/Africa/Eritrea/Counties/Gash_Barka.personal|Gash_Barka.personal]] 
+- [[../../../../../../_secret/geo/Continent/Africa/Eritrea/Counties/Gash_Barka.secret|Gash_Barka.secret]] 
 

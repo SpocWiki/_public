@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ -20.3 , 57.6 ] 
 type: geo-Region
 title: Moka
@@ -40,10 +40,11 @@ markerFolder: ./Moka/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Africa/Mauritius/Counties/Moka.md|Moka]] 
-- [[../../../../_internal/geo/Continent/Africa/Mauritius/Counties/Moka.internal|Moka.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Mauritius/Counties/Moka.protect|Moka.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Mauritius/Counties/Moka.private|Moka.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Mauritius/Counties/Moka.personal|Moka.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Mauritius/Counties/Moka.secret|Moka.secret]] 
+- [[../../../../../../_Standards/geo/Continent/Africa/Mauritius/Counties/Moka|Moka]] 
+- [[../../../../../../_public/geo/Continent/Africa/Mauritius/Counties/Moka.public|Moka.public]] 
+- [[../../../../../../_internal/geo/Continent/Africa/Mauritius/Counties/Moka.internal|Moka.internal]] 
+- [[../../../../../../_protect/geo/Continent/Africa/Mauritius/Counties/Moka.protect|Moka.protect]] 
+- [[../../../../../../_private/geo/Continent/Africa/Mauritius/Counties/Moka.private|Moka.private]] 
+- [[../../../../../../_personal/geo/Continent/Africa/Mauritius/Counties/Moka.personal|Moka.personal]] 
+- [[../../../../../../_secret/geo/Continent/Africa/Mauritius/Counties/Moka.secret|Moka.secret]] 
 

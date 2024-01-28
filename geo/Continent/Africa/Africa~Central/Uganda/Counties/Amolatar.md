@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 1.6 , 32.6 ] 
 type: geo-Region
 title: Amolatar
@@ -40,10 +40,11 @@ markerFolder: ./Amolatar/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Africa/Uganda/Counties/Amolatar.md|Amolatar]] 
-- [[../../../../_internal/geo/Continent/Africa/Uganda/Counties/Amolatar.internal|Amolatar.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Uganda/Counties/Amolatar.protect|Amolatar.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Uganda/Counties/Amolatar.private|Amolatar.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Uganda/Counties/Amolatar.personal|Amolatar.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Uganda/Counties/Amolatar.secret|Amolatar.secret]] 
+- [[../../../../../../_Standards/geo/Continent/Africa/Uganda/Counties/Amolatar|Amolatar]] 
+- [[../../../../../../_public/geo/Continent/Africa/Uganda/Counties/Amolatar.public|Amolatar.public]] 
+- [[../../../../../../_internal/geo/Continent/Africa/Uganda/Counties/Amolatar.internal|Amolatar.internal]] 
+- [[../../../../../../_protect/geo/Continent/Africa/Uganda/Counties/Amolatar.protect|Amolatar.protect]] 
+- [[../../../../../../_private/geo/Continent/Africa/Uganda/Counties/Amolatar.private|Amolatar.private]] 
+- [[../../../../../../_personal/geo/Continent/Africa/Uganda/Counties/Amolatar.personal|Amolatar.personal]] 
+- [[../../../../../../_secret/geo/Continent/Africa/Uganda/Counties/Amolatar.secret|Amolatar.secret]] 
 

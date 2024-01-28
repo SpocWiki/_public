@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 7.46 , 134.59 ] 
 type: geo-Region
 title: Ngchesar
@@ -40,10 +40,11 @@ markerFolder: ./Ngchesar/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Oceania/Palau/Counties/Ngchesar.md|Ngchesar]] 
-- [[../../../../_internal/geo/Continent/Oceania/Palau/Counties/Ngchesar.internal|Ngchesar.internal]] 
-- [[../../../../_protect/geo/Continent/Oceania/Palau/Counties/Ngchesar.protect|Ngchesar.protect]] 
-- [[../../../../_private/geo/Continent/Oceania/Palau/Counties/Ngchesar.private|Ngchesar.private]] 
-- [[../../../../_personal/geo/Continent/Oceania/Palau/Counties/Ngchesar.personal|Ngchesar.personal]] 
-- [[../../../../_secret/geo/Continent/Oceania/Palau/Counties/Ngchesar.secret|Ngchesar.secret]] 
+- [[../../../../../../_Standards/geo/Continent/Oceania/Palau/Counties/Ngchesar|Ngchesar]] 
+- [[../../../../../../_public/geo/Continent/Oceania/Palau/Counties/Ngchesar.public|Ngchesar.public]] 
+- [[../../../../../../_internal/geo/Continent/Oceania/Palau/Counties/Ngchesar.internal|Ngchesar.internal]] 
+- [[../../../../../../_protect/geo/Continent/Oceania/Palau/Counties/Ngchesar.protect|Ngchesar.protect]] 
+- [[../../../../../../_private/geo/Continent/Oceania/Palau/Counties/Ngchesar.private|Ngchesar.private]] 
+- [[../../../../../../_personal/geo/Continent/Oceania/Palau/Counties/Ngchesar.personal|Ngchesar.personal]] 
+- [[../../../../../../_secret/geo/Continent/Oceania/Palau/Counties/Ngchesar.secret|Ngchesar.secret]] 
 

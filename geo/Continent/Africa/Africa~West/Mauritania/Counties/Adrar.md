@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 21.4 , -9.4 ] 
 type: geo-Region
 title: Adrar
@@ -40,10 +40,11 @@ markerFolder: ./Adrar/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Africa/Mauritania/Counties/Adrar.md|Adrar]] 
-- [[../../../../_internal/geo/Continent/Africa/Mauritania/Counties/Adrar.internal|Adrar.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Mauritania/Counties/Adrar.protect|Adrar.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Mauritania/Counties/Adrar.private|Adrar.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Mauritania/Counties/Adrar.personal|Adrar.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Mauritania/Counties/Adrar.secret|Adrar.secret]] 
+- [[../../../../../../_Standards/geo/Continent/Africa/Mauritania/Counties/Adrar|Adrar]] 
+- [[../../../../../../_public/geo/Continent/Africa/Mauritania/Counties/Adrar.public|Adrar.public]] 
+- [[../../../../../../_internal/geo/Continent/Africa/Mauritania/Counties/Adrar.internal|Adrar.internal]] 
+- [[../../../../../../_protect/geo/Continent/Africa/Mauritania/Counties/Adrar.protect|Adrar.protect]] 
+- [[../../../../../../_private/geo/Continent/Africa/Mauritania/Counties/Adrar.private|Adrar.private]] 
+- [[../../../../../../_personal/geo/Continent/Africa/Mauritania/Counties/Adrar.personal|Adrar.personal]] 
+- [[../../../../../../_secret/geo/Continent/Africa/Mauritania/Counties/Adrar.secret|Adrar.secret]] 
 

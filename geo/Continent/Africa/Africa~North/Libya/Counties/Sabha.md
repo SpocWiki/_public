@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 27 , 15.1 ] 
 type: geo-Region
 title: Sabha
@@ -40,10 +40,11 @@ markerFolder: ./Sabha/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Africa/Libya/Counties/Sabha.md|Sabha]] 
-- [[../../../../_internal/geo/Continent/Africa/Libya/Counties/Sabha.internal|Sabha.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Libya/Counties/Sabha.protect|Sabha.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Libya/Counties/Sabha.private|Sabha.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Libya/Counties/Sabha.personal|Sabha.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Libya/Counties/Sabha.secret|Sabha.secret]] 
+- [[../../../../../../_Standards/geo/Continent/Africa/Libya/Counties/Sabha|Sabha]] 
+- [[../../../../../../_public/geo/Continent/Africa/Libya/Counties/Sabha.public|Sabha.public]] 
+- [[../../../../../../_internal/geo/Continent/Africa/Libya/Counties/Sabha.internal|Sabha.internal]] 
+- [[../../../../../../_protect/geo/Continent/Africa/Libya/Counties/Sabha.protect|Sabha.protect]] 
+- [[../../../../../../_private/geo/Continent/Africa/Libya/Counties/Sabha.private|Sabha.private]] 
+- [[../../../../../../_personal/geo/Continent/Africa/Libya/Counties/Sabha.personal|Sabha.personal]] 
+- [[../../../../../../_secret/geo/Continent/Africa/Libya/Counties/Sabha.secret|Sabha.secret]] 
 

@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ -41.2 , 175.4 ] 
 type: geo-Region
 title: Wellington
@@ -40,10 +40,11 @@ markerFolder: ./Wellington/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Australia/New_Zealand/Counties/Wellington.md|Wellington]] 
-- [[../../../../_internal/geo/Continent/Australia/New_Zealand/Counties/Wellington.internal|Wellington.internal]] 
-- [[../../../../_protect/geo/Continent/Australia/New_Zealand/Counties/Wellington.protect|Wellington.protect]] 
-- [[../../../../_private/geo/Continent/Australia/New_Zealand/Counties/Wellington.private|Wellington.private]] 
-- [[../../../../_personal/geo/Continent/Australia/New_Zealand/Counties/Wellington.personal|Wellington.personal]] 
-- [[../../../../_secret/geo/Continent/Australia/New_Zealand/Counties/Wellington.secret|Wellington.secret]] 
+- [[../../../../../../_Standards/geo/Continent/Australia/New_Zealand/Counties/Wellington|Wellington]] 
+- [[../../../../../../_public/geo/Continent/Australia/New_Zealand/Counties/Wellington.public|Wellington.public]] 
+- [[../../../../../../_internal/geo/Continent/Australia/New_Zealand/Counties/Wellington.internal|Wellington.internal]] 
+- [[../../../../../../_protect/geo/Continent/Australia/New_Zealand/Counties/Wellington.protect|Wellington.protect]] 
+- [[../../../../../../_private/geo/Continent/Australia/New_Zealand/Counties/Wellington.private|Wellington.private]] 
+- [[../../../../../../_personal/geo/Continent/Australia/New_Zealand/Counties/Wellington.personal|Wellington.personal]] 
+- [[../../../../../../_secret/geo/Continent/Australia/New_Zealand/Counties/Wellington.secret|Wellington.secret]] 
 

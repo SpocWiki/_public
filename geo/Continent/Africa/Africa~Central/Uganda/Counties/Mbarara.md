@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ -0.3 , 30.8 ] 
 type: geo-Region
 title: Mbarara
@@ -40,10 +40,11 @@ markerFolder: ./Mbarara/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Africa/Uganda/Counties/Mbarara.md|Mbarara]] 
-- [[../../../../_internal/geo/Continent/Africa/Uganda/Counties/Mbarara.internal|Mbarara.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Uganda/Counties/Mbarara.protect|Mbarara.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Uganda/Counties/Mbarara.private|Mbarara.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Uganda/Counties/Mbarara.personal|Mbarara.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Uganda/Counties/Mbarara.secret|Mbarara.secret]] 
+- [[../../../../../../_Standards/geo/Continent/Africa/Uganda/Counties/Mbarara|Mbarara]] 
+- [[../../../../../../_public/geo/Continent/Africa/Uganda/Counties/Mbarara.public|Mbarara.public]] 
+- [[../../../../../../_internal/geo/Continent/Africa/Uganda/Counties/Mbarara.internal|Mbarara.internal]] 
+- [[../../../../../../_protect/geo/Continent/Africa/Uganda/Counties/Mbarara.protect|Mbarara.protect]] 
+- [[../../../../../../_private/geo/Continent/Africa/Uganda/Counties/Mbarara.private|Mbarara.private]] 
+- [[../../../../../../_personal/geo/Continent/Africa/Uganda/Counties/Mbarara.personal|Mbarara.personal]] 
+- [[../../../../../../_secret/geo/Continent/Africa/Uganda/Counties/Mbarara.secret|Mbarara.secret]] 
 

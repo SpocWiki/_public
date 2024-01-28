@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ -9.3 , -48.4 ] 
 type: geo-Region
 title: Tocantins
@@ -40,10 +40,11 @@ markerFolder: ./Tocantins/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/America~South/Brazil/Counties/Tocantins.md|Tocantins]] 
-- [[../../../../_internal/geo/Continent/America~South/Brazil/Counties/Tocantins.internal|Tocantins.internal]] 
-- [[../../../../_protect/geo/Continent/America~South/Brazil/Counties/Tocantins.protect|Tocantins.protect]] 
-- [[../../../../_private/geo/Continent/America~South/Brazil/Counties/Tocantins.private|Tocantins.private]] 
-- [[../../../../_personal/geo/Continent/America~South/Brazil/Counties/Tocantins.personal|Tocantins.personal]] 
-- [[../../../../_secret/geo/Continent/America~South/Brazil/Counties/Tocantins.secret|Tocantins.secret]] 
+- [[../../../../../../_Standards/geo/Continent/America~South/Brazil/Counties/Tocantins|Tocantins]] 
+- [[../../../../../../_public/geo/Continent/America~South/Brazil/Counties/Tocantins.public|Tocantins.public]] 
+- [[../../../../../../_internal/geo/Continent/America~South/Brazil/Counties/Tocantins.internal|Tocantins.internal]] 
+- [[../../../../../../_protect/geo/Continent/America~South/Brazil/Counties/Tocantins.protect|Tocantins.protect]] 
+- [[../../../../../../_private/geo/Continent/America~South/Brazil/Counties/Tocantins.private|Tocantins.private]] 
+- [[../../../../../../_personal/geo/Continent/America~South/Brazil/Counties/Tocantins.personal|Tocantins.personal]] 
+- [[../../../../../../_secret/geo/Continent/America~South/Brazil/Counties/Tocantins.secret|Tocantins.secret]] 
 

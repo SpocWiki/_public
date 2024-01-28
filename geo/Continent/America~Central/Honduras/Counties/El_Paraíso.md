@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 14 , -86.6 ] 
 type: geo-Region
 title: El_Paraíso
@@ -40,10 +40,11 @@ markerFolder: ./El_Paraíso/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/America~Central/Honduras/Counties/El_Paraíso.md|El_Paraíso]] 
-- [[../../../../_internal/geo/Continent/America~Central/Honduras/Counties/El_Paraíso.internal|El_Paraíso.internal]] 
-- [[../../../../_protect/geo/Continent/America~Central/Honduras/Counties/El_Paraíso.protect|El_Paraíso.protect]] 
-- [[../../../../_private/geo/Continent/America~Central/Honduras/Counties/El_Paraíso.private|El_Paraíso.private]] 
-- [[../../../../_personal/geo/Continent/America~Central/Honduras/Counties/El_Paraíso.personal|El_Paraíso.personal]] 
-- [[../../../../_secret/geo/Continent/America~Central/Honduras/Counties/El_Paraíso.secret|El_Paraíso.secret]] 
+- [[../../../../../../_Standards/geo/Continent/America~Central/Honduras/Counties/El_Paraíso|El_Paraíso]] 
+- [[../../../../../../_public/geo/Continent/America~Central/Honduras/Counties/El_Paraíso.public|El_Paraíso.public]] 
+- [[../../../../../../_internal/geo/Continent/America~Central/Honduras/Counties/El_Paraíso.internal|El_Paraíso.internal]] 
+- [[../../../../../../_protect/geo/Continent/America~Central/Honduras/Counties/El_Paraíso.protect|El_Paraíso.protect]] 
+- [[../../../../../../_private/geo/Continent/America~Central/Honduras/Counties/El_Paraíso.private|El_Paraíso.private]] 
+- [[../../../../../../_personal/geo/Continent/America~Central/Honduras/Counties/El_Paraíso.personal|El_Paraíso.personal]] 
+- [[../../../../../../_secret/geo/Continent/America~Central/Honduras/Counties/El_Paraíso.secret|El_Paraíso.secret]] 
 

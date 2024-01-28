@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ -12.1 , 34.7 ] 
 type: geo-Region
 title: Likoma
@@ -40,10 +40,11 @@ markerFolder: ./Likoma/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Africa/Malawi/Counties/Likoma.md|Likoma]] 
-- [[../../../../_internal/geo/Continent/Africa/Malawi/Counties/Likoma.internal|Likoma.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Malawi/Counties/Likoma.protect|Likoma.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Malawi/Counties/Likoma.private|Likoma.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Malawi/Counties/Likoma.personal|Likoma.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Malawi/Counties/Likoma.secret|Likoma.secret]] 
+- [[../../../../../../_Standards/geo/Continent/Africa/Malawi/Counties/Likoma|Likoma]] 
+- [[../../../../../../_public/geo/Continent/Africa/Malawi/Counties/Likoma.public|Likoma.public]] 
+- [[../../../../../../_internal/geo/Continent/Africa/Malawi/Counties/Likoma.internal|Likoma.internal]] 
+- [[../../../../../../_protect/geo/Continent/Africa/Malawi/Counties/Likoma.protect|Likoma.protect]] 
+- [[../../../../../../_private/geo/Continent/Africa/Malawi/Counties/Likoma.private|Likoma.private]] 
+- [[../../../../../../_personal/geo/Continent/Africa/Malawi/Counties/Likoma.personal|Likoma.personal]] 
+- [[../../../../../../_secret/geo/Continent/Africa/Malawi/Counties/Likoma.secret|Likoma.secret]] 
 

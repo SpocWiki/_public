@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 6.7 , 2.5 ] 
 type: geo-Region
 title: Ouémé
@@ -40,10 +40,11 @@ markerFolder: ./Ouémé/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Africa/Benin/Counties/Ouémé.md|Ouémé]] 
-- [[../../../../_internal/geo/Continent/Africa/Benin/Counties/Ouémé.internal|Ouémé.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Benin/Counties/Ouémé.protect|Ouémé.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Benin/Counties/Ouémé.private|Ouémé.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Benin/Counties/Ouémé.personal|Ouémé.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Benin/Counties/Ouémé.secret|Ouémé.secret]] 
+- [[../../../../../../_Standards/geo/Continent/Africa/Benin/Counties/Ouémé|Ouémé]] 
+- [[../../../../../../_public/geo/Continent/Africa/Benin/Counties/Ouémé.public|Ouémé.public]] 
+- [[../../../../../../_internal/geo/Continent/Africa/Benin/Counties/Ouémé.internal|Ouémé.internal]] 
+- [[../../../../../../_protect/geo/Continent/Africa/Benin/Counties/Ouémé.protect|Ouémé.protect]] 
+- [[../../../../../../_private/geo/Continent/Africa/Benin/Counties/Ouémé.private|Ouémé.private]] 
+- [[../../../../../../_personal/geo/Continent/Africa/Benin/Counties/Ouémé.personal|Ouémé.personal]] 
+- [[../../../../../../_secret/geo/Continent/Africa/Benin/Counties/Ouémé.secret|Ouémé.secret]] 
 

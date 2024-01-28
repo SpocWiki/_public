@@ -1,5 +1,5 @@
 ﻿---
-location: [38.72,-86.48]
+location: [38.72,-86.48] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,28 +12,29 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::-86.48]
-[geo-lat::38.72]
-[name::Mitchell]
-[Country:[[../../../../United_States_of_America]]]]
-[State:[[../../Indiana]]]]
-[Population::]
-[Unknown::]
+[geo-lon::-86.48] 
+[geo-lat::38.72] 
+[name::Mitchell] 
+Country :: [[../../../../United_States_of_America]]  
+State :: [[../../Indiana]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Mitchell
-coordinates: [[Mitchell]]
-markerFile: [[Mitchell]]
+coordinates: [[Mitchell]] 
+markerFile: [[Mitchell]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_public/geo/Continent/North-America/United_States_of_America/Indiana/City/Mitchell.md|Mitchell]] 
-- [[../../../../../../../_internal/geo/Continent/North-America/United_States_of_America/Indiana/City/Mitchell.internal|Mitchell.internal]] 
-- [[../../../../../../../_protect/geo/Continent/North-America/United_States_of_America/Indiana/City/Mitchell.protect|Mitchell.protect]] 
-- [[../../../../../../../_private/geo/Continent/North-America/United_States_of_America/Indiana/City/Mitchell.private|Mitchell.private]] 
-- [[../../../../../../../_personal/geo/Continent/North-America/United_States_of_America/Indiana/City/Mitchell.personal|Mitchell.personal]] 
-- [[../../../../../../../_secret/geo/Continent/North-America/United_States_of_America/Indiana/City/Mitchell.secret|Mitchell.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/America~North/United_States_of_America/Indiana/City/Mitchell|Mitchell]] 
+- [[../../../../../../../_public/geo/Continent/America~North/United_States_of_America/Indiana/City/Mitchell.public|Mitchell.public]] 
+- [[../../../../../../../_internal/geo/Continent/America~North/United_States_of_America/Indiana/City/Mitchell.internal|Mitchell.internal]] 
+- [[../../../../../../../_protect/geo/Continent/America~North/United_States_of_America/Indiana/City/Mitchell.protect|Mitchell.protect]] 
+- [[../../../../../../../_private/geo/Continent/America~North/United_States_of_America/Indiana/City/Mitchell.private|Mitchell.private]] 
+- [[../../../../../../../_personal/geo/Continent/America~North/United_States_of_America/Indiana/City/Mitchell.personal|Mitchell.personal]] 
+- [[../../../../../../../_secret/geo/Continent/America~North/United_States_of_America/Indiana/City/Mitchell.secret|Mitchell.secret]] 

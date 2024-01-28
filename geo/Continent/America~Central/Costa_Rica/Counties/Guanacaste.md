@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 10.5 , -85.3 ] 
 type: geo-Region
 title: Guanacaste
@@ -40,10 +40,11 @@ markerFolder: ./Guanacaste/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/America~Central/Costa_Rica/Counties/Guanacaste.md|Guanacaste]] 
-- [[../../../../_internal/geo/Continent/America~Central/Costa_Rica/Counties/Guanacaste.internal|Guanacaste.internal]] 
-- [[../../../../_protect/geo/Continent/America~Central/Costa_Rica/Counties/Guanacaste.protect|Guanacaste.protect]] 
-- [[../../../../_private/geo/Continent/America~Central/Costa_Rica/Counties/Guanacaste.private|Guanacaste.private]] 
-- [[../../../../_personal/geo/Continent/America~Central/Costa_Rica/Counties/Guanacaste.personal|Guanacaste.personal]] 
-- [[../../../../_secret/geo/Continent/America~Central/Costa_Rica/Counties/Guanacaste.secret|Guanacaste.secret]] 
+- [[../../../../../../_Standards/geo/Continent/America~Central/Costa_Rica/Counties/Guanacaste|Guanacaste]] 
+- [[../../../../../../_public/geo/Continent/America~Central/Costa_Rica/Counties/Guanacaste.public|Guanacaste.public]] 
+- [[../../../../../../_internal/geo/Continent/America~Central/Costa_Rica/Counties/Guanacaste.internal|Guanacaste.internal]] 
+- [[../../../../../../_protect/geo/Continent/America~Central/Costa_Rica/Counties/Guanacaste.protect|Guanacaste.protect]] 
+- [[../../../../../../_private/geo/Continent/America~Central/Costa_Rica/Counties/Guanacaste.private|Guanacaste.private]] 
+- [[../../../../../../_personal/geo/Continent/America~Central/Costa_Rica/Counties/Guanacaste.personal|Guanacaste.personal]] 
+- [[../../../../../../_secret/geo/Continent/America~Central/Costa_Rica/Counties/Guanacaste.secret|Guanacaste.secret]] 
 

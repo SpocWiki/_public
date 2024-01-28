@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ -0.6 , -77.9 ] 
 type: geo-Region
 title: Tungurahua
@@ -40,10 +40,11 @@ markerFolder: ./Tungurahua/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/America~South/Ecuador/Counties/Tungurahua.md|Tungurahua]] 
-- [[../../../../_internal/geo/Continent/America~South/Ecuador/Counties/Tungurahua.internal|Tungurahua.internal]] 
-- [[../../../../_protect/geo/Continent/America~South/Ecuador/Counties/Tungurahua.protect|Tungurahua.protect]] 
-- [[../../../../_private/geo/Continent/America~South/Ecuador/Counties/Tungurahua.private|Tungurahua.private]] 
-- [[../../../../_personal/geo/Continent/America~South/Ecuador/Counties/Tungurahua.personal|Tungurahua.personal]] 
-- [[../../../../_secret/geo/Continent/America~South/Ecuador/Counties/Tungurahua.secret|Tungurahua.secret]] 
+- [[../../../../../../_Standards/geo/Continent/America~South/Ecuador/Counties/Tungurahua|Tungurahua]] 
+- [[../../../../../../_public/geo/Continent/America~South/Ecuador/Counties/Tungurahua.public|Tungurahua.public]] 
+- [[../../../../../../_internal/geo/Continent/America~South/Ecuador/Counties/Tungurahua.internal|Tungurahua.internal]] 
+- [[../../../../../../_protect/geo/Continent/America~South/Ecuador/Counties/Tungurahua.protect|Tungurahua.protect]] 
+- [[../../../../../../_private/geo/Continent/America~South/Ecuador/Counties/Tungurahua.private|Tungurahua.private]] 
+- [[../../../../../../_personal/geo/Continent/America~South/Ecuador/Counties/Tungurahua.personal|Tungurahua.personal]] 
+- [[../../../../../../_secret/geo/Continent/America~South/Ecuador/Counties/Tungurahua.secret|Tungurahua.secret]] 
 

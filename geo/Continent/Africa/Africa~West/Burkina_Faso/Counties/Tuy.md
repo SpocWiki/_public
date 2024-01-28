@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 11.4 , -3.4 ] 
 type: geo-Region
 title: Tuy
@@ -40,10 +40,11 @@ markerFolder: ./Tuy/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Africa/Burkina_Faso/Counties/Tuy.md|Tuy]] 
-- [[../../../../_internal/geo/Continent/Africa/Burkina_Faso/Counties/Tuy.internal|Tuy.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Burkina_Faso/Counties/Tuy.protect|Tuy.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Burkina_Faso/Counties/Tuy.private|Tuy.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Burkina_Faso/Counties/Tuy.personal|Tuy.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Burkina_Faso/Counties/Tuy.secret|Tuy.secret]] 
+- [[../../../../../../_Standards/geo/Continent/Africa/Burkina_Faso/Counties/Tuy|Tuy]] 
+- [[../../../../../../_public/geo/Continent/Africa/Burkina_Faso/Counties/Tuy.public|Tuy.public]] 
+- [[../../../../../../_internal/geo/Continent/Africa/Burkina_Faso/Counties/Tuy.internal|Tuy.internal]] 
+- [[../../../../../../_protect/geo/Continent/Africa/Burkina_Faso/Counties/Tuy.protect|Tuy.protect]] 
+- [[../../../../../../_private/geo/Continent/Africa/Burkina_Faso/Counties/Tuy.private|Tuy.private]] 
+- [[../../../../../../_personal/geo/Continent/Africa/Burkina_Faso/Counties/Tuy.personal|Tuy.personal]] 
+- [[../../../../../../_secret/geo/Continent/Africa/Burkina_Faso/Counties/Tuy.secret|Tuy.secret]] 
 

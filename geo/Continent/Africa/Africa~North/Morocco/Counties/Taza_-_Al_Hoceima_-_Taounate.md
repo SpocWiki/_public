@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 34.4 , -4.3 ] 
 type: geo-Region
 title: Taza_-_Al_Hoceima_-_Taounate
@@ -40,10 +40,11 @@ markerFolder: ./Taza_-_Al_Hoceima_-_Taounate/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Africa/Morocco/Counties/Taza_-_Al_Hoceima_-_Taounate.md|Taza_-_Al_Hoceima_-_Taounate]] 
-- [[../../../../_internal/geo/Continent/Africa/Morocco/Counties/Taza_-_Al_Hoceima_-_Taounate.internal|Taza_-_Al_Hoceima_-_Taounate.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Morocco/Counties/Taza_-_Al_Hoceima_-_Taounate.protect|Taza_-_Al_Hoceima_-_Taounate.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Morocco/Counties/Taza_-_Al_Hoceima_-_Taounate.private|Taza_-_Al_Hoceima_-_Taounate.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Morocco/Counties/Taza_-_Al_Hoceima_-_Taounate.personal|Taza_-_Al_Hoceima_-_Taounate.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Morocco/Counties/Taza_-_Al_Hoceima_-_Taounate.secret|Taza_-_Al_Hoceima_-_Taounate.secret]] 
+- [[../../../../../../_Standards/geo/Continent/Africa/Morocco/Counties/Taza_-_Al_Hoceima_-_Taounate|Taza_-_Al_Hoceima_-_Taounate]] 
+- [[../../../../../../_public/geo/Continent/Africa/Morocco/Counties/Taza_-_Al_Hoceima_-_Taounate.public|Taza_-_Al_Hoceima_-_Taounate.public]] 
+- [[../../../../../../_internal/geo/Continent/Africa/Morocco/Counties/Taza_-_Al_Hoceima_-_Taounate.internal|Taza_-_Al_Hoceima_-_Taounate.internal]] 
+- [[../../../../../../_protect/geo/Continent/Africa/Morocco/Counties/Taza_-_Al_Hoceima_-_Taounate.protect|Taza_-_Al_Hoceima_-_Taounate.protect]] 
+- [[../../../../../../_private/geo/Continent/Africa/Morocco/Counties/Taza_-_Al_Hoceima_-_Taounate.private|Taza_-_Al_Hoceima_-_Taounate.private]] 
+- [[../../../../../../_personal/geo/Continent/Africa/Morocco/Counties/Taza_-_Al_Hoceima_-_Taounate.personal|Taza_-_Al_Hoceima_-_Taounate.personal]] 
+- [[../../../../../../_secret/geo/Continent/Africa/Morocco/Counties/Taza_-_Al_Hoceima_-_Taounate.secret|Taza_-_Al_Hoceima_-_Taounate.secret]] 
 

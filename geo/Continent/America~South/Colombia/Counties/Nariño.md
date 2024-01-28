@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 1.5 , -77.9 ] 
 type: geo-Region
 title: Nariño
@@ -40,10 +40,11 @@ markerFolder: ./Nariño/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/America~South/Colombia/Counties/Nariño.md|Nariño]] 
-- [[../../../../_internal/geo/Continent/America~South/Colombia/Counties/Nariño.internal|Nariño.internal]] 
-- [[../../../../_protect/geo/Continent/America~South/Colombia/Counties/Nariño.protect|Nariño.protect]] 
-- [[../../../../_private/geo/Continent/America~South/Colombia/Counties/Nariño.private|Nariño.private]] 
-- [[../../../../_personal/geo/Continent/America~South/Colombia/Counties/Nariño.personal|Nariño.personal]] 
-- [[../../../../_secret/geo/Continent/America~South/Colombia/Counties/Nariño.secret|Nariño.secret]] 
+- [[../../../../../../_Standards/geo/Continent/America~South/Colombia/Counties/Nariño|Nariño]] 
+- [[../../../../../../_public/geo/Continent/America~South/Colombia/Counties/Nariño.public|Nariño.public]] 
+- [[../../../../../../_internal/geo/Continent/America~South/Colombia/Counties/Nariño.internal|Nariño.internal]] 
+- [[../../../../../../_protect/geo/Continent/America~South/Colombia/Counties/Nariño.protect|Nariño.protect]] 
+- [[../../../../../../_private/geo/Continent/America~South/Colombia/Counties/Nariño.private|Nariño.private]] 
+- [[../../../../../../_personal/geo/Continent/America~South/Colombia/Counties/Nariño.personal|Nariño.personal]] 
+- [[../../../../../../_secret/geo/Continent/America~South/Colombia/Counties/Nariño.secret|Nariño.secret]] 
 

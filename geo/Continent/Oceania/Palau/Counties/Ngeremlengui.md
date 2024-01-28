@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 7.53 , 134.56 ] 
 type: geo-Region
 title: Ngeremlengui
@@ -40,10 +40,11 @@ markerFolder: ./Ngeremlengui/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Oceania/Palau/Counties/Ngeremlengui.md|Ngeremlengui]] 
-- [[../../../../_internal/geo/Continent/Oceania/Palau/Counties/Ngeremlengui.internal|Ngeremlengui.internal]] 
-- [[../../../../_protect/geo/Continent/Oceania/Palau/Counties/Ngeremlengui.protect|Ngeremlengui.protect]] 
-- [[../../../../_private/geo/Continent/Oceania/Palau/Counties/Ngeremlengui.private|Ngeremlengui.private]] 
-- [[../../../../_personal/geo/Continent/Oceania/Palau/Counties/Ngeremlengui.personal|Ngeremlengui.personal]] 
-- [[../../../../_secret/geo/Continent/Oceania/Palau/Counties/Ngeremlengui.secret|Ngeremlengui.secret]] 
+- [[../../../../../../_Standards/geo/Continent/Oceania/Palau/Counties/Ngeremlengui|Ngeremlengui]] 
+- [[../../../../../../_public/geo/Continent/Oceania/Palau/Counties/Ngeremlengui.public|Ngeremlengui.public]] 
+- [[../../../../../../_internal/geo/Continent/Oceania/Palau/Counties/Ngeremlengui.internal|Ngeremlengui.internal]] 
+- [[../../../../../../_protect/geo/Continent/Oceania/Palau/Counties/Ngeremlengui.protect|Ngeremlengui.protect]] 
+- [[../../../../../../_private/geo/Continent/Oceania/Palau/Counties/Ngeremlengui.private|Ngeremlengui.private]] 
+- [[../../../../../../_personal/geo/Continent/Oceania/Palau/Counties/Ngeremlengui.personal|Ngeremlengui.personal]] 
+- [[../../../../../../_secret/geo/Continent/Oceania/Palau/Counties/Ngeremlengui.secret|Ngeremlengui.secret]] 
 

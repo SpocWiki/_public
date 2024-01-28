@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 30.5 , 10.8 ] 
 type: geo-Region
 title: Ghadamis
@@ -40,10 +40,11 @@ markerFolder: ./Ghadamis/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Africa/Libya/Counties/Ghadamis.md|Ghadamis]] 
-- [[../../../../_internal/geo/Continent/Africa/Libya/Counties/Ghadamis.internal|Ghadamis.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Libya/Counties/Ghadamis.protect|Ghadamis.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Libya/Counties/Ghadamis.private|Ghadamis.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Libya/Counties/Ghadamis.personal|Ghadamis.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Libya/Counties/Ghadamis.secret|Ghadamis.secret]] 
+- [[../../../../../../_Standards/geo/Continent/Africa/Libya/Counties/Ghadamis|Ghadamis]] 
+- [[../../../../../../_public/geo/Continent/Africa/Libya/Counties/Ghadamis.public|Ghadamis.public]] 
+- [[../../../../../../_internal/geo/Continent/Africa/Libya/Counties/Ghadamis.internal|Ghadamis.internal]] 
+- [[../../../../../../_protect/geo/Continent/Africa/Libya/Counties/Ghadamis.protect|Ghadamis.protect]] 
+- [[../../../../../../_private/geo/Continent/Africa/Libya/Counties/Ghadamis.private|Ghadamis.private]] 
+- [[../../../../../../_personal/geo/Continent/Africa/Libya/Counties/Ghadamis.personal|Ghadamis.personal]] 
+- [[../../../../../../_secret/geo/Continent/Africa/Libya/Counties/Ghadamis.secret|Ghadamis.secret]] 
 

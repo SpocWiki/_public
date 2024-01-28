@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 47.79 , -61.48 ] 
 type: geo-Region
 title: State
@@ -40,10 +40,11 @@ markerFolder: ./State/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/America~North/Canada/State.md|State]] 
-- [[../../../../_internal/geo/Continent/America~North/Canada/State.internal|State.internal]] 
-- [[../../../../_protect/geo/Continent/America~North/Canada/State.protect|State.protect]] 
-- [[../../../../_private/geo/Continent/America~North/Canada/State.private|State.private]] 
-- [[../../../../_personal/geo/Continent/America~North/Canada/State.personal|State.personal]] 
-- [[../../../../_secret/geo/Continent/America~North/Canada/State.secret|State.secret]] 
+- [[../../../../../_Standards/geo/Continent/America~North/Canada/State|State]] 
+- [[../../../../../_public/geo/Continent/America~North/Canada/State.public|State.public]] 
+- [[../../../../../_internal/geo/Continent/America~North/Canada/State.internal|State.internal]] 
+- [[../../../../../_protect/geo/Continent/America~North/Canada/State.protect|State.protect]] 
+- [[../../../../../_private/geo/Continent/America~North/Canada/State.private|State.private]] 
+- [[../../../../../_personal/geo/Continent/America~North/Canada/State.personal|State.personal]] 
+- [[../../../../../_secret/geo/Continent/America~North/Canada/State.secret|State.secret]] 
 

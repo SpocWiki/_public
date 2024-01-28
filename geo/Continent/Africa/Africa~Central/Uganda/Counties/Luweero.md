@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 0.8 , 32.6 ] 
 type: geo-Region
 title: Luweero
@@ -40,10 +40,11 @@ markerFolder: ./Luweero/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Africa/Uganda/Counties/Luweero.md|Luweero]] 
-- [[../../../../_internal/geo/Continent/Africa/Uganda/Counties/Luweero.internal|Luweero.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Uganda/Counties/Luweero.protect|Luweero.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Uganda/Counties/Luweero.private|Luweero.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Uganda/Counties/Luweero.personal|Luweero.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Uganda/Counties/Luweero.secret|Luweero.secret]] 
+- [[../../../../../../_Standards/geo/Continent/Africa/Uganda/Counties/Luweero|Luweero]] 
+- [[../../../../../../_public/geo/Continent/Africa/Uganda/Counties/Luweero.public|Luweero.public]] 
+- [[../../../../../../_internal/geo/Continent/Africa/Uganda/Counties/Luweero.internal|Luweero.internal]] 
+- [[../../../../../../_protect/geo/Continent/Africa/Uganda/Counties/Luweero.protect|Luweero.protect]] 
+- [[../../../../../../_private/geo/Continent/Africa/Uganda/Counties/Luweero.private|Luweero.private]] 
+- [[../../../../../../_personal/geo/Continent/Africa/Uganda/Counties/Luweero.personal|Luweero.personal]] 
+- [[../../../../../../_secret/geo/Continent/Africa/Uganda/Counties/Luweero.secret|Luweero.secret]] 
 

@@ -1,5 +1,5 @@
 ---
-location: [17.98333,-76.8]
+location: [17.98333,-76.8] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,27 +12,28 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::-76.8]
-[geo-lat::17.98333]
-[name::Kingston]
-[State::]
-[Country::[[../../../../../../../../Jamaica]]]
-[StateId::]
-[Population::]
-[Unknown::32]
+[geo-lon::-76.8] 
+[geo-lat::17.98333] 
+[name::Kingston] 
+State ::  
+Country :: [[../../../../../../../../Jamaica]]  
+[StateId::] 
+[Population::] 
+[Unknown::32] 
 
 
 ```leaflet
 id: Kingston
-coordinates: [[Kingston]]
-markerFile: [[Kingston]]
+coordinates: [[Kingston]] 
+markerFile: [[Kingston]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_public/geo/Continent/South-America/Jamaica/City/Kingston.md|Kingston]] 
+- [[../../../../../../_Standards/geo/Continent/South-America/Jamaica/City/Kingston|Kingston]] 
+- [[../../../../../../_public/geo/Continent/South-America/Jamaica/City/Kingston.public|Kingston.public]] 
 - [[../../../../../../_internal/geo/Continent/South-America/Jamaica/City/Kingston.internal|Kingston.internal]] 
 - [[../../../../../../_protect/geo/Continent/South-America/Jamaica/City/Kingston.protect|Kingston.protect]] 
 - [[../../../../../../_private/geo/Continent/South-America/Jamaica/City/Kingston.private|Kingston.private]] 

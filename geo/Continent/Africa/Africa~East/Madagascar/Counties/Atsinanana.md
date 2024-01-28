@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ -19 , 48.9 ] 
 type: geo-Region
 title: Atsinanana
@@ -40,10 +40,11 @@ markerFolder: ./Atsinanana/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Africa/Madagascar/Counties/Atsinanana.md|Atsinanana]] 
-- [[../../../../_internal/geo/Continent/Africa/Madagascar/Counties/Atsinanana.internal|Atsinanana.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Madagascar/Counties/Atsinanana.protect|Atsinanana.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Madagascar/Counties/Atsinanana.private|Atsinanana.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Madagascar/Counties/Atsinanana.personal|Atsinanana.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Madagascar/Counties/Atsinanana.secret|Atsinanana.secret]] 
+- [[../../../../../../_Standards/geo/Continent/Africa/Madagascar/Counties/Atsinanana|Atsinanana]] 
+- [[../../../../../../_public/geo/Continent/Africa/Madagascar/Counties/Atsinanana.public|Atsinanana.public]] 
+- [[../../../../../../_internal/geo/Continent/Africa/Madagascar/Counties/Atsinanana.internal|Atsinanana.internal]] 
+- [[../../../../../../_protect/geo/Continent/Africa/Madagascar/Counties/Atsinanana.protect|Atsinanana.protect]] 
+- [[../../../../../../_private/geo/Continent/Africa/Madagascar/Counties/Atsinanana.private|Atsinanana.private]] 
+- [[../../../../../../_personal/geo/Continent/Africa/Madagascar/Counties/Atsinanana.personal|Atsinanana.personal]] 
+- [[../../../../../../_secret/geo/Continent/Africa/Madagascar/Counties/Atsinanana.secret|Atsinanana.secret]] 
 

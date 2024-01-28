@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 33.8 , 9.8 ] 
 type: geo-Region
 title: Gabès
@@ -40,10 +40,11 @@ markerFolder: ./Gabès/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Africa/Tunisia/Counties/Gabès.md|Gabès]] 
-- [[../../../../_internal/geo/Continent/Africa/Tunisia/Counties/Gabès.internal|Gabès.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Tunisia/Counties/Gabès.protect|Gabès.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Tunisia/Counties/Gabès.private|Gabès.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Tunisia/Counties/Gabès.personal|Gabès.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Tunisia/Counties/Gabès.secret|Gabès.secret]] 
+- [[../../../../../../_Standards/geo/Continent/Africa/Tunisia/Counties/Gabès|Gabès]] 
+- [[../../../../../../_public/geo/Continent/Africa/Tunisia/Counties/Gabès.public|Gabès.public]] 
+- [[../../../../../../_internal/geo/Continent/Africa/Tunisia/Counties/Gabès.internal|Gabès.internal]] 
+- [[../../../../../../_protect/geo/Continent/Africa/Tunisia/Counties/Gabès.protect|Gabès.protect]] 
+- [[../../../../../../_private/geo/Continent/Africa/Tunisia/Counties/Gabès.private|Gabès.private]] 
+- [[../../../../../../_personal/geo/Continent/Africa/Tunisia/Counties/Gabès.personal|Gabès.personal]] 
+- [[../../../../../../_secret/geo/Continent/Africa/Tunisia/Counties/Gabès.secret|Gabès.secret]] 
 

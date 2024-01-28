@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 19 , 11 ] 
 type: geo-Region
 title: Agadez
@@ -40,10 +40,11 @@ markerFolder: ./Agadez/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Africa/Niger/Counties/Agadez.md|Agadez]] 
-- [[../../../../_internal/geo/Continent/Africa/Niger/Counties/Agadez.internal|Agadez.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Niger/Counties/Agadez.protect|Agadez.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Niger/Counties/Agadez.private|Agadez.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Niger/Counties/Agadez.personal|Agadez.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Niger/Counties/Agadez.secret|Agadez.secret]] 
+- [[../../../../../../_Standards/geo/Continent/Africa/Niger/Counties/Agadez|Agadez]] 
+- [[../../../../../../_public/geo/Continent/Africa/Niger/Counties/Agadez.public|Agadez.public]] 
+- [[../../../../../../_internal/geo/Continent/Africa/Niger/Counties/Agadez.internal|Agadez.internal]] 
+- [[../../../../../../_protect/geo/Continent/Africa/Niger/Counties/Agadez.protect|Agadez.protect]] 
+- [[../../../../../../_private/geo/Continent/Africa/Niger/Counties/Agadez.private|Agadez.private]] 
+- [[../../../../../../_personal/geo/Continent/Africa/Niger/Counties/Agadez.personal|Agadez.personal]] 
+- [[../../../../../../_secret/geo/Continent/Africa/Niger/Counties/Agadez.secret|Agadez.secret]] 
 

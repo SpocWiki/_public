@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ -23.7 , 29.3 ] 
 type: geo-Region
 title: Limpopo
@@ -40,10 +40,11 @@ markerFolder: ./Limpopo/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Africa/South_Africa/Counties/Limpopo.md|Limpopo]] 
-- [[../../../../_internal/geo/Continent/Africa/South_Africa/Counties/Limpopo.internal|Limpopo.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/South_Africa/Counties/Limpopo.protect|Limpopo.protect]] 
-- [[../../../../_private/geo/Continent/Africa/South_Africa/Counties/Limpopo.private|Limpopo.private]] 
-- [[../../../../_personal/geo/Continent/Africa/South_Africa/Counties/Limpopo.personal|Limpopo.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/South_Africa/Counties/Limpopo.secret|Limpopo.secret]] 
+- [[../../../../../../_Standards/geo/Continent/Africa/South_Africa/Counties/Limpopo|Limpopo]] 
+- [[../../../../../../_public/geo/Continent/Africa/South_Africa/Counties/Limpopo.public|Limpopo.public]] 
+- [[../../../../../../_internal/geo/Continent/Africa/South_Africa/Counties/Limpopo.internal|Limpopo.internal]] 
+- [[../../../../../../_protect/geo/Continent/Africa/South_Africa/Counties/Limpopo.protect|Limpopo.protect]] 
+- [[../../../../../../_private/geo/Continent/Africa/South_Africa/Counties/Limpopo.private|Limpopo.private]] 
+- [[../../../../../../_personal/geo/Continent/Africa/South_Africa/Counties/Limpopo.personal|Limpopo.personal]] 
+- [[../../../../../../_secret/geo/Continent/Africa/South_Africa/Counties/Limpopo.secret|Limpopo.secret]] 
 

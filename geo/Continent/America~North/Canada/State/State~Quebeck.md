@@ -1,5 +1,5 @@
 ---
-location: [46.15,-72.435]
+location: [46.15,-72.435] 
 type: State
 tags:
 - geo/State
@@ -10,13 +10,13 @@ isDeleted: false
 confidential: public
 
 ---
-[name::Quebeck]
-[name-abbr::QUE]
-[Country::[[../../Canada]]]
-[Capital::[[State~Quebeck/City/Quebec]]]
-[geo-lon::-72.435]
-[geo-lat::46.15]
-[Population::]
+[name::Quebeck] 
+[name-abbr::QUE] 
+Country :: [[../../Canada]]  
+Capital :: [[State~Quebeck/City/Quebec]]  
+[geo-lon::-72.435] 
+[geo-lat::46.15] 
+[Population::] 
 
 
 
@@ -31,9 +31,9 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
--[[State~Quebeck|State~Quebeck]]] 
-- [[../../../../../../_internal/geo/Continent/North-America/Canada/State/State~Quebeck.internal|State~Quebeck.internal]] 
-- [[../../../../../../_protect/geo/Continent/North-America/Canada/State/State~Quebeck.protect|State~Quebeck.protect]] 
-- [[../../../../../../_private/geo/Continent/North-America/Canada/State/State~Quebeck.private|State~Quebeck.private]] 
-- [[../../../../../../_personal/geo/Continent/North-America/Canada/State/State~Quebeck.personal|State~Quebeck.personal]] 
-- [[../../../../../../_secret/geo/Continent/North-America/Canada/State/State~Quebeck.secret|State~Quebeck.secret]] 
+- [[State~Quebeck|State~Quebeck]]  
+- [[../../../../../../_internal/geo/Continent/America~North/Canada/State/State~Quebeck.internal|State~Quebeck.internal]] 
+- [[../../../../../../_protect/geo/Continent/America~North/Canada/State/State~Quebeck.protect|State~Quebeck.protect]] 
+- [[../../../../../../_private/geo/Continent/America~North/Canada/State/State~Quebeck.private|State~Quebeck.private]] 
+- [[../../../../../../_personal/geo/Continent/America~North/Canada/State/State~Quebeck.personal|State~Quebeck.personal]] 
+- [[../../../../../../_secret/geo/Continent/America~North/Canada/State/State~Quebeck.secret|State~Quebeck.secret]] 

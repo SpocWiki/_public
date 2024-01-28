@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 8.6 , 13.8 ] 
 type: geo-Region
 title: Nord
@@ -40,10 +40,11 @@ markerFolder: ./Nord/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Africa/Cameroon/Counties/Nord.md|Nord]] 
-- [[../../../../_internal/geo/Continent/Africa/Cameroon/Counties/Nord.internal|Nord.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Cameroon/Counties/Nord.protect|Nord.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Cameroon/Counties/Nord.private|Nord.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Cameroon/Counties/Nord.personal|Nord.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Cameroon/Counties/Nord.secret|Nord.secret]] 
+- [[../../../../../../_Standards/geo/Continent/Africa/Cameroon/Counties/Nord|Nord]] 
+- [[../../../../../../_public/geo/Continent/Africa/Cameroon/Counties/Nord.public|Nord.public]] 
+- [[../../../../../../_internal/geo/Continent/Africa/Cameroon/Counties/Nord.internal|Nord.internal]] 
+- [[../../../../../../_protect/geo/Continent/Africa/Cameroon/Counties/Nord.protect|Nord.protect]] 
+- [[../../../../../../_private/geo/Continent/Africa/Cameroon/Counties/Nord.private|Nord.private]] 
+- [[../../../../../../_personal/geo/Continent/Africa/Cameroon/Counties/Nord.personal|Nord.personal]] 
+- [[../../../../../../_secret/geo/Continent/Africa/Cameroon/Counties/Nord.secret|Nord.secret]] 
 

@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 6.5 , -58.4 ] 
 type: geo-Region
 title: Demerara-Mahaica
@@ -40,10 +40,11 @@ markerFolder: ./Demerara-Mahaica/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/America~South/Guyana/Counties/Demerara-Mahaica.md|Demerara-Mahaica]] 
-- [[../../../../_internal/geo/Continent/America~South/Guyana/Counties/Demerara-Mahaica.internal|Demerara-Mahaica.internal]] 
-- [[../../../../_protect/geo/Continent/America~South/Guyana/Counties/Demerara-Mahaica.protect|Demerara-Mahaica.protect]] 
-- [[../../../../_private/geo/Continent/America~South/Guyana/Counties/Demerara-Mahaica.private|Demerara-Mahaica.private]] 
-- [[../../../../_personal/geo/Continent/America~South/Guyana/Counties/Demerara-Mahaica.personal|Demerara-Mahaica.personal]] 
-- [[../../../../_secret/geo/Continent/America~South/Guyana/Counties/Demerara-Mahaica.secret|Demerara-Mahaica.secret]] 
+- [[../../../../../../_Standards/geo/Continent/America~South/Guyana/Counties/Demerara-Mahaica|Demerara-Mahaica]] 
+- [[../../../../../../_public/geo/Continent/America~South/Guyana/Counties/Demerara-Mahaica.public|Demerara-Mahaica.public]] 
+- [[../../../../../../_internal/geo/Continent/America~South/Guyana/Counties/Demerara-Mahaica.internal|Demerara-Mahaica.internal]] 
+- [[../../../../../../_protect/geo/Continent/America~South/Guyana/Counties/Demerara-Mahaica.protect|Demerara-Mahaica.protect]] 
+- [[../../../../../../_private/geo/Continent/America~South/Guyana/Counties/Demerara-Mahaica.private|Demerara-Mahaica.private]] 
+- [[../../../../../../_personal/geo/Continent/America~South/Guyana/Counties/Demerara-Mahaica.personal|Demerara-Mahaica.personal]] 
+- [[../../../../../../_secret/geo/Continent/America~South/Guyana/Counties/Demerara-Mahaica.secret|Demerara-Mahaica.secret]] 
 

@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 12.17 , -68.25 ] 
 type: geo-Region
 title: Bonaire
@@ -40,10 +40,11 @@ markerFolder: ./Bonaire/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/America~South/_Central/Caribbean~Netherlands/Bonaire.md|Bonaire]] 
-- [[../../../../_internal/geo/Continent/America~South/_Central/Caribbean~Netherlands/Bonaire.internal|Bonaire.internal]] 
-- [[../../../../_protect/geo/Continent/America~South/_Central/Caribbean~Netherlands/Bonaire.protect|Bonaire.protect]] 
-- [[../../../../_private/geo/Continent/America~South/_Central/Caribbean~Netherlands/Bonaire.private|Bonaire.private]] 
-- [[../../../../_personal/geo/Continent/America~South/_Central/Caribbean~Netherlands/Bonaire.personal|Bonaire.personal]] 
-- [[../../../../_secret/geo/Continent/America~South/_Central/Caribbean~Netherlands/Bonaire.secret|Bonaire.secret]] 
+- [[../../../../../../_Standards/geo/Continent/America~South/_Central/Caribbean~Netherlands/Bonaire|Bonaire]] 
+- [[../../../../../../_public/geo/Continent/America~South/_Central/Caribbean~Netherlands/Bonaire.public|Bonaire.public]] 
+- [[../../../../../../_internal/geo/Continent/America~South/_Central/Caribbean~Netherlands/Bonaire.internal|Bonaire.internal]] 
+- [[../../../../../../_protect/geo/Continent/America~South/_Central/Caribbean~Netherlands/Bonaire.protect|Bonaire.protect]] 
+- [[../../../../../../_private/geo/Continent/America~South/_Central/Caribbean~Netherlands/Bonaire.private|Bonaire.private]] 
+- [[../../../../../../_personal/geo/Continent/America~South/_Central/Caribbean~Netherlands/Bonaire.personal|Bonaire.personal]] 
+- [[../../../../../../_secret/geo/Continent/America~South/_Central/Caribbean~Netherlands/Bonaire.secret|Bonaire.secret]] 
 

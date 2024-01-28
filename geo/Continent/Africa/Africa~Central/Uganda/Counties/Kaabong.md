@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 3.7 , 34 ] 
 type: geo-Region
 title: Kaabong
@@ -40,10 +40,11 @@ markerFolder: ./Kaabong/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Africa/Uganda/Counties/Kaabong.md|Kaabong]] 
-- [[../../../../_internal/geo/Continent/Africa/Uganda/Counties/Kaabong.internal|Kaabong.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Uganda/Counties/Kaabong.protect|Kaabong.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Uganda/Counties/Kaabong.private|Kaabong.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Uganda/Counties/Kaabong.personal|Kaabong.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Uganda/Counties/Kaabong.secret|Kaabong.secret]] 
+- [[../../../../../../_Standards/geo/Continent/Africa/Uganda/Counties/Kaabong|Kaabong]] 
+- [[../../../../../../_public/geo/Continent/Africa/Uganda/Counties/Kaabong.public|Kaabong.public]] 
+- [[../../../../../../_internal/geo/Continent/Africa/Uganda/Counties/Kaabong.internal|Kaabong.internal]] 
+- [[../../../../../../_protect/geo/Continent/Africa/Uganda/Counties/Kaabong.protect|Kaabong.protect]] 
+- [[../../../../../../_private/geo/Continent/Africa/Uganda/Counties/Kaabong.private|Kaabong.private]] 
+- [[../../../../../../_personal/geo/Continent/Africa/Uganda/Counties/Kaabong.personal|Kaabong.personal]] 
+- [[../../../../../../_secret/geo/Continent/Africa/Uganda/Counties/Kaabong.secret|Kaabong.secret]] 
 

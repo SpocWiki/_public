@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 32.32 , -64.73 ] 
 type: geo-Region
 title: Smith's
@@ -40,10 +40,11 @@ markerFolder: ./Smith's/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/America~Caribbean/Bermuda/Counties/Smith's.md|Smith's]] 
-- [[../../../../_internal/geo/Continent/America~Caribbean/Bermuda/Counties/Smith's.internal|Smith's.internal]] 
-- [[../../../../_protect/geo/Continent/America~Caribbean/Bermuda/Counties/Smith's.protect|Smith's.protect]] 
-- [[../../../../_private/geo/Continent/America~Caribbean/Bermuda/Counties/Smith's.private|Smith's.private]] 
-- [[../../../../_personal/geo/Continent/America~Caribbean/Bermuda/Counties/Smith's.personal|Smith's.personal]] 
-- [[../../../../_secret/geo/Continent/America~Caribbean/Bermuda/Counties/Smith's.secret|Smith's.secret]] 
+- [[../../../../../../_Standards/geo/Continent/America~Caribbean/Bermuda/Counties/Smith's|Smith's]] 
+- [[../../../../../../_public/geo/Continent/America~Caribbean/Bermuda/Counties/Smith's.public|Smith's.public]] 
+- [[../../../../../../_internal/geo/Continent/America~Caribbean/Bermuda/Counties/Smith's.internal|Smith's.internal]] 
+- [[../../../../../../_protect/geo/Continent/America~Caribbean/Bermuda/Counties/Smith's.protect|Smith's.protect]] 
+- [[../../../../../../_private/geo/Continent/America~Caribbean/Bermuda/Counties/Smith's.private|Smith's.private]] 
+- [[../../../../../../_personal/geo/Continent/America~Caribbean/Bermuda/Counties/Smith's.personal|Smith's.personal]] 
+- [[../../../../../../_secret/geo/Continent/America~Caribbean/Bermuda/Counties/Smith's.secret|Smith's.secret]] 
 

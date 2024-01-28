@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 0.1 , 32.2 ] 
 type: geo-Region
 title: Mpigi
@@ -40,10 +40,11 @@ markerFolder: ./Mpigi/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Africa/Uganda/Counties/Mpigi.md|Mpigi]] 
-- [[../../../../_internal/geo/Continent/Africa/Uganda/Counties/Mpigi.internal|Mpigi.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Uganda/Counties/Mpigi.protect|Mpigi.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Uganda/Counties/Mpigi.private|Mpigi.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Uganda/Counties/Mpigi.personal|Mpigi.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Uganda/Counties/Mpigi.secret|Mpigi.secret]] 
+- [[../../../../../../_Standards/geo/Continent/Africa/Uganda/Counties/Mpigi|Mpigi]] 
+- [[../../../../../../_public/geo/Continent/Africa/Uganda/Counties/Mpigi.public|Mpigi.public]] 
+- [[../../../../../../_internal/geo/Continent/Africa/Uganda/Counties/Mpigi.internal|Mpigi.internal]] 
+- [[../../../../../../_protect/geo/Continent/Africa/Uganda/Counties/Mpigi.protect|Mpigi.protect]] 
+- [[../../../../../../_private/geo/Continent/Africa/Uganda/Counties/Mpigi.private|Mpigi.private]] 
+- [[../../../../../../_personal/geo/Continent/Africa/Uganda/Counties/Mpigi.personal|Mpigi.personal]] 
+- [[../../../../../../_secret/geo/Continent/Africa/Uganda/Counties/Mpigi.secret|Mpigi.secret]] 
 

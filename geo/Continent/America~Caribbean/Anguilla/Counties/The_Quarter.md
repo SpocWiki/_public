@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 18.23 , -63.04 ] 
 type: geo-Region
 title: The_Quarter
@@ -40,10 +40,11 @@ markerFolder: ./The_Quarter/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/America~Caribbean/Anguilla/Counties/The_Quarter.md|The_Quarter]] 
-- [[../../../../_internal/geo/Continent/America~Caribbean/Anguilla/Counties/The_Quarter.internal|The_Quarter.internal]] 
-- [[../../../../_protect/geo/Continent/America~Caribbean/Anguilla/Counties/The_Quarter.protect|The_Quarter.protect]] 
-- [[../../../../_private/geo/Continent/America~Caribbean/Anguilla/Counties/The_Quarter.private|The_Quarter.private]] 
-- [[../../../../_personal/geo/Continent/America~Caribbean/Anguilla/Counties/The_Quarter.personal|The_Quarter.personal]] 
-- [[../../../../_secret/geo/Continent/America~Caribbean/Anguilla/Counties/The_Quarter.secret|The_Quarter.secret]] 
+- [[../../../../../../_Standards/geo/Continent/America~Caribbean/Anguilla/Counties/The_Quarter|The_Quarter]] 
+- [[../../../../../../_public/geo/Continent/America~Caribbean/Anguilla/Counties/The_Quarter.public|The_Quarter.public]] 
+- [[../../../../../../_internal/geo/Continent/America~Caribbean/Anguilla/Counties/The_Quarter.internal|The_Quarter.internal]] 
+- [[../../../../../../_protect/geo/Continent/America~Caribbean/Anguilla/Counties/The_Quarter.protect|The_Quarter.protect]] 
+- [[../../../../../../_private/geo/Continent/America~Caribbean/Anguilla/Counties/The_Quarter.private|The_Quarter.private]] 
+- [[../../../../../../_personal/geo/Continent/America~Caribbean/Anguilla/Counties/The_Quarter.personal|The_Quarter.personal]] 
+- [[../../../../../../_secret/geo/Continent/America~Caribbean/Anguilla/Counties/The_Quarter.secret|The_Quarter.secret]] 
 

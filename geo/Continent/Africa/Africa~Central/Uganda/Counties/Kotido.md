@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 3 , 34 ] 
 type: geo-Region
 title: Kotido
@@ -40,10 +40,11 @@ markerFolder: ./Kotido/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Africa/Uganda/Counties/Kotido.md|Kotido]] 
-- [[../../../../_internal/geo/Continent/Africa/Uganda/Counties/Kotido.internal|Kotido.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Uganda/Counties/Kotido.protect|Kotido.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Uganda/Counties/Kotido.private|Kotido.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Uganda/Counties/Kotido.personal|Kotido.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Uganda/Counties/Kotido.secret|Kotido.secret]] 
+- [[../../../../../../_Standards/geo/Continent/Africa/Uganda/Counties/Kotido|Kotido]] 
+- [[../../../../../../_public/geo/Continent/Africa/Uganda/Counties/Kotido.public|Kotido.public]] 
+- [[../../../../../../_internal/geo/Continent/Africa/Uganda/Counties/Kotido.internal|Kotido.internal]] 
+- [[../../../../../../_protect/geo/Continent/Africa/Uganda/Counties/Kotido.protect|Kotido.protect]] 
+- [[../../../../../../_private/geo/Continent/Africa/Uganda/Counties/Kotido.private|Kotido.private]] 
+- [[../../../../../../_personal/geo/Continent/Africa/Uganda/Counties/Kotido.personal|Kotido.personal]] 
+- [[../../../../../../_secret/geo/Continent/Africa/Uganda/Counties/Kotido.secret|Kotido.secret]] 
 

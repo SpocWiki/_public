@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 7.48 , 134.54 ] 
 type: geo-Region
 title: Ngatpang
@@ -40,10 +40,11 @@ markerFolder: ./Ngatpang/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Oceania/Palau/Counties/Ngatpang.md|Ngatpang]] 
-- [[../../../../_internal/geo/Continent/Oceania/Palau/Counties/Ngatpang.internal|Ngatpang.internal]] 
-- [[../../../../_protect/geo/Continent/Oceania/Palau/Counties/Ngatpang.protect|Ngatpang.protect]] 
-- [[../../../../_private/geo/Continent/Oceania/Palau/Counties/Ngatpang.private|Ngatpang.private]] 
-- [[../../../../_personal/geo/Continent/Oceania/Palau/Counties/Ngatpang.personal|Ngatpang.personal]] 
-- [[../../../../_secret/geo/Continent/Oceania/Palau/Counties/Ngatpang.secret|Ngatpang.secret]] 
+- [[../../../../../../_Standards/geo/Continent/Oceania/Palau/Counties/Ngatpang|Ngatpang]] 
+- [[../../../../../../_public/geo/Continent/Oceania/Palau/Counties/Ngatpang.public|Ngatpang.public]] 
+- [[../../../../../../_internal/geo/Continent/Oceania/Palau/Counties/Ngatpang.internal|Ngatpang.internal]] 
+- [[../../../../../../_protect/geo/Continent/Oceania/Palau/Counties/Ngatpang.protect|Ngatpang.protect]] 
+- [[../../../../../../_private/geo/Continent/Oceania/Palau/Counties/Ngatpang.private|Ngatpang.private]] 
+- [[../../../../../../_personal/geo/Continent/Oceania/Palau/Counties/Ngatpang.personal|Ngatpang.personal]] 
+- [[../../../../../../_secret/geo/Continent/Oceania/Palau/Counties/Ngatpang.secret|Ngatpang.secret]] 
 

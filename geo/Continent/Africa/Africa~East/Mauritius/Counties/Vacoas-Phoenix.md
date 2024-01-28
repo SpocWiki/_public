@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ -20.3 , 57.49 ] 
 type: geo-Region
 title: Vacoas-Phoenix
@@ -40,10 +40,11 @@ markerFolder: ./Vacoas-Phoenix/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Africa/Mauritius/Counties/Vacoas-Phoenix.md|Vacoas-Phoenix]] 
-- [[../../../../_internal/geo/Continent/Africa/Mauritius/Counties/Vacoas-Phoenix.internal|Vacoas-Phoenix.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Mauritius/Counties/Vacoas-Phoenix.protect|Vacoas-Phoenix.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Mauritius/Counties/Vacoas-Phoenix.private|Vacoas-Phoenix.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Mauritius/Counties/Vacoas-Phoenix.personal|Vacoas-Phoenix.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Mauritius/Counties/Vacoas-Phoenix.secret|Vacoas-Phoenix.secret]] 
+- [[../../../../../../_Standards/geo/Continent/Africa/Mauritius/Counties/Vacoas-Phoenix|Vacoas-Phoenix]] 
+- [[../../../../../../_public/geo/Continent/Africa/Mauritius/Counties/Vacoas-Phoenix.public|Vacoas-Phoenix.public]] 
+- [[../../../../../../_internal/geo/Continent/Africa/Mauritius/Counties/Vacoas-Phoenix.internal|Vacoas-Phoenix.internal]] 
+- [[../../../../../../_protect/geo/Continent/Africa/Mauritius/Counties/Vacoas-Phoenix.protect|Vacoas-Phoenix.protect]] 
+- [[../../../../../../_private/geo/Continent/Africa/Mauritius/Counties/Vacoas-Phoenix.private|Vacoas-Phoenix.private]] 
+- [[../../../../../../_personal/geo/Continent/Africa/Mauritius/Counties/Vacoas-Phoenix.personal|Vacoas-Phoenix.personal]] 
+- [[../../../../../../_secret/geo/Continent/Africa/Mauritius/Counties/Vacoas-Phoenix.secret|Vacoas-Phoenix.secret]] 
 

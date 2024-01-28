@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 19.2 , -101.7 ] 
 type: geo-Region
 title: Michoacán
@@ -40,10 +40,11 @@ markerFolder: ./Michoacán/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/America~Central/Mexico/Counties/Michoacán.md|Michoacán]] 
-- [[../../../../_internal/geo/Continent/America~Central/Mexico/Counties/Michoacán.internal|Michoacán.internal]] 
-- [[../../../../_protect/geo/Continent/America~Central/Mexico/Counties/Michoacán.protect|Michoacán.protect]] 
-- [[../../../../_private/geo/Continent/America~Central/Mexico/Counties/Michoacán.private|Michoacán.private]] 
-- [[../../../../_personal/geo/Continent/America~Central/Mexico/Counties/Michoacán.personal|Michoacán.personal]] 
-- [[../../../../_secret/geo/Continent/America~Central/Mexico/Counties/Michoacán.secret|Michoacán.secret]] 
+- [[../../../../../../_Standards/geo/Continent/America~Central/Mexico/Counties/Michoacán|Michoacán]] 
+- [[../../../../../../_public/geo/Continent/America~Central/Mexico/Counties/Michoacán.public|Michoacán.public]] 
+- [[../../../../../../_internal/geo/Continent/America~Central/Mexico/Counties/Michoacán.internal|Michoacán.internal]] 
+- [[../../../../../../_protect/geo/Continent/America~Central/Mexico/Counties/Michoacán.protect|Michoacán.protect]] 
+- [[../../../../../../_private/geo/Continent/America~Central/Mexico/Counties/Michoacán.private|Michoacán.private]] 
+- [[../../../../../../_personal/geo/Continent/America~Central/Mexico/Counties/Michoacán.personal|Michoacán.personal]] 
+- [[../../../../../../_secret/geo/Continent/America~Central/Mexico/Counties/Michoacán.secret|Michoacán.secret]] 
 

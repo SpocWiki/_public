@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ -10.4 , 29 ] 
 type: geo-Region
 title: Luapula
@@ -40,10 +40,11 @@ markerFolder: ./Luapula/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Africa/Zambia/Counties/Luapula.md|Luapula]] 
-- [[../../../../_internal/geo/Continent/Africa/Zambia/Counties/Luapula.internal|Luapula.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Zambia/Counties/Luapula.protect|Luapula.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Zambia/Counties/Luapula.private|Luapula.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Zambia/Counties/Luapula.personal|Luapula.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Zambia/Counties/Luapula.secret|Luapula.secret]] 
+- [[../../../../../../_Standards/geo/Continent/Africa/Zambia/Counties/Luapula|Luapula]] 
+- [[../../../../../../_public/geo/Continent/Africa/Zambia/Counties/Luapula.public|Luapula.public]] 
+- [[../../../../../../_internal/geo/Continent/Africa/Zambia/Counties/Luapula.internal|Luapula.internal]] 
+- [[../../../../../../_protect/geo/Continent/Africa/Zambia/Counties/Luapula.protect|Luapula.protect]] 
+- [[../../../../../../_private/geo/Continent/Africa/Zambia/Counties/Luapula.private|Luapula.private]] 
+- [[../../../../../../_personal/geo/Continent/Africa/Zambia/Counties/Luapula.personal|Luapula.personal]] 
+- [[../../../../../../_secret/geo/Continent/Africa/Zambia/Counties/Luapula.secret|Luapula.secret]] 
 

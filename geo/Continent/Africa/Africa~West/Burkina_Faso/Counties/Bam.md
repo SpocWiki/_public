@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 13.4 , -1.6 ] 
 type: geo-Region
 title: Bam
@@ -40,10 +40,11 @@ markerFolder: ./Bam/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Africa/Burkina_Faso/Counties/Bam.md|Bam]] 
-- [[../../../../_internal/geo/Continent/Africa/Burkina_Faso/Counties/Bam.internal|Bam.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Burkina_Faso/Counties/Bam.protect|Bam.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Burkina_Faso/Counties/Bam.private|Bam.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Burkina_Faso/Counties/Bam.personal|Bam.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Burkina_Faso/Counties/Bam.secret|Bam.secret]] 
+- [[../../../../../../_Standards/geo/Continent/Africa/Burkina_Faso/Counties/Bam|Bam]] 
+- [[../../../../../../_public/geo/Continent/Africa/Burkina_Faso/Counties/Bam.public|Bam.public]] 
+- [[../../../../../../_internal/geo/Continent/Africa/Burkina_Faso/Counties/Bam.internal|Bam.internal]] 
+- [[../../../../../../_protect/geo/Continent/Africa/Burkina_Faso/Counties/Bam.protect|Bam.protect]] 
+- [[../../../../../../_private/geo/Continent/Africa/Burkina_Faso/Counties/Bam.private|Bam.private]] 
+- [[../../../../../../_personal/geo/Continent/Africa/Burkina_Faso/Counties/Bam.personal|Bam.personal]] 
+- [[../../../../../../_secret/geo/Continent/Africa/Burkina_Faso/Counties/Bam.secret|Bam.secret]] 
 

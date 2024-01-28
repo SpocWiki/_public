@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ -6.2 , 155.2 ] 
 type: geo-Region
 title: North_Solomons
@@ -40,10 +40,11 @@ markerFolder: ./North_Solomons/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Oceania/Papua_New_Guinea/Counties/North_Solomons.md|North_Solomons]] 
-- [[../../../../_internal/geo/Continent/Oceania/Papua_New_Guinea/Counties/North_Solomons.internal|North_Solomons.internal]] 
-- [[../../../../_protect/geo/Continent/Oceania/Papua_New_Guinea/Counties/North_Solomons.protect|North_Solomons.protect]] 
-- [[../../../../_private/geo/Continent/Oceania/Papua_New_Guinea/Counties/North_Solomons.private|North_Solomons.private]] 
-- [[../../../../_personal/geo/Continent/Oceania/Papua_New_Guinea/Counties/North_Solomons.personal|North_Solomons.personal]] 
-- [[../../../../_secret/geo/Continent/Oceania/Papua_New_Guinea/Counties/North_Solomons.secret|North_Solomons.secret]] 
+- [[../../../../../../_Standards/geo/Continent/Oceania/Papua_New_Guinea/Counties/North_Solomons|North_Solomons]] 
+- [[../../../../../../_public/geo/Continent/Oceania/Papua_New_Guinea/Counties/North_Solomons.public|North_Solomons.public]] 
+- [[../../../../../../_internal/geo/Continent/Oceania/Papua_New_Guinea/Counties/North_Solomons.internal|North_Solomons.internal]] 
+- [[../../../../../../_protect/geo/Continent/Oceania/Papua_New_Guinea/Counties/North_Solomons.protect|North_Solomons.protect]] 
+- [[../../../../../../_private/geo/Continent/Oceania/Papua_New_Guinea/Counties/North_Solomons.private|North_Solomons.private]] 
+- [[../../../../../../_personal/geo/Continent/Oceania/Papua_New_Guinea/Counties/North_Solomons.personal|North_Solomons.personal]] 
+- [[../../../../../../_secret/geo/Continent/Oceania/Papua_New_Guinea/Counties/North_Solomons.secret|North_Solomons.secret]] 
 

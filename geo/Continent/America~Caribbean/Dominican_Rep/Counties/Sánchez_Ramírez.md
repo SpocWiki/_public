@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 19 , -70.1 ] 
 type: geo-Region
 title: Sánchez_Ramírez
@@ -40,10 +40,11 @@ markerFolder: ./Sánchez_Ramírez/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/America~Caribbean/Dominican_Rep/Counties/Sánchez_Ramírez.md|Sánchez_Ramírez]] 
-- [[../../../../_internal/geo/Continent/America~Caribbean/Dominican_Rep/Counties/Sánchez_Ramírez.internal|Sánchez_Ramírez.internal]] 
-- [[../../../../_protect/geo/Continent/America~Caribbean/Dominican_Rep/Counties/Sánchez_Ramírez.protect|Sánchez_Ramírez.protect]] 
-- [[../../../../_private/geo/Continent/America~Caribbean/Dominican_Rep/Counties/Sánchez_Ramírez.private|Sánchez_Ramírez.private]] 
-- [[../../../../_personal/geo/Continent/America~Caribbean/Dominican_Rep/Counties/Sánchez_Ramírez.personal|Sánchez_Ramírez.personal]] 
-- [[../../../../_secret/geo/Continent/America~Caribbean/Dominican_Rep/Counties/Sánchez_Ramírez.secret|Sánchez_Ramírez.secret]] 
+- [[../../../../../../_Standards/geo/Continent/America~Caribbean/Dominican_Rep/Counties/Sánchez_Ramírez|Sánchez_Ramírez]] 
+- [[../../../../../../_public/geo/Continent/America~Caribbean/Dominican_Rep/Counties/Sánchez_Ramírez.public|Sánchez_Ramírez.public]] 
+- [[../../../../../../_internal/geo/Continent/America~Caribbean/Dominican_Rep/Counties/Sánchez_Ramírez.internal|Sánchez_Ramírez.internal]] 
+- [[../../../../../../_protect/geo/Continent/America~Caribbean/Dominican_Rep/Counties/Sánchez_Ramírez.protect|Sánchez_Ramírez.protect]] 
+- [[../../../../../../_private/geo/Continent/America~Caribbean/Dominican_Rep/Counties/Sánchez_Ramírez.private|Sánchez_Ramírez.private]] 
+- [[../../../../../../_personal/geo/Continent/America~Caribbean/Dominican_Rep/Counties/Sánchez_Ramírez.personal|Sánchez_Ramírez.personal]] 
+- [[../../../../../../_secret/geo/Continent/America~Caribbean/Dominican_Rep/Counties/Sánchez_Ramírez.secret|Sánchez_Ramírez.secret]] 
 

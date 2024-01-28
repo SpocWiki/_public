@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 1.9 , 32.6 ] 
 type: geo-Region
 title: Apac
@@ -40,10 +40,11 @@ markerFolder: ./Apac/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Africa/Uganda/Counties/Apac.md|Apac]] 
-- [[../../../../_internal/geo/Continent/Africa/Uganda/Counties/Apac.internal|Apac.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Uganda/Counties/Apac.protect|Apac.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Uganda/Counties/Apac.private|Apac.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Uganda/Counties/Apac.personal|Apac.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Uganda/Counties/Apac.secret|Apac.secret]] 
+- [[../../../../../../_Standards/geo/Continent/Africa/Uganda/Counties/Apac|Apac]] 
+- [[../../../../../../_public/geo/Continent/Africa/Uganda/Counties/Apac.public|Apac.public]] 
+- [[../../../../../../_internal/geo/Continent/Africa/Uganda/Counties/Apac.internal|Apac.internal]] 
+- [[../../../../../../_protect/geo/Continent/Africa/Uganda/Counties/Apac.protect|Apac.protect]] 
+- [[../../../../../../_private/geo/Continent/Africa/Uganda/Counties/Apac.private|Apac.private]] 
+- [[../../../../../../_personal/geo/Continent/Africa/Uganda/Counties/Apac.personal|Apac.personal]] 
+- [[../../../../../../_secret/geo/Continent/Africa/Uganda/Counties/Apac.secret|Apac.secret]] 
 

@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 1.8 , 33.6 ] 
 type: geo-Region
 title: Soroti
@@ -40,10 +40,11 @@ markerFolder: ./Soroti/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Africa/Uganda/Counties/Soroti.md|Soroti]] 
-- [[../../../../_internal/geo/Continent/Africa/Uganda/Counties/Soroti.internal|Soroti.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Uganda/Counties/Soroti.protect|Soroti.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Uganda/Counties/Soroti.private|Soroti.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Uganda/Counties/Soroti.personal|Soroti.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Uganda/Counties/Soroti.secret|Soroti.secret]] 
+- [[../../../../../../_Standards/geo/Continent/Africa/Uganda/Counties/Soroti|Soroti]] 
+- [[../../../../../../_public/geo/Continent/Africa/Uganda/Counties/Soroti.public|Soroti.public]] 
+- [[../../../../../../_internal/geo/Continent/Africa/Uganda/Counties/Soroti.internal|Soroti.internal]] 
+- [[../../../../../../_protect/geo/Continent/Africa/Uganda/Counties/Soroti.protect|Soroti.protect]] 
+- [[../../../../../../_private/geo/Continent/Africa/Uganda/Counties/Soroti.private|Soroti.private]] 
+- [[../../../../../../_personal/geo/Continent/Africa/Uganda/Counties/Soroti.personal|Soroti.personal]] 
+- [[../../../../../../_secret/geo/Continent/Africa/Uganda/Counties/Soroti.secret|Soroti.secret]] 
 

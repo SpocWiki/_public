@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 18.3 , -77.6 ] 
 type: geo-Region
 title: Trelawny
@@ -40,10 +40,11 @@ markerFolder: ./Trelawny/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/America~Caribbean/Jamaica/Counties/Trelawny.md|Trelawny]] 
-- [[../../../../_internal/geo/Continent/America~Caribbean/Jamaica/Counties/Trelawny.internal|Trelawny.internal]] 
-- [[../../../../_protect/geo/Continent/America~Caribbean/Jamaica/Counties/Trelawny.protect|Trelawny.protect]] 
-- [[../../../../_private/geo/Continent/America~Caribbean/Jamaica/Counties/Trelawny.private|Trelawny.private]] 
-- [[../../../../_personal/geo/Continent/America~Caribbean/Jamaica/Counties/Trelawny.personal|Trelawny.personal]] 
-- [[../../../../_secret/geo/Continent/America~Caribbean/Jamaica/Counties/Trelawny.secret|Trelawny.secret]] 
+- [[../../../../../../_Standards/geo/Continent/America~Caribbean/Jamaica/Counties/Trelawny|Trelawny]] 
+- [[../../../../../../_public/geo/Continent/America~Caribbean/Jamaica/Counties/Trelawny.public|Trelawny.public]] 
+- [[../../../../../../_internal/geo/Continent/America~Caribbean/Jamaica/Counties/Trelawny.internal|Trelawny.internal]] 
+- [[../../../../../../_protect/geo/Continent/America~Caribbean/Jamaica/Counties/Trelawny.protect|Trelawny.protect]] 
+- [[../../../../../../_private/geo/Continent/America~Caribbean/Jamaica/Counties/Trelawny.private|Trelawny.private]] 
+- [[../../../../../../_personal/geo/Continent/America~Caribbean/Jamaica/Counties/Trelawny.personal|Trelawny.personal]] 
+- [[../../../../../../_secret/geo/Continent/America~Caribbean/Jamaica/Counties/Trelawny.secret|Trelawny.secret]] 
 

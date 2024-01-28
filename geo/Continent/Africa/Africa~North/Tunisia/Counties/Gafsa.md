@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 34.4 , 8.8 ] 
 type: geo-Region
 title: Gafsa
@@ -40,10 +40,11 @@ markerFolder: ./Gafsa/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Africa/Tunisia/Counties/Gafsa.md|Gafsa]] 
-- [[../../../../_internal/geo/Continent/Africa/Tunisia/Counties/Gafsa.internal|Gafsa.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Tunisia/Counties/Gafsa.protect|Gafsa.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Tunisia/Counties/Gafsa.private|Gafsa.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Tunisia/Counties/Gafsa.personal|Gafsa.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Tunisia/Counties/Gafsa.secret|Gafsa.secret]] 
+- [[../../../../../../_Standards/geo/Continent/Africa/Tunisia/Counties/Gafsa|Gafsa]] 
+- [[../../../../../../_public/geo/Continent/Africa/Tunisia/Counties/Gafsa.public|Gafsa.public]] 
+- [[../../../../../../_internal/geo/Continent/Africa/Tunisia/Counties/Gafsa.internal|Gafsa.internal]] 
+- [[../../../../../../_protect/geo/Continent/Africa/Tunisia/Counties/Gafsa.protect|Gafsa.protect]] 
+- [[../../../../../../_private/geo/Continent/Africa/Tunisia/Counties/Gafsa.private|Gafsa.private]] 
+- [[../../../../../../_personal/geo/Continent/Africa/Tunisia/Counties/Gafsa.personal|Gafsa.personal]] 
+- [[../../../../../../_secret/geo/Continent/Africa/Tunisia/Counties/Gafsa.secret|Gafsa.secret]] 
 

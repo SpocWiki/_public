@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 12.6 , -1.7 ] 
 type: geo-Region
 title: Kourwéogo
@@ -40,10 +40,11 @@ markerFolder: ./Kourwéogo/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Africa/Burkina_Faso/Counties/Kourwéogo.md|Kourwéogo]] 
-- [[../../../../_internal/geo/Continent/Africa/Burkina_Faso/Counties/Kourwéogo.internal|Kourwéogo.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Burkina_Faso/Counties/Kourwéogo.protect|Kourwéogo.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Burkina_Faso/Counties/Kourwéogo.private|Kourwéogo.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Burkina_Faso/Counties/Kourwéogo.personal|Kourwéogo.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Burkina_Faso/Counties/Kourwéogo.secret|Kourwéogo.secret]] 
+- [[../../../../../../_Standards/geo/Continent/Africa/Burkina_Faso/Counties/Kourwéogo|Kourwéogo]] 
+- [[../../../../../../_public/geo/Continent/Africa/Burkina_Faso/Counties/Kourwéogo.public|Kourwéogo.public]] 
+- [[../../../../../../_internal/geo/Continent/Africa/Burkina_Faso/Counties/Kourwéogo.internal|Kourwéogo.internal]] 
+- [[../../../../../../_protect/geo/Continent/Africa/Burkina_Faso/Counties/Kourwéogo.protect|Kourwéogo.protect]] 
+- [[../../../../../../_private/geo/Continent/Africa/Burkina_Faso/Counties/Kourwéogo.private|Kourwéogo.private]] 
+- [[../../../../../../_personal/geo/Continent/Africa/Burkina_Faso/Counties/Kourwéogo.personal|Kourwéogo.personal]] 
+- [[../../../../../../_secret/geo/Continent/Africa/Burkina_Faso/Counties/Kourwéogo.secret|Kourwéogo.secret]] 
 

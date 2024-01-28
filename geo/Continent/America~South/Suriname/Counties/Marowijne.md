@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 5.6 , -54.3 ] 
 type: geo-Region
 title: Marowijne
@@ -40,10 +40,11 @@ markerFolder: ./Marowijne/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/America~South/Suriname/Counties/Marowijne.md|Marowijne]] 
-- [[../../../../_internal/geo/Continent/America~South/Suriname/Counties/Marowijne.internal|Marowijne.internal]] 
-- [[../../../../_protect/geo/Continent/America~South/Suriname/Counties/Marowijne.protect|Marowijne.protect]] 
-- [[../../../../_private/geo/Continent/America~South/Suriname/Counties/Marowijne.private|Marowijne.private]] 
-- [[../../../../_personal/geo/Continent/America~South/Suriname/Counties/Marowijne.personal|Marowijne.personal]] 
-- [[../../../../_secret/geo/Continent/America~South/Suriname/Counties/Marowijne.secret|Marowijne.secret]] 
+- [[../../../../../../_Standards/geo/Continent/America~South/Suriname/Counties/Marowijne|Marowijne]] 
+- [[../../../../../../_public/geo/Continent/America~South/Suriname/Counties/Marowijne.public|Marowijne.public]] 
+- [[../../../../../../_internal/geo/Continent/America~South/Suriname/Counties/Marowijne.internal|Marowijne.internal]] 
+- [[../../../../../../_protect/geo/Continent/America~South/Suriname/Counties/Marowijne.protect|Marowijne.protect]] 
+- [[../../../../../../_private/geo/Continent/America~South/Suriname/Counties/Marowijne.private|Marowijne.private]] 
+- [[../../../../../../_personal/geo/Continent/America~South/Suriname/Counties/Marowijne.personal|Marowijne.personal]] 
+- [[../../../../../../_secret/geo/Continent/America~South/Suriname/Counties/Marowijne.secret|Marowijne.secret]] 
 

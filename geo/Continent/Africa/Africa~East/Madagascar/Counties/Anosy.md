@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ -23.9 , 46 ] 
 type: geo-Region
 title: Anosy
@@ -40,10 +40,11 @@ markerFolder: ./Anosy/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Africa/Madagascar/Counties/Anosy.md|Anosy]] 
-- [[../../../../_internal/geo/Continent/Africa/Madagascar/Counties/Anosy.internal|Anosy.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Madagascar/Counties/Anosy.protect|Anosy.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Madagascar/Counties/Anosy.private|Anosy.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Madagascar/Counties/Anosy.personal|Anosy.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Madagascar/Counties/Anosy.secret|Anosy.secret]] 
+- [[../../../../../../_Standards/geo/Continent/Africa/Madagascar/Counties/Anosy|Anosy]] 
+- [[../../../../../../_public/geo/Continent/Africa/Madagascar/Counties/Anosy.public|Anosy.public]] 
+- [[../../../../../../_internal/geo/Continent/Africa/Madagascar/Counties/Anosy.internal|Anosy.internal]] 
+- [[../../../../../../_protect/geo/Continent/Africa/Madagascar/Counties/Anosy.protect|Anosy.protect]] 
+- [[../../../../../../_private/geo/Continent/Africa/Madagascar/Counties/Anosy.private|Anosy.private]] 
+- [[../../../../../../_personal/geo/Continent/Africa/Madagascar/Counties/Anosy.personal|Anosy.personal]] 
+- [[../../../../../../_secret/geo/Continent/Africa/Madagascar/Counties/Anosy.secret|Anosy.secret]] 
 

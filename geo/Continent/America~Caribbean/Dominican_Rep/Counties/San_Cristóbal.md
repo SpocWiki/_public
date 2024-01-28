@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 18.5 , -70.2 ] 
 type: geo-Region
 title: San_Cristóbal
@@ -40,10 +40,11 @@ markerFolder: ./San_Cristóbal/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/America~Caribbean/Dominican_Rep/Counties/San_Cristóbal.md|San_Cristóbal]] 
-- [[../../../../_internal/geo/Continent/America~Caribbean/Dominican_Rep/Counties/San_Cristóbal.internal|San_Cristóbal.internal]] 
-- [[../../../../_protect/geo/Continent/America~Caribbean/Dominican_Rep/Counties/San_Cristóbal.protect|San_Cristóbal.protect]] 
-- [[../../../../_private/geo/Continent/America~Caribbean/Dominican_Rep/Counties/San_Cristóbal.private|San_Cristóbal.private]] 
-- [[../../../../_personal/geo/Continent/America~Caribbean/Dominican_Rep/Counties/San_Cristóbal.personal|San_Cristóbal.personal]] 
-- [[../../../../_secret/geo/Continent/America~Caribbean/Dominican_Rep/Counties/San_Cristóbal.secret|San_Cristóbal.secret]] 
+- [[../../../../../../_Standards/geo/Continent/America~Caribbean/Dominican_Rep/Counties/San_Cristóbal|San_Cristóbal]] 
+- [[../../../../../../_public/geo/Continent/America~Caribbean/Dominican_Rep/Counties/San_Cristóbal.public|San_Cristóbal.public]] 
+- [[../../../../../../_internal/geo/Continent/America~Caribbean/Dominican_Rep/Counties/San_Cristóbal.internal|San_Cristóbal.internal]] 
+- [[../../../../../../_protect/geo/Continent/America~Caribbean/Dominican_Rep/Counties/San_Cristóbal.protect|San_Cristóbal.protect]] 
+- [[../../../../../../_private/geo/Continent/America~Caribbean/Dominican_Rep/Counties/San_Cristóbal.private|San_Cristóbal.private]] 
+- [[../../../../../../_personal/geo/Continent/America~Caribbean/Dominican_Rep/Counties/San_Cristóbal.personal|San_Cristóbal.personal]] 
+- [[../../../../../../_secret/geo/Continent/America~Caribbean/Dominican_Rep/Counties/San_Cristóbal.secret|San_Cristóbal.secret]] 
 

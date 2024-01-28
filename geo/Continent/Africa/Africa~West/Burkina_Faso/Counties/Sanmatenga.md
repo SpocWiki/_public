@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 13.2 , -1 ] 
 type: geo-Region
 title: Sanmatenga
@@ -40,10 +40,11 @@ markerFolder: ./Sanmatenga/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Africa/Burkina_Faso/Counties/Sanmatenga.md|Sanmatenga]] 
-- [[../../../../_internal/geo/Continent/Africa/Burkina_Faso/Counties/Sanmatenga.internal|Sanmatenga.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Burkina_Faso/Counties/Sanmatenga.protect|Sanmatenga.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Burkina_Faso/Counties/Sanmatenga.private|Sanmatenga.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Burkina_Faso/Counties/Sanmatenga.personal|Sanmatenga.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Burkina_Faso/Counties/Sanmatenga.secret|Sanmatenga.secret]] 
+- [[../../../../../../_Standards/geo/Continent/Africa/Burkina_Faso/Counties/Sanmatenga|Sanmatenga]] 
+- [[../../../../../../_public/geo/Continent/Africa/Burkina_Faso/Counties/Sanmatenga.public|Sanmatenga.public]] 
+- [[../../../../../../_internal/geo/Continent/Africa/Burkina_Faso/Counties/Sanmatenga.internal|Sanmatenga.internal]] 
+- [[../../../../../../_protect/geo/Continent/Africa/Burkina_Faso/Counties/Sanmatenga.protect|Sanmatenga.protect]] 
+- [[../../../../../../_private/geo/Continent/Africa/Burkina_Faso/Counties/Sanmatenga.private|Sanmatenga.private]] 
+- [[../../../../../../_personal/geo/Continent/Africa/Burkina_Faso/Counties/Sanmatenga.personal|Sanmatenga.personal]] 
+- [[../../../../../../_secret/geo/Continent/Africa/Burkina_Faso/Counties/Sanmatenga.secret|Sanmatenga.secret]] 
 

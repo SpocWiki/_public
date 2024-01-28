@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 6.5 , 4 ] 
 type: geo-Region
 title: Lagos
@@ -40,10 +40,11 @@ markerFolder: ./Lagos/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Africa/Nigeria/Counties/Lagos.md|Lagos]] 
-- [[../../../../_internal/geo/Continent/Africa/Nigeria/Counties/Lagos.internal|Lagos.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Nigeria/Counties/Lagos.protect|Lagos.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Nigeria/Counties/Lagos.private|Lagos.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Nigeria/Counties/Lagos.personal|Lagos.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Nigeria/Counties/Lagos.secret|Lagos.secret]] 
+- [[../../../../../../_Standards/geo/Continent/Africa/Nigeria/Counties/Lagos|Lagos]] 
+- [[../../../../../../_public/geo/Continent/Africa/Nigeria/Counties/Lagos.public|Lagos.public]] 
+- [[../../../../../../_internal/geo/Continent/Africa/Nigeria/Counties/Lagos.internal|Lagos.internal]] 
+- [[../../../../../../_protect/geo/Continent/Africa/Nigeria/Counties/Lagos.protect|Lagos.protect]] 
+- [[../../../../../../_private/geo/Continent/Africa/Nigeria/Counties/Lagos.private|Lagos.private]] 
+- [[../../../../../../_personal/geo/Continent/Africa/Nigeria/Counties/Lagos.personal|Lagos.personal]] 
+- [[../../../../../../_secret/geo/Continent/Africa/Nigeria/Counties/Lagos.secret|Lagos.secret]] 
 

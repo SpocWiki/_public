@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ -9.1 , -70.7 ] 
 type: geo-Region
 title: Acre
@@ -40,10 +40,11 @@ markerFolder: ./Acre/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/America~South/Brazil/Counties/Acre.md|Acre]] 
-- [[../../../../_internal/geo/Continent/America~South/Brazil/Counties/Acre.internal|Acre.internal]] 
-- [[../../../../_protect/geo/Continent/America~South/Brazil/Counties/Acre.protect|Acre.protect]] 
-- [[../../../../_private/geo/Continent/America~South/Brazil/Counties/Acre.private|Acre.private]] 
-- [[../../../../_personal/geo/Continent/America~South/Brazil/Counties/Acre.personal|Acre.personal]] 
-- [[../../../../_secret/geo/Continent/America~South/Brazil/Counties/Acre.secret|Acre.secret]] 
+- [[../../../../../../_Standards/geo/Continent/America~South/Brazil/Counties/Acre|Acre]] 
+- [[../../../../../../_public/geo/Continent/America~South/Brazil/Counties/Acre.public|Acre.public]] 
+- [[../../../../../../_internal/geo/Continent/America~South/Brazil/Counties/Acre.internal|Acre.internal]] 
+- [[../../../../../../_protect/geo/Continent/America~South/Brazil/Counties/Acre.protect|Acre.protect]] 
+- [[../../../../../../_private/geo/Continent/America~South/Brazil/Counties/Acre.private|Acre.private]] 
+- [[../../../../../../_personal/geo/Continent/America~South/Brazil/Counties/Acre.personal|Acre.personal]] 
+- [[../../../../../../_secret/geo/Continent/America~South/Brazil/Counties/Acre.secret|Acre.secret]] 
 

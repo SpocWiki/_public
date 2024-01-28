@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ -1.9 , -78.7 ] 
 type: geo-Region
 title: Chimborazo
@@ -40,10 +40,11 @@ markerFolder: ./Chimborazo/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/America~South/Ecuador/Counties/Chimborazo.md|Chimborazo]] 
-- [[../../../../_internal/geo/Continent/America~South/Ecuador/Counties/Chimborazo.internal|Chimborazo.internal]] 
-- [[../../../../_protect/geo/Continent/America~South/Ecuador/Counties/Chimborazo.protect|Chimborazo.protect]] 
-- [[../../../../_private/geo/Continent/America~South/Ecuador/Counties/Chimborazo.private|Chimborazo.private]] 
-- [[../../../../_personal/geo/Continent/America~South/Ecuador/Counties/Chimborazo.personal|Chimborazo.personal]] 
-- [[../../../../_secret/geo/Continent/America~South/Ecuador/Counties/Chimborazo.secret|Chimborazo.secret]] 
+- [[../../../../../../_Standards/geo/Continent/America~South/Ecuador/Counties/Chimborazo|Chimborazo]] 
+- [[../../../../../../_public/geo/Continent/America~South/Ecuador/Counties/Chimborazo.public|Chimborazo.public]] 
+- [[../../../../../../_internal/geo/Continent/America~South/Ecuador/Counties/Chimborazo.internal|Chimborazo.internal]] 
+- [[../../../../../../_protect/geo/Continent/America~South/Ecuador/Counties/Chimborazo.protect|Chimborazo.protect]] 
+- [[../../../../../../_private/geo/Continent/America~South/Ecuador/Counties/Chimborazo.private|Chimborazo.private]] 
+- [[../../../../../../_personal/geo/Continent/America~South/Ecuador/Counties/Chimborazo.personal|Chimborazo.personal]] 
+- [[../../../../../../_secret/geo/Continent/America~South/Ecuador/Counties/Chimborazo.secret|Chimborazo.secret]] 
 

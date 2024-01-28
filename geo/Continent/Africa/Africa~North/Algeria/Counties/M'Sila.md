@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 35.1 , 4.2 ] 
 type: geo-Region
 title: M'Sila
@@ -40,10 +40,11 @@ markerFolder: ./M'Sila/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Africa/Algeria/Counties/M'Sila.md|M'Sila]] 
-- [[../../../../_internal/geo/Continent/Africa/Algeria/Counties/M'Sila.internal|M'Sila.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Algeria/Counties/M'Sila.protect|M'Sila.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Algeria/Counties/M'Sila.private|M'Sila.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Algeria/Counties/M'Sila.personal|M'Sila.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Algeria/Counties/M'Sila.secret|M'Sila.secret]] 
+- [[../../../../../../_Standards/geo/Continent/Africa/Algeria/Counties/M'Sila|M'Sila]] 
+- [[../../../../../../_public/geo/Continent/Africa/Algeria/Counties/M'Sila.public|M'Sila.public]] 
+- [[../../../../../../_internal/geo/Continent/Africa/Algeria/Counties/M'Sila.internal|M'Sila.internal]] 
+- [[../../../../../../_protect/geo/Continent/Africa/Algeria/Counties/M'Sila.protect|M'Sila.protect]] 
+- [[../../../../../../_private/geo/Continent/Africa/Algeria/Counties/M'Sila.private|M'Sila.private]] 
+- [[../../../../../../_personal/geo/Continent/Africa/Algeria/Counties/M'Sila.personal|M'Sila.personal]] 
+- [[../../../../../../_secret/geo/Continent/Africa/Algeria/Counties/M'Sila.secret|M'Sila.secret]] 
 

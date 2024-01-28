@@ -12,11 +12,11 @@ tags:
 aliases:
 - 
 ---
-location: [{{y}},{{x}}]
+location: [{{y}},{{x}}] 
 SpocWebEntityId: {{SpocWebEntityId}}
 
-[ISO2::{{ISO2}}]
-[ISO3::{{ISO3}}]
+[ISO2::{{ISO2}}] 
+[ISO3::{{ISO3}}] 
 ```leaflet
 id: {{EnglishName}}
 zoomFeatures: true 
@@ -26,22 +26,23 @@ geojsonFolder: ./{{EnglishName}}/
 markerFolder: ./{{EnglishName}}/
 ```
 
-[name-en::{{EnglishName}}]
-[name-de::{{GermanName}}]
-[Area-Total::{{AreaTotal}}]
-[Area-Land::{{AreaLand}}]
-[Continent-Id::{{ContinentId}}]
-[VehicleCode::{{VehicleCode}}]
-[Capital-Id::{{CapitalId}}]
-[Alcohol-l::{{Alcohol-l}}]
-[Language-Id::{{LanguageId}}]
-[geo-lon::{{x}}]
-[geo-lat::{{y}}]
+[name-en::{{EnglishName}}] 
+[name-de::{{GermanName}}] 
+[Area-Total::{{AreaTotal}}] 
+[Area-Land::{{AreaLand}}] 
+[Continent-Id::{{ContinentId}}] 
+[VehicleCode::{{VehicleCode}}] 
+[Capital-Id::{{CapitalId}}] 
+[Alcohol-l::{{Alcohol-l}}] 
+[Language-Id::{{LanguageId}}] 
+[geo-lon::{{x}}] 
+[geo-lat::{{y}}] 
 
 
 
 ## Confidential Links & Embeds: 
-- [[../../../_public/geo/Continent/_CountryTemplate.md|_CountryTemplate]] 
+- [[../../../_Standards/geo/Continent/_CountryTemplate|_CountryTemplate]] 
+- [[../../../_public/geo/Continent/_CountryTemplate.public|_CountryTemplate.public]] 
 - [[../../../_internal/geo/Continent/_CountryTemplate.internal|_CountryTemplate.internal]] 
 - [[../../../_protect/geo/Continent/_CountryTemplate.protect|_CountryTemplate.protect]] 
 - [[../../../_private/geo/Continent/_CountryTemplate.private|_CountryTemplate.private]] 

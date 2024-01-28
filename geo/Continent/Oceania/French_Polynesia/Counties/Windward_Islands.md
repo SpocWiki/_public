@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ -17.7 , 210.5 ] 
 type: geo-Region
 title: Windward_Islands
@@ -40,10 +40,11 @@ markerFolder: ./Windward_Islands/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Oceania/French_Polynesia/Counties/Windward_Islands.md|Windward_Islands]] 
-- [[../../../../_internal/geo/Continent/Oceania/French_Polynesia/Counties/Windward_Islands.internal|Windward_Islands.internal]] 
-- [[../../../../_protect/geo/Continent/Oceania/French_Polynesia/Counties/Windward_Islands.protect|Windward_Islands.protect]] 
-- [[../../../../_private/geo/Continent/Oceania/French_Polynesia/Counties/Windward_Islands.private|Windward_Islands.private]] 
-- [[../../../../_personal/geo/Continent/Oceania/French_Polynesia/Counties/Windward_Islands.personal|Windward_Islands.personal]] 
-- [[../../../../_secret/geo/Continent/Oceania/French_Polynesia/Counties/Windward_Islands.secret|Windward_Islands.secret]] 
+- [[../../../../../../_Standards/geo/Continent/Oceania/French_Polynesia/Counties/Windward_Islands|Windward_Islands]] 
+- [[../../../../../../_public/geo/Continent/Oceania/French_Polynesia/Counties/Windward_Islands.public|Windward_Islands.public]] 
+- [[../../../../../../_internal/geo/Continent/Oceania/French_Polynesia/Counties/Windward_Islands.internal|Windward_Islands.internal]] 
+- [[../../../../../../_protect/geo/Continent/Oceania/French_Polynesia/Counties/Windward_Islands.protect|Windward_Islands.protect]] 
+- [[../../../../../../_private/geo/Continent/Oceania/French_Polynesia/Counties/Windward_Islands.private|Windward_Islands.private]] 
+- [[../../../../../../_personal/geo/Continent/Oceania/French_Polynesia/Counties/Windward_Islands.personal|Windward_Islands.personal]] 
+- [[../../../../../../_secret/geo/Continent/Oceania/French_Polynesia/Counties/Windward_Islands.secret|Windward_Islands.secret]] 
 

@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 14.7 , -91.3 ] 
 type: geo-Region
 title: Sololá
@@ -40,10 +40,11 @@ markerFolder: ./Sololá/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/America~Central/Guatemala/Counties/Sololá.md|Sololá]] 
-- [[../../../../_internal/geo/Continent/America~Central/Guatemala/Counties/Sololá.internal|Sololá.internal]] 
-- [[../../../../_protect/geo/Continent/America~Central/Guatemala/Counties/Sololá.protect|Sololá.protect]] 
-- [[../../../../_private/geo/Continent/America~Central/Guatemala/Counties/Sololá.private|Sololá.private]] 
-- [[../../../../_personal/geo/Continent/America~Central/Guatemala/Counties/Sololá.personal|Sololá.personal]] 
-- [[../../../../_secret/geo/Continent/America~Central/Guatemala/Counties/Sololá.secret|Sololá.secret]] 
+- [[../../../../../../_Standards/geo/Continent/America~Central/Guatemala/Counties/Sololá|Sololá]] 
+- [[../../../../../../_public/geo/Continent/America~Central/Guatemala/Counties/Sololá.public|Sololá.public]] 
+- [[../../../../../../_internal/geo/Continent/America~Central/Guatemala/Counties/Sololá.internal|Sololá.internal]] 
+- [[../../../../../../_protect/geo/Continent/America~Central/Guatemala/Counties/Sololá.protect|Sololá.protect]] 
+- [[../../../../../../_private/geo/Continent/America~Central/Guatemala/Counties/Sololá.private|Sololá.private]] 
+- [[../../../../../../_personal/geo/Continent/America~Central/Guatemala/Counties/Sololá.personal|Sololá.personal]] 
+- [[../../../../../../_secret/geo/Continent/America~Central/Guatemala/Counties/Sololá.secret|Sololá.secret]] 
 

@@ -1,5 +1,5 @@
 ﻿---
-location: [41.5333,-96.8733]
+location: [41.5333,-96.8733] 
 type: State
 tags:
 - geo/State
@@ -10,16 +10,16 @@ isDeleted: false
 confidential: public
 
 ---
-[name::Nebraska]
-[name-abbr::NE]
-![[Nebraska/Seal_of_Nebraska.svg|350]]]
-![[Nebraska/Flag_of_Nebraska.svg|350]]]
+[name::Nebraska] 
+[name-abbr::NE] 
+![[Nebraska/Seal_of_Nebraska.svg|350]]  
+![[Nebraska/Flag_of_Nebraska.svg|350]]  
 
-[Country:[[../../United_States_of_America]]]]
-[Capital:[[Nebraska/City/Lincoln]]]]
-[geo-lon::-96.8733]
-[geo-lat::41.5333]
-[Population::]
+Country :: [[../../United_States_of_America]]  
+Capital :: [[Nebraska/City/Lincoln]]  
+[geo-lon::-96.8733] 
+[geo-lat::41.5333] 
+[Population::] 
 
 
 
@@ -34,9 +34,10 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_public/geo/Continent/North-America/United_States_of_America/Nebraska.md|Nebraska]] 
-- [[../../../../../_internal/geo/Continent/North-America/United_States_of_America/Nebraska.internal|Nebraska.internal]] 
-- [[../../../../../_protect/geo/Continent/North-America/United_States_of_America/Nebraska.protect|Nebraska.protect]] 
-- [[../../../../../_private/geo/Continent/North-America/United_States_of_America/Nebraska.private|Nebraska.private]] 
-- [[../../../../../_personal/geo/Continent/North-America/United_States_of_America/Nebraska.personal|Nebraska.personal]] 
-- [[../../../../../_secret/geo/Continent/North-America/United_States_of_America/Nebraska.secret|Nebraska.secret]] 
+- [[../../../../../_Standards/geo/Continent/America~North/United_States_of_America/Nebraska|Nebraska]] 
+- [[../../../../../_public/geo/Continent/America~North/United_States_of_America/Nebraska.public|Nebraska.public]] 
+- [[../../../../../_internal/geo/Continent/America~North/United_States_of_America/Nebraska.internal|Nebraska.internal]] 
+- [[../../../../../_protect/geo/Continent/America~North/United_States_of_America/Nebraska.protect|Nebraska.protect]] 
+- [[../../../../../_private/geo/Continent/America~North/United_States_of_America/Nebraska.private|Nebraska.private]] 
+- [[../../../../../_personal/geo/Continent/America~North/United_States_of_America/Nebraska.personal|Nebraska.personal]] 
+- [[../../../../../_secret/geo/Continent/America~North/United_States_of_America/Nebraska.secret|Nebraska.secret]] 

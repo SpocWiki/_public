@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ -38.3 , 177.9 ] 
 type: geo-Region
 title: Gisborne_District
@@ -40,10 +40,11 @@ markerFolder: ./Gisborne_District/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Australia/New_Zealand/Counties/Gisborne_District.md|Gisborne_District]] 
-- [[../../../../_internal/geo/Continent/Australia/New_Zealand/Counties/Gisborne_District.internal|Gisborne_District.internal]] 
-- [[../../../../_protect/geo/Continent/Australia/New_Zealand/Counties/Gisborne_District.protect|Gisborne_District.protect]] 
-- [[../../../../_private/geo/Continent/Australia/New_Zealand/Counties/Gisborne_District.private|Gisborne_District.private]] 
-- [[../../../../_personal/geo/Continent/Australia/New_Zealand/Counties/Gisborne_District.personal|Gisborne_District.personal]] 
-- [[../../../../_secret/geo/Continent/Australia/New_Zealand/Counties/Gisborne_District.secret|Gisborne_District.secret]] 
+- [[../../../../../../_Standards/geo/Continent/Australia/New_Zealand/Counties/Gisborne_District|Gisborne_District]] 
+- [[../../../../../../_public/geo/Continent/Australia/New_Zealand/Counties/Gisborne_District.public|Gisborne_District.public]] 
+- [[../../../../../../_internal/geo/Continent/Australia/New_Zealand/Counties/Gisborne_District.internal|Gisborne_District.internal]] 
+- [[../../../../../../_protect/geo/Continent/Australia/New_Zealand/Counties/Gisborne_District.protect|Gisborne_District.protect]] 
+- [[../../../../../../_private/geo/Continent/Australia/New_Zealand/Counties/Gisborne_District.private|Gisborne_District.private]] 
+- [[../../../../../../_personal/geo/Continent/Australia/New_Zealand/Counties/Gisborne_District.personal|Gisborne_District.personal]] 
+- [[../../../../../../_secret/geo/Continent/Australia/New_Zealand/Counties/Gisborne_District.secret|Gisborne_District.secret]] 
 

@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 16.58 , -24.34 ] 
 type: geo-Region
 title: Tarrafal_de_São_Nicolau
@@ -40,10 +40,11 @@ markerFolder: ./Tarrafal_de_São_Nicolau/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Africa/Cape_Verde/Counties/Tarrafal_de_São_Nicolau.md|Tarrafal_de_São_Nicolau]] 
-- [[../../../../_internal/geo/Continent/Africa/Cape_Verde/Counties/Tarrafal_de_São_Nicolau.internal|Tarrafal_de_São_Nicolau.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Cape_Verde/Counties/Tarrafal_de_São_Nicolau.protect|Tarrafal_de_São_Nicolau.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Cape_Verde/Counties/Tarrafal_de_São_Nicolau.private|Tarrafal_de_São_Nicolau.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Cape_Verde/Counties/Tarrafal_de_São_Nicolau.personal|Tarrafal_de_São_Nicolau.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Cape_Verde/Counties/Tarrafal_de_São_Nicolau.secret|Tarrafal_de_São_Nicolau.secret]] 
+- [[../../../../../../_Standards/geo/Continent/Africa/Cape_Verde/Counties/Tarrafal_de_São_Nicolau|Tarrafal_de_São_Nicolau]] 
+- [[../../../../../../_public/geo/Continent/Africa/Cape_Verde/Counties/Tarrafal_de_São_Nicolau.public|Tarrafal_de_São_Nicolau.public]] 
+- [[../../../../../../_internal/geo/Continent/Africa/Cape_Verde/Counties/Tarrafal_de_São_Nicolau.internal|Tarrafal_de_São_Nicolau.internal]] 
+- [[../../../../../../_protect/geo/Continent/Africa/Cape_Verde/Counties/Tarrafal_de_São_Nicolau.protect|Tarrafal_de_São_Nicolau.protect]] 
+- [[../../../../../../_private/geo/Continent/Africa/Cape_Verde/Counties/Tarrafal_de_São_Nicolau.private|Tarrafal_de_São_Nicolau.private]] 
+- [[../../../../../../_personal/geo/Continent/Africa/Cape_Verde/Counties/Tarrafal_de_São_Nicolau.personal|Tarrafal_de_São_Nicolau.personal]] 
+- [[../../../../../../_secret/geo/Continent/Africa/Cape_Verde/Counties/Tarrafal_de_São_Nicolau.secret|Tarrafal_de_São_Nicolau.secret]] 
 

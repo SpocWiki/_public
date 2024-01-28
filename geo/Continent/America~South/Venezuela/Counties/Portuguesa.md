@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 9 , -69.4 ] 
 type: geo-Region
 title: Portuguesa
@@ -40,10 +40,11 @@ markerFolder: ./Portuguesa/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/America~South/Venezuela/Counties/Portuguesa.md|Portuguesa]] 
-- [[../../../../_internal/geo/Continent/America~South/Venezuela/Counties/Portuguesa.internal|Portuguesa.internal]] 
-- [[../../../../_protect/geo/Continent/America~South/Venezuela/Counties/Portuguesa.protect|Portuguesa.protect]] 
-- [[../../../../_private/geo/Continent/America~South/Venezuela/Counties/Portuguesa.private|Portuguesa.private]] 
-- [[../../../../_personal/geo/Continent/America~South/Venezuela/Counties/Portuguesa.personal|Portuguesa.personal]] 
-- [[../../../../_secret/geo/Continent/America~South/Venezuela/Counties/Portuguesa.secret|Portuguesa.secret]] 
+- [[../../../../../../_Standards/geo/Continent/America~South/Venezuela/Counties/Portuguesa|Portuguesa]] 
+- [[../../../../../../_public/geo/Continent/America~South/Venezuela/Counties/Portuguesa.public|Portuguesa.public]] 
+- [[../../../../../../_internal/geo/Continent/America~South/Venezuela/Counties/Portuguesa.internal|Portuguesa.internal]] 
+- [[../../../../../../_protect/geo/Continent/America~South/Venezuela/Counties/Portuguesa.protect|Portuguesa.protect]] 
+- [[../../../../../../_private/geo/Continent/America~South/Venezuela/Counties/Portuguesa.private|Portuguesa.private]] 
+- [[../../../../../../_personal/geo/Continent/America~South/Venezuela/Counties/Portuguesa.personal|Portuguesa.personal]] 
+- [[../../../../../../_secret/geo/Continent/America~South/Venezuela/Counties/Portuguesa.secret|Portuguesa.secret]] 
 

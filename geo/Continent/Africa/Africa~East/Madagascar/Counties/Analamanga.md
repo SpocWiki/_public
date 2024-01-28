@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ -18.7 , 47.5 ] 
 type: geo-Region
 title: Analamanga
@@ -40,10 +40,11 @@ markerFolder: ./Analamanga/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Africa/Madagascar/Counties/Analamanga.md|Analamanga]] 
-- [[../../../../_internal/geo/Continent/Africa/Madagascar/Counties/Analamanga.internal|Analamanga.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Madagascar/Counties/Analamanga.protect|Analamanga.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Madagascar/Counties/Analamanga.private|Analamanga.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Madagascar/Counties/Analamanga.personal|Analamanga.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Madagascar/Counties/Analamanga.secret|Analamanga.secret]] 
+- [[../../../../../../_Standards/geo/Continent/Africa/Madagascar/Counties/Analamanga|Analamanga]] 
+- [[../../../../../../_public/geo/Continent/Africa/Madagascar/Counties/Analamanga.public|Analamanga.public]] 
+- [[../../../../../../_internal/geo/Continent/Africa/Madagascar/Counties/Analamanga.internal|Analamanga.internal]] 
+- [[../../../../../../_protect/geo/Continent/Africa/Madagascar/Counties/Analamanga.protect|Analamanga.protect]] 
+- [[../../../../../../_private/geo/Continent/Africa/Madagascar/Counties/Analamanga.private|Analamanga.private]] 
+- [[../../../../../../_personal/geo/Continent/Africa/Madagascar/Counties/Analamanga.personal|Analamanga.personal]] 
+- [[../../../../../../_secret/geo/Continent/Africa/Madagascar/Counties/Analamanga.secret|Analamanga.secret]] 
 

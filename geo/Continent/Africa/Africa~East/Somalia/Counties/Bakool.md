@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 4.2 , 43.8 ] 
 type: geo-Region
 title: Bakool
@@ -40,10 +40,11 @@ markerFolder: ./Bakool/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Africa/Somalia/Counties/Bakool.md|Bakool]] 
-- [[../../../../_internal/geo/Continent/Africa/Somalia/Counties/Bakool.internal|Bakool.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Somalia/Counties/Bakool.protect|Bakool.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Somalia/Counties/Bakool.private|Bakool.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Somalia/Counties/Bakool.personal|Bakool.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Somalia/Counties/Bakool.secret|Bakool.secret]] 
+- [[../../../../../../_Standards/geo/Continent/Africa/Somalia/Counties/Bakool|Bakool]] 
+- [[../../../../../../_public/geo/Continent/Africa/Somalia/Counties/Bakool.public|Bakool.public]] 
+- [[../../../../../../_internal/geo/Continent/Africa/Somalia/Counties/Bakool.internal|Bakool.internal]] 
+- [[../../../../../../_protect/geo/Continent/Africa/Somalia/Counties/Bakool.protect|Bakool.protect]] 
+- [[../../../../../../_private/geo/Continent/Africa/Somalia/Counties/Bakool.private|Bakool.private]] 
+- [[../../../../../../_personal/geo/Continent/Africa/Somalia/Counties/Bakool.personal|Bakool.personal]] 
+- [[../../../../../../_secret/geo/Continent/Africa/Somalia/Counties/Bakool.secret|Bakool.secret]] 
 

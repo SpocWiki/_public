@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 5.7 , 19.1 ] 
 type: geo-Region
 title: Kémo
@@ -40,10 +40,11 @@ markerFolder: ./Kémo/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Africa/Central_African_Rep/Counties/Kémo.md|Kémo]] 
-- [[../../../../_internal/geo/Continent/Africa/Central_African_Rep/Counties/Kémo.internal|Kémo.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Central_African_Rep/Counties/Kémo.protect|Kémo.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Central_African_Rep/Counties/Kémo.private|Kémo.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Central_African_Rep/Counties/Kémo.personal|Kémo.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Central_African_Rep/Counties/Kémo.secret|Kémo.secret]] 
+- [[../../../../../../_Standards/geo/Continent/Africa/Central_African_Rep/Counties/Kémo|Kémo]] 
+- [[../../../../../../_public/geo/Continent/Africa/Central_African_Rep/Counties/Kémo.public|Kémo.public]] 
+- [[../../../../../../_internal/geo/Continent/Africa/Central_African_Rep/Counties/Kémo.internal|Kémo.internal]] 
+- [[../../../../../../_protect/geo/Continent/Africa/Central_African_Rep/Counties/Kémo.protect|Kémo.protect]] 
+- [[../../../../../../_private/geo/Continent/Africa/Central_African_Rep/Counties/Kémo.private|Kémo.private]] 
+- [[../../../../../../_personal/geo/Continent/Africa/Central_African_Rep/Counties/Kémo.personal|Kémo.personal]] 
+- [[../../../../../../_secret/geo/Continent/Africa/Central_African_Rep/Counties/Kémo.secret|Kémo.secret]] 
 

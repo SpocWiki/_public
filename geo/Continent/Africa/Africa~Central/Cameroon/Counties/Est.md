@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 3.9 , 13.8 ] 
 type: geo-Region
 title: Est
@@ -40,10 +40,11 @@ markerFolder: ./Est/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Africa/Cameroon/Counties/Est.md|Est]] 
-- [[../../../../_internal/geo/Continent/Africa/Cameroon/Counties/Est.internal|Est.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Cameroon/Counties/Est.protect|Est.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Cameroon/Counties/Est.private|Est.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Cameroon/Counties/Est.personal|Est.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Cameroon/Counties/Est.secret|Est.secret]] 
+- [[../../../../../../_Standards/geo/Continent/Africa/Cameroon/Counties/Est|Est]] 
+- [[../../../../../../_public/geo/Continent/Africa/Cameroon/Counties/Est.public|Est.public]] 
+- [[../../../../../../_internal/geo/Continent/Africa/Cameroon/Counties/Est.internal|Est.internal]] 
+- [[../../../../../../_protect/geo/Continent/Africa/Cameroon/Counties/Est.protect|Est.protect]] 
+- [[../../../../../../_private/geo/Continent/Africa/Cameroon/Counties/Est.private|Est.private]] 
+- [[../../../../../../_personal/geo/Continent/Africa/Cameroon/Counties/Est.personal|Est.personal]] 
+- [[../../../../../../_secret/geo/Continent/Africa/Cameroon/Counties/Est.secret|Est.secret]] 
 

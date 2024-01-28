@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 24.04 , -76.36 ] 
 type: geo-Region
 title: Black_Point
@@ -40,10 +40,11 @@ markerFolder: ./Black_Point/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/America~Caribbean/Bahamas/Counties/Black_Point.md|Black_Point]] 
-- [[../../../../_internal/geo/Continent/America~Caribbean/Bahamas/Counties/Black_Point.internal|Black_Point.internal]] 
-- [[../../../../_protect/geo/Continent/America~Caribbean/Bahamas/Counties/Black_Point.protect|Black_Point.protect]] 
-- [[../../../../_private/geo/Continent/America~Caribbean/Bahamas/Counties/Black_Point.private|Black_Point.private]] 
-- [[../../../../_personal/geo/Continent/America~Caribbean/Bahamas/Counties/Black_Point.personal|Black_Point.personal]] 
-- [[../../../../_secret/geo/Continent/America~Caribbean/Bahamas/Counties/Black_Point.secret|Black_Point.secret]] 
+- [[../../../../../../_Standards/geo/Continent/America~Caribbean/Bahamas/Counties/Black_Point|Black_Point]] 
+- [[../../../../../../_public/geo/Continent/America~Caribbean/Bahamas/Counties/Black_Point.public|Black_Point.public]] 
+- [[../../../../../../_internal/geo/Continent/America~Caribbean/Bahamas/Counties/Black_Point.internal|Black_Point.internal]] 
+- [[../../../../../../_protect/geo/Continent/America~Caribbean/Bahamas/Counties/Black_Point.protect|Black_Point.protect]] 
+- [[../../../../../../_private/geo/Continent/America~Caribbean/Bahamas/Counties/Black_Point.private|Black_Point.private]] 
+- [[../../../../../../_personal/geo/Continent/America~Caribbean/Bahamas/Counties/Black_Point.personal|Black_Point.personal]] 
+- [[../../../../../../_secret/geo/Continent/America~Caribbean/Bahamas/Counties/Black_Point.secret|Black_Point.secret]] 
 

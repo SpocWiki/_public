@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 13.6 , 39.1 ] 
 type: geo-Region
 title: Tigray
@@ -40,10 +40,11 @@ markerFolder: ./Tigray/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Africa/Ethiopia/Counties/Tigray.md|Tigray]] 
-- [[../../../../_internal/geo/Continent/Africa/Ethiopia/Counties/Tigray.internal|Tigray.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Ethiopia/Counties/Tigray.protect|Tigray.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Ethiopia/Counties/Tigray.private|Tigray.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Ethiopia/Counties/Tigray.personal|Tigray.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Ethiopia/Counties/Tigray.secret|Tigray.secret]] 
+- [[../../../../../../_Standards/geo/Continent/Africa/Ethiopia/Counties/Tigray|Tigray]] 
+- [[../../../../../../_public/geo/Continent/Africa/Ethiopia/Counties/Tigray.public|Tigray.public]] 
+- [[../../../../../../_internal/geo/Continent/Africa/Ethiopia/Counties/Tigray.internal|Tigray.internal]] 
+- [[../../../../../../_protect/geo/Continent/Africa/Ethiopia/Counties/Tigray.protect|Tigray.protect]] 
+- [[../../../../../../_private/geo/Continent/Africa/Ethiopia/Counties/Tigray.private|Tigray.private]] 
+- [[../../../../../../_personal/geo/Continent/Africa/Ethiopia/Counties/Tigray.personal|Tigray.personal]] 
+- [[../../../../../../_secret/geo/Continent/Africa/Ethiopia/Counties/Tigray.secret|Tigray.secret]] 
 

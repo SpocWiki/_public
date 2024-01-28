@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 19 , -71.7 ] 
 type: geo-Region
 title: La_Estrelleta
@@ -40,10 +40,11 @@ markerFolder: ./La_Estrelleta/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/America~Caribbean/Dominican_Rep/Counties/La_Estrelleta.md|La_Estrelleta]] 
-- [[../../../../_internal/geo/Continent/America~Caribbean/Dominican_Rep/Counties/La_Estrelleta.internal|La_Estrelleta.internal]] 
-- [[../../../../_protect/geo/Continent/America~Caribbean/Dominican_Rep/Counties/La_Estrelleta.protect|La_Estrelleta.protect]] 
-- [[../../../../_private/geo/Continent/America~Caribbean/Dominican_Rep/Counties/La_Estrelleta.private|La_Estrelleta.private]] 
-- [[../../../../_personal/geo/Continent/America~Caribbean/Dominican_Rep/Counties/La_Estrelleta.personal|La_Estrelleta.personal]] 
-- [[../../../../_secret/geo/Continent/America~Caribbean/Dominican_Rep/Counties/La_Estrelleta.secret|La_Estrelleta.secret]] 
+- [[../../../../../../_Standards/geo/Continent/America~Caribbean/Dominican_Rep/Counties/La_Estrelleta|La_Estrelleta]] 
+- [[../../../../../../_public/geo/Continent/America~Caribbean/Dominican_Rep/Counties/La_Estrelleta.public|La_Estrelleta.public]] 
+- [[../../../../../../_internal/geo/Continent/America~Caribbean/Dominican_Rep/Counties/La_Estrelleta.internal|La_Estrelleta.internal]] 
+- [[../../../../../../_protect/geo/Continent/America~Caribbean/Dominican_Rep/Counties/La_Estrelleta.protect|La_Estrelleta.protect]] 
+- [[../../../../../../_private/geo/Continent/America~Caribbean/Dominican_Rep/Counties/La_Estrelleta.private|La_Estrelleta.private]] 
+- [[../../../../../../_personal/geo/Continent/America~Caribbean/Dominican_Rep/Counties/La_Estrelleta.personal|La_Estrelleta.personal]] 
+- [[../../../../../../_secret/geo/Continent/America~Caribbean/Dominican_Rep/Counties/La_Estrelleta.secret|La_Estrelleta.secret]] 
 

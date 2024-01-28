@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 33.2 , -0.8 ] 
 type: geo-Region
 title: Naâma
@@ -40,10 +40,11 @@ markerFolder: ./Naâma/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Africa/Algeria/Counties/Naâma.md|Naâma]] 
-- [[../../../../_internal/geo/Continent/Africa/Algeria/Counties/Naâma.internal|Naâma.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Algeria/Counties/Naâma.protect|Naâma.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Algeria/Counties/Naâma.private|Naâma.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Algeria/Counties/Naâma.personal|Naâma.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Algeria/Counties/Naâma.secret|Naâma.secret]] 
+- [[../../../../../../_Standards/geo/Continent/Africa/Algeria/Counties/Naâma|Naâma]] 
+- [[../../../../../../_public/geo/Continent/Africa/Algeria/Counties/Naâma.public|Naâma.public]] 
+- [[../../../../../../_internal/geo/Continent/Africa/Algeria/Counties/Naâma.internal|Naâma.internal]] 
+- [[../../../../../../_protect/geo/Continent/Africa/Algeria/Counties/Naâma.protect|Naâma.protect]] 
+- [[../../../../../../_private/geo/Continent/Africa/Algeria/Counties/Naâma.private|Naâma.private]] 
+- [[../../../../../../_personal/geo/Continent/Africa/Algeria/Counties/Naâma.personal|Naâma.personal]] 
+- [[../../../../../../_secret/geo/Continent/Africa/Algeria/Counties/Naâma.secret|Naâma.secret]] 
 

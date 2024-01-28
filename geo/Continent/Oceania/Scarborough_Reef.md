@@ -40,7 +40,8 @@ markerFolder: ./Scarborough_Reef/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Oceania/Scarborough_Reef.md|Scarborough_Reef]] 
+- [[../../../../_Standards/geo/Continent/Oceania/Scarborough_Reef|Scarborough_Reef]] 
+- [[../../../../_public/geo/Continent/Oceania/Scarborough_Reef.public|Scarborough_Reef.public]] 
 - [[../../../../_internal/geo/Continent/Oceania/Scarborough_Reef.internal|Scarborough_Reef.internal]] 
 - [[../../../../_protect/geo/Continent/Oceania/Scarborough_Reef.protect|Scarborough_Reef.protect]] 
 - [[../../../../_private/geo/Continent/Oceania/Scarborough_Reef.private|Scarborough_Reef.private]] 

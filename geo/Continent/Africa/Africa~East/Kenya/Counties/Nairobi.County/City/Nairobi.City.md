@@ -1,5 +1,5 @@
 ---
-location: [-1.28,36.83]
+location: [-1.28,36.83] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,27 +12,28 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::36.83]
-[geo-lat::-1.28]
-[name::Nairobi.City]
-[State::]
-[Country::[[Kenya]]]
-[StateId::]
-[Population::]
-[Unknown::]
+[geo-lon::36.83] 
+[geo-lat::-1.28] 
+[name::Nairobi.City] 
+State ::  
+Country :: [[Kenya]]  
+[StateId::] 
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Nairobi.City
-coordinates: [[Nairobi.City]]
-markerFile: [[Nairobi.City]]
+coordinates: [[Nairobi.City]] 
+markerFile: [[Nairobi.City]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_public/geo/Continent/Africa/Kenya/City/Nairobi.City.md|Nairobi.City]] 
+- [[../../../../../../_Standards/geo/Continent/Africa/Kenya/City/Nairobi.City|Nairobi.City]] 
+- [[../../../../../../_public/geo/Continent/Africa/Kenya/City/Nairobi.City.public|Nairobi.City.public]] 
 - [[../../../../../../_internal/geo/Continent/Africa/Kenya/City/Nairobi.City.internal|Nairobi.City.internal]] 
 - [[../../../../../../_protect/geo/Continent/Africa/Kenya/City/Nairobi.City.protect|Nairobi.City.protect]] 
 - [[../../../../../../_private/geo/Continent/Africa/Kenya/City/Nairobi.City.private|Nairobi.City.private]] 

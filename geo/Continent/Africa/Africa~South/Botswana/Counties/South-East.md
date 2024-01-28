@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ -25 , 25.7 ] 
 type: geo-Region
 title: South-East
@@ -40,10 +40,11 @@ markerFolder: ./South-East/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Africa/Botswana/Counties/South-East.md|South-East]] 
-- [[../../../../_internal/geo/Continent/Africa/Botswana/Counties/South-East.internal|South-East.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Botswana/Counties/South-East.protect|South-East.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Botswana/Counties/South-East.private|South-East.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Botswana/Counties/South-East.personal|South-East.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Botswana/Counties/South-East.secret|South-East.secret]] 
+- [[../../../../../../_Standards/geo/Continent/Africa/Botswana/Counties/South-East|South-East]] 
+- [[../../../../../../_public/geo/Continent/Africa/Botswana/Counties/South-East.public|South-East.public]] 
+- [[../../../../../../_internal/geo/Continent/Africa/Botswana/Counties/South-East.internal|South-East.internal]] 
+- [[../../../../../../_protect/geo/Continent/Africa/Botswana/Counties/South-East.protect|South-East.protect]] 
+- [[../../../../../../_private/geo/Continent/Africa/Botswana/Counties/South-East.private|South-East.private]] 
+- [[../../../../../../_personal/geo/Continent/Africa/Botswana/Counties/South-East.personal|South-East.personal]] 
+- [[../../../../../../_secret/geo/Continent/Africa/Botswana/Counties/South-East.secret|South-East.secret]] 
 

@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 7.8 , -59.7 ] 
 type: geo-Region
 title: Barima-Waini
@@ -40,10 +40,11 @@ markerFolder: ./Barima-Waini/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/America~South/Guyana/Counties/Barima-Waini.md|Barima-Waini]] 
-- [[../../../../_internal/geo/Continent/America~South/Guyana/Counties/Barima-Waini.internal|Barima-Waini.internal]] 
-- [[../../../../_protect/geo/Continent/America~South/Guyana/Counties/Barima-Waini.protect|Barima-Waini.protect]] 
-- [[../../../../_private/geo/Continent/America~South/Guyana/Counties/Barima-Waini.private|Barima-Waini.private]] 
-- [[../../../../_personal/geo/Continent/America~South/Guyana/Counties/Barima-Waini.personal|Barima-Waini.personal]] 
-- [[../../../../_secret/geo/Continent/America~South/Guyana/Counties/Barima-Waini.secret|Barima-Waini.secret]] 
+- [[../../../../../../_Standards/geo/Continent/America~South/Guyana/Counties/Barima-Waini|Barima-Waini]] 
+- [[../../../../../../_public/geo/Continent/America~South/Guyana/Counties/Barima-Waini.public|Barima-Waini.public]] 
+- [[../../../../../../_internal/geo/Continent/America~South/Guyana/Counties/Barima-Waini.internal|Barima-Waini.internal]] 
+- [[../../../../../../_protect/geo/Continent/America~South/Guyana/Counties/Barima-Waini.protect|Barima-Waini.protect]] 
+- [[../../../../../../_private/geo/Continent/America~South/Guyana/Counties/Barima-Waini.private|Barima-Waini.private]] 
+- [[../../../../../../_personal/geo/Continent/America~South/Guyana/Counties/Barima-Waini.personal|Barima-Waini.personal]] 
+- [[../../../../../../_secret/geo/Continent/America~South/Guyana/Counties/Barima-Waini.secret|Barima-Waini.secret]] 
 

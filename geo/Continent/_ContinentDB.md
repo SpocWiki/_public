@@ -221,7 +221,8 @@ filters:
 ```
 
 ## Confidential Links & Embeds: 
-- [[../../../_public/geo/Continent/_ContinentDB.md|_ContinentDB]] 
+- [[../../../_Standards/geo/Continent/_ContinentDB|_ContinentDB]] 
+- [[../../../_public/geo/Continent/_ContinentDB.public|_ContinentDB.public]] 
 - [[../../../_internal/geo/Continent/_ContinentDB.internal|_ContinentDB.internal]] 
 - [[../../../_protect/geo/Continent/_ContinentDB.protect|_ContinentDB.protect]] 
 - [[../../../_private/geo/Continent/_ContinentDB.private|_ContinentDB.private]] 

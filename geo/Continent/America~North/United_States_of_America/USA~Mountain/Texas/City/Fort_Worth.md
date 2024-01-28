@@ -1,5 +1,5 @@
 ﻿---
-location: [32.75,-97.33]
+location: [32.75,-97.33] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,28 +12,29 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::-97.33]
-[geo-lat::32.75]
-[name::Fort Worth]
-[Country:[[../../../../United_States_of_America]]]]
-[State:[[../../Texas]]]]
-[Population::]
-[Unknown::]
+[geo-lon::-97.33] 
+[geo-lat::32.75] 
+[name::Fort Worth] 
+Country :: [[../../../../United_States_of_America]]  
+State :: [[../../Texas]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Fort Worth
-coordinates: [[Fort_Worth]]
-markerFile: [[Fort_Worth]]
+coordinates: [[Fort_Worth]] 
+markerFile: [[Fort_Worth]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_public/geo/Continent/North-America/United_States_of_America/Texas/City/Fort_Worth.md|Fort_Worth]] 
-- [[../../../../../../../_internal/geo/Continent/North-America/United_States_of_America/Texas/City/Fort_Worth.internal|Fort_Worth.internal]] 
-- [[../../../../../../../_protect/geo/Continent/North-America/United_States_of_America/Texas/City/Fort_Worth.protect|Fort_Worth.protect]] 
-- [[../../../../../../../_private/geo/Continent/North-America/United_States_of_America/Texas/City/Fort_Worth.private|Fort_Worth.private]] 
-- [[../../../../../../../_personal/geo/Continent/North-America/United_States_of_America/Texas/City/Fort_Worth.personal|Fort_Worth.personal]] 
-- [[../../../../../../../_secret/geo/Continent/North-America/United_States_of_America/Texas/City/Fort_Worth.secret|Fort_Worth.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/America~North/United_States_of_America/Texas/City/Fort_Worth|Fort_Worth]] 
+- [[../../../../../../../_public/geo/Continent/America~North/United_States_of_America/Texas/City/Fort_Worth.public|Fort_Worth.public]] 
+- [[../../../../../../../_internal/geo/Continent/America~North/United_States_of_America/Texas/City/Fort_Worth.internal|Fort_Worth.internal]] 
+- [[../../../../../../../_protect/geo/Continent/America~North/United_States_of_America/Texas/City/Fort_Worth.protect|Fort_Worth.protect]] 
+- [[../../../../../../../_private/geo/Continent/America~North/United_States_of_America/Texas/City/Fort_Worth.private|Fort_Worth.private]] 
+- [[../../../../../../../_personal/geo/Continent/America~North/United_States_of_America/Texas/City/Fort_Worth.personal|Fort_Worth.personal]] 
+- [[../../../../../../../_secret/geo/Continent/America~North/United_States_of_America/Texas/City/Fort_Worth.secret|Fort_Worth.secret]] 

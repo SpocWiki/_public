@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 9.206244207806535 , -78.93834387929124 ] 
 type: geo-Region
 title: _Rivers
@@ -40,10 +40,11 @@ markerFolder: ./_Rivers/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/America~Central/Panama/_Rivers.md|_Rivers]] 
-- [[../../../../_internal/geo/Continent/America~Central/Panama/_Rivers.internal|_Rivers.internal]] 
-- [[../../../../_protect/geo/Continent/America~Central/Panama/_Rivers.protect|_Rivers.protect]] 
-- [[../../../../_private/geo/Continent/America~Central/Panama/_Rivers.private|_Rivers.private]] 
-- [[../../../../_personal/geo/Continent/America~Central/Panama/_Rivers.personal|_Rivers.personal]] 
-- [[../../../../_secret/geo/Continent/America~Central/Panama/_Rivers.secret|_Rivers.secret]] 
+- [[../../../../../_Standards/geo/Continent/America~Central/Panama/_Rivers|_Rivers]] 
+- [[../../../../../_public/geo/Continent/America~Central/Panama/_Rivers.public|_Rivers.public]] 
+- [[../../../../../_internal/geo/Continent/America~Central/Panama/_Rivers.internal|_Rivers.internal]] 
+- [[../../../../../_protect/geo/Continent/America~Central/Panama/_Rivers.protect|_Rivers.protect]] 
+- [[../../../../../_private/geo/Continent/America~Central/Panama/_Rivers.private|_Rivers.private]] 
+- [[../../../../../_personal/geo/Continent/America~Central/Panama/_Rivers.personal|_Rivers.personal]] 
+- [[../../../../../_secret/geo/Continent/America~Central/Panama/_Rivers.secret|_Rivers.secret]] 
 

@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 5.5 , -58.2 ] 
 type: geo-Region
 title: Upper_Takutu-Upper_Essequibo
@@ -40,10 +40,11 @@ markerFolder: ./Upper_Takutu-Upper_Essequibo/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/America~South/Guyana/Counties/Upper_Takutu-Upper_Essequibo.md|Upper_Takutu-Upper_Essequibo]] 
-- [[../../../../_internal/geo/Continent/America~South/Guyana/Counties/Upper_Takutu-Upper_Essequibo.internal|Upper_Takutu-Upper_Essequibo.internal]] 
-- [[../../../../_protect/geo/Continent/America~South/Guyana/Counties/Upper_Takutu-Upper_Essequibo.protect|Upper_Takutu-Upper_Essequibo.protect]] 
-- [[../../../../_private/geo/Continent/America~South/Guyana/Counties/Upper_Takutu-Upper_Essequibo.private|Upper_Takutu-Upper_Essequibo.private]] 
-- [[../../../../_personal/geo/Continent/America~South/Guyana/Counties/Upper_Takutu-Upper_Essequibo.personal|Upper_Takutu-Upper_Essequibo.personal]] 
-- [[../../../../_secret/geo/Continent/America~South/Guyana/Counties/Upper_Takutu-Upper_Essequibo.secret|Upper_Takutu-Upper_Essequibo.secret]] 
+- [[../../../../../../_Standards/geo/Continent/America~South/Guyana/Counties/Upper_Takutu-Upper_Essequibo|Upper_Takutu-Upper_Essequibo]] 
+- [[../../../../../../_public/geo/Continent/America~South/Guyana/Counties/Upper_Takutu-Upper_Essequibo.public|Upper_Takutu-Upper_Essequibo.public]] 
+- [[../../../../../../_internal/geo/Continent/America~South/Guyana/Counties/Upper_Takutu-Upper_Essequibo.internal|Upper_Takutu-Upper_Essequibo.internal]] 
+- [[../../../../../../_protect/geo/Continent/America~South/Guyana/Counties/Upper_Takutu-Upper_Essequibo.protect|Upper_Takutu-Upper_Essequibo.protect]] 
+- [[../../../../../../_private/geo/Continent/America~South/Guyana/Counties/Upper_Takutu-Upper_Essequibo.private|Upper_Takutu-Upper_Essequibo.private]] 
+- [[../../../../../../_personal/geo/Continent/America~South/Guyana/Counties/Upper_Takutu-Upper_Essequibo.personal|Upper_Takutu-Upper_Essequibo.personal]] 
+- [[../../../../../../_secret/geo/Continent/America~South/Guyana/Counties/Upper_Takutu-Upper_Essequibo.secret|Upper_Takutu-Upper_Essequibo.secret]] 
 

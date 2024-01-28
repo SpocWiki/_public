@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 19.8 , -73.1 ] 
 type: geo-Region
 title: Nord-Ouest
@@ -40,10 +40,11 @@ markerFolder: ./Nord-Ouest/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/America~Caribbean/Haiti/Counties/Nord-Ouest.md|Nord-Ouest]] 
-- [[../../../../_internal/geo/Continent/America~Caribbean/Haiti/Counties/Nord-Ouest.internal|Nord-Ouest.internal]] 
-- [[../../../../_protect/geo/Continent/America~Caribbean/Haiti/Counties/Nord-Ouest.protect|Nord-Ouest.protect]] 
-- [[../../../../_private/geo/Continent/America~Caribbean/Haiti/Counties/Nord-Ouest.private|Nord-Ouest.private]] 
-- [[../../../../_personal/geo/Continent/America~Caribbean/Haiti/Counties/Nord-Ouest.personal|Nord-Ouest.personal]] 
-- [[../../../../_secret/geo/Continent/America~Caribbean/Haiti/Counties/Nord-Ouest.secret|Nord-Ouest.secret]] 
+- [[../../../../../../_Standards/geo/Continent/America~Caribbean/Haiti/Counties/Nord-Ouest|Nord-Ouest]] 
+- [[../../../../../../_public/geo/Continent/America~Caribbean/Haiti/Counties/Nord-Ouest.public|Nord-Ouest.public]] 
+- [[../../../../../../_internal/geo/Continent/America~Caribbean/Haiti/Counties/Nord-Ouest.internal|Nord-Ouest.internal]] 
+- [[../../../../../../_protect/geo/Continent/America~Caribbean/Haiti/Counties/Nord-Ouest.protect|Nord-Ouest.protect]] 
+- [[../../../../../../_private/geo/Continent/America~Caribbean/Haiti/Counties/Nord-Ouest.private|Nord-Ouest.private]] 
+- [[../../../../../../_personal/geo/Continent/America~Caribbean/Haiti/Counties/Nord-Ouest.personal|Nord-Ouest.personal]] 
+- [[../../../../../../_secret/geo/Continent/America~Caribbean/Haiti/Counties/Nord-Ouest.secret|Nord-Ouest.secret]] 
 

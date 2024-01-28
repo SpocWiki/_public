@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 8.1 , 2.2 ] 
 type: geo-Region
 title: Collines
@@ -40,10 +40,11 @@ markerFolder: ./Collines/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Africa/Benin/Counties/Collines.md|Collines]] 
-- [[../../../../_internal/geo/Continent/Africa/Benin/Counties/Collines.internal|Collines.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Benin/Counties/Collines.protect|Collines.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Benin/Counties/Collines.private|Collines.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Benin/Counties/Collines.personal|Collines.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Benin/Counties/Collines.secret|Collines.secret]] 
+- [[../../../../../../_Standards/geo/Continent/Africa/Benin/Counties/Collines|Collines]] 
+- [[../../../../../../_public/geo/Continent/Africa/Benin/Counties/Collines.public|Collines.public]] 
+- [[../../../../../../_internal/geo/Continent/Africa/Benin/Counties/Collines.internal|Collines.internal]] 
+- [[../../../../../../_protect/geo/Continent/Africa/Benin/Counties/Collines.protect|Collines.protect]] 
+- [[../../../../../../_private/geo/Continent/Africa/Benin/Counties/Collines.private|Collines.private]] 
+- [[../../../../../../_personal/geo/Continent/Africa/Benin/Counties/Collines.personal|Collines.personal]] 
+- [[../../../../../../_secret/geo/Continent/Africa/Benin/Counties/Collines.secret|Collines.secret]] 
 

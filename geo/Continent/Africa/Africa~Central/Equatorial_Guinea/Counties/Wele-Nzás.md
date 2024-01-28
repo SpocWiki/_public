@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 1.5 , 11.1 ] 
 type: geo-Region
 title: Wele-Nzás
@@ -40,10 +40,11 @@ markerFolder: ./Wele-Nzás/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Africa/Equatorial_Guinea/Counties/Wele-Nzás.md|Wele-Nzás]] 
-- [[../../../../_internal/geo/Continent/Africa/Equatorial_Guinea/Counties/Wele-Nzás.internal|Wele-Nzás.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Equatorial_Guinea/Counties/Wele-Nzás.protect|Wele-Nzás.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Equatorial_Guinea/Counties/Wele-Nzás.private|Wele-Nzás.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Equatorial_Guinea/Counties/Wele-Nzás.personal|Wele-Nzás.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Equatorial_Guinea/Counties/Wele-Nzás.secret|Wele-Nzás.secret]] 
+- [[../../../../../../_Standards/geo/Continent/Africa/Equatorial_Guinea/Counties/Wele-Nzás|Wele-Nzás]] 
+- [[../../../../../../_public/geo/Continent/Africa/Equatorial_Guinea/Counties/Wele-Nzás.public|Wele-Nzás.public]] 
+- [[../../../../../../_internal/geo/Continent/Africa/Equatorial_Guinea/Counties/Wele-Nzás.internal|Wele-Nzás.internal]] 
+- [[../../../../../../_protect/geo/Continent/Africa/Equatorial_Guinea/Counties/Wele-Nzás.protect|Wele-Nzás.protect]] 
+- [[../../../../../../_private/geo/Continent/Africa/Equatorial_Guinea/Counties/Wele-Nzás.private|Wele-Nzás.private]] 
+- [[../../../../../../_personal/geo/Continent/Africa/Equatorial_Guinea/Counties/Wele-Nzás.personal|Wele-Nzás.personal]] 
+- [[../../../../../../_secret/geo/Continent/Africa/Equatorial_Guinea/Counties/Wele-Nzás.secret|Wele-Nzás.secret]] 
 

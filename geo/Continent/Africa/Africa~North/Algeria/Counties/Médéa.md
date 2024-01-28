@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 36 , 3 ] 
 type: geo-Region
 title: Médéa
@@ -40,10 +40,11 @@ markerFolder: ./Médéa/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Africa/Algeria/Counties/Médéa.md|Médéa]] 
-- [[../../../../_internal/geo/Continent/Africa/Algeria/Counties/Médéa.internal|Médéa.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Algeria/Counties/Médéa.protect|Médéa.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Algeria/Counties/Médéa.private|Médéa.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Algeria/Counties/Médéa.personal|Médéa.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Algeria/Counties/Médéa.secret|Médéa.secret]] 
+- [[../../../../../../_Standards/geo/Continent/Africa/Algeria/Counties/Médéa|Médéa]] 
+- [[../../../../../../_public/geo/Continent/Africa/Algeria/Counties/Médéa.public|Médéa.public]] 
+- [[../../../../../../_internal/geo/Continent/Africa/Algeria/Counties/Médéa.internal|Médéa.internal]] 
+- [[../../../../../../_protect/geo/Continent/Africa/Algeria/Counties/Médéa.protect|Médéa.protect]] 
+- [[../../../../../../_private/geo/Continent/Africa/Algeria/Counties/Médéa.private|Médéa.private]] 
+- [[../../../../../../_personal/geo/Continent/Africa/Algeria/Counties/Médéa.personal|Médéa.personal]] 
+- [[../../../../../../_secret/geo/Continent/Africa/Algeria/Counties/Médéa.secret|Médéa.secret]] 
 

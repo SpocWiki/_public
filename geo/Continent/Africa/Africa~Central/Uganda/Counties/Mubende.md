@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 0.5 , 31.6 ] 
 type: geo-Region
 title: Mubende
@@ -40,10 +40,11 @@ markerFolder: ./Mubende/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Africa/Uganda/Counties/Mubende.md|Mubende]] 
-- [[../../../../_internal/geo/Continent/Africa/Uganda/Counties/Mubende.internal|Mubende.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Uganda/Counties/Mubende.protect|Mubende.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Uganda/Counties/Mubende.private|Mubende.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Uganda/Counties/Mubende.personal|Mubende.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Uganda/Counties/Mubende.secret|Mubende.secret]] 
+- [[../../../../../../_Standards/geo/Continent/Africa/Uganda/Counties/Mubende|Mubende]] 
+- [[../../../../../../_public/geo/Continent/Africa/Uganda/Counties/Mubende.public|Mubende.public]] 
+- [[../../../../../../_internal/geo/Continent/Africa/Uganda/Counties/Mubende.internal|Mubende.internal]] 
+- [[../../../../../../_protect/geo/Continent/Africa/Uganda/Counties/Mubende.protect|Mubende.protect]] 
+- [[../../../../../../_private/geo/Continent/Africa/Uganda/Counties/Mubende.private|Mubende.private]] 
+- [[../../../../../../_personal/geo/Continent/Africa/Uganda/Counties/Mubende.personal|Mubende.personal]] 
+- [[../../../../../../_secret/geo/Continent/Africa/Uganda/Counties/Mubende.secret|Mubende.secret]] 
 

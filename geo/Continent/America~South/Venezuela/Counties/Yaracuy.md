@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 10.3 , -68.7 ] 
 type: geo-Region
 title: Yaracuy
@@ -40,10 +40,11 @@ markerFolder: ./Yaracuy/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/America~South/Venezuela/Counties/Yaracuy.md|Yaracuy]] 
-- [[../../../../_internal/geo/Continent/America~South/Venezuela/Counties/Yaracuy.internal|Yaracuy.internal]] 
-- [[../../../../_protect/geo/Continent/America~South/Venezuela/Counties/Yaracuy.protect|Yaracuy.protect]] 
-- [[../../../../_private/geo/Continent/America~South/Venezuela/Counties/Yaracuy.private|Yaracuy.private]] 
-- [[../../../../_personal/geo/Continent/America~South/Venezuela/Counties/Yaracuy.personal|Yaracuy.personal]] 
-- [[../../../../_secret/geo/Continent/America~South/Venezuela/Counties/Yaracuy.secret|Yaracuy.secret]] 
+- [[../../../../../../_Standards/geo/Continent/America~South/Venezuela/Counties/Yaracuy|Yaracuy]] 
+- [[../../../../../../_public/geo/Continent/America~South/Venezuela/Counties/Yaracuy.public|Yaracuy.public]] 
+- [[../../../../../../_internal/geo/Continent/America~South/Venezuela/Counties/Yaracuy.internal|Yaracuy.internal]] 
+- [[../../../../../../_protect/geo/Continent/America~South/Venezuela/Counties/Yaracuy.protect|Yaracuy.protect]] 
+- [[../../../../../../_private/geo/Continent/America~South/Venezuela/Counties/Yaracuy.private|Yaracuy.private]] 
+- [[../../../../../../_personal/geo/Continent/America~South/Venezuela/Counties/Yaracuy.personal|Yaracuy.personal]] 
+- [[../../../../../../_secret/geo/Continent/America~South/Venezuela/Counties/Yaracuy.secret|Yaracuy.secret]] 
 

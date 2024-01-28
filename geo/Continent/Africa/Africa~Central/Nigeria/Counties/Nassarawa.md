@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 8.6 , 8.2 ] 
 type: geo-Region
 title: Nassarawa
@@ -40,10 +40,11 @@ markerFolder: ./Nassarawa/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Africa/Nigeria/Counties/Nassarawa.md|Nassarawa]] 
-- [[../../../../_internal/geo/Continent/Africa/Nigeria/Counties/Nassarawa.internal|Nassarawa.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Nigeria/Counties/Nassarawa.protect|Nassarawa.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Nigeria/Counties/Nassarawa.private|Nassarawa.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Nigeria/Counties/Nassarawa.personal|Nassarawa.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Nigeria/Counties/Nassarawa.secret|Nassarawa.secret]] 
+- [[../../../../../../_Standards/geo/Continent/Africa/Nigeria/Counties/Nassarawa|Nassarawa]] 
+- [[../../../../../../_public/geo/Continent/Africa/Nigeria/Counties/Nassarawa.public|Nassarawa.public]] 
+- [[../../../../../../_internal/geo/Continent/Africa/Nigeria/Counties/Nassarawa.internal|Nassarawa.internal]] 
+- [[../../../../../../_protect/geo/Continent/Africa/Nigeria/Counties/Nassarawa.protect|Nassarawa.protect]] 
+- [[../../../../../../_private/geo/Continent/Africa/Nigeria/Counties/Nassarawa.private|Nassarawa.private]] 
+- [[../../../../../../_personal/geo/Continent/Africa/Nigeria/Counties/Nassarawa.personal|Nassarawa.personal]] 
+- [[../../../../../../_secret/geo/Continent/Africa/Nigeria/Counties/Nassarawa.secret|Nassarawa.secret]] 
 

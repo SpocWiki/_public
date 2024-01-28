@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ -31.5 , -55.2 ] 
 type: geo-Region
 title: Rivera
@@ -40,10 +40,11 @@ markerFolder: ./Rivera/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/America~South/Uruguay/Counties/Rivera.md|Rivera]] 
-- [[../../../../_internal/geo/Continent/America~South/Uruguay/Counties/Rivera.internal|Rivera.internal]] 
-- [[../../../../_protect/geo/Continent/America~South/Uruguay/Counties/Rivera.protect|Rivera.protect]] 
-- [[../../../../_private/geo/Continent/America~South/Uruguay/Counties/Rivera.private|Rivera.private]] 
-- [[../../../../_personal/geo/Continent/America~South/Uruguay/Counties/Rivera.personal|Rivera.personal]] 
-- [[../../../../_secret/geo/Continent/America~South/Uruguay/Counties/Rivera.secret|Rivera.secret]] 
+- [[../../../../../../_Standards/geo/Continent/America~South/Uruguay/Counties/Rivera|Rivera]] 
+- [[../../../../../../_public/geo/Continent/America~South/Uruguay/Counties/Rivera.public|Rivera.public]] 
+- [[../../../../../../_internal/geo/Continent/America~South/Uruguay/Counties/Rivera.internal|Rivera.internal]] 
+- [[../../../../../../_protect/geo/Continent/America~South/Uruguay/Counties/Rivera.protect|Rivera.protect]] 
+- [[../../../../../../_private/geo/Continent/America~South/Uruguay/Counties/Rivera.private|Rivera.private]] 
+- [[../../../../../../_personal/geo/Continent/America~South/Uruguay/Counties/Rivera.personal|Rivera.personal]] 
+- [[../../../../../../_secret/geo/Continent/America~South/Uruguay/Counties/Rivera.secret|Rivera.secret]] 
 

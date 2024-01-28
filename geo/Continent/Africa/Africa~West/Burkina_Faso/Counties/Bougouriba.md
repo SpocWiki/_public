@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 10.9 , -3.4 ] 
 type: geo-Region
 title: Bougouriba
@@ -40,10 +40,11 @@ markerFolder: ./Bougouriba/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Africa/Burkina_Faso/Counties/Bougouriba.md|Bougouriba]] 
-- [[../../../../_internal/geo/Continent/Africa/Burkina_Faso/Counties/Bougouriba.internal|Bougouriba.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Burkina_Faso/Counties/Bougouriba.protect|Bougouriba.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Burkina_Faso/Counties/Bougouriba.private|Bougouriba.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Burkina_Faso/Counties/Bougouriba.personal|Bougouriba.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Burkina_Faso/Counties/Bougouriba.secret|Bougouriba.secret]] 
+- [[../../../../../../_Standards/geo/Continent/Africa/Burkina_Faso/Counties/Bougouriba|Bougouriba]] 
+- [[../../../../../../_public/geo/Continent/Africa/Burkina_Faso/Counties/Bougouriba.public|Bougouriba.public]] 
+- [[../../../../../../_internal/geo/Continent/Africa/Burkina_Faso/Counties/Bougouriba.internal|Bougouriba.internal]] 
+- [[../../../../../../_protect/geo/Continent/Africa/Burkina_Faso/Counties/Bougouriba.protect|Bougouriba.protect]] 
+- [[../../../../../../_private/geo/Continent/Africa/Burkina_Faso/Counties/Bougouriba.private|Bougouriba.private]] 
+- [[../../../../../../_personal/geo/Continent/Africa/Burkina_Faso/Counties/Bougouriba.personal|Bougouriba.personal]] 
+- [[../../../../../../_secret/geo/Continent/Africa/Burkina_Faso/Counties/Bougouriba.secret|Bougouriba.secret]] 
 

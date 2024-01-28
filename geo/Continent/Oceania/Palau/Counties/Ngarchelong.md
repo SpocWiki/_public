@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 7.71 , 134.64 ] 
 type: geo-Region
 title: Ngarchelong
@@ -40,10 +40,11 @@ markerFolder: ./Ngarchelong/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Oceania/Palau/Counties/Ngarchelong.md|Ngarchelong]] 
-- [[../../../../_internal/geo/Continent/Oceania/Palau/Counties/Ngarchelong.internal|Ngarchelong.internal]] 
-- [[../../../../_protect/geo/Continent/Oceania/Palau/Counties/Ngarchelong.protect|Ngarchelong.protect]] 
-- [[../../../../_private/geo/Continent/Oceania/Palau/Counties/Ngarchelong.private|Ngarchelong.private]] 
-- [[../../../../_personal/geo/Continent/Oceania/Palau/Counties/Ngarchelong.personal|Ngarchelong.personal]] 
-- [[../../../../_secret/geo/Continent/Oceania/Palau/Counties/Ngarchelong.secret|Ngarchelong.secret]] 
+- [[../../../../../../_Standards/geo/Continent/Oceania/Palau/Counties/Ngarchelong|Ngarchelong]] 
+- [[../../../../../../_public/geo/Continent/Oceania/Palau/Counties/Ngarchelong.public|Ngarchelong.public]] 
+- [[../../../../../../_internal/geo/Continent/Oceania/Palau/Counties/Ngarchelong.internal|Ngarchelong.internal]] 
+- [[../../../../../../_protect/geo/Continent/Oceania/Palau/Counties/Ngarchelong.protect|Ngarchelong.protect]] 
+- [[../../../../../../_private/geo/Continent/Oceania/Palau/Counties/Ngarchelong.private|Ngarchelong.private]] 
+- [[../../../../../../_personal/geo/Continent/Oceania/Palau/Counties/Ngarchelong.personal|Ngarchelong.personal]] 
+- [[../../../../../../_secret/geo/Continent/Oceania/Palau/Counties/Ngarchelong.secret|Ngarchelong.secret]] 
 

@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 8.9 , -61.6 ] 
 type: geo-Region
 title: Delta_Amacuro
@@ -40,10 +40,11 @@ markerFolder: ./Delta_Amacuro/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/America~South/Venezuela/Counties/Delta_Amacuro.md|Delta_Amacuro]] 
-- [[../../../../_internal/geo/Continent/America~South/Venezuela/Counties/Delta_Amacuro.internal|Delta_Amacuro.internal]] 
-- [[../../../../_protect/geo/Continent/America~South/Venezuela/Counties/Delta_Amacuro.protect|Delta_Amacuro.protect]] 
-- [[../../../../_private/geo/Continent/America~South/Venezuela/Counties/Delta_Amacuro.private|Delta_Amacuro.private]] 
-- [[../../../../_personal/geo/Continent/America~South/Venezuela/Counties/Delta_Amacuro.personal|Delta_Amacuro.personal]] 
-- [[../../../../_secret/geo/Continent/America~South/Venezuela/Counties/Delta_Amacuro.secret|Delta_Amacuro.secret]] 
+- [[../../../../../../_Standards/geo/Continent/America~South/Venezuela/Counties/Delta_Amacuro|Delta_Amacuro]] 
+- [[../../../../../../_public/geo/Continent/America~South/Venezuela/Counties/Delta_Amacuro.public|Delta_Amacuro.public]] 
+- [[../../../../../../_internal/geo/Continent/America~South/Venezuela/Counties/Delta_Amacuro.internal|Delta_Amacuro.internal]] 
+- [[../../../../../../_protect/geo/Continent/America~South/Venezuela/Counties/Delta_Amacuro.protect|Delta_Amacuro.protect]] 
+- [[../../../../../../_private/geo/Continent/America~South/Venezuela/Counties/Delta_Amacuro.private|Delta_Amacuro.private]] 
+- [[../../../../../../_personal/geo/Continent/America~South/Venezuela/Counties/Delta_Amacuro.personal|Delta_Amacuro.personal]] 
+- [[../../../../../../_secret/geo/Continent/America~South/Venezuela/Counties/Delta_Amacuro.secret|Delta_Amacuro.secret]] 
 

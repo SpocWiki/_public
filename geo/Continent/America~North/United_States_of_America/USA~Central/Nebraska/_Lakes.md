@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 41.26 , -101.77 ] 
 type: geo-Region
 title: _Lakes
@@ -40,10 +40,11 @@ markerFolder: ./_Lakes/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/America~North/United_States_of_America/USA~Central/Nebraska/_Lakes.md|_Lakes]] 
-- [[../../../../_internal/geo/Continent/America~North/United_States_of_America/USA~Central/Nebraska/_Lakes.internal|_Lakes.internal]] 
-- [[../../../../_protect/geo/Continent/America~North/United_States_of_America/USA~Central/Nebraska/_Lakes.protect|_Lakes.protect]] 
-- [[../../../../_private/geo/Continent/America~North/United_States_of_America/USA~Central/Nebraska/_Lakes.private|_Lakes.private]] 
-- [[../../../../_personal/geo/Continent/America~North/United_States_of_America/USA~Central/Nebraska/_Lakes.personal|_Lakes.personal]] 
-- [[../../../../_secret/geo/Continent/America~North/United_States_of_America/USA~Central/Nebraska/_Lakes.secret|_Lakes.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/America~North/United_States_of_America/USA~Central/Nebraska/_Lakes|_Lakes]] 
+- [[../../../../../../../_public/geo/Continent/America~North/United_States_of_America/USA~Central/Nebraska/_Lakes.public|_Lakes.public]] 
+- [[../../../../../../../_internal/geo/Continent/America~North/United_States_of_America/USA~Central/Nebraska/_Lakes.internal|_Lakes.internal]] 
+- [[../../../../../../../_protect/geo/Continent/America~North/United_States_of_America/USA~Central/Nebraska/_Lakes.protect|_Lakes.protect]] 
+- [[../../../../../../../_private/geo/Continent/America~North/United_States_of_America/USA~Central/Nebraska/_Lakes.private|_Lakes.private]] 
+- [[../../../../../../../_personal/geo/Continent/America~North/United_States_of_America/USA~Central/Nebraska/_Lakes.personal|_Lakes.personal]] 
+- [[../../../../../../../_secret/geo/Continent/America~North/United_States_of_America/USA~Central/Nebraska/_Lakes.secret|_Lakes.secret]] 
 

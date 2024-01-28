@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ -14.2 , 34.3 ] 
 type: geo-Region
 title: Dedza
@@ -40,10 +40,11 @@ markerFolder: ./Dedza/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Africa/Malawi/Counties/Dedza.md|Dedza]] 
-- [[../../../../_internal/geo/Continent/Africa/Malawi/Counties/Dedza.internal|Dedza.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Malawi/Counties/Dedza.protect|Dedza.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Malawi/Counties/Dedza.private|Dedza.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Malawi/Counties/Dedza.personal|Dedza.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Malawi/Counties/Dedza.secret|Dedza.secret]] 
+- [[../../../../../../_Standards/geo/Continent/Africa/Malawi/Counties/Dedza|Dedza]] 
+- [[../../../../../../_public/geo/Continent/Africa/Malawi/Counties/Dedza.public|Dedza.public]] 
+- [[../../../../../../_internal/geo/Continent/Africa/Malawi/Counties/Dedza.internal|Dedza.internal]] 
+- [[../../../../../../_protect/geo/Continent/Africa/Malawi/Counties/Dedza.protect|Dedza.protect]] 
+- [[../../../../../../_private/geo/Continent/Africa/Malawi/Counties/Dedza.private|Dedza.private]] 
+- [[../../../../../../_personal/geo/Continent/Africa/Malawi/Counties/Dedza.personal|Dedza.personal]] 
+- [[../../../../../../_secret/geo/Continent/Africa/Malawi/Counties/Dedza.secret|Dedza.secret]] 
 

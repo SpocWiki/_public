@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 12.3 , -0.8 ] 
 type: geo-Region
 title: Ganzourgou
@@ -40,10 +40,11 @@ markerFolder: ./Ganzourgou/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Africa/Burkina_Faso/Counties/Ganzourgou.md|Ganzourgou]] 
-- [[../../../../_internal/geo/Continent/Africa/Burkina_Faso/Counties/Ganzourgou.internal|Ganzourgou.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Burkina_Faso/Counties/Ganzourgou.protect|Ganzourgou.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Burkina_Faso/Counties/Ganzourgou.private|Ganzourgou.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Burkina_Faso/Counties/Ganzourgou.personal|Ganzourgou.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Burkina_Faso/Counties/Ganzourgou.secret|Ganzourgou.secret]] 
+- [[../../../../../../_Standards/geo/Continent/Africa/Burkina_Faso/Counties/Ganzourgou|Ganzourgou]] 
+- [[../../../../../../_public/geo/Continent/Africa/Burkina_Faso/Counties/Ganzourgou.public|Ganzourgou.public]] 
+- [[../../../../../../_internal/geo/Continent/Africa/Burkina_Faso/Counties/Ganzourgou.internal|Ganzourgou.internal]] 
+- [[../../../../../../_protect/geo/Continent/Africa/Burkina_Faso/Counties/Ganzourgou.protect|Ganzourgou.protect]] 
+- [[../../../../../../_private/geo/Continent/Africa/Burkina_Faso/Counties/Ganzourgou.private|Ganzourgou.private]] 
+- [[../../../../../../_personal/geo/Continent/Africa/Burkina_Faso/Counties/Ganzourgou.personal|Ganzourgou.personal]] 
+- [[../../../../../../_secret/geo/Continent/Africa/Burkina_Faso/Counties/Ganzourgou.secret|Ganzourgou.secret]] 
 

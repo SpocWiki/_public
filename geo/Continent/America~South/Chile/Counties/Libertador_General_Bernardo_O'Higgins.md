@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ -34.5 , -71.1 ] 
 type: geo-Region
 title: Libertador_General_Bernardo_O'Higgins
@@ -40,10 +40,11 @@ markerFolder: ./Libertador_General_Bernardo_O'Higgins/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/America~South/Chile/Counties/Libertador_General_Bernardo_O'Higgins.md|Libertador_General_Bernardo_O'Higgins]] 
-- [[../../../../_internal/geo/Continent/America~South/Chile/Counties/Libertador_General_Bernardo_O'Higgins.internal|Libertador_General_Bernardo_O'Higgins.internal]] 
-- [[../../../../_protect/geo/Continent/America~South/Chile/Counties/Libertador_General_Bernardo_O'Higgins.protect|Libertador_General_Bernardo_O'Higgins.protect]] 
-- [[../../../../_private/geo/Continent/America~South/Chile/Counties/Libertador_General_Bernardo_O'Higgins.private|Libertador_General_Bernardo_O'Higgins.private]] 
-- [[../../../../_personal/geo/Continent/America~South/Chile/Counties/Libertador_General_Bernardo_O'Higgins.personal|Libertador_General_Bernardo_O'Higgins.personal]] 
-- [[../../../../_secret/geo/Continent/America~South/Chile/Counties/Libertador_General_Bernardo_O'Higgins.secret|Libertador_General_Bernardo_O'Higgins.secret]] 
+- [[../../../../../../_Standards/geo/Continent/America~South/Chile/Counties/Libertador_General_Bernardo_O'Higgins|Libertador_General_Bernardo_O'Higgins]] 
+- [[../../../../../../_public/geo/Continent/America~South/Chile/Counties/Libertador_General_Bernardo_O'Higgins.public|Libertador_General_Bernardo_O'Higgins.public]] 
+- [[../../../../../../_internal/geo/Continent/America~South/Chile/Counties/Libertador_General_Bernardo_O'Higgins.internal|Libertador_General_Bernardo_O'Higgins.internal]] 
+- [[../../../../../../_protect/geo/Continent/America~South/Chile/Counties/Libertador_General_Bernardo_O'Higgins.protect|Libertador_General_Bernardo_O'Higgins.protect]] 
+- [[../../../../../../_private/geo/Continent/America~South/Chile/Counties/Libertador_General_Bernardo_O'Higgins.private|Libertador_General_Bernardo_O'Higgins.private]] 
+- [[../../../../../../_personal/geo/Continent/America~South/Chile/Counties/Libertador_General_Bernardo_O'Higgins.personal|Libertador_General_Bernardo_O'Higgins.personal]] 
+- [[../../../../../../_secret/geo/Continent/America~South/Chile/Counties/Libertador_General_Bernardo_O'Higgins.secret|Libertador_General_Bernardo_O'Higgins.secret]] 
 

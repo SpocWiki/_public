@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ -9 , 161 ] 
 type: geo-Region
 title: Malaita
@@ -40,10 +40,11 @@ markerFolder: ./Malaita/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Oceania/Solomon~Islands/Counties/Malaita.md|Malaita]] 
-- [[../../../../_internal/geo/Continent/Oceania/Solomon~Islands/Counties/Malaita.internal|Malaita.internal]] 
-- [[../../../../_protect/geo/Continent/Oceania/Solomon~Islands/Counties/Malaita.protect|Malaita.protect]] 
-- [[../../../../_private/geo/Continent/Oceania/Solomon~Islands/Counties/Malaita.private|Malaita.private]] 
-- [[../../../../_personal/geo/Continent/Oceania/Solomon~Islands/Counties/Malaita.personal|Malaita.personal]] 
-- [[../../../../_secret/geo/Continent/Oceania/Solomon~Islands/Counties/Malaita.secret|Malaita.secret]] 
+- [[../../../../../../_Standards/geo/Continent/Oceania/Solomon~Islands/Counties/Malaita|Malaita]] 
+- [[../../../../../../_public/geo/Continent/Oceania/Solomon~Islands/Counties/Malaita.public|Malaita.public]] 
+- [[../../../../../../_internal/geo/Continent/Oceania/Solomon~Islands/Counties/Malaita.internal|Malaita.internal]] 
+- [[../../../../../../_protect/geo/Continent/Oceania/Solomon~Islands/Counties/Malaita.protect|Malaita.protect]] 
+- [[../../../../../../_private/geo/Continent/Oceania/Solomon~Islands/Counties/Malaita.private|Malaita.private]] 
+- [[../../../../../../_personal/geo/Continent/Oceania/Solomon~Islands/Counties/Malaita.personal|Malaita.personal]] 
+- [[../../../../../../_secret/geo/Continent/Oceania/Solomon~Islands/Counties/Malaita.secret|Malaita.secret]] 
 

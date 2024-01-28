@@ -1,5 +1,5 @@
 ﻿---
-location: [26.65,23.72]
+location: [26.65,23.72] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,27 +12,28 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::23.72]
-[geo-lat::26.65]
-[name::Jelgava]
-[State::]
-[Country::[[Russia]]]
-[StateId::]
-[Population::]
-[Unknown::]
+[geo-lon::23.72] 
+[geo-lat::26.65] 
+[name::Jelgava] 
+State ::  
+Country :: [[Russia]]  
+[StateId::] 
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Jelgava
-coordinates: [[Jelgava]]
-markerFile: [[Jelgava]]
+coordinates: [[Jelgava]] 
+markerFile: [[Jelgava]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_public/geo/Continent/Europe/Russia/City/Jelgava.md|Jelgava]] 
+- [[../../../../../../_Standards/geo/Continent/Europe/Russia/City/Jelgava|Jelgava]] 
+- [[../../../../../../_public/geo/Continent/Europe/Russia/City/Jelgava.public|Jelgava.public]] 
 - [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Jelgava.internal|Jelgava.internal]] 
 - [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Jelgava.protect|Jelgava.protect]] 
 - [[../../../../../../_private/geo/Continent/Europe/Russia/City/Jelgava.private|Jelgava.private]] 

@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 21.8 , -72.3 ] 
 type: geo-Region
 title: Providenciales_and_West_Caicos
@@ -40,10 +40,11 @@ markerFolder: ./Providenciales_and_West_Caicos/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/America~Caribbean/Turks_and_Caicos~Islands/Counties/Providenciales_and_West_Caicos.md|Providenciales_and_West_Caicos]] 
-- [[../../../../_internal/geo/Continent/America~Caribbean/Turks_and_Caicos~Islands/Counties/Providenciales_and_West_Caicos.internal|Providenciales_and_West_Caicos.internal]] 
-- [[../../../../_protect/geo/Continent/America~Caribbean/Turks_and_Caicos~Islands/Counties/Providenciales_and_West_Caicos.protect|Providenciales_and_West_Caicos.protect]] 
-- [[../../../../_private/geo/Continent/America~Caribbean/Turks_and_Caicos~Islands/Counties/Providenciales_and_West_Caicos.private|Providenciales_and_West_Caicos.private]] 
-- [[../../../../_personal/geo/Continent/America~Caribbean/Turks_and_Caicos~Islands/Counties/Providenciales_and_West_Caicos.personal|Providenciales_and_West_Caicos.personal]] 
-- [[../../../../_secret/geo/Continent/America~Caribbean/Turks_and_Caicos~Islands/Counties/Providenciales_and_West_Caicos.secret|Providenciales_and_West_Caicos.secret]] 
+- [[../../../../../../_Standards/geo/Continent/America~Caribbean/Turks_and_Caicos~Islands/Counties/Providenciales_and_West_Caicos|Providenciales_and_West_Caicos]] 
+- [[../../../../../../_public/geo/Continent/America~Caribbean/Turks_and_Caicos~Islands/Counties/Providenciales_and_West_Caicos.public|Providenciales_and_West_Caicos.public]] 
+- [[../../../../../../_internal/geo/Continent/America~Caribbean/Turks_and_Caicos~Islands/Counties/Providenciales_and_West_Caicos.internal|Providenciales_and_West_Caicos.internal]] 
+- [[../../../../../../_protect/geo/Continent/America~Caribbean/Turks_and_Caicos~Islands/Counties/Providenciales_and_West_Caicos.protect|Providenciales_and_West_Caicos.protect]] 
+- [[../../../../../../_private/geo/Continent/America~Caribbean/Turks_and_Caicos~Islands/Counties/Providenciales_and_West_Caicos.private|Providenciales_and_West_Caicos.private]] 
+- [[../../../../../../_personal/geo/Continent/America~Caribbean/Turks_and_Caicos~Islands/Counties/Providenciales_and_West_Caicos.personal|Providenciales_and_West_Caicos.personal]] 
+- [[../../../../../../_secret/geo/Continent/America~Caribbean/Turks_and_Caicos~Islands/Counties/Providenciales_and_West_Caicos.secret|Providenciales_and_West_Caicos.secret]] 
 

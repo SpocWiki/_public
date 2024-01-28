@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 11.9 , 13.5 ] 
 type: geo-Region
 title: Borno
@@ -40,10 +40,11 @@ markerFolder: ./Borno/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Africa/Nigeria/Counties/Borno.md|Borno]] 
-- [[../../../../_internal/geo/Continent/Africa/Nigeria/Counties/Borno.internal|Borno.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Nigeria/Counties/Borno.protect|Borno.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Nigeria/Counties/Borno.private|Borno.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Nigeria/Counties/Borno.personal|Borno.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Nigeria/Counties/Borno.secret|Borno.secret]] 
+- [[../../../../../../_Standards/geo/Continent/Africa/Nigeria/Counties/Borno|Borno]] 
+- [[../../../../../../_public/geo/Continent/Africa/Nigeria/Counties/Borno.public|Borno.public]] 
+- [[../../../../../../_internal/geo/Continent/Africa/Nigeria/Counties/Borno.internal|Borno.internal]] 
+- [[../../../../../../_protect/geo/Continent/Africa/Nigeria/Counties/Borno.protect|Borno.protect]] 
+- [[../../../../../../_private/geo/Continent/Africa/Nigeria/Counties/Borno.private|Borno.private]] 
+- [[../../../../../../_personal/geo/Continent/Africa/Nigeria/Counties/Borno.personal|Borno.personal]] 
+- [[../../../../../../_secret/geo/Continent/Africa/Nigeria/Counties/Borno.secret|Borno.secret]] 
 

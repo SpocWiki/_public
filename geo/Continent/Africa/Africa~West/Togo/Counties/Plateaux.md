@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 7.4 , 1.1 ] 
 type: geo-Region
 title: Plateaux
@@ -40,10 +40,11 @@ markerFolder: ./Plateaux/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Africa/Togo/Counties/Plateaux.md|Plateaux]] 
-- [[../../../../_internal/geo/Continent/Africa/Togo/Counties/Plateaux.internal|Plateaux.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Togo/Counties/Plateaux.protect|Plateaux.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Togo/Counties/Plateaux.private|Plateaux.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Togo/Counties/Plateaux.personal|Plateaux.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Togo/Counties/Plateaux.secret|Plateaux.secret]] 
+- [[../../../../../../_Standards/geo/Continent/Africa/Togo/Counties/Plateaux|Plateaux]] 
+- [[../../../../../../_public/geo/Continent/Africa/Togo/Counties/Plateaux.public|Plateaux.public]] 
+- [[../../../../../../_internal/geo/Continent/Africa/Togo/Counties/Plateaux.internal|Plateaux.internal]] 
+- [[../../../../../../_protect/geo/Continent/Africa/Togo/Counties/Plateaux.protect|Plateaux.protect]] 
+- [[../../../../../../_private/geo/Continent/Africa/Togo/Counties/Plateaux.private|Plateaux.private]] 
+- [[../../../../../../_personal/geo/Continent/Africa/Togo/Counties/Plateaux.personal|Plateaux.personal]] 
+- [[../../../../../../_secret/geo/Continent/Africa/Togo/Counties/Plateaux.secret|Plateaux.secret]] 
 

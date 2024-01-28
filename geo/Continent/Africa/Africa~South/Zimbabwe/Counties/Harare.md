@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ -17.9 , 31.1 ] 
 type: geo-Region
 title: Harare
@@ -40,10 +40,11 @@ markerFolder: ./Harare/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Africa/Zimbabwe/Counties/Harare.md|Harare]] 
-- [[../../../../_internal/geo/Continent/Africa/Zimbabwe/Counties/Harare.internal|Harare.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Zimbabwe/Counties/Harare.protect|Harare.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Zimbabwe/Counties/Harare.private|Harare.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Zimbabwe/Counties/Harare.personal|Harare.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Zimbabwe/Counties/Harare.secret|Harare.secret]] 
+- [[../../../../../../_Standards/geo/Continent/Africa/Zimbabwe/Counties/Harare|Harare]] 
+- [[../../../../../../_public/geo/Continent/Africa/Zimbabwe/Counties/Harare.public|Harare.public]] 
+- [[../../../../../../_internal/geo/Continent/Africa/Zimbabwe/Counties/Harare.internal|Harare.internal]] 
+- [[../../../../../../_protect/geo/Continent/Africa/Zimbabwe/Counties/Harare.protect|Harare.protect]] 
+- [[../../../../../../_private/geo/Continent/Africa/Zimbabwe/Counties/Harare.private|Harare.private]] 
+- [[../../../../../../_personal/geo/Continent/Africa/Zimbabwe/Counties/Harare.personal|Harare.personal]] 
+- [[../../../../../../_secret/geo/Continent/Africa/Zimbabwe/Counties/Harare.secret|Harare.secret]] 
 

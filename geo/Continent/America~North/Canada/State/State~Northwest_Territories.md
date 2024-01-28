@@ -1,5 +1,5 @@
 ---
-location: [62.4422,-114.397]
+location: [62.4422,-114.397] 
 type: State
 tags:
 - geo/State
@@ -10,13 +10,13 @@ isDeleted: false
 confidential: public
 
 ---
-[name::Northwest Territories]
-[name-abbr::NWT]
-[Country::[[../../Canada]]]
-[Capital::[[State~Northwest_Territories/City/Yellowknife]]]
-[geo-lon::-114.397]
-[geo-lat::62.4422]
-[Population::]
+[name::Northwest Territories] 
+[name-abbr::NWT] 
+Country :: [[../../Canada]]  
+Capital :: [[State~Northwest_Territories/City/Yellowknife]]  
+[geo-lon::-114.397] 
+[geo-lat::62.4422] 
+[Population::] 
 
 
 
@@ -31,9 +31,9 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
--[[State~Northwest_Territories|State~Northwest_Territories]]] 
-- [[../../../../../../_internal/geo/Continent/North-America/Canada/State/State~Northwest_Territories.internal|State~Northwest_Territories.internal]] 
-- [[../../../../../../_protect/geo/Continent/North-America/Canada/State/State~Northwest_Territories.protect|State~Northwest_Territories.protect]] 
-- [[../../../../../../_private/geo/Continent/North-America/Canada/State/State~Northwest_Territories.private|State~Northwest_Territories.private]] 
-- [[../../../../../../_personal/geo/Continent/North-America/Canada/State/State~Northwest_Territories.personal|State~Northwest_Territories.personal]] 
-- [[../../../../../../_secret/geo/Continent/North-America/Canada/State/State~Northwest_Territories.secret|State~Northwest_Territories.secret]] 
+- [[State~Northwest_Territories|State~Northwest_Territories]]  
+- [[../../../../../../_internal/geo/Continent/America~North/Canada/State/State~Northwest_Territories.internal|State~Northwest_Territories.internal]] 
+- [[../../../../../../_protect/geo/Continent/America~North/Canada/State/State~Northwest_Territories.protect|State~Northwest_Territories.protect]] 
+- [[../../../../../../_private/geo/Continent/America~North/Canada/State/State~Northwest_Territories.private|State~Northwest_Territories.private]] 
+- [[../../../../../../_personal/geo/Continent/America~North/Canada/State/State~Northwest_Territories.personal|State~Northwest_Territories.personal]] 
+- [[../../../../../../_secret/geo/Continent/America~North/Canada/State/State~Northwest_Territories.secret|State~Northwest_Territories.secret]] 

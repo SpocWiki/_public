@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 13.8 , -86.1 ] 
 type: geo-Region
 title: Nueva_Segovia
@@ -40,10 +40,11 @@ markerFolder: ./Nueva_Segovia/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/America~Central/Nicaragua/Counties/Nueva_Segovia.md|Nueva_Segovia]] 
-- [[../../../../_internal/geo/Continent/America~Central/Nicaragua/Counties/Nueva_Segovia.internal|Nueva_Segovia.internal]] 
-- [[../../../../_protect/geo/Continent/America~Central/Nicaragua/Counties/Nueva_Segovia.protect|Nueva_Segovia.protect]] 
-- [[../../../../_private/geo/Continent/America~Central/Nicaragua/Counties/Nueva_Segovia.private|Nueva_Segovia.private]] 
-- [[../../../../_personal/geo/Continent/America~Central/Nicaragua/Counties/Nueva_Segovia.personal|Nueva_Segovia.personal]] 
-- [[../../../../_secret/geo/Continent/America~Central/Nicaragua/Counties/Nueva_Segovia.secret|Nueva_Segovia.secret]] 
+- [[../../../../../../_Standards/geo/Continent/America~Central/Nicaragua/Counties/Nueva_Segovia|Nueva_Segovia]] 
+- [[../../../../../../_public/geo/Continent/America~Central/Nicaragua/Counties/Nueva_Segovia.public|Nueva_Segovia.public]] 
+- [[../../../../../../_internal/geo/Continent/America~Central/Nicaragua/Counties/Nueva_Segovia.internal|Nueva_Segovia.internal]] 
+- [[../../../../../../_protect/geo/Continent/America~Central/Nicaragua/Counties/Nueva_Segovia.protect|Nueva_Segovia.protect]] 
+- [[../../../../../../_private/geo/Continent/America~Central/Nicaragua/Counties/Nueva_Segovia.private|Nueva_Segovia.private]] 
+- [[../../../../../../_personal/geo/Continent/America~Central/Nicaragua/Counties/Nueva_Segovia.personal|Nueva_Segovia.personal]] 
+- [[../../../../../../_secret/geo/Continent/America~Central/Nicaragua/Counties/Nueva_Segovia.secret|Nueva_Segovia.secret]] 
 

@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 31 , 31.5 ] 
 type: geo-Region
 title: Ad_Daqahliyah
@@ -40,10 +40,11 @@ markerFolder: ./Ad_Daqahliyah/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Africa/Egypt/Counties/Ad_Daqahliyah.md|Ad_Daqahliyah]] 
-- [[../../../../_internal/geo/Continent/Africa/Egypt/Counties/Ad_Daqahliyah.internal|Ad_Daqahliyah.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Egypt/Counties/Ad_Daqahliyah.protect|Ad_Daqahliyah.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Egypt/Counties/Ad_Daqahliyah.private|Ad_Daqahliyah.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Egypt/Counties/Ad_Daqahliyah.personal|Ad_Daqahliyah.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Egypt/Counties/Ad_Daqahliyah.secret|Ad_Daqahliyah.secret]] 
+- [[../../../../../../_Standards/geo/Continent/Africa/Egypt/Counties/Ad_Daqahliyah|Ad_Daqahliyah]] 
+- [[../../../../../../_public/geo/Continent/Africa/Egypt/Counties/Ad_Daqahliyah.public|Ad_Daqahliyah.public]] 
+- [[../../../../../../_internal/geo/Continent/Africa/Egypt/Counties/Ad_Daqahliyah.internal|Ad_Daqahliyah.internal]] 
+- [[../../../../../../_protect/geo/Continent/Africa/Egypt/Counties/Ad_Daqahliyah.protect|Ad_Daqahliyah.protect]] 
+- [[../../../../../../_private/geo/Continent/Africa/Egypt/Counties/Ad_Daqahliyah.private|Ad_Daqahliyah.private]] 
+- [[../../../../../../_personal/geo/Continent/Africa/Egypt/Counties/Ad_Daqahliyah.personal|Ad_Daqahliyah.personal]] 
+- [[../../../../../../_secret/geo/Continent/Africa/Egypt/Counties/Ad_Daqahliyah.secret|Ad_Daqahliyah.secret]] 
 

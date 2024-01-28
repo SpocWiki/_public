@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ -13.4 , 36.3 ] 
 type: geo-Region
 title: Niassa
@@ -40,10 +40,11 @@ markerFolder: ./Niassa/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Africa/Mozambique/Counties/Niassa.md|Niassa]] 
-- [[../../../../_internal/geo/Continent/Africa/Mozambique/Counties/Niassa.internal|Niassa.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Mozambique/Counties/Niassa.protect|Niassa.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Mozambique/Counties/Niassa.private|Niassa.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Mozambique/Counties/Niassa.personal|Niassa.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Mozambique/Counties/Niassa.secret|Niassa.secret]] 
+- [[../../../../../../_Standards/geo/Continent/Africa/Mozambique/Counties/Niassa|Niassa]] 
+- [[../../../../../../_public/geo/Continent/Africa/Mozambique/Counties/Niassa.public|Niassa.public]] 
+- [[../../../../../../_internal/geo/Continent/Africa/Mozambique/Counties/Niassa.internal|Niassa.internal]] 
+- [[../../../../../../_protect/geo/Continent/Africa/Mozambique/Counties/Niassa.protect|Niassa.protect]] 
+- [[../../../../../../_private/geo/Continent/Africa/Mozambique/Counties/Niassa.private|Niassa.private]] 
+- [[../../../../../../_personal/geo/Continent/Africa/Mozambique/Counties/Niassa.personal|Niassa.personal]] 
+- [[../../../../../../_secret/geo/Continent/Africa/Mozambique/Counties/Niassa.secret|Niassa.secret]] 
 

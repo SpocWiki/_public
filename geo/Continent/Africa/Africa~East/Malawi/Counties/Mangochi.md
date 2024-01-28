@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ -14.2 , 35.1 ] 
 type: geo-Region
 title: Mangochi
@@ -40,10 +40,11 @@ markerFolder: ./Mangochi/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Africa/Malawi/Counties/Mangochi.md|Mangochi]] 
-- [[../../../../_internal/geo/Continent/Africa/Malawi/Counties/Mangochi.internal|Mangochi.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Malawi/Counties/Mangochi.protect|Mangochi.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Malawi/Counties/Mangochi.private|Mangochi.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Malawi/Counties/Mangochi.personal|Mangochi.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Malawi/Counties/Mangochi.secret|Mangochi.secret]] 
+- [[../../../../../../_Standards/geo/Continent/Africa/Malawi/Counties/Mangochi|Mangochi]] 
+- [[../../../../../../_public/geo/Continent/Africa/Malawi/Counties/Mangochi.public|Mangochi.public]] 
+- [[../../../../../../_internal/geo/Continent/Africa/Malawi/Counties/Mangochi.internal|Mangochi.internal]] 
+- [[../../../../../../_protect/geo/Continent/Africa/Malawi/Counties/Mangochi.protect|Mangochi.protect]] 
+- [[../../../../../../_private/geo/Continent/Africa/Malawi/Counties/Mangochi.private|Mangochi.private]] 
+- [[../../../../../../_personal/geo/Continent/Africa/Malawi/Counties/Mangochi.personal|Mangochi.personal]] 
+- [[../../../../../../_secret/geo/Continent/Africa/Malawi/Counties/Mangochi.secret|Mangochi.secret]] 
 

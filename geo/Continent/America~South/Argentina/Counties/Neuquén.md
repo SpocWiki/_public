@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ -38.6 , -69.6 ] 
 type: geo-Region
 title: Neuquén
@@ -40,10 +40,11 @@ markerFolder: ./Neuquén/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/America~South/Argentina/Counties/Neuquén.md|Neuquén]] 
-- [[../../../../_internal/geo/Continent/America~South/Argentina/Counties/Neuquén.internal|Neuquén.internal]] 
-- [[../../../../_protect/geo/Continent/America~South/Argentina/Counties/Neuquén.protect|Neuquén.protect]] 
-- [[../../../../_private/geo/Continent/America~South/Argentina/Counties/Neuquén.private|Neuquén.private]] 
-- [[../../../../_personal/geo/Continent/America~South/Argentina/Counties/Neuquén.personal|Neuquén.personal]] 
-- [[../../../../_secret/geo/Continent/America~South/Argentina/Counties/Neuquén.secret|Neuquén.secret]] 
+- [[../../../../../../_Standards/geo/Continent/America~South/Argentina/Counties/Neuquén|Neuquén]] 
+- [[../../../../../../_public/geo/Continent/America~South/Argentina/Counties/Neuquén.public|Neuquén.public]] 
+- [[../../../../../../_internal/geo/Continent/America~South/Argentina/Counties/Neuquén.internal|Neuquén.internal]] 
+- [[../../../../../../_protect/geo/Continent/America~South/Argentina/Counties/Neuquén.protect|Neuquén.protect]] 
+- [[../../../../../../_private/geo/Continent/America~South/Argentina/Counties/Neuquén.private|Neuquén.private]] 
+- [[../../../../../../_personal/geo/Continent/America~South/Argentina/Counties/Neuquén.personal|Neuquén.personal]] 
+- [[../../../../../../_secret/geo/Continent/America~South/Argentina/Counties/Neuquén.secret|Neuquén.secret]] 
 

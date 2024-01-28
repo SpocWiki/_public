@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 18 , -76.4 ] 
 type: geo-Region
 title: Saint_Thomas
@@ -40,10 +40,11 @@ markerFolder: ./Saint_Thomas/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/America~Caribbean/Jamaica/Counties/Saint_Thomas.md|Saint_Thomas]] 
-- [[../../../../_internal/geo/Continent/America~Caribbean/Jamaica/Counties/Saint_Thomas.internal|Saint_Thomas.internal]] 
-- [[../../../../_protect/geo/Continent/America~Caribbean/Jamaica/Counties/Saint_Thomas.protect|Saint_Thomas.protect]] 
-- [[../../../../_private/geo/Continent/America~Caribbean/Jamaica/Counties/Saint_Thomas.private|Saint_Thomas.private]] 
-- [[../../../../_personal/geo/Continent/America~Caribbean/Jamaica/Counties/Saint_Thomas.personal|Saint_Thomas.personal]] 
-- [[../../../../_secret/geo/Continent/America~Caribbean/Jamaica/Counties/Saint_Thomas.secret|Saint_Thomas.secret]] 
+- [[../../../../../../_Standards/geo/Continent/America~Caribbean/Jamaica/Counties/Saint_Thomas|Saint_Thomas]] 
+- [[../../../../../../_public/geo/Continent/America~Caribbean/Jamaica/Counties/Saint_Thomas.public|Saint_Thomas.public]] 
+- [[../../../../../../_internal/geo/Continent/America~Caribbean/Jamaica/Counties/Saint_Thomas.internal|Saint_Thomas.internal]] 
+- [[../../../../../../_protect/geo/Continent/America~Caribbean/Jamaica/Counties/Saint_Thomas.protect|Saint_Thomas.protect]] 
+- [[../../../../../../_private/geo/Continent/America~Caribbean/Jamaica/Counties/Saint_Thomas.private|Saint_Thomas.private]] 
+- [[../../../../../../_personal/geo/Continent/America~Caribbean/Jamaica/Counties/Saint_Thomas.personal|Saint_Thomas.personal]] 
+- [[../../../../../../_secret/geo/Continent/America~Caribbean/Jamaica/Counties/Saint_Thomas.secret|Saint_Thomas.secret]] 
 

@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ -15.7 , 34.9 ] 
 type: geo-Region
 title: Blantyre
@@ -40,10 +40,11 @@ markerFolder: ./Blantyre/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Africa/Malawi/Counties/Blantyre.md|Blantyre]] 
-- [[../../../../_internal/geo/Continent/Africa/Malawi/Counties/Blantyre.internal|Blantyre.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Malawi/Counties/Blantyre.protect|Blantyre.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Malawi/Counties/Blantyre.private|Blantyre.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Malawi/Counties/Blantyre.personal|Blantyre.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Malawi/Counties/Blantyre.secret|Blantyre.secret]] 
+- [[../../../../../../_Standards/geo/Continent/Africa/Malawi/Counties/Blantyre|Blantyre]] 
+- [[../../../../../../_public/geo/Continent/Africa/Malawi/Counties/Blantyre.public|Blantyre.public]] 
+- [[../../../../../../_internal/geo/Continent/Africa/Malawi/Counties/Blantyre.internal|Blantyre.internal]] 
+- [[../../../../../../_protect/geo/Continent/Africa/Malawi/Counties/Blantyre.protect|Blantyre.protect]] 
+- [[../../../../../../_private/geo/Continent/Africa/Malawi/Counties/Blantyre.private|Blantyre.private]] 
+- [[../../../../../../_personal/geo/Continent/Africa/Malawi/Counties/Blantyre.personal|Blantyre.personal]] 
+- [[../../../../../../_secret/geo/Continent/Africa/Malawi/Counties/Blantyre.secret|Blantyre.secret]] 
 

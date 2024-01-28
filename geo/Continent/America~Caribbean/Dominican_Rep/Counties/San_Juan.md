@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 18.9 , -71.3 ] 
 type: geo-Region
 title: San_Juan
@@ -40,10 +40,11 @@ markerFolder: ./San_Juan/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/America~Caribbean/Dominican_Rep/Counties/San_Juan.md|San_Juan]] 
-- [[../../../../_internal/geo/Continent/America~Caribbean/Dominican_Rep/Counties/San_Juan.internal|San_Juan.internal]] 
-- [[../../../../_protect/geo/Continent/America~Caribbean/Dominican_Rep/Counties/San_Juan.protect|San_Juan.protect]] 
-- [[../../../../_private/geo/Continent/America~Caribbean/Dominican_Rep/Counties/San_Juan.private|San_Juan.private]] 
-- [[../../../../_personal/geo/Continent/America~Caribbean/Dominican_Rep/Counties/San_Juan.personal|San_Juan.personal]] 
-- [[../../../../_secret/geo/Continent/America~Caribbean/Dominican_Rep/Counties/San_Juan.secret|San_Juan.secret]] 
+- [[../../../../../../_Standards/geo/Continent/America~Caribbean/Dominican_Rep/Counties/San_Juan|San_Juan]] 
+- [[../../../../../../_public/geo/Continent/America~Caribbean/Dominican_Rep/Counties/San_Juan.public|San_Juan.public]] 
+- [[../../../../../../_internal/geo/Continent/America~Caribbean/Dominican_Rep/Counties/San_Juan.internal|San_Juan.internal]] 
+- [[../../../../../../_protect/geo/Continent/America~Caribbean/Dominican_Rep/Counties/San_Juan.protect|San_Juan.protect]] 
+- [[../../../../../../_private/geo/Continent/America~Caribbean/Dominican_Rep/Counties/San_Juan.private|San_Juan.private]] 
+- [[../../../../../../_personal/geo/Continent/America~Caribbean/Dominican_Rep/Counties/San_Juan.personal|San_Juan.personal]] 
+- [[../../../../../../_secret/geo/Continent/America~Caribbean/Dominican_Rep/Counties/San_Juan.secret|San_Juan.secret]] 
 

@@ -40,10 +40,11 @@ markerFolder: ./Haut-Sassandra/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Africa/Cote_d'Ivoire/Counties/Haut-Sassandra.md|Haut-Sassandra]] 
-- [[../../../../_internal/geo/Continent/Africa/Cote_d'Ivoire/Counties/Haut-Sassandra.internal|Haut-Sassandra.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Cote_d'Ivoire/Counties/Haut-Sassandra.protect|Haut-Sassandra.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Cote_d'Ivoire/Counties/Haut-Sassandra.private|Haut-Sassandra.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Cote_d'Ivoire/Counties/Haut-Sassandra.personal|Haut-Sassandra.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Cote_d'Ivoire/Counties/Haut-Sassandra.secret|Haut-Sassandra.secret]] 
+- [[../../../../../../_Standards/geo/Continent/Africa/Cote_d'Ivoire/Counties/Haut-Sassandra|Haut-Sassandra]] 
+- [[../../../../../../_public/geo/Continent/Africa/Cote_d'Ivoire/Counties/Haut-Sassandra.public|Haut-Sassandra.public]] 
+- [[../../../../../../_internal/geo/Continent/Africa/Cote_d'Ivoire/Counties/Haut-Sassandra.internal|Haut-Sassandra.internal]] 
+- [[../../../../../../_protect/geo/Continent/Africa/Cote_d'Ivoire/Counties/Haut-Sassandra.protect|Haut-Sassandra.protect]] 
+- [[../../../../../../_private/geo/Continent/Africa/Cote_d'Ivoire/Counties/Haut-Sassandra.private|Haut-Sassandra.private]] 
+- [[../../../../../../_personal/geo/Continent/Africa/Cote_d'Ivoire/Counties/Haut-Sassandra.personal|Haut-Sassandra.personal]] 
+- [[../../../../../../_secret/geo/Continent/Africa/Cote_d'Ivoire/Counties/Haut-Sassandra.secret|Haut-Sassandra.secret]] 
 

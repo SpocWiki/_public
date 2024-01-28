@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 16.9 , -25 ] 
 type: geo-Region
 title: São_Vicente
@@ -40,10 +40,11 @@ markerFolder: ./São_Vicente/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Africa/Cape_Verde/Counties/São_Vicente.md|São_Vicente]] 
-- [[../../../../_internal/geo/Continent/Africa/Cape_Verde/Counties/São_Vicente.internal|São_Vicente.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Cape_Verde/Counties/São_Vicente.protect|São_Vicente.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Cape_Verde/Counties/São_Vicente.private|São_Vicente.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Cape_Verde/Counties/São_Vicente.personal|São_Vicente.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Cape_Verde/Counties/São_Vicente.secret|São_Vicente.secret]] 
+- [[../../../../../../_Standards/geo/Continent/Africa/Cape_Verde/Counties/São_Vicente|São_Vicente]] 
+- [[../../../../../../_public/geo/Continent/Africa/Cape_Verde/Counties/São_Vicente.public|São_Vicente.public]] 
+- [[../../../../../../_internal/geo/Continent/Africa/Cape_Verde/Counties/São_Vicente.internal|São_Vicente.internal]] 
+- [[../../../../../../_protect/geo/Continent/Africa/Cape_Verde/Counties/São_Vicente.protect|São_Vicente.protect]] 
+- [[../../../../../../_private/geo/Continent/Africa/Cape_Verde/Counties/São_Vicente.private|São_Vicente.private]] 
+- [[../../../../../../_personal/geo/Continent/Africa/Cape_Verde/Counties/São_Vicente.personal|São_Vicente.personal]] 
+- [[../../../../../../_secret/geo/Continent/Africa/Cape_Verde/Counties/São_Vicente.secret|São_Vicente.secret]] 
 

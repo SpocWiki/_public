@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ -42.1 , 146.7 ] 
 type: geo-Region
 title: Tasmania
@@ -40,10 +40,11 @@ markerFolder: ./Tasmania/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Australia/Australia/Counties/Tasmania.md|Tasmania]] 
-- [[../../../../_internal/geo/Continent/Australia/Australia/Counties/Tasmania.internal|Tasmania.internal]] 
-- [[../../../../_protect/geo/Continent/Australia/Australia/Counties/Tasmania.protect|Tasmania.protect]] 
-- [[../../../../_private/geo/Continent/Australia/Australia/Counties/Tasmania.private|Tasmania.private]] 
-- [[../../../../_personal/geo/Continent/Australia/Australia/Counties/Tasmania.personal|Tasmania.personal]] 
-- [[../../../../_secret/geo/Continent/Australia/Australia/Counties/Tasmania.secret|Tasmania.secret]] 
+- [[../../../../../../_Standards/geo/Continent/Australia/Australia/Counties/Tasmania|Tasmania]] 
+- [[../../../../../../_public/geo/Continent/Australia/Australia/Counties/Tasmania.public|Tasmania.public]] 
+- [[../../../../../../_internal/geo/Continent/Australia/Australia/Counties/Tasmania.internal|Tasmania.internal]] 
+- [[../../../../../../_protect/geo/Continent/Australia/Australia/Counties/Tasmania.protect|Tasmania.protect]] 
+- [[../../../../../../_private/geo/Continent/Australia/Australia/Counties/Tasmania.private|Tasmania.private]] 
+- [[../../../../../../_personal/geo/Continent/Australia/Australia/Counties/Tasmania.personal|Tasmania.personal]] 
+- [[../../../../../../_secret/geo/Continent/Australia/Australia/Counties/Tasmania.secret|Tasmania.secret]] 
 

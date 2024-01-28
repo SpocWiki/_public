@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ -15 , 35.1 ] 
 type: geo-Region
 title: Balaka
@@ -40,10 +40,11 @@ markerFolder: ./Balaka/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Africa/Malawi/Counties/Balaka.md|Balaka]] 
-- [[../../../../_internal/geo/Continent/Africa/Malawi/Counties/Balaka.internal|Balaka.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Malawi/Counties/Balaka.protect|Balaka.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Malawi/Counties/Balaka.private|Balaka.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Malawi/Counties/Balaka.personal|Balaka.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Malawi/Counties/Balaka.secret|Balaka.secret]] 
+- [[../../../../../../_Standards/geo/Continent/Africa/Malawi/Counties/Balaka|Balaka]] 
+- [[../../../../../../_public/geo/Continent/Africa/Malawi/Counties/Balaka.public|Balaka.public]] 
+- [[../../../../../../_internal/geo/Continent/Africa/Malawi/Counties/Balaka.internal|Balaka.internal]] 
+- [[../../../../../../_protect/geo/Continent/Africa/Malawi/Counties/Balaka.protect|Balaka.protect]] 
+- [[../../../../../../_private/geo/Continent/Africa/Malawi/Counties/Balaka.private|Balaka.private]] 
+- [[../../../../../../_personal/geo/Continent/Africa/Malawi/Counties/Balaka.personal|Balaka.personal]] 
+- [[../../../../../../_secret/geo/Continent/Africa/Malawi/Counties/Balaka.secret|Balaka.secret]] 
 

@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 11.6 , -1.9 ] 
 type: geo-Region
 title: Ziro
@@ -40,10 +40,11 @@ markerFolder: ./Ziro/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Africa/Burkina_Faso/Counties/Ziro.md|Ziro]] 
-- [[../../../../_internal/geo/Continent/Africa/Burkina_Faso/Counties/Ziro.internal|Ziro.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Burkina_Faso/Counties/Ziro.protect|Ziro.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Burkina_Faso/Counties/Ziro.private|Ziro.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Burkina_Faso/Counties/Ziro.personal|Ziro.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Burkina_Faso/Counties/Ziro.secret|Ziro.secret]] 
+- [[../../../../../../_Standards/geo/Continent/Africa/Burkina_Faso/Counties/Ziro|Ziro]] 
+- [[../../../../../../_public/geo/Continent/Africa/Burkina_Faso/Counties/Ziro.public|Ziro.public]] 
+- [[../../../../../../_internal/geo/Continent/Africa/Burkina_Faso/Counties/Ziro.internal|Ziro.internal]] 
+- [[../../../../../../_protect/geo/Continent/Africa/Burkina_Faso/Counties/Ziro.protect|Ziro.protect]] 
+- [[../../../../../../_private/geo/Continent/Africa/Burkina_Faso/Counties/Ziro.private|Ziro.private]] 
+- [[../../../../../../_personal/geo/Continent/Africa/Burkina_Faso/Counties/Ziro.personal|Ziro.personal]] 
+- [[../../../../../../_secret/geo/Continent/Africa/Burkina_Faso/Counties/Ziro.secret|Ziro.secret]] 
 

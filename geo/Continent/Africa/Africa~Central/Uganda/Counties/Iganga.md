@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 0.7 , 33.6 ] 
 type: geo-Region
 title: Iganga
@@ -40,10 +40,11 @@ markerFolder: ./Iganga/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Africa/Uganda/Counties/Iganga.md|Iganga]] 
-- [[../../../../_internal/geo/Continent/Africa/Uganda/Counties/Iganga.internal|Iganga.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Uganda/Counties/Iganga.protect|Iganga.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Uganda/Counties/Iganga.private|Iganga.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Uganda/Counties/Iganga.personal|Iganga.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Uganda/Counties/Iganga.secret|Iganga.secret]] 
+- [[../../../../../../_Standards/geo/Continent/Africa/Uganda/Counties/Iganga|Iganga]] 
+- [[../../../../../../_public/geo/Continent/Africa/Uganda/Counties/Iganga.public|Iganga.public]] 
+- [[../../../../../../_internal/geo/Continent/Africa/Uganda/Counties/Iganga.internal|Iganga.internal]] 
+- [[../../../../../../_protect/geo/Continent/Africa/Uganda/Counties/Iganga.protect|Iganga.protect]] 
+- [[../../../../../../_private/geo/Continent/Africa/Uganda/Counties/Iganga.private|Iganga.private]] 
+- [[../../../../../../_personal/geo/Continent/Africa/Uganda/Counties/Iganga.personal|Iganga.personal]] 
+- [[../../../../../../_secret/geo/Continent/Africa/Uganda/Counties/Iganga.secret|Iganga.secret]] 
 

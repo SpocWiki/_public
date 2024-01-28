@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ -41.7 , 173.6 ] 
 type: geo-Region
 title: Marlborough_District
@@ -40,10 +40,11 @@ markerFolder: ./Marlborough_District/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Australia/New_Zealand/Counties/Marlborough_District.md|Marlborough_District]] 
-- [[../../../../_internal/geo/Continent/Australia/New_Zealand/Counties/Marlborough_District.internal|Marlborough_District.internal]] 
-- [[../../../../_protect/geo/Continent/Australia/New_Zealand/Counties/Marlborough_District.protect|Marlborough_District.protect]] 
-- [[../../../../_private/geo/Continent/Australia/New_Zealand/Counties/Marlborough_District.private|Marlborough_District.private]] 
-- [[../../../../_personal/geo/Continent/Australia/New_Zealand/Counties/Marlborough_District.personal|Marlborough_District.personal]] 
-- [[../../../../_secret/geo/Continent/Australia/New_Zealand/Counties/Marlborough_District.secret|Marlborough_District.secret]] 
+- [[../../../../../../_Standards/geo/Continent/Australia/New_Zealand/Counties/Marlborough_District|Marlborough_District]] 
+- [[../../../../../../_public/geo/Continent/Australia/New_Zealand/Counties/Marlborough_District.public|Marlborough_District.public]] 
+- [[../../../../../../_internal/geo/Continent/Australia/New_Zealand/Counties/Marlborough_District.internal|Marlborough_District.internal]] 
+- [[../../../../../../_protect/geo/Continent/Australia/New_Zealand/Counties/Marlborough_District.protect|Marlborough_District.protect]] 
+- [[../../../../../../_private/geo/Continent/Australia/New_Zealand/Counties/Marlborough_District.private|Marlborough_District.private]] 
+- [[../../../../../../_personal/geo/Continent/Australia/New_Zealand/Counties/Marlborough_District.personal|Marlborough_District.personal]] 
+- [[../../../../../../_secret/geo/Continent/Australia/New_Zealand/Counties/Marlborough_District.secret|Marlborough_District.secret]] 
 

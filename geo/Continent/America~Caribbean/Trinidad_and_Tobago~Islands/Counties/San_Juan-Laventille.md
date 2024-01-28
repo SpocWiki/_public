@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 10.67 , -61.46 ] 
 type: geo-Region
 title: San_Juan-Laventille
@@ -40,10 +40,11 @@ markerFolder: ./San_Juan-Laventille/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/America~Caribbean/Trinidad_and_Tobago~Islands/Counties/San_Juan-Laventille.md|San_Juan-Laventille]] 
-- [[../../../../_internal/geo/Continent/America~Caribbean/Trinidad_and_Tobago~Islands/Counties/San_Juan-Laventille.internal|San_Juan-Laventille.internal]] 
-- [[../../../../_protect/geo/Continent/America~Caribbean/Trinidad_and_Tobago~Islands/Counties/San_Juan-Laventille.protect|San_Juan-Laventille.protect]] 
-- [[../../../../_private/geo/Continent/America~Caribbean/Trinidad_and_Tobago~Islands/Counties/San_Juan-Laventille.private|San_Juan-Laventille.private]] 
-- [[../../../../_personal/geo/Continent/America~Caribbean/Trinidad_and_Tobago~Islands/Counties/San_Juan-Laventille.personal|San_Juan-Laventille.personal]] 
-- [[../../../../_secret/geo/Continent/America~Caribbean/Trinidad_and_Tobago~Islands/Counties/San_Juan-Laventille.secret|San_Juan-Laventille.secret]] 
+- [[../../../../../../_Standards/geo/Continent/America~Caribbean/Trinidad_and_Tobago~Islands/Counties/San_Juan-Laventille|San_Juan-Laventille]] 
+- [[../../../../../../_public/geo/Continent/America~Caribbean/Trinidad_and_Tobago~Islands/Counties/San_Juan-Laventille.public|San_Juan-Laventille.public]] 
+- [[../../../../../../_internal/geo/Continent/America~Caribbean/Trinidad_and_Tobago~Islands/Counties/San_Juan-Laventille.internal|San_Juan-Laventille.internal]] 
+- [[../../../../../../_protect/geo/Continent/America~Caribbean/Trinidad_and_Tobago~Islands/Counties/San_Juan-Laventille.protect|San_Juan-Laventille.protect]] 
+- [[../../../../../../_private/geo/Continent/America~Caribbean/Trinidad_and_Tobago~Islands/Counties/San_Juan-Laventille.private|San_Juan-Laventille.private]] 
+- [[../../../../../../_personal/geo/Continent/America~Caribbean/Trinidad_and_Tobago~Islands/Counties/San_Juan-Laventille.personal|San_Juan-Laventille.personal]] 
+- [[../../../../../../_secret/geo/Continent/America~Caribbean/Trinidad_and_Tobago~Islands/Counties/San_Juan-Laventille.secret|San_Juan-Laventille.secret]] 
 

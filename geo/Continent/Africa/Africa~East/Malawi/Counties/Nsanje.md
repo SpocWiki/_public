@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ -16.7 , 35.1 ] 
 type: geo-Region
 title: Nsanje
@@ -40,10 +40,11 @@ markerFolder: ./Nsanje/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Africa/Malawi/Counties/Nsanje.md|Nsanje]] 
-- [[../../../../_internal/geo/Continent/Africa/Malawi/Counties/Nsanje.internal|Nsanje.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Malawi/Counties/Nsanje.protect|Nsanje.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Malawi/Counties/Nsanje.private|Nsanje.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Malawi/Counties/Nsanje.personal|Nsanje.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Malawi/Counties/Nsanje.secret|Nsanje.secret]] 
+- [[../../../../../../_Standards/geo/Continent/Africa/Malawi/Counties/Nsanje|Nsanje]] 
+- [[../../../../../../_public/geo/Continent/Africa/Malawi/Counties/Nsanje.public|Nsanje.public]] 
+- [[../../../../../../_internal/geo/Continent/Africa/Malawi/Counties/Nsanje.internal|Nsanje.internal]] 
+- [[../../../../../../_protect/geo/Continent/Africa/Malawi/Counties/Nsanje.protect|Nsanje.protect]] 
+- [[../../../../../../_private/geo/Continent/Africa/Malawi/Counties/Nsanje.private|Nsanje.private]] 
+- [[../../../../../../_personal/geo/Continent/Africa/Malawi/Counties/Nsanje.personal|Nsanje.personal]] 
+- [[../../../../../../_secret/geo/Continent/Africa/Malawi/Counties/Nsanje.secret|Nsanje.secret]] 
 

@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 3.1 , 32.1 ] 
 type: geo-Region
 title: Amuru
@@ -40,10 +40,11 @@ markerFolder: ./Amuru/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Africa/Uganda/Counties/Amuru.md|Amuru]] 
-- [[../../../../_internal/geo/Continent/Africa/Uganda/Counties/Amuru.internal|Amuru.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Uganda/Counties/Amuru.protect|Amuru.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Uganda/Counties/Amuru.private|Amuru.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Uganda/Counties/Amuru.personal|Amuru.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Uganda/Counties/Amuru.secret|Amuru.secret]] 
+- [[../../../../../../_Standards/geo/Continent/Africa/Uganda/Counties/Amuru|Amuru]] 
+- [[../../../../../../_public/geo/Continent/Africa/Uganda/Counties/Amuru.public|Amuru.public]] 
+- [[../../../../../../_internal/geo/Continent/Africa/Uganda/Counties/Amuru.internal|Amuru.internal]] 
+- [[../../../../../../_protect/geo/Continent/Africa/Uganda/Counties/Amuru.protect|Amuru.protect]] 
+- [[../../../../../../_private/geo/Continent/Africa/Uganda/Counties/Amuru.private|Amuru.private]] 
+- [[../../../../../../_personal/geo/Continent/Africa/Uganda/Counties/Amuru.personal|Amuru.personal]] 
+- [[../../../../../../_secret/geo/Continent/Africa/Uganda/Counties/Amuru.secret|Amuru.secret]] 
 

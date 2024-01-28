@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 35.6 , 10.8 ] 
 type: geo-Region
 title: Monastir
@@ -40,10 +40,11 @@ markerFolder: ./Monastir/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Africa/Tunisia/Counties/Monastir.md|Monastir]] 
-- [[../../../../_internal/geo/Continent/Africa/Tunisia/Counties/Monastir.internal|Monastir.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Tunisia/Counties/Monastir.protect|Monastir.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Tunisia/Counties/Monastir.private|Monastir.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Tunisia/Counties/Monastir.personal|Monastir.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Tunisia/Counties/Monastir.secret|Monastir.secret]] 
+- [[../../../../../../_Standards/geo/Continent/Africa/Tunisia/Counties/Monastir|Monastir]] 
+- [[../../../../../../_public/geo/Continent/Africa/Tunisia/Counties/Monastir.public|Monastir.public]] 
+- [[../../../../../../_internal/geo/Continent/Africa/Tunisia/Counties/Monastir.internal|Monastir.internal]] 
+- [[../../../../../../_protect/geo/Continent/Africa/Tunisia/Counties/Monastir.protect|Monastir.protect]] 
+- [[../../../../../../_private/geo/Continent/Africa/Tunisia/Counties/Monastir.private|Monastir.private]] 
+- [[../../../../../../_personal/geo/Continent/Africa/Tunisia/Counties/Monastir.personal|Monastir.personal]] 
+- [[../../../../../../_secret/geo/Continent/Africa/Tunisia/Counties/Monastir.secret|Monastir.secret]] 
 

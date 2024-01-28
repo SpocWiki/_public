@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 24 , 5 ] 
 type: geo-Region
 title: Tamanghasset
@@ -40,10 +40,11 @@ markerFolder: ./Tamanghasset/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Africa/Algeria/Counties/Tamanghasset.md|Tamanghasset]] 
-- [[../../../../_internal/geo/Continent/Africa/Algeria/Counties/Tamanghasset.internal|Tamanghasset.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Algeria/Counties/Tamanghasset.protect|Tamanghasset.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Algeria/Counties/Tamanghasset.private|Tamanghasset.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Algeria/Counties/Tamanghasset.personal|Tamanghasset.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Algeria/Counties/Tamanghasset.secret|Tamanghasset.secret]] 
+- [[../../../../../../_Standards/geo/Continent/Africa/Algeria/Counties/Tamanghasset|Tamanghasset]] 
+- [[../../../../../../_public/geo/Continent/Africa/Algeria/Counties/Tamanghasset.public|Tamanghasset.public]] 
+- [[../../../../../../_internal/geo/Continent/Africa/Algeria/Counties/Tamanghasset.internal|Tamanghasset.internal]] 
+- [[../../../../../../_protect/geo/Continent/Africa/Algeria/Counties/Tamanghasset.protect|Tamanghasset.protect]] 
+- [[../../../../../../_private/geo/Continent/Africa/Algeria/Counties/Tamanghasset.private|Tamanghasset.private]] 
+- [[../../../../../../_personal/geo/Continent/Africa/Algeria/Counties/Tamanghasset.personal|Tamanghasset.personal]] 
+- [[../../../../../../_secret/geo/Continent/Africa/Algeria/Counties/Tamanghasset.secret|Tamanghasset.secret]] 
 

@@ -1,5 +1,5 @@
 ﻿---
-location: [30.43,-9.6]
+location: [30.43,-9.6] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,27 +12,28 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::-9.6]
-[geo-lat::30.43]
-[name::Agadir]
-[State::]
-[Country::[[Morocco]]]
-[StateId::]
-[Population::]
-[Unknown::]
+[geo-lon::-9.6] 
+[geo-lat::30.43] 
+[name::Agadir] 
+State ::  
+Country :: [[Morocco]]  
+[StateId::] 
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Agadir
-coordinates: [[Agadir]]
-markerFile: [[Agadir]]
+coordinates: [[Agadir]] 
+markerFile: [[Agadir]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_public/geo/Continent/Africa/Morocco/City/Agadir.md|Agadir]] 
+- [[../../../../../../_Standards/geo/Continent/Africa/Morocco/City/Agadir|Agadir]] 
+- [[../../../../../../_public/geo/Continent/Africa/Morocco/City/Agadir.public|Agadir.public]] 
 - [[../../../../../../_internal/geo/Continent/Africa/Morocco/City/Agadir.internal|Agadir.internal]] 
 - [[../../../../../../_protect/geo/Continent/Africa/Morocco/City/Agadir.protect|Agadir.protect]] 
 - [[../../../../../../_private/geo/Continent/Africa/Morocco/City/Agadir.private|Agadir.private]] 

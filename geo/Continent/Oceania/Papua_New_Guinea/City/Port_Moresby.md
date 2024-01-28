@@ -1,5 +1,5 @@
 ﻿---
-location: [-9.5,147.1167]
+location: [-9.5,147.1167] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,27 +12,28 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::147.1167]
-[geo-lat::-9.5]
-[name::Port Moresby]
-[State::]
-[Country::[[Papua_New_Guinea]]]
-[StateId::]
-[Population::]
-[Unknown::32]
+[geo-lon::147.1167] 
+[geo-lat::-9.5] 
+[name::Port Moresby] 
+State ::  
+Country :: [[Papua_New_Guinea]]  
+[StateId::] 
+[Population::] 
+[Unknown::32] 
 
 
 ```leaflet
 id: Port Moresby
-coordinates: [[Port_Moresby]]
-markerFile: [[Port_Moresby]]
+coordinates: [[Port_Moresby]] 
+markerFile: [[Port_Moresby]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_public/geo/Continent/Oceania/Papua_New_Guinea/City/Port_Moresby.md|Port_Moresby]] 
+- [[../../../../../../_Standards/geo/Continent/Oceania/Papua_New_Guinea/City/Port_Moresby|Port_Moresby]] 
+- [[../../../../../../_public/geo/Continent/Oceania/Papua_New_Guinea/City/Port_Moresby.public|Port_Moresby.public]] 
 - [[../../../../../../_internal/geo/Continent/Oceania/Papua_New_Guinea/City/Port_Moresby.internal|Port_Moresby.internal]] 
 - [[../../../../../../_protect/geo/Continent/Oceania/Papua_New_Guinea/City/Port_Moresby.protect|Port_Moresby.protect]] 
 - [[../../../../../../_private/geo/Continent/Oceania/Papua_New_Guinea/City/Port_Moresby.private|Port_Moresby.private]] 

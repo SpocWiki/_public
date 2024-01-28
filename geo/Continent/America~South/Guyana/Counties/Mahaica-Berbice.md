@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 3.9 , -58.1 ] 
 type: geo-Region
 title: Mahaica-Berbice
@@ -40,10 +40,11 @@ markerFolder: ./Mahaica-Berbice/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/America~South/Guyana/Counties/Mahaica-Berbice.md|Mahaica-Berbice]] 
-- [[../../../../_internal/geo/Continent/America~South/Guyana/Counties/Mahaica-Berbice.internal|Mahaica-Berbice.internal]] 
-- [[../../../../_protect/geo/Continent/America~South/Guyana/Counties/Mahaica-Berbice.protect|Mahaica-Berbice.protect]] 
-- [[../../../../_private/geo/Continent/America~South/Guyana/Counties/Mahaica-Berbice.private|Mahaica-Berbice.private]] 
-- [[../../../../_personal/geo/Continent/America~South/Guyana/Counties/Mahaica-Berbice.personal|Mahaica-Berbice.personal]] 
-- [[../../../../_secret/geo/Continent/America~South/Guyana/Counties/Mahaica-Berbice.secret|Mahaica-Berbice.secret]] 
+- [[../../../../../../_Standards/geo/Continent/America~South/Guyana/Counties/Mahaica-Berbice|Mahaica-Berbice]] 
+- [[../../../../../../_public/geo/Continent/America~South/Guyana/Counties/Mahaica-Berbice.public|Mahaica-Berbice.public]] 
+- [[../../../../../../_internal/geo/Continent/America~South/Guyana/Counties/Mahaica-Berbice.internal|Mahaica-Berbice.internal]] 
+- [[../../../../../../_protect/geo/Continent/America~South/Guyana/Counties/Mahaica-Berbice.protect|Mahaica-Berbice.protect]] 
+- [[../../../../../../_private/geo/Continent/America~South/Guyana/Counties/Mahaica-Berbice.private|Mahaica-Berbice.private]] 
+- [[../../../../../../_personal/geo/Continent/America~South/Guyana/Counties/Mahaica-Berbice.personal|Mahaica-Berbice.personal]] 
+- [[../../../../../../_secret/geo/Continent/America~South/Guyana/Counties/Mahaica-Berbice.secret|Mahaica-Berbice.secret]] 
 

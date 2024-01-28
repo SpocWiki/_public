@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ -28.8 , 22 ] 
 type: geo-Region
 title: Northern_Cape
@@ -40,10 +40,11 @@ markerFolder: ./Northern_Cape/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Africa/South_Africa/Counties/Northern_Cape.md|Northern_Cape]] 
-- [[../../../../_internal/geo/Continent/Africa/South_Africa/Counties/Northern_Cape.internal|Northern_Cape.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/South_Africa/Counties/Northern_Cape.protect|Northern_Cape.protect]] 
-- [[../../../../_private/geo/Continent/Africa/South_Africa/Counties/Northern_Cape.private|Northern_Cape.private]] 
-- [[../../../../_personal/geo/Continent/Africa/South_Africa/Counties/Northern_Cape.personal|Northern_Cape.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/South_Africa/Counties/Northern_Cape.secret|Northern_Cape.secret]] 
+- [[../../../../../../_Standards/geo/Continent/Africa/South_Africa/Counties/Northern_Cape|Northern_Cape]] 
+- [[../../../../../../_public/geo/Continent/Africa/South_Africa/Counties/Northern_Cape.public|Northern_Cape.public]] 
+- [[../../../../../../_internal/geo/Continent/Africa/South_Africa/Counties/Northern_Cape.internal|Northern_Cape.internal]] 
+- [[../../../../../../_protect/geo/Continent/Africa/South_Africa/Counties/Northern_Cape.protect|Northern_Cape.protect]] 
+- [[../../../../../../_private/geo/Continent/Africa/South_Africa/Counties/Northern_Cape.private|Northern_Cape.private]] 
+- [[../../../../../../_personal/geo/Continent/Africa/South_Africa/Counties/Northern_Cape.personal|Northern_Cape.personal]] 
+- [[../../../../../../_secret/geo/Continent/Africa/South_Africa/Counties/Northern_Cape.secret|Northern_Cape.secret]] 
 

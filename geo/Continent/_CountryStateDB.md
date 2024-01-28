@@ -372,7 +372,8 @@ filters:
 ```
 
 ## Confidential Links & Embeds: 
-- [[../../../_public/geo/Continent/_CountryStateDB.md|_CountryStateDB]] 
+- [[../../../_Standards/geo/Continent/_CountryStateDB|_CountryStateDB]] 
+- [[../../../_public/geo/Continent/_CountryStateDB.public|_CountryStateDB.public]] 
 - [[../../../_internal/geo/Continent/_CountryStateDB.internal|_CountryStateDB.internal]] 
 - [[../../../_protect/geo/Continent/_CountryStateDB.protect|_CountryStateDB.protect]] 
 - [[../../../_private/geo/Continent/_CountryStateDB.private|_CountryStateDB.private]] 

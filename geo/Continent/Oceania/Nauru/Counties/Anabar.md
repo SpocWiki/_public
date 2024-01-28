@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ -0.494 , 166.943 ] 
 type: geo-Region
 title: Anabar
@@ -40,10 +40,11 @@ markerFolder: ./Anabar/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Oceania/Nauru/Counties/Anabar.md|Anabar]] 
-- [[../../../../_internal/geo/Continent/Oceania/Nauru/Counties/Anabar.internal|Anabar.internal]] 
-- [[../../../../_protect/geo/Continent/Oceania/Nauru/Counties/Anabar.protect|Anabar.protect]] 
-- [[../../../../_private/geo/Continent/Oceania/Nauru/Counties/Anabar.private|Anabar.private]] 
-- [[../../../../_personal/geo/Continent/Oceania/Nauru/Counties/Anabar.personal|Anabar.personal]] 
-- [[../../../../_secret/geo/Continent/Oceania/Nauru/Counties/Anabar.secret|Anabar.secret]] 
+- [[../../../../../../_Standards/geo/Continent/Oceania/Nauru/Counties/Anabar|Anabar]] 
+- [[../../../../../../_public/geo/Continent/Oceania/Nauru/Counties/Anabar.public|Anabar.public]] 
+- [[../../../../../../_internal/geo/Continent/Oceania/Nauru/Counties/Anabar.internal|Anabar.internal]] 
+- [[../../../../../../_protect/geo/Continent/Oceania/Nauru/Counties/Anabar.protect|Anabar.protect]] 
+- [[../../../../../../_private/geo/Continent/Oceania/Nauru/Counties/Anabar.private|Anabar.private]] 
+- [[../../../../../../_personal/geo/Continent/Oceania/Nauru/Counties/Anabar.personal|Anabar.personal]] 
+- [[../../../../../../_secret/geo/Continent/Oceania/Nauru/Counties/Anabar.secret|Anabar.secret]] 
 

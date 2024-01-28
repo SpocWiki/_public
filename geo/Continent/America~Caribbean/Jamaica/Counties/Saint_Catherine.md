@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 18 , -77 ] 
 type: geo-Region
 title: Saint_Catherine
@@ -40,10 +40,11 @@ markerFolder: ./Saint_Catherine/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/America~Caribbean/Jamaica/Counties/Saint_Catherine.md|Saint_Catherine]] 
-- [[../../../../_internal/geo/Continent/America~Caribbean/Jamaica/Counties/Saint_Catherine.internal|Saint_Catherine.internal]] 
-- [[../../../../_protect/geo/Continent/America~Caribbean/Jamaica/Counties/Saint_Catherine.protect|Saint_Catherine.protect]] 
-- [[../../../../_private/geo/Continent/America~Caribbean/Jamaica/Counties/Saint_Catherine.private|Saint_Catherine.private]] 
-- [[../../../../_personal/geo/Continent/America~Caribbean/Jamaica/Counties/Saint_Catherine.personal|Saint_Catherine.personal]] 
-- [[../../../../_secret/geo/Continent/America~Caribbean/Jamaica/Counties/Saint_Catherine.secret|Saint_Catherine.secret]] 
+- [[../../../../../../_Standards/geo/Continent/America~Caribbean/Jamaica/Counties/Saint_Catherine|Saint_Catherine]] 
+- [[../../../../../../_public/geo/Continent/America~Caribbean/Jamaica/Counties/Saint_Catherine.public|Saint_Catherine.public]] 
+- [[../../../../../../_internal/geo/Continent/America~Caribbean/Jamaica/Counties/Saint_Catherine.internal|Saint_Catherine.internal]] 
+- [[../../../../../../_protect/geo/Continent/America~Caribbean/Jamaica/Counties/Saint_Catherine.protect|Saint_Catherine.protect]] 
+- [[../../../../../../_private/geo/Continent/America~Caribbean/Jamaica/Counties/Saint_Catherine.private|Saint_Catherine.private]] 
+- [[../../../../../../_personal/geo/Continent/America~Caribbean/Jamaica/Counties/Saint_Catherine.personal|Saint_Catherine.personal]] 
+- [[../../../../../../_secret/geo/Continent/America~Caribbean/Jamaica/Counties/Saint_Catherine.secret|Saint_Catherine.secret]] 
 

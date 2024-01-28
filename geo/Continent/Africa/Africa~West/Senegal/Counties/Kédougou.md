@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 12.9 , -12.4 ] 
 type: geo-Region
 title: Kédougou
@@ -40,10 +40,11 @@ markerFolder: ./Kédougou/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Africa/Senegal/Counties/Kédougou.md|Kédougou]] 
-- [[../../../../_internal/geo/Continent/Africa/Senegal/Counties/Kédougou.internal|Kédougou.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Senegal/Counties/Kédougou.protect|Kédougou.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Senegal/Counties/Kédougou.private|Kédougou.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Senegal/Counties/Kédougou.personal|Kédougou.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Senegal/Counties/Kédougou.secret|Kédougou.secret]] 
+- [[../../../../../../_Standards/geo/Continent/Africa/Senegal/Counties/Kédougou|Kédougou]] 
+- [[../../../../../../_public/geo/Continent/Africa/Senegal/Counties/Kédougou.public|Kédougou.public]] 
+- [[../../../../../../_internal/geo/Continent/Africa/Senegal/Counties/Kédougou.internal|Kédougou.internal]] 
+- [[../../../../../../_protect/geo/Continent/Africa/Senegal/Counties/Kédougou.protect|Kédougou.protect]] 
+- [[../../../../../../_private/geo/Continent/Africa/Senegal/Counties/Kédougou.private|Kédougou.private]] 
+- [[../../../../../../_personal/geo/Continent/Africa/Senegal/Counties/Kédougou.personal|Kédougou.personal]] 
+- [[../../../../../../_secret/geo/Continent/Africa/Senegal/Counties/Kédougou.secret|Kédougou.secret]] 
 

@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 10.2 , -61.4 ] 
 type: geo-Region
 title: Penal-Debe
@@ -40,10 +40,11 @@ markerFolder: ./Penal-Debe/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/America~Caribbean/Trinidad_and_Tobago~Islands/Counties/Penal-Debe.md|Penal-Debe]] 
-- [[../../../../_internal/geo/Continent/America~Caribbean/Trinidad_and_Tobago~Islands/Counties/Penal-Debe.internal|Penal-Debe.internal]] 
-- [[../../../../_protect/geo/Continent/America~Caribbean/Trinidad_and_Tobago~Islands/Counties/Penal-Debe.protect|Penal-Debe.protect]] 
-- [[../../../../_private/geo/Continent/America~Caribbean/Trinidad_and_Tobago~Islands/Counties/Penal-Debe.private|Penal-Debe.private]] 
-- [[../../../../_personal/geo/Continent/America~Caribbean/Trinidad_and_Tobago~Islands/Counties/Penal-Debe.personal|Penal-Debe.personal]] 
-- [[../../../../_secret/geo/Continent/America~Caribbean/Trinidad_and_Tobago~Islands/Counties/Penal-Debe.secret|Penal-Debe.secret]] 
+- [[../../../../../../_Standards/geo/Continent/America~Caribbean/Trinidad_and_Tobago~Islands/Counties/Penal-Debe|Penal-Debe]] 
+- [[../../../../../../_public/geo/Continent/America~Caribbean/Trinidad_and_Tobago~Islands/Counties/Penal-Debe.public|Penal-Debe.public]] 
+- [[../../../../../../_internal/geo/Continent/America~Caribbean/Trinidad_and_Tobago~Islands/Counties/Penal-Debe.internal|Penal-Debe.internal]] 
+- [[../../../../../../_protect/geo/Continent/America~Caribbean/Trinidad_and_Tobago~Islands/Counties/Penal-Debe.protect|Penal-Debe.protect]] 
+- [[../../../../../../_private/geo/Continent/America~Caribbean/Trinidad_and_Tobago~Islands/Counties/Penal-Debe.private|Penal-Debe.private]] 
+- [[../../../../../../_personal/geo/Continent/America~Caribbean/Trinidad_and_Tobago~Islands/Counties/Penal-Debe.personal|Penal-Debe.personal]] 
+- [[../../../../../../_secret/geo/Continent/America~Caribbean/Trinidad_and_Tobago~Islands/Counties/Penal-Debe.secret|Penal-Debe.secret]] 
 

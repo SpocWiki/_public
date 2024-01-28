@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 9.8 , -13.4 ] 
 type: geo-Region
 title: Coyah
@@ -40,10 +40,11 @@ markerFolder: ./Coyah/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Africa/Guinea/Counties/Coyah.md|Coyah]] 
-- [[../../../../_internal/geo/Continent/Africa/Guinea/Counties/Coyah.internal|Coyah.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Guinea/Counties/Coyah.protect|Coyah.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Guinea/Counties/Coyah.private|Coyah.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Guinea/Counties/Coyah.personal|Coyah.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Guinea/Counties/Coyah.secret|Coyah.secret]] 
+- [[../../../../../../_Standards/geo/Continent/Africa/Guinea/Counties/Coyah|Coyah]] 
+- [[../../../../../../_public/geo/Continent/Africa/Guinea/Counties/Coyah.public|Coyah.public]] 
+- [[../../../../../../_internal/geo/Continent/Africa/Guinea/Counties/Coyah.internal|Coyah.internal]] 
+- [[../../../../../../_protect/geo/Continent/Africa/Guinea/Counties/Coyah.protect|Coyah.protect]] 
+- [[../../../../../../_private/geo/Continent/Africa/Guinea/Counties/Coyah.private|Coyah.private]] 
+- [[../../../../../../_personal/geo/Continent/Africa/Guinea/Counties/Coyah.personal|Coyah.personal]] 
+- [[../../../../../../_secret/geo/Continent/Africa/Guinea/Counties/Coyah.secret|Coyah.secret]] 
 

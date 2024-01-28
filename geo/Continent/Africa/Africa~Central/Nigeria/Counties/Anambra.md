@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 6.2 , 6.9 ] 
 type: geo-Region
 title: Anambra
@@ -40,10 +40,11 @@ markerFolder: ./Anambra/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Africa/Nigeria/Counties/Anambra.md|Anambra]] 
-- [[../../../../_internal/geo/Continent/Africa/Nigeria/Counties/Anambra.internal|Anambra.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Nigeria/Counties/Anambra.protect|Anambra.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Nigeria/Counties/Anambra.private|Anambra.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Nigeria/Counties/Anambra.personal|Anambra.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Nigeria/Counties/Anambra.secret|Anambra.secret]] 
+- [[../../../../../../_Standards/geo/Continent/Africa/Nigeria/Counties/Anambra|Anambra]] 
+- [[../../../../../../_public/geo/Continent/Africa/Nigeria/Counties/Anambra.public|Anambra.public]] 
+- [[../../../../../../_internal/geo/Continent/Africa/Nigeria/Counties/Anambra.internal|Anambra.internal]] 
+- [[../../../../../../_protect/geo/Continent/Africa/Nigeria/Counties/Anambra.protect|Anambra.protect]] 
+- [[../../../../../../_private/geo/Continent/Africa/Nigeria/Counties/Anambra.private|Anambra.private]] 
+- [[../../../../../../_personal/geo/Continent/Africa/Nigeria/Counties/Anambra.personal|Anambra.personal]] 
+- [[../../../../../../_secret/geo/Continent/Africa/Nigeria/Counties/Anambra.secret|Anambra.secret]] 
 

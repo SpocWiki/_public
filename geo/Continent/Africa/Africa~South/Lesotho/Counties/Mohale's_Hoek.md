@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ -30.1 , 27.6 ] 
 type: geo-Region
 title: Mohale's_Hoek
@@ -40,10 +40,11 @@ markerFolder: ./Mohale's_Hoek/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Africa/Lesotho/Counties/Mohale's_Hoek.md|Mohale's_Hoek]] 
-- [[../../../../_internal/geo/Continent/Africa/Lesotho/Counties/Mohale's_Hoek.internal|Mohale's_Hoek.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Lesotho/Counties/Mohale's_Hoek.protect|Mohale's_Hoek.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Lesotho/Counties/Mohale's_Hoek.private|Mohale's_Hoek.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Lesotho/Counties/Mohale's_Hoek.personal|Mohale's_Hoek.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Lesotho/Counties/Mohale's_Hoek.secret|Mohale's_Hoek.secret]] 
+- [[../../../../../../_Standards/geo/Continent/Africa/Lesotho/Counties/Mohale's_Hoek|Mohale's_Hoek]] 
+- [[../../../../../../_public/geo/Continent/Africa/Lesotho/Counties/Mohale's_Hoek.public|Mohale's_Hoek.public]] 
+- [[../../../../../../_internal/geo/Continent/Africa/Lesotho/Counties/Mohale's_Hoek.internal|Mohale's_Hoek.internal]] 
+- [[../../../../../../_protect/geo/Continent/Africa/Lesotho/Counties/Mohale's_Hoek.protect|Mohale's_Hoek.protect]] 
+- [[../../../../../../_private/geo/Continent/Africa/Lesotho/Counties/Mohale's_Hoek.private|Mohale's_Hoek.private]] 
+- [[../../../../../../_personal/geo/Continent/Africa/Lesotho/Counties/Mohale's_Hoek.personal|Mohale's_Hoek.personal]] 
+- [[../../../../../../_secret/geo/Continent/Africa/Lesotho/Counties/Mohale's_Hoek.secret|Mohale's_Hoek.secret]] 
 

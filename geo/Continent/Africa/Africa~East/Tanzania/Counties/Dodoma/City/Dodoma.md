@@ -1,5 +1,5 @@
 ﻿---
-location: [-6.173056,35.74194]
+location: [-6.173056,35.74194] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,27 +12,28 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::35.74194]
-[geo-lat::-6.173056]
-[name::Dodoma]
-[State::]
-[Country::[[Tanzania]]]
-[StateId::]
-[Population::]
-[Unknown::32]
+[geo-lon::35.74194] 
+[geo-lat::-6.173056] 
+[name::Dodoma] 
+State ::  
+Country :: [[Tanzania]]  
+[StateId::] 
+[Population::] 
+[Unknown::32] 
 
 
 ```leaflet
 id: Dodoma
-coordinates: [[Dodoma]]
-markerFile: [[Dodoma]]
+coordinates: [[Dodoma]] 
+markerFile: [[Dodoma]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_public/geo/Continent/Africa/Tanzania/City/Dodoma.md|Dodoma]] 
+- [[../../../../../../_Standards/geo/Continent/Africa/Tanzania/City/Dodoma|Dodoma]] 
+- [[../../../../../../_public/geo/Continent/Africa/Tanzania/City/Dodoma.public|Dodoma.public]] 
 - [[../../../../../../_internal/geo/Continent/Africa/Tanzania/City/Dodoma.internal|Dodoma.internal]] 
 - [[../../../../../../_protect/geo/Continent/Africa/Tanzania/City/Dodoma.protect|Dodoma.protect]] 
 - [[../../../../../../_private/geo/Continent/Africa/Tanzania/City/Dodoma.private|Dodoma.private]] 

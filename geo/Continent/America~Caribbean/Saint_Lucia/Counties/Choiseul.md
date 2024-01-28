@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 13.8 , -61.03 ] 
 type: geo-Region
 title: Choiseul
@@ -40,10 +40,11 @@ markerFolder: ./Choiseul/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/America~Caribbean/Saint_Lucia/Counties/Choiseul.md|Choiseul]] 
-- [[../../../../_internal/geo/Continent/America~Caribbean/Saint_Lucia/Counties/Choiseul.internal|Choiseul.internal]] 
-- [[../../../../_protect/geo/Continent/America~Caribbean/Saint_Lucia/Counties/Choiseul.protect|Choiseul.protect]] 
-- [[../../../../_private/geo/Continent/America~Caribbean/Saint_Lucia/Counties/Choiseul.private|Choiseul.private]] 
-- [[../../../../_personal/geo/Continent/America~Caribbean/Saint_Lucia/Counties/Choiseul.personal|Choiseul.personal]] 
-- [[../../../../_secret/geo/Continent/America~Caribbean/Saint_Lucia/Counties/Choiseul.secret|Choiseul.secret]] 
+- [[../../../../../../_Standards/geo/Continent/America~Caribbean/Saint_Lucia/Counties/Choiseul|Choiseul]] 
+- [[../../../../../../_public/geo/Continent/America~Caribbean/Saint_Lucia/Counties/Choiseul.public|Choiseul.public]] 
+- [[../../../../../../_internal/geo/Continent/America~Caribbean/Saint_Lucia/Counties/Choiseul.internal|Choiseul.internal]] 
+- [[../../../../../../_protect/geo/Continent/America~Caribbean/Saint_Lucia/Counties/Choiseul.protect|Choiseul.protect]] 
+- [[../../../../../../_private/geo/Continent/America~Caribbean/Saint_Lucia/Counties/Choiseul.private|Choiseul.private]] 
+- [[../../../../../../_personal/geo/Continent/America~Caribbean/Saint_Lucia/Counties/Choiseul.personal|Choiseul.personal]] 
+- [[../../../../../../_secret/geo/Continent/America~Caribbean/Saint_Lucia/Counties/Choiseul.secret|Choiseul.secret]] 
 

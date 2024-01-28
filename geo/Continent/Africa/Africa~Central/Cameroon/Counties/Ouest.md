@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 5.6 , 10.6 ] 
 type: geo-Region
 title: Ouest
@@ -40,10 +40,11 @@ markerFolder: ./Ouest/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Africa/Cameroon/Counties/Ouest.md|Ouest]] 
-- [[../../../../_internal/geo/Continent/Africa/Cameroon/Counties/Ouest.internal|Ouest.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Cameroon/Counties/Ouest.protect|Ouest.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Cameroon/Counties/Ouest.private|Ouest.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Cameroon/Counties/Ouest.personal|Ouest.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Cameroon/Counties/Ouest.secret|Ouest.secret]] 
+- [[../../../../../../_Standards/geo/Continent/Africa/Cameroon/Counties/Ouest|Ouest]] 
+- [[../../../../../../_public/geo/Continent/Africa/Cameroon/Counties/Ouest.public|Ouest.public]] 
+- [[../../../../../../_internal/geo/Continent/Africa/Cameroon/Counties/Ouest.internal|Ouest.internal]] 
+- [[../../../../../../_protect/geo/Continent/Africa/Cameroon/Counties/Ouest.protect|Ouest.protect]] 
+- [[../../../../../../_private/geo/Continent/Africa/Cameroon/Counties/Ouest.private|Ouest.private]] 
+- [[../../../../../../_personal/geo/Continent/Africa/Cameroon/Counties/Ouest.personal|Ouest.personal]] 
+- [[../../../../../../_secret/geo/Continent/Africa/Cameroon/Counties/Ouest.secret|Ouest.secret]] 
 

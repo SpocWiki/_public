@@ -1,5 +1,5 @@
-﻿---
-location: [-6.13333,39.3167]
+---
+location: [-6.13333,39.3167] 
 type: Country
 tags:
 - geo/Country
@@ -9,8 +9,8 @@ isDeleted: false
 confidential: public
 
 ---
-[ISO2::]
-[ISO3::]
+[ISO2::] 
+[ISO3::] 
 ```leaflet
 id: Zanzibar
 zoomFeatures: true 
@@ -20,24 +20,24 @@ geojsonFolder: ./Zanzibar/
 markerFolder: ./Zanzibar/
 ```
 
-[name-en::Zanzibar]
-[name-de::Sansibar]
-[Area-Total::]
-[Area-Land::]
-[Continent::[[Africa]]]
-[VehicleCode::]
-[Capital-Id::]
-[Alcohol-l::]
-[Language-Id::]
-[geo-lon::39.3167]
-[geo-lat::-6.13333]
+[name-en::Zanzibar] 
+[name-de::Sansibar] 
+[Area-Total::] 
+[Area-Land::] 
+Continent :: [[Africa]]  
+[VehicleCode::] 
+[Capital-Id::] 
+[Alcohol-l::] 
+[Language-Id::] 
+[geo-lon::39.3167] 
+[geo-lat::-6.13333] 
 
 
 
 ## Confidential Links & Embeds: 
--[[Zanzibar|Zanzibar]]] 
--[[../../../../../_internal/geo/Continent/Africa/Zanzibar.internal|Zanzibar.internal]]] 
-- [[../../../../_protect/geo/Continent/Africa/Zanzibar.protect|Zanzibar.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Zanzibar.private|Zanzibar.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Zanzibar.personal|Zanzibar.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Zanzibar.secret|Zanzibar.secret]] 
+- [[Zanzibar|Zanzibar]]  
+- [[../../../../../_internal/geo/Continent/Africa/Africa~East/Zanzibar.internal|Zanzibar.internal]]  
+- [[../../../../../_protect/geo/Continent/Africa/Africa~East/Zanzibar.protect|Zanzibar.protect]] 
+- [[../../../../../_private/geo/Continent/Africa/Africa~East/Zanzibar.private|Zanzibar.private]] 
+- [[../../../../../_personal/geo/Continent/Africa/Africa~East/Zanzibar.personal|Zanzibar.personal]] 
+- [[../../../../../_secret/geo/Continent/Africa/Africa~East/Zanzibar.secret|Zanzibar.secret]] 

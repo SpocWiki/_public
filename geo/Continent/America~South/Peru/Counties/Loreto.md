@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ -4.3 , -74.2 ] 
 type: geo-Region
 title: Loreto
@@ -40,10 +40,11 @@ markerFolder: ./Loreto/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/America~South/Peru/Counties/Loreto.md|Loreto]] 
-- [[../../../../_internal/geo/Continent/America~South/Peru/Counties/Loreto.internal|Loreto.internal]] 
-- [[../../../../_protect/geo/Continent/America~South/Peru/Counties/Loreto.protect|Loreto.protect]] 
-- [[../../../../_private/geo/Continent/America~South/Peru/Counties/Loreto.private|Loreto.private]] 
-- [[../../../../_personal/geo/Continent/America~South/Peru/Counties/Loreto.personal|Loreto.personal]] 
-- [[../../../../_secret/geo/Continent/America~South/Peru/Counties/Loreto.secret|Loreto.secret]] 
+- [[../../../../../../_Standards/geo/Continent/America~South/Peru/Counties/Loreto|Loreto]] 
+- [[../../../../../../_public/geo/Continent/America~South/Peru/Counties/Loreto.public|Loreto.public]] 
+- [[../../../../../../_internal/geo/Continent/America~South/Peru/Counties/Loreto.internal|Loreto.internal]] 
+- [[../../../../../../_protect/geo/Continent/America~South/Peru/Counties/Loreto.protect|Loreto.protect]] 
+- [[../../../../../../_private/geo/Continent/America~South/Peru/Counties/Loreto.private|Loreto.private]] 
+- [[../../../../../../_personal/geo/Continent/America~South/Peru/Counties/Loreto.personal|Loreto.personal]] 
+- [[../../../../../../_secret/geo/Continent/America~South/Peru/Counties/Loreto.secret|Loreto.secret]] 
 

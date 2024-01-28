@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ -10.8 , 165.9 ] 
 type: geo-Region
 title: Temotu
@@ -40,10 +40,11 @@ markerFolder: ./Temotu/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Oceania/Solomon~Islands/Counties/Temotu.md|Temotu]] 
-- [[../../../../_internal/geo/Continent/Oceania/Solomon~Islands/Counties/Temotu.internal|Temotu.internal]] 
-- [[../../../../_protect/geo/Continent/Oceania/Solomon~Islands/Counties/Temotu.protect|Temotu.protect]] 
-- [[../../../../_private/geo/Continent/Oceania/Solomon~Islands/Counties/Temotu.private|Temotu.private]] 
-- [[../../../../_personal/geo/Continent/Oceania/Solomon~Islands/Counties/Temotu.personal|Temotu.personal]] 
-- [[../../../../_secret/geo/Continent/Oceania/Solomon~Islands/Counties/Temotu.secret|Temotu.secret]] 
+- [[../../../../../../_Standards/geo/Continent/Oceania/Solomon~Islands/Counties/Temotu|Temotu]] 
+- [[../../../../../../_public/geo/Continent/Oceania/Solomon~Islands/Counties/Temotu.public|Temotu.public]] 
+- [[../../../../../../_internal/geo/Continent/Oceania/Solomon~Islands/Counties/Temotu.internal|Temotu.internal]] 
+- [[../../../../../../_protect/geo/Continent/Oceania/Solomon~Islands/Counties/Temotu.protect|Temotu.protect]] 
+- [[../../../../../../_private/geo/Continent/Oceania/Solomon~Islands/Counties/Temotu.private|Temotu.private]] 
+- [[../../../../../../_personal/geo/Continent/Oceania/Solomon~Islands/Counties/Temotu.personal|Temotu.personal]] 
+- [[../../../../../../_secret/geo/Continent/Oceania/Solomon~Islands/Counties/Temotu.secret|Temotu.secret]] 
 

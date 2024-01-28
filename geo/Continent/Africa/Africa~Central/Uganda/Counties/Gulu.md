@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 2.9 , 32.4 ] 
 type: geo-Region
 title: Gulu
@@ -40,10 +40,11 @@ markerFolder: ./Gulu/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Africa/Uganda/Counties/Gulu.md|Gulu]] 
-- [[../../../../_internal/geo/Continent/Africa/Uganda/Counties/Gulu.internal|Gulu.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Uganda/Counties/Gulu.protect|Gulu.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Uganda/Counties/Gulu.private|Gulu.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Uganda/Counties/Gulu.personal|Gulu.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Uganda/Counties/Gulu.secret|Gulu.secret]] 
+- [[../../../../../../_Standards/geo/Continent/Africa/Uganda/Counties/Gulu|Gulu]] 
+- [[../../../../../../_public/geo/Continent/Africa/Uganda/Counties/Gulu.public|Gulu.public]] 
+- [[../../../../../../_internal/geo/Continent/Africa/Uganda/Counties/Gulu.internal|Gulu.internal]] 
+- [[../../../../../../_protect/geo/Continent/Africa/Uganda/Counties/Gulu.protect|Gulu.protect]] 
+- [[../../../../../../_private/geo/Continent/Africa/Uganda/Counties/Gulu.private|Gulu.private]] 
+- [[../../../../../../_personal/geo/Continent/Africa/Uganda/Counties/Gulu.personal|Gulu.personal]] 
+- [[../../../../../../_secret/geo/Continent/Africa/Uganda/Counties/Gulu.secret|Gulu.secret]] 
 

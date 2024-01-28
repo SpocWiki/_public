@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 1 , 36.4 ] 
 type: geo-Region
 title: Rift_Valley
@@ -40,10 +40,11 @@ markerFolder: ./Rift_Valley/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Africa/Kenya/Counties/Rift_Valley.md|Rift_Valley]] 
-- [[../../../../_internal/geo/Continent/Africa/Kenya/Counties/Rift_Valley.internal|Rift_Valley.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Kenya/Counties/Rift_Valley.protect|Rift_Valley.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Kenya/Counties/Rift_Valley.private|Rift_Valley.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Kenya/Counties/Rift_Valley.personal|Rift_Valley.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Kenya/Counties/Rift_Valley.secret|Rift_Valley.secret]] 
+- [[../../../../../../_Standards/geo/Continent/Africa/Kenya/Counties/Rift_Valley|Rift_Valley]] 
+- [[../../../../../../_public/geo/Continent/Africa/Kenya/Counties/Rift_Valley.public|Rift_Valley.public]] 
+- [[../../../../../../_internal/geo/Continent/Africa/Kenya/Counties/Rift_Valley.internal|Rift_Valley.internal]] 
+- [[../../../../../../_protect/geo/Continent/Africa/Kenya/Counties/Rift_Valley.protect|Rift_Valley.protect]] 
+- [[../../../../../../_private/geo/Continent/Africa/Kenya/Counties/Rift_Valley.private|Rift_Valley.private]] 
+- [[../../../../../../_personal/geo/Continent/Africa/Kenya/Counties/Rift_Valley.personal|Rift_Valley.personal]] 
+- [[../../../../../../_secret/geo/Continent/Africa/Kenya/Counties/Rift_Valley.secret|Rift_Valley.secret]] 
 

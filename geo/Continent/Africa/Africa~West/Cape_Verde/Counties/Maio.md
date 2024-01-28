@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 15.2 , -23.2 ] 
 type: geo-Region
 title: Maio
@@ -40,10 +40,11 @@ markerFolder: ./Maio/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Africa/Cape_Verde/Counties/Maio.md|Maio]] 
-- [[../../../../_internal/geo/Continent/Africa/Cape_Verde/Counties/Maio.internal|Maio.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Cape_Verde/Counties/Maio.protect|Maio.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Cape_Verde/Counties/Maio.private|Maio.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Cape_Verde/Counties/Maio.personal|Maio.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Cape_Verde/Counties/Maio.secret|Maio.secret]] 
+- [[../../../../../../_Standards/geo/Continent/Africa/Cape_Verde/Counties/Maio|Maio]] 
+- [[../../../../../../_public/geo/Continent/Africa/Cape_Verde/Counties/Maio.public|Maio.public]] 
+- [[../../../../../../_internal/geo/Continent/Africa/Cape_Verde/Counties/Maio.internal|Maio.internal]] 
+- [[../../../../../../_protect/geo/Continent/Africa/Cape_Verde/Counties/Maio.protect|Maio.protect]] 
+- [[../../../../../../_private/geo/Continent/Africa/Cape_Verde/Counties/Maio.private|Maio.private]] 
+- [[../../../../../../_personal/geo/Continent/Africa/Cape_Verde/Counties/Maio.personal|Maio.personal]] 
+- [[../../../../../../_secret/geo/Continent/Africa/Cape_Verde/Counties/Maio.secret|Maio.secret]] 
 

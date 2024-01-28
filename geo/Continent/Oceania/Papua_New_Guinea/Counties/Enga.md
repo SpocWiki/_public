@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ -5.5 , 143.4 ] 
 type: geo-Region
 title: Enga
@@ -40,10 +40,11 @@ markerFolder: ./Enga/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Oceania/Papua_New_Guinea/Counties/Enga.md|Enga]] 
-- [[../../../../_internal/geo/Continent/Oceania/Papua_New_Guinea/Counties/Enga.internal|Enga.internal]] 
-- [[../../../../_protect/geo/Continent/Oceania/Papua_New_Guinea/Counties/Enga.protect|Enga.protect]] 
-- [[../../../../_private/geo/Continent/Oceania/Papua_New_Guinea/Counties/Enga.private|Enga.private]] 
-- [[../../../../_personal/geo/Continent/Oceania/Papua_New_Guinea/Counties/Enga.personal|Enga.personal]] 
-- [[../../../../_secret/geo/Continent/Oceania/Papua_New_Guinea/Counties/Enga.secret|Enga.secret]] 
+- [[../../../../../../_Standards/geo/Continent/Oceania/Papua_New_Guinea/Counties/Enga|Enga]] 
+- [[../../../../../../_public/geo/Continent/Oceania/Papua_New_Guinea/Counties/Enga.public|Enga.public]] 
+- [[../../../../../../_internal/geo/Continent/Oceania/Papua_New_Guinea/Counties/Enga.internal|Enga.internal]] 
+- [[../../../../../../_protect/geo/Continent/Oceania/Papua_New_Guinea/Counties/Enga.protect|Enga.protect]] 
+- [[../../../../../../_private/geo/Continent/Oceania/Papua_New_Guinea/Counties/Enga.private|Enga.private]] 
+- [[../../../../../../_personal/geo/Continent/Oceania/Papua_New_Guinea/Counties/Enga.personal|Enga.personal]] 
+- [[../../../../../../_secret/geo/Continent/Oceania/Papua_New_Guinea/Counties/Enga.secret|Enga.secret]] 
 

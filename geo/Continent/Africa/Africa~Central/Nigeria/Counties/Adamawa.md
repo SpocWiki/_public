@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 9.2 , 12.4 ] 
 type: geo-Region
 title: Adamawa
@@ -40,10 +40,11 @@ markerFolder: ./Adamawa/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Africa/Nigeria/Counties/Adamawa.md|Adamawa]] 
-- [[../../../../_internal/geo/Continent/Africa/Nigeria/Counties/Adamawa.internal|Adamawa.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Nigeria/Counties/Adamawa.protect|Adamawa.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Nigeria/Counties/Adamawa.private|Adamawa.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Nigeria/Counties/Adamawa.personal|Adamawa.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Nigeria/Counties/Adamawa.secret|Adamawa.secret]] 
+- [[../../../../../../_Standards/geo/Continent/Africa/Nigeria/Counties/Adamawa|Adamawa]] 
+- [[../../../../../../_public/geo/Continent/Africa/Nigeria/Counties/Adamawa.public|Adamawa.public]] 
+- [[../../../../../../_internal/geo/Continent/Africa/Nigeria/Counties/Adamawa.internal|Adamawa.internal]] 
+- [[../../../../../../_protect/geo/Continent/Africa/Nigeria/Counties/Adamawa.protect|Adamawa.protect]] 
+- [[../../../../../../_private/geo/Continent/Africa/Nigeria/Counties/Adamawa.private|Adamawa.private]] 
+- [[../../../../../../_personal/geo/Continent/Africa/Nigeria/Counties/Adamawa.personal|Adamawa.personal]] 
+- [[../../../../../../_secret/geo/Continent/Africa/Nigeria/Counties/Adamawa.secret|Adamawa.secret]] 
 

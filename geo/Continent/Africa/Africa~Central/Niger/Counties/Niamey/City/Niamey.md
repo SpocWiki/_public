@@ -1,5 +1,5 @@
 ﻿---
-location: [13.53333,2.083333]
+location: [13.53333,2.083333] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,27 +12,28 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::2.083333]
-[geo-lat::13.53333]
-[name::Niamey]
-[State::]
-[Country::[[Niger]]]
-[StateId::]
-[Population::]
-[Unknown::32]
+[geo-lon::2.083333] 
+[geo-lat::13.53333] 
+[name::Niamey] 
+State ::  
+Country :: [[Niger]]  
+[StateId::] 
+[Population::] 
+[Unknown::32] 
 
 
 ```leaflet
 id: Niamey
-coordinates: [[Niamey]]
-markerFile: [[Niamey]]
+coordinates: [[Niamey]] 
+markerFile: [[Niamey]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_public/geo/Continent/Africa/Niger/City/Niamey.md|Niamey]] 
+- [[../../../../../../_Standards/geo/Continent/Africa/Niger/City/Niamey|Niamey]] 
+- [[../../../../../../_public/geo/Continent/Africa/Niger/City/Niamey.public|Niamey.public]] 
 - [[../../../../../../_internal/geo/Continent/Africa/Niger/City/Niamey.internal|Niamey.internal]] 
 - [[../../../../../../_protect/geo/Continent/Africa/Niger/City/Niamey.protect|Niamey.protect]] 
 - [[../../../../../../_private/geo/Continent/Africa/Niger/City/Niamey.private|Niamey.private]] 

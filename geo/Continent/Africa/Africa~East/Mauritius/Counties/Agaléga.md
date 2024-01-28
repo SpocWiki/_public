@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ -10.37 , 56.55 ] 
 type: geo-Region
 title: Agaléga
@@ -40,10 +40,11 @@ markerFolder: ./Agaléga/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Africa/Mauritius/Counties/Agaléga.md|Agaléga]] 
-- [[../../../../_internal/geo/Continent/Africa/Mauritius/Counties/Agaléga.internal|Agaléga.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Mauritius/Counties/Agaléga.protect|Agaléga.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Mauritius/Counties/Agaléga.private|Agaléga.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Mauritius/Counties/Agaléga.personal|Agaléga.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Mauritius/Counties/Agaléga.secret|Agaléga.secret]] 
+- [[../../../../../../_Standards/geo/Continent/Africa/Mauritius/Counties/Agaléga|Agaléga]] 
+- [[../../../../../../_public/geo/Continent/Africa/Mauritius/Counties/Agaléga.public|Agaléga.public]] 
+- [[../../../../../../_internal/geo/Continent/Africa/Mauritius/Counties/Agaléga.internal|Agaléga.internal]] 
+- [[../../../../../../_protect/geo/Continent/Africa/Mauritius/Counties/Agaléga.protect|Agaléga.protect]] 
+- [[../../../../../../_private/geo/Continent/Africa/Mauritius/Counties/Agaléga.private|Agaléga.private]] 
+- [[../../../../../../_personal/geo/Continent/Africa/Mauritius/Counties/Agaléga.personal|Agaléga.personal]] 
+- [[../../../../../../_secret/geo/Continent/Africa/Mauritius/Counties/Agaléga.secret|Agaléga.secret]] 
 

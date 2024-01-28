@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 12 , -12.2 ] 
 type: geo-Region
 title: Mali
@@ -40,10 +40,11 @@ markerFolder: ./Mali/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Africa/Guinea/Counties/Mali.md|Mali]] 
-- [[../../../../_internal/geo/Continent/Africa/Guinea/Counties/Mali.internal|Mali.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Guinea/Counties/Mali.protect|Mali.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Guinea/Counties/Mali.private|Mali.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Guinea/Counties/Mali.personal|Mali.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Guinea/Counties/Mali.secret|Mali.secret]] 
+- [[../../../../../../_Standards/geo/Continent/Africa/Guinea/Counties/Mali|Mali]] 
+- [[../../../../../../_public/geo/Continent/Africa/Guinea/Counties/Mali.public|Mali.public]] 
+- [[../../../../../../_internal/geo/Continent/Africa/Guinea/Counties/Mali.internal|Mali.internal]] 
+- [[../../../../../../_protect/geo/Continent/Africa/Guinea/Counties/Mali.protect|Mali.protect]] 
+- [[../../../../../../_private/geo/Continent/Africa/Guinea/Counties/Mali.private|Mali.private]] 
+- [[../../../../../../_personal/geo/Continent/Africa/Guinea/Counties/Mali.personal|Mali.personal]] 
+- [[../../../../../../_secret/geo/Continent/Africa/Guinea/Counties/Mali.secret|Mali.secret]] 
 

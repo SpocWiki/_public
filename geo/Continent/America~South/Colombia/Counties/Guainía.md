@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 2.6 , -69.2 ] 
 type: geo-Region
 title: Guainía
@@ -40,10 +40,11 @@ markerFolder: ./Guainía/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/America~South/Colombia/Counties/Guainía.md|Guainía]] 
-- [[../../../../_internal/geo/Continent/America~South/Colombia/Counties/Guainía.internal|Guainía.internal]] 
-- [[../../../../_protect/geo/Continent/America~South/Colombia/Counties/Guainía.protect|Guainía.protect]] 
-- [[../../../../_private/geo/Continent/America~South/Colombia/Counties/Guainía.private|Guainía.private]] 
-- [[../../../../_personal/geo/Continent/America~South/Colombia/Counties/Guainía.personal|Guainía.personal]] 
-- [[../../../../_secret/geo/Continent/America~South/Colombia/Counties/Guainía.secret|Guainía.secret]] 
+- [[../../../../../../_Standards/geo/Continent/America~South/Colombia/Counties/Guainía|Guainía]] 
+- [[../../../../../../_public/geo/Continent/America~South/Colombia/Counties/Guainía.public|Guainía.public]] 
+- [[../../../../../../_internal/geo/Continent/America~South/Colombia/Counties/Guainía.internal|Guainía.internal]] 
+- [[../../../../../../_protect/geo/Continent/America~South/Colombia/Counties/Guainía.protect|Guainía.protect]] 
+- [[../../../../../../_private/geo/Continent/America~South/Colombia/Counties/Guainía.private|Guainía.private]] 
+- [[../../../../../../_personal/geo/Continent/America~South/Colombia/Counties/Guainía.personal|Guainía.personal]] 
+- [[../../../../../../_secret/geo/Continent/America~South/Colombia/Counties/Guainía.secret|Guainía.secret]] 
 

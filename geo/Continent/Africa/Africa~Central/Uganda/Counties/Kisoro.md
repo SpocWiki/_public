@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ -1.2 , 29.7 ] 
 type: geo-Region
 title: Kisoro
@@ -40,10 +40,11 @@ markerFolder: ./Kisoro/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Africa/Uganda/Counties/Kisoro.md|Kisoro]] 
-- [[../../../../_internal/geo/Continent/Africa/Uganda/Counties/Kisoro.internal|Kisoro.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Uganda/Counties/Kisoro.protect|Kisoro.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Uganda/Counties/Kisoro.private|Kisoro.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Uganda/Counties/Kisoro.personal|Kisoro.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Uganda/Counties/Kisoro.secret|Kisoro.secret]] 
+- [[../../../../../../_Standards/geo/Continent/Africa/Uganda/Counties/Kisoro|Kisoro]] 
+- [[../../../../../../_public/geo/Continent/Africa/Uganda/Counties/Kisoro.public|Kisoro.public]] 
+- [[../../../../../../_internal/geo/Continent/Africa/Uganda/Counties/Kisoro.internal|Kisoro.internal]] 
+- [[../../../../../../_protect/geo/Continent/Africa/Uganda/Counties/Kisoro.protect|Kisoro.protect]] 
+- [[../../../../../../_private/geo/Continent/Africa/Uganda/Counties/Kisoro.private|Kisoro.private]] 
+- [[../../../../../../_personal/geo/Continent/Africa/Uganda/Counties/Kisoro.personal|Kisoro.personal]] 
+- [[../../../../../../_secret/geo/Continent/Africa/Uganda/Counties/Kisoro.secret|Kisoro.secret]] 
 

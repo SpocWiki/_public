@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ -32 , -57.2 ] 
 type: geo-Region
 title: Paysandú
@@ -40,10 +40,11 @@ markerFolder: ./Paysandú/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/America~South/Uruguay/Counties/Paysandú.md|Paysandú]] 
-- [[../../../../_internal/geo/Continent/America~South/Uruguay/Counties/Paysandú.internal|Paysandú.internal]] 
-- [[../../../../_protect/geo/Continent/America~South/Uruguay/Counties/Paysandú.protect|Paysandú.protect]] 
-- [[../../../../_private/geo/Continent/America~South/Uruguay/Counties/Paysandú.private|Paysandú.private]] 
-- [[../../../../_personal/geo/Continent/America~South/Uruguay/Counties/Paysandú.personal|Paysandú.personal]] 
-- [[../../../../_secret/geo/Continent/America~South/Uruguay/Counties/Paysandú.secret|Paysandú.secret]] 
+- [[../../../../../../_Standards/geo/Continent/America~South/Uruguay/Counties/Paysandú|Paysandú]] 
+- [[../../../../../../_public/geo/Continent/America~South/Uruguay/Counties/Paysandú.public|Paysandú.public]] 
+- [[../../../../../../_internal/geo/Continent/America~South/Uruguay/Counties/Paysandú.internal|Paysandú.internal]] 
+- [[../../../../../../_protect/geo/Continent/America~South/Uruguay/Counties/Paysandú.protect|Paysandú.protect]] 
+- [[../../../../../../_private/geo/Continent/America~South/Uruguay/Counties/Paysandú.private|Paysandú.private]] 
+- [[../../../../../../_personal/geo/Continent/America~South/Uruguay/Counties/Paysandú.personal|Paysandú.personal]] 
+- [[../../../../../../_secret/geo/Continent/America~South/Uruguay/Counties/Paysandú.secret|Paysandú.secret]] 
 

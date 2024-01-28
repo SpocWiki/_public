@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 7.8 , -80.7 ] 
 type: geo-Region
 title: Herrera
@@ -40,10 +40,11 @@ markerFolder: ./Herrera/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/America~Central/Panama/Counties/Herrera.md|Herrera]] 
-- [[../../../../_internal/geo/Continent/America~Central/Panama/Counties/Herrera.internal|Herrera.internal]] 
-- [[../../../../_protect/geo/Continent/America~Central/Panama/Counties/Herrera.protect|Herrera.protect]] 
-- [[../../../../_private/geo/Continent/America~Central/Panama/Counties/Herrera.private|Herrera.private]] 
-- [[../../../../_personal/geo/Continent/America~Central/Panama/Counties/Herrera.personal|Herrera.personal]] 
-- [[../../../../_secret/geo/Continent/America~Central/Panama/Counties/Herrera.secret|Herrera.secret]] 
+- [[../../../../../../_Standards/geo/Continent/America~Central/Panama/Counties/Herrera|Herrera]] 
+- [[../../../../../../_public/geo/Continent/America~Central/Panama/Counties/Herrera.public|Herrera.public]] 
+- [[../../../../../../_internal/geo/Continent/America~Central/Panama/Counties/Herrera.internal|Herrera.internal]] 
+- [[../../../../../../_protect/geo/Continent/America~Central/Panama/Counties/Herrera.protect|Herrera.protect]] 
+- [[../../../../../../_private/geo/Continent/America~Central/Panama/Counties/Herrera.private|Herrera.private]] 
+- [[../../../../../../_personal/geo/Continent/America~Central/Panama/Counties/Herrera.personal|Herrera.personal]] 
+- [[../../../../../../_secret/geo/Continent/America~Central/Panama/Counties/Herrera.secret|Herrera.secret]] 
 

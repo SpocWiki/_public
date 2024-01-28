@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ -7.9 , 37.3 ] 
 type: geo-Region
 title: Morogoro
@@ -40,10 +40,11 @@ markerFolder: ./Morogoro/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Africa/Tanzania/Counties/Morogoro.md|Morogoro]] 
-- [[../../../../_internal/geo/Continent/Africa/Tanzania/Counties/Morogoro.internal|Morogoro.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Tanzania/Counties/Morogoro.protect|Morogoro.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Tanzania/Counties/Morogoro.private|Morogoro.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Tanzania/Counties/Morogoro.personal|Morogoro.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Tanzania/Counties/Morogoro.secret|Morogoro.secret]] 
+- [[../../../../../../_Standards/geo/Continent/Africa/Tanzania/Counties/Morogoro|Morogoro]] 
+- [[../../../../../../_public/geo/Continent/Africa/Tanzania/Counties/Morogoro.public|Morogoro.public]] 
+- [[../../../../../../_internal/geo/Continent/Africa/Tanzania/Counties/Morogoro.internal|Morogoro.internal]] 
+- [[../../../../../../_protect/geo/Continent/Africa/Tanzania/Counties/Morogoro.protect|Morogoro.protect]] 
+- [[../../../../../../_private/geo/Continent/Africa/Tanzania/Counties/Morogoro.private|Morogoro.private]] 
+- [[../../../../../../_personal/geo/Continent/Africa/Tanzania/Counties/Morogoro.personal|Morogoro.personal]] 
+- [[../../../../../../_secret/geo/Continent/Africa/Tanzania/Counties/Morogoro.secret|Morogoro.secret]] 
 

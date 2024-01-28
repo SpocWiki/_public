@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ -8.5 , 127 ] 
 type: geo-Region
 title: Lautem
@@ -40,10 +40,11 @@ markerFolder: ./Lautem/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Oceania/Timor-Leste/Counties/Lautem.md|Lautem]] 
-- [[../../../../_internal/geo/Continent/Oceania/Timor-Leste/Counties/Lautem.internal|Lautem.internal]] 
-- [[../../../../_protect/geo/Continent/Oceania/Timor-Leste/Counties/Lautem.protect|Lautem.protect]] 
-- [[../../../../_private/geo/Continent/Oceania/Timor-Leste/Counties/Lautem.private|Lautem.private]] 
-- [[../../../../_personal/geo/Continent/Oceania/Timor-Leste/Counties/Lautem.personal|Lautem.personal]] 
-- [[../../../../_secret/geo/Continent/Oceania/Timor-Leste/Counties/Lautem.secret|Lautem.secret]] 
+- [[../../../../../../_Standards/geo/Continent/Oceania/Timor-Leste/Counties/Lautem|Lautem]] 
+- [[../../../../../../_public/geo/Continent/Oceania/Timor-Leste/Counties/Lautem.public|Lautem.public]] 
+- [[../../../../../../_internal/geo/Continent/Oceania/Timor-Leste/Counties/Lautem.internal|Lautem.internal]] 
+- [[../../../../../../_protect/geo/Continent/Oceania/Timor-Leste/Counties/Lautem.protect|Lautem.protect]] 
+- [[../../../../../../_private/geo/Continent/Oceania/Timor-Leste/Counties/Lautem.private|Lautem.private]] 
+- [[../../../../../../_personal/geo/Continent/Oceania/Timor-Leste/Counties/Lautem.personal|Lautem.personal]] 
+- [[../../../../../../_secret/geo/Continent/Oceania/Timor-Leste/Counties/Lautem.secret|Lautem.secret]] 
 

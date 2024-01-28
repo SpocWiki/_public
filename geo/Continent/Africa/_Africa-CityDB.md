@@ -342,7 +342,8 @@ filters:
 ```
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Africa/_Africa-CityDB.md|_Africa-CityDB]] 
+- [[../../../../_Standards/geo/Continent/Africa/_Africa-CityDB|_Africa-CityDB]] 
+- [[../../../../_public/geo/Continent/Africa/_Africa-CityDB.public|_Africa-CityDB.public]] 
 - [[../../../../_internal/geo/Continent/Africa/_Africa-CityDB.internal|_Africa-CityDB.internal]] 
 - [[../../../../_protect/geo/Continent/Africa/_Africa-CityDB.protect|_Africa-CityDB.protect]] 
 - [[../../../../_private/geo/Continent/Africa/_Africa-CityDB.private|_Africa-CityDB.private]] 

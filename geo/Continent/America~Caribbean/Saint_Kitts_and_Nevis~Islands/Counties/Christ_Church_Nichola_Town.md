@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 17.36 , -62.76 ] 
 type: geo-Region
 title: Christ_Church_Nichola_Town
@@ -40,10 +40,11 @@ markerFolder: ./Christ_Church_Nichola_Town/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/America~Caribbean/Saint_Kitts_and_Nevis~Islands/Counties/Christ_Church_Nichola_Town.md|Christ_Church_Nichola_Town]] 
-- [[../../../../_internal/geo/Continent/America~Caribbean/Saint_Kitts_and_Nevis~Islands/Counties/Christ_Church_Nichola_Town.internal|Christ_Church_Nichola_Town.internal]] 
-- [[../../../../_protect/geo/Continent/America~Caribbean/Saint_Kitts_and_Nevis~Islands/Counties/Christ_Church_Nichola_Town.protect|Christ_Church_Nichola_Town.protect]] 
-- [[../../../../_private/geo/Continent/America~Caribbean/Saint_Kitts_and_Nevis~Islands/Counties/Christ_Church_Nichola_Town.private|Christ_Church_Nichola_Town.private]] 
-- [[../../../../_personal/geo/Continent/America~Caribbean/Saint_Kitts_and_Nevis~Islands/Counties/Christ_Church_Nichola_Town.personal|Christ_Church_Nichola_Town.personal]] 
-- [[../../../../_secret/geo/Continent/America~Caribbean/Saint_Kitts_and_Nevis~Islands/Counties/Christ_Church_Nichola_Town.secret|Christ_Church_Nichola_Town.secret]] 
+- [[../../../../../../_Standards/geo/Continent/America~Caribbean/Saint_Kitts_and_Nevis~Islands/Counties/Christ_Church_Nichola_Town|Christ_Church_Nichola_Town]] 
+- [[../../../../../../_public/geo/Continent/America~Caribbean/Saint_Kitts_and_Nevis~Islands/Counties/Christ_Church_Nichola_Town.public|Christ_Church_Nichola_Town.public]] 
+- [[../../../../../../_internal/geo/Continent/America~Caribbean/Saint_Kitts_and_Nevis~Islands/Counties/Christ_Church_Nichola_Town.internal|Christ_Church_Nichola_Town.internal]] 
+- [[../../../../../../_protect/geo/Continent/America~Caribbean/Saint_Kitts_and_Nevis~Islands/Counties/Christ_Church_Nichola_Town.protect|Christ_Church_Nichola_Town.protect]] 
+- [[../../../../../../_private/geo/Continent/America~Caribbean/Saint_Kitts_and_Nevis~Islands/Counties/Christ_Church_Nichola_Town.private|Christ_Church_Nichola_Town.private]] 
+- [[../../../../../../_personal/geo/Continent/America~Caribbean/Saint_Kitts_and_Nevis~Islands/Counties/Christ_Church_Nichola_Town.personal|Christ_Church_Nichola_Town.personal]] 
+- [[../../../../../../_secret/geo/Continent/America~Caribbean/Saint_Kitts_and_Nevis~Islands/Counties/Christ_Church_Nichola_Town.secret|Christ_Church_Nichola_Town.secret]] 
 

@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 8.07 , 134.71 ] 
 type: geo-Region
 title: Kayangel
@@ -40,10 +40,11 @@ markerFolder: ./Kayangel/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Oceania/Palau/Counties/Kayangel.md|Kayangel]] 
-- [[../../../../_internal/geo/Continent/Oceania/Palau/Counties/Kayangel.internal|Kayangel.internal]] 
-- [[../../../../_protect/geo/Continent/Oceania/Palau/Counties/Kayangel.protect|Kayangel.protect]] 
-- [[../../../../_private/geo/Continent/Oceania/Palau/Counties/Kayangel.private|Kayangel.private]] 
-- [[../../../../_personal/geo/Continent/Oceania/Palau/Counties/Kayangel.personal|Kayangel.personal]] 
-- [[../../../../_secret/geo/Continent/Oceania/Palau/Counties/Kayangel.secret|Kayangel.secret]] 
+- [[../../../../../../_Standards/geo/Continent/Oceania/Palau/Counties/Kayangel|Kayangel]] 
+- [[../../../../../../_public/geo/Continent/Oceania/Palau/Counties/Kayangel.public|Kayangel.public]] 
+- [[../../../../../../_internal/geo/Continent/Oceania/Palau/Counties/Kayangel.internal|Kayangel.internal]] 
+- [[../../../../../../_protect/geo/Continent/Oceania/Palau/Counties/Kayangel.protect|Kayangel.protect]] 
+- [[../../../../../../_private/geo/Continent/Oceania/Palau/Counties/Kayangel.private|Kayangel.private]] 
+- [[../../../../../../_personal/geo/Continent/Oceania/Palau/Counties/Kayangel.personal|Kayangel.personal]] 
+- [[../../../../../../_secret/geo/Continent/Oceania/Palau/Counties/Kayangel.secret|Kayangel.secret]] 
 

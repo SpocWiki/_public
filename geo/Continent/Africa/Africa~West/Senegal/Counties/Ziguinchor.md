@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 12.5 , -16.4 ] 
 type: geo-Region
 title: Ziguinchor
@@ -40,10 +40,11 @@ markerFolder: ./Ziguinchor/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Africa/Senegal/Counties/Ziguinchor.md|Ziguinchor]] 
-- [[../../../../_internal/geo/Continent/Africa/Senegal/Counties/Ziguinchor.internal|Ziguinchor.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Senegal/Counties/Ziguinchor.protect|Ziguinchor.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Senegal/Counties/Ziguinchor.private|Ziguinchor.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Senegal/Counties/Ziguinchor.personal|Ziguinchor.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Senegal/Counties/Ziguinchor.secret|Ziguinchor.secret]] 
+- [[../../../../../../_Standards/geo/Continent/Africa/Senegal/Counties/Ziguinchor|Ziguinchor]] 
+- [[../../../../../../_public/geo/Continent/Africa/Senegal/Counties/Ziguinchor.public|Ziguinchor.public]] 
+- [[../../../../../../_internal/geo/Continent/Africa/Senegal/Counties/Ziguinchor.internal|Ziguinchor.internal]] 
+- [[../../../../../../_protect/geo/Continent/Africa/Senegal/Counties/Ziguinchor.protect|Ziguinchor.protect]] 
+- [[../../../../../../_private/geo/Continent/Africa/Senegal/Counties/Ziguinchor.private|Ziguinchor.private]] 
+- [[../../../../../../_personal/geo/Continent/Africa/Senegal/Counties/Ziguinchor.personal|Ziguinchor.personal]] 
+- [[../../../../../../_secret/geo/Continent/Africa/Senegal/Counties/Ziguinchor.secret|Ziguinchor.secret]] 
 

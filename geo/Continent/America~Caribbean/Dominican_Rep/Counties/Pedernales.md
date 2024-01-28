@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 17.9 , -71.5 ] 
 type: geo-Region
 title: Pedernales
@@ -40,10 +40,11 @@ markerFolder: ./Pedernales/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/America~Caribbean/Dominican_Rep/Counties/Pedernales.md|Pedernales]] 
-- [[../../../../_internal/geo/Continent/America~Caribbean/Dominican_Rep/Counties/Pedernales.internal|Pedernales.internal]] 
-- [[../../../../_protect/geo/Continent/America~Caribbean/Dominican_Rep/Counties/Pedernales.protect|Pedernales.protect]] 
-- [[../../../../_private/geo/Continent/America~Caribbean/Dominican_Rep/Counties/Pedernales.private|Pedernales.private]] 
-- [[../../../../_personal/geo/Continent/America~Caribbean/Dominican_Rep/Counties/Pedernales.personal|Pedernales.personal]] 
-- [[../../../../_secret/geo/Continent/America~Caribbean/Dominican_Rep/Counties/Pedernales.secret|Pedernales.secret]] 
+- [[../../../../../../_Standards/geo/Continent/America~Caribbean/Dominican_Rep/Counties/Pedernales|Pedernales]] 
+- [[../../../../../../_public/geo/Continent/America~Caribbean/Dominican_Rep/Counties/Pedernales.public|Pedernales.public]] 
+- [[../../../../../../_internal/geo/Continent/America~Caribbean/Dominican_Rep/Counties/Pedernales.internal|Pedernales.internal]] 
+- [[../../../../../../_protect/geo/Continent/America~Caribbean/Dominican_Rep/Counties/Pedernales.protect|Pedernales.protect]] 
+- [[../../../../../../_private/geo/Continent/America~Caribbean/Dominican_Rep/Counties/Pedernales.private|Pedernales.private]] 
+- [[../../../../../../_personal/geo/Continent/America~Caribbean/Dominican_Rep/Counties/Pedernales.personal|Pedernales.personal]] 
+- [[../../../../../../_secret/geo/Continent/America~Caribbean/Dominican_Rep/Counties/Pedernales.secret|Pedernales.secret]] 
 

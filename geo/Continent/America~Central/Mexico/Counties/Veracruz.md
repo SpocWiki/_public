@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 19.8 , -96.9 ] 
 type: geo-Region
 title: Veracruz
@@ -40,10 +40,11 @@ markerFolder: ./Veracruz/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/America~Central/Mexico/Counties/Veracruz.md|Veracruz]] 
-- [[../../../../_internal/geo/Continent/America~Central/Mexico/Counties/Veracruz.internal|Veracruz.internal]] 
-- [[../../../../_protect/geo/Continent/America~Central/Mexico/Counties/Veracruz.protect|Veracruz.protect]] 
-- [[../../../../_private/geo/Continent/America~Central/Mexico/Counties/Veracruz.private|Veracruz.private]] 
-- [[../../../../_personal/geo/Continent/America~Central/Mexico/Counties/Veracruz.personal|Veracruz.personal]] 
-- [[../../../../_secret/geo/Continent/America~Central/Mexico/Counties/Veracruz.secret|Veracruz.secret]] 
+- [[../../../../../../_Standards/geo/Continent/America~Central/Mexico/Counties/Veracruz|Veracruz]] 
+- [[../../../../../../_public/geo/Continent/America~Central/Mexico/Counties/Veracruz.public|Veracruz.public]] 
+- [[../../../../../../_internal/geo/Continent/America~Central/Mexico/Counties/Veracruz.internal|Veracruz.internal]] 
+- [[../../../../../../_protect/geo/Continent/America~Central/Mexico/Counties/Veracruz.protect|Veracruz.protect]] 
+- [[../../../../../../_private/geo/Continent/America~Central/Mexico/Counties/Veracruz.private|Veracruz.private]] 
+- [[../../../../../../_personal/geo/Continent/America~Central/Mexico/Counties/Veracruz.personal|Veracruz.personal]] 
+- [[../../../../../../_secret/geo/Continent/America~Central/Mexico/Counties/Veracruz.secret|Veracruz.secret]] 
 

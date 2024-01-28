@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ -20.16 , 202.67 ] 
 type: geo-Region
 title: Mauke
@@ -40,10 +40,11 @@ markerFolder: ./Mauke/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Oceania/Cook~Islands/Counties/Mauke.md|Mauke]] 
-- [[../../../../_internal/geo/Continent/Oceania/Cook~Islands/Counties/Mauke.internal|Mauke.internal]] 
-- [[../../../../_protect/geo/Continent/Oceania/Cook~Islands/Counties/Mauke.protect|Mauke.protect]] 
-- [[../../../../_private/geo/Continent/Oceania/Cook~Islands/Counties/Mauke.private|Mauke.private]] 
-- [[../../../../_personal/geo/Continent/Oceania/Cook~Islands/Counties/Mauke.personal|Mauke.personal]] 
-- [[../../../../_secret/geo/Continent/Oceania/Cook~Islands/Counties/Mauke.secret|Mauke.secret]] 
+- [[../../../../../../_Standards/geo/Continent/Oceania/Cook~Islands/Counties/Mauke|Mauke]] 
+- [[../../../../../../_public/geo/Continent/Oceania/Cook~Islands/Counties/Mauke.public|Mauke.public]] 
+- [[../../../../../../_internal/geo/Continent/Oceania/Cook~Islands/Counties/Mauke.internal|Mauke.internal]] 
+- [[../../../../../../_protect/geo/Continent/Oceania/Cook~Islands/Counties/Mauke.protect|Mauke.protect]] 
+- [[../../../../../../_private/geo/Continent/Oceania/Cook~Islands/Counties/Mauke.private|Mauke.private]] 
+- [[../../../../../../_personal/geo/Continent/Oceania/Cook~Islands/Counties/Mauke.personal|Mauke.personal]] 
+- [[../../../../../../_secret/geo/Continent/Oceania/Cook~Islands/Counties/Mauke.secret|Mauke.secret]] 
 

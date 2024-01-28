@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ -29 , -57.8 ] 
 type: geo-Region
 title: Corrientes
@@ -40,10 +40,11 @@ markerFolder: ./Corrientes/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/America~South/Argentina/Counties/Corrientes.md|Corrientes]] 
-- [[../../../../_internal/geo/Continent/America~South/Argentina/Counties/Corrientes.internal|Corrientes.internal]] 
-- [[../../../../_protect/geo/Continent/America~South/Argentina/Counties/Corrientes.protect|Corrientes.protect]] 
-- [[../../../../_private/geo/Continent/America~South/Argentina/Counties/Corrientes.private|Corrientes.private]] 
-- [[../../../../_personal/geo/Continent/America~South/Argentina/Counties/Corrientes.personal|Corrientes.personal]] 
-- [[../../../../_secret/geo/Continent/America~South/Argentina/Counties/Corrientes.secret|Corrientes.secret]] 
+- [[../../../../../../_Standards/geo/Continent/America~South/Argentina/Counties/Corrientes|Corrientes]] 
+- [[../../../../../../_public/geo/Continent/America~South/Argentina/Counties/Corrientes.public|Corrientes.public]] 
+- [[../../../../../../_internal/geo/Continent/America~South/Argentina/Counties/Corrientes.internal|Corrientes.internal]] 
+- [[../../../../../../_protect/geo/Continent/America~South/Argentina/Counties/Corrientes.protect|Corrientes.protect]] 
+- [[../../../../../../_private/geo/Continent/America~South/Argentina/Counties/Corrientes.private|Corrientes.private]] 
+- [[../../../../../../_personal/geo/Continent/America~South/Argentina/Counties/Corrientes.personal|Corrientes.personal]] 
+- [[../../../../../../_secret/geo/Continent/America~South/Argentina/Counties/Corrientes.secret|Corrientes.secret]] 
 

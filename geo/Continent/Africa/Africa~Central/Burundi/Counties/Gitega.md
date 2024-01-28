@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ -3.4 , 30 ] 
 type: geo-Region
 title: Gitega
@@ -40,10 +40,11 @@ markerFolder: ./Gitega/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Africa/Burundi/Counties/Gitega.md|Gitega]] 
-- [[../../../../_internal/geo/Continent/Africa/Burundi/Counties/Gitega.internal|Gitega.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Burundi/Counties/Gitega.protect|Gitega.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Burundi/Counties/Gitega.private|Gitega.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Burundi/Counties/Gitega.personal|Gitega.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Burundi/Counties/Gitega.secret|Gitega.secret]] 
+- [[../../../../../../_Standards/geo/Continent/Africa/Burundi/Counties/Gitega|Gitega]] 
+- [[../../../../../../_public/geo/Continent/Africa/Burundi/Counties/Gitega.public|Gitega.public]] 
+- [[../../../../../../_internal/geo/Continent/Africa/Burundi/Counties/Gitega.internal|Gitega.internal]] 
+- [[../../../../../../_protect/geo/Continent/Africa/Burundi/Counties/Gitega.protect|Gitega.protect]] 
+- [[../../../../../../_private/geo/Continent/Africa/Burundi/Counties/Gitega.private|Gitega.private]] 
+- [[../../../../../../_personal/geo/Continent/Africa/Burundi/Counties/Gitega.personal|Gitega.personal]] 
+- [[../../../../../../_secret/geo/Continent/Africa/Burundi/Counties/Gitega.secret|Gitega.secret]] 
 

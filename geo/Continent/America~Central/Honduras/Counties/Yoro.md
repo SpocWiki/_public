@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 15.3 , -87.3 ] 
 type: geo-Region
 title: Yoro
@@ -40,10 +40,11 @@ markerFolder: ./Yoro/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/America~Central/Honduras/Counties/Yoro.md|Yoro]] 
-- [[../../../../_internal/geo/Continent/America~Central/Honduras/Counties/Yoro.internal|Yoro.internal]] 
-- [[../../../../_protect/geo/Continent/America~Central/Honduras/Counties/Yoro.protect|Yoro.protect]] 
-- [[../../../../_private/geo/Continent/America~Central/Honduras/Counties/Yoro.private|Yoro.private]] 
-- [[../../../../_personal/geo/Continent/America~Central/Honduras/Counties/Yoro.personal|Yoro.personal]] 
-- [[../../../../_secret/geo/Continent/America~Central/Honduras/Counties/Yoro.secret|Yoro.secret]] 
+- [[../../../../../../_Standards/geo/Continent/America~Central/Honduras/Counties/Yoro|Yoro]] 
+- [[../../../../../../_public/geo/Continent/America~Central/Honduras/Counties/Yoro.public|Yoro.public]] 
+- [[../../../../../../_internal/geo/Continent/America~Central/Honduras/Counties/Yoro.internal|Yoro.internal]] 
+- [[../../../../../../_protect/geo/Continent/America~Central/Honduras/Counties/Yoro.protect|Yoro.protect]] 
+- [[../../../../../../_private/geo/Continent/America~Central/Honduras/Counties/Yoro.private|Yoro.private]] 
+- [[../../../../../../_personal/geo/Continent/America~Central/Honduras/Counties/Yoro.personal|Yoro.personal]] 
+- [[../../../../../../_secret/geo/Continent/America~Central/Honduras/Counties/Yoro.secret|Yoro.secret]] 
 

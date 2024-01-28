@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 9.5 , -70.6 ] 
 type: geo-Region
 title: Trujillo
@@ -40,10 +40,11 @@ markerFolder: ./Trujillo/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/America~South/Venezuela/Counties/Trujillo.md|Trujillo]] 
-- [[../../../../_internal/geo/Continent/America~South/Venezuela/Counties/Trujillo.internal|Trujillo.internal]] 
-- [[../../../../_protect/geo/Continent/America~South/Venezuela/Counties/Trujillo.protect|Trujillo.protect]] 
-- [[../../../../_private/geo/Continent/America~South/Venezuela/Counties/Trujillo.private|Trujillo.private]] 
-- [[../../../../_personal/geo/Continent/America~South/Venezuela/Counties/Trujillo.personal|Trujillo.personal]] 
-- [[../../../../_secret/geo/Continent/America~South/Venezuela/Counties/Trujillo.secret|Trujillo.secret]] 
+- [[../../../../../../_Standards/geo/Continent/America~South/Venezuela/Counties/Trujillo|Trujillo]] 
+- [[../../../../../../_public/geo/Continent/America~South/Venezuela/Counties/Trujillo.public|Trujillo.public]] 
+- [[../../../../../../_internal/geo/Continent/America~South/Venezuela/Counties/Trujillo.internal|Trujillo.internal]] 
+- [[../../../../../../_protect/geo/Continent/America~South/Venezuela/Counties/Trujillo.protect|Trujillo.protect]] 
+- [[../../../../../../_private/geo/Continent/America~South/Venezuela/Counties/Trujillo.private|Trujillo.private]] 
+- [[../../../../../../_personal/geo/Continent/America~South/Venezuela/Counties/Trujillo.personal|Trujillo.personal]] 
+- [[../../../../../../_secret/geo/Continent/America~South/Venezuela/Counties/Trujillo.secret|Trujillo.secret]] 
 

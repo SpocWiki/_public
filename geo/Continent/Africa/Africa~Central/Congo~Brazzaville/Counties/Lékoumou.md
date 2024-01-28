@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ -3.1 , 13.6 ] 
 type: geo-Region
 title: Lékoumou
@@ -40,10 +40,11 @@ markerFolder: ./Lékoumou/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Africa/Congo~Brazzaville/Counties/Lékoumou.md|Lékoumou]] 
-- [[../../../../_internal/geo/Continent/Africa/Congo~Brazzaville/Counties/Lékoumou.internal|Lékoumou.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Congo~Brazzaville/Counties/Lékoumou.protect|Lékoumou.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Congo~Brazzaville/Counties/Lékoumou.private|Lékoumou.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Congo~Brazzaville/Counties/Lékoumou.personal|Lékoumou.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Congo~Brazzaville/Counties/Lékoumou.secret|Lékoumou.secret]] 
+- [[../../../../../../_Standards/geo/Continent/Africa/Congo~Brazzaville/Counties/Lékoumou|Lékoumou]] 
+- [[../../../../../../_public/geo/Continent/Africa/Congo~Brazzaville/Counties/Lékoumou.public|Lékoumou.public]] 
+- [[../../../../../../_internal/geo/Continent/Africa/Congo~Brazzaville/Counties/Lékoumou.internal|Lékoumou.internal]] 
+- [[../../../../../../_protect/geo/Continent/Africa/Congo~Brazzaville/Counties/Lékoumou.protect|Lékoumou.protect]] 
+- [[../../../../../../_private/geo/Continent/Africa/Congo~Brazzaville/Counties/Lékoumou.private|Lékoumou.private]] 
+- [[../../../../../../_personal/geo/Continent/Africa/Congo~Brazzaville/Counties/Lékoumou.personal|Lékoumou.personal]] 
+- [[../../../../../../_secret/geo/Continent/Africa/Congo~Brazzaville/Counties/Lékoumou.secret|Lékoumou.secret]] 
 

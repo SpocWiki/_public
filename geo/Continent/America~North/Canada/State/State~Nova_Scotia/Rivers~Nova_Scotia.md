@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 45.27484772343162 , -62.32822265624999 ] 
 type: geo-Region
 title: Rivers~Nova_Scotia
@@ -40,10 +40,11 @@ markerFolder: ./Rivers~Nova_Scotia/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/America~North/Canada/State/State~Nova_Scotia/Rivers~Nova_Scotia.md|Rivers~Nova_Scotia]] 
-- [[../../../../_internal/geo/Continent/America~North/Canada/State/State~Nova_Scotia/Rivers~Nova_Scotia.internal|Rivers~Nova_Scotia.internal]] 
-- [[../../../../_protect/geo/Continent/America~North/Canada/State/State~Nova_Scotia/Rivers~Nova_Scotia.protect|Rivers~Nova_Scotia.protect]] 
-- [[../../../../_private/geo/Continent/America~North/Canada/State/State~Nova_Scotia/Rivers~Nova_Scotia.private|Rivers~Nova_Scotia.private]] 
-- [[../../../../_personal/geo/Continent/America~North/Canada/State/State~Nova_Scotia/Rivers~Nova_Scotia.personal|Rivers~Nova_Scotia.personal]] 
-- [[../../../../_secret/geo/Continent/America~North/Canada/State/State~Nova_Scotia/Rivers~Nova_Scotia.secret|Rivers~Nova_Scotia.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/America~North/Canada/State/State~Nova_Scotia/Rivers~Nova_Scotia|Rivers~Nova_Scotia]] 
+- [[../../../../../../../_public/geo/Continent/America~North/Canada/State/State~Nova_Scotia/Rivers~Nova_Scotia.public|Rivers~Nova_Scotia.public]] 
+- [[../../../../../../../_internal/geo/Continent/America~North/Canada/State/State~Nova_Scotia/Rivers~Nova_Scotia.internal|Rivers~Nova_Scotia.internal]] 
+- [[../../../../../../../_protect/geo/Continent/America~North/Canada/State/State~Nova_Scotia/Rivers~Nova_Scotia.protect|Rivers~Nova_Scotia.protect]] 
+- [[../../../../../../../_private/geo/Continent/America~North/Canada/State/State~Nova_Scotia/Rivers~Nova_Scotia.private|Rivers~Nova_Scotia.private]] 
+- [[../../../../../../../_personal/geo/Continent/America~North/Canada/State/State~Nova_Scotia/Rivers~Nova_Scotia.personal|Rivers~Nova_Scotia.personal]] 
+- [[../../../../../../../_secret/geo/Continent/America~North/Canada/State/State~Nova_Scotia/Rivers~Nova_Scotia.secret|Rivers~Nova_Scotia.secret]] 
 

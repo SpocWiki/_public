@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ -13.1 , 49.1 ] 
 type: geo-Region
 title: Diana
@@ -40,10 +40,11 @@ markerFolder: ./Diana/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Africa/Madagascar/Counties/Diana.md|Diana]] 
-- [[../../../../_internal/geo/Continent/Africa/Madagascar/Counties/Diana.internal|Diana.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Madagascar/Counties/Diana.protect|Diana.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Madagascar/Counties/Diana.private|Diana.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Madagascar/Counties/Diana.personal|Diana.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Madagascar/Counties/Diana.secret|Diana.secret]] 
+- [[../../../../../../_Standards/geo/Continent/Africa/Madagascar/Counties/Diana|Diana]] 
+- [[../../../../../../_public/geo/Continent/Africa/Madagascar/Counties/Diana.public|Diana.public]] 
+- [[../../../../../../_internal/geo/Continent/Africa/Madagascar/Counties/Diana.internal|Diana.internal]] 
+- [[../../../../../../_protect/geo/Continent/Africa/Madagascar/Counties/Diana.protect|Diana.protect]] 
+- [[../../../../../../_private/geo/Continent/Africa/Madagascar/Counties/Diana.private|Diana.private]] 
+- [[../../../../../../_personal/geo/Continent/Africa/Madagascar/Counties/Diana.personal|Diana.personal]] 
+- [[../../../../../../_secret/geo/Continent/Africa/Madagascar/Counties/Diana.secret|Diana.secret]] 
 

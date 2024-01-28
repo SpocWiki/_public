@@ -1,5 +1,5 @@
 ﻿---
-location: [32.2,-3.58]
+location: [32.2,-3.58] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,27 +12,28 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::-3.58]
-[geo-lat::32.2]
-[name::Granada]
-[State::]
-[Country::[[Spain]]]
-[StateId::]
-[Population::]
-[Unknown::]
+[geo-lon::-3.58] 
+[geo-lat::32.2] 
+[name::Granada] 
+State ::  
+Country :: [[Spain]]  
+[StateId::] 
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Granada
-coordinates: [[Granada]]
-markerFile: [[Granada]]
+coordinates: [[Granada]] 
+markerFile: [[Granada]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_public/geo/Continent/Europe/Spain/City/Granada.md|Granada]] 
+- [[../../../../../../_Standards/geo/Continent/Europe/Spain/City/Granada|Granada]] 
+- [[../../../../../../_public/geo/Continent/Europe/Spain/City/Granada.public|Granada.public]] 
 - [[../../../../../../_internal/geo/Continent/Europe/Spain/City/Granada.internal|Granada.internal]] 
 - [[../../../../../../_protect/geo/Continent/Europe/Spain/City/Granada.protect|Granada.protect]] 
 - [[../../../../../../_private/geo/Continent/Europe/Spain/City/Granada.private|Granada.private]] 

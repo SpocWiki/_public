@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ -4.3 , 12 ] 
 type: geo-Region
 title: Kouilou
@@ -40,10 +40,11 @@ markerFolder: ./Kouilou/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Africa/Congo~Brazzaville/Counties/Kouilou.md|Kouilou]] 
-- [[../../../../_internal/geo/Continent/Africa/Congo~Brazzaville/Counties/Kouilou.internal|Kouilou.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Congo~Brazzaville/Counties/Kouilou.protect|Kouilou.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Congo~Brazzaville/Counties/Kouilou.private|Kouilou.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Congo~Brazzaville/Counties/Kouilou.personal|Kouilou.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Congo~Brazzaville/Counties/Kouilou.secret|Kouilou.secret]] 
+- [[../../../../../../_Standards/geo/Continent/Africa/Congo~Brazzaville/Counties/Kouilou|Kouilou]] 
+- [[../../../../../../_public/geo/Continent/Africa/Congo~Brazzaville/Counties/Kouilou.public|Kouilou.public]] 
+- [[../../../../../../_internal/geo/Continent/Africa/Congo~Brazzaville/Counties/Kouilou.internal|Kouilou.internal]] 
+- [[../../../../../../_protect/geo/Continent/Africa/Congo~Brazzaville/Counties/Kouilou.protect|Kouilou.protect]] 
+- [[../../../../../../_private/geo/Continent/Africa/Congo~Brazzaville/Counties/Kouilou.private|Kouilou.private]] 
+- [[../../../../../../_personal/geo/Continent/Africa/Congo~Brazzaville/Counties/Kouilou.personal|Kouilou.personal]] 
+- [[../../../../../../_secret/geo/Continent/Africa/Congo~Brazzaville/Counties/Kouilou.secret|Kouilou.secret]] 
 

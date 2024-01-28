@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ -3.3 , 12.3 ] 
 type: geo-Region
 title: Niari
@@ -40,10 +40,11 @@ markerFolder: ./Niari/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Africa/Congo~Brazzaville/Counties/Niari.md|Niari]] 
-- [[../../../../_internal/geo/Continent/Africa/Congo~Brazzaville/Counties/Niari.internal|Niari.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Congo~Brazzaville/Counties/Niari.protect|Niari.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Congo~Brazzaville/Counties/Niari.private|Niari.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Congo~Brazzaville/Counties/Niari.personal|Niari.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Congo~Brazzaville/Counties/Niari.secret|Niari.secret]] 
+- [[../../../../../../_Standards/geo/Continent/Africa/Congo~Brazzaville/Counties/Niari|Niari]] 
+- [[../../../../../../_public/geo/Continent/Africa/Congo~Brazzaville/Counties/Niari.public|Niari.public]] 
+- [[../../../../../../_internal/geo/Continent/Africa/Congo~Brazzaville/Counties/Niari.internal|Niari.internal]] 
+- [[../../../../../../_protect/geo/Continent/Africa/Congo~Brazzaville/Counties/Niari.protect|Niari.protect]] 
+- [[../../../../../../_private/geo/Continent/Africa/Congo~Brazzaville/Counties/Niari.private|Niari.private]] 
+- [[../../../../../../_personal/geo/Continent/Africa/Congo~Brazzaville/Counties/Niari.personal|Niari.personal]] 
+- [[../../../../../../_secret/geo/Continent/Africa/Congo~Brazzaville/Counties/Niari.secret|Niari.secret]] 
 

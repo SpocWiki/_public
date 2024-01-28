@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 36.8 , 9.9 ] 
 type: geo-Region
 title: Manubah
@@ -40,10 +40,11 @@ markerFolder: ./Manubah/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Africa/Tunisia/Counties/Manubah.md|Manubah]] 
-- [[../../../../_internal/geo/Continent/Africa/Tunisia/Counties/Manubah.internal|Manubah.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Tunisia/Counties/Manubah.protect|Manubah.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Tunisia/Counties/Manubah.private|Manubah.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Tunisia/Counties/Manubah.personal|Manubah.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Tunisia/Counties/Manubah.secret|Manubah.secret]] 
+- [[../../../../../../_Standards/geo/Continent/Africa/Tunisia/Counties/Manubah|Manubah]] 
+- [[../../../../../../_public/geo/Continent/Africa/Tunisia/Counties/Manubah.public|Manubah.public]] 
+- [[../../../../../../_internal/geo/Continent/Africa/Tunisia/Counties/Manubah.internal|Manubah.internal]] 
+- [[../../../../../../_protect/geo/Continent/Africa/Tunisia/Counties/Manubah.protect|Manubah.protect]] 
+- [[../../../../../../_private/geo/Continent/Africa/Tunisia/Counties/Manubah.private|Manubah.private]] 
+- [[../../../../../../_personal/geo/Continent/Africa/Tunisia/Counties/Manubah.personal|Manubah.personal]] 
+- [[../../../../../../_secret/geo/Continent/Africa/Tunisia/Counties/Manubah.secret|Manubah.secret]] 
 

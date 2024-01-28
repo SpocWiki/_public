@@ -1,5 +1,5 @@
 ---
-location: [14.03333,-60.98333]
+location: [14.03333,-60.98333] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,27 +12,28 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::-60.98333]
-[geo-lat::14.03333]
-[name::Castries]
-[State::]
-[Country::[[../../../../Saint_Lucia]]]
-[StateId::]
-[Population::]
-[Unknown::]
+[geo-lon::-60.98333] 
+[geo-lat::14.03333] 
+[name::Castries] 
+State ::  
+Country :: [[../../../../Saint_Lucia]]  
+[StateId::] 
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Castries
-coordinates: [[Castries]]
-markerFile: [[Castries]]
+coordinates: [[Castries]] 
+markerFile: [[Castries]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_public/geo/Continent/South-America/Saint_Lucia/City/Castries.md|Castries]] 
+- [[../../../../../../_Standards/geo/Continent/South-America/Saint_Lucia/City/Castries|Castries]] 
+- [[../../../../../../_public/geo/Continent/South-America/Saint_Lucia/City/Castries.public|Castries.public]] 
 - [[../../../../../../_internal/geo/Continent/South-America/Saint_Lucia/City/Castries.internal|Castries.internal]] 
 - [[../../../../../../_protect/geo/Continent/South-America/Saint_Lucia/City/Castries.protect|Castries.protect]] 
 - [[../../../../../../_private/geo/Continent/South-America/Saint_Lucia/City/Castries.private|Castries.private]] 

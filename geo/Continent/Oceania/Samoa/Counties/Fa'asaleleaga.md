@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ -13.7 , 187.8 ] 
 type: geo-Region
 title: Fa'asaleleaga
@@ -40,10 +40,11 @@ markerFolder: ./Fa'asaleleaga/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Oceania/Samoa/Counties/Fa'asaleleaga.md|Fa'asaleleaga]] 
-- [[../../../../_internal/geo/Continent/Oceania/Samoa/Counties/Fa'asaleleaga.internal|Fa'asaleleaga.internal]] 
-- [[../../../../_protect/geo/Continent/Oceania/Samoa/Counties/Fa'asaleleaga.protect|Fa'asaleleaga.protect]] 
-- [[../../../../_private/geo/Continent/Oceania/Samoa/Counties/Fa'asaleleaga.private|Fa'asaleleaga.private]] 
-- [[../../../../_personal/geo/Continent/Oceania/Samoa/Counties/Fa'asaleleaga.personal|Fa'asaleleaga.personal]] 
-- [[../../../../_secret/geo/Continent/Oceania/Samoa/Counties/Fa'asaleleaga.secret|Fa'asaleleaga.secret]] 
+- [[../../../../../../_Standards/geo/Continent/Oceania/Samoa/Counties/Fa'asaleleaga|Fa'asaleleaga]] 
+- [[../../../../../../_public/geo/Continent/Oceania/Samoa/Counties/Fa'asaleleaga.public|Fa'asaleleaga.public]] 
+- [[../../../../../../_internal/geo/Continent/Oceania/Samoa/Counties/Fa'asaleleaga.internal|Fa'asaleleaga.internal]] 
+- [[../../../../../../_protect/geo/Continent/Oceania/Samoa/Counties/Fa'asaleleaga.protect|Fa'asaleleaga.protect]] 
+- [[../../../../../../_private/geo/Continent/Oceania/Samoa/Counties/Fa'asaleleaga.private|Fa'asaleleaga.private]] 
+- [[../../../../../../_personal/geo/Continent/Oceania/Samoa/Counties/Fa'asaleleaga.personal|Fa'asaleleaga.personal]] 
+- [[../../../../../../_secret/geo/Continent/Oceania/Samoa/Counties/Fa'asaleleaga.secret|Fa'asaleleaga.secret]] 
 

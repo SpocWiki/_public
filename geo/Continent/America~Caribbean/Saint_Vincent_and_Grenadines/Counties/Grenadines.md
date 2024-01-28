@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 13.01 , -61.23 ] 
 type: geo-Region
 title: Grenadines
@@ -40,10 +40,11 @@ markerFolder: ./Grenadines/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/America~Caribbean/Saint_Vincent_and_Grenadines/Counties/Grenadines.md|Grenadines]] 
-- [[../../../../_internal/geo/Continent/America~Caribbean/Saint_Vincent_and_Grenadines/Counties/Grenadines.internal|Grenadines.internal]] 
-- [[../../../../_protect/geo/Continent/America~Caribbean/Saint_Vincent_and_Grenadines/Counties/Grenadines.protect|Grenadines.protect]] 
-- [[../../../../_private/geo/Continent/America~Caribbean/Saint_Vincent_and_Grenadines/Counties/Grenadines.private|Grenadines.private]] 
-- [[../../../../_personal/geo/Continent/America~Caribbean/Saint_Vincent_and_Grenadines/Counties/Grenadines.personal|Grenadines.personal]] 
-- [[../../../../_secret/geo/Continent/America~Caribbean/Saint_Vincent_and_Grenadines/Counties/Grenadines.secret|Grenadines.secret]] 
+- [[../../../../../../_Standards/geo/Continent/America~Caribbean/Saint_Vincent_and_Grenadines/Counties/Grenadines|Grenadines]] 
+- [[../../../../../../_public/geo/Continent/America~Caribbean/Saint_Vincent_and_Grenadines/Counties/Grenadines.public|Grenadines.public]] 
+- [[../../../../../../_internal/geo/Continent/America~Caribbean/Saint_Vincent_and_Grenadines/Counties/Grenadines.internal|Grenadines.internal]] 
+- [[../../../../../../_protect/geo/Continent/America~Caribbean/Saint_Vincent_and_Grenadines/Counties/Grenadines.protect|Grenadines.protect]] 
+- [[../../../../../../_private/geo/Continent/America~Caribbean/Saint_Vincent_and_Grenadines/Counties/Grenadines.private|Grenadines.private]] 
+- [[../../../../../../_personal/geo/Continent/America~Caribbean/Saint_Vincent_and_Grenadines/Counties/Grenadines.personal|Grenadines.personal]] 
+- [[../../../../../../_secret/geo/Continent/America~Caribbean/Saint_Vincent_and_Grenadines/Counties/Grenadines.secret|Grenadines.secret]] 
 

@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 10.7 , -75 ] 
 type: geo-Region
 title: Atlántico
@@ -40,10 +40,11 @@ markerFolder: ./Atlántico/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/America~South/Colombia/Counties/Atlántico.md|Atlántico]] 
-- [[../../../../_internal/geo/Continent/America~South/Colombia/Counties/Atlántico.internal|Atlántico.internal]] 
-- [[../../../../_protect/geo/Continent/America~South/Colombia/Counties/Atlántico.protect|Atlántico.protect]] 
-- [[../../../../_private/geo/Continent/America~South/Colombia/Counties/Atlántico.private|Atlántico.private]] 
-- [[../../../../_personal/geo/Continent/America~South/Colombia/Counties/Atlántico.personal|Atlántico.personal]] 
-- [[../../../../_secret/geo/Continent/America~South/Colombia/Counties/Atlántico.secret|Atlántico.secret]] 
+- [[../../../../../../_Standards/geo/Continent/America~South/Colombia/Counties/Atlántico|Atlántico]] 
+- [[../../../../../../_public/geo/Continent/America~South/Colombia/Counties/Atlántico.public|Atlántico.public]] 
+- [[../../../../../../_internal/geo/Continent/America~South/Colombia/Counties/Atlántico.internal|Atlántico.internal]] 
+- [[../../../../../../_protect/geo/Continent/America~South/Colombia/Counties/Atlántico.protect|Atlántico.protect]] 
+- [[../../../../../../_private/geo/Continent/America~South/Colombia/Counties/Atlántico.private|Atlántico.private]] 
+- [[../../../../../../_personal/geo/Continent/America~South/Colombia/Counties/Atlántico.personal|Atlántico.personal]] 
+- [[../../../../../../_secret/geo/Continent/America~South/Colombia/Counties/Atlántico.secret|Atlántico.secret]] 
 

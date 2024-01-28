@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 4.1 , -76.2 ] 
 type: geo-Region
 title: Valle_del_Cauca
@@ -40,10 +40,11 @@ markerFolder: ./Valle_del_Cauca/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/America~South/Colombia/Counties/Valle_del_Cauca.md|Valle_del_Cauca]] 
-- [[../../../../_internal/geo/Continent/America~South/Colombia/Counties/Valle_del_Cauca.internal|Valle_del_Cauca.internal]] 
-- [[../../../../_protect/geo/Continent/America~South/Colombia/Counties/Valle_del_Cauca.protect|Valle_del_Cauca.protect]] 
-- [[../../../../_private/geo/Continent/America~South/Colombia/Counties/Valle_del_Cauca.private|Valle_del_Cauca.private]] 
-- [[../../../../_personal/geo/Continent/America~South/Colombia/Counties/Valle_del_Cauca.personal|Valle_del_Cauca.personal]] 
-- [[../../../../_secret/geo/Continent/America~South/Colombia/Counties/Valle_del_Cauca.secret|Valle_del_Cauca.secret]] 
+- [[../../../../../../_Standards/geo/Continent/America~South/Colombia/Counties/Valle_del_Cauca|Valle_del_Cauca]] 
+- [[../../../../../../_public/geo/Continent/America~South/Colombia/Counties/Valle_del_Cauca.public|Valle_del_Cauca.public]] 
+- [[../../../../../../_internal/geo/Continent/America~South/Colombia/Counties/Valle_del_Cauca.internal|Valle_del_Cauca.internal]] 
+- [[../../../../../../_protect/geo/Continent/America~South/Colombia/Counties/Valle_del_Cauca.protect|Valle_del_Cauca.protect]] 
+- [[../../../../../../_private/geo/Continent/America~South/Colombia/Counties/Valle_del_Cauca.private|Valle_del_Cauca.private]] 
+- [[../../../../../../_personal/geo/Continent/America~South/Colombia/Counties/Valle_del_Cauca.personal|Valle_del_Cauca.personal]] 
+- [[../../../../../../_secret/geo/Continent/America~South/Colombia/Counties/Valle_del_Cauca.secret|Valle_del_Cauca.secret]] 
 

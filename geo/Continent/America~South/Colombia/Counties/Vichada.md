@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 4.5 , -69.5 ] 
 type: geo-Region
 title: Vichada
@@ -40,10 +40,11 @@ markerFolder: ./Vichada/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/America~South/Colombia/Counties/Vichada.md|Vichada]] 
-- [[../../../../_internal/geo/Continent/America~South/Colombia/Counties/Vichada.internal|Vichada.internal]] 
-- [[../../../../_protect/geo/Continent/America~South/Colombia/Counties/Vichada.protect|Vichada.protect]] 
-- [[../../../../_private/geo/Continent/America~South/Colombia/Counties/Vichada.private|Vichada.private]] 
-- [[../../../../_personal/geo/Continent/America~South/Colombia/Counties/Vichada.personal|Vichada.personal]] 
-- [[../../../../_secret/geo/Continent/America~South/Colombia/Counties/Vichada.secret|Vichada.secret]] 
+- [[../../../../../../_Standards/geo/Continent/America~South/Colombia/Counties/Vichada|Vichada]] 
+- [[../../../../../../_public/geo/Continent/America~South/Colombia/Counties/Vichada.public|Vichada.public]] 
+- [[../../../../../../_internal/geo/Continent/America~South/Colombia/Counties/Vichada.internal|Vichada.internal]] 
+- [[../../../../../../_protect/geo/Continent/America~South/Colombia/Counties/Vichada.protect|Vichada.protect]] 
+- [[../../../../../../_private/geo/Continent/America~South/Colombia/Counties/Vichada.private|Vichada.private]] 
+- [[../../../../../../_personal/geo/Continent/America~South/Colombia/Counties/Vichada.personal|Vichada.personal]] 
+- [[../../../../../../_secret/geo/Continent/America~South/Colombia/Counties/Vichada.secret|Vichada.secret]] 
 

@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ -0.2 , 33.8 ] 
 type: geo-Region
 title: Namayingo
@@ -40,10 +40,11 @@ markerFolder: ./Namayingo/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Africa/Uganda/Counties/Namayingo.md|Namayingo]] 
-- [[../../../../_internal/geo/Continent/Africa/Uganda/Counties/Namayingo.internal|Namayingo.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Uganda/Counties/Namayingo.protect|Namayingo.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Uganda/Counties/Namayingo.private|Namayingo.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Uganda/Counties/Namayingo.personal|Namayingo.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Uganda/Counties/Namayingo.secret|Namayingo.secret]] 
+- [[../../../../../../_Standards/geo/Continent/Africa/Uganda/Counties/Namayingo|Namayingo]] 
+- [[../../../../../../_public/geo/Continent/Africa/Uganda/Counties/Namayingo.public|Namayingo.public]] 
+- [[../../../../../../_internal/geo/Continent/Africa/Uganda/Counties/Namayingo.internal|Namayingo.internal]] 
+- [[../../../../../../_protect/geo/Continent/Africa/Uganda/Counties/Namayingo.protect|Namayingo.protect]] 
+- [[../../../../../../_private/geo/Continent/Africa/Uganda/Counties/Namayingo.private|Namayingo.private]] 
+- [[../../../../../../_personal/geo/Continent/Africa/Uganda/Counties/Namayingo.personal|Namayingo.personal]] 
+- [[../../../../../../_secret/geo/Continent/Africa/Uganda/Counties/Namayingo.secret|Namayingo.secret]] 
 

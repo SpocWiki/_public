@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ -22.2 , 15.4 ] 
 type: geo-Region
 title: Erongo
@@ -40,10 +40,11 @@ markerFolder: ./Erongo/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Africa/Namibia/Counties/Erongo.md|Erongo]] 
-- [[../../../../_internal/geo/Continent/Africa/Namibia/Counties/Erongo.internal|Erongo.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Namibia/Counties/Erongo.protect|Erongo.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Namibia/Counties/Erongo.private|Erongo.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Namibia/Counties/Erongo.personal|Erongo.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Namibia/Counties/Erongo.secret|Erongo.secret]] 
+- [[../../../../../../_Standards/geo/Continent/Africa/Namibia/Counties/Erongo|Erongo]] 
+- [[../../../../../../_public/geo/Continent/Africa/Namibia/Counties/Erongo.public|Erongo.public]] 
+- [[../../../../../../_internal/geo/Continent/Africa/Namibia/Counties/Erongo.internal|Erongo.internal]] 
+- [[../../../../../../_protect/geo/Continent/Africa/Namibia/Counties/Erongo.protect|Erongo.protect]] 
+- [[../../../../../../_private/geo/Continent/Africa/Namibia/Counties/Erongo.private|Erongo.private]] 
+- [[../../../../../../_personal/geo/Continent/Africa/Namibia/Counties/Erongo.personal|Erongo.personal]] 
+- [[../../../../../../_secret/geo/Continent/Africa/Namibia/Counties/Erongo.secret|Erongo.secret]] 
 

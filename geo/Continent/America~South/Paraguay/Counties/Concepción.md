@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ -22.8 , -57.3 ] 
 type: geo-Region
 title: Concepción
@@ -40,10 +40,11 @@ markerFolder: ./Concepción/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/America~South/Paraguay/Counties/Concepción.md|Concepción]] 
-- [[../../../../_internal/geo/Continent/America~South/Paraguay/Counties/Concepción.internal|Concepción.internal]] 
-- [[../../../../_protect/geo/Continent/America~South/Paraguay/Counties/Concepción.protect|Concepción.protect]] 
-- [[../../../../_private/geo/Continent/America~South/Paraguay/Counties/Concepción.private|Concepción.private]] 
-- [[../../../../_personal/geo/Continent/America~South/Paraguay/Counties/Concepción.personal|Concepción.personal]] 
-- [[../../../../_secret/geo/Continent/America~South/Paraguay/Counties/Concepción.secret|Concepción.secret]] 
+- [[../../../../../../_Standards/geo/Continent/America~South/Paraguay/Counties/Concepción|Concepción]] 
+- [[../../../../../../_public/geo/Continent/America~South/Paraguay/Counties/Concepción.public|Concepción.public]] 
+- [[../../../../../../_internal/geo/Continent/America~South/Paraguay/Counties/Concepción.internal|Concepción.internal]] 
+- [[../../../../../../_protect/geo/Continent/America~South/Paraguay/Counties/Concepción.protect|Concepción.protect]] 
+- [[../../../../../../_private/geo/Continent/America~South/Paraguay/Counties/Concepción.private|Concepción.private]] 
+- [[../../../../../../_personal/geo/Continent/America~South/Paraguay/Counties/Concepción.personal|Concepción.personal]] 
+- [[../../../../../../_secret/geo/Continent/America~South/Paraguay/Counties/Concepción.secret|Concepción.secret]] 
 

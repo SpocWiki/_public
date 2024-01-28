@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 2 , 32.1 ] 
 type: geo-Region
 title: Kiryandongo
@@ -40,10 +40,11 @@ markerFolder: ./Kiryandongo/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Africa/Uganda/Counties/Kiryandongo.md|Kiryandongo]] 
-- [[../../../../_internal/geo/Continent/Africa/Uganda/Counties/Kiryandongo.internal|Kiryandongo.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Uganda/Counties/Kiryandongo.protect|Kiryandongo.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Uganda/Counties/Kiryandongo.private|Kiryandongo.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Uganda/Counties/Kiryandongo.personal|Kiryandongo.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Uganda/Counties/Kiryandongo.secret|Kiryandongo.secret]] 
+- [[../../../../../../_Standards/geo/Continent/Africa/Uganda/Counties/Kiryandongo|Kiryandongo]] 
+- [[../../../../../../_public/geo/Continent/Africa/Uganda/Counties/Kiryandongo.public|Kiryandongo.public]] 
+- [[../../../../../../_internal/geo/Continent/Africa/Uganda/Counties/Kiryandongo.internal|Kiryandongo.internal]] 
+- [[../../../../../../_protect/geo/Continent/Africa/Uganda/Counties/Kiryandongo.protect|Kiryandongo.protect]] 
+- [[../../../../../../_private/geo/Continent/Africa/Uganda/Counties/Kiryandongo.private|Kiryandongo.private]] 
+- [[../../../../../../_personal/geo/Continent/Africa/Uganda/Counties/Kiryandongo.personal|Kiryandongo.personal]] 
+- [[../../../../../../_secret/geo/Continent/Africa/Uganda/Counties/Kiryandongo.secret|Kiryandongo.secret]] 
 

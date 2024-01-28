@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ -6.8 , -41.9 ] 
 type: geo-Region
 title: Piauí
@@ -40,10 +40,11 @@ markerFolder: ./Piauí/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/America~South/Brazil/Counties/Piauí.md|Piauí]] 
-- [[../../../../_internal/geo/Continent/America~South/Brazil/Counties/Piauí.internal|Piauí.internal]] 
-- [[../../../../_protect/geo/Continent/America~South/Brazil/Counties/Piauí.protect|Piauí.protect]] 
-- [[../../../../_private/geo/Continent/America~South/Brazil/Counties/Piauí.private|Piauí.private]] 
-- [[../../../../_personal/geo/Continent/America~South/Brazil/Counties/Piauí.personal|Piauí.personal]] 
-- [[../../../../_secret/geo/Continent/America~South/Brazil/Counties/Piauí.secret|Piauí.secret]] 
+- [[../../../../../../_Standards/geo/Continent/America~South/Brazil/Counties/Piauí|Piauí]] 
+- [[../../../../../../_public/geo/Continent/America~South/Brazil/Counties/Piauí.public|Piauí.public]] 
+- [[../../../../../../_internal/geo/Continent/America~South/Brazil/Counties/Piauí.internal|Piauí.internal]] 
+- [[../../../../../../_protect/geo/Continent/America~South/Brazil/Counties/Piauí.protect|Piauí.protect]] 
+- [[../../../../../../_private/geo/Continent/America~South/Brazil/Counties/Piauí.private|Piauí.private]] 
+- [[../../../../../../_personal/geo/Continent/America~South/Brazil/Counties/Piauí.personal|Piauí.personal]] 
+- [[../../../../../../_secret/geo/Continent/America~South/Brazil/Counties/Piauí.secret|Piauí.secret]] 
 

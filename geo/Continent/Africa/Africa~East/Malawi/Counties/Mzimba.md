@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ -11.8 , 33.6 ] 
 type: geo-Region
 title: Mzimba
@@ -40,10 +40,11 @@ markerFolder: ./Mzimba/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Africa/Malawi/Counties/Mzimba.md|Mzimba]] 
-- [[../../../../_internal/geo/Continent/Africa/Malawi/Counties/Mzimba.internal|Mzimba.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Malawi/Counties/Mzimba.protect|Mzimba.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Malawi/Counties/Mzimba.private|Mzimba.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Malawi/Counties/Mzimba.personal|Mzimba.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Malawi/Counties/Mzimba.secret|Mzimba.secret]] 
+- [[../../../../../../_Standards/geo/Continent/Africa/Malawi/Counties/Mzimba|Mzimba]] 
+- [[../../../../../../_public/geo/Continent/Africa/Malawi/Counties/Mzimba.public|Mzimba.public]] 
+- [[../../../../../../_internal/geo/Continent/Africa/Malawi/Counties/Mzimba.internal|Mzimba.internal]] 
+- [[../../../../../../_protect/geo/Continent/Africa/Malawi/Counties/Mzimba.protect|Mzimba.protect]] 
+- [[../../../../../../_private/geo/Continent/Africa/Malawi/Counties/Mzimba.private|Mzimba.private]] 
+- [[../../../../../../_personal/geo/Continent/Africa/Malawi/Counties/Mzimba.personal|Mzimba.personal]] 
+- [[../../../../../../_secret/geo/Continent/Africa/Malawi/Counties/Mzimba.secret|Mzimba.secret]] 
 

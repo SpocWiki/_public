@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ -13.9 , 188.2 ] 
 type: geo-Region
 title: Tuamasaga
@@ -40,10 +40,11 @@ markerFolder: ./Tuamasaga/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Oceania/Samoa/Counties/Tuamasaga.md|Tuamasaga]] 
-- [[../../../../_internal/geo/Continent/Oceania/Samoa/Counties/Tuamasaga.internal|Tuamasaga.internal]] 
-- [[../../../../_protect/geo/Continent/Oceania/Samoa/Counties/Tuamasaga.protect|Tuamasaga.protect]] 
-- [[../../../../_private/geo/Continent/Oceania/Samoa/Counties/Tuamasaga.private|Tuamasaga.private]] 
-- [[../../../../_personal/geo/Continent/Oceania/Samoa/Counties/Tuamasaga.personal|Tuamasaga.personal]] 
-- [[../../../../_secret/geo/Continent/Oceania/Samoa/Counties/Tuamasaga.secret|Tuamasaga.secret]] 
+- [[../../../../../../_Standards/geo/Continent/Oceania/Samoa/Counties/Tuamasaga|Tuamasaga]] 
+- [[../../../../../../_public/geo/Continent/Oceania/Samoa/Counties/Tuamasaga.public|Tuamasaga.public]] 
+- [[../../../../../../_internal/geo/Continent/Oceania/Samoa/Counties/Tuamasaga.internal|Tuamasaga.internal]] 
+- [[../../../../../../_protect/geo/Continent/Oceania/Samoa/Counties/Tuamasaga.protect|Tuamasaga.protect]] 
+- [[../../../../../../_private/geo/Continent/Oceania/Samoa/Counties/Tuamasaga.private|Tuamasaga.private]] 
+- [[../../../../../../_personal/geo/Continent/Oceania/Samoa/Counties/Tuamasaga.personal|Tuamasaga.personal]] 
+- [[../../../../../../_secret/geo/Continent/Oceania/Samoa/Counties/Tuamasaga.secret|Tuamasaga.secret]] 
 

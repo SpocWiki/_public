@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 13.5 , -16.1 ] 
 type: geo-Region
 title: North_Bank
@@ -40,10 +40,11 @@ markerFolder: ./North_Bank/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Africa/Gambia/Counties/North_Bank.md|North_Bank]] 
-- [[../../../../_internal/geo/Continent/Africa/Gambia/Counties/North_Bank.internal|North_Bank.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Gambia/Counties/North_Bank.protect|North_Bank.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Gambia/Counties/North_Bank.private|North_Bank.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Gambia/Counties/North_Bank.personal|North_Bank.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Gambia/Counties/North_Bank.secret|North_Bank.secret]] 
+- [[../../../../../../_Standards/geo/Continent/Africa/Gambia/Counties/North_Bank|North_Bank]] 
+- [[../../../../../../_public/geo/Continent/Africa/Gambia/Counties/North_Bank.public|North_Bank.public]] 
+- [[../../../../../../_internal/geo/Continent/Africa/Gambia/Counties/North_Bank.internal|North_Bank.internal]] 
+- [[../../../../../../_protect/geo/Continent/Africa/Gambia/Counties/North_Bank.protect|North_Bank.protect]] 
+- [[../../../../../../_private/geo/Continent/Africa/Gambia/Counties/North_Bank.private|North_Bank.private]] 
+- [[../../../../../../_personal/geo/Continent/Africa/Gambia/Counties/North_Bank.personal|North_Bank.personal]] 
+- [[../../../../../../_secret/geo/Continent/Africa/Gambia/Counties/North_Bank.secret|North_Bank.secret]] 
 

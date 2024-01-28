@@ -40,7 +40,8 @@ markerFolder: ./Island~Clipperton/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/America~Caribbean/Island~Clipperton.md|Island~Clipperton]] 
+- [[../../../../_Standards/geo/Continent/America~Caribbean/Island~Clipperton|Island~Clipperton]] 
+- [[../../../../_public/geo/Continent/America~Caribbean/Island~Clipperton.public|Island~Clipperton.public]] 
 - [[../../../../_internal/geo/Continent/America~Caribbean/Island~Clipperton.internal|Island~Clipperton.internal]] 
 - [[../../../../_protect/geo/Continent/America~Caribbean/Island~Clipperton.protect|Island~Clipperton.protect]] 
 - [[../../../../_private/geo/Continent/America~Caribbean/Island~Clipperton.private|Island~Clipperton.private]] 

@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ -4.71 , 55.51 ] 
 type: geo-Region
 title: Au_Cap
@@ -40,10 +40,11 @@ markerFolder: ./Au_Cap/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Africa/Seychelles/Counties/Au_Cap.md|Au_Cap]] 
-- [[../../../../_internal/geo/Continent/Africa/Seychelles/Counties/Au_Cap.internal|Au_Cap.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Seychelles/Counties/Au_Cap.protect|Au_Cap.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Seychelles/Counties/Au_Cap.private|Au_Cap.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Seychelles/Counties/Au_Cap.personal|Au_Cap.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Seychelles/Counties/Au_Cap.secret|Au_Cap.secret]] 
+- [[../../../../../../_Standards/geo/Continent/Africa/Seychelles/Counties/Au_Cap|Au_Cap]] 
+- [[../../../../../../_public/geo/Continent/Africa/Seychelles/Counties/Au_Cap.public|Au_Cap.public]] 
+- [[../../../../../../_internal/geo/Continent/Africa/Seychelles/Counties/Au_Cap.internal|Au_Cap.internal]] 
+- [[../../../../../../_protect/geo/Continent/Africa/Seychelles/Counties/Au_Cap.protect|Au_Cap.protect]] 
+- [[../../../../../../_private/geo/Continent/Africa/Seychelles/Counties/Au_Cap.private|Au_Cap.private]] 
+- [[../../../../../../_personal/geo/Continent/Africa/Seychelles/Counties/Au_Cap.personal|Au_Cap.personal]] 
+- [[../../../../../../_secret/geo/Continent/Africa/Seychelles/Counties/Au_Cap.secret|Au_Cap.secret]] 
 

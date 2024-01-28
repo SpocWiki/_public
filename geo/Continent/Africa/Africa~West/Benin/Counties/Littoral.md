@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 6.37 , 2.43 ] 
 type: geo-Region
 title: Littoral
@@ -40,10 +40,11 @@ markerFolder: ./Littoral/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Africa/Benin/Counties/Littoral.md|Littoral]] 
-- [[../../../../_internal/geo/Continent/Africa/Benin/Counties/Littoral.internal|Littoral.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Benin/Counties/Littoral.protect|Littoral.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Benin/Counties/Littoral.private|Littoral.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Benin/Counties/Littoral.personal|Littoral.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Benin/Counties/Littoral.secret|Littoral.secret]] 
+- [[../../../../../../_Standards/geo/Continent/Africa/Benin/Counties/Littoral|Littoral]] 
+- [[../../../../../../_public/geo/Continent/Africa/Benin/Counties/Littoral.public|Littoral.public]] 
+- [[../../../../../../_internal/geo/Continent/Africa/Benin/Counties/Littoral.internal|Littoral.internal]] 
+- [[../../../../../../_protect/geo/Continent/Africa/Benin/Counties/Littoral.protect|Littoral.protect]] 
+- [[../../../../../../_private/geo/Continent/Africa/Benin/Counties/Littoral.private|Littoral.private]] 
+- [[../../../../../../_personal/geo/Continent/Africa/Benin/Counties/Littoral.personal|Littoral.personal]] 
+- [[../../../../../../_secret/geo/Continent/Africa/Benin/Counties/Littoral.secret|Littoral.secret]] 
 

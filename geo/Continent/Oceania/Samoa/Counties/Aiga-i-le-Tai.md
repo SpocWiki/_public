@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ -13.87 , 187.98 ] 
 type: geo-Region
 title: Aiga-i-le-Tai
@@ -40,10 +40,11 @@ markerFolder: ./Aiga-i-le-Tai/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Oceania/Samoa/Counties/Aiga-i-le-Tai.md|Aiga-i-le-Tai]] 
-- [[../../../../_internal/geo/Continent/Oceania/Samoa/Counties/Aiga-i-le-Tai.internal|Aiga-i-le-Tai.internal]] 
-- [[../../../../_protect/geo/Continent/Oceania/Samoa/Counties/Aiga-i-le-Tai.protect|Aiga-i-le-Tai.protect]] 
-- [[../../../../_private/geo/Continent/Oceania/Samoa/Counties/Aiga-i-le-Tai.private|Aiga-i-le-Tai.private]] 
-- [[../../../../_personal/geo/Continent/Oceania/Samoa/Counties/Aiga-i-le-Tai.personal|Aiga-i-le-Tai.personal]] 
-- [[../../../../_secret/geo/Continent/Oceania/Samoa/Counties/Aiga-i-le-Tai.secret|Aiga-i-le-Tai.secret]] 
+- [[../../../../../../_Standards/geo/Continent/Oceania/Samoa/Counties/Aiga-i-le-Tai|Aiga-i-le-Tai]] 
+- [[../../../../../../_public/geo/Continent/Oceania/Samoa/Counties/Aiga-i-le-Tai.public|Aiga-i-le-Tai.public]] 
+- [[../../../../../../_internal/geo/Continent/Oceania/Samoa/Counties/Aiga-i-le-Tai.internal|Aiga-i-le-Tai.internal]] 
+- [[../../../../../../_protect/geo/Continent/Oceania/Samoa/Counties/Aiga-i-le-Tai.protect|Aiga-i-le-Tai.protect]] 
+- [[../../../../../../_private/geo/Continent/Oceania/Samoa/Counties/Aiga-i-le-Tai.private|Aiga-i-le-Tai.private]] 
+- [[../../../../../../_personal/geo/Continent/Oceania/Samoa/Counties/Aiga-i-le-Tai.personal|Aiga-i-le-Tai.personal]] 
+- [[../../../../../../_secret/geo/Continent/Oceania/Samoa/Counties/Aiga-i-le-Tai.secret|Aiga-i-le-Tai.secret]] 
 

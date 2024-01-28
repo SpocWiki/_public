@@ -1,5 +1,5 @@
 ﻿---
-location: [0.3833333,9.45]
+location: [0.3833333,9.45] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,27 +12,28 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::9.45]
-[geo-lat::0.3833333]
-[name::Libreville]
-[State::]
-[Country::[[Gabon]]]
-[StateId::]
-[Population::]
-[Unknown::32]
+[geo-lon::9.45] 
+[geo-lat::0.3833333] 
+[name::Libreville] 
+State ::  
+Country :: [[Gabon]]  
+[StateId::] 
+[Population::] 
+[Unknown::32] 
 
 
 ```leaflet
 id: Libreville
-coordinates: [[Libreville]]
-markerFile: [[Libreville]]
+coordinates: [[Libreville]] 
+markerFile: [[Libreville]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_public/geo/Continent/Africa/Gabon/City/Libreville.md|Libreville]] 
+- [[../../../../../../_Standards/geo/Continent/Africa/Gabon/City/Libreville|Libreville]] 
+- [[../../../../../../_public/geo/Continent/Africa/Gabon/City/Libreville.public|Libreville.public]] 
 - [[../../../../../../_internal/geo/Continent/Africa/Gabon/City/Libreville.internal|Libreville.internal]] 
 - [[../../../../../../_protect/geo/Continent/Africa/Gabon/City/Libreville.protect|Libreville.protect]] 
 - [[../../../../../../_private/geo/Continent/Africa/Gabon/City/Libreville.private|Libreville.private]] 

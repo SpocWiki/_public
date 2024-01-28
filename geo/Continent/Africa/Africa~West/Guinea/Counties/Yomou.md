@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 7.6 , -9 ] 
 type: geo-Region
 title: Yomou
@@ -40,10 +40,11 @@ markerFolder: ./Yomou/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Africa/Guinea/Counties/Yomou.md|Yomou]] 
-- [[../../../../_internal/geo/Continent/Africa/Guinea/Counties/Yomou.internal|Yomou.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Guinea/Counties/Yomou.protect|Yomou.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Guinea/Counties/Yomou.private|Yomou.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Guinea/Counties/Yomou.personal|Yomou.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Guinea/Counties/Yomou.secret|Yomou.secret]] 
+- [[../../../../../../_Standards/geo/Continent/Africa/Guinea/Counties/Yomou|Yomou]] 
+- [[../../../../../../_public/geo/Continent/Africa/Guinea/Counties/Yomou.public|Yomou.public]] 
+- [[../../../../../../_internal/geo/Continent/Africa/Guinea/Counties/Yomou.internal|Yomou.internal]] 
+- [[../../../../../../_protect/geo/Continent/Africa/Guinea/Counties/Yomou.protect|Yomou.protect]] 
+- [[../../../../../../_private/geo/Continent/Africa/Guinea/Counties/Yomou.private|Yomou.private]] 
+- [[../../../../../../_personal/geo/Continent/Africa/Guinea/Counties/Yomou.personal|Yomou.personal]] 
+- [[../../../../../../_secret/geo/Continent/Africa/Guinea/Counties/Yomou.secret|Yomou.secret]] 
 

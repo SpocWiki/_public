@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 7.44 , 134.53 ] 
 type: geo-Region
 title: Aimeliik
@@ -40,10 +40,11 @@ markerFolder: ./Aimeliik/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Oceania/Palau/Counties/Aimeliik.md|Aimeliik]] 
-- [[../../../../_internal/geo/Continent/Oceania/Palau/Counties/Aimeliik.internal|Aimeliik.internal]] 
-- [[../../../../_protect/geo/Continent/Oceania/Palau/Counties/Aimeliik.protect|Aimeliik.protect]] 
-- [[../../../../_private/geo/Continent/Oceania/Palau/Counties/Aimeliik.private|Aimeliik.private]] 
-- [[../../../../_personal/geo/Continent/Oceania/Palau/Counties/Aimeliik.personal|Aimeliik.personal]] 
-- [[../../../../_secret/geo/Continent/Oceania/Palau/Counties/Aimeliik.secret|Aimeliik.secret]] 
+- [[../../../../../../_Standards/geo/Continent/Oceania/Palau/Counties/Aimeliik|Aimeliik]] 
+- [[../../../../../../_public/geo/Continent/Oceania/Palau/Counties/Aimeliik.public|Aimeliik.public]] 
+- [[../../../../../../_internal/geo/Continent/Oceania/Palau/Counties/Aimeliik.internal|Aimeliik.internal]] 
+- [[../../../../../../_protect/geo/Continent/Oceania/Palau/Counties/Aimeliik.protect|Aimeliik.protect]] 
+- [[../../../../../../_private/geo/Continent/Oceania/Palau/Counties/Aimeliik.private|Aimeliik.private]] 
+- [[../../../../../../_personal/geo/Continent/Oceania/Palau/Counties/Aimeliik.personal|Aimeliik.personal]] 
+- [[../../../../../../_secret/geo/Continent/Oceania/Palau/Counties/Aimeliik.secret|Aimeliik.secret]] 
 

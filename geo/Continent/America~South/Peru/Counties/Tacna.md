@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ -17.6 , -70.3 ] 
 type: geo-Region
 title: Tacna
@@ -40,10 +40,11 @@ markerFolder: ./Tacna/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/America~South/Peru/Counties/Tacna.md|Tacna]] 
-- [[../../../../_internal/geo/Continent/America~South/Peru/Counties/Tacna.internal|Tacna.internal]] 
-- [[../../../../_protect/geo/Continent/America~South/Peru/Counties/Tacna.protect|Tacna.protect]] 
-- [[../../../../_private/geo/Continent/America~South/Peru/Counties/Tacna.private|Tacna.private]] 
-- [[../../../../_personal/geo/Continent/America~South/Peru/Counties/Tacna.personal|Tacna.personal]] 
-- [[../../../../_secret/geo/Continent/America~South/Peru/Counties/Tacna.secret|Tacna.secret]] 
+- [[../../../../../../_Standards/geo/Continent/America~South/Peru/Counties/Tacna|Tacna]] 
+- [[../../../../../../_public/geo/Continent/America~South/Peru/Counties/Tacna.public|Tacna.public]] 
+- [[../../../../../../_internal/geo/Continent/America~South/Peru/Counties/Tacna.internal|Tacna.internal]] 
+- [[../../../../../../_protect/geo/Continent/America~South/Peru/Counties/Tacna.protect|Tacna.protect]] 
+- [[../../../../../../_private/geo/Continent/America~South/Peru/Counties/Tacna.private|Tacna.private]] 
+- [[../../../../../../_personal/geo/Continent/America~South/Peru/Counties/Tacna.personal|Tacna.personal]] 
+- [[../../../../../../_secret/geo/Continent/America~South/Peru/Counties/Tacna.secret|Tacna.secret]] 
 

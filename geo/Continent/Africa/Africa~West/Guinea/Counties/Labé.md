@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 11.5 , -12.3 ] 
 type: geo-Region
 title: Labé
@@ -40,10 +40,11 @@ markerFolder: ./Labé/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Africa/Guinea/Counties/Labé.md|Labé]] 
-- [[../../../../_internal/geo/Continent/Africa/Guinea/Counties/Labé.internal|Labé.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Guinea/Counties/Labé.protect|Labé.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Guinea/Counties/Labé.private|Labé.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Guinea/Counties/Labé.personal|Labé.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Guinea/Counties/Labé.secret|Labé.secret]] 
+- [[../../../../../../_Standards/geo/Continent/Africa/Guinea/Counties/Labé|Labé]] 
+- [[../../../../../../_public/geo/Continent/Africa/Guinea/Counties/Labé.public|Labé.public]] 
+- [[../../../../../../_internal/geo/Continent/Africa/Guinea/Counties/Labé.internal|Labé.internal]] 
+- [[../../../../../../_protect/geo/Continent/Africa/Guinea/Counties/Labé.protect|Labé.protect]] 
+- [[../../../../../../_private/geo/Continent/Africa/Guinea/Counties/Labé.private|Labé.private]] 
+- [[../../../../../../_personal/geo/Continent/Africa/Guinea/Counties/Labé.personal|Labé.personal]] 
+- [[../../../../../../_secret/geo/Continent/Africa/Guinea/Counties/Labé.secret|Labé.secret]] 
 

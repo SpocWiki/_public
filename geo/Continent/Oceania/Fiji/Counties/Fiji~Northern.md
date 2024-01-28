@@ -40,10 +40,11 @@ markerFolder: ./Fiji~Northern/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Oceania/Fiji/Counties/Fiji~Northern.md|Fiji~Northern]] 
-- [[../../../../_internal/geo/Continent/Oceania/Fiji/Counties/Fiji~Northern.internal|Fiji~Northern.internal]] 
-- [[../../../../_protect/geo/Continent/Oceania/Fiji/Counties/Fiji~Northern.protect|Fiji~Northern.protect]] 
-- [[../../../../_private/geo/Continent/Oceania/Fiji/Counties/Fiji~Northern.private|Fiji~Northern.private]] 
-- [[../../../../_personal/geo/Continent/Oceania/Fiji/Counties/Fiji~Northern.personal|Fiji~Northern.personal]] 
-- [[../../../../_secret/geo/Continent/Oceania/Fiji/Counties/Fiji~Northern.secret|Fiji~Northern.secret]] 
+- [[../../../../../../_Standards/geo/Continent/Oceania/Fiji/Counties/Fiji~Northern|Fiji~Northern]] 
+- [[../../../../../../_public/geo/Continent/Oceania/Fiji/Counties/Fiji~Northern.public|Fiji~Northern.public]] 
+- [[../../../../../../_internal/geo/Continent/Oceania/Fiji/Counties/Fiji~Northern.internal|Fiji~Northern.internal]] 
+- [[../../../../../../_protect/geo/Continent/Oceania/Fiji/Counties/Fiji~Northern.protect|Fiji~Northern.protect]] 
+- [[../../../../../../_private/geo/Continent/Oceania/Fiji/Counties/Fiji~Northern.private|Fiji~Northern.private]] 
+- [[../../../../../../_personal/geo/Continent/Oceania/Fiji/Counties/Fiji~Northern.personal|Fiji~Northern.personal]] 
+- [[../../../../../../_secret/geo/Continent/Oceania/Fiji/Counties/Fiji~Northern.secret|Fiji~Northern.secret]] 
 

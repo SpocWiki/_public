@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 36.4 , 7.4 ] 
 type: geo-Region
 title: Guelma
@@ -40,10 +40,11 @@ markerFolder: ./Guelma/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Africa/Algeria/Counties/Guelma.md|Guelma]] 
-- [[../../../../_internal/geo/Continent/Africa/Algeria/Counties/Guelma.internal|Guelma.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Algeria/Counties/Guelma.protect|Guelma.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Algeria/Counties/Guelma.private|Guelma.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Algeria/Counties/Guelma.personal|Guelma.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Algeria/Counties/Guelma.secret|Guelma.secret]] 
+- [[../../../../../../_Standards/geo/Continent/Africa/Algeria/Counties/Guelma|Guelma]] 
+- [[../../../../../../_public/geo/Continent/Africa/Algeria/Counties/Guelma.public|Guelma.public]] 
+- [[../../../../../../_internal/geo/Continent/Africa/Algeria/Counties/Guelma.internal|Guelma.internal]] 
+- [[../../../../../../_protect/geo/Continent/Africa/Algeria/Counties/Guelma.protect|Guelma.protect]] 
+- [[../../../../../../_private/geo/Continent/Africa/Algeria/Counties/Guelma.private|Guelma.private]] 
+- [[../../../../../../_personal/geo/Continent/Africa/Algeria/Counties/Guelma.personal|Guelma.personal]] 
+- [[../../../../../../_secret/geo/Continent/Africa/Algeria/Counties/Guelma.secret|Guelma.secret]] 
 

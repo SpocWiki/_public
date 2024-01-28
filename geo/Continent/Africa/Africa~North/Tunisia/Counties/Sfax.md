@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 34.7 , 10.3 ] 
 type: geo-Region
 title: Sfax
@@ -40,10 +40,11 @@ markerFolder: ./Sfax/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Africa/Tunisia/Counties/Sfax.md|Sfax]] 
-- [[../../../../_internal/geo/Continent/Africa/Tunisia/Counties/Sfax.internal|Sfax.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Tunisia/Counties/Sfax.protect|Sfax.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Tunisia/Counties/Sfax.private|Sfax.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Tunisia/Counties/Sfax.personal|Sfax.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Tunisia/Counties/Sfax.secret|Sfax.secret]] 
+- [[../../../../../../_Standards/geo/Continent/Africa/Tunisia/Counties/Sfax|Sfax]] 
+- [[../../../../../../_public/geo/Continent/Africa/Tunisia/Counties/Sfax.public|Sfax.public]] 
+- [[../../../../../../_internal/geo/Continent/Africa/Tunisia/Counties/Sfax.internal|Sfax.internal]] 
+- [[../../../../../../_protect/geo/Continent/Africa/Tunisia/Counties/Sfax.protect|Sfax.protect]] 
+- [[../../../../../../_private/geo/Continent/Africa/Tunisia/Counties/Sfax.private|Sfax.private]] 
+- [[../../../../../../_personal/geo/Continent/Africa/Tunisia/Counties/Sfax.personal|Sfax.personal]] 
+- [[../../../../../../_secret/geo/Continent/Africa/Tunisia/Counties/Sfax.secret|Sfax.secret]] 
 

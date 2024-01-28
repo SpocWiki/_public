@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 3.3 , -72.9 ] 
 type: geo-Region
 title: Meta
@@ -40,10 +40,11 @@ markerFolder: ./Meta/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/America~South/Colombia/Counties/Meta.md|Meta]] 
-- [[../../../../_internal/geo/Continent/America~South/Colombia/Counties/Meta.internal|Meta.internal]] 
-- [[../../../../_protect/geo/Continent/America~South/Colombia/Counties/Meta.protect|Meta.protect]] 
-- [[../../../../_private/geo/Continent/America~South/Colombia/Counties/Meta.private|Meta.private]] 
-- [[../../../../_personal/geo/Continent/America~South/Colombia/Counties/Meta.personal|Meta.personal]] 
-- [[../../../../_secret/geo/Continent/America~South/Colombia/Counties/Meta.secret|Meta.secret]] 
+- [[../../../../../../_Standards/geo/Continent/America~South/Colombia/Counties/Meta|Meta]] 
+- [[../../../../../../_public/geo/Continent/America~South/Colombia/Counties/Meta.public|Meta.public]] 
+- [[../../../../../../_internal/geo/Continent/America~South/Colombia/Counties/Meta.internal|Meta.internal]] 
+- [[../../../../../../_protect/geo/Continent/America~South/Colombia/Counties/Meta.protect|Meta.protect]] 
+- [[../../../../../../_private/geo/Continent/America~South/Colombia/Counties/Meta.private|Meta.private]] 
+- [[../../../../../../_personal/geo/Continent/America~South/Colombia/Counties/Meta.personal|Meta.personal]] 
+- [[../../../../../../_secret/geo/Continent/America~South/Colombia/Counties/Meta.secret|Meta.secret]] 
 

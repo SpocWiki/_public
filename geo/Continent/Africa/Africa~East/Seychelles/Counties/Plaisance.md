@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ -4.65 , 55.47 ] 
 type: geo-Region
 title: Plaisance
@@ -40,10 +40,11 @@ markerFolder: ./Plaisance/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Africa/Seychelles/Counties/Plaisance.md|Plaisance]] 
-- [[../../../../_internal/geo/Continent/Africa/Seychelles/Counties/Plaisance.internal|Plaisance.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Seychelles/Counties/Plaisance.protect|Plaisance.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Seychelles/Counties/Plaisance.private|Plaisance.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Seychelles/Counties/Plaisance.personal|Plaisance.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Seychelles/Counties/Plaisance.secret|Plaisance.secret]] 
+- [[../../../../../../_Standards/geo/Continent/Africa/Seychelles/Counties/Plaisance|Plaisance]] 
+- [[../../../../../../_public/geo/Continent/Africa/Seychelles/Counties/Plaisance.public|Plaisance.public]] 
+- [[../../../../../../_internal/geo/Continent/Africa/Seychelles/Counties/Plaisance.internal|Plaisance.internal]] 
+- [[../../../../../../_protect/geo/Continent/Africa/Seychelles/Counties/Plaisance.protect|Plaisance.protect]] 
+- [[../../../../../../_private/geo/Continent/Africa/Seychelles/Counties/Plaisance.private|Plaisance.private]] 
+- [[../../../../../../_personal/geo/Continent/Africa/Seychelles/Counties/Plaisance.personal|Plaisance.personal]] 
+- [[../../../../../../_secret/geo/Continent/Africa/Seychelles/Counties/Plaisance.secret|Plaisance.secret]] 
 

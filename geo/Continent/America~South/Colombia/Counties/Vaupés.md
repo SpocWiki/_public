@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 0.4 , -71 ] 
 type: geo-Region
 title: Vaupés
@@ -40,10 +40,11 @@ markerFolder: ./Vaupés/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/America~South/Colombia/Counties/Vaupés.md|Vaupés]] 
-- [[../../../../_internal/geo/Continent/America~South/Colombia/Counties/Vaupés.internal|Vaupés.internal]] 
-- [[../../../../_protect/geo/Continent/America~South/Colombia/Counties/Vaupés.protect|Vaupés.protect]] 
-- [[../../../../_private/geo/Continent/America~South/Colombia/Counties/Vaupés.private|Vaupés.private]] 
-- [[../../../../_personal/geo/Continent/America~South/Colombia/Counties/Vaupés.personal|Vaupés.personal]] 
-- [[../../../../_secret/geo/Continent/America~South/Colombia/Counties/Vaupés.secret|Vaupés.secret]] 
+- [[../../../../../../_Standards/geo/Continent/America~South/Colombia/Counties/Vaupés|Vaupés]] 
+- [[../../../../../../_public/geo/Continent/America~South/Colombia/Counties/Vaupés.public|Vaupés.public]] 
+- [[../../../../../../_internal/geo/Continent/America~South/Colombia/Counties/Vaupés.internal|Vaupés.internal]] 
+- [[../../../../../../_protect/geo/Continent/America~South/Colombia/Counties/Vaupés.protect|Vaupés.protect]] 
+- [[../../../../../../_private/geo/Continent/America~South/Colombia/Counties/Vaupés.private|Vaupés.private]] 
+- [[../../../../../../_personal/geo/Continent/America~South/Colombia/Counties/Vaupés.personal|Vaupés.personal]] 
+- [[../../../../../../_secret/geo/Continent/America~South/Colombia/Counties/Vaupés.secret|Vaupés.secret]] 
 

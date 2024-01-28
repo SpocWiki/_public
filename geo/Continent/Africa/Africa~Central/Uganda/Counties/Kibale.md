@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 0.9 , 31 ] 
 type: geo-Region
 title: Kibale
@@ -40,10 +40,11 @@ markerFolder: ./Kibale/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Africa/Uganda/Counties/Kibale.md|Kibale]] 
-- [[../../../../_internal/geo/Continent/Africa/Uganda/Counties/Kibale.internal|Kibale.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Uganda/Counties/Kibale.protect|Kibale.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Uganda/Counties/Kibale.private|Kibale.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Uganda/Counties/Kibale.personal|Kibale.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Uganda/Counties/Kibale.secret|Kibale.secret]] 
+- [[../../../../../../_Standards/geo/Continent/Africa/Uganda/Counties/Kibale|Kibale]] 
+- [[../../../../../../_public/geo/Continent/Africa/Uganda/Counties/Kibale.public|Kibale.public]] 
+- [[../../../../../../_internal/geo/Continent/Africa/Uganda/Counties/Kibale.internal|Kibale.internal]] 
+- [[../../../../../../_protect/geo/Continent/Africa/Uganda/Counties/Kibale.protect|Kibale.protect]] 
+- [[../../../../../../_private/geo/Continent/Africa/Uganda/Counties/Kibale.private|Kibale.private]] 
+- [[../../../../../../_personal/geo/Continent/Africa/Uganda/Counties/Kibale.personal|Kibale.personal]] 
+- [[../../../../../../_secret/geo/Continent/Africa/Uganda/Counties/Kibale.secret|Kibale.secret]] 
 

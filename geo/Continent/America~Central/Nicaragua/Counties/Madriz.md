@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 13.4 , -86.6 ] 
 type: geo-Region
 title: Madriz
@@ -40,10 +40,11 @@ markerFolder: ./Madriz/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/America~Central/Nicaragua/Counties/Madriz.md|Madriz]] 
-- [[../../../../_internal/geo/Continent/America~Central/Nicaragua/Counties/Madriz.internal|Madriz.internal]] 
-- [[../../../../_protect/geo/Continent/America~Central/Nicaragua/Counties/Madriz.protect|Madriz.protect]] 
-- [[../../../../_private/geo/Continent/America~Central/Nicaragua/Counties/Madriz.private|Madriz.private]] 
-- [[../../../../_personal/geo/Continent/America~Central/Nicaragua/Counties/Madriz.personal|Madriz.personal]] 
-- [[../../../../_secret/geo/Continent/America~Central/Nicaragua/Counties/Madriz.secret|Madriz.secret]] 
+- [[../../../../../../_Standards/geo/Continent/America~Central/Nicaragua/Counties/Madriz|Madriz]] 
+- [[../../../../../../_public/geo/Continent/America~Central/Nicaragua/Counties/Madriz.public|Madriz.public]] 
+- [[../../../../../../_internal/geo/Continent/America~Central/Nicaragua/Counties/Madriz.internal|Madriz.internal]] 
+- [[../../../../../../_protect/geo/Continent/America~Central/Nicaragua/Counties/Madriz.protect|Madriz.protect]] 
+- [[../../../../../../_private/geo/Continent/America~Central/Nicaragua/Counties/Madriz.private|Madriz.private]] 
+- [[../../../../../../_personal/geo/Continent/America~Central/Nicaragua/Counties/Madriz.personal|Madriz.personal]] 
+- [[../../../../../../_secret/geo/Continent/America~Central/Nicaragua/Counties/Madriz.secret|Madriz.secret]] 
 

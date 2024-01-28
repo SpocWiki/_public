@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ -33 , -71 ] 
 type: geo-Region
 title: Valparaíso
@@ -40,10 +40,11 @@ markerFolder: ./Valparaíso/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/America~South/Chile/Counties/Valparaíso.md|Valparaíso]] 
-- [[../../../../_internal/geo/Continent/America~South/Chile/Counties/Valparaíso.internal|Valparaíso.internal]] 
-- [[../../../../_protect/geo/Continent/America~South/Chile/Counties/Valparaíso.protect|Valparaíso.protect]] 
-- [[../../../../_private/geo/Continent/America~South/Chile/Counties/Valparaíso.private|Valparaíso.private]] 
-- [[../../../../_personal/geo/Continent/America~South/Chile/Counties/Valparaíso.personal|Valparaíso.personal]] 
-- [[../../../../_secret/geo/Continent/America~South/Chile/Counties/Valparaíso.secret|Valparaíso.secret]] 
+- [[../../../../../../_Standards/geo/Continent/America~South/Chile/Counties/Valparaíso|Valparaíso]] 
+- [[../../../../../../_public/geo/Continent/America~South/Chile/Counties/Valparaíso.public|Valparaíso.public]] 
+- [[../../../../../../_internal/geo/Continent/America~South/Chile/Counties/Valparaíso.internal|Valparaíso.internal]] 
+- [[../../../../../../_protect/geo/Continent/America~South/Chile/Counties/Valparaíso.protect|Valparaíso.protect]] 
+- [[../../../../../../_private/geo/Continent/America~South/Chile/Counties/Valparaíso.private|Valparaíso.private]] 
+- [[../../../../../../_personal/geo/Continent/America~South/Chile/Counties/Valparaíso.personal|Valparaíso.personal]] 
+- [[../../../../../../_secret/geo/Continent/America~South/Chile/Counties/Valparaíso.secret|Valparaíso.secret]] 
 

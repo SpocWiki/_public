@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ -10.89 , 194.18 ] 
 type: geo-Region
 title: Pukapuka
@@ -40,10 +40,11 @@ markerFolder: ./Pukapuka/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Oceania/Cook~Islands/Counties/Pukapuka.md|Pukapuka]] 
-- [[../../../../_internal/geo/Continent/Oceania/Cook~Islands/Counties/Pukapuka.internal|Pukapuka.internal]] 
-- [[../../../../_protect/geo/Continent/Oceania/Cook~Islands/Counties/Pukapuka.protect|Pukapuka.protect]] 
-- [[../../../../_private/geo/Continent/Oceania/Cook~Islands/Counties/Pukapuka.private|Pukapuka.private]] 
-- [[../../../../_personal/geo/Continent/Oceania/Cook~Islands/Counties/Pukapuka.personal|Pukapuka.personal]] 
-- [[../../../../_secret/geo/Continent/Oceania/Cook~Islands/Counties/Pukapuka.secret|Pukapuka.secret]] 
+- [[../../../../../../_Standards/geo/Continent/Oceania/Cook~Islands/Counties/Pukapuka|Pukapuka]] 
+- [[../../../../../../_public/geo/Continent/Oceania/Cook~Islands/Counties/Pukapuka.public|Pukapuka.public]] 
+- [[../../../../../../_internal/geo/Continent/Oceania/Cook~Islands/Counties/Pukapuka.internal|Pukapuka.internal]] 
+- [[../../../../../../_protect/geo/Continent/Oceania/Cook~Islands/Counties/Pukapuka.protect|Pukapuka.protect]] 
+- [[../../../../../../_private/geo/Continent/Oceania/Cook~Islands/Counties/Pukapuka.private|Pukapuka.private]] 
+- [[../../../../../../_personal/geo/Continent/Oceania/Cook~Islands/Counties/Pukapuka.personal|Pukapuka.personal]] 
+- [[../../../../../../_secret/geo/Continent/Oceania/Cook~Islands/Counties/Pukapuka.secret|Pukapuka.secret]] 
 

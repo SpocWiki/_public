@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 16.5 , 37.6 ] 
 type: geo-Region
 title: Semenawi_Keyih_Bahri
@@ -40,10 +40,11 @@ markerFolder: ./Semenawi_Keyih_Bahri/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Africa/Eritrea/Counties/Semenawi_Keyih_Bahri.md|Semenawi_Keyih_Bahri]] 
-- [[../../../../_internal/geo/Continent/Africa/Eritrea/Counties/Semenawi_Keyih_Bahri.internal|Semenawi_Keyih_Bahri.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Eritrea/Counties/Semenawi_Keyih_Bahri.protect|Semenawi_Keyih_Bahri.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Eritrea/Counties/Semenawi_Keyih_Bahri.private|Semenawi_Keyih_Bahri.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Eritrea/Counties/Semenawi_Keyih_Bahri.personal|Semenawi_Keyih_Bahri.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Eritrea/Counties/Semenawi_Keyih_Bahri.secret|Semenawi_Keyih_Bahri.secret]] 
+- [[../../../../../../_Standards/geo/Continent/Africa/Eritrea/Counties/Semenawi_Keyih_Bahri|Semenawi_Keyih_Bahri]] 
+- [[../../../../../../_public/geo/Continent/Africa/Eritrea/Counties/Semenawi_Keyih_Bahri.public|Semenawi_Keyih_Bahri.public]] 
+- [[../../../../../../_internal/geo/Continent/Africa/Eritrea/Counties/Semenawi_Keyih_Bahri.internal|Semenawi_Keyih_Bahri.internal]] 
+- [[../../../../../../_protect/geo/Continent/Africa/Eritrea/Counties/Semenawi_Keyih_Bahri.protect|Semenawi_Keyih_Bahri.protect]] 
+- [[../../../../../../_private/geo/Continent/Africa/Eritrea/Counties/Semenawi_Keyih_Bahri.private|Semenawi_Keyih_Bahri.private]] 
+- [[../../../../../../_personal/geo/Continent/Africa/Eritrea/Counties/Semenawi_Keyih_Bahri.personal|Semenawi_Keyih_Bahri.personal]] 
+- [[../../../../../../_secret/geo/Continent/Africa/Eritrea/Counties/Semenawi_Keyih_Bahri.secret|Semenawi_Keyih_Bahri.secret]] 
 

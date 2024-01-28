@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ -9.6 , 34.8 ] 
 type: geo-Region
 title: Njombe
@@ -40,10 +40,11 @@ markerFolder: ./Njombe/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Africa/Tanzania/Counties/Njombe.md|Njombe]] 
-- [[../../../../_internal/geo/Continent/Africa/Tanzania/Counties/Njombe.internal|Njombe.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Tanzania/Counties/Njombe.protect|Njombe.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Tanzania/Counties/Njombe.private|Njombe.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Tanzania/Counties/Njombe.personal|Njombe.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Tanzania/Counties/Njombe.secret|Njombe.secret]] 
+- [[../../../../../../_Standards/geo/Continent/Africa/Tanzania/Counties/Njombe|Njombe]] 
+- [[../../../../../../_public/geo/Continent/Africa/Tanzania/Counties/Njombe.public|Njombe.public]] 
+- [[../../../../../../_internal/geo/Continent/Africa/Tanzania/Counties/Njombe.internal|Njombe.internal]] 
+- [[../../../../../../_protect/geo/Continent/Africa/Tanzania/Counties/Njombe.protect|Njombe.protect]] 
+- [[../../../../../../_private/geo/Continent/Africa/Tanzania/Counties/Njombe.private|Njombe.private]] 
+- [[../../../../../../_personal/geo/Continent/Africa/Tanzania/Counties/Njombe.personal|Njombe.personal]] 
+- [[../../../../../../_secret/geo/Continent/Africa/Tanzania/Counties/Njombe.secret|Njombe.secret]] 
 

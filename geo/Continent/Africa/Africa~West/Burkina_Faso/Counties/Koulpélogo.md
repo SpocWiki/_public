@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 11.4 , 0.2 ] 
 type: geo-Region
 title: Koulpélogo
@@ -40,10 +40,11 @@ markerFolder: ./Koulpélogo/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Africa/Burkina_Faso/Counties/Koulpélogo.md|Koulpélogo]] 
-- [[../../../../_internal/geo/Continent/Africa/Burkina_Faso/Counties/Koulpélogo.internal|Koulpélogo.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Burkina_Faso/Counties/Koulpélogo.protect|Koulpélogo.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Burkina_Faso/Counties/Koulpélogo.private|Koulpélogo.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Burkina_Faso/Counties/Koulpélogo.personal|Koulpélogo.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Burkina_Faso/Counties/Koulpélogo.secret|Koulpélogo.secret]] 
+- [[../../../../../../_Standards/geo/Continent/Africa/Burkina_Faso/Counties/Koulpélogo|Koulpélogo]] 
+- [[../../../../../../_public/geo/Continent/Africa/Burkina_Faso/Counties/Koulpélogo.public|Koulpélogo.public]] 
+- [[../../../../../../_internal/geo/Continent/Africa/Burkina_Faso/Counties/Koulpélogo.internal|Koulpélogo.internal]] 
+- [[../../../../../../_protect/geo/Continent/Africa/Burkina_Faso/Counties/Koulpélogo.protect|Koulpélogo.protect]] 
+- [[../../../../../../_private/geo/Continent/Africa/Burkina_Faso/Counties/Koulpélogo.private|Koulpélogo.private]] 
+- [[../../../../../../_personal/geo/Continent/Africa/Burkina_Faso/Counties/Koulpélogo.personal|Koulpélogo.personal]] 
+- [[../../../../../../_secret/geo/Continent/Africa/Burkina_Faso/Counties/Koulpélogo.secret|Koulpélogo.secret]] 
 

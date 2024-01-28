@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ -11.06 , 188.92 ] 
 type: geo-Region
 title: Swain's_Island
@@ -40,10 +40,11 @@ markerFolder: ./Swain's_Island/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Oceania/American_Samoa/Counties/Swain's_Island.md|Swain's_Island]] 
-- [[../../../../_internal/geo/Continent/Oceania/American_Samoa/Counties/Swain's_Island.internal|Swain's_Island.internal]] 
-- [[../../../../_protect/geo/Continent/Oceania/American_Samoa/Counties/Swain's_Island.protect|Swain's_Island.protect]] 
-- [[../../../../_private/geo/Continent/Oceania/American_Samoa/Counties/Swain's_Island.private|Swain's_Island.private]] 
-- [[../../../../_personal/geo/Continent/Oceania/American_Samoa/Counties/Swain's_Island.personal|Swain's_Island.personal]] 
-- [[../../../../_secret/geo/Continent/Oceania/American_Samoa/Counties/Swain's_Island.secret|Swain's_Island.secret]] 
+- [[../../../../../../_Standards/geo/Continent/Oceania/American_Samoa/Counties/Swain's_Island|Swain's_Island]] 
+- [[../../../../../../_public/geo/Continent/Oceania/American_Samoa/Counties/Swain's_Island.public|Swain's_Island.public]] 
+- [[../../../../../../_internal/geo/Continent/Oceania/American_Samoa/Counties/Swain's_Island.internal|Swain's_Island.internal]] 
+- [[../../../../../../_protect/geo/Continent/Oceania/American_Samoa/Counties/Swain's_Island.protect|Swain's_Island.protect]] 
+- [[../../../../../../_private/geo/Continent/Oceania/American_Samoa/Counties/Swain's_Island.private|Swain's_Island.private]] 
+- [[../../../../../../_personal/geo/Continent/Oceania/American_Samoa/Counties/Swain's_Island.personal|Swain's_Island.personal]] 
+- [[../../../../../../_secret/geo/Continent/Oceania/American_Samoa/Counties/Swain's_Island.secret|Swain's_Island.secret]] 
 

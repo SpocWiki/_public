@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ -10.5 , 161.9 ] 
 type: geo-Region
 title: Makira
@@ -40,10 +40,11 @@ markerFolder: ./Makira/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Oceania/Solomon~Islands/Counties/Makira.md|Makira]] 
-- [[../../../../_internal/geo/Continent/Oceania/Solomon~Islands/Counties/Makira.internal|Makira.internal]] 
-- [[../../../../_protect/geo/Continent/Oceania/Solomon~Islands/Counties/Makira.protect|Makira.protect]] 
-- [[../../../../_private/geo/Continent/Oceania/Solomon~Islands/Counties/Makira.private|Makira.private]] 
-- [[../../../../_personal/geo/Continent/Oceania/Solomon~Islands/Counties/Makira.personal|Makira.personal]] 
-- [[../../../../_secret/geo/Continent/Oceania/Solomon~Islands/Counties/Makira.secret|Makira.secret]] 
+- [[../../../../../../_Standards/geo/Continent/Oceania/Solomon~Islands/Counties/Makira|Makira]] 
+- [[../../../../../../_public/geo/Continent/Oceania/Solomon~Islands/Counties/Makira.public|Makira.public]] 
+- [[../../../../../../_internal/geo/Continent/Oceania/Solomon~Islands/Counties/Makira.internal|Makira.internal]] 
+- [[../../../../../../_protect/geo/Continent/Oceania/Solomon~Islands/Counties/Makira.protect|Makira.protect]] 
+- [[../../../../../../_private/geo/Continent/Oceania/Solomon~Islands/Counties/Makira.private|Makira.private]] 
+- [[../../../../../../_personal/geo/Continent/Oceania/Solomon~Islands/Counties/Makira.personal|Makira.personal]] 
+- [[../../../../../../_secret/geo/Continent/Oceania/Solomon~Islands/Counties/Makira.secret|Makira.secret]] 
 

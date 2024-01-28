@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 35.3 , -5.5 ] 
 type: geo-Region
 title: Tanger_-_Tétouan
@@ -40,10 +40,11 @@ markerFolder: ./Tanger_-_Tétouan/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Africa/Morocco/Counties/Tanger_-_Tétouan.md|Tanger_-_Tétouan]] 
-- [[../../../../_internal/geo/Continent/Africa/Morocco/Counties/Tanger_-_Tétouan.internal|Tanger_-_Tétouan.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Morocco/Counties/Tanger_-_Tétouan.protect|Tanger_-_Tétouan.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Morocco/Counties/Tanger_-_Tétouan.private|Tanger_-_Tétouan.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Morocco/Counties/Tanger_-_Tétouan.personal|Tanger_-_Tétouan.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Morocco/Counties/Tanger_-_Tétouan.secret|Tanger_-_Tétouan.secret]] 
+- [[../../../../../../_Standards/geo/Continent/Africa/Morocco/Counties/Tanger_-_Tétouan|Tanger_-_Tétouan]] 
+- [[../../../../../../_public/geo/Continent/Africa/Morocco/Counties/Tanger_-_Tétouan.public|Tanger_-_Tétouan.public]] 
+- [[../../../../../../_internal/geo/Continent/Africa/Morocco/Counties/Tanger_-_Tétouan.internal|Tanger_-_Tétouan.internal]] 
+- [[../../../../../../_protect/geo/Continent/Africa/Morocco/Counties/Tanger_-_Tétouan.protect|Tanger_-_Tétouan.protect]] 
+- [[../../../../../../_private/geo/Continent/Africa/Morocco/Counties/Tanger_-_Tétouan.private|Tanger_-_Tétouan.private]] 
+- [[../../../../../../_personal/geo/Continent/Africa/Morocco/Counties/Tanger_-_Tétouan.personal|Tanger_-_Tétouan.personal]] 
+- [[../../../../../../_secret/geo/Continent/Africa/Morocco/Counties/Tanger_-_Tétouan.secret|Tanger_-_Tétouan.secret]] 
 

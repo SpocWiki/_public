@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 19.4 , -99.8 ] 
 type: geo-Region
 title: México
@@ -40,10 +40,11 @@ markerFolder: ./México/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/America~Central/Mexico/Counties/México.md|México]] 
-- [[../../../../_internal/geo/Continent/America~Central/Mexico/Counties/México.internal|México.internal]] 
-- [[../../../../_protect/geo/Continent/America~Central/Mexico/Counties/México.protect|México.protect]] 
-- [[../../../../_private/geo/Continent/America~Central/Mexico/Counties/México.private|México.private]] 
-- [[../../../../_personal/geo/Continent/America~Central/Mexico/Counties/México.personal|México.personal]] 
-- [[../../../../_secret/geo/Continent/America~Central/Mexico/Counties/México.secret|México.secret]] 
+- [[../../../../../../_Standards/geo/Continent/America~Central/Mexico/Counties/México|México]] 
+- [[../../../../../../_public/geo/Continent/America~Central/Mexico/Counties/México.public|México.public]] 
+- [[../../../../../../_internal/geo/Continent/America~Central/Mexico/Counties/México.internal|México.internal]] 
+- [[../../../../../../_protect/geo/Continent/America~Central/Mexico/Counties/México.protect|México.protect]] 
+- [[../../../../../../_private/geo/Continent/America~Central/Mexico/Counties/México.private|México.private]] 
+- [[../../../../../../_personal/geo/Continent/America~Central/Mexico/Counties/México.personal|México.personal]] 
+- [[../../../../../../_secret/geo/Continent/America~Central/Mexico/Counties/México.secret|México.secret]] 
 

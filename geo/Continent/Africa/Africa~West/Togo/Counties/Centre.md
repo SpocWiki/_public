@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 8.6 , 1 ] 
 type: geo-Region
 title: Centre
@@ -40,10 +40,11 @@ markerFolder: ./Centre/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Africa/Togo/Counties/Centre.md|Centre]] 
-- [[../../../../_internal/geo/Continent/Africa/Togo/Counties/Centre.internal|Centre.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Togo/Counties/Centre.protect|Centre.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Togo/Counties/Centre.private|Centre.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Togo/Counties/Centre.personal|Centre.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Togo/Counties/Centre.secret|Centre.secret]] 
+- [[../../../../../../_Standards/geo/Continent/Africa/Togo/Counties/Centre|Centre]] 
+- [[../../../../../../_public/geo/Continent/Africa/Togo/Counties/Centre.public|Centre.public]] 
+- [[../../../../../../_internal/geo/Continent/Africa/Togo/Counties/Centre.internal|Centre.internal]] 
+- [[../../../../../../_protect/geo/Continent/Africa/Togo/Counties/Centre.protect|Centre.protect]] 
+- [[../../../../../../_private/geo/Continent/Africa/Togo/Counties/Centre.private|Centre.private]] 
+- [[../../../../../../_personal/geo/Continent/Africa/Togo/Counties/Centre.personal|Centre.personal]] 
+- [[../../../../../../_secret/geo/Continent/Africa/Togo/Counties/Centre.secret|Centre.secret]] 
 

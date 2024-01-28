@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ -19.1 , 13.4 ] 
 type: geo-Region
 title: Kunene
@@ -40,10 +40,11 @@ markerFolder: ./Kunene/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Africa/Namibia/Counties/Kunene.md|Kunene]] 
-- [[../../../../_internal/geo/Continent/Africa/Namibia/Counties/Kunene.internal|Kunene.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Namibia/Counties/Kunene.protect|Kunene.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Namibia/Counties/Kunene.private|Kunene.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Namibia/Counties/Kunene.personal|Kunene.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Namibia/Counties/Kunene.secret|Kunene.secret]] 
+- [[../../../../../../_Standards/geo/Continent/Africa/Namibia/Counties/Kunene|Kunene]] 
+- [[../../../../../../_public/geo/Continent/Africa/Namibia/Counties/Kunene.public|Kunene.public]] 
+- [[../../../../../../_internal/geo/Continent/Africa/Namibia/Counties/Kunene.internal|Kunene.internal]] 
+- [[../../../../../../_protect/geo/Continent/Africa/Namibia/Counties/Kunene.protect|Kunene.protect]] 
+- [[../../../../../../_private/geo/Continent/Africa/Namibia/Counties/Kunene.private|Kunene.private]] 
+- [[../../../../../../_personal/geo/Continent/Africa/Namibia/Counties/Kunene.personal|Kunene.personal]] 
+- [[../../../../../../_secret/geo/Continent/Africa/Namibia/Counties/Kunene.secret|Kunene.secret]] 
 

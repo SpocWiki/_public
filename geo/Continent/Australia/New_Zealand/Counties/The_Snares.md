@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ -48.03 , 166.6 ] 
 type: geo-Region
 title: The_Snares
@@ -40,10 +40,11 @@ markerFolder: ./The_Snares/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Australia/New_Zealand/Counties/The_Snares.md|The_Snares]] 
-- [[../../../../_internal/geo/Continent/Australia/New_Zealand/Counties/The_Snares.internal|The_Snares.internal]] 
-- [[../../../../_protect/geo/Continent/Australia/New_Zealand/Counties/The_Snares.protect|The_Snares.protect]] 
-- [[../../../../_private/geo/Continent/Australia/New_Zealand/Counties/The_Snares.private|The_Snares.private]] 
-- [[../../../../_personal/geo/Continent/Australia/New_Zealand/Counties/The_Snares.personal|The_Snares.personal]] 
-- [[../../../../_secret/geo/Continent/Australia/New_Zealand/Counties/The_Snares.secret|The_Snares.secret]] 
+- [[../../../../../../_Standards/geo/Continent/Australia/New_Zealand/Counties/The_Snares|The_Snares]] 
+- [[../../../../../../_public/geo/Continent/Australia/New_Zealand/Counties/The_Snares.public|The_Snares.public]] 
+- [[../../../../../../_internal/geo/Continent/Australia/New_Zealand/Counties/The_Snares.internal|The_Snares.internal]] 
+- [[../../../../../../_protect/geo/Continent/Australia/New_Zealand/Counties/The_Snares.protect|The_Snares.protect]] 
+- [[../../../../../../_private/geo/Continent/Australia/New_Zealand/Counties/The_Snares.private|The_Snares.private]] 
+- [[../../../../../../_personal/geo/Continent/Australia/New_Zealand/Counties/The_Snares.personal|The_Snares.personal]] 
+- [[../../../../../../_secret/geo/Continent/Australia/New_Zealand/Counties/The_Snares.secret|The_Snares.secret]] 
 

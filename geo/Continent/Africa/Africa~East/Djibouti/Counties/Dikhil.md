@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 11.4 , 42.1 ] 
 type: geo-Region
 title: Dikhil
@@ -40,10 +40,11 @@ markerFolder: ./Dikhil/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Africa/Djibouti/Counties/Dikhil.md|Dikhil]] 
-- [[../../../../_internal/geo/Continent/Africa/Djibouti/Counties/Dikhil.internal|Dikhil.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Djibouti/Counties/Dikhil.protect|Dikhil.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Djibouti/Counties/Dikhil.private|Dikhil.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Djibouti/Counties/Dikhil.personal|Dikhil.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Djibouti/Counties/Dikhil.secret|Dikhil.secret]] 
+- [[../../../../../../_Standards/geo/Continent/Africa/Djibouti/Counties/Dikhil|Dikhil]] 
+- [[../../../../../../_public/geo/Continent/Africa/Djibouti/Counties/Dikhil.public|Dikhil.public]] 
+- [[../../../../../../_internal/geo/Continent/Africa/Djibouti/Counties/Dikhil.internal|Dikhil.internal]] 
+- [[../../../../../../_protect/geo/Continent/Africa/Djibouti/Counties/Dikhil.protect|Dikhil.protect]] 
+- [[../../../../../../_private/geo/Continent/Africa/Djibouti/Counties/Dikhil.private|Dikhil.private]] 
+- [[../../../../../../_personal/geo/Continent/Africa/Djibouti/Counties/Dikhil.personal|Dikhil.personal]] 
+- [[../../../../../../_secret/geo/Continent/Africa/Djibouti/Counties/Dikhil.secret|Dikhil.secret]] 
 

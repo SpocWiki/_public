@@ -1,5 +1,5 @@
 ﻿---
-location: [35.825,-96.735]
+location: [35.825,-96.735] 
 type: State
 tags:
 - geo/State
@@ -10,17 +10,17 @@ isDeleted: false
 confidential: public
 
 ---
-[name::Oklahoma]
-[name-abbr::OK]
-![[Oklahoma/Seal_of_Oklahoma.svg|350]]]
-![[Oklahoma/Flag_of_Oklahoma.svg|350]]]
+[name::Oklahoma] 
+[name-abbr::OK] 
+![[Oklahoma/Seal_of_Oklahoma.svg|350]]  
+![[Oklahoma/Flag_of_Oklahoma.svg|350]]  
 
 
-[Country:[[../../United_States_of_America]]]]
-[Capital::[[Oklahoma_City]]]
-[geo-lon::-96.735]
-[geo-lat::35.825]
-[Population::]
+Country :: [[../../United_States_of_America]]  
+Capital :: [[Oklahoma_City]]  
+[geo-lon::-96.735] 
+[geo-lat::35.825] 
+[Population::] 
 
 
 
@@ -35,9 +35,10 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_public/geo/Continent/North-America/United_States_of_America/Oklahoma.md|Oklahoma]] 
-- [[../../../../../_internal/geo/Continent/North-America/United_States_of_America/Oklahoma.internal|Oklahoma.internal]] 
-- [[../../../../../_protect/geo/Continent/North-America/United_States_of_America/Oklahoma.protect|Oklahoma.protect]] 
-- [[../../../../../_private/geo/Continent/North-America/United_States_of_America/Oklahoma.private|Oklahoma.private]] 
-- [[../../../../../_personal/geo/Continent/North-America/United_States_of_America/Oklahoma.personal|Oklahoma.personal]] 
-- [[../../../../../_secret/geo/Continent/North-America/United_States_of_America/Oklahoma.secret|Oklahoma.secret]] 
+- [[../../../../../_Standards/geo/Continent/America~North/United_States_of_America/Oklahoma|Oklahoma]] 
+- [[../../../../../_public/geo/Continent/America~North/United_States_of_America/Oklahoma.public|Oklahoma.public]] 
+- [[../../../../../_internal/geo/Continent/America~North/United_States_of_America/Oklahoma.internal|Oklahoma.internal]] 
+- [[../../../../../_protect/geo/Continent/America~North/United_States_of_America/Oklahoma.protect|Oklahoma.protect]] 
+- [[../../../../../_private/geo/Continent/America~North/United_States_of_America/Oklahoma.private|Oklahoma.private]] 
+- [[../../../../../_personal/geo/Continent/America~North/United_States_of_America/Oklahoma.personal|Oklahoma.personal]] 
+- [[../../../../../_secret/geo/Continent/America~North/United_States_of_America/Oklahoma.secret|Oklahoma.secret]] 

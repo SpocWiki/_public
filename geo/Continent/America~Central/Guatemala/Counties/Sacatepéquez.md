@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 14.6 , -90.7 ] 
 type: geo-Region
 title: Sacatepéquez
@@ -40,10 +40,11 @@ markerFolder: ./Sacatepéquez/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/America~Central/Guatemala/Counties/Sacatepéquez.md|Sacatepéquez]] 
-- [[../../../../_internal/geo/Continent/America~Central/Guatemala/Counties/Sacatepéquez.internal|Sacatepéquez.internal]] 
-- [[../../../../_protect/geo/Continent/America~Central/Guatemala/Counties/Sacatepéquez.protect|Sacatepéquez.protect]] 
-- [[../../../../_private/geo/Continent/America~Central/Guatemala/Counties/Sacatepéquez.private|Sacatepéquez.private]] 
-- [[../../../../_personal/geo/Continent/America~Central/Guatemala/Counties/Sacatepéquez.personal|Sacatepéquez.personal]] 
-- [[../../../../_secret/geo/Continent/America~Central/Guatemala/Counties/Sacatepéquez.secret|Sacatepéquez.secret]] 
+- [[../../../../../../_Standards/geo/Continent/America~Central/Guatemala/Counties/Sacatepéquez|Sacatepéquez]] 
+- [[../../../../../../_public/geo/Continent/America~Central/Guatemala/Counties/Sacatepéquez.public|Sacatepéquez.public]] 
+- [[../../../../../../_internal/geo/Continent/America~Central/Guatemala/Counties/Sacatepéquez.internal|Sacatepéquez.internal]] 
+- [[../../../../../../_protect/geo/Continent/America~Central/Guatemala/Counties/Sacatepéquez.protect|Sacatepéquez.protect]] 
+- [[../../../../../../_private/geo/Continent/America~Central/Guatemala/Counties/Sacatepéquez.private|Sacatepéquez.private]] 
+- [[../../../../../../_personal/geo/Continent/America~Central/Guatemala/Counties/Sacatepéquez.personal|Sacatepéquez.personal]] 
+- [[../../../../../../_secret/geo/Continent/America~Central/Guatemala/Counties/Sacatepéquez.secret|Sacatepéquez.secret]] 
 

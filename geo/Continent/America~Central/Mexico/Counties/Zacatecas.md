@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 23.1 , -103.2 ] 
 type: geo-Region
 title: Zacatecas
@@ -40,10 +40,11 @@ markerFolder: ./Zacatecas/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/America~Central/Mexico/Counties/Zacatecas.md|Zacatecas]] 
-- [[../../../../_internal/geo/Continent/America~Central/Mexico/Counties/Zacatecas.internal|Zacatecas.internal]] 
-- [[../../../../_protect/geo/Continent/America~Central/Mexico/Counties/Zacatecas.protect|Zacatecas.protect]] 
-- [[../../../../_private/geo/Continent/America~Central/Mexico/Counties/Zacatecas.private|Zacatecas.private]] 
-- [[../../../../_personal/geo/Continent/America~Central/Mexico/Counties/Zacatecas.personal|Zacatecas.personal]] 
-- [[../../../../_secret/geo/Continent/America~Central/Mexico/Counties/Zacatecas.secret|Zacatecas.secret]] 
+- [[../../../../../../_Standards/geo/Continent/America~Central/Mexico/Counties/Zacatecas|Zacatecas]] 
+- [[../../../../../../_public/geo/Continent/America~Central/Mexico/Counties/Zacatecas.public|Zacatecas.public]] 
+- [[../../../../../../_internal/geo/Continent/America~Central/Mexico/Counties/Zacatecas.internal|Zacatecas.internal]] 
+- [[../../../../../../_protect/geo/Continent/America~Central/Mexico/Counties/Zacatecas.protect|Zacatecas.protect]] 
+- [[../../../../../../_private/geo/Continent/America~Central/Mexico/Counties/Zacatecas.private|Zacatecas.private]] 
+- [[../../../../../../_personal/geo/Continent/America~Central/Mexico/Counties/Zacatecas.personal|Zacatecas.personal]] 
+- [[../../../../../../_secret/geo/Continent/America~Central/Mexico/Counties/Zacatecas.secret|Zacatecas.secret]] 
 

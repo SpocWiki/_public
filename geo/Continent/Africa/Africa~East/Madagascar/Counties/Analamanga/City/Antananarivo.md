@@ -1,5 +1,5 @@
 ﻿---
-location: [-18.91667,47.51667]
+location: [-18.91667,47.51667] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,27 +12,28 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::47.51667]
-[geo-lat::-18.91667]
-[name::Antananarivo]
-[State::]
-[Country::[[Madagascar]]]
-[StateId::]
-[Population::]
-[Unknown::32]
+[geo-lon::47.51667] 
+[geo-lat::-18.91667] 
+[name::Antananarivo] 
+State ::  
+Country :: [[Madagascar]]  
+[StateId::] 
+[Population::] 
+[Unknown::32] 
 
 
 ```leaflet
 id: Antananarivo
-coordinates: [[Antananarivo]]
-markerFile: [[Antananarivo]]
+coordinates: [[Antananarivo]] 
+markerFile: [[Antananarivo]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_public/geo/Continent/Africa/Madagascar/City/Antananarivo.md|Antananarivo]] 
+- [[../../../../../../_Standards/geo/Continent/Africa/Madagascar/City/Antananarivo|Antananarivo]] 
+- [[../../../../../../_public/geo/Continent/Africa/Madagascar/City/Antananarivo.public|Antananarivo.public]] 
 - [[../../../../../../_internal/geo/Continent/Africa/Madagascar/City/Antananarivo.internal|Antananarivo.internal]] 
 - [[../../../../../../_protect/geo/Continent/Africa/Madagascar/City/Antananarivo.protect|Antananarivo.protect]] 
 - [[../../../../../../_private/geo/Continent/Africa/Madagascar/City/Antananarivo.private|Antananarivo.private]] 

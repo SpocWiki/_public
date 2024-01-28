@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ -0.1 , 31.8 ] 
 type: geo-Region
 title: Kalungu
@@ -40,10 +40,11 @@ markerFolder: ./Kalungu/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Africa/Uganda/Counties/Kalungu.md|Kalungu]] 
-- [[../../../../_internal/geo/Continent/Africa/Uganda/Counties/Kalungu.internal|Kalungu.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Uganda/Counties/Kalungu.protect|Kalungu.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Uganda/Counties/Kalungu.private|Kalungu.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Uganda/Counties/Kalungu.personal|Kalungu.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Uganda/Counties/Kalungu.secret|Kalungu.secret]] 
+- [[../../../../../../_Standards/geo/Continent/Africa/Uganda/Counties/Kalungu|Kalungu]] 
+- [[../../../../../../_public/geo/Continent/Africa/Uganda/Counties/Kalungu.public|Kalungu.public]] 
+- [[../../../../../../_internal/geo/Continent/Africa/Uganda/Counties/Kalungu.internal|Kalungu.internal]] 
+- [[../../../../../../_protect/geo/Continent/Africa/Uganda/Counties/Kalungu.protect|Kalungu.protect]] 
+- [[../../../../../../_private/geo/Continent/Africa/Uganda/Counties/Kalungu.private|Kalungu.private]] 
+- [[../../../../../../_personal/geo/Continent/Africa/Uganda/Counties/Kalungu.personal|Kalungu.personal]] 
+- [[../../../../../../_secret/geo/Continent/Africa/Uganda/Counties/Kalungu.secret|Kalungu.secret]] 
 

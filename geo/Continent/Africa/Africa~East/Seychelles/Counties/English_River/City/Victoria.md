@@ -1,5 +1,5 @@
 ﻿---
-location: [-4.616667,55.45]
+location: [-4.616667,55.45] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,27 +12,28 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::55.45]
-[geo-lat::-4.616667]
-[name::Victoria]
-[State::]
-[Country::[[Seychelles]]]
-[StateId::]
-[Population::]
-[Unknown::32]
+[geo-lon::55.45] 
+[geo-lat::-4.616667] 
+[name::Victoria] 
+State ::  
+Country :: [[Seychelles]]  
+[StateId::] 
+[Population::] 
+[Unknown::32] 
 
 
 ```leaflet
 id: Victoria
-coordinates: [[Victoria]]
-markerFile: [[Victoria]]
+coordinates: [[Victoria]] 
+markerFile: [[Victoria]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_public/geo/Continent/Africa/Seychelles/City/Victoria.md|Victoria]] 
+- [[../../../../../../_Standards/geo/Continent/Africa/Seychelles/City/Victoria|Victoria]] 
+- [[../../../../../../_public/geo/Continent/Africa/Seychelles/City/Victoria.public|Victoria.public]] 
 - [[../../../../../../_internal/geo/Continent/Africa/Seychelles/City/Victoria.internal|Victoria.internal]] 
 - [[../../../../../../_protect/geo/Continent/Africa/Seychelles/City/Victoria.protect|Victoria.protect]] 
 - [[../../../../../../_private/geo/Continent/Africa/Seychelles/City/Victoria.private|Victoria.private]] 

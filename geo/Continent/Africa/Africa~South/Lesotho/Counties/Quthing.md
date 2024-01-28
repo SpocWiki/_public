@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ -30.3 , 28 ] 
 type: geo-Region
 title: Quthing
@@ -40,10 +40,11 @@ markerFolder: ./Quthing/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Africa/Lesotho/Counties/Quthing.md|Quthing]] 
-- [[../../../../_internal/geo/Continent/Africa/Lesotho/Counties/Quthing.internal|Quthing.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Lesotho/Counties/Quthing.protect|Quthing.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Lesotho/Counties/Quthing.private|Quthing.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Lesotho/Counties/Quthing.personal|Quthing.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Lesotho/Counties/Quthing.secret|Quthing.secret]] 
+- [[../../../../../../_Standards/geo/Continent/Africa/Lesotho/Counties/Quthing|Quthing]] 
+- [[../../../../../../_public/geo/Continent/Africa/Lesotho/Counties/Quthing.public|Quthing.public]] 
+- [[../../../../../../_internal/geo/Continent/Africa/Lesotho/Counties/Quthing.internal|Quthing.internal]] 
+- [[../../../../../../_protect/geo/Continent/Africa/Lesotho/Counties/Quthing.protect|Quthing.protect]] 
+- [[../../../../../../_private/geo/Continent/Africa/Lesotho/Counties/Quthing.private|Quthing.private]] 
+- [[../../../../../../_personal/geo/Continent/Africa/Lesotho/Counties/Quthing.personal|Quthing.personal]] 
+- [[../../../../../../_secret/geo/Continent/Africa/Lesotho/Counties/Quthing.secret|Quthing.secret]] 
 

@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 9.6 , 16.5 ] 
 type: geo-Region
 title: Tandjilé
@@ -40,10 +40,11 @@ markerFolder: ./Tandjilé/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Africa/Chad/Counties/Tandjilé.md|Tandjilé]] 
-- [[../../../../_internal/geo/Continent/Africa/Chad/Counties/Tandjilé.internal|Tandjilé.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Chad/Counties/Tandjilé.protect|Tandjilé.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Chad/Counties/Tandjilé.private|Tandjilé.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Chad/Counties/Tandjilé.personal|Tandjilé.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Chad/Counties/Tandjilé.secret|Tandjilé.secret]] 
+- [[../../../../../../_Standards/geo/Continent/Africa/Chad/Counties/Tandjilé|Tandjilé]] 
+- [[../../../../../../_public/geo/Continent/Africa/Chad/Counties/Tandjilé.public|Tandjilé.public]] 
+- [[../../../../../../_internal/geo/Continent/Africa/Chad/Counties/Tandjilé.internal|Tandjilé.internal]] 
+- [[../../../../../../_protect/geo/Continent/Africa/Chad/Counties/Tandjilé.protect|Tandjilé.protect]] 
+- [[../../../../../../_private/geo/Continent/Africa/Chad/Counties/Tandjilé.private|Tandjilé.private]] 
+- [[../../../../../../_personal/geo/Continent/Africa/Chad/Counties/Tandjilé.personal|Tandjilé.personal]] 
+- [[../../../../../../_secret/geo/Continent/Africa/Chad/Counties/Tandjilé.secret|Tandjilé.secret]] 
 

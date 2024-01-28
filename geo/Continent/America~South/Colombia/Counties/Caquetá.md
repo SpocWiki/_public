@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 1.1 , -74.8 ] 
 type: geo-Region
 title: Caquetá
@@ -40,10 +40,11 @@ markerFolder: ./Caquetá/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/America~South/Colombia/Counties/Caquetá.md|Caquetá]] 
-- [[../../../../_internal/geo/Continent/America~South/Colombia/Counties/Caquetá.internal|Caquetá.internal]] 
-- [[../../../../_protect/geo/Continent/America~South/Colombia/Counties/Caquetá.protect|Caquetá.protect]] 
-- [[../../../../_private/geo/Continent/America~South/Colombia/Counties/Caquetá.private|Caquetá.private]] 
-- [[../../../../_personal/geo/Continent/America~South/Colombia/Counties/Caquetá.personal|Caquetá.personal]] 
-- [[../../../../_secret/geo/Continent/America~South/Colombia/Counties/Caquetá.secret|Caquetá.secret]] 
+- [[../../../../../../_Standards/geo/Continent/America~South/Colombia/Counties/Caquetá|Caquetá]] 
+- [[../../../../../../_public/geo/Continent/America~South/Colombia/Counties/Caquetá.public|Caquetá.public]] 
+- [[../../../../../../_internal/geo/Continent/America~South/Colombia/Counties/Caquetá.internal|Caquetá.internal]] 
+- [[../../../../../../_protect/geo/Continent/America~South/Colombia/Counties/Caquetá.protect|Caquetá.protect]] 
+- [[../../../../../../_private/geo/Continent/America~South/Colombia/Counties/Caquetá.private|Caquetá.private]] 
+- [[../../../../../../_personal/geo/Continent/America~South/Colombia/Counties/Caquetá.personal|Caquetá.personal]] 
+- [[../../../../../../_secret/geo/Continent/America~South/Colombia/Counties/Caquetá.secret|Caquetá.secret]] 
 

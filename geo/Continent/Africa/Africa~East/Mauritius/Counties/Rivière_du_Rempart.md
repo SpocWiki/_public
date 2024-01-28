@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ -20.1 , 57.7 ] 
 type: geo-Region
 title: Rivière_du_Rempart
@@ -40,10 +40,11 @@ markerFolder: ./Rivière_du_Rempart/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Africa/Mauritius/Counties/Rivière_du_Rempart.md|Rivière_du_Rempart]] 
-- [[../../../../_internal/geo/Continent/Africa/Mauritius/Counties/Rivière_du_Rempart.internal|Rivière_du_Rempart.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Mauritius/Counties/Rivière_du_Rempart.protect|Rivière_du_Rempart.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Mauritius/Counties/Rivière_du_Rempart.private|Rivière_du_Rempart.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Mauritius/Counties/Rivière_du_Rempart.personal|Rivière_du_Rempart.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Mauritius/Counties/Rivière_du_Rempart.secret|Rivière_du_Rempart.secret]] 
+- [[../../../../../../_Standards/geo/Continent/Africa/Mauritius/Counties/Rivière_du_Rempart|Rivière_du_Rempart]] 
+- [[../../../../../../_public/geo/Continent/Africa/Mauritius/Counties/Rivière_du_Rempart.public|Rivière_du_Rempart.public]] 
+- [[../../../../../../_internal/geo/Continent/Africa/Mauritius/Counties/Rivière_du_Rempart.internal|Rivière_du_Rempart.internal]] 
+- [[../../../../../../_protect/geo/Continent/Africa/Mauritius/Counties/Rivière_du_Rempart.protect|Rivière_du_Rempart.protect]] 
+- [[../../../../../../_private/geo/Continent/Africa/Mauritius/Counties/Rivière_du_Rempart.private|Rivière_du_Rempart.private]] 
+- [[../../../../../../_personal/geo/Continent/Africa/Mauritius/Counties/Rivière_du_Rempart.personal|Rivière_du_Rempart.personal]] 
+- [[../../../../../../_secret/geo/Continent/Africa/Mauritius/Counties/Rivière_du_Rempart.secret|Rivière_du_Rempart.secret]] 
 

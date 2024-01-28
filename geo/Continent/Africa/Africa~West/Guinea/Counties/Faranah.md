@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 9.9 , -10.7 ] 
 type: geo-Region
 title: Faranah
@@ -40,10 +40,11 @@ markerFolder: ./Faranah/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Africa/Guinea/Counties/Faranah.md|Faranah]] 
-- [[../../../../_internal/geo/Continent/Africa/Guinea/Counties/Faranah.internal|Faranah.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Guinea/Counties/Faranah.protect|Faranah.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Guinea/Counties/Faranah.private|Faranah.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Guinea/Counties/Faranah.personal|Faranah.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Guinea/Counties/Faranah.secret|Faranah.secret]] 
+- [[../../../../../../_Standards/geo/Continent/Africa/Guinea/Counties/Faranah|Faranah]] 
+- [[../../../../../../_public/geo/Continent/Africa/Guinea/Counties/Faranah.public|Faranah.public]] 
+- [[../../../../../../_internal/geo/Continent/Africa/Guinea/Counties/Faranah.internal|Faranah.internal]] 
+- [[../../../../../../_protect/geo/Continent/Africa/Guinea/Counties/Faranah.protect|Faranah.protect]] 
+- [[../../../../../../_private/geo/Continent/Africa/Guinea/Counties/Faranah.private|Faranah.private]] 
+- [[../../../../../../_personal/geo/Continent/Africa/Guinea/Counties/Faranah.personal|Faranah.personal]] 
+- [[../../../../../../_secret/geo/Continent/Africa/Guinea/Counties/Faranah.secret|Faranah.secret]] 
 

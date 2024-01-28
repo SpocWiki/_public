@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ -37.1 , -60.1 ] 
 type: geo-Region
 title: Buenos_Aires
@@ -40,10 +40,11 @@ markerFolder: ./Buenos_Aires/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/America~South/Argentina/Counties/Buenos_Aires.md|Buenos_Aires]] 
-- [[../../../../_internal/geo/Continent/America~South/Argentina/Counties/Buenos_Aires.internal|Buenos_Aires.internal]] 
-- [[../../../../_protect/geo/Continent/America~South/Argentina/Counties/Buenos_Aires.protect|Buenos_Aires.protect]] 
-- [[../../../../_private/geo/Continent/America~South/Argentina/Counties/Buenos_Aires.private|Buenos_Aires.private]] 
-- [[../../../../_personal/geo/Continent/America~South/Argentina/Counties/Buenos_Aires.personal|Buenos_Aires.personal]] 
-- [[../../../../_secret/geo/Continent/America~South/Argentina/Counties/Buenos_Aires.secret|Buenos_Aires.secret]] 
+- [[../../../../../../_Standards/geo/Continent/America~South/Argentina/Counties/Buenos_Aires|Buenos_Aires]] 
+- [[../../../../../../_public/geo/Continent/America~South/Argentina/Counties/Buenos_Aires.public|Buenos_Aires.public]] 
+- [[../../../../../../_internal/geo/Continent/America~South/Argentina/Counties/Buenos_Aires.internal|Buenos_Aires.internal]] 
+- [[../../../../../../_protect/geo/Continent/America~South/Argentina/Counties/Buenos_Aires.protect|Buenos_Aires.protect]] 
+- [[../../../../../../_private/geo/Continent/America~South/Argentina/Counties/Buenos_Aires.private|Buenos_Aires.private]] 
+- [[../../../../../../_personal/geo/Continent/America~South/Argentina/Counties/Buenos_Aires.personal|Buenos_Aires.personal]] 
+- [[../../../../../../_secret/geo/Continent/America~South/Argentina/Counties/Buenos_Aires.secret|Buenos_Aires.secret]] 
 

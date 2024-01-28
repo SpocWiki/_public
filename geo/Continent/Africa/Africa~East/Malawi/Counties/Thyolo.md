@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ -16.1 , 35.1 ] 
 type: geo-Region
 title: Thyolo
@@ -40,10 +40,11 @@ markerFolder: ./Thyolo/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Africa/Malawi/Counties/Thyolo.md|Thyolo]] 
-- [[../../../../_internal/geo/Continent/Africa/Malawi/Counties/Thyolo.internal|Thyolo.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Malawi/Counties/Thyolo.protect|Thyolo.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Malawi/Counties/Thyolo.private|Thyolo.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Malawi/Counties/Thyolo.personal|Thyolo.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Malawi/Counties/Thyolo.secret|Thyolo.secret]] 
+- [[../../../../../../_Standards/geo/Continent/Africa/Malawi/Counties/Thyolo|Thyolo]] 
+- [[../../../../../../_public/geo/Continent/Africa/Malawi/Counties/Thyolo.public|Thyolo.public]] 
+- [[../../../../../../_internal/geo/Continent/Africa/Malawi/Counties/Thyolo.internal|Thyolo.internal]] 
+- [[../../../../../../_protect/geo/Continent/Africa/Malawi/Counties/Thyolo.protect|Thyolo.protect]] 
+- [[../../../../../../_private/geo/Continent/Africa/Malawi/Counties/Thyolo.private|Thyolo.private]] 
+- [[../../../../../../_personal/geo/Continent/Africa/Malawi/Counties/Thyolo.personal|Thyolo.personal]] 
+- [[../../../../../../_secret/geo/Continent/Africa/Malawi/Counties/Thyolo.secret|Thyolo.secret]] 
 

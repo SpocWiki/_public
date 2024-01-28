@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 22.45 , -73.94 ] 
 type: geo-Region
 title: Acklins
@@ -40,10 +40,11 @@ markerFolder: ./Acklins/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/America~Caribbean/Bahamas/Counties/Acklins.md|Acklins]] 
-- [[../../../../_internal/geo/Continent/America~Caribbean/Bahamas/Counties/Acklins.internal|Acklins.internal]] 
-- [[../../../../_protect/geo/Continent/America~Caribbean/Bahamas/Counties/Acklins.protect|Acklins.protect]] 
-- [[../../../../_private/geo/Continent/America~Caribbean/Bahamas/Counties/Acklins.private|Acklins.private]] 
-- [[../../../../_personal/geo/Continent/America~Caribbean/Bahamas/Counties/Acklins.personal|Acklins.personal]] 
-- [[../../../../_secret/geo/Continent/America~Caribbean/Bahamas/Counties/Acklins.secret|Acklins.secret]] 
+- [[../../../../../../_Standards/geo/Continent/America~Caribbean/Bahamas/Counties/Acklins|Acklins]] 
+- [[../../../../../../_public/geo/Continent/America~Caribbean/Bahamas/Counties/Acklins.public|Acklins.public]] 
+- [[../../../../../../_internal/geo/Continent/America~Caribbean/Bahamas/Counties/Acklins.internal|Acklins.internal]] 
+- [[../../../../../../_protect/geo/Continent/America~Caribbean/Bahamas/Counties/Acklins.protect|Acklins.protect]] 
+- [[../../../../../../_private/geo/Continent/America~Caribbean/Bahamas/Counties/Acklins.private|Acklins.private]] 
+- [[../../../../../../_personal/geo/Continent/America~Caribbean/Bahamas/Counties/Acklins.personal|Acklins.personal]] 
+- [[../../../../../../_secret/geo/Continent/America~Caribbean/Bahamas/Counties/Acklins.secret|Acklins.secret]] 
 

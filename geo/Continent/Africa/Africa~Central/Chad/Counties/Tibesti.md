@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 20.3 , 16.6 ] 
 type: geo-Region
 title: Tibesti
@@ -40,10 +40,11 @@ markerFolder: ./Tibesti/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Africa/Chad/Counties/Tibesti.md|Tibesti]] 
-- [[../../../../_internal/geo/Continent/Africa/Chad/Counties/Tibesti.internal|Tibesti.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Chad/Counties/Tibesti.protect|Tibesti.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Chad/Counties/Tibesti.private|Tibesti.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Chad/Counties/Tibesti.personal|Tibesti.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Chad/Counties/Tibesti.secret|Tibesti.secret]] 
+- [[../../../../../../_Standards/geo/Continent/Africa/Chad/Counties/Tibesti|Tibesti]] 
+- [[../../../../../../_public/geo/Continent/Africa/Chad/Counties/Tibesti.public|Tibesti.public]] 
+- [[../../../../../../_internal/geo/Continent/Africa/Chad/Counties/Tibesti.internal|Tibesti.internal]] 
+- [[../../../../../../_protect/geo/Continent/Africa/Chad/Counties/Tibesti.protect|Tibesti.protect]] 
+- [[../../../../../../_private/geo/Continent/Africa/Chad/Counties/Tibesti.private|Tibesti.private]] 
+- [[../../../../../../_personal/geo/Continent/Africa/Chad/Counties/Tibesti.personal|Tibesti.personal]] 
+- [[../../../../../../_secret/geo/Continent/Africa/Chad/Counties/Tibesti.secret|Tibesti.secret]] 
 

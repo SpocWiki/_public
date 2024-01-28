@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 19.4 , -71.3 ] 
 type: geo-Region
 title: Santiago_Rodríguez
@@ -40,10 +40,11 @@ markerFolder: ./Santiago_Rodríguez/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/America~Caribbean/Dominican_Rep/Counties/Santiago_Rodríguez.md|Santiago_Rodríguez]] 
-- [[../../../../_internal/geo/Continent/America~Caribbean/Dominican_Rep/Counties/Santiago_Rodríguez.internal|Santiago_Rodríguez.internal]] 
-- [[../../../../_protect/geo/Continent/America~Caribbean/Dominican_Rep/Counties/Santiago_Rodríguez.protect|Santiago_Rodríguez.protect]] 
-- [[../../../../_private/geo/Continent/America~Caribbean/Dominican_Rep/Counties/Santiago_Rodríguez.private|Santiago_Rodríguez.private]] 
-- [[../../../../_personal/geo/Continent/America~Caribbean/Dominican_Rep/Counties/Santiago_Rodríguez.personal|Santiago_Rodríguez.personal]] 
-- [[../../../../_secret/geo/Continent/America~Caribbean/Dominican_Rep/Counties/Santiago_Rodríguez.secret|Santiago_Rodríguez.secret]] 
+- [[../../../../../../_Standards/geo/Continent/America~Caribbean/Dominican_Rep/Counties/Santiago_Rodríguez|Santiago_Rodríguez]] 
+- [[../../../../../../_public/geo/Continent/America~Caribbean/Dominican_Rep/Counties/Santiago_Rodríguez.public|Santiago_Rodríguez.public]] 
+- [[../../../../../../_internal/geo/Continent/America~Caribbean/Dominican_Rep/Counties/Santiago_Rodríguez.internal|Santiago_Rodríguez.internal]] 
+- [[../../../../../../_protect/geo/Continent/America~Caribbean/Dominican_Rep/Counties/Santiago_Rodríguez.protect|Santiago_Rodríguez.protect]] 
+- [[../../../../../../_private/geo/Continent/America~Caribbean/Dominican_Rep/Counties/Santiago_Rodríguez.private|Santiago_Rodríguez.private]] 
+- [[../../../../../../_personal/geo/Continent/America~Caribbean/Dominican_Rep/Counties/Santiago_Rodríguez.personal|Santiago_Rodríguez.personal]] 
+- [[../../../../../../_secret/geo/Continent/America~Caribbean/Dominican_Rep/Counties/Santiago_Rodríguez.secret|Santiago_Rodríguez.secret]] 
 

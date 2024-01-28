@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 11.8 , -16.1 ] 
 type: geo-Region
 title: Biombo
@@ -40,10 +40,11 @@ markerFolder: ./Biombo/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Africa/Guinea-Bissau/Counties/Biombo.md|Biombo]] 
-- [[../../../../_internal/geo/Continent/Africa/Guinea-Bissau/Counties/Biombo.internal|Biombo.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Guinea-Bissau/Counties/Biombo.protect|Biombo.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Guinea-Bissau/Counties/Biombo.private|Biombo.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Guinea-Bissau/Counties/Biombo.personal|Biombo.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Guinea-Bissau/Counties/Biombo.secret|Biombo.secret]] 
+- [[../../../../../../_Standards/geo/Continent/Africa/Guinea-Bissau/Counties/Biombo|Biombo]] 
+- [[../../../../../../_public/geo/Continent/Africa/Guinea-Bissau/Counties/Biombo.public|Biombo.public]] 
+- [[../../../../../../_internal/geo/Continent/Africa/Guinea-Bissau/Counties/Biombo.internal|Biombo.internal]] 
+- [[../../../../../../_protect/geo/Continent/Africa/Guinea-Bissau/Counties/Biombo.protect|Biombo.protect]] 
+- [[../../../../../../_private/geo/Continent/Africa/Guinea-Bissau/Counties/Biombo.private|Biombo.private]] 
+- [[../../../../../../_personal/geo/Continent/Africa/Guinea-Bissau/Counties/Biombo.personal|Biombo.personal]] 
+- [[../../../../../../_secret/geo/Continent/Africa/Guinea-Bissau/Counties/Biombo.secret|Biombo.secret]] 
 

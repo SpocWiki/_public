@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ -21.2 , 200.2 ] 
 type: geo-Region
 title: Rarotonga
@@ -40,10 +40,11 @@ markerFolder: ./Rarotonga/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Oceania/Cook~Islands/Counties/Rarotonga.md|Rarotonga]] 
-- [[../../../../_internal/geo/Continent/Oceania/Cook~Islands/Counties/Rarotonga.internal|Rarotonga.internal]] 
-- [[../../../../_protect/geo/Continent/Oceania/Cook~Islands/Counties/Rarotonga.protect|Rarotonga.protect]] 
-- [[../../../../_private/geo/Continent/Oceania/Cook~Islands/Counties/Rarotonga.private|Rarotonga.private]] 
-- [[../../../../_personal/geo/Continent/Oceania/Cook~Islands/Counties/Rarotonga.personal|Rarotonga.personal]] 
-- [[../../../../_secret/geo/Continent/Oceania/Cook~Islands/Counties/Rarotonga.secret|Rarotonga.secret]] 
+- [[../../../../../../_Standards/geo/Continent/Oceania/Cook~Islands/Counties/Rarotonga|Rarotonga]] 
+- [[../../../../../../_public/geo/Continent/Oceania/Cook~Islands/Counties/Rarotonga.public|Rarotonga.public]] 
+- [[../../../../../../_internal/geo/Continent/Oceania/Cook~Islands/Counties/Rarotonga.internal|Rarotonga.internal]] 
+- [[../../../../../../_protect/geo/Continent/Oceania/Cook~Islands/Counties/Rarotonga.protect|Rarotonga.protect]] 
+- [[../../../../../../_private/geo/Continent/Oceania/Cook~Islands/Counties/Rarotonga.private|Rarotonga.private]] 
+- [[../../../../../../_personal/geo/Continent/Oceania/Cook~Islands/Counties/Rarotonga.personal|Rarotonga.personal]] 
+- [[../../../../../../_secret/geo/Continent/Oceania/Cook~Islands/Counties/Rarotonga.secret|Rarotonga.secret]] 
 

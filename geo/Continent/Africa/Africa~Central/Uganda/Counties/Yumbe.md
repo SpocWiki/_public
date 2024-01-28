@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 3.4 , 31.3 ] 
 type: geo-Region
 title: Yumbe
@@ -40,10 +40,11 @@ markerFolder: ./Yumbe/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Africa/Uganda/Counties/Yumbe.md|Yumbe]] 
-- [[../../../../_internal/geo/Continent/Africa/Uganda/Counties/Yumbe.internal|Yumbe.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Uganda/Counties/Yumbe.protect|Yumbe.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Uganda/Counties/Yumbe.private|Yumbe.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Uganda/Counties/Yumbe.personal|Yumbe.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Uganda/Counties/Yumbe.secret|Yumbe.secret]] 
+- [[../../../../../../_Standards/geo/Continent/Africa/Uganda/Counties/Yumbe|Yumbe]] 
+- [[../../../../../../_public/geo/Continent/Africa/Uganda/Counties/Yumbe.public|Yumbe.public]] 
+- [[../../../../../../_internal/geo/Continent/Africa/Uganda/Counties/Yumbe.internal|Yumbe.internal]] 
+- [[../../../../../../_protect/geo/Continent/Africa/Uganda/Counties/Yumbe.protect|Yumbe.protect]] 
+- [[../../../../../../_private/geo/Continent/Africa/Uganda/Counties/Yumbe.private|Yumbe.private]] 
+- [[../../../../../../_personal/geo/Continent/Africa/Uganda/Counties/Yumbe.personal|Yumbe.personal]] 
+- [[../../../../../../_secret/geo/Continent/Africa/Uganda/Counties/Yumbe.secret|Yumbe.secret]] 
 

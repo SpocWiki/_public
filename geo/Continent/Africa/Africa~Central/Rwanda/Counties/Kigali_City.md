@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ -1.9 , 30.1 ] 
 type: geo-Region
 title: Kigali_City
@@ -40,10 +40,11 @@ markerFolder: ./Kigali_City/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Africa/Rwanda/Counties/Kigali_City.md|Kigali_City]] 
-- [[../../../../_internal/geo/Continent/Africa/Rwanda/Counties/Kigali_City.internal|Kigali_City.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Rwanda/Counties/Kigali_City.protect|Kigali_City.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Rwanda/Counties/Kigali_City.private|Kigali_City.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Rwanda/Counties/Kigali_City.personal|Kigali_City.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Rwanda/Counties/Kigali_City.secret|Kigali_City.secret]] 
+- [[../../../../../../_Standards/geo/Continent/Africa/Rwanda/Counties/Kigali_City|Kigali_City]] 
+- [[../../../../../../_public/geo/Continent/Africa/Rwanda/Counties/Kigali_City.public|Kigali_City.public]] 
+- [[../../../../../../_internal/geo/Continent/Africa/Rwanda/Counties/Kigali_City.internal|Kigali_City.internal]] 
+- [[../../../../../../_protect/geo/Continent/Africa/Rwanda/Counties/Kigali_City.protect|Kigali_City.protect]] 
+- [[../../../../../../_private/geo/Continent/Africa/Rwanda/Counties/Kigali_City.private|Kigali_City.private]] 
+- [[../../../../../../_personal/geo/Continent/Africa/Rwanda/Counties/Kigali_City.personal|Kigali_City.personal]] 
+- [[../../../../../../_secret/geo/Continent/Africa/Rwanda/Counties/Kigali_City.secret|Kigali_City.secret]] 
 

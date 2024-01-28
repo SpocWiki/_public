@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ -20.1 , 28.5 ] 
 type: geo-Region
 title: Bulawayo
@@ -40,10 +40,11 @@ markerFolder: ./Bulawayo/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Africa/Zimbabwe/Counties/Bulawayo.md|Bulawayo]] 
-- [[../../../../_internal/geo/Continent/Africa/Zimbabwe/Counties/Bulawayo.internal|Bulawayo.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Zimbabwe/Counties/Bulawayo.protect|Bulawayo.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Zimbabwe/Counties/Bulawayo.private|Bulawayo.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Zimbabwe/Counties/Bulawayo.personal|Bulawayo.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Zimbabwe/Counties/Bulawayo.secret|Bulawayo.secret]] 
+- [[../../../../../../_Standards/geo/Continent/Africa/Zimbabwe/Counties/Bulawayo|Bulawayo]] 
+- [[../../../../../../_public/geo/Continent/Africa/Zimbabwe/Counties/Bulawayo.public|Bulawayo.public]] 
+- [[../../../../../../_internal/geo/Continent/Africa/Zimbabwe/Counties/Bulawayo.internal|Bulawayo.internal]] 
+- [[../../../../../../_protect/geo/Continent/Africa/Zimbabwe/Counties/Bulawayo.protect|Bulawayo.protect]] 
+- [[../../../../../../_private/geo/Continent/Africa/Zimbabwe/Counties/Bulawayo.private|Bulawayo.private]] 
+- [[../../../../../../_personal/geo/Continent/Africa/Zimbabwe/Counties/Bulawayo.personal|Bulawayo.personal]] 
+- [[../../../../../../_secret/geo/Continent/Africa/Zimbabwe/Counties/Bulawayo.secret|Bulawayo.secret]] 
 

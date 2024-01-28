@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 15.3 , -61.35 ] 
 type: geo-Region
 title: Saint_George
@@ -40,10 +40,11 @@ markerFolder: ./Saint_George/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/America~Caribbean/Dominica/Counties/Saint_George.md|Saint_George]] 
-- [[../../../../_internal/geo/Continent/America~Caribbean/Dominica/Counties/Saint_George.internal|Saint_George.internal]] 
-- [[../../../../_protect/geo/Continent/America~Caribbean/Dominica/Counties/Saint_George.protect|Saint_George.protect]] 
-- [[../../../../_private/geo/Continent/America~Caribbean/Dominica/Counties/Saint_George.private|Saint_George.private]] 
-- [[../../../../_personal/geo/Continent/America~Caribbean/Dominica/Counties/Saint_George.personal|Saint_George.personal]] 
-- [[../../../../_secret/geo/Continent/America~Caribbean/Dominica/Counties/Saint_George.secret|Saint_George.secret]] 
+- [[../../../../../../_Standards/geo/Continent/America~Caribbean/Dominica/Counties/Saint_George|Saint_George]] 
+- [[../../../../../../_public/geo/Continent/America~Caribbean/Dominica/Counties/Saint_George.public|Saint_George.public]] 
+- [[../../../../../../_internal/geo/Continent/America~Caribbean/Dominica/Counties/Saint_George.internal|Saint_George.internal]] 
+- [[../../../../../../_protect/geo/Continent/America~Caribbean/Dominica/Counties/Saint_George.protect|Saint_George.protect]] 
+- [[../../../../../../_private/geo/Continent/America~Caribbean/Dominica/Counties/Saint_George.private|Saint_George.private]] 
+- [[../../../../../../_personal/geo/Continent/America~Caribbean/Dominica/Counties/Saint_George.personal|Saint_George.personal]] 
+- [[../../../../../../_secret/geo/Continent/America~Caribbean/Dominica/Counties/Saint_George.secret|Saint_George.secret]] 
 

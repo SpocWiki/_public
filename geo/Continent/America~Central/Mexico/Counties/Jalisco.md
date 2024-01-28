@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 20.9 , -103.2 ] 
 type: geo-Region
 title: Jalisco
@@ -40,10 +40,11 @@ markerFolder: ./Jalisco/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/America~Central/Mexico/Counties/Jalisco.md|Jalisco]] 
-- [[../../../../_internal/geo/Continent/America~Central/Mexico/Counties/Jalisco.internal|Jalisco.internal]] 
-- [[../../../../_protect/geo/Continent/America~Central/Mexico/Counties/Jalisco.protect|Jalisco.protect]] 
-- [[../../../../_private/geo/Continent/America~Central/Mexico/Counties/Jalisco.private|Jalisco.private]] 
-- [[../../../../_personal/geo/Continent/America~Central/Mexico/Counties/Jalisco.personal|Jalisco.personal]] 
-- [[../../../../_secret/geo/Continent/America~Central/Mexico/Counties/Jalisco.secret|Jalisco.secret]] 
+- [[../../../../../../_Standards/geo/Continent/America~Central/Mexico/Counties/Jalisco|Jalisco]] 
+- [[../../../../../../_public/geo/Continent/America~Central/Mexico/Counties/Jalisco.public|Jalisco.public]] 
+- [[../../../../../../_internal/geo/Continent/America~Central/Mexico/Counties/Jalisco.internal|Jalisco.internal]] 
+- [[../../../../../../_protect/geo/Continent/America~Central/Mexico/Counties/Jalisco.protect|Jalisco.protect]] 
+- [[../../../../../../_private/geo/Continent/America~Central/Mexico/Counties/Jalisco.private|Jalisco.private]] 
+- [[../../../../../../_personal/geo/Continent/America~Central/Mexico/Counties/Jalisco.personal|Jalisco.personal]] 
+- [[../../../../../../_secret/geo/Continent/America~Central/Mexico/Counties/Jalisco.secret|Jalisco.secret]] 
 

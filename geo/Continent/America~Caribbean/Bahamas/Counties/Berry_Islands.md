@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 25.76 , -77.86 ] 
 type: geo-Region
 title: Berry_Islands
@@ -40,10 +40,11 @@ markerFolder: ./Berry_Islands/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/America~Caribbean/Bahamas/Counties/Berry_Islands.md|Berry_Islands]] 
-- [[../../../../_internal/geo/Continent/America~Caribbean/Bahamas/Counties/Berry_Islands.internal|Berry_Islands.internal]] 
-- [[../../../../_protect/geo/Continent/America~Caribbean/Bahamas/Counties/Berry_Islands.protect|Berry_Islands.protect]] 
-- [[../../../../_private/geo/Continent/America~Caribbean/Bahamas/Counties/Berry_Islands.private|Berry_Islands.private]] 
-- [[../../../../_personal/geo/Continent/America~Caribbean/Bahamas/Counties/Berry_Islands.personal|Berry_Islands.personal]] 
-- [[../../../../_secret/geo/Continent/America~Caribbean/Bahamas/Counties/Berry_Islands.secret|Berry_Islands.secret]] 
+- [[../../../../../../_Standards/geo/Continent/America~Caribbean/Bahamas/Counties/Berry_Islands|Berry_Islands]] 
+- [[../../../../../../_public/geo/Continent/America~Caribbean/Bahamas/Counties/Berry_Islands.public|Berry_Islands.public]] 
+- [[../../../../../../_internal/geo/Continent/America~Caribbean/Bahamas/Counties/Berry_Islands.internal|Berry_Islands.internal]] 
+- [[../../../../../../_protect/geo/Continent/America~Caribbean/Bahamas/Counties/Berry_Islands.protect|Berry_Islands.protect]] 
+- [[../../../../../../_private/geo/Continent/America~Caribbean/Bahamas/Counties/Berry_Islands.private|Berry_Islands.private]] 
+- [[../../../../../../_personal/geo/Continent/America~Caribbean/Bahamas/Counties/Berry_Islands.personal|Berry_Islands.personal]] 
+- [[../../../../../../_secret/geo/Continent/America~Caribbean/Bahamas/Counties/Berry_Islands.secret|Berry_Islands.secret]] 
 

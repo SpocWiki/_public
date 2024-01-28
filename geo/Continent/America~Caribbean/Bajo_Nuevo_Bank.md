@@ -40,7 +40,8 @@ markerFolder: ./Bajo_Nuevo_Bank/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/America~Caribbean/Bajo_Nuevo_Bank.md|Bajo_Nuevo_Bank]] 
+- [[../../../../_Standards/geo/Continent/America~Caribbean/Bajo_Nuevo_Bank|Bajo_Nuevo_Bank]] 
+- [[../../../../_public/geo/Continent/America~Caribbean/Bajo_Nuevo_Bank.public|Bajo_Nuevo_Bank.public]] 
 - [[../../../../_internal/geo/Continent/America~Caribbean/Bajo_Nuevo_Bank.internal|Bajo_Nuevo_Bank.internal]] 
 - [[../../../../_protect/geo/Continent/America~Caribbean/Bajo_Nuevo_Bank.protect|Bajo_Nuevo_Bank.protect]] 
 - [[../../../../_private/geo/Continent/America~Caribbean/Bajo_Nuevo_Bank.private|Bajo_Nuevo_Bank.private]] 

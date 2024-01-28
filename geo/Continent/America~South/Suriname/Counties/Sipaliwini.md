@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 3.7 , -56 ] 
 type: geo-Region
 title: Sipaliwini
@@ -40,10 +40,11 @@ markerFolder: ./Sipaliwini/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/America~South/Suriname/Counties/Sipaliwini.md|Sipaliwini]] 
-- [[../../../../_internal/geo/Continent/America~South/Suriname/Counties/Sipaliwini.internal|Sipaliwini.internal]] 
-- [[../../../../_protect/geo/Continent/America~South/Suriname/Counties/Sipaliwini.protect|Sipaliwini.protect]] 
-- [[../../../../_private/geo/Continent/America~South/Suriname/Counties/Sipaliwini.private|Sipaliwini.private]] 
-- [[../../../../_personal/geo/Continent/America~South/Suriname/Counties/Sipaliwini.personal|Sipaliwini.personal]] 
-- [[../../../../_secret/geo/Continent/America~South/Suriname/Counties/Sipaliwini.secret|Sipaliwini.secret]] 
+- [[../../../../../../_Standards/geo/Continent/America~South/Suriname/Counties/Sipaliwini|Sipaliwini]] 
+- [[../../../../../../_public/geo/Continent/America~South/Suriname/Counties/Sipaliwini.public|Sipaliwini.public]] 
+- [[../../../../../../_internal/geo/Continent/America~South/Suriname/Counties/Sipaliwini.internal|Sipaliwini.internal]] 
+- [[../../../../../../_protect/geo/Continent/America~South/Suriname/Counties/Sipaliwini.protect|Sipaliwini.protect]] 
+- [[../../../../../../_private/geo/Continent/America~South/Suriname/Counties/Sipaliwini.private|Sipaliwini.private]] 
+- [[../../../../../../_personal/geo/Continent/America~South/Suriname/Counties/Sipaliwini.personal|Sipaliwini.personal]] 
+- [[../../../../../../_secret/geo/Continent/America~South/Suriname/Counties/Sipaliwini.secret|Sipaliwini.secret]] 
 

@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 26.3 , -77.56 ] 
 type: geo-Region
 title: Moore's_Island
@@ -40,10 +40,11 @@ markerFolder: ./Moore's_Island/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/America~Caribbean/Bahamas/Counties/Moore's_Island.md|Moore's_Island]] 
-- [[../../../../_internal/geo/Continent/America~Caribbean/Bahamas/Counties/Moore's_Island.internal|Moore's_Island.internal]] 
-- [[../../../../_protect/geo/Continent/America~Caribbean/Bahamas/Counties/Moore's_Island.protect|Moore's_Island.protect]] 
-- [[../../../../_private/geo/Continent/America~Caribbean/Bahamas/Counties/Moore's_Island.private|Moore's_Island.private]] 
-- [[../../../../_personal/geo/Continent/America~Caribbean/Bahamas/Counties/Moore's_Island.personal|Moore's_Island.personal]] 
-- [[../../../../_secret/geo/Continent/America~Caribbean/Bahamas/Counties/Moore's_Island.secret|Moore's_Island.secret]] 
+- [[../../../../../../_Standards/geo/Continent/America~Caribbean/Bahamas/Counties/Moore's_Island|Moore's_Island]] 
+- [[../../../../../../_public/geo/Continent/America~Caribbean/Bahamas/Counties/Moore's_Island.public|Moore's_Island.public]] 
+- [[../../../../../../_internal/geo/Continent/America~Caribbean/Bahamas/Counties/Moore's_Island.internal|Moore's_Island.internal]] 
+- [[../../../../../../_protect/geo/Continent/America~Caribbean/Bahamas/Counties/Moore's_Island.protect|Moore's_Island.protect]] 
+- [[../../../../../../_private/geo/Continent/America~Caribbean/Bahamas/Counties/Moore's_Island.private|Moore's_Island.private]] 
+- [[../../../../../../_personal/geo/Continent/America~Caribbean/Bahamas/Counties/Moore's_Island.personal|Moore's_Island.personal]] 
+- [[../../../../../../_secret/geo/Continent/America~Caribbean/Bahamas/Counties/Moore's_Island.secret|Moore's_Island.secret]] 
 

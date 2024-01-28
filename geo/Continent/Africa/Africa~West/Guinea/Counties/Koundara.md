@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 12.3 , -13.1 ] 
 type: geo-Region
 title: Koundara
@@ -40,10 +40,11 @@ markerFolder: ./Koundara/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Africa/Guinea/Counties/Koundara.md|Koundara]] 
-- [[../../../../_internal/geo/Continent/Africa/Guinea/Counties/Koundara.internal|Koundara.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Guinea/Counties/Koundara.protect|Koundara.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Guinea/Counties/Koundara.private|Koundara.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Guinea/Counties/Koundara.personal|Koundara.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Guinea/Counties/Koundara.secret|Koundara.secret]] 
+- [[../../../../../../_Standards/geo/Continent/Africa/Guinea/Counties/Koundara|Koundara]] 
+- [[../../../../../../_public/geo/Continent/Africa/Guinea/Counties/Koundara.public|Koundara.public]] 
+- [[../../../../../../_internal/geo/Continent/Africa/Guinea/Counties/Koundara.internal|Koundara.internal]] 
+- [[../../../../../../_protect/geo/Continent/Africa/Guinea/Counties/Koundara.protect|Koundara.protect]] 
+- [[../../../../../../_private/geo/Continent/Africa/Guinea/Counties/Koundara.private|Koundara.private]] 
+- [[../../../../../../_personal/geo/Continent/Africa/Guinea/Counties/Koundara.personal|Koundara.personal]] 
+- [[../../../../../../_secret/geo/Continent/Africa/Guinea/Counties/Koundara.secret|Koundara.secret]] 
 

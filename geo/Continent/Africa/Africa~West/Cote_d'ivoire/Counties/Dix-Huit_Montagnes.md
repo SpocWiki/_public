@@ -40,10 +40,11 @@ markerFolder: ./Dix-Huit_Montagnes/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Africa/Cote_d'Ivoire/Counties/Dix-Huit_Montagnes.md|Dix-Huit_Montagnes]] 
-- [[../../../../_internal/geo/Continent/Africa/Cote_d'Ivoire/Counties/Dix-Huit_Montagnes.internal|Dix-Huit_Montagnes.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Cote_d'Ivoire/Counties/Dix-Huit_Montagnes.protect|Dix-Huit_Montagnes.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Cote_d'Ivoire/Counties/Dix-Huit_Montagnes.private|Dix-Huit_Montagnes.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Cote_d'Ivoire/Counties/Dix-Huit_Montagnes.personal|Dix-Huit_Montagnes.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Cote_d'Ivoire/Counties/Dix-Huit_Montagnes.secret|Dix-Huit_Montagnes.secret]] 
+- [[../../../../../../_Standards/geo/Continent/Africa/Cote_d'Ivoire/Counties/Dix-Huit_Montagnes|Dix-Huit_Montagnes]] 
+- [[../../../../../../_public/geo/Continent/Africa/Cote_d'Ivoire/Counties/Dix-Huit_Montagnes.public|Dix-Huit_Montagnes.public]] 
+- [[../../../../../../_internal/geo/Continent/Africa/Cote_d'Ivoire/Counties/Dix-Huit_Montagnes.internal|Dix-Huit_Montagnes.internal]] 
+- [[../../../../../../_protect/geo/Continent/Africa/Cote_d'Ivoire/Counties/Dix-Huit_Montagnes.protect|Dix-Huit_Montagnes.protect]] 
+- [[../../../../../../_private/geo/Continent/Africa/Cote_d'Ivoire/Counties/Dix-Huit_Montagnes.private|Dix-Huit_Montagnes.private]] 
+- [[../../../../../../_personal/geo/Continent/Africa/Cote_d'Ivoire/Counties/Dix-Huit_Montagnes.personal|Dix-Huit_Montagnes.personal]] 
+- [[../../../../../../_secret/geo/Continent/Africa/Cote_d'Ivoire/Counties/Dix-Huit_Montagnes.secret|Dix-Huit_Montagnes.secret]] 
 

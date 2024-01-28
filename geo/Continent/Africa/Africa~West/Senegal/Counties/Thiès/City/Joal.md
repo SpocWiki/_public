@@ -1,5 +1,5 @@
 ﻿---
-location: [14.17,-16.85]
+location: [14.17,-16.85] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,27 +12,28 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::-16.85]
-[geo-lat::14.17]
-[name::Joal]
-[State::]
-[Country::[[Senegal]]]
-[StateId::]
-[Population::]
-[Unknown::]
+[geo-lon::-16.85] 
+[geo-lat::14.17] 
+[name::Joal] 
+State ::  
+Country :: [[Senegal]]  
+[StateId::] 
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Joal
-coordinates: [[Joal]]
-markerFile: [[Joal]]
+coordinates: [[Joal]] 
+markerFile: [[Joal]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_public/geo/Continent/Africa/Senegal/City/Joal.md|Joal]] 
+- [[../../../../../../_Standards/geo/Continent/Africa/Senegal/City/Joal|Joal]] 
+- [[../../../../../../_public/geo/Continent/Africa/Senegal/City/Joal.public|Joal.public]] 
 - [[../../../../../../_internal/geo/Continent/Africa/Senegal/City/Joal.internal|Joal.internal]] 
 - [[../../../../../../_protect/geo/Continent/Africa/Senegal/City/Joal.protect|Joal.protect]] 
 - [[../../../../../../_private/geo/Continent/Africa/Senegal/City/Joal.private|Joal.private]] 

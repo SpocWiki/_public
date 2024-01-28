@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ -3.8 , -80.5 ] 
 type: geo-Region
 title: Tumbes
@@ -40,10 +40,11 @@ markerFolder: ./Tumbes/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/America~South/Peru/Counties/Tumbes.md|Tumbes]] 
-- [[../../../../_internal/geo/Continent/America~South/Peru/Counties/Tumbes.internal|Tumbes.internal]] 
-- [[../../../../_protect/geo/Continent/America~South/Peru/Counties/Tumbes.protect|Tumbes.protect]] 
-- [[../../../../_private/geo/Continent/America~South/Peru/Counties/Tumbes.private|Tumbes.private]] 
-- [[../../../../_personal/geo/Continent/America~South/Peru/Counties/Tumbes.personal|Tumbes.personal]] 
-- [[../../../../_secret/geo/Continent/America~South/Peru/Counties/Tumbes.secret|Tumbes.secret]] 
+- [[../../../../../../_Standards/geo/Continent/America~South/Peru/Counties/Tumbes|Tumbes]] 
+- [[../../../../../../_public/geo/Continent/America~South/Peru/Counties/Tumbes.public|Tumbes.public]] 
+- [[../../../../../../_internal/geo/Continent/America~South/Peru/Counties/Tumbes.internal|Tumbes.internal]] 
+- [[../../../../../../_protect/geo/Continent/America~South/Peru/Counties/Tumbes.protect|Tumbes.protect]] 
+- [[../../../../../../_private/geo/Continent/America~South/Peru/Counties/Tumbes.private|Tumbes.private]] 
+- [[../../../../../../_personal/geo/Continent/America~South/Peru/Counties/Tumbes.personal|Tumbes.personal]] 
+- [[../../../../../../_secret/geo/Continent/America~South/Peru/Counties/Tumbes.secret|Tumbes.secret]] 
 

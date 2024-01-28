@@ -9,8 +9,8 @@ isDeleted: false
 confidential: public
 
 ---
-[ISO2::]
-[ISO3::]
+[ISO2::] 
+[ISO3::] 
 ```leaflet
 id: Other Shipping
 zoomFeatures: true 
@@ -20,22 +20,23 @@ geojsonFolder: ./Other_Shipping/
 markerFolder: ./Other_Shipping/
 ```
 
-[name-en::Other Shipping]
-[name-de::Andere Schiffahrt]
-[Area-Total::]
-[Area-Land::]
-[Continent::[[Oceania]]]
-[VehicleCode::]
-[Capital-Id::]
-[Alcohol-l::]
-[Language-Id::]
-[geo-lon::]
-[geo-lat::]
+[name-en::Other Shipping] 
+[name-de::Andere Schiffahrt] 
+[Area-Total::] 
+[Area-Land::] 
+Continent :: [[Oceania]]  
+[VehicleCode::] 
+[Capital-Id::] 
+[Alcohol-l::] 
+[Language-Id::] 
+[geo-lon::] 
+[geo-lat::] 
 
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Oceania/Other_Shipping.md|Other_Shipping]] 
+- [[../../../../_Standards/geo/Continent/Oceania/Other_Shipping|Other_Shipping]] 
+- [[../../../../_public/geo/Continent/Oceania/Other_Shipping.public|Other_Shipping.public]] 
 - [[../../../../_internal/geo/Continent/Oceania/Other_Shipping.internal|Other_Shipping.internal]] 
 - [[../../../../_protect/geo/Continent/Oceania/Other_Shipping.protect|Other_Shipping.protect]] 
 - [[../../../../_private/geo/Continent/Oceania/Other_Shipping.private|Other_Shipping.private]] 

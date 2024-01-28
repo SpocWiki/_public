@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 36.7 , 10.7 ] 
 type: geo-Region
 title: Nabeul
@@ -40,10 +40,11 @@ markerFolder: ./Nabeul/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Africa/Tunisia/Counties/Nabeul.md|Nabeul]] 
-- [[../../../../_internal/geo/Continent/Africa/Tunisia/Counties/Nabeul.internal|Nabeul.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Tunisia/Counties/Nabeul.protect|Nabeul.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Tunisia/Counties/Nabeul.private|Nabeul.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Tunisia/Counties/Nabeul.personal|Nabeul.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Tunisia/Counties/Nabeul.secret|Nabeul.secret]] 
+- [[../../../../../../_Standards/geo/Continent/Africa/Tunisia/Counties/Nabeul|Nabeul]] 
+- [[../../../../../../_public/geo/Continent/Africa/Tunisia/Counties/Nabeul.public|Nabeul.public]] 
+- [[../../../../../../_internal/geo/Continent/Africa/Tunisia/Counties/Nabeul.internal|Nabeul.internal]] 
+- [[../../../../../../_protect/geo/Continent/Africa/Tunisia/Counties/Nabeul.protect|Nabeul.protect]] 
+- [[../../../../../../_private/geo/Continent/Africa/Tunisia/Counties/Nabeul.private|Nabeul.private]] 
+- [[../../../../../../_personal/geo/Continent/Africa/Tunisia/Counties/Nabeul.personal|Nabeul.personal]] 
+- [[../../../../../../_secret/geo/Continent/Africa/Tunisia/Counties/Nabeul.secret|Nabeul.secret]] 
 

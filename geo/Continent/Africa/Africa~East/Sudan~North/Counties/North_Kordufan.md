@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 14 , 29.5 ] 
 type: geo-Region
 title: North_Kordufan
@@ -40,10 +40,11 @@ markerFolder: ./North_Kordufan/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Africa/Sudan/Counties/North_Kordufan.md|North_Kordufan]] 
-- [[../../../../_internal/geo/Continent/Africa/Sudan/Counties/North_Kordufan.internal|North_Kordufan.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Sudan/Counties/North_Kordufan.protect|North_Kordufan.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Sudan/Counties/North_Kordufan.private|North_Kordufan.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Sudan/Counties/North_Kordufan.personal|North_Kordufan.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Sudan/Counties/North_Kordufan.secret|North_Kordufan.secret]] 
+- [[../../../../../../_Standards/geo/Continent/Africa/Sudan/Counties/North_Kordufan|North_Kordufan]] 
+- [[../../../../../../_public/geo/Continent/Africa/Sudan/Counties/North_Kordufan.public|North_Kordufan.public]] 
+- [[../../../../../../_internal/geo/Continent/Africa/Sudan/Counties/North_Kordufan.internal|North_Kordufan.internal]] 
+- [[../../../../../../_protect/geo/Continent/Africa/Sudan/Counties/North_Kordufan.protect|North_Kordufan.protect]] 
+- [[../../../../../../_private/geo/Continent/Africa/Sudan/Counties/North_Kordufan.private|North_Kordufan.private]] 
+- [[../../../../../../_personal/geo/Continent/Africa/Sudan/Counties/North_Kordufan.personal|North_Kordufan.personal]] 
+- [[../../../../../../_secret/geo/Continent/Africa/Sudan/Counties/North_Kordufan.secret|North_Kordufan.secret]] 
 

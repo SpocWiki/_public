@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 7.1 , 3.3 ] 
 type: geo-Region
 title: Ogun
@@ -40,10 +40,11 @@ markerFolder: ./Ogun/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Africa/Nigeria/Counties/Ogun.md|Ogun]] 
-- [[../../../../_internal/geo/Continent/Africa/Nigeria/Counties/Ogun.internal|Ogun.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Nigeria/Counties/Ogun.protect|Ogun.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Nigeria/Counties/Ogun.private|Ogun.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Nigeria/Counties/Ogun.personal|Ogun.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Nigeria/Counties/Ogun.secret|Ogun.secret]] 
+- [[../../../../../../_Standards/geo/Continent/Africa/Nigeria/Counties/Ogun|Ogun]] 
+- [[../../../../../../_public/geo/Continent/Africa/Nigeria/Counties/Ogun.public|Ogun.public]] 
+- [[../../../../../../_internal/geo/Continent/Africa/Nigeria/Counties/Ogun.internal|Ogun.internal]] 
+- [[../../../../../../_protect/geo/Continent/Africa/Nigeria/Counties/Ogun.protect|Ogun.protect]] 
+- [[../../../../../../_private/geo/Continent/Africa/Nigeria/Counties/Ogun.private|Ogun.private]] 
+- [[../../../../../../_personal/geo/Continent/Africa/Nigeria/Counties/Ogun.personal|Ogun.personal]] 
+- [[../../../../../../_secret/geo/Continent/Africa/Nigeria/Counties/Ogun.secret|Ogun.secret]] 
 

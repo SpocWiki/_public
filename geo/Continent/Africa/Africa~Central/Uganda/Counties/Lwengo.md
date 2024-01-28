@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ -0.4 , 31.4 ] 
 type: geo-Region
 title: Lwengo
@@ -40,10 +40,11 @@ markerFolder: ./Lwengo/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Africa/Uganda/Counties/Lwengo.md|Lwengo]] 
-- [[../../../../_internal/geo/Continent/Africa/Uganda/Counties/Lwengo.internal|Lwengo.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Uganda/Counties/Lwengo.protect|Lwengo.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Uganda/Counties/Lwengo.private|Lwengo.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Uganda/Counties/Lwengo.personal|Lwengo.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Uganda/Counties/Lwengo.secret|Lwengo.secret]] 
+- [[../../../../../../_Standards/geo/Continent/Africa/Uganda/Counties/Lwengo|Lwengo]] 
+- [[../../../../../../_public/geo/Continent/Africa/Uganda/Counties/Lwengo.public|Lwengo.public]] 
+- [[../../../../../../_internal/geo/Continent/Africa/Uganda/Counties/Lwengo.internal|Lwengo.internal]] 
+- [[../../../../../../_protect/geo/Continent/Africa/Uganda/Counties/Lwengo.protect|Lwengo.protect]] 
+- [[../../../../../../_private/geo/Continent/Africa/Uganda/Counties/Lwengo.private|Lwengo.private]] 
+- [[../../../../../../_personal/geo/Continent/Africa/Uganda/Counties/Lwengo.personal|Lwengo.personal]] 
+- [[../../../../../../_secret/geo/Continent/Africa/Uganda/Counties/Lwengo.secret|Lwengo.secret]] 
 

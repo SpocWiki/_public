@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 10.7 , -61.6 ] 
 type: geo-Region
 title: Diego_Martin
@@ -40,10 +40,11 @@ markerFolder: ./Diego_Martin/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/America~Caribbean/Trinidad_and_Tobago~Islands/Counties/Diego_Martin.md|Diego_Martin]] 
-- [[../../../../_internal/geo/Continent/America~Caribbean/Trinidad_and_Tobago~Islands/Counties/Diego_Martin.internal|Diego_Martin.internal]] 
-- [[../../../../_protect/geo/Continent/America~Caribbean/Trinidad_and_Tobago~Islands/Counties/Diego_Martin.protect|Diego_Martin.protect]] 
-- [[../../../../_private/geo/Continent/America~Caribbean/Trinidad_and_Tobago~Islands/Counties/Diego_Martin.private|Diego_Martin.private]] 
-- [[../../../../_personal/geo/Continent/America~Caribbean/Trinidad_and_Tobago~Islands/Counties/Diego_Martin.personal|Diego_Martin.personal]] 
-- [[../../../../_secret/geo/Continent/America~Caribbean/Trinidad_and_Tobago~Islands/Counties/Diego_Martin.secret|Diego_Martin.secret]] 
+- [[../../../../../../_Standards/geo/Continent/America~Caribbean/Trinidad_and_Tobago~Islands/Counties/Diego_Martin|Diego_Martin]] 
+- [[../../../../../../_public/geo/Continent/America~Caribbean/Trinidad_and_Tobago~Islands/Counties/Diego_Martin.public|Diego_Martin.public]] 
+- [[../../../../../../_internal/geo/Continent/America~Caribbean/Trinidad_and_Tobago~Islands/Counties/Diego_Martin.internal|Diego_Martin.internal]] 
+- [[../../../../../../_protect/geo/Continent/America~Caribbean/Trinidad_and_Tobago~Islands/Counties/Diego_Martin.protect|Diego_Martin.protect]] 
+- [[../../../../../../_private/geo/Continent/America~Caribbean/Trinidad_and_Tobago~Islands/Counties/Diego_Martin.private|Diego_Martin.private]] 
+- [[../../../../../../_personal/geo/Continent/America~Caribbean/Trinidad_and_Tobago~Islands/Counties/Diego_Martin.personal|Diego_Martin.personal]] 
+- [[../../../../../../_secret/geo/Continent/America~Caribbean/Trinidad_and_Tobago~Islands/Counties/Diego_Martin.secret|Diego_Martin.secret]] 
 

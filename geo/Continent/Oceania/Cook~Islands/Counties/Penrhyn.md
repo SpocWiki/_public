@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ -8.96 , 202.01 ] 
 type: geo-Region
 title: Penrhyn
@@ -40,10 +40,11 @@ markerFolder: ./Penrhyn/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Oceania/Cook~Islands/Counties/Penrhyn.md|Penrhyn]] 
-- [[../../../../_internal/geo/Continent/Oceania/Cook~Islands/Counties/Penrhyn.internal|Penrhyn.internal]] 
-- [[../../../../_protect/geo/Continent/Oceania/Cook~Islands/Counties/Penrhyn.protect|Penrhyn.protect]] 
-- [[../../../../_private/geo/Continent/Oceania/Cook~Islands/Counties/Penrhyn.private|Penrhyn.private]] 
-- [[../../../../_personal/geo/Continent/Oceania/Cook~Islands/Counties/Penrhyn.personal|Penrhyn.personal]] 
-- [[../../../../_secret/geo/Continent/Oceania/Cook~Islands/Counties/Penrhyn.secret|Penrhyn.secret]] 
+- [[../../../../../../_Standards/geo/Continent/Oceania/Cook~Islands/Counties/Penrhyn|Penrhyn]] 
+- [[../../../../../../_public/geo/Continent/Oceania/Cook~Islands/Counties/Penrhyn.public|Penrhyn.public]] 
+- [[../../../../../../_internal/geo/Continent/Oceania/Cook~Islands/Counties/Penrhyn.internal|Penrhyn.internal]] 
+- [[../../../../../../_protect/geo/Continent/Oceania/Cook~Islands/Counties/Penrhyn.protect|Penrhyn.protect]] 
+- [[../../../../../../_private/geo/Continent/Oceania/Cook~Islands/Counties/Penrhyn.private|Penrhyn.private]] 
+- [[../../../../../../_personal/geo/Continent/Oceania/Cook~Islands/Counties/Penrhyn.personal|Penrhyn.personal]] 
+- [[../../../../../../_secret/geo/Continent/Oceania/Cook~Islands/Counties/Penrhyn.secret|Penrhyn.secret]] 
 

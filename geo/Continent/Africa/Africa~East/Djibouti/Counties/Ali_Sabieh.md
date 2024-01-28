@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 11.2 , 42.9 ] 
 type: geo-Region
 title: Ali_Sabieh
@@ -40,10 +40,11 @@ markerFolder: ./Ali_Sabieh/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/geo/Continent/Africa/Djibouti/Counties/Ali_Sabieh.md|Ali_Sabieh]] 
-- [[../../../../_internal/geo/Continent/Africa/Djibouti/Counties/Ali_Sabieh.internal|Ali_Sabieh.internal]] 
-- [[../../../../_protect/geo/Continent/Africa/Djibouti/Counties/Ali_Sabieh.protect|Ali_Sabieh.protect]] 
-- [[../../../../_private/geo/Continent/Africa/Djibouti/Counties/Ali_Sabieh.private|Ali_Sabieh.private]] 
-- [[../../../../_personal/geo/Continent/Africa/Djibouti/Counties/Ali_Sabieh.personal|Ali_Sabieh.personal]] 
-- [[../../../../_secret/geo/Continent/Africa/Djibouti/Counties/Ali_Sabieh.secret|Ali_Sabieh.secret]] 
+- [[../../../../../../_Standards/geo/Continent/Africa/Djibouti/Counties/Ali_Sabieh|Ali_Sabieh]] 
+- [[../../../../../../_public/geo/Continent/Africa/Djibouti/Counties/Ali_Sabieh.public|Ali_Sabieh.public]] 
+- [[../../../../../../_internal/geo/Continent/Africa/Djibouti/Counties/Ali_Sabieh.internal|Ali_Sabieh.internal]] 
+- [[../../../../../../_protect/geo/Continent/Africa/Djibouti/Counties/Ali_Sabieh.protect|Ali_Sabieh.protect]] 
+- [[../../../../../../_private/geo/Continent/Africa/Djibouti/Counties/Ali_Sabieh.private|Ali_Sabieh.private]] 
+- [[../../../../../../_personal/geo/Continent/Africa/Djibouti/Counties/Ali_Sabieh.personal|Ali_Sabieh.personal]] 
+- [[../../../../../../_secret/geo/Continent/Africa/Djibouti/Counties/Ali_Sabieh.secret|Ali_Sabieh.secret]] 
 
