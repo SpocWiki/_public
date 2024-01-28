@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Illumination+Copying-Time-Loss.md|Triz-Illumination+Copying-Time-Loss]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Illumination+Copying-Time-Loss|Triz-Illumination+Copying-Time-Loss]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Illumination+Copying-Time-Loss.public|Triz-Illumination+Copying-Time-Loss.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Illumination+Copying-Time-Loss.internal|Triz-Illumination+Copying-Time-Loss.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Illumination+Copying-Time-Loss.protect|Triz-Illumination+Copying-Time-Loss.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Illumination+Copying-Time-Loss.private|Triz-Illumination+Copying-Time-Loss.private]] 

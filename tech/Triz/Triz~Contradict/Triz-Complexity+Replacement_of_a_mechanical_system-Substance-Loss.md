@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Complexity+Replacement_of_a_mechanical_system-Substance-Loss.md|Triz-Complexity+Replacement_of_a_mechanical_system-Substance-Loss]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Complexity+Replacement_of_a_mechanical_system-Substance-Loss|Triz-Complexity+Replacement_of_a_mechanical_system-Substance-Loss]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Complexity+Replacement_of_a_mechanical_system-Substance-Loss.public|Triz-Complexity+Replacement_of_a_mechanical_system-Substance-Loss.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Complexity+Replacement_of_a_mechanical_system-Substance-Loss.internal|Triz-Complexity+Replacement_of_a_mechanical_system-Substance-Loss.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Complexity+Replacement_of_a_mechanical_system-Substance-Loss.protect|Triz-Complexity+Replacement_of_a_mechanical_system-Substance-Loss.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Complexity+Replacement_of_a_mechanical_system-Substance-Loss.private|Triz-Complexity+Replacement_of_a_mechanical_system-Substance-Loss.private]] 

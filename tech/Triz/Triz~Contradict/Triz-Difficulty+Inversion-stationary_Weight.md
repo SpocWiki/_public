@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Difficulty+Inversion-stationary_Weight.md|Triz-Difficulty+Inversion-stationary_Weight]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Difficulty+Inversion-stationary_Weight|Triz-Difficulty+Inversion-stationary_Weight]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Difficulty+Inversion-stationary_Weight.public|Triz-Difficulty+Inversion-stationary_Weight.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Difficulty+Inversion-stationary_Weight.internal|Triz-Difficulty+Inversion-stationary_Weight.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Difficulty+Inversion-stationary_Weight.protect|Triz-Difficulty+Inversion-stationary_Weight.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Difficulty+Inversion-stationary_Weight.private|Triz-Difficulty+Inversion-stationary_Weight.private]] 

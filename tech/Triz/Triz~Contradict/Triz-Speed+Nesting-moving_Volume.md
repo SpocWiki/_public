@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Speed+Nesting-moving_Volume.md|Triz-Speed+Nesting-moving_Volume]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Speed+Nesting-moving_Volume|Triz-Speed+Nesting-moving_Volume]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Speed+Nesting-moving_Volume.public|Triz-Speed+Nesting-moving_Volume.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Speed+Nesting-moving_Volume.internal|Triz-Speed+Nesting-moving_Volume.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Speed+Nesting-moving_Volume.protect|Triz-Speed+Nesting-moving_Volume.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Speed+Nesting-moving_Volume.private|Triz-Speed+Nesting-moving_Volume.private]] 

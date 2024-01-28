@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Time-Loss+Transformation_of_physical_and_chemical_states_of_an_object-stationary_Volume.md|Triz-Time-Loss+Transformation_of_physical_and_chemical_states_of_an_object-stationary_Volume]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Time-Loss+Transformation_of_physical_and_chemical_states_of_an_object-stationary_Volume|Triz-Time-Loss+Transformation_of_physical_and_chemical_states_of_an_object-stationary_Volume]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Time-Loss+Transformation_of_physical_and_chemical_states_of_an_object-stationary_Volume.public|Triz-Time-Loss+Transformation_of_physical_and_chemical_states_of_an_object-stationary_Volume.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Time-Loss+Transformation_of_physical_and_chemical_states_of_an_object-stationary_Volume.internal|Triz-Time-Loss+Transformation_of_physical_and_chemical_states_of_an_object-stationary_Volume.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Time-Loss+Transformation_of_physical_and_chemical_states_of_an_object-stationary_Volume.protect|Triz-Time-Loss+Transformation_of_physical_and_chemical_states_of_an_object-stationary_Volume.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Time-Loss+Transformation_of_physical_and_chemical_states_of_an_object-stationary_Volume.private|Triz-Time-Loss+Transformation_of_physical_and_chemical_states_of_an_object-stationary_Volume.private]] 

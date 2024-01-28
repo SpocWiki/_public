@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-stationary_Energy+Extraction-Illumination.md|Triz-stationary_Energy+Extraction-Illumination]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-stationary_Energy+Extraction-Illumination|Triz-stationary_Energy+Extraction-Illumination]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-stationary_Energy+Extraction-Illumination.public|Triz-stationary_Energy+Extraction-Illumination.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-stationary_Energy+Extraction-Illumination.internal|Triz-stationary_Energy+Extraction-Illumination.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-stationary_Energy+Extraction-Illumination.protect|Triz-stationary_Energy+Extraction-Illumination.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-stationary_Energy+Extraction-Illumination.private|Triz-stationary_Energy+Extraction-Illumination.private]] 

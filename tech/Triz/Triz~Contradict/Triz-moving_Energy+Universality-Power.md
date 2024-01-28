@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-moving_Energy+Universality-Power.md|Triz-moving_Energy+Universality-Power]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-moving_Energy+Universality-Power|Triz-moving_Energy+Universality-Power]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-moving_Energy+Universality-Power.public|Triz-moving_Energy+Universality-Power.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-moving_Energy+Universality-Power.internal|Triz-moving_Energy+Universality-Power.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-moving_Energy+Universality-Power.protect|Triz-moving_Energy+Universality-Power.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-moving_Energy+Universality-Power.private|Triz-moving_Energy+Universality-Power.private]] 

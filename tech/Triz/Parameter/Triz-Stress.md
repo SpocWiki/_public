@@ -17,7 +17,8 @@ tags:
 Stress or pressure
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Parameter/Triz-Stress.md|Triz-Stress]] 
+- [[../../../../_Standards/tech/Triz/Parameter/Triz-Stress|Triz-Stress]] 
+- [[../../../../_public/tech/Triz/Parameter/Triz-Stress.public|Triz-Stress.public]] 
 - [[../../../../_internal/tech/Triz/Parameter/Triz-Stress.internal|Triz-Stress.internal]] 
 - [[../../../../_protect/tech/Triz/Parameter/Triz-Stress.protect|Triz-Stress.protect]] 
 - [[../../../../_private/tech/Triz/Parameter/Triz-Stress.private|Triz-Stress.private]] 

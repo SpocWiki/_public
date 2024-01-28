@@ -23,7 +23,8 @@ Make each part of an object function in conditions most suitable for its operati
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Sub/Triz-condition.md|Triz-condition]] 
+- [[../../../../_Standards/tech/Triz/Sub/Triz-condition|Triz-condition]] 
+- [[../../../../_public/tech/Triz/Sub/Triz-condition.public|Triz-condition.public]] 
 - [[../../../../_internal/tech/Triz/Sub/Triz-condition.internal|Triz-condition.internal]] 
 - [[../../../../_protect/tech/Triz/Sub/Triz-condition.protect|Triz-condition.protect]] 
 - [[../../../../_private/tech/Triz/Sub/Triz-condition.private|Triz-condition.private]] 

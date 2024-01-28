@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Power+Self-service-Temperature.md|Triz-Power+Self-service-Temperature]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Power+Self-service-Temperature|Triz-Power+Self-service-Temperature]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Power+Self-service-Temperature.public|Triz-Power+Self-service-Temperature.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Power+Self-service-Temperature.internal|Triz-Power+Self-service-Temperature.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Power+Self-service-Temperature.protect|Triz-Power+Self-service-Temperature.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Power+Self-service-Temperature.private|Triz-Power+Self-service-Temperature.private]] 

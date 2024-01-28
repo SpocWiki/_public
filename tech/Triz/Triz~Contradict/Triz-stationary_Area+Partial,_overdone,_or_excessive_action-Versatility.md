@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-stationary_Area+Partial,_overdone,_or_excessive_action-Versatility.md|Triz-stationary_Area+Partial,_overdone,_or_excessive_action-Versatility]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-stationary_Area+Partial,_overdone,_or_excessive_action-Versatility|Triz-stationary_Area+Partial,_overdone,_or_excessive_action-Versatility]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-stationary_Area+Partial,_overdone,_or_excessive_action-Versatility.public|Triz-stationary_Area+Partial,_overdone,_or_excessive_action-Versatility.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-stationary_Area+Partial,_overdone,_or_excessive_action-Versatility.internal|Triz-stationary_Area+Partial,_overdone,_or_excessive_action-Versatility.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-stationary_Area+Partial,_overdone,_or_excessive_action-Versatility.protect|Triz-stationary_Area+Partial,_overdone,_or_excessive_action-Versatility.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-stationary_Area+Partial,_overdone,_or_excessive_action-Versatility.private|Triz-stationary_Area+Partial,_overdone,_or_excessive_action-Versatility.private]] 

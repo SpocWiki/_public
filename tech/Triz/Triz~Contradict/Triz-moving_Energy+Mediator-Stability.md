@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-moving_Energy+Mediator-Stability.md|Triz-moving_Energy+Mediator-Stability]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-moving_Energy+Mediator-Stability|Triz-moving_Energy+Mediator-Stability]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-moving_Energy+Mediator-Stability.public|Triz-moving_Energy+Mediator-Stability.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-moving_Energy+Mediator-Stability.internal|Triz-moving_Energy+Mediator-Stability.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-moving_Energy+Mediator-Stability.protect|Triz-moving_Energy+Mediator-Stability.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-moving_Energy+Mediator-Stability.private|Triz-moving_Energy+Mediator-Stability.private]] 

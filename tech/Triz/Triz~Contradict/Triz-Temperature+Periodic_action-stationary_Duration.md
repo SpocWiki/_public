@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Temperature+Periodic_action-stationary_Duration.md|Triz-Temperature+Periodic_action-stationary_Duration]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Temperature+Periodic_action-stationary_Duration|Triz-Temperature+Periodic_action-stationary_Duration]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Temperature+Periodic_action-stationary_Duration.public|Triz-Temperature+Periodic_action-stationary_Duration.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Temperature+Periodic_action-stationary_Duration.internal|Triz-Temperature+Periodic_action-stationary_Duration.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Temperature+Periodic_action-stationary_Duration.protect|Triz-Temperature+Periodic_action-stationary_Duration.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Temperature+Periodic_action-stationary_Duration.private|Triz-Temperature+Periodic_action-stationary_Duration.private]] 

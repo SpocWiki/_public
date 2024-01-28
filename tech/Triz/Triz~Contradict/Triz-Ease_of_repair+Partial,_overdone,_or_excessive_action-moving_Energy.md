@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Ease_of_repair+Partial,_overdone,_or_excessive_action-moving_Energy.md|Triz-Ease_of_repair+Partial,_overdone,_or_excessive_action-moving_Energy]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Ease_of_repair+Partial,_overdone,_or_excessive_action-moving_Energy|Triz-Ease_of_repair+Partial,_overdone,_or_excessive_action-moving_Energy]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Ease_of_repair+Partial,_overdone,_or_excessive_action-moving_Energy.public|Triz-Ease_of_repair+Partial,_overdone,_or_excessive_action-moving_Energy.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Ease_of_repair+Partial,_overdone,_or_excessive_action-moving_Energy.internal|Triz-Ease_of_repair+Partial,_overdone,_or_excessive_action-moving_Energy.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Ease_of_repair+Partial,_overdone,_or_excessive_action-moving_Energy.protect|Triz-Ease_of_repair+Partial,_overdone,_or_excessive_action-moving_Energy.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Ease_of_repair+Partial,_overdone,_or_excessive_action-moving_Energy.private|Triz-Ease_of_repair+Partial,_overdone,_or_excessive_action-moving_Energy.private]] 

@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-stationary_Volume+Copying-Difficulty.md|Triz-stationary_Volume+Copying-Difficulty]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-stationary_Volume+Copying-Difficulty|Triz-stationary_Volume+Copying-Difficulty]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-stationary_Volume+Copying-Difficulty.public|Triz-stationary_Volume+Copying-Difficulty.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-stationary_Volume+Copying-Difficulty.internal|Triz-stationary_Volume+Copying-Difficulty.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-stationary_Volume+Copying-Difficulty.protect|Triz-stationary_Volume+Copying-Difficulty.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-stationary_Volume+Copying-Difficulty.private|Triz-stationary_Volume+Copying-Difficulty.private]] 

@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Intensity+Replacement_of_a_mechanical_system-stationary_Weight.md|Triz-Intensity+Replacement_of_a_mechanical_system-stationary_Weight]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Intensity+Replacement_of_a_mechanical_system-stationary_Weight|Triz-Intensity+Replacement_of_a_mechanical_system-stationary_Weight]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Intensity+Replacement_of_a_mechanical_system-stationary_Weight.public|Triz-Intensity+Replacement_of_a_mechanical_system-stationary_Weight.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Intensity+Replacement_of_a_mechanical_system-stationary_Weight.internal|Triz-Intensity+Replacement_of_a_mechanical_system-stationary_Weight.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Intensity+Replacement_of_a_mechanical_system-stationary_Weight.protect|Triz-Intensity+Replacement_of_a_mechanical_system-stationary_Weight.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Intensity+Replacement_of_a_mechanical_system-stationary_Weight.private|Triz-Intensity+Replacement_of_a_mechanical_system-stationary_Weight.private]] 

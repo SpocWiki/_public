@@ -17,7 +17,8 @@ tags:
 Five-axis Cutting Tool can be positioned where needed.
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Example/Triz-5-axis_Position.md|Triz-5-axis_Position]] 
+- [[../../../../_Standards/tech/Triz/Example/Triz-5-axis_Position|Triz-5-axis_Position]] 
+- [[../../../../_public/tech/Triz/Example/Triz-5-axis_Position.public|Triz-5-axis_Position.public]] 
 - [[../../../../_internal/tech/Triz/Example/Triz-5-axis_Position.internal|Triz-5-axis_Position.internal]] 
 - [[../../../../_protect/tech/Triz/Example/Triz-5-axis_Position.protect|Triz-5-axis_Position.protect]] 
 - [[../../../../_private/tech/Triz/Example/Triz-5-axis_Position.private|Triz-5-axis_Position.private]] 

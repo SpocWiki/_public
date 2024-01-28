@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Difficulty+Equipotentiality-Ease_of_repair.md|Triz-Difficulty+Equipotentiality-Ease_of_repair]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Difficulty+Equipotentiality-Ease_of_repair|Triz-Difficulty+Equipotentiality-Ease_of_repair]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Difficulty+Equipotentiality-Ease_of_repair.public|Triz-Difficulty+Equipotentiality-Ease_of_repair.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Difficulty+Equipotentiality-Ease_of_repair.internal|Triz-Difficulty+Equipotentiality-Ease_of_repair.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Difficulty+Equipotentiality-Ease_of_repair.protect|Triz-Difficulty+Equipotentiality-Ease_of_repair.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Difficulty+Equipotentiality-Ease_of_repair.private|Triz-Difficulty+Equipotentiality-Ease_of_repair.private]] 

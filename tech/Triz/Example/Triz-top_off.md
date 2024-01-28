@@ -17,7 +17,8 @@ tags:
 Fill, then 'top off' when filling the Gas Tank of your Car or a hot Water Bottle.
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Example/Triz-top_off.md|Triz-top_off]] 
+- [[../../../../_Standards/tech/Triz/Example/Triz-top_off|Triz-top_off]] 
+- [[../../../../_public/tech/Triz/Example/Triz-top_off.public|Triz-top_off.public]] 
 - [[../../../../_internal/tech/Triz/Example/Triz-top_off.internal|Triz-top_off.internal]] 
 - [[../../../../_protect/tech/Triz/Example/Triz-top_off.protect|Triz-top_off.protect]] 
 - [[../../../../_private/tech/Triz/Example/Triz-top_off.private|Triz-top_off.private]] 

@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-moving_Area+Extraction-Difficulty.md|Triz-moving_Area+Extraction-Difficulty]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-moving_Area+Extraction-Difficulty|Triz-moving_Area+Extraction-Difficulty]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-moving_Area+Extraction-Difficulty.public|Triz-moving_Area+Extraction-Difficulty.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-moving_Area+Extraction-Difficulty.internal|Triz-moving_Area+Extraction-Difficulty.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-moving_Area+Extraction-Difficulty.protect|Triz-moving_Area+Extraction-Difficulty.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-moving_Area+Extraction-Difficulty.private|Triz-moving_Area+Extraction-Difficulty.private]] 

@@ -27,7 +27,8 @@ confidential: public
 
 
 ## Confidential Links & Embeds: 
-- [[../../../_public/astro/Star/Phoenicis-2.md|Phoenicis-2]] 
+- [[../../../_Standards/astro/Star/Phoenicis-2|Phoenicis-2]] 
+- [[../../../_public/astro/Star/Phoenicis-2.public|Phoenicis-2.public]] 
 - [[../../../_internal/astro/Star/Phoenicis-2.internal|Phoenicis-2.internal]] 
 - [[../../../_protect/astro/Star/Phoenicis-2.protect|Phoenicis-2.protect]] 
 - [[../../../_private/astro/Star/Phoenicis-2.private|Phoenicis-2.private]] 

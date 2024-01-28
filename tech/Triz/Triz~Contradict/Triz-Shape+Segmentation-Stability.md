@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Shape+Segmentation-Stability.md|Triz-Shape+Segmentation-Stability]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Shape+Segmentation-Stability|Triz-Shape+Segmentation-Stability]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Shape+Segmentation-Stability.public|Triz-Shape+Segmentation-Stability.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Shape+Segmentation-Stability.internal|Triz-Shape+Segmentation-Stability.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Shape+Segmentation-Stability.protect|Triz-Shape+Segmentation-Stability.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Shape+Segmentation-Stability.private|Triz-Shape+Segmentation-Stability.private]] 

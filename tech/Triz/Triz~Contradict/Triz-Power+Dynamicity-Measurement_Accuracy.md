@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Power+Dynamicity-Measurement_Accuracy.md|Triz-Power+Dynamicity-Measurement_Accuracy]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Power+Dynamicity-Measurement_Accuracy|Triz-Power+Dynamicity-Measurement_Accuracy]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Power+Dynamicity-Measurement_Accuracy.public|Triz-Power+Dynamicity-Measurement_Accuracy.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Power+Dynamicity-Measurement_Accuracy.internal|Triz-Power+Dynamicity-Measurement_Accuracy.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Power+Dynamicity-Measurement_Accuracy.protect|Triz-Power+Dynamicity-Measurement_Accuracy.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Power+Dynamicity-Measurement_Accuracy.private|Triz-Power+Dynamicity-Measurement_Accuracy.private]] 

@@ -17,7 +17,8 @@ tags:
 Spring loaded Parts Delivery System in a Factory
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Example/Triz-Spring_loaded_Delivery.md|Triz-Spring_loaded_Delivery]] 
+- [[../../../../_Standards/tech/Triz/Example/Triz-Spring_loaded_Delivery|Triz-Spring_loaded_Delivery]] 
+- [[../../../../_public/tech/Triz/Example/Triz-Spring_loaded_Delivery.public|Triz-Spring_loaded_Delivery.public]] 
 - [[../../../../_internal/tech/Triz/Example/Triz-Spring_loaded_Delivery.internal|Triz-Spring_loaded_Delivery.internal]] 
 - [[../../../../_protect/tech/Triz/Example/Triz-Spring_loaded_Delivery.protect|Triz-Spring_loaded_Delivery.protect]] 
 - [[../../../../_private/tech/Triz/Example/Triz-Spring_loaded_Delivery.private|Triz-Spring_loaded_Delivery.private]] 

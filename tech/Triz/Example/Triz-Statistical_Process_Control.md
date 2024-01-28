@@ -17,7 +17,8 @@ tags:
 (SPC) -- Measurements are used to decide when to modify a Process. (Not all Feedback Systems are Automated!)
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Example/Triz-Statistical_Process_Control.md|Triz-Statistical_Process_Control]] 
+- [[../../../../_Standards/tech/Triz/Example/Triz-Statistical_Process_Control|Triz-Statistical_Process_Control]] 
+- [[../../../../_public/tech/Triz/Example/Triz-Statistical_Process_Control.public|Triz-Statistical_Process_Control.public]] 
 - [[../../../../_internal/tech/Triz/Example/Triz-Statistical_Process_Control.internal|Triz-Statistical_Process_Control.internal]] 
 - [[../../../../_protect/tech/Triz/Example/Triz-Statistical_Process_Control.protect|Triz-Statistical_Process_Control.protect]] 
 - [[../../../../_private/tech/Triz/Example/Triz-Statistical_Process_Control.private|Triz-Statistical_Process_Control.private]] 

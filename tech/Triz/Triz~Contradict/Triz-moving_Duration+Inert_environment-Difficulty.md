@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-moving_Duration+Inert_environment-Difficulty.md|Triz-moving_Duration+Inert_environment-Difficulty]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-moving_Duration+Inert_environment-Difficulty|Triz-moving_Duration+Inert_environment-Difficulty]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-moving_Duration+Inert_environment-Difficulty.public|Triz-moving_Duration+Inert_environment-Difficulty.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-moving_Duration+Inert_environment-Difficulty.internal|Triz-moving_Duration+Inert_environment-Difficulty.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-moving_Duration+Inert_environment-Difficulty.protect|Triz-moving_Duration+Inert_environment-Difficulty.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-moving_Duration+Inert_environment-Difficulty.private|Triz-moving_Duration+Inert_environment-Difficulty.private]] 

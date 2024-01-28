@@ -17,7 +17,8 @@ tags:
 Quick disconnect Joints in Plumbing.
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Example/Triz-disconnect_Joints.md|Triz-disconnect_Joints]] 
+- [[../../../../_Standards/tech/Triz/Example/Triz-disconnect_Joints|Triz-disconnect_Joints]] 
+- [[../../../../_public/tech/Triz/Example/Triz-disconnect_Joints.public|Triz-disconnect_Joints.public]] 
 - [[../../../../_internal/tech/Triz/Example/Triz-disconnect_Joints.internal|Triz-disconnect_Joints.internal]] 
 - [[../../../../_protect/tech/Triz/Example/Triz-disconnect_Joints.protect|Triz-disconnect_Joints.protect]] 
 - [[../../../../_private/tech/Triz/Example/Triz-disconnect_Joints.private|Triz-disconnect_Joints.private]] 

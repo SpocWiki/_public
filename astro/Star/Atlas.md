@@ -27,7 +27,8 @@ confidential: public
 
 
 ## Confidential Links & Embeds: 
-- [[../../../_public/astro/Star/Atlas.md|Atlas]] 
+- [[../../../_Standards/astro/Star/Atlas|Atlas]] 
+- [[../../../_public/astro/Star/Atlas.public|Atlas.public]] 
 - [[../../../_internal/astro/Star/Atlas.internal|Atlas.internal]] 
 - [[../../../_protect/astro/Star/Atlas.protect|Atlas.protect]] 
 - [[../../../_private/astro/Star/Atlas.private|Atlas.private]] 

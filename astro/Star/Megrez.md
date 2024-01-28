@@ -27,7 +27,8 @@ confidential: public
 
 
 ## Confidential Links & Embeds: 
-- [[../../../_public/astro/Star/Megrez.md|Megrez]] 
+- [[../../../_Standards/astro/Star/Megrez|Megrez]] 
+- [[../../../_public/astro/Star/Megrez.public|Megrez.public]] 
 - [[../../../_internal/astro/Star/Megrez.internal|Megrez.internal]] 
 - [[../../../_protect/astro/Star/Megrez.protect|Megrez.protect]] 
 - [[../../../_private/astro/Star/Megrez.private|Megrez.private]] 

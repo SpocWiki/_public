@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Information-Loss+Copying-moving_Length.md|Triz-Information-Loss+Copying-moving_Length]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Information-Loss+Copying-moving_Length|Triz-Information-Loss+Copying-moving_Length]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Information-Loss+Copying-moving_Length.public|Triz-Information-Loss+Copying-moving_Length.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Information-Loss+Copying-moving_Length.internal|Triz-Information-Loss+Copying-moving_Length.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Information-Loss+Copying-moving_Length.protect|Triz-Information-Loss+Copying-moving_Length.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Information-Loss+Copying-moving_Length.private|Triz-Information-Loss+Copying-moving_Length.private]] 

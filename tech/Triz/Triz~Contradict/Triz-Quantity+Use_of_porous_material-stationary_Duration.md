@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Quantity+Use_of_porous_material-stationary_Duration.md|Triz-Quantity+Use_of_porous_material-stationary_Duration]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Quantity+Use_of_porous_material-stationary_Duration|Triz-Quantity+Use_of_porous_material-stationary_Duration]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Quantity+Use_of_porous_material-stationary_Duration.public|Triz-Quantity+Use_of_porous_material-stationary_Duration.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Quantity+Use_of_porous_material-stationary_Duration.internal|Triz-Quantity+Use_of_porous_material-stationary_Duration.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Quantity+Use_of_porous_material-stationary_Duration.protect|Triz-Quantity+Use_of_porous_material-stationary_Duration.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Quantity+Use_of_porous_material-stationary_Duration.private|Triz-Quantity+Use_of_porous_material-stationary_Duration.private]] 

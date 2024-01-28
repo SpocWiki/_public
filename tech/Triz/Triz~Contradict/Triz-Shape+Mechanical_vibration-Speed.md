@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Shape+Mechanical_vibration-Speed.md|Triz-Shape+Mechanical_vibration-Speed]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Shape+Mechanical_vibration-Speed|Triz-Shape+Mechanical_vibration-Speed]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Shape+Mechanical_vibration-Speed.public|Triz-Shape+Mechanical_vibration-Speed.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Shape+Mechanical_vibration-Speed.internal|Triz-Shape+Mechanical_vibration-Speed.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Shape+Mechanical_vibration-Speed.protect|Triz-Shape+Mechanical_vibration-Speed.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Shape+Mechanical_vibration-Speed.private|Triz-Shape+Mechanical_vibration-Speed.private]] 

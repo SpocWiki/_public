@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Measurement_Accuracy+Changing_the_color-Stress.md|Triz-Measurement_Accuracy+Changing_the_color-Stress]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Measurement_Accuracy+Changing_the_color-Stress|Triz-Measurement_Accuracy+Changing_the_color-Stress]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Measurement_Accuracy+Changing_the_color-Stress.public|Triz-Measurement_Accuracy+Changing_the_color-Stress.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Measurement_Accuracy+Changing_the_color-Stress.internal|Triz-Measurement_Accuracy+Changing_the_color-Stress.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Measurement_Accuracy+Changing_the_color-Stress.protect|Triz-Measurement_Accuracy+Changing_the_color-Stress.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Measurement_Accuracy+Changing_the_color-Stress.private|Triz-Measurement_Accuracy+Changing_the_color-Stress.private]] 

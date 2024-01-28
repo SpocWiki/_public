@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-stationary_Duration+Universality-Difficulty.md|Triz-stationary_Duration+Universality-Difficulty]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-stationary_Duration+Universality-Difficulty|Triz-stationary_Duration+Universality-Difficulty]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-stationary_Duration+Universality-Difficulty.public|Triz-stationary_Duration+Universality-Difficulty.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-stationary_Duration+Universality-Difficulty.internal|Triz-stationary_Duration+Universality-Difficulty.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-stationary_Duration+Universality-Difficulty.protect|Triz-stationary_Duration+Universality-Difficulty.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-stationary_Duration+Universality-Difficulty.private|Triz-stationary_Duration+Universality-Difficulty.private]] 

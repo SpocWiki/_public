@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Stress+Phase_transition-Time-Loss.md|Triz-Stress+Phase_transition-Time-Loss]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Stress+Phase_transition-Time-Loss|Triz-Stress+Phase_transition-Time-Loss]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Stress+Phase_transition-Time-Loss.public|Triz-Stress+Phase_transition-Time-Loss.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Stress+Phase_transition-Time-Loss.internal|Triz-Stress+Phase_transition-Time-Loss.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Stress+Phase_transition-Time-Loss.protect|Triz-Stress+Phase_transition-Time-Loss.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Stress+Phase_transition-Time-Loss.private|Triz-Stress+Phase_transition-Time-Loss.private]] 

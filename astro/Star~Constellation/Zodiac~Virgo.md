@@ -18,7 +18,8 @@ ZodiacPos: 6
 
 
 ## Confidential Links & Embeds: 
-- [[../../../_public/astro/Zodiac/Zodiac~Virgo.md|Zodiac~Virgo]] 
+- [[../../../_Standards/astro/Zodiac/Zodiac~Virgo|Zodiac~Virgo]] 
+- [[../../../_public/astro/Zodiac/Zodiac~Virgo.public|Zodiac~Virgo.public]] 
 - [[../../../_internal/astro/Zodiac/Zodiac~Virgo.internal|Zodiac~Virgo.internal]] 
 - [[../../../_protect/astro/Zodiac/Zodiac~Virgo.protect|Zodiac~Virgo.protect]] 
 - [[../../../_private/astro/Zodiac/Zodiac~Virgo.private|Zodiac~Virgo.private]] 

@@ -26,7 +26,8 @@ Tilt or re-orient the object, lay it on its side.
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Sub/Triz-tilt.md|Triz-tilt]] 
+- [[../../../../_Standards/tech/Triz/Sub/Triz-tilt|Triz-tilt]] 
+- [[../../../../_public/tech/Triz/Sub/Triz-tilt.public|Triz-tilt.public]] 
 - [[../../../../_internal/tech/Triz/Sub/Triz-tilt.internal|Triz-tilt.internal]] 
 - [[../../../../_protect/tech/Triz/Sub/Triz-tilt.protect|Triz-tilt.protect]] 
 - [[../../../../_private/tech/Triz/Sub/Triz-tilt.private|Triz-tilt.private]] 

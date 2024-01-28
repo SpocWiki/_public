@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-stationary_Length+Inversion-Shape.md|Triz-stationary_Length+Inversion-Shape]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-stationary_Length+Inversion-Shape|Triz-stationary_Length+Inversion-Shape]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-stationary_Length+Inversion-Shape.public|Triz-stationary_Length+Inversion-Shape.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-stationary_Length+Inversion-Shape.internal|Triz-stationary_Length+Inversion-Shape.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-stationary_Length+Inversion-Shape.protect|Triz-stationary_Length+Inversion-Shape.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-stationary_Length+Inversion-Shape.private|Triz-stationary_Length+Inversion-Shape.private]] 

@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Measurement_Accuracy+Feedback-Reliability.md|Triz-Measurement_Accuracy+Feedback-Reliability]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Measurement_Accuracy+Feedback-Reliability|Triz-Measurement_Accuracy+Feedback-Reliability]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Measurement_Accuracy+Feedback-Reliability.public|Triz-Measurement_Accuracy+Feedback-Reliability.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Measurement_Accuracy+Feedback-Reliability.internal|Triz-Measurement_Accuracy+Feedback-Reliability.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Measurement_Accuracy+Feedback-Reliability.protect|Triz-Measurement_Accuracy+Feedback-Reliability.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Measurement_Accuracy+Feedback-Reliability.private|Triz-Measurement_Accuracy+Feedback-Reliability.private]] 

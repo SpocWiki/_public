@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Illumination+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Stability.md|Triz-Illumination+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Stability]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Illumination+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Stability|Triz-Illumination+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Stability]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Illumination+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Stability.public|Triz-Illumination+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Stability.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Illumination+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Stability.internal|Triz-Illumination+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Stability.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Illumination+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Stability.protect|Triz-Illumination+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Stability.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Illumination+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Stability.private|Triz-Illumination+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Stability.private]] 

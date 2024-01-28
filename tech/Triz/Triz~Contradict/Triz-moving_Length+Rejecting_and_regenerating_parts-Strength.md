@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-moving_Length+Rejecting_and_regenerating_parts-Strength.md|Triz-moving_Length+Rejecting_and_regenerating_parts-Strength]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-moving_Length+Rejecting_and_regenerating_parts-Strength|Triz-moving_Length+Rejecting_and_regenerating_parts-Strength]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-moving_Length+Rejecting_and_regenerating_parts-Strength.public|Triz-moving_Length+Rejecting_and_regenerating_parts-Strength.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-moving_Length+Rejecting_and_regenerating_parts-Strength.internal|Triz-moving_Length+Rejecting_and_regenerating_parts-Strength.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-moving_Length+Rejecting_and_regenerating_parts-Strength.protect|Triz-moving_Length+Rejecting_and_regenerating_parts-Strength.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-moving_Length+Rejecting_and_regenerating_parts-Strength.private|Triz-moving_Length+Rejecting_and_regenerating_parts-Strength.private]] 

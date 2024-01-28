@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Temperature+Rushing_through-Time-Loss.md|Triz-Temperature+Rushing_through-Time-Loss]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Temperature+Rushing_through-Time-Loss|Triz-Temperature+Rushing_through-Time-Loss]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Temperature+Rushing_through-Time-Loss.public|Triz-Temperature+Rushing_through-Time-Loss.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Temperature+Rushing_through-Time-Loss.internal|Triz-Temperature+Rushing_through-Time-Loss.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Temperature+Rushing_through-Time-Loss.protect|Triz-Temperature+Rushing_through-Time-Loss.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Temperature+Rushing_through-Time-Loss.private|Triz-Temperature+Rushing_through-Time-Loss.private]] 

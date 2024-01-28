@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Reliability+Cushion_in_advance-Measurement_Accuracy.md|Triz-Reliability+Cushion_in_advance-Measurement_Accuracy]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Reliability+Cushion_in_advance-Measurement_Accuracy|Triz-Reliability+Cushion_in_advance-Measurement_Accuracy]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Reliability+Cushion_in_advance-Measurement_Accuracy.public|Triz-Reliability+Cushion_in_advance-Measurement_Accuracy.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Reliability+Cushion_in_advance-Measurement_Accuracy.internal|Triz-Reliability+Cushion_in_advance-Measurement_Accuracy.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Reliability+Cushion_in_advance-Measurement_Accuracy.protect|Triz-Reliability+Cushion_in_advance-Measurement_Accuracy.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Reliability+Cushion_in_advance-Measurement_Accuracy.private|Triz-Reliability+Cushion_in_advance-Measurement_Accuracy.private]] 

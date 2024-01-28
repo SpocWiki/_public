@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Automation+Inversion-Strength.md|Triz-Automation+Inversion-Strength]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Automation+Inversion-Strength|Triz-Automation+Inversion-Strength]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Automation+Inversion-Strength.public|Triz-Automation+Inversion-Strength.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Automation+Inversion-Strength.internal|Triz-Automation+Inversion-Strength.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Automation+Inversion-Strength.protect|Triz-Automation+Inversion-Strength.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Automation+Inversion-Strength.private|Triz-Automation+Inversion-Strength.private]] 

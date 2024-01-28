@@ -27,7 +27,8 @@ confidential: public
 
 
 ## Confidential Links & Embeds: 
-- [[../../../_public/astro/Star/Zawijava.md|Zawijava]] 
+- [[../../../_Standards/astro/Star/Zawijava|Zawijava]] 
+- [[../../../_public/astro/Star/Zawijava.public|Zawijava.public]] 
 - [[../../../_internal/astro/Star/Zawijava.internal|Zawijava.internal]] 
 - [[../../../_protect/astro/Star/Zawijava.protect|Zawijava.protect]] 
 - [[../../../_private/astro/Star/Zawijava.private|Zawijava.private]] 

@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Power+Transformation_of_physical_and_chemical_states_of_an_object-moving_Length.md|Triz-Power+Transformation_of_physical_and_chemical_states_of_an_object-moving_Length]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Power+Transformation_of_physical_and_chemical_states_of_an_object-moving_Length|Triz-Power+Transformation_of_physical_and_chemical_states_of_an_object-moving_Length]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Power+Transformation_of_physical_and_chemical_states_of_an_object-moving_Length.public|Triz-Power+Transformation_of_physical_and_chemical_states_of_an_object-moving_Length.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Power+Transformation_of_physical_and_chemical_states_of_an_object-moving_Length.internal|Triz-Power+Transformation_of_physical_and_chemical_states_of_an_object-moving_Length.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Power+Transformation_of_physical_and_chemical_states_of_an_object-moving_Length.protect|Triz-Power+Transformation_of_physical_and_chemical_states_of_an_object-moving_Length.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Power+Transformation_of_physical_and_chemical_states_of_an_object-moving_Length.private|Triz-Power+Transformation_of_physical_and_chemical_states_of_an_object-moving_Length.private]] 

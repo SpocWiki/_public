@@ -27,7 +27,8 @@ confidential: public
 
 
 ## Confidential Links & Embeds: 
-- [[../../../_public/astro/Star/Bellatrix.md|Bellatrix]] 
+- [[../../../_Standards/astro/Star/Bellatrix|Bellatrix]] 
+- [[../../../_public/astro/Star/Bellatrix.public|Bellatrix.public]] 
 - [[../../../_internal/astro/Star/Bellatrix.internal|Bellatrix.internal]] 
 - [[../../../_protect/astro/Star/Bellatrix.protect|Bellatrix.protect]] 
 - [[../../../_private/astro/Star/Bellatrix.private|Bellatrix.private]] 

@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Shape+Rejecting_and_regenerating_parts-moving_Energy.md|Triz-Shape+Rejecting_and_regenerating_parts-moving_Energy]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Shape+Rejecting_and_regenerating_parts-moving_Energy|Triz-Shape+Rejecting_and_regenerating_parts-moving_Energy]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Shape+Rejecting_and_regenerating_parts-moving_Energy.public|Triz-Shape+Rejecting_and_regenerating_parts-moving_Energy.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Shape+Rejecting_and_regenerating_parts-moving_Energy.internal|Triz-Shape+Rejecting_and_regenerating_parts-moving_Energy.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Shape+Rejecting_and_regenerating_parts-moving_Energy.protect|Triz-Shape+Rejecting_and_regenerating_parts-moving_Energy.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Shape+Rejecting_and_regenerating_parts-moving_Energy.private|Triz-Shape+Rejecting_and_regenerating_parts-moving_Energy.private]] 

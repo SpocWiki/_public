@@ -27,7 +27,8 @@ Use a multi-story arrangement of objects instead of a single-story arrangement.
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Sub/Triz-multi-story.md|Triz-multi-story]] 
+- [[../../../../_Standards/tech/Triz/Sub/Triz-multi-story|Triz-multi-story]] 
+- [[../../../../_public/tech/Triz/Sub/Triz-multi-story.public|Triz-multi-story.public]] 
 - [[../../../../_internal/tech/Triz/Sub/Triz-multi-story.internal|Triz-multi-story.internal]] 
 - [[../../../../_protect/tech/Triz/Sub/Triz-multi-story.protect|Triz-multi-story.protect]] 
 - [[../../../../_private/tech/Triz/Sub/Triz-multi-story.private|Triz-multi-story.private]] 

@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Ease_of_manufacture+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-stationary_Length.md|Triz-Ease_of_manufacture+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-stationary_Length]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Ease_of_manufacture+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-stationary_Length|Triz-Ease_of_manufacture+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-stationary_Length]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Ease_of_manufacture+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-stationary_Length.public|Triz-Ease_of_manufacture+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-stationary_Length.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Ease_of_manufacture+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-stationary_Length.internal|Triz-Ease_of_manufacture+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-stationary_Length.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Ease_of_manufacture+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-stationary_Length.protect|Triz-Ease_of_manufacture+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-stationary_Length.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Ease_of_manufacture+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-stationary_Length.private|Triz-Ease_of_manufacture+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-stationary_Length.private]] 

@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Difficulty+Replacement_of_a_mechanical_system-affected_harm.md|Triz-Difficulty+Replacement_of_a_mechanical_system-affected_harm]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Difficulty+Replacement_of_a_mechanical_system-affected_harm|Triz-Difficulty+Replacement_of_a_mechanical_system-affected_harm]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Difficulty+Replacement_of_a_mechanical_system-affected_harm.public|Triz-Difficulty+Replacement_of_a_mechanical_system-affected_harm.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Difficulty+Replacement_of_a_mechanical_system-affected_harm.internal|Triz-Difficulty+Replacement_of_a_mechanical_system-affected_harm.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Difficulty+Replacement_of_a_mechanical_system-affected_harm.protect|Triz-Difficulty+Replacement_of_a_mechanical_system-affected_harm.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Difficulty+Replacement_of_a_mechanical_system-affected_harm.private|Triz-Difficulty+Replacement_of_a_mechanical_system-affected_harm.private]] 

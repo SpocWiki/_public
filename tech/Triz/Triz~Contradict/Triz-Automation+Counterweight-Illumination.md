@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Automation+Counterweight-Illumination.md|Triz-Automation+Counterweight-Illumination]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Automation+Counterweight-Illumination|Triz-Automation+Counterweight-Illumination]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Automation+Counterweight-Illumination.public|Triz-Automation+Counterweight-Illumination.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Automation+Counterweight-Illumination.internal|Triz-Automation+Counterweight-Illumination.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Automation+Counterweight-Illumination.protect|Triz-Automation+Counterweight-Illumination.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Automation+Counterweight-Illumination.private|Triz-Automation+Counterweight-Illumination.private]] 

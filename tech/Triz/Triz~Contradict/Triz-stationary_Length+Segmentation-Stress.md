@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-stationary_Length+Segmentation-Stress.md|Triz-stationary_Length+Segmentation-Stress]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-stationary_Length+Segmentation-Stress|Triz-stationary_Length+Segmentation-Stress]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-stationary_Length+Segmentation-Stress.public|Triz-stationary_Length+Segmentation-Stress.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-stationary_Length+Segmentation-Stress.internal|Triz-stationary_Length+Segmentation-Stress.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-stationary_Length+Segmentation-Stress.protect|Triz-stationary_Length+Segmentation-Stress.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-stationary_Length+Segmentation-Stress.private|Triz-stationary_Length+Segmentation-Stress.private]] 

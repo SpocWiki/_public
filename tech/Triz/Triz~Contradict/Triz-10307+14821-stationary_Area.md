@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-10307+14821-stationary_Area.md|Triz-10307+14821-stationary_Area]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-10307+14821-stationary_Area|Triz-10307+14821-stationary_Area]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-10307+14821-stationary_Area.public|Triz-10307+14821-stationary_Area.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-10307+14821-stationary_Area.internal|Triz-10307+14821-stationary_Area.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-10307+14821-stationary_Area.protect|Triz-10307+14821-stationary_Area.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-10307+14821-stationary_Area.private|Triz-10307+14821-stationary_Area.private]] 

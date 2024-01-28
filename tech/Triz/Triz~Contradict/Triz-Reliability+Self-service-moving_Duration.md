@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Reliability+Self-service-moving_Duration.md|Triz-Reliability+Self-service-moving_Duration]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Reliability+Self-service-moving_Duration|Triz-Reliability+Self-service-moving_Duration]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Reliability+Self-service-moving_Duration.public|Triz-Reliability+Self-service-moving_Duration.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Reliability+Self-service-moving_Duration.internal|Triz-Reliability+Self-service-moving_Duration.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Reliability+Self-service-moving_Duration.protect|Triz-Reliability+Self-service-moving_Duration.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Reliability+Self-service-moving_Duration.private|Triz-Reliability+Self-service-moving_Duration.private]] 

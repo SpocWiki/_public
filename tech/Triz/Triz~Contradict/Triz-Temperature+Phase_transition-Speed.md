@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Temperature+Phase_transition-Speed.md|Triz-Temperature+Phase_transition-Speed]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Temperature+Phase_transition-Speed|Triz-Temperature+Phase_transition-Speed]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Temperature+Phase_transition-Speed.public|Triz-Temperature+Phase_transition-Speed.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Temperature+Phase_transition-Speed.internal|Triz-Temperature+Phase_transition-Speed.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Temperature+Phase_transition-Speed.protect|Triz-Temperature+Phase_transition-Speed.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Temperature+Phase_transition-Speed.private|Triz-Temperature+Phase_transition-Speed.private]] 

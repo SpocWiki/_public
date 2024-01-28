@@ -27,7 +27,8 @@ confidential: public
 
 
 ## Confidential Links & Embeds: 
-- [[../../../_public/astro/Star/Elmuthalleth.md|Elmuthalleth]] 
+- [[../../../_Standards/astro/Star/Elmuthalleth|Elmuthalleth]] 
+- [[../../../_public/astro/Star/Elmuthalleth.public|Elmuthalleth.public]] 
 - [[../../../_internal/astro/Star/Elmuthalleth.internal|Elmuthalleth.internal]] 
 - [[../../../_protect/astro/Star/Elmuthalleth.protect|Elmuthalleth.protect]] 
 - [[../../../_private/astro/Star/Elmuthalleth.private|Elmuthalleth.private]] 

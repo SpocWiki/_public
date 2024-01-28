@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Difficulty+Dynamicity-Strength.md|Triz-Difficulty+Dynamicity-Strength]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Difficulty+Dynamicity-Strength|Triz-Difficulty+Dynamicity-Strength]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Difficulty+Dynamicity-Strength.public|Triz-Difficulty+Dynamicity-Strength.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Difficulty+Dynamicity-Strength.internal|Triz-Difficulty+Dynamicity-Strength.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Difficulty+Dynamicity-Strength.protect|Triz-Difficulty+Dynamicity-Strength.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Difficulty+Dynamicity-Strength.private|Triz-Difficulty+Dynamicity-Strength.private]] 

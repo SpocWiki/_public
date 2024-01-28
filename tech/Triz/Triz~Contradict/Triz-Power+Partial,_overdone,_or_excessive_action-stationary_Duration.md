@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Power+Partial,_overdone,_or_excessive_action-stationary_Duration.md|Triz-Power+Partial,_overdone,_or_excessive_action-stationary_Duration]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Power+Partial,_overdone,_or_excessive_action-stationary_Duration|Triz-Power+Partial,_overdone,_or_excessive_action-stationary_Duration]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Power+Partial,_overdone,_or_excessive_action-stationary_Duration.public|Triz-Power+Partial,_overdone,_or_excessive_action-stationary_Duration.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Power+Partial,_overdone,_or_excessive_action-stationary_Duration.internal|Triz-Power+Partial,_overdone,_or_excessive_action-stationary_Duration.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Power+Partial,_overdone,_or_excessive_action-stationary_Duration.protect|Triz-Power+Partial,_overdone,_or_excessive_action-stationary_Duration.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Power+Partial,_overdone,_or_excessive_action-stationary_Duration.private|Triz-Power+Partial,_overdone,_or_excessive_action-stationary_Duration.private]] 

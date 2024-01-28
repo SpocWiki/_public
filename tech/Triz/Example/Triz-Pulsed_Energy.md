@@ -17,7 +17,8 @@ tags:
 An Impact Wrench loosens corroded Nuts using Impulses rather than continuous Force.
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Example/Triz-Pulsed_Energy.md|Triz-Pulsed_Energy]] 
+- [[../../../../_Standards/tech/Triz/Example/Triz-Pulsed_Energy|Triz-Pulsed_Energy]] 
+- [[../../../../_public/tech/Triz/Example/Triz-Pulsed_Energy.public|Triz-Pulsed_Energy.public]] 
 - [[../../../../_internal/tech/Triz/Example/Triz-Pulsed_Energy.internal|Triz-Pulsed_Energy.internal]] 
 - [[../../../../_protect/tech/Triz/Example/Triz-Pulsed_Energy.protect|Triz-Pulsed_Energy.protect]] 
 - [[../../../../_private/tech/Triz/Example/Triz-Pulsed_Energy.private|Triz-Pulsed_Energy.private]] 

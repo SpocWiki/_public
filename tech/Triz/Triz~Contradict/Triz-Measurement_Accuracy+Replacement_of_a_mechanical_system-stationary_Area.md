@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Measurement_Accuracy+Replacement_of_a_mechanical_system-stationary_Area.md|Triz-Measurement_Accuracy+Replacement_of_a_mechanical_system-stationary_Area]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Measurement_Accuracy+Replacement_of_a_mechanical_system-stationary_Area|Triz-Measurement_Accuracy+Replacement_of_a_mechanical_system-stationary_Area]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Measurement_Accuracy+Replacement_of_a_mechanical_system-stationary_Area.public|Triz-Measurement_Accuracy+Replacement_of_a_mechanical_system-stationary_Area.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Measurement_Accuracy+Replacement_of_a_mechanical_system-stationary_Area.internal|Triz-Measurement_Accuracy+Replacement_of_a_mechanical_system-stationary_Area.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Measurement_Accuracy+Replacement_of_a_mechanical_system-stationary_Area.protect|Triz-Measurement_Accuracy+Replacement_of_a_mechanical_system-stationary_Area.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Measurement_Accuracy+Replacement_of_a_mechanical_system-stationary_Area.private|Triz-Measurement_Accuracy+Replacement_of_a_mechanical_system-stationary_Area.private]] 

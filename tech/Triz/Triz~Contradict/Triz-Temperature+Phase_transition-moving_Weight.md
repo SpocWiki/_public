@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Temperature+Phase_transition-moving_Weight.md|Triz-Temperature+Phase_transition-moving_Weight]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Temperature+Phase_transition-moving_Weight|Triz-Temperature+Phase_transition-moving_Weight]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Temperature+Phase_transition-moving_Weight.public|Triz-Temperature+Phase_transition-moving_Weight.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Temperature+Phase_transition-moving_Weight.internal|Triz-Temperature+Phase_transition-moving_Weight.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Temperature+Phase_transition-moving_Weight.protect|Triz-Temperature+Phase_transition-moving_Weight.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Temperature+Phase_transition-moving_Weight.private|Triz-Temperature+Phase_transition-moving_Weight.private]] 

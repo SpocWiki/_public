@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Substance-Loss+Transformation_of_physical_and_chemical_states_of_an_object-Ease_of_repair.md|Triz-Substance-Loss+Transformation_of_physical_and_chemical_states_of_an_object-Ease_of_repair]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Substance-Loss+Transformation_of_physical_and_chemical_states_of_an_object-Ease_of_repair|Triz-Substance-Loss+Transformation_of_physical_and_chemical_states_of_an_object-Ease_of_repair]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Substance-Loss+Transformation_of_physical_and_chemical_states_of_an_object-Ease_of_repair.public|Triz-Substance-Loss+Transformation_of_physical_and_chemical_states_of_an_object-Ease_of_repair.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Substance-Loss+Transformation_of_physical_and_chemical_states_of_an_object-Ease_of_repair.internal|Triz-Substance-Loss+Transformation_of_physical_and_chemical_states_of_an_object-Ease_of_repair.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Substance-Loss+Transformation_of_physical_and_chemical_states_of_an_object-Ease_of_repair.protect|Triz-Substance-Loss+Transformation_of_physical_and_chemical_states_of_an_object-Ease_of_repair.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Substance-Loss+Transformation_of_physical_and_chemical_states_of_an_object-Ease_of_repair.private|Triz-Substance-Loss+Transformation_of_physical_and_chemical_states_of_an_object-Ease_of_repair.private]] 

@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Manufacturing_Precision+Periodic_action-Intensity.md|Triz-Manufacturing_Precision+Periodic_action-Intensity]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Manufacturing_Precision+Periodic_action-Intensity|Triz-Manufacturing_Precision+Periodic_action-Intensity]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Manufacturing_Precision+Periodic_action-Intensity.public|Triz-Manufacturing_Precision+Periodic_action-Intensity.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Manufacturing_Precision+Periodic_action-Intensity.internal|Triz-Manufacturing_Precision+Periodic_action-Intensity.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Manufacturing_Precision+Periodic_action-Intensity.protect|Triz-Manufacturing_Precision+Periodic_action-Intensity.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Manufacturing_Precision+Periodic_action-Intensity.private|Triz-Manufacturing_Precision+Periodic_action-Intensity.private]] 

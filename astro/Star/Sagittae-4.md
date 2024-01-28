@@ -27,7 +27,8 @@ confidential: public
 
 
 ## Confidential Links & Embeds: 
-- [[../../../_public/astro/Star/Sagittae-4.md|Sagittae-4]] 
+- [[../../../_Standards/astro/Star/Sagittae-4|Sagittae-4]] 
+- [[../../../_public/astro/Star/Sagittae-4.public|Sagittae-4.public]] 
 - [[../../../_internal/astro/Star/Sagittae-4.internal|Sagittae-4.internal]] 
 - [[../../../_protect/astro/Star/Sagittae-4.protect|Sagittae-4.protect]] 
 - [[../../../_private/astro/Star/Sagittae-4.private|Sagittae-4.private]] 

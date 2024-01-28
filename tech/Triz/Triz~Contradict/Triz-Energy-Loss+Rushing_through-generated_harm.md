@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Energy-Loss+Rushing_through-generated_harm.md|Triz-Energy-Loss+Rushing_through-generated_harm]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Energy-Loss+Rushing_through-generated_harm|Triz-Energy-Loss+Rushing_through-generated_harm]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Energy-Loss+Rushing_through-generated_harm.public|Triz-Energy-Loss+Rushing_through-generated_harm.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Energy-Loss+Rushing_through-generated_harm.internal|Triz-Energy-Loss+Rushing_through-generated_harm.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Energy-Loss+Rushing_through-generated_harm.protect|Triz-Energy-Loss+Rushing_through-generated_harm.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Energy-Loss+Rushing_through-generated_harm.private|Triz-Energy-Loss+Rushing_through-generated_harm.private]] 

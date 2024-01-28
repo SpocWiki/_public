@@ -27,7 +27,8 @@ confidential: public
 
 
 ## Confidential Links & Embeds: 
-- [[../../../_public/astro/Star/Volantis-6.md|Volantis-6]] 
+- [[../../../_Standards/astro/Star/Volantis-6|Volantis-6]] 
+- [[../../../_public/astro/Star/Volantis-6.public|Volantis-6.public]] 
 - [[../../../_internal/astro/Star/Volantis-6.internal|Volantis-6.internal]] 
 - [[../../../_protect/astro/Star/Volantis-6.protect|Volantis-6.protect]] 
 - [[../../../_private/astro/Star/Volantis-6.private|Volantis-6.private]] 

@@ -27,7 +27,8 @@ confidential: public
 
 
 ## Confidential Links & Embeds: 
-- [[../../../_public/astro/Star/Antliae-5.md|Antliae-5]] 
+- [[../../../_Standards/astro/Star/Antliae-5|Antliae-5]] 
+- [[../../../_public/astro/Star/Antliae-5.public|Antliae-5.public]] 
 - [[../../../_internal/astro/Star/Antliae-5.internal|Antliae-5.internal]] 
 - [[../../../_protect/astro/Star/Antliae-5.protect|Antliae-5.protect]] 
 - [[../../../_private/astro/Star/Antliae-5.private|Antliae-5.private]] 

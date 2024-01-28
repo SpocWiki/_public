@@ -14,7 +14,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Principle/Triz-Use_of_porous_material.md|Triz-Use_of_porous_material]] 
+- [[../../../../_Standards/tech/Triz/Principle/Triz-Use_of_porous_material|Triz-Use_of_porous_material]] 
+- [[../../../../_public/tech/Triz/Principle/Triz-Use_of_porous_material.public|Triz-Use_of_porous_material.public]] 
 - [[../../../../_internal/tech/Triz/Principle/Triz-Use_of_porous_material.internal|Triz-Use_of_porous_material.internal]] 
 - [[../../../../_protect/tech/Triz/Principle/Triz-Use_of_porous_material.protect|Triz-Use_of_porous_material.protect]] 
 - [[../../../../_private/tech/Triz/Principle/Triz-Use_of_porous_material.private|Triz-Use_of_porous_material.private]] 

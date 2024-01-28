@@ -17,7 +17,8 @@ tags:
 Speed: rate at which a system or component moves or operates
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Parameter/Triz-Speed.md|Triz-Speed]] 
+- [[../../../../_Standards/tech/Triz/Parameter/Triz-Speed|Triz-Speed]] 
+- [[../../../../_public/tech/Triz/Parameter/Triz-Speed.public|Triz-Speed.public]] 
 - [[../../../../_internal/tech/Triz/Parameter/Triz-Speed.internal|Triz-Speed.internal]] 
 - [[../../../../_protect/tech/Triz/Parameter/Triz-Speed.protect|Triz-Speed.protect]] 
 - [[../../../../_private/tech/Triz/Parameter/Triz-Speed.private|Triz-Speed.private]] 

@@ -27,7 +27,8 @@ confidential: public
 
 
 ## Confidential Links & Embeds: 
-- [[../../../_public/astro/Star/Aquarii-188.md|Aquarii-188]] 
+- [[../../../_Standards/astro/Star/Aquarii-188|Aquarii-188]] 
+- [[../../../_public/astro/Star/Aquarii-188.public|Aquarii-188.public]] 
 - [[../../../_internal/astro/Star/Aquarii-188.internal|Aquarii-188.internal]] 
 - [[../../../_protect/astro/Star/Aquarii-188.protect|Aquarii-188.protect]] 
 - [[../../../_private/astro/Star/Aquarii-188.private|Aquarii-188.private]] 

@@ -27,7 +27,8 @@ confidential: public
 
 
 ## Confidential Links & Embeds: 
-- [[../../../_public/astro/Star/Tauri-5.md|Tauri-5]] 
+- [[../../../_Standards/astro/Star/Tauri-5|Tauri-5]] 
+- [[../../../_public/astro/Star/Tauri-5.public|Tauri-5.public]] 
 - [[../../../_internal/astro/Star/Tauri-5.internal|Tauri-5.internal]] 
 - [[../../../_protect/astro/Star/Tauri-5.protect|Tauri-5.protect]] 
 - [[../../../_private/astro/Star/Tauri-5.private|Tauri-5.private]] 

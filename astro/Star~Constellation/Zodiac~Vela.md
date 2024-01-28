@@ -17,7 +17,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../_public/astro/Zodiac/Zodiac~Vela.md|Zodiac~Vela]] 
+- [[../../../_Standards/astro/Zodiac/Zodiac~Vela|Zodiac~Vela]] 
+- [[../../../_public/astro/Zodiac/Zodiac~Vela.public|Zodiac~Vela.public]] 
 - [[../../../_internal/astro/Zodiac/Zodiac~Vela.internal|Zodiac~Vela.internal]] 
 - [[../../../_protect/astro/Zodiac/Zodiac~Vela.protect|Zodiac~Vela.protect]] 
 - [[../../../_private/astro/Zodiac/Zodiac~Vela.private|Zodiac~Vela.private]] 

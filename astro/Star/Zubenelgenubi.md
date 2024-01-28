@@ -27,7 +27,8 @@ confidential: public
 
 
 ## Confidential Links & Embeds: 
-- [[../../../_public/astro/Star/Zubenelgenubi.md|Zubenelgenubi]] 
+- [[../../../_Standards/astro/Star/Zubenelgenubi|Zubenelgenubi]] 
+- [[../../../_public/astro/Star/Zubenelgenubi.public|Zubenelgenubi.public]] 
 - [[../../../_internal/astro/Star/Zubenelgenubi.internal|Zubenelgenubi.internal]] 
 - [[../../../_protect/astro/Star/Zubenelgenubi.protect|Zubenelgenubi.protect]] 
 - [[../../../_private/astro/Star/Zubenelgenubi.private|Zubenelgenubi.private]] 

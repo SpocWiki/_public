@@ -17,7 +17,8 @@ tags:
 Virtual Reality via Computer instead of an expensive Vacation
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Example/Triz-Virtual_Reality.md|Triz-Virtual_Reality]] 
+- [[../../../../_Standards/tech/Triz/Example/Triz-Virtual_Reality|Triz-Virtual_Reality]] 
+- [[../../../../_public/tech/Triz/Example/Triz-Virtual_Reality.public|Triz-Virtual_Reality.public]] 
 - [[../../../../_internal/tech/Triz/Example/Triz-Virtual_Reality.internal|Triz-Virtual_Reality.internal]] 
 - [[../../../../_protect/tech/Triz/Example/Triz-Virtual_Reality.protect|Triz-Virtual_Reality.protect]] 
 - [[../../../../_private/tech/Triz/Example/Triz-Virtual_Reality.private|Triz-Virtual_Reality.private]] 

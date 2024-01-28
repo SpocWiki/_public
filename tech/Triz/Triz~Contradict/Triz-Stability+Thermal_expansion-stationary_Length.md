@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Stability+Thermal_expansion-stationary_Length.md|Triz-Stability+Thermal_expansion-stationary_Length]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Stability+Thermal_expansion-stationary_Length|Triz-Stability+Thermal_expansion-stationary_Length]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Stability+Thermal_expansion-stationary_Length.public|Triz-Stability+Thermal_expansion-stationary_Length.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Stability+Thermal_expansion-stationary_Length.internal|Triz-Stability+Thermal_expansion-stationary_Length.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Stability+Thermal_expansion-stationary_Length.protect|Triz-Stability+Thermal_expansion-stationary_Length.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Stability+Thermal_expansion-stationary_Length.private|Triz-Stability+Thermal_expansion-stationary_Length.private]] 

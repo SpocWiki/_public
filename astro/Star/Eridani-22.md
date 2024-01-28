@@ -27,7 +27,8 @@ confidential: public
 
 
 ## Confidential Links & Embeds: 
-- [[../../../_public/astro/Star/Eridani-22.md|Eridani-22]] 
+- [[../../../_Standards/astro/Star/Eridani-22|Eridani-22]] 
+- [[../../../_public/astro/Star/Eridani-22.public|Eridani-22.public]] 
 - [[../../../_internal/astro/Star/Eridani-22.internal|Eridani-22.internal]] 
 - [[../../../_protect/astro/Star/Eridani-22.protect|Eridani-22.protect]] 
 - [[../../../_private/astro/Star/Eridani-22.private|Eridani-22.private]] 

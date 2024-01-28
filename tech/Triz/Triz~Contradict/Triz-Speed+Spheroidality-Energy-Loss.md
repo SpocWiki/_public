@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Speed+Spheroidality-Energy-Loss.md|Triz-Speed+Spheroidality-Energy-Loss]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Speed+Spheroidality-Energy-Loss|Triz-Speed+Spheroidality-Energy-Loss]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Speed+Spheroidality-Energy-Loss.public|Triz-Speed+Spheroidality-Energy-Loss.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Speed+Spheroidality-Energy-Loss.internal|Triz-Speed+Spheroidality-Energy-Loss.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Speed+Spheroidality-Energy-Loss.protect|Triz-Speed+Spheroidality-Energy-Loss.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Speed+Spheroidality-Energy-Loss.private|Triz-Speed+Spheroidality-Energy-Loss.private]] 

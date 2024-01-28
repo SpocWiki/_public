@@ -17,7 +17,8 @@ tags:
 Make one Side of a Tire stronger than the other to withstand Impact with the Curb.
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Example/Triz-Asymmetric-tire.md|Triz-Asymmetric-tire]] 
+- [[../../../../_Standards/tech/Triz/Example/Triz-Asymmetric-tire|Triz-Asymmetric-tire]] 
+- [[../../../../_public/tech/Triz/Example/Triz-Asymmetric-tire.public|Triz-Asymmetric-tire.public]] 
 - [[../../../../_internal/tech/Triz/Example/Triz-Asymmetric-tire.internal|Triz-Asymmetric-tire.internal]] 
 - [[../../../../_protect/tech/Triz/Example/Triz-Asymmetric-tire.protect|Triz-Asymmetric-tire.protect]] 
 - [[../../../../_private/tech/Triz/Example/Triz-Asymmetric-tire.private|Triz-Asymmetric-tire.private]] 

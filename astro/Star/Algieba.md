@@ -27,7 +27,8 @@ confidential: public
 
 
 ## Confidential Links & Embeds: 
-- [[../../../_public/astro/Star/Algieba.md|Algieba]] 
+- [[../../../_Standards/astro/Star/Algieba|Algieba]] 
+- [[../../../_public/astro/Star/Algieba.public|Algieba.public]] 
 - [[../../../_internal/astro/Star/Algieba.internal|Algieba.internal]] 
 - [[../../../_protect/astro/Star/Algieba.protect|Algieba.protect]] 
 - [[../../../_private/astro/Star/Algieba.private|Algieba.private]] 

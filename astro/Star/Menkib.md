@@ -27,7 +27,8 @@ confidential: public
 
 
 ## Confidential Links & Embeds: 
-- [[../../../_public/astro/Star/Menkib.md|Menkib]] 
+- [[../../../_Standards/astro/Star/Menkib|Menkib]] 
+- [[../../../_public/astro/Star/Menkib.public|Menkib.public]] 
 - [[../../../_internal/astro/Star/Menkib.internal|Menkib.internal]] 
 - [[../../../_protect/astro/Star/Menkib.protect|Menkib.protect]] 
 - [[../../../_private/astro/Star/Menkib.private|Menkib.private]] 

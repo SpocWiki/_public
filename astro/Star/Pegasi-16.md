@@ -27,7 +27,8 @@ confidential: public
 
 
 ## Confidential Links & Embeds: 
-- [[../../../_public/astro/Star/Pegasi-16.md|Pegasi-16]] 
+- [[../../../_Standards/astro/Star/Pegasi-16|Pegasi-16]] 
+- [[../../../_public/astro/Star/Pegasi-16.public|Pegasi-16.public]] 
 - [[../../../_internal/astro/Star/Pegasi-16.internal|Pegasi-16.internal]] 
 - [[../../../_protect/astro/Star/Pegasi-16.protect|Pegasi-16.protect]] 
 - [[../../../_private/astro/Star/Pegasi-16.private|Pegasi-16.private]] 

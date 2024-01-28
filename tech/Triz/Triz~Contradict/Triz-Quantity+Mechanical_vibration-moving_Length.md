@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Quantity+Mechanical_vibration-moving_Length.md|Triz-Quantity+Mechanical_vibration-moving_Length]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Quantity+Mechanical_vibration-moving_Length|Triz-Quantity+Mechanical_vibration-moving_Length]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Quantity+Mechanical_vibration-moving_Length.public|Triz-Quantity+Mechanical_vibration-moving_Length.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Quantity+Mechanical_vibration-moving_Length.internal|Triz-Quantity+Mechanical_vibration-moving_Length.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Quantity+Mechanical_vibration-moving_Length.protect|Triz-Quantity+Mechanical_vibration-moving_Length.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Quantity+Mechanical_vibration-moving_Length.private|Triz-Quantity+Mechanical_vibration-moving_Length.private]] 

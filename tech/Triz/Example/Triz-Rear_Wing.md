@@ -17,7 +17,8 @@ tags:
 Rear Wing of a Racing Car increases Pressure to the Ground.
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Example/Triz-Rear_Wing.md|Triz-Rear_Wing]] 
+- [[../../../../_Standards/tech/Triz/Example/Triz-Rear_Wing|Triz-Rear_Wing]] 
+- [[../../../../_public/tech/Triz/Example/Triz-Rear_Wing.public|Triz-Rear_Wing.public]] 
 - [[../../../../_internal/tech/Triz/Example/Triz-Rear_Wing.internal|Triz-Rear_Wing.internal]] 
 - [[../../../../_protect/tech/Triz/Example/Triz-Rear_Wing.protect|Triz-Rear_Wing.protect]] 
 - [[../../../../_private/tech/Triz/Example/Triz-Rear_Wing.private|Triz-Rear_Wing.private]] 

@@ -27,7 +27,8 @@ confidential: public
 
 
 ## Confidential Links & Embeds: 
-- [[../../../_public/astro/Star/Serpentis-2.md|Serpentis-2]] 
+- [[../../../_Standards/astro/Star/Serpentis-2|Serpentis-2]] 
+- [[../../../_public/astro/Star/Serpentis-2.public|Serpentis-2.public]] 
 - [[../../../_internal/astro/Star/Serpentis-2.internal|Serpentis-2.internal]] 
 - [[../../../_protect/astro/Star/Serpentis-2.protect|Serpentis-2.protect]] 
 - [[../../../_private/astro/Star/Serpentis-2.private|Serpentis-2.private]] 

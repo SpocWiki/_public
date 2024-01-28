@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-stationary_Duration+Extraction-Versatility.md|Triz-stationary_Duration+Extraction-Versatility]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-stationary_Duration+Extraction-Versatility|Triz-stationary_Duration+Extraction-Versatility]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-stationary_Duration+Extraction-Versatility.public|Triz-stationary_Duration+Extraction-Versatility.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-stationary_Duration+Extraction-Versatility.internal|Triz-stationary_Duration+Extraction-Versatility.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-stationary_Duration+Extraction-Versatility.protect|Triz-stationary_Duration+Extraction-Versatility.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-stationary_Duration+Extraction-Versatility.private|Triz-stationary_Duration+Extraction-Versatility.private]] 

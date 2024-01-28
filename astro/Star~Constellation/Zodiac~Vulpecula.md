@@ -17,7 +17,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../_public/astro/Zodiac/Zodiac~Vulpecula.md|Zodiac~Vulpecula]] 
+- [[../../../_Standards/astro/Zodiac/Zodiac~Vulpecula|Zodiac~Vulpecula]] 
+- [[../../../_public/astro/Zodiac/Zodiac~Vulpecula.public|Zodiac~Vulpecula.public]] 
 - [[../../../_internal/astro/Zodiac/Zodiac~Vulpecula.internal|Zodiac~Vulpecula.internal]] 
 - [[../../../_protect/astro/Zodiac/Zodiac~Vulpecula.protect|Zodiac~Vulpecula.protect]] 
 - [[../../../_private/astro/Zodiac/Zodiac~Vulpecula.private|Zodiac~Vulpecula.private]] 

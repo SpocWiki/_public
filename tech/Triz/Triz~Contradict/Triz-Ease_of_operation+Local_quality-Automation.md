@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Ease_of_operation+Local_quality-Automation.md|Triz-Ease_of_operation+Local_quality-Automation]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Ease_of_operation+Local_quality-Automation|Triz-Ease_of_operation+Local_quality-Automation]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Ease_of_operation+Local_quality-Automation.public|Triz-Ease_of_operation+Local_quality-Automation.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Ease_of_operation+Local_quality-Automation.internal|Triz-Ease_of_operation+Local_quality-Automation.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Ease_of_operation+Local_quality-Automation.protect|Triz-Ease_of_operation+Local_quality-Automation.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Ease_of_operation+Local_quality-Automation.private|Triz-Ease_of_operation+Local_quality-Automation.private]] 

@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Manufacturing_Precision+Changing_the_color-stationary_Length.md|Triz-Manufacturing_Precision+Changing_the_color-stationary_Length]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Manufacturing_Precision+Changing_the_color-stationary_Length|Triz-Manufacturing_Precision+Changing_the_color-stationary_Length]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Manufacturing_Precision+Changing_the_color-stationary_Length.public|Triz-Manufacturing_Precision+Changing_the_color-stationary_Length.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Manufacturing_Precision+Changing_the_color-stationary_Length.internal|Triz-Manufacturing_Precision+Changing_the_color-stationary_Length.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Manufacturing_Precision+Changing_the_color-stationary_Length.protect|Triz-Manufacturing_Precision+Changing_the_color-stationary_Length.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Manufacturing_Precision+Changing_the_color-stationary_Length.private|Triz-Manufacturing_Precision+Changing_the_color-stationary_Length.private]] 

@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-10307+22229-Stability.md|Triz-10307+22229-Stability]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-10307+22229-Stability|Triz-10307+22229-Stability]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-10307+22229-Stability.public|Triz-10307+22229-Stability.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-10307+22229-Stability.internal|Triz-10307+22229-Stability.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-10307+22229-Stability.protect|Triz-10307+22229-Stability.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-10307+22229-Stability.private|Triz-10307+22229-Stability.private]] 

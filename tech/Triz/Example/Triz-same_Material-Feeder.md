@@ -17,7 +17,8 @@ tags:
 The Surface of a Feeder for abrasive Grain is made of the same Material that runs through the Feeder, allowing a continuous Restoration of the Surface.
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Example/Triz-same_Material-Feeder.md|Triz-same_Material-Feeder]] 
+- [[../../../../_Standards/tech/Triz/Example/Triz-same_Material-Feeder|Triz-same_Material-Feeder]] 
+- [[../../../../_public/tech/Triz/Example/Triz-same_Material-Feeder.public|Triz-same_Material-Feeder.public]] 
 - [[../../../../_internal/tech/Triz/Example/Triz-same_Material-Feeder.internal|Triz-same_Material-Feeder.internal]] 
 - [[../../../../_protect/tech/Triz/Example/Triz-same_Material-Feeder.protect|Triz-same_Material-Feeder.protect]] 
 - [[../../../../_private/tech/Triz/Example/Triz-same_Material-Feeder.private|Triz-same_Material-Feeder.private]] 

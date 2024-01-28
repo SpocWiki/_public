@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Time-Loss+Prior_action-stationary_Area.md|Triz-Time-Loss+Prior_action-stationary_Area]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Time-Loss+Prior_action-stationary_Area|Triz-Time-Loss+Prior_action-stationary_Area]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Time-Loss+Prior_action-stationary_Area.public|Triz-Time-Loss+Prior_action-stationary_Area.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Time-Loss+Prior_action-stationary_Area.internal|Triz-Time-Loss+Prior_action-stationary_Area.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Time-Loss+Prior_action-stationary_Area.protect|Triz-Time-Loss+Prior_action-stationary_Area.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Time-Loss+Prior_action-stationary_Area.private|Triz-Time-Loss+Prior_action-stationary_Area.private]] 

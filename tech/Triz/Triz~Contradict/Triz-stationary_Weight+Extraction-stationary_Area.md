@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-stationary_Weight+Extraction-stationary_Area.md|Triz-stationary_Weight+Extraction-stationary_Area]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-stationary_Weight+Extraction-stationary_Area|Triz-stationary_Weight+Extraction-stationary_Area]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-stationary_Weight+Extraction-stationary_Area.public|Triz-stationary_Weight+Extraction-stationary_Area.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-stationary_Weight+Extraction-stationary_Area.internal|Triz-stationary_Weight+Extraction-stationary_Area.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-stationary_Weight+Extraction-stationary_Area.protect|Triz-stationary_Weight+Extraction-stationary_Area.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-stationary_Weight+Extraction-stationary_Area.private|Triz-stationary_Weight+Extraction-stationary_Area.private]] 

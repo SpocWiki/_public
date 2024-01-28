@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Complexity+Universality-Time-Loss.md|Triz-Complexity+Universality-Time-Loss]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Complexity+Universality-Time-Loss|Triz-Complexity+Universality-Time-Loss]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Complexity+Universality-Time-Loss.public|Triz-Complexity+Universality-Time-Loss.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Complexity+Universality-Time-Loss.internal|Triz-Complexity+Universality-Time-Loss.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Complexity+Universality-Time-Loss.protect|Triz-Complexity+Universality-Time-Loss.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Complexity+Universality-Time-Loss.private|Triz-Complexity+Universality-Time-Loss.private]] 

@@ -27,7 +27,8 @@ Bring closer together (or merge) identical or similar objects, assemble identica
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Sub/Triz-merge-identical.md|Triz-merge-identical]] 
+- [[../../../../_Standards/tech/Triz/Sub/Triz-merge-identical|Triz-merge-identical]] 
+- [[../../../../_public/tech/Triz/Sub/Triz-merge-identical.public|Triz-merge-identical.public]] 
 - [[../../../../_internal/tech/Triz/Sub/Triz-merge-identical.internal|Triz-merge-identical.internal]] 
 - [[../../../../_protect/tech/Triz/Sub/Triz-merge-identical.protect|Triz-merge-identical.protect]] 
 - [[../../../../_private/tech/Triz/Sub/Triz-merge-identical.private|Triz-merge-identical.private]] 

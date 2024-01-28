@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Illumination+Universality-Information-Loss.md|Triz-Illumination+Universality-Information-Loss]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Illumination+Universality-Information-Loss|Triz-Illumination+Universality-Information-Loss]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Illumination+Universality-Information-Loss.public|Triz-Illumination+Universality-Information-Loss.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Illumination+Universality-Information-Loss.internal|Triz-Illumination+Universality-Information-Loss.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Illumination+Universality-Information-Loss.protect|Triz-Illumination+Universality-Information-Loss.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Illumination+Universality-Information-Loss.private|Triz-Illumination+Universality-Information-Loss.private]] 

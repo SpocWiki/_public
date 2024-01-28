@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-stationary_Duration+Rejecting_and_regenerating_parts-Reliability.md|Triz-stationary_Duration+Rejecting_and_regenerating_parts-Reliability]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-stationary_Duration+Rejecting_and_regenerating_parts-Reliability|Triz-stationary_Duration+Rejecting_and_regenerating_parts-Reliability]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-stationary_Duration+Rejecting_and_regenerating_parts-Reliability.public|Triz-stationary_Duration+Rejecting_and_regenerating_parts-Reliability.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-stationary_Duration+Rejecting_and_regenerating_parts-Reliability.internal|Triz-stationary_Duration+Rejecting_and_regenerating_parts-Reliability.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-stationary_Duration+Rejecting_and_regenerating_parts-Reliability.protect|Triz-stationary_Duration+Rejecting_and_regenerating_parts-Reliability.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-stationary_Duration+Rejecting_and_regenerating_parts-Reliability.private|Triz-stationary_Duration+Rejecting_and_regenerating_parts-Reliability.private]] 

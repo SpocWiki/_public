@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Stability+Rejecting_and_regenerating_parts-Versatility.md|Triz-Stability+Rejecting_and_regenerating_parts-Versatility]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Stability+Rejecting_and_regenerating_parts-Versatility|Triz-Stability+Rejecting_and_regenerating_parts-Versatility]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Stability+Rejecting_and_regenerating_parts-Versatility.public|Triz-Stability+Rejecting_and_regenerating_parts-Versatility.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Stability+Rejecting_and_regenerating_parts-Versatility.internal|Triz-Stability+Rejecting_and_regenerating_parts-Versatility.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Stability+Rejecting_and_regenerating_parts-Versatility.protect|Triz-Stability+Rejecting_and_regenerating_parts-Versatility.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Stability+Rejecting_and_regenerating_parts-Versatility.private|Triz-Stability+Rejecting_and_regenerating_parts-Versatility.private]] 

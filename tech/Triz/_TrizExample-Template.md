@@ -19,7 +19,8 @@ PrincipleSubId: {{PrincipleSubId}}
 {{Description}}
 
 ## Confidential Links & Embeds: 
-- [[../../../_public/tech/Triz/_TrizExample-Template.md|_TrizExample-Template]] 
+- [[../../../_Standards/tech/Triz/_TrizExample-Template|_TrizExample-Template]] 
+- [[../../../_public/tech/Triz/_TrizExample-Template.public|_TrizExample-Template.public]] 
 - [[../../../_internal/tech/Triz/_TrizExample-Template.internal|_TrizExample-Template.internal]] 
 - [[../../../_protect/tech/Triz/_TrizExample-Template.protect|_TrizExample-Template.protect]] 
 - [[../../../_private/tech/Triz/_TrizExample-Template.private|_TrizExample-Template.private]] 

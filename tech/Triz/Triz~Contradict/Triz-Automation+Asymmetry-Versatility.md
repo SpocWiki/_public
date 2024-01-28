@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Automation+Asymmetry-Versatility.md|Triz-Automation+Asymmetry-Versatility]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Automation+Asymmetry-Versatility|Triz-Automation+Asymmetry-Versatility]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Automation+Asymmetry-Versatility.public|Triz-Automation+Asymmetry-Versatility.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Automation+Asymmetry-Versatility.internal|Triz-Automation+Asymmetry-Versatility.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Automation+Asymmetry-Versatility.protect|Triz-Automation+Asymmetry-Versatility.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Automation+Asymmetry-Versatility.private|Triz-Automation+Asymmetry-Versatility.private]] 

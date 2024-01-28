@@ -17,7 +17,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../_public/astro/Zodiac/Zodiac~Reticulum.md|Zodiac~Reticulum]] 
+- [[../../../_Standards/astro/Zodiac/Zodiac~Reticulum|Zodiac~Reticulum]] 
+- [[../../../_public/astro/Zodiac/Zodiac~Reticulum.public|Zodiac~Reticulum.public]] 
 - [[../../../_internal/astro/Zodiac/Zodiac~Reticulum.internal|Zodiac~Reticulum.internal]] 
 - [[../../../_protect/astro/Zodiac/Zodiac~Reticulum.protect|Zodiac~Reticulum.protect]] 
 - [[../../../_private/astro/Zodiac/Zodiac~Reticulum.private|Zodiac~Reticulum.private]] 

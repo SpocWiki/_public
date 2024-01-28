@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Stress+Extraction-Energy-Loss.md|Triz-Stress+Extraction-Energy-Loss]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Stress+Extraction-Energy-Loss|Triz-Stress+Extraction-Energy-Loss]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Stress+Extraction-Energy-Loss.public|Triz-Stress+Extraction-Energy-Loss.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Stress+Extraction-Energy-Loss.internal|Triz-Stress+Extraction-Energy-Loss.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Stress+Extraction-Energy-Loss.protect|Triz-Stress+Extraction-Energy-Loss.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Stress+Extraction-Energy-Loss.private|Triz-Stress+Extraction-Energy-Loss.private]] 

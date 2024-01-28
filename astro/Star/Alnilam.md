@@ -27,7 +27,8 @@ confidential: public
 
 
 ## Confidential Links & Embeds: 
-- [[../../../_public/astro/Star/Alnilam.md|Alnilam]] 
+- [[../../../_Standards/astro/Star/Alnilam|Alnilam]] 
+- [[../../../_public/astro/Star/Alnilam.public|Alnilam.public]] 
 - [[../../../_internal/astro/Star/Alnilam.internal|Alnilam.internal]] 
 - [[../../../_protect/astro/Star/Alnilam.protect|Alnilam.protect]] 
 - [[../../../_private/astro/Star/Alnilam.private|Alnilam.private]] 

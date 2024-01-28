@@ -27,7 +27,8 @@ confidential: public
 
 
 ## Confidential Links & Embeds: 
-- [[../../../_public/astro/Star/Baham.md|Baham]] 
+- [[../../../_Standards/astro/Star/Baham|Baham]] 
+- [[../../../_public/astro/Star/Baham.public|Baham.public]] 
 - [[../../../_internal/astro/Star/Baham.internal|Baham.internal]] 
 - [[../../../_protect/astro/Star/Baham.protect|Baham.protect]] 
 - [[../../../_private/astro/Star/Baham.private|Baham.private]] 

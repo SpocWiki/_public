@@ -27,7 +27,8 @@ confidential: public
 
 
 ## Confidential Links & Embeds: 
-- [[../../../_public/astro/Star/Ruchbah.md|Ruchbah]] 
+- [[../../../_Standards/astro/Star/Ruchbah|Ruchbah]] 
+- [[../../../_public/astro/Star/Ruchbah.public|Ruchbah.public]] 
 - [[../../../_internal/astro/Star/Ruchbah.internal|Ruchbah.internal]] 
 - [[../../../_protect/astro/Star/Ruchbah.protect|Ruchbah.protect]] 
 - [[../../../_private/astro/Star/Ruchbah.private|Ruchbah.private]] 

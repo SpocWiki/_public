@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Difficulty+Use_strong_oxidisers-moving_Energy.md|Triz-Difficulty+Use_strong_oxidisers-moving_Energy]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Difficulty+Use_strong_oxidisers-moving_Energy|Triz-Difficulty+Use_strong_oxidisers-moving_Energy]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Difficulty+Use_strong_oxidisers-moving_Energy.public|Triz-Difficulty+Use_strong_oxidisers-moving_Energy.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Difficulty+Use_strong_oxidisers-moving_Energy.internal|Triz-Difficulty+Use_strong_oxidisers-moving_Energy.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Difficulty+Use_strong_oxidisers-moving_Energy.protect|Triz-Difficulty+Use_strong_oxidisers-moving_Energy.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Difficulty+Use_strong_oxidisers-moving_Energy.private|Triz-Difficulty+Use_strong_oxidisers-moving_Energy.private]] 

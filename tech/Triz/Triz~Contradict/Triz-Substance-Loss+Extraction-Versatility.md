@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Substance-Loss+Extraction-Versatility.md|Triz-Substance-Loss+Extraction-Versatility]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Substance-Loss+Extraction-Versatility|Triz-Substance-Loss+Extraction-Versatility]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Substance-Loss+Extraction-Versatility.public|Triz-Substance-Loss+Extraction-Versatility.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Substance-Loss+Extraction-Versatility.internal|Triz-Substance-Loss+Extraction-Versatility.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Substance-Loss+Extraction-Versatility.protect|Triz-Substance-Loss+Extraction-Versatility.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Substance-Loss+Extraction-Versatility.private|Triz-Substance-Loss+Extraction-Versatility.private]] 

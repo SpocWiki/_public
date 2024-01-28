@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-stationary_Energy+Transformation_of_physical_and_chemical_states_of_an_object-Illumination.md|Triz-stationary_Energy+Transformation_of_physical_and_chemical_states_of_an_object-Illumination]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-stationary_Energy+Transformation_of_physical_and_chemical_states_of_an_object-Illumination|Triz-stationary_Energy+Transformation_of_physical_and_chemical_states_of_an_object-Illumination]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-stationary_Energy+Transformation_of_physical_and_chemical_states_of_an_object-Illumination.public|Triz-stationary_Energy+Transformation_of_physical_and_chemical_states_of_an_object-Illumination.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-stationary_Energy+Transformation_of_physical_and_chemical_states_of_an_object-Illumination.internal|Triz-stationary_Energy+Transformation_of_physical_and_chemical_states_of_an_object-Illumination.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-stationary_Energy+Transformation_of_physical_and_chemical_states_of_an_object-Illumination.protect|Triz-stationary_Energy+Transformation_of_physical_and_chemical_states_of_an_object-Illumination.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-stationary_Energy+Transformation_of_physical_and_chemical_states_of_an_object-Illumination.private|Triz-stationary_Energy+Transformation_of_physical_and_chemical_states_of_an_object-Illumination.private]] 

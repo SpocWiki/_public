@@ -17,7 +17,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../_public/astro/Zodiac/Zodiac~Sextans.md|Zodiac~Sextans]] 
+- [[../../../_Standards/astro/Zodiac/Zodiac~Sextans|Zodiac~Sextans]] 
+- [[../../../_public/astro/Zodiac/Zodiac~Sextans.public|Zodiac~Sextans.public]] 
 - [[../../../_internal/astro/Zodiac/Zodiac~Sextans.internal|Zodiac~Sextans.internal]] 
 - [[../../../_protect/astro/Zodiac/Zodiac~Sextans.protect|Zodiac~Sextans.protect]] 
 - [[../../../_private/astro/Zodiac/Zodiac~Sextans.private|Zodiac~Sextans.private]] 

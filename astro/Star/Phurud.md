@@ -27,7 +27,8 @@ confidential: public
 
 
 ## Confidential Links & Embeds: 
-- [[../../../_public/astro/Star/Phurud.md|Phurud]] 
+- [[../../../_Standards/astro/Star/Phurud|Phurud]] 
+- [[../../../_public/astro/Star/Phurud.public|Phurud.public]] 
 - [[../../../_internal/astro/Star/Phurud.internal|Phurud.internal]] 
 - [[../../../_protect/astro/Star/Phurud.protect|Phurud.protect]] 
 - [[../../../_private/astro/Star/Phurud.private|Phurud.private]] 

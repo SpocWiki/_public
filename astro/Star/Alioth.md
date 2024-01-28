@@ -27,7 +27,8 @@ confidential: public
 
 
 ## Confidential Links & Embeds: 
-- [[../../../_public/astro/Star/Alioth.md|Alioth]] 
+- [[../../../_Standards/astro/Star/Alioth|Alioth]] 
+- [[../../../_public/astro/Star/Alioth.public|Alioth.public]] 
 - [[../../../_internal/astro/Star/Alioth.internal|Alioth.internal]] 
 - [[../../../_protect/astro/Star/Alioth.protect|Alioth.protect]] 
 - [[../../../_private/astro/Star/Alioth.private|Alioth.private]] 

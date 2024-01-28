@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Time-Loss+Changing_the_color-Difficulty.md|Triz-Time-Loss+Changing_the_color-Difficulty]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Time-Loss+Changing_the_color-Difficulty|Triz-Time-Loss+Changing_the_color-Difficulty]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Time-Loss+Changing_the_color-Difficulty.public|Triz-Time-Loss+Changing_the_color-Difficulty.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Time-Loss+Changing_the_color-Difficulty.internal|Triz-Time-Loss+Changing_the_color-Difficulty.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Time-Loss+Changing_the_color-Difficulty.protect|Triz-Time-Loss+Changing_the_color-Difficulty.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Time-Loss+Changing_the_color-Difficulty.private|Triz-Time-Loss+Changing_the_color-Difficulty.private]] 

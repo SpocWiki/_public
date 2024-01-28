@@ -17,7 +17,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../_public/astro/Zodiac/Zodiac~Sculptor.md|Zodiac~Sculptor]] 
+- [[../../../_Standards/astro/Zodiac/Zodiac~Sculptor|Zodiac~Sculptor]] 
+- [[../../../_public/astro/Zodiac/Zodiac~Sculptor.public|Zodiac~Sculptor.public]] 
 - [[../../../_internal/astro/Zodiac/Zodiac~Sculptor.internal|Zodiac~Sculptor.internal]] 
 - [[../../../_protect/astro/Zodiac/Zodiac~Sculptor.protect|Zodiac~Sculptor.protect]] 
 - [[../../../_private/astro/Zodiac/Zodiac~Sculptor.private|Zodiac~Sculptor.private]] 

@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Shape+Dynamicity-Stress.md|Triz-Shape+Dynamicity-Stress]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Shape+Dynamicity-Stress|Triz-Shape+Dynamicity-Stress]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Shape+Dynamicity-Stress.public|Triz-Shape+Dynamicity-Stress.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Shape+Dynamicity-Stress.internal|Triz-Shape+Dynamicity-Stress.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Shape+Dynamicity-Stress.protect|Triz-Shape+Dynamicity-Stress.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Shape+Dynamicity-Stress.private|Triz-Shape+Dynamicity-Stress.private]] 

@@ -27,7 +27,8 @@ confidential: public
 
 
 ## Confidential Links & Embeds: 
-- [[../../../_public/astro/Star/Vindemiatrix.md|Vindemiatrix]] 
+- [[../../../_Standards/astro/Star/Vindemiatrix|Vindemiatrix]] 
+- [[../../../_public/astro/Star/Vindemiatrix.public|Vindemiatrix.public]] 
 - [[../../../_internal/astro/Star/Vindemiatrix.internal|Vindemiatrix.internal]] 
 - [[../../../_protect/astro/Star/Vindemiatrix.protect|Vindemiatrix.protect]] 
 - [[../../../_private/astro/Star/Vindemiatrix.private|Vindemiatrix.private]] 

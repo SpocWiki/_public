@@ -27,7 +27,8 @@ confidential: public
 
 
 ## Confidential Links & Embeds: 
-- [[../../../_public/astro/Star/Sagittarii-12.md|Sagittarii-12]] 
+- [[../../../_Standards/astro/Star/Sagittarii-12|Sagittarii-12]] 
+- [[../../../_public/astro/Star/Sagittarii-12.public|Sagittarii-12.public]] 
 - [[../../../_internal/astro/Star/Sagittarii-12.internal|Sagittarii-12.internal]] 
 - [[../../../_protect/astro/Star/Sagittarii-12.protect|Sagittarii-12.protect]] 
 - [[../../../_private/astro/Star/Sagittarii-12.private|Sagittarii-12.private]] 

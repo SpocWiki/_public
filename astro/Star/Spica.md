@@ -27,7 +27,8 @@ confidential: public
 
 
 ## Confidential Links & Embeds: 
-- [[../../../_public/astro/Star/Spica.md|Spica]] 
+- [[../../../_Standards/astro/Star/Spica|Spica]] 
+- [[../../../_public/astro/Star/Spica.public|Spica.public]] 
 - [[../../../_internal/astro/Star/Spica.internal|Spica.internal]] 
 - [[../../../_protect/astro/Star/Spica.protect|Spica.protect]] 
 - [[../../../_private/astro/Star/Spica.private|Spica.private]] 

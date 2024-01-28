@@ -27,7 +27,8 @@ confidential: public
 
 
 ## Confidential Links & Embeds: 
-- [[../../../_public/astro/Star/Librae-19.md|Librae-19]] 
+- [[../../../_Standards/astro/Star/Librae-19|Librae-19]] 
+- [[../../../_public/astro/Star/Librae-19.public|Librae-19.public]] 
 - [[../../../_internal/astro/Star/Librae-19.internal|Librae-19.internal]] 
 - [[../../../_protect/astro/Star/Librae-19.protect|Librae-19.protect]] 
 - [[../../../_private/astro/Star/Librae-19.private|Librae-19.private]] 

@@ -27,7 +27,8 @@ confidential: public
 
 
 ## Confidential Links & Embeds: 
-- [[../../../_public/astro/Star/Aquarii-5.md|Aquarii-5]] 
+- [[../../../_Standards/astro/Star/Aquarii-5|Aquarii-5]] 
+- [[../../../_public/astro/Star/Aquarii-5.public|Aquarii-5.public]] 
 - [[../../../_internal/astro/Star/Aquarii-5.internal|Aquarii-5.internal]] 
 - [[../../../_protect/astro/Star/Aquarii-5.protect|Aquarii-5.protect]] 
 - [[../../../_private/astro/Star/Aquarii-5.private|Aquarii-5.private]] 

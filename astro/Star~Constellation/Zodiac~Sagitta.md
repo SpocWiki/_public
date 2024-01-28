@@ -17,7 +17,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../_public/astro/Zodiac/Zodiac~Sagitta.md|Zodiac~Sagitta]] 
+- [[../../../_Standards/astro/Zodiac/Zodiac~Sagitta|Zodiac~Sagitta]] 
+- [[../../../_public/astro/Zodiac/Zodiac~Sagitta.public|Zodiac~Sagitta.public]] 
 - [[../../../_internal/astro/Zodiac/Zodiac~Sagitta.internal|Zodiac~Sagitta.internal]] 
 - [[../../../_protect/astro/Zodiac/Zodiac~Sagitta.protect|Zodiac~Sagitta.protect]] 
 - [[../../../_private/astro/Zodiac/Zodiac~Sagitta.private|Zodiac~Sagitta.private]] 

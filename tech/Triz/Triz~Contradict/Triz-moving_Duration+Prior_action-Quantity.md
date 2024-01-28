@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-moving_Duration+Prior_action-Quantity.md|Triz-moving_Duration+Prior_action-Quantity]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-moving_Duration+Prior_action-Quantity|Triz-moving_Duration+Prior_action-Quantity]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-moving_Duration+Prior_action-Quantity.public|Triz-moving_Duration+Prior_action-Quantity.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-moving_Duration+Prior_action-Quantity.internal|Triz-moving_Duration+Prior_action-Quantity.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-moving_Duration+Prior_action-Quantity.protect|Triz-moving_Duration+Prior_action-Quantity.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-moving_Duration+Prior_action-Quantity.private|Triz-moving_Duration+Prior_action-Quantity.private]] 

@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Difficulty+Asymmetry-Speed.md|Triz-Difficulty+Asymmetry-Speed]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Difficulty+Asymmetry-Speed|Triz-Difficulty+Asymmetry-Speed]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Difficulty+Asymmetry-Speed.public|Triz-Difficulty+Asymmetry-Speed.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Difficulty+Asymmetry-Speed.internal|Triz-Difficulty+Asymmetry-Speed.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Difficulty+Asymmetry-Speed.protect|Triz-Difficulty+Asymmetry-Speed.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Difficulty+Asymmetry-Speed.private|Triz-Difficulty+Asymmetry-Speed.private]] 

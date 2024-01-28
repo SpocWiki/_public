@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Complexity+Segmentation-stationary_Volume.md|Triz-Complexity+Segmentation-stationary_Volume]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Complexity+Segmentation-stationary_Volume|Triz-Complexity+Segmentation-stationary_Volume]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Complexity+Segmentation-stationary_Volume.public|Triz-Complexity+Segmentation-stationary_Volume.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Complexity+Segmentation-stationary_Volume.internal|Triz-Complexity+Segmentation-stationary_Volume.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Complexity+Segmentation-stationary_Volume.protect|Triz-Complexity+Segmentation-stationary_Volume.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Complexity+Segmentation-stationary_Volume.private|Triz-Complexity+Segmentation-stationary_Volume.private]] 

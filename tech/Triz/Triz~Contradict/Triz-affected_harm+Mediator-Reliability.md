@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-affected_harm+Mediator-Reliability.md|Triz-affected_harm+Mediator-Reliability]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-affected_harm+Mediator-Reliability|Triz-affected_harm+Mediator-Reliability]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-affected_harm+Mediator-Reliability.public|Triz-affected_harm+Mediator-Reliability.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-affected_harm+Mediator-Reliability.internal|Triz-affected_harm+Mediator-Reliability.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-affected_harm+Mediator-Reliability.protect|Triz-affected_harm+Mediator-Reliability.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-affected_harm+Mediator-Reliability.private|Triz-affected_harm+Mediator-Reliability.private]] 

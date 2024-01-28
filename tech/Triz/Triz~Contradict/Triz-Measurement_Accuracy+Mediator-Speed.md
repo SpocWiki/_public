@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Measurement_Accuracy+Mediator-Speed.md|Triz-Measurement_Accuracy+Mediator-Speed]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Measurement_Accuracy+Mediator-Speed|Triz-Measurement_Accuracy+Mediator-Speed]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Measurement_Accuracy+Mediator-Speed.public|Triz-Measurement_Accuracy+Mediator-Speed.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Measurement_Accuracy+Mediator-Speed.internal|Triz-Measurement_Accuracy+Mediator-Speed.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Measurement_Accuracy+Mediator-Speed.protect|Triz-Measurement_Accuracy+Mediator-Speed.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Measurement_Accuracy+Mediator-Speed.private|Triz-Measurement_Accuracy+Mediator-Speed.private]] 

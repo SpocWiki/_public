@@ -17,7 +17,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../_public/astro/Zodiac/Zodiac~Pegasus.md|Zodiac~Pegasus]] 
+- [[../../../_Standards/astro/Zodiac/Zodiac~Pegasus|Zodiac~Pegasus]] 
+- [[../../../_public/astro/Zodiac/Zodiac~Pegasus.public|Zodiac~Pegasus.public]] 
 - [[../../../_internal/astro/Zodiac/Zodiac~Pegasus.internal|Zodiac~Pegasus.internal]] 
 - [[../../../_protect/astro/Zodiac/Zodiac~Pegasus.protect|Zodiac~Pegasus.protect]] 
 - [[../../../_private/astro/Zodiac/Zodiac~Pegasus.private|Zodiac~Pegasus.private]] 

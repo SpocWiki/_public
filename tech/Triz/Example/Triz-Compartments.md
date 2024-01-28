@@ -17,7 +17,8 @@ tags:
 Lunch Box with special Compartments for hot and cold solid Foods and for Liquids
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Example/Triz-Compartments.md|Triz-Compartments]] 
+- [[../../../../_Standards/tech/Triz/Example/Triz-Compartments|Triz-Compartments]] 
+- [[../../../../_public/tech/Triz/Example/Triz-Compartments.public|Triz-Compartments.public]] 
 - [[../../../../_internal/tech/Triz/Example/Triz-Compartments.internal|Triz-Compartments.internal]] 
 - [[../../../../_protect/tech/Triz/Example/Triz-Compartments.protect|Triz-Compartments.protect]] 
 - [[../../../../_private/tech/Triz/Example/Triz-Compartments.private|Triz-Compartments.private]] 

@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Power+Moving_to_a_new_dimension-stationary_Weight.md|Triz-Power+Moving_to_a_new_dimension-stationary_Weight]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Power+Moving_to_a_new_dimension-stationary_Weight|Triz-Power+Moving_to_a_new_dimension-stationary_Weight]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Power+Moving_to_a_new_dimension-stationary_Weight.public|Triz-Power+Moving_to_a_new_dimension-stationary_Weight.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Power+Moving_to_a_new_dimension-stationary_Weight.internal|Triz-Power+Moving_to_a_new_dimension-stationary_Weight.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Power+Moving_to_a_new_dimension-stationary_Weight.protect|Triz-Power+Moving_to_a_new_dimension-stationary_Weight.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Power+Moving_to_a_new_dimension-stationary_Weight.private|Triz-Power+Moving_to_a_new_dimension-stationary_Weight.private]] 

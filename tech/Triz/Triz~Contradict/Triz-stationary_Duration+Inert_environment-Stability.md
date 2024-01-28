@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-stationary_Duration+Inert_environment-Stability.md|Triz-stationary_Duration+Inert_environment-Stability]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-stationary_Duration+Inert_environment-Stability|Triz-stationary_Duration+Inert_environment-Stability]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-stationary_Duration+Inert_environment-Stability.public|Triz-stationary_Duration+Inert_environment-Stability.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-stationary_Duration+Inert_environment-Stability.internal|Triz-stationary_Duration+Inert_environment-Stability.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-stationary_Duration+Inert_environment-Stability.protect|Triz-stationary_Duration+Inert_environment-Stability.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-stationary_Duration+Inert_environment-Stability.private|Triz-stationary_Duration+Inert_environment-Stability.private]] 

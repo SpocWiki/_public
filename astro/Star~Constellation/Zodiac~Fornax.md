@@ -17,7 +17,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../_public/astro/Zodiac/Zodiac~Fornax.md|Zodiac~Fornax]] 
+- [[../../../_Standards/astro/Zodiac/Zodiac~Fornax|Zodiac~Fornax]] 
+- [[../../../_public/astro/Zodiac/Zodiac~Fornax.public|Zodiac~Fornax.public]] 
 - [[../../../_internal/astro/Zodiac/Zodiac~Fornax.internal|Zodiac~Fornax.internal]] 
 - [[../../../_protect/astro/Zodiac/Zodiac~Fornax.protect|Zodiac~Fornax.protect]] 
 - [[../../../_private/astro/Zodiac/Zodiac~Fornax.private|Zodiac~Fornax.private]] 

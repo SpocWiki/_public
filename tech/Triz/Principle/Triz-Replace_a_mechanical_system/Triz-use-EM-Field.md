@@ -25,7 +25,8 @@ Use electric, magnetic and electromagnetic fields to interact with the object.
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Sub/Triz-use-EM-Field.md|Triz-use-EM-Field]] 
+- [[../../../../_Standards/tech/Triz/Sub/Triz-use-EM-Field|Triz-use-EM-Field]] 
+- [[../../../../_public/tech/Triz/Sub/Triz-use-EM-Field.public|Triz-use-EM-Field.public]] 
 - [[../../../../_internal/tech/Triz/Sub/Triz-use-EM-Field.internal|Triz-use-EM-Field.internal]] 
 - [[../../../../_protect/tech/Triz/Sub/Triz-use-EM-Field.protect|Triz-use-EM-Field.protect]] 
 - [[../../../../_private/tech/Triz/Sub/Triz-use-EM-Field.private|Triz-use-EM-Field.private]] 

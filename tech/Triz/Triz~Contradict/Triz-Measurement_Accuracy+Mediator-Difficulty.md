@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Measurement_Accuracy+Mediator-Difficulty.md|Triz-Measurement_Accuracy+Mediator-Difficulty]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Measurement_Accuracy+Mediator-Difficulty|Triz-Measurement_Accuracy+Mediator-Difficulty]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Measurement_Accuracy+Mediator-Difficulty.public|Triz-Measurement_Accuracy+Mediator-Difficulty.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Measurement_Accuracy+Mediator-Difficulty.internal|Triz-Measurement_Accuracy+Mediator-Difficulty.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Measurement_Accuracy+Mediator-Difficulty.protect|Triz-Measurement_Accuracy+Mediator-Difficulty.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Measurement_Accuracy+Mediator-Difficulty.private|Triz-Measurement_Accuracy+Mediator-Difficulty.private]] 

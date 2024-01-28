@@ -26,7 +26,8 @@ Make operations contiguous or parallel; bring them together in time.
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Sub/Triz-merge-in-time.md|Triz-merge-in-time]] 
+- [[../../../../_Standards/tech/Triz/Sub/Triz-merge-in-time|Triz-merge-in-time]] 
+- [[../../../../_public/tech/Triz/Sub/Triz-merge-in-time.public|Triz-merge-in-time.public]] 
 - [[../../../../_internal/tech/Triz/Sub/Triz-merge-in-time.internal|Triz-merge-in-time.internal]] 
 - [[../../../../_protect/tech/Triz/Sub/Triz-merge-in-time.protect|Triz-merge-in-time.protect]] 
 - [[../../../../_private/tech/Triz/Sub/Triz-merge-in-time.private|Triz-merge-in-time.private]] 

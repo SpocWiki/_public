@@ -17,7 +17,8 @@ tags:
 The basic Leaf Spring Thermostat: BiMetal(2 Metals with different Coefficients of Expansion are linked so that it bends one Way when warmer than nominal and the opposite Way when cooler.
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Example/Triz-BiMetal_Spring.md|Triz-BiMetal_Spring]] 
+- [[../../../../_Standards/tech/Triz/Example/Triz-BiMetal_Spring|Triz-BiMetal_Spring]] 
+- [[../../../../_public/tech/Triz/Example/Triz-BiMetal_Spring.public|Triz-BiMetal_Spring.public]] 
 - [[../../../../_internal/tech/Triz/Example/Triz-BiMetal_Spring.internal|Triz-BiMetal_Spring.internal]] 
 - [[../../../../_protect/tech/Triz/Example/Triz-BiMetal_Spring.protect|Triz-BiMetal_Spring.protect]] 
 - [[../../../../_private/tech/Triz/Example/Triz-BiMetal_Spring.private|Triz-BiMetal_Spring.private]] 

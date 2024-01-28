@@ -17,7 +17,8 @@ tags:
 Use a thin organic or anorganic Coating to protect Surfaces and thus the whole Structure.
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Example/Triz-Coating.md|Triz-Coating]] 
+- [[../../../../_Standards/tech/Triz/Example/Triz-Coating|Triz-Coating]] 
+- [[../../../../_public/tech/Triz/Example/Triz-Coating.public|Triz-Coating.public]] 
 - [[../../../../_internal/tech/Triz/Example/Triz-Coating.internal|Triz-Coating.internal]] 
 - [[../../../../_protect/tech/Triz/Example/Triz-Coating.protect|Triz-Coating.protect]] 
 - [[../../../../_private/tech/Triz/Example/Triz-Coating.private|Triz-Coating.private]] 

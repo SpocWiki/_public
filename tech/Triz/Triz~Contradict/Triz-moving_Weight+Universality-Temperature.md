@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-moving_Weight+Universality-Temperature.md|Triz-moving_Weight+Universality-Temperature]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-moving_Weight+Universality-Temperature|Triz-moving_Weight+Universality-Temperature]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-moving_Weight+Universality-Temperature.public|Triz-moving_Weight+Universality-Temperature.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-moving_Weight+Universality-Temperature.internal|Triz-moving_Weight+Universality-Temperature.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-moving_Weight+Universality-Temperature.protect|Triz-moving_Weight+Universality-Temperature.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-moving_Weight+Universality-Temperature.private|Triz-moving_Weight+Universality-Temperature.private]] 

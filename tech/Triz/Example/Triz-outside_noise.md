@@ -17,7 +17,8 @@ tags:
 Locate a noisy Compressor outside the Building where compressed Air is needed.
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Example/Triz-outside_noise.md|Triz-outside_noise]] 
+- [[../../../../_Standards/tech/Triz/Example/Triz-outside_noise|Triz-outside_noise]] 
+- [[../../../../_public/tech/Triz/Example/Triz-outside_noise.public|Triz-outside_noise.public]] 
 - [[../../../../_internal/tech/Triz/Example/Triz-outside_noise.internal|Triz-outside_noise.internal]] 
 - [[../../../../_protect/tech/Triz/Example/Triz-outside_noise.protect|Triz-outside_noise.protect]] 
 - [[../../../../_private/tech/Triz/Example/Triz-outside_noise.private|Triz-outside_noise.private]] 

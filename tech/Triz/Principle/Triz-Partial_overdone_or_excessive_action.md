@@ -14,7 +14,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Principle/Triz-Partial,_overdone,_or_excessive_action.md|Triz-Partial,_overdone,_or_excessive_action]] 
+- [[../../../../_Standards/tech/Triz/Principle/Triz-Partial,_overdone,_or_excessive_action|Triz-Partial,_overdone,_or_excessive_action]] 
+- [[../../../../_public/tech/Triz/Principle/Triz-Partial,_overdone,_or_excessive_action.public|Triz-Partial,_overdone,_or_excessive_action.public]] 
 - [[../../../../_internal/tech/Triz/Principle/Triz-Partial,_overdone,_or_excessive_action.internal|Triz-Partial,_overdone,_or_excessive_action.internal]] 
 - [[../../../../_protect/tech/Triz/Principle/Triz-Partial,_overdone,_or_excessive_action.protect|Triz-Partial,_overdone,_or_excessive_action.protect]] 
 - [[../../../../_private/tech/Triz/Principle/Triz-Partial,_overdone,_or_excessive_action.private|Triz-Partial,_overdone,_or_excessive_action.private]] 

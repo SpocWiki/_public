@@ -17,7 +17,8 @@ tags:
 Reinforced Shaft made from several Pipes which have been previously twisted.
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Example/Triz-twisted_Pipes.md|Triz-twisted_Pipes]] 
+- [[../../../../_Standards/tech/Triz/Example/Triz-twisted_Pipes|Triz-twisted_Pipes]] 
+- [[../../../../_public/tech/Triz/Example/Triz-twisted_Pipes.public|Triz-twisted_Pipes.public]] 
 - [[../../../../_internal/tech/Triz/Example/Triz-twisted_Pipes.internal|Triz-twisted_Pipes.internal]] 
 - [[../../../../_protect/tech/Triz/Example/Triz-twisted_Pipes.protect|Triz-twisted_Pipes.protect]] 
 - [[../../../../_private/tech/Triz/Example/Triz-twisted_Pipes.private|Triz-twisted_Pipes.private]] 

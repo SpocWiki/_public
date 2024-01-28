@@ -17,7 +17,8 @@ tags:
 Use Arches and Domes for Strength in Architecture.
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Example/Triz-Arches_and_Domes.md|Triz-Arches_and_Domes]] 
+- [[../../../../_Standards/tech/Triz/Example/Triz-Arches_and_Domes|Triz-Arches_and_Domes]] 
+- [[../../../../_public/tech/Triz/Example/Triz-Arches_and_Domes.public|Triz-Arches_and_Domes.public]] 
 - [[../../../../_internal/tech/Triz/Example/Triz-Arches_and_Domes.internal|Triz-Arches_and_Domes.internal]] 
 - [[../../../../_protect/tech/Triz/Example/Triz-Arches_and_Domes.protect|Triz-Arches_and_Domes.protect]] 
 - [[../../../../_private/tech/Triz/Example/Triz-Arches_and_Domes.private|Triz-Arches_and_Domes.private]] 

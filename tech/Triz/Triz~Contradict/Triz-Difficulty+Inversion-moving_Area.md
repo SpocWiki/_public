@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Difficulty+Inversion-moving_Area.md|Triz-Difficulty+Inversion-moving_Area]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Difficulty+Inversion-moving_Area|Triz-Difficulty+Inversion-moving_Area]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Difficulty+Inversion-moving_Area.public|Triz-Difficulty+Inversion-moving_Area.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Difficulty+Inversion-moving_Area.internal|Triz-Difficulty+Inversion-moving_Area.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Difficulty+Inversion-moving_Area.protect|Triz-Difficulty+Inversion-moving_Area.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Difficulty+Inversion-moving_Area.private|Triz-Difficulty+Inversion-moving_Area.private]] 

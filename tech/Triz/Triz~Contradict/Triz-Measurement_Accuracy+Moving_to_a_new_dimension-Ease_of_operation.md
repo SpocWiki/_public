@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Measurement_Accuracy+Moving_to_a_new_dimension-Ease_of_operation.md|Triz-Measurement_Accuracy+Moving_to_a_new_dimension-Ease_of_operation]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Measurement_Accuracy+Moving_to_a_new_dimension-Ease_of_operation|Triz-Measurement_Accuracy+Moving_to_a_new_dimension-Ease_of_operation]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Measurement_Accuracy+Moving_to_a_new_dimension-Ease_of_operation.public|Triz-Measurement_Accuracy+Moving_to_a_new_dimension-Ease_of_operation.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Measurement_Accuracy+Moving_to_a_new_dimension-Ease_of_operation.internal|Triz-Measurement_Accuracy+Moving_to_a_new_dimension-Ease_of_operation.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Measurement_Accuracy+Moving_to_a_new_dimension-Ease_of_operation.protect|Triz-Measurement_Accuracy+Moving_to_a_new_dimension-Ease_of_operation.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Measurement_Accuracy+Moving_to_a_new_dimension-Ease_of_operation.private|Triz-Measurement_Accuracy+Moving_to_a_new_dimension-Ease_of_operation.private]] 

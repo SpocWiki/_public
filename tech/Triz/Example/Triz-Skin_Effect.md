@@ -17,7 +17,8 @@ tags:
 Use high frequency Current Skin Effect to treat Metal Surfaces.
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Example/Triz-Skin_Effect.md|Triz-Skin_Effect]] 
+- [[../../../../_Standards/tech/Triz/Example/Triz-Skin_Effect|Triz-Skin_Effect]] 
+- [[../../../../_public/tech/Triz/Example/Triz-Skin_Effect.public|Triz-Skin_Effect.public]] 
 - [[../../../../_internal/tech/Triz/Example/Triz-Skin_Effect.internal|Triz-Skin_Effect.internal]] 
 - [[../../../../_protect/tech/Triz/Example/Triz-Skin_Effect.protect|Triz-Skin_Effect.protect]] 
 - [[../../../../_private/tech/Triz/Example/Triz-Skin_Effect.private|Triz-Skin_Effect.private]] 

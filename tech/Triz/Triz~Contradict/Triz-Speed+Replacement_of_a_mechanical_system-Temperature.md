@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Speed+Replacement_of_a_mechanical_system-Temperature.md|Triz-Speed+Replacement_of_a_mechanical_system-Temperature]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Speed+Replacement_of_a_mechanical_system-Temperature|Triz-Speed+Replacement_of_a_mechanical_system-Temperature]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Speed+Replacement_of_a_mechanical_system-Temperature.public|Triz-Speed+Replacement_of_a_mechanical_system-Temperature.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Speed+Replacement_of_a_mechanical_system-Temperature.internal|Triz-Speed+Replacement_of_a_mechanical_system-Temperature.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Speed+Replacement_of_a_mechanical_system-Temperature.protect|Triz-Speed+Replacement_of_a_mechanical_system-Temperature.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Speed+Replacement_of_a_mechanical_system-Temperature.private|Triz-Speed+Replacement_of_a_mechanical_system-Temperature.private]] 

@@ -17,7 +17,8 @@ tags:
 Convertible Bed-Sofa or Car
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Example/Triz-Convertible.md|Triz-Convertible]] 
+- [[../../../../_Standards/tech/Triz/Example/Triz-Convertible|Triz-Convertible]] 
+- [[../../../../_public/tech/Triz/Example/Triz-Convertible.public|Triz-Convertible.public]] 
 - [[../../../../_internal/tech/Triz/Example/Triz-Convertible.internal|Triz-Convertible.internal]] 
 - [[../../../../_protect/tech/Triz/Example/Triz-Convertible.protect|Triz-Convertible.protect]] 
 - [[../../../../_private/tech/Triz/Example/Triz-Convertible.private|Triz-Convertible.private]] 

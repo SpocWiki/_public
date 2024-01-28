@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Intensity+Use_a_pneumatic_or_hydralic_construction-Manufacturing_Precision.md|Triz-Intensity+Use_a_pneumatic_or_hydralic_construction-Manufacturing_Precision]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Intensity+Use_a_pneumatic_or_hydralic_construction-Manufacturing_Precision|Triz-Intensity+Use_a_pneumatic_or_hydralic_construction-Manufacturing_Precision]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Intensity+Use_a_pneumatic_or_hydralic_construction-Manufacturing_Precision.public|Triz-Intensity+Use_a_pneumatic_or_hydralic_construction-Manufacturing_Precision.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Intensity+Use_a_pneumatic_or_hydralic_construction-Manufacturing_Precision.internal|Triz-Intensity+Use_a_pneumatic_or_hydralic_construction-Manufacturing_Precision.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Intensity+Use_a_pneumatic_or_hydralic_construction-Manufacturing_Precision.protect|Triz-Intensity+Use_a_pneumatic_or_hydralic_construction-Manufacturing_Precision.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Intensity+Use_a_pneumatic_or_hydralic_construction-Manufacturing_Precision.private|Triz-Intensity+Use_a_pneumatic_or_hydralic_construction-Manufacturing_Precision.private]] 

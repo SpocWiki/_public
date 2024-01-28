@@ -27,7 +27,8 @@ confidential: public
 
 
 ## Confidential Links & Embeds: 
-- [[../../../_public/astro/Star/Mintaka.md|Mintaka]] 
+- [[../../../_Standards/astro/Star/Mintaka|Mintaka]] 
+- [[../../../_public/astro/Star/Mintaka.public|Mintaka.public]] 
 - [[../../../_internal/astro/Star/Mintaka.internal|Mintaka.internal]] 
 - [[../../../_protect/astro/Star/Mintaka.protect|Mintaka.protect]] 
 - [[../../../_private/astro/Star/Mintaka.private|Mintaka.private]] 

@@ -27,7 +27,8 @@ confidential: public
 
 
 ## Confidential Links & Embeds: 
-- [[../../../_public/astro/Star/Reticuli-4.md|Reticuli-4]] 
+- [[../../../_Standards/astro/Star/Reticuli-4|Reticuli-4]] 
+- [[../../../_public/astro/Star/Reticuli-4.public|Reticuli-4.public]] 
 - [[../../../_internal/astro/Star/Reticuli-4.internal|Reticuli-4.internal]] 
 - [[../../../_protect/astro/Star/Reticuli-4.protect|Reticuli-4.protect]] 
 - [[../../../_private/astro/Star/Reticuli-4.private|Reticuli-4.private]] 

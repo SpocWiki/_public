@@ -17,7 +17,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../_public/astro/Zodiac/Zodiac~Minor.md|Zodiac~Minor]] 
+- [[../../../_Standards/astro/Zodiac/Zodiac~Minor|Zodiac~Minor]] 
+- [[../../../_public/astro/Zodiac/Zodiac~Minor.public|Zodiac~Minor.public]] 
 - [[../../../_internal/astro/Zodiac/Zodiac~Minor.internal|Zodiac~Minor.internal]] 
 - [[../../../_protect/astro/Zodiac/Zodiac~Minor.protect|Zodiac~Minor.protect]] 
 - [[../../../_private/astro/Zodiac/Zodiac~Minor.private|Zodiac~Minor.private]] 

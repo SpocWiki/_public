@@ -14,7 +14,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Principle/Triz-Changing_the_color.md|Triz-Changing_the_color]] 
+- [[../../../../_Standards/tech/Triz/Principle/Triz-Changing_the_color|Triz-Changing_the_color]] 
+- [[../../../../_public/tech/Triz/Principle/Triz-Changing_the_color.public|Triz-Changing_the_color.public]] 
 - [[../../../../_internal/tech/Triz/Principle/Triz-Changing_the_color.internal|Triz-Changing_the_color.internal]] 
 - [[../../../../_protect/tech/Triz/Principle/Triz-Changing_the_color.protect|Triz-Changing_the_color.protect]] 
 - [[../../../../_private/tech/Triz/Principle/Triz-Changing_the_color.private|Triz-Changing_the_color.private]] 

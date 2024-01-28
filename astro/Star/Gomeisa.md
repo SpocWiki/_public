@@ -27,7 +27,8 @@ confidential: public
 
 
 ## Confidential Links & Embeds: 
-- [[../../../_public/astro/Star/Gomeisa.md|Gomeisa]] 
+- [[../../../_Standards/astro/Star/Gomeisa|Gomeisa]] 
+- [[../../../_public/astro/Star/Gomeisa.public|Gomeisa.public]] 
 - [[../../../_internal/astro/Star/Gomeisa.internal|Gomeisa.internal]] 
 - [[../../../_protect/astro/Star/Gomeisa.protect|Gomeisa.protect]] 
 - [[../../../_private/astro/Star/Gomeisa.private|Gomeisa.private]] 

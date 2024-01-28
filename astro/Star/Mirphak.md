@@ -27,7 +27,8 @@ confidential: public
 
 
 ## Confidential Links & Embeds: 
-- [[../../../_public/astro/Star/Mirphak.md|Mirphak]] 
+- [[../../../_Standards/astro/Star/Mirphak|Mirphak]] 
+- [[../../../_public/astro/Star/Mirphak.public|Mirphak.public]] 
 - [[../../../_internal/astro/Star/Mirphak.internal|Mirphak.internal]] 
 - [[../../../_protect/astro/Star/Mirphak.protect|Mirphak.protect]] 
 - [[../../../_private/astro/Star/Mirphak.private|Mirphak.private]] 

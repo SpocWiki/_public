@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Complexity+Rejecting_and_regenerating_parts-Power.md|Triz-Complexity+Rejecting_and_regenerating_parts-Power]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Complexity+Rejecting_and_regenerating_parts-Power|Triz-Complexity+Rejecting_and_regenerating_parts-Power]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Complexity+Rejecting_and_regenerating_parts-Power.public|Triz-Complexity+Rejecting_and_regenerating_parts-Power.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Complexity+Rejecting_and_regenerating_parts-Power.internal|Triz-Complexity+Rejecting_and_regenerating_parts-Power.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Complexity+Rejecting_and_regenerating_parts-Power.protect|Triz-Complexity+Rejecting_and_regenerating_parts-Power.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Complexity+Rejecting_and_regenerating_parts-Power.private|Triz-Complexity+Rejecting_and_regenerating_parts-Power.private]] 

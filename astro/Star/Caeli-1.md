@@ -27,7 +27,8 @@ confidential: public
 
 
 ## Confidential Links & Embeds: 
-- [[../../../_public/astro/Star/Caeli-1.md|Caeli-1]] 
+- [[../../../_Standards/astro/Star/Caeli-1|Caeli-1]] 
+- [[../../../_public/astro/Star/Caeli-1.public|Caeli-1.public]] 
 - [[../../../_internal/astro/Star/Caeli-1.internal|Caeli-1.internal]] 
 - [[../../../_protect/astro/Star/Caeli-1.protect|Caeli-1.protect]] 
 - [[../../../_private/astro/Star/Caeli-1.private|Caeli-1.private]] 

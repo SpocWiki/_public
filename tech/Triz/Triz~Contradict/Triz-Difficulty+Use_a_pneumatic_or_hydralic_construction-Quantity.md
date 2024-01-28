@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Difficulty+Use_a_pneumatic_or_hydralic_construction-Quantity.md|Triz-Difficulty+Use_a_pneumatic_or_hydralic_construction-Quantity]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Difficulty+Use_a_pneumatic_or_hydralic_construction-Quantity|Triz-Difficulty+Use_a_pneumatic_or_hydralic_construction-Quantity]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Difficulty+Use_a_pneumatic_or_hydralic_construction-Quantity.public|Triz-Difficulty+Use_a_pneumatic_or_hydralic_construction-Quantity.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Difficulty+Use_a_pneumatic_or_hydralic_construction-Quantity.internal|Triz-Difficulty+Use_a_pneumatic_or_hydralic_construction-Quantity.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Difficulty+Use_a_pneumatic_or_hydralic_construction-Quantity.protect|Triz-Difficulty+Use_a_pneumatic_or_hydralic_construction-Quantity.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Difficulty+Use_a_pneumatic_or_hydralic_construction-Quantity.private|Triz-Difficulty+Use_a_pneumatic_or_hydralic_construction-Quantity.private]] 

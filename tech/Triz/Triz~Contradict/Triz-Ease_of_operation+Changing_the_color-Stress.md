@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Ease_of_operation+Changing_the_color-Stress.md|Triz-Ease_of_operation+Changing_the_color-Stress]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Ease_of_operation+Changing_the_color-Stress|Triz-Ease_of_operation+Changing_the_color-Stress]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Ease_of_operation+Changing_the_color-Stress.public|Triz-Ease_of_operation+Changing_the_color-Stress.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Ease_of_operation+Changing_the_color-Stress.internal|Triz-Ease_of_operation+Changing_the_color-Stress.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Ease_of_operation+Changing_the_color-Stress.protect|Triz-Ease_of_operation+Changing_the_color-Stress.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Ease_of_operation+Changing_the_color-Stress.private|Triz-Ease_of_operation+Changing_the_color-Stress.private]] 

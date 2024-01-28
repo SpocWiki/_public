@@ -24,7 +24,8 @@ Change an object's structure from uniform to non-uniform, change an external env
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Sub/Triz-non-uniform.md|Triz-non-uniform]] 
+- [[../../../../_Standards/tech/Triz/Sub/Triz-non-uniform|Triz-non-uniform]] 
+- [[../../../../_public/tech/Triz/Sub/Triz-non-uniform.public|Triz-non-uniform.public]] 
 - [[../../../../_internal/tech/Triz/Sub/Triz-non-uniform.internal|Triz-non-uniform.internal]] 
 - [[../../../../_protect/tech/Triz/Sub/Triz-non-uniform.protect|Triz-non-uniform.protect]] 
 - [[../../../../_private/tech/Triz/Sub/Triz-non-uniform.private|Triz-non-uniform.private]] 

@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Automation+Combining_(Integration)-Substance-Loss.md|Triz-Automation+Combining_(Integration)-Substance-Loss]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Automation+Combining_(Integration)-Substance-Loss|Triz-Automation+Combining_(Integration)-Substance-Loss]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Automation+Combining_(Integration)-Substance-Loss.public|Triz-Automation+Combining_(Integration)-Substance-Loss.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Automation+Combining_(Integration)-Substance-Loss.internal|Triz-Automation+Combining_(Integration)-Substance-Loss.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Automation+Combining_(Integration)-Substance-Loss.protect|Triz-Automation+Combining_(Integration)-Substance-Loss.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Automation+Combining_(Integration)-Substance-Loss.private|Triz-Automation+Combining_(Integration)-Substance-Loss.private]] 

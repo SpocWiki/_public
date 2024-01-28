@@ -27,7 +27,8 @@ confidential: public
 
 
 ## Confidential Links & Embeds: 
-- [[../../../_public/astro/Star/Cygni-152.md|Cygni-152]] 
+- [[../../../_Standards/astro/Star/Cygni-152|Cygni-152]] 
+- [[../../../_public/astro/Star/Cygni-152.public|Cygni-152.public]] 
 - [[../../../_internal/astro/Star/Cygni-152.internal|Cygni-152.internal]] 
 - [[../../../_protect/astro/Star/Cygni-152.protect|Cygni-152.protect]] 
 - [[../../../_private/astro/Star/Cygni-152.private|Cygni-152.private]] 

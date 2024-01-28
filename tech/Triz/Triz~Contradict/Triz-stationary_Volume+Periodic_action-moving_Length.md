@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-stationary_Volume+Periodic_action-moving_Length.md|Triz-stationary_Volume+Periodic_action-moving_Length]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-stationary_Volume+Periodic_action-moving_Length|Triz-stationary_Volume+Periodic_action-moving_Length]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-stationary_Volume+Periodic_action-moving_Length.public|Triz-stationary_Volume+Periodic_action-moving_Length.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-stationary_Volume+Periodic_action-moving_Length.internal|Triz-stationary_Volume+Periodic_action-moving_Length.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-stationary_Volume+Periodic_action-moving_Length.protect|Triz-stationary_Volume+Periodic_action-moving_Length.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-stationary_Volume+Periodic_action-moving_Length.private|Triz-stationary_Volume+Periodic_action-moving_Length.private]] 

@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-affected_harm+Convert_harm_into_benefit-Substance-Loss.md|Triz-affected_harm+Convert_harm_into_benefit-Substance-Loss]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-affected_harm+Convert_harm_into_benefit-Substance-Loss|Triz-affected_harm+Convert_harm_into_benefit-Substance-Loss]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-affected_harm+Convert_harm_into_benefit-Substance-Loss.public|Triz-affected_harm+Convert_harm_into_benefit-Substance-Loss.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-affected_harm+Convert_harm_into_benefit-Substance-Loss.internal|Triz-affected_harm+Convert_harm_into_benefit-Substance-Loss.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-affected_harm+Convert_harm_into_benefit-Substance-Loss.protect|Triz-affected_harm+Convert_harm_into_benefit-Substance-Loss.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-affected_harm+Convert_harm_into_benefit-Substance-Loss.private|Triz-affected_harm+Convert_harm_into_benefit-Substance-Loss.private]] 

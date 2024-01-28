@@ -17,7 +17,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../_public/astro/Zodiac/Zodiac~Volans.md|Zodiac~Volans]] 
+- [[../../../_Standards/astro/Zodiac/Zodiac~Volans|Zodiac~Volans]] 
+- [[../../../_public/astro/Zodiac/Zodiac~Volans.public|Zodiac~Volans.public]] 
 - [[../../../_internal/astro/Zodiac/Zodiac~Volans.internal|Zodiac~Volans.internal]] 
 - [[../../../_protect/astro/Zodiac/Zodiac~Volans.protect|Zodiac~Volans.protect]] 
 - [[../../../_private/astro/Zodiac/Zodiac~Volans.private|Zodiac~Volans.private]] 

@@ -27,7 +27,8 @@ confidential: public
 
 
 ## Confidential Links & Embeds: 
-- [[../../../_public/astro/Star/Eta.md|Eta]] 
+- [[../../../_Standards/astro/Star/Eta|Eta]] 
+- [[../../../_public/astro/Star/Eta.public|Eta.public]] 
 - [[../../../_internal/astro/Star/Eta.internal|Eta.internal]] 
 - [[../../../_protect/astro/Star/Eta.protect|Eta.protect]] 
 - [[../../../_private/astro/Star/Eta.private|Eta.private]] 

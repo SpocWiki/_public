@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Energy-Loss+Universality-stationary_Length.md|Triz-Energy-Loss+Universality-stationary_Length]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Energy-Loss+Universality-stationary_Length|Triz-Energy-Loss+Universality-stationary_Length]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Energy-Loss+Universality-stationary_Length.public|Triz-Energy-Loss+Universality-stationary_Length.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Energy-Loss+Universality-stationary_Length.internal|Triz-Energy-Loss+Universality-stationary_Length.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Energy-Loss+Universality-stationary_Length.protect|Triz-Energy-Loss+Universality-stationary_Length.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Energy-Loss+Universality-stationary_Length.private|Triz-Energy-Loss+Universality-stationary_Length.private]] 

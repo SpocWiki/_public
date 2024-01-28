@@ -27,7 +27,8 @@ confidential: public
 
 
 ## Confidential Links & Embeds: 
-- [[../../../_public/astro/Star/Castor.md|Castor]] 
+- [[../../../_Standards/astro/Star/Castor|Castor]] 
+- [[../../../_public/astro/Star/Castor.public|Castor.public]] 
 - [[../../../_internal/astro/Star/Castor.internal|Castor.internal]] 
 - [[../../../_protect/astro/Star/Castor.protect|Castor.protect]] 
 - [[../../../_private/astro/Star/Castor.private|Castor.private]] 

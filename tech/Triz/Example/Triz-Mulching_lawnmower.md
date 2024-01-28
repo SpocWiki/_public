@@ -17,7 +17,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Example/Triz-Mulching_lawnmower.md|Triz-Mulching_lawnmower]] 
+- [[../../../../_Standards/tech/Triz/Example/Triz-Mulching_lawnmower|Triz-Mulching_lawnmower]] 
+- [[../../../../_public/tech/Triz/Example/Triz-Mulching_lawnmower.public|Triz-Mulching_lawnmower.public]] 
 - [[../../../../_internal/tech/Triz/Example/Triz-Mulching_lawnmower.internal|Triz-Mulching_lawnmower.internal]] 
 - [[../../../../_protect/tech/Triz/Example/Triz-Mulching_lawnmower.protect|Triz-Mulching_lawnmower.protect]] 
 - [[../../../../_private/tech/Triz/Example/Triz-Mulching_lawnmower.private|Triz-Mulching_lawnmower.private]] 

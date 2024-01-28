@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Information-Loss+Combining_(Integration)-stationary_Weight.md|Triz-Information-Loss+Combining_(Integration)-stationary_Weight]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Information-Loss+Combining_(Integration)-stationary_Weight|Triz-Information-Loss+Combining_(Integration)-stationary_Weight]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Information-Loss+Combining_(Integration)-stationary_Weight.public|Triz-Information-Loss+Combining_(Integration)-stationary_Weight.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Information-Loss+Combining_(Integration)-stationary_Weight.internal|Triz-Information-Loss+Combining_(Integration)-stationary_Weight.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Information-Loss+Combining_(Integration)-stationary_Weight.protect|Triz-Information-Loss+Combining_(Integration)-stationary_Weight.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Information-Loss+Combining_(Integration)-stationary_Weight.private|Triz-Information-Loss+Combining_(Integration)-stationary_Weight.private]] 

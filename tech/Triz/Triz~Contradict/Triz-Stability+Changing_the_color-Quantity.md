@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Stability+Changing_the_color-Quantity.md|Triz-Stability+Changing_the_color-Quantity]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Stability+Changing_the_color-Quantity|Triz-Stability+Changing_the_color-Quantity]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Stability+Changing_the_color-Quantity.public|Triz-Stability+Changing_the_color-Quantity.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Stability+Changing_the_color-Quantity.internal|Triz-Stability+Changing_the_color-Quantity.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Stability+Changing_the_color-Quantity.protect|Triz-Stability+Changing_the_color-Quantity.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Stability+Changing_the_color-Quantity.private|Triz-Stability+Changing_the_color-Quantity.private]] 

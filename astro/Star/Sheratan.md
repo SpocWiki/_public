@@ -27,7 +27,8 @@ confidential: public
 
 
 ## Confidential Links & Embeds: 
-- [[../../../_public/astro/Star/Sheratan.md|Sheratan]] 
+- [[../../../_Standards/astro/Star/Sheratan|Sheratan]] 
+- [[../../../_public/astro/Star/Sheratan.public|Sheratan.public]] 
 - [[../../../_internal/astro/Star/Sheratan.internal|Sheratan.internal]] 
 - [[../../../_protect/astro/Star/Sheratan.protect|Sheratan.protect]] 
 - [[../../../_private/astro/Star/Sheratan.private|Sheratan.private]] 

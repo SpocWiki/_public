@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Ease_of_operation+Use_a_pneumatic_or_hydralic_construction-Shape.md|Triz-Ease_of_operation+Use_a_pneumatic_or_hydralic_construction-Shape]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Ease_of_operation+Use_a_pneumatic_or_hydralic_construction-Shape|Triz-Ease_of_operation+Use_a_pneumatic_or_hydralic_construction-Shape]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Ease_of_operation+Use_a_pneumatic_or_hydralic_construction-Shape.public|Triz-Ease_of_operation+Use_a_pneumatic_or_hydralic_construction-Shape.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Ease_of_operation+Use_a_pneumatic_or_hydralic_construction-Shape.internal|Triz-Ease_of_operation+Use_a_pneumatic_or_hydralic_construction-Shape.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Ease_of_operation+Use_a_pneumatic_or_hydralic_construction-Shape.protect|Triz-Ease_of_operation+Use_a_pneumatic_or_hydralic_construction-Shape.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Ease_of_operation+Use_a_pneumatic_or_hydralic_construction-Shape.private|Triz-Ease_of_operation+Use_a_pneumatic_or_hydralic_construction-Shape.private]] 

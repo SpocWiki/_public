@@ -27,7 +27,8 @@ confidential: public
 
 
 ## Confidential Links & Embeds: 
-- [[../../../_public/astro/Star/Capricorni-8.md|Capricorni-8]] 
+- [[../../../_Standards/astro/Star/Capricorni-8|Capricorni-8]] 
+- [[../../../_public/astro/Star/Capricorni-8.public|Capricorni-8.public]] 
 - [[../../../_internal/astro/Star/Capricorni-8.internal|Capricorni-8.internal]] 
 - [[../../../_protect/astro/Star/Capricorni-8.protect|Capricorni-8.protect]] 
 - [[../../../_private/astro/Star/Capricorni-8.private|Capricorni-8.private]] 

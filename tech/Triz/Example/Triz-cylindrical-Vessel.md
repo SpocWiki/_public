@@ -17,7 +17,8 @@ tags:
 Transport Vessel with a cylindrical-shaped Body. To reduce the Draft or a Vessel under full Load, the Body is comprised of two hinged, half-cylindrical Parts which can be opened.
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Example/Triz-cylindrical-Vessel.md|Triz-cylindrical-Vessel]] 
+- [[../../../../_Standards/tech/Triz/Example/Triz-cylindrical-Vessel|Triz-cylindrical-Vessel]] 
+- [[../../../../_public/tech/Triz/Example/Triz-cylindrical-Vessel.public|Triz-cylindrical-Vessel.public]] 
 - [[../../../../_internal/tech/Triz/Example/Triz-cylindrical-Vessel.internal|Triz-cylindrical-Vessel.internal]] 
 - [[../../../../_protect/tech/Triz/Example/Triz-cylindrical-Vessel.protect|Triz-cylindrical-Vessel.protect]] 
 - [[../../../../_private/tech/Triz/Example/Triz-cylindrical-Vessel.private|Triz-cylindrical-Vessel.private]] 

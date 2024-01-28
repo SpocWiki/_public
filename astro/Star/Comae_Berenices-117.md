@@ -27,7 +27,8 @@ confidential: public
 
 
 ## Confidential Links & Embeds: 
-- [[../../../_public/astro/Star/Comae_Berenices-117.md|Comae_Berenices-117]] 
+- [[../../../_Standards/astro/Star/Comae_Berenices-117|Comae_Berenices-117]] 
+- [[../../../_public/astro/Star/Comae_Berenices-117.public|Comae_Berenices-117.public]] 
 - [[../../../_internal/astro/Star/Comae_Berenices-117.internal|Comae_Berenices-117.internal]] 
 - [[../../../_protect/astro/Star/Comae_Berenices-117.protect|Comae_Berenices-117.protect]] 
 - [[../../../_private/astro/Star/Comae_Berenices-117.private|Comae_Berenices-117.private]] 

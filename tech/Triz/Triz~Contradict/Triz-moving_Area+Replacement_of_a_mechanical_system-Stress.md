@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-moving_Area+Replacement_of_a_mechanical_system-Stress.md|Triz-moving_Area+Replacement_of_a_mechanical_system-Stress]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-moving_Area+Replacement_of_a_mechanical_system-Stress|Triz-moving_Area+Replacement_of_a_mechanical_system-Stress]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-moving_Area+Replacement_of_a_mechanical_system-Stress.public|Triz-moving_Area+Replacement_of_a_mechanical_system-Stress.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-moving_Area+Replacement_of_a_mechanical_system-Stress.internal|Triz-moving_Area+Replacement_of_a_mechanical_system-Stress.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-moving_Area+Replacement_of_a_mechanical_system-Stress.protect|Triz-moving_Area+Replacement_of_a_mechanical_system-Stress.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-moving_Area+Replacement_of_a_mechanical_system-Stress.private|Triz-moving_Area+Replacement_of_a_mechanical_system-Stress.private]] 

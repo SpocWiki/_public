@@ -23,7 +23,8 @@ Replace a normal environment with an inert one.
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Sub/Triz-inert-environment.md|Triz-inert-environment]] 
+- [[../../../../_Standards/tech/Triz/Sub/Triz-inert-environment|Triz-inert-environment]] 
+- [[../../../../_public/tech/Triz/Sub/Triz-inert-environment.public|Triz-inert-environment.public]] 
 - [[../../../../_internal/tech/Triz/Sub/Triz-inert-environment.internal|Triz-inert-environment.internal]] 
 - [[../../../../_protect/tech/Triz/Sub/Triz-inert-environment.protect|Triz-inert-environment.protect]] 
 - [[../../../../_private/tech/Triz/Sub/Triz-inert-environment.private|Triz-inert-environment.private]] 

@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Automation+Replacement_of_a_mechanical_system-moving_Length.md|Triz-Automation+Replacement_of_a_mechanical_system-moving_Length]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Automation+Replacement_of_a_mechanical_system-moving_Length|Triz-Automation+Replacement_of_a_mechanical_system-moving_Length]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Automation+Replacement_of_a_mechanical_system-moving_Length.public|Triz-Automation+Replacement_of_a_mechanical_system-moving_Length.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Automation+Replacement_of_a_mechanical_system-moving_Length.internal|Triz-Automation+Replacement_of_a_mechanical_system-moving_Length.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Automation+Replacement_of_a_mechanical_system-moving_Length.protect|Triz-Automation+Replacement_of_a_mechanical_system-moving_Length.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Automation+Replacement_of_a_mechanical_system-moving_Length.private|Triz-Automation+Replacement_of_a_mechanical_system-moving_Length.private]] 

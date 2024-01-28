@@ -27,7 +27,8 @@ confidential: public
 
 
 ## Confidential Links & Embeds: 
-- [[../../../_public/astro/Star/Crateris-2.md|Crateris-2]] 
+- [[../../../_Standards/astro/Star/Crateris-2|Crateris-2]] 
+- [[../../../_public/astro/Star/Crateris-2.public|Crateris-2.public]] 
 - [[../../../_internal/astro/Star/Crateris-2.internal|Crateris-2.internal]] 
 - [[../../../_protect/astro/Star/Crateris-2.protect|Crateris-2.protect]] 
 - [[../../../_private/astro/Star/Crateris-2.private|Crateris-2.private]] 

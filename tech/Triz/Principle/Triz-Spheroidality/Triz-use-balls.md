@@ -25,7 +25,8 @@ Use rollers, balls, spirals, domes.
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Sub/Triz-use-balls.md|Triz-use-balls]] 
+- [[../../../../_Standards/tech/Triz/Sub/Triz-use-balls|Triz-use-balls]] 
+- [[../../../../_public/tech/Triz/Sub/Triz-use-balls.public|Triz-use-balls.public]] 
 - [[../../../../_internal/tech/Triz/Sub/Triz-use-balls.internal|Triz-use-balls.internal]] 
 - [[../../../../_protect/tech/Triz/Sub/Triz-use-balls.protect|Triz-use-balls.protect]] 
 - [[../../../../_private/tech/Triz/Sub/Triz-use-balls.private|Triz-use-balls.private]] 

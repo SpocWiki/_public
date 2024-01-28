@@ -27,7 +27,8 @@ confidential: public
 
 
 ## Confidential Links & Embeds: 
-- [[../../../_public/astro/Star/Carinae-33.md|Carinae-33]] 
+- [[../../../_Standards/astro/Star/Carinae-33|Carinae-33]] 
+- [[../../../_public/astro/Star/Carinae-33.public|Carinae-33.public]] 
 - [[../../../_internal/astro/Star/Carinae-33.internal|Carinae-33.internal]] 
 - [[../../../_protect/astro/Star/Carinae-33.protect|Carinae-33.protect]] 
 - [[../../../_private/astro/Star/Carinae-33.private|Carinae-33.private]] 

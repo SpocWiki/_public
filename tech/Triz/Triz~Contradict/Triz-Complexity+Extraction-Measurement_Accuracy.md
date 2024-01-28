@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Complexity+Extraction-Measurement_Accuracy.md|Triz-Complexity+Extraction-Measurement_Accuracy]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Complexity+Extraction-Measurement_Accuracy|Triz-Complexity+Extraction-Measurement_Accuracy]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Complexity+Extraction-Measurement_Accuracy.public|Triz-Complexity+Extraction-Measurement_Accuracy.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Complexity+Extraction-Measurement_Accuracy.internal|Triz-Complexity+Extraction-Measurement_Accuracy.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Complexity+Extraction-Measurement_Accuracy.protect|Triz-Complexity+Extraction-Measurement_Accuracy.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Complexity+Extraction-Measurement_Accuracy.private|Triz-Complexity+Extraction-Measurement_Accuracy.private]] 

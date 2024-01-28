@@ -27,7 +27,8 @@ confidential: public
 
 
 ## Confidential Links & Embeds: 
-- [[../../../_public/astro/Star/Lyrae-5.md|Lyrae-5]] 
+- [[../../../_Standards/astro/Star/Lyrae-5|Lyrae-5]] 
+- [[../../../_public/astro/Star/Lyrae-5.public|Lyrae-5.public]] 
 - [[../../../_internal/astro/Star/Lyrae-5.internal|Lyrae-5.internal]] 
 - [[../../../_protect/astro/Star/Lyrae-5.protect|Lyrae-5.protect]] 
 - [[../../../_private/astro/Star/Lyrae-5.private|Lyrae-5.private]] 

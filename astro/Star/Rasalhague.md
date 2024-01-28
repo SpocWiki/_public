@@ -27,7 +27,8 @@ confidential: public
 
 
 ## Confidential Links & Embeds: 
-- [[../../../_public/astro/Star/Rasalhague.md|Rasalhague]] 
+- [[../../../_Standards/astro/Star/Rasalhague|Rasalhague]] 
+- [[../../../_public/astro/Star/Rasalhague.public|Rasalhague.public]] 
 - [[../../../_internal/astro/Star/Rasalhague.internal|Rasalhague.internal]] 
 - [[../../../_protect/astro/Star/Rasalhague.protect|Rasalhague.protect]] 
 - [[../../../_private/astro/Star/Rasalhague.private|Rasalhague.private]] 

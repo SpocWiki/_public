@@ -20,7 +20,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../_public/astro/Class/Star-Class~A.md|Star-Class~A]] 
+- [[../../../_Standards/astro/Class/Star-Class~A|Star-Class~A]] 
+- [[../../../_public/astro/Class/Star-Class~A.public|Star-Class~A.public]] 
 - [[../../../_internal/astro/Class/Star-Class~A.internal|Star-Class~A.internal]] 
 - [[../../../_protect/astro/Class/Star-Class~A.protect|Star-Class~A.protect]] 
 - [[../../../_private/astro/Class/Star-Class~A.private|Star-Class~A.private]] 

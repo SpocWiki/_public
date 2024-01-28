@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Difficulty+Convert_harm_into_benefit-Information-Loss.md|Triz-Difficulty+Convert_harm_into_benefit-Information-Loss]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Difficulty+Convert_harm_into_benefit-Information-Loss|Triz-Difficulty+Convert_harm_into_benefit-Information-Loss]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Difficulty+Convert_harm_into_benefit-Information-Loss.public|Triz-Difficulty+Convert_harm_into_benefit-Information-Loss.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Difficulty+Convert_harm_into_benefit-Information-Loss.internal|Triz-Difficulty+Convert_harm_into_benefit-Information-Loss.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Difficulty+Convert_harm_into_benefit-Information-Loss.protect|Triz-Difficulty+Convert_harm_into_benefit-Information-Loss.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Difficulty+Convert_harm_into_benefit-Information-Loss.private|Triz-Difficulty+Convert_harm_into_benefit-Information-Loss.private]] 

@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Strength+Local_quality-Manufacturing_Precision.md|Triz-Strength+Local_quality-Manufacturing_Precision]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Strength+Local_quality-Manufacturing_Precision|Triz-Strength+Local_quality-Manufacturing_Precision]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Strength+Local_quality-Manufacturing_Precision.public|Triz-Strength+Local_quality-Manufacturing_Precision.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Strength+Local_quality-Manufacturing_Precision.internal|Triz-Strength+Local_quality-Manufacturing_Precision.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Strength+Local_quality-Manufacturing_Precision.protect|Triz-Strength+Local_quality-Manufacturing_Precision.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Strength+Local_quality-Manufacturing_Precision.private|Triz-Strength+Local_quality-Manufacturing_Precision.private]] 

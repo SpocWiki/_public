@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-stationary_Energy+Phase_transition-Reliability.md|Triz-stationary_Energy+Phase_transition-Reliability]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-stationary_Energy+Phase_transition-Reliability|Triz-stationary_Energy+Phase_transition-Reliability]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-stationary_Energy+Phase_transition-Reliability.public|Triz-stationary_Energy+Phase_transition-Reliability.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-stationary_Energy+Phase_transition-Reliability.internal|Triz-stationary_Energy+Phase_transition-Reliability.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-stationary_Energy+Phase_transition-Reliability.protect|Triz-stationary_Energy+Phase_transition-Reliability.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-stationary_Energy+Phase_transition-Reliability.private|Triz-stationary_Energy+Phase_transition-Reliability.private]] 

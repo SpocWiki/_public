@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Manufacturing_Precision+Transformation_of_physical_and_chemical_states_of_an_object-stationary_Weight.md|Triz-Manufacturing_Precision+Transformation_of_physical_and_chemical_states_of_an_object-stationary_Weight]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Manufacturing_Precision+Transformation_of_physical_and_chemical_states_of_an_object-stationary_Weight|Triz-Manufacturing_Precision+Transformation_of_physical_and_chemical_states_of_an_object-stationary_Weight]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Manufacturing_Precision+Transformation_of_physical_and_chemical_states_of_an_object-stationary_Weight.public|Triz-Manufacturing_Precision+Transformation_of_physical_and_chemical_states_of_an_object-stationary_Weight.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Manufacturing_Precision+Transformation_of_physical_and_chemical_states_of_an_object-stationary_Weight.internal|Triz-Manufacturing_Precision+Transformation_of_physical_and_chemical_states_of_an_object-stationary_Weight.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Manufacturing_Precision+Transformation_of_physical_and_chemical_states_of_an_object-stationary_Weight.protect|Triz-Manufacturing_Precision+Transformation_of_physical_and_chemical_states_of_an_object-stationary_Weight.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Manufacturing_Precision+Transformation_of_physical_and_chemical_states_of_an_object-stationary_Weight.private|Triz-Manufacturing_Precision+Transformation_of_physical_and_chemical_states_of_an_object-stationary_Weight.private]] 

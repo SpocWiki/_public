@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Stress+Partial,_overdone,_or_excessive_action-stationary_Length.md|Triz-Stress+Partial,_overdone,_or_excessive_action-stationary_Length]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Stress+Partial,_overdone,_or_excessive_action-stationary_Length|Triz-Stress+Partial,_overdone,_or_excessive_action-stationary_Length]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Stress+Partial,_overdone,_or_excessive_action-stationary_Length.public|Triz-Stress+Partial,_overdone,_or_excessive_action-stationary_Length.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Stress+Partial,_overdone,_or_excessive_action-stationary_Length.internal|Triz-Stress+Partial,_overdone,_or_excessive_action-stationary_Length.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Stress+Partial,_overdone,_or_excessive_action-stationary_Length.protect|Triz-Stress+Partial,_overdone,_or_excessive_action-stationary_Length.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Stress+Partial,_overdone,_or_excessive_action-stationary_Length.private|Triz-Stress+Partial,_overdone,_or_excessive_action-stationary_Length.private]] 

@@ -27,7 +27,8 @@ confidential: public
 
 
 ## Confidential Links & Embeds: 
-- [[../../../_public/astro/Star/Normae-5.md|Normae-5]] 
+- [[../../../_Standards/astro/Star/Normae-5|Normae-5]] 
+- [[../../../_public/astro/Star/Normae-5.public|Normae-5.public]] 
 - [[../../../_internal/astro/Star/Normae-5.internal|Normae-5.internal]] 
 - [[../../../_protect/astro/Star/Normae-5.protect|Normae-5.protect]] 
 - [[../../../_private/astro/Star/Normae-5.private|Normae-5.private]] 

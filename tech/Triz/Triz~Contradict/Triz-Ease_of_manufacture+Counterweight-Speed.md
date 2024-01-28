@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Ease_of_manufacture+Counterweight-Speed.md|Triz-Ease_of_manufacture+Counterweight-Speed]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Ease_of_manufacture+Counterweight-Speed|Triz-Ease_of_manufacture+Counterweight-Speed]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Ease_of_manufacture+Counterweight-Speed.public|Triz-Ease_of_manufacture+Counterweight-Speed.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Ease_of_manufacture+Counterweight-Speed.internal|Triz-Ease_of_manufacture+Counterweight-Speed.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Ease_of_manufacture+Counterweight-Speed.protect|Triz-Ease_of_manufacture+Counterweight-Speed.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Ease_of_manufacture+Counterweight-Speed.private|Triz-Ease_of_manufacture+Counterweight-Speed.private]] 

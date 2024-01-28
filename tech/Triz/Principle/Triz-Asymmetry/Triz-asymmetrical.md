@@ -27,7 +27,8 @@ A. Change the shape of an object from symmetrical to asymmetrical.
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Sub/Triz-asymmetrical.md|Triz-asymmetrical]] 
+- [[../../../../_Standards/tech/Triz/Sub/Triz-asymmetrical|Triz-asymmetrical]] 
+- [[../../../../_public/tech/Triz/Sub/Triz-asymmetrical.public|Triz-asymmetrical.public]] 
 - [[../../../../_internal/tech/Triz/Sub/Triz-asymmetrical.internal|Triz-asymmetrical.internal]] 
 - [[../../../../_protect/tech/Triz/Sub/Triz-asymmetrical.protect|Triz-asymmetrical.protect]] 
 - [[../../../../_private/tech/Triz/Sub/Triz-asymmetrical.private|Triz-asymmetrical.private]] 

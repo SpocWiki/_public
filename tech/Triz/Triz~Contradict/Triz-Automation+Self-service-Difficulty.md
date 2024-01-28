@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Automation+Self-service-Difficulty.md|Triz-Automation+Self-service-Difficulty]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Automation+Self-service-Difficulty|Triz-Automation+Self-service-Difficulty]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Automation+Self-service-Difficulty.public|Triz-Automation+Self-service-Difficulty.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Automation+Self-service-Difficulty.internal|Triz-Automation+Self-service-Difficulty.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Automation+Self-service-Difficulty.protect|Triz-Automation+Self-service-Difficulty.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Automation+Self-service-Difficulty.private|Triz-Automation+Self-service-Difficulty.private]] 

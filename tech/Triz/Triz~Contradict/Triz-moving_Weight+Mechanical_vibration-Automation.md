@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-moving_Weight+Mechanical_vibration-Automation.md|Triz-moving_Weight+Mechanical_vibration-Automation]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-moving_Weight+Mechanical_vibration-Automation|Triz-moving_Weight+Mechanical_vibration-Automation]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-moving_Weight+Mechanical_vibration-Automation.public|Triz-moving_Weight+Mechanical_vibration-Automation.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-moving_Weight+Mechanical_vibration-Automation.internal|Triz-moving_Weight+Mechanical_vibration-Automation.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-moving_Weight+Mechanical_vibration-Automation.protect|Triz-moving_Weight+Mechanical_vibration-Automation.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-moving_Weight+Mechanical_vibration-Automation.private|Triz-moving_Weight+Mechanical_vibration-Automation.private]] 

@@ -27,7 +27,8 @@ confidential: public
 
 
 ## Confidential Links & Embeds: 
-- [[../../../_public/astro/Star/Pollux.md|Pollux]] 
+- [[../../../_Standards/astro/Star/Pollux|Pollux]] 
+- [[../../../_public/astro/Star/Pollux.public|Pollux.public]] 
 - [[../../../_internal/astro/Star/Pollux.internal|Pollux.internal]] 
 - [[../../../_protect/astro/Star/Pollux.protect|Pollux.protect]] 
 - [[../../../_private/astro/Star/Pollux.private|Pollux.private]] 

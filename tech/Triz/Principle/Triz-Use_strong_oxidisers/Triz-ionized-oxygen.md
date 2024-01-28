@@ -24,7 +24,8 @@ Use ionized oxygen.
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Sub/Triz-ionized-oxygen.md|Triz-ionized-oxygen]] 
+- [[../../../../_Standards/tech/Triz/Sub/Triz-ionized-oxygen|Triz-ionized-oxygen]] 
+- [[../../../../_public/tech/Triz/Sub/Triz-ionized-oxygen.public|Triz-ionized-oxygen.public]] 
 - [[../../../../_internal/tech/Triz/Sub/Triz-ionized-oxygen.internal|Triz-ionized-oxygen.internal]] 
 - [[../../../../_protect/tech/Triz/Sub/Triz-ionized-oxygen.protect|Triz-ionized-oxygen.protect]] 
 - [[../../../../_private/tech/Triz/Sub/Triz-ionized-oxygen.private|Triz-ionized-oxygen.private]] 

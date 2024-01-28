@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Temperature+Partial,_overdone,_or_excessive_action-Complexity.md|Triz-Temperature+Partial,_overdone,_or_excessive_action-Complexity]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Temperature+Partial,_overdone,_or_excessive_action-Complexity|Triz-Temperature+Partial,_overdone,_or_excessive_action-Complexity]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Temperature+Partial,_overdone,_or_excessive_action-Complexity.public|Triz-Temperature+Partial,_overdone,_or_excessive_action-Complexity.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Temperature+Partial,_overdone,_or_excessive_action-Complexity.internal|Triz-Temperature+Partial,_overdone,_or_excessive_action-Complexity.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Temperature+Partial,_overdone,_or_excessive_action-Complexity.protect|Triz-Temperature+Partial,_overdone,_or_excessive_action-Complexity.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Temperature+Partial,_overdone,_or_excessive_action-Complexity.private|Triz-Temperature+Partial,_overdone,_or_excessive_action-Complexity.private]] 

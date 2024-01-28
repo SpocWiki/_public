@@ -17,7 +17,8 @@ tags:
 Liquid Hand Soap is concentrated and more viscous than Bar Soap at the point of use, making it easier to dispense in the correct Amount and more sanitary when shared by several People.
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Example/Triz-Liquid_Hand_Soap.md|Triz-Liquid_Hand_Soap]] 
+- [[../../../../_Standards/tech/Triz/Example/Triz-Liquid_Hand_Soap|Triz-Liquid_Hand_Soap]] 
+- [[../../../../_public/tech/Triz/Example/Triz-Liquid_Hand_Soap.public|Triz-Liquid_Hand_Soap.public]] 
 - [[../../../../_internal/tech/Triz/Example/Triz-Liquid_Hand_Soap.internal|Triz-Liquid_Hand_Soap.internal]] 
 - [[../../../../_protect/tech/Triz/Example/Triz-Liquid_Hand_Soap.protect|Triz-Liquid_Hand_Soap.protect]] 
 - [[../../../../_private/tech/Triz/Example/Triz-Liquid_Hand_Soap.private|Triz-Liquid_Hand_Soap.private]] 

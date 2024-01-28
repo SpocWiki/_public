@@ -27,7 +27,8 @@ confidential: public
 
 
 ## Confidential Links & Embeds: 
-- [[../../../_public/astro/Star/Gemma.md|Gemma]] 
+- [[../../../_Standards/astro/Star/Gemma|Gemma]] 
+- [[../../../_public/astro/Star/Gemma.public|Gemma.public]] 
 - [[../../../_internal/astro/Star/Gemma.internal|Gemma.internal]] 
 - [[../../../_protect/astro/Star/Gemma.protect|Gemma.protect]] 
 - [[../../../_private/astro/Star/Gemma.private|Gemma.private]] 

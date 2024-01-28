@@ -27,7 +27,8 @@ confidential: public
 
 
 ## Confidential Links & Embeds: 
-- [[../../../_public/astro/Star/Circini-1.md|Circini-1]] 
+- [[../../../_Standards/astro/Star/Circini-1|Circini-1]] 
+- [[../../../_public/astro/Star/Circini-1.public|Circini-1.public]] 
 - [[../../../_internal/astro/Star/Circini-1.internal|Circini-1.internal]] 
 - [[../../../_protect/astro/Star/Circini-1.protect|Circini-1.protect]] 
 - [[../../../_private/astro/Star/Circini-1.private|Circini-1.private]] 

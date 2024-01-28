@@ -27,7 +27,8 @@ confidential: public
 
 
 ## Confidential Links & Embeds: 
-- [[../../../_public/astro/Star/Carinae-41.md|Carinae-41]] 
+- [[../../../_Standards/astro/Star/Carinae-41|Carinae-41]] 
+- [[../../../_public/astro/Star/Carinae-41.public|Carinae-41.public]] 
 - [[../../../_internal/astro/Star/Carinae-41.internal|Carinae-41.internal]] 
 - [[../../../_protect/astro/Star/Carinae-41.protect|Carinae-41.protect]] 
 - [[../../../_private/astro/Star/Carinae-41.private|Carinae-41.private]] 

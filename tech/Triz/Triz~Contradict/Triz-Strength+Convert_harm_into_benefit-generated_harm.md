@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Strength+Convert_harm_into_benefit-generated_harm.md|Triz-Strength+Convert_harm_into_benefit-generated_harm]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Strength+Convert_harm_into_benefit-generated_harm|Triz-Strength+Convert_harm_into_benefit-generated_harm]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Strength+Convert_harm_into_benefit-generated_harm.public|Triz-Strength+Convert_harm_into_benefit-generated_harm.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Strength+Convert_harm_into_benefit-generated_harm.internal|Triz-Strength+Convert_harm_into_benefit-generated_harm.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Strength+Convert_harm_into_benefit-generated_harm.protect|Triz-Strength+Convert_harm_into_benefit-generated_harm.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Strength+Convert_harm_into_benefit-generated_harm.private|Triz-Strength+Convert_harm_into_benefit-generated_harm.private]] 

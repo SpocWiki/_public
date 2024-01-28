@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-moving_Duration+Copying-Shape.md|Triz-moving_Duration+Copying-Shape]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-moving_Duration+Copying-Shape|Triz-moving_Duration+Copying-Shape]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-moving_Duration+Copying-Shape.public|Triz-moving_Duration+Copying-Shape.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-moving_Duration+Copying-Shape.internal|Triz-moving_Duration+Copying-Shape.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-moving_Duration+Copying-Shape.protect|Triz-moving_Duration+Copying-Shape.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-moving_Duration+Copying-Shape.private|Triz-moving_Duration+Copying-Shape.private]] 

@@ -27,7 +27,8 @@ confidential: public
 
 
 ## Confidential Links & Embeds: 
-- [[../../../_public/astro/Star/Ursae_Minoris-105.md|Ursae_Minoris-105]] 
+- [[../../../_Standards/astro/Star/Ursae_Minoris-105|Ursae_Minoris-105]] 
+- [[../../../_public/astro/Star/Ursae_Minoris-105.public|Ursae_Minoris-105.public]] 
 - [[../../../_internal/astro/Star/Ursae_Minoris-105.internal|Ursae_Minoris-105.internal]] 
 - [[../../../_protect/astro/Star/Ursae_Minoris-105.protect|Ursae_Minoris-105.protect]] 
 - [[../../../_private/astro/Star/Ursae_Minoris-105.private|Ursae_Minoris-105.private]] 

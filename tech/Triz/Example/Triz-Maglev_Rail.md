@@ -17,7 +17,8 @@ tags:
 The Transrapid / Maglev Rail uses magnetic Forces to drive and control the Wagons without Friction.
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Example/Triz-Maglev_Rail.md|Triz-Maglev_Rail]] 
+- [[../../../../_Standards/tech/Triz/Example/Triz-Maglev_Rail|Triz-Maglev_Rail]] 
+- [[../../../../_public/tech/Triz/Example/Triz-Maglev_Rail.public|Triz-Maglev_Rail.public]] 
 - [[../../../../_internal/tech/Triz/Example/Triz-Maglev_Rail.internal|Triz-Maglev_Rail.internal]] 
 - [[../../../../_protect/tech/Triz/Example/Triz-Maglev_Rail.protect|Triz-Maglev_Rail.protect]] 
 - [[../../../../_private/tech/Triz/Example/Triz-Maglev_Rail.private|Triz-Maglev_Rail.private]] 

@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Ease_of_repair+Replacement_of_a_mechanical_system-Quantity.md|Triz-Ease_of_repair+Replacement_of_a_mechanical_system-Quantity]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Ease_of_repair+Replacement_of_a_mechanical_system-Quantity|Triz-Ease_of_repair+Replacement_of_a_mechanical_system-Quantity]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Ease_of_repair+Replacement_of_a_mechanical_system-Quantity.public|Triz-Ease_of_repair+Replacement_of_a_mechanical_system-Quantity.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Ease_of_repair+Replacement_of_a_mechanical_system-Quantity.internal|Triz-Ease_of_repair+Replacement_of_a_mechanical_system-Quantity.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Ease_of_repair+Replacement_of_a_mechanical_system-Quantity.protect|Triz-Ease_of_repair+Replacement_of_a_mechanical_system-Quantity.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Ease_of_repair+Replacement_of_a_mechanical_system-Quantity.private|Triz-Ease_of_repair+Replacement_of_a_mechanical_system-Quantity.private]] 

@@ -27,7 +27,8 @@ confidential: public
 
 
 ## Confidential Links & Embeds: 
-- [[../../../_public/astro/Star/Sadalsuud.md|Sadalsuud]] 
+- [[../../../_Standards/astro/Star/Sadalsuud|Sadalsuud]] 
+- [[../../../_public/astro/Star/Sadalsuud.public|Sadalsuud.public]] 
 - [[../../../_internal/astro/Star/Sadalsuud.internal|Sadalsuud.internal]] 
 - [[../../../_protect/astro/Star/Sadalsuud.protect|Sadalsuud.protect]] 
 - [[../../../_private/astro/Star/Sadalsuud.private|Sadalsuud.private]] 

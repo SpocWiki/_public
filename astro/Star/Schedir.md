@@ -27,7 +27,8 @@ confidential: public
 
 
 ## Confidential Links & Embeds: 
-- [[../../../_public/astro/Star/Schedir.md|Schedir]] 
+- [[../../../_Standards/astro/Star/Schedir|Schedir]] 
+- [[../../../_public/astro/Star/Schedir.public|Schedir.public]] 
 - [[../../../_internal/astro/Star/Schedir.internal|Schedir.internal]] 
 - [[../../../_protect/astro/Star/Schedir.protect|Schedir.protect]] 
 - [[../../../_private/astro/Star/Schedir.private|Schedir.private]] 

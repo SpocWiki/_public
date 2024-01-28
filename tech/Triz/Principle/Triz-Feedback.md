@@ -14,7 +14,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Principle/Triz-Feedback.md|Triz-Feedback]] 
+- [[../../../../_Standards/tech/Triz/Principle/Triz-Feedback|Triz-Feedback]] 
+- [[../../../../_public/tech/Triz/Principle/Triz-Feedback.public|Triz-Feedback.public]] 
 - [[../../../../_internal/tech/Triz/Principle/Triz-Feedback.internal|Triz-Feedback.internal]] 
 - [[../../../../_protect/tech/Triz/Principle/Triz-Feedback.protect|Triz-Feedback.protect]] 
 - [[../../../../_private/tech/Triz/Principle/Triz-Feedback.private|Triz-Feedback.private]] 

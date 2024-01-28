@@ -17,7 +17,8 @@ tags:
 Use the Sound of a barking Dog, without the Dog, as a Burglar Alarm.
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Example/Triz-Sound_only.md|Triz-Sound_only]] 
+- [[../../../../_Standards/tech/Triz/Example/Triz-Sound_only|Triz-Sound_only]] 
+- [[../../../../_public/tech/Triz/Example/Triz-Sound_only.public|Triz-Sound_only.public]] 
 - [[../../../../_internal/tech/Triz/Example/Triz-Sound_only.internal|Triz-Sound_only.internal]] 
 - [[../../../../_protect/tech/Triz/Example/Triz-Sound_only.protect|Triz-Sound_only.protect]] 
 - [[../../../../_private/tech/Triz/Example/Triz-Sound_only.private|Triz-Sound_only.private]] 

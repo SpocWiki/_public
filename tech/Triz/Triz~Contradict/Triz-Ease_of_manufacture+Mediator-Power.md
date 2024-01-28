@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Ease_of_manufacture+Mediator-Power.md|Triz-Ease_of_manufacture+Mediator-Power]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Ease_of_manufacture+Mediator-Power|Triz-Ease_of_manufacture+Mediator-Power]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Ease_of_manufacture+Mediator-Power.public|Triz-Ease_of_manufacture+Mediator-Power.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Ease_of_manufacture+Mediator-Power.internal|Triz-Ease_of_manufacture+Mediator-Power.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Ease_of_manufacture+Mediator-Power.protect|Triz-Ease_of_manufacture+Mediator-Power.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Ease_of_manufacture+Mediator-Power.private|Triz-Ease_of_manufacture+Mediator-Power.private]] 

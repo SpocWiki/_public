@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-moving_Area+Flexible_film_or_thin_membranes-Automation.md|Triz-moving_Area+Flexible_film_or_thin_membranes-Automation]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-moving_Area+Flexible_film_or_thin_membranes-Automation|Triz-moving_Area+Flexible_film_or_thin_membranes-Automation]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-moving_Area+Flexible_film_or_thin_membranes-Automation.public|Triz-moving_Area+Flexible_film_or_thin_membranes-Automation.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-moving_Area+Flexible_film_or_thin_membranes-Automation.internal|Triz-moving_Area+Flexible_film_or_thin_membranes-Automation.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-moving_Area+Flexible_film_or_thin_membranes-Automation.protect|Triz-moving_Area+Flexible_film_or_thin_membranes-Automation.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-moving_Area+Flexible_film_or_thin_membranes-Automation.private|Triz-moving_Area+Flexible_film_or_thin_membranes-Automation.private]] 

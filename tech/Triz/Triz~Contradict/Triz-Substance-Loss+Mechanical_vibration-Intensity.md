@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Substance-Loss+Mechanical_vibration-Intensity.md|Triz-Substance-Loss+Mechanical_vibration-Intensity]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Substance-Loss+Mechanical_vibration-Intensity|Triz-Substance-Loss+Mechanical_vibration-Intensity]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Substance-Loss+Mechanical_vibration-Intensity.public|Triz-Substance-Loss+Mechanical_vibration-Intensity.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Substance-Loss+Mechanical_vibration-Intensity.internal|Triz-Substance-Loss+Mechanical_vibration-Intensity.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Substance-Loss+Mechanical_vibration-Intensity.protect|Triz-Substance-Loss+Mechanical_vibration-Intensity.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Substance-Loss+Mechanical_vibration-Intensity.private|Triz-Substance-Loss+Mechanical_vibration-Intensity.private]] 

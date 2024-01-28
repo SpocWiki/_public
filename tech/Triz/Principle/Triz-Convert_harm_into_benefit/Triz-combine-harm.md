@@ -25,7 +25,8 @@ Eliminate the primary harmful action by adding it to another harmful action to r
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Sub/Triz-combine-harm.md|Triz-combine-harm]] 
+- [[../../../../_Standards/tech/Triz/Sub/Triz-combine-harm|Triz-combine-harm]] 
+- [[../../../../_public/tech/Triz/Sub/Triz-combine-harm.public|Triz-combine-harm.public]] 
 - [[../../../../_internal/tech/Triz/Sub/Triz-combine-harm.internal|Triz-combine-harm.internal]] 
 - [[../../../../_protect/tech/Triz/Sub/Triz-combine-harm.protect|Triz-combine-harm.protect]] 
 - [[../../../../_private/tech/Triz/Sub/Triz-combine-harm.private|Triz-combine-harm.private]] 

@@ -27,7 +27,8 @@ confidential: public
 
 
 ## Confidential Links & Embeds: 
-- [[../../../_public/astro/Star/Aurigae-114.md|Aurigae-114]] 
+- [[../../../_Standards/astro/Star/Aurigae-114|Aurigae-114]] 
+- [[../../../_public/astro/Star/Aurigae-114.public|Aurigae-114.public]] 
 - [[../../../_internal/astro/Star/Aurigae-114.internal|Aurigae-114.internal]] 
 - [[../../../_protect/astro/Star/Aurigae-114.protect|Aurigae-114.protect]] 
 - [[../../../_private/astro/Star/Aurigae-114.private|Aurigae-114.private]] 

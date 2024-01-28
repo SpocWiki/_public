@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Substance-Loss+Extraction-Ease_of_operation.md|Triz-Substance-Loss+Extraction-Ease_of_operation]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Substance-Loss+Extraction-Ease_of_operation|Triz-Substance-Loss+Extraction-Ease_of_operation]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Substance-Loss+Extraction-Ease_of_operation.public|Triz-Substance-Loss+Extraction-Ease_of_operation.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Substance-Loss+Extraction-Ease_of_operation.internal|Triz-Substance-Loss+Extraction-Ease_of_operation.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Substance-Loss+Extraction-Ease_of_operation.protect|Triz-Substance-Loss+Extraction-Ease_of_operation.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Substance-Loss+Extraction-Ease_of_operation.private|Triz-Substance-Loss+Extraction-Ease_of_operation.private]] 

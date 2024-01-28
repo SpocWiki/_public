@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Automation+Replacement_of_a_mechanical_system-Measurement_Accuracy.md|Triz-Automation+Replacement_of_a_mechanical_system-Measurement_Accuracy]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Automation+Replacement_of_a_mechanical_system-Measurement_Accuracy|Triz-Automation+Replacement_of_a_mechanical_system-Measurement_Accuracy]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Automation+Replacement_of_a_mechanical_system-Measurement_Accuracy.public|Triz-Automation+Replacement_of_a_mechanical_system-Measurement_Accuracy.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Automation+Replacement_of_a_mechanical_system-Measurement_Accuracy.internal|Triz-Automation+Replacement_of_a_mechanical_system-Measurement_Accuracy.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Automation+Replacement_of_a_mechanical_system-Measurement_Accuracy.protect|Triz-Automation+Replacement_of_a_mechanical_system-Measurement_Accuracy.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Automation+Replacement_of_a_mechanical_system-Measurement_Accuracy.private|Triz-Automation+Replacement_of_a_mechanical_system-Measurement_Accuracy.private]] 

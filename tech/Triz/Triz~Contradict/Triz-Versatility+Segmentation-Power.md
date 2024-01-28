@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Versatility+Segmentation-Power.md|Triz-Versatility+Segmentation-Power]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Versatility+Segmentation-Power|Triz-Versatility+Segmentation-Power]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Versatility+Segmentation-Power.public|Triz-Versatility+Segmentation-Power.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Versatility+Segmentation-Power.internal|Triz-Versatility+Segmentation-Power.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Versatility+Segmentation-Power.protect|Triz-Versatility+Segmentation-Power.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Versatility+Segmentation-Power.private|Triz-Versatility+Segmentation-Power.private]] 

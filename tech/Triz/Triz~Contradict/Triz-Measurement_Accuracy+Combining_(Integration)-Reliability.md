@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Measurement_Accuracy+Combining_(Integration)-Reliability.md|Triz-Measurement_Accuracy+Combining_(Integration)-Reliability]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Measurement_Accuracy+Combining_(Integration)-Reliability|Triz-Measurement_Accuracy+Combining_(Integration)-Reliability]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Measurement_Accuracy+Combining_(Integration)-Reliability.public|Triz-Measurement_Accuracy+Combining_(Integration)-Reliability.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Measurement_Accuracy+Combining_(Integration)-Reliability.internal|Triz-Measurement_Accuracy+Combining_(Integration)-Reliability.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Measurement_Accuracy+Combining_(Integration)-Reliability.protect|Triz-Measurement_Accuracy+Combining_(Integration)-Reliability.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Measurement_Accuracy+Combining_(Integration)-Reliability.private|Triz-Measurement_Accuracy+Combining_(Integration)-Reliability.private]] 

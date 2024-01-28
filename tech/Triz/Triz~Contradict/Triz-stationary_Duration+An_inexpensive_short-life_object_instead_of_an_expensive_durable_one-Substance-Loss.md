@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-stationary_Duration+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Substance-Loss.md|Triz-stationary_Duration+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Substance-Loss]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-stationary_Duration+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Substance-Loss|Triz-stationary_Duration+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Substance-Loss]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-stationary_Duration+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Substance-Loss.public|Triz-stationary_Duration+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Substance-Loss.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-stationary_Duration+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Substance-Loss.internal|Triz-stationary_Duration+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Substance-Loss.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-stationary_Duration+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Substance-Loss.protect|Triz-stationary_Duration+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Substance-Loss.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-stationary_Duration+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Substance-Loss.private|Triz-stationary_Duration+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Substance-Loss.private]] 

@@ -24,7 +24,8 @@ Use colored Additives to observe Objects or Processes which are difficult to see
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Sub/Triz-colored-tracer.md|Triz-colored-tracer]] 
+- [[../../../../_Standards/tech/Triz/Sub/Triz-colored-tracer|Triz-colored-tracer]] 
+- [[../../../../_public/tech/Triz/Sub/Triz-colored-tracer.public|Triz-colored-tracer.public]] 
 - [[../../../../_internal/tech/Triz/Sub/Triz-colored-tracer.internal|Triz-colored-tracer.internal]] 
 - [[../../../../_protect/tech/Triz/Sub/Triz-colored-tracer.protect|Triz-colored-tracer.protect]] 
 - [[../../../../_private/tech/Triz/Sub/Triz-colored-tracer.private|Triz-colored-tracer.private]] 

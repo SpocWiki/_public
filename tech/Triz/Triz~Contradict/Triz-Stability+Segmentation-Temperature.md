@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Stability+Segmentation-Temperature.md|Triz-Stability+Segmentation-Temperature]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Stability+Segmentation-Temperature|Triz-Stability+Segmentation-Temperature]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Stability+Segmentation-Temperature.public|Triz-Stability+Segmentation-Temperature.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Stability+Segmentation-Temperature.internal|Triz-Stability+Segmentation-Temperature.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Stability+Segmentation-Temperature.protect|Triz-Stability+Segmentation-Temperature.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Stability+Segmentation-Temperature.private|Triz-Stability+Segmentation-Temperature.private]] 

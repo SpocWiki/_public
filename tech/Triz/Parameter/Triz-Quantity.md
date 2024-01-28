@@ -17,7 +17,8 @@ tags:
 Quantity of substance
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Parameter/Triz-Quantity.md|Triz-Quantity]] 
+- [[../../../../_Standards/tech/Triz/Parameter/Triz-Quantity|Triz-Quantity]] 
+- [[../../../../_public/tech/Triz/Parameter/Triz-Quantity.public|Triz-Quantity.public]] 
 - [[../../../../_internal/tech/Triz/Parameter/Triz-Quantity.internal|Triz-Quantity.internal]] 
 - [[../../../../_protect/tech/Triz/Parameter/Triz-Quantity.protect|Triz-Quantity.protect]] 
 - [[../../../../_private/tech/Triz/Parameter/Triz-Quantity.private|Triz-Quantity.private]] 

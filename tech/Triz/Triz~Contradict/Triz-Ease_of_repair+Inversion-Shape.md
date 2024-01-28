@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Ease_of_repair+Inversion-Shape.md|Triz-Ease_of_repair+Inversion-Shape]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Ease_of_repair+Inversion-Shape|Triz-Ease_of_repair+Inversion-Shape]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Ease_of_repair+Inversion-Shape.public|Triz-Ease_of_repair+Inversion-Shape.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Ease_of_repair+Inversion-Shape.internal|Triz-Ease_of_repair+Inversion-Shape.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Ease_of_repair+Inversion-Shape.protect|Triz-Ease_of_repair+Inversion-Shape.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Ease_of_repair+Inversion-Shape.private|Triz-Ease_of_repair+Inversion-Shape.private]] 

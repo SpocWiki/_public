@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Shape+Replacement_of_a_mechanical_system-Measurement_Accuracy.md|Triz-Shape+Replacement_of_a_mechanical_system-Measurement_Accuracy]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Shape+Replacement_of_a_mechanical_system-Measurement_Accuracy|Triz-Shape+Replacement_of_a_mechanical_system-Measurement_Accuracy]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Shape+Replacement_of_a_mechanical_system-Measurement_Accuracy.public|Triz-Shape+Replacement_of_a_mechanical_system-Measurement_Accuracy.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Shape+Replacement_of_a_mechanical_system-Measurement_Accuracy.internal|Triz-Shape+Replacement_of_a_mechanical_system-Measurement_Accuracy.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Shape+Replacement_of_a_mechanical_system-Measurement_Accuracy.protect|Triz-Shape+Replacement_of_a_mechanical_system-Measurement_Accuracy.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Shape+Replacement_of_a_mechanical_system-Measurement_Accuracy.private|Triz-Shape+Replacement_of_a_mechanical_system-Measurement_Accuracy.private]] 

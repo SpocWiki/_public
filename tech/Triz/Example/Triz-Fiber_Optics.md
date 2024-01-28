@@ -17,7 +17,8 @@ tags:
 Use Fiber Optics or a Light Pipe to separate the hot Light Source from the Location where Light is needed.
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Example/Triz-Fiber_Optics.md|Triz-Fiber_Optics]] 
+- [[../../../../_Standards/tech/Triz/Example/Triz-Fiber_Optics|Triz-Fiber_Optics]] 
+- [[../../../../_public/tech/Triz/Example/Triz-Fiber_Optics.public|Triz-Fiber_Optics.public]] 
 - [[../../../../_internal/tech/Triz/Example/Triz-Fiber_Optics.internal|Triz-Fiber_Optics.internal]] 
 - [[../../../../_protect/tech/Triz/Example/Triz-Fiber_Optics.protect|Triz-Fiber_Optics.protect]] 
 - [[../../../../_private/tech/Triz/Example/Triz-Fiber_Optics.private|Triz-Fiber_Optics.private]] 

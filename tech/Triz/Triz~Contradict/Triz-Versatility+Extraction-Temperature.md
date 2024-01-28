@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Versatility+Extraction-Temperature.md|Triz-Versatility+Extraction-Temperature]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Versatility+Extraction-Temperature|Triz-Versatility+Extraction-Temperature]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Versatility+Extraction-Temperature.public|Triz-Versatility+Extraction-Temperature.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Versatility+Extraction-Temperature.internal|Triz-Versatility+Extraction-Temperature.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Versatility+Extraction-Temperature.protect|Triz-Versatility+Extraction-Temperature.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Versatility+Extraction-Temperature.private|Triz-Versatility+Extraction-Temperature.private]] 

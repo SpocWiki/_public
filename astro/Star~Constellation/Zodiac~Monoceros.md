@@ -16,7 +16,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../_public/astro/Zodiac/Zodiac~Monoceros.md|Zodiac~Monoceros]] 
+- [[../../../_Standards/astro/Zodiac/Zodiac~Monoceros|Zodiac~Monoceros]] 
+- [[../../../_public/astro/Zodiac/Zodiac~Monoceros.public|Zodiac~Monoceros.public]] 
 - [[../../../_internal/astro/Zodiac/Zodiac~Monoceros.internal|Zodiac~Monoceros.internal]] 
 - [[../../../_protect/astro/Zodiac/Zodiac~Monoceros.protect|Zodiac~Monoceros.protect]] 
 - [[../../../_private/astro/Zodiac/Zodiac~Monoceros.private|Zodiac~Monoceros.private]] 

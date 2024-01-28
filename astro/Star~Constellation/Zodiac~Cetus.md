@@ -16,7 +16,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../_public/astro/Zodiac/Zodiac~Cetus.md|Zodiac~Cetus]] 
+- [[../../../_Standards/astro/Zodiac/Zodiac~Cetus|Zodiac~Cetus]] 
+- [[../../../_public/astro/Zodiac/Zodiac~Cetus.public|Zodiac~Cetus.public]] 
 - [[../../../_internal/astro/Zodiac/Zodiac~Cetus.internal|Zodiac~Cetus.internal]] 
 - [[../../../_protect/astro/Zodiac/Zodiac~Cetus.protect|Zodiac~Cetus.protect]] 
 - [[../../../_private/astro/Zodiac/Zodiac~Cetus.private|Zodiac~Cetus.private]] 

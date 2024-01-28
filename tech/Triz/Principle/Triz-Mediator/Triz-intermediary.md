@@ -23,7 +23,8 @@ Use an intermediary carrier article or intermediary process.
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Sub/Triz-intermediary.md|Triz-intermediary]] 
+- [[../../../../_Standards/tech/Triz/Sub/Triz-intermediary|Triz-intermediary]] 
+- [[../../../../_public/tech/Triz/Sub/Triz-intermediary.public|Triz-intermediary.public]] 
 - [[../../../../_internal/tech/Triz/Sub/Triz-intermediary.internal|Triz-intermediary.internal]] 
 - [[../../../../_protect/tech/Triz/Sub/Triz-intermediary.protect|Triz-intermediary.protect]] 
 - [[../../../../_private/tech/Triz/Sub/Triz-intermediary.private|Triz-intermediary.private]] 

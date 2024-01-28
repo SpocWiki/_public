@@ -27,7 +27,8 @@ confidential: public
 
 
 ## Confidential Links & Embeds: 
-- [[../../../_public/astro/Star/Cancri-9.md|Cancri-9]] 
+- [[../../../_Standards/astro/Star/Cancri-9|Cancri-9]] 
+- [[../../../_public/astro/Star/Cancri-9.public|Cancri-9.public]] 
 - [[../../../_internal/astro/Star/Cancri-9.internal|Cancri-9.internal]] 
 - [[../../../_protect/astro/Star/Cancri-9.protect|Cancri-9.protect]] 
 - [[../../../_private/astro/Star/Cancri-9.private|Cancri-9.private]] 

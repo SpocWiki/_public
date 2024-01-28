@@ -27,7 +27,8 @@ confidential: public
 
 
 ## Confidential Links & Embeds: 
-- [[../../../_public/astro/Star/Ophiuchi-17.md|Ophiuchi-17]] 
+- [[../../../_Standards/astro/Star/Ophiuchi-17|Ophiuchi-17]] 
+- [[../../../_public/astro/Star/Ophiuchi-17.public|Ophiuchi-17.public]] 
 - [[../../../_internal/astro/Star/Ophiuchi-17.internal|Ophiuchi-17.internal]] 
 - [[../../../_protect/astro/Star/Ophiuchi-17.protect|Ophiuchi-17.protect]] 
 - [[../../../_private/astro/Star/Ophiuchi-17.private|Ophiuchi-17.private]] 

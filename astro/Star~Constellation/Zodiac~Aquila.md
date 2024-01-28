@@ -16,7 +16,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../_public/astro/Zodiac/Zodiac~Aquila.md|Zodiac~Aquila]] 
+- [[../../../_Standards/astro/Zodiac/Zodiac~Aquila|Zodiac~Aquila]] 
+- [[../../../_public/astro/Zodiac/Zodiac~Aquila.public|Zodiac~Aquila.public]] 
 - [[../../../_internal/astro/Zodiac/Zodiac~Aquila.internal|Zodiac~Aquila.internal]] 
 - [[../../../_protect/astro/Zodiac/Zodiac~Aquila.protect|Zodiac~Aquila.protect]] 
 - [[../../../_private/astro/Zodiac/Zodiac~Aquila.private|Zodiac~Aquila.private]] 

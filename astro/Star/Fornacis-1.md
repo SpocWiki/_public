@@ -27,7 +27,8 @@ confidential: public
 
 
 ## Confidential Links & Embeds: 
-- [[../../../_public/astro/Star/Fornacis-1.md|Fornacis-1]] 
+- [[../../../_Standards/astro/Star/Fornacis-1|Fornacis-1]] 
+- [[../../../_public/astro/Star/Fornacis-1.public|Fornacis-1.public]] 
 - [[../../../_internal/astro/Star/Fornacis-1.internal|Fornacis-1.internal]] 
 - [[../../../_protect/astro/Star/Fornacis-1.protect|Fornacis-1.protect]] 
 - [[../../../_private/astro/Star/Fornacis-1.private|Fornacis-1.private]] 

@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-generated_harm+Local_quality-Measurement_Accuracy.md|Triz-generated_harm+Local_quality-Measurement_Accuracy]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-generated_harm+Local_quality-Measurement_Accuracy|Triz-generated_harm+Local_quality-Measurement_Accuracy]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-generated_harm+Local_quality-Measurement_Accuracy.public|Triz-generated_harm+Local_quality-Measurement_Accuracy.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-generated_harm+Local_quality-Measurement_Accuracy.internal|Triz-generated_harm+Local_quality-Measurement_Accuracy.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-generated_harm+Local_quality-Measurement_Accuracy.protect|Triz-generated_harm+Local_quality-Measurement_Accuracy.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-generated_harm+Local_quality-Measurement_Accuracy.private|Triz-generated_harm+Local_quality-Measurement_Accuracy.private]] 

@@ -27,7 +27,8 @@ confidential: public
 
 
 ## Confidential Links & Embeds: 
-- [[../../../_public/astro/Star/Lyncis-112.md|Lyncis-112]] 
+- [[../../../_Standards/astro/Star/Lyncis-112|Lyncis-112]] 
+- [[../../../_public/astro/Star/Lyncis-112.public|Lyncis-112.public]] 
 - [[../../../_internal/astro/Star/Lyncis-112.internal|Lyncis-112.internal]] 
 - [[../../../_protect/astro/Star/Lyncis-112.protect|Lyncis-112.protect]] 
 - [[../../../_private/astro/Star/Lyncis-112.private|Lyncis-112.private]] 

@@ -27,7 +27,8 @@ confidential: public
 
 
 ## Confidential Links & Embeds: 
-- [[../../../_public/astro/Star/Alkaid.md|Alkaid]] 
+- [[../../../_Standards/astro/Star/Alkaid|Alkaid]] 
+- [[../../../_public/astro/Star/Alkaid.public|Alkaid.public]] 
 - [[../../../_internal/astro/Star/Alkaid.internal|Alkaid.internal]] 
 - [[../../../_protect/astro/Star/Alkaid.protect|Alkaid.protect]] 
 - [[../../../_private/astro/Star/Alkaid.private|Alkaid.private]] 

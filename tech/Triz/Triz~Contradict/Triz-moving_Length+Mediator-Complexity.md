@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-moving_Length+Mediator-Complexity.md|Triz-moving_Length+Mediator-Complexity]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-moving_Length+Mediator-Complexity|Triz-moving_Length+Mediator-Complexity]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-moving_Length+Mediator-Complexity.public|Triz-moving_Length+Mediator-Complexity.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-moving_Length+Mediator-Complexity.internal|Triz-moving_Length+Mediator-Complexity.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-moving_Length+Mediator-Complexity.protect|Triz-moving_Length+Mediator-Complexity.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-moving_Length+Mediator-Complexity.private|Triz-moving_Length+Mediator-Complexity.private]] 

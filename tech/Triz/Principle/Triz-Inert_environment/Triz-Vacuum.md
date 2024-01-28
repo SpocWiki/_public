@@ -23,7 +23,8 @@ Perform the Operation in Vacuum.
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Sub/Triz-Vacuum.md|Triz-Vacuum]] 
+- [[../../../../_Standards/tech/Triz/Sub/Triz-Vacuum|Triz-Vacuum]] 
+- [[../../../../_public/tech/Triz/Sub/Triz-Vacuum.public|Triz-Vacuum.public]] 
 - [[../../../../_internal/tech/Triz/Sub/Triz-Vacuum.internal|Triz-Vacuum.internal]] 
 - [[../../../../_protect/tech/Triz/Sub/Triz-Vacuum.protect|Triz-Vacuum.protect]] 
 - [[../../../../_private/tech/Triz/Sub/Triz-Vacuum.private|Triz-Vacuum.private]] 

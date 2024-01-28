@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Speed+Copying-Versatility.md|Triz-Speed+Copying-Versatility]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Speed+Copying-Versatility|Triz-Speed+Copying-Versatility]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Speed+Copying-Versatility.public|Triz-Speed+Copying-Versatility.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Speed+Copying-Versatility.internal|Triz-Speed+Copying-Versatility.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Speed+Copying-Versatility.protect|Triz-Speed+Copying-Versatility.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Speed+Copying-Versatility.private|Triz-Speed+Copying-Versatility.private]] 

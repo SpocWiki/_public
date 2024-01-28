@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Energy-Loss+Periodic_action-Temperature.md|Triz-Energy-Loss+Periodic_action-Temperature]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Energy-Loss+Periodic_action-Temperature|Triz-Energy-Loss+Periodic_action-Temperature]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Energy-Loss+Periodic_action-Temperature.public|Triz-Energy-Loss+Periodic_action-Temperature.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Energy-Loss+Periodic_action-Temperature.internal|Triz-Energy-Loss+Periodic_action-Temperature.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Energy-Loss+Periodic_action-Temperature.protect|Triz-Energy-Loss+Periodic_action-Temperature.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Energy-Loss+Periodic_action-Temperature.private|Triz-Energy-Loss+Periodic_action-Temperature.private]] 

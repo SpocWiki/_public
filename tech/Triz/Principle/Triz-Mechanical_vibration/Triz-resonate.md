@@ -24,7 +24,8 @@ Use an object's resonant frequency.
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Sub/Triz-resonate.md|Triz-resonate]] 
+- [[../../../../_Standards/tech/Triz/Sub/Triz-resonate|Triz-resonate]] 
+- [[../../../../_public/tech/Triz/Sub/Triz-resonate.public|Triz-resonate.public]] 
 - [[../../../../_internal/tech/Triz/Sub/Triz-resonate.internal|Triz-resonate.internal]] 
 - [[../../../../_protect/tech/Triz/Sub/Triz-resonate.protect|Triz-resonate.protect]] 
 - [[../../../../_private/tech/Triz/Sub/Triz-resonate.private|Triz-resonate.private]] 

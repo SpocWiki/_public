@@ -27,7 +27,8 @@ confidential: public
 
 
 ## Confidential Links & Embeds: 
-- [[../../../_public/astro/Star/Scheat.md|Scheat]] 
+- [[../../../_Standards/astro/Star/Scheat|Scheat]] 
+- [[../../../_public/astro/Star/Scheat.public|Scheat.public]] 
 - [[../../../_internal/astro/Star/Scheat.internal|Scheat.internal]] 
 - [[../../../_protect/astro/Star/Scheat.protect|Scheat.protect]] 
 - [[../../../_private/astro/Star/Scheat.private|Scheat.private]] 

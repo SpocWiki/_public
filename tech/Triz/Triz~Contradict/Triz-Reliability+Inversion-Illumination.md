@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Reliability+Inversion-Illumination.md|Triz-Reliability+Inversion-Illumination]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Reliability+Inversion-Illumination|Triz-Reliability+Inversion-Illumination]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Reliability+Inversion-Illumination.public|Triz-Reliability+Inversion-Illumination.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Reliability+Inversion-Illumination.internal|Triz-Reliability+Inversion-Illumination.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Reliability+Inversion-Illumination.protect|Triz-Reliability+Inversion-Illumination.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Reliability+Inversion-Illumination.private|Triz-Reliability+Inversion-Illumination.private]] 

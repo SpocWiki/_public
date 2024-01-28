@@ -27,7 +27,8 @@ confidential: public
 
 
 ## Confidential Links & Embeds: 
-- [[../../../_public/astro/Star/Mirzam.md|Mirzam]] 
+- [[../../../_Standards/astro/Star/Mirzam|Mirzam]] 
+- [[../../../_public/astro/Star/Mirzam.public|Mirzam.public]] 
 - [[../../../_internal/astro/Star/Mirzam.internal|Mirzam.internal]] 
 - [[../../../_protect/astro/Star/Mirzam.protect|Mirzam.protect]] 
 - [[../../../_private/astro/Star/Mirzam.private|Mirzam.private]] 

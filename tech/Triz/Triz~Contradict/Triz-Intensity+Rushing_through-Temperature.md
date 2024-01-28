@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Intensity+Rushing_through-Temperature.md|Triz-Intensity+Rushing_through-Temperature]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Intensity+Rushing_through-Temperature|Triz-Intensity+Rushing_through-Temperature]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Intensity+Rushing_through-Temperature.public|Triz-Intensity+Rushing_through-Temperature.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Intensity+Rushing_through-Temperature.internal|Triz-Intensity+Rushing_through-Temperature.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Intensity+Rushing_through-Temperature.protect|Triz-Intensity+Rushing_through-Temperature.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Intensity+Rushing_through-Temperature.private|Triz-Intensity+Rushing_through-Temperature.private]] 

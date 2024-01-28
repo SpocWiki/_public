@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-moving_Duration+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Ease_of_operation.md|Triz-moving_Duration+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Ease_of_operation]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-moving_Duration+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Ease_of_operation|Triz-moving_Duration+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Ease_of_operation]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-moving_Duration+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Ease_of_operation.public|Triz-moving_Duration+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Ease_of_operation.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-moving_Duration+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Ease_of_operation.internal|Triz-moving_Duration+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Ease_of_operation.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-moving_Duration+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Ease_of_operation.protect|Triz-moving_Duration+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Ease_of_operation.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-moving_Duration+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Ease_of_operation.private|Triz-moving_Duration+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Ease_of_operation.private]] 

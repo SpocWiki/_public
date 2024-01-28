@@ -27,7 +27,8 @@ confidential: public
 
 
 ## Confidential Links & Embeds: 
-- [[../../../_public/astro/Star/Maia.md|Maia]] 
+- [[../../../_Standards/astro/Star/Maia|Maia]] 
+- [[../../../_public/astro/Star/Maia.public|Maia.public]] 
 - [[../../../_internal/astro/Star/Maia.internal|Maia.internal]] 
 - [[../../../_protect/astro/Star/Maia.protect|Maia.protect]] 
 - [[../../../_private/astro/Star/Maia.private|Maia.private]] 

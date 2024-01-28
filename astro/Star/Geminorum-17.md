@@ -27,7 +27,8 @@ confidential: public
 
 
 ## Confidential Links & Embeds: 
-- [[../../../_public/astro/Star/Geminorum-17.md|Geminorum-17]] 
+- [[../../../_Standards/astro/Star/Geminorum-17|Geminorum-17]] 
+- [[../../../_public/astro/Star/Geminorum-17.public|Geminorum-17.public]] 
 - [[../../../_internal/astro/Star/Geminorum-17.internal|Geminorum-17.internal]] 
 - [[../../../_protect/astro/Star/Geminorum-17.protect|Geminorum-17.protect]] 
 - [[../../../_private/astro/Star/Geminorum-17.private|Geminorum-17.private]] 

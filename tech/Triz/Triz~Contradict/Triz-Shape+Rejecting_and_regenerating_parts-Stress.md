@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Shape+Rejecting_and_regenerating_parts-Stress.md|Triz-Shape+Rejecting_and_regenerating_parts-Stress]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Shape+Rejecting_and_regenerating_parts-Stress|Triz-Shape+Rejecting_and_regenerating_parts-Stress]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Shape+Rejecting_and_regenerating_parts-Stress.public|Triz-Shape+Rejecting_and_regenerating_parts-Stress.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Shape+Rejecting_and_regenerating_parts-Stress.internal|Triz-Shape+Rejecting_and_regenerating_parts-Stress.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Shape+Rejecting_and_regenerating_parts-Stress.protect|Triz-Shape+Rejecting_and_regenerating_parts-Stress.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Shape+Rejecting_and_regenerating_parts-Stress.private|Triz-Shape+Rejecting_and_regenerating_parts-Stress.private]] 

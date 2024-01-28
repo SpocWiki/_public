@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-stationary_Duration+Composite_materials-Temperature.md|Triz-stationary_Duration+Composite_materials-Temperature]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-stationary_Duration+Composite_materials-Temperature|Triz-stationary_Duration+Composite_materials-Temperature]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-stationary_Duration+Composite_materials-Temperature.public|Triz-stationary_Duration+Composite_materials-Temperature.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-stationary_Duration+Composite_materials-Temperature.internal|Triz-stationary_Duration+Composite_materials-Temperature.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-stationary_Duration+Composite_materials-Temperature.protect|Triz-stationary_Duration+Composite_materials-Temperature.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-stationary_Duration+Composite_materials-Temperature.private|Triz-stationary_Duration+Composite_materials-Temperature.private]] 

@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Power+Mediator-Reliability.md|Triz-Power+Mediator-Reliability]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Power+Mediator-Reliability|Triz-Power+Mediator-Reliability]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Power+Mediator-Reliability.public|Triz-Power+Mediator-Reliability.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Power+Mediator-Reliability.internal|Triz-Power+Mediator-Reliability.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Power+Mediator-Reliability.protect|Triz-Power+Mediator-Reliability.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Power+Mediator-Reliability.private|Triz-Power+Mediator-Reliability.private]] 

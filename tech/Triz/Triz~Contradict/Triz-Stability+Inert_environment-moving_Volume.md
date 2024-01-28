@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Stability+Inert_environment-moving_Volume.md|Triz-Stability+Inert_environment-moving_Volume]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Stability+Inert_environment-moving_Volume|Triz-Stability+Inert_environment-moving_Volume]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Stability+Inert_environment-moving_Volume.public|Triz-Stability+Inert_environment-moving_Volume.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Stability+Inert_environment-moving_Volume.internal|Triz-Stability+Inert_environment-moving_Volume.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Stability+Inert_environment-moving_Volume.protect|Triz-Stability+Inert_environment-moving_Volume.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Stability+Inert_environment-moving_Volume.private|Triz-Stability+Inert_environment-moving_Volume.private]] 

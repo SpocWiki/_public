@@ -17,7 +17,8 @@ tags:
 Force (Intensity)
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Parameter/Triz-Intensity.md|Triz-Intensity]] 
+- [[../../../../_Standards/tech/Triz/Parameter/Triz-Intensity|Triz-Intensity]] 
+- [[../../../../_public/tech/Triz/Parameter/Triz-Intensity.public|Triz-Intensity.public]] 
 - [[../../../../_internal/tech/Triz/Parameter/Triz-Intensity.internal|Triz-Intensity.internal]] 
 - [[../../../../_protect/tech/Triz/Parameter/Triz-Intensity.protect|Triz-Intensity.protect]] 
 - [[../../../../_private/tech/Triz/Parameter/Triz-Intensity.private|Triz-Intensity.private]] 

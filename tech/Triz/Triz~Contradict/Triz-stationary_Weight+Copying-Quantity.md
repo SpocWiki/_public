@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-stationary_Weight+Copying-Quantity.md|Triz-stationary_Weight+Copying-Quantity]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-stationary_Weight+Copying-Quantity|Triz-stationary_Weight+Copying-Quantity]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-stationary_Weight+Copying-Quantity.public|Triz-stationary_Weight+Copying-Quantity.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-stationary_Weight+Copying-Quantity.internal|Triz-stationary_Weight+Copying-Quantity.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-stationary_Weight+Copying-Quantity.protect|Triz-stationary_Weight+Copying-Quantity.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-stationary_Weight+Copying-Quantity.private|Triz-stationary_Weight+Copying-Quantity.private]] 

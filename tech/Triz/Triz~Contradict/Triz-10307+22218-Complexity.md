@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-10307+22218-Complexity.md|Triz-10307+22218-Complexity]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-10307+22218-Complexity|Triz-10307+22218-Complexity]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-10307+22218-Complexity.public|Triz-10307+22218-Complexity.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-10307+22218-Complexity.internal|Triz-10307+22218-Complexity.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-10307+22218-Complexity.protect|Triz-10307+22218-Complexity.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-10307+22218-Complexity.private|Triz-10307+22218-Complexity.private]] 

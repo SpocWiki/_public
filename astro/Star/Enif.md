@@ -27,7 +27,8 @@ confidential: public
 
 
 ## Confidential Links & Embeds: 
-- [[../../../_public/astro/Star/Enif.md|Enif]] 
+- [[../../../_Standards/astro/Star/Enif|Enif]] 
+- [[../../../_public/astro/Star/Enif.public|Enif.public]] 
 - [[../../../_internal/astro/Star/Enif.internal|Enif.internal]] 
 - [[../../../_protect/astro/Star/Enif.protect|Enif.protect]] 
 - [[../../../_private/astro/Star/Enif.private|Enif.private]] 

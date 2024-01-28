@@ -27,7 +27,8 @@ confidential: public
 
 
 ## Confidential Links & Embeds: 
-- [[../../../_public/astro/Star/Peacock.md|Peacock]] 
+- [[../../../_Standards/astro/Star/Peacock|Peacock]] 
+- [[../../../_public/astro/Star/Peacock.public|Peacock.public]] 
 - [[../../../_internal/astro/Star/Peacock.internal|Peacock.internal]] 
 - [[../../../_protect/astro/Star/Peacock.protect|Peacock.protect]] 
 - [[../../../_private/astro/Star/Peacock.private|Peacock.private]] 

@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Intensity+Replacement_of_a_mechanical_system-stationary_Length.md|Triz-Intensity+Replacement_of_a_mechanical_system-stationary_Length]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Intensity+Replacement_of_a_mechanical_system-stationary_Length|Triz-Intensity+Replacement_of_a_mechanical_system-stationary_Length]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Intensity+Replacement_of_a_mechanical_system-stationary_Length.public|Triz-Intensity+Replacement_of_a_mechanical_system-stationary_Length.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Intensity+Replacement_of_a_mechanical_system-stationary_Length.internal|Triz-Intensity+Replacement_of_a_mechanical_system-stationary_Length.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Intensity+Replacement_of_a_mechanical_system-stationary_Length.protect|Triz-Intensity+Replacement_of_a_mechanical_system-stationary_Length.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Intensity+Replacement_of_a_mechanical_system-stationary_Length.private|Triz-Intensity+Replacement_of_a_mechanical_system-stationary_Length.private]] 

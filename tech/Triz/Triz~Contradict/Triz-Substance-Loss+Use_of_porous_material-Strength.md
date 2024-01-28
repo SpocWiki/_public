@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Substance-Loss+Use_of_porous_material-Strength.md|Triz-Substance-Loss+Use_of_porous_material-Strength]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Substance-Loss+Use_of_porous_material-Strength|Triz-Substance-Loss+Use_of_porous_material-Strength]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Substance-Loss+Use_of_porous_material-Strength.public|Triz-Substance-Loss+Use_of_porous_material-Strength.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Substance-Loss+Use_of_porous_material-Strength.internal|Triz-Substance-Loss+Use_of_porous_material-Strength.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Substance-Loss+Use_of_porous_material-Strength.protect|Triz-Substance-Loss+Use_of_porous_material-Strength.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Substance-Loss+Use_of_porous_material-Strength.private|Triz-Substance-Loss+Use_of_porous_material-Strength.private]] 

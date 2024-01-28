@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Ease_of_manufacture+Transformation_of_physical_and_chemical_states_of_an_object-Measurement_Accuracy.md|Triz-Ease_of_manufacture+Transformation_of_physical_and_chemical_states_of_an_object-Measurement_Accuracy]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Ease_of_manufacture+Transformation_of_physical_and_chemical_states_of_an_object-Measurement_Accuracy|Triz-Ease_of_manufacture+Transformation_of_physical_and_chemical_states_of_an_object-Measurement_Accuracy]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Ease_of_manufacture+Transformation_of_physical_and_chemical_states_of_an_object-Measurement_Accuracy.public|Triz-Ease_of_manufacture+Transformation_of_physical_and_chemical_states_of_an_object-Measurement_Accuracy.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Ease_of_manufacture+Transformation_of_physical_and_chemical_states_of_an_object-Measurement_Accuracy.internal|Triz-Ease_of_manufacture+Transformation_of_physical_and_chemical_states_of_an_object-Measurement_Accuracy.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Ease_of_manufacture+Transformation_of_physical_and_chemical_states_of_an_object-Measurement_Accuracy.protect|Triz-Ease_of_manufacture+Transformation_of_physical_and_chemical_states_of_an_object-Measurement_Accuracy.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Ease_of_manufacture+Transformation_of_physical_and_chemical_states_of_an_object-Measurement_Accuracy.private|Triz-Ease_of_manufacture+Transformation_of_physical_and_chemical_states_of_an_object-Measurement_Accuracy.private]] 

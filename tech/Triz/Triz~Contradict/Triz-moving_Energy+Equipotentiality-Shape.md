@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-moving_Energy+Equipotentiality-Shape.md|Triz-moving_Energy+Equipotentiality-Shape]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-moving_Energy+Equipotentiality-Shape|Triz-moving_Energy+Equipotentiality-Shape]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-moving_Energy+Equipotentiality-Shape.public|Triz-moving_Energy+Equipotentiality-Shape.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-moving_Energy+Equipotentiality-Shape.internal|Triz-moving_Energy+Equipotentiality-Shape.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-moving_Energy+Equipotentiality-Shape.protect|Triz-moving_Energy+Equipotentiality-Shape.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-moving_Energy+Equipotentiality-Shape.private|Triz-moving_Energy+Equipotentiality-Shape.private]] 

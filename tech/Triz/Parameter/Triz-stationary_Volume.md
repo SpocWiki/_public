@@ -17,7 +17,8 @@ tags:
 Volume of stationary object
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Parameter/Triz-stationary_Volume.md|Triz-stationary_Volume]] 
+- [[../../../../_Standards/tech/Triz/Parameter/Triz-stationary_Volume|Triz-stationary_Volume]] 
+- [[../../../../_public/tech/Triz/Parameter/Triz-stationary_Volume.public|Triz-stationary_Volume.public]] 
 - [[../../../../_internal/tech/Triz/Parameter/Triz-stationary_Volume.internal|Triz-stationary_Volume.internal]] 
 - [[../../../../_protect/tech/Triz/Parameter/Triz-stationary_Volume.protect|Triz-stationary_Volume.protect]] 
 - [[../../../../_private/tech/Triz/Parameter/Triz-stationary_Volume.private|Triz-stationary_Volume.private]] 

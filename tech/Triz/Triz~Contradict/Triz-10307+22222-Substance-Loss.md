@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-10307+22222-Substance-Loss.md|Triz-10307+22222-Substance-Loss]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-10307+22222-Substance-Loss|Triz-10307+22222-Substance-Loss]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-10307+22222-Substance-Loss.public|Triz-10307+22222-Substance-Loss.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-10307+22222-Substance-Loss.internal|Triz-10307+22222-Substance-Loss.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-10307+22222-Substance-Loss.protect|Triz-10307+22222-Substance-Loss.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-10307+22222-Substance-Loss.private|Triz-10307+22222-Substance-Loss.private]] 

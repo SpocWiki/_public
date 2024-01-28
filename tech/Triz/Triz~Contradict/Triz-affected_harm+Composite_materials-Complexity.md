@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-affected_harm+Composite_materials-Complexity.md|Triz-affected_harm+Composite_materials-Complexity]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-affected_harm+Composite_materials-Complexity|Triz-affected_harm+Composite_materials-Complexity]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-affected_harm+Composite_materials-Complexity.public|Triz-affected_harm+Composite_materials-Complexity.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-affected_harm+Composite_materials-Complexity.internal|Triz-affected_harm+Composite_materials-Complexity.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-affected_harm+Composite_materials-Complexity.protect|Triz-affected_harm+Composite_materials-Complexity.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-affected_harm+Composite_materials-Complexity.private|Triz-affected_harm+Composite_materials-Complexity.private]] 

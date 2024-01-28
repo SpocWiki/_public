@@ -27,7 +27,8 @@ confidential: public
 
 
 ## Confidential Links & Embeds: 
-- [[../../../_public/astro/Star/Arae-6.md|Arae-6]] 
+- [[../../../_Standards/astro/Star/Arae-6|Arae-6]] 
+- [[../../../_public/astro/Star/Arae-6.public|Arae-6.public]] 
 - [[../../../_internal/astro/Star/Arae-6.internal|Arae-6.internal]] 
 - [[../../../_protect/astro/Star/Arae-6.protect|Arae-6.protect]] 
 - [[../../../_private/astro/Star/Arae-6.private|Arae-6.private]] 

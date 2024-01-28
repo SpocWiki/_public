@@ -27,7 +27,8 @@ confidential: public
 
 
 ## Confidential Links & Embeds: 
-- [[../../../_public/astro/Star/Alfirk.md|Alfirk]] 
+- [[../../../_Standards/astro/Star/Alfirk|Alfirk]] 
+- [[../../../_public/astro/Star/Alfirk.public|Alfirk.public]] 
 - [[../../../_internal/astro/Star/Alfirk.internal|Alfirk.internal]] 
 - [[../../../_protect/astro/Star/Alfirk.protect|Alfirk.protect]] 
 - [[../../../_private/astro/Star/Alfirk.private|Alfirk.private]] 

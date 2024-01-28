@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Substance-Loss+Flexible_film_or_thin_membranes-affected_harm.md|Triz-Substance-Loss+Flexible_film_or_thin_membranes-affected_harm]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Substance-Loss+Flexible_film_or_thin_membranes-affected_harm|Triz-Substance-Loss+Flexible_film_or_thin_membranes-affected_harm]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Substance-Loss+Flexible_film_or_thin_membranes-affected_harm.public|Triz-Substance-Loss+Flexible_film_or_thin_membranes-affected_harm.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Substance-Loss+Flexible_film_or_thin_membranes-affected_harm.internal|Triz-Substance-Loss+Flexible_film_or_thin_membranes-affected_harm.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Substance-Loss+Flexible_film_or_thin_membranes-affected_harm.protect|Triz-Substance-Loss+Flexible_film_or_thin_membranes-affected_harm.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Substance-Loss+Flexible_film_or_thin_membranes-affected_harm.private|Triz-Substance-Loss+Flexible_film_or_thin_membranes-affected_harm.private]] 

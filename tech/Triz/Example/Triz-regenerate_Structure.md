@@ -17,7 +17,8 @@ tags:
 Halogen Lamps regenerate the Filament during Use--evaporated Material is redeposited.
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Example/Triz-regenerate_Structure.md|Triz-regenerate_Structure]] 
+- [[../../../../_Standards/tech/Triz/Example/Triz-regenerate_Structure|Triz-regenerate_Structure]] 
+- [[../../../../_public/tech/Triz/Example/Triz-regenerate_Structure.public|Triz-regenerate_Structure.public]] 
 - [[../../../../_internal/tech/Triz/Example/Triz-regenerate_Structure.internal|Triz-regenerate_Structure.internal]] 
 - [[../../../../_protect/tech/Triz/Example/Triz-regenerate_Structure.protect|Triz-regenerate_Structure.protect]] 
 - [[../../../../_private/tech/Triz/Example/Triz-regenerate_Structure.private|Triz-regenerate_Structure.private]] 

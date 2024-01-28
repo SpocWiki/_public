@@ -17,7 +17,8 @@ tags:
 Sprinkle Water on Cornstarch-based Packaging and watch it reduce its Volume by more than 1000*!
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Example/Triz-Cornstarch-Packaging.md|Triz-Cornstarch-Packaging]] 
+- [[../../../../_Standards/tech/Triz/Example/Triz-Cornstarch-Packaging|Triz-Cornstarch-Packaging]] 
+- [[../../../../_public/tech/Triz/Example/Triz-Cornstarch-Packaging.public|Triz-Cornstarch-Packaging.public]] 
 - [[../../../../_internal/tech/Triz/Example/Triz-Cornstarch-Packaging.internal|Triz-Cornstarch-Packaging.internal]] 
 - [[../../../../_protect/tech/Triz/Example/Triz-Cornstarch-Packaging.protect|Triz-Cornstarch-Packaging.protect]] 
 - [[../../../../_private/tech/Triz/Example/Triz-Cornstarch-Packaging.private|Triz-Cornstarch-Packaging.private]] 

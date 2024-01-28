@@ -14,7 +14,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Principle/Triz-Self-service.md|Triz-Self-service]] 
+- [[../../../../_Standards/tech/Triz/Principle/Triz-Self-service|Triz-Self-service]] 
+- [[../../../../_public/tech/Triz/Principle/Triz-Self-service.public|Triz-Self-service.public]] 
 - [[../../../../_internal/tech/Triz/Principle/Triz-Self-service.internal|Triz-Self-service.internal]] 
 - [[../../../../_protect/tech/Triz/Principle/Triz-Self-service.protect|Triz-Self-service.protect]] 
 - [[../../../../_private/tech/Triz/Principle/Triz-Self-service.private|Triz-Self-service.private]] 

@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Speed+Flexible_film_or_thin_membranes-Temperature.md|Triz-Speed+Flexible_film_or_thin_membranes-Temperature]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Speed+Flexible_film_or_thin_membranes-Temperature|Triz-Speed+Flexible_film_or_thin_membranes-Temperature]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Speed+Flexible_film_or_thin_membranes-Temperature.public|Triz-Speed+Flexible_film_or_thin_membranes-Temperature.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Speed+Flexible_film_or_thin_membranes-Temperature.internal|Triz-Speed+Flexible_film_or_thin_membranes-Temperature.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Speed+Flexible_film_or_thin_membranes-Temperature.protect|Triz-Speed+Flexible_film_or_thin_membranes-Temperature.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Speed+Flexible_film_or_thin_membranes-Temperature.private|Triz-Speed+Flexible_film_or_thin_membranes-Temperature.private]] 

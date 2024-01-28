@@ -27,7 +27,8 @@ confidential: public
 
 
 ## Confidential Links & Embeds: 
-- [[../../../_public/astro/Star/Sulaphat.md|Sulaphat]] 
+- [[../../../_Standards/astro/Star/Sulaphat|Sulaphat]] 
+- [[../../../_public/astro/Star/Sulaphat.public|Sulaphat.public]] 
 - [[../../../_internal/astro/Star/Sulaphat.internal|Sulaphat.internal]] 
 - [[../../../_protect/astro/Star/Sulaphat.protect|Sulaphat.protect]] 
 - [[../../../_private/astro/Star/Sulaphat.private|Sulaphat.private]] 

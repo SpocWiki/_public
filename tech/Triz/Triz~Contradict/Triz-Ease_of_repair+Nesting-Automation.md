@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Ease_of_repair+Nesting-Automation.md|Triz-Ease_of_repair+Nesting-Automation]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Ease_of_repair+Nesting-Automation|Triz-Ease_of_repair+Nesting-Automation]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Ease_of_repair+Nesting-Automation.public|Triz-Ease_of_repair+Nesting-Automation.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Ease_of_repair+Nesting-Automation.internal|Triz-Ease_of_repair+Nesting-Automation.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Ease_of_repair+Nesting-Automation.protect|Triz-Ease_of_repair+Nesting-Automation.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Ease_of_repair+Nesting-Automation.private|Triz-Ease_of_repair+Nesting-Automation.private]] 

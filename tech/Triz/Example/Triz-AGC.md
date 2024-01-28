@@ -17,7 +17,8 @@ tags:
 Automatic Volume Control in Audio Circuits
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Example/Triz-AGC.md|Triz-AGC]] 
+- [[../../../../_Standards/tech/Triz/Example/Triz-AGC|Triz-AGC]] 
+- [[../../../../_public/tech/Triz/Example/Triz-AGC.public|Triz-AGC.public]] 
 - [[../../../../_internal/tech/Triz/Example/Triz-AGC.internal|Triz-AGC.internal]] 
 - [[../../../../_protect/tech/Triz/Example/Triz-AGC.protect|Triz-AGC.protect]] 
 - [[../../../../_private/tech/Triz/Example/Triz-AGC.private|Triz-AGC.private]] 

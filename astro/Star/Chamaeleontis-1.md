@@ -27,7 +27,8 @@ confidential: public
 
 
 ## Confidential Links & Embeds: 
-- [[../../../_public/astro/Star/Chamaeleontis-1.md|Chamaeleontis-1]] 
+- [[../../../_Standards/astro/Star/Chamaeleontis-1|Chamaeleontis-1]] 
+- [[../../../_public/astro/Star/Chamaeleontis-1.public|Chamaeleontis-1.public]] 
 - [[../../../_internal/astro/Star/Chamaeleontis-1.internal|Chamaeleontis-1.internal]] 
 - [[../../../_protect/astro/Star/Chamaeleontis-1.protect|Chamaeleontis-1.protect]] 
 - [[../../../_private/astro/Star/Chamaeleontis-1.private|Chamaeleontis-1.private]] 

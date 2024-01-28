@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Versatility+Partial,_overdone,_or_excessive_action-stationary_Weight.md|Triz-Versatility+Partial,_overdone,_or_excessive_action-stationary_Weight]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Versatility+Partial,_overdone,_or_excessive_action-stationary_Weight|Triz-Versatility+Partial,_overdone,_or_excessive_action-stationary_Weight]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Versatility+Partial,_overdone,_or_excessive_action-stationary_Weight.public|Triz-Versatility+Partial,_overdone,_or_excessive_action-stationary_Weight.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Versatility+Partial,_overdone,_or_excessive_action-stationary_Weight.internal|Triz-Versatility+Partial,_overdone,_or_excessive_action-stationary_Weight.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Versatility+Partial,_overdone,_or_excessive_action-stationary_Weight.protect|Triz-Versatility+Partial,_overdone,_or_excessive_action-stationary_Weight.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Versatility+Partial,_overdone,_or_excessive_action-stationary_Weight.private|Triz-Versatility+Partial,_overdone,_or_excessive_action-stationary_Weight.private]] 

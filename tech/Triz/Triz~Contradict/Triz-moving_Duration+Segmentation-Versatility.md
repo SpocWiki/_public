@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-moving_Duration+Segmentation-Versatility.md|Triz-moving_Duration+Segmentation-Versatility]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-moving_Duration+Segmentation-Versatility|Triz-moving_Duration+Segmentation-Versatility]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-moving_Duration+Segmentation-Versatility.public|Triz-moving_Duration+Segmentation-Versatility.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-moving_Duration+Segmentation-Versatility.internal|Triz-moving_Duration+Segmentation-Versatility.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-moving_Duration+Segmentation-Versatility.protect|Triz-moving_Duration+Segmentation-Versatility.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-moving_Duration+Segmentation-Versatility.private|Triz-moving_Duration+Segmentation-Versatility.private]] 

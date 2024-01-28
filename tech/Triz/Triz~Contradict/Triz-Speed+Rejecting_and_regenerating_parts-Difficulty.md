@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Speed+Rejecting_and_regenerating_parts-Difficulty.md|Triz-Speed+Rejecting_and_regenerating_parts-Difficulty]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Speed+Rejecting_and_regenerating_parts-Difficulty|Triz-Speed+Rejecting_and_regenerating_parts-Difficulty]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Speed+Rejecting_and_regenerating_parts-Difficulty.public|Triz-Speed+Rejecting_and_regenerating_parts-Difficulty.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Speed+Rejecting_and_regenerating_parts-Difficulty.internal|Triz-Speed+Rejecting_and_regenerating_parts-Difficulty.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Speed+Rejecting_and_regenerating_parts-Difficulty.protect|Triz-Speed+Rejecting_and_regenerating_parts-Difficulty.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Speed+Rejecting_and_regenerating_parts-Difficulty.private|Triz-Speed+Rejecting_and_regenerating_parts-Difficulty.private]] 

@@ -17,7 +17,8 @@ tags:
 Overcome static Friction at lower Energies by introducing a constant Level of Energy.
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Example/Triz-Overcome_Friction.md|Triz-Overcome_Friction]] 
+- [[../../../../_Standards/tech/Triz/Example/Triz-Overcome_Friction|Triz-Overcome_Friction]] 
+- [[../../../../_public/tech/Triz/Example/Triz-Overcome_Friction.public|Triz-Overcome_Friction.public]] 
 - [[../../../../_internal/tech/Triz/Example/Triz-Overcome_Friction.internal|Triz-Overcome_Friction.internal]] 
 - [[../../../../_protect/tech/Triz/Example/Triz-Overcome_Friction.protect|Triz-Overcome_Friction.protect]] 
 - [[../../../../_private/tech/Triz/Example/Triz-Overcome_Friction.private|Triz-Overcome_Friction.private]] 

@@ -24,7 +24,8 @@ Make an object porous or add porous Elements (inserts, coatings, etc.). This red
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Sub/Triz-porous.md|Triz-porous]] 
+- [[../../../../_Standards/tech/Triz/Sub/Triz-porous|Triz-porous]] 
+- [[../../../../_public/tech/Triz/Sub/Triz-porous.public|Triz-porous.public]] 
 - [[../../../../_internal/tech/Triz/Sub/Triz-porous.internal|Triz-porous.internal]] 
 - [[../../../../_protect/tech/Triz/Sub/Triz-porous.protect|Triz-porous.protect]] 
 - [[../../../../_private/tech/Triz/Sub/Triz-porous.private|Triz-porous.private]] 

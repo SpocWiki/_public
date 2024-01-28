@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Complexity+Copying-moving_Volume.md|Triz-Complexity+Copying-moving_Volume]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Complexity+Copying-moving_Volume|Triz-Complexity+Copying-moving_Volume]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Complexity+Copying-moving_Volume.public|Triz-Complexity+Copying-moving_Volume.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Complexity+Copying-moving_Volume.internal|Triz-Complexity+Copying-moving_Volume.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Complexity+Copying-moving_Volume.protect|Triz-Complexity+Copying-moving_Volume.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Complexity+Copying-moving_Volume.private|Triz-Complexity+Copying-moving_Volume.private]] 

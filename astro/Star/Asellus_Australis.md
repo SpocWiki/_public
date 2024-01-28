@@ -27,7 +27,8 @@ confidential: public
 
 
 ## Confidential Links & Embeds: 
-- [[../../../_public/astro/Star/Asellus_Australis.md|Asellus_Australis]] 
+- [[../../../_Standards/astro/Star/Asellus_Australis|Asellus_Australis]] 
+- [[../../../_public/astro/Star/Asellus_Australis.public|Asellus_Australis.public]] 
 - [[../../../_internal/astro/Star/Asellus_Australis.internal|Asellus_Australis.internal]] 
 - [[../../../_protect/astro/Star/Asellus_Australis.protect|Asellus_Australis.protect]] 
 - [[../../../_private/astro/Star/Asellus_Australis.private|Asellus_Australis.private]] 

@@ -17,7 +17,8 @@ tags:
 To weld Steel to Aluminum, create an Interface from alternating thin Strips of the 2 Materials. Cold weld the Surface into a single unit with Steel on one face and Copper on the other, then use normal welding techniques to attach the Steel Object to the Interface, and the Interface to the Aluminum. (This concept also has elements of Principle 24, Intermediary, and Principle 4, Asymmetry.)
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Example/Triz-weld_Aluminum.md|Triz-weld_Aluminum]] 
+- [[../../../../_Standards/tech/Triz/Example/Triz-weld_Aluminum|Triz-weld_Aluminum]] 
+- [[../../../../_public/tech/Triz/Example/Triz-weld_Aluminum.public|Triz-weld_Aluminum.public]] 
 - [[../../../../_internal/tech/Triz/Example/Triz-weld_Aluminum.internal|Triz-weld_Aluminum.internal]] 
 - [[../../../../_protect/tech/Triz/Example/Triz-weld_Aluminum.protect|Triz-weld_Aluminum.protect]] 
 - [[../../../../_private/tech/Triz/Example/Triz-weld_Aluminum.private|Triz-weld_Aluminum.private]] 

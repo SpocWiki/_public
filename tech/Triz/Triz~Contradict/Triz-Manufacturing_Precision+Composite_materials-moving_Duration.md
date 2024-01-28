@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Manufacturing_Precision+Composite_materials-moving_Duration.md|Triz-Manufacturing_Precision+Composite_materials-moving_Duration]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Manufacturing_Precision+Composite_materials-moving_Duration|Triz-Manufacturing_Precision+Composite_materials-moving_Duration]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Manufacturing_Precision+Composite_materials-moving_Duration.public|Triz-Manufacturing_Precision+Composite_materials-moving_Duration.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Manufacturing_Precision+Composite_materials-moving_Duration.internal|Triz-Manufacturing_Precision+Composite_materials-moving_Duration.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Manufacturing_Precision+Composite_materials-moving_Duration.protect|Triz-Manufacturing_Precision+Composite_materials-moving_Duration.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Manufacturing_Precision+Composite_materials-moving_Duration.private|Triz-Manufacturing_Precision+Composite_materials-moving_Duration.private]] 

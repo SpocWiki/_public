@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-stationary_Duration+Segmentation-Automation.md|Triz-stationary_Duration+Segmentation-Automation]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-stationary_Duration+Segmentation-Automation|Triz-stationary_Duration+Segmentation-Automation]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-stationary_Duration+Segmentation-Automation.public|Triz-stationary_Duration+Segmentation-Automation.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-stationary_Duration+Segmentation-Automation.internal|Triz-stationary_Duration+Segmentation-Automation.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-stationary_Duration+Segmentation-Automation.protect|Triz-stationary_Duration+Segmentation-Automation.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-stationary_Duration+Segmentation-Automation.private|Triz-stationary_Duration+Segmentation-Automation.private]] 

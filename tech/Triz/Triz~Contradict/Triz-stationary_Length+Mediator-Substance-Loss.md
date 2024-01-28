@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-stationary_Length+Mediator-Substance-Loss.md|Triz-stationary_Length+Mediator-Substance-Loss]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-stationary_Length+Mediator-Substance-Loss|Triz-stationary_Length+Mediator-Substance-Loss]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-stationary_Length+Mediator-Substance-Loss.public|Triz-stationary_Length+Mediator-Substance-Loss.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-stationary_Length+Mediator-Substance-Loss.internal|Triz-stationary_Length+Mediator-Substance-Loss.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-stationary_Length+Mediator-Substance-Loss.protect|Triz-stationary_Length+Mediator-Substance-Loss.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-stationary_Length+Mediator-Substance-Loss.private|Triz-stationary_Length+Mediator-Substance-Loss.private]] 

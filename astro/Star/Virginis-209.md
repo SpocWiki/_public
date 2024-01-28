@@ -27,7 +27,8 @@ confidential: public
 
 
 ## Confidential Links & Embeds: 
-- [[../../../_public/astro/Star/Virginis-209.md|Virginis-209]] 
+- [[../../../_Standards/astro/Star/Virginis-209|Virginis-209]] 
+- [[../../../_public/astro/Star/Virginis-209.public|Virginis-209.public]] 
 - [[../../../_internal/astro/Star/Virginis-209.internal|Virginis-209.internal]] 
 - [[../../../_protect/astro/Star/Virginis-209.protect|Virginis-209.protect]] 
 - [[../../../_private/astro/Star/Virginis-209.private|Virginis-209.private]] 

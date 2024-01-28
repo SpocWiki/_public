@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-stationary_Volume+Partial,_overdone,_or_excessive_action-Time-Loss.md|Triz-stationary_Volume+Partial,_overdone,_or_excessive_action-Time-Loss]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-stationary_Volume+Partial,_overdone,_or_excessive_action-Time-Loss|Triz-stationary_Volume+Partial,_overdone,_or_excessive_action-Time-Loss]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-stationary_Volume+Partial,_overdone,_or_excessive_action-Time-Loss.public|Triz-stationary_Volume+Partial,_overdone,_or_excessive_action-Time-Loss.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-stationary_Volume+Partial,_overdone,_or_excessive_action-Time-Loss.internal|Triz-stationary_Volume+Partial,_overdone,_or_excessive_action-Time-Loss.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-stationary_Volume+Partial,_overdone,_or_excessive_action-Time-Loss.protect|Triz-stationary_Volume+Partial,_overdone,_or_excessive_action-Time-Loss.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-stationary_Volume+Partial,_overdone,_or_excessive_action-Time-Loss.private|Triz-stationary_Volume+Partial,_overdone,_or_excessive_action-Time-Loss.private]] 

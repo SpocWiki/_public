@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Reliability+Use_of_porous_material-Power.md|Triz-Reliability+Use_of_porous_material-Power]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Reliability+Use_of_porous_material-Power|Triz-Reliability+Use_of_porous_material-Power]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Reliability+Use_of_porous_material-Power.public|Triz-Reliability+Use_of_porous_material-Power.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Reliability+Use_of_porous_material-Power.internal|Triz-Reliability+Use_of_porous_material-Power.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Reliability+Use_of_porous_material-Power.protect|Triz-Reliability+Use_of_porous_material-Power.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Reliability+Use_of_porous_material-Power.private|Triz-Reliability+Use_of_porous_material-Power.private]] 

@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-moving_Area+Use_a_pneumatic_or_hydralic_construction-Reliability.md|Triz-moving_Area+Use_a_pneumatic_or_hydralic_construction-Reliability]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-moving_Area+Use_a_pneumatic_or_hydralic_construction-Reliability|Triz-moving_Area+Use_a_pneumatic_or_hydralic_construction-Reliability]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-moving_Area+Use_a_pneumatic_or_hydralic_construction-Reliability.public|Triz-moving_Area+Use_a_pneumatic_or_hydralic_construction-Reliability.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-moving_Area+Use_a_pneumatic_or_hydralic_construction-Reliability.internal|Triz-moving_Area+Use_a_pneumatic_or_hydralic_construction-Reliability.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-moving_Area+Use_a_pneumatic_or_hydralic_construction-Reliability.protect|Triz-moving_Area+Use_a_pneumatic_or_hydralic_construction-Reliability.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-moving_Area+Use_a_pneumatic_or_hydralic_construction-Reliability.private|Triz-moving_Area+Use_a_pneumatic_or_hydralic_construction-Reliability.private]] 

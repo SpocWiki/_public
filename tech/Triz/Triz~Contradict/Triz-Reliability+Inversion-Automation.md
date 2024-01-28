@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Reliability+Inversion-Automation.md|Triz-Reliability+Inversion-Automation]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Reliability+Inversion-Automation|Triz-Reliability+Inversion-Automation]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Reliability+Inversion-Automation.public|Triz-Reliability+Inversion-Automation.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Reliability+Inversion-Automation.internal|Triz-Reliability+Inversion-Automation.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Reliability+Inversion-Automation.protect|Triz-Reliability+Inversion-Automation.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Reliability+Inversion-Automation.private|Triz-Reliability+Inversion-Automation.private]] 

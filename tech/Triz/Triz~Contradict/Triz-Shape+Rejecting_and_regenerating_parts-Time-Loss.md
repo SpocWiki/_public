@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Shape+Rejecting_and_regenerating_parts-Time-Loss.md|Triz-Shape+Rejecting_and_regenerating_parts-Time-Loss]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Shape+Rejecting_and_regenerating_parts-Time-Loss|Triz-Shape+Rejecting_and_regenerating_parts-Time-Loss]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Shape+Rejecting_and_regenerating_parts-Time-Loss.public|Triz-Shape+Rejecting_and_regenerating_parts-Time-Loss.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Shape+Rejecting_and_regenerating_parts-Time-Loss.internal|Triz-Shape+Rejecting_and_regenerating_parts-Time-Loss.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Shape+Rejecting_and_regenerating_parts-Time-Loss.protect|Triz-Shape+Rejecting_and_regenerating_parts-Time-Loss.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Shape+Rejecting_and_regenerating_parts-Time-Loss.private|Triz-Shape+Rejecting_and_regenerating_parts-Time-Loss.private]] 

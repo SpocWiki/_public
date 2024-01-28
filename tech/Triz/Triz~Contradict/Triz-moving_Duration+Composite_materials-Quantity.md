@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-moving_Duration+Composite_materials-Quantity.md|Triz-moving_Duration+Composite_materials-Quantity]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-moving_Duration+Composite_materials-Quantity|Triz-moving_Duration+Composite_materials-Quantity]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-moving_Duration+Composite_materials-Quantity.public|Triz-moving_Duration+Composite_materials-Quantity.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-moving_Duration+Composite_materials-Quantity.internal|Triz-moving_Duration+Composite_materials-Quantity.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-moving_Duration+Composite_materials-Quantity.protect|Triz-moving_Duration+Composite_materials-Quantity.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-moving_Duration+Composite_materials-Quantity.private|Triz-moving_Duration+Composite_materials-Quantity.private]] 

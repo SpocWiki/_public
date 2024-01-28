@@ -27,7 +27,8 @@ confidential: public
 
 
 ## Confidential Links & Embeds: 
-- [[../../../_public/astro/Star/Lesath.md|Lesath]] 
+- [[../../../_Standards/astro/Star/Lesath|Lesath]] 
+- [[../../../_public/astro/Star/Lesath.public|Lesath.public]] 
 - [[../../../_internal/astro/Star/Lesath.internal|Lesath.internal]] 
 - [[../../../_protect/astro/Star/Lesath.protect|Lesath.protect]] 
 - [[../../../_private/astro/Star/Lesath.private|Lesath.private]] 

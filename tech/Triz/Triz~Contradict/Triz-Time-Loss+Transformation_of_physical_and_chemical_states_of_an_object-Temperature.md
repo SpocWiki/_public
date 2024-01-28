@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Time-Loss+Transformation_of_physical_and_chemical_states_of_an_object-Temperature.md|Triz-Time-Loss+Transformation_of_physical_and_chemical_states_of_an_object-Temperature]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Time-Loss+Transformation_of_physical_and_chemical_states_of_an_object-Temperature|Triz-Time-Loss+Transformation_of_physical_and_chemical_states_of_an_object-Temperature]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Time-Loss+Transformation_of_physical_and_chemical_states_of_an_object-Temperature.public|Triz-Time-Loss+Transformation_of_physical_and_chemical_states_of_an_object-Temperature.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Time-Loss+Transformation_of_physical_and_chemical_states_of_an_object-Temperature.internal|Triz-Time-Loss+Transformation_of_physical_and_chemical_states_of_an_object-Temperature.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Time-Loss+Transformation_of_physical_and_chemical_states_of_an_object-Temperature.protect|Triz-Time-Loss+Transformation_of_physical_and_chemical_states_of_an_object-Temperature.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Time-Loss+Transformation_of_physical_and_chemical_states_of_an_object-Temperature.private|Triz-Time-Loss+Transformation_of_physical_and_chemical_states_of_an_object-Temperature.private]] 

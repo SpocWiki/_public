@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Reliability+Composite_materials-stationary_Duration.md|Triz-Reliability+Composite_materials-stationary_Duration]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Reliability+Composite_materials-stationary_Duration|Triz-Reliability+Composite_materials-stationary_Duration]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Reliability+Composite_materials-stationary_Duration.public|Triz-Reliability+Composite_materials-stationary_Duration.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Reliability+Composite_materials-stationary_Duration.internal|Triz-Reliability+Composite_materials-stationary_Duration.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Reliability+Composite_materials-stationary_Duration.protect|Triz-Reliability+Composite_materials-stationary_Duration.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Reliability+Composite_materials-stationary_Duration.private|Triz-Reliability+Composite_materials-stationary_Duration.private]] 

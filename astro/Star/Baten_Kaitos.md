@@ -27,7 +27,8 @@ confidential: public
 
 
 ## Confidential Links & Embeds: 
-- [[../../../_public/astro/Star/Baten_Kaitos.md|Baten_Kaitos]] 
+- [[../../../_Standards/astro/Star/Baten_Kaitos|Baten_Kaitos]] 
+- [[../../../_public/astro/Star/Baten_Kaitos.public|Baten_Kaitos.public]] 
 - [[../../../_internal/astro/Star/Baten_Kaitos.internal|Baten_Kaitos.internal]] 
 - [[../../../_protect/astro/Star/Baten_Kaitos.protect|Baten_Kaitos.protect]] 
 - [[../../../_private/astro/Star/Baten_Kaitos.private|Baten_Kaitos.private]] 

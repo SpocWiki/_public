@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Automation+Transformation_of_physical_and_chemical_states_of_an_object-moving_Weight.md|Triz-Automation+Transformation_of_physical_and_chemical_states_of_an_object-moving_Weight]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Automation+Transformation_of_physical_and_chemical_states_of_an_object-moving_Weight|Triz-Automation+Transformation_of_physical_and_chemical_states_of_an_object-moving_Weight]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Automation+Transformation_of_physical_and_chemical_states_of_an_object-moving_Weight.public|Triz-Automation+Transformation_of_physical_and_chemical_states_of_an_object-moving_Weight.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Automation+Transformation_of_physical_and_chemical_states_of_an_object-moving_Weight.internal|Triz-Automation+Transformation_of_physical_and_chemical_states_of_an_object-moving_Weight.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Automation+Transformation_of_physical_and_chemical_states_of_an_object-moving_Weight.protect|Triz-Automation+Transformation_of_physical_and_chemical_states_of_an_object-moving_Weight.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Automation+Transformation_of_physical_and_chemical_states_of_an_object-moving_Weight.private|Triz-Automation+Transformation_of_physical_and_chemical_states_of_an_object-moving_Weight.private]] 

@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Power+Asymmetry-Quantity.md|Triz-Power+Asymmetry-Quantity]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Power+Asymmetry-Quantity|Triz-Power+Asymmetry-Quantity]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Power+Asymmetry-Quantity.public|Triz-Power+Asymmetry-Quantity.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Power+Asymmetry-Quantity.internal|Triz-Power+Asymmetry-Quantity.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Power+Asymmetry-Quantity.protect|Triz-Power+Asymmetry-Quantity.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Power+Asymmetry-Quantity.private|Triz-Power+Asymmetry-Quantity.private]] 

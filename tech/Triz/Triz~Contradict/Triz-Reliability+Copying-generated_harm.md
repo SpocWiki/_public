@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Reliability+Copying-generated_harm.md|Triz-Reliability+Copying-generated_harm]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Reliability+Copying-generated_harm|Triz-Reliability+Copying-generated_harm]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Reliability+Copying-generated_harm.public|Triz-Reliability+Copying-generated_harm.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Reliability+Copying-generated_harm.internal|Triz-Reliability+Copying-generated_harm.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Reliability+Copying-generated_harm.protect|Triz-Reliability+Copying-generated_harm.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Reliability+Copying-generated_harm.private|Triz-Reliability+Copying-generated_harm.private]] 

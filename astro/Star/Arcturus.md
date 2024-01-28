@@ -27,7 +27,8 @@ confidential: public
 
 
 ## Confidential Links & Embeds: 
-- [[../../../_public/astro/Star/Arcturus.md|Arcturus]] 
+- [[../../../_Standards/astro/Star/Arcturus|Arcturus]] 
+- [[../../../_public/astro/Star/Arcturus.public|Arcturus.public]] 
 - [[../../../_internal/astro/Star/Arcturus.internal|Arcturus.internal]] 
 - [[../../../_protect/astro/Star/Arcturus.protect|Arcturus.protect]] 
 - [[../../../_private/astro/Star/Arcturus.private|Arcturus.private]] 

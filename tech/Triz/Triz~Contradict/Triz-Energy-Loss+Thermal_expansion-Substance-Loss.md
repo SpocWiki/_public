@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Energy-Loss+Thermal_expansion-Substance-Loss.md|Triz-Energy-Loss+Thermal_expansion-Substance-Loss]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Energy-Loss+Thermal_expansion-Substance-Loss|Triz-Energy-Loss+Thermal_expansion-Substance-Loss]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Energy-Loss+Thermal_expansion-Substance-Loss.public|Triz-Energy-Loss+Thermal_expansion-Substance-Loss.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Energy-Loss+Thermal_expansion-Substance-Loss.internal|Triz-Energy-Loss+Thermal_expansion-Substance-Loss.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Energy-Loss+Thermal_expansion-Substance-Loss.protect|Triz-Energy-Loss+Thermal_expansion-Substance-Loss.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Energy-Loss+Thermal_expansion-Substance-Loss.private|Triz-Energy-Loss+Thermal_expansion-Substance-Loss.private]] 

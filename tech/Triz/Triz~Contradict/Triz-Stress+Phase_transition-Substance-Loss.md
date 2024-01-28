@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Stress+Phase_transition-Substance-Loss.md|Triz-Stress+Phase_transition-Substance-Loss]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Stress+Phase_transition-Substance-Loss|Triz-Stress+Phase_transition-Substance-Loss]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Stress+Phase_transition-Substance-Loss.public|Triz-Stress+Phase_transition-Substance-Loss.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Stress+Phase_transition-Substance-Loss.internal|Triz-Stress+Phase_transition-Substance-Loss.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Stress+Phase_transition-Substance-Loss.protect|Triz-Stress+Phase_transition-Substance-Loss.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Stress+Phase_transition-Substance-Loss.private|Triz-Stress+Phase_transition-Substance-Loss.private]] 

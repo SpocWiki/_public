@@ -14,7 +14,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Principle/Triz-Mechanical_vibration.md|Triz-Mechanical_vibration]] 
+- [[../../../../_Standards/tech/Triz/Principle/Triz-Mechanical_vibration|Triz-Mechanical_vibration]] 
+- [[../../../../_public/tech/Triz/Principle/Triz-Mechanical_vibration.public|Triz-Mechanical_vibration.public]] 
 - [[../../../../_internal/tech/Triz/Principle/Triz-Mechanical_vibration.internal|Triz-Mechanical_vibration.internal]] 
 - [[../../../../_protect/tech/Triz/Principle/Triz-Mechanical_vibration.protect|Triz-Mechanical_vibration.protect]] 
 - [[../../../../_private/tech/Triz/Principle/Triz-Mechanical_vibration.private|Triz-Mechanical_vibration.private]] 

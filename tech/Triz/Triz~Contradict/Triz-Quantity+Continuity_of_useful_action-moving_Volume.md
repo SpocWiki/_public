@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Quantity+Continuity_of_useful_action-moving_Volume.md|Triz-Quantity+Continuity_of_useful_action-moving_Volume]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Quantity+Continuity_of_useful_action-moving_Volume|Triz-Quantity+Continuity_of_useful_action-moving_Volume]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Quantity+Continuity_of_useful_action-moving_Volume.public|Triz-Quantity+Continuity_of_useful_action-moving_Volume.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Quantity+Continuity_of_useful_action-moving_Volume.internal|Triz-Quantity+Continuity_of_useful_action-moving_Volume.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Quantity+Continuity_of_useful_action-moving_Volume.protect|Triz-Quantity+Continuity_of_useful_action-moving_Volume.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Quantity+Continuity_of_useful_action-moving_Volume.private|Triz-Quantity+Continuity_of_useful_action-moving_Volume.private]] 

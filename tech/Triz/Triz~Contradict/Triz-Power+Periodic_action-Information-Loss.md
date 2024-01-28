@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Power+Periodic_action-Information-Loss.md|Triz-Power+Periodic_action-Information-Loss]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Power+Periodic_action-Information-Loss|Triz-Power+Periodic_action-Information-Loss]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Power+Periodic_action-Information-Loss.public|Triz-Power+Periodic_action-Information-Loss.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Power+Periodic_action-Information-Loss.internal|Triz-Power+Periodic_action-Information-Loss.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Power+Periodic_action-Information-Loss.protect|Triz-Power+Periodic_action-Information-Loss.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Power+Periodic_action-Information-Loss.private|Triz-Power+Periodic_action-Information-Loss.private]] 

@@ -27,7 +27,8 @@ Use harmful factors (particularly, harmful effects of the environment or surroun
 - 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Sub/Triz-accept-harm.md|Triz-accept-harm]] 
+- [[../../../../_Standards/tech/Triz/Sub/Triz-accept-harm|Triz-accept-harm]] 
+- [[../../../../_public/tech/Triz/Sub/Triz-accept-harm.public|Triz-accept-harm.public]] 
 - [[../../../../_internal/tech/Triz/Sub/Triz-accept-harm.internal|Triz-accept-harm.internal]] 
 - [[../../../../_protect/tech/Triz/Sub/Triz-accept-harm.protect|Triz-accept-harm.protect]] 
 - [[../../../../_private/tech/Triz/Sub/Triz-accept-harm.private|Triz-accept-harm.private]] 

@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Reliability+Partial,_overdone,_or_excessive_action-Shape.md|Triz-Reliability+Partial,_overdone,_or_excessive_action-Shape]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Reliability+Partial,_overdone,_or_excessive_action-Shape|Triz-Reliability+Partial,_overdone,_or_excessive_action-Shape]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Reliability+Partial,_overdone,_or_excessive_action-Shape.public|Triz-Reliability+Partial,_overdone,_or_excessive_action-Shape.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Reliability+Partial,_overdone,_or_excessive_action-Shape.internal|Triz-Reliability+Partial,_overdone,_or_excessive_action-Shape.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Reliability+Partial,_overdone,_or_excessive_action-Shape.protect|Triz-Reliability+Partial,_overdone,_or_excessive_action-Shape.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Reliability+Partial,_overdone,_or_excessive_action-Shape.private|Triz-Reliability+Partial,_overdone,_or_excessive_action-Shape.private]] 

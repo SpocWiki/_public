@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Manufacturing_Precision+Extraction-Power.md|Triz-Manufacturing_Precision+Extraction-Power]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Manufacturing_Precision+Extraction-Power|Triz-Manufacturing_Precision+Extraction-Power]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Manufacturing_Precision+Extraction-Power.public|Triz-Manufacturing_Precision+Extraction-Power.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Manufacturing_Precision+Extraction-Power.internal|Triz-Manufacturing_Precision+Extraction-Power.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Manufacturing_Precision+Extraction-Power.protect|Triz-Manufacturing_Precision+Extraction-Power.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Manufacturing_Precision+Extraction-Power.private|Triz-Manufacturing_Precision+Extraction-Power.private]] 

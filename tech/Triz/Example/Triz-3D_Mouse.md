@@ -17,7 +17,8 @@ tags:
 Infrared Computer Mouse moves in Space, instead of on a Surface, for Presentations.
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Example/Triz-3D_Mouse.md|Triz-3D_Mouse]] 
+- [[../../../../_Standards/tech/Triz/Example/Triz-3D_Mouse|Triz-3D_Mouse]] 
+- [[../../../../_public/tech/Triz/Example/Triz-3D_Mouse.public|Triz-3D_Mouse.public]] 
 - [[../../../../_internal/tech/Triz/Example/Triz-3D_Mouse.internal|Triz-3D_Mouse.internal]] 
 - [[../../../../_protect/tech/Triz/Example/Triz-3D_Mouse.protect|Triz-3D_Mouse.protect]] 
 - [[../../../../_private/tech/Triz/Example/Triz-3D_Mouse.private|Triz-3D_Mouse.private]] 

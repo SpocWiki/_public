@@ -27,7 +27,8 @@ confidential: public
 
 
 ## Confidential Links & Embeds: 
-- [[../../../_public/astro/Star/Alcor.md|Alcor]] 
+- [[../../../_Standards/astro/Star/Alcor|Alcor]] 
+- [[../../../_public/astro/Star/Alcor.public|Alcor.public]] 
 - [[../../../_internal/astro/Star/Alcor.internal|Alcor.internal]] 
 - [[../../../_protect/astro/Star/Alcor.protect|Alcor.protect]] 
 - [[../../../_private/astro/Star/Alcor.private|Alcor.private]] 

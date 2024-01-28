@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Ease_of_manufacture+Transformation_of_physical_and_chemical_states_of_an_object-stationary_Duration.md|Triz-Ease_of_manufacture+Transformation_of_physical_and_chemical_states_of_an_object-stationary_Duration]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Ease_of_manufacture+Transformation_of_physical_and_chemical_states_of_an_object-stationary_Duration|Triz-Ease_of_manufacture+Transformation_of_physical_and_chemical_states_of_an_object-stationary_Duration]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Ease_of_manufacture+Transformation_of_physical_and_chemical_states_of_an_object-stationary_Duration.public|Triz-Ease_of_manufacture+Transformation_of_physical_and_chemical_states_of_an_object-stationary_Duration.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Ease_of_manufacture+Transformation_of_physical_and_chemical_states_of_an_object-stationary_Duration.internal|Triz-Ease_of_manufacture+Transformation_of_physical_and_chemical_states_of_an_object-stationary_Duration.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Ease_of_manufacture+Transformation_of_physical_and_chemical_states_of_an_object-stationary_Duration.protect|Triz-Ease_of_manufacture+Transformation_of_physical_and_chemical_states_of_an_object-stationary_Duration.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Ease_of_manufacture+Transformation_of_physical_and_chemical_states_of_an_object-stationary_Duration.private|Triz-Ease_of_manufacture+Transformation_of_physical_and_chemical_states_of_an_object-stationary_Duration.private]] 

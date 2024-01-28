@@ -27,7 +27,8 @@ confidential: public
 
 
 ## Confidential Links & Embeds: 
-- [[../../../_public/astro/Star/Scorpii-18.md|Scorpii-18]] 
+- [[../../../_Standards/astro/Star/Scorpii-18|Scorpii-18]] 
+- [[../../../_public/astro/Star/Scorpii-18.public|Scorpii-18.public]] 
 - [[../../../_internal/astro/Star/Scorpii-18.internal|Scorpii-18.internal]] 
 - [[../../../_protect/astro/Star/Scorpii-18.protect|Scorpii-18.protect]] 
 - [[../../../_private/astro/Star/Scorpii-18.private|Scorpii-18.private]] 

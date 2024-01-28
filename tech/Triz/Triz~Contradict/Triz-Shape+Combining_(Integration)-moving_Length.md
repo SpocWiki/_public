@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Shape+Combining_(Integration)-moving_Length.md|Triz-Shape+Combining_(Integration)-moving_Length]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Shape+Combining_(Integration)-moving_Length|Triz-Shape+Combining_(Integration)-moving_Length]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Shape+Combining_(Integration)-moving_Length.public|Triz-Shape+Combining_(Integration)-moving_Length.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Shape+Combining_(Integration)-moving_Length.internal|Triz-Shape+Combining_(Integration)-moving_Length.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Shape+Combining_(Integration)-moving_Length.protect|Triz-Shape+Combining_(Integration)-moving_Length.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Shape+Combining_(Integration)-moving_Length.private|Triz-Shape+Combining_(Integration)-moving_Length.private]] 

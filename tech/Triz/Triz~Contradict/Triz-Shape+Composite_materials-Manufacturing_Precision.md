@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Shape+Composite_materials-Manufacturing_Precision.md|Triz-Shape+Composite_materials-Manufacturing_Precision]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Shape+Composite_materials-Manufacturing_Precision|Triz-Shape+Composite_materials-Manufacturing_Precision]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Shape+Composite_materials-Manufacturing_Precision.public|Triz-Shape+Composite_materials-Manufacturing_Precision.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Shape+Composite_materials-Manufacturing_Precision.internal|Triz-Shape+Composite_materials-Manufacturing_Precision.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Shape+Composite_materials-Manufacturing_Precision.protect|Triz-Shape+Composite_materials-Manufacturing_Precision.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Shape+Composite_materials-Manufacturing_Precision.private|Triz-Shape+Composite_materials-Manufacturing_Precision.private]] 

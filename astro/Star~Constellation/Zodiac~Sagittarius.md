@@ -18,7 +18,8 @@ ZodiacPos: 9
 
 
 ## Confidential Links & Embeds: 
-- [[../../../_public/astro/Zodiac/Zodiac~Sagittarius.md|Zodiac~Sagittarius]] 
+- [[../../../_Standards/astro/Zodiac/Zodiac~Sagittarius|Zodiac~Sagittarius]] 
+- [[../../../_public/astro/Zodiac/Zodiac~Sagittarius.public|Zodiac~Sagittarius.public]] 
 - [[../../../_internal/astro/Zodiac/Zodiac~Sagittarius.internal|Zodiac~Sagittarius.internal]] 
 - [[../../../_protect/astro/Zodiac/Zodiac~Sagittarius.protect|Zodiac~Sagittarius.protect]] 
 - [[../../../_private/astro/Zodiac/Zodiac~Sagittarius.private|Zodiac~Sagittarius.private]] 

@@ -27,7 +27,8 @@ confidential: public
 
 
 ## Confidential Links & Embeds: 
-- [[../../../_public/astro/Star/Kaus_Borealis.md|Kaus_Borealis]] 
+- [[../../../_Standards/astro/Star/Kaus_Borealis|Kaus_Borealis]] 
+- [[../../../_public/astro/Star/Kaus_Borealis.public|Kaus_Borealis.public]] 
 - [[../../../_internal/astro/Star/Kaus_Borealis.internal|Kaus_Borealis.internal]] 
 - [[../../../_protect/astro/Star/Kaus_Borealis.protect|Kaus_Borealis.protect]] 
 - [[../../../_private/astro/Star/Kaus_Borealis.private|Kaus_Borealis.private]] 

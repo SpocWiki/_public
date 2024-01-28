@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Complexity+Extraction-stationary_Weight.md|Triz-Complexity+Extraction-stationary_Weight]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Complexity+Extraction-stationary_Weight|Triz-Complexity+Extraction-stationary_Weight]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Complexity+Extraction-stationary_Weight.public|Triz-Complexity+Extraction-stationary_Weight.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Complexity+Extraction-stationary_Weight.internal|Triz-Complexity+Extraction-stationary_Weight.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Complexity+Extraction-stationary_Weight.protect|Triz-Complexity+Extraction-stationary_Weight.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Complexity+Extraction-stationary_Weight.private|Triz-Complexity+Extraction-stationary_Weight.private]] 

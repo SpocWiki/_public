@@ -17,7 +17,8 @@ tags:
 Use Laser Pulses to process Material and Surfaces without affecting it. (also Principle 19, pulsed Action)
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Example/Triz-Laser_Pulses.md|Triz-Laser_Pulses]] 
+- [[../../../../_Standards/tech/Triz/Example/Triz-Laser_Pulses|Triz-Laser_Pulses]] 
+- [[../../../../_public/tech/Triz/Example/Triz-Laser_Pulses.public|Triz-Laser_Pulses.public]] 
 - [[../../../../_internal/tech/Triz/Example/Triz-Laser_Pulses.internal|Triz-Laser_Pulses.internal]] 
 - [[../../../../_protect/tech/Triz/Example/Triz-Laser_Pulses.protect|Triz-Laser_Pulses.protect]] 
 - [[../../../../_private/tech/Triz/Example/Triz-Laser_Pulses.private|Triz-Laser_Pulses.private]] 

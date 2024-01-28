@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Stress+Dynamicity-stationary_Area.md|Triz-Stress+Dynamicity-stationary_Area]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Stress+Dynamicity-stationary_Area|Triz-Stress+Dynamicity-stationary_Area]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Stress+Dynamicity-stationary_Area.public|Triz-Stress+Dynamicity-stationary_Area.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Stress+Dynamicity-stationary_Area.internal|Triz-Stress+Dynamicity-stationary_Area.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Stress+Dynamicity-stationary_Area.protect|Triz-Stress+Dynamicity-stationary_Area.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Stress+Dynamicity-stationary_Area.private|Triz-Stress+Dynamicity-stationary_Area.private]] 

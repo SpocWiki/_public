@@ -16,7 +16,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../_public/astro/Zodiac/Zodiac~Crux.md|Zodiac~Crux]] 
+- [[../../../_Standards/astro/Zodiac/Zodiac~Crux|Zodiac~Crux]] 
+- [[../../../_public/astro/Zodiac/Zodiac~Crux.public|Zodiac~Crux.public]] 
 - [[../../../_internal/astro/Zodiac/Zodiac~Crux.internal|Zodiac~Crux.internal]] 
 - [[../../../_protect/astro/Zodiac/Zodiac~Crux.protect|Zodiac~Crux.protect]] 
 - [[../../../_private/astro/Zodiac/Zodiac~Crux.private|Zodiac~Crux.private]] 

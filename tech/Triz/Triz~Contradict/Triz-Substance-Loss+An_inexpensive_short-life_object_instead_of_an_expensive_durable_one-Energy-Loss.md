@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Substance-Loss+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Energy-Loss.md|Triz-Substance-Loss+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Energy-Loss]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Substance-Loss+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Energy-Loss|Triz-Substance-Loss+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Energy-Loss]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Substance-Loss+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Energy-Loss.public|Triz-Substance-Loss+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Energy-Loss.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Substance-Loss+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Energy-Loss.internal|Triz-Substance-Loss+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Energy-Loss.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Substance-Loss+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Energy-Loss.protect|Triz-Substance-Loss+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Energy-Loss.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Substance-Loss+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Energy-Loss.private|Triz-Substance-Loss+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Energy-Loss.private]] 

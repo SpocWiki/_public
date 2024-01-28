@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-moving_Area+Spheroidality-Complexity.md|Triz-moving_Area+Spheroidality-Complexity]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-moving_Area+Spheroidality-Complexity|Triz-moving_Area+Spheroidality-Complexity]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-moving_Area+Spheroidality-Complexity.public|Triz-moving_Area+Spheroidality-Complexity.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-moving_Area+Spheroidality-Complexity.internal|Triz-moving_Area+Spheroidality-Complexity.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-moving_Area+Spheroidality-Complexity.protect|Triz-moving_Area+Spheroidality-Complexity.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-moving_Area+Spheroidality-Complexity.private|Triz-moving_Area+Spheroidality-Complexity.private]] 

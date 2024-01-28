@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Automation+Inversion-Quantity.md|Triz-Automation+Inversion-Quantity]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Automation+Inversion-Quantity|Triz-Automation+Inversion-Quantity]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Automation+Inversion-Quantity.public|Triz-Automation+Inversion-Quantity.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Automation+Inversion-Quantity.internal|Triz-Automation+Inversion-Quantity.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Automation+Inversion-Quantity.protect|Triz-Automation+Inversion-Quantity.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Automation+Inversion-Quantity.private|Triz-Automation+Inversion-Quantity.private]] 

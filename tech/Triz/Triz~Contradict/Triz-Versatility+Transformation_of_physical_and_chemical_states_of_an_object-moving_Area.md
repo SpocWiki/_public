@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Versatility+Transformation_of_physical_and_chemical_states_of_an_object-moving_Area.md|Triz-Versatility+Transformation_of_physical_and_chemical_states_of_an_object-moving_Area]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Versatility+Transformation_of_physical_and_chemical_states_of_an_object-moving_Area|Triz-Versatility+Transformation_of_physical_and_chemical_states_of_an_object-moving_Area]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Versatility+Transformation_of_physical_and_chemical_states_of_an_object-moving_Area.public|Triz-Versatility+Transformation_of_physical_and_chemical_states_of_an_object-moving_Area.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Versatility+Transformation_of_physical_and_chemical_states_of_an_object-moving_Area.internal|Triz-Versatility+Transformation_of_physical_and_chemical_states_of_an_object-moving_Area.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Versatility+Transformation_of_physical_and_chemical_states_of_an_object-moving_Area.protect|Triz-Versatility+Transformation_of_physical_and_chemical_states_of_an_object-moving_Area.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Versatility+Transformation_of_physical_and_chemical_states_of_an_object-moving_Area.private|Triz-Versatility+Transformation_of_physical_and_chemical_states_of_an_object-moving_Area.private]] 

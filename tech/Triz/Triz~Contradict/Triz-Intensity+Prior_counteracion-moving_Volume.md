@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Intensity+Prior_counteracion-moving_Volume.md|Triz-Intensity+Prior_counteracion-moving_Volume]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Intensity+Prior_counteracion-moving_Volume|Triz-Intensity+Prior_counteracion-moving_Volume]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Intensity+Prior_counteracion-moving_Volume.public|Triz-Intensity+Prior_counteracion-moving_Volume.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Intensity+Prior_counteracion-moving_Volume.internal|Triz-Intensity+Prior_counteracion-moving_Volume.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Intensity+Prior_counteracion-moving_Volume.protect|Triz-Intensity+Prior_counteracion-moving_Volume.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Intensity+Prior_counteracion-moving_Volume.private|Triz-Intensity+Prior_counteracion-moving_Volume.private]] 

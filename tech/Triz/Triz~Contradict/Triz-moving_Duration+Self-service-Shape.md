@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-moving_Duration+Self-service-Shape.md|Triz-moving_Duration+Self-service-Shape]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-moving_Duration+Self-service-Shape|Triz-moving_Duration+Self-service-Shape]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-moving_Duration+Self-service-Shape.public|Triz-moving_Duration+Self-service-Shape.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-moving_Duration+Self-service-Shape.internal|Triz-moving_Duration+Self-service-Shape.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-moving_Duration+Self-service-Shape.protect|Triz-moving_Duration+Self-service-Shape.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-moving_Duration+Self-service-Shape.private|Triz-moving_Duration+Self-service-Shape.private]] 

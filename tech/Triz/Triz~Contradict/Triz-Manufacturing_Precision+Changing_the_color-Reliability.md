@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Manufacturing_Precision+Changing_the_color-Reliability.md|Triz-Manufacturing_Precision+Changing_the_color-Reliability]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Manufacturing_Precision+Changing_the_color-Reliability|Triz-Manufacturing_Precision+Changing_the_color-Reliability]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Manufacturing_Precision+Changing_the_color-Reliability.public|Triz-Manufacturing_Precision+Changing_the_color-Reliability.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Manufacturing_Precision+Changing_the_color-Reliability.internal|Triz-Manufacturing_Precision+Changing_the_color-Reliability.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Manufacturing_Precision+Changing_the_color-Reliability.protect|Triz-Manufacturing_Precision+Changing_the_color-Reliability.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Manufacturing_Precision+Changing_the_color-Reliability.private|Triz-Manufacturing_Precision+Changing_the_color-Reliability.private]] 

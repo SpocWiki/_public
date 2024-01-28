@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Stress+Local_quality-Substance-Loss.md|Triz-Stress+Local_quality-Substance-Loss]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Stress+Local_quality-Substance-Loss|Triz-Stress+Local_quality-Substance-Loss]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Stress+Local_quality-Substance-Loss.public|Triz-Stress+Local_quality-Substance-Loss.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Stress+Local_quality-Substance-Loss.internal|Triz-Stress+Local_quality-Substance-Loss.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Stress+Local_quality-Substance-Loss.protect|Triz-Stress+Local_quality-Substance-Loss.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Stress+Local_quality-Substance-Loss.private|Triz-Stress+Local_quality-Substance-Loss.private]] 

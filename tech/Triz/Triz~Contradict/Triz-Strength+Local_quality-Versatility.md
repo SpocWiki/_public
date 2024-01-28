@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Strength+Local_quality-Versatility.md|Triz-Strength+Local_quality-Versatility]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Strength+Local_quality-Versatility|Triz-Strength+Local_quality-Versatility]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Strength+Local_quality-Versatility.public|Triz-Strength+Local_quality-Versatility.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Strength+Local_quality-Versatility.internal|Triz-Strength+Local_quality-Versatility.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Strength+Local_quality-Versatility.protect|Triz-Strength+Local_quality-Versatility.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Strength+Local_quality-Versatility.private|Triz-Strength+Local_quality-Versatility.private]] 

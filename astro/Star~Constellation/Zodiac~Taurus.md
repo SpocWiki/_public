@@ -18,7 +18,8 @@ ZodiacPos: 2
 
 
 ## Confidential Links & Embeds: 
-- [[../../../_public/astro/Zodiac/Zodiac~Taurus.md|Zodiac~Taurus]] 
+- [[../../../_Standards/astro/Zodiac/Zodiac~Taurus|Zodiac~Taurus]] 
+- [[../../../_public/astro/Zodiac/Zodiac~Taurus.public|Zodiac~Taurus.public]] 
 - [[../../../_internal/astro/Zodiac/Zodiac~Taurus.internal|Zodiac~Taurus.internal]] 
 - [[../../../_protect/astro/Zodiac/Zodiac~Taurus.protect|Zodiac~Taurus.protect]] 
 - [[../../../_private/astro/Zodiac/Zodiac~Taurus.private|Zodiac~Taurus.private]] 

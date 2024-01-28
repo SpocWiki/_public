@@ -25,7 +25,8 @@ Isolate the object from the external Environment using flexible shells and thin 
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Sub/Triz-isolate.md|Triz-isolate]] 
+- [[../../../../_Standards/tech/Triz/Sub/Triz-isolate|Triz-isolate]] 
+- [[../../../../_public/tech/Triz/Sub/Triz-isolate.public|Triz-isolate.public]] 
 - [[../../../../_internal/tech/Triz/Sub/Triz-isolate.internal|Triz-isolate.internal]] 
 - [[../../../../_protect/tech/Triz/Sub/Triz-isolate.protect|Triz-isolate.protect]] 
 - [[../../../../_private/tech/Triz/Sub/Triz-isolate.private|Triz-isolate.private]] 

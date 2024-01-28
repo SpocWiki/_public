@@ -27,7 +27,8 @@ confidential: public
 
 
 ## Confidential Links & Embeds: 
-- [[../../../_public/astro/Star/Andromedae-6.md|Andromedae-6]] 
+- [[../../../_Standards/astro/Star/Andromedae-6|Andromedae-6]] 
+- [[../../../_public/astro/Star/Andromedae-6.public|Andromedae-6.public]] 
 - [[../../../_internal/astro/Star/Andromedae-6.internal|Andromedae-6.internal]] 
 - [[../../../_protect/astro/Star/Andromedae-6.protect|Andromedae-6.protect]] 
 - [[../../../_private/astro/Star/Andromedae-6.private|Andromedae-6.private]] 

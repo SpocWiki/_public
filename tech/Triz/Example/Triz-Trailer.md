@@ -17,7 +17,8 @@ tags:
 Replace a large Truck by a Truck and Trailer.
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Example/Triz-Trailer.md|Triz-Trailer]] 
+- [[../../../../_Standards/tech/Triz/Example/Triz-Trailer|Triz-Trailer]] 
+- [[../../../../_public/tech/Triz/Example/Triz-Trailer.public|Triz-Trailer.public]] 
 - [[../../../../_internal/tech/Triz/Example/Triz-Trailer.internal|Triz-Trailer.internal]] 
 - [[../../../../_protect/tech/Triz/Example/Triz-Trailer.protect|Triz-Trailer.protect]] 
 - [[../../../../_private/tech/Triz/Example/Triz-Trailer.private|Triz-Trailer.private]] 

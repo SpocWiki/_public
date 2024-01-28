@@ -14,7 +14,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Principle/Triz-Replacement_of_a_mechanical_system.md|Triz-Replacement_of_a_mechanical_system]] 
+- [[../../../../_Standards/tech/Triz/Principle/Triz-Replacement_of_a_mechanical_system|Triz-Replacement_of_a_mechanical_system]] 
+- [[../../../../_public/tech/Triz/Principle/Triz-Replacement_of_a_mechanical_system.public|Triz-Replacement_of_a_mechanical_system.public]] 
 - [[../../../../_internal/tech/Triz/Principle/Triz-Replacement_of_a_mechanical_system.internal|Triz-Replacement_of_a_mechanical_system.internal]] 
 - [[../../../../_protect/tech/Triz/Principle/Triz-Replacement_of_a_mechanical_system.protect|Triz-Replacement_of_a_mechanical_system.protect]] 
 - [[../../../../_private/tech/Triz/Principle/Triz-Replacement_of_a_mechanical_system.private|Triz-Replacement_of_a_mechanical_system.private]] 

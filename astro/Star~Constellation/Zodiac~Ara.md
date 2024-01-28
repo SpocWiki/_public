@@ -16,7 +16,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../_public/astro/Zodiac/Zodiac~Ara.md|Zodiac~Ara]] 
+- [[../../../_Standards/astro/Zodiac/Zodiac~Ara|Zodiac~Ara]] 
+- [[../../../_public/astro/Zodiac/Zodiac~Ara.public|Zodiac~Ara.public]] 
 - [[../../../_internal/astro/Zodiac/Zodiac~Ara.internal|Zodiac~Ara.internal]] 
 - [[../../../_protect/astro/Zodiac/Zodiac~Ara.protect|Zodiac~Ara.protect]] 
 - [[../../../_private/astro/Zodiac/Zodiac~Ara.private|Zodiac~Ara.private]] 

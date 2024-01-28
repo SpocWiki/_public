@@ -14,7 +14,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Principle/Triz-Segmentation.md|Triz-Segmentation]] 
+- [[../../../../_Standards/tech/Triz/Principle/Triz-Segmentation|Triz-Segmentation]] 
+- [[../../../../_public/tech/Triz/Principle/Triz-Segmentation.public|Triz-Segmentation.public]] 
 - [[../../../../_internal/tech/Triz/Principle/Triz-Segmentation.internal|Triz-Segmentation.internal]] 
 - [[../../../../_protect/tech/Triz/Principle/Triz-Segmentation.protect|Triz-Segmentation.protect]] 
 - [[../../../../_private/tech/Triz/Principle/Triz-Segmentation.private|Triz-Segmentation.private]] 

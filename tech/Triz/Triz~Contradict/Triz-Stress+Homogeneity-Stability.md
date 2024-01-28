@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Stress+Homogeneity-Stability.md|Triz-Stress+Homogeneity-Stability]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Stress+Homogeneity-Stability|Triz-Stress+Homogeneity-Stability]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Stress+Homogeneity-Stability.public|Triz-Stress+Homogeneity-Stability.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Stress+Homogeneity-Stability.internal|Triz-Stress+Homogeneity-Stability.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Stress+Homogeneity-Stability.protect|Triz-Stress+Homogeneity-Stability.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Stress+Homogeneity-Stability.private|Triz-Stress+Homogeneity-Stability.private]] 

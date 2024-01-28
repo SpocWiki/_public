@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Ease_of_operation+Rejecting_and_regenerating_parts-Power.md|Triz-Ease_of_operation+Rejecting_and_regenerating_parts-Power]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Ease_of_operation+Rejecting_and_regenerating_parts-Power|Triz-Ease_of_operation+Rejecting_and_regenerating_parts-Power]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Ease_of_operation+Rejecting_and_regenerating_parts-Power.public|Triz-Ease_of_operation+Rejecting_and_regenerating_parts-Power.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Ease_of_operation+Rejecting_and_regenerating_parts-Power.internal|Triz-Ease_of_operation+Rejecting_and_regenerating_parts-Power.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Ease_of_operation+Rejecting_and_regenerating_parts-Power.protect|Triz-Ease_of_operation+Rejecting_and_regenerating_parts-Power.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Ease_of_operation+Rejecting_and_regenerating_parts-Power.private|Triz-Ease_of_operation+Rejecting_and_regenerating_parts-Power.private]] 

@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Automation+Homogeneity-Information-Loss.md|Triz-Automation+Homogeneity-Information-Loss]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Automation+Homogeneity-Information-Loss|Triz-Automation+Homogeneity-Information-Loss]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Automation+Homogeneity-Information-Loss.public|Triz-Automation+Homogeneity-Information-Loss.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Automation+Homogeneity-Information-Loss.internal|Triz-Automation+Homogeneity-Information-Loss.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Automation+Homogeneity-Information-Loss.protect|Triz-Automation+Homogeneity-Information-Loss.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Automation+Homogeneity-Information-Loss.private|Triz-Automation+Homogeneity-Information-Loss.private]] 

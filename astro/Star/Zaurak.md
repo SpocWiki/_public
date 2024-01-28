@@ -27,7 +27,8 @@ confidential: public
 
 
 ## Confidential Links & Embeds: 
-- [[../../../_public/astro/Star/Zaurak.md|Zaurak]] 
+- [[../../../_Standards/astro/Star/Zaurak|Zaurak]] 
+- [[../../../_public/astro/Star/Zaurak.public|Zaurak.public]] 
 - [[../../../_internal/astro/Star/Zaurak.internal|Zaurak.internal]] 
 - [[../../../_protect/astro/Star/Zaurak.protect|Zaurak.protect]] 
 - [[../../../_private/astro/Star/Zaurak.private|Zaurak.private]] 

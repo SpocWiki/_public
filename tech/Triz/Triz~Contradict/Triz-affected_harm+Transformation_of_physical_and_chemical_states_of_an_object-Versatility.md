@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-affected_harm+Transformation_of_physical_and_chemical_states_of_an_object-Versatility.md|Triz-affected_harm+Transformation_of_physical_and_chemical_states_of_an_object-Versatility]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-affected_harm+Transformation_of_physical_and_chemical_states_of_an_object-Versatility|Triz-affected_harm+Transformation_of_physical_and_chemical_states_of_an_object-Versatility]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-affected_harm+Transformation_of_physical_and_chemical_states_of_an_object-Versatility.public|Triz-affected_harm+Transformation_of_physical_and_chemical_states_of_an_object-Versatility.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-affected_harm+Transformation_of_physical_and_chemical_states_of_an_object-Versatility.internal|Triz-affected_harm+Transformation_of_physical_and_chemical_states_of_an_object-Versatility.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-affected_harm+Transformation_of_physical_and_chemical_states_of_an_object-Versatility.protect|Triz-affected_harm+Transformation_of_physical_and_chemical_states_of_an_object-Versatility.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-affected_harm+Transformation_of_physical_and_chemical_states_of_an_object-Versatility.private|Triz-affected_harm+Transformation_of_physical_and_chemical_states_of_an_object-Versatility.private]] 

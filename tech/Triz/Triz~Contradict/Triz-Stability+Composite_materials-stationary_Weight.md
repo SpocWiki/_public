@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Stability+Composite_materials-stationary_Weight.md|Triz-Stability+Composite_materials-stationary_Weight]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Stability+Composite_materials-stationary_Weight|Triz-Stability+Composite_materials-stationary_Weight]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Stability+Composite_materials-stationary_Weight.public|Triz-Stability+Composite_materials-stationary_Weight.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Stability+Composite_materials-stationary_Weight.internal|Triz-Stability+Composite_materials-stationary_Weight.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Stability+Composite_materials-stationary_Weight.protect|Triz-Stability+Composite_materials-stationary_Weight.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Stability+Composite_materials-stationary_Weight.private|Triz-Stability+Composite_materials-stationary_Weight.private]] 

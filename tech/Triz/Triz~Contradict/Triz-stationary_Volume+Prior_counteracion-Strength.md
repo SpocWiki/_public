@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-stationary_Volume+Prior_counteracion-Strength.md|Triz-stationary_Volume+Prior_counteracion-Strength]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-stationary_Volume+Prior_counteracion-Strength|Triz-stationary_Volume+Prior_counteracion-Strength]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-stationary_Volume+Prior_counteracion-Strength.public|Triz-stationary_Volume+Prior_counteracion-Strength.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-stationary_Volume+Prior_counteracion-Strength.internal|Triz-stationary_Volume+Prior_counteracion-Strength.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-stationary_Volume+Prior_counteracion-Strength.protect|Triz-stationary_Volume+Prior_counteracion-Strength.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-stationary_Volume+Prior_counteracion-Strength.private|Triz-stationary_Volume+Prior_counteracion-Strength.private]] 

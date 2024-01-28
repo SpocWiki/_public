@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Ease_of_operation+Segmentation-stationary_Weight.md|Triz-Ease_of_operation+Segmentation-stationary_Weight]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Ease_of_operation+Segmentation-stationary_Weight|Triz-Ease_of_operation+Segmentation-stationary_Weight]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Ease_of_operation+Segmentation-stationary_Weight.public|Triz-Ease_of_operation+Segmentation-stationary_Weight.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Ease_of_operation+Segmentation-stationary_Weight.internal|Triz-Ease_of_operation+Segmentation-stationary_Weight.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Ease_of_operation+Segmentation-stationary_Weight.protect|Triz-Ease_of_operation+Segmentation-stationary_Weight.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Ease_of_operation+Segmentation-stationary_Weight.private|Triz-Ease_of_operation+Segmentation-stationary_Weight.private]] 

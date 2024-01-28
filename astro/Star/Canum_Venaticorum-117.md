@@ -27,7 +27,8 @@ confidential: public
 
 
 ## Confidential Links & Embeds: 
-- [[../../../_public/astro/Star/Canum_Venaticorum-117.md|Canum_Venaticorum-117]] 
+- [[../../../_Standards/astro/Star/Canum_Venaticorum-117|Canum_Venaticorum-117]] 
+- [[../../../_public/astro/Star/Canum_Venaticorum-117.public|Canum_Venaticorum-117.public]] 
 - [[../../../_internal/astro/Star/Canum_Venaticorum-117.internal|Canum_Venaticorum-117.internal]] 
 - [[../../../_protect/astro/Star/Canum_Venaticorum-117.protect|Canum_Venaticorum-117.protect]] 
 - [[../../../_private/astro/Star/Canum_Venaticorum-117.private|Canum_Venaticorum-117.private]] 

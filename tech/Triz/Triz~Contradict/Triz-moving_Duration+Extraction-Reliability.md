@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-moving_Duration+Extraction-Reliability.md|Triz-moving_Duration+Extraction-Reliability]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-moving_Duration+Extraction-Reliability|Triz-moving_Duration+Extraction-Reliability]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-moving_Duration+Extraction-Reliability.public|Triz-moving_Duration+Extraction-Reliability.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-moving_Duration+Extraction-Reliability.internal|Triz-moving_Duration+Extraction-Reliability.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-moving_Duration+Extraction-Reliability.protect|Triz-moving_Duration+Extraction-Reliability.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-moving_Duration+Extraction-Reliability.private|Triz-moving_Duration+Extraction-Reliability.private]] 

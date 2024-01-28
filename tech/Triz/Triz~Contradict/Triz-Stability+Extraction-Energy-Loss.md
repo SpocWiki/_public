@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Stability+Extraction-Energy-Loss.md|Triz-Stability+Extraction-Energy-Loss]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Stability+Extraction-Energy-Loss|Triz-Stability+Extraction-Energy-Loss]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Stability+Extraction-Energy-Loss.public|Triz-Stability+Extraction-Energy-Loss.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Stability+Extraction-Energy-Loss.internal|Triz-Stability+Extraction-Energy-Loss.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Stability+Extraction-Energy-Loss.protect|Triz-Stability+Extraction-Energy-Loss.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Stability+Extraction-Energy-Loss.private|Triz-Stability+Extraction-Energy-Loss.private]] 

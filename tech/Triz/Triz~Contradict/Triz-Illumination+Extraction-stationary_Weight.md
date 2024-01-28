@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Illumination+Extraction-stationary_Weight.md|Triz-Illumination+Extraction-stationary_Weight]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Illumination+Extraction-stationary_Weight|Triz-Illumination+Extraction-stationary_Weight]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Illumination+Extraction-stationary_Weight.public|Triz-Illumination+Extraction-stationary_Weight.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Illumination+Extraction-stationary_Weight.internal|Triz-Illumination+Extraction-stationary_Weight.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Illumination+Extraction-stationary_Weight.protect|Triz-Illumination+Extraction-stationary_Weight.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Illumination+Extraction-stationary_Weight.private|Triz-Illumination+Extraction-stationary_Weight.private]] 

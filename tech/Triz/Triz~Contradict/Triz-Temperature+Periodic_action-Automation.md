@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Temperature+Periodic_action-Automation.md|Triz-Temperature+Periodic_action-Automation]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Temperature+Periodic_action-Automation|Triz-Temperature+Periodic_action-Automation]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Temperature+Periodic_action-Automation.public|Triz-Temperature+Periodic_action-Automation.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Temperature+Periodic_action-Automation.internal|Triz-Temperature+Periodic_action-Automation.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Temperature+Periodic_action-Automation.protect|Triz-Temperature+Periodic_action-Automation.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Temperature+Periodic_action-Automation.private|Triz-Temperature+Periodic_action-Automation.private]] 

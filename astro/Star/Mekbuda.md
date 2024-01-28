@@ -27,7 +27,8 @@ confidential: public
 
 
 ## Confidential Links & Embeds: 
-- [[../../../_public/astro/Star/Mekbuda.md|Mekbuda]] 
+- [[../../../_Standards/astro/Star/Mekbuda|Mekbuda]] 
+- [[../../../_public/astro/Star/Mekbuda.public|Mekbuda.public]] 
 - [[../../../_internal/astro/Star/Mekbuda.internal|Mekbuda.internal]] 
 - [[../../../_protect/astro/Star/Mekbuda.protect|Mekbuda.protect]] 
 - [[../../../_private/astro/Star/Mekbuda.private|Mekbuda.private]] 

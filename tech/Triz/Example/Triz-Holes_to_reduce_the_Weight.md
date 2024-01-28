@@ -17,7 +17,8 @@ tags:
 Drill Holes in a Structure to reduce the Weight.
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Example/Triz-Holes_to_reduce_the_Weight.md|Triz-Holes_to_reduce_the_Weight]] 
+- [[../../../../_Standards/tech/Triz/Example/Triz-Holes_to_reduce_the_Weight|Triz-Holes_to_reduce_the_Weight]] 
+- [[../../../../_public/tech/Triz/Example/Triz-Holes_to_reduce_the_Weight.public|Triz-Holes_to_reduce_the_Weight.public]] 
 - [[../../../../_internal/tech/Triz/Example/Triz-Holes_to_reduce_the_Weight.internal|Triz-Holes_to_reduce_the_Weight.internal]] 
 - [[../../../../_protect/tech/Triz/Example/Triz-Holes_to_reduce_the_Weight.protect|Triz-Holes_to_reduce_the_Weight.protect]] 
 - [[../../../../_private/tech/Triz/Example/Triz-Holes_to_reduce_the_Weight.private|Triz-Holes_to_reduce_the_Weight.private]] 

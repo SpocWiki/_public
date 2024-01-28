@@ -14,7 +14,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Principle/Triz-Thermal_expansion.md|Triz-Thermal_expansion]] 
+- [[../../../../_Standards/tech/Triz/Principle/Triz-Thermal_expansion|Triz-Thermal_expansion]] 
+- [[../../../../_public/tech/Triz/Principle/Triz-Thermal_expansion.public|Triz-Thermal_expansion.public]] 
 - [[../../../../_internal/tech/Triz/Principle/Triz-Thermal_expansion.internal|Triz-Thermal_expansion.internal]] 
 - [[../../../../_protect/tech/Triz/Principle/Triz-Thermal_expansion.protect|Triz-Thermal_expansion.protect]] 
 - [[../../../../_private/tech/Triz/Principle/Triz-Thermal_expansion.private|Triz-Thermal_expansion.private]] 

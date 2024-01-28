@@ -24,7 +24,8 @@ Eliminate all idle or intermittent actions or work.
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Sub/Triz-eliminate-idle.md|Triz-eliminate-idle]] 
+- [[../../../../_Standards/tech/Triz/Sub/Triz-eliminate-idle|Triz-eliminate-idle]] 
+- [[../../../../_public/tech/Triz/Sub/Triz-eliminate-idle.public|Triz-eliminate-idle.public]] 
 - [[../../../../_internal/tech/Triz/Sub/Triz-eliminate-idle.internal|Triz-eliminate-idle.internal]] 
 - [[../../../../_protect/tech/Triz/Sub/Triz-eliminate-idle.protect|Triz-eliminate-idle.protect]] 
 - [[../../../../_private/tech/Triz/Sub/Triz-eliminate-idle.private|Triz-eliminate-idle.private]] 

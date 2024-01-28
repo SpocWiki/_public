@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-stationary_Energy+Transformation_of_physical_and_chemical_states_of_an_object-Strength.md|Triz-stationary_Energy+Transformation_of_physical_and_chemical_states_of_an_object-Strength]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-stationary_Energy+Transformation_of_physical_and_chemical_states_of_an_object-Strength|Triz-stationary_Energy+Transformation_of_physical_and_chemical_states_of_an_object-Strength]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-stationary_Energy+Transformation_of_physical_and_chemical_states_of_an_object-Strength.public|Triz-stationary_Energy+Transformation_of_physical_and_chemical_states_of_an_object-Strength.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-stationary_Energy+Transformation_of_physical_and_chemical_states_of_an_object-Strength.internal|Triz-stationary_Energy+Transformation_of_physical_and_chemical_states_of_an_object-Strength.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-stationary_Energy+Transformation_of_physical_and_chemical_states_of_an_object-Strength.protect|Triz-stationary_Energy+Transformation_of_physical_and_chemical_states_of_an_object-Strength.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-stationary_Energy+Transformation_of_physical_and_chemical_states_of_an_object-Strength.private|Triz-stationary_Energy+Transformation_of_physical_and_chemical_states_of_an_object-Strength.private]] 

@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Power+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-stationary_Weight.md|Triz-Power+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-stationary_Weight]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Power+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-stationary_Weight|Triz-Power+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-stationary_Weight]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Power+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-stationary_Weight.public|Triz-Power+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-stationary_Weight.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Power+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-stationary_Weight.internal|Triz-Power+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-stationary_Weight.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Power+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-stationary_Weight.protect|Triz-Power+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-stationary_Weight.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Power+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-stationary_Weight.private|Triz-Power+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-stationary_Weight.private]] 

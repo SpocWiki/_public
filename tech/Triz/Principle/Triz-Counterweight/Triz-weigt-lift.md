@@ -24,7 +24,8 @@ To compensate for the weight of an object, merge it with other objects that prov
 - 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Sub/Triz-weigt-lift.md|Triz-weigt-lift]] 
+- [[../../../../_Standards/tech/Triz/Sub/Triz-weigt-lift|Triz-weigt-lift]] 
+- [[../../../../_public/tech/Triz/Sub/Triz-weigt-lift.public|Triz-weigt-lift.public]] 
 - [[../../../../_internal/tech/Triz/Sub/Triz-weigt-lift.internal|Triz-weigt-lift.internal]] 
 - [[../../../../_protect/tech/Triz/Sub/Triz-weigt-lift.protect|Triz-weigt-lift.protect]] 
 - [[../../../../_private/tech/Triz/Sub/Triz-weigt-lift.private|Triz-weigt-lift.private]] 

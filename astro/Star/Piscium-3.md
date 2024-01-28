@@ -27,7 +27,8 @@ confidential: public
 
 
 ## Confidential Links & Embeds: 
-- [[../../../_public/astro/Star/Piscium-3.md|Piscium-3]] 
+- [[../../../_Standards/astro/Star/Piscium-3|Piscium-3]] 
+- [[../../../_public/astro/Star/Piscium-3.public|Piscium-3.public]] 
 - [[../../../_internal/astro/Star/Piscium-3.internal|Piscium-3.internal]] 
 - [[../../../_protect/astro/Star/Piscium-3.protect|Piscium-3.protect]] 
 - [[../../../_private/astro/Star/Piscium-3.private|Piscium-3.private]] 

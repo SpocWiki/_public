@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Reliability+Mediator-Stress.md|Triz-Reliability+Mediator-Stress]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Reliability+Mediator-Stress|Triz-Reliability+Mediator-Stress]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Reliability+Mediator-Stress.public|Triz-Reliability+Mediator-Stress.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Reliability+Mediator-Stress.internal|Triz-Reliability+Mediator-Stress.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Reliability+Mediator-Stress.protect|Triz-Reliability+Mediator-Stress.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Reliability+Mediator-Stress.private|Triz-Reliability+Mediator-Stress.private]] 

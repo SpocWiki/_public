@@ -27,7 +27,8 @@ confidential: public
 
 
 ## Confidential Links & Embeds: 
-- [[../../../_public/astro/Star/Giauzar.md|Giauzar]] 
+- [[../../../_Standards/astro/Star/Giauzar|Giauzar]] 
+- [[../../../_public/astro/Star/Giauzar.public|Giauzar.public]] 
 - [[../../../_internal/astro/Star/Giauzar.internal|Giauzar.internal]] 
 - [[../../../_protect/astro/Star/Giauzar.protect|Giauzar.protect]] 
 - [[../../../_private/astro/Star/Giauzar.private|Giauzar.private]] 

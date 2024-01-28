@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Strength+Segmentation-moving_Weight.md|Triz-Strength+Segmentation-moving_Weight]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Strength+Segmentation-moving_Weight|Triz-Strength+Segmentation-moving_Weight]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Strength+Segmentation-moving_Weight.public|Triz-Strength+Segmentation-moving_Weight.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Strength+Segmentation-moving_Weight.internal|Triz-Strength+Segmentation-moving_Weight.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Strength+Segmentation-moving_Weight.protect|Triz-Strength+Segmentation-moving_Weight.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Strength+Segmentation-moving_Weight.private|Triz-Strength+Segmentation-moving_Weight.private]] 

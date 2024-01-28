@@ -27,7 +27,8 @@ confidential: public
 
 
 ## Confidential Links & Embeds: 
-- [[../../../_public/astro/Star/Sirius.md|Sirius]] 
+- [[../../../_Standards/astro/Star/Sirius|Sirius]] 
+- [[../../../_public/astro/Star/Sirius.public|Sirius.public]] 
 - [[../../../_internal/astro/Star/Sirius.internal|Sirius.internal]] 
 - [[../../../_protect/astro/Star/Sirius.protect|Sirius.protect]] 
 - [[../../../_private/astro/Star/Sirius.private|Sirius.private]] 

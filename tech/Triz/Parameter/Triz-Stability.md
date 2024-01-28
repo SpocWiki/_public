@@ -18,7 +18,8 @@ Stability of the object's composition: ability of a system to maintain balance o
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Parameter/Triz-Stability.md|Triz-Stability]] 
+- [[../../../../_Standards/tech/Triz/Parameter/Triz-Stability|Triz-Stability]] 
+- [[../../../../_public/tech/Triz/Parameter/Triz-Stability.public|Triz-Stability.public]] 
 - [[../../../../_internal/tech/Triz/Parameter/Triz-Stability.internal|Triz-Stability.internal]] 
 - [[../../../../_protect/tech/Triz/Parameter/Triz-Stability.protect|Triz-Stability.protect]] 
 - [[../../../../_private/tech/Triz/Parameter/Triz-Stability.private|Triz-Stability.private]] 

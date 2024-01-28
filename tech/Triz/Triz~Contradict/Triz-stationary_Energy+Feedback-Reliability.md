@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-stationary_Energy+Feedback-Reliability.md|Triz-stationary_Energy+Feedback-Reliability]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-stationary_Energy+Feedback-Reliability|Triz-stationary_Energy+Feedback-Reliability]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-stationary_Energy+Feedback-Reliability.public|Triz-stationary_Energy+Feedback-Reliability.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-stationary_Energy+Feedback-Reliability.internal|Triz-stationary_Energy+Feedback-Reliability.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-stationary_Energy+Feedback-Reliability.protect|Triz-stationary_Energy+Feedback-Reliability.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-stationary_Energy+Feedback-Reliability.private|Triz-stationary_Energy+Feedback-Reliability.private]] 

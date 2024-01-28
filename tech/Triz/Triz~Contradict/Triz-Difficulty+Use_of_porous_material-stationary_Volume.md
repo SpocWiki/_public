@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Difficulty+Use_of_porous_material-stationary_Volume.md|Triz-Difficulty+Use_of_porous_material-stationary_Volume]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Difficulty+Use_of_porous_material-stationary_Volume|Triz-Difficulty+Use_of_porous_material-stationary_Volume]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Difficulty+Use_of_porous_material-stationary_Volume.public|Triz-Difficulty+Use_of_porous_material-stationary_Volume.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Difficulty+Use_of_porous_material-stationary_Volume.internal|Triz-Difficulty+Use_of_porous_material-stationary_Volume.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Difficulty+Use_of_porous_material-stationary_Volume.protect|Triz-Difficulty+Use_of_porous_material-stationary_Volume.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Difficulty+Use_of_porous_material-stationary_Volume.private|Triz-Difficulty+Use_of_porous_material-stationary_Volume.private]] 

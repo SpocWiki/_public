@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Automation+Changing_the_color-moving_Energy.md|Triz-Automation+Changing_the_color-moving_Energy]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Automation+Changing_the_color-moving_Energy|Triz-Automation+Changing_the_color-moving_Energy]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Automation+Changing_the_color-moving_Energy.public|Triz-Automation+Changing_the_color-moving_Energy.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Automation+Changing_the_color-moving_Energy.internal|Triz-Automation+Changing_the_color-moving_Energy.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Automation+Changing_the_color-moving_Energy.protect|Triz-Automation+Changing_the_color-moving_Energy.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Automation+Changing_the_color-moving_Energy.private|Triz-Automation+Changing_the_color-moving_Energy.private]] 

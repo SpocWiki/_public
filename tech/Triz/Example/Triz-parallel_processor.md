@@ -17,7 +17,8 @@ tags:
 Thousands of microprocessors in a parallel processor computer
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Example/Triz-parallel_processor.md|Triz-parallel_processor]] 
+- [[../../../../_Standards/tech/Triz/Example/Triz-parallel_processor|Triz-parallel_processor]] 
+- [[../../../../_public/tech/Triz/Example/Triz-parallel_processor.public|Triz-parallel_processor.public]] 
 - [[../../../../_internal/tech/Triz/Example/Triz-parallel_processor.internal|Triz-parallel_processor.internal]] 
 - [[../../../../_protect/tech/Triz/Example/Triz-parallel_processor.protect|Triz-parallel_processor.protect]] 
 - [[../../../../_private/tech/Triz/Example/Triz-parallel_processor.private|Triz-parallel_processor.private]] 

@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-moving_Area+Cushion_in_advance-Stability.md|Triz-moving_Area+Cushion_in_advance-Stability]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-moving_Area+Cushion_in_advance-Stability|Triz-moving_Area+Cushion_in_advance-Stability]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-moving_Area+Cushion_in_advance-Stability.public|Triz-moving_Area+Cushion_in_advance-Stability.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-moving_Area+Cushion_in_advance-Stability.internal|Triz-moving_Area+Cushion_in_advance-Stability.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-moving_Area+Cushion_in_advance-Stability.protect|Triz-moving_Area+Cushion_in_advance-Stability.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-moving_Area+Cushion_in_advance-Stability.private|Triz-moving_Area+Cushion_in_advance-Stability.private]] 

@@ -17,7 +17,8 @@ tags:
 Retraction Mechanism
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Example/Triz-Seat_Belt.md|Triz-Seat_Belt]] 
+- [[../../../../_Standards/tech/Triz/Example/Triz-Seat_Belt|Triz-Seat_Belt]] 
+- [[../../../../_public/tech/Triz/Example/Triz-Seat_Belt.public|Triz-Seat_Belt.public]] 
 - [[../../../../_internal/tech/Triz/Example/Triz-Seat_Belt.internal|Triz-Seat_Belt.internal]] 
 - [[../../../../_protect/tech/Triz/Example/Triz-Seat_Belt.protect|Triz-Seat_Belt.protect]] 
 - [[../../../../_private/tech/Triz/Example/Triz-Seat_Belt.private|Triz-Seat_Belt.private]] 

@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Versatility+Use_a_pneumatic_or_hydralic_construction-Power.md|Triz-Versatility+Use_a_pneumatic_or_hydralic_construction-Power]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Versatility+Use_a_pneumatic_or_hydralic_construction-Power|Triz-Versatility+Use_a_pneumatic_or_hydralic_construction-Power]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Versatility+Use_a_pneumatic_or_hydralic_construction-Power.public|Triz-Versatility+Use_a_pneumatic_or_hydralic_construction-Power.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Versatility+Use_a_pneumatic_or_hydralic_construction-Power.internal|Triz-Versatility+Use_a_pneumatic_or_hydralic_construction-Power.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Versatility+Use_a_pneumatic_or_hydralic_construction-Power.protect|Triz-Versatility+Use_a_pneumatic_or_hydralic_construction-Power.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Versatility+Use_a_pneumatic_or_hydralic_construction-Power.private|Triz-Versatility+Use_a_pneumatic_or_hydralic_construction-Power.private]] 

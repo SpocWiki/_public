@@ -27,7 +27,8 @@ confidential: public
 
 
 ## Confidential Links & Embeds: 
-- [[../../../_public/astro/Star/Pleione.md|Pleione]] 
+- [[../../../_Standards/astro/Star/Pleione|Pleione]] 
+- [[../../../_public/astro/Star/Pleione.public|Pleione.public]] 
 - [[../../../_internal/astro/Star/Pleione.internal|Pleione.internal]] 
 - [[../../../_protect/astro/Star/Pleione.protect|Pleione.protect]] 
 - [[../../../_private/astro/Star/Pleione.private|Pleione.private]] 

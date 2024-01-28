@@ -26,7 +26,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../_public/astro/Star/Agena.md|Agena]] 
+- [[../../../_Standards/astro/Star/Agena|Agena]] 
+- [[../../../_public/astro/Star/Agena.public|Agena.public]] 
 - [[../../../_internal/astro/Star/Agena.internal|Agena.internal]] 
 - [[../../../_protect/astro/Star/Agena.protect|Agena.protect]] 
 - [[../../../_private/astro/Star/Agena.private|Agena.private]] 

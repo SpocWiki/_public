@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Versatility+Thermal_expansion-Complexity.md|Triz-Versatility+Thermal_expansion-Complexity]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Versatility+Thermal_expansion-Complexity|Triz-Versatility+Thermal_expansion-Complexity]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Versatility+Thermal_expansion-Complexity.public|Triz-Versatility+Thermal_expansion-Complexity.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Versatility+Thermal_expansion-Complexity.internal|Triz-Versatility+Thermal_expansion-Complexity.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Versatility+Thermal_expansion-Complexity.protect|Triz-Versatility+Thermal_expansion-Complexity.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Versatility+Thermal_expansion-Complexity.private|Triz-Versatility+Thermal_expansion-Complexity.private]] 

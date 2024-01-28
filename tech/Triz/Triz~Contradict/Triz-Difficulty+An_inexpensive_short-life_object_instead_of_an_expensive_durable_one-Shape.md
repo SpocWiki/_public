@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Difficulty+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Shape.md|Triz-Difficulty+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Shape]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Difficulty+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Shape|Triz-Difficulty+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Shape]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Difficulty+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Shape.public|Triz-Difficulty+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Shape.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Difficulty+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Shape.internal|Triz-Difficulty+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Shape.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Difficulty+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Shape.protect|Triz-Difficulty+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Shape.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Difficulty+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Shape.private|Triz-Difficulty+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Shape.private]] 

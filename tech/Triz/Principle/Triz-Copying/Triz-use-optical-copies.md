@@ -26,7 +26,8 @@ Replace an object, or process with optical copies.
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Sub/Triz-use-optical-copies.md|Triz-use-optical-copies]] 
+- [[../../../../_Standards/tech/Triz/Sub/Triz-use-optical-copies|Triz-use-optical-copies]] 
+- [[../../../../_public/tech/Triz/Sub/Triz-use-optical-copies.public|Triz-use-optical-copies.public]] 
 - [[../../../../_internal/tech/Triz/Sub/Triz-use-optical-copies.internal|Triz-use-optical-copies.internal]] 
 - [[../../../../_protect/tech/Triz/Sub/Triz-use-optical-copies.protect|Triz-use-optical-copies.protect]] 
 - [[../../../../_private/tech/Triz/Sub/Triz-use-optical-copies.private|Triz-use-optical-copies.private]] 

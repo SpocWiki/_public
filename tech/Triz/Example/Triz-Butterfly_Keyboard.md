@@ -17,7 +17,8 @@ tags:
 The 'Butterfly' Computer Keyboard, (also demonstrates Principle 7, 'Nested Doll'.
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Example/Triz-Butterfly_Keyboard.md|Triz-Butterfly_Keyboard]] 
+- [[../../../../_Standards/tech/Triz/Example/Triz-Butterfly_Keyboard|Triz-Butterfly_Keyboard]] 
+- [[../../../../_public/tech/Triz/Example/Triz-Butterfly_Keyboard.public|Triz-Butterfly_Keyboard.public]] 
 - [[../../../../_internal/tech/Triz/Example/Triz-Butterfly_Keyboard.internal|Triz-Butterfly_Keyboard.internal]] 
 - [[../../../../_protect/tech/Triz/Example/Triz-Butterfly_Keyboard.protect|Triz-Butterfly_Keyboard.protect]] 
 - [[../../../../_private/tech/Triz/Example/Triz-Butterfly_Keyboard.private|Triz-Butterfly_Keyboard.private]] 

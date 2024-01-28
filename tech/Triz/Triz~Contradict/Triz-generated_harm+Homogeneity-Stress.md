@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-generated_harm+Homogeneity-Stress.md|Triz-generated_harm+Homogeneity-Stress]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-generated_harm+Homogeneity-Stress|Triz-generated_harm+Homogeneity-Stress]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-generated_harm+Homogeneity-Stress.public|Triz-generated_harm+Homogeneity-Stress.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-generated_harm+Homogeneity-Stress.internal|Triz-generated_harm+Homogeneity-Stress.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-generated_harm+Homogeneity-Stress.protect|Triz-generated_harm+Homogeneity-Stress.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-generated_harm+Homogeneity-Stress.private|Triz-generated_harm+Homogeneity-Stress.private]] 

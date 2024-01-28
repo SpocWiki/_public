@@ -17,7 +17,8 @@ tags:
 Ease of operation
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Parameter/Triz-Ease_of_operation.md|Triz-Ease_of_operation]] 
+- [[../../../../_Standards/tech/Triz/Parameter/Triz-Ease_of_operation|Triz-Ease_of_operation]] 
+- [[../../../../_public/tech/Triz/Parameter/Triz-Ease_of_operation.public|Triz-Ease_of_operation.public]] 
 - [[../../../../_internal/tech/Triz/Parameter/Triz-Ease_of_operation.internal|Triz-Ease_of_operation.internal]] 
 - [[../../../../_protect/tech/Triz/Parameter/Triz-Ease_of_operation.protect|Triz-Ease_of_operation.protect]] 
 - [[../../../../_private/tech/Triz/Parameter/Triz-Ease_of_operation.private|Triz-Ease_of_operation.private]] 

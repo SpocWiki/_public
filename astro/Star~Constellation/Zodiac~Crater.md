@@ -16,7 +16,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../_public/astro/Zodiac/Zodiac~Crater.md|Zodiac~Crater]] 
+- [[../../../_Standards/astro/Zodiac/Zodiac~Crater|Zodiac~Crater]] 
+- [[../../../_public/astro/Zodiac/Zodiac~Crater.public|Zodiac~Crater.public]] 
 - [[../../../_internal/astro/Zodiac/Zodiac~Crater.internal|Zodiac~Crater.internal]] 
 - [[../../../_protect/astro/Zodiac/Zodiac~Crater.protect|Zodiac~Crater.protect]] 
 - [[../../../_private/astro/Zodiac/Zodiac~Crater.private|Zodiac~Crater.private]] 

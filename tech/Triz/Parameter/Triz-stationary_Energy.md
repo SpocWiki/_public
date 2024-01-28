@@ -18,7 +18,8 @@ Use of energy by stationary object
 
 amount or type of energy involved in a system or process
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Parameter/Triz-stationary_Energy.md|Triz-stationary_Energy]] 
+- [[../../../../_Standards/tech/Triz/Parameter/Triz-stationary_Energy|Triz-stationary_Energy]] 
+- [[../../../../_public/tech/Triz/Parameter/Triz-stationary_Energy.public|Triz-stationary_Energy.public]] 
 - [[../../../../_internal/tech/Triz/Parameter/Triz-stationary_Energy.internal|Triz-stationary_Energy.internal]] 
 - [[../../../../_protect/tech/Triz/Parameter/Triz-stationary_Energy.protect|Triz-stationary_Energy.protect]] 
 - [[../../../../_private/tech/Triz/Parameter/Triz-stationary_Energy.private|Triz-stationary_Energy.private]] 

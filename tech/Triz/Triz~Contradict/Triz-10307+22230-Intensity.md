@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-10307+22230-Intensity.md|Triz-10307+22230-Intensity]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-10307+22230-Intensity|Triz-10307+22230-Intensity]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-10307+22230-Intensity.public|Triz-10307+22230-Intensity.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-10307+22230-Intensity.internal|Triz-10307+22230-Intensity.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-10307+22230-Intensity.protect|Triz-10307+22230-Intensity.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-10307+22230-Intensity.private|Triz-10307+22230-Intensity.private]] 

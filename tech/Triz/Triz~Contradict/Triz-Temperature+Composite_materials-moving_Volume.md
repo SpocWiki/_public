@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Temperature+Composite_materials-moving_Volume.md|Triz-Temperature+Composite_materials-moving_Volume]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Temperature+Composite_materials-moving_Volume|Triz-Temperature+Composite_materials-moving_Volume]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Temperature+Composite_materials-moving_Volume.public|Triz-Temperature+Composite_materials-moving_Volume.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Temperature+Composite_materials-moving_Volume.internal|Triz-Temperature+Composite_materials-moving_Volume.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Temperature+Composite_materials-moving_Volume.protect|Triz-Temperature+Composite_materials-moving_Volume.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Temperature+Composite_materials-moving_Volume.private|Triz-Temperature+Composite_materials-moving_Volume.private]] 

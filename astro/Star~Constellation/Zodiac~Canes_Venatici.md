@@ -16,7 +16,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../_public/astro/Zodiac/Zodiac~Canes_Venatici.md|Zodiac~Canes_Venatici]] 
+- [[../../../_Standards/astro/Zodiac/Zodiac~Canes_Venatici|Zodiac~Canes_Venatici]] 
+- [[../../../_public/astro/Zodiac/Zodiac~Canes_Venatici.public|Zodiac~Canes_Venatici.public]] 
 - [[../../../_internal/astro/Zodiac/Zodiac~Canes_Venatici.internal|Zodiac~Canes_Venatici.internal]] 
 - [[../../../_protect/astro/Zodiac/Zodiac~Canes_Venatici.protect|Zodiac~Canes_Venatici.protect]] 
 - [[../../../_private/astro/Zodiac/Zodiac~Canes_Venatici.private|Zodiac~Canes_Venatici.private]] 

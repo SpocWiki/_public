@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Ease_of_manufacture+Equipotentiality-Intensity.md|Triz-Ease_of_manufacture+Equipotentiality-Intensity]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Ease_of_manufacture+Equipotentiality-Intensity|Triz-Ease_of_manufacture+Equipotentiality-Intensity]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Ease_of_manufacture+Equipotentiality-Intensity.public|Triz-Ease_of_manufacture+Equipotentiality-Intensity.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Ease_of_manufacture+Equipotentiality-Intensity.internal|Triz-Ease_of_manufacture+Equipotentiality-Intensity.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Ease_of_manufacture+Equipotentiality-Intensity.protect|Triz-Ease_of_manufacture+Equipotentiality-Intensity.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Ease_of_manufacture+Equipotentiality-Intensity.private|Triz-Ease_of_manufacture+Equipotentiality-Intensity.private]] 

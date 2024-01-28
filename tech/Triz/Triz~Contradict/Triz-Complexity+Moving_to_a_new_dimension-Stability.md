@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Complexity+Moving_to_a_new_dimension-Stability.md|Triz-Complexity+Moving_to_a_new_dimension-Stability]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Complexity+Moving_to_a_new_dimension-Stability|Triz-Complexity+Moving_to_a_new_dimension-Stability]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Complexity+Moving_to_a_new_dimension-Stability.public|Triz-Complexity+Moving_to_a_new_dimension-Stability.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Complexity+Moving_to_a_new_dimension-Stability.internal|Triz-Complexity+Moving_to_a_new_dimension-Stability.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Complexity+Moving_to_a_new_dimension-Stability.protect|Triz-Complexity+Moving_to_a_new_dimension-Stability.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Complexity+Moving_to_a_new_dimension-Stability.private|Triz-Complexity+Moving_to_a_new_dimension-Stability.private]] 

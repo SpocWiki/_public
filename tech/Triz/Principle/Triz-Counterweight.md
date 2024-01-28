@@ -14,7 +14,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Principle/Triz-Counterweight.md|Triz-Counterweight]] 
+- [[../../../../_Standards/tech/Triz/Principle/Triz-Counterweight|Triz-Counterweight]] 
+- [[../../../../_public/tech/Triz/Principle/Triz-Counterweight.public|Triz-Counterweight.public]] 
 - [[../../../../_internal/tech/Triz/Principle/Triz-Counterweight.internal|Triz-Counterweight.internal]] 
 - [[../../../../_protect/tech/Triz/Principle/Triz-Counterweight.protect|Triz-Counterweight.protect]] 
 - [[../../../../_private/tech/Triz/Principle/Triz-Counterweight.private|Triz-Counterweight.private]] 

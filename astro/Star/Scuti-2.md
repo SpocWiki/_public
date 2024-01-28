@@ -27,7 +27,8 @@ confidential: public
 
 
 ## Confidential Links & Embeds: 
-- [[../../../_public/astro/Star/Scuti-2.md|Scuti-2]] 
+- [[../../../_Standards/astro/Star/Scuti-2|Scuti-2]] 
+- [[../../../_public/astro/Star/Scuti-2.public|Scuti-2.public]] 
 - [[../../../_internal/astro/Star/Scuti-2.internal|Scuti-2.internal]] 
 - [[../../../_protect/astro/Star/Scuti-2.protect|Scuti-2.protect]] 
 - [[../../../_private/astro/Star/Scuti-2.private|Scuti-2.private]] 

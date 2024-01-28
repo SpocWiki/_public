@@ -17,7 +17,8 @@ tags:
 Area of moving object
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Parameter/Triz-moving_Area.md|Triz-moving_Area]] 
+- [[../../../../_Standards/tech/Triz/Parameter/Triz-moving_Area|Triz-moving_Area]] 
+- [[../../../../_public/tech/Triz/Parameter/Triz-moving_Area.public|Triz-moving_Area.public]] 
 - [[../../../../_internal/tech/Triz/Parameter/Triz-moving_Area.internal|Triz-moving_Area.internal]] 
 - [[../../../../_protect/tech/Triz/Parameter/Triz-moving_Area.protect|Triz-moving_Area.protect]] 
 - [[../../../../_private/tech/Triz/Parameter/Triz-moving_Area.private|Triz-moving_Area.private]] 

@@ -17,7 +17,8 @@ tags:
 Increase the Volume of powdered Detergent by adding inert Ingredients. This makes it easier to measure with conventional Tools.
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Example/Triz-adding_inert_Ingredients.md|Triz-adding_inert_Ingredients]] 
+- [[../../../../_Standards/tech/Triz/Example/Triz-adding_inert_Ingredients|Triz-adding_inert_Ingredients]] 
+- [[../../../../_public/tech/Triz/Example/Triz-adding_inert_Ingredients.public|Triz-adding_inert_Ingredients.public]] 
 - [[../../../../_internal/tech/Triz/Example/Triz-adding_inert_Ingredients.internal|Triz-adding_inert_Ingredients.internal]] 
 - [[../../../../_protect/tech/Triz/Example/Triz-adding_inert_Ingredients.protect|Triz-adding_inert_Ingredients.protect]] 
 - [[../../../../_private/tech/Triz/Example/Triz-adding_inert_Ingredients.private|Triz-adding_inert_Ingredients.private]] 

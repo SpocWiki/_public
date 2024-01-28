@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Automation+Transformation_of_physical_and_chemical_states_of_an_object-moving_Volume.md|Triz-Automation+Transformation_of_physical_and_chemical_states_of_an_object-moving_Volume]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Automation+Transformation_of_physical_and_chemical_states_of_an_object-moving_Volume|Triz-Automation+Transformation_of_physical_and_chemical_states_of_an_object-moving_Volume]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Automation+Transformation_of_physical_and_chemical_states_of_an_object-moving_Volume.public|Triz-Automation+Transformation_of_physical_and_chemical_states_of_an_object-moving_Volume.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Automation+Transformation_of_physical_and_chemical_states_of_an_object-moving_Volume.internal|Triz-Automation+Transformation_of_physical_and_chemical_states_of_an_object-moving_Volume.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Automation+Transformation_of_physical_and_chemical_states_of_an_object-moving_Volume.protect|Triz-Automation+Transformation_of_physical_and_chemical_states_of_an_object-moving_Volume.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Automation+Transformation_of_physical_and_chemical_states_of_an_object-moving_Volume.private|Triz-Automation+Transformation_of_physical_and_chemical_states_of_an_object-moving_Volume.private]] 

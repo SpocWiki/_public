@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-stationary_Length+Self-service-Illumination.md|Triz-stationary_Length+Self-service-Illumination]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-stationary_Length+Self-service-Illumination|Triz-stationary_Length+Self-service-Illumination]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-stationary_Length+Self-service-Illumination.public|Triz-stationary_Length+Self-service-Illumination.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-stationary_Length+Self-service-Illumination.internal|Triz-stationary_Length+Self-service-Illumination.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-stationary_Length+Self-service-Illumination.protect|Triz-stationary_Length+Self-service-Illumination.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-stationary_Length+Self-service-Illumination.private|Triz-stationary_Length+Self-service-Illumination.private]] 

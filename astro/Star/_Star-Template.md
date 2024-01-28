@@ -27,7 +27,8 @@ SpocWebEntityId: {{SpocWebEntityId}}
 
 
 ## Confidential Links & Embeds: 
-- [[../../../_public/astro/Star/_Star-Template.md|_Star-Template]] 
+- [[../../../_Standards/astro/Star/_Star-Template|_Star-Template]] 
+- [[../../../_public/astro/Star/_Star-Template.public|_Star-Template.public]] 
 - [[../../../_internal/astro/Star/_Star-Template.internal|_Star-Template.internal]] 
 - [[../../../_protect/astro/Star/_Star-Template.protect|_Star-Template.protect]] 
 - [[../../../_private/astro/Star/_Star-Template.private|_Star-Template.private]] 

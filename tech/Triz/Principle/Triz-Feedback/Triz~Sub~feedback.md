@@ -26,7 +26,8 @@ Introduce feedback (referring back, cross-checking) to improve a process or acti
 - 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Sub/Triz-feedback.md|Triz-feedback]] 
+- [[../../../../_Standards/tech/Triz/Sub/Triz-feedback|Triz-feedback]] 
+- [[../../../../_public/tech/Triz/Sub/Triz-feedback.public|Triz-feedback.public]] 
 - [[../../../../_internal/tech/Triz/Sub/Triz-feedback.internal|Triz-feedback.internal]] 
 - [[../../../../_protect/tech/Triz/Sub/Triz-feedback.protect|Triz-feedback.protect]] 
 - [[../../../../_private/tech/Triz/Sub/Triz-feedback.private|Triz-feedback.private]] 

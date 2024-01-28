@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-moving_Length+Transformation_of_physical_and_chemical_states_of_an_object-Strength.md|Triz-moving_Length+Transformation_of_physical_and_chemical_states_of_an_object-Strength]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-moving_Length+Transformation_of_physical_and_chemical_states_of_an_object-Strength|Triz-moving_Length+Transformation_of_physical_and_chemical_states_of_an_object-Strength]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-moving_Length+Transformation_of_physical_and_chemical_states_of_an_object-Strength.public|Triz-moving_Length+Transformation_of_physical_and_chemical_states_of_an_object-Strength.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-moving_Length+Transformation_of_physical_and_chemical_states_of_an_object-Strength.internal|Triz-moving_Length+Transformation_of_physical_and_chemical_states_of_an_object-Strength.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-moving_Length+Transformation_of_physical_and_chemical_states_of_an_object-Strength.protect|Triz-moving_Length+Transformation_of_physical_and_chemical_states_of_an_object-Strength.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-moving_Length+Transformation_of_physical_and_chemical_states_of_an_object-Strength.private|Triz-moving_Length+Transformation_of_physical_and_chemical_states_of_an_object-Strength.private]] 

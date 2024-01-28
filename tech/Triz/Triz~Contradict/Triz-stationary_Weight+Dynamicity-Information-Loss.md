@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-stationary_Weight+Dynamicity-Information-Loss.md|Triz-stationary_Weight+Dynamicity-Information-Loss]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-stationary_Weight+Dynamicity-Information-Loss|Triz-stationary_Weight+Dynamicity-Information-Loss]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-stationary_Weight+Dynamicity-Information-Loss.public|Triz-stationary_Weight+Dynamicity-Information-Loss.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-stationary_Weight+Dynamicity-Information-Loss.internal|Triz-stationary_Weight+Dynamicity-Information-Loss.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-stationary_Weight+Dynamicity-Information-Loss.protect|Triz-stationary_Weight+Dynamicity-Information-Loss.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-stationary_Weight+Dynamicity-Information-Loss.private|Triz-stationary_Weight+Dynamicity-Information-Loss.private]] 

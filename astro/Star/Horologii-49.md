@@ -27,7 +27,8 @@ confidential: public
 
 
 ## Confidential Links & Embeds: 
-- [[../../../_public/astro/Star/Horologii-49.md|Horologii-49]] 
+- [[../../../_Standards/astro/Star/Horologii-49|Horologii-49]] 
+- [[../../../_public/astro/Star/Horologii-49.public|Horologii-49.public]] 
 - [[../../../_internal/astro/Star/Horologii-49.internal|Horologii-49.internal]] 
 - [[../../../_protect/astro/Star/Horologii-49.protect|Horologii-49.protect]] 
 - [[../../../_private/astro/Star/Horologii-49.private|Horologii-49.private]] 

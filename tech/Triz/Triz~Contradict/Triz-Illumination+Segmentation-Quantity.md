@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Illumination+Segmentation-Quantity.md|Triz-Illumination+Segmentation-Quantity]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Illumination+Segmentation-Quantity|Triz-Illumination+Segmentation-Quantity]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Illumination+Segmentation-Quantity.public|Triz-Illumination+Segmentation-Quantity.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Illumination+Segmentation-Quantity.internal|Triz-Illumination+Segmentation-Quantity.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Illumination+Segmentation-Quantity.protect|Triz-Illumination+Segmentation-Quantity.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Illumination+Segmentation-Quantity.private|Triz-Illumination+Segmentation-Quantity.private]] 

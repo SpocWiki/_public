@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-moving_Volume+Transformation_of_physical_and_chemical_states_of_an_object-moving_Energy.md|Triz-moving_Volume+Transformation_of_physical_and_chemical_states_of_an_object-moving_Energy]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-moving_Volume+Transformation_of_physical_and_chemical_states_of_an_object-moving_Energy|Triz-moving_Volume+Transformation_of_physical_and_chemical_states_of_an_object-moving_Energy]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-moving_Volume+Transformation_of_physical_and_chemical_states_of_an_object-moving_Energy.public|Triz-moving_Volume+Transformation_of_physical_and_chemical_states_of_an_object-moving_Energy.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-moving_Volume+Transformation_of_physical_and_chemical_states_of_an_object-moving_Energy.internal|Triz-moving_Volume+Transformation_of_physical_and_chemical_states_of_an_object-moving_Energy.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-moving_Volume+Transformation_of_physical_and_chemical_states_of_an_object-moving_Energy.protect|Triz-moving_Volume+Transformation_of_physical_and_chemical_states_of_an_object-moving_Energy.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-moving_Volume+Transformation_of_physical_and_chemical_states_of_an_object-moving_Energy.private|Triz-moving_Volume+Transformation_of_physical_and_chemical_states_of_an_object-moving_Energy.private]] 

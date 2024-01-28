@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-stationary_Length+Nesting-Shape.md|Triz-stationary_Length+Nesting-Shape]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-stationary_Length+Nesting-Shape|Triz-stationary_Length+Nesting-Shape]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-stationary_Length+Nesting-Shape.public|Triz-stationary_Length+Nesting-Shape.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-stationary_Length+Nesting-Shape.internal|Triz-stationary_Length+Nesting-Shape.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-stationary_Length+Nesting-Shape.protect|Triz-stationary_Length+Nesting-Shape.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-stationary_Length+Nesting-Shape.private|Triz-stationary_Length+Nesting-Shape.private]] 

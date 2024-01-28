@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-moving_Energy+Feedback-Quantity.md|Triz-moving_Energy+Feedback-Quantity]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-moving_Energy+Feedback-Quantity|Triz-moving_Energy+Feedback-Quantity]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-moving_Energy+Feedback-Quantity.public|Triz-moving_Energy+Feedback-Quantity.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-moving_Energy+Feedback-Quantity.internal|Triz-moving_Energy+Feedback-Quantity.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-moving_Energy+Feedback-Quantity.protect|Triz-moving_Energy+Feedback-Quantity.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-moving_Energy+Feedback-Quantity.private|Triz-moving_Energy+Feedback-Quantity.private]] 

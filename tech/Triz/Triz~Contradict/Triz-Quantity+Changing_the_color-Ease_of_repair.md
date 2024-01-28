@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Quantity+Changing_the_color-Ease_of_repair.md|Triz-Quantity+Changing_the_color-Ease_of_repair]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Quantity+Changing_the_color-Ease_of_repair|Triz-Quantity+Changing_the_color-Ease_of_repair]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Quantity+Changing_the_color-Ease_of_repair.public|Triz-Quantity+Changing_the_color-Ease_of_repair.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Quantity+Changing_the_color-Ease_of_repair.internal|Triz-Quantity+Changing_the_color-Ease_of_repair.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Quantity+Changing_the_color-Ease_of_repair.protect|Triz-Quantity+Changing_the_color-Ease_of_repair.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Quantity+Changing_the_color-Ease_of_repair.private|Triz-Quantity+Changing_the_color-Ease_of_repair.private]] 

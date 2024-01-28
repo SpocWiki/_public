@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Stress+Transformation_of_physical_and_chemical_states_of_an_object-Power.md|Triz-Stress+Transformation_of_physical_and_chemical_states_of_an_object-Power]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Stress+Transformation_of_physical_and_chemical_states_of_an_object-Power|Triz-Stress+Transformation_of_physical_and_chemical_states_of_an_object-Power]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Stress+Transformation_of_physical_and_chemical_states_of_an_object-Power.public|Triz-Stress+Transformation_of_physical_and_chemical_states_of_an_object-Power.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Stress+Transformation_of_physical_and_chemical_states_of_an_object-Power.internal|Triz-Stress+Transformation_of_physical_and_chemical_states_of_an_object-Power.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Stress+Transformation_of_physical_and_chemical_states_of_an_object-Power.protect|Triz-Stress+Transformation_of_physical_and_chemical_states_of_an_object-Power.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Stress+Transformation_of_physical_and_chemical_states_of_an_object-Power.private|Triz-Stress+Transformation_of_physical_and_chemical_states_of_an_object-Power.private]] 

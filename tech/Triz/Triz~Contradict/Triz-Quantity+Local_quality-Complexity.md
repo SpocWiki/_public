@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Quantity+Local_quality-Complexity.md|Triz-Quantity+Local_quality-Complexity]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Quantity+Local_quality-Complexity|Triz-Quantity+Local_quality-Complexity]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Quantity+Local_quality-Complexity.public|Triz-Quantity+Local_quality-Complexity.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Quantity+Local_quality-Complexity.internal|Triz-Quantity+Local_quality-Complexity.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Quantity+Local_quality-Complexity.protect|Triz-Quantity+Local_quality-Complexity.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Quantity+Local_quality-Complexity.private|Triz-Quantity+Local_quality-Complexity.private]] 

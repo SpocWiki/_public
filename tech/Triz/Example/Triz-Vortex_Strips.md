@@ -17,7 +17,8 @@ tags:
 Vortex Strips improve Lift of Aircraft Wings.
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Example/Triz-Vortex_Strips.md|Triz-Vortex_Strips]] 
+- [[../../../../_Standards/tech/Triz/Example/Triz-Vortex_Strips|Triz-Vortex_Strips]] 
+- [[../../../../_public/tech/Triz/Example/Triz-Vortex_Strips.public|Triz-Vortex_Strips.public]] 
 - [[../../../../_internal/tech/Triz/Example/Triz-Vortex_Strips.internal|Triz-Vortex_Strips.internal]] 
 - [[../../../../_protect/tech/Triz/Example/Triz-Vortex_Strips.protect|Triz-Vortex_Strips.protect]] 
 - [[../../../../_private/tech/Triz/Example/Triz-Vortex_Strips.private|Triz-Vortex_Strips.private]] 

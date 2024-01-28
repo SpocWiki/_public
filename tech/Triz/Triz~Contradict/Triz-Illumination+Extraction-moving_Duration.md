@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Illumination+Extraction-moving_Duration.md|Triz-Illumination+Extraction-moving_Duration]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Illumination+Extraction-moving_Duration|Triz-Illumination+Extraction-moving_Duration]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Illumination+Extraction-moving_Duration.public|Triz-Illumination+Extraction-moving_Duration.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Illumination+Extraction-moving_Duration.internal|Triz-Illumination+Extraction-moving_Duration.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Illumination+Extraction-moving_Duration.protect|Triz-Illumination+Extraction-moving_Duration.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Illumination+Extraction-moving_Duration.private|Triz-Illumination+Extraction-moving_Duration.private]] 

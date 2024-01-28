@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-stationary_Area+Changing_the_color-Reliability.md|Triz-stationary_Area+Changing_the_color-Reliability]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-stationary_Area+Changing_the_color-Reliability|Triz-stationary_Area+Changing_the_color-Reliability]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-stationary_Area+Changing_the_color-Reliability.public|Triz-stationary_Area+Changing_the_color-Reliability.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-stationary_Area+Changing_the_color-Reliability.internal|Triz-stationary_Area+Changing_the_color-Reliability.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-stationary_Area+Changing_the_color-Reliability.protect|Triz-stationary_Area+Changing_the_color-Reliability.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-stationary_Area+Changing_the_color-Reliability.private|Triz-stationary_Area+Changing_the_color-Reliability.private]] 

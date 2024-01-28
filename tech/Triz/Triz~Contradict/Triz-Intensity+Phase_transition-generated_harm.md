@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Intensity+Phase_transition-generated_harm.md|Triz-Intensity+Phase_transition-generated_harm]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Intensity+Phase_transition-generated_harm|Triz-Intensity+Phase_transition-generated_harm]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Intensity+Phase_transition-generated_harm.public|Triz-Intensity+Phase_transition-generated_harm.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Intensity+Phase_transition-generated_harm.internal|Triz-Intensity+Phase_transition-generated_harm.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Intensity+Phase_transition-generated_harm.protect|Triz-Intensity+Phase_transition-generated_harm.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Intensity+Phase_transition-generated_harm.private|Triz-Intensity+Phase_transition-generated_harm.private]] 

@@ -24,7 +24,8 @@ Use piezoelectric vibrators instead of mechanical ones.
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Sub/Triz-piezo-electric.md|Triz-piezo-electric]] 
+- [[../../../../_Standards/tech/Triz/Sub/Triz-piezo-electric|Triz-piezo-electric]] 
+- [[../../../../_public/tech/Triz/Sub/Triz-piezo-electric.public|Triz-piezo-electric.public]] 
 - [[../../../../_internal/tech/Triz/Sub/Triz-piezo-electric.internal|Triz-piezo-electric.internal]] 
 - [[../../../../_protect/tech/Triz/Sub/Triz-piezo-electric.protect|Triz-piezo-electric.protect]] 
 - [[../../../../_private/tech/Triz/Sub/Triz-piezo-electric.private|Triz-piezo-electric.private]] 

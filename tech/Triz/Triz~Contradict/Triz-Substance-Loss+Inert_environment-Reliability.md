@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Substance-Loss+Inert_environment-Reliability.md|Triz-Substance-Loss+Inert_environment-Reliability]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Substance-Loss+Inert_environment-Reliability|Triz-Substance-Loss+Inert_environment-Reliability]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Substance-Loss+Inert_environment-Reliability.public|Triz-Substance-Loss+Inert_environment-Reliability.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Substance-Loss+Inert_environment-Reliability.internal|Triz-Substance-Loss+Inert_environment-Reliability.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Substance-Loss+Inert_environment-Reliability.protect|Triz-Substance-Loss+Inert_environment-Reliability.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Substance-Loss+Inert_environment-Reliability.private|Triz-Substance-Loss+Inert_environment-Reliability.private]] 

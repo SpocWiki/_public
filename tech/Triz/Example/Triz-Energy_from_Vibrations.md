@@ -17,7 +17,8 @@ tags:
 Use a statistical Engine to generate mechanical Energy from thermal Vibrations.
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Example/Triz-Energy_from_Vibrations.md|Triz-Energy_from_Vibrations]] 
+- [[../../../../_Standards/tech/Triz/Example/Triz-Energy_from_Vibrations|Triz-Energy_from_Vibrations]] 
+- [[../../../../_public/tech/Triz/Example/Triz-Energy_from_Vibrations.public|Triz-Energy_from_Vibrations.public]] 
 - [[../../../../_internal/tech/Triz/Example/Triz-Energy_from_Vibrations.internal|Triz-Energy_from_Vibrations.internal]] 
 - [[../../../../_protect/tech/Triz/Example/Triz-Energy_from_Vibrations.protect|Triz-Energy_from_Vibrations.protect]] 
 - [[../../../../_private/tech/Triz/Example/Triz-Energy_from_Vibrations.private|Triz-Energy_from_Vibrations.private]] 

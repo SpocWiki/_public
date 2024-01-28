@@ -26,7 +26,8 @@ Use waste resources, energy, or substances.
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Sub/Triz-use-waste.md|Triz-use-waste]] 
+- [[../../../../_Standards/tech/Triz/Sub/Triz-use-waste|Triz-use-waste]] 
+- [[../../../../_public/tech/Triz/Sub/Triz-use-waste.public|Triz-use-waste.public]] 
 - [[../../../../_internal/tech/Triz/Sub/Triz-use-waste.internal|Triz-use-waste.internal]] 
 - [[../../../../_protect/tech/Triz/Sub/Triz-use-waste.protect|Triz-use-waste.protect]] 
 - [[../../../../_private/tech/Triz/Sub/Triz-use-waste.private|Triz-use-waste.private]] 

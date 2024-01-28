@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Intensity+Phase_transition-Quantity.md|Triz-Intensity+Phase_transition-Quantity]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Intensity+Phase_transition-Quantity|Triz-Intensity+Phase_transition-Quantity]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Intensity+Phase_transition-Quantity.public|Triz-Intensity+Phase_transition-Quantity.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Intensity+Phase_transition-Quantity.internal|Triz-Intensity+Phase_transition-Quantity.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Intensity+Phase_transition-Quantity.protect|Triz-Intensity+Phase_transition-Quantity.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Intensity+Phase_transition-Quantity.private|Triz-Intensity+Phase_transition-Quantity.private]] 

@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Automation+Extraction-Intensity.md|Triz-Automation+Extraction-Intensity]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Automation+Extraction-Intensity|Triz-Automation+Extraction-Intensity]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Automation+Extraction-Intensity.public|Triz-Automation+Extraction-Intensity.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Automation+Extraction-Intensity.internal|Triz-Automation+Extraction-Intensity.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Automation+Extraction-Intensity.protect|Triz-Automation+Extraction-Intensity.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Automation+Extraction-Intensity.private|Triz-Automation+Extraction-Intensity.private]] 

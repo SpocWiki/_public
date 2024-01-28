@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Speed+Mechanical_vibration-Automation.md|Triz-Speed+Mechanical_vibration-Automation]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Speed+Mechanical_vibration-Automation|Triz-Speed+Mechanical_vibration-Automation]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Speed+Mechanical_vibration-Automation.public|Triz-Speed+Mechanical_vibration-Automation.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Speed+Mechanical_vibration-Automation.internal|Triz-Speed+Mechanical_vibration-Automation.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Speed+Mechanical_vibration-Automation.protect|Triz-Speed+Mechanical_vibration-Automation.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Speed+Mechanical_vibration-Automation.private|Triz-Speed+Mechanical_vibration-Automation.private]] 

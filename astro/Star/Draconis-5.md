@@ -27,7 +27,8 @@ confidential: public
 
 
 ## Confidential Links & Embeds: 
-- [[../../../_public/astro/Star/Draconis-5.md|Draconis-5]] 
+- [[../../../_Standards/astro/Star/Draconis-5|Draconis-5]] 
+- [[../../../_public/astro/Star/Draconis-5.public|Draconis-5.public]] 
 - [[../../../_internal/astro/Star/Draconis-5.internal|Draconis-5.internal]] 
 - [[../../../_protect/astro/Star/Draconis-5.protect|Draconis-5.protect]] 
 - [[../../../_private/astro/Star/Draconis-5.private|Draconis-5.private]] 

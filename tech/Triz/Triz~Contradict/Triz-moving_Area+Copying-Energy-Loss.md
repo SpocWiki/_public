@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-moving_Area+Copying-Energy-Loss.md|Triz-moving_Area+Copying-Energy-Loss]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-moving_Area+Copying-Energy-Loss|Triz-moving_Area+Copying-Energy-Loss]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-moving_Area+Copying-Energy-Loss.public|Triz-moving_Area+Copying-Energy-Loss.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-moving_Area+Copying-Energy-Loss.internal|Triz-moving_Area+Copying-Energy-Loss.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-moving_Area+Copying-Energy-Loss.protect|Triz-moving_Area+Copying-Energy-Loss.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-moving_Area+Copying-Energy-Loss.private|Triz-moving_Area+Copying-Energy-Loss.private]] 

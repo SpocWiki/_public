@@ -27,7 +27,8 @@ confidential: public
 
 
 ## Confidential Links & Embeds: 
-- [[../../../_public/astro/Star/Arneb.md|Arneb]] 
+- [[../../../_Standards/astro/Star/Arneb|Arneb]] 
+- [[../../../_public/astro/Star/Arneb.public|Arneb.public]] 
 - [[../../../_internal/astro/Star/Arneb.internal|Arneb.internal]] 
 - [[../../../_protect/astro/Star/Arneb.protect|Arneb.protect]] 
 - [[../../../_private/astro/Star/Arneb.private|Arneb.private]] 

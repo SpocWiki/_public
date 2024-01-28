@@ -17,7 +17,8 @@ ZodiacPos: 10
 
 
 ## Confidential Links & Embeds: 
-- [[../../../_public/astro/Zodiac/Zodiac~Capricornus.md|Zodiac~Capricornus]] 
+- [[../../../_Standards/astro/Zodiac/Zodiac~Capricornus|Zodiac~Capricornus]] 
+- [[../../../_public/astro/Zodiac/Zodiac~Capricornus.public|Zodiac~Capricornus.public]] 
 - [[../../../_internal/astro/Zodiac/Zodiac~Capricornus.internal|Zodiac~Capricornus.internal]] 
 - [[../../../_protect/astro/Zodiac/Zodiac~Capricornus.protect|Zodiac~Capricornus.protect]] 
 - [[../../../_private/astro/Zodiac/Zodiac~Capricornus.private|Zodiac~Capricornus.private]] 

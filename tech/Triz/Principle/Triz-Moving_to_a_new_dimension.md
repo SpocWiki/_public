@@ -14,7 +14,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Principle/Triz-Moving_to_a_new_dimension.md|Triz-Moving_to_a_new_dimension]] 
+- [[../../../../_Standards/tech/Triz/Principle/Triz-Moving_to_a_new_dimension|Triz-Moving_to_a_new_dimension]] 
+- [[../../../../_public/tech/Triz/Principle/Triz-Moving_to_a_new_dimension.public|Triz-Moving_to_a_new_dimension.public]] 
 - [[../../../../_internal/tech/Triz/Principle/Triz-Moving_to_a_new_dimension.internal|Triz-Moving_to_a_new_dimension.internal]] 
 - [[../../../../_protect/tech/Triz/Principle/Triz-Moving_to_a_new_dimension.protect|Triz-Moving_to_a_new_dimension.protect]] 
 - [[../../../../_private/tech/Triz/Principle/Triz-Moving_to_a_new_dimension.private|Triz-Moving_to_a_new_dimension.private]] 

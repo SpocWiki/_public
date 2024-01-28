@@ -27,7 +27,8 @@ confidential: public
 
 
 ## Confidential Links & Embeds: 
-- [[../../../_public/astro/Star/Monocerotis-115.md|Monocerotis-115]] 
+- [[../../../_Standards/astro/Star/Monocerotis-115|Monocerotis-115]] 
+- [[../../../_public/astro/Star/Monocerotis-115.public|Monocerotis-115.public]] 
 - [[../../../_internal/astro/Star/Monocerotis-115.internal|Monocerotis-115.internal]] 
 - [[../../../_protect/astro/Star/Monocerotis-115.protect|Monocerotis-115.protect]] 
 - [[../../../_private/astro/Star/Monocerotis-115.private|Monocerotis-115.private]] 

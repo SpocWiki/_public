@@ -27,7 +27,8 @@ confidential: public
 
 
 ## Confidential Links & Embeds: 
-- [[../../../_public/astro/Star/Edasich.md|Edasich]] 
+- [[../../../_Standards/astro/Star/Edasich|Edasich]] 
+- [[../../../_public/astro/Star/Edasich.public|Edasich.public]] 
 - [[../../../_internal/astro/Star/Edasich.internal|Edasich.internal]] 
 - [[../../../_protect/astro/Star/Edasich.protect|Edasich.protect]] 
 - [[../../../_private/astro/Star/Edasich.private|Edasich.private]] 

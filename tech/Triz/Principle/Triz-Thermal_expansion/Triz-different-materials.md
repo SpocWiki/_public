@@ -24,7 +24,8 @@ If thermal expansion is being used, use multiple materials with different coeffi
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Sub/Triz-different-materials.md|Triz-different-materials]] 
+- [[../../../../_Standards/tech/Triz/Sub/Triz-different-materials|Triz-different-materials]] 
+- [[../../../../_public/tech/Triz/Sub/Triz-different-materials.public|Triz-different-materials.public]] 
 - [[../../../../_internal/tech/Triz/Sub/Triz-different-materials.internal|Triz-different-materials.internal]] 
 - [[../../../../_protect/tech/Triz/Sub/Triz-different-materials.protect|Triz-different-materials.protect]] 
 - [[../../../../_private/tech/Triz/Sub/Triz-different-materials.private|Triz-different-materials.private]] 

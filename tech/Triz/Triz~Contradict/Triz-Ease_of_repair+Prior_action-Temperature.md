@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Ease_of_repair+Prior_action-Temperature.md|Triz-Ease_of_repair+Prior_action-Temperature]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Ease_of_repair+Prior_action-Temperature|Triz-Ease_of_repair+Prior_action-Temperature]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Ease_of_repair+Prior_action-Temperature.public|Triz-Ease_of_repair+Prior_action-Temperature.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Ease_of_repair+Prior_action-Temperature.internal|Triz-Ease_of_repair+Prior_action-Temperature.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Ease_of_repair+Prior_action-Temperature.protect|Triz-Ease_of_repair+Prior_action-Temperature.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Ease_of_repair+Prior_action-Temperature.private|Triz-Ease_of_repair+Prior_action-Temperature.private]] 

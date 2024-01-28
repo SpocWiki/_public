@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Temperature+Changing_the_color-Shape.md|Triz-Temperature+Changing_the_color-Shape]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Temperature+Changing_the_color-Shape|Triz-Temperature+Changing_the_color-Shape]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Temperature+Changing_the_color-Shape.public|Triz-Temperature+Changing_the_color-Shape.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Temperature+Changing_the_color-Shape.internal|Triz-Temperature+Changing_the_color-Shape.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Temperature+Changing_the_color-Shape.protect|Triz-Temperature+Changing_the_color-Shape.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Temperature+Changing_the_color-Shape.private|Triz-Temperature+Changing_the_color-Shape.private]] 

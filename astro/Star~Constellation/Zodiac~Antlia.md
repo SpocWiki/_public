@@ -16,7 +16,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../_public/astro/Zodiac/Zodiac~Antlia.md|Zodiac~Antlia]] 
+- [[../../../_Standards/astro/Zodiac/Zodiac~Antlia|Zodiac~Antlia]] 
+- [[../../../_public/astro/Zodiac/Zodiac~Antlia.public|Zodiac~Antlia.public]] 
 - [[../../../_internal/astro/Zodiac/Zodiac~Antlia.internal|Zodiac~Antlia.internal]] 
 - [[../../../_protect/astro/Zodiac/Zodiac~Antlia.protect|Zodiac~Antlia.protect]] 
 - [[../../../_private/astro/Zodiac/Zodiac~Antlia.private|Zodiac~Antlia.private]] 

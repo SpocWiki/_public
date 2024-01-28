@@ -17,7 +17,8 @@ tags:
 Length of moving object
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Parameter/Triz-moving_Length.md|Triz-moving_Length]] 
+- [[../../../../_Standards/tech/Triz/Parameter/Triz-moving_Length|Triz-moving_Length]] 
+- [[../../../../_public/tech/Triz/Parameter/Triz-moving_Length.public|Triz-moving_Length.public]] 
 - [[../../../../_internal/tech/Triz/Parameter/Triz-moving_Length.internal|Triz-moving_Length.internal]] 
 - [[../../../../_protect/tech/Triz/Parameter/Triz-moving_Length.protect|Triz-moving_Length.protect]] 
 - [[../../../../_private/tech/Triz/Parameter/Triz-moving_Length.private|Triz-moving_Length.private]] 

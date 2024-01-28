@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Complexity+Phase_transition-moving_Weight.md|Triz-Complexity+Phase_transition-moving_Weight]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Complexity+Phase_transition-moving_Weight|Triz-Complexity+Phase_transition-moving_Weight]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Complexity+Phase_transition-moving_Weight.public|Triz-Complexity+Phase_transition-moving_Weight.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Complexity+Phase_transition-moving_Weight.internal|Triz-Complexity+Phase_transition-moving_Weight.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Complexity+Phase_transition-moving_Weight.protect|Triz-Complexity+Phase_transition-moving_Weight.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Complexity+Phase_transition-moving_Weight.private|Triz-Complexity+Phase_transition-moving_Weight.private]] 

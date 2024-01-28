@@ -27,7 +27,8 @@ confidential: public
 
 
 ## Confidential Links & Embeds: 
-- [[../../../_public/astro/Star/Deneb_Algedi.md|Deneb_Algedi]] 
+- [[../../../_Standards/astro/Star/Deneb_Algedi|Deneb_Algedi]] 
+- [[../../../_public/astro/Star/Deneb_Algedi.public|Deneb_Algedi.public]] 
 - [[../../../_internal/astro/Star/Deneb_Algedi.internal|Deneb_Algedi.internal]] 
 - [[../../../_protect/astro/Star/Deneb_Algedi.protect|Deneb_Algedi.protect]] 
 - [[../../../_private/astro/Star/Deneb_Algedi.private|Deneb_Algedi.private]] 

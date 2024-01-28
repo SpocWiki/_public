@@ -17,7 +17,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../_public/astro/Zodiac/Zodiac~Lyra.md|Zodiac~Lyra]] 
+- [[../../../_Standards/astro/Zodiac/Zodiac~Lyra|Zodiac~Lyra]] 
+- [[../../../_public/astro/Zodiac/Zodiac~Lyra.public|Zodiac~Lyra.public]] 
 - [[../../../_internal/astro/Zodiac/Zodiac~Lyra.internal|Zodiac~Lyra.internal]] 
 - [[../../../_protect/astro/Zodiac/Zodiac~Lyra.protect|Zodiac~Lyra.protect]] 
 - [[../../../_private/astro/Zodiac/Zodiac~Lyra.private|Zodiac~Lyra.private]] 

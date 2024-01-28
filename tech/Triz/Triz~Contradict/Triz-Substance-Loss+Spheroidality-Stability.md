@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Substance-Loss+Spheroidality-Stability.md|Triz-Substance-Loss+Spheroidality-Stability]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Substance-Loss+Spheroidality-Stability|Triz-Substance-Loss+Spheroidality-Stability]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Substance-Loss+Spheroidality-Stability.public|Triz-Substance-Loss+Spheroidality-Stability.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Substance-Loss+Spheroidality-Stability.internal|Triz-Substance-Loss+Spheroidality-Stability.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Substance-Loss+Spheroidality-Stability.protect|Triz-Substance-Loss+Spheroidality-Stability.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Substance-Loss+Spheroidality-Stability.private|Triz-Substance-Loss+Spheroidality-Stability.private]] 

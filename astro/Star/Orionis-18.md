@@ -27,7 +27,8 @@ confidential: public
 
 
 ## Confidential Links & Embeds: 
-- [[../../../_public/astro/Star/Orionis-18.md|Orionis-18]] 
+- [[../../../_Standards/astro/Star/Orionis-18|Orionis-18]] 
+- [[../../../_public/astro/Star/Orionis-18.public|Orionis-18.public]] 
 - [[../../../_internal/astro/Star/Orionis-18.internal|Orionis-18.internal]] 
 - [[../../../_protect/astro/Star/Orionis-18.protect|Orionis-18.protect]] 
 - [[../../../_private/astro/Star/Orionis-18.private|Orionis-18.private]] 

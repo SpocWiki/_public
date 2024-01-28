@@ -27,7 +27,8 @@ confidential: public
 
 
 ## Confidential Links & Embeds: 
-- [[../../../_public/astro/Star/Rastaben.md|Rastaben]] 
+- [[../../../_Standards/astro/Star/Rastaben|Rastaben]] 
+- [[../../../_public/astro/Star/Rastaben.public|Rastaben.public]] 
 - [[../../../_internal/astro/Star/Rastaben.internal|Rastaben.internal]] 
 - [[../../../_protect/astro/Star/Rastaben.protect|Rastaben.protect]] 
 - [[../../../_private/astro/Star/Rastaben.private|Rastaben.private]] 

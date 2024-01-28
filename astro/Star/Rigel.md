@@ -27,7 +27,8 @@ confidential: public
 
 
 ## Confidential Links & Embeds: 
-- [[../../../_public/astro/Star/Rigel.md|Rigel]] 
+- [[../../../_Standards/astro/Star/Rigel|Rigel]] 
+- [[../../../_public/astro/Star/Rigel.public|Rigel.public]] 
 - [[../../../_internal/astro/Star/Rigel.internal|Rigel.internal]] 
 - [[../../../_protect/astro/Star/Rigel.protect|Rigel.protect]] 
 - [[../../../_private/astro/Star/Rigel.private|Rigel.private]] 

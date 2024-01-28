@@ -27,7 +27,8 @@ confidential: public
 
 
 ## Confidential Links & Embeds: 
-- [[../../../_public/astro/Star/Antares.md|Antares]] 
+- [[../../../_Standards/astro/Star/Antares|Antares]] 
+- [[../../../_public/astro/Star/Antares.public|Antares.public]] 
 - [[../../../_internal/astro/Star/Antares.internal|Antares.internal]] 
 - [[../../../_protect/astro/Star/Antares.protect|Antares.protect]] 
 - [[../../../_private/astro/Star/Antares.private|Antares.private]] 

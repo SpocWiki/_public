@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Difficulty+Mediator-Substance-Loss.md|Triz-Difficulty+Mediator-Substance-Loss]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Difficulty+Mediator-Substance-Loss|Triz-Difficulty+Mediator-Substance-Loss]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Difficulty+Mediator-Substance-Loss.public|Triz-Difficulty+Mediator-Substance-Loss.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Difficulty+Mediator-Substance-Loss.internal|Triz-Difficulty+Mediator-Substance-Loss.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Difficulty+Mediator-Substance-Loss.protect|Triz-Difficulty+Mediator-Substance-Loss.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Difficulty+Mediator-Substance-Loss.private|Triz-Difficulty+Mediator-Substance-Loss.private]] 

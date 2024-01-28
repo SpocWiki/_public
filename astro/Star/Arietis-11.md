@@ -27,7 +27,8 @@ confidential: public
 
 
 ## Confidential Links & Embeds: 
-- [[../../../_public/astro/Star/Arietis-11.md|Arietis-11]] 
+- [[../../../_Standards/astro/Star/Arietis-11|Arietis-11]] 
+- [[../../../_public/astro/Star/Arietis-11.public|Arietis-11.public]] 
 - [[../../../_internal/astro/Star/Arietis-11.internal|Arietis-11.internal]] 
 - [[../../../_protect/astro/Star/Arietis-11.protect|Arietis-11.protect]] 
 - [[../../../_private/astro/Star/Arietis-11.private|Arietis-11.private]] 

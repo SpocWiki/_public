@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Time-Loss+Inert_environment-Substance-Loss.md|Triz-Time-Loss+Inert_environment-Substance-Loss]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Time-Loss+Inert_environment-Substance-Loss|Triz-Time-Loss+Inert_environment-Substance-Loss]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Time-Loss+Inert_environment-Substance-Loss.public|Triz-Time-Loss+Inert_environment-Substance-Loss.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Time-Loss+Inert_environment-Substance-Loss.internal|Triz-Time-Loss+Inert_environment-Substance-Loss.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Time-Loss+Inert_environment-Substance-Loss.protect|Triz-Time-Loss+Inert_environment-Substance-Loss.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Time-Loss+Inert_environment-Substance-Loss.private|Triz-Time-Loss+Inert_environment-Substance-Loss.private]] 

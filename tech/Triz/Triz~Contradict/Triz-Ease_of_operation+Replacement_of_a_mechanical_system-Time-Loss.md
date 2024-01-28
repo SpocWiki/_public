@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Ease_of_operation+Replacement_of_a_mechanical_system-Time-Loss.md|Triz-Ease_of_operation+Replacement_of_a_mechanical_system-Time-Loss]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Ease_of_operation+Replacement_of_a_mechanical_system-Time-Loss|Triz-Ease_of_operation+Replacement_of_a_mechanical_system-Time-Loss]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Ease_of_operation+Replacement_of_a_mechanical_system-Time-Loss.public|Triz-Ease_of_operation+Replacement_of_a_mechanical_system-Time-Loss.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Ease_of_operation+Replacement_of_a_mechanical_system-Time-Loss.internal|Triz-Ease_of_operation+Replacement_of_a_mechanical_system-Time-Loss.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Ease_of_operation+Replacement_of_a_mechanical_system-Time-Loss.protect|Triz-Ease_of_operation+Replacement_of_a_mechanical_system-Time-Loss.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Ease_of_operation+Replacement_of_a_mechanical_system-Time-Loss.private|Triz-Ease_of_operation+Replacement_of_a_mechanical_system-Time-Loss.private]] 

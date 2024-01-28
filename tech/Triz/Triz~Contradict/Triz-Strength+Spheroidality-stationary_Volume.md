@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Strength+Spheroidality-stationary_Volume.md|Triz-Strength+Spheroidality-stationary_Volume]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Strength+Spheroidality-stationary_Volume|Triz-Strength+Spheroidality-stationary_Volume]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Strength+Spheroidality-stationary_Volume.public|Triz-Strength+Spheroidality-stationary_Volume.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Strength+Spheroidality-stationary_Volume.internal|Triz-Strength+Spheroidality-stationary_Volume.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Strength+Spheroidality-stationary_Volume.protect|Triz-Strength+Spheroidality-stationary_Volume.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Strength+Spheroidality-stationary_Volume.private|Triz-Strength+Spheroidality-stationary_Volume.private]] 

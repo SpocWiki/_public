@@ -17,7 +17,8 @@ tags:
 Strength: resistance to deformation or breakage of materials
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Parameter/Triz-Strength.md|Triz-Strength]] 
+- [[../../../../_Standards/tech/Triz/Parameter/Triz-Strength|Triz-Strength]] 
+- [[../../../../_public/tech/Triz/Parameter/Triz-Strength.public|Triz-Strength.public]] 
 - [[../../../../_internal/tech/Triz/Parameter/Triz-Strength.internal|Triz-Strength.internal]] 
 - [[../../../../_protect/tech/Triz/Parameter/Triz-Strength.protect|Triz-Strength.protect]] 
 - [[../../../../_private/tech/Triz/Parameter/Triz-Strength.private|Triz-Strength.private]] 

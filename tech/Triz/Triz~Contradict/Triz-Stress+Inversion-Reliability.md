@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Stress+Inversion-Reliability.md|Triz-Stress+Inversion-Reliability]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Stress+Inversion-Reliability|Triz-Stress+Inversion-Reliability]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Stress+Inversion-Reliability.public|Triz-Stress+Inversion-Reliability.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Stress+Inversion-Reliability.internal|Triz-Stress+Inversion-Reliability.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Stress+Inversion-Reliability.protect|Triz-Stress+Inversion-Reliability.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Stress+Inversion-Reliability.private|Triz-Stress+Inversion-Reliability.private]] 

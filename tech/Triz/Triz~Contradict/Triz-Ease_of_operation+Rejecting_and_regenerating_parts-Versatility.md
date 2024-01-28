@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Ease_of_operation+Rejecting_and_regenerating_parts-Versatility.md|Triz-Ease_of_operation+Rejecting_and_regenerating_parts-Versatility]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Ease_of_operation+Rejecting_and_regenerating_parts-Versatility|Triz-Ease_of_operation+Rejecting_and_regenerating_parts-Versatility]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Ease_of_operation+Rejecting_and_regenerating_parts-Versatility.public|Triz-Ease_of_operation+Rejecting_and_regenerating_parts-Versatility.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Ease_of_operation+Rejecting_and_regenerating_parts-Versatility.internal|Triz-Ease_of_operation+Rejecting_and_regenerating_parts-Versatility.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Ease_of_operation+Rejecting_and_regenerating_parts-Versatility.protect|Triz-Ease_of_operation+Rejecting_and_regenerating_parts-Versatility.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Ease_of_operation+Rejecting_and_regenerating_parts-Versatility.private|Triz-Ease_of_operation+Rejecting_and_regenerating_parts-Versatility.private]] 

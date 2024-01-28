@@ -26,7 +26,8 @@ Make Objects interacting with a given object of the same material (or material w
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Sub/Triz-same-material.md|Triz-same-material]] 
+- [[../../../../_Standards/tech/Triz/Sub/Triz-same-material|Triz-same-material]] 
+- [[../../../../_public/tech/Triz/Sub/Triz-same-material.public|Triz-same-material.public]] 
 - [[../../../../_internal/tech/Triz/Sub/Triz-same-material.internal|Triz-same-material.internal]] 
 - [[../../../../_protect/tech/Triz/Sub/Triz-same-material.protect|Triz-same-material.protect]] 
 - [[../../../../_private/tech/Triz/Sub/Triz-same-material.private|Triz-same-material.private]] 

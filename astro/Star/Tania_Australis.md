@@ -27,7 +27,8 @@ confidential: public
 
 
 ## Confidential Links & Embeds: 
-- [[../../../_public/astro/Star/Tania_Australis.md|Tania_Australis]] 
+- [[../../../_Standards/astro/Star/Tania_Australis|Tania_Australis]] 
+- [[../../../_public/astro/Star/Tania_Australis.public|Tania_Australis.public]] 
 - [[../../../_internal/astro/Star/Tania_Australis.internal|Tania_Australis.internal]] 
 - [[../../../_protect/astro/Star/Tania_Australis.protect|Tania_Australis.protect]] 
 - [[../../../_private/astro/Star/Tania_Australis.private|Tania_Australis.private]] 

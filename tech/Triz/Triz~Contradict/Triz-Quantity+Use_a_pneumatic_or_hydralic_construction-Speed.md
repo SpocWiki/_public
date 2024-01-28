@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Quantity+Use_a_pneumatic_or_hydralic_construction-Speed.md|Triz-Quantity+Use_a_pneumatic_or_hydralic_construction-Speed]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Quantity+Use_a_pneumatic_or_hydralic_construction-Speed|Triz-Quantity+Use_a_pneumatic_or_hydralic_construction-Speed]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Quantity+Use_a_pneumatic_or_hydralic_construction-Speed.public|Triz-Quantity+Use_a_pneumatic_or_hydralic_construction-Speed.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Quantity+Use_a_pneumatic_or_hydralic_construction-Speed.internal|Triz-Quantity+Use_a_pneumatic_or_hydralic_construction-Speed.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Quantity+Use_a_pneumatic_or_hydralic_construction-Speed.protect|Triz-Quantity+Use_a_pneumatic_or_hydralic_construction-Speed.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Quantity+Use_a_pneumatic_or_hydralic_construction-Speed.private|Triz-Quantity+Use_a_pneumatic_or_hydralic_construction-Speed.private]] 

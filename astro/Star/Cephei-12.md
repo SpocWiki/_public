@@ -27,7 +27,8 @@ confidential: public
 
 
 ## Confidential Links & Embeds: 
-- [[../../../_public/astro/Star/Cephei-12.md|Cephei-12]] 
+- [[../../../_Standards/astro/Star/Cephei-12|Cephei-12]] 
+- [[../../../_public/astro/Star/Cephei-12.public|Cephei-12.public]] 
 - [[../../../_internal/astro/Star/Cephei-12.internal|Cephei-12.internal]] 
 - [[../../../_protect/astro/Star/Cephei-12.protect|Cephei-12.protect]] 
 - [[../../../_private/astro/Star/Cephei-12.private|Cephei-12.private]] 

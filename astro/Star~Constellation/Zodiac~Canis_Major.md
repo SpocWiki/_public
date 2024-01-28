@@ -16,7 +16,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../_public/astro/Zodiac/Zodiac~Canis_Major.md|Zodiac~Canis_Major]] 
+- [[../../../_Standards/astro/Zodiac/Zodiac~Canis_Major|Zodiac~Canis_Major]] 
+- [[../../../_public/astro/Zodiac/Zodiac~Canis_Major.public|Zodiac~Canis_Major.public]] 
 - [[../../../_internal/astro/Zodiac/Zodiac~Canis_Major.internal|Zodiac~Canis_Major.internal]] 
 - [[../../../_protect/astro/Zodiac/Zodiac~Canis_Major.protect|Zodiac~Canis_Major.protect]] 
 - [[../../../_private/astro/Zodiac/Zodiac~Canis_Major.private|Zodiac~Canis_Major.private]] 

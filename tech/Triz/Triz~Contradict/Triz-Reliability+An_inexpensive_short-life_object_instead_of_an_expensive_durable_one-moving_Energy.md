@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Reliability+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-moving_Energy.md|Triz-Reliability+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-moving_Energy]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Reliability+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-moving_Energy|Triz-Reliability+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-moving_Energy]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Reliability+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-moving_Energy.public|Triz-Reliability+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-moving_Energy.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Reliability+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-moving_Energy.internal|Triz-Reliability+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-moving_Energy.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Reliability+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-moving_Energy.protect|Triz-Reliability+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-moving_Energy.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Reliability+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-moving_Energy.private|Triz-Reliability+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-moving_Energy.private]] 

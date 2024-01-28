@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Shape+Segmentation-generated_harm.md|Triz-Shape+Segmentation-generated_harm]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Shape+Segmentation-generated_harm|Triz-Shape+Segmentation-generated_harm]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Shape+Segmentation-generated_harm.public|Triz-Shape+Segmentation-generated_harm.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Shape+Segmentation-generated_harm.internal|Triz-Shape+Segmentation-generated_harm.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Shape+Segmentation-generated_harm.protect|Triz-Shape+Segmentation-generated_harm.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Shape+Segmentation-generated_harm.private|Triz-Shape+Segmentation-generated_harm.private]] 

@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Illumination+Periodic_action-Speed.md|Triz-Illumination+Periodic_action-Speed]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Illumination+Periodic_action-Speed|Triz-Illumination+Periodic_action-Speed]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Illumination+Periodic_action-Speed.public|Triz-Illumination+Periodic_action-Speed.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Illumination+Periodic_action-Speed.internal|Triz-Illumination+Periodic_action-Speed.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Illumination+Periodic_action-Speed.protect|Triz-Illumination+Periodic_action-Speed.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Illumination+Periodic_action-Speed.private|Triz-Illumination+Periodic_action-Speed.private]] 

@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-stationary_Length+Use_a_pneumatic_or_hydralic_construction-stationary_Weight.md|Triz-stationary_Length+Use_a_pneumatic_or_hydralic_construction-stationary_Weight]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-stationary_Length+Use_a_pneumatic_or_hydralic_construction-stationary_Weight|Triz-stationary_Length+Use_a_pneumatic_or_hydralic_construction-stationary_Weight]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-stationary_Length+Use_a_pneumatic_or_hydralic_construction-stationary_Weight.public|Triz-stationary_Length+Use_a_pneumatic_or_hydralic_construction-stationary_Weight.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-stationary_Length+Use_a_pneumatic_or_hydralic_construction-stationary_Weight.internal|Triz-stationary_Length+Use_a_pneumatic_or_hydralic_construction-stationary_Weight.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-stationary_Length+Use_a_pneumatic_or_hydralic_construction-stationary_Weight.protect|Triz-stationary_Length+Use_a_pneumatic_or_hydralic_construction-stationary_Weight.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-stationary_Length+Use_a_pneumatic_or_hydralic_construction-stationary_Weight.private|Triz-stationary_Length+Use_a_pneumatic_or_hydralic_construction-stationary_Weight.private]] 

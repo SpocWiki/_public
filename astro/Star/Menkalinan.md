@@ -27,7 +27,8 @@ confidential: public
 
 
 ## Confidential Links & Embeds: 
-- [[../../../_public/astro/Star/Menkalinan.md|Menkalinan]] 
+- [[../../../_Standards/astro/Star/Menkalinan|Menkalinan]] 
+- [[../../../_public/astro/Star/Menkalinan.public|Menkalinan.public]] 
 - [[../../../_internal/astro/Star/Menkalinan.internal|Menkalinan.internal]] 
 - [[../../../_protect/astro/Star/Menkalinan.protect|Menkalinan.protect]] 
 - [[../../../_private/astro/Star/Menkalinan.private|Menkalinan.private]] 

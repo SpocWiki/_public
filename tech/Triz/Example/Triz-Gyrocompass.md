@@ -17,7 +17,8 @@ tags:
 Signal from Gyrocompass is used to control simple Aircraft Autopilots.
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Example/Triz-Gyrocompass.md|Triz-Gyrocompass]] 
+- [[../../../../_Standards/tech/Triz/Example/Triz-Gyrocompass|Triz-Gyrocompass]] 
+- [[../../../../_public/tech/Triz/Example/Triz-Gyrocompass.public|Triz-Gyrocompass.public]] 
 - [[../../../../_internal/tech/Triz/Example/Triz-Gyrocompass.internal|Triz-Gyrocompass.internal]] 
 - [[../../../../_protect/tech/Triz/Example/Triz-Gyrocompass.protect|Triz-Gyrocompass.protect]] 
 - [[../../../../_private/tech/Triz/Example/Triz-Gyrocompass.private|Triz-Gyrocompass.private]] 

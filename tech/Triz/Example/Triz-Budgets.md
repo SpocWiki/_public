@@ -17,7 +17,8 @@ tags:
 --Measurements are used to decide when to modify a Process.
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Example/Triz-Budgets.md|Triz-Budgets]] 
+- [[../../../../_Standards/tech/Triz/Example/Triz-Budgets|Triz-Budgets]] 
+- [[../../../../_public/tech/Triz/Example/Triz-Budgets.public|Triz-Budgets.public]] 
 - [[../../../../_internal/tech/Triz/Example/Triz-Budgets.internal|Triz-Budgets.internal]] 
 - [[../../../../_protect/tech/Triz/Example/Triz-Budgets.protect|Triz-Budgets.protect]] 
 - [[../../../../_private/tech/Triz/Example/Triz-Budgets.private|Triz-Budgets.private]] 

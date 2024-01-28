@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Measurement_Accuracy+Copying-Difficulty.md|Triz-Measurement_Accuracy+Copying-Difficulty]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Measurement_Accuracy+Copying-Difficulty|Triz-Measurement_Accuracy+Copying-Difficulty]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Measurement_Accuracy+Copying-Difficulty.public|Triz-Measurement_Accuracy+Copying-Difficulty.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Measurement_Accuracy+Copying-Difficulty.internal|Triz-Measurement_Accuracy+Copying-Difficulty.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Measurement_Accuracy+Copying-Difficulty.protect|Triz-Measurement_Accuracy+Copying-Difficulty.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Measurement_Accuracy+Copying-Difficulty.private|Triz-Measurement_Accuracy+Copying-Difficulty.private]] 

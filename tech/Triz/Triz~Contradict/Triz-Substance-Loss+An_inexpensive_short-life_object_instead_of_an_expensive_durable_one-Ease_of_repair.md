@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Substance-Loss+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Ease_of_repair.md|Triz-Substance-Loss+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Ease_of_repair]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Substance-Loss+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Ease_of_repair|Triz-Substance-Loss+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Ease_of_repair]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Substance-Loss+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Ease_of_repair.public|Triz-Substance-Loss+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Ease_of_repair.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Substance-Loss+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Ease_of_repair.internal|Triz-Substance-Loss+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Ease_of_repair.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Substance-Loss+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Ease_of_repair.protect|Triz-Substance-Loss+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Ease_of_repair.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Substance-Loss+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Ease_of_repair.private|Triz-Substance-Loss+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Ease_of_repair.private]] 

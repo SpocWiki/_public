@@ -17,7 +17,8 @@ tags:
 While discharging wet Sand through a symmetrical Funnel, the Sand forms an Arch above the Opening, causing irregular Flow. A Funnel of asymmetrical Shape eliminates the Arching Effect.
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Example/Triz-break-symmetry.md|Triz-break-symmetry]] 
+- [[../../../../_Standards/tech/Triz/Example/Triz-break-symmetry|Triz-break-symmetry]] 
+- [[../../../../_public/tech/Triz/Example/Triz-break-symmetry.public|Triz-break-symmetry.public]] 
 - [[../../../../_internal/tech/Triz/Example/Triz-break-symmetry.internal|Triz-break-symmetry.internal]] 
 - [[../../../../_protect/tech/Triz/Example/Triz-break-symmetry.protect|Triz-break-symmetry.protect]] 
 - [[../../../../_private/tech/Triz/Example/Triz-break-symmetry.private|Triz-break-symmetry.private]] 

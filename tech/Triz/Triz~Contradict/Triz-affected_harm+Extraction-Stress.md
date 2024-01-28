@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-affected_harm+Extraction-Stress.md|Triz-affected_harm+Extraction-Stress]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-affected_harm+Extraction-Stress|Triz-affected_harm+Extraction-Stress]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-affected_harm+Extraction-Stress.public|Triz-affected_harm+Extraction-Stress.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-affected_harm+Extraction-Stress.internal|Triz-affected_harm+Extraction-Stress.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-affected_harm+Extraction-Stress.protect|Triz-affected_harm+Extraction-Stress.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-affected_harm+Extraction-Stress.private|Triz-affected_harm+Extraction-Stress.private]] 

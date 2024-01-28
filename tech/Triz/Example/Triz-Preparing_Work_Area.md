@@ -17,7 +17,8 @@ tags:
 Preparing and cleaning Work Area
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Example/Triz-Preparing_Work_Area.md|Triz-Preparing_Work_Area]] 
+- [[../../../../_Standards/tech/Triz/Example/Triz-Preparing_Work_Area|Triz-Preparing_Work_Area]] 
+- [[../../../../_public/tech/Triz/Example/Triz-Preparing_Work_Area.public|Triz-Preparing_Work_Area.public]] 
 - [[../../../../_internal/tech/Triz/Example/Triz-Preparing_Work_Area.internal|Triz-Preparing_Work_Area.internal]] 
 - [[../../../../_protect/tech/Triz/Example/Triz-Preparing_Work_Area.protect|Triz-Preparing_Work_Area.protect]] 
 - [[../../../../_private/tech/Triz/Example/Triz-Preparing_Work_Area.private|Triz-Preparing_Work_Area.private]] 

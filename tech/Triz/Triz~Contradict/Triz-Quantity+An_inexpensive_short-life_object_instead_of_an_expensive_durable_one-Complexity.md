@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Quantity+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Complexity.md|Triz-Quantity+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Complexity]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Quantity+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Complexity|Triz-Quantity+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Complexity]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Quantity+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Complexity.public|Triz-Quantity+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Complexity.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Quantity+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Complexity.internal|Triz-Quantity+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Complexity.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Quantity+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Complexity.protect|Triz-Quantity+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Complexity.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Quantity+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Complexity.private|Triz-Quantity+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Complexity.private]] 

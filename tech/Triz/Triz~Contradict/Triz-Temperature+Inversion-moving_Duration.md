@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Temperature+Inversion-moving_Duration.md|Triz-Temperature+Inversion-moving_Duration]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Temperature+Inversion-moving_Duration|Triz-Temperature+Inversion-moving_Duration]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Temperature+Inversion-moving_Duration.public|Triz-Temperature+Inversion-moving_Duration.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Temperature+Inversion-moving_Duration.internal|Triz-Temperature+Inversion-moving_Duration.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Temperature+Inversion-moving_Duration.protect|Triz-Temperature+Inversion-moving_Duration.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Temperature+Inversion-moving_Duration.private|Triz-Temperature+Inversion-moving_Duration.private]] 

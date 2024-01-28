@@ -27,7 +27,8 @@ confidential: public
 
 
 ## Confidential Links & Embeds: 
-- [[../../../_public/astro/Star/Sirrah.md|Sirrah]] 
+- [[../../../_Standards/astro/Star/Sirrah|Sirrah]] 
+- [[../../../_public/astro/Star/Sirrah.public|Sirrah.public]] 
 - [[../../../_internal/astro/Star/Sirrah.internal|Sirrah.internal]] 
 - [[../../../_protect/astro/Star/Sirrah.protect|Sirrah.protect]] 
 - [[../../../_private/astro/Star/Sirrah.private|Sirrah.private]] 

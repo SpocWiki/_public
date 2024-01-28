@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-moving_Volume+Inversion-Power.md|Triz-moving_Volume+Inversion-Power]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-moving_Volume+Inversion-Power|Triz-moving_Volume+Inversion-Power]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-moving_Volume+Inversion-Power.public|Triz-moving_Volume+Inversion-Power.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-moving_Volume+Inversion-Power.internal|Triz-moving_Volume+Inversion-Power.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-moving_Volume+Inversion-Power.protect|Triz-moving_Volume+Inversion-Power.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-moving_Volume+Inversion-Power.private|Triz-moving_Volume+Inversion-Power.private]] 

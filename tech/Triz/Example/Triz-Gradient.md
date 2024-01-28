@@ -17,7 +17,8 @@ tags:
 Use a Temperature, Density, or Pressure Gradient instead of constant Temperature, Density or Pressure.
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Example/Triz-Gradient.md|Triz-Gradient]] 
+- [[../../../../_Standards/tech/Triz/Example/Triz-Gradient|Triz-Gradient]] 
+- [[../../../../_public/tech/Triz/Example/Triz-Gradient.public|Triz-Gradient.public]] 
 - [[../../../../_internal/tech/Triz/Example/Triz-Gradient.internal|Triz-Gradient.internal]] 
 - [[../../../../_protect/tech/Triz/Example/Triz-Gradient.protect|Triz-Gradient.protect]] 
 - [[../../../../_private/tech/Triz/Example/Triz-Gradient.private|Triz-Gradient.private]] 

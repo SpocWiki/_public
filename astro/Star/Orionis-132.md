@@ -27,7 +27,8 @@ confidential: public
 
 
 ## Confidential Links & Embeds: 
-- [[../../../_public/astro/Star/Orionis-132.md|Orionis-132]] 
+- [[../../../_Standards/astro/Star/Orionis-132|Orionis-132]] 
+- [[../../../_public/astro/Star/Orionis-132.public|Orionis-132.public]] 
 - [[../../../_internal/astro/Star/Orionis-132.internal|Orionis-132.internal]] 
 - [[../../../_protect/astro/Star/Orionis-132.protect|Orionis-132.protect]] 
 - [[../../../_private/astro/Star/Orionis-132.private|Orionis-132.private]] 

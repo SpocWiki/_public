@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-stationary_Length+Prior_action-stationary_Area.md|Triz-stationary_Length+Prior_action-stationary_Area]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-stationary_Length+Prior_action-stationary_Area|Triz-stationary_Length+Prior_action-stationary_Area]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-stationary_Length+Prior_action-stationary_Area.public|Triz-stationary_Length+Prior_action-stationary_Area.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-stationary_Length+Prior_action-stationary_Area.internal|Triz-stationary_Length+Prior_action-stationary_Area.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-stationary_Length+Prior_action-stationary_Area.protect|Triz-stationary_Length+Prior_action-stationary_Area.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-stationary_Length+Prior_action-stationary_Area.private|Triz-stationary_Length+Prior_action-stationary_Area.private]] 

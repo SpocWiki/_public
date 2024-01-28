@@ -27,7 +27,8 @@ confidential: public
 
 
 ## Confidential Links & Embeds: 
-- [[../../../_public/astro/Star/Ursae_Minoris-4.md|Ursae_Minoris-4]] 
+- [[../../../_Standards/astro/Star/Ursae_Minoris-4|Ursae_Minoris-4]] 
+- [[../../../_public/astro/Star/Ursae_Minoris-4.public|Ursae_Minoris-4.public]] 
 - [[../../../_internal/astro/Star/Ursae_Minoris-4.internal|Ursae_Minoris-4.internal]] 
 - [[../../../_protect/astro/Star/Ursae_Minoris-4.protect|Ursae_Minoris-4.protect]] 
 - [[../../../_private/astro/Star/Ursae_Minoris-4.private|Ursae_Minoris-4.private]] 

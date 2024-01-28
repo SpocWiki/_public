@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Speed+Composite_materials-Stress.md|Triz-Speed+Composite_materials-Stress]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Speed+Composite_materials-Stress|Triz-Speed+Composite_materials-Stress]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Speed+Composite_materials-Stress.public|Triz-Speed+Composite_materials-Stress.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Speed+Composite_materials-Stress.internal|Triz-Speed+Composite_materials-Stress.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Speed+Composite_materials-Stress.protect|Triz-Speed+Composite_materials-Stress.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Speed+Composite_materials-Stress.private|Triz-Speed+Composite_materials-Stress.private]] 

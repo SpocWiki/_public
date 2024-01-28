@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-stationary_Weight+Mechanical_vibration-Power.md|Triz-stationary_Weight+Mechanical_vibration-Power]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-stationary_Weight+Mechanical_vibration-Power|Triz-stationary_Weight+Mechanical_vibration-Power]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-stationary_Weight+Mechanical_vibration-Power.public|Triz-stationary_Weight+Mechanical_vibration-Power.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-stationary_Weight+Mechanical_vibration-Power.internal|Triz-stationary_Weight+Mechanical_vibration-Power.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-stationary_Weight+Mechanical_vibration-Power.protect|Triz-stationary_Weight+Mechanical_vibration-Power.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-stationary_Weight+Mechanical_vibration-Power.private|Triz-stationary_Weight+Mechanical_vibration-Power.private]] 

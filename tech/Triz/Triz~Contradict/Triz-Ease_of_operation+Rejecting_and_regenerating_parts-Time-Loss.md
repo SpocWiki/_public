@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Ease_of_operation+Rejecting_and_regenerating_parts-Time-Loss.md|Triz-Ease_of_operation+Rejecting_and_regenerating_parts-Time-Loss]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Ease_of_operation+Rejecting_and_regenerating_parts-Time-Loss|Triz-Ease_of_operation+Rejecting_and_regenerating_parts-Time-Loss]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Ease_of_operation+Rejecting_and_regenerating_parts-Time-Loss.public|Triz-Ease_of_operation+Rejecting_and_regenerating_parts-Time-Loss.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Ease_of_operation+Rejecting_and_regenerating_parts-Time-Loss.internal|Triz-Ease_of_operation+Rejecting_and_regenerating_parts-Time-Loss.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Ease_of_operation+Rejecting_and_regenerating_parts-Time-Loss.protect|Triz-Ease_of_operation+Rejecting_and_regenerating_parts-Time-Loss.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Ease_of_operation+Rejecting_and_regenerating_parts-Time-Loss.private|Triz-Ease_of_operation+Rejecting_and_regenerating_parts-Time-Loss.private]] 

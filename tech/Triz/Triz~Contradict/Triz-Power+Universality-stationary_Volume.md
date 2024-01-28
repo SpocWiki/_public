@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Power+Universality-stationary_Volume.md|Triz-Power+Universality-stationary_Volume]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Power+Universality-stationary_Volume|Triz-Power+Universality-stationary_Volume]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Power+Universality-stationary_Volume.public|Triz-Power+Universality-stationary_Volume.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Power+Universality-stationary_Volume.internal|Triz-Power+Universality-stationary_Volume.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Power+Universality-stationary_Volume.protect|Triz-Power+Universality-stationary_Volume.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Power+Universality-stationary_Volume.private|Triz-Power+Universality-stationary_Volume.private]] 

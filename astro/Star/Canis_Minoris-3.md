@@ -27,7 +27,8 @@ confidential: public
 
 
 ## Confidential Links & Embeds: 
-- [[../../../_public/astro/Star/Canis_Minoris-3.md|Canis_Minoris-3]] 
+- [[../../../_Standards/astro/Star/Canis_Minoris-3|Canis_Minoris-3]] 
+- [[../../../_public/astro/Star/Canis_Minoris-3.public|Canis_Minoris-3.public]] 
 - [[../../../_internal/astro/Star/Canis_Minoris-3.internal|Canis_Minoris-3.internal]] 
 - [[../../../_protect/astro/Star/Canis_Minoris-3.protect|Canis_Minoris-3.protect]] 
 - [[../../../_private/astro/Star/Canis_Minoris-3.private|Canis_Minoris-3.private]] 

@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-moving_Length+Transformation_of_physical_and_chemical_states_of_an_object-Stress.md|Triz-moving_Length+Transformation_of_physical_and_chemical_states_of_an_object-Stress]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-moving_Length+Transformation_of_physical_and_chemical_states_of_an_object-Stress|Triz-moving_Length+Transformation_of_physical_and_chemical_states_of_an_object-Stress]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-moving_Length+Transformation_of_physical_and_chemical_states_of_an_object-Stress.public|Triz-moving_Length+Transformation_of_physical_and_chemical_states_of_an_object-Stress.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-moving_Length+Transformation_of_physical_and_chemical_states_of_an_object-Stress.internal|Triz-moving_Length+Transformation_of_physical_and_chemical_states_of_an_object-Stress.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-moving_Length+Transformation_of_physical_and_chemical_states_of_an_object-Stress.protect|Triz-moving_Length+Transformation_of_physical_and_chemical_states_of_an_object-Stress.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-moving_Length+Transformation_of_physical_and_chemical_states_of_an_object-Stress.private|Triz-moving_Length+Transformation_of_physical_and_chemical_states_of_an_object-Stress.private]] 

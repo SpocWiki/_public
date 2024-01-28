@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Complexity+Inversion-Energy-Loss.md|Triz-Complexity+Inversion-Energy-Loss]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Complexity+Inversion-Energy-Loss|Triz-Complexity+Inversion-Energy-Loss]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Complexity+Inversion-Energy-Loss.public|Triz-Complexity+Inversion-Energy-Loss.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Complexity+Inversion-Energy-Loss.internal|Triz-Complexity+Inversion-Energy-Loss.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Complexity+Inversion-Energy-Loss.protect|Triz-Complexity+Inversion-Energy-Loss.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Complexity+Inversion-Energy-Loss.private|Triz-Complexity+Inversion-Energy-Loss.private]] 

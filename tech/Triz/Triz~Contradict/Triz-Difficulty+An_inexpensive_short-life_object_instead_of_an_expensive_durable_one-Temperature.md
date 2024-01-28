@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Difficulty+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Temperature.md|Triz-Difficulty+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Temperature]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Difficulty+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Temperature|Triz-Difficulty+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Temperature]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Difficulty+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Temperature.public|Triz-Difficulty+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Temperature.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Difficulty+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Temperature.internal|Triz-Difficulty+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Temperature.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Difficulty+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Temperature.protect|Triz-Difficulty+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Temperature.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Difficulty+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Temperature.private|Triz-Difficulty+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Temperature.private]] 

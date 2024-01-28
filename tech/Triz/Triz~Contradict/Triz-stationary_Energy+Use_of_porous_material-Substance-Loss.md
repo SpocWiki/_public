@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-stationary_Energy+Use_of_porous_material-Substance-Loss.md|Triz-stationary_Energy+Use_of_porous_material-Substance-Loss]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-stationary_Energy+Use_of_porous_material-Substance-Loss|Triz-stationary_Energy+Use_of_porous_material-Substance-Loss]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-stationary_Energy+Use_of_porous_material-Substance-Loss.public|Triz-stationary_Energy+Use_of_porous_material-Substance-Loss.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-stationary_Energy+Use_of_porous_material-Substance-Loss.internal|Triz-stationary_Energy+Use_of_porous_material-Substance-Loss.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-stationary_Energy+Use_of_porous_material-Substance-Loss.protect|Triz-stationary_Energy+Use_of_porous_material-Substance-Loss.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-stationary_Energy+Use_of_porous_material-Substance-Loss.private|Triz-stationary_Energy+Use_of_porous_material-Substance-Loss.private]] 

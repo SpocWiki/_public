@@ -27,7 +27,8 @@ confidential: public
 
 
 ## Confidential Links & Embeds: 
-- [[../../../_public/astro/Star/Beteigeuze.md|Beteigeuze]] 
+- [[../../../_Standards/astro/Star/Beteigeuze|Beteigeuze]] 
+- [[../../../_public/astro/Star/Beteigeuze.public|Beteigeuze.public]] 
 - [[../../../_internal/astro/Star/Beteigeuze.internal|Beteigeuze.internal]] 
 - [[../../../_protect/astro/Star/Beteigeuze.protect|Beteigeuze.protect]] 
 - [[../../../_private/astro/Star/Beteigeuze.private|Beteigeuze.private]] 

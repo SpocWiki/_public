@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Ease_of_operation+Moving_to_a_new_dimension-Complexity.md|Triz-Ease_of_operation+Moving_to_a_new_dimension-Complexity]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Ease_of_operation+Moving_to_a_new_dimension-Complexity|Triz-Ease_of_operation+Moving_to_a_new_dimension-Complexity]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Ease_of_operation+Moving_to_a_new_dimension-Complexity.public|Triz-Ease_of_operation+Moving_to_a_new_dimension-Complexity.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Ease_of_operation+Moving_to_a_new_dimension-Complexity.internal|Triz-Ease_of_operation+Moving_to_a_new_dimension-Complexity.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Ease_of_operation+Moving_to_a_new_dimension-Complexity.protect|Triz-Ease_of_operation+Moving_to_a_new_dimension-Complexity.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Ease_of_operation+Moving_to_a_new_dimension-Complexity.private|Triz-Ease_of_operation+Moving_to_a_new_dimension-Complexity.private]] 

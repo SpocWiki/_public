@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Energy-Loss+Mechanical_vibration-stationary_Weight.md|Triz-Energy-Loss+Mechanical_vibration-stationary_Weight]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Energy-Loss+Mechanical_vibration-stationary_Weight|Triz-Energy-Loss+Mechanical_vibration-stationary_Weight]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Energy-Loss+Mechanical_vibration-stationary_Weight.public|Triz-Energy-Loss+Mechanical_vibration-stationary_Weight.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Energy-Loss+Mechanical_vibration-stationary_Weight.internal|Triz-Energy-Loss+Mechanical_vibration-stationary_Weight.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Energy-Loss+Mechanical_vibration-stationary_Weight.protect|Triz-Energy-Loss+Mechanical_vibration-stationary_Weight.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Energy-Loss+Mechanical_vibration-stationary_Weight.private|Triz-Energy-Loss+Mechanical_vibration-stationary_Weight.private]] 

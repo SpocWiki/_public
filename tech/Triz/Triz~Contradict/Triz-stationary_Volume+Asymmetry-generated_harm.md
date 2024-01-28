@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-stationary_Volume+Asymmetry-generated_harm.md|Triz-stationary_Volume+Asymmetry-generated_harm]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-stationary_Volume+Asymmetry-generated_harm|Triz-stationary_Volume+Asymmetry-generated_harm]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-stationary_Volume+Asymmetry-generated_harm.public|Triz-stationary_Volume+Asymmetry-generated_harm.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-stationary_Volume+Asymmetry-generated_harm.internal|Triz-stationary_Volume+Asymmetry-generated_harm.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-stationary_Volume+Asymmetry-generated_harm.protect|Triz-stationary_Volume+Asymmetry-generated_harm.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-stationary_Volume+Asymmetry-generated_harm.private|Triz-stationary_Volume+Asymmetry-generated_harm.private]] 

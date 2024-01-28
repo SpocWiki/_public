@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Automation+Inversion-moving_Energy.md|Triz-Automation+Inversion-moving_Energy]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Automation+Inversion-moving_Energy|Triz-Automation+Inversion-moving_Energy]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Automation+Inversion-moving_Energy.public|Triz-Automation+Inversion-moving_Energy.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Automation+Inversion-moving_Energy.internal|Triz-Automation+Inversion-moving_Energy.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Automation+Inversion-moving_Energy.protect|Triz-Automation+Inversion-moving_Energy.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Automation+Inversion-moving_Energy.private|Triz-Automation+Inversion-moving_Energy.private]] 

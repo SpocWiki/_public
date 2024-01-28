@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-stationary_Area+Asymmetry-Reliability.md|Triz-stationary_Area+Asymmetry-Reliability]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-stationary_Area+Asymmetry-Reliability|Triz-stationary_Area+Asymmetry-Reliability]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-stationary_Area+Asymmetry-Reliability.public|Triz-stationary_Area+Asymmetry-Reliability.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-stationary_Area+Asymmetry-Reliability.internal|Triz-stationary_Area+Asymmetry-Reliability.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-stationary_Area+Asymmetry-Reliability.protect|Triz-stationary_Area+Asymmetry-Reliability.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-stationary_Area+Asymmetry-Reliability.private|Triz-stationary_Area+Asymmetry-Reliability.private]] 

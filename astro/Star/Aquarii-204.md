@@ -27,7 +27,8 @@ confidential: public
 
 
 ## Confidential Links & Embeds: 
-- [[../../../_public/astro/Star/Aquarii-204.md|Aquarii-204]] 
+- [[../../../_Standards/astro/Star/Aquarii-204|Aquarii-204]] 
+- [[../../../_public/astro/Star/Aquarii-204.public|Aquarii-204.public]] 
 - [[../../../_internal/astro/Star/Aquarii-204.internal|Aquarii-204.internal]] 
 - [[../../../_protect/astro/Star/Aquarii-204.protect|Aquarii-204.protect]] 
 - [[../../../_private/astro/Star/Aquarii-204.private|Aquarii-204.private]] 

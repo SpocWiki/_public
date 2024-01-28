@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Manufacturing_Precision+Thermal_expansion-moving_Length.md|Triz-Manufacturing_Precision+Thermal_expansion-moving_Length]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Manufacturing_Precision+Thermal_expansion-moving_Length|Triz-Manufacturing_Precision+Thermal_expansion-moving_Length]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Manufacturing_Precision+Thermal_expansion-moving_Length.public|Triz-Manufacturing_Precision+Thermal_expansion-moving_Length.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Manufacturing_Precision+Thermal_expansion-moving_Length.internal|Triz-Manufacturing_Precision+Thermal_expansion-moving_Length.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Manufacturing_Precision+Thermal_expansion-moving_Length.protect|Triz-Manufacturing_Precision+Thermal_expansion-moving_Length.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Manufacturing_Precision+Thermal_expansion-moving_Length.private|Triz-Manufacturing_Precision+Thermal_expansion-moving_Length.private]] 

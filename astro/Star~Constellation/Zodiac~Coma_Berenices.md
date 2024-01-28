@@ -16,7 +16,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../_public/astro/Zodiac/Zodiac~Coma_Berenices.md|Zodiac~Coma_Berenices]] 
+- [[../../../_Standards/astro/Zodiac/Zodiac~Coma_Berenices|Zodiac~Coma_Berenices]] 
+- [[../../../_public/astro/Zodiac/Zodiac~Coma_Berenices.public|Zodiac~Coma_Berenices.public]] 
 - [[../../../_internal/astro/Zodiac/Zodiac~Coma_Berenices.internal|Zodiac~Coma_Berenices.internal]] 
 - [[../../../_protect/astro/Zodiac/Zodiac~Coma_Berenices.protect|Zodiac~Coma_Berenices.protect]] 
 - [[../../../_private/astro/Zodiac/Zodiac~Coma_Berenices.private|Zodiac~Coma_Berenices.private]] 

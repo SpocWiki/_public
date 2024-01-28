@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-moving_Duration+Asymmetry-Illumination.md|Triz-moving_Duration+Asymmetry-Illumination]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-moving_Duration+Asymmetry-Illumination|Triz-moving_Duration+Asymmetry-Illumination]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-moving_Duration+Asymmetry-Illumination.public|Triz-moving_Duration+Asymmetry-Illumination.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-moving_Duration+Asymmetry-Illumination.internal|Triz-moving_Duration+Asymmetry-Illumination.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-moving_Duration+Asymmetry-Illumination.protect|Triz-moving_Duration+Asymmetry-Illumination.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-moving_Duration+Asymmetry-Illumination.private|Triz-moving_Duration+Asymmetry-Illumination.private]] 

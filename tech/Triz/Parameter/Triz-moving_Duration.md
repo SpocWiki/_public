@@ -17,7 +17,8 @@ tags:
 Duration of action of moving object
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Parameter/Triz-moving_Duration.md|Triz-moving_Duration]] 
+- [[../../../../_Standards/tech/Triz/Parameter/Triz-moving_Duration|Triz-moving_Duration]] 
+- [[../../../../_public/tech/Triz/Parameter/Triz-moving_Duration.public|Triz-moving_Duration.public]] 
 - [[../../../../_internal/tech/Triz/Parameter/Triz-moving_Duration.internal|Triz-moving_Duration.internal]] 
 - [[../../../../_protect/tech/Triz/Parameter/Triz-moving_Duration.protect|Triz-moving_Duration.protect]] 
 - [[../../../../_private/tech/Triz/Parameter/Triz-moving_Duration.private|Triz-moving_Duration.private]] 

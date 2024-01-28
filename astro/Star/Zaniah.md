@@ -27,7 +27,8 @@ confidential: public
 
 
 ## Confidential Links & Embeds: 
-- [[../../../_public/astro/Star/Zaniah.md|Zaniah]] 
+- [[../../../_Standards/astro/Star/Zaniah|Zaniah]] 
+- [[../../../_public/astro/Star/Zaniah.public|Zaniah.public]] 
 - [[../../../_internal/astro/Star/Zaniah.internal|Zaniah.internal]] 
 - [[../../../_protect/astro/Star/Zaniah.protect|Zaniah.protect]] 
 - [[../../../_private/astro/Star/Zaniah.private|Zaniah.private]] 

@@ -14,7 +14,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Principle/Triz-Asymmetry.md|Triz-Asymmetry]] 
+- [[../../../../_Standards/tech/Triz/Principle/Triz-Asymmetry|Triz-Asymmetry]] 
+- [[../../../../_public/tech/Triz/Principle/Triz-Asymmetry.public|Triz-Asymmetry.public]] 
 - [[../../../../_internal/tech/Triz/Principle/Triz-Asymmetry.internal|Triz-Asymmetry.internal]] 
 - [[../../../../_protect/tech/Triz/Principle/Triz-Asymmetry.protect|Triz-Asymmetry.protect]] 
 - [[../../../../_private/tech/Triz/Principle/Triz-Asymmetry.private|Triz-Asymmetry.private]] 

@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Measurement_Accuracy+Changing_the_color-moving_Weight.md|Triz-Measurement_Accuracy+Changing_the_color-moving_Weight]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Measurement_Accuracy+Changing_the_color-moving_Weight|Triz-Measurement_Accuracy+Changing_the_color-moving_Weight]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Measurement_Accuracy+Changing_the_color-moving_Weight.public|Triz-Measurement_Accuracy+Changing_the_color-moving_Weight.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Measurement_Accuracy+Changing_the_color-moving_Weight.internal|Triz-Measurement_Accuracy+Changing_the_color-moving_Weight.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Measurement_Accuracy+Changing_the_color-moving_Weight.protect|Triz-Measurement_Accuracy+Changing_the_color-moving_Weight.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Measurement_Accuracy+Changing_the_color-moving_Weight.private|Triz-Measurement_Accuracy+Changing_the_color-moving_Weight.private]] 

@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-affected_harm+Mechanical_vibration-Stability.md|Triz-affected_harm+Mechanical_vibration-Stability]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-affected_harm+Mechanical_vibration-Stability|Triz-affected_harm+Mechanical_vibration-Stability]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-affected_harm+Mechanical_vibration-Stability.public|Triz-affected_harm+Mechanical_vibration-Stability.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-affected_harm+Mechanical_vibration-Stability.internal|Triz-affected_harm+Mechanical_vibration-Stability.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-affected_harm+Mechanical_vibration-Stability.protect|Triz-affected_harm+Mechanical_vibration-Stability.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-affected_harm+Mechanical_vibration-Stability.private|Triz-affected_harm+Mechanical_vibration-Stability.private]] 

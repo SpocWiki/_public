@@ -28,7 +28,8 @@ Perform, before it is needed, the required change of an object (either fully or 
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Sub/Triz-anticipate-change.md|Triz-anticipate-change]] 
+- [[../../../../_Standards/tech/Triz/Sub/Triz-anticipate-change|Triz-anticipate-change]] 
+- [[../../../../_public/tech/Triz/Sub/Triz-anticipate-change.public|Triz-anticipate-change.public]] 
 - [[../../../../_internal/tech/Triz/Sub/Triz-anticipate-change.internal|Triz-anticipate-change.internal]] 
 - [[../../../../_protect/tech/Triz/Sub/Triz-anticipate-change.protect|Triz-anticipate-change.protect]] 
 - [[../../../../_private/tech/Triz/Sub/Triz-anticipate-change.private|Triz-anticipate-change.private]] 

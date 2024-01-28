@@ -17,7 +17,8 @@ tags:
 Make Images in Infrared to detect Heat Sources, such as Diseases in Crops, or Intruders in a security System.
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Example/Triz-Infrared_Images.md|Triz-Infrared_Images]] 
+- [[../../../../_Standards/tech/Triz/Example/Triz-Infrared_Images|Triz-Infrared_Images]] 
+- [[../../../../_public/tech/Triz/Example/Triz-Infrared_Images.public|Triz-Infrared_Images.public]] 
 - [[../../../../_internal/tech/Triz/Example/Triz-Infrared_Images.internal|Triz-Infrared_Images.internal]] 
 - [[../../../../_protect/tech/Triz/Example/Triz-Infrared_Images.protect|Triz-Infrared_Images.protect]] 
 - [[../../../../_private/tech/Triz/Example/Triz-Infrared_Images.private|Triz-Infrared_Images.private]] 

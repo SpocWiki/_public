@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Stress+Prior_action-Power.md|Triz-Stress+Prior_action-Power]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Stress+Prior_action-Power|Triz-Stress+Prior_action-Power]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Stress+Prior_action-Power.public|Triz-Stress+Prior_action-Power.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Stress+Prior_action-Power.internal|Triz-Stress+Prior_action-Power.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Stress+Prior_action-Power.protect|Triz-Stress+Prior_action-Power.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Stress+Prior_action-Power.private|Triz-Stress+Prior_action-Power.private]] 

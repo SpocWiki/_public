@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Quantity+Use_a_pneumatic_or_hydralic_construction-moving_Length.md|Triz-Quantity+Use_a_pneumatic_or_hydralic_construction-moving_Length]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Quantity+Use_a_pneumatic_or_hydralic_construction-moving_Length|Triz-Quantity+Use_a_pneumatic_or_hydralic_construction-moving_Length]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Quantity+Use_a_pneumatic_or_hydralic_construction-moving_Length.public|Triz-Quantity+Use_a_pneumatic_or_hydralic_construction-moving_Length.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Quantity+Use_a_pneumatic_or_hydralic_construction-moving_Length.internal|Triz-Quantity+Use_a_pneumatic_or_hydralic_construction-moving_Length.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Quantity+Use_a_pneumatic_or_hydralic_construction-moving_Length.protect|Triz-Quantity+Use_a_pneumatic_or_hydralic_construction-moving_Length.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Quantity+Use_a_pneumatic_or_hydralic_construction-moving_Length.private|Triz-Quantity+Use_a_pneumatic_or_hydralic_construction-moving_Length.private]] 

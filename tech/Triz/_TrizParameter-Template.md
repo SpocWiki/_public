@@ -20,7 +20,8 @@ TrizParameterId: {{ID}}
 {{Description}}
 
 ## Confidential Links & Embeds: 
-- [[../../../_public/tech/Triz/_TrizParameter-Template.md|_TrizParameter-Template]] 
+- [[../../../_Standards/tech/Triz/_TrizParameter-Template|_TrizParameter-Template]] 
+- [[../../../_public/tech/Triz/_TrizParameter-Template.public|_TrizParameter-Template.public]] 
 - [[../../../_internal/tech/Triz/_TrizParameter-Template.internal|_TrizParameter-Template.internal]] 
 - [[../../../_protect/tech/Triz/_TrizParameter-Template.protect|_TrizParameter-Template.protect]] 
 - [[../../../_private/tech/Triz/_TrizParameter-Template.private|_TrizParameter-Template.private]] 

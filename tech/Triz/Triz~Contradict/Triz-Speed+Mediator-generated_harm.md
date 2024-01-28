@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Speed+Mediator-generated_harm.md|Triz-Speed+Mediator-generated_harm]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Speed+Mediator-generated_harm|Triz-Speed+Mediator-generated_harm]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Speed+Mediator-generated_harm.public|Triz-Speed+Mediator-generated_harm.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Speed+Mediator-generated_harm.internal|Triz-Speed+Mediator-generated_harm.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Speed+Mediator-generated_harm.protect|Triz-Speed+Mediator-generated_harm.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Speed+Mediator-generated_harm.private|Triz-Speed+Mediator-generated_harm.private]] 

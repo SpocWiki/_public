@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Stress+Periodic_action-Complexity.md|Triz-Stress+Periodic_action-Complexity]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Stress+Periodic_action-Complexity|Triz-Stress+Periodic_action-Complexity]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Stress+Periodic_action-Complexity.public|Triz-Stress+Periodic_action-Complexity.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Stress+Periodic_action-Complexity.internal|Triz-Stress+Periodic_action-Complexity.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Stress+Periodic_action-Complexity.protect|Triz-Stress+Periodic_action-Complexity.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Stress+Periodic_action-Complexity.private|Triz-Stress+Periodic_action-Complexity.private]] 

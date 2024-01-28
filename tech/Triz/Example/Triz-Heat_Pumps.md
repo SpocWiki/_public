@@ -17,7 +17,8 @@ tags:
 Heat Pumps use the Heat of Vaporization and Heat of Condensation of a closed thermodynamic Cycle to do useful Work.
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Example/Triz-Heat_Pumps.md|Triz-Heat_Pumps]] 
+- [[../../../../_Standards/tech/Triz/Example/Triz-Heat_Pumps|Triz-Heat_Pumps]] 
+- [[../../../../_public/tech/Triz/Example/Triz-Heat_Pumps.public|Triz-Heat_Pumps.public]] 
 - [[../../../../_internal/tech/Triz/Example/Triz-Heat_Pumps.internal|Triz-Heat_Pumps.internal]] 
 - [[../../../../_protect/tech/Triz/Example/Triz-Heat_Pumps.protect|Triz-Heat_Pumps.protect]] 
 - [[../../../../_private/tech/Triz/Example/Triz-Heat_Pumps.private|Triz-Heat_Pumps.private]] 

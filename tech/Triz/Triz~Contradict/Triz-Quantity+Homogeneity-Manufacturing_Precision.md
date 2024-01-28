@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Quantity+Homogeneity-Manufacturing_Precision.md|Triz-Quantity+Homogeneity-Manufacturing_Precision]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Quantity+Homogeneity-Manufacturing_Precision|Triz-Quantity+Homogeneity-Manufacturing_Precision]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Quantity+Homogeneity-Manufacturing_Precision.public|Triz-Quantity+Homogeneity-Manufacturing_Precision.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Quantity+Homogeneity-Manufacturing_Precision.internal|Triz-Quantity+Homogeneity-Manufacturing_Precision.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Quantity+Homogeneity-Manufacturing_Precision.protect|Triz-Quantity+Homogeneity-Manufacturing_Precision.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Quantity+Homogeneity-Manufacturing_Precision.private|Triz-Quantity+Homogeneity-Manufacturing_Precision.private]] 

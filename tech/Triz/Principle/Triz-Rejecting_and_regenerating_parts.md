@@ -14,7 +14,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Principle/Triz-Rejecting_and_regenerating_parts.md|Triz-Rejecting_and_regenerating_parts]] 
+- [[../../../../_Standards/tech/Triz/Principle/Triz-Rejecting_and_regenerating_parts|Triz-Rejecting_and_regenerating_parts]] 
+- [[../../../../_public/tech/Triz/Principle/Triz-Rejecting_and_regenerating_parts.public|Triz-Rejecting_and_regenerating_parts.public]] 
 - [[../../../../_internal/tech/Triz/Principle/Triz-Rejecting_and_regenerating_parts.internal|Triz-Rejecting_and_regenerating_parts.internal]] 
 - [[../../../../_protect/tech/Triz/Principle/Triz-Rejecting_and_regenerating_parts.protect|Triz-Rejecting_and_regenerating_parts.protect]] 
 - [[../../../../_private/tech/Triz/Principle/Triz-Rejecting_and_regenerating_parts.private|Triz-Rejecting_and_regenerating_parts.private]] 

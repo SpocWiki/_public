@@ -24,7 +24,8 @@ Change the Concentration or Consistency.
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Sub/Triz-change-consistency.md|Triz-change-consistency]] 
+- [[../../../../_Standards/tech/Triz/Sub/Triz-change-consistency|Triz-change-consistency]] 
+- [[../../../../_public/tech/Triz/Sub/Triz-change-consistency.public|Triz-change-consistency.public]] 
 - [[../../../../_internal/tech/Triz/Sub/Triz-change-consistency.internal|Triz-change-consistency.internal]] 
 - [[../../../../_protect/tech/Triz/Sub/Triz-change-consistency.protect|Triz-change-consistency.protect]] 
 - [[../../../../_private/tech/Triz/Sub/Triz-change-consistency.private|Triz-change-consistency.private]] 

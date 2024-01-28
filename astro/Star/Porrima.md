@@ -27,7 +27,8 @@ confidential: public
 
 
 ## Confidential Links & Embeds: 
-- [[../../../_public/astro/Star/Porrima.md|Porrima]] 
+- [[../../../_Standards/astro/Star/Porrima|Porrima]] 
+- [[../../../_public/astro/Star/Porrima.public|Porrima.public]] 
 - [[../../../_internal/astro/Star/Porrima.internal|Porrima.internal]] 
 - [[../../../_protect/astro/Star/Porrima.protect|Porrima.protect]] 
 - [[../../../_private/astro/Star/Porrima.private|Porrima.private]] 

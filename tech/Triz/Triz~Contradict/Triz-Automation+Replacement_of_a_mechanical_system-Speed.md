@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Automation+Replacement_of_a_mechanical_system-Speed.md|Triz-Automation+Replacement_of_a_mechanical_system-Speed]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Automation+Replacement_of_a_mechanical_system-Speed|Triz-Automation+Replacement_of_a_mechanical_system-Speed]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Automation+Replacement_of_a_mechanical_system-Speed.public|Triz-Automation+Replacement_of_a_mechanical_system-Speed.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Automation+Replacement_of_a_mechanical_system-Speed.internal|Triz-Automation+Replacement_of_a_mechanical_system-Speed.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Automation+Replacement_of_a_mechanical_system-Speed.protect|Triz-Automation+Replacement_of_a_mechanical_system-Speed.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Automation+Replacement_of_a_mechanical_system-Speed.private|Triz-Automation+Replacement_of_a_mechanical_system-Speed.private]] 

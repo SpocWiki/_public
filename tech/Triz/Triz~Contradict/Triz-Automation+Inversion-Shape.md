@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Automation+Inversion-Shape.md|Triz-Automation+Inversion-Shape]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Automation+Inversion-Shape|Triz-Automation+Inversion-Shape]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Automation+Inversion-Shape.public|Triz-Automation+Inversion-Shape.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Automation+Inversion-Shape.internal|Triz-Automation+Inversion-Shape.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Automation+Inversion-Shape.protect|Triz-Automation+Inversion-Shape.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Automation+Inversion-Shape.private|Triz-Automation+Inversion-Shape.private]] 

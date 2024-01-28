@@ -27,7 +27,8 @@ confidential: public
 
 
 ## Confidential Links & Embeds: 
-- [[../../../_public/astro/Star/Tarazed.md|Tarazed]] 
+- [[../../../_Standards/astro/Star/Tarazed|Tarazed]] 
+- [[../../../_public/astro/Star/Tarazed.public|Tarazed.public]] 
 - [[../../../_internal/astro/Star/Tarazed.internal|Tarazed.internal]] 
 - [[../../../_protect/astro/Star/Tarazed.protect|Tarazed.protect]] 
 - [[../../../_private/astro/Star/Tarazed.private|Tarazed.private]] 

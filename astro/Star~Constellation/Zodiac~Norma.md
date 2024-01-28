@@ -17,7 +17,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../_public/astro/Zodiac/Zodiac~Norma.md|Zodiac~Norma]] 
+- [[../../../_Standards/astro/Zodiac/Zodiac~Norma|Zodiac~Norma]] 
+- [[../../../_public/astro/Zodiac/Zodiac~Norma.public|Zodiac~Norma.public]] 
 - [[../../../_internal/astro/Zodiac/Zodiac~Norma.internal|Zodiac~Norma.internal]] 
 - [[../../../_protect/astro/Zodiac/Zodiac~Norma.protect|Zodiac~Norma.protect]] 
 - [[../../../_private/astro/Zodiac/Zodiac~Norma.private|Zodiac~Norma.private]] 

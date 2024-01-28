@@ -27,7 +27,8 @@ confidential: public
 
 
 ## Confidential Links & Embeds: 
-- [[../../../_public/astro/Star/Pictoris-1.md|Pictoris-1]] 
+- [[../../../_Standards/astro/Star/Pictoris-1|Pictoris-1]] 
+- [[../../../_public/astro/Star/Pictoris-1.public|Pictoris-1.public]] 
 - [[../../../_internal/astro/Star/Pictoris-1.internal|Pictoris-1.internal]] 
 - [[../../../_protect/astro/Star/Pictoris-1.protect|Pictoris-1.protect]] 
 - [[../../../_private/astro/Star/Pictoris-1.private|Pictoris-1.private]] 

@@ -28,7 +28,8 @@ Instead of continuous action, use periodic or pulsating actions.
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Sub/Triz-periodic-action.md|Triz-periodic-action]] 
+- [[../../../../_Standards/tech/Triz/Sub/Triz-periodic-action|Triz-periodic-action]] 
+- [[../../../../_public/tech/Triz/Sub/Triz-periodic-action.public|Triz-periodic-action.public]] 
 - [[../../../../_internal/tech/Triz/Sub/Triz-periodic-action.internal|Triz-periodic-action.internal]] 
 - [[../../../../_protect/tech/Triz/Sub/Triz-periodic-action.protect|Triz-periodic-action.protect]] 
 - [[../../../../_private/tech/Triz/Sub/Triz-periodic-action.private|Triz-periodic-action.private]] 

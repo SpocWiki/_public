@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Versatility+Periodic_action-moving_Energy.md|Triz-Versatility+Periodic_action-moving_Energy]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Versatility+Periodic_action-moving_Energy|Triz-Versatility+Periodic_action-moving_Energy]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Versatility+Periodic_action-moving_Energy.public|Triz-Versatility+Periodic_action-moving_Energy.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Versatility+Periodic_action-moving_Energy.internal|Triz-Versatility+Periodic_action-moving_Energy.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Versatility+Periodic_action-moving_Energy.protect|Triz-Versatility+Periodic_action-moving_Energy.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Versatility+Periodic_action-moving_Energy.private|Triz-Versatility+Periodic_action-moving_Energy.private]] 

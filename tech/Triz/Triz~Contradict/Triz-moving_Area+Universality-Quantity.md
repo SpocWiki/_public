@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-moving_Area+Universality-Quantity.md|Triz-moving_Area+Universality-Quantity]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-moving_Area+Universality-Quantity|Triz-moving_Area+Universality-Quantity]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-moving_Area+Universality-Quantity.public|Triz-moving_Area+Universality-Quantity.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-moving_Area+Universality-Quantity.internal|Triz-moving_Area+Universality-Quantity.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-moving_Area+Universality-Quantity.protect|Triz-moving_Area+Universality-Quantity.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-moving_Area+Universality-Quantity.private|Triz-moving_Area+Universality-Quantity.private]] 

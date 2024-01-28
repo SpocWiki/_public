@@ -14,7 +14,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Principle/Triz-Phase_transition.md|Triz-Phase_transition]] 
+- [[../../../../_Standards/tech/Triz/Principle/Triz-Phase_transition|Triz-Phase_transition]] 
+- [[../../../../_public/tech/Triz/Principle/Triz-Phase_transition.public|Triz-Phase_transition.public]] 
 - [[../../../../_internal/tech/Triz/Principle/Triz-Phase_transition.internal|Triz-Phase_transition.internal]] 
 - [[../../../../_protect/tech/Triz/Principle/Triz-Phase_transition.protect|Triz-Phase_transition.protect]] 
 - [[../../../../_private/tech/Triz/Principle/Triz-Phase_transition.private|Triz-Phase_transition.private]] 

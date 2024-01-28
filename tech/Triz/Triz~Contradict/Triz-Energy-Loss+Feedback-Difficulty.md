@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Energy-Loss+Feedback-Difficulty.md|Triz-Energy-Loss+Feedback-Difficulty]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Energy-Loss+Feedback-Difficulty|Triz-Energy-Loss+Feedback-Difficulty]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Energy-Loss+Feedback-Difficulty.public|Triz-Energy-Loss+Feedback-Difficulty.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Energy-Loss+Feedback-Difficulty.internal|Triz-Energy-Loss+Feedback-Difficulty.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Energy-Loss+Feedback-Difficulty.protect|Triz-Energy-Loss+Feedback-Difficulty.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Energy-Loss+Feedback-Difficulty.private|Triz-Energy-Loss+Feedback-Difficulty.private]] 

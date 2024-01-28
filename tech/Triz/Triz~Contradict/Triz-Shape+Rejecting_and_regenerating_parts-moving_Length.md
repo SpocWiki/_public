@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Shape+Rejecting_and_regenerating_parts-moving_Length.md|Triz-Shape+Rejecting_and_regenerating_parts-moving_Length]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Shape+Rejecting_and_regenerating_parts-moving_Length|Triz-Shape+Rejecting_and_regenerating_parts-moving_Length]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Shape+Rejecting_and_regenerating_parts-moving_Length.public|Triz-Shape+Rejecting_and_regenerating_parts-moving_Length.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Shape+Rejecting_and_regenerating_parts-moving_Length.internal|Triz-Shape+Rejecting_and_regenerating_parts-moving_Length.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Shape+Rejecting_and_regenerating_parts-moving_Length.protect|Triz-Shape+Rejecting_and_regenerating_parts-moving_Length.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Shape+Rejecting_and_regenerating_parts-moving_Length.private|Triz-Shape+Rejecting_and_regenerating_parts-moving_Length.private]] 

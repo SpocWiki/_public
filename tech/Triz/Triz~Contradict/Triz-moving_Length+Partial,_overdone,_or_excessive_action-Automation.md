@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-moving_Length+Partial,_overdone,_or_excessive_action-Automation.md|Triz-moving_Length+Partial,_overdone,_or_excessive_action-Automation]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-moving_Length+Partial,_overdone,_or_excessive_action-Automation|Triz-moving_Length+Partial,_overdone,_or_excessive_action-Automation]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-moving_Length+Partial,_overdone,_or_excessive_action-Automation.public|Triz-moving_Length+Partial,_overdone,_or_excessive_action-Automation.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-moving_Length+Partial,_overdone,_or_excessive_action-Automation.internal|Triz-moving_Length+Partial,_overdone,_or_excessive_action-Automation.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-moving_Length+Partial,_overdone,_or_excessive_action-Automation.protect|Triz-moving_Length+Partial,_overdone,_or_excessive_action-Automation.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-moving_Length+Partial,_overdone,_or_excessive_action-Automation.private|Triz-moving_Length+Partial,_overdone,_or_excessive_action-Automation.private]] 

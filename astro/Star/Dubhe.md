@@ -27,7 +27,8 @@ confidential: public
 
 
 ## Confidential Links & Embeds: 
-- [[../../../_public/astro/Star/Dubhe.md|Dubhe]] 
+- [[../../../_Standards/astro/Star/Dubhe|Dubhe]] 
+- [[../../../_public/astro/Star/Dubhe.public|Dubhe.public]] 
 - [[../../../_internal/astro/Star/Dubhe.internal|Dubhe.internal]] 
 - [[../../../_protect/astro/Star/Dubhe.protect|Dubhe.protect]] 
 - [[../../../_private/astro/Star/Dubhe.private|Dubhe.private]] 

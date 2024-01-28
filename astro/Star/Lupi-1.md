@@ -27,7 +27,8 @@ confidential: public
 
 
 ## Confidential Links & Embeds: 
-- [[../../../_public/astro/Star/Lupi-1.md|Lupi-1]] 
+- [[../../../_Standards/astro/Star/Lupi-1|Lupi-1]] 
+- [[../../../_public/astro/Star/Lupi-1.public|Lupi-1.public]] 
 - [[../../../_internal/astro/Star/Lupi-1.internal|Lupi-1.internal]] 
 - [[../../../_protect/astro/Star/Lupi-1.protect|Lupi-1.protect]] 
 - [[../../../_private/astro/Star/Lupi-1.private|Lupi-1.private]] 

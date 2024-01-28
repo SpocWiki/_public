@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Speed+Prior_action-Versatility.md|Triz-Speed+Prior_action-Versatility]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Speed+Prior_action-Versatility|Triz-Speed+Prior_action-Versatility]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Speed+Prior_action-Versatility.public|Triz-Speed+Prior_action-Versatility.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Speed+Prior_action-Versatility.internal|Triz-Speed+Prior_action-Versatility.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Speed+Prior_action-Versatility.protect|Triz-Speed+Prior_action-Versatility.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Speed+Prior_action-Versatility.private|Triz-Speed+Prior_action-Versatility.private]] 

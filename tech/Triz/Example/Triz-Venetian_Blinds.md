@@ -17,7 +17,8 @@ tags:
 Replace solid Shades with Venetian Blinds.
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Example/Triz-Venetian_Blinds.md|Triz-Venetian_Blinds]] 
+- [[../../../../_Standards/tech/Triz/Example/Triz-Venetian_Blinds|Triz-Venetian_Blinds]] 
+- [[../../../../_public/tech/Triz/Example/Triz-Venetian_Blinds.public|Triz-Venetian_Blinds.public]] 
 - [[../../../../_internal/tech/Triz/Example/Triz-Venetian_Blinds.internal|Triz-Venetian_Blinds.internal]] 
 - [[../../../../_protect/tech/Triz/Example/Triz-Venetian_Blinds.protect|Triz-Venetian_Blinds.protect]] 
 - [[../../../../_private/tech/Triz/Example/Triz-Venetian_Blinds.private|Triz-Venetian_Blinds.private]] 

@@ -17,7 +17,8 @@ tags:
 Bring the Mountain to Mohammed, instead of bringing Mohammed to the Mountain.
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Example/Triz-Mountain_to_Mohammed.md|Triz-Mountain_to_Mohammed]] 
+- [[../../../../_Standards/tech/Triz/Example/Triz-Mountain_to_Mohammed|Triz-Mountain_to_Mohammed]] 
+- [[../../../../_public/tech/Triz/Example/Triz-Mountain_to_Mohammed.public|Triz-Mountain_to_Mohammed.public]] 
 - [[../../../../_internal/tech/Triz/Example/Triz-Mountain_to_Mohammed.internal|Triz-Mountain_to_Mohammed.internal]] 
 - [[../../../../_protect/tech/Triz/Example/Triz-Mountain_to_Mohammed.protect|Triz-Mountain_to_Mohammed.protect]] 
 - [[../../../../_private/tech/Triz/Example/Triz-Mountain_to_Mohammed.private|Triz-Mountain_to_Mohammed.private]] 

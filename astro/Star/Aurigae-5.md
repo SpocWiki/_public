@@ -27,7 +27,8 @@ confidential: public
 
 
 ## Confidential Links & Embeds: 
-- [[../../../_public/astro/Star/Aurigae-5.md|Aurigae-5]] 
+- [[../../../_Standards/astro/Star/Aurigae-5|Aurigae-5]] 
+- [[../../../_public/astro/Star/Aurigae-5.public|Aurigae-5.public]] 
 - [[../../../_internal/astro/Star/Aurigae-5.internal|Aurigae-5.internal]] 
 - [[../../../_protect/astro/Star/Aurigae-5.protect|Aurigae-5.protect]] 
 - [[../../../_private/astro/Star/Aurigae-5.private|Aurigae-5.private]] 

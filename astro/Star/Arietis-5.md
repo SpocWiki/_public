@@ -27,7 +27,8 @@ confidential: public
 
 
 ## Confidential Links & Embeds: 
-- [[../../../_public/astro/Star/Arietis-5.md|Arietis-5]] 
+- [[../../../_Standards/astro/Star/Arietis-5|Arietis-5]] 
+- [[../../../_public/astro/Star/Arietis-5.public|Arietis-5.public]] 
 - [[../../../_internal/astro/Star/Arietis-5.internal|Arietis-5.internal]] 
 - [[../../../_protect/astro/Star/Arietis-5.protect|Arietis-5.protect]] 
 - [[../../../_private/astro/Star/Arietis-5.private|Arietis-5.private]] 

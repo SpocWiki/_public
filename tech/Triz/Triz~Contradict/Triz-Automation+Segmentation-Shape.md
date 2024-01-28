@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Automation+Segmentation-Shape.md|Triz-Automation+Segmentation-Shape]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Automation+Segmentation-Shape|Triz-Automation+Segmentation-Shape]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Automation+Segmentation-Shape.public|Triz-Automation+Segmentation-Shape.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Automation+Segmentation-Shape.internal|Triz-Automation+Segmentation-Shape.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Automation+Segmentation-Shape.protect|Triz-Automation+Segmentation-Shape.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Automation+Segmentation-Shape.private|Triz-Automation+Segmentation-Shape.private]] 

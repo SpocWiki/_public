@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Ease_of_manufacture+Universality-Difficulty.md|Triz-Ease_of_manufacture+Universality-Difficulty]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Ease_of_manufacture+Universality-Difficulty|Triz-Ease_of_manufacture+Universality-Difficulty]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Ease_of_manufacture+Universality-Difficulty.public|Triz-Ease_of_manufacture+Universality-Difficulty.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Ease_of_manufacture+Universality-Difficulty.internal|Triz-Ease_of_manufacture+Universality-Difficulty.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Ease_of_manufacture+Universality-Difficulty.protect|Triz-Ease_of_manufacture+Universality-Difficulty.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Ease_of_manufacture+Universality-Difficulty.private|Triz-Ease_of_manufacture+Universality-Difficulty.private]] 

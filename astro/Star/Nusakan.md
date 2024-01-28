@@ -27,7 +27,8 @@ confidential: public
 
 
 ## Confidential Links & Embeds: 
-- [[../../../_public/astro/Star/Nusakan.md|Nusakan]] 
+- [[../../../_Standards/astro/Star/Nusakan|Nusakan]] 
+- [[../../../_public/astro/Star/Nusakan.public|Nusakan.public]] 
 - [[../../../_internal/astro/Star/Nusakan.internal|Nusakan.internal]] 
 - [[../../../_protect/astro/Star/Nusakan.protect|Nusakan.protect]] 
 - [[../../../_private/astro/Star/Nusakan.private|Nusakan.private]] 

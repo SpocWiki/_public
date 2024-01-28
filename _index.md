@@ -73,7 +73,8 @@ Nonetheless, private Repositories may find it useful to include this Repository 
 
 
 ## Confidential Links & Embeds: 
-- [[../_public/_index.md|_index]] 
+- [[../_Standards/_index|_index]] 
+- [[../_public/_index.public|_index.public]] 
 - [[../_internal/_index.internal|_index.internal]] 
 - [[../_protect/_index.protect|_index.protect]] 
 - [[../_private/_index.private|_index.private]] 

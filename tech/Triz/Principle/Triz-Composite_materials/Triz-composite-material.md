@@ -25,7 +25,8 @@ Change from uniform to composite (multiple) materials.
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Sub/Triz-composite-materials.md|Triz-composite-materials]] 
+- [[../../../../_Standards/tech/Triz/Sub/Triz-composite-materials|Triz-composite-materials]] 
+- [[../../../../_public/tech/Triz/Sub/Triz-composite-materials.public|Triz-composite-materials.public]] 
 - [[../../../../_internal/tech/Triz/Sub/Triz-composite-materials.internal|Triz-composite-materials.internal]] 
 - [[../../../../_protect/tech/Triz/Sub/Triz-composite-materials.protect|Triz-composite-materials.protect]] 
 - [[../../../../_private/tech/Triz/Sub/Triz-composite-materials.private|Triz-composite-materials.private]] 

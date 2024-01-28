@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Time-Loss+Mechanical_vibration-Temperature.md|Triz-Time-Loss+Mechanical_vibration-Temperature]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Time-Loss+Mechanical_vibration-Temperature|Triz-Time-Loss+Mechanical_vibration-Temperature]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Time-Loss+Mechanical_vibration-Temperature.public|Triz-Time-Loss+Mechanical_vibration-Temperature.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Time-Loss+Mechanical_vibration-Temperature.internal|Triz-Time-Loss+Mechanical_vibration-Temperature.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Time-Loss+Mechanical_vibration-Temperature.protect|Triz-Time-Loss+Mechanical_vibration-Temperature.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Time-Loss+Mechanical_vibration-Temperature.private|Triz-Time-Loss+Mechanical_vibration-Temperature.private]] 

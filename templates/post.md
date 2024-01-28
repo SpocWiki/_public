@@ -4,7 +4,8 @@ title: "{{title}}"
 
 
 ## Confidential Links & Embeds: 
-- [[../../_public/templates/post.md|post]] 
+- [[../../_Standards/templates/post|post]] 
+- [[../../_public/templates/post.public|post.public]] 
 - [[../../_internal/templates/post.internal|post.internal]] 
 - [[../../_protect/templates/post.protect|post.protect]] 
 - [[../../_private/templates/post.private|post.private]] 

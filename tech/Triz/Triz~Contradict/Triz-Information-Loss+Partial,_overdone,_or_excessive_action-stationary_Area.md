@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Information-Loss+Partial,_overdone,_or_excessive_action-stationary_Area.md|Triz-Information-Loss+Partial,_overdone,_or_excessive_action-stationary_Area]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Information-Loss+Partial,_overdone,_or_excessive_action-stationary_Area|Triz-Information-Loss+Partial,_overdone,_or_excessive_action-stationary_Area]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Information-Loss+Partial,_overdone,_or_excessive_action-stationary_Area.public|Triz-Information-Loss+Partial,_overdone,_or_excessive_action-stationary_Area.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Information-Loss+Partial,_overdone,_or_excessive_action-stationary_Area.internal|Triz-Information-Loss+Partial,_overdone,_or_excessive_action-stationary_Area.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Information-Loss+Partial,_overdone,_or_excessive_action-stationary_Area.protect|Triz-Information-Loss+Partial,_overdone,_or_excessive_action-stationary_Area.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Information-Loss+Partial,_overdone,_or_excessive_action-stationary_Area.private|Triz-Information-Loss+Partial,_overdone,_or_excessive_action-stationary_Area.private]] 

@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Stability+Copying-Complexity.md|Triz-Stability+Copying-Complexity]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Stability+Copying-Complexity|Triz-Stability+Copying-Complexity]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Stability+Copying-Complexity.public|Triz-Stability+Copying-Complexity.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Stability+Copying-Complexity.internal|Triz-Stability+Copying-Complexity.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Stability+Copying-Complexity.protect|Triz-Stability+Copying-Complexity.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Stability+Copying-Complexity.private|Triz-Stability+Copying-Complexity.private]] 

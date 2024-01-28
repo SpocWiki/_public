@@ -18,7 +18,8 @@ ZodiacPos: 7
 
 
 ## Confidential Links & Embeds: 
-- [[../../../_public/astro/Zodiac/Zodiac~Libra.md|Zodiac~Libra]] 
+- [[../../../_Standards/astro/Zodiac/Zodiac~Libra|Zodiac~Libra]] 
+- [[../../../_public/astro/Zodiac/Zodiac~Libra.public|Zodiac~Libra.public]] 
 - [[../../../_internal/astro/Zodiac/Zodiac~Libra.internal|Zodiac~Libra.internal]] 
 - [[../../../_protect/astro/Zodiac/Zodiac~Libra.protect|Zodiac~Libra.protect]] 
 - [[../../../_private/astro/Zodiac/Zodiac~Libra.private|Zodiac~Libra.private]] 

@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-moving_Length+Spheroidality-Reliability.md|Triz-moving_Length+Spheroidality-Reliability]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-moving_Length+Spheroidality-Reliability|Triz-moving_Length+Spheroidality-Reliability]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-moving_Length+Spheroidality-Reliability.public|Triz-moving_Length+Spheroidality-Reliability.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-moving_Length+Spheroidality-Reliability.internal|Triz-moving_Length+Spheroidality-Reliability.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-moving_Length+Spheroidality-Reliability.protect|Triz-moving_Length+Spheroidality-Reliability.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-moving_Length+Spheroidality-Reliability.private|Triz-moving_Length+Spheroidality-Reliability.private]] 

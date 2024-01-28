@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Power+Replacement_of_a_mechanical_system-Substance-Loss.md|Triz-Power+Replacement_of_a_mechanical_system-Substance-Loss]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Power+Replacement_of_a_mechanical_system-Substance-Loss|Triz-Power+Replacement_of_a_mechanical_system-Substance-Loss]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Power+Replacement_of_a_mechanical_system-Substance-Loss.public|Triz-Power+Replacement_of_a_mechanical_system-Substance-Loss.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Power+Replacement_of_a_mechanical_system-Substance-Loss.internal|Triz-Power+Replacement_of_a_mechanical_system-Substance-Loss.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Power+Replacement_of_a_mechanical_system-Substance-Loss.protect|Triz-Power+Replacement_of_a_mechanical_system-Substance-Loss.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Power+Replacement_of_a_mechanical_system-Substance-Loss.private|Triz-Power+Replacement_of_a_mechanical_system-Substance-Loss.private]] 

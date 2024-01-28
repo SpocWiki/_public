@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Information-Loss+Changing_the_color-Speed.md|Triz-Information-Loss+Changing_the_color-Speed]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Information-Loss+Changing_the_color-Speed|Triz-Information-Loss+Changing_the_color-Speed]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Information-Loss+Changing_the_color-Speed.public|Triz-Information-Loss+Changing_the_color-Speed.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Information-Loss+Changing_the_color-Speed.internal|Triz-Information-Loss+Changing_the_color-Speed.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Information-Loss+Changing_the_color-Speed.protect|Triz-Information-Loss+Changing_the_color-Speed.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Information-Loss+Changing_the_color-Speed.private|Triz-Information-Loss+Changing_the_color-Speed.private]] 

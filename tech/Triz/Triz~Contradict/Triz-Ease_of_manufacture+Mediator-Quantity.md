@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Ease_of_manufacture+Mediator-Quantity.md|Triz-Ease_of_manufacture+Mediator-Quantity]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Ease_of_manufacture+Mediator-Quantity|Triz-Ease_of_manufacture+Mediator-Quantity]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Ease_of_manufacture+Mediator-Quantity.public|Triz-Ease_of_manufacture+Mediator-Quantity.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Ease_of_manufacture+Mediator-Quantity.internal|Triz-Ease_of_manufacture+Mediator-Quantity.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Ease_of_manufacture+Mediator-Quantity.protect|Triz-Ease_of_manufacture+Mediator-Quantity.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Ease_of_manufacture+Mediator-Quantity.private|Triz-Ease_of_manufacture+Mediator-Quantity.private]] 

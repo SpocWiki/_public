@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-moving_Area+Inversion-Stability.md|Triz-moving_Area+Inversion-Stability]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-moving_Area+Inversion-Stability|Triz-moving_Area+Inversion-Stability]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-moving_Area+Inversion-Stability.public|Triz-moving_Area+Inversion-Stability.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-moving_Area+Inversion-Stability.internal|Triz-moving_Area+Inversion-Stability.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-moving_Area+Inversion-Stability.protect|Triz-moving_Area+Inversion-Stability.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-moving_Area+Inversion-Stability.private|Triz-moving_Area+Inversion-Stability.private]] 

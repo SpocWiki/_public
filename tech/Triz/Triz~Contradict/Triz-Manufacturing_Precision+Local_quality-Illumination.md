@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Manufacturing_Precision+Local_quality-Illumination.md|Triz-Manufacturing_Precision+Local_quality-Illumination]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Manufacturing_Precision+Local_quality-Illumination|Triz-Manufacturing_Precision+Local_quality-Illumination]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Manufacturing_Precision+Local_quality-Illumination.public|Triz-Manufacturing_Precision+Local_quality-Illumination.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Manufacturing_Precision+Local_quality-Illumination.internal|Triz-Manufacturing_Precision+Local_quality-Illumination.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Manufacturing_Precision+Local_quality-Illumination.protect|Triz-Manufacturing_Precision+Local_quality-Illumination.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Manufacturing_Precision+Local_quality-Illumination.private|Triz-Manufacturing_Precision+Local_quality-Illumination.private]] 

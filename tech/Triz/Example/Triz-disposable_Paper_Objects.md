@@ -17,7 +17,8 @@ tags:
 Use disposable Paper Objects to avoid the Cost of cleaning and storing durable Objects. Plastic Cups in Motels, disposable Diapers, many kinds of medical Supplies.
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Example/Triz-disposable_Paper_Objects.md|Triz-disposable_Paper_Objects]] 
+- [[../../../../_Standards/tech/Triz/Example/Triz-disposable_Paper_Objects|Triz-disposable_Paper_Objects]] 
+- [[../../../../_public/tech/Triz/Example/Triz-disposable_Paper_Objects.public|Triz-disposable_Paper_Objects.public]] 
 - [[../../../../_internal/tech/Triz/Example/Triz-disposable_Paper_Objects.internal|Triz-disposable_Paper_Objects.internal]] 
 - [[../../../../_protect/tech/Triz/Example/Triz-disposable_Paper_Objects.protect|Triz-disposable_Paper_Objects.protect]] 
 - [[../../../../_private/tech/Triz/Example/Triz-disposable_Paper_Objects.private|Triz-disposable_Paper_Objects.private]] 

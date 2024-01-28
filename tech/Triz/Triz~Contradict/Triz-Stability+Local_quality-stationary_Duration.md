@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Stability+Local_quality-stationary_Duration.md|Triz-Stability+Local_quality-stationary_Duration]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Stability+Local_quality-stationary_Duration|Triz-Stability+Local_quality-stationary_Duration]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Stability+Local_quality-stationary_Duration.public|Triz-Stability+Local_quality-stationary_Duration.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Stability+Local_quality-stationary_Duration.internal|Triz-Stability+Local_quality-stationary_Duration.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Stability+Local_quality-stationary_Duration.protect|Triz-Stability+Local_quality-stationary_Duration.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Stability+Local_quality-stationary_Duration.private|Triz-Stability+Local_quality-stationary_Duration.private]] 

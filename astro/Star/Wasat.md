@@ -27,7 +27,8 @@ confidential: public
 
 
 ## Confidential Links & Embeds: 
-- [[../../../_public/astro/Star/Wasat.md|Wasat]] 
+- [[../../../_Standards/astro/Star/Wasat|Wasat]] 
+- [[../../../_public/astro/Star/Wasat.public|Wasat.public]] 
 - [[../../../_internal/astro/Star/Wasat.internal|Wasat.internal]] 
 - [[../../../_protect/astro/Star/Wasat.protect|Wasat.protect]] 
 - [[../../../_private/astro/Star/Wasat.private|Wasat.private]] 

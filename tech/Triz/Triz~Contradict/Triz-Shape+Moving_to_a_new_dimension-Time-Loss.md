@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Shape+Moving_to_a_new_dimension-Time-Loss.md|Triz-Shape+Moving_to_a_new_dimension-Time-Loss]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Shape+Moving_to_a_new_dimension-Time-Loss|Triz-Shape+Moving_to_a_new_dimension-Time-Loss]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Shape+Moving_to_a_new_dimension-Time-Loss.public|Triz-Shape+Moving_to_a_new_dimension-Time-Loss.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Shape+Moving_to_a_new_dimension-Time-Loss.internal|Triz-Shape+Moving_to_a_new_dimension-Time-Loss.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Shape+Moving_to_a_new_dimension-Time-Loss.protect|Triz-Shape+Moving_to_a_new_dimension-Time-Loss.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Shape+Moving_to_a_new_dimension-Time-Loss.private|Triz-Shape+Moving_to_a_new_dimension-Time-Loss.private]] 

@@ -26,7 +26,8 @@ Create beforehand stresses in an object that will oppose known undesirable worki
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Sub/Triz-anti-stresses.md|Triz-anti-stresses]] 
+- [[../../../../_Standards/tech/Triz/Sub/Triz-anti-stresses|Triz-anti-stresses]] 
+- [[../../../../_public/tech/Triz/Sub/Triz-anti-stresses.public|Triz-anti-stresses.public]] 
 - [[../../../../_internal/tech/Triz/Sub/Triz-anti-stresses.internal|Triz-anti-stresses.internal]] 
 - [[../../../../_protect/tech/Triz/Sub/Triz-anti-stresses.protect|Triz-anti-stresses.protect]] 
 - [[../../../../_private/tech/Triz/Sub/Triz-anti-stresses.private|Triz-anti-stresses.private]] 

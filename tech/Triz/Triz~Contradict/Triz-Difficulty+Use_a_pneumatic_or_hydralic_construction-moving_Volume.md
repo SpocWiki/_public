@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Difficulty+Use_a_pneumatic_or_hydralic_construction-moving_Volume.md|Triz-Difficulty+Use_a_pneumatic_or_hydralic_construction-moving_Volume]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Difficulty+Use_a_pneumatic_or_hydralic_construction-moving_Volume|Triz-Difficulty+Use_a_pneumatic_or_hydralic_construction-moving_Volume]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Difficulty+Use_a_pneumatic_or_hydralic_construction-moving_Volume.public|Triz-Difficulty+Use_a_pneumatic_or_hydralic_construction-moving_Volume.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Difficulty+Use_a_pneumatic_or_hydralic_construction-moving_Volume.internal|Triz-Difficulty+Use_a_pneumatic_or_hydralic_construction-moving_Volume.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Difficulty+Use_a_pneumatic_or_hydralic_construction-moving_Volume.protect|Triz-Difficulty+Use_a_pneumatic_or_hydralic_construction-moving_Volume.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Difficulty+Use_a_pneumatic_or_hydralic_construction-moving_Volume.private|Triz-Difficulty+Use_a_pneumatic_or_hydralic_construction-moving_Volume.private]] 

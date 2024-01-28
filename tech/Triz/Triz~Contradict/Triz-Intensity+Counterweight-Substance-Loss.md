@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Intensity+Counterweight-Substance-Loss.md|Triz-Intensity+Counterweight-Substance-Loss]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Intensity+Counterweight-Substance-Loss|Triz-Intensity+Counterweight-Substance-Loss]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Intensity+Counterweight-Substance-Loss.public|Triz-Intensity+Counterweight-Substance-Loss.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Intensity+Counterweight-Substance-Loss.internal|Triz-Intensity+Counterweight-Substance-Loss.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Intensity+Counterweight-Substance-Loss.protect|Triz-Intensity+Counterweight-Substance-Loss.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Intensity+Counterweight-Substance-Loss.private|Triz-Intensity+Counterweight-Substance-Loss.private]] 

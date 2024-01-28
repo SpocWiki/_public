@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-stationary_Volume+Mediator-Stress.md|Triz-stationary_Volume+Mediator-Stress]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-stationary_Volume+Mediator-Stress|Triz-stationary_Volume+Mediator-Stress]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-stationary_Volume+Mediator-Stress.public|Triz-stationary_Volume+Mediator-Stress.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-stationary_Volume+Mediator-Stress.internal|Triz-stationary_Volume+Mediator-Stress.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-stationary_Volume+Mediator-Stress.protect|Triz-stationary_Volume+Mediator-Stress.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-stationary_Volume+Mediator-Stress.private|Triz-stationary_Volume+Mediator-Stress.private]] 

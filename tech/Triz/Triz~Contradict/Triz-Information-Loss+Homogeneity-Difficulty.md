@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Information-Loss+Homogeneity-Difficulty.md|Triz-Information-Loss+Homogeneity-Difficulty]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Information-Loss+Homogeneity-Difficulty|Triz-Information-Loss+Homogeneity-Difficulty]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Information-Loss+Homogeneity-Difficulty.public|Triz-Information-Loss+Homogeneity-Difficulty.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Information-Loss+Homogeneity-Difficulty.internal|Triz-Information-Loss+Homogeneity-Difficulty.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Information-Loss+Homogeneity-Difficulty.protect|Triz-Information-Loss+Homogeneity-Difficulty.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Information-Loss+Homogeneity-Difficulty.private|Triz-Information-Loss+Homogeneity-Difficulty.private]] 

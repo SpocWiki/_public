@@ -24,7 +24,8 @@ Use combined ultrasonic and electromagnetic field oscillations.
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Sub/Triz-combined-oscillations.md|Triz-combined-oscillations]] 
+- [[../../../../_Standards/tech/Triz/Sub/Triz-combined-oscillations|Triz-combined-oscillations]] 
+- [[../../../../_public/tech/Triz/Sub/Triz-combined-oscillations.public|Triz-combined-oscillations.public]] 
 - [[../../../../_internal/tech/Triz/Sub/Triz-combined-oscillations.internal|Triz-combined-oscillations.internal]] 
 - [[../../../../_protect/tech/Triz/Sub/Triz-combined-oscillations.protect|Triz-combined-oscillations.protect]] 
 - [[../../../../_private/tech/Triz/Sub/Triz-combined-oscillations.private|Triz-combined-oscillations.private]] 

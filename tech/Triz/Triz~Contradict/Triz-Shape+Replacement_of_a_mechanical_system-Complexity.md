@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Shape+Replacement_of_a_mechanical_system-Complexity.md|Triz-Shape+Replacement_of_a_mechanical_system-Complexity]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Shape+Replacement_of_a_mechanical_system-Complexity|Triz-Shape+Replacement_of_a_mechanical_system-Complexity]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Shape+Replacement_of_a_mechanical_system-Complexity.public|Triz-Shape+Replacement_of_a_mechanical_system-Complexity.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Shape+Replacement_of_a_mechanical_system-Complexity.internal|Triz-Shape+Replacement_of_a_mechanical_system-Complexity.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Shape+Replacement_of_a_mechanical_system-Complexity.protect|Triz-Shape+Replacement_of_a_mechanical_system-Complexity.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Shape+Replacement_of_a_mechanical_system-Complexity.private|Triz-Shape+Replacement_of_a_mechanical_system-Complexity.private]] 

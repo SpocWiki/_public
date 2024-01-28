@@ -17,7 +17,8 @@ tags:
 Flashlight with a flexible Gooseneck between the Body and the Lamp Head.
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Example/Triz-flexible_Gooseneck.md|Triz-flexible_Gooseneck]] 
+- [[../../../../_Standards/tech/Triz/Example/Triz-flexible_Gooseneck|Triz-flexible_Gooseneck]] 
+- [[../../../../_public/tech/Triz/Example/Triz-flexible_Gooseneck.public|Triz-flexible_Gooseneck.public]] 
 - [[../../../../_internal/tech/Triz/Example/Triz-flexible_Gooseneck.internal|Triz-flexible_Gooseneck.internal]] 
 - [[../../../../_protect/tech/Triz/Example/Triz-flexible_Gooseneck.protect|Triz-flexible_Gooseneck.protect]] 
 - [[../../../../_private/tech/Triz/Example/Triz-flexible_Gooseneck.private|Triz-flexible_Gooseneck.private]] 

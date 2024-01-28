@@ -17,7 +17,8 @@ tags:
 Ball Point and Roller Point Pens for smooth Ink Distribution.
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Example/Triz-Roller_Point_Pens.md|Triz-Roller_Point_Pens]] 
+- [[../../../../_Standards/tech/Triz/Example/Triz-Roller_Point_Pens|Triz-Roller_Point_Pens]] 
+- [[../../../../_public/tech/Triz/Example/Triz-Roller_Point_Pens.public|Triz-Roller_Point_Pens.public]] 
 - [[../../../../_internal/tech/Triz/Example/Triz-Roller_Point_Pens.internal|Triz-Roller_Point_Pens.internal]] 
 - [[../../../../_protect/tech/Triz/Example/Triz-Roller_Point_Pens.protect|Triz-Roller_Point_Pens.protect]] 
 - [[../../../../_private/tech/Triz/Example/Triz-Roller_Point_Pens.private|Triz-Roller_Point_Pens.private]] 

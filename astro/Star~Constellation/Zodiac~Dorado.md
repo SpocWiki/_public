@@ -16,7 +16,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../_public/astro/Zodiac/Zodiac~Dorado.md|Zodiac~Dorado]] 
+- [[../../../_Standards/astro/Zodiac/Zodiac~Dorado|Zodiac~Dorado]] 
+- [[../../../_public/astro/Zodiac/Zodiac~Dorado.public|Zodiac~Dorado.public]] 
 - [[../../../_internal/astro/Zodiac/Zodiac~Dorado.internal|Zodiac~Dorado.internal]] 
 - [[../../../_protect/astro/Zodiac/Zodiac~Dorado.protect|Zodiac~Dorado.protect]] 
 - [[../../../_private/astro/Zodiac/Zodiac~Dorado.private|Zodiac~Dorado.private]] 

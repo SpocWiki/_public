@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Versatility+Partial,_overdone,_or_excessive_action-Stress.md|Triz-Versatility+Partial,_overdone,_or_excessive_action-Stress]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Versatility+Partial,_overdone,_or_excessive_action-Stress|Triz-Versatility+Partial,_overdone,_or_excessive_action-Stress]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Versatility+Partial,_overdone,_or_excessive_action-Stress.public|Triz-Versatility+Partial,_overdone,_or_excessive_action-Stress.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Versatility+Partial,_overdone,_or_excessive_action-Stress.internal|Triz-Versatility+Partial,_overdone,_or_excessive_action-Stress.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Versatility+Partial,_overdone,_or_excessive_action-Stress.protect|Triz-Versatility+Partial,_overdone,_or_excessive_action-Stress.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Versatility+Partial,_overdone,_or_excessive_action-Stress.private|Triz-Versatility+Partial,_overdone,_or_excessive_action-Stress.private]] 

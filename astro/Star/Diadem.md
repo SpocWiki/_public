@@ -27,7 +27,8 @@ confidential: public
 
 
 ## Confidential Links & Embeds: 
-- [[../../../_public/astro/Star/Diadem.md|Diadem]] 
+- [[../../../_Standards/astro/Star/Diadem|Diadem]] 
+- [[../../../_public/astro/Star/Diadem.public|Diadem.public]] 
 - [[../../../_internal/astro/Star/Diadem.internal|Diadem.internal]] 
 - [[../../../_protect/astro/Star/Diadem.protect|Diadem.protect]] 
 - [[../../../_private/astro/Star/Diadem.private|Diadem.private]] 

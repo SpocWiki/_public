@@ -25,7 +25,8 @@ Carry on work continuously; make all parts of an object work at full load, all t
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Sub/Triz-continuous-load.md|Triz-continuous-load]] 
+- [[../../../../_Standards/tech/Triz/Sub/Triz-continuous-load|Triz-continuous-load]] 
+- [[../../../../_public/tech/Triz/Sub/Triz-continuous-load.public|Triz-continuous-load.public]] 
 - [[../../../../_internal/tech/Triz/Sub/Triz-continuous-load.internal|Triz-continuous-load.internal]] 
 - [[../../../../_protect/tech/Triz/Sub/Triz-continuous-load.protect|Triz-continuous-load.protect]] 
 - [[../../../../_private/tech/Triz/Sub/Triz-continuous-load.private|Triz-continuous-load.private]] 

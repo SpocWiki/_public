@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-stationary_Weight+Changing_the_color-Illumination.md|Triz-stationary_Weight+Changing_the_color-Illumination]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-stationary_Weight+Changing_the_color-Illumination|Triz-stationary_Weight+Changing_the_color-Illumination]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-stationary_Weight+Changing_the_color-Illumination.public|Triz-stationary_Weight+Changing_the_color-Illumination.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-stationary_Weight+Changing_the_color-Illumination.internal|Triz-stationary_Weight+Changing_the_color-Illumination.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-stationary_Weight+Changing_the_color-Illumination.protect|Triz-stationary_Weight+Changing_the_color-Illumination.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-stationary_Weight+Changing_the_color-Illumination.private|Triz-stationary_Weight+Changing_the_color-Illumination.private]] 

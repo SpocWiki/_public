@@ -17,7 +17,8 @@ tags:
 Cut Plastic faster than Heat can propagate in the Material, to avoid deforming the Shape.
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Example/Triz-adiabatic_Operation.md|Triz-adiabatic_Operation]] 
+- [[../../../../_Standards/tech/Triz/Example/Triz-adiabatic_Operation|Triz-adiabatic_Operation]] 
+- [[../../../../_public/tech/Triz/Example/Triz-adiabatic_Operation.public|Triz-adiabatic_Operation.public]] 
 - [[../../../../_internal/tech/Triz/Example/Triz-adiabatic_Operation.internal|Triz-adiabatic_Operation.internal]] 
 - [[../../../../_protect/tech/Triz/Example/Triz-adiabatic_Operation.protect|Triz-adiabatic_Operation.protect]] 
 - [[../../../../_private/tech/Triz/Example/Triz-adiabatic_Operation.private|Triz-adiabatic_Operation.private]] 

@@ -17,7 +17,8 @@ tags:
 'Skillets' in an automobile plant that bring all tools to the right position (also demonstrates Principle 10, Preliminary Action)
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Example/Triz-Skillets.md|Triz-Skillets]] 
+- [[../../../../_Standards/tech/Triz/Example/Triz-Skillets|Triz-Skillets]] 
+- [[../../../../_public/tech/Triz/Example/Triz-Skillets.public|Triz-Skillets.public]] 
 - [[../../../../_internal/tech/Triz/Example/Triz-Skillets.internal|Triz-Skillets.internal]] 
 - [[../../../../_protect/tech/Triz/Example/Triz-Skillets.protect|Triz-Skillets.protect]] 
 - [[../../../../_private/tech/Triz/Example/Triz-Skillets.private|Triz-Skillets.private]] 

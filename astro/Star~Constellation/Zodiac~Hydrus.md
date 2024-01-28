@@ -17,7 +17,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../_public/astro/Zodiac/Zodiac~Hydrus.md|Zodiac~Hydrus]] 
+- [[../../../_Standards/astro/Zodiac/Zodiac~Hydrus|Zodiac~Hydrus]] 
+- [[../../../_public/astro/Zodiac/Zodiac~Hydrus.public|Zodiac~Hydrus.public]] 
 - [[../../../_internal/astro/Zodiac/Zodiac~Hydrus.internal|Zodiac~Hydrus.internal]] 
 - [[../../../_protect/astro/Zodiac/Zodiac~Hydrus.protect|Zodiac~Hydrus.protect]] 
 - [[../../../_private/astro/Zodiac/Zodiac~Hydrus.private|Zodiac~Hydrus.private]] 

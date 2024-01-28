@@ -17,7 +17,8 @@ Conversions to *.geoJson are hosted at [natural-earth-geojson](https://github.co
 
 
 ## Confidential Links & Embeds: 
-- [[../_public/geo.md|geo]] 
+- [[../_Standards/geo|geo]] 
+- [[../_public/geo.public|geo.public]] 
 - [[../_internal/geo.internal|geo.internal]] 
 - [[../_protect/geo.protect|geo.protect]] 
 - [[../_private/geo.private|geo.private]] 

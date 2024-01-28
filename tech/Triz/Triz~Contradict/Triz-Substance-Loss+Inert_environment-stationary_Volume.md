@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Substance-Loss+Inert_environment-stationary_Volume.md|Triz-Substance-Loss+Inert_environment-stationary_Volume]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Substance-Loss+Inert_environment-stationary_Volume|Triz-Substance-Loss+Inert_environment-stationary_Volume]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Substance-Loss+Inert_environment-stationary_Volume.public|Triz-Substance-Loss+Inert_environment-stationary_Volume.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Substance-Loss+Inert_environment-stationary_Volume.internal|Triz-Substance-Loss+Inert_environment-stationary_Volume.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Substance-Loss+Inert_environment-stationary_Volume.protect|Triz-Substance-Loss+Inert_environment-stationary_Volume.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Substance-Loss+Inert_environment-stationary_Volume.private|Triz-Substance-Loss+Inert_environment-stationary_Volume.private]] 

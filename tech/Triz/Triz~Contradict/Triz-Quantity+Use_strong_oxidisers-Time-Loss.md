@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Quantity+Use_strong_oxidisers-Time-Loss.md|Triz-Quantity+Use_strong_oxidisers-Time-Loss]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Quantity+Use_strong_oxidisers-Time-Loss|Triz-Quantity+Use_strong_oxidisers-Time-Loss]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Quantity+Use_strong_oxidisers-Time-Loss.public|Triz-Quantity+Use_strong_oxidisers-Time-Loss.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Quantity+Use_strong_oxidisers-Time-Loss.internal|Triz-Quantity+Use_strong_oxidisers-Time-Loss.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Quantity+Use_strong_oxidisers-Time-Loss.protect|Triz-Quantity+Use_strong_oxidisers-Time-Loss.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Quantity+Use_strong_oxidisers-Time-Loss.private|Triz-Quantity+Use_strong_oxidisers-Time-Loss.private]] 

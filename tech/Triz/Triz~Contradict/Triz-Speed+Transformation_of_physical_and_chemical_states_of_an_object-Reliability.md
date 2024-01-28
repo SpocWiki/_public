@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Speed+Transformation_of_physical_and_chemical_states_of_an_object-Reliability.md|Triz-Speed+Transformation_of_physical_and_chemical_states_of_an_object-Reliability]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Speed+Transformation_of_physical_and_chemical_states_of_an_object-Reliability|Triz-Speed+Transformation_of_physical_and_chemical_states_of_an_object-Reliability]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Speed+Transformation_of_physical_and_chemical_states_of_an_object-Reliability.public|Triz-Speed+Transformation_of_physical_and_chemical_states_of_an_object-Reliability.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Speed+Transformation_of_physical_and_chemical_states_of_an_object-Reliability.internal|Triz-Speed+Transformation_of_physical_and_chemical_states_of_an_object-Reliability.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Speed+Transformation_of_physical_and_chemical_states_of_an_object-Reliability.protect|Triz-Speed+Transformation_of_physical_and_chemical_states_of_an_object-Reliability.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Speed+Transformation_of_physical_and_chemical_states_of_an_object-Reliability.private|Triz-Speed+Transformation_of_physical_and_chemical_states_of_an_object-Reliability.private]] 

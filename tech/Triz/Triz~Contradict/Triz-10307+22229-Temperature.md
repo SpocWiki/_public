@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-10307+22229-Temperature.md|Triz-10307+22229-Temperature]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-10307+22229-Temperature|Triz-10307+22229-Temperature]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-10307+22229-Temperature.public|Triz-10307+22229-Temperature.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-10307+22229-Temperature.internal|Triz-10307+22229-Temperature.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-10307+22229-Temperature.protect|Triz-10307+22229-Temperature.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-10307+22229-Temperature.private|Triz-10307+22229-Temperature.private]] 

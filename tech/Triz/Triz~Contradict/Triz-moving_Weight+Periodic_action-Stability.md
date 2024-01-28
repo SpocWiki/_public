@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-moving_Weight+Periodic_action-Stability.md|Triz-moving_Weight+Periodic_action-Stability]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-moving_Weight+Periodic_action-Stability|Triz-moving_Weight+Periodic_action-Stability]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-moving_Weight+Periodic_action-Stability.public|Triz-moving_Weight+Periodic_action-Stability.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-moving_Weight+Periodic_action-Stability.internal|Triz-moving_Weight+Periodic_action-Stability.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-moving_Weight+Periodic_action-Stability.protect|Triz-moving_Weight+Periodic_action-Stability.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-moving_Weight+Periodic_action-Stability.private|Triz-moving_Weight+Periodic_action-Stability.private]] 

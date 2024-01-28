@@ -27,7 +27,8 @@ If feedback is already used, change its magnitude or influence.
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Sub/Triz-vary-feedback.md|Triz-vary-feedback]] 
+- [[../../../../_Standards/tech/Triz/Sub/Triz-vary-feedback|Triz-vary-feedback]] 
+- [[../../../../_public/tech/Triz/Sub/Triz-vary-feedback.public|Triz-vary-feedback.public]] 
 - [[../../../../_internal/tech/Triz/Sub/Triz-vary-feedback.internal|Triz-vary-feedback.internal]] 
 - [[../../../../_protect/tech/Triz/Sub/Triz-vary-feedback.protect|Triz-vary-feedback.protect]] 
 - [[../../../../_private/tech/Triz/Sub/Triz-vary-feedback.private|Triz-vary-feedback.private]] 

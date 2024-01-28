@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Versatility+Thermal_expansion-Shape.md|Triz-Versatility+Thermal_expansion-Shape]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Versatility+Thermal_expansion-Shape|Triz-Versatility+Thermal_expansion-Shape]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Versatility+Thermal_expansion-Shape.public|Triz-Versatility+Thermal_expansion-Shape.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Versatility+Thermal_expansion-Shape.internal|Triz-Versatility+Thermal_expansion-Shape.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Versatility+Thermal_expansion-Shape.protect|Triz-Versatility+Thermal_expansion-Shape.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Versatility+Thermal_expansion-Shape.private|Triz-Versatility+Thermal_expansion-Shape.private]] 

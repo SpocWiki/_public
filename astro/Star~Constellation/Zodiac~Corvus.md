@@ -16,7 +16,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../_public/astro/Zodiac/Zodiac~Corvus.md|Zodiac~Corvus]] 
+- [[../../../_Standards/astro/Zodiac/Zodiac~Corvus|Zodiac~Corvus]] 
+- [[../../../_public/astro/Zodiac/Zodiac~Corvus.public|Zodiac~Corvus.public]] 
 - [[../../../_internal/astro/Zodiac/Zodiac~Corvus.internal|Zodiac~Corvus.internal]] 
 - [[../../../_protect/astro/Zodiac/Zodiac~Corvus.protect|Zodiac~Corvus.protect]] 
 - [[../../../_private/astro/Zodiac/Zodiac~Corvus.private|Zodiac~Corvus.private]] 

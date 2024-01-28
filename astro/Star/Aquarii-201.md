@@ -27,7 +27,8 @@ confidential: public
 
 
 ## Confidential Links & Embeds: 
-- [[../../../_public/astro/Star/Aquarii-201.md|Aquarii-201]] 
+- [[../../../_Standards/astro/Star/Aquarii-201|Aquarii-201]] 
+- [[../../../_public/astro/Star/Aquarii-201.public|Aquarii-201.public]] 
 - [[../../../_internal/astro/Star/Aquarii-201.internal|Aquarii-201.internal]] 
 - [[../../../_protect/astro/Star/Aquarii-201.protect|Aquarii-201.protect]] 
 - [[../../../_private/astro/Star/Aquarii-201.private|Aquarii-201.private]] 

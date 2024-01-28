@@ -17,7 +17,8 @@ tags:
 Difficulty of detecting and measuring
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Parameter/Triz-Difficulty.md|Triz-Difficulty]] 
+- [[../../../../_Standards/tech/Triz/Parameter/Triz-Difficulty|Triz-Difficulty]] 
+- [[../../../../_public/tech/Triz/Parameter/Triz-Difficulty.public|Triz-Difficulty.public]] 
 - [[../../../../_internal/tech/Triz/Parameter/Triz-Difficulty.internal|Triz-Difficulty.internal]] 
 - [[../../../../_protect/tech/Triz/Parameter/Triz-Difficulty.protect|Triz-Difficulty.protect]] 
 - [[../../../../_private/tech/Triz/Parameter/Triz-Difficulty.private|Triz-Difficulty.private]] 

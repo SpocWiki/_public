@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Ease_of_manufacture+Segmentation-moving_Area.md|Triz-Ease_of_manufacture+Segmentation-moving_Area]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Ease_of_manufacture+Segmentation-moving_Area|Triz-Ease_of_manufacture+Segmentation-moving_Area]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Ease_of_manufacture+Segmentation-moving_Area.public|Triz-Ease_of_manufacture+Segmentation-moving_Area.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Ease_of_manufacture+Segmentation-moving_Area.internal|Triz-Ease_of_manufacture+Segmentation-moving_Area.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Ease_of_manufacture+Segmentation-moving_Area.protect|Triz-Ease_of_manufacture+Segmentation-moving_Area.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Ease_of_manufacture+Segmentation-moving_Area.private|Triz-Ease_of_manufacture+Segmentation-moving_Area.private]] 

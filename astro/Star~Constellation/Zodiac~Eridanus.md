@@ -17,7 +17,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../_public/astro/Zodiac/Zodiac~Eridanus.md|Zodiac~Eridanus]] 
+- [[../../../_Standards/astro/Zodiac/Zodiac~Eridanus|Zodiac~Eridanus]] 
+- [[../../../_public/astro/Zodiac/Zodiac~Eridanus.public|Zodiac~Eridanus.public]] 
 - [[../../../_internal/astro/Zodiac/Zodiac~Eridanus.internal|Zodiac~Eridanus.internal]] 
 - [[../../../_protect/astro/Zodiac/Zodiac~Eridanus.protect|Zodiac~Eridanus.protect]] 
 - [[../../../_private/astro/Zodiac/Zodiac~Eridanus.private|Zodiac~Eridanus.private]] 

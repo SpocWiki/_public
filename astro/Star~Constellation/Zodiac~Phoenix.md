@@ -17,7 +17,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../_public/astro/Zodiac/Zodiac~Phoenix.md|Zodiac~Phoenix]] 
+- [[../../../_Standards/astro/Zodiac/Zodiac~Phoenix|Zodiac~Phoenix]] 
+- [[../../../_public/astro/Zodiac/Zodiac~Phoenix.public|Zodiac~Phoenix.public]] 
 - [[../../../_internal/astro/Zodiac/Zodiac~Phoenix.internal|Zodiac~Phoenix.internal]] 
 - [[../../../_protect/astro/Zodiac/Zodiac~Phoenix.protect|Zodiac~Phoenix.protect]] 
 - [[../../../_private/astro/Zodiac/Zodiac~Phoenix.private|Zodiac~Phoenix.private]] 

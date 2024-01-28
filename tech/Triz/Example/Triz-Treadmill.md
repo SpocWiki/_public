@@ -17,7 +17,8 @@ tags:
 Treadmill for Walking or Running in Place
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Example/Triz-Treadmill.md|Triz-Treadmill]] 
+- [[../../../../_Standards/tech/Triz/Example/Triz-Treadmill|Triz-Treadmill]] 
+- [[../../../../_public/tech/Triz/Example/Triz-Treadmill.public|Triz-Treadmill.public]] 
 - [[../../../../_internal/tech/Triz/Example/Triz-Treadmill.internal|Triz-Treadmill.internal]] 
 - [[../../../../_protect/tech/Triz/Example/Triz-Treadmill.protect|Triz-Treadmill.protect]] 
 - [[../../../../_private/tech/Triz/Example/Triz-Treadmill.private|Triz-Treadmill.private]] 

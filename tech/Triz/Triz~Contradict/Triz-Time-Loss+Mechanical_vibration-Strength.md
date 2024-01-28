@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Time-Loss+Mechanical_vibration-Strength.md|Triz-Time-Loss+Mechanical_vibration-Strength]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Time-Loss+Mechanical_vibration-Strength|Triz-Time-Loss+Mechanical_vibration-Strength]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Time-Loss+Mechanical_vibration-Strength.public|Triz-Time-Loss+Mechanical_vibration-Strength.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Time-Loss+Mechanical_vibration-Strength.internal|Triz-Time-Loss+Mechanical_vibration-Strength.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Time-Loss+Mechanical_vibration-Strength.protect|Triz-Time-Loss+Mechanical_vibration-Strength.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Time-Loss+Mechanical_vibration-Strength.private|Triz-Time-Loss+Mechanical_vibration-Strength.private]] 

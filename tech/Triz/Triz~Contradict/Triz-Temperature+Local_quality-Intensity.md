@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Temperature+Local_quality-Intensity.md|Triz-Temperature+Local_quality-Intensity]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Temperature+Local_quality-Intensity|Triz-Temperature+Local_quality-Intensity]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Temperature+Local_quality-Intensity.public|Triz-Temperature+Local_quality-Intensity.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Temperature+Local_quality-Intensity.internal|Triz-Temperature+Local_quality-Intensity.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Temperature+Local_quality-Intensity.protect|Triz-Temperature+Local_quality-Intensity.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Temperature+Local_quality-Intensity.private|Triz-Temperature+Local_quality-Intensity.private]] 

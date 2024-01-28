@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Intensity+Spheroidality-Quantity.md|Triz-Intensity+Spheroidality-Quantity]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Intensity+Spheroidality-Quantity|Triz-Intensity+Spheroidality-Quantity]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Intensity+Spheroidality-Quantity.public|Triz-Intensity+Spheroidality-Quantity.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Intensity+Spheroidality-Quantity.internal|Triz-Intensity+Spheroidality-Quantity.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Intensity+Spheroidality-Quantity.protect|Triz-Intensity+Spheroidality-Quantity.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Intensity+Spheroidality-Quantity.private|Triz-Intensity+Spheroidality-Quantity.private]] 

@@ -27,7 +27,8 @@ confidential: public
 
 
 ## Confidential Links & Embeds: 
-- [[../../../_public/astro/Star/Equulei-4.md|Equulei-4]] 
+- [[../../../_Standards/astro/Star/Equulei-4|Equulei-4]] 
+- [[../../../_public/astro/Star/Equulei-4.public|Equulei-4.public]] 
 - [[../../../_internal/astro/Star/Equulei-4.internal|Equulei-4.internal]] 
 - [[../../../_protect/astro/Star/Equulei-4.protect|Equulei-4.protect]] 
 - [[../../../_private/astro/Star/Equulei-4.private|Equulei-4.private]] 

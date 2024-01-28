@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-moving_Energy+Extraction-Complexity.md|Triz-moving_Energy+Extraction-Complexity]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-moving_Energy+Extraction-Complexity|Triz-moving_Energy+Extraction-Complexity]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-moving_Energy+Extraction-Complexity.public|Triz-moving_Energy+Extraction-Complexity.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-moving_Energy+Extraction-Complexity.internal|Triz-moving_Energy+Extraction-Complexity.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-moving_Energy+Extraction-Complexity.protect|Triz-moving_Energy+Extraction-Complexity.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-moving_Energy+Extraction-Complexity.private|Triz-moving_Energy+Extraction-Complexity.private]] 

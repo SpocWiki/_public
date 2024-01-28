@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-stationary_Length+Copying-Strength.md|Triz-stationary_Length+Copying-Strength]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-stationary_Length+Copying-Strength|Triz-stationary_Length+Copying-Strength]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-stationary_Length+Copying-Strength.public|Triz-stationary_Length+Copying-Strength.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-stationary_Length+Copying-Strength.internal|Triz-stationary_Length+Copying-Strength.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-stationary_Length+Copying-Strength.protect|Triz-stationary_Length+Copying-Strength.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-stationary_Length+Copying-Strength.private|Triz-stationary_Length+Copying-Strength.private]] 

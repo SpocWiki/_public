@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Stability+Flexible_film_or_thin_membranes-affected_harm.md|Triz-Stability+Flexible_film_or_thin_membranes-affected_harm]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Stability+Flexible_film_or_thin_membranes-affected_harm|Triz-Stability+Flexible_film_or_thin_membranes-affected_harm]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Stability+Flexible_film_or_thin_membranes-affected_harm.public|Triz-Stability+Flexible_film_or_thin_membranes-affected_harm.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Stability+Flexible_film_or_thin_membranes-affected_harm.internal|Triz-Stability+Flexible_film_or_thin_membranes-affected_harm.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Stability+Flexible_film_or_thin_membranes-affected_harm.protect|Triz-Stability+Flexible_film_or_thin_membranes-affected_harm.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Stability+Flexible_film_or_thin_membranes-affected_harm.private|Triz-Stability+Flexible_film_or_thin_membranes-affected_harm.private]] 

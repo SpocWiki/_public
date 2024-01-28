@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Intensity+Thermal_expansion-stationary_Volume.md|Triz-Intensity+Thermal_expansion-stationary_Volume]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Intensity+Thermal_expansion-stationary_Volume|Triz-Intensity+Thermal_expansion-stationary_Volume]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Intensity+Thermal_expansion-stationary_Volume.public|Triz-Intensity+Thermal_expansion-stationary_Volume.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Intensity+Thermal_expansion-stationary_Volume.internal|Triz-Intensity+Thermal_expansion-stationary_Volume.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Intensity+Thermal_expansion-stationary_Volume.protect|Triz-Intensity+Thermal_expansion-stationary_Volume.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Intensity+Thermal_expansion-stationary_Volume.private|Triz-Intensity+Thermal_expansion-stationary_Volume.private]] 

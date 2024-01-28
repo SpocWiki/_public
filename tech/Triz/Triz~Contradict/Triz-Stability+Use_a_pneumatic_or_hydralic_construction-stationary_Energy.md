@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Stability+Use_a_pneumatic_or_hydralic_construction-stationary_Energy.md|Triz-Stability+Use_a_pneumatic_or_hydralic_construction-stationary_Energy]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Stability+Use_a_pneumatic_or_hydralic_construction-stationary_Energy|Triz-Stability+Use_a_pneumatic_or_hydralic_construction-stationary_Energy]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Stability+Use_a_pneumatic_or_hydralic_construction-stationary_Energy.public|Triz-Stability+Use_a_pneumatic_or_hydralic_construction-stationary_Energy.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Stability+Use_a_pneumatic_or_hydralic_construction-stationary_Energy.internal|Triz-Stability+Use_a_pneumatic_or_hydralic_construction-stationary_Energy.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Stability+Use_a_pneumatic_or_hydralic_construction-stationary_Energy.protect|Triz-Stability+Use_a_pneumatic_or_hydralic_construction-stationary_Energy.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Stability+Use_a_pneumatic_or_hydralic_construction-stationary_Energy.private|Triz-Stability+Use_a_pneumatic_or_hydralic_construction-stationary_Energy.private]] 

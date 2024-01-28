@@ -27,7 +27,8 @@ confidential: public
 
 
 ## Confidential Links & Embeds: 
-- [[../../../_public/astro/Star/Scorpii-28.md|Scorpii-28]] 
+- [[../../../_Standards/astro/Star/Scorpii-28|Scorpii-28]] 
+- [[../../../_public/astro/Star/Scorpii-28.public|Scorpii-28.public]] 
 - [[../../../_internal/astro/Star/Scorpii-28.internal|Scorpii-28.internal]] 
 - [[../../../_protect/astro/Star/Scorpii-28.protect|Scorpii-28.protect]] 
 - [[../../../_private/astro/Star/Scorpii-28.private|Scorpii-28.private]] 

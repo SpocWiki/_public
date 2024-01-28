@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Power+Spheroidality-Shape.md|Triz-Power+Spheroidality-Shape]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Power+Spheroidality-Shape|Triz-Power+Spheroidality-Shape]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Power+Spheroidality-Shape.public|Triz-Power+Spheroidality-Shape.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Power+Spheroidality-Shape.internal|Triz-Power+Spheroidality-Shape.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Power+Spheroidality-Shape.protect|Triz-Power+Spheroidality-Shape.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Power+Spheroidality-Shape.private|Triz-Power+Spheroidality-Shape.private]] 

@@ -25,7 +25,8 @@ Turn the object (or process) 'upside down'.
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Sub/Triz-upside-down.md|Triz-upside-down]] 
+- [[../../../../_Standards/tech/Triz/Sub/Triz-upside-down|Triz-upside-down]] 
+- [[../../../../_public/tech/Triz/Sub/Triz-upside-down.public|Triz-upside-down.public]] 
 - [[../../../../_internal/tech/Triz/Sub/Triz-upside-down.internal|Triz-upside-down.internal]] 
 - [[../../../../_protect/tech/Triz/Sub/Triz-upside-down.protect|Triz-upside-down.protect]] 
 - [[../../../../_private/tech/Triz/Sub/Triz-upside-down.private|Triz-upside-down.private]] 

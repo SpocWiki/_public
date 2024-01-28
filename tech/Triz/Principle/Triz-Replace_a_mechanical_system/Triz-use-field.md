@@ -24,7 +24,8 @@ Use fields in conjunction with field-activated (e.g. ferromagnetic) particles.
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Sub/Triz-use-field.md|Triz-use-field]] 
+- [[../../../../_Standards/tech/Triz/Sub/Triz-use-field|Triz-use-field]] 
+- [[../../../../_public/tech/Triz/Sub/Triz-use-field.public|Triz-use-field.public]] 
 - [[../../../../_internal/tech/Triz/Sub/Triz-use-field.internal|Triz-use-field.internal]] 
 - [[../../../../_protect/tech/Triz/Sub/Triz-use-field.protect|Triz-use-field.protect]] 
 - [[../../../../_private/tech/Triz/Sub/Triz-use-field.private|Triz-use-field.private]] 

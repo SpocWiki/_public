@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Strength+Replacement_of_a_mechanical_system-Power.md|Triz-Strength+Replacement_of_a_mechanical_system-Power]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Strength+Replacement_of_a_mechanical_system-Power|Triz-Strength+Replacement_of_a_mechanical_system-Power]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Strength+Replacement_of_a_mechanical_system-Power.public|Triz-Strength+Replacement_of_a_mechanical_system-Power.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Strength+Replacement_of_a_mechanical_system-Power.internal|Triz-Strength+Replacement_of_a_mechanical_system-Power.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Strength+Replacement_of_a_mechanical_system-Power.protect|Triz-Strength+Replacement_of_a_mechanical_system-Power.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Strength+Replacement_of_a_mechanical_system-Power.private|Triz-Strength+Replacement_of_a_mechanical_system-Power.private]] 

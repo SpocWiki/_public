@@ -16,7 +16,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../_public/astro/Zodiac/Zodiac~Cassiopeia.md|Zodiac~Cassiopeia]] 
+- [[../../../_Standards/astro/Zodiac/Zodiac~Cassiopeia|Zodiac~Cassiopeia]] 
+- [[../../../_public/astro/Zodiac/Zodiac~Cassiopeia.public|Zodiac~Cassiopeia.public]] 
 - [[../../../_internal/astro/Zodiac/Zodiac~Cassiopeia.internal|Zodiac~Cassiopeia.internal]] 
 - [[../../../_protect/astro/Zodiac/Zodiac~Cassiopeia.protect|Zodiac~Cassiopeia.protect]] 
 - [[../../../_private/astro/Zodiac/Zodiac~Cassiopeia.private|Zodiac~Cassiopeia.private]] 

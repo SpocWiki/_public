@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-generated_harm+Replacement_of_a_mechanical_system-Intensity.md|Triz-generated_harm+Replacement_of_a_mechanical_system-Intensity]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-generated_harm+Replacement_of_a_mechanical_system-Intensity|Triz-generated_harm+Replacement_of_a_mechanical_system-Intensity]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-generated_harm+Replacement_of_a_mechanical_system-Intensity.public|Triz-generated_harm+Replacement_of_a_mechanical_system-Intensity.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-generated_harm+Replacement_of_a_mechanical_system-Intensity.internal|Triz-generated_harm+Replacement_of_a_mechanical_system-Intensity.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-generated_harm+Replacement_of_a_mechanical_system-Intensity.protect|Triz-generated_harm+Replacement_of_a_mechanical_system-Intensity.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-generated_harm+Replacement_of_a_mechanical_system-Intensity.private|Triz-generated_harm+Replacement_of_a_mechanical_system-Intensity.private]] 

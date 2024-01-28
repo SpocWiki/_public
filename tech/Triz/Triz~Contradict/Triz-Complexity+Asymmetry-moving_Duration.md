@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Complexity+Asymmetry-moving_Duration.md|Triz-Complexity+Asymmetry-moving_Duration]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Complexity+Asymmetry-moving_Duration|Triz-Complexity+Asymmetry-moving_Duration]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Complexity+Asymmetry-moving_Duration.public|Triz-Complexity+Asymmetry-moving_Duration.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Complexity+Asymmetry-moving_Duration.internal|Triz-Complexity+Asymmetry-moving_Duration.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Complexity+Asymmetry-moving_Duration.protect|Triz-Complexity+Asymmetry-moving_Duration.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Complexity+Asymmetry-moving_Duration.private|Triz-Complexity+Asymmetry-moving_Duration.private]] 

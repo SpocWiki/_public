@@ -23,7 +23,8 @@ Use pauses between impulses to perform a different action.
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Sub/Triz-use-pauses.md|Triz-use-pauses]] 
+- [[../../../../_Standards/tech/Triz/Sub/Triz-use-pauses|Triz-use-pauses]] 
+- [[../../../../_public/tech/Triz/Sub/Triz-use-pauses.public|Triz-use-pauses.public]] 
 - [[../../../../_internal/tech/Triz/Sub/Triz-use-pauses.internal|Triz-use-pauses.internal]] 
 - [[../../../../_protect/tech/Triz/Sub/Triz-use-pauses.protect|Triz-use-pauses.protect]] 
 - [[../../../../_private/tech/Triz/Sub/Triz-use-pauses.private|Triz-use-pauses.private]] 

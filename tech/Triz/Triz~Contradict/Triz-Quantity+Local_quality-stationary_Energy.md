@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Quantity+Local_quality-stationary_Energy.md|Triz-Quantity+Local_quality-stationary_Energy]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Quantity+Local_quality-stationary_Energy|Triz-Quantity+Local_quality-stationary_Energy]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Quantity+Local_quality-stationary_Energy.public|Triz-Quantity+Local_quality-stationary_Energy.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Quantity+Local_quality-stationary_Energy.internal|Triz-Quantity+Local_quality-stationary_Energy.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Quantity+Local_quality-stationary_Energy.protect|Triz-Quantity+Local_quality-stationary_Energy.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Quantity+Local_quality-stationary_Energy.private|Triz-Quantity+Local_quality-stationary_Energy.private]] 

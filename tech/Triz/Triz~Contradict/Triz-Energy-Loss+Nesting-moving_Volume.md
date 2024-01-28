@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Energy-Loss+Nesting-moving_Volume.md|Triz-Energy-Loss+Nesting-moving_Volume]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Energy-Loss+Nesting-moving_Volume|Triz-Energy-Loss+Nesting-moving_Volume]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Energy-Loss+Nesting-moving_Volume.public|Triz-Energy-Loss+Nesting-moving_Volume.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Energy-Loss+Nesting-moving_Volume.internal|Triz-Energy-Loss+Nesting-moving_Volume.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Energy-Loss+Nesting-moving_Volume.protect|Triz-Energy-Loss+Nesting-moving_Volume.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Energy-Loss+Nesting-moving_Volume.private|Triz-Energy-Loss+Nesting-moving_Volume.private]] 

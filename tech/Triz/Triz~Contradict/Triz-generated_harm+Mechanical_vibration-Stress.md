@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-generated_harm+Mechanical_vibration-Stress.md|Triz-generated_harm+Mechanical_vibration-Stress]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-generated_harm+Mechanical_vibration-Stress|Triz-generated_harm+Mechanical_vibration-Stress]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-generated_harm+Mechanical_vibration-Stress.public|Triz-generated_harm+Mechanical_vibration-Stress.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-generated_harm+Mechanical_vibration-Stress.internal|Triz-generated_harm+Mechanical_vibration-Stress.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-generated_harm+Mechanical_vibration-Stress.protect|Triz-generated_harm+Mechanical_vibration-Stress.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-generated_harm+Mechanical_vibration-Stress.private|Triz-generated_harm+Mechanical_vibration-Stress.private]] 

@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Information-Loss+Prior_action-generated_harm.md|Triz-Information-Loss+Prior_action-generated_harm]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Information-Loss+Prior_action-generated_harm|Triz-Information-Loss+Prior_action-generated_harm]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Information-Loss+Prior_action-generated_harm.public|Triz-Information-Loss+Prior_action-generated_harm.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Information-Loss+Prior_action-generated_harm.internal|Triz-Information-Loss+Prior_action-generated_harm.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Information-Loss+Prior_action-generated_harm.protect|Triz-Information-Loss+Prior_action-generated_harm.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Information-Loss+Prior_action-generated_harm.private|Triz-Information-Loss+Prior_action-generated_harm.private]] 

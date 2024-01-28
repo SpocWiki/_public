@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-7564+Segmentation-10307.md|Triz-7564+Segmentation-10307]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-7564+Segmentation-10307|Triz-7564+Segmentation-10307]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-7564+Segmentation-10307.public|Triz-7564+Segmentation-10307.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-7564+Segmentation-10307.internal|Triz-7564+Segmentation-10307.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-7564+Segmentation-10307.protect|Triz-7564+Segmentation-10307.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-7564+Segmentation-10307.private|Triz-7564+Segmentation-10307.private]] 

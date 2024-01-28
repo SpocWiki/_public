@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Speed+Rejecting_and_regenerating_parts-moving_Area.md|Triz-Speed+Rejecting_and_regenerating_parts-moving_Area]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Speed+Rejecting_and_regenerating_parts-moving_Area|Triz-Speed+Rejecting_and_regenerating_parts-moving_Area]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Speed+Rejecting_and_regenerating_parts-moving_Area.public|Triz-Speed+Rejecting_and_regenerating_parts-moving_Area.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Speed+Rejecting_and_regenerating_parts-moving_Area.internal|Triz-Speed+Rejecting_and_regenerating_parts-moving_Area.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Speed+Rejecting_and_regenerating_parts-moving_Area.protect|Triz-Speed+Rejecting_and_regenerating_parts-moving_Area.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Speed+Rejecting_and_regenerating_parts-moving_Area.private|Triz-Speed+Rejecting_and_regenerating_parts-moving_Area.private]] 

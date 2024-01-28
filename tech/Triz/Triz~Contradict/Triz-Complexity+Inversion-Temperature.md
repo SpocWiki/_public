@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Complexity+Inversion-Temperature.md|Triz-Complexity+Inversion-Temperature]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Complexity+Inversion-Temperature|Triz-Complexity+Inversion-Temperature]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Complexity+Inversion-Temperature.public|Triz-Complexity+Inversion-Temperature.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Complexity+Inversion-Temperature.internal|Triz-Complexity+Inversion-Temperature.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Complexity+Inversion-Temperature.protect|Triz-Complexity+Inversion-Temperature.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Complexity+Inversion-Temperature.private|Triz-Complexity+Inversion-Temperature.private]] 

@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Manufacturing_Precision+Feedback-Automation.md|Triz-Manufacturing_Precision+Feedback-Automation]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Manufacturing_Precision+Feedback-Automation|Triz-Manufacturing_Precision+Feedback-Automation]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Manufacturing_Precision+Feedback-Automation.public|Triz-Manufacturing_Precision+Feedback-Automation.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Manufacturing_Precision+Feedback-Automation.internal|Triz-Manufacturing_Precision+Feedback-Automation.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Manufacturing_Precision+Feedback-Automation.protect|Triz-Manufacturing_Precision+Feedback-Automation.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Manufacturing_Precision+Feedback-Automation.private|Triz-Manufacturing_Precision+Feedback-Automation.private]] 

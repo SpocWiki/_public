@@ -17,7 +17,8 @@ tags:
 Pencil with Eraser in one Unit
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Example/Triz-Pencil_with_Eraser.md|Triz-Pencil_with_Eraser]] 
+- [[../../../../_Standards/tech/Triz/Example/Triz-Pencil_with_Eraser|Triz-Pencil_with_Eraser]] 
+- [[../../../../_public/tech/Triz/Example/Triz-Pencil_with_Eraser.public|Triz-Pencil_with_Eraser.public]] 
 - [[../../../../_internal/tech/Triz/Example/Triz-Pencil_with_Eraser.internal|Triz-Pencil_with_Eraser.internal]] 
 - [[../../../../_protect/tech/Triz/Example/Triz-Pencil_with_Eraser.protect|Triz-Pencil_with_Eraser.protect]] 
 - [[../../../../_private/tech/Triz/Example/Triz-Pencil_with_Eraser.private|Triz-Pencil_with_Eraser.private]] 

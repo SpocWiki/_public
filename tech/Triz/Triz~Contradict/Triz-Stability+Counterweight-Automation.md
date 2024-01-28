@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Stability+Counterweight-Automation.md|Triz-Stability+Counterweight-Automation]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Stability+Counterweight-Automation|Triz-Stability+Counterweight-Automation]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Stability+Counterweight-Automation.public|Triz-Stability+Counterweight-Automation.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Stability+Counterweight-Automation.internal|Triz-Stability+Counterweight-Automation.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Stability+Counterweight-Automation.protect|Triz-Stability+Counterweight-Automation.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Stability+Counterweight-Automation.private|Triz-Stability+Counterweight-Automation.private]] 

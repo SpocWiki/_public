@@ -28,7 +28,8 @@ If an object (or process) is rigid or inflexible, make it movable or adaptive.
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Sub/Triz-movable-part.md|Triz-movable-part]] 
+- [[../../../../_Standards/tech/Triz/Sub/Triz-movable-part|Triz-movable-part]] 
+- [[../../../../_public/tech/Triz/Sub/Triz-movable-part.public|Triz-movable-part.public]] 
 - [[../../../../_internal/tech/Triz/Sub/Triz-movable-part.internal|Triz-movable-part.internal]] 
 - [[../../../../_protect/tech/Triz/Sub/Triz-movable-part.protect|Triz-movable-part.protect]] 
 - [[../../../../_private/tech/Triz/Sub/Triz-movable-part.private|Triz-movable-part.private]] 

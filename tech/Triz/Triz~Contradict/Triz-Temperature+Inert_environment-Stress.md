@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Temperature+Inert_environment-Stress.md|Triz-Temperature+Inert_environment-Stress]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Temperature+Inert_environment-Stress|Triz-Temperature+Inert_environment-Stress]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Temperature+Inert_environment-Stress.public|Triz-Temperature+Inert_environment-Stress.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Temperature+Inert_environment-Stress.internal|Triz-Temperature+Inert_environment-Stress.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Temperature+Inert_environment-Stress.protect|Triz-Temperature+Inert_environment-Stress.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Temperature+Inert_environment-Stress.private|Triz-Temperature+Inert_environment-Stress.private]] 

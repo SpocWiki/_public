@@ -27,7 +27,8 @@ confidential: public
 
 
 ## Confidential Links & Embeds: 
-- [[../../../_public/astro/Star/Andromedae-4.md|Andromedae-4]] 
+- [[../../../_Standards/astro/Star/Andromedae-4|Andromedae-4]] 
+- [[../../../_public/astro/Star/Andromedae-4.public|Andromedae-4.public]] 
 - [[../../../_internal/astro/Star/Andromedae-4.internal|Andromedae-4.internal]] 
 - [[../../../_protect/astro/Star/Andromedae-4.protect|Andromedae-4.protect]] 
 - [[../../../_private/astro/Star/Andromedae-4.private|Andromedae-4.private]] 

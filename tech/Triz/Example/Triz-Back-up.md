@@ -17,7 +17,8 @@ tags:
 Back-up Parachute
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Example/Triz-Back-up.md|Triz-Back-up]] 
+- [[../../../../_Standards/tech/Triz/Example/Triz-Back-up|Triz-Back-up]] 
+- [[../../../../_public/tech/Triz/Example/Triz-Back-up.public|Triz-Back-up.public]] 
 - [[../../../../_internal/tech/Triz/Example/Triz-Back-up.internal|Triz-Back-up.internal]] 
 - [[../../../../_protect/tech/Triz/Example/Triz-Back-up.protect|Triz-Back-up.protect]] 
 - [[../../../../_private/tech/Triz/Example/Triz-Back-up.private|Triz-Back-up.private]] 

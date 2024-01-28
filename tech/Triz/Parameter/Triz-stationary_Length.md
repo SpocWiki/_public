@@ -17,7 +17,8 @@ tags:
 Length of stationary object
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Parameter/Triz-stationary_Length.md|Triz-stationary_Length]] 
+- [[../../../../_Standards/tech/Triz/Parameter/Triz-stationary_Length|Triz-stationary_Length]] 
+- [[../../../../_public/tech/Triz/Parameter/Triz-stationary_Length.public|Triz-stationary_Length.public]] 
 - [[../../../../_internal/tech/Triz/Parameter/Triz-stationary_Length.internal|Triz-stationary_Length.internal]] 
 - [[../../../../_protect/tech/Triz/Parameter/Triz-stationary_Length.protect|Triz-stationary_Length.protect]] 
 - [[../../../../_private/tech/Triz/Parameter/Triz-stationary_Length.private|Triz-stationary_Length.private]] 

@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Stress+Segmentation-Complexity.md|Triz-Stress+Segmentation-Complexity]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Stress+Segmentation-Complexity|Triz-Stress+Segmentation-Complexity]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Stress+Segmentation-Complexity.public|Triz-Stress+Segmentation-Complexity.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Stress+Segmentation-Complexity.internal|Triz-Stress+Segmentation-Complexity.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Stress+Segmentation-Complexity.protect|Triz-Stress+Segmentation-Complexity.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Stress+Segmentation-Complexity.private|Triz-Stress+Segmentation-Complexity.private]] 

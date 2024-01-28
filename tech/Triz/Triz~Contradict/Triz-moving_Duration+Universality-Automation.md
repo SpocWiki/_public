@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-moving_Duration+Universality-Automation.md|Triz-moving_Duration+Universality-Automation]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-moving_Duration+Universality-Automation|Triz-moving_Duration+Universality-Automation]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-moving_Duration+Universality-Automation.public|Triz-moving_Duration+Universality-Automation.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-moving_Duration+Universality-Automation.internal|Triz-moving_Duration+Universality-Automation.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-moving_Duration+Universality-Automation.protect|Triz-moving_Duration+Universality-Automation.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-moving_Duration+Universality-Automation.private|Triz-moving_Duration+Universality-Automation.private]] 

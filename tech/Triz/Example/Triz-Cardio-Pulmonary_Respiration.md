@@ -17,7 +17,8 @@ tags:
 In Cardio-Pulmonary Respiration (CPR) breathe after every 5 Chest Compressions.
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Example/Triz-Cardio-Pulmonary_Respiration.md|Triz-Cardio-Pulmonary_Respiration]] 
+- [[../../../../_Standards/tech/Triz/Example/Triz-Cardio-Pulmonary_Respiration|Triz-Cardio-Pulmonary_Respiration]] 
+- [[../../../../_public/tech/Triz/Example/Triz-Cardio-Pulmonary_Respiration.public|Triz-Cardio-Pulmonary_Respiration.public]] 
 - [[../../../../_internal/tech/Triz/Example/Triz-Cardio-Pulmonary_Respiration.internal|Triz-Cardio-Pulmonary_Respiration.internal]] 
 - [[../../../../_protect/tech/Triz/Example/Triz-Cardio-Pulmonary_Respiration.protect|Triz-Cardio-Pulmonary_Respiration.protect]] 
 - [[../../../../_private/tech/Triz/Example/Triz-Cardio-Pulmonary_Respiration.private|Triz-Cardio-Pulmonary_Respiration.private]] 

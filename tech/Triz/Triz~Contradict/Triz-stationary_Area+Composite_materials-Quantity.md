@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-stationary_Area+Composite_materials-Quantity.md|Triz-stationary_Area+Composite_materials-Quantity]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-stationary_Area+Composite_materials-Quantity|Triz-stationary_Area+Composite_materials-Quantity]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-stationary_Area+Composite_materials-Quantity.public|Triz-stationary_Area+Composite_materials-Quantity.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-stationary_Area+Composite_materials-Quantity.internal|Triz-stationary_Area+Composite_materials-Quantity.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-stationary_Area+Composite_materials-Quantity.protect|Triz-stationary_Area+Composite_materials-Quantity.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-stationary_Area+Composite_materials-Quantity.private|Triz-stationary_Area+Composite_materials-Quantity.private]] 

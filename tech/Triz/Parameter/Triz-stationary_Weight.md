@@ -17,7 +17,8 @@ tags:
 Weight of stationary object
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Parameter/Triz-stationary_Weight.md|Triz-stationary_Weight]] 
+- [[../../../../_Standards/tech/Triz/Parameter/Triz-stationary_Weight|Triz-stationary_Weight]] 
+- [[../../../../_public/tech/Triz/Parameter/Triz-stationary_Weight.public|Triz-stationary_Weight.public]] 
 - [[../../../../_internal/tech/Triz/Parameter/Triz-stationary_Weight.internal|Triz-stationary_Weight.internal]] 
 - [[../../../../_protect/tech/Triz/Parameter/Triz-stationary_Weight.protect|Triz-stationary_Weight.protect]] 
 - [[../../../../_private/tech/Triz/Parameter/Triz-stationary_Weight.private|Triz-stationary_Weight.private]] 

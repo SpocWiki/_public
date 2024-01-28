@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Power+Thermal_expansion-moving_Length.md|Triz-Power+Thermal_expansion-moving_Length]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Power+Thermal_expansion-moving_Length|Triz-Power+Thermal_expansion-moving_Length]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Power+Thermal_expansion-moving_Length.public|Triz-Power+Thermal_expansion-moving_Length.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Power+Thermal_expansion-moving_Length.internal|Triz-Power+Thermal_expansion-moving_Length.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Power+Thermal_expansion-moving_Length.protect|Triz-Power+Thermal_expansion-moving_Length.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Power+Thermal_expansion-moving_Length.private|Triz-Power+Thermal_expansion-moving_Length.private]] 

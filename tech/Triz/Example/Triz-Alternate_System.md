@@ -17,7 +17,8 @@ tags:
 Alternate Air System for Aircraft Instruments
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Example/Triz-Alternate_System.md|Triz-Alternate_System]] 
+- [[../../../../_Standards/tech/Triz/Example/Triz-Alternate_System|Triz-Alternate_System]] 
+- [[../../../../_public/tech/Triz/Example/Triz-Alternate_System.public|Triz-Alternate_System.public]] 
 - [[../../../../_internal/tech/Triz/Example/Triz-Alternate_System.internal|Triz-Alternate_System.internal]] 
 - [[../../../../_protect/tech/Triz/Example/Triz-Alternate_System.protect|Triz-Alternate_System.protect]] 
 - [[../../../../_private/tech/Triz/Example/Triz-Alternate_System.private|Triz-Alternate_System.private]] 

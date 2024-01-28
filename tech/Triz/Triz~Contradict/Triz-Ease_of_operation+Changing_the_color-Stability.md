@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Ease_of_operation+Changing_the_color-Stability.md|Triz-Ease_of_operation+Changing_the_color-Stability]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Ease_of_operation+Changing_the_color-Stability|Triz-Ease_of_operation+Changing_the_color-Stability]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Ease_of_operation+Changing_the_color-Stability.public|Triz-Ease_of_operation+Changing_the_color-Stability.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Ease_of_operation+Changing_the_color-Stability.internal|Triz-Ease_of_operation+Changing_the_color-Stability.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Ease_of_operation+Changing_the_color-Stability.protect|Triz-Ease_of_operation+Changing_the_color-Stability.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Ease_of_operation+Changing_the_color-Stability.private|Triz-Ease_of_operation+Changing_the_color-Stability.private]] 

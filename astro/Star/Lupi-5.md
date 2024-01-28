@@ -27,7 +27,8 @@ confidential: public
 
 
 ## Confidential Links & Embeds: 
-- [[../../../_public/astro/Star/Lupi-5.md|Lupi-5]] 
+- [[../../../_Standards/astro/Star/Lupi-5|Lupi-5]] 
+- [[../../../_public/astro/Star/Lupi-5.public|Lupi-5.public]] 
 - [[../../../_internal/astro/Star/Lupi-5.internal|Lupi-5.internal]] 
 - [[../../../_protect/astro/Star/Lupi-5.protect|Lupi-5.protect]] 
 - [[../../../_private/astro/Star/Lupi-5.private|Lupi-5.private]] 

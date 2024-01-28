@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Speed+Transformation_of_physical_and_chemical_states_of_an_object-moving_Duration.md|Triz-Speed+Transformation_of_physical_and_chemical_states_of_an_object-moving_Duration]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Speed+Transformation_of_physical_and_chemical_states_of_an_object-moving_Duration|Triz-Speed+Transformation_of_physical_and_chemical_states_of_an_object-moving_Duration]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Speed+Transformation_of_physical_and_chemical_states_of_an_object-moving_Duration.public|Triz-Speed+Transformation_of_physical_and_chemical_states_of_an_object-moving_Duration.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Speed+Transformation_of_physical_and_chemical_states_of_an_object-moving_Duration.internal|Triz-Speed+Transformation_of_physical_and_chemical_states_of_an_object-moving_Duration.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Speed+Transformation_of_physical_and_chemical_states_of_an_object-moving_Duration.protect|Triz-Speed+Transformation_of_physical_and_chemical_states_of_an_object-moving_Duration.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Speed+Transformation_of_physical_and_chemical_states_of_an_object-moving_Duration.private|Triz-Speed+Transformation_of_physical_and_chemical_states_of_an_object-moving_Duration.private]] 

@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-stationary_Area+Feedback-Automation.md|Triz-stationary_Area+Feedback-Automation]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-stationary_Area+Feedback-Automation|Triz-stationary_Area+Feedback-Automation]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-stationary_Area+Feedback-Automation.public|Triz-stationary_Area+Feedback-Automation.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-stationary_Area+Feedback-Automation.internal|Triz-stationary_Area+Feedback-Automation.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-stationary_Area+Feedback-Automation.protect|Triz-stationary_Area+Feedback-Automation.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-stationary_Area+Feedback-Automation.private|Triz-stationary_Area+Feedback-Automation.private]] 

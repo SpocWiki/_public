@@ -27,7 +27,8 @@ confidential: public
 
 
 ## Confidential Links & Embeds: 
-- [[../../../_public/astro/Star/Unukalhai.md|Unukalhai]] 
+- [[../../../_Standards/astro/Star/Unukalhai|Unukalhai]] 
+- [[../../../_public/astro/Star/Unukalhai.public|Unukalhai.public]] 
 - [[../../../_internal/astro/Star/Unukalhai.internal|Unukalhai.internal]] 
 - [[../../../_protect/astro/Star/Unukalhai.protect|Unukalhai.protect]] 
 - [[../../../_private/astro/Star/Unukalhai.private|Unukalhai.private]] 

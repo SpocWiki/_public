@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Information-Loss+Transformation_of_physical_and_chemical_states_of_an_object-Quantity.md|Triz-Information-Loss+Transformation_of_physical_and_chemical_states_of_an_object-Quantity]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Information-Loss+Transformation_of_physical_and_chemical_states_of_an_object-Quantity|Triz-Information-Loss+Transformation_of_physical_and_chemical_states_of_an_object-Quantity]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Information-Loss+Transformation_of_physical_and_chemical_states_of_an_object-Quantity.public|Triz-Information-Loss+Transformation_of_physical_and_chemical_states_of_an_object-Quantity.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Information-Loss+Transformation_of_physical_and_chemical_states_of_an_object-Quantity.internal|Triz-Information-Loss+Transformation_of_physical_and_chemical_states_of_an_object-Quantity.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Information-Loss+Transformation_of_physical_and_chemical_states_of_an_object-Quantity.protect|Triz-Information-Loss+Transformation_of_physical_and_chemical_states_of_an_object-Quantity.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Information-Loss+Transformation_of_physical_and_chemical_states_of_an_object-Quantity.private|Triz-Information-Loss+Transformation_of_physical_and_chemical_states_of_an_object-Quantity.private]] 

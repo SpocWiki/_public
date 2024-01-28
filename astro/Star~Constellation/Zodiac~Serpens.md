@@ -17,7 +17,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../_public/astro/Zodiac/Zodiac~Serpens.md|Zodiac~Serpens]] 
+- [[../../../_Standards/astro/Zodiac/Zodiac~Serpens|Zodiac~Serpens]] 
+- [[../../../_public/astro/Zodiac/Zodiac~Serpens.public|Zodiac~Serpens.public]] 
 - [[../../../_internal/astro/Zodiac/Zodiac~Serpens.internal|Zodiac~Serpens.internal]] 
 - [[../../../_protect/astro/Zodiac/Zodiac~Serpens.protect|Zodiac~Serpens.protect]] 
 - [[../../../_private/astro/Zodiac/Zodiac~Serpens.private|Zodiac~Serpens.private]] 

@@ -20,7 +20,8 @@ SpocWebEntityId: {{SpocWebEntityId}}
 
 
 ## Confidential Links & Embeds: 
-- [[../../../_public/tech/Triz/_TrizPrinciple-Template.md|_TrizPrinciple-Template]] 
+- [[../../../_Standards/tech/Triz/_TrizPrinciple-Template|_TrizPrinciple-Template]] 
+- [[../../../_public/tech/Triz/_TrizPrinciple-Template.public|_TrizPrinciple-Template.public]] 
 - [[../../../_internal/tech/Triz/_TrizPrinciple-Template.internal|_TrizPrinciple-Template.internal]] 
 - [[../../../_protect/tech/Triz/_TrizPrinciple-Template.protect|_TrizPrinciple-Template.protect]] 
 - [[../../../_private/tech/Triz/_TrizPrinciple-Template.private|_TrizPrinciple-Template.private]] 

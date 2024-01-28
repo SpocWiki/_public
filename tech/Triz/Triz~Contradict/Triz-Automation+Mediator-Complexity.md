@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Automation+Mediator-Complexity.md|Triz-Automation+Mediator-Complexity]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Automation+Mediator-Complexity|Triz-Automation+Mediator-Complexity]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Automation+Mediator-Complexity.public|Triz-Automation+Mediator-Complexity.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Automation+Mediator-Complexity.internal|Triz-Automation+Mediator-Complexity.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Automation+Mediator-Complexity.protect|Triz-Automation+Mediator-Complexity.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Automation+Mediator-Complexity.private|Triz-Automation+Mediator-Complexity.private]] 

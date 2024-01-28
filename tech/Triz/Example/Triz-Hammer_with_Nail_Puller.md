@@ -17,7 +17,8 @@ tags:
 A Hammer with Nail Puller
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Example/Triz-Hammer_with_Nail_Puller.md|Triz-Hammer_with_Nail_Puller]] 
+- [[../../../../_Standards/tech/Triz/Example/Triz-Hammer_with_Nail_Puller|Triz-Hammer_with_Nail_Puller]] 
+- [[../../../../_public/tech/Triz/Example/Triz-Hammer_with_Nail_Puller.public|Triz-Hammer_with_Nail_Puller.public]] 
 - [[../../../../_internal/tech/Triz/Example/Triz-Hammer_with_Nail_Puller.internal|Triz-Hammer_with_Nail_Puller.internal]] 
 - [[../../../../_protect/tech/Triz/Example/Triz-Hammer_with_Nail_Puller.protect|Triz-Hammer_with_Nail_Puller.protect]] 
 - [[../../../../_private/tech/Triz/Example/Triz-Hammer_with_Nail_Puller.private|Triz-Hammer_with_Nail_Puller.private]] 

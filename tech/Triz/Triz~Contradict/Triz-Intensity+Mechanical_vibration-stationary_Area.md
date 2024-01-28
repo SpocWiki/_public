@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Intensity+Mechanical_vibration-stationary_Area.md|Triz-Intensity+Mechanical_vibration-stationary_Area]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Intensity+Mechanical_vibration-stationary_Area|Triz-Intensity+Mechanical_vibration-stationary_Area]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Intensity+Mechanical_vibration-stationary_Area.public|Triz-Intensity+Mechanical_vibration-stationary_Area.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Intensity+Mechanical_vibration-stationary_Area.internal|Triz-Intensity+Mechanical_vibration-stationary_Area.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Intensity+Mechanical_vibration-stationary_Area.protect|Triz-Intensity+Mechanical_vibration-stationary_Area.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Intensity+Mechanical_vibration-stationary_Area.private|Triz-Intensity+Mechanical_vibration-stationary_Area.private]] 

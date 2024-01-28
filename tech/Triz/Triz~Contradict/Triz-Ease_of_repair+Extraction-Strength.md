@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Ease_of_repair+Extraction-Strength.md|Triz-Ease_of_repair+Extraction-Strength]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Ease_of_repair+Extraction-Strength|Triz-Ease_of_repair+Extraction-Strength]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Ease_of_repair+Extraction-Strength.public|Triz-Ease_of_repair+Extraction-Strength.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Ease_of_repair+Extraction-Strength.internal|Triz-Ease_of_repair+Extraction-Strength.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Ease_of_repair+Extraction-Strength.protect|Triz-Ease_of_repair+Extraction-Strength.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Ease_of_repair+Extraction-Strength.private|Triz-Ease_of_repair+Extraction-Strength.private]] 

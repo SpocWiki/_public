@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-affected_harm+Convert_harm_into_benefit-Temperature.md|Triz-affected_harm+Convert_harm_into_benefit-Temperature]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-affected_harm+Convert_harm_into_benefit-Temperature|Triz-affected_harm+Convert_harm_into_benefit-Temperature]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-affected_harm+Convert_harm_into_benefit-Temperature.public|Triz-affected_harm+Convert_harm_into_benefit-Temperature.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-affected_harm+Convert_harm_into_benefit-Temperature.internal|Triz-affected_harm+Convert_harm_into_benefit-Temperature.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-affected_harm+Convert_harm_into_benefit-Temperature.protect|Triz-affected_harm+Convert_harm_into_benefit-Temperature.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-affected_harm+Convert_harm_into_benefit-Temperature.private|Triz-affected_harm+Convert_harm_into_benefit-Temperature.private]] 

@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-affected_harm+Thermal_expansion-Strength.md|Triz-affected_harm+Thermal_expansion-Strength]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-affected_harm+Thermal_expansion-Strength|Triz-affected_harm+Thermal_expansion-Strength]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-affected_harm+Thermal_expansion-Strength.public|Triz-affected_harm+Thermal_expansion-Strength.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-affected_harm+Thermal_expansion-Strength.internal|Triz-affected_harm+Thermal_expansion-Strength.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-affected_harm+Thermal_expansion-Strength.protect|Triz-affected_harm+Thermal_expansion-Strength.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-affected_harm+Thermal_expansion-Strength.private|Triz-affected_harm+Thermal_expansion-Strength.private]] 

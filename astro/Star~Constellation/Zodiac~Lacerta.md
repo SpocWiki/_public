@@ -17,7 +17,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../_public/astro/Zodiac/Zodiac~Lacerta.md|Zodiac~Lacerta]] 
+- [[../../../_Standards/astro/Zodiac/Zodiac~Lacerta|Zodiac~Lacerta]] 
+- [[../../../_public/astro/Zodiac/Zodiac~Lacerta.public|Zodiac~Lacerta.public]] 
 - [[../../../_internal/astro/Zodiac/Zodiac~Lacerta.internal|Zodiac~Lacerta.internal]] 
 - [[../../../_protect/astro/Zodiac/Zodiac~Lacerta.protect|Zodiac~Lacerta.protect]] 
 - [[../../../_private/astro/Zodiac/Zodiac~Lacerta.private|Zodiac~Lacerta.private]] 

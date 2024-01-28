@@ -27,7 +27,8 @@ confidential: public
 
 
 ## Confidential Links & Embeds: 
-- [[../../../_public/astro/Star/Canis_Majoris-116.md|Canis_Majoris-116]] 
+- [[../../../_Standards/astro/Star/Canis_Majoris-116|Canis_Majoris-116]] 
+- [[../../../_public/astro/Star/Canis_Majoris-116.public|Canis_Majoris-116.public]] 
 - [[../../../_internal/astro/Star/Canis_Majoris-116.internal|Canis_Majoris-116.internal]] 
 - [[../../../_protect/astro/Star/Canis_Majoris-116.protect|Canis_Majoris-116.protect]] 
 - [[../../../_private/astro/Star/Canis_Majoris-116.private|Canis_Majoris-116.private]] 

@@ -27,7 +27,8 @@ confidential: public
 
 
 ## Confidential Links & Embeds: 
-- [[../../../_public/astro/Star/Hydri-3.md|Hydri-3]] 
+- [[../../../_Standards/astro/Star/Hydri-3|Hydri-3]] 
+- [[../../../_public/astro/Star/Hydri-3.public|Hydri-3.public]] 
 - [[../../../_internal/astro/Star/Hydri-3.internal|Hydri-3.internal]] 
 - [[../../../_protect/astro/Star/Hydri-3.protect|Hydri-3.protect]] 
 - [[../../../_private/astro/Star/Hydri-3.private|Hydri-3.private]] 

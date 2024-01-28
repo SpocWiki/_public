@@ -17,7 +17,8 @@ tags:
 Kanban Arrangements in a Just-In-Time Factory
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Example/Triz-Kanban_Arrangements.md|Triz-Kanban_Arrangements]] 
+- [[../../../../_Standards/tech/Triz/Example/Triz-Kanban_Arrangements|Triz-Kanban_Arrangements]] 
+- [[../../../../_public/tech/Triz/Example/Triz-Kanban_Arrangements.public|Triz-Kanban_Arrangements.public]] 
 - [[../../../../_internal/tech/Triz/Example/Triz-Kanban_Arrangements.internal|Triz-Kanban_Arrangements.internal]] 
 - [[../../../../_protect/tech/Triz/Example/Triz-Kanban_Arrangements.protect|Triz-Kanban_Arrangements.protect]] 
 - [[../../../../_private/tech/Triz/Example/Triz-Kanban_Arrangements.private|Triz-Kanban_Arrangements.private]] 

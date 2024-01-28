@@ -17,7 +17,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../_public/astro/Zodiac/Zodiac~Musca.md|Zodiac~Musca]] 
+- [[../../../_Standards/astro/Zodiac/Zodiac~Musca|Zodiac~Musca]] 
+- [[../../../_public/astro/Zodiac/Zodiac~Musca.public|Zodiac~Musca.public]] 
 - [[../../../_internal/astro/Zodiac/Zodiac~Musca.internal|Zodiac~Musca.internal]] 
 - [[../../../_protect/astro/Zodiac/Zodiac~Musca.protect|Zodiac~Musca.protect]] 
 - [[../../../_private/astro/Zodiac/Zodiac~Musca.private|Zodiac~Musca.private]] 

@@ -17,7 +17,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../_public/astro/Zodiac/Zodiac~Ophiuchus.md|Zodiac~Ophiuchus]] 
+- [[../../../_Standards/astro/Zodiac/Zodiac~Ophiuchus|Zodiac~Ophiuchus]] 
+- [[../../../_public/astro/Zodiac/Zodiac~Ophiuchus.public|Zodiac~Ophiuchus.public]] 
 - [[../../../_internal/astro/Zodiac/Zodiac~Ophiuchus.internal|Zodiac~Ophiuchus.internal]] 
 - [[../../../_protect/astro/Zodiac/Zodiac~Ophiuchus.protect|Zodiac~Ophiuchus.protect]] 
 - [[../../../_private/astro/Zodiac/Zodiac~Ophiuchus.private|Zodiac~Ophiuchus.private]] 

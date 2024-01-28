@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Stress+Composite_materials-Stability.md|Triz-Stress+Composite_materials-Stability]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Stress+Composite_materials-Stability|Triz-Stress+Composite_materials-Stability]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Stress+Composite_materials-Stability.public|Triz-Stress+Composite_materials-Stability.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Stress+Composite_materials-Stability.internal|Triz-Stress+Composite_materials-Stability.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Stress+Composite_materials-Stability.protect|Triz-Stress+Composite_materials-Stability.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Stress+Composite_materials-Stability.private|Triz-Stress+Composite_materials-Stability.private]] 

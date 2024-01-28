@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Manufacturing_Precision+Changing_the_color-Energy-Loss.md|Triz-Manufacturing_Precision+Changing_the_color-Energy-Loss]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Manufacturing_Precision+Changing_the_color-Energy-Loss|Triz-Manufacturing_Precision+Changing_the_color-Energy-Loss]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Manufacturing_Precision+Changing_the_color-Energy-Loss.public|Triz-Manufacturing_Precision+Changing_the_color-Energy-Loss.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Manufacturing_Precision+Changing_the_color-Energy-Loss.internal|Triz-Manufacturing_Precision+Changing_the_color-Energy-Loss.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Manufacturing_Precision+Changing_the_color-Energy-Loss.protect|Triz-Manufacturing_Precision+Changing_the_color-Energy-Loss.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Manufacturing_Precision+Changing_the_color-Energy-Loss.private|Triz-Manufacturing_Precision+Changing_the_color-Energy-Loss.private]] 

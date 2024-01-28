@@ -25,7 +25,8 @@ If an action is already periodic, change the periodic magnitude or frequency.
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Sub/Triz-vary-oscillations.md|Triz-vary-oscillations]] 
+- [[../../../../_Standards/tech/Triz/Sub/Triz-vary-oscillations|Triz-vary-oscillations]] 
+- [[../../../../_public/tech/Triz/Sub/Triz-vary-oscillations.public|Triz-vary-oscillations.public]] 
 - [[../../../../_internal/tech/Triz/Sub/Triz-vary-oscillations.internal|Triz-vary-oscillations.internal]] 
 - [[../../../../_protect/tech/Triz/Sub/Triz-vary-oscillations.protect|Triz-vary-oscillations.protect]] 
 - [[../../../../_private/tech/Triz/Sub/Triz-vary-oscillations.private|Triz-vary-oscillations.private]] 

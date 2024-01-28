@@ -27,7 +27,8 @@ confidential: public
 
 
 ## Confidential Links & Embeds: 
-- [[../../../_public/astro/Star/Trianguli-3.md|Trianguli-3]] 
+- [[../../../_Standards/astro/Star/Trianguli-3|Trianguli-3]] 
+- [[../../../_public/astro/Star/Trianguli-3.public|Trianguli-3.public]] 
 - [[../../../_internal/astro/Star/Trianguli-3.internal|Trianguli-3.internal]] 
 - [[../../../_protect/astro/Star/Trianguli-3.protect|Trianguli-3.protect]] 
 - [[../../../_private/astro/Star/Trianguli-3.private|Trianguli-3.private]] 

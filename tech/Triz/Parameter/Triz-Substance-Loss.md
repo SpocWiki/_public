@@ -17,7 +17,8 @@ tags:
 Loss of Substance
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Parameter/Triz-Substance-Loss.md|Triz-Substance-Loss]] 
+- [[../../../../_Standards/tech/Triz/Parameter/Triz-Substance-Loss|Triz-Substance-Loss]] 
+- [[../../../../_public/tech/Triz/Parameter/Triz-Substance-Loss.public|Triz-Substance-Loss.public]] 
 - [[../../../../_internal/tech/Triz/Parameter/Triz-Substance-Loss.internal|Triz-Substance-Loss.internal]] 
 - [[../../../../_protect/tech/Triz/Parameter/Triz-Substance-Loss.protect|Triz-Substance-Loss.protect]] 
 - [[../../../../_private/tech/Triz/Parameter/Triz-Substance-Loss.private|Triz-Substance-Loss.private]] 

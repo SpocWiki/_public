@@ -17,7 +17,8 @@ tags:
 Automobile Engines that give themselves a 'tune up' while running (the ones that say '100_000 miles between tune ups')
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Example/Triz-Auto-tuning_Engines.md|Triz-Auto-tuning_Engines]] 
+- [[../../../../_Standards/tech/Triz/Example/Triz-Auto-tuning_Engines|Triz-Auto-tuning_Engines]] 
+- [[../../../../_public/tech/Triz/Example/Triz-Auto-tuning_Engines.public|Triz-Auto-tuning_Engines.public]] 
 - [[../../../../_internal/tech/Triz/Example/Triz-Auto-tuning_Engines.internal|Triz-Auto-tuning_Engines.internal]] 
 - [[../../../../_protect/tech/Triz/Example/Triz-Auto-tuning_Engines.protect|Triz-Auto-tuning_Engines.protect]] 
 - [[../../../../_private/tech/Triz/Example/Triz-Auto-tuning_Engines.private|Triz-Auto-tuning_Engines.private]] 

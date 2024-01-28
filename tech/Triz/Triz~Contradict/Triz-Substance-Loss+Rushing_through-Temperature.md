@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Substance-Loss+Rushing_through-Temperature.md|Triz-Substance-Loss+Rushing_through-Temperature]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Substance-Loss+Rushing_through-Temperature|Triz-Substance-Loss+Rushing_through-Temperature]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Substance-Loss+Rushing_through-Temperature.public|Triz-Substance-Loss+Rushing_through-Temperature.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Substance-Loss+Rushing_through-Temperature.internal|Triz-Substance-Loss+Rushing_through-Temperature.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Substance-Loss+Rushing_through-Temperature.protect|Triz-Substance-Loss+Rushing_through-Temperature.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Substance-Loss+Rushing_through-Temperature.private|Triz-Substance-Loss+Rushing_through-Temperature.private]] 

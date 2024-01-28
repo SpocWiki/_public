@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Strength+Counterweight-Speed.md|Triz-Strength+Counterweight-Speed]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Strength+Counterweight-Speed|Triz-Strength+Counterweight-Speed]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Strength+Counterweight-Speed.public|Triz-Strength+Counterweight-Speed.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Strength+Counterweight-Speed.internal|Triz-Strength+Counterweight-Speed.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Strength+Counterweight-Speed.protect|Triz-Strength+Counterweight-Speed.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Strength+Counterweight-Speed.private|Triz-Strength+Counterweight-Speed.private]] 

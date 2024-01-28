@@ -27,7 +27,8 @@ Increase the degree of fragmentation or segmentation.
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Sub/Triz-Fragment.md|Triz-Fragment]] 
+- [[../../../../_Standards/tech/Triz/Sub/Triz-Fragment|Triz-Fragment]] 
+- [[../../../../_public/tech/Triz/Sub/Triz-Fragment.public|Triz-Fragment.public]] 
 - [[../../../../_internal/tech/Triz/Sub/Triz-Fragment.internal|Triz-Fragment.internal]] 
 - [[../../../../_protect/tech/Triz/Sub/Triz-Fragment.protect|Triz-Fragment.protect]] 
 - [[../../../../_private/tech/Triz/Sub/Triz-Fragment.private|Triz-Fragment.private]] 

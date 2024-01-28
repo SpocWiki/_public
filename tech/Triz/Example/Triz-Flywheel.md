@@ -17,7 +17,8 @@ tags:
 Flywheel (or hydraulic System) stores Energy when a Vehicle stops, so the Motor can keep running at optimum Power.
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Example/Triz-Flywheel.md|Triz-Flywheel]] 
+- [[../../../../_Standards/tech/Triz/Example/Triz-Flywheel|Triz-Flywheel]] 
+- [[../../../../_public/tech/Triz/Example/Triz-Flywheel.public|Triz-Flywheel.public]] 
 - [[../../../../_internal/tech/Triz/Example/Triz-Flywheel.internal|Triz-Flywheel.internal]] 
 - [[../../../../_protect/tech/Triz/Example/Triz-Flywheel.protect|Triz-Flywheel.protect]] 
 - [[../../../../_private/tech/Triz/Example/Triz-Flywheel.private|Triz-Flywheel.private]] 

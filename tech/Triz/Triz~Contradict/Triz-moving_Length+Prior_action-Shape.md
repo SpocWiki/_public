@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-moving_Length+Prior_action-Shape.md|Triz-moving_Length+Prior_action-Shape]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-moving_Length+Prior_action-Shape|Triz-moving_Length+Prior_action-Shape]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-moving_Length+Prior_action-Shape.public|Triz-moving_Length+Prior_action-Shape.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-moving_Length+Prior_action-Shape.internal|Triz-moving_Length+Prior_action-Shape.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-moving_Length+Prior_action-Shape.protect|Triz-moving_Length+Prior_action-Shape.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-moving_Length+Prior_action-Shape.private|Triz-moving_Length+Prior_action-Shape.private]] 

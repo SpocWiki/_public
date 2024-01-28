@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Reliability+Cushion_in_advance-Energy-Loss.md|Triz-Reliability+Cushion_in_advance-Energy-Loss]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Reliability+Cushion_in_advance-Energy-Loss|Triz-Reliability+Cushion_in_advance-Energy-Loss]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Reliability+Cushion_in_advance-Energy-Loss.public|Triz-Reliability+Cushion_in_advance-Energy-Loss.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Reliability+Cushion_in_advance-Energy-Loss.internal|Triz-Reliability+Cushion_in_advance-Energy-Loss.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Reliability+Cushion_in_advance-Energy-Loss.protect|Triz-Reliability+Cushion_in_advance-Energy-Loss.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Reliability+Cushion_in_advance-Energy-Loss.private|Triz-Reliability+Cushion_in_advance-Energy-Loss.private]] 

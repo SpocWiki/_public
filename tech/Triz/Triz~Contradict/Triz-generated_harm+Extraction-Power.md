@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-generated_harm+Extraction-Power.md|Triz-generated_harm+Extraction-Power]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-generated_harm+Extraction-Power|Triz-generated_harm+Extraction-Power]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-generated_harm+Extraction-Power.public|Triz-generated_harm+Extraction-Power.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-generated_harm+Extraction-Power.internal|Triz-generated_harm+Extraction-Power.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-generated_harm+Extraction-Power.protect|Triz-generated_harm+Extraction-Power.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-generated_harm+Extraction-Power.private|Triz-generated_harm+Extraction-Power.private]] 

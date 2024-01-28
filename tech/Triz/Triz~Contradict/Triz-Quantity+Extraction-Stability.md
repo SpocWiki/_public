@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Quantity+Extraction-Stability.md|Triz-Quantity+Extraction-Stability]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Quantity+Extraction-Stability|Triz-Quantity+Extraction-Stability]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Quantity+Extraction-Stability.public|Triz-Quantity+Extraction-Stability.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Quantity+Extraction-Stability.internal|Triz-Quantity+Extraction-Stability.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Quantity+Extraction-Stability.protect|Triz-Quantity+Extraction-Stability.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Quantity+Extraction-Stability.private|Triz-Quantity+Extraction-Stability.private]] 

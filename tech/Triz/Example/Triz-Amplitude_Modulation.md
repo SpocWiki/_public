@@ -17,7 +17,8 @@ tags:
 Replace a continuous Siren with Sound that changes Amplitude and Frequency.
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Example/Triz-Amplitude_Modulation.md|Triz-Amplitude_Modulation]] 
+- [[../../../../_Standards/tech/Triz/Example/Triz-Amplitude_Modulation|Triz-Amplitude_Modulation]] 
+- [[../../../../_public/tech/Triz/Example/Triz-Amplitude_Modulation.public|Triz-Amplitude_Modulation.public]] 
 - [[../../../../_internal/tech/Triz/Example/Triz-Amplitude_Modulation.internal|Triz-Amplitude_Modulation.internal]] 
 - [[../../../../_protect/tech/Triz/Example/Triz-Amplitude_Modulation.protect|Triz-Amplitude_Modulation.protect]] 
 - [[../../../../_private/tech/Triz/Example/Triz-Amplitude_Modulation.private|Triz-Amplitude_Modulation.private]] 

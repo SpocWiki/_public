@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-moving_Energy+Rushing_through-Intensity.md|Triz-moving_Energy+Rushing_through-Intensity]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-moving_Energy+Rushing_through-Intensity|Triz-moving_Energy+Rushing_through-Intensity]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-moving_Energy+Rushing_through-Intensity.public|Triz-moving_Energy+Rushing_through-Intensity.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-moving_Energy+Rushing_through-Intensity.internal|Triz-moving_Energy+Rushing_through-Intensity.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-moving_Energy+Rushing_through-Intensity.protect|Triz-moving_Energy+Rushing_through-Intensity.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-moving_Energy+Rushing_through-Intensity.private|Triz-moving_Energy+Rushing_through-Intensity.private]] 

@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Intensity+Thermal_expansion-Difficulty.md|Triz-Intensity+Thermal_expansion-Difficulty]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Intensity+Thermal_expansion-Difficulty|Triz-Intensity+Thermal_expansion-Difficulty]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Intensity+Thermal_expansion-Difficulty.public|Triz-Intensity+Thermal_expansion-Difficulty.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Intensity+Thermal_expansion-Difficulty.internal|Triz-Intensity+Thermal_expansion-Difficulty.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Intensity+Thermal_expansion-Difficulty.protect|Triz-Intensity+Thermal_expansion-Difficulty.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Intensity+Thermal_expansion-Difficulty.private|Triz-Intensity+Thermal_expansion-Difficulty.private]] 

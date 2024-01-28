@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Difficulty+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Information-Loss.md|Triz-Difficulty+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Information-Loss]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Difficulty+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Information-Loss|Triz-Difficulty+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Information-Loss]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Difficulty+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Information-Loss.public|Triz-Difficulty+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Information-Loss.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Difficulty+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Information-Loss.internal|Triz-Difficulty+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Information-Loss.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Difficulty+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Information-Loss.protect|Triz-Difficulty+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Information-Loss.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Difficulty+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Information-Loss.private|Triz-Difficulty+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Information-Loss.private]] 

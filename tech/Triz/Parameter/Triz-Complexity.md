@@ -17,7 +17,8 @@ tags:
 Device complexity: intricacy or sophistication of a system
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Parameter/Triz-Complexity.md|Triz-Complexity]] 
+- [[../../../../_Standards/tech/Triz/Parameter/Triz-Complexity|Triz-Complexity]] 
+- [[../../../../_public/tech/Triz/Parameter/Triz-Complexity.public|Triz-Complexity.public]] 
 - [[../../../../_internal/tech/Triz/Parameter/Triz-Complexity.internal|Triz-Complexity.internal]] 
 - [[../../../../_protect/tech/Triz/Parameter/Triz-Complexity.protect|Triz-Complexity.protect]] 
 - [[../../../../_private/tech/Triz/Parameter/Triz-Complexity.private|Triz-Complexity.private]] 

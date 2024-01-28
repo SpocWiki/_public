@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-moving_Weight+Phase_transition-Power.md|Triz-moving_Weight+Phase_transition-Power]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-moving_Weight+Phase_transition-Power|Triz-moving_Weight+Phase_transition-Power]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-moving_Weight+Phase_transition-Power.public|Triz-moving_Weight+Phase_transition-Power.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-moving_Weight+Phase_transition-Power.internal|Triz-moving_Weight+Phase_transition-Power.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-moving_Weight+Phase_transition-Power.protect|Triz-moving_Weight+Phase_transition-Power.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-moving_Weight+Phase_transition-Power.private|Triz-moving_Weight+Phase_transition-Power.private]] 

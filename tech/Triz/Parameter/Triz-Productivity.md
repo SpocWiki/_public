@@ -17,7 +17,8 @@ tags:
 Productivity
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Parameter/Triz-Productivity.md|Triz-Productivity]] 
+- [[../../../../_Standards/tech/Triz/Parameter/Triz-Productivity|Triz-Productivity]] 
+- [[../../../../_public/tech/Triz/Parameter/Triz-Productivity.public|Triz-Productivity.public]] 
 - [[../../../../_internal/tech/Triz/Parameter/Triz-Productivity.internal|Triz-Productivity.internal]] 
 - [[../../../../_protect/tech/Triz/Parameter/Triz-Productivity.protect|Triz-Productivity.protect]] 
 - [[../../../../_private/tech/Triz/Parameter/Triz-Productivity.private|Triz-Productivity.private]] 

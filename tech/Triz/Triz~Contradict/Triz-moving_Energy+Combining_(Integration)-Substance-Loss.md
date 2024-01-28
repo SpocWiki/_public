@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-moving_Energy+Combining_(Integration)-Substance-Loss.md|Triz-moving_Energy+Combining_(Integration)-Substance-Loss]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-moving_Energy+Combining_(Integration)-Substance-Loss|Triz-moving_Energy+Combining_(Integration)-Substance-Loss]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-moving_Energy+Combining_(Integration)-Substance-Loss.public|Triz-moving_Energy+Combining_(Integration)-Substance-Loss.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-moving_Energy+Combining_(Integration)-Substance-Loss.internal|Triz-moving_Energy+Combining_(Integration)-Substance-Loss.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-moving_Energy+Combining_(Integration)-Substance-Loss.protect|Triz-moving_Energy+Combining_(Integration)-Substance-Loss.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-moving_Energy+Combining_(Integration)-Substance-Loss.private|Triz-moving_Energy+Combining_(Integration)-Substance-Loss.private]] 

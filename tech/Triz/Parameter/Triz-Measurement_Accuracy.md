@@ -17,7 +17,8 @@ tags:
 Measurement accuracy
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Parameter/Triz-Measurement_Accuracy.md|Triz-Measurement_Accuracy]] 
+- [[../../../../_Standards/tech/Triz/Parameter/Triz-Measurement_Accuracy|Triz-Measurement_Accuracy]] 
+- [[../../../../_public/tech/Triz/Parameter/Triz-Measurement_Accuracy.public|Triz-Measurement_Accuracy.public]] 
 - [[../../../../_internal/tech/Triz/Parameter/Triz-Measurement_Accuracy.internal|Triz-Measurement_Accuracy.internal]] 
 - [[../../../../_protect/tech/Triz/Parameter/Triz-Measurement_Accuracy.protect|Triz-Measurement_Accuracy.protect]] 
 - [[../../../../_private/tech/Triz/Parameter/Triz-Measurement_Accuracy.private|Triz-Measurement_Accuracy.private]] 

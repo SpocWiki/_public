@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Temperature+Periodic_action-Shape.md|Triz-Temperature+Periodic_action-Shape]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Temperature+Periodic_action-Shape|Triz-Temperature+Periodic_action-Shape]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Temperature+Periodic_action-Shape.public|Triz-Temperature+Periodic_action-Shape.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Temperature+Periodic_action-Shape.internal|Triz-Temperature+Periodic_action-Shape.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Temperature+Periodic_action-Shape.protect|Triz-Temperature+Periodic_action-Shape.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Temperature+Periodic_action-Shape.private|Triz-Temperature+Periodic_action-Shape.private]] 

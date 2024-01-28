@@ -27,7 +27,8 @@ confidential: public
 
 
 ## Confidential Links & Embeds: 
-- [[../../../_public/astro/Star/Mebsuta.md|Mebsuta]] 
+- [[../../../_Standards/astro/Star/Mebsuta|Mebsuta]] 
+- [[../../../_public/astro/Star/Mebsuta.public|Mebsuta.public]] 
 - [[../../../_internal/astro/Star/Mebsuta.internal|Mebsuta.internal]] 
 - [[../../../_protect/astro/Star/Mebsuta.protect|Mebsuta.protect]] 
 - [[../../../_private/astro/Star/Mebsuta.private|Mebsuta.private]] 

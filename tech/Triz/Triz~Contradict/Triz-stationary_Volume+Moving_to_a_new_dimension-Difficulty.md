@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-stationary_Volume+Moving_to_a_new_dimension-Difficulty.md|Triz-stationary_Volume+Moving_to_a_new_dimension-Difficulty]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-stationary_Volume+Moving_to_a_new_dimension-Difficulty|Triz-stationary_Volume+Moving_to_a_new_dimension-Difficulty]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-stationary_Volume+Moving_to_a_new_dimension-Difficulty.public|Triz-stationary_Volume+Moving_to_a_new_dimension-Difficulty.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-stationary_Volume+Moving_to_a_new_dimension-Difficulty.internal|Triz-stationary_Volume+Moving_to_a_new_dimension-Difficulty.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-stationary_Volume+Moving_to_a_new_dimension-Difficulty.protect|Triz-stationary_Volume+Moving_to_a_new_dimension-Difficulty.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-stationary_Volume+Moving_to_a_new_dimension-Difficulty.private|Triz-stationary_Volume+Moving_to_a_new_dimension-Difficulty.private]] 

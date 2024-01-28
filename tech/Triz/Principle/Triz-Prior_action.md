@@ -14,7 +14,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Principle/Triz-Prior_action.md|Triz-Prior_action]] 
+- [[../../../../_Standards/tech/Triz/Principle/Triz-Prior_action|Triz-Prior_action]] 
+- [[../../../../_public/tech/Triz/Principle/Triz-Prior_action.public|Triz-Prior_action.public]] 
 - [[../../../../_internal/tech/Triz/Principle/Triz-Prior_action.internal|Triz-Prior_action.internal]] 
 - [[../../../../_protect/tech/Triz/Principle/Triz-Prior_action.protect|Triz-Prior_action.protect]] 
 - [[../../../../_private/tech/Triz/Principle/Triz-Prior_action.private|Triz-Prior_action.private]] 

@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Power+Use_strong_oxidisers-Substance-Loss.md|Triz-Power+Use_strong_oxidisers-Substance-Loss]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Power+Use_strong_oxidisers-Substance-Loss|Triz-Power+Use_strong_oxidisers-Substance-Loss]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Power+Use_strong_oxidisers-Substance-Loss.public|Triz-Power+Use_strong_oxidisers-Substance-Loss.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Power+Use_strong_oxidisers-Substance-Loss.internal|Triz-Power+Use_strong_oxidisers-Substance-Loss.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Power+Use_strong_oxidisers-Substance-Loss.protect|Triz-Power+Use_strong_oxidisers-Substance-Loss.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Power+Use_strong_oxidisers-Substance-Loss.private|Triz-Power+Use_strong_oxidisers-Substance-Loss.private]] 

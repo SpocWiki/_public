@@ -17,7 +17,8 @@ tags:
 In an electric Welding Gun, the Rod is advanced by a special Device. To simplify the System, the Rod is advanced by a Solenoid controlled by the Welding Current.
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Example/Triz-Solenoid_.md|Triz-Solenoid_]] 
+- [[../../../../_Standards/tech/Triz/Example/Triz-Solenoid_|Triz-Solenoid_]] 
+- [[../../../../_public/tech/Triz/Example/Triz-Solenoid_.public|Triz-Solenoid_.public]] 
 - [[../../../../_internal/tech/Triz/Example/Triz-Solenoid_.internal|Triz-Solenoid_.internal]] 
 - [[../../../../_protect/tech/Triz/Example/Triz-Solenoid_.protect|Triz-Solenoid_.protect]] 
 - [[../../../../_private/tech/Triz/Example/Triz-Solenoid_.private|Triz-Solenoid_.private]] 

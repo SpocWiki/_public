@@ -27,7 +27,8 @@ confidential: public
 
 
 ## Confidential Links & Embeds: 
-- [[../../../_public/astro/Star/Sculptoris-3.md|Sculptoris-3]] 
+- [[../../../_Standards/astro/Star/Sculptoris-3|Sculptoris-3]] 
+- [[../../../_public/astro/Star/Sculptoris-3.public|Sculptoris-3.public]] 
 - [[../../../_internal/astro/Star/Sculptoris-3.internal|Sculptoris-3.internal]] 
 - [[../../../_protect/astro/Star/Sculptoris-3.protect|Sculptoris-3.protect]] 
 - [[../../../_private/astro/Star/Sculptoris-3.private|Sculptoris-3.private]] 

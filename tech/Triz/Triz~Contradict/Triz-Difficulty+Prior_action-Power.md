@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Difficulty+Prior_action-Power.md|Triz-Difficulty+Prior_action-Power]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Difficulty+Prior_action-Power|Triz-Difficulty+Prior_action-Power]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Difficulty+Prior_action-Power.public|Triz-Difficulty+Prior_action-Power.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Difficulty+Prior_action-Power.internal|Triz-Difficulty+Prior_action-Power.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Difficulty+Prior_action-Power.protect|Triz-Difficulty+Prior_action-Power.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Difficulty+Prior_action-Power.private|Triz-Difficulty+Prior_action-Power.private]] 

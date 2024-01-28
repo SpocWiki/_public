@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-moving_Weight+Spheroidality-Shape.md|Triz-moving_Weight+Spheroidality-Shape]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-moving_Weight+Spheroidality-Shape|Triz-moving_Weight+Spheroidality-Shape]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-moving_Weight+Spheroidality-Shape.public|Triz-moving_Weight+Spheroidality-Shape.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-moving_Weight+Spheroidality-Shape.internal|Triz-moving_Weight+Spheroidality-Shape.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-moving_Weight+Spheroidality-Shape.protect|Triz-moving_Weight+Spheroidality-Shape.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-moving_Weight+Spheroidality-Shape.private|Triz-moving_Weight+Spheroidality-Shape.private]] 

@@ -17,7 +17,8 @@ tags:
 Over Spray when painting, then remove Excess. (Or, use a Stencil--this is an application of Principle 3, Local Quality and Principle 9, Preliminary anti-action).
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Example/Triz-Over_Spray.md|Triz-Over_Spray]] 
+- [[../../../../_Standards/tech/Triz/Example/Triz-Over_Spray|Triz-Over_Spray]] 
+- [[../../../../_public/tech/Triz/Example/Triz-Over_Spray.public|Triz-Over_Spray.public]] 
 - [[../../../../_internal/tech/Triz/Example/Triz-Over_Spray.internal|Triz-Over_Spray.internal]] 
 - [[../../../../_protect/tech/Triz/Example/Triz-Over_Spray.protect|Triz-Over_Spray.protect]] 
 - [[../../../../_private/tech/Triz/Example/Triz-Over_Spray.private|Triz-Over_Spray.private]] 

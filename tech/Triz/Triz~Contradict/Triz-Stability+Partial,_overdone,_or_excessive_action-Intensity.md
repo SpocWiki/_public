@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Stability+Partial,_overdone,_or_excessive_action-Intensity.md|Triz-Stability+Partial,_overdone,_or_excessive_action-Intensity]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Stability+Partial,_overdone,_or_excessive_action-Intensity|Triz-Stability+Partial,_overdone,_or_excessive_action-Intensity]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Stability+Partial,_overdone,_or_excessive_action-Intensity.public|Triz-Stability+Partial,_overdone,_or_excessive_action-Intensity.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Stability+Partial,_overdone,_or_excessive_action-Intensity.internal|Triz-Stability+Partial,_overdone,_or_excessive_action-Intensity.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Stability+Partial,_overdone,_or_excessive_action-Intensity.protect|Triz-Stability+Partial,_overdone,_or_excessive_action-Intensity.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Stability+Partial,_overdone,_or_excessive_action-Intensity.private|Triz-Stability+Partial,_overdone,_or_excessive_action-Intensity.private]] 

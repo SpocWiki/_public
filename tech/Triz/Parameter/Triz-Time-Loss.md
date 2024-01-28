@@ -17,7 +17,8 @@ tags:
 Loss of Time
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Parameter/Triz-Time-Loss.md|Triz-Time-Loss]] 
+- [[../../../../_Standards/tech/Triz/Parameter/Triz-Time-Loss|Triz-Time-Loss]] 
+- [[../../../../_public/tech/Triz/Parameter/Triz-Time-Loss.public|Triz-Time-Loss.public]] 
 - [[../../../../_internal/tech/Triz/Parameter/Triz-Time-Loss.internal|Triz-Time-Loss.internal]] 
 - [[../../../../_protect/tech/Triz/Parameter/Triz-Time-Loss.protect|Triz-Time-Loss.protect]] 
 - [[../../../../_private/tech/Triz/Parameter/Triz-Time-Loss.private|Triz-Time-Loss.private]] 

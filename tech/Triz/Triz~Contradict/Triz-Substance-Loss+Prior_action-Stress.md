@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Substance-Loss+Prior_action-Stress.md|Triz-Substance-Loss+Prior_action-Stress]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Substance-Loss+Prior_action-Stress|Triz-Substance-Loss+Prior_action-Stress]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Substance-Loss+Prior_action-Stress.public|Triz-Substance-Loss+Prior_action-Stress.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Substance-Loss+Prior_action-Stress.internal|Triz-Substance-Loss+Prior_action-Stress.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Substance-Loss+Prior_action-Stress.protect|Triz-Substance-Loss+Prior_action-Stress.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Substance-Loss+Prior_action-Stress.private|Triz-Substance-Loss+Prior_action-Stress.private]] 

@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Strength+Local_quality-Stress.md|Triz-Strength+Local_quality-Stress]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Strength+Local_quality-Stress|Triz-Strength+Local_quality-Stress]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Strength+Local_quality-Stress.public|Triz-Strength+Local_quality-Stress.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Strength+Local_quality-Stress.internal|Triz-Strength+Local_quality-Stress.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Strength+Local_quality-Stress.protect|Triz-Strength+Local_quality-Stress.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Strength+Local_quality-Stress.private|Triz-Strength+Local_quality-Stress.private]] 

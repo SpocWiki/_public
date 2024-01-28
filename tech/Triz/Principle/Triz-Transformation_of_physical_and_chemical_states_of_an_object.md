@@ -14,7 +14,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Principle/Triz-Transformation_of_physical_and_chemical_states_of_an_object.md|Triz-Transformation_of_physical_and_chemical_states_of_an_object]] 
+- [[../../../../_Standards/tech/Triz/Principle/Triz-Transformation_of_physical_and_chemical_states_of_an_object|Triz-Transformation_of_physical_and_chemical_states_of_an_object]] 
+- [[../../../../_public/tech/Triz/Principle/Triz-Transformation_of_physical_and_chemical_states_of_an_object.public|Triz-Transformation_of_physical_and_chemical_states_of_an_object.public]] 
 - [[../../../../_internal/tech/Triz/Principle/Triz-Transformation_of_physical_and_chemical_states_of_an_object.internal|Triz-Transformation_of_physical_and_chemical_states_of_an_object.internal]] 
 - [[../../../../_protect/tech/Triz/Principle/Triz-Transformation_of_physical_and_chemical_states_of_an_object.protect|Triz-Transformation_of_physical_and_chemical_states_of_an_object.protect]] 
 - [[../../../../_private/tech/Triz/Principle/Triz-Transformation_of_physical_and_chemical_states_of_an_object.private|Triz-Transformation_of_physical_and_chemical_states_of_an_object.private]] 

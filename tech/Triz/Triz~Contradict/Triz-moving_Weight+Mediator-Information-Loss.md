@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-moving_Weight+Mediator-Information-Loss.md|Triz-moving_Weight+Mediator-Information-Loss]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-moving_Weight+Mediator-Information-Loss|Triz-moving_Weight+Mediator-Information-Loss]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-moving_Weight+Mediator-Information-Loss.public|Triz-moving_Weight+Mediator-Information-Loss.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-moving_Weight+Mediator-Information-Loss.internal|Triz-moving_Weight+Mediator-Information-Loss.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-moving_Weight+Mediator-Information-Loss.protect|Triz-moving_Weight+Mediator-Information-Loss.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-moving_Weight+Mediator-Information-Loss.private|Triz-moving_Weight+Mediator-Information-Loss.private]] 

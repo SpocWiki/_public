@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Intensity+Thermal_expansion-Manufacturing_Precision.md|Triz-Intensity+Thermal_expansion-Manufacturing_Precision]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Intensity+Thermal_expansion-Manufacturing_Precision|Triz-Intensity+Thermal_expansion-Manufacturing_Precision]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Intensity+Thermal_expansion-Manufacturing_Precision.public|Triz-Intensity+Thermal_expansion-Manufacturing_Precision.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Intensity+Thermal_expansion-Manufacturing_Precision.internal|Triz-Intensity+Thermal_expansion-Manufacturing_Precision.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Intensity+Thermal_expansion-Manufacturing_Precision.protect|Triz-Intensity+Thermal_expansion-Manufacturing_Precision.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Intensity+Thermal_expansion-Manufacturing_Precision.private|Triz-Intensity+Thermal_expansion-Manufacturing_Precision.private]] 

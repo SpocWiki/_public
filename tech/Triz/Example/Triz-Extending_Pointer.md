@@ -17,7 +17,8 @@ tags:
 Extending Pointer or Stick 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Example/Triz-Extending_Pointer.md|Triz-Extending_Pointer]] 
+- [[../../../../_Standards/tech/Triz/Example/Triz-Extending_Pointer|Triz-Extending_Pointer]] 
+- [[../../../../_public/tech/Triz/Example/Triz-Extending_Pointer.public|Triz-Extending_Pointer.public]] 
 - [[../../../../_internal/tech/Triz/Example/Triz-Extending_Pointer.internal|Triz-Extending_Pointer.internal]] 
 - [[../../../../_protect/tech/Triz/Example/Triz-Extending_Pointer.protect|Triz-Extending_Pointer.protect]] 
 - [[../../../../_private/tech/Triz/Example/Triz-Extending_Pointer.private|Triz-Extending_Pointer.private]] 

@@ -17,7 +17,8 @@ tags:
 Use a porous Metal Mesh to wick Excess Solder away from a Joint.
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Example/Triz-wick_Excess_Solder.md|Triz-wick_Excess_Solder]] 
+- [[../../../../_Standards/tech/Triz/Example/Triz-wick_Excess_Solder|Triz-wick_Excess_Solder]] 
+- [[../../../../_public/tech/Triz/Example/Triz-wick_Excess_Solder.public|Triz-wick_Excess_Solder.public]] 
 - [[../../../../_internal/tech/Triz/Example/Triz-wick_Excess_Solder.internal|Triz-wick_Excess_Solder.internal]] 
 - [[../../../../_protect/tech/Triz/Example/Triz-wick_Excess_Solder.protect|Triz-wick_Excess_Solder.protect]] 
 - [[../../../../_private/tech/Triz/Example/Triz-wick_Excess_Solder.private|Triz-wick_Excess_Solder.private]] 

@@ -27,7 +27,8 @@ confidential: public
 
 
 ## Confidential Links & Embeds: 
-- [[../../../_public/astro/Star/Alterf.md|Alterf]] 
+- [[../../../_Standards/astro/Star/Alterf|Alterf]] 
+- [[../../../_public/astro/Star/Alterf.public|Alterf.public]] 
 - [[../../../_internal/astro/Star/Alterf.internal|Alterf.internal]] 
 - [[../../../_protect/astro/Star/Alterf.protect|Alterf.protect]] 
 - [[../../../_private/astro/Star/Alterf.private|Alterf.private]] 

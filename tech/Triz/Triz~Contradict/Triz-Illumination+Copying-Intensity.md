@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Illumination+Copying-Intensity.md|Triz-Illumination+Copying-Intensity]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Illumination+Copying-Intensity|Triz-Illumination+Copying-Intensity]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Illumination+Copying-Intensity.public|Triz-Illumination+Copying-Intensity.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Illumination+Copying-Intensity.internal|Triz-Illumination+Copying-Intensity.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Illumination+Copying-Intensity.protect|Triz-Illumination+Copying-Intensity.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Illumination+Copying-Intensity.private|Triz-Illumination+Copying-Intensity.private]] 

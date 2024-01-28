@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-10307+22198-Difficulty.md|Triz-10307+22198-Difficulty]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-10307+22198-Difficulty|Triz-10307+22198-Difficulty]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-10307+22198-Difficulty.public|Triz-10307+22198-Difficulty.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-10307+22198-Difficulty.internal|Triz-10307+22198-Difficulty.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-10307+22198-Difficulty.protect|Triz-10307+22198-Difficulty.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-10307+22198-Difficulty.private|Triz-10307+22198-Difficulty.private]] 

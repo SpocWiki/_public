@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Time-Loss+Combining_(Integration)-Intensity.md|Triz-Time-Loss+Combining_(Integration)-Intensity]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Time-Loss+Combining_(Integration)-Intensity|Triz-Time-Loss+Combining_(Integration)-Intensity]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Time-Loss+Combining_(Integration)-Intensity.public|Triz-Time-Loss+Combining_(Integration)-Intensity.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Time-Loss+Combining_(Integration)-Intensity.internal|Triz-Time-Loss+Combining_(Integration)-Intensity.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Time-Loss+Combining_(Integration)-Intensity.protect|Triz-Time-Loss+Combining_(Integration)-Intensity.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Time-Loss+Combining_(Integration)-Intensity.private|Triz-Time-Loss+Combining_(Integration)-Intensity.private]] 

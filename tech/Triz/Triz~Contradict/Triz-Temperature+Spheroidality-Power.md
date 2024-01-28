@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Temperature+Spheroidality-Power.md|Triz-Temperature+Spheroidality-Power]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Temperature+Spheroidality-Power|Triz-Temperature+Spheroidality-Power]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Temperature+Spheroidality-Power.public|Triz-Temperature+Spheroidality-Power.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Temperature+Spheroidality-Power.internal|Triz-Temperature+Spheroidality-Power.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Temperature+Spheroidality-Power.protect|Triz-Temperature+Spheroidality-Power.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Temperature+Spheroidality-Power.private|Triz-Temperature+Spheroidality-Power.private]] 

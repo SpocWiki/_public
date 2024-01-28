@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-stationary_Weight+Replacement_of_a_mechanical_system-Difficulty.md|Triz-stationary_Weight+Replacement_of_a_mechanical_system-Difficulty]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-stationary_Weight+Replacement_of_a_mechanical_system-Difficulty|Triz-stationary_Weight+Replacement_of_a_mechanical_system-Difficulty]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-stationary_Weight+Replacement_of_a_mechanical_system-Difficulty.public|Triz-stationary_Weight+Replacement_of_a_mechanical_system-Difficulty.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-stationary_Weight+Replacement_of_a_mechanical_system-Difficulty.internal|Triz-stationary_Weight+Replacement_of_a_mechanical_system-Difficulty.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-stationary_Weight+Replacement_of_a_mechanical_system-Difficulty.protect|Triz-stationary_Weight+Replacement_of_a_mechanical_system-Difficulty.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-stationary_Weight+Replacement_of_a_mechanical_system-Difficulty.private|Triz-stationary_Weight+Replacement_of_a_mechanical_system-Difficulty.private]] 

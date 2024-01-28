@@ -17,7 +17,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../_public/astro/Zodiac/Zodiac~Telescopium.md|Zodiac~Telescopium]] 
+- [[../../../_Standards/astro/Zodiac/Zodiac~Telescopium|Zodiac~Telescopium]] 
+- [[../../../_public/astro/Zodiac/Zodiac~Telescopium.public|Zodiac~Telescopium.public]] 
 - [[../../../_internal/astro/Zodiac/Zodiac~Telescopium.internal|Zodiac~Telescopium.internal]] 
 - [[../../../_protect/astro/Zodiac/Zodiac~Telescopium.protect|Zodiac~Telescopium.protect]] 
 - [[../../../_private/astro/Zodiac/Zodiac~Telescopium.private|Zodiac~Telescopium.private]] 

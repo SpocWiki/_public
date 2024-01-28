@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Measurement_Accuracy+Rejecting_and_regenerating_parts-Automation.md|Triz-Measurement_Accuracy+Rejecting_and_regenerating_parts-Automation]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Measurement_Accuracy+Rejecting_and_regenerating_parts-Automation|Triz-Measurement_Accuracy+Rejecting_and_regenerating_parts-Automation]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Measurement_Accuracy+Rejecting_and_regenerating_parts-Automation.public|Triz-Measurement_Accuracy+Rejecting_and_regenerating_parts-Automation.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Measurement_Accuracy+Rejecting_and_regenerating_parts-Automation.internal|Triz-Measurement_Accuracy+Rejecting_and_regenerating_parts-Automation.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Measurement_Accuracy+Rejecting_and_regenerating_parts-Automation.protect|Triz-Measurement_Accuracy+Rejecting_and_regenerating_parts-Automation.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Measurement_Accuracy+Rejecting_and_regenerating_parts-Automation.private|Triz-Measurement_Accuracy+Rejecting_and_regenerating_parts-Automation.private]] 

@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-moving_Weight+Use_strong_oxidisers-Speed.md|Triz-moving_Weight+Use_strong_oxidisers-Speed]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-moving_Weight+Use_strong_oxidisers-Speed|Triz-moving_Weight+Use_strong_oxidisers-Speed]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-moving_Weight+Use_strong_oxidisers-Speed.public|Triz-moving_Weight+Use_strong_oxidisers-Speed.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-moving_Weight+Use_strong_oxidisers-Speed.internal|Triz-moving_Weight+Use_strong_oxidisers-Speed.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-moving_Weight+Use_strong_oxidisers-Speed.protect|Triz-moving_Weight+Use_strong_oxidisers-Speed.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-moving_Weight+Use_strong_oxidisers-Speed.private|Triz-moving_Weight+Use_strong_oxidisers-Speed.private]] 

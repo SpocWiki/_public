@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Ease_of_repair+Inversion-Automation.md|Triz-Ease_of_repair+Inversion-Automation]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Ease_of_repair+Inversion-Automation|Triz-Ease_of_repair+Inversion-Automation]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Ease_of_repair+Inversion-Automation.public|Triz-Ease_of_repair+Inversion-Automation.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Ease_of_repair+Inversion-Automation.internal|Triz-Ease_of_repair+Inversion-Automation.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Ease_of_repair+Inversion-Automation.protect|Triz-Ease_of_repair+Inversion-Automation.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Ease_of_repair+Inversion-Automation.private|Triz-Ease_of_repair+Inversion-Automation.private]] 

@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Intensity+Segmentation-stationary_Area.md|Triz-Intensity+Segmentation-stationary_Area]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Intensity+Segmentation-stationary_Area|Triz-Intensity+Segmentation-stationary_Area]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Intensity+Segmentation-stationary_Area.public|Triz-Intensity+Segmentation-stationary_Area.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Intensity+Segmentation-stationary_Area.internal|Triz-Intensity+Segmentation-stationary_Area.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Intensity+Segmentation-stationary_Area.protect|Triz-Intensity+Segmentation-stationary_Area.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Intensity+Segmentation-stationary_Area.private|Triz-Intensity+Segmentation-stationary_Area.private]] 

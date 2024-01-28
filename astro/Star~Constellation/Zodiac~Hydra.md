@@ -17,7 +17,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../_public/astro/Zodiac/Zodiac~Hydra.md|Zodiac~Hydra]] 
+- [[../../../_Standards/astro/Zodiac/Zodiac~Hydra|Zodiac~Hydra]] 
+- [[../../../_public/astro/Zodiac/Zodiac~Hydra.public|Zodiac~Hydra.public]] 
 - [[../../../_internal/astro/Zodiac/Zodiac~Hydra.internal|Zodiac~Hydra.internal]] 
 - [[../../../_protect/astro/Zodiac/Zodiac~Hydra.protect|Zodiac~Hydra.protect]] 
 - [[../../../_private/astro/Zodiac/Zodiac~Hydra.private|Zodiac~Hydra.private]] 

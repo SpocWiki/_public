@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Power+Changing_the_color-stationary_Area.md|Triz-Power+Changing_the_color-stationary_Area]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Power+Changing_the_color-stationary_Area|Triz-Power+Changing_the_color-stationary_Area]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Power+Changing_the_color-stationary_Area.public|Triz-Power+Changing_the_color-stationary_Area.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Power+Changing_the_color-stationary_Area.internal|Triz-Power+Changing_the_color-stationary_Area.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Power+Changing_the_color-stationary_Area.protect|Triz-Power+Changing_the_color-stationary_Area.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Power+Changing_the_color-stationary_Area.private|Triz-Power+Changing_the_color-stationary_Area.private]] 

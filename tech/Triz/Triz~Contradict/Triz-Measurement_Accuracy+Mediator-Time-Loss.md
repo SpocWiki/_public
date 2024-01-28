@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Measurement_Accuracy+Mediator-Time-Loss.md|Triz-Measurement_Accuracy+Mediator-Time-Loss]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Measurement_Accuracy+Mediator-Time-Loss|Triz-Measurement_Accuracy+Mediator-Time-Loss]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Measurement_Accuracy+Mediator-Time-Loss.public|Triz-Measurement_Accuracy+Mediator-Time-Loss.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Measurement_Accuracy+Mediator-Time-Loss.internal|Triz-Measurement_Accuracy+Mediator-Time-Loss.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Measurement_Accuracy+Mediator-Time-Loss.protect|Triz-Measurement_Accuracy+Mediator-Time-Loss.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Measurement_Accuracy+Mediator-Time-Loss.private|Triz-Measurement_Accuracy+Mediator-Time-Loss.private]] 

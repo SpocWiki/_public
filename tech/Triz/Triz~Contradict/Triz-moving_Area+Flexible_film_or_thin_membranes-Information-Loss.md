@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-moving_Area+Flexible_film_or_thin_membranes-Information-Loss.md|Triz-moving_Area+Flexible_film_or_thin_membranes-Information-Loss]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-moving_Area+Flexible_film_or_thin_membranes-Information-Loss|Triz-moving_Area+Flexible_film_or_thin_membranes-Information-Loss]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-moving_Area+Flexible_film_or_thin_membranes-Information-Loss.public|Triz-moving_Area+Flexible_film_or_thin_membranes-Information-Loss.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-moving_Area+Flexible_film_or_thin_membranes-Information-Loss.internal|Triz-moving_Area+Flexible_film_or_thin_membranes-Information-Loss.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-moving_Area+Flexible_film_or_thin_membranes-Information-Loss.protect|Triz-moving_Area+Flexible_film_or_thin_membranes-Information-Loss.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-moving_Area+Flexible_film_or_thin_membranes-Information-Loss.private|Triz-moving_Area+Flexible_film_or_thin_membranes-Information-Loss.private]] 

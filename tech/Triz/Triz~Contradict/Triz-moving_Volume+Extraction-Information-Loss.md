@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-moving_Volume+Extraction-Information-Loss.md|Triz-moving_Volume+Extraction-Information-Loss]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-moving_Volume+Extraction-Information-Loss|Triz-moving_Volume+Extraction-Information-Loss]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-moving_Volume+Extraction-Information-Loss.public|Triz-moving_Volume+Extraction-Information-Loss.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-moving_Volume+Extraction-Information-Loss.internal|Triz-moving_Volume+Extraction-Information-Loss.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-moving_Volume+Extraction-Information-Loss.protect|Triz-moving_Volume+Extraction-Information-Loss.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-moving_Volume+Extraction-Information-Loss.private|Triz-moving_Volume+Extraction-Information-Loss.private]] 

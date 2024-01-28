@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Substance-Loss+Rejecting_and_regenerating_parts-Measurement_Accuracy.md|Triz-Substance-Loss+Rejecting_and_regenerating_parts-Measurement_Accuracy]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Substance-Loss+Rejecting_and_regenerating_parts-Measurement_Accuracy|Triz-Substance-Loss+Rejecting_and_regenerating_parts-Measurement_Accuracy]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Substance-Loss+Rejecting_and_regenerating_parts-Measurement_Accuracy.public|Triz-Substance-Loss+Rejecting_and_regenerating_parts-Measurement_Accuracy.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Substance-Loss+Rejecting_and_regenerating_parts-Measurement_Accuracy.internal|Triz-Substance-Loss+Rejecting_and_regenerating_parts-Measurement_Accuracy.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Substance-Loss+Rejecting_and_regenerating_parts-Measurement_Accuracy.protect|Triz-Substance-Loss+Rejecting_and_regenerating_parts-Measurement_Accuracy.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Substance-Loss+Rejecting_and_regenerating_parts-Measurement_Accuracy.private|Triz-Substance-Loss+Rejecting_and_regenerating_parts-Measurement_Accuracy.private]] 

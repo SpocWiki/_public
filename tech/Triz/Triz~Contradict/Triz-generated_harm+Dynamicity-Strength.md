@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-generated_harm+Dynamicity-Strength.md|Triz-generated_harm+Dynamicity-Strength]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-generated_harm+Dynamicity-Strength|Triz-generated_harm+Dynamicity-Strength]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-generated_harm+Dynamicity-Strength.public|Triz-generated_harm+Dynamicity-Strength.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-generated_harm+Dynamicity-Strength.internal|Triz-generated_harm+Dynamicity-Strength.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-generated_harm+Dynamicity-Strength.protect|Triz-generated_harm+Dynamicity-Strength.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-generated_harm+Dynamicity-Strength.private|Triz-generated_harm+Dynamicity-Strength.private]] 

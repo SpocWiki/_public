@@ -17,7 +17,8 @@ tags:
 Ice and Water are measured separately but must combine to the total Weight. Because Ice is difficult to dispense precisely, it is measured first. The Weight is then fed to the Water Control Device, which precisely dispenses the needed Amount.
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Example/Triz-measure_indirectly.md|Triz-measure_indirectly]] 
+- [[../../../../_Standards/tech/Triz/Example/Triz-measure_indirectly|Triz-measure_indirectly]] 
+- [[../../../../_public/tech/Triz/Example/Triz-measure_indirectly.public|Triz-measure_indirectly.public]] 
 - [[../../../../_internal/tech/Triz/Example/Triz-measure_indirectly.internal|Triz-measure_indirectly.internal]] 
 - [[../../../../_protect/tech/Triz/Example/Triz-measure_indirectly.protect|Triz-measure_indirectly.protect]] 
 - [[../../../../_private/tech/Triz/Example/Triz-measure_indirectly.private|Triz-measure_indirectly.private]] 

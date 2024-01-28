@@ -27,7 +27,8 @@ confidential: public
 
 
 ## Confidential Links & Embeds: 
-- [[../../../_public/astro/Star/Miaplacidus.md|Miaplacidus]] 
+- [[../../../_Standards/astro/Star/Miaplacidus|Miaplacidus]] 
+- [[../../../_public/astro/Star/Miaplacidus.public|Miaplacidus.public]] 
 - [[../../../_internal/astro/Star/Miaplacidus.internal|Miaplacidus.internal]] 
 - [[../../../_protect/astro/Star/Miaplacidus.protect|Miaplacidus.protect]] 
 - [[../../../_private/astro/Star/Miaplacidus.private|Miaplacidus.private]] 

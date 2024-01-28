@@ -17,7 +17,8 @@ tags:
 Moving sidewalk with standing People.
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Example/Triz-Moving_sidewalk.md|Triz-Moving_sidewalk]] 
+- [[../../../../_Standards/tech/Triz/Example/Triz-Moving_sidewalk|Triz-Moving_sidewalk]] 
+- [[../../../../_public/tech/Triz/Example/Triz-Moving_sidewalk.public|Triz-Moving_sidewalk.public]] 
 - [[../../../../_internal/tech/Triz/Example/Triz-Moving_sidewalk.internal|Triz-Moving_sidewalk.internal]] 
 - [[../../../../_protect/tech/Triz/Example/Triz-Moving_sidewalk.protect|Triz-Moving_sidewalk.protect]] 
 - [[../../../../_private/tech/Triz/Example/Triz-Moving_sidewalk.private|Triz-Moving_sidewalk.private]] 

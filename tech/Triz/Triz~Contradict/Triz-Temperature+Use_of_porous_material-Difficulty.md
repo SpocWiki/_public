@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Temperature+Use_of_porous_material-Difficulty.md|Triz-Temperature+Use_of_porous_material-Difficulty]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Temperature+Use_of_porous_material-Difficulty|Triz-Temperature+Use_of_porous_material-Difficulty]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Temperature+Use_of_porous_material-Difficulty.public|Triz-Temperature+Use_of_porous_material-Difficulty.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Temperature+Use_of_porous_material-Difficulty.internal|Triz-Temperature+Use_of_porous_material-Difficulty.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Temperature+Use_of_porous_material-Difficulty.protect|Triz-Temperature+Use_of_porous_material-Difficulty.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Temperature+Use_of_porous_material-Difficulty.private|Triz-Temperature+Use_of_porous_material-Difficulty.private]] 

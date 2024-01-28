@@ -27,7 +27,8 @@ confidential: public
 
 
 ## Confidential Links & Embeds: 
-- [[../../../_public/astro/Star/Coronae_Borealis-5.md|Coronae_Borealis-5]] 
+- [[../../../_Standards/astro/Star/Coronae_Borealis-5|Coronae_Borealis-5]] 
+- [[../../../_public/astro/Star/Coronae_Borealis-5.public|Coronae_Borealis-5.public]] 
 - [[../../../_internal/astro/Star/Coronae_Borealis-5.internal|Coronae_Borealis-5.internal]] 
 - [[../../../_protect/astro/Star/Coronae_Borealis-5.protect|Coronae_Borealis-5.protect]] 
 - [[../../../_private/astro/Star/Coronae_Borealis-5.private|Coronae_Borealis-5.private]] 

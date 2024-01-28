@@ -27,7 +27,8 @@ confidential: public
 
 
 ## Confidential Links & Embeds: 
-- [[../../../_public/astro/Star/Aspidiske.md|Aspidiske]] 
+- [[../../../_Standards/astro/Star/Aspidiske|Aspidiske]] 
+- [[../../../_public/astro/Star/Aspidiske.public|Aspidiske.public]] 
 - [[../../../_internal/astro/Star/Aspidiske.internal|Aspidiske.internal]] 
 - [[../../../_protect/astro/Star/Aspidiske.protect|Aspidiske.protect]] 
 - [[../../../_private/astro/Star/Aspidiske.private|Aspidiske.private]] 

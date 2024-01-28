@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Substance-Loss+Mechanical_vibration-moving_Energy.md|Triz-Substance-Loss+Mechanical_vibration-moving_Energy]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Substance-Loss+Mechanical_vibration-moving_Energy|Triz-Substance-Loss+Mechanical_vibration-moving_Energy]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Substance-Loss+Mechanical_vibration-moving_Energy.public|Triz-Substance-Loss+Mechanical_vibration-moving_Energy.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Substance-Loss+Mechanical_vibration-moving_Energy.internal|Triz-Substance-Loss+Mechanical_vibration-moving_Energy.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Substance-Loss+Mechanical_vibration-moving_Energy.protect|Triz-Substance-Loss+Mechanical_vibration-moving_Energy.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Substance-Loss+Mechanical_vibration-moving_Energy.private|Triz-Substance-Loss+Mechanical_vibration-moving_Energy.private]] 

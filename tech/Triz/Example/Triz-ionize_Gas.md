@@ -17,7 +17,8 @@ tags:
 Speed up chemical Reactions by ionizing the Gas before Use.
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Example/Triz-ionize_Gas.md|Triz-ionize_Gas]] 
+- [[../../../../_Standards/tech/Triz/Example/Triz-ionize_Gas|Triz-ionize_Gas]] 
+- [[../../../../_public/tech/Triz/Example/Triz-ionize_Gas.public|Triz-ionize_Gas.public]] 
 - [[../../../../_internal/tech/Triz/Example/Triz-ionize_Gas.internal|Triz-ionize_Gas.internal]] 
 - [[../../../../_protect/tech/Triz/Example/Triz-ionize_Gas.protect|Triz-ionize_Gas.protect]] 
 - [[../../../../_private/tech/Triz/Example/Triz-ionize_Gas.private|Triz-ionize_Gas.private]] 

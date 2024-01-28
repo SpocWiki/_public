@@ -27,7 +27,8 @@ confidential: public
 
 
 ## Confidential Links & Embeds: 
-- [[../../../_public/astro/Star/Avoir.md|Avoir]] 
+- [[../../../_Standards/astro/Star/Avoir|Avoir]] 
+- [[../../../_public/astro/Star/Avoir.public|Avoir.public]] 
 - [[../../../_internal/astro/Star/Avoir.internal|Avoir.internal]] 
 - [[../../../_protect/astro/Star/Avoir.protect|Avoir.protect]] 
 - [[../../../_private/astro/Star/Avoir.private|Avoir.private]] 

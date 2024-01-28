@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-moving_Energy+Combining_(Integration)-Strength.md|Triz-moving_Energy+Combining_(Integration)-Strength]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-moving_Energy+Combining_(Integration)-Strength|Triz-moving_Energy+Combining_(Integration)-Strength]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-moving_Energy+Combining_(Integration)-Strength.public|Triz-moving_Energy+Combining_(Integration)-Strength.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-moving_Energy+Combining_(Integration)-Strength.internal|Triz-moving_Energy+Combining_(Integration)-Strength.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-moving_Energy+Combining_(Integration)-Strength.protect|Triz-moving_Energy+Combining_(Integration)-Strength.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-moving_Energy+Combining_(Integration)-Strength.private|Triz-moving_Energy+Combining_(Integration)-Strength.private]] 

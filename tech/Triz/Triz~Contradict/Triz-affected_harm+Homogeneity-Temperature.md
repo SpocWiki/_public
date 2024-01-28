@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-affected_harm+Homogeneity-Temperature.md|Triz-affected_harm+Homogeneity-Temperature]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-affected_harm+Homogeneity-Temperature|Triz-affected_harm+Homogeneity-Temperature]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-affected_harm+Homogeneity-Temperature.public|Triz-affected_harm+Homogeneity-Temperature.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-affected_harm+Homogeneity-Temperature.internal|Triz-affected_harm+Homogeneity-Temperature.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-affected_harm+Homogeneity-Temperature.protect|Triz-affected_harm+Homogeneity-Temperature.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-affected_harm+Homogeneity-Temperature.private|Triz-affected_harm+Homogeneity-Temperature.private]] 

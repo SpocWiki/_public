@@ -25,7 +25,8 @@ Conduct a process, or certain stages (e.g. destructible, harmful or hazardous op
 - 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Sub/Triz-high-speed.md|Triz-high-speed]] 
+- [[../../../../_Standards/tech/Triz/Sub/Triz-high-speed|Triz-high-speed]] 
+- [[../../../../_public/tech/Triz/Sub/Triz-high-speed.public|Triz-high-speed.public]] 
 - [[../../../../_internal/tech/Triz/Sub/Triz-high-speed.internal|Triz-high-speed.internal]] 
 - [[../../../../_protect/tech/Triz/Sub/Triz-high-speed.protect|Triz-high-speed.protect]] 
 - [[../../../../_private/tech/Triz/Sub/Triz-high-speed.private|Triz-high-speed.private]] 

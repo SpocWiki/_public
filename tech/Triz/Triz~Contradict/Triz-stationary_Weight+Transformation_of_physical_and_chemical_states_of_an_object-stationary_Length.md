@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-stationary_Weight+Transformation_of_physical_and_chemical_states_of_an_object-stationary_Length.md|Triz-stationary_Weight+Transformation_of_physical_and_chemical_states_of_an_object-stationary_Length]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-stationary_Weight+Transformation_of_physical_and_chemical_states_of_an_object-stationary_Length|Triz-stationary_Weight+Transformation_of_physical_and_chemical_states_of_an_object-stationary_Length]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-stationary_Weight+Transformation_of_physical_and_chemical_states_of_an_object-stationary_Length.public|Triz-stationary_Weight+Transformation_of_physical_and_chemical_states_of_an_object-stationary_Length.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-stationary_Weight+Transformation_of_physical_and_chemical_states_of_an_object-stationary_Length.internal|Triz-stationary_Weight+Transformation_of_physical_and_chemical_states_of_an_object-stationary_Length.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-stationary_Weight+Transformation_of_physical_and_chemical_states_of_an_object-stationary_Length.protect|Triz-stationary_Weight+Transformation_of_physical_and_chemical_states_of_an_object-stationary_Length.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-stationary_Weight+Transformation_of_physical_and_chemical_states_of_an_object-stationary_Length.private|Triz-stationary_Weight+Transformation_of_physical_and_chemical_states_of_an_object-stationary_Length.private]] 

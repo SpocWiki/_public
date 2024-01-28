@@ -17,7 +17,8 @@ tags:
 Float a Film of bipolar Material (one end hydrophilic, one end hydrophobic) on a Reservoir to limit Evaporation.
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Example/Triz-bipolar_Film_against_Evaporation.md|Triz-bipolar_Film_against_Evaporation]] 
+- [[../../../../_Standards/tech/Triz/Example/Triz-bipolar_Film_against_Evaporation|Triz-bipolar_Film_against_Evaporation]] 
+- [[../../../../_public/tech/Triz/Example/Triz-bipolar_Film_against_Evaporation.public|Triz-bipolar_Film_against_Evaporation.public]] 
 - [[../../../../_internal/tech/Triz/Example/Triz-bipolar_Film_against_Evaporation.internal|Triz-bipolar_Film_against_Evaporation.internal]] 
 - [[../../../../_protect/tech/Triz/Example/Triz-bipolar_Film_against_Evaporation.protect|Triz-bipolar_Film_against_Evaporation.protect]] 
 - [[../../../../_private/tech/Triz/Example/Triz-bipolar_Film_against_Evaporation.private|Triz-bipolar_Film_against_Evaporation.private]] 

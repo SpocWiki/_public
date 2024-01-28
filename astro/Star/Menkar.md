@@ -27,7 +27,8 @@ confidential: public
 
 
 ## Confidential Links & Embeds: 
-- [[../../../_public/astro/Star/Menkar.md|Menkar]] 
+- [[../../../_Standards/astro/Star/Menkar|Menkar]] 
+- [[../../../_public/astro/Star/Menkar.public|Menkar.public]] 
 - [[../../../_internal/astro/Star/Menkar.internal|Menkar.internal]] 
 - [[../../../_protect/astro/Star/Menkar.protect|Menkar.protect]] 
 - [[../../../_private/astro/Star/Menkar.private|Menkar.private]] 

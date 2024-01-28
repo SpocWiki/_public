@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Speed+Use_strong_oxidisers-Stress.md|Triz-Speed+Use_strong_oxidisers-Stress]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Speed+Use_strong_oxidisers-Stress|Triz-Speed+Use_strong_oxidisers-Stress]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Speed+Use_strong_oxidisers-Stress.public|Triz-Speed+Use_strong_oxidisers-Stress.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Speed+Use_strong_oxidisers-Stress.internal|Triz-Speed+Use_strong_oxidisers-Stress.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Speed+Use_strong_oxidisers-Stress.protect|Triz-Speed+Use_strong_oxidisers-Stress.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Speed+Use_strong_oxidisers-Stress.private|Triz-Speed+Use_strong_oxidisers-Stress.private]] 

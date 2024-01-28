@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-moving_Volume+Dynamicity-Shape.md|Triz-moving_Volume+Dynamicity-Shape]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-moving_Volume+Dynamicity-Shape|Triz-moving_Volume+Dynamicity-Shape]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-moving_Volume+Dynamicity-Shape.public|Triz-moving_Volume+Dynamicity-Shape.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-moving_Volume+Dynamicity-Shape.internal|Triz-moving_Volume+Dynamicity-Shape.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-moving_Volume+Dynamicity-Shape.protect|Triz-moving_Volume+Dynamicity-Shape.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-moving_Volume+Dynamicity-Shape.private|Triz-moving_Volume+Dynamicity-Shape.private]] 

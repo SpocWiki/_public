@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Complexity+Flexible_film_or_thin_membranes-Power.md|Triz-Complexity+Flexible_film_or_thin_membranes-Power]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Complexity+Flexible_film_or_thin_membranes-Power|Triz-Complexity+Flexible_film_or_thin_membranes-Power]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Complexity+Flexible_film_or_thin_membranes-Power.public|Triz-Complexity+Flexible_film_or_thin_membranes-Power.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Complexity+Flexible_film_or_thin_membranes-Power.internal|Triz-Complexity+Flexible_film_or_thin_membranes-Power.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Complexity+Flexible_film_or_thin_membranes-Power.protect|Triz-Complexity+Flexible_film_or_thin_membranes-Power.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Complexity+Flexible_film_or_thin_membranes-Power.private|Triz-Complexity+Flexible_film_or_thin_membranes-Power.private]] 

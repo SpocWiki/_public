@@ -27,7 +27,8 @@ confidential: public
 
 
 ## Confidential Links & Embeds: 
-- [[../../../_public/astro/Star/Chaph.md|Chaph]] 
+- [[../../../_Standards/astro/Star/Chaph|Chaph]] 
+- [[../../../_public/astro/Star/Chaph.public|Chaph.public]] 
 - [[../../../_internal/astro/Star/Chaph.internal|Chaph.internal]] 
 - [[../../../_protect/astro/Star/Chaph.protect|Chaph.protect]] 
 - [[../../../_private/astro/Star/Chaph.private|Chaph.private]] 

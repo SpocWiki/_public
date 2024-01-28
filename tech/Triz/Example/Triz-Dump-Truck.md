@@ -17,7 +17,8 @@ tags:
 Tilt a Dump-Truck to unload it. 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Example/Triz-Dump_Truck.md|Triz-Dump_Truck]] 
+- [[../../../../_Standards/tech/Triz/Example/Triz-Dump_Truck|Triz-Dump_Truck]] 
+- [[../../../../_public/tech/Triz/Example/Triz-Dump_Truck.public|Triz-Dump_Truck.public]] 
 - [[../../../../_internal/tech/Triz/Example/Triz-Dump_Truck.internal|Triz-Dump_Truck.internal]] 
 - [[../../../../_protect/tech/Triz/Example/Triz-Dump_Truck.protect|Triz-Dump_Truck.protect]] 
 - [[../../../../_private/tech/Triz/Example/Triz-Dump_Truck.private|Triz-Dump_Truck.private]] 

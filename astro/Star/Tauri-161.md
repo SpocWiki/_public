@@ -27,7 +27,8 @@ confidential: public
 
 
 ## Confidential Links & Embeds: 
-- [[../../../_public/astro/Star/Tauri-161.md|Tauri-161]] 
+- [[../../../_Standards/astro/Star/Tauri-161|Tauri-161]] 
+- [[../../../_public/astro/Star/Tauri-161.public|Tauri-161.public]] 
 - [[../../../_internal/astro/Star/Tauri-161.internal|Tauri-161.internal]] 
 - [[../../../_protect/astro/Star/Tauri-161.protect|Tauri-161.protect]] 
 - [[../../../_private/astro/Star/Tauri-161.private|Tauri-161.private]] 

@@ -27,7 +27,8 @@ Make an object serve itself by performing auxiliary helpful functions.
 - 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Sub/Triz-add-functions.md|Triz-add-functions]] 
+- [[../../../../_Standards/tech/Triz/Sub/Triz-add-functions|Triz-add-functions]] 
+- [[../../../../_public/tech/Triz/Sub/Triz-add-functions.public|Triz-add-functions.public]] 
 - [[../../../../_internal/tech/Triz/Sub/Triz-add-functions.internal|Triz-add-functions.internal]] 
 - [[../../../../_protect/tech/Triz/Sub/Triz-add-functions.protect|Triz-add-functions.protect]] 
 - [[../../../../_private/tech/Triz/Sub/Triz-add-functions.private|Triz-add-functions.private]] 

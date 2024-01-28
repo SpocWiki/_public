@@ -27,7 +27,8 @@ confidential: public
 
 
 ## Confidential Links & Embeds: 
-- [[../../../_public/astro/Star/Microscopii-1.md|Microscopii-1]] 
+- [[../../../_Standards/astro/Star/Microscopii-1|Microscopii-1]] 
+- [[../../../_public/astro/Star/Microscopii-1.public|Microscopii-1.public]] 
 - [[../../../_internal/astro/Star/Microscopii-1.internal|Microscopii-1.internal]] 
 - [[../../../_protect/astro/Star/Microscopii-1.protect|Microscopii-1.protect]] 
 - [[../../../_private/astro/Star/Microscopii-1.private|Microscopii-1.private]] 

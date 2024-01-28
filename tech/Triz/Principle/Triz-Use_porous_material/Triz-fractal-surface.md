@@ -26,7 +26,8 @@ If an object is already porous, use the pores to introduce a useful substance or
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Sub/Triz-fractal-surface.md|Triz-fractal-surface]] 
+- [[../../../../_Standards/tech/Triz/Sub/Triz-fractal-surface|Triz-fractal-surface]] 
+- [[../../../../_public/tech/Triz/Sub/Triz-fractal-surface.public|Triz-fractal-surface.public]] 
 - [[../../../../_internal/tech/Triz/Sub/Triz-fractal-surface.internal|Triz-fractal-surface.internal]] 
 - [[../../../../_protect/tech/Triz/Sub/Triz-fractal-surface.protect|Triz-fractal-surface.protect]] 
 - [[../../../../_private/tech/Triz/Sub/Triz-fractal-surface.private|Triz-fractal-surface.private]] 

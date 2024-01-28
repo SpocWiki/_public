@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Temperature+Prior_action-Reliability.md|Triz-Temperature+Prior_action-Reliability]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Temperature+Prior_action-Reliability|Triz-Temperature+Prior_action-Reliability]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Temperature+Prior_action-Reliability.public|Triz-Temperature+Prior_action-Reliability.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Temperature+Prior_action-Reliability.internal|Triz-Temperature+Prior_action-Reliability.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Temperature+Prior_action-Reliability.protect|Triz-Temperature+Prior_action-Reliability.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Temperature+Prior_action-Reliability.private|Triz-Temperature+Prior_action-Reliability.private]] 

@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Versatility+Spheroidality-Stability.md|Triz-Versatility+Spheroidality-Stability]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Versatility+Spheroidality-Stability|Triz-Versatility+Spheroidality-Stability]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Versatility+Spheroidality-Stability.public|Triz-Versatility+Spheroidality-Stability.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Versatility+Spheroidality-Stability.internal|Triz-Versatility+Spheroidality-Stability.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Versatility+Spheroidality-Stability.protect|Triz-Versatility+Spheroidality-Stability.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Versatility+Spheroidality-Stability.private|Triz-Versatility+Spheroidality-Stability.private]] 

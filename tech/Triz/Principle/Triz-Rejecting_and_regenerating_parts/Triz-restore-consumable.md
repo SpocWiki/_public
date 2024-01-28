@@ -25,7 +25,8 @@ Conversely, restore consumable parts of an object directly in operation.
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Sub/Triz-restore-consumable.md|Triz-restore-consumable]] 
+- [[../../../../_Standards/tech/Triz/Sub/Triz-restore-consumable|Triz-restore-consumable]] 
+- [[../../../../_public/tech/Triz/Sub/Triz-restore-consumable.public|Triz-restore-consumable.public]] 
 - [[../../../../_internal/tech/Triz/Sub/Triz-restore-consumable.internal|Triz-restore-consumable.internal]] 
 - [[../../../../_protect/tech/Triz/Sub/Triz-restore-consumable.protect|Triz-restore-consumable.protect]] 
 - [[../../../../_private/tech/Triz/Sub/Triz-restore-consumable.private|Triz-restore-consumable.private]] 

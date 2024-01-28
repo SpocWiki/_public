@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Speed+Combining_(Integration)-moving_Duration.md|Triz-Speed+Combining_(Integration)-moving_Duration]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Speed+Combining_(Integration)-moving_Duration|Triz-Speed+Combining_(Integration)-moving_Duration]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Speed+Combining_(Integration)-moving_Duration.public|Triz-Speed+Combining_(Integration)-moving_Duration.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Speed+Combining_(Integration)-moving_Duration.internal|Triz-Speed+Combining_(Integration)-moving_Duration.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Speed+Combining_(Integration)-moving_Duration.protect|Triz-Speed+Combining_(Integration)-moving_Duration.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Speed+Combining_(Integration)-moving_Duration.private|Triz-Speed+Combining_(Integration)-moving_Duration.private]] 

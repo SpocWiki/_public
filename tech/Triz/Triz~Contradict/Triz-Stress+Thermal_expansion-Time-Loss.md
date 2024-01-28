@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Stress+Thermal_expansion-Time-Loss.md|Triz-Stress+Thermal_expansion-Time-Loss]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Stress+Thermal_expansion-Time-Loss|Triz-Stress+Thermal_expansion-Time-Loss]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Stress+Thermal_expansion-Time-Loss.public|Triz-Stress+Thermal_expansion-Time-Loss.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Stress+Thermal_expansion-Time-Loss.internal|Triz-Stress+Thermal_expansion-Time-Loss.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Stress+Thermal_expansion-Time-Loss.protect|Triz-Stress+Thermal_expansion-Time-Loss.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Stress+Thermal_expansion-Time-Loss.private|Triz-Stress+Thermal_expansion-Time-Loss.private]] 

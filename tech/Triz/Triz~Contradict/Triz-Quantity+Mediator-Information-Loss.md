@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Quantity+Mediator-Information-Loss.md|Triz-Quantity+Mediator-Information-Loss]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Quantity+Mediator-Information-Loss|Triz-Quantity+Mediator-Information-Loss]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Quantity+Mediator-Information-Loss.public|Triz-Quantity+Mediator-Information-Loss.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Quantity+Mediator-Information-Loss.internal|Triz-Quantity+Mediator-Information-Loss.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Quantity+Mediator-Information-Loss.protect|Triz-Quantity+Mediator-Information-Loss.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Quantity+Mediator-Information-Loss.private|Triz-Quantity+Mediator-Information-Loss.private]] 

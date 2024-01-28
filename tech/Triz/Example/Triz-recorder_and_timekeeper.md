@@ -17,7 +17,8 @@ tags:
 Team leader acts as recorder and timekeeper.
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Example/Triz-recorder_and_timekeeper.md|Triz-recorder_and_timekeeper]] 
+- [[../../../../_Standards/tech/Triz/Example/Triz-recorder_and_timekeeper|Triz-recorder_and_timekeeper]] 
+- [[../../../../_public/tech/Triz/Example/Triz-recorder_and_timekeeper.public|Triz-recorder_and_timekeeper.public]] 
 - [[../../../../_internal/tech/Triz/Example/Triz-recorder_and_timekeeper.internal|Triz-recorder_and_timekeeper.internal]] 
 - [[../../../../_protect/tech/Triz/Example/Triz-recorder_and_timekeeper.protect|Triz-recorder_and_timekeeper.protect]] 
 - [[../../../../_private/tech/Triz/Example/Triz-recorder_and_timekeeper.private|Triz-recorder_and_timekeeper.private]] 

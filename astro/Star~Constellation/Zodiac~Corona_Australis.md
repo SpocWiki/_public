@@ -16,7 +16,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../_public/astro/Zodiac/Zodiac~Corona_Australis.md|Zodiac~Corona_Australis]] 
+- [[../../../_Standards/astro/Zodiac/Zodiac~Corona_Australis|Zodiac~Corona_Australis]] 
+- [[../../../_public/astro/Zodiac/Zodiac~Corona_Australis.public|Zodiac~Corona_Australis.public]] 
 - [[../../../_internal/astro/Zodiac/Zodiac~Corona_Australis.internal|Zodiac~Corona_Australis.internal]] 
 - [[../../../_protect/astro/Zodiac/Zodiac~Corona_Australis.protect|Zodiac~Corona_Australis.protect]] 
 - [[../../../_private/astro/Zodiac/Zodiac~Corona_Australis.private|Zodiac~Corona_Australis.private]] 

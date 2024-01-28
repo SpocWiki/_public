@@ -14,7 +14,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Principle/Triz-Spheroidality.md|Triz-Spheroidality]] 
+- [[../../../../_Standards/tech/Triz/Principle/Triz-Spheroidality|Triz-Spheroidality]] 
+- [[../../../../_public/tech/Triz/Principle/Triz-Spheroidality.public|Triz-Spheroidality.public]] 
 - [[../../../../_internal/tech/Triz/Principle/Triz-Spheroidality.internal|Triz-Spheroidality.internal]] 
 - [[../../../../_protect/tech/Triz/Principle/Triz-Spheroidality.protect|Triz-Spheroidality.protect]] 
 - [[../../../../_private/tech/Triz/Principle/Triz-Spheroidality.private|Triz-Spheroidality.private]] 

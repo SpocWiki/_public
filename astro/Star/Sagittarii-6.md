@@ -27,7 +27,8 @@ confidential: public
 
 
 ## Confidential Links & Embeds: 
-- [[../../../_public/astro/Star/Sagittarii-6.md|Sagittarii-6]] 
+- [[../../../_Standards/astro/Star/Sagittarii-6|Sagittarii-6]] 
+- [[../../../_public/astro/Star/Sagittarii-6.public|Sagittarii-6.public]] 
 - [[../../../_internal/astro/Star/Sagittarii-6.internal|Sagittarii-6.internal]] 
 - [[../../../_protect/astro/Star/Sagittarii-6.protect|Sagittarii-6.protect]] 
 - [[../../../_private/astro/Star/Sagittarii-6.private|Sagittarii-6.private]] 

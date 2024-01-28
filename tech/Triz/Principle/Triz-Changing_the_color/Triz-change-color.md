@@ -24,7 +24,8 @@ Change the Color of an Object or its external Environment.
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Sub/Triz-change-color.md|Triz-change-color]] 
+- [[../../../../_Standards/tech/Triz/Sub/Triz-change-color|Triz-change-color]] 
+- [[../../../../_public/tech/Triz/Sub/Triz-change-color.public|Triz-change-color.public]] 
 - [[../../../../_internal/tech/Triz/Sub/Triz-change-color.internal|Triz-change-color.internal]] 
 - [[../../../../_protect/tech/Triz/Sub/Triz-change-color.protect|Triz-change-color.protect]] 
 - [[../../../../_private/tech/Triz/Sub/Triz-change-color.private|Triz-change-color.private]] 

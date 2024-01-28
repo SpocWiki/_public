@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Energy-Loss+Use_strong_oxidisers-Speed.md|Triz-Energy-Loss+Use_strong_oxidisers-Speed]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Energy-Loss+Use_strong_oxidisers-Speed|Triz-Energy-Loss+Use_strong_oxidisers-Speed]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Energy-Loss+Use_strong_oxidisers-Speed.public|Triz-Energy-Loss+Use_strong_oxidisers-Speed.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Energy-Loss+Use_strong_oxidisers-Speed.internal|Triz-Energy-Loss+Use_strong_oxidisers-Speed.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Energy-Loss+Use_strong_oxidisers-Speed.protect|Triz-Energy-Loss+Use_strong_oxidisers-Speed.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Energy-Loss+Use_strong_oxidisers-Speed.private|Triz-Energy-Loss+Use_strong_oxidisers-Speed.private]] 

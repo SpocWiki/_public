@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Difficulty+Segmentation-Shape.md|Triz-Difficulty+Segmentation-Shape]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Difficulty+Segmentation-Shape|Triz-Difficulty+Segmentation-Shape]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Difficulty+Segmentation-Shape.public|Triz-Difficulty+Segmentation-Shape.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Difficulty+Segmentation-Shape.internal|Triz-Difficulty+Segmentation-Shape.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Difficulty+Segmentation-Shape.protect|Triz-Difficulty+Segmentation-Shape.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Difficulty+Segmentation-Shape.private|Triz-Difficulty+Segmentation-Shape.private]] 

@@ -27,7 +27,8 @@ confidential: public
 
 
 ## Confidential Links & Embeds: 
-- [[../../../_public/astro/Star/Piscis_Australis-2.md|Piscis_Australis-2]] 
+- [[../../../_Standards/astro/Star/Piscis_Australis-2|Piscis_Australis-2]] 
+- [[../../../_public/astro/Star/Piscis_Australis-2.public|Piscis_Australis-2.public]] 
 - [[../../../_internal/astro/Star/Piscis_Australis-2.internal|Piscis_Australis-2.internal]] 
 - [[../../../_protect/astro/Star/Piscis_Australis-2.protect|Piscis_Australis-2.protect]] 
 - [[../../../_private/astro/Star/Piscis_Australis-2.private|Piscis_Australis-2.private]] 

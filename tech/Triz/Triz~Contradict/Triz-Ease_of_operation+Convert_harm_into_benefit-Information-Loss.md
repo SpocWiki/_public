@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Ease_of_operation+Convert_harm_into_benefit-Information-Loss.md|Triz-Ease_of_operation+Convert_harm_into_benefit-Information-Loss]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Ease_of_operation+Convert_harm_into_benefit-Information-Loss|Triz-Ease_of_operation+Convert_harm_into_benefit-Information-Loss]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Ease_of_operation+Convert_harm_into_benefit-Information-Loss.public|Triz-Ease_of_operation+Convert_harm_into_benefit-Information-Loss.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Ease_of_operation+Convert_harm_into_benefit-Information-Loss.internal|Triz-Ease_of_operation+Convert_harm_into_benefit-Information-Loss.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Ease_of_operation+Convert_harm_into_benefit-Information-Loss.protect|Triz-Ease_of_operation+Convert_harm_into_benefit-Information-Loss.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Ease_of_operation+Convert_harm_into_benefit-Information-Loss.private|Triz-Ease_of_operation+Convert_harm_into_benefit-Information-Loss.private]] 

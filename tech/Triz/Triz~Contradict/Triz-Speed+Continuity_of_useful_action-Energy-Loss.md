@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Speed+Continuity_of_useful_action-Energy-Loss.md|Triz-Speed+Continuity_of_useful_action-Energy-Loss]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Speed+Continuity_of_useful_action-Energy-Loss|Triz-Speed+Continuity_of_useful_action-Energy-Loss]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Speed+Continuity_of_useful_action-Energy-Loss.public|Triz-Speed+Continuity_of_useful_action-Energy-Loss.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Speed+Continuity_of_useful_action-Energy-Loss.internal|Triz-Speed+Continuity_of_useful_action-Energy-Loss.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Speed+Continuity_of_useful_action-Energy-Loss.protect|Triz-Speed+Continuity_of_useful_action-Energy-Loss.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Speed+Continuity_of_useful_action-Energy-Loss.private|Triz-Speed+Continuity_of_useful_action-Energy-Loss.private]] 

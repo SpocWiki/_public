@@ -17,7 +17,8 @@ tags:
 Empty Grain from Containers (Ship or Railroad) by inverting them.
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Example/Triz-Empty_by_inverting.md|Triz-Empty_by_inverting]] 
+- [[../../../../_Standards/tech/Triz/Example/Triz-Empty_by_inverting|Triz-Empty_by_inverting]] 
+- [[../../../../_public/tech/Triz/Example/Triz-Empty_by_inverting.public|Triz-Empty_by_inverting.public]] 
 - [[../../../../_internal/tech/Triz/Example/Triz-Empty_by_inverting.internal|Triz-Empty_by_inverting.internal]] 
 - [[../../../../_protect/tech/Triz/Example/Triz-Empty_by_inverting.protect|Triz-Empty_by_inverting.protect]] 
 - [[../../../../_private/tech/Triz/Example/Triz-Empty_by_inverting.private|Triz-Empty_by_inverting.private]] 

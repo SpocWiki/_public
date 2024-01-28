@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Energy-Loss+Extraction-Automation.md|Triz-Energy-Loss+Extraction-Automation]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Energy-Loss+Extraction-Automation|Triz-Energy-Loss+Extraction-Automation]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Energy-Loss+Extraction-Automation.public|Triz-Energy-Loss+Extraction-Automation.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Energy-Loss+Extraction-Automation.internal|Triz-Energy-Loss+Extraction-Automation.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Energy-Loss+Extraction-Automation.protect|Triz-Energy-Loss+Extraction-Automation.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Energy-Loss+Extraction-Automation.private|Triz-Energy-Loss+Extraction-Automation.private]] 

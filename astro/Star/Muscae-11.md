@@ -27,7 +27,8 @@ confidential: public
 
 
 ## Confidential Links & Embeds: 
-- [[../../../_public/astro/Star/Muscae-11.md|Muscae-11]] 
+- [[../../../_Standards/astro/Star/Muscae-11|Muscae-11]] 
+- [[../../../_public/astro/Star/Muscae-11.public|Muscae-11.public]] 
 - [[../../../_internal/astro/Star/Muscae-11.internal|Muscae-11.internal]] 
 - [[../../../_protect/astro/Star/Muscae-11.protect|Muscae-11.protect]] 
 - [[../../../_private/astro/Star/Muscae-11.private|Muscae-11.private]] 

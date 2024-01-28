@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Information-Loss+Replacement_of_a_mechanical_system-Reliability.md|Triz-Information-Loss+Replacement_of_a_mechanical_system-Reliability]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Information-Loss+Replacement_of_a_mechanical_system-Reliability|Triz-Information-Loss+Replacement_of_a_mechanical_system-Reliability]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Information-Loss+Replacement_of_a_mechanical_system-Reliability.public|Triz-Information-Loss+Replacement_of_a_mechanical_system-Reliability.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Information-Loss+Replacement_of_a_mechanical_system-Reliability.internal|Triz-Information-Loss+Replacement_of_a_mechanical_system-Reliability.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Information-Loss+Replacement_of_a_mechanical_system-Reliability.protect|Triz-Information-Loss+Replacement_of_a_mechanical_system-Reliability.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Information-Loss+Replacement_of_a_mechanical_system-Reliability.private|Triz-Information-Loss+Replacement_of_a_mechanical_system-Reliability.private]] 

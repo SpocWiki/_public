@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Energy-Loss+Prior_counteracion-stationary_Weight.md|Triz-Energy-Loss+Prior_counteracion-stationary_Weight]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Energy-Loss+Prior_counteracion-stationary_Weight|Triz-Energy-Loss+Prior_counteracion-stationary_Weight]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Energy-Loss+Prior_counteracion-stationary_Weight.public|Triz-Energy-Loss+Prior_counteracion-stationary_Weight.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Energy-Loss+Prior_counteracion-stationary_Weight.internal|Triz-Energy-Loss+Prior_counteracion-stationary_Weight.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Energy-Loss+Prior_counteracion-stationary_Weight.protect|Triz-Energy-Loss+Prior_counteracion-stationary_Weight.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Energy-Loss+Prior_counteracion-stationary_Weight.private|Triz-Energy-Loss+Prior_counteracion-stationary_Weight.private]] 

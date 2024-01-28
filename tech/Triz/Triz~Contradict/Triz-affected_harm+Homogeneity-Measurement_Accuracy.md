@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-affected_harm+Homogeneity-Measurement_Accuracy.md|Triz-affected_harm+Homogeneity-Measurement_Accuracy]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-affected_harm+Homogeneity-Measurement_Accuracy|Triz-affected_harm+Homogeneity-Measurement_Accuracy]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-affected_harm+Homogeneity-Measurement_Accuracy.public|Triz-affected_harm+Homogeneity-Measurement_Accuracy.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-affected_harm+Homogeneity-Measurement_Accuracy.internal|Triz-affected_harm+Homogeneity-Measurement_Accuracy.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-affected_harm+Homogeneity-Measurement_Accuracy.protect|Triz-affected_harm+Homogeneity-Measurement_Accuracy.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-affected_harm+Homogeneity-Measurement_Accuracy.private|Triz-affected_harm+Homogeneity-Measurement_Accuracy.private]] 

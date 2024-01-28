@@ -17,7 +17,8 @@ tags:
 Use a high Speed Dentist's Drill to avoid Heating Tissue.
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Example/Triz-high_Speed_Operation.md|Triz-high_Speed_Operation]] 
+- [[../../../../_Standards/tech/Triz/Example/Triz-high_Speed_Operation|Triz-high_Speed_Operation]] 
+- [[../../../../_public/tech/Triz/Example/Triz-high_Speed_Operation.public|Triz-high_Speed_Operation.public]] 
 - [[../../../../_internal/tech/Triz/Example/Triz-high_Speed_Operation.internal|Triz-high_Speed_Operation.internal]] 
 - [[../../../../_protect/tech/Triz/Example/Triz-high_Speed_Operation.protect|Triz-high_Speed_Operation.protect]] 
 - [[../../../../_private/tech/Triz/Example/Triz-high_Speed_Operation.private|Triz-high_Speed_Operation.private]] 

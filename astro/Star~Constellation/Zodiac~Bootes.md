@@ -16,7 +16,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../_public/astro/Zodiac/Zodiac~Bootes.md|Zodiac~Bootes]] 
+- [[../../../_Standards/astro/Zodiac/Zodiac~Bootes|Zodiac~Bootes]] 
+- [[../../../_public/astro/Zodiac/Zodiac~Bootes.public|Zodiac~Bootes.public]] 
 - [[../../../_internal/astro/Zodiac/Zodiac~Bootes.internal|Zodiac~Bootes.internal]] 
 - [[../../../_protect/astro/Zodiac/Zodiac~Bootes.protect|Zodiac~Bootes.protect]] 
 - [[../../../_private/astro/Zodiac/Zodiac~Bootes.private|Zodiac~Bootes.private]] 

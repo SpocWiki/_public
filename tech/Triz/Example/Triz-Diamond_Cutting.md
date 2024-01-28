@@ -17,7 +17,8 @@ tags:
 Make a Diamond Cutting Tool out of Diamonds.
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Example/Triz-Diamond_Cutting.md|Triz-Diamond_Cutting]] 
+- [[../../../../_Standards/tech/Triz/Example/Triz-Diamond_Cutting|Triz-Diamond_Cutting]] 
+- [[../../../../_public/tech/Triz/Example/Triz-Diamond_Cutting.public|Triz-Diamond_Cutting.public]] 
 - [[../../../../_internal/tech/Triz/Example/Triz-Diamond_Cutting.internal|Triz-Diamond_Cutting.internal]] 
 - [[../../../../_protect/tech/Triz/Example/Triz-Diamond_Cutting.protect|Triz-Diamond_Cutting.protect]] 
 - [[../../../../_private/tech/Triz/Example/Triz-Diamond_Cutting.private|Triz-Diamond_Cutting.private]] 

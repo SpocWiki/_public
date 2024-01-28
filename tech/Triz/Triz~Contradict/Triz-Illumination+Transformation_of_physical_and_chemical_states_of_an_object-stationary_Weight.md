@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Illumination+Transformation_of_physical_and_chemical_states_of_an_object-stationary_Weight.md|Triz-Illumination+Transformation_of_physical_and_chemical_states_of_an_object-stationary_Weight]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Illumination+Transformation_of_physical_and_chemical_states_of_an_object-stationary_Weight|Triz-Illumination+Transformation_of_physical_and_chemical_states_of_an_object-stationary_Weight]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Illumination+Transformation_of_physical_and_chemical_states_of_an_object-stationary_Weight.public|Triz-Illumination+Transformation_of_physical_and_chemical_states_of_an_object-stationary_Weight.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Illumination+Transformation_of_physical_and_chemical_states_of_an_object-stationary_Weight.internal|Triz-Illumination+Transformation_of_physical_and_chemical_states_of_an_object-stationary_Weight.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Illumination+Transformation_of_physical_and_chemical_states_of_an_object-stationary_Weight.protect|Triz-Illumination+Transformation_of_physical_and_chemical_states_of_an_object-stationary_Weight.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Illumination+Transformation_of_physical_and_chemical_states_of_an_object-stationary_Weight.private|Triz-Illumination+Transformation_of_physical_and_chemical_states_of_an_object-stationary_Weight.private]] 

@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-moving_Area+Flexible_film_or_thin_membranes-Intensity.md|Triz-moving_Area+Flexible_film_or_thin_membranes-Intensity]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-moving_Area+Flexible_film_or_thin_membranes-Intensity|Triz-moving_Area+Flexible_film_or_thin_membranes-Intensity]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-moving_Area+Flexible_film_or_thin_membranes-Intensity.public|Triz-moving_Area+Flexible_film_or_thin_membranes-Intensity.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-moving_Area+Flexible_film_or_thin_membranes-Intensity.internal|Triz-moving_Area+Flexible_film_or_thin_membranes-Intensity.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-moving_Area+Flexible_film_or_thin_membranes-Intensity.protect|Triz-moving_Area+Flexible_film_or_thin_membranes-Intensity.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-moving_Area+Flexible_film_or_thin_membranes-Intensity.private|Triz-moving_Area+Flexible_film_or_thin_membranes-Intensity.private]] 

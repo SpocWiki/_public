@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-moving_Area+Spheroidality-Automation.md|Triz-moving_Area+Spheroidality-Automation]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-moving_Area+Spheroidality-Automation|Triz-moving_Area+Spheroidality-Automation]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-moving_Area+Spheroidality-Automation.public|Triz-moving_Area+Spheroidality-Automation.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-moving_Area+Spheroidality-Automation.internal|Triz-moving_Area+Spheroidality-Automation.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-moving_Area+Spheroidality-Automation.protect|Triz-moving_Area+Spheroidality-Automation.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-moving_Area+Spheroidality-Automation.private|Triz-moving_Area+Spheroidality-Automation.private]] 

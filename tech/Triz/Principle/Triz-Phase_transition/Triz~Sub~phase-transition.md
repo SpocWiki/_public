@@ -25,7 +25,8 @@ Use phenomena occurring during phase transitions (e.g. volume changes, loss or a
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Sub/Triz-phase-transition.md|Triz-phase-transition]] 
+- [[../../../../_Standards/tech/Triz/Sub/Triz-phase-transition|Triz-phase-transition]] 
+- [[../../../../_public/tech/Triz/Sub/Triz-phase-transition.public|Triz-phase-transition.public]] 
 - [[../../../../_internal/tech/Triz/Sub/Triz-phase-transition.internal|Triz-phase-transition.internal]] 
 - [[../../../../_protect/tech/Triz/Sub/Triz-phase-transition.protect|Triz-phase-transition.protect]] 
 - [[../../../../_private/tech/Triz/Sub/Triz-phase-transition.private|Triz-phase-transition.private]] 

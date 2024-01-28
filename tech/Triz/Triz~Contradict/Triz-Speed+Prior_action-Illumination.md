@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Speed+Prior_action-Illumination.md|Triz-Speed+Prior_action-Illumination]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Speed+Prior_action-Illumination|Triz-Speed+Prior_action-Illumination]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Speed+Prior_action-Illumination.public|Triz-Speed+Prior_action-Illumination.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Speed+Prior_action-Illumination.internal|Triz-Speed+Prior_action-Illumination.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Speed+Prior_action-Illumination.protect|Triz-Speed+Prior_action-Illumination.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Speed+Prior_action-Illumination.private|Triz-Speed+Prior_action-Illumination.private]] 

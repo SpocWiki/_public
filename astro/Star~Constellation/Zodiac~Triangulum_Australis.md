@@ -17,7 +17,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../_public/astro/Zodiac/Zodiac~Triangulum_Australis.md|Zodiac~Triangulum_Australis]] 
+- [[../../../_Standards/astro/Zodiac/Zodiac~Triangulum_Australis|Zodiac~Triangulum_Australis]] 
+- [[../../../_public/astro/Zodiac/Zodiac~Triangulum_Australis.public|Zodiac~Triangulum_Australis.public]] 
 - [[../../../_internal/astro/Zodiac/Zodiac~Triangulum_Australis.internal|Zodiac~Triangulum_Australis.internal]] 
 - [[../../../_protect/astro/Zodiac/Zodiac~Triangulum_Australis.protect|Zodiac~Triangulum_Australis.protect]] 
 - [[../../../_private/astro/Zodiac/Zodiac~Triangulum_Australis.private|Zodiac~Triangulum_Australis.private]] 

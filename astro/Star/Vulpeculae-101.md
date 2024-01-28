@@ -27,7 +27,8 @@ confidential: public
 
 
 ## Confidential Links & Embeds: 
-- [[../../../_public/astro/Star/Vulpeculae-101.md|Vulpeculae-101]] 
+- [[../../../_Standards/astro/Star/Vulpeculae-101|Vulpeculae-101]] 
+- [[../../../_public/astro/Star/Vulpeculae-101.public|Vulpeculae-101.public]] 
 - [[../../../_internal/astro/Star/Vulpeculae-101.internal|Vulpeculae-101.internal]] 
 - [[../../../_protect/astro/Star/Vulpeculae-101.protect|Vulpeculae-101.protect]] 
 - [[../../../_private/astro/Star/Vulpeculae-101.private|Vulpeculae-101.private]] 

@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Ease_of_operation+Inversion-Speed.md|Triz-Ease_of_operation+Inversion-Speed]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Ease_of_operation+Inversion-Speed|Triz-Ease_of_operation+Inversion-Speed]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Ease_of_operation+Inversion-Speed.public|Triz-Ease_of_operation+Inversion-Speed.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Ease_of_operation+Inversion-Speed.internal|Triz-Ease_of_operation+Inversion-Speed.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Ease_of_operation+Inversion-Speed.protect|Triz-Ease_of_operation+Inversion-Speed.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Ease_of_operation+Inversion-Speed.private|Triz-Ease_of_operation+Inversion-Speed.private]] 

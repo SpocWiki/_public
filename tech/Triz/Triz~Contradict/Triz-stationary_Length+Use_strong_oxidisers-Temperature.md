@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-stationary_Length+Use_strong_oxidisers-Temperature.md|Triz-stationary_Length+Use_strong_oxidisers-Temperature]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-stationary_Length+Use_strong_oxidisers-Temperature|Triz-stationary_Length+Use_strong_oxidisers-Temperature]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-stationary_Length+Use_strong_oxidisers-Temperature.public|Triz-stationary_Length+Use_strong_oxidisers-Temperature.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-stationary_Length+Use_strong_oxidisers-Temperature.internal|Triz-stationary_Length+Use_strong_oxidisers-Temperature.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-stationary_Length+Use_strong_oxidisers-Temperature.protect|Triz-stationary_Length+Use_strong_oxidisers-Temperature.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-stationary_Length+Use_strong_oxidisers-Temperature.private|Triz-stationary_Length+Use_strong_oxidisers-Temperature.private]] 

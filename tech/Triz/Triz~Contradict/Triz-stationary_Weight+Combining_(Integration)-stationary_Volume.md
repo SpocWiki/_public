@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-stationary_Weight+Combining_(Integration)-stationary_Volume.md|Triz-stationary_Weight+Combining_(Integration)-stationary_Volume]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-stationary_Weight+Combining_(Integration)-stationary_Volume|Triz-stationary_Weight+Combining_(Integration)-stationary_Volume]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-stationary_Weight+Combining_(Integration)-stationary_Volume.public|Triz-stationary_Weight+Combining_(Integration)-stationary_Volume.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-stationary_Weight+Combining_(Integration)-stationary_Volume.internal|Triz-stationary_Weight+Combining_(Integration)-stationary_Volume.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-stationary_Weight+Combining_(Integration)-stationary_Volume.protect|Triz-stationary_Weight+Combining_(Integration)-stationary_Volume.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-stationary_Weight+Combining_(Integration)-stationary_Volume.private|Triz-stationary_Weight+Combining_(Integration)-stationary_Volume.private]] 

@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-affected_harm+Cushion_in_advance-Versatility.md|Triz-affected_harm+Cushion_in_advance-Versatility]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-affected_harm+Cushion_in_advance-Versatility|Triz-affected_harm+Cushion_in_advance-Versatility]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-affected_harm+Cushion_in_advance-Versatility.public|Triz-affected_harm+Cushion_in_advance-Versatility.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-affected_harm+Cushion_in_advance-Versatility.internal|Triz-affected_harm+Cushion_in_advance-Versatility.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-affected_harm+Cushion_in_advance-Versatility.protect|Triz-affected_harm+Cushion_in_advance-Versatility.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-affected_harm+Cushion_in_advance-Versatility.private|Triz-affected_harm+Cushion_in_advance-Versatility.private]] 

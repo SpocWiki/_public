@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-moving_Length+Use_a_pneumatic_or_hydralic_construction-Ease_of_manufacture.md|Triz-moving_Length+Use_a_pneumatic_or_hydralic_construction-Ease_of_manufacture]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-moving_Length+Use_a_pneumatic_or_hydralic_construction-Ease_of_manufacture|Triz-moving_Length+Use_a_pneumatic_or_hydralic_construction-Ease_of_manufacture]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-moving_Length+Use_a_pneumatic_or_hydralic_construction-Ease_of_manufacture.public|Triz-moving_Length+Use_a_pneumatic_or_hydralic_construction-Ease_of_manufacture.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-moving_Length+Use_a_pneumatic_or_hydralic_construction-Ease_of_manufacture.internal|Triz-moving_Length+Use_a_pneumatic_or_hydralic_construction-Ease_of_manufacture.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-moving_Length+Use_a_pneumatic_or_hydralic_construction-Ease_of_manufacture.protect|Triz-moving_Length+Use_a_pneumatic_or_hydralic_construction-Ease_of_manufacture.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-moving_Length+Use_a_pneumatic_or_hydralic_construction-Ease_of_manufacture.private|Triz-moving_Length+Use_a_pneumatic_or_hydralic_construction-Ease_of_manufacture.private]] 

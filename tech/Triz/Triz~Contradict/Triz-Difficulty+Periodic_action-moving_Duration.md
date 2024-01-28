@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Difficulty+Periodic_action-moving_Duration.md|Triz-Difficulty+Periodic_action-moving_Duration]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Difficulty+Periodic_action-moving_Duration|Triz-Difficulty+Periodic_action-moving_Duration]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Difficulty+Periodic_action-moving_Duration.public|Triz-Difficulty+Periodic_action-moving_Duration.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Difficulty+Periodic_action-moving_Duration.internal|Triz-Difficulty+Periodic_action-moving_Duration.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Difficulty+Periodic_action-moving_Duration.protect|Triz-Difficulty+Periodic_action-moving_Duration.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Difficulty+Periodic_action-moving_Duration.private|Triz-Difficulty+Periodic_action-moving_Duration.private]] 

@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Difficulty+Inversion-Shape.md|Triz-Difficulty+Inversion-Shape]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Difficulty+Inversion-Shape|Triz-Difficulty+Inversion-Shape]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Difficulty+Inversion-Shape.public|Triz-Difficulty+Inversion-Shape.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Difficulty+Inversion-Shape.internal|Triz-Difficulty+Inversion-Shape.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Difficulty+Inversion-Shape.protect|Triz-Difficulty+Inversion-Shape.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Difficulty+Inversion-Shape.private|Triz-Difficulty+Inversion-Shape.private]] 

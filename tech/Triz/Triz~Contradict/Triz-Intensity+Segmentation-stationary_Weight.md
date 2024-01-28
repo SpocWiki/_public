@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Intensity+Segmentation-stationary_Weight.md|Triz-Intensity+Segmentation-stationary_Weight]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Intensity+Segmentation-stationary_Weight|Triz-Intensity+Segmentation-stationary_Weight]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Intensity+Segmentation-stationary_Weight.public|Triz-Intensity+Segmentation-stationary_Weight.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Intensity+Segmentation-stationary_Weight.internal|Triz-Intensity+Segmentation-stationary_Weight.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Intensity+Segmentation-stationary_Weight.protect|Triz-Intensity+Segmentation-stationary_Weight.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Intensity+Segmentation-stationary_Weight.private|Triz-Intensity+Segmentation-stationary_Weight.private]] 

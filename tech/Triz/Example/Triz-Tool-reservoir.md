@@ -17,7 +17,8 @@ tags:
 Handle of a toothbrush contains toothpaste
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Example/Triz-Tool-reservoir.md|Triz-Tool-reservoir]] 
+- [[../../../../_Standards/tech/Triz/Example/Triz-Tool-reservoir|Triz-Tool-reservoir]] 
+- [[../../../../_public/tech/Triz/Example/Triz-Tool-reservoir.public|Triz-Tool-reservoir.public]] 
 - [[../../../../_internal/tech/Triz/Example/Triz-Tool-reservoir.internal|Triz-Tool-reservoir.internal]] 
 - [[../../../../_protect/tech/Triz/Example/Triz-Tool-reservoir.protect|Triz-Tool-reservoir.protect]] 
 - [[../../../../_private/tech/Triz/Example/Triz-Tool-reservoir.private|Triz-Tool-reservoir.private]] 

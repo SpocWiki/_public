@@ -17,7 +17,8 @@ tags:
 Rocket Boosters separate after serving their Function.
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Example/Triz-separate_Rocket_Boosters.md|Triz-separate_Rocket_Boosters]] 
+- [[../../../../_Standards/tech/Triz/Example/Triz-separate_Rocket_Boosters|Triz-separate_Rocket_Boosters]] 
+- [[../../../../_public/tech/Triz/Example/Triz-separate_Rocket_Boosters.public|Triz-separate_Rocket_Boosters.public]] 
 - [[../../../../_internal/tech/Triz/Example/Triz-separate_Rocket_Boosters.internal|Triz-separate_Rocket_Boosters.internal]] 
 - [[../../../../_protect/tech/Triz/Example/Triz-separate_Rocket_Boosters.protect|Triz-separate_Rocket_Boosters.protect]] 
 - [[../../../../_private/tech/Triz/Example/Triz-separate_Rocket_Boosters.private|Triz-separate_Rocket_Boosters.private]] 

@@ -27,7 +27,8 @@ confidential: public
 
 
 ## Confidential Links & Embeds: 
-- [[../../../_public/astro/Star/Errai.md|Errai]] 
+- [[../../../_Standards/astro/Star/Errai|Errai]] 
+- [[../../../_public/astro/Star/Errai.public|Errai.public]] 
 - [[../../../_internal/astro/Star/Errai.internal|Errai.internal]] 
 - [[../../../_protect/astro/Star/Errai.protect|Errai.protect]] 
 - [[../../../_private/astro/Star/Errai.private|Errai.private]] 

@@ -24,7 +24,8 @@ If it will be necessary to do an action with both harmful and useful effects, th
 - 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Sub/Triz-control-harm.md|Triz-control-harm]] 
+- [[../../../../_Standards/tech/Triz/Sub/Triz-control-harm|Triz-control-harm]] 
+- [[../../../../_public/tech/Triz/Sub/Triz-control-harm.public|Triz-control-harm.public]] 
 - [[../../../../_internal/tech/Triz/Sub/Triz-control-harm.internal|Triz-control-harm.internal]] 
 - [[../../../../_protect/tech/Triz/Sub/Triz-control-harm.protect|Triz-control-harm.protect]] 
 - [[../../../../_private/tech/Triz/Sub/Triz-control-harm.private|Triz-control-harm.private]] 

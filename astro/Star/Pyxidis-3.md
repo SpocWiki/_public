@@ -27,7 +27,8 @@ confidential: public
 
 
 ## Confidential Links & Embeds: 
-- [[../../../_public/astro/Star/Pyxidis-3.md|Pyxidis-3]] 
+- [[../../../_Standards/astro/Star/Pyxidis-3|Pyxidis-3]] 
+- [[../../../_public/astro/Star/Pyxidis-3.public|Pyxidis-3.public]] 
 - [[../../../_internal/astro/Star/Pyxidis-3.internal|Pyxidis-3.internal]] 
 - [[../../../_protect/astro/Star/Pyxidis-3.protect|Pyxidis-3.protect]] 
 - [[../../../_private/astro/Star/Pyxidis-3.private|Pyxidis-3.private]] 

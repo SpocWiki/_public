@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Power+Changing_the_color-Manufacturing_Precision.md|Triz-Power+Changing_the_color-Manufacturing_Precision]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Power+Changing_the_color-Manufacturing_Precision|Triz-Power+Changing_the_color-Manufacturing_Precision]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Power+Changing_the_color-Manufacturing_Precision.public|Triz-Power+Changing_the_color-Manufacturing_Precision.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Power+Changing_the_color-Manufacturing_Precision.internal|Triz-Power+Changing_the_color-Manufacturing_Precision.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Power+Changing_the_color-Manufacturing_Precision.protect|Triz-Power+Changing_the_color-Manufacturing_Precision.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Power+Changing_the_color-Manufacturing_Precision.private|Triz-Power+Changing_the_color-Manufacturing_Precision.private]] 

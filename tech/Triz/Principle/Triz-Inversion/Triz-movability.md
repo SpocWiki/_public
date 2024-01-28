@@ -27,7 +27,8 @@ Make movable parts (or the external environment) fixed, and fixed parts movable)
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Sub/Triz-movability.md|Triz-movability]] 
+- [[../../../../_Standards/tech/Triz/Sub/Triz-movability|Triz-movability]] 
+- [[../../../../_public/tech/Triz/Sub/Triz-movability.public|Triz-movability.public]] 
 - [[../../../../_internal/tech/Triz/Sub/Triz-movability.internal|Triz-movability.internal]] 
 - [[../../../../_protect/tech/Triz/Sub/Triz-movability.protect|Triz-movability.protect]] 
 - [[../../../../_private/tech/Triz/Sub/Triz-movability.private|Triz-movability.private]] 

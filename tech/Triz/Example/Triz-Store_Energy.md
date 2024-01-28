@@ -17,7 +17,8 @@ tags:
 Store Energy from decelerating a Vehicle in a hydraulic System, then use the stored Energy to accelerate later.
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Example/Triz-Store_Energy.md|Triz-Store_Energy]] 
+- [[../../../../_Standards/tech/Triz/Example/Triz-Store_Energy|Triz-Store_Energy]] 
+- [[../../../../_public/tech/Triz/Example/Triz-Store_Energy.public|Triz-Store_Energy.public]] 
 - [[../../../../_internal/tech/Triz/Example/Triz-Store_Energy.internal|Triz-Store_Energy.internal]] 
 - [[../../../../_protect/tech/Triz/Example/Triz-Store_Energy.protect|Triz-Store_Energy.protect]] 
 - [[../../../../_private/tech/Triz/Example/Triz-Store_Energy.private|Triz-Store_Energy.private]] 

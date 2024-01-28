@@ -17,7 +17,8 @@ tags:
 Link slats together in Venetian or vertical blinds.
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Example/Triz-Linked_slats.md|Triz-Linked_slats]] 
+- [[../../../../_Standards/tech/Triz/Example/Triz-Linked_slats|Triz-Linked_slats]] 
+- [[../../../../_public/tech/Triz/Example/Triz-Linked_slats.public|Triz-Linked_slats.public]] 
 - [[../../../../_internal/tech/Triz/Example/Triz-Linked_slats.internal|Triz-Linked_slats.internal]] 
 - [[../../../../_protect/tech/Triz/Example/Triz-Linked_slats.protect|Triz-Linked_slats.protect]] 
 - [[../../../../_private/tech/Triz/Example/Triz-Linked_slats.private|Triz-Linked_slats.private]] 

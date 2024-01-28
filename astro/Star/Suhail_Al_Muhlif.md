@@ -27,7 +27,8 @@ confidential: public
 
 
 ## Confidential Links & Embeds: 
-- [[../../../_public/astro/Star/Suhail_Al_Muhlif.md|Suhail_Al_Muhlif]] 
+- [[../../../_Standards/astro/Star/Suhail_Al_Muhlif|Suhail_Al_Muhlif]] 
+- [[../../../_public/astro/Star/Suhail_Al_Muhlif.public|Suhail_Al_Muhlif.public]] 
 - [[../../../_internal/astro/Star/Suhail_Al_Muhlif.internal|Suhail_Al_Muhlif.internal]] 
 - [[../../../_protect/astro/Star/Suhail_Al_Muhlif.protect|Suhail_Al_Muhlif.protect]] 
 - [[../../../_private/astro/Star/Suhail_Al_Muhlif.private|Suhail_Al_Muhlif.private]] 

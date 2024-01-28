@@ -24,7 +24,8 @@ Merge one object temporarily with another (which can be easily removed).
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Sub/Triz-merge-temporarily.md|Triz-merge-temporarily]] 
+- [[../../../../_Standards/tech/Triz/Sub/Triz-merge-temporarily|Triz-merge-temporarily]] 
+- [[../../../../_public/tech/Triz/Sub/Triz-merge-temporarily.public|Triz-merge-temporarily.public]] 
 - [[../../../../_internal/tech/Triz/Sub/Triz-merge-temporarily.internal|Triz-merge-temporarily.internal]] 
 - [[../../../../_protect/tech/Triz/Sub/Triz-merge-temporarily.protect|Triz-merge-temporarily.protect]] 
 - [[../../../../_private/tech/Triz/Sub/Triz-merge-temporarily.private|Triz-merge-temporarily.private]] 

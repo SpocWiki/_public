@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-moving_Area+Mechanical_vibration-Difficulty.md|Triz-moving_Area+Mechanical_vibration-Difficulty]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-moving_Area+Mechanical_vibration-Difficulty|Triz-moving_Area+Mechanical_vibration-Difficulty]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-moving_Area+Mechanical_vibration-Difficulty.public|Triz-moving_Area+Mechanical_vibration-Difficulty.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-moving_Area+Mechanical_vibration-Difficulty.internal|Triz-moving_Area+Mechanical_vibration-Difficulty.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-moving_Area+Mechanical_vibration-Difficulty.protect|Triz-moving_Area+Mechanical_vibration-Difficulty.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-moving_Area+Mechanical_vibration-Difficulty.private|Triz-moving_Area+Mechanical_vibration-Difficulty.private]] 

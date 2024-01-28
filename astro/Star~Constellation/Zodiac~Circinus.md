@@ -16,7 +16,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../_public/astro/Zodiac/Zodiac~Circinus.md|Zodiac~Circinus]] 
+- [[../../../_Standards/astro/Zodiac/Zodiac~Circinus|Zodiac~Circinus]] 
+- [[../../../_public/astro/Zodiac/Zodiac~Circinus.public|Zodiac~Circinus.public]] 
 - [[../../../_internal/astro/Zodiac/Zodiac~Circinus.internal|Zodiac~Circinus.internal]] 
 - [[../../../_protect/astro/Zodiac/Zodiac~Circinus.protect|Zodiac~Circinus.protect]] 
 - [[../../../_private/astro/Zodiac/Zodiac~Circinus.private|Zodiac~Circinus.private]] 

@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-moving_Length+Changing_the_color-Illumination.md|Triz-moving_Length+Changing_the_color-Illumination]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-moving_Length+Changing_the_color-Illumination|Triz-moving_Length+Changing_the_color-Illumination]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-moving_Length+Changing_the_color-Illumination.public|Triz-moving_Length+Changing_the_color-Illumination.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-moving_Length+Changing_the_color-Illumination.internal|Triz-moving_Length+Changing_the_color-Illumination.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-moving_Length+Changing_the_color-Illumination.protect|Triz-moving_Length+Changing_the_color-Illumination.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-moving_Length+Changing_the_color-Illumination.private|Triz-moving_Length+Changing_the_color-Illumination.private]] 

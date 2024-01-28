@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-generated_harm+Composite_materials-stationary_Area.md|Triz-generated_harm+Composite_materials-stationary_Area]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-generated_harm+Composite_materials-stationary_Area|Triz-generated_harm+Composite_materials-stationary_Area]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-generated_harm+Composite_materials-stationary_Area.public|Triz-generated_harm+Composite_materials-stationary_Area.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-generated_harm+Composite_materials-stationary_Area.internal|Triz-generated_harm+Composite_materials-stationary_Area.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-generated_harm+Composite_materials-stationary_Area.protect|Triz-generated_harm+Composite_materials-stationary_Area.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-generated_harm+Composite_materials-stationary_Area.private|Triz-generated_harm+Composite_materials-stationary_Area.private]] 

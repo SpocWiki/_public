@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Stress+Prior_action-moving_Weight.md|Triz-Stress+Prior_action-moving_Weight]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Stress+Prior_action-moving_Weight|Triz-Stress+Prior_action-moving_Weight]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Stress+Prior_action-moving_Weight.public|Triz-Stress+Prior_action-moving_Weight.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Stress+Prior_action-moving_Weight.internal|Triz-Stress+Prior_action-moving_Weight.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Stress+Prior_action-moving_Weight.protect|Triz-Stress+Prior_action-moving_Weight.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Stress+Prior_action-moving_Weight.private|Triz-Stress+Prior_action-moving_Weight.private]] 

@@ -25,7 +25,8 @@ Invert the action(s) used to solve the problem (e.g. instead of cooling an objec
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Sub/Triz-invert-action.md|Triz-invert-action]] 
+- [[../../../../_Standards/tech/Triz/Sub/Triz-invert-action|Triz-invert-action]] 
+- [[../../../../_public/tech/Triz/Sub/Triz-invert-action.public|Triz-invert-action.public]] 
 - [[../../../../_internal/tech/Triz/Sub/Triz-invert-action.internal|Triz-invert-action.internal]] 
 - [[../../../../_protect/tech/Triz/Sub/Triz-invert-action.protect|Triz-invert-action.protect]] 
 - [[../../../../_private/tech/Triz/Sub/Triz-invert-action.private|Triz-invert-action.private]] 

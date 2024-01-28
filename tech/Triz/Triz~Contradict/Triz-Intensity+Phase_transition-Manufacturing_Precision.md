@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Intensity+Phase_transition-Manufacturing_Precision.md|Triz-Intensity+Phase_transition-Manufacturing_Precision]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Intensity+Phase_transition-Manufacturing_Precision|Triz-Intensity+Phase_transition-Manufacturing_Precision]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Intensity+Phase_transition-Manufacturing_Precision.public|Triz-Intensity+Phase_transition-Manufacturing_Precision.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Intensity+Phase_transition-Manufacturing_Precision.internal|Triz-Intensity+Phase_transition-Manufacturing_Precision.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Intensity+Phase_transition-Manufacturing_Precision.protect|Triz-Intensity+Phase_transition-Manufacturing_Precision.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Intensity+Phase_transition-Manufacturing_Precision.private|Triz-Intensity+Phase_transition-Manufacturing_Precision.private]] 

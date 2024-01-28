@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Stability+Transformation_of_physical_and_chemical_states_of_an_object-Difficulty.md|Triz-Stability+Transformation_of_physical_and_chemical_states_of_an_object-Difficulty]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Stability+Transformation_of_physical_and_chemical_states_of_an_object-Difficulty|Triz-Stability+Transformation_of_physical_and_chemical_states_of_an_object-Difficulty]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Stability+Transformation_of_physical_and_chemical_states_of_an_object-Difficulty.public|Triz-Stability+Transformation_of_physical_and_chemical_states_of_an_object-Difficulty.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Stability+Transformation_of_physical_and_chemical_states_of_an_object-Difficulty.internal|Triz-Stability+Transformation_of_physical_and_chemical_states_of_an_object-Difficulty.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Stability+Transformation_of_physical_and_chemical_states_of_an_object-Difficulty.protect|Triz-Stability+Transformation_of_physical_and_chemical_states_of_an_object-Difficulty.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Stability+Transformation_of_physical_and_chemical_states_of_an_object-Difficulty.private|Triz-Stability+Transformation_of_physical_and_chemical_states_of_an_object-Difficulty.private]] 

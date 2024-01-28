@@ -16,7 +16,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../_public/astro/Zodiac/Zodiac~Andromeda.md|Zodiac~Andromeda]] 
+- [[../../../_Standards/astro/Zodiac/Zodiac~Andromeda|Zodiac~Andromeda]] 
+- [[../../../_public/astro/Zodiac/Zodiac~Andromeda.public|Zodiac~Andromeda.public]] 
 - [[../../../_internal/astro/Zodiac/Zodiac~Andromeda.internal|Zodiac~Andromeda.internal]] 
 - [[../../../_protect/astro/Zodiac/Zodiac~Andromeda.protect|Zodiac~Andromeda.protect]] 
 - [[../../../_private/astro/Zodiac/Zodiac~Andromeda.private|Zodiac~Andromeda.private]] 

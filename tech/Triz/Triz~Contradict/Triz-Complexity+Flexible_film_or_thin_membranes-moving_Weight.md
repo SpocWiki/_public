@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Complexity+Flexible_film_or_thin_membranes-moving_Weight.md|Triz-Complexity+Flexible_film_or_thin_membranes-moving_Weight]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Complexity+Flexible_film_or_thin_membranes-moving_Weight|Triz-Complexity+Flexible_film_or_thin_membranes-moving_Weight]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Complexity+Flexible_film_or_thin_membranes-moving_Weight.public|Triz-Complexity+Flexible_film_or_thin_membranes-moving_Weight.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Complexity+Flexible_film_or_thin_membranes-moving_Weight.internal|Triz-Complexity+Flexible_film_or_thin_membranes-moving_Weight.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Complexity+Flexible_film_or_thin_membranes-moving_Weight.protect|Triz-Complexity+Flexible_film_or_thin_membranes-moving_Weight.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Complexity+Flexible_film_or_thin_membranes-moving_Weight.private|Triz-Complexity+Flexible_film_or_thin_membranes-moving_Weight.private]] 

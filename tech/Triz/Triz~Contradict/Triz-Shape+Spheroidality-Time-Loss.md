@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Shape+Spheroidality-Time-Loss.md|Triz-Shape+Spheroidality-Time-Loss]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Shape+Spheroidality-Time-Loss|Triz-Shape+Spheroidality-Time-Loss]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Shape+Spheroidality-Time-Loss.public|Triz-Shape+Spheroidality-Time-Loss.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Shape+Spheroidality-Time-Loss.internal|Triz-Shape+Spheroidality-Time-Loss.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Shape+Spheroidality-Time-Loss.protect|Triz-Shape+Spheroidality-Time-Loss.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Shape+Spheroidality-Time-Loss.private|Triz-Shape+Spheroidality-Time-Loss.private]] 

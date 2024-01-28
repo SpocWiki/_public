@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Versatility+Partial,_overdone,_or_excessive_action-Ease_of_repair.md|Triz-Versatility+Partial,_overdone,_or_excessive_action-Ease_of_repair]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Versatility+Partial,_overdone,_or_excessive_action-Ease_of_repair|Triz-Versatility+Partial,_overdone,_or_excessive_action-Ease_of_repair]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Versatility+Partial,_overdone,_or_excessive_action-Ease_of_repair.public|Triz-Versatility+Partial,_overdone,_or_excessive_action-Ease_of_repair.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Versatility+Partial,_overdone,_or_excessive_action-Ease_of_repair.internal|Triz-Versatility+Partial,_overdone,_or_excessive_action-Ease_of_repair.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Versatility+Partial,_overdone,_or_excessive_action-Ease_of_repair.protect|Triz-Versatility+Partial,_overdone,_or_excessive_action-Ease_of_repair.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Versatility+Partial,_overdone,_or_excessive_action-Ease_of_repair.private|Triz-Versatility+Partial,_overdone,_or_excessive_action-Ease_of_repair.private]] 

@@ -27,7 +27,8 @@ confidential: public
 
 
 ## Confidential Links & Embeds: 
-- [[../../../_public/astro/Star/Aurigae-6.md|Aurigae-6]] 
+- [[../../../_Standards/astro/Star/Aurigae-6|Aurigae-6]] 
+- [[../../../_public/astro/Star/Aurigae-6.public|Aurigae-6.public]] 
 - [[../../../_internal/astro/Star/Aurigae-6.internal|Aurigae-6.internal]] 
 - [[../../../_protect/astro/Star/Aurigae-6.protect|Aurigae-6.protect]] 
 - [[../../../_private/astro/Star/Aurigae-6.private|Aurigae-6.private]] 

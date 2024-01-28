@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Power+Rejecting_and_regenerating_parts-Quantity.md|Triz-Power+Rejecting_and_regenerating_parts-Quantity]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Power+Rejecting_and_regenerating_parts-Quantity|Triz-Power+Rejecting_and_regenerating_parts-Quantity]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Power+Rejecting_and_regenerating_parts-Quantity.public|Triz-Power+Rejecting_and_regenerating_parts-Quantity.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Power+Rejecting_and_regenerating_parts-Quantity.internal|Triz-Power+Rejecting_and_regenerating_parts-Quantity.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Power+Rejecting_and_regenerating_parts-Quantity.protect|Triz-Power+Rejecting_and_regenerating_parts-Quantity.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Power+Rejecting_and_regenerating_parts-Quantity.private|Triz-Power+Rejecting_and_regenerating_parts-Quantity.private]] 

@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Measurement_Accuracy+Partial,_overdone,_or_excessive_action-Substance-Loss.md|Triz-Measurement_Accuracy+Partial,_overdone,_or_excessive_action-Substance-Loss]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Measurement_Accuracy+Partial,_overdone,_or_excessive_action-Substance-Loss|Triz-Measurement_Accuracy+Partial,_overdone,_or_excessive_action-Substance-Loss]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Measurement_Accuracy+Partial,_overdone,_or_excessive_action-Substance-Loss.public|Triz-Measurement_Accuracy+Partial,_overdone,_or_excessive_action-Substance-Loss.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Measurement_Accuracy+Partial,_overdone,_or_excessive_action-Substance-Loss.internal|Triz-Measurement_Accuracy+Partial,_overdone,_or_excessive_action-Substance-Loss.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Measurement_Accuracy+Partial,_overdone,_or_excessive_action-Substance-Loss.protect|Triz-Measurement_Accuracy+Partial,_overdone,_or_excessive_action-Substance-Loss.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Measurement_Accuracy+Partial,_overdone,_or_excessive_action-Substance-Loss.private|Triz-Measurement_Accuracy+Partial,_overdone,_or_excessive_action-Substance-Loss.private]] 

@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-stationary_Weight+Inversion-Stress.md|Triz-stationary_Weight+Inversion-Stress]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-stationary_Weight+Inversion-Stress|Triz-stationary_Weight+Inversion-Stress]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-stationary_Weight+Inversion-Stress.public|Triz-stationary_Weight+Inversion-Stress.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-stationary_Weight+Inversion-Stress.internal|Triz-stationary_Weight+Inversion-Stress.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-stationary_Weight+Inversion-Stress.protect|Triz-stationary_Weight+Inversion-Stress.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-stationary_Weight+Inversion-Stress.private|Triz-stationary_Weight+Inversion-Stress.private]] 

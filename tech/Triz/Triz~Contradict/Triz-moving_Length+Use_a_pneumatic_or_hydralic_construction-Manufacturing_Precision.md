@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-moving_Length+Use_a_pneumatic_or_hydralic_construction-Manufacturing_Precision.md|Triz-moving_Length+Use_a_pneumatic_or_hydralic_construction-Manufacturing_Precision]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-moving_Length+Use_a_pneumatic_or_hydralic_construction-Manufacturing_Precision|Triz-moving_Length+Use_a_pneumatic_or_hydralic_construction-Manufacturing_Precision]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-moving_Length+Use_a_pneumatic_or_hydralic_construction-Manufacturing_Precision.public|Triz-moving_Length+Use_a_pneumatic_or_hydralic_construction-Manufacturing_Precision.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-moving_Length+Use_a_pneumatic_or_hydralic_construction-Manufacturing_Precision.internal|Triz-moving_Length+Use_a_pneumatic_or_hydralic_construction-Manufacturing_Precision.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-moving_Length+Use_a_pneumatic_or_hydralic_construction-Manufacturing_Precision.protect|Triz-moving_Length+Use_a_pneumatic_or_hydralic_construction-Manufacturing_Precision.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-moving_Length+Use_a_pneumatic_or_hydralic_construction-Manufacturing_Precision.private|Triz-moving_Length+Use_a_pneumatic_or_hydralic_construction-Manufacturing_Precision.private]] 

@@ -27,7 +27,8 @@ confidential: public
 
 
 ## Confidential Links & Embeds: 
-- [[../../../_public/astro/Star/Leonis-154.md|Leonis-154]] 
+- [[../../../_Standards/astro/Star/Leonis-154|Leonis-154]] 
+- [[../../../_public/astro/Star/Leonis-154.public|Leonis-154.public]] 
 - [[../../../_internal/astro/Star/Leonis-154.internal|Leonis-154.internal]] 
 - [[../../../_protect/astro/Star/Leonis-154.protect|Leonis-154.protect]] 
 - [[../../../_private/astro/Star/Leonis-154.private|Leonis-154.private]] 

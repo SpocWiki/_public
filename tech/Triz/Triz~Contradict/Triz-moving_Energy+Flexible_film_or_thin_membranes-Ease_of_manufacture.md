@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-moving_Energy+Flexible_film_or_thin_membranes-Ease_of_manufacture.md|Triz-moving_Energy+Flexible_film_or_thin_membranes-Ease_of_manufacture]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-moving_Energy+Flexible_film_or_thin_membranes-Ease_of_manufacture|Triz-moving_Energy+Flexible_film_or_thin_membranes-Ease_of_manufacture]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-moving_Energy+Flexible_film_or_thin_membranes-Ease_of_manufacture.public|Triz-moving_Energy+Flexible_film_or_thin_membranes-Ease_of_manufacture.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-moving_Energy+Flexible_film_or_thin_membranes-Ease_of_manufacture.internal|Triz-moving_Energy+Flexible_film_or_thin_membranes-Ease_of_manufacture.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-moving_Energy+Flexible_film_or_thin_membranes-Ease_of_manufacture.protect|Triz-moving_Energy+Flexible_film_or_thin_membranes-Ease_of_manufacture.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-moving_Energy+Flexible_film_or_thin_membranes-Ease_of_manufacture.private|Triz-moving_Energy+Flexible_film_or_thin_membranes-Ease_of_manufacture.private]] 

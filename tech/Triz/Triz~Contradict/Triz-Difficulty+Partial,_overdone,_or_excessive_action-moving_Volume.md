@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Difficulty+Partial,_overdone,_or_excessive_action-moving_Volume.md|Triz-Difficulty+Partial,_overdone,_or_excessive_action-moving_Volume]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Difficulty+Partial,_overdone,_or_excessive_action-moving_Volume|Triz-Difficulty+Partial,_overdone,_or_excessive_action-moving_Volume]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Difficulty+Partial,_overdone,_or_excessive_action-moving_Volume.public|Triz-Difficulty+Partial,_overdone,_or_excessive_action-moving_Volume.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Difficulty+Partial,_overdone,_or_excessive_action-moving_Volume.internal|Triz-Difficulty+Partial,_overdone,_or_excessive_action-moving_Volume.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Difficulty+Partial,_overdone,_or_excessive_action-moving_Volume.protect|Triz-Difficulty+Partial,_overdone,_or_excessive_action-moving_Volume.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Difficulty+Partial,_overdone,_or_excessive_action-moving_Volume.private|Triz-Difficulty+Partial,_overdone,_or_excessive_action-moving_Volume.private]] 

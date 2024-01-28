@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-stationary_Energy+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Stability.md|Triz-stationary_Energy+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Stability]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-stationary_Energy+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Stability|Triz-stationary_Energy+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Stability]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-stationary_Energy+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Stability.public|Triz-stationary_Energy+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Stability.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-stationary_Energy+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Stability.internal|Triz-stationary_Energy+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Stability.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-stationary_Energy+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Stability.protect|Triz-stationary_Energy+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Stability.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-stationary_Energy+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Stability.private|Triz-stationary_Energy+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Stability.private]] 

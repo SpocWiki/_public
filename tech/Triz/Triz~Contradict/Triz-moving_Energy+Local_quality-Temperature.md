@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-moving_Energy+Local_quality-Temperature.md|Triz-moving_Energy+Local_quality-Temperature]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-moving_Energy+Local_quality-Temperature|Triz-moving_Energy+Local_quality-Temperature]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-moving_Energy+Local_quality-Temperature.public|Triz-moving_Energy+Local_quality-Temperature.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-moving_Energy+Local_quality-Temperature.internal|Triz-moving_Energy+Local_quality-Temperature.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-moving_Energy+Local_quality-Temperature.protect|Triz-moving_Energy+Local_quality-Temperature.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-moving_Energy+Local_quality-Temperature.private|Triz-moving_Energy+Local_quality-Temperature.private]] 

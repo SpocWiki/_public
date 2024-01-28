@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Substance-Loss+Prior_action-moving_Length.md|Triz-Substance-Loss+Prior_action-moving_Length]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Substance-Loss+Prior_action-moving_Length|Triz-Substance-Loss+Prior_action-moving_Length]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Substance-Loss+Prior_action-moving_Length.public|Triz-Substance-Loss+Prior_action-moving_Length.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Substance-Loss+Prior_action-moving_Length.internal|Triz-Substance-Loss+Prior_action-moving_Length.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Substance-Loss+Prior_action-moving_Length.protect|Triz-Substance-Loss+Prior_action-moving_Length.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Substance-Loss+Prior_action-moving_Length.private|Triz-Substance-Loss+Prior_action-moving_Length.private]] 

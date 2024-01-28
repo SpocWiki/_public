@@ -27,7 +27,8 @@ confidential: public
 
 
 ## Confidential Links & Embeds: 
-- [[../../../_public/astro/Star/Hydrae-8.md|Hydrae-8]] 
+- [[../../../_Standards/astro/Star/Hydrae-8|Hydrae-8]] 
+- [[../../../_public/astro/Star/Hydrae-8.public|Hydrae-8.public]] 
 - [[../../../_internal/astro/Star/Hydrae-8.internal|Hydrae-8.internal]] 
 - [[../../../_protect/astro/Star/Hydrae-8.protect|Hydrae-8.protect]] 
 - [[../../../_private/astro/Star/Hydrae-8.private|Hydrae-8.private]] 

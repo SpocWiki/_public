@@ -17,7 +17,8 @@ tags:
 Prevent Degradation of a hot Metal Filament by using an Argon Atmosphere.
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Example/Triz-Argon_Atmosphere.md|Triz-Argon_Atmosphere]] 
+- [[../../../../_Standards/tech/Triz/Example/Triz-Argon_Atmosphere|Triz-Argon_Atmosphere]] 
+- [[../../../../_public/tech/Triz/Example/Triz-Argon_Atmosphere.public|Triz-Argon_Atmosphere.public]] 
 - [[../../../../_internal/tech/Triz/Example/Triz-Argon_Atmosphere.internal|Triz-Argon_Atmosphere.internal]] 
 - [[../../../../_protect/tech/Triz/Example/Triz-Argon_Atmosphere.protect|Triz-Argon_Atmosphere.protect]] 
 - [[../../../../_private/tech/Triz/Example/Triz-Argon_Atmosphere.private|Triz-Argon_Atmosphere.private]] 

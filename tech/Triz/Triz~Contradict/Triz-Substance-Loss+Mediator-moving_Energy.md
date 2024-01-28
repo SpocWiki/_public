@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Substance-Loss+Mediator-moving_Energy.md|Triz-Substance-Loss+Mediator-moving_Energy]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Substance-Loss+Mediator-moving_Energy|Triz-Substance-Loss+Mediator-moving_Energy]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Substance-Loss+Mediator-moving_Energy.public|Triz-Substance-Loss+Mediator-moving_Energy.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Substance-Loss+Mediator-moving_Energy.internal|Triz-Substance-Loss+Mediator-moving_Energy.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Substance-Loss+Mediator-moving_Energy.protect|Triz-Substance-Loss+Mediator-moving_Energy.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Substance-Loss+Mediator-moving_Energy.private|Triz-Substance-Loss+Mediator-moving_Energy.private]] 

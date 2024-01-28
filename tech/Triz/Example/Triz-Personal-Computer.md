@@ -17,7 +17,8 @@ tags:
 Replace Mainframe Computer by Personal Computers.
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Example/Triz-Personal-Computer.md|Triz-Personal-Computer]] 
+- [[../../../../_Standards/tech/Triz/Example/Triz-Personal-Computer|Triz-Personal-Computer]] 
+- [[../../../../_public/tech/Triz/Example/Triz-Personal-Computer.public|Triz-Personal-Computer.public]] 
 - [[../../../../_internal/tech/Triz/Example/Triz-Personal-Computer.internal|Triz-Personal-Computer.internal]] 
 - [[../../../../_protect/tech/Triz/Example/Triz-Personal-Computer.protect|Triz-Personal-Computer.protect]] 
 - [[../../../../_private/tech/Triz/Example/Triz-Personal-Computer.private|Triz-Personal-Computer.private]] 

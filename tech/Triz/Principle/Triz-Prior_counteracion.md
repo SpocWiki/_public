@@ -14,7 +14,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Principle/Triz-Prior_counteracion.md|Triz-Prior_counteracion]] 
+- [[../../../../_Standards/tech/Triz/Principle/Triz-Prior_counteracion|Triz-Prior_counteracion]] 
+- [[../../../../_public/tech/Triz/Principle/Triz-Prior_counteracion.public|Triz-Prior_counteracion.public]] 
 - [[../../../../_internal/tech/Triz/Principle/Triz-Prior_counteracion.internal|Triz-Prior_counteracion.internal]] 
 - [[../../../../_protect/tech/Triz/Principle/Triz-Prior_counteracion.protect|Triz-Prior_counteracion.protect]] 
 - [[../../../../_private/tech/Triz/Principle/Triz-Prior_counteracion.private|Triz-Prior_counteracion.private]] 

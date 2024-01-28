@@ -17,7 +17,8 @@ tags:
 Use Food and Lawn Waste to create Compost.
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Example/Triz-Compost.md|Triz-Compost]] 
+- [[../../../../_Standards/tech/Triz/Example/Triz-Compost|Triz-Compost]] 
+- [[../../../../_public/tech/Triz/Example/Triz-Compost.public|Triz-Compost.public]] 
 - [[../../../../_internal/tech/Triz/Example/Triz-Compost.internal|Triz-Compost.internal]] 
 - [[../../../../_protect/tech/Triz/Example/Triz-Compost.protect|Triz-Compost.protect]] 
 - [[../../../../_private/tech/Triz/Example/Triz-Compost.private|Triz-Compost.private]] 

@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Versatility+Inversion-Ease_of_manufacture.md|Triz-Versatility+Inversion-Ease_of_manufacture]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Versatility+Inversion-Ease_of_manufacture|Triz-Versatility+Inversion-Ease_of_manufacture]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Versatility+Inversion-Ease_of_manufacture.public|Triz-Versatility+Inversion-Ease_of_manufacture.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Versatility+Inversion-Ease_of_manufacture.internal|Triz-Versatility+Inversion-Ease_of_manufacture.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Versatility+Inversion-Ease_of_manufacture.protect|Triz-Versatility+Inversion-Ease_of_manufacture.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Versatility+Inversion-Ease_of_manufacture.private|Triz-Versatility+Inversion-Ease_of_manufacture.private]] 

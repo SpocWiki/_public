@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Quantity+Dynamicity-Versatility.md|Triz-Quantity+Dynamicity-Versatility]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Quantity+Dynamicity-Versatility|Triz-Quantity+Dynamicity-Versatility]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Quantity+Dynamicity-Versatility.public|Triz-Quantity+Dynamicity-Versatility.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Quantity+Dynamicity-Versatility.internal|Triz-Quantity+Dynamicity-Versatility.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Quantity+Dynamicity-Versatility.protect|Triz-Quantity+Dynamicity-Versatility.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Quantity+Dynamicity-Versatility.private|Triz-Quantity+Dynamicity-Versatility.private]] 

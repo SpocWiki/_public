@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-stationary_Volume+Universality-Temperature.md|Triz-stationary_Volume+Universality-Temperature]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-stationary_Volume+Universality-Temperature|Triz-stationary_Volume+Universality-Temperature]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-stationary_Volume+Universality-Temperature.public|Triz-stationary_Volume+Universality-Temperature.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-stationary_Volume+Universality-Temperature.internal|Triz-stationary_Volume+Universality-Temperature.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-stationary_Volume+Universality-Temperature.protect|Triz-stationary_Volume+Universality-Temperature.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-stationary_Volume+Universality-Temperature.private|Triz-stationary_Volume+Universality-Temperature.private]] 

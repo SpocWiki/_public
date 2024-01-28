@@ -17,7 +17,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../_public/astro/Zodiac/Zodiac~Ursa_Major.md|Zodiac~Ursa_Major]] 
+- [[../../../_Standards/astro/Zodiac/Zodiac~Ursa_Major|Zodiac~Ursa_Major]] 
+- [[../../../_public/astro/Zodiac/Zodiac~Ursa_Major.public|Zodiac~Ursa_Major.public]] 
 - [[../../../_internal/astro/Zodiac/Zodiac~Ursa_Major.internal|Zodiac~Ursa_Major.internal]] 
 - [[../../../_protect/astro/Zodiac/Zodiac~Ursa_Major.protect|Zodiac~Ursa_Major.protect]] 
 - [[../../../_private/astro/Zodiac/Zodiac~Ursa_Major.private|Zodiac~Ursa_Major.private]] 

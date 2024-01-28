@@ -27,7 +27,8 @@ confidential: public
 
 
 ## Confidential Links & Embeds: 
-- [[../../../_public/astro/Star/Leporis-12.md|Leporis-12]] 
+- [[../../../_Standards/astro/Star/Leporis-12|Leporis-12]] 
+- [[../../../_public/astro/Star/Leporis-12.public|Leporis-12.public]] 
 - [[../../../_internal/astro/Star/Leporis-12.internal|Leporis-12.internal]] 
 - [[../../../_protect/astro/Star/Leporis-12.protect|Leporis-12.protect]] 
 - [[../../../_private/astro/Star/Leporis-12.private|Leporis-12.private]] 

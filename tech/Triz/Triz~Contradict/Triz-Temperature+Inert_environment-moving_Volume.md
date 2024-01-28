@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Temperature+Inert_environment-moving_Volume.md|Triz-Temperature+Inert_environment-moving_Volume]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Temperature+Inert_environment-moving_Volume|Triz-Temperature+Inert_environment-moving_Volume]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Temperature+Inert_environment-moving_Volume.public|Triz-Temperature+Inert_environment-moving_Volume.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Temperature+Inert_environment-moving_Volume.internal|Triz-Temperature+Inert_environment-moving_Volume.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Temperature+Inert_environment-moving_Volume.protect|Triz-Temperature+Inert_environment-moving_Volume.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Temperature+Inert_environment-moving_Volume.private|Triz-Temperature+Inert_environment-moving_Volume.private]] 

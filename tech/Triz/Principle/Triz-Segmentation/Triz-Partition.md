@@ -26,7 +26,8 @@ Divide an object into independent parts.
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Sub/Triz-Partition.md|Triz-Partition]] 
+- [[../../../../_Standards/tech/Triz/Sub/Triz-Partition|Triz-Partition]] 
+- [[../../../../_public/tech/Triz/Sub/Triz-Partition.public|Triz-Partition.public]] 
 - [[../../../../_internal/tech/Triz/Sub/Triz-Partition.internal|Triz-Partition.internal]] 
 - [[../../../../_protect/tech/Triz/Sub/Triz-Partition.protect|Triz-Partition.protect]] 
 - [[../../../../_private/tech/Triz/Sub/Triz-Partition.private|Triz-Partition.private]] 

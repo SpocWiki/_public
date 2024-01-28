@@ -27,7 +27,8 @@ confidential: public
 
 
 ## Confidential Links & Embeds: 
-- [[../../../_public/astro/Star/Mizar.md|Mizar]] 
+- [[../../../_Standards/astro/Star/Mizar|Mizar]] 
+- [[../../../_public/astro/Star/Mizar.public|Mizar.public]] 
 - [[../../../_internal/astro/Star/Mizar.internal|Mizar.internal]] 
 - [[../../../_protect/astro/Star/Mizar.protect|Mizar.protect]] 
 - [[../../../_private/astro/Star/Mizar.private|Mizar.private]] 

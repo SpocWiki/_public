@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Substance-Loss+Composite_materials-Strength.md|Triz-Substance-Loss+Composite_materials-Strength]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Substance-Loss+Composite_materials-Strength|Triz-Substance-Loss+Composite_materials-Strength]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Substance-Loss+Composite_materials-Strength.public|Triz-Substance-Loss+Composite_materials-Strength.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Substance-Loss+Composite_materials-Strength.internal|Triz-Substance-Loss+Composite_materials-Strength.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Substance-Loss+Composite_materials-Strength.protect|Triz-Substance-Loss+Composite_materials-Strength.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Substance-Loss+Composite_materials-Strength.private|Triz-Substance-Loss+Composite_materials-Strength.private]] 

@@ -24,7 +24,8 @@ Change from static to movable fields(in Space and / or Time), from random or uns
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Sub/Triz-add-structure.md|Triz-add-structure]] 
+- [[../../../../_Standards/tech/Triz/Sub/Triz-add-structure|Triz-add-structure]] 
+- [[../../../../_public/tech/Triz/Sub/Triz-add-structure.public|Triz-add-structure.public]] 
 - [[../../../../_internal/tech/Triz/Sub/Triz-add-structure.internal|Triz-add-structure.internal]] 
 - [[../../../../_protect/tech/Triz/Sub/Triz-add-structure.protect|Triz-add-structure.protect]] 
 - [[../../../../_private/tech/Triz/Sub/Triz-add-structure.private|Triz-add-structure.private]] 

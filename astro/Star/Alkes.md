@@ -27,7 +27,8 @@ confidential: public
 
 
 ## Confidential Links & Embeds: 
-- [[../../../_public/astro/Star/Alkes.md|Alkes]] 
+- [[../../../_Standards/astro/Star/Alkes|Alkes]] 
+- [[../../../_public/astro/Star/Alkes.public|Alkes.public]] 
 - [[../../../_internal/astro/Star/Alkes.internal|Alkes.internal]] 
 - [[../../../_protect/astro/Star/Alkes.protect|Alkes.protect]] 
 - [[../../../_private/astro/Star/Alkes.private|Alkes.private]] 

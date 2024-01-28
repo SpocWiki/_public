@@ -17,7 +17,8 @@ tags:
 Change a Management Measure from Budget Variance to Customer Satisfaction.
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Example/Triz-Change_Measure.md|Triz-Change_Measure]] 
+- [[../../../../_Standards/tech/Triz/Example/Triz-Change_Measure|Triz-Change_Measure]] 
+- [[../../../../_public/tech/Triz/Example/Triz-Change_Measure.public|Triz-Change_Measure.public]] 
 - [[../../../../_internal/tech/Triz/Example/Triz-Change_Measure.internal|Triz-Change_Measure.internal]] 
 - [[../../../../_protect/tech/Triz/Example/Triz-Change_Measure.protect|Triz-Change_Measure.protect]] 
 - [[../../../../_private/tech/Triz/Example/Triz-Change_Measure.private|Triz-Change_Measure.private]] 

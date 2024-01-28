@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-moving_Energy+Moving_to_a_new_dimension-Versatility.md|Triz-moving_Energy+Moving_to_a_new_dimension-Versatility]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-moving_Energy+Moving_to_a_new_dimension-Versatility|Triz-moving_Energy+Moving_to_a_new_dimension-Versatility]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-moving_Energy+Moving_to_a_new_dimension-Versatility.public|Triz-moving_Energy+Moving_to_a_new_dimension-Versatility.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-moving_Energy+Moving_to_a_new_dimension-Versatility.internal|Triz-moving_Energy+Moving_to_a_new_dimension-Versatility.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-moving_Energy+Moving_to_a_new_dimension-Versatility.protect|Triz-moving_Energy+Moving_to_a_new_dimension-Versatility.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-moving_Energy+Moving_to_a_new_dimension-Versatility.private|Triz-moving_Energy+Moving_to_a_new_dimension-Versatility.private]] 

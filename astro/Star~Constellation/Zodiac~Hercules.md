@@ -17,7 +17,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../_public/astro/Zodiac/Zodiac~Hercules.md|Zodiac~Hercules]] 
+- [[../../../_Standards/astro/Zodiac/Zodiac~Hercules|Zodiac~Hercules]] 
+- [[../../../_public/astro/Zodiac/Zodiac~Hercules.public|Zodiac~Hercules.public]] 
 - [[../../../_internal/astro/Zodiac/Zodiac~Hercules.internal|Zodiac~Hercules.internal]] 
 - [[../../../_protect/astro/Zodiac/Zodiac~Hercules.protect|Zodiac~Hercules.protect]] 
 - [[../../../_private/astro/Zodiac/Zodiac~Hercules.private|Zodiac~Hercules.private]] 

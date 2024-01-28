@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-moving_Energy+Inversion-Stability.md|Triz-moving_Energy+Inversion-Stability]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-moving_Energy+Inversion-Stability|Triz-moving_Energy+Inversion-Stability]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-moving_Energy+Inversion-Stability.public|Triz-moving_Energy+Inversion-Stability.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-moving_Energy+Inversion-Stability.internal|Triz-moving_Energy+Inversion-Stability.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-moving_Energy+Inversion-Stability.protect|Triz-moving_Energy+Inversion-Stability.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-moving_Energy+Inversion-Stability.private|Triz-moving_Energy+Inversion-Stability.private]] 

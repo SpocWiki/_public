@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Shape+Spheroidality-Stress.md|Triz-Shape+Spheroidality-Stress]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Shape+Spheroidality-Stress|Triz-Shape+Spheroidality-Stress]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Shape+Spheroidality-Stress.public|Triz-Shape+Spheroidality-Stress.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Shape+Spheroidality-Stress.internal|Triz-Shape+Spheroidality-Stress.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Shape+Spheroidality-Stress.protect|Triz-Shape+Spheroidality-Stress.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Shape+Spheroidality-Stress.private|Triz-Shape+Spheroidality-Stress.private]] 

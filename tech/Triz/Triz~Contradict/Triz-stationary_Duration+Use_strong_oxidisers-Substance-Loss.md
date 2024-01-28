@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-stationary_Duration+Use_strong_oxidisers-Substance-Loss.md|Triz-stationary_Duration+Use_strong_oxidisers-Substance-Loss]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-stationary_Duration+Use_strong_oxidisers-Substance-Loss|Triz-stationary_Duration+Use_strong_oxidisers-Substance-Loss]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-stationary_Duration+Use_strong_oxidisers-Substance-Loss.public|Triz-stationary_Duration+Use_strong_oxidisers-Substance-Loss.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-stationary_Duration+Use_strong_oxidisers-Substance-Loss.internal|Triz-stationary_Duration+Use_strong_oxidisers-Substance-Loss.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-stationary_Duration+Use_strong_oxidisers-Substance-Loss.protect|Triz-stationary_Duration+Use_strong_oxidisers-Substance-Loss.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-stationary_Duration+Use_strong_oxidisers-Substance-Loss.private|Triz-stationary_Duration+Use_strong_oxidisers-Substance-Loss.private]] 

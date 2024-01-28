@@ -27,7 +27,8 @@ confidential: public
 
 
 ## Confidential Links & Embeds: 
-- [[../../../_public/astro/Star/Alula_Australis.md|Alula_Australis]] 
+- [[../../../_Standards/astro/Star/Alula_Australis|Alula_Australis]] 
+- [[../../../_public/astro/Star/Alula_Australis.public|Alula_Australis.public]] 
 - [[../../../_internal/astro/Star/Alula_Australis.internal|Alula_Australis.internal]] 
 - [[../../../_protect/astro/Star/Alula_Australis.protect|Alula_Australis.protect]] 
 - [[../../../_private/astro/Star/Alula_Australis.private|Alula_Australis.private]] 

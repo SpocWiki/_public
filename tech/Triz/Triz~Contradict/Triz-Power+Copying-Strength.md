@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Power+Copying-Strength.md|Triz-Power+Copying-Strength]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Power+Copying-Strength|Triz-Power+Copying-Strength]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Power+Copying-Strength.public|Triz-Power+Copying-Strength.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Power+Copying-Strength.internal|Triz-Power+Copying-Strength.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Power+Copying-Strength.protect|Triz-Power+Copying-Strength.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Power+Copying-Strength.private|Triz-Power+Copying-Strength.private]] 

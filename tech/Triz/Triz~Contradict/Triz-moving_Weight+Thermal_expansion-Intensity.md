@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-moving_Weight+Thermal_expansion-Intensity.md|Triz-moving_Weight+Thermal_expansion-Intensity]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-moving_Weight+Thermal_expansion-Intensity|Triz-moving_Weight+Thermal_expansion-Intensity]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-moving_Weight+Thermal_expansion-Intensity.public|Triz-moving_Weight+Thermal_expansion-Intensity.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-moving_Weight+Thermal_expansion-Intensity.internal|Triz-moving_Weight+Thermal_expansion-Intensity.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-moving_Weight+Thermal_expansion-Intensity.protect|Triz-moving_Weight+Thermal_expansion-Intensity.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-moving_Weight+Thermal_expansion-Intensity.private|Triz-moving_Weight+Thermal_expansion-Intensity.private]] 

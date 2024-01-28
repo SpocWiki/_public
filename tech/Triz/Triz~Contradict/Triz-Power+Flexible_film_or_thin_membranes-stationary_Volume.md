@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Power+Flexible_film_or_thin_membranes-stationary_Volume.md|Triz-Power+Flexible_film_or_thin_membranes-stationary_Volume]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Power+Flexible_film_or_thin_membranes-stationary_Volume|Triz-Power+Flexible_film_or_thin_membranes-stationary_Volume]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Power+Flexible_film_or_thin_membranes-stationary_Volume.public|Triz-Power+Flexible_film_or_thin_membranes-stationary_Volume.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Power+Flexible_film_or_thin_membranes-stationary_Volume.internal|Triz-Power+Flexible_film_or_thin_membranes-stationary_Volume.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Power+Flexible_film_or_thin_membranes-stationary_Volume.protect|Triz-Power+Flexible_film_or_thin_membranes-stationary_Volume.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Power+Flexible_film_or_thin_membranes-stationary_Volume.private|Triz-Power+Flexible_film_or_thin_membranes-stationary_Volume.private]] 

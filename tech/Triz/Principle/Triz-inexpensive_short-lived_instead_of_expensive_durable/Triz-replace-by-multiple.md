@@ -24,7 +24,8 @@ Replace an inexpensive object with a multiple of inexpensive objects, comprising
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Sub/Triz-replace-by-multiple.md|Triz-replace-by-multiple]] 
+- [[../../../../_Standards/tech/Triz/Sub/Triz-replace-by-multiple|Triz-replace-by-multiple]] 
+- [[../../../../_public/tech/Triz/Sub/Triz-replace-by-multiple.public|Triz-replace-by-multiple.public]] 
 - [[../../../../_internal/tech/Triz/Sub/Triz-replace-by-multiple.internal|Triz-replace-by-multiple.internal]] 
 - [[../../../../_protect/tech/Triz/Sub/Triz-replace-by-multiple.protect|Triz-replace-by-multiple.protect]] 
 - [[../../../../_private/tech/Triz/Sub/Triz-replace-by-multiple.private|Triz-replace-by-multiple.private]] 

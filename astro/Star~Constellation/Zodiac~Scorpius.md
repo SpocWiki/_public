@@ -18,7 +18,8 @@ ZodiacPos: 8
 
 
 ## Confidential Links & Embeds: 
-- [[../../../_public/astro/Zodiac/Zodiac~Scorpius.md|Zodiac~Scorpius]] 
+- [[../../../_Standards/astro/Zodiac/Zodiac~Scorpius|Zodiac~Scorpius]] 
+- [[../../../_public/astro/Zodiac/Zodiac~Scorpius.public|Zodiac~Scorpius.public]] 
 - [[../../../_internal/astro/Zodiac/Zodiac~Scorpius.internal|Zodiac~Scorpius.internal]] 
 - [[../../../_protect/astro/Zodiac/Zodiac~Scorpius.protect|Zodiac~Scorpius.protect]] 
 - [[../../../_private/astro/Zodiac/Zodiac~Scorpius.private|Zodiac~Scorpius.private]] 

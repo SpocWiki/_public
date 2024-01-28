@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Substance-Loss+Use_a_pneumatic_or_hydralic_construction-generated_harm.md|Triz-Substance-Loss+Use_a_pneumatic_or_hydralic_construction-generated_harm]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Substance-Loss+Use_a_pneumatic_or_hydralic_construction-generated_harm|Triz-Substance-Loss+Use_a_pneumatic_or_hydralic_construction-generated_harm]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Substance-Loss+Use_a_pneumatic_or_hydralic_construction-generated_harm.public|Triz-Substance-Loss+Use_a_pneumatic_or_hydralic_construction-generated_harm.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Substance-Loss+Use_a_pneumatic_or_hydralic_construction-generated_harm.internal|Triz-Substance-Loss+Use_a_pneumatic_or_hydralic_construction-generated_harm.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Substance-Loss+Use_a_pneumatic_or_hydralic_construction-generated_harm.protect|Triz-Substance-Loss+Use_a_pneumatic_or_hydralic_construction-generated_harm.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Substance-Loss+Use_a_pneumatic_or_hydralic_construction-generated_harm.private|Triz-Substance-Loss+Use_a_pneumatic_or_hydralic_construction-generated_harm.private]] 

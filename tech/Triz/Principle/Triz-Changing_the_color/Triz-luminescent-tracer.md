@@ -23,7 +23,8 @@ If such Additives are already used, employ luminescent Traces or Tracer Elements
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Sub/Triz-luminescent-tracer.md|Triz-luminescent-tracer]] 
+- [[../../../../_Standards/tech/Triz/Sub/Triz-luminescent-tracer|Triz-luminescent-tracer]] 
+- [[../../../../_public/tech/Triz/Sub/Triz-luminescent-tracer.public|Triz-luminescent-tracer.public]] 
 - [[../../../../_internal/tech/Triz/Sub/Triz-luminescent-tracer.internal|Triz-luminescent-tracer.internal]] 
 - [[../../../../_protect/tech/Triz/Sub/Triz-luminescent-tracer.protect|Triz-luminescent-tracer.protect]] 
 - [[../../../../_private/tech/Triz/Sub/Triz-luminescent-tracer.private|Triz-luminescent-tracer.private]] 

@@ -27,7 +27,8 @@ confidential: public
 
 
 ## Confidential Links & Embeds: 
-- [[../../../_public/astro/Star/Telescopii-6.md|Telescopii-6]] 
+- [[../../../_Standards/astro/Star/Telescopii-6|Telescopii-6]] 
+- [[../../../_public/astro/Star/Telescopii-6.public|Telescopii-6.public]] 
 - [[../../../_internal/astro/Star/Telescopii-6.internal|Telescopii-6.internal]] 
 - [[../../../_protect/astro/Star/Telescopii-6.protect|Telescopii-6.protect]] 
 - [[../../../_private/astro/Star/Telescopii-6.private|Telescopii-6.private]] 

@@ -16,7 +16,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../_public/astro/Zodiac/Zodiac~Cygnus.md|Zodiac~Cygnus]] 
+- [[../../../_Standards/astro/Zodiac/Zodiac~Cygnus|Zodiac~Cygnus]] 
+- [[../../../_public/astro/Zodiac/Zodiac~Cygnus.public|Zodiac~Cygnus.public]] 
 - [[../../../_internal/astro/Zodiac/Zodiac~Cygnus.internal|Zodiac~Cygnus.internal]] 
 - [[../../../_protect/astro/Zodiac/Zodiac~Cygnus.protect|Zodiac~Cygnus.protect]] 
 - [[../../../_private/astro/Zodiac/Zodiac~Cygnus.private|Zodiac~Cygnus.private]] 

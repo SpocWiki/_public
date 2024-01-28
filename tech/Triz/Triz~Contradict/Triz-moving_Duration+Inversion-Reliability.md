@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-moving_Duration+Inversion-Reliability.md|Triz-moving_Duration+Inversion-Reliability]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-moving_Duration+Inversion-Reliability|Triz-moving_Duration+Inversion-Reliability]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-moving_Duration+Inversion-Reliability.public|Triz-moving_Duration+Inversion-Reliability.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-moving_Duration+Inversion-Reliability.internal|Triz-moving_Duration+Inversion-Reliability.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-moving_Duration+Inversion-Reliability.protect|Triz-moving_Duration+Inversion-Reliability.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-moving_Duration+Inversion-Reliability.private|Triz-moving_Duration+Inversion-Reliability.private]] 

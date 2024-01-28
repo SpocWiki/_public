@@ -27,7 +27,8 @@ confidential: public
 
 
 ## Confidential Links & Embeds: 
-- [[../../../_public/astro/Star/Canis_Majoris-24.md|Canis_Majoris-24]] 
+- [[../../../_Standards/astro/Star/Canis_Majoris-24|Canis_Majoris-24]] 
+- [[../../../_public/astro/Star/Canis_Majoris-24.public|Canis_Majoris-24.public]] 
 - [[../../../_internal/astro/Star/Canis_Majoris-24.internal|Canis_Majoris-24.internal]] 
 - [[../../../_protect/astro/Star/Canis_Majoris-24.protect|Canis_Majoris-24.protect]] 
 - [[../../../_private/astro/Star/Canis_Majoris-24.private|Canis_Majoris-24.private]] 

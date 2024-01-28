@@ -87,7 +87,8 @@ demised: Date (and Time) of Destruction/Death/Dissolution
 There is a separate [Article about the Wiki-Growth-Process ](Wiki-Growth-Process.md).
 
 ## Confidential Links & Embeds: 
-- [[../_public/ReadMe.md|ReadMe]] 
+- [[../_Standards/ReadMe|ReadMe]] 
+- [[../_public/ReadMe.public|ReadMe.public]] 
 - [[../_internal/ReadMe.internal|ReadMe.internal]] 
 - [[../_protect/ReadMe.protect|ReadMe.protect]] 
 - [[../_private/ReadMe.private|ReadMe.private]] 

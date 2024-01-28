@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-moving_Length+Inversion-Speed.md|Triz-moving_Length+Inversion-Speed]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-moving_Length+Inversion-Speed|Triz-moving_Length+Inversion-Speed]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-moving_Length+Inversion-Speed.public|Triz-moving_Length+Inversion-Speed.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-moving_Length+Inversion-Speed.internal|Triz-moving_Length+Inversion-Speed.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-moving_Length+Inversion-Speed.protect|Triz-moving_Length+Inversion-Speed.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-moving_Length+Inversion-Speed.private|Triz-moving_Length+Inversion-Speed.private]] 

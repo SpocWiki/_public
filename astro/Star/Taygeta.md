@@ -27,7 +27,8 @@ confidential: public
 
 
 ## Confidential Links & Embeds: 
-- [[../../../_public/astro/Star/Taygeta.md|Taygeta]] 
+- [[../../../_Standards/astro/Star/Taygeta|Taygeta]] 
+- [[../../../_public/astro/Star/Taygeta.public|Taygeta.public]] 
 - [[../../../_internal/astro/Star/Taygeta.internal|Taygeta.internal]] 
 - [[../../../_protect/astro/Star/Taygeta.protect|Taygeta.protect]] 
 - [[../../../_private/astro/Star/Taygeta.private|Taygeta.private]] 

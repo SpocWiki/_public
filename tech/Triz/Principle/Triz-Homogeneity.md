@@ -14,7 +14,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Principle/Triz-Homogeneity.md|Triz-Homogeneity]] 
+- [[../../../../_Standards/tech/Triz/Principle/Triz-Homogeneity|Triz-Homogeneity]] 
+- [[../../../../_public/tech/Triz/Principle/Triz-Homogeneity.public|Triz-Homogeneity.public]] 
 - [[../../../../_internal/tech/Triz/Principle/Triz-Homogeneity.internal|Triz-Homogeneity.internal]] 
 - [[../../../../_protect/tech/Triz/Principle/Triz-Homogeneity.protect|Triz-Homogeneity.protect]] 
 - [[../../../../_private/tech/Triz/Principle/Triz-Homogeneity.private|Triz-Homogeneity.private]] 

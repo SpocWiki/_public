@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Shape+Asymmetry-Stability.md|Triz-Shape+Asymmetry-Stability]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Shape+Asymmetry-Stability|Triz-Shape+Asymmetry-Stability]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Shape+Asymmetry-Stability.public|Triz-Shape+Asymmetry-Stability.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Shape+Asymmetry-Stability.internal|Triz-Shape+Asymmetry-Stability.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Shape+Asymmetry-Stability.protect|Triz-Shape+Asymmetry-Stability.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Shape+Asymmetry-Stability.private|Triz-Shape+Asymmetry-Stability.private]] 

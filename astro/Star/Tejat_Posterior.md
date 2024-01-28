@@ -27,7 +27,8 @@ confidential: public
 
 
 ## Confidential Links & Embeds: 
-- [[../../../_public/astro/Star/Tejat_Posterior.md|Tejat_Posterior]] 
+- [[../../../_Standards/astro/Star/Tejat_Posterior|Tejat_Posterior]] 
+- [[../../../_public/astro/Star/Tejat_Posterior.public|Tejat_Posterior.public]] 
 - [[../../../_internal/astro/Star/Tejat_Posterior.internal|Tejat_Posterior.internal]] 
 - [[../../../_protect/astro/Star/Tejat_Posterior.protect|Tejat_Posterior.protect]] 
 - [[../../../_private/astro/Star/Tejat_Posterior.private|Tejat_Posterior.private]] 

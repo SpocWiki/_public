@@ -27,7 +27,8 @@ confidential: public
 
 
 ## Confidential Links & Embeds: 
-- [[../../../_public/astro/Star/Altais.md|Altais]] 
+- [[../../../_Standards/astro/Star/Altais|Altais]] 
+- [[../../../_public/astro/Star/Altais.public|Altais.public]] 
 - [[../../../_internal/astro/Star/Altais.internal|Altais.internal]] 
 - [[../../../_protect/astro/Star/Altais.protect|Altais.protect]] 
 - [[../../../_private/astro/Star/Altais.private|Altais.private]] 

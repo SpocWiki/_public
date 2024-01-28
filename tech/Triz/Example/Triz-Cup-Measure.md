@@ -17,7 +17,8 @@ tags:
 Measuring in Cups or Spoons
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Example/Triz-Cup-Measure.md|Triz-Cup-Measure]] 
+- [[../../../../_Standards/tech/Triz/Example/Triz-Cup-Measure|Triz-Cup-Measure]] 
+- [[../../../../_public/tech/Triz/Example/Triz-Cup-Measure.public|Triz-Cup-Measure.public]] 
 - [[../../../../_internal/tech/Triz/Example/Triz-Cup-Measure.internal|Triz-Cup-Measure.internal]] 
 - [[../../../../_protect/tech/Triz/Example/Triz-Cup-Measure.protect|Triz-Cup-Measure.protect]] 
 - [[../../../../_private/tech/Triz/Example/Triz-Cup-Measure.private|Triz-Cup-Measure.private]] 

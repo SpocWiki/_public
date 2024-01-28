@@ -27,7 +27,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../_public/astro/Star/Alamak.md|Alamak]] 
+- [[../../../_Standards/astro/Star/Alamak|Alamak]] 
+- [[../../../_public/astro/Star/Alamak.public|Alamak.public]] 
 - [[../../../_internal/astro/Star/Alamak.internal|Alamak.internal]] 
 - [[../../../_protect/astro/Star/Alamak.protect|Alamak.protect]] 
 - [[../../../_private/astro/Star/Alamak.private|Alamak.private]] 

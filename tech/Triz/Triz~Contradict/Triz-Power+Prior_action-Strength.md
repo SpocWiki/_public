@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Power+Prior_action-Strength.md|Triz-Power+Prior_action-Strength]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Power+Prior_action-Strength|Triz-Power+Prior_action-Strength]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Power+Prior_action-Strength.public|Triz-Power+Prior_action-Strength.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Power+Prior_action-Strength.internal|Triz-Power+Prior_action-Strength.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Power+Prior_action-Strength.protect|Triz-Power+Prior_action-Strength.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Power+Prior_action-Strength.private|Triz-Power+Prior_action-Strength.private]] 

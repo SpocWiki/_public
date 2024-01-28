@@ -17,7 +17,8 @@ tags:
 To obtain uniform Discharge of a metallic Powder from a Bin, the Hopper has a special internal Funnel which is continually overfilled to provide nearly constant Pressure.
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Example/Triz-Funnel.md|Triz-Funnel]] 
+- [[../../../../_Standards/tech/Triz/Example/Triz-Funnel|Triz-Funnel]] 
+- [[../../../../_public/tech/Triz/Example/Triz-Funnel.public|Triz-Funnel.public]] 
 - [[../../../../_internal/tech/Triz/Example/Triz-Funnel.internal|Triz-Funnel.internal]] 
 - [[../../../../_protect/tech/Triz/Example/Triz-Funnel.protect|Triz-Funnel.protect]] 
 - [[../../../../_private/tech/Triz/Example/Triz-Funnel.private|Triz-Funnel.private]] 

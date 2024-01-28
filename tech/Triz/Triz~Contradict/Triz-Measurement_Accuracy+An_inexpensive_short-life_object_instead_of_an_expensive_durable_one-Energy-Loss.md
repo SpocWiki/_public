@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Measurement_Accuracy+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Energy-Loss.md|Triz-Measurement_Accuracy+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Energy-Loss]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Measurement_Accuracy+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Energy-Loss|Triz-Measurement_Accuracy+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Energy-Loss]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Measurement_Accuracy+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Energy-Loss.public|Triz-Measurement_Accuracy+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Energy-Loss.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Measurement_Accuracy+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Energy-Loss.internal|Triz-Measurement_Accuracy+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Energy-Loss.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Measurement_Accuracy+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Energy-Loss.protect|Triz-Measurement_Accuracy+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Energy-Loss.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Measurement_Accuracy+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Energy-Loss.private|Triz-Measurement_Accuracy+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Energy-Loss.private]] 

@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-moving_Volume+Universality-Stress.md|Triz-moving_Volume+Universality-Stress]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-moving_Volume+Universality-Stress|Triz-moving_Volume+Universality-Stress]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-moving_Volume+Universality-Stress.public|Triz-moving_Volume+Universality-Stress.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-moving_Volume+Universality-Stress.internal|Triz-moving_Volume+Universality-Stress.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-moving_Volume+Universality-Stress.protect|Triz-moving_Volume+Universality-Stress.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-moving_Volume+Universality-Stress.private|Triz-moving_Volume+Universality-Stress.private]] 

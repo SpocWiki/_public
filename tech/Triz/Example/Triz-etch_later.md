@@ -17,7 +17,8 @@ tags:
 Oxidize the whole Substrate in MicroElectronics and etch it later.
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Example/Triz-etch_later.md|Triz-etch_later]] 
+- [[../../../../_Standards/tech/Triz/Example/Triz-etch_later|Triz-etch_later]] 
+- [[../../../../_public/tech/Triz/Example/Triz-etch_later.public|Triz-etch_later.public]] 
 - [[../../../../_internal/tech/Triz/Example/Triz-etch_later.internal|Triz-etch_later.internal]] 
 - [[../../../../_protect/tech/Triz/Example/Triz-etch_later.protect|Triz-etch_later.protect]] 
 - [[../../../../_private/tech/Triz/Example/Triz-etch_later.private|Triz-etch_later.private]] 

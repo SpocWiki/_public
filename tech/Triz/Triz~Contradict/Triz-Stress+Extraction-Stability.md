@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Stress+Extraction-Stability.md|Triz-Stress+Extraction-Stability]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Stress+Extraction-Stability|Triz-Stress+Extraction-Stability]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Stress+Extraction-Stability.public|Triz-Stress+Extraction-Stability.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Stress+Extraction-Stability.internal|Triz-Stress+Extraction-Stability.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Stress+Extraction-Stability.protect|Triz-Stress+Extraction-Stability.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Stress+Extraction-Stability.private|Triz-Stress+Extraction-Stability.private]] 

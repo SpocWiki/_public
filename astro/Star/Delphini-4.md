@@ -27,7 +27,8 @@ confidential: public
 
 
 ## Confidential Links & Embeds: 
-- [[../../../_public/astro/Star/Delphini-4.md|Delphini-4]] 
+- [[../../../_Standards/astro/Star/Delphini-4|Delphini-4]] 
+- [[../../../_public/astro/Star/Delphini-4.public|Delphini-4.public]] 
 - [[../../../_internal/astro/Star/Delphini-4.internal|Delphini-4.internal]] 
 - [[../../../_protect/astro/Star/Delphini-4.protect|Delphini-4.protect]] 
 - [[../../../_private/astro/Star/Delphini-4.private|Delphini-4.private]] 

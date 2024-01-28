@@ -27,7 +27,8 @@ confidential: public
 
 
 ## Confidential Links & Embeds: 
-- [[../../../_public/astro/Star/Matar.md|Matar]] 
+- [[../../../_Standards/astro/Star/Matar|Matar]] 
+- [[../../../_public/astro/Star/Matar.public|Matar.public]] 
 - [[../../../_internal/astro/Star/Matar.internal|Matar.internal]] 
 - [[../../../_protect/astro/Star/Matar.protect|Matar.protect]] 
 - [[../../../_private/astro/Star/Matar.private|Matar.private]] 

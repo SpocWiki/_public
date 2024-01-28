@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Ease_of_repair+Segmentation-Illumination.md|Triz-Ease_of_repair+Segmentation-Illumination]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Ease_of_repair+Segmentation-Illumination|Triz-Ease_of_repair+Segmentation-Illumination]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Ease_of_repair+Segmentation-Illumination.public|Triz-Ease_of_repair+Segmentation-Illumination.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Ease_of_repair+Segmentation-Illumination.internal|Triz-Ease_of_repair+Segmentation-Illumination.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Ease_of_repair+Segmentation-Illumination.protect|Triz-Ease_of_repair+Segmentation-Illumination.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Ease_of_repair+Segmentation-Illumination.private|Triz-Ease_of_repair+Segmentation-Illumination.private]] 

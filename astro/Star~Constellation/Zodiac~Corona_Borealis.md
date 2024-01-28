@@ -16,7 +16,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../_public/astro/Zodiac/Zodiac~Corona_Borealis.md|Zodiac~Corona_Borealis]] 
+- [[../../../_Standards/astro/Zodiac/Zodiac~Corona_Borealis|Zodiac~Corona_Borealis]] 
+- [[../../../_public/astro/Zodiac/Zodiac~Corona_Borealis.public|Zodiac~Corona_Borealis.public]] 
 - [[../../../_internal/astro/Zodiac/Zodiac~Corona_Borealis.internal|Zodiac~Corona_Borealis.internal]] 
 - [[../../../_protect/astro/Zodiac/Zodiac~Corona_Borealis.protect|Zodiac~Corona_Borealis.protect]] 
 - [[../../../_private/astro/Zodiac/Zodiac~Corona_Borealis.private|Zodiac~Corona_Borealis.private]] 

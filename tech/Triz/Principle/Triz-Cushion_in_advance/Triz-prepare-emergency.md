@@ -28,7 +28,8 @@ Prepare emergency means beforehand to compensate for the relatively low reliabil
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Sub/Triz-prepare-emergency.md|Triz-prepare-emergency]] 
+- [[../../../../_Standards/tech/Triz/Sub/Triz-prepare-emergency|Triz-prepare-emergency]] 
+- [[../../../../_public/tech/Triz/Sub/Triz-prepare-emergency.public|Triz-prepare-emergency.public]] 
 - [[../../../../_internal/tech/Triz/Sub/Triz-prepare-emergency.internal|Triz-prepare-emergency.internal]] 
 - [[../../../../_protect/tech/Triz/Sub/Triz-prepare-emergency.protect|Triz-prepare-emergency.protect]] 
 - [[../../../../_private/tech/Triz/Sub/Triz-prepare-emergency.private|Triz-prepare-emergency.private]] 

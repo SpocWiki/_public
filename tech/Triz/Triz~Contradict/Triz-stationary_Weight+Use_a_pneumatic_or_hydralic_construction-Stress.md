@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-stationary_Weight+Use_a_pneumatic_or_hydralic_construction-Stress.md|Triz-stationary_Weight+Use_a_pneumatic_or_hydralic_construction-Stress]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-stationary_Weight+Use_a_pneumatic_or_hydralic_construction-Stress|Triz-stationary_Weight+Use_a_pneumatic_or_hydralic_construction-Stress]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-stationary_Weight+Use_a_pneumatic_or_hydralic_construction-Stress.public|Triz-stationary_Weight+Use_a_pneumatic_or_hydralic_construction-Stress.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-stationary_Weight+Use_a_pneumatic_or_hydralic_construction-Stress.internal|Triz-stationary_Weight+Use_a_pneumatic_or_hydralic_construction-Stress.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-stationary_Weight+Use_a_pneumatic_or_hydralic_construction-Stress.protect|Triz-stationary_Weight+Use_a_pneumatic_or_hydralic_construction-Stress.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-stationary_Weight+Use_a_pneumatic_or_hydralic_construction-Stress.private|Triz-stationary_Weight+Use_a_pneumatic_or_hydralic_construction-Stress.private]] 

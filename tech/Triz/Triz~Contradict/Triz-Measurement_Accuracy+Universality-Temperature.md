@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Measurement_Accuracy+Universality-Temperature.md|Triz-Measurement_Accuracy+Universality-Temperature]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Measurement_Accuracy+Universality-Temperature|Triz-Measurement_Accuracy+Universality-Temperature]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Measurement_Accuracy+Universality-Temperature.public|Triz-Measurement_Accuracy+Universality-Temperature.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Measurement_Accuracy+Universality-Temperature.internal|Triz-Measurement_Accuracy+Universality-Temperature.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Measurement_Accuracy+Universality-Temperature.protect|Triz-Measurement_Accuracy+Universality-Temperature.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Measurement_Accuracy+Universality-Temperature.private|Triz-Measurement_Accuracy+Universality-Temperature.private]] 

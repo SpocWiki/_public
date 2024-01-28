@@ -14,7 +14,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Principle/Triz-Convert_harm_into_benefit.md|Triz-Convert_harm_into_benefit]] 
+- [[../../../../_Standards/tech/Triz/Principle/Triz-Convert_harm_into_benefit|Triz-Convert_harm_into_benefit]] 
+- [[../../../../_public/tech/Triz/Principle/Triz-Convert_harm_into_benefit.public|Triz-Convert_harm_into_benefit.public]] 
 - [[../../../../_internal/tech/Triz/Principle/Triz-Convert_harm_into_benefit.internal|Triz-Convert_harm_into_benefit.internal]] 
 - [[../../../../_protect/tech/Triz/Principle/Triz-Convert_harm_into_benefit.protect|Triz-Convert_harm_into_benefit.protect]] 
 - [[../../../../_private/tech/Triz/Principle/Triz-Convert_harm_into_benefit.private|Triz-Convert_harm_into_benefit.private]] 

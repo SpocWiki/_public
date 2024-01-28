@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-22164+Moving_to_a_new_dimension-10307.md|Triz-22164+Moving_to_a_new_dimension-10307]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-22164+Moving_to_a_new_dimension-10307|Triz-22164+Moving_to_a_new_dimension-10307]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-22164+Moving_to_a_new_dimension-10307.public|Triz-22164+Moving_to_a_new_dimension-10307.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-22164+Moving_to_a_new_dimension-10307.internal|Triz-22164+Moving_to_a_new_dimension-10307.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-22164+Moving_to_a_new_dimension-10307.protect|Triz-22164+Moving_to_a_new_dimension-10307.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-22164+Moving_to_a_new_dimension-10307.private|Triz-22164+Moving_to_a_new_dimension-10307.private]] 

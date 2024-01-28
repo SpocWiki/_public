@@ -17,7 +17,8 @@ tags:
 Any dried and pre-cooked Food.
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Example/Triz-dried_Food.md|Triz-dried_Food]] 
+- [[../../../../_Standards/tech/Triz/Example/Triz-dried_Food|Triz-dried_Food]] 
+- [[../../../../_public/tech/Triz/Example/Triz-dried_Food.public|Triz-dried_Food.public]] 
 - [[../../../../_internal/tech/Triz/Example/Triz-dried_Food.internal|Triz-dried_Food.internal]] 
 - [[../../../../_protect/tech/Triz/Example/Triz-dried_Food.protect|Triz-dried_Food.protect]] 
 - [[../../../../_private/tech/Triz/Example/Triz-dried_Food.private|Triz-dried_Food.private]] 

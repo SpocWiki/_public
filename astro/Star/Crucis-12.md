@@ -27,7 +27,8 @@ confidential: public
 
 
 ## Confidential Links & Embeds: 
-- [[../../../_public/astro/Star/Crucis-12.md|Crucis-12]] 
+- [[../../../_Standards/astro/Star/Crucis-12|Crucis-12]] 
+- [[../../../_public/astro/Star/Crucis-12.public|Crucis-12.public]] 
 - [[../../../_internal/astro/Star/Crucis-12.internal|Crucis-12.internal]] 
 - [[../../../_protect/astro/Star/Crucis-12.protect|Crucis-12.protect]] 
 - [[../../../_private/astro/Star/Crucis-12.private|Crucis-12.private]] 

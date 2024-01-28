@@ -27,7 +27,8 @@ confidential: public
 
 
 ## Confidential Links & Embeds: 
-- [[../../../_public/astro/Star/Tauri-188.md|Tauri-188]] 
+- [[../../../_Standards/astro/Star/Tauri-188|Tauri-188]] 
+- [[../../../_public/astro/Star/Tauri-188.public|Tauri-188.public]] 
 - [[../../../_internal/astro/Star/Tauri-188.internal|Tauri-188.internal]] 
 - [[../../../_protect/astro/Star/Tauri-188.protect|Tauri-188.protect]] 
 - [[../../../_private/astro/Star/Tauri-188.private|Tauri-188.private]] 

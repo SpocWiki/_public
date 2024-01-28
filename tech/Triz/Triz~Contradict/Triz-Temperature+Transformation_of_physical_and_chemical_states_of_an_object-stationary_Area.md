@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Temperature+Transformation_of_physical_and_chemical_states_of_an_object-stationary_Area.md|Triz-Temperature+Transformation_of_physical_and_chemical_states_of_an_object-stationary_Area]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Temperature+Transformation_of_physical_and_chemical_states_of_an_object-stationary_Area|Triz-Temperature+Transformation_of_physical_and_chemical_states_of_an_object-stationary_Area]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Temperature+Transformation_of_physical_and_chemical_states_of_an_object-stationary_Area.public|Triz-Temperature+Transformation_of_physical_and_chemical_states_of_an_object-stationary_Area.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Temperature+Transformation_of_physical_and_chemical_states_of_an_object-stationary_Area.internal|Triz-Temperature+Transformation_of_physical_and_chemical_states_of_an_object-stationary_Area.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Temperature+Transformation_of_physical_and_chemical_states_of_an_object-stationary_Area.protect|Triz-Temperature+Transformation_of_physical_and_chemical_states_of_an_object-stationary_Area.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Temperature+Transformation_of_physical_and_chemical_states_of_an_object-stationary_Area.private|Triz-Temperature+Transformation_of_physical_and_chemical_states_of_an_object-stationary_Area.private]] 

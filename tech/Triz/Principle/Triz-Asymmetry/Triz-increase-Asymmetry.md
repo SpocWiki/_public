@@ -25,7 +25,8 @@ If an object is asymmetrical, increase its degree of asymmetry.
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Sub/Triz-increase-Asymmetry.md|Triz-increase-Asymmetry]] 
+- [[../../../../_Standards/tech/Triz/Sub/Triz-increase-Asymmetry|Triz-increase-Asymmetry]] 
+- [[../../../../_public/tech/Triz/Sub/Triz-increase-Asymmetry.public|Triz-increase-Asymmetry.public]] 
 - [[../../../../_internal/tech/Triz/Sub/Triz-increase-Asymmetry.internal|Triz-increase-Asymmetry.internal]] 
 - [[../../../../_protect/tech/Triz/Sub/Triz-increase-Asymmetry.protect|Triz-increase-Asymmetry.protect]] 
 - [[../../../../_private/tech/Triz/Sub/Triz-increase-Asymmetry.private|Triz-increase-Asymmetry.private]] 

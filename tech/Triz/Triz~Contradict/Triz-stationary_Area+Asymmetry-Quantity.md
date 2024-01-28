@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-stationary_Area+Asymmetry-Quantity.md|Triz-stationary_Area+Asymmetry-Quantity]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-stationary_Area+Asymmetry-Quantity|Triz-stationary_Area+Asymmetry-Quantity]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-stationary_Area+Asymmetry-Quantity.public|Triz-stationary_Area+Asymmetry-Quantity.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-stationary_Area+Asymmetry-Quantity.internal|Triz-stationary_Area+Asymmetry-Quantity.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-stationary_Area+Asymmetry-Quantity.protect|Triz-stationary_Area+Asymmetry-Quantity.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-stationary_Area+Asymmetry-Quantity.private|Triz-stationary_Area+Asymmetry-Quantity.private]] 

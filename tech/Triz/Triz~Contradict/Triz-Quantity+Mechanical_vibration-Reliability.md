@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Quantity+Mechanical_vibration-Reliability.md|Triz-Quantity+Mechanical_vibration-Reliability]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Quantity+Mechanical_vibration-Reliability|Triz-Quantity+Mechanical_vibration-Reliability]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Quantity+Mechanical_vibration-Reliability.public|Triz-Quantity+Mechanical_vibration-Reliability.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Quantity+Mechanical_vibration-Reliability.internal|Triz-Quantity+Mechanical_vibration-Reliability.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Quantity+Mechanical_vibration-Reliability.protect|Triz-Quantity+Mechanical_vibration-Reliability.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Quantity+Mechanical_vibration-Reliability.private|Triz-Quantity+Mechanical_vibration-Reliability.private]] 

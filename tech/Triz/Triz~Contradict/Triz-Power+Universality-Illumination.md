@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Power+Universality-Illumination.md|Triz-Power+Universality-Illumination]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Power+Universality-Illumination|Triz-Power+Universality-Illumination]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Power+Universality-Illumination.public|Triz-Power+Universality-Illumination.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Power+Universality-Illumination.internal|Triz-Power+Universality-Illumination.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Power+Universality-Illumination.protect|Triz-Power+Universality-Illumination.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Power+Universality-Illumination.private|Triz-Power+Universality-Illumination.private]] 

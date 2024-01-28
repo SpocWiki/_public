@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Energy-Loss+Use_strong_oxidisers-Temperature.md|Triz-Energy-Loss+Use_strong_oxidisers-Temperature]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Energy-Loss+Use_strong_oxidisers-Temperature|Triz-Energy-Loss+Use_strong_oxidisers-Temperature]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Energy-Loss+Use_strong_oxidisers-Temperature.public|Triz-Energy-Loss+Use_strong_oxidisers-Temperature.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Energy-Loss+Use_strong_oxidisers-Temperature.internal|Triz-Energy-Loss+Use_strong_oxidisers-Temperature.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Energy-Loss+Use_strong_oxidisers-Temperature.protect|Triz-Energy-Loss+Use_strong_oxidisers-Temperature.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Energy-Loss+Use_strong_oxidisers-Temperature.private|Triz-Energy-Loss+Use_strong_oxidisers-Temperature.private]] 

@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-moving_Area+Use_a_pneumatic_or_hydralic_construction-Shape.md|Triz-moving_Area+Use_a_pneumatic_or_hydralic_construction-Shape]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-moving_Area+Use_a_pneumatic_or_hydralic_construction-Shape|Triz-moving_Area+Use_a_pneumatic_or_hydralic_construction-Shape]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-moving_Area+Use_a_pneumatic_or_hydralic_construction-Shape.public|Triz-moving_Area+Use_a_pneumatic_or_hydralic_construction-Shape.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-moving_Area+Use_a_pneumatic_or_hydralic_construction-Shape.internal|Triz-moving_Area+Use_a_pneumatic_or_hydralic_construction-Shape.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-moving_Area+Use_a_pneumatic_or_hydralic_construction-Shape.protect|Triz-moving_Area+Use_a_pneumatic_or_hydralic_construction-Shape.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-moving_Area+Use_a_pneumatic_or_hydralic_construction-Shape.private|Triz-moving_Area+Use_a_pneumatic_or_hydralic_construction-Shape.private]] 

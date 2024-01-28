@@ -27,7 +27,8 @@ confidential: public
 
 
 ## Confidential Links & Embeds: 
-- [[../../../_public/astro/Star/Albireo.md|Albireo]] 
+- [[../../../_Standards/astro/Star/Albireo|Albireo]] 
+- [[../../../_public/astro/Star/Albireo.public|Albireo.public]] 
 - [[../../../_internal/astro/Star/Albireo.internal|Albireo.internal]] 
 - [[../../../_protect/astro/Star/Albireo.protect|Albireo.protect]] 
 - [[../../../_private/astro/Star/Albireo.private|Albireo.private]] 

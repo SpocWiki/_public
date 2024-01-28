@@ -17,7 +17,8 @@ tags:
 Replace wringing Clothes to remove Water with spinning Clothes in a Washing Machine.
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Example/Triz-spinning_Clothes.md|Triz-spinning_Clothes]] 
+- [[../../../../_Standards/tech/Triz/Example/Triz-spinning_Clothes|Triz-spinning_Clothes]] 
+- [[../../../../_public/tech/Triz/Example/Triz-spinning_Clothes.public|Triz-spinning_Clothes.public]] 
 - [[../../../../_internal/tech/Triz/Example/Triz-spinning_Clothes.internal|Triz-spinning_Clothes.internal]] 
 - [[../../../../_protect/tech/Triz/Example/Triz-spinning_Clothes.protect|Triz-spinning_Clothes.protect]] 
 - [[../../../../_private/tech/Triz/Example/Triz-spinning_Clothes.private|Triz-spinning_Clothes.private]] 

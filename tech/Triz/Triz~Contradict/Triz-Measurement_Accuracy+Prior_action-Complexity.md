@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Measurement_Accuracy+Prior_action-Complexity.md|Triz-Measurement_Accuracy+Prior_action-Complexity]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Measurement_Accuracy+Prior_action-Complexity|Triz-Measurement_Accuracy+Prior_action-Complexity]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Measurement_Accuracy+Prior_action-Complexity.public|Triz-Measurement_Accuracy+Prior_action-Complexity.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Measurement_Accuracy+Prior_action-Complexity.internal|Triz-Measurement_Accuracy+Prior_action-Complexity.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Measurement_Accuracy+Prior_action-Complexity.protect|Triz-Measurement_Accuracy+Prior_action-Complexity.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Measurement_Accuracy+Prior_action-Complexity.private|Triz-Measurement_Accuracy+Prior_action-Complexity.private]] 

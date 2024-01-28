@@ -27,7 +27,8 @@ confidential: public
 
 
 ## Confidential Links & Embeds: 
-- [[../../../_public/astro/Star/Cassiopeiae-3.md|Cassiopeiae-3]] 
+- [[../../../_Standards/astro/Star/Cassiopeiae-3|Cassiopeiae-3]] 
+- [[../../../_public/astro/Star/Cassiopeiae-3.public|Cassiopeiae-3.public]] 
 - [[../../../_internal/astro/Star/Cassiopeiae-3.internal|Cassiopeiae-3.internal]] 
 - [[../../../_protect/astro/Star/Cassiopeiae-3.protect|Cassiopeiae-3.protect]] 
 - [[../../../_private/astro/Star/Cassiopeiae-3.private|Cassiopeiae-3.private]] 

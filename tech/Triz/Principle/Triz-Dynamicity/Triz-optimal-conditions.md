@@ -24,7 +24,8 @@ Allow (or design) the characteristics of an object, external environment, or pro
 - 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Sub/Triz-optimal-conditions.md|Triz-optimal-conditions]] 
+- [[../../../../_Standards/tech/Triz/Sub/Triz-optimal-conditions|Triz-optimal-conditions]] 
+- [[../../../../_public/tech/Triz/Sub/Triz-optimal-conditions.public|Triz-optimal-conditions.public]] 
 - [[../../../../_internal/tech/Triz/Sub/Triz-optimal-conditions.internal|Triz-optimal-conditions.internal]] 
 - [[../../../../_protect/tech/Triz/Sub/Triz-optimal-conditions.protect|Triz-optimal-conditions.protect]] 
 - [[../../../../_private/tech/Triz/Sub/Triz-optimal-conditions.private|Triz-optimal-conditions.private]] 

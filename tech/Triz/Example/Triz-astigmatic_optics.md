@@ -17,7 +17,8 @@ tags:
 Use astigmatic optics to merge colors.
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Example/Triz-astigmatic_optics.md|Triz-astigmatic_optics]] 
+- [[../../../../_Standards/tech/Triz/Example/Triz-astigmatic_optics|Triz-astigmatic_optics]] 
+- [[../../../../_public/tech/Triz/Example/Triz-astigmatic_optics.public|Triz-astigmatic_optics.public]] 
 - [[../../../../_internal/tech/Triz/Example/Triz-astigmatic_optics.internal|Triz-astigmatic_optics.internal]] 
 - [[../../../../_protect/tech/Triz/Example/Triz-astigmatic_optics.protect|Triz-astigmatic_optics.protect]] 
 - [[../../../../_private/tech/Triz/Example/Triz-astigmatic_optics.private|Triz-astigmatic_optics.private]] 

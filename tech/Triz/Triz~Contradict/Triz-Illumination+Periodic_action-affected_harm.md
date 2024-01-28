@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Illumination+Periodic_action-affected_harm.md|Triz-Illumination+Periodic_action-affected_harm]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Illumination+Periodic_action-affected_harm|Triz-Illumination+Periodic_action-affected_harm]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Illumination+Periodic_action-affected_harm.public|Triz-Illumination+Periodic_action-affected_harm.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Illumination+Periodic_action-affected_harm.internal|Triz-Illumination+Periodic_action-affected_harm.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Illumination+Periodic_action-affected_harm.protect|Triz-Illumination+Periodic_action-affected_harm.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Illumination+Periodic_action-affected_harm.private|Triz-Illumination+Periodic_action-affected_harm.private]] 

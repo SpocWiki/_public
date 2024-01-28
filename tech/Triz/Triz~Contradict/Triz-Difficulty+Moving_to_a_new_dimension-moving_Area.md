@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Difficulty+Moving_to_a_new_dimension-moving_Area.md|Triz-Difficulty+Moving_to_a_new_dimension-moving_Area]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Difficulty+Moving_to_a_new_dimension-moving_Area|Triz-Difficulty+Moving_to_a_new_dimension-moving_Area]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Difficulty+Moving_to_a_new_dimension-moving_Area.public|Triz-Difficulty+Moving_to_a_new_dimension-moving_Area.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Difficulty+Moving_to_a_new_dimension-moving_Area.internal|Triz-Difficulty+Moving_to_a_new_dimension-moving_Area.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Difficulty+Moving_to_a_new_dimension-moving_Area.protect|Triz-Difficulty+Moving_to_a_new_dimension-moving_Area.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Difficulty+Moving_to_a_new_dimension-moving_Area.private|Triz-Difficulty+Moving_to_a_new_dimension-moving_Area.private]] 

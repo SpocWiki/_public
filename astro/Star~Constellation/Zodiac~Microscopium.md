@@ -16,7 +16,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../_public/astro/Zodiac/Zodiac~Microscopium.md|Zodiac~Microscopium]] 
+- [[../../../_Standards/astro/Zodiac/Zodiac~Microscopium|Zodiac~Microscopium]] 
+- [[../../../_public/astro/Zodiac/Zodiac~Microscopium.public|Zodiac~Microscopium.public]] 
 - [[../../../_internal/astro/Zodiac/Zodiac~Microscopium.internal|Zodiac~Microscopium.internal]] 
 - [[../../../_protect/astro/Zodiac/Zodiac~Microscopium.protect|Zodiac~Microscopium.protect]] 
 - [[../../../_private/astro/Zodiac/Zodiac~Microscopium.private|Zodiac~Microscopium.private]] 

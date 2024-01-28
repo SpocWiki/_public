@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Ease_of_repair+Prior_action-Reliability.md|Triz-Ease_of_repair+Prior_action-Reliability]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Ease_of_repair+Prior_action-Reliability|Triz-Ease_of_repair+Prior_action-Reliability]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Ease_of_repair+Prior_action-Reliability.public|Triz-Ease_of_repair+Prior_action-Reliability.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Ease_of_repair+Prior_action-Reliability.internal|Triz-Ease_of_repair+Prior_action-Reliability.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Ease_of_repair+Prior_action-Reliability.protect|Triz-Ease_of_repair+Prior_action-Reliability.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Ease_of_repair+Prior_action-Reliability.private|Triz-Ease_of_repair+Prior_action-Reliability.private]] 

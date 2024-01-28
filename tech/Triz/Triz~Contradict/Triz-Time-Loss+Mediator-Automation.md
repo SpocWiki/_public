@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Time-Loss+Mediator-Automation.md|Triz-Time-Loss+Mediator-Automation]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Time-Loss+Mediator-Automation|Triz-Time-Loss+Mediator-Automation]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Time-Loss+Mediator-Automation.public|Triz-Time-Loss+Mediator-Automation.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Time-Loss+Mediator-Automation.internal|Triz-Time-Loss+Mediator-Automation.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Time-Loss+Mediator-Automation.protect|Triz-Time-Loss+Mediator-Automation.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Time-Loss+Mediator-Automation.private|Triz-Time-Loss+Mediator-Automation.private]] 

@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Time-Loss+Use_a_pneumatic_or_hydralic_construction-moving_Length.md|Triz-Time-Loss+Use_a_pneumatic_or_hydralic_construction-moving_Length]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Time-Loss+Use_a_pneumatic_or_hydralic_construction-moving_Length|Triz-Time-Loss+Use_a_pneumatic_or_hydralic_construction-moving_Length]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Time-Loss+Use_a_pneumatic_or_hydralic_construction-moving_Length.public|Triz-Time-Loss+Use_a_pneumatic_or_hydralic_construction-moving_Length.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Time-Loss+Use_a_pneumatic_or_hydralic_construction-moving_Length.internal|Triz-Time-Loss+Use_a_pneumatic_or_hydralic_construction-moving_Length.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Time-Loss+Use_a_pneumatic_or_hydralic_construction-moving_Length.protect|Triz-Time-Loss+Use_a_pneumatic_or_hydralic_construction-moving_Length.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Time-Loss+Use_a_pneumatic_or_hydralic_construction-moving_Length.private|Triz-Time-Loss+Use_a_pneumatic_or_hydralic_construction-moving_Length.private]] 

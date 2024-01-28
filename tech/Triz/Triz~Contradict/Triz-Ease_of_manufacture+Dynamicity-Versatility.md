@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Ease_of_manufacture+Dynamicity-Versatility.md|Triz-Ease_of_manufacture+Dynamicity-Versatility]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Ease_of_manufacture+Dynamicity-Versatility|Triz-Ease_of_manufacture+Dynamicity-Versatility]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Ease_of_manufacture+Dynamicity-Versatility.public|Triz-Ease_of_manufacture+Dynamicity-Versatility.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Ease_of_manufacture+Dynamicity-Versatility.internal|Triz-Ease_of_manufacture+Dynamicity-Versatility.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Ease_of_manufacture+Dynamicity-Versatility.protect|Triz-Ease_of_manufacture+Dynamicity-Versatility.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Ease_of_manufacture+Dynamicity-Versatility.private|Triz-Ease_of_manufacture+Dynamicity-Versatility.private]] 

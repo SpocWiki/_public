@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Stress+Asymmetry-Shape.md|Triz-Stress+Asymmetry-Shape]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Stress+Asymmetry-Shape|Triz-Stress+Asymmetry-Shape]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Stress+Asymmetry-Shape.public|Triz-Stress+Asymmetry-Shape.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Stress+Asymmetry-Shape.internal|Triz-Stress+Asymmetry-Shape.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Stress+Asymmetry-Shape.protect|Triz-Stress+Asymmetry-Shape.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Stress+Asymmetry-Shape.private|Triz-Stress+Asymmetry-Shape.private]] 

@@ -17,7 +17,8 @@ tags:
 Abrasively cleaning Parts by vibrating the Parts instead of the Abrasive.
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Example/Triz-vibrating_Parts.md|Triz-vibrating_Parts]] 
+- [[../../../../_Standards/tech/Triz/Example/Triz-vibrating_Parts|Triz-vibrating_Parts]] 
+- [[../../../../_public/tech/Triz/Example/Triz-vibrating_Parts.public|Triz-vibrating_Parts.public]] 
 - [[../../../../_internal/tech/Triz/Example/Triz-vibrating_Parts.internal|Triz-vibrating_Parts.internal]] 
 - [[../../../../_protect/tech/Triz/Example/Triz-vibrating_Parts.protect|Triz-vibrating_Parts.protect]] 
 - [[../../../../_private/tech/Triz/Example/Triz-vibrating_Parts.private|Triz-vibrating_Parts.private]] 

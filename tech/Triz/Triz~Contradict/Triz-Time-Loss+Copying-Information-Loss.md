@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Time-Loss+Copying-Information-Loss.md|Triz-Time-Loss+Copying-Information-Loss]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Time-Loss+Copying-Information-Loss|Triz-Time-Loss+Copying-Information-Loss]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Time-Loss+Copying-Information-Loss.public|Triz-Time-Loss+Copying-Information-Loss.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Time-Loss+Copying-Information-Loss.internal|Triz-Time-Loss+Copying-Information-Loss.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Time-Loss+Copying-Information-Loss.protect|Triz-Time-Loss+Copying-Information-Loss.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Time-Loss+Copying-Information-Loss.private|Triz-Time-Loss+Copying-Information-Loss.private]] 

@@ -17,7 +17,8 @@ tags:
 Portable Audio System (microphone fits inside Transmitter, which fits inside Amplifier Case)
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Example/Triz-Portable_System.md|Triz-Portable_System]] 
+- [[../../../../_Standards/tech/Triz/Example/Triz-Portable_System|Triz-Portable_System]] 
+- [[../../../../_public/tech/Triz/Example/Triz-Portable_System.public|Triz-Portable_System.public]] 
 - [[../../../../_internal/tech/Triz/Example/Triz-Portable_System.internal|Triz-Portable_System.internal]] 
 - [[../../../../_protect/tech/Triz/Example/Triz-Portable_System.protect|Triz-Portable_System.protect]] 
 - [[../../../../_private/tech/Triz/Example/Triz-Portable_System.private|Triz-Portable_System.private]] 

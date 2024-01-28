@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-stationary_Weight+Inversion-Substance-Loss.md|Triz-stationary_Weight+Inversion-Substance-Loss]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-stationary_Weight+Inversion-Substance-Loss|Triz-stationary_Weight+Inversion-Substance-Loss]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-stationary_Weight+Inversion-Substance-Loss.public|Triz-stationary_Weight+Inversion-Substance-Loss.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-stationary_Weight+Inversion-Substance-Loss.internal|Triz-stationary_Weight+Inversion-Substance-Loss.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-stationary_Weight+Inversion-Substance-Loss.protect|Triz-stationary_Weight+Inversion-Substance-Loss.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-stationary_Weight+Inversion-Substance-Loss.private|Triz-stationary_Weight+Inversion-Substance-Loss.private]] 

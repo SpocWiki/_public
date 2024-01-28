@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-stationary_Weight+Extraction-Automation.md|Triz-stationary_Weight+Extraction-Automation]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-stationary_Weight+Extraction-Automation|Triz-stationary_Weight+Extraction-Automation]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-stationary_Weight+Extraction-Automation.public|Triz-stationary_Weight+Extraction-Automation.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-stationary_Weight+Extraction-Automation.internal|Triz-stationary_Weight+Extraction-Automation.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-stationary_Weight+Extraction-Automation.protect|Triz-stationary_Weight+Extraction-Automation.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-stationary_Weight+Extraction-Automation.private|Triz-stationary_Weight+Extraction-Automation.private]] 

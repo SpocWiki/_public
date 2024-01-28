@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-affected_harm+Convert_harm_into_benefit-moving_Volume.md|Triz-affected_harm+Convert_harm_into_benefit-moving_Volume]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-affected_harm+Convert_harm_into_benefit-moving_Volume|Triz-affected_harm+Convert_harm_into_benefit-moving_Volume]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-affected_harm+Convert_harm_into_benefit-moving_Volume.public|Triz-affected_harm+Convert_harm_into_benefit-moving_Volume.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-affected_harm+Convert_harm_into_benefit-moving_Volume.internal|Triz-affected_harm+Convert_harm_into_benefit-moving_Volume.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-affected_harm+Convert_harm_into_benefit-moving_Volume.protect|Triz-affected_harm+Convert_harm_into_benefit-moving_Volume.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-affected_harm+Convert_harm_into_benefit-moving_Volume.private|Triz-affected_harm+Convert_harm_into_benefit-moving_Volume.private]] 

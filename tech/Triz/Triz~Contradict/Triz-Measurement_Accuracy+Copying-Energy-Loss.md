@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Measurement_Accuracy+Copying-Energy-Loss.md|Triz-Measurement_Accuracy+Copying-Energy-Loss]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Measurement_Accuracy+Copying-Energy-Loss|Triz-Measurement_Accuracy+Copying-Energy-Loss]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Measurement_Accuracy+Copying-Energy-Loss.public|Triz-Measurement_Accuracy+Copying-Energy-Loss.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Measurement_Accuracy+Copying-Energy-Loss.internal|Triz-Measurement_Accuracy+Copying-Energy-Loss.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Measurement_Accuracy+Copying-Energy-Loss.protect|Triz-Measurement_Accuracy+Copying-Energy-Loss.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Measurement_Accuracy+Copying-Energy-Loss.private|Triz-Measurement_Accuracy+Copying-Energy-Loss.private]] 

@@ -17,7 +17,8 @@ tags:
 A transparent Bandage enabling a Wound to be inspected without removing the Dressing.
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Example/Triz-transparent_Bandage.md|Triz-transparent_Bandage]] 
+- [[../../../../_Standards/tech/Triz/Example/Triz-transparent_Bandage|Triz-transparent_Bandage]] 
+- [[../../../../_public/tech/Triz/Example/Triz-transparent_Bandage.public|Triz-transparent_Bandage.public]] 
 - [[../../../../_internal/tech/Triz/Example/Triz-transparent_Bandage.internal|Triz-transparent_Bandage.internal]] 
 - [[../../../../_protect/tech/Triz/Example/Triz-transparent_Bandage.protect|Triz-transparent_Bandage.protect]] 
 - [[../../../../_private/tech/Triz/Example/Triz-transparent_Bandage.private|Triz-transparent_Bandage.private]] 

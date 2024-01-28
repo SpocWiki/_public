@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Shape+Dynamicity-Versatility.md|Triz-Shape+Dynamicity-Versatility]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Shape+Dynamicity-Versatility|Triz-Shape+Dynamicity-Versatility]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Shape+Dynamicity-Versatility.public|Triz-Shape+Dynamicity-Versatility.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Shape+Dynamicity-Versatility.internal|Triz-Shape+Dynamicity-Versatility.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Shape+Dynamicity-Versatility.protect|Triz-Shape+Dynamicity-Versatility.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Shape+Dynamicity-Versatility.private|Triz-Shape+Dynamicity-Versatility.private]] 

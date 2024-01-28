@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Difficulty+Mechanical_vibration-stationary_Volume.md|Triz-Difficulty+Mechanical_vibration-stationary_Volume]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Difficulty+Mechanical_vibration-stationary_Volume|Triz-Difficulty+Mechanical_vibration-stationary_Volume]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Difficulty+Mechanical_vibration-stationary_Volume.public|Triz-Difficulty+Mechanical_vibration-stationary_Volume.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Difficulty+Mechanical_vibration-stationary_Volume.internal|Triz-Difficulty+Mechanical_vibration-stationary_Volume.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Difficulty+Mechanical_vibration-stationary_Volume.protect|Triz-Difficulty+Mechanical_vibration-stationary_Volume.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Difficulty+Mechanical_vibration-stationary_Volume.private|Triz-Difficulty+Mechanical_vibration-stationary_Volume.private]] 

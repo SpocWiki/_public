@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Substance-Loss+Inert_environment-Temperature.md|Triz-Substance-Loss+Inert_environment-Temperature]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Substance-Loss+Inert_environment-Temperature|Triz-Substance-Loss+Inert_environment-Temperature]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Substance-Loss+Inert_environment-Temperature.public|Triz-Substance-Loss+Inert_environment-Temperature.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Substance-Loss+Inert_environment-Temperature.internal|Triz-Substance-Loss+Inert_environment-Temperature.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Substance-Loss+Inert_environment-Temperature.protect|Triz-Substance-Loss+Inert_environment-Temperature.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Substance-Loss+Inert_environment-Temperature.private|Triz-Substance-Loss+Inert_environment-Temperature.private]] 

@@ -17,7 +17,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../_public/astro/Zodiac/Zodiac~Piscis_Australis.md|Zodiac~Piscis_Australis]] 
+- [[../../../_Standards/astro/Zodiac/Zodiac~Piscis_Australis|Zodiac~Piscis_Australis]] 
+- [[../../../_public/astro/Zodiac/Zodiac~Piscis_Australis.public|Zodiac~Piscis_Australis.public]] 
 - [[../../../_internal/astro/Zodiac/Zodiac~Piscis_Australis.internal|Zodiac~Piscis_Australis.internal]] 
 - [[../../../_protect/astro/Zodiac/Zodiac~Piscis_Australis.protect|Zodiac~Piscis_Australis.protect]] 
 - [[../../../_private/astro/Zodiac/Zodiac~Piscis_Australis.private|Zodiac~Piscis_Australis.private]] 

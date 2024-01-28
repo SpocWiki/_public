@@ -17,7 +17,8 @@ tags:
 Self-Sharpening Lawn Mower Blades
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Example/Triz-Self-Sharpening.md|Triz-Self-Sharpening]] 
+- [[../../../../_Standards/tech/Triz/Example/Triz-Self-Sharpening|Triz-Self-Sharpening]] 
+- [[../../../../_public/tech/Triz/Example/Triz-Self-Sharpening.public|Triz-Self-Sharpening.public]] 
 - [[../../../../_internal/tech/Triz/Example/Triz-Self-Sharpening.internal|Triz-Self-Sharpening.internal]] 
 - [[../../../../_protect/tech/Triz/Example/Triz-Self-Sharpening.protect|Triz-Self-Sharpening.protect]] 
 - [[../../../../_private/tech/Triz/Example/Triz-Self-Sharpening.private|Triz-Self-Sharpening.private]] 

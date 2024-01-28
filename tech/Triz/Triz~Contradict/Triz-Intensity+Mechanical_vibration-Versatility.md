@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Intensity+Mechanical_vibration-Versatility.md|Triz-Intensity+Mechanical_vibration-Versatility]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Intensity+Mechanical_vibration-Versatility|Triz-Intensity+Mechanical_vibration-Versatility]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Intensity+Mechanical_vibration-Versatility.public|Triz-Intensity+Mechanical_vibration-Versatility.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Intensity+Mechanical_vibration-Versatility.internal|Triz-Intensity+Mechanical_vibration-Versatility.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Intensity+Mechanical_vibration-Versatility.protect|Triz-Intensity+Mechanical_vibration-Versatility.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Intensity+Mechanical_vibration-Versatility.private|Triz-Intensity+Mechanical_vibration-Versatility.private]] 

@@ -27,7 +27,8 @@ confidential: public
 
 
 ## Confidential Links & Embeds: 
-- [[../../../_public/astro/Star/Orionis-103.md|Orionis-103]] 
+- [[../../../_Standards/astro/Star/Orionis-103|Orionis-103]] 
+- [[../../../_public/astro/Star/Orionis-103.public|Orionis-103.public]] 
 - [[../../../_internal/astro/Star/Orionis-103.internal|Orionis-103.internal]] 
 - [[../../../_protect/astro/Star/Orionis-103.protect|Orionis-103.protect]] 
 - [[../../../_private/astro/Star/Orionis-103.private|Orionis-103.private]] 

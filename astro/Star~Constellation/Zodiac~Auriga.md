@@ -16,7 +16,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../_public/astro/Zodiac/Zodiac~Auriga.md|Zodiac~Auriga]] 
+- [[../../../_Standards/astro/Zodiac/Zodiac~Auriga|Zodiac~Auriga]] 
+- [[../../../_public/astro/Zodiac/Zodiac~Auriga.public|Zodiac~Auriga.public]] 
 - [[../../../_internal/astro/Zodiac/Zodiac~Auriga.internal|Zodiac~Auriga.internal]] 
 - [[../../../_protect/astro/Zodiac/Zodiac~Auriga.protect|Zodiac~Auriga.protect]] 
 - [[../../../_private/astro/Zodiac/Zodiac~Auriga.private|Zodiac~Auriga.private]] 

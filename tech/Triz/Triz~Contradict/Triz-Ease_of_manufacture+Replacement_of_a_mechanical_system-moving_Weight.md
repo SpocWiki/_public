@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Ease_of_manufacture+Replacement_of_a_mechanical_system-moving_Weight.md|Triz-Ease_of_manufacture+Replacement_of_a_mechanical_system-moving_Weight]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Ease_of_manufacture+Replacement_of_a_mechanical_system-moving_Weight|Triz-Ease_of_manufacture+Replacement_of_a_mechanical_system-moving_Weight]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Ease_of_manufacture+Replacement_of_a_mechanical_system-moving_Weight.public|Triz-Ease_of_manufacture+Replacement_of_a_mechanical_system-moving_Weight.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Ease_of_manufacture+Replacement_of_a_mechanical_system-moving_Weight.internal|Triz-Ease_of_manufacture+Replacement_of_a_mechanical_system-moving_Weight.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Ease_of_manufacture+Replacement_of_a_mechanical_system-moving_Weight.protect|Triz-Ease_of_manufacture+Replacement_of_a_mechanical_system-moving_Weight.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Ease_of_manufacture+Replacement_of_a_mechanical_system-moving_Weight.private|Triz-Ease_of_manufacture+Replacement_of_a_mechanical_system-moving_Weight.private]] 

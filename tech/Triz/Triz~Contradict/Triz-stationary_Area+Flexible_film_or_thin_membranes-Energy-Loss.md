@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-stationary_Area+Flexible_film_or_thin_membranes-Energy-Loss.md|Triz-stationary_Area+Flexible_film_or_thin_membranes-Energy-Loss]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-stationary_Area+Flexible_film_or_thin_membranes-Energy-Loss|Triz-stationary_Area+Flexible_film_or_thin_membranes-Energy-Loss]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-stationary_Area+Flexible_film_or_thin_membranes-Energy-Loss.public|Triz-stationary_Area+Flexible_film_or_thin_membranes-Energy-Loss.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-stationary_Area+Flexible_film_or_thin_membranes-Energy-Loss.internal|Triz-stationary_Area+Flexible_film_or_thin_membranes-Energy-Loss.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-stationary_Area+Flexible_film_or_thin_membranes-Energy-Loss.protect|Triz-stationary_Area+Flexible_film_or_thin_membranes-Energy-Loss.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-stationary_Area+Flexible_film_or_thin_membranes-Energy-Loss.private|Triz-stationary_Area+Flexible_film_or_thin_membranes-Energy-Loss.private]] 

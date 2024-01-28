@@ -16,7 +16,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../_public/astro/Zodiac/Zodiac~Delphinus.md|Zodiac~Delphinus]] 
+- [[../../../_Standards/astro/Zodiac/Zodiac~Delphinus|Zodiac~Delphinus]] 
+- [[../../../_public/astro/Zodiac/Zodiac~Delphinus.public|Zodiac~Delphinus.public]] 
 - [[../../../_internal/astro/Zodiac/Zodiac~Delphinus.internal|Zodiac~Delphinus.internal]] 
 - [[../../../_protect/astro/Zodiac/Zodiac~Delphinus.protect|Zodiac~Delphinus.protect]] 
 - [[../../../_private/astro/Zodiac/Zodiac~Delphinus.private|Zodiac~Delphinus.private]] 

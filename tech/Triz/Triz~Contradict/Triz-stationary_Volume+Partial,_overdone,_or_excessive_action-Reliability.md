@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-stationary_Volume+Partial,_overdone,_or_excessive_action-Reliability.md|Triz-stationary_Volume+Partial,_overdone,_or_excessive_action-Reliability]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-stationary_Volume+Partial,_overdone,_or_excessive_action-Reliability|Triz-stationary_Volume+Partial,_overdone,_or_excessive_action-Reliability]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-stationary_Volume+Partial,_overdone,_or_excessive_action-Reliability.public|Triz-stationary_Volume+Partial,_overdone,_or_excessive_action-Reliability.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-stationary_Volume+Partial,_overdone,_or_excessive_action-Reliability.internal|Triz-stationary_Volume+Partial,_overdone,_or_excessive_action-Reliability.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-stationary_Volume+Partial,_overdone,_or_excessive_action-Reliability.protect|Triz-stationary_Volume+Partial,_overdone,_or_excessive_action-Reliability.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-stationary_Volume+Partial,_overdone,_or_excessive_action-Reliability.private|Triz-stationary_Volume+Partial,_overdone,_or_excessive_action-Reliability.private]] 

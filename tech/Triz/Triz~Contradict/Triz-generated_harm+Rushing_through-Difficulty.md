@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-generated_harm+Rushing_through-Difficulty.md|Triz-generated_harm+Rushing_through-Difficulty]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-generated_harm+Rushing_through-Difficulty|Triz-generated_harm+Rushing_through-Difficulty]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-generated_harm+Rushing_through-Difficulty.public|Triz-generated_harm+Rushing_through-Difficulty.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-generated_harm+Rushing_through-Difficulty.internal|Triz-generated_harm+Rushing_through-Difficulty.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-generated_harm+Rushing_through-Difficulty.protect|Triz-generated_harm+Rushing_through-Difficulty.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-generated_harm+Rushing_through-Difficulty.private|Triz-generated_harm+Rushing_through-Difficulty.private]] 

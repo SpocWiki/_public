@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Substance-Loss+Inert_environment-stationary_Area.md|Triz-Substance-Loss+Inert_environment-stationary_Area]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Substance-Loss+Inert_environment-stationary_Area|Triz-Substance-Loss+Inert_environment-stationary_Area]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Substance-Loss+Inert_environment-stationary_Area.public|Triz-Substance-Loss+Inert_environment-stationary_Area.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Substance-Loss+Inert_environment-stationary_Area.internal|Triz-Substance-Loss+Inert_environment-stationary_Area.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Substance-Loss+Inert_environment-stationary_Area.protect|Triz-Substance-Loss+Inert_environment-stationary_Area.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Substance-Loss+Inert_environment-stationary_Area.private|Triz-Substance-Loss+Inert_environment-stationary_Area.private]] 

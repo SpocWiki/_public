@@ -27,7 +27,8 @@ confidential: public
 
 
 ## Confidential Links & Embeds: 
-- [[../../../_public/astro/Star/Sagittarii-144.md|Sagittarii-144]] 
+- [[../../../_Standards/astro/Star/Sagittarii-144|Sagittarii-144]] 
+- [[../../../_public/astro/Star/Sagittarii-144.public|Sagittarii-144.public]] 
 - [[../../../_internal/astro/Star/Sagittarii-144.internal|Sagittarii-144.internal]] 
 - [[../../../_protect/astro/Star/Sagittarii-144.protect|Sagittarii-144.protect]] 
 - [[../../../_private/astro/Star/Sagittarii-144.private|Sagittarii-144.private]] 

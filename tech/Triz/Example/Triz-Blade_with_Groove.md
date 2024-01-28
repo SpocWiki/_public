@@ -17,7 +17,8 @@ tags:
 Utility Knife Blade made with a Groove allowing the dull Part of the Blade to be broken off, restoring Sharpness.
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Example/Triz-Blade_with_Groove.md|Triz-Blade_with_Groove]] 
+- [[../../../../_Standards/tech/Triz/Example/Triz-Blade_with_Groove|Triz-Blade_with_Groove]] 
+- [[../../../../_public/tech/Triz/Example/Triz-Blade_with_Groove.public|Triz-Blade_with_Groove.public]] 
 - [[../../../../_internal/tech/Triz/Example/Triz-Blade_with_Groove.internal|Triz-Blade_with_Groove.internal]] 
 - [[../../../../_protect/tech/Triz/Example/Triz-Blade_with_Groove.protect|Triz-Blade_with_Groove.protect]] 
 - [[../../../../_private/tech/Triz/Example/Triz-Blade_with_Groove.private|Triz-Blade_with_Groove.private]] 

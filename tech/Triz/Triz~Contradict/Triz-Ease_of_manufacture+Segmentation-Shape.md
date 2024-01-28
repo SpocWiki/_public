@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Ease_of_manufacture+Segmentation-Shape.md|Triz-Ease_of_manufacture+Segmentation-Shape]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Ease_of_manufacture+Segmentation-Shape|Triz-Ease_of_manufacture+Segmentation-Shape]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Ease_of_manufacture+Segmentation-Shape.public|Triz-Ease_of_manufacture+Segmentation-Shape.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Ease_of_manufacture+Segmentation-Shape.internal|Triz-Ease_of_manufacture+Segmentation-Shape.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Ease_of_manufacture+Segmentation-Shape.protect|Triz-Ease_of_manufacture+Segmentation-Shape.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Ease_of_manufacture+Segmentation-Shape.private|Triz-Ease_of_manufacture+Segmentation-Shape.private]] 

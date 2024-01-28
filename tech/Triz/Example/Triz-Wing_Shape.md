@@ -17,7 +17,8 @@ tags:
 Aircraft Wing Shape reduces Air Density above the Wing, increases Density below Wing, to create Lift. (This also demonstrates Principle 4, Asymmetry).
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Example/Triz-Wing_Shape.md|Triz-Wing_Shape]] 
+- [[../../../../_Standards/tech/Triz/Example/Triz-Wing_Shape|Triz-Wing_Shape]] 
+- [[../../../../_public/tech/Triz/Example/Triz-Wing_Shape.public|Triz-Wing_Shape.public]] 
 - [[../../../../_internal/tech/Triz/Example/Triz-Wing_Shape.internal|Triz-Wing_Shape.internal]] 
 - [[../../../../_protect/tech/Triz/Example/Triz-Wing_Shape.protect|Triz-Wing_Shape.protect]] 
 - [[../../../../_private/tech/Triz/Example/Triz-Wing_Shape.private|Triz-Wing_Shape.private]] 

@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Speed+Partial,_overdone,_or_excessive_action-Difficulty.md|Triz-Speed+Partial,_overdone,_or_excessive_action-Difficulty]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Speed+Partial,_overdone,_or_excessive_action-Difficulty|Triz-Speed+Partial,_overdone,_or_excessive_action-Difficulty]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Speed+Partial,_overdone,_or_excessive_action-Difficulty.public|Triz-Speed+Partial,_overdone,_or_excessive_action-Difficulty.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Speed+Partial,_overdone,_or_excessive_action-Difficulty.internal|Triz-Speed+Partial,_overdone,_or_excessive_action-Difficulty.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Speed+Partial,_overdone,_or_excessive_action-Difficulty.protect|Triz-Speed+Partial,_overdone,_or_excessive_action-Difficulty.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Speed+Partial,_overdone,_or_excessive_action-Difficulty.private|Triz-Speed+Partial,_overdone,_or_excessive_action-Difficulty.private]] 

@@ -27,7 +27,8 @@ confidential: public
 
 
 ## Confidential Links & Embeds: 
-- [[../../../_public/astro/Star/Grumium.md|Grumium]] 
+- [[../../../_Standards/astro/Star/Grumium|Grumium]] 
+- [[../../../_public/astro/Star/Grumium.public|Grumium.public]] 
 - [[../../../_internal/astro/Star/Grumium.internal|Grumium.internal]] 
 - [[../../../_protect/astro/Star/Grumium.protect|Grumium.protect]] 
 - [[../../../_private/astro/Star/Grumium.private|Grumium.private]] 

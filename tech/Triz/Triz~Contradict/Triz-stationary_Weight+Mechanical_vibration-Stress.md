@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-stationary_Weight+Mechanical_vibration-Stress.md|Triz-stationary_Weight+Mechanical_vibration-Stress]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-stationary_Weight+Mechanical_vibration-Stress|Triz-stationary_Weight+Mechanical_vibration-Stress]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-stationary_Weight+Mechanical_vibration-Stress.public|Triz-stationary_Weight+Mechanical_vibration-Stress.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-stationary_Weight+Mechanical_vibration-Stress.internal|Triz-stationary_Weight+Mechanical_vibration-Stress.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-stationary_Weight+Mechanical_vibration-Stress.protect|Triz-stationary_Weight+Mechanical_vibration-Stress.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-stationary_Weight+Mechanical_vibration-Stress.private|Triz-stationary_Weight+Mechanical_vibration-Stress.private]] 

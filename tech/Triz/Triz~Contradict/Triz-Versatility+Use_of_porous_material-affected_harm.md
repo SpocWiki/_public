@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Versatility+Use_of_porous_material-affected_harm.md|Triz-Versatility+Use_of_porous_material-affected_harm]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Versatility+Use_of_porous_material-affected_harm|Triz-Versatility+Use_of_porous_material-affected_harm]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Versatility+Use_of_porous_material-affected_harm.public|Triz-Versatility+Use_of_porous_material-affected_harm.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Versatility+Use_of_porous_material-affected_harm.internal|Triz-Versatility+Use_of_porous_material-affected_harm.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Versatility+Use_of_porous_material-affected_harm.protect|Triz-Versatility+Use_of_porous_material-affected_harm.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Versatility+Use_of_porous_material-affected_harm.private|Triz-Versatility+Use_of_porous_material-affected_harm.private]] 

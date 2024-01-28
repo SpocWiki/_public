@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Temperature+Rushing_through-Illumination.md|Triz-Temperature+Rushing_through-Illumination]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Temperature+Rushing_through-Illumination|Triz-Temperature+Rushing_through-Illumination]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Temperature+Rushing_through-Illumination.public|Triz-Temperature+Rushing_through-Illumination.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Temperature+Rushing_through-Illumination.internal|Triz-Temperature+Rushing_through-Illumination.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Temperature+Rushing_through-Illumination.protect|Triz-Temperature+Rushing_through-Illumination.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Temperature+Rushing_through-Illumination.private|Triz-Temperature+Rushing_through-Illumination.private]] 

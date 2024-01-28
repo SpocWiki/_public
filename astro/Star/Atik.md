@@ -27,7 +27,8 @@ confidential: public
 
 
 ## Confidential Links & Embeds: 
-- [[../../../_public/astro/Star/Atik.md|Atik]] 
+- [[../../../_Standards/astro/Star/Atik|Atik]] 
+- [[../../../_public/astro/Star/Atik.public|Atik.public]] 
 - [[../../../_internal/astro/Star/Atik.internal|Atik.internal]] 
 - [[../../../_protect/astro/Star/Atik.protect|Atik.protect]] 
 - [[../../../_private/astro/Star/Atik.private|Atik.private]] 

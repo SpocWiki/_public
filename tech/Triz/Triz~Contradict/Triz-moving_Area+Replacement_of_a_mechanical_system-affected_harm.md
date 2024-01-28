@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-moving_Area+Replacement_of_a_mechanical_system-affected_harm.md|Triz-moving_Area+Replacement_of_a_mechanical_system-affected_harm]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-moving_Area+Replacement_of_a_mechanical_system-affected_harm|Triz-moving_Area+Replacement_of_a_mechanical_system-affected_harm]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-moving_Area+Replacement_of_a_mechanical_system-affected_harm.public|Triz-moving_Area+Replacement_of_a_mechanical_system-affected_harm.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-moving_Area+Replacement_of_a_mechanical_system-affected_harm.internal|Triz-moving_Area+Replacement_of_a_mechanical_system-affected_harm.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-moving_Area+Replacement_of_a_mechanical_system-affected_harm.protect|Triz-moving_Area+Replacement_of_a_mechanical_system-affected_harm.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-moving_Area+Replacement_of_a_mechanical_system-affected_harm.private|Triz-moving_Area+Replacement_of_a_mechanical_system-affected_harm.private]] 

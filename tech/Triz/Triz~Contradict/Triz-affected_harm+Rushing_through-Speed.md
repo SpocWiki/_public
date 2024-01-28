@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-affected_harm+Rushing_through-Speed.md|Triz-affected_harm+Rushing_through-Speed]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-affected_harm+Rushing_through-Speed|Triz-affected_harm+Rushing_through-Speed]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-affected_harm+Rushing_through-Speed.public|Triz-affected_harm+Rushing_through-Speed.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-affected_harm+Rushing_through-Speed.internal|Triz-affected_harm+Rushing_through-Speed.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-affected_harm+Rushing_through-Speed.protect|Triz-affected_harm+Rushing_through-Speed.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-affected_harm+Rushing_through-Speed.private|Triz-affected_harm+Rushing_through-Speed.private]] 

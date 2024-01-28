@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Reliability+Cushion_in_advance-moving_Energy.md|Triz-Reliability+Cushion_in_advance-moving_Energy]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Reliability+Cushion_in_advance-moving_Energy|Triz-Reliability+Cushion_in_advance-moving_Energy]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Reliability+Cushion_in_advance-moving_Energy.public|Triz-Reliability+Cushion_in_advance-moving_Energy.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Reliability+Cushion_in_advance-moving_Energy.internal|Triz-Reliability+Cushion_in_advance-moving_Energy.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Reliability+Cushion_in_advance-moving_Energy.protect|Triz-Reliability+Cushion_in_advance-moving_Energy.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Reliability+Cushion_in_advance-moving_Energy.private|Triz-Reliability+Cushion_in_advance-moving_Energy.private]] 

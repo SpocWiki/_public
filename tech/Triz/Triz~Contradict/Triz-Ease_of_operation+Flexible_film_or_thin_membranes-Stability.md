@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Ease_of_operation+Flexible_film_or_thin_membranes-Stability.md|Triz-Ease_of_operation+Flexible_film_or_thin_membranes-Stability]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Ease_of_operation+Flexible_film_or_thin_membranes-Stability|Triz-Ease_of_operation+Flexible_film_or_thin_membranes-Stability]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Ease_of_operation+Flexible_film_or_thin_membranes-Stability.public|Triz-Ease_of_operation+Flexible_film_or_thin_membranes-Stability.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Ease_of_operation+Flexible_film_or_thin_membranes-Stability.internal|Triz-Ease_of_operation+Flexible_film_or_thin_membranes-Stability.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Ease_of_operation+Flexible_film_or_thin_membranes-Stability.protect|Triz-Ease_of_operation+Flexible_film_or_thin_membranes-Stability.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Ease_of_operation+Flexible_film_or_thin_membranes-Stability.private|Triz-Ease_of_operation+Flexible_film_or_thin_membranes-Stability.private]] 

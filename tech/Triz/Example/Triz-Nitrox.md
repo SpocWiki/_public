@@ -17,7 +17,8 @@ tags:
 Scuba diving with Nitrox or other non-air Mixtures for extended Endurance
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Example/Triz-Nitrox.md|Triz-Nitrox]] 
+- [[../../../../_Standards/tech/Triz/Example/Triz-Nitrox|Triz-Nitrox]] 
+- [[../../../../_public/tech/Triz/Example/Triz-Nitrox.public|Triz-Nitrox.public]] 
 - [[../../../../_internal/tech/Triz/Example/Triz-Nitrox.internal|Triz-Nitrox.internal]] 
 - [[../../../../_protect/tech/Triz/Example/Triz-Nitrox.protect|Triz-Nitrox.protect]] 
 - [[../../../../_private/tech/Triz/Example/Triz-Nitrox.private|Triz-Nitrox.private]] 

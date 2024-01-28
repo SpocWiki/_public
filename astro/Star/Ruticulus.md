@@ -27,7 +27,8 @@ confidential: public
 
 
 ## Confidential Links & Embeds: 
-- [[../../../_public/astro/Star/Ruticulus.md|Ruticulus]] 
+- [[../../../_Standards/astro/Star/Ruticulus|Ruticulus]] 
+- [[../../../_public/astro/Star/Ruticulus.public|Ruticulus.public]] 
 - [[../../../_internal/astro/Star/Ruticulus.internal|Ruticulus.internal]] 
 - [[../../../_protect/astro/Star/Ruticulus.protect|Ruticulus.protect]] 
 - [[../../../_private/astro/Star/Ruticulus.private|Ruticulus.private]] 

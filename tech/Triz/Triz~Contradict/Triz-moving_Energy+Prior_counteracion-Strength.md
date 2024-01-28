@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-moving_Energy+Prior_counteracion-Strength.md|Triz-moving_Energy+Prior_counteracion-Strength]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-moving_Energy+Prior_counteracion-Strength|Triz-moving_Energy+Prior_counteracion-Strength]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-moving_Energy+Prior_counteracion-Strength.public|Triz-moving_Energy+Prior_counteracion-Strength.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-moving_Energy+Prior_counteracion-Strength.internal|Triz-moving_Energy+Prior_counteracion-Strength.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-moving_Energy+Prior_counteracion-Strength.protect|Triz-moving_Energy+Prior_counteracion-Strength.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-moving_Energy+Prior_counteracion-Strength.private|Triz-moving_Energy+Prior_counteracion-Strength.private]] 

@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-10307+22229-Automation.md|Triz-10307+22229-Automation]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-10307+22229-Automation|Triz-10307+22229-Automation]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-10307+22229-Automation.public|Triz-10307+22229-Automation.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-10307+22229-Automation.internal|Triz-10307+22229-Automation.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-10307+22229-Automation.protect|Triz-10307+22229-Automation.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-10307+22229-Automation.private|Triz-10307+22229-Automation.private]] 

@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Measurement_Accuracy+Universality-Power.md|Triz-Measurement_Accuracy+Universality-Power]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Measurement_Accuracy+Universality-Power|Triz-Measurement_Accuracy+Universality-Power]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Measurement_Accuracy+Universality-Power.public|Triz-Measurement_Accuracy+Universality-Power.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Measurement_Accuracy+Universality-Power.internal|Triz-Measurement_Accuracy+Universality-Power.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Measurement_Accuracy+Universality-Power.protect|Triz-Measurement_Accuracy+Universality-Power.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Measurement_Accuracy+Universality-Power.private|Triz-Measurement_Accuracy+Universality-Power.private]] 

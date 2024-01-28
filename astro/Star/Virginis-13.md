@@ -27,7 +27,8 @@ confidential: public
 
 
 ## Confidential Links & Embeds: 
-- [[../../../_public/astro/Star/Virginis-13.md|Virginis-13]] 
+- [[../../../_Standards/astro/Star/Virginis-13|Virginis-13]] 
+- [[../../../_public/astro/Star/Virginis-13.public|Virginis-13.public]] 
 - [[../../../_internal/astro/Star/Virginis-13.internal|Virginis-13.internal]] 
 - [[../../../_protect/astro/Star/Virginis-13.protect|Virginis-13.protect]] 
 - [[../../../_private/astro/Star/Virginis-13.private|Virginis-13.private]] 

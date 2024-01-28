@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Shape+Changing_the_color-Illumination.md|Triz-Shape+Changing_the_color-Illumination]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Shape+Changing_the_color-Illumination|Triz-Shape+Changing_the_color-Illumination]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Shape+Changing_the_color-Illumination.public|Triz-Shape+Changing_the_color-Illumination.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Shape+Changing_the_color-Illumination.internal|Triz-Shape+Changing_the_color-Illumination.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Shape+Changing_the_color-Illumination.protect|Triz-Shape+Changing_the_color-Illumination.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Shape+Changing_the_color-Illumination.private|Triz-Shape+Changing_the_color-Illumination.private]] 

@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-stationary_Weight+Transformation_of_physical_and_chemical_states_of_an_object-Information-Loss.md|Triz-stationary_Weight+Transformation_of_physical_and_chemical_states_of_an_object-Information-Loss]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-stationary_Weight+Transformation_of_physical_and_chemical_states_of_an_object-Information-Loss|Triz-stationary_Weight+Transformation_of_physical_and_chemical_states_of_an_object-Information-Loss]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-stationary_Weight+Transformation_of_physical_and_chemical_states_of_an_object-Information-Loss.public|Triz-stationary_Weight+Transformation_of_physical_and_chemical_states_of_an_object-Information-Loss.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-stationary_Weight+Transformation_of_physical_and_chemical_states_of_an_object-Information-Loss.internal|Triz-stationary_Weight+Transformation_of_physical_and_chemical_states_of_an_object-Information-Loss.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-stationary_Weight+Transformation_of_physical_and_chemical_states_of_an_object-Information-Loss.protect|Triz-stationary_Weight+Transformation_of_physical_and_chemical_states_of_an_object-Information-Loss.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-stationary_Weight+Transformation_of_physical_and_chemical_states_of_an_object-Information-Loss.private|Triz-stationary_Weight+Transformation_of_physical_and_chemical_states_of_an_object-Information-Loss.private]] 

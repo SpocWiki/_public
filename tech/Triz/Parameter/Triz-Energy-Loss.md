@@ -17,7 +17,8 @@ tags:
 Loss of Energy
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Parameter/Triz-Energy-Loss.md|Triz-Energy-Loss]] 
+- [[../../../../_Standards/tech/Triz/Parameter/Triz-Energy-Loss|Triz-Energy-Loss]] 
+- [[../../../../_public/tech/Triz/Parameter/Triz-Energy-Loss.public|Triz-Energy-Loss.public]] 
 - [[../../../../_internal/tech/Triz/Parameter/Triz-Energy-Loss.internal|Triz-Energy-Loss.internal]] 
 - [[../../../../_protect/tech/Triz/Parameter/Triz-Energy-Loss.protect|Triz-Energy-Loss.protect]] 
 - [[../../../../_private/tech/Triz/Parameter/Triz-Energy-Loss.private|Triz-Energy-Loss.private]] 

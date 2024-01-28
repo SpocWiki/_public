@@ -14,7 +14,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Principle/Triz-Inert_environment.md|Triz-Inert_environment]] 
+- [[../../../../_Standards/tech/Triz/Principle/Triz-Inert_environment|Triz-Inert_environment]] 
+- [[../../../../_public/tech/Triz/Principle/Triz-Inert_environment.public|Triz-Inert_environment.public]] 
 - [[../../../../_internal/tech/Triz/Principle/Triz-Inert_environment.internal|Triz-Inert_environment.internal]] 
 - [[../../../../_protect/tech/Triz/Principle/Triz-Inert_environment.protect|Triz-Inert_environment.protect]] 
 - [[../../../../_private/tech/Triz/Principle/Triz-Inert_environment.private|Triz-Inert_environment.private]] 

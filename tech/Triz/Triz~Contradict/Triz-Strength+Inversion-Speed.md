@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Strength+Inversion-Speed.md|Triz-Strength+Inversion-Speed]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Strength+Inversion-Speed|Triz-Strength+Inversion-Speed]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Strength+Inversion-Speed.public|Triz-Strength+Inversion-Speed.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Strength+Inversion-Speed.internal|Triz-Strength+Inversion-Speed.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Strength+Inversion-Speed.protect|Triz-Strength+Inversion-Speed.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Strength+Inversion-Speed.private|Triz-Strength+Inversion-Speed.private]] 

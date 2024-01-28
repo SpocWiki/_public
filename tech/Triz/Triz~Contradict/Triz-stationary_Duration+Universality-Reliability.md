@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-stationary_Duration+Universality-Reliability.md|Triz-stationary_Duration+Universality-Reliability]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-stationary_Duration+Universality-Reliability|Triz-stationary_Duration+Universality-Reliability]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-stationary_Duration+Universality-Reliability.public|Triz-stationary_Duration+Universality-Reliability.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-stationary_Duration+Universality-Reliability.internal|Triz-stationary_Duration+Universality-Reliability.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-stationary_Duration+Universality-Reliability.protect|Triz-stationary_Duration+Universality-Reliability.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-stationary_Duration+Universality-Reliability.private|Triz-stationary_Duration+Universality-Reliability.private]] 

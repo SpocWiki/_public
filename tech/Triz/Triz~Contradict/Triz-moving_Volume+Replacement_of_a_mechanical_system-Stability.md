@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-moving_Volume+Replacement_of_a_mechanical_system-Stability.md|Triz-moving_Volume+Replacement_of_a_mechanical_system-Stability]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-moving_Volume+Replacement_of_a_mechanical_system-Stability|Triz-moving_Volume+Replacement_of_a_mechanical_system-Stability]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-moving_Volume+Replacement_of_a_mechanical_system-Stability.public|Triz-moving_Volume+Replacement_of_a_mechanical_system-Stability.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-moving_Volume+Replacement_of_a_mechanical_system-Stability.internal|Triz-moving_Volume+Replacement_of_a_mechanical_system-Stability.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-moving_Volume+Replacement_of_a_mechanical_system-Stability.protect|Triz-moving_Volume+Replacement_of_a_mechanical_system-Stability.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-moving_Volume+Replacement_of_a_mechanical_system-Stability.private|Triz-moving_Volume+Replacement_of_a_mechanical_system-Stability.private]] 

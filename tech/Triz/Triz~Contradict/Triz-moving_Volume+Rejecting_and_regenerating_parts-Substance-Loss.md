@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-moving_Volume+Rejecting_and_regenerating_parts-Substance-Loss.md|Triz-moving_Volume+Rejecting_and_regenerating_parts-Substance-Loss]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-moving_Volume+Rejecting_and_regenerating_parts-Substance-Loss|Triz-moving_Volume+Rejecting_and_regenerating_parts-Substance-Loss]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-moving_Volume+Rejecting_and_regenerating_parts-Substance-Loss.public|Triz-moving_Volume+Rejecting_and_regenerating_parts-Substance-Loss.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-moving_Volume+Rejecting_and_regenerating_parts-Substance-Loss.internal|Triz-moving_Volume+Rejecting_and_regenerating_parts-Substance-Loss.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-moving_Volume+Rejecting_and_regenerating_parts-Substance-Loss.protect|Triz-moving_Volume+Rejecting_and_regenerating_parts-Substance-Loss.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-moving_Volume+Rejecting_and_regenerating_parts-Substance-Loss.private|Triz-moving_Volume+Rejecting_and_regenerating_parts-Substance-Loss.private]] 

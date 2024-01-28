@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Temperature+Partial,_overdone,_or_excessive_action-Automation.md|Triz-Temperature+Partial,_overdone,_or_excessive_action-Automation]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Temperature+Partial,_overdone,_or_excessive_action-Automation|Triz-Temperature+Partial,_overdone,_or_excessive_action-Automation]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Temperature+Partial,_overdone,_or_excessive_action-Automation.public|Triz-Temperature+Partial,_overdone,_or_excessive_action-Automation.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Temperature+Partial,_overdone,_or_excessive_action-Automation.internal|Triz-Temperature+Partial,_overdone,_or_excessive_action-Automation.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Temperature+Partial,_overdone,_or_excessive_action-Automation.protect|Triz-Temperature+Partial,_overdone,_or_excessive_action-Automation.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Temperature+Partial,_overdone,_or_excessive_action-Automation.private|Triz-Temperature+Partial,_overdone,_or_excessive_action-Automation.private]] 

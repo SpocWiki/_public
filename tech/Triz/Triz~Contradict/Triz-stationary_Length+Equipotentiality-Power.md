@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-stationary_Length+Equipotentiality-Power.md|Triz-stationary_Length+Equipotentiality-Power]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-stationary_Length+Equipotentiality-Power|Triz-stationary_Length+Equipotentiality-Power]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-stationary_Length+Equipotentiality-Power.public|Triz-stationary_Length+Equipotentiality-Power.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-stationary_Length+Equipotentiality-Power.internal|Triz-stationary_Length+Equipotentiality-Power.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-stationary_Length+Equipotentiality-Power.protect|Triz-stationary_Length+Equipotentiality-Power.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-stationary_Length+Equipotentiality-Power.private|Triz-stationary_Length+Equipotentiality-Power.private]] 

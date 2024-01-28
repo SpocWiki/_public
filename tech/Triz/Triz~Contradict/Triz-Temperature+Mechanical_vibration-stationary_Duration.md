@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Temperature+Mechanical_vibration-stationary_Duration.md|Triz-Temperature+Mechanical_vibration-stationary_Duration]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Temperature+Mechanical_vibration-stationary_Duration|Triz-Temperature+Mechanical_vibration-stationary_Duration]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Temperature+Mechanical_vibration-stationary_Duration.public|Triz-Temperature+Mechanical_vibration-stationary_Duration.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Temperature+Mechanical_vibration-stationary_Duration.internal|Triz-Temperature+Mechanical_vibration-stationary_Duration.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Temperature+Mechanical_vibration-stationary_Duration.protect|Triz-Temperature+Mechanical_vibration-stationary_Duration.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Temperature+Mechanical_vibration-stationary_Duration.private|Triz-Temperature+Mechanical_vibration-stationary_Duration.private]] 

@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Temperature+Mediator-generated_harm.md|Triz-Temperature+Mediator-generated_harm]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Temperature+Mediator-generated_harm|Triz-Temperature+Mediator-generated_harm]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Temperature+Mediator-generated_harm.public|Triz-Temperature+Mediator-generated_harm.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Temperature+Mediator-generated_harm.internal|Triz-Temperature+Mediator-generated_harm.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Temperature+Mediator-generated_harm.protect|Triz-Temperature+Mediator-generated_harm.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Temperature+Mediator-generated_harm.private|Triz-Temperature+Mediator-generated_harm.private]] 

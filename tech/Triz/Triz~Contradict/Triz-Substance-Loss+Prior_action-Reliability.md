@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Substance-Loss+Prior_action-Reliability.md|Triz-Substance-Loss+Prior_action-Reliability]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Substance-Loss+Prior_action-Reliability|Triz-Substance-Loss+Prior_action-Reliability]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Substance-Loss+Prior_action-Reliability.public|Triz-Substance-Loss+Prior_action-Reliability.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Substance-Loss+Prior_action-Reliability.internal|Triz-Substance-Loss+Prior_action-Reliability.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Substance-Loss+Prior_action-Reliability.protect|Triz-Substance-Loss+Prior_action-Reliability.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Substance-Loss+Prior_action-Reliability.private|Triz-Substance-Loss+Prior_action-Reliability.private]] 

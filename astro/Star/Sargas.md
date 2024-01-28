@@ -27,7 +27,8 @@ confidential: public
 
 
 ## Confidential Links & Embeds: 
-- [[../../../_public/astro/Star/Sargas.md|Sargas]] 
+- [[../../../_Standards/astro/Star/Sargas|Sargas]] 
+- [[../../../_public/astro/Star/Sargas.public|Sargas.public]] 
 - [[../../../_internal/astro/Star/Sargas.internal|Sargas.internal]] 
 - [[../../../_protect/astro/Star/Sargas.protect|Sargas.protect]] 
 - [[../../../_private/astro/Star/Sargas.private|Sargas.private]] 

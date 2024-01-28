@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Substance-Loss+Rejecting_and_regenerating_parts-Ease_of_manufacture.md|Triz-Substance-Loss+Rejecting_and_regenerating_parts-Ease_of_manufacture]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Substance-Loss+Rejecting_and_regenerating_parts-Ease_of_manufacture|Triz-Substance-Loss+Rejecting_and_regenerating_parts-Ease_of_manufacture]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Substance-Loss+Rejecting_and_regenerating_parts-Ease_of_manufacture.public|Triz-Substance-Loss+Rejecting_and_regenerating_parts-Ease_of_manufacture.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Substance-Loss+Rejecting_and_regenerating_parts-Ease_of_manufacture.internal|Triz-Substance-Loss+Rejecting_and_regenerating_parts-Ease_of_manufacture.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Substance-Loss+Rejecting_and_regenerating_parts-Ease_of_manufacture.protect|Triz-Substance-Loss+Rejecting_and_regenerating_parts-Ease_of_manufacture.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Substance-Loss+Rejecting_and_regenerating_parts-Ease_of_manufacture.private|Triz-Substance-Loss+Rejecting_and_regenerating_parts-Ease_of_manufacture.private]] 

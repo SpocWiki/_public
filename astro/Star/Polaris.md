@@ -27,7 +27,8 @@ confidential: public
 
 
 ## Confidential Links & Embeds: 
-- [[../../../_public/astro/Star/Polaris.md|Polaris]] 
+- [[../../../_Standards/astro/Star/Polaris|Polaris]] 
+- [[../../../_public/astro/Star/Polaris.public|Polaris.public]] 
 - [[../../../_internal/astro/Star/Polaris.internal|Polaris.internal]] 
 - [[../../../_protect/astro/Star/Polaris.protect|Polaris.protect]] 
 - [[../../../_private/astro/Star/Polaris.private|Polaris.private]] 

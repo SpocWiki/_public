@@ -23,7 +23,8 @@ Divide an object into parts capable of movement relative to each other.
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Sub/Triz-movable-parts.md|Triz-movable-parts]] 
+- [[../../../../_Standards/tech/Triz/Sub/Triz-movable-parts|Triz-movable-parts]] 
+- [[../../../../_public/tech/Triz/Sub/Triz-movable-parts.public|Triz-movable-parts.public]] 
 - [[../../../../_internal/tech/Triz/Sub/Triz-movable-parts.internal|Triz-movable-parts.internal]] 
 - [[../../../../_protect/tech/Triz/Sub/Triz-movable-parts.protect|Triz-movable-parts.protect]] 
 - [[../../../../_private/tech/Triz/Sub/Triz-movable-parts.private|Triz-movable-parts.private]] 

@@ -27,7 +27,8 @@ confidential: public
 
 
 ## Confidential Links & Embeds: 
-- [[../../../_public/astro/Star/Pherkad.md|Pherkad]] 
+- [[../../../_Standards/astro/Star/Pherkad|Pherkad]] 
+- [[../../../_public/astro/Star/Pherkad.public|Pherkad.public]] 
 - [[../../../_internal/astro/Star/Pherkad.internal|Pherkad.internal]] 
 - [[../../../_protect/astro/Star/Pherkad.protect|Pherkad.protect]] 
 - [[../../../_private/astro/Star/Pherkad.private|Pherkad.private]] 

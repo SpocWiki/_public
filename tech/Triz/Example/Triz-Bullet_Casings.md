@@ -17,7 +17,8 @@ tags:
 Bullet Casings are ejected after the Gun fires.
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Example/Triz-Bullet_Casings.md|Triz-Bullet_Casings]] 
+- [[../../../../_Standards/tech/Triz/Example/Triz-Bullet_Casings|Triz-Bullet_Casings]] 
+- [[../../../../_public/tech/Triz/Example/Triz-Bullet_Casings.public|Triz-Bullet_Casings.public]] 
 - [[../../../../_internal/tech/Triz/Example/Triz-Bullet_Casings.internal|Triz-Bullet_Casings.internal]] 
 - [[../../../../_protect/tech/Triz/Example/Triz-Bullet_Casings.protect|Triz-Bullet_Casings.protect]] 
 - [[../../../../_private/tech/Triz/Example/Triz-Bullet_Casings.private|Triz-Bullet_Casings.private]] 

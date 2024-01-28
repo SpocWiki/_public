@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Strength+Prior_action-Time-Loss.md|Triz-Strength+Prior_action-Time-Loss]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Strength+Prior_action-Time-Loss|Triz-Strength+Prior_action-Time-Loss]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Strength+Prior_action-Time-Loss.public|Triz-Strength+Prior_action-Time-Loss.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Strength+Prior_action-Time-Loss.internal|Triz-Strength+Prior_action-Time-Loss.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Strength+Prior_action-Time-Loss.protect|Triz-Strength+Prior_action-Time-Loss.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Strength+Prior_action-Time-Loss.private|Triz-Strength+Prior_action-Time-Loss.private]] 

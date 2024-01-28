@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Shape+Changing_the_color-Measurement_Accuracy.md|Triz-Shape+Changing_the_color-Measurement_Accuracy]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Shape+Changing_the_color-Measurement_Accuracy|Triz-Shape+Changing_the_color-Measurement_Accuracy]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Shape+Changing_the_color-Measurement_Accuracy.public|Triz-Shape+Changing_the_color-Measurement_Accuracy.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Shape+Changing_the_color-Measurement_Accuracy.internal|Triz-Shape+Changing_the_color-Measurement_Accuracy.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Shape+Changing_the_color-Measurement_Accuracy.protect|Triz-Shape+Changing_the_color-Measurement_Accuracy.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Shape+Changing_the_color-Measurement_Accuracy.private|Triz-Shape+Changing_the_color-Measurement_Accuracy.private]] 

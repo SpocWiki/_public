@@ -25,7 +25,8 @@ Instead of an unavailable, expensive, fragile object, use simpler and inexpensiv
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Sub/Triz-use-copies.md|Triz-use-copies]] 
+- [[../../../../_Standards/tech/Triz/Sub/Triz-use-copies|Triz-use-copies]] 
+- [[../../../../_public/tech/Triz/Sub/Triz-use-copies.public|Triz-use-copies.public]] 
 - [[../../../../_internal/tech/Triz/Sub/Triz-use-copies.internal|Triz-use-copies.internal]] 
 - [[../../../../_protect/tech/Triz/Sub/Triz-use-copies.protect|Triz-use-copies.protect]] 
 - [[../../../../_private/tech/Triz/Sub/Triz-use-copies.private|Triz-use-copies.private]] 

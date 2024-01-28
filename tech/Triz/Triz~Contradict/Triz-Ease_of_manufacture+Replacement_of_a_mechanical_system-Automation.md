@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Ease_of_manufacture+Replacement_of_a_mechanical_system-Automation.md|Triz-Ease_of_manufacture+Replacement_of_a_mechanical_system-Automation]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Ease_of_manufacture+Replacement_of_a_mechanical_system-Automation|Triz-Ease_of_manufacture+Replacement_of_a_mechanical_system-Automation]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Ease_of_manufacture+Replacement_of_a_mechanical_system-Automation.public|Triz-Ease_of_manufacture+Replacement_of_a_mechanical_system-Automation.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Ease_of_manufacture+Replacement_of_a_mechanical_system-Automation.internal|Triz-Ease_of_manufacture+Replacement_of_a_mechanical_system-Automation.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Ease_of_manufacture+Replacement_of_a_mechanical_system-Automation.protect|Triz-Ease_of_manufacture+Replacement_of_a_mechanical_system-Automation.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Ease_of_manufacture+Replacement_of_a_mechanical_system-Automation.private|Triz-Ease_of_manufacture+Replacement_of_a_mechanical_system-Automation.private]] 

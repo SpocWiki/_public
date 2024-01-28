@@ -16,7 +16,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../_public/astro/Zodiac/Zodiac~Cepheus.md|Zodiac~Cepheus]] 
+- [[../../../_Standards/astro/Zodiac/Zodiac~Cepheus|Zodiac~Cepheus]] 
+- [[../../../_public/astro/Zodiac/Zodiac~Cepheus.public|Zodiac~Cepheus.public]] 
 - [[../../../_internal/astro/Zodiac/Zodiac~Cepheus.internal|Zodiac~Cepheus.internal]] 
 - [[../../../_protect/astro/Zodiac/Zodiac~Cepheus.protect|Zodiac~Cepheus.protect]] 
 - [[../../../_private/astro/Zodiac/Zodiac~Cepheus.private|Zodiac~Cepheus.private]] 

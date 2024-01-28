@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Strength+Transformation_of_physical_and_chemical_states_of_an_object-Shape.md|Triz-Strength+Transformation_of_physical_and_chemical_states_of_an_object-Shape]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Strength+Transformation_of_physical_and_chemical_states_of_an_object-Shape|Triz-Strength+Transformation_of_physical_and_chemical_states_of_an_object-Shape]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Strength+Transformation_of_physical_and_chemical_states_of_an_object-Shape.public|Triz-Strength+Transformation_of_physical_and_chemical_states_of_an_object-Shape.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Strength+Transformation_of_physical_and_chemical_states_of_an_object-Shape.internal|Triz-Strength+Transformation_of_physical_and_chemical_states_of_an_object-Shape.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Strength+Transformation_of_physical_and_chemical_states_of_an_object-Shape.protect|Triz-Strength+Transformation_of_physical_and_chemical_states_of_an_object-Shape.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Strength+Transformation_of_physical_and_chemical_states_of_an_object-Shape.private|Triz-Strength+Transformation_of_physical_and_chemical_states_of_an_object-Shape.private]] 

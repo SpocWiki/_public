@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Ease_of_manufacture+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Illumination.md|Triz-Ease_of_manufacture+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Illumination]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Ease_of_manufacture+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Illumination|Triz-Ease_of_manufacture+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Illumination]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Ease_of_manufacture+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Illumination.public|Triz-Ease_of_manufacture+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Illumination.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Ease_of_manufacture+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Illumination.internal|Triz-Ease_of_manufacture+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Illumination.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Ease_of_manufacture+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Illumination.protect|Triz-Ease_of_manufacture+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Illumination.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Ease_of_manufacture+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Illumination.private|Triz-Ease_of_manufacture+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Illumination.private]] 

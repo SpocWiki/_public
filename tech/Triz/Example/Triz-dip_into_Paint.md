@@ -17,7 +17,8 @@ tags:
 A Cylinder is painted by dipping into Paint, but contains more Paint than desired. Excess Paint is then removed by rapidly rotating the Cylinder.
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Example/Triz-dip_into_Paint.md|Triz-dip_into_Paint]] 
+- [[../../../../_Standards/tech/Triz/Example/Triz-dip_into_Paint|Triz-dip_into_Paint]] 
+- [[../../../../_public/tech/Triz/Example/Triz-dip_into_Paint.public|Triz-dip_into_Paint.public]] 
 - [[../../../../_internal/tech/Triz/Example/Triz-dip_into_Paint.internal|Triz-dip_into_Paint.internal]] 
 - [[../../../../_protect/tech/Triz/Example/Triz-dip_into_Paint.protect|Triz-dip_into_Paint.protect]] 
 - [[../../../../_private/tech/Triz/Example/Triz-dip_into_Paint.private|Triz-dip_into_Paint.private]] 

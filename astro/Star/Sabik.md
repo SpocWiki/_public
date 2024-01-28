@@ -27,7 +27,8 @@ confidential: public
 
 
 ## Confidential Links & Embeds: 
-- [[../../../_public/astro/Star/Sabik.md|Sabik]] 
+- [[../../../_Standards/astro/Star/Sabik|Sabik]] 
+- [[../../../_public/astro/Star/Sabik.public|Sabik.public]] 
 - [[../../../_internal/astro/Star/Sabik.internal|Sabik.internal]] 
 - [[../../../_protect/astro/Star/Sabik.protect|Sabik.protect]] 
 - [[../../../_private/astro/Star/Sabik.private|Sabik.private]] 

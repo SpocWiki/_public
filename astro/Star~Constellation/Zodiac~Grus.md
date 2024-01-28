@@ -17,7 +17,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../_public/astro/Zodiac/Zodiac~Grus.md|Zodiac~Grus]] 
+- [[../../../_Standards/astro/Zodiac/Zodiac~Grus|Zodiac~Grus]] 
+- [[../../../_public/astro/Zodiac/Zodiac~Grus.public|Zodiac~Grus.public]] 
 - [[../../../_internal/astro/Zodiac/Zodiac~Grus.internal|Zodiac~Grus.internal]] 
 - [[../../../_protect/astro/Zodiac/Zodiac~Grus.protect|Zodiac~Grus.protect]] 
 - [[../../../_private/astro/Zodiac/Zodiac~Grus.private|Zodiac~Grus.private]] 

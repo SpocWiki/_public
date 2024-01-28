@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-generated_harm+Extraction-Energy-Loss.md|Triz-generated_harm+Extraction-Energy-Loss]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-generated_harm+Extraction-Energy-Loss|Triz-generated_harm+Extraction-Energy-Loss]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-generated_harm+Extraction-Energy-Loss.public|Triz-generated_harm+Extraction-Energy-Loss.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-generated_harm+Extraction-Energy-Loss.internal|Triz-generated_harm+Extraction-Energy-Loss.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-generated_harm+Extraction-Energy-Loss.protect|Triz-generated_harm+Extraction-Energy-Loss.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-generated_harm+Extraction-Energy-Loss.private|Triz-generated_harm+Extraction-Energy-Loss.private]] 

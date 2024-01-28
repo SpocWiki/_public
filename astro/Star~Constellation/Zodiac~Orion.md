@@ -17,7 +17,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../_public/astro/Zodiac/Zodiac~Orion.md|Zodiac~Orion]] 
+- [[../../../_Standards/astro/Zodiac/Zodiac~Orion|Zodiac~Orion]] 
+- [[../../../_public/astro/Zodiac/Zodiac~Orion.public|Zodiac~Orion.public]] 
 - [[../../../_internal/astro/Zodiac/Zodiac~Orion.internal|Zodiac~Orion.internal]] 
 - [[../../../_protect/astro/Zodiac/Zodiac~Orion.protect|Zodiac~Orion.protect]] 
 - [[../../../_private/astro/Zodiac/Zodiac~Orion.private|Zodiac~Orion.private]] 

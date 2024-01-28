@@ -17,7 +17,8 @@ tags:
 Use Photolithography to change transparent Material to a solid Mask for Semiconductor Processing. Similarly, change mask material from transparent to opaque for silk screen processing.
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Example/Triz-Photolithography.md|Triz-Photolithography]] 
+- [[../../../../_Standards/tech/Triz/Example/Triz-Photolithography|Triz-Photolithography]] 
+- [[../../../../_public/tech/Triz/Example/Triz-Photolithography.public|Triz-Photolithography.public]] 
 - [[../../../../_internal/tech/Triz/Example/Triz-Photolithography.internal|Triz-Photolithography.internal]] 
 - [[../../../../_protect/tech/Triz/Example/Triz-Photolithography.protect|Triz-Photolithography.protect]] 
 - [[../../../../_private/tech/Triz/Example/Triz-Photolithography.private|Triz-Photolithography.private]] 

@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Substance-Loss+Inversion-Illumination.md|Triz-Substance-Loss+Inversion-Illumination]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Substance-Loss+Inversion-Illumination|Triz-Substance-Loss+Inversion-Illumination]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Substance-Loss+Inversion-Illumination.public|Triz-Substance-Loss+Inversion-Illumination.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Substance-Loss+Inversion-Illumination.internal|Triz-Substance-Loss+Inversion-Illumination.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Substance-Loss+Inversion-Illumination.protect|Triz-Substance-Loss+Inversion-Illumination.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Substance-Loss+Inversion-Illumination.private|Triz-Substance-Loss+Inversion-Illumination.private]] 

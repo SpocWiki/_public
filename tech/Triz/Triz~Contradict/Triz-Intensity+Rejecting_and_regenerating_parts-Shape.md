@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Intensity+Rejecting_and_regenerating_parts-Shape.md|Triz-Intensity+Rejecting_and_regenerating_parts-Shape]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Intensity+Rejecting_and_regenerating_parts-Shape|Triz-Intensity+Rejecting_and_regenerating_parts-Shape]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Intensity+Rejecting_and_regenerating_parts-Shape.public|Triz-Intensity+Rejecting_and_regenerating_parts-Shape.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Intensity+Rejecting_and_regenerating_parts-Shape.internal|Triz-Intensity+Rejecting_and_regenerating_parts-Shape.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Intensity+Rejecting_and_regenerating_parts-Shape.protect|Triz-Intensity+Rejecting_and_regenerating_parts-Shape.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Intensity+Rejecting_and_regenerating_parts-Shape.private|Triz-Intensity+Rejecting_and_regenerating_parts-Shape.private]] 

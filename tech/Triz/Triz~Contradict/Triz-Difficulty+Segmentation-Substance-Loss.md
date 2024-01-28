@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Difficulty+Segmentation-Substance-Loss.md|Triz-Difficulty+Segmentation-Substance-Loss]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Difficulty+Segmentation-Substance-Loss|Triz-Difficulty+Segmentation-Substance-Loss]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Difficulty+Segmentation-Substance-Loss.public|Triz-Difficulty+Segmentation-Substance-Loss.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Difficulty+Segmentation-Substance-Loss.internal|Triz-Difficulty+Segmentation-Substance-Loss.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Difficulty+Segmentation-Substance-Loss.protect|Triz-Difficulty+Segmentation-Substance-Loss.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Difficulty+Segmentation-Substance-Loss.private|Triz-Difficulty+Segmentation-Substance-Loss.private]] 

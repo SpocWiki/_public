@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-moving_Length+Dynamicity-Time-Loss.md|Triz-moving_Length+Dynamicity-Time-Loss]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-moving_Length+Dynamicity-Time-Loss|Triz-moving_Length+Dynamicity-Time-Loss]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-moving_Length+Dynamicity-Time-Loss.public|Triz-moving_Length+Dynamicity-Time-Loss.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-moving_Length+Dynamicity-Time-Loss.internal|Triz-moving_Length+Dynamicity-Time-Loss.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-moving_Length+Dynamicity-Time-Loss.protect|Triz-moving_Length+Dynamicity-Time-Loss.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-moving_Length+Dynamicity-Time-Loss.private|Triz-moving_Length+Dynamicity-Time-Loss.private]] 

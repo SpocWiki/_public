@@ -27,7 +27,8 @@ Use gas and liquid parts of an object instead of solid parts (e.g. inflatable, f
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Sub/Triz-use-fluid.md|Triz-use-fluid]] 
+- [[../../../../_Standards/tech/Triz/Sub/Triz-use-fluid|Triz-use-fluid]] 
+- [[../../../../_public/tech/Triz/Sub/Triz-use-fluid.public|Triz-use-fluid.public]] 
 - [[../../../../_internal/tech/Triz/Sub/Triz-use-fluid.internal|Triz-use-fluid.internal]] 
 - [[../../../../_protect/tech/Triz/Sub/Triz-use-fluid.protect|Triz-use-fluid.protect]] 
 - [[../../../../_private/tech/Triz/Sub/Triz-use-fluid.private|Triz-use-fluid.private]] 

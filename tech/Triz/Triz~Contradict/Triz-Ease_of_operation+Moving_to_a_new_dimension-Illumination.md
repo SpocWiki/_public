@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Ease_of_operation+Moving_to_a_new_dimension-Illumination.md|Triz-Ease_of_operation+Moving_to_a_new_dimension-Illumination]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Ease_of_operation+Moving_to_a_new_dimension-Illumination|Triz-Ease_of_operation+Moving_to_a_new_dimension-Illumination]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Ease_of_operation+Moving_to_a_new_dimension-Illumination.public|Triz-Ease_of_operation+Moving_to_a_new_dimension-Illumination.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Ease_of_operation+Moving_to_a_new_dimension-Illumination.internal|Triz-Ease_of_operation+Moving_to_a_new_dimension-Illumination.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Ease_of_operation+Moving_to_a_new_dimension-Illumination.protect|Triz-Ease_of_operation+Moving_to_a_new_dimension-Illumination.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Ease_of_operation+Moving_to_a_new_dimension-Illumination.private|Triz-Ease_of_operation+Moving_to_a_new_dimension-Illumination.private]] 

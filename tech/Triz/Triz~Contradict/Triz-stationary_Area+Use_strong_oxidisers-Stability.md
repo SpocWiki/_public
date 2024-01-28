@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-stationary_Area+Use_strong_oxidisers-Stability.md|Triz-stationary_Area+Use_strong_oxidisers-Stability]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-stationary_Area+Use_strong_oxidisers-Stability|Triz-stationary_Area+Use_strong_oxidisers-Stability]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-stationary_Area+Use_strong_oxidisers-Stability.public|Triz-stationary_Area+Use_strong_oxidisers-Stability.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-stationary_Area+Use_strong_oxidisers-Stability.internal|Triz-stationary_Area+Use_strong_oxidisers-Stability.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-stationary_Area+Use_strong_oxidisers-Stability.protect|Triz-stationary_Area+Use_strong_oxidisers-Stability.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-stationary_Area+Use_strong_oxidisers-Stability.private|Triz-stationary_Area+Use_strong_oxidisers-Stability.private]] 

@@ -17,7 +17,8 @@ tags:
 Use a Helium-Oxygen Mix for Diving, to eliminate both Nitrogen Narcosis and Oxygen Poisoning from Air and other Nitrox Mixes.
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Example/Triz-Helium-Oxygen_Mix.md|Triz-Helium-Oxygen_Mix]] 
+- [[../../../../_Standards/tech/Triz/Example/Triz-Helium-Oxygen_Mix|Triz-Helium-Oxygen_Mix]] 
+- [[../../../../_public/tech/Triz/Example/Triz-Helium-Oxygen_Mix.public|Triz-Helium-Oxygen_Mix.public]] 
 - [[../../../../_internal/tech/Triz/Example/Triz-Helium-Oxygen_Mix.internal|Triz-Helium-Oxygen_Mix.internal]] 
 - [[../../../../_protect/tech/Triz/Example/Triz-Helium-Oxygen_Mix.protect|Triz-Helium-Oxygen_Mix.protect]] 
 - [[../../../../_private/tech/Triz/Example/Triz-Helium-Oxygen_Mix.private|Triz-Helium-Oxygen_Mix.private]] 

@@ -17,7 +17,8 @@ tags:
 Use Heat from a Process to generate Electricity: 'Co-generation'.
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Example/Triz-Electricity_from_Heat.md|Triz-Electricity_from_Heat]] 
+- [[../../../../_Standards/tech/Triz/Example/Triz-Electricity_from_Heat|Triz-Electricity_from_Heat]] 
+- [[../../../../_public/tech/Triz/Example/Triz-Electricity_from_Heat.public|Triz-Electricity_from_Heat.public]] 
 - [[../../../../_internal/tech/Triz/Example/Triz-Electricity_from_Heat.internal|Triz-Electricity_from_Heat.internal]] 
 - [[../../../../_protect/tech/Triz/Example/Triz-Electricity_from_Heat.protect|Triz-Electricity_from_Heat.protect]] 
 - [[../../../../_private/tech/Triz/Example/Triz-Electricity_from_Heat.private|Triz-Electricity_from_Heat.private]] 

@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Ease_of_operation+Segmentation-Versatility.md|Triz-Ease_of_operation+Segmentation-Versatility]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Ease_of_operation+Segmentation-Versatility|Triz-Ease_of_operation+Segmentation-Versatility]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Ease_of_operation+Segmentation-Versatility.public|Triz-Ease_of_operation+Segmentation-Versatility.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Ease_of_operation+Segmentation-Versatility.internal|Triz-Ease_of_operation+Segmentation-Versatility.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Ease_of_operation+Segmentation-Versatility.protect|Triz-Ease_of_operation+Segmentation-Versatility.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Ease_of_operation+Segmentation-Versatility.private|Triz-Ease_of_operation+Segmentation-Versatility.private]] 

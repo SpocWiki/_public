@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Intensity+Rushing_through-Stress.md|Triz-Intensity+Rushing_through-Stress]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Intensity+Rushing_through-Stress|Triz-Intensity+Rushing_through-Stress]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Intensity+Rushing_through-Stress.public|Triz-Intensity+Rushing_through-Stress.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Intensity+Rushing_through-Stress.internal|Triz-Intensity+Rushing_through-Stress.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Intensity+Rushing_through-Stress.protect|Triz-Intensity+Rushing_through-Stress.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Intensity+Rushing_through-Stress.private|Triz-Intensity+Rushing_through-Stress.private]] 

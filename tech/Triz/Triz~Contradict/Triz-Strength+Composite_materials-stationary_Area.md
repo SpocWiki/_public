@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Strength+Composite_materials-stationary_Area.md|Triz-Strength+Composite_materials-stationary_Area]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Strength+Composite_materials-stationary_Area|Triz-Strength+Composite_materials-stationary_Area]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Strength+Composite_materials-stationary_Area.public|Triz-Strength+Composite_materials-stationary_Area.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Strength+Composite_materials-stationary_Area.internal|Triz-Strength+Composite_materials-stationary_Area.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Strength+Composite_materials-stationary_Area.protect|Triz-Strength+Composite_materials-stationary_Area.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Strength+Composite_materials-stationary_Area.private|Triz-Strength+Composite_materials-stationary_Area.private]] 

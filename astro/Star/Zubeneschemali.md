@@ -27,7 +27,8 @@ confidential: public
 
 
 ## Confidential Links & Embeds: 
-- [[../../../_public/astro/Star/Zubeneschemali.md|Zubeneschemali]] 
+- [[../../../_Standards/astro/Star/Zubeneschemali|Zubeneschemali]] 
+- [[../../../_public/astro/Star/Zubeneschemali.public|Zubeneschemali.public]] 
 - [[../../../_internal/astro/Star/Zubeneschemali.internal|Zubeneschemali.internal]] 
 - [[../../../_protect/astro/Star/Zubeneschemali.protect|Zubeneschemali.protect]] 
 - [[../../../_private/astro/Star/Zubeneschemali.private|Zubeneschemali.private]] 

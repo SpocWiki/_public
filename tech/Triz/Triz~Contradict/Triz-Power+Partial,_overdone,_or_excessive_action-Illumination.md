@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Power+Partial,_overdone,_or_excessive_action-Illumination.md|Triz-Power+Partial,_overdone,_or_excessive_action-Illumination]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Power+Partial,_overdone,_or_excessive_action-Illumination|Triz-Power+Partial,_overdone,_or_excessive_action-Illumination]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Power+Partial,_overdone,_or_excessive_action-Illumination.public|Triz-Power+Partial,_overdone,_or_excessive_action-Illumination.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Power+Partial,_overdone,_or_excessive_action-Illumination.internal|Triz-Power+Partial,_overdone,_or_excessive_action-Illumination.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Power+Partial,_overdone,_or_excessive_action-Illumination.protect|Triz-Power+Partial,_overdone,_or_excessive_action-Illumination.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Power+Partial,_overdone,_or_excessive_action-Illumination.private|Triz-Power+Partial,_overdone,_or_excessive_action-Illumination.private]] 

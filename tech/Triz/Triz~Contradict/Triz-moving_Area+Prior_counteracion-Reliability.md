@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-moving_Area+Prior_counteracion-Reliability.md|Triz-moving_Area+Prior_counteracion-Reliability]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-moving_Area+Prior_counteracion-Reliability|Triz-moving_Area+Prior_counteracion-Reliability]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-moving_Area+Prior_counteracion-Reliability.public|Triz-moving_Area+Prior_counteracion-Reliability.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-moving_Area+Prior_counteracion-Reliability.internal|Triz-moving_Area+Prior_counteracion-Reliability.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-moving_Area+Prior_counteracion-Reliability.protect|Triz-moving_Area+Prior_counteracion-Reliability.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-moving_Area+Prior_counteracion-Reliability.private|Triz-moving_Area+Prior_counteracion-Reliability.private]] 

@@ -27,7 +27,8 @@ confidential: public
 
 
 ## Confidential Links & Embeds: 
-- [[../../../_public/astro/Star/Kaus_Media.md|Kaus_Media]] 
+- [[../../../_Standards/astro/Star/Kaus_Media|Kaus_Media]] 
+- [[../../../_public/astro/Star/Kaus_Media.public|Kaus_Media.public]] 
 - [[../../../_internal/astro/Star/Kaus_Media.internal|Kaus_Media.internal]] 
 - [[../../../_protect/astro/Star/Kaus_Media.protect|Kaus_Media.protect]] 
 - [[../../../_private/astro/Star/Kaus_Media.private|Kaus_Media.private]] 

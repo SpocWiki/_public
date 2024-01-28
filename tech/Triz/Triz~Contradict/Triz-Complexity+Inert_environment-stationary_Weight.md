@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Complexity+Inert_environment-stationary_Weight.md|Triz-Complexity+Inert_environment-stationary_Weight]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Complexity+Inert_environment-stationary_Weight|Triz-Complexity+Inert_environment-stationary_Weight]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Complexity+Inert_environment-stationary_Weight.public|Triz-Complexity+Inert_environment-stationary_Weight.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Complexity+Inert_environment-stationary_Weight.internal|Triz-Complexity+Inert_environment-stationary_Weight.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Complexity+Inert_environment-stationary_Weight.protect|Triz-Complexity+Inert_environment-stationary_Weight.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Complexity+Inert_environment-stationary_Weight.private|Triz-Complexity+Inert_environment-stationary_Weight.private]] 

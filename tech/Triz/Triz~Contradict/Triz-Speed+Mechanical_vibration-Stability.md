@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Speed+Mechanical_vibration-Stability.md|Triz-Speed+Mechanical_vibration-Stability]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Speed+Mechanical_vibration-Stability|Triz-Speed+Mechanical_vibration-Stability]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Speed+Mechanical_vibration-Stability.public|Triz-Speed+Mechanical_vibration-Stability.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Speed+Mechanical_vibration-Stability.internal|Triz-Speed+Mechanical_vibration-Stability.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Speed+Mechanical_vibration-Stability.protect|Triz-Speed+Mechanical_vibration-Stability.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Speed+Mechanical_vibration-Stability.private|Triz-Speed+Mechanical_vibration-Stability.private]] 

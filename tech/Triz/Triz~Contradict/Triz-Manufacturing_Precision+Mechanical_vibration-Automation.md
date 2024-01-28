@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Manufacturing_Precision+Mechanical_vibration-Automation.md|Triz-Manufacturing_Precision+Mechanical_vibration-Automation]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Manufacturing_Precision+Mechanical_vibration-Automation|Triz-Manufacturing_Precision+Mechanical_vibration-Automation]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Manufacturing_Precision+Mechanical_vibration-Automation.public|Triz-Manufacturing_Precision+Mechanical_vibration-Automation.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Manufacturing_Precision+Mechanical_vibration-Automation.internal|Triz-Manufacturing_Precision+Mechanical_vibration-Automation.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Manufacturing_Precision+Mechanical_vibration-Automation.protect|Triz-Manufacturing_Precision+Mechanical_vibration-Automation.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Manufacturing_Precision+Mechanical_vibration-Automation.private|Triz-Manufacturing_Precision+Mechanical_vibration-Automation.private]] 

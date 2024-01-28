@@ -27,7 +27,8 @@ confidential: public
 
 
 ## Confidential Links & Embeds: 
-- [[../../../_public/astro/Star/Sadachbia.md|Sadachbia]] 
+- [[../../../_Standards/astro/Star/Sadachbia|Sadachbia]] 
+- [[../../../_public/astro/Star/Sadachbia.public|Sadachbia.public]] 
 - [[../../../_internal/astro/Star/Sadachbia.internal|Sadachbia.internal]] 
 - [[../../../_protect/astro/Star/Sadachbia.protect|Sadachbia.protect]] 
 - [[../../../_private/astro/Star/Sadachbia.private|Sadachbia.private]] 

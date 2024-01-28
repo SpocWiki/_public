@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-stationary_Area+Nesting-Energy-Loss.md|Triz-stationary_Area+Nesting-Energy-Loss]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-stationary_Area+Nesting-Energy-Loss|Triz-stationary_Area+Nesting-Energy-Loss]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-stationary_Area+Nesting-Energy-Loss.public|Triz-stationary_Area+Nesting-Energy-Loss.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-stationary_Area+Nesting-Energy-Loss.internal|Triz-stationary_Area+Nesting-Energy-Loss.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-stationary_Area+Nesting-Energy-Loss.protect|Triz-stationary_Area+Nesting-Energy-Loss.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-stationary_Area+Nesting-Energy-Loss.private|Triz-stationary_Area+Nesting-Energy-Loss.private]] 

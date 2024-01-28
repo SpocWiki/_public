@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Time-Loss+Transformation_of_physical_and_chemical_states_of_an_object-Power.md|Triz-Time-Loss+Transformation_of_physical_and_chemical_states_of_an_object-Power]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Time-Loss+Transformation_of_physical_and_chemical_states_of_an_object-Power|Triz-Time-Loss+Transformation_of_physical_and_chemical_states_of_an_object-Power]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Time-Loss+Transformation_of_physical_and_chemical_states_of_an_object-Power.public|Triz-Time-Loss+Transformation_of_physical_and_chemical_states_of_an_object-Power.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Time-Loss+Transformation_of_physical_and_chemical_states_of_an_object-Power.internal|Triz-Time-Loss+Transformation_of_physical_and_chemical_states_of_an_object-Power.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Time-Loss+Transformation_of_physical_and_chemical_states_of_an_object-Power.protect|Triz-Time-Loss+Transformation_of_physical_and_chemical_states_of_an_object-Power.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Time-Loss+Transformation_of_physical_and_chemical_states_of_an_object-Power.private|Triz-Time-Loss+Transformation_of_physical_and_chemical_states_of_an_object-Power.private]] 

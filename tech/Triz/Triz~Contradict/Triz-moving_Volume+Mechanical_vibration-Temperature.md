@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-moving_Volume+Mechanical_vibration-Temperature.md|Triz-moving_Volume+Mechanical_vibration-Temperature]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-moving_Volume+Mechanical_vibration-Temperature|Triz-moving_Volume+Mechanical_vibration-Temperature]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-moving_Volume+Mechanical_vibration-Temperature.public|Triz-moving_Volume+Mechanical_vibration-Temperature.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-moving_Volume+Mechanical_vibration-Temperature.internal|Triz-moving_Volume+Mechanical_vibration-Temperature.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-moving_Volume+Mechanical_vibration-Temperature.protect|Triz-moving_Volume+Mechanical_vibration-Temperature.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-moving_Volume+Mechanical_vibration-Temperature.private|Triz-moving_Volume+Mechanical_vibration-Temperature.private]] 

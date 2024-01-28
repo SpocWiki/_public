@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Power+Continuity_of_useful_action-Complexity.md|Triz-Power+Continuity_of_useful_action-Complexity]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Power+Continuity_of_useful_action-Complexity|Triz-Power+Continuity_of_useful_action-Complexity]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Power+Continuity_of_useful_action-Complexity.public|Triz-Power+Continuity_of_useful_action-Complexity.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Power+Continuity_of_useful_action-Complexity.internal|Triz-Power+Continuity_of_useful_action-Complexity.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Power+Continuity_of_useful_action-Complexity.protect|Triz-Power+Continuity_of_useful_action-Complexity.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Power+Continuity_of_useful_action-Complexity.private|Triz-Power+Continuity_of_useful_action-Complexity.private]] 

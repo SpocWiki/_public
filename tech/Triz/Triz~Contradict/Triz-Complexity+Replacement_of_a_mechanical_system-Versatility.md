@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Complexity+Replacement_of_a_mechanical_system-Versatility.md|Triz-Complexity+Replacement_of_a_mechanical_system-Versatility]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Complexity+Replacement_of_a_mechanical_system-Versatility|Triz-Complexity+Replacement_of_a_mechanical_system-Versatility]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Complexity+Replacement_of_a_mechanical_system-Versatility.public|Triz-Complexity+Replacement_of_a_mechanical_system-Versatility.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Complexity+Replacement_of_a_mechanical_system-Versatility.internal|Triz-Complexity+Replacement_of_a_mechanical_system-Versatility.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Complexity+Replacement_of_a_mechanical_system-Versatility.protect|Triz-Complexity+Replacement_of_a_mechanical_system-Versatility.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Complexity+Replacement_of_a_mechanical_system-Versatility.private|Triz-Complexity+Replacement_of_a_mechanical_system-Versatility.private]] 

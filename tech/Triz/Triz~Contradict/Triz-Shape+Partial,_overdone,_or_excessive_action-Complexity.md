@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Shape+Partial,_overdone,_or_excessive_action-Complexity.md|Triz-Shape+Partial,_overdone,_or_excessive_action-Complexity]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Shape+Partial,_overdone,_or_excessive_action-Complexity|Triz-Shape+Partial,_overdone,_or_excessive_action-Complexity]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Shape+Partial,_overdone,_or_excessive_action-Complexity.public|Triz-Shape+Partial,_overdone,_or_excessive_action-Complexity.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Shape+Partial,_overdone,_or_excessive_action-Complexity.internal|Triz-Shape+Partial,_overdone,_or_excessive_action-Complexity.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Shape+Partial,_overdone,_or_excessive_action-Complexity.protect|Triz-Shape+Partial,_overdone,_or_excessive_action-Complexity.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Shape+Partial,_overdone,_or_excessive_action-Complexity.private|Triz-Shape+Partial,_overdone,_or_excessive_action-Complexity.private]] 

@@ -17,7 +17,8 @@ tags:
 Treat Wounds in a high Pressure Oxygen Environment to kill Anaerobic Bacteria and aid Healing.
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Example/Triz-kill_Anaerobic_Bacteria.md|Triz-kill_Anaerobic_Bacteria]] 
+- [[../../../../_Standards/tech/Triz/Example/Triz-kill_Anaerobic_Bacteria|Triz-kill_Anaerobic_Bacteria]] 
+- [[../../../../_public/tech/Triz/Example/Triz-kill_Anaerobic_Bacteria.public|Triz-kill_Anaerobic_Bacteria.public]] 
 - [[../../../../_internal/tech/Triz/Example/Triz-kill_Anaerobic_Bacteria.internal|Triz-kill_Anaerobic_Bacteria.internal]] 
 - [[../../../../_protect/tech/Triz/Example/Triz-kill_Anaerobic_Bacteria.protect|Triz-kill_Anaerobic_Bacteria.protect]] 
 - [[../../../../_private/tech/Triz/Example/Triz-kill_Anaerobic_Bacteria.private|Triz-kill_Anaerobic_Bacteria.private]] 

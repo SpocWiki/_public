@@ -27,7 +27,8 @@ confidential: public
 
 
 ## Confidential Links & Embeds: 
-- [[../../../_public/astro/Star/Cor_Caroli.md|Cor_Caroli]] 
+- [[../../../_Standards/astro/Star/Cor_Caroli|Cor_Caroli]] 
+- [[../../../_public/astro/Star/Cor_Caroli.public|Cor_Caroli.public]] 
 - [[../../../_internal/astro/Star/Cor_Caroli.internal|Cor_Caroli.internal]] 
 - [[../../../_protect/astro/Star/Cor_Caroli.protect|Cor_Caroli.protect]] 
 - [[../../../_private/astro/Star/Cor_Caroli.private|Cor_Caroli.private]] 

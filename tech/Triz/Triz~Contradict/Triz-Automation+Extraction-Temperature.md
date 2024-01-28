@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Automation+Extraction-Temperature.md|Triz-Automation+Extraction-Temperature]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Automation+Extraction-Temperature|Triz-Automation+Extraction-Temperature]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Automation+Extraction-Temperature.public|Triz-Automation+Extraction-Temperature.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Automation+Extraction-Temperature.internal|Triz-Automation+Extraction-Temperature.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Automation+Extraction-Temperature.protect|Triz-Automation+Extraction-Temperature.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Automation+Extraction-Temperature.private|Triz-Automation+Extraction-Temperature.private]] 

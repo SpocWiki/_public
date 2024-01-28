@@ -17,7 +17,8 @@ tags:
 Freeze the liquid Centers of filled Candies, then dip in melted Chocolate, instead of handling the messy, gooey, hot Liquid.
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Example/Triz-Freeze_liquid.md|Triz-Freeze_liquid]] 
+- [[../../../../_Standards/tech/Triz/Example/Triz-Freeze_liquid|Triz-Freeze_liquid]] 
+- [[../../../../_public/tech/Triz/Example/Triz-Freeze_liquid.public|Triz-Freeze_liquid.public]] 
 - [[../../../../_internal/tech/Triz/Example/Triz-Freeze_liquid.internal|Triz-Freeze_liquid.internal]] 
 - [[../../../../_protect/tech/Triz/Example/Triz-Freeze_liquid.protect|Triz-Freeze_liquid.protect]] 
 - [[../../../../_private/tech/Triz/Example/Triz-Freeze_liquid.private|Triz-Freeze_liquid.private]] 

@@ -27,7 +27,8 @@ confidential: public
 
 
 ## Confidential Links & Embeds: 
-- [[../../../_public/astro/Star/Puppis-6.md|Puppis-6]] 
+- [[../../../_Standards/astro/Star/Puppis-6|Puppis-6]] 
+- [[../../../_public/astro/Star/Puppis-6.public|Puppis-6.public]] 
 - [[../../../_internal/astro/Star/Puppis-6.internal|Puppis-6.internal]] 
 - [[../../../_protect/astro/Star/Puppis-6.protect|Puppis-6.protect]] 
 - [[../../../_private/astro/Star/Puppis-6.private|Puppis-6.private]] 

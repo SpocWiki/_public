@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Power+Extraction-Shape.md|Triz-Power+Extraction-Shape]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Power+Extraction-Shape|Triz-Power+Extraction-Shape]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Power+Extraction-Shape.public|Triz-Power+Extraction-Shape.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Power+Extraction-Shape.internal|Triz-Power+Extraction-Shape.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Power+Extraction-Shape.protect|Triz-Power+Extraction-Shape.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Power+Extraction-Shape.private|Triz-Power+Extraction-Shape.private]] 

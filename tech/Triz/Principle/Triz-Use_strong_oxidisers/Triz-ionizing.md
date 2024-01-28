@@ -24,7 +24,8 @@ Expose air or oxygen to ionizing radiation.
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Sub/Triz-ionizing.md|Triz-ionizing]] 
+- [[../../../../_Standards/tech/Triz/Sub/Triz-ionizing|Triz-ionizing]] 
+- [[../../../../_public/tech/Triz/Sub/Triz-ionizing.public|Triz-ionizing.public]] 
 - [[../../../../_internal/tech/Triz/Sub/Triz-ionizing.internal|Triz-ionizing.internal]] 
 - [[../../../../_protect/tech/Triz/Sub/Triz-ionizing.protect|Triz-ionizing.protect]] 
 - [[../../../../_private/tech/Triz/Sub/Triz-ionizing.private|Triz-ionizing.private]] 

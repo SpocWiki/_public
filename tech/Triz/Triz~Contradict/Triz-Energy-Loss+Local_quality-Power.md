@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Energy-Loss+Local_quality-Power.md|Triz-Energy-Loss+Local_quality-Power]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Energy-Loss+Local_quality-Power|Triz-Energy-Loss+Local_quality-Power]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Energy-Loss+Local_quality-Power.public|Triz-Energy-Loss+Local_quality-Power.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Energy-Loss+Local_quality-Power.internal|Triz-Energy-Loss+Local_quality-Power.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Energy-Loss+Local_quality-Power.protect|Triz-Energy-Loss+Local_quality-Power.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Energy-Loss+Local_quality-Power.private|Triz-Energy-Loss+Local_quality-Power.private]] 

@@ -17,7 +17,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../_public/astro/Zodiac/Zodiac~Draco.md|Zodiac~Draco]] 
+- [[../../../_Standards/astro/Zodiac/Zodiac~Draco|Zodiac~Draco]] 
+- [[../../../_public/astro/Zodiac/Zodiac~Draco.public|Zodiac~Draco.public]] 
 - [[../../../_internal/astro/Zodiac/Zodiac~Draco.internal|Zodiac~Draco.internal]] 
 - [[../../../_protect/astro/Zodiac/Zodiac~Draco.protect|Zodiac~Draco.protect]] 
 - [[../../../_private/astro/Zodiac/Zodiac~Draco.private|Zodiac~Draco.private]] 

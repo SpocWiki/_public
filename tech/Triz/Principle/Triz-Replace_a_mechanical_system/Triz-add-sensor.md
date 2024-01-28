@@ -24,7 +24,8 @@ Replace a mechanical means with a sensory (optical, acoustic, taste or smell) me
 - 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Sub/Triz-add-sensor.md|Triz-add-sensor]] 
+- [[../../../../_Standards/tech/Triz/Sub/Triz-add-sensor|Triz-add-sensor]] 
+- [[../../../../_public/tech/Triz/Sub/Triz-add-sensor.public|Triz-add-sensor.public]] 
 - [[../../../../_internal/tech/Triz/Sub/Triz-add-sensor.internal|Triz-add-sensor.internal]] 
 - [[../../../../_protect/tech/Triz/Sub/Triz-add-sensor.protect|Triz-add-sensor.protect]] 
 - [[../../../../_private/tech/Triz/Sub/Triz-add-sensor.private|Triz-add-sensor.private]] 

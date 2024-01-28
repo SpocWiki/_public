@@ -27,7 +27,8 @@ confidential: public
 
 
 ## Confidential Links & Embeds: 
-- [[../../../_public/astro/Star/TV_Piscium.md|TV_Piscium]] 
+- [[../../../_Standards/astro/Star/TV_Piscium|TV_Piscium]] 
+- [[../../../_public/astro/Star/TV_Piscium.public|TV_Piscium.public]] 
 - [[../../../_internal/astro/Star/TV_Piscium.internal|TV_Piscium.internal]] 
 - [[../../../_protect/astro/Star/TV_Piscium.protect|TV_Piscium.protect]] 
 - [[../../../_private/astro/Star/TV_Piscium.private|TV_Piscium.private]] 

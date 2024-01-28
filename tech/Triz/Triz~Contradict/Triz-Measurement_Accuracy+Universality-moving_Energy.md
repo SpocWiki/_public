@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Measurement_Accuracy+Universality-moving_Energy.md|Triz-Measurement_Accuracy+Universality-moving_Energy]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Measurement_Accuracy+Universality-moving_Energy|Triz-Measurement_Accuracy+Universality-moving_Energy]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Measurement_Accuracy+Universality-moving_Energy.public|Triz-Measurement_Accuracy+Universality-moving_Energy.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Measurement_Accuracy+Universality-moving_Energy.internal|Triz-Measurement_Accuracy+Universality-moving_Energy.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Measurement_Accuracy+Universality-moving_Energy.protect|Triz-Measurement_Accuracy+Universality-moving_Energy.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Measurement_Accuracy+Universality-moving_Energy.private|Triz-Measurement_Accuracy+Universality-moving_Energy.private]] 

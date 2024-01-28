@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Temperature+Periodic_action-Measurement_Accuracy.md|Triz-Temperature+Periodic_action-Measurement_Accuracy]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Temperature+Periodic_action-Measurement_Accuracy|Triz-Temperature+Periodic_action-Measurement_Accuracy]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Temperature+Periodic_action-Measurement_Accuracy.public|Triz-Temperature+Periodic_action-Measurement_Accuracy.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Temperature+Periodic_action-Measurement_Accuracy.internal|Triz-Temperature+Periodic_action-Measurement_Accuracy.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Temperature+Periodic_action-Measurement_Accuracy.protect|Triz-Temperature+Periodic_action-Measurement_Accuracy.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Temperature+Periodic_action-Measurement_Accuracy.private|Triz-Temperature+Periodic_action-Measurement_Accuracy.private]] 

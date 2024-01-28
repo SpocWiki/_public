@@ -27,7 +27,8 @@ confidential: public
 
 
 ## Confidential Links & Embeds: 
-- [[../../../_public/astro/Star/Scorpii-29.md|Scorpii-29]] 
+- [[../../../_Standards/astro/Star/Scorpii-29|Scorpii-29]] 
+- [[../../../_public/astro/Star/Scorpii-29.public|Scorpii-29.public]] 
 - [[../../../_internal/astro/Star/Scorpii-29.internal|Scorpii-29.internal]] 
 - [[../../../_protect/astro/Star/Scorpii-29.protect|Scorpii-29.protect]] 
 - [[../../../_private/astro/Star/Scorpii-29.private|Scorpii-29.private]] 

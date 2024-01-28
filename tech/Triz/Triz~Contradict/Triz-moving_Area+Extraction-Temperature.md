@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-moving_Area+Extraction-Temperature.md|Triz-moving_Area+Extraction-Temperature]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-moving_Area+Extraction-Temperature|Triz-moving_Area+Extraction-Temperature]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-moving_Area+Extraction-Temperature.public|Triz-moving_Area+Extraction-Temperature.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-moving_Area+Extraction-Temperature.internal|Triz-moving_Area+Extraction-Temperature.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-moving_Area+Extraction-Temperature.protect|Triz-moving_Area+Extraction-Temperature.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-moving_Area+Extraction-Temperature.private|Triz-moving_Area+Extraction-Temperature.private]] 

@@ -17,7 +17,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../_public/astro/Zodiac/Zodiac~Pavo.md|Zodiac~Pavo]] 
+- [[../../../_Standards/astro/Zodiac/Zodiac~Pavo|Zodiac~Pavo]] 
+- [[../../../_public/astro/Zodiac/Zodiac~Pavo.public|Zodiac~Pavo.public]] 
 - [[../../../_internal/astro/Zodiac/Zodiac~Pavo.internal|Zodiac~Pavo.internal]] 
 - [[../../../_protect/astro/Zodiac/Zodiac~Pavo.protect|Zodiac~Pavo.protect]] 
 - [[../../../_private/astro/Zodiac/Zodiac~Pavo.private|Zodiac~Pavo.private]] 

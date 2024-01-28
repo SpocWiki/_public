@@ -14,7 +14,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Principle/Triz-Equipotentiality.md|Triz-Equipotentiality]] 
+- [[../../../../_Standards/tech/Triz/Principle/Triz-Equipotentiality|Triz-Equipotentiality]] 
+- [[../../../../_public/tech/Triz/Principle/Triz-Equipotentiality.public|Triz-Equipotentiality.public]] 
 - [[../../../../_internal/tech/Triz/Principle/Triz-Equipotentiality.internal|Triz-Equipotentiality.internal]] 
 - [[../../../../_protect/tech/Triz/Principle/Triz-Equipotentiality.protect|Triz-Equipotentiality.protect]] 
 - [[../../../../_private/tech/Triz/Principle/Triz-Equipotentiality.private|Triz-Equipotentiality.private]] 

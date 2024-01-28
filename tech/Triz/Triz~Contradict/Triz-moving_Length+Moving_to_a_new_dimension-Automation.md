@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-moving_Length+Moving_to_a_new_dimension-Automation.md|Triz-moving_Length+Moving_to_a_new_dimension-Automation]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-moving_Length+Moving_to_a_new_dimension-Automation|Triz-moving_Length+Moving_to_a_new_dimension-Automation]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-moving_Length+Moving_to_a_new_dimension-Automation.public|Triz-moving_Length+Moving_to_a_new_dimension-Automation.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-moving_Length+Moving_to_a_new_dimension-Automation.internal|Triz-moving_Length+Moving_to_a_new_dimension-Automation.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-moving_Length+Moving_to_a_new_dimension-Automation.protect|Triz-moving_Length+Moving_to_a_new_dimension-Automation.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-moving_Length+Moving_to_a_new_dimension-Automation.private|Triz-moving_Length+Moving_to_a_new_dimension-Automation.private]] 

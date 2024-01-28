@@ -17,7 +17,8 @@ tags:
 A Soda Fountain Pump that runs on the Pressure of the Carbon Dioxide that is used to 'fizz' the Drinks. This assures that Drinks will not be flat, and eliminates the need for Sensors.
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Example/Triz-Use_Compound_Pressure.md|Triz-Use_Compound_Pressure]] 
+- [[../../../../_Standards/tech/Triz/Example/Triz-Use_Compound_Pressure|Triz-Use_Compound_Pressure]] 
+- [[../../../../_public/tech/Triz/Example/Triz-Use_Compound_Pressure.public|Triz-Use_Compound_Pressure.public]] 
 - [[../../../../_internal/tech/Triz/Example/Triz-Use_Compound_Pressure.internal|Triz-Use_Compound_Pressure.internal]] 
 - [[../../../../_protect/tech/Triz/Example/Triz-Use_Compound_Pressure.protect|Triz-Use_Compound_Pressure.protect]] 
 - [[../../../../_private/tech/Triz/Example/Triz-Use_Compound_Pressure.private|Triz-Use_Compound_Pressure.private]] 

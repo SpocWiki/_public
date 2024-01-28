@@ -14,7 +14,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Principle/Triz-Continuity_of_useful_action.md|Triz-Continuity_of_useful_action]] 
+- [[../../../../_Standards/tech/Triz/Principle/Triz-Continuity_of_useful_action|Triz-Continuity_of_useful_action]] 
+- [[../../../../_public/tech/Triz/Principle/Triz-Continuity_of_useful_action.public|Triz-Continuity_of_useful_action.public]] 
 - [[../../../../_internal/tech/Triz/Principle/Triz-Continuity_of_useful_action.internal|Triz-Continuity_of_useful_action.internal]] 
 - [[../../../../_protect/tech/Triz/Principle/Triz-Continuity_of_useful_action.protect|Triz-Continuity_of_useful_action.protect]] 
 - [[../../../../_private/tech/Triz/Principle/Triz-Continuity_of_useful_action.private|Triz-Continuity_of_useful_action.private]] 

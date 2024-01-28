@@ -16,7 +16,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../_public/astro/Zodiac/Zodiac~Columba.md|Zodiac~Columba]] 
+- [[../../../_Standards/astro/Zodiac/Zodiac~Columba|Zodiac~Columba]] 
+- [[../../../_public/astro/Zodiac/Zodiac~Columba.public|Zodiac~Columba.public]] 
 - [[../../../_internal/astro/Zodiac/Zodiac~Columba.internal|Zodiac~Columba.internal]] 
 - [[../../../_protect/astro/Zodiac/Zodiac~Columba.protect|Zodiac~Columba.protect]] 
 - [[../../../_private/astro/Zodiac/Zodiac~Columba.private|Zodiac~Columba.private]] 

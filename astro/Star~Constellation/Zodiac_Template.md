@@ -19,7 +19,8 @@ aliases:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../_public/astro/Zodiac/_Zodiac~Template.md|_Zodiac~Template]] 
+- [[../../../_Standards/astro/Zodiac/_Zodiac~Template|_Zodiac~Template]] 
+- [[../../../_public/astro/Zodiac/_Zodiac~Template.public|_Zodiac~Template.public]] 
 - [[../../../_internal/astro/Zodiac/_Zodiac~Template.internal|_Zodiac~Template.internal]] 
 - [[../../../_protect/astro/Zodiac/_Zodiac~Template.protect|_Zodiac~Template.protect]] 
 - [[../../../_private/astro/Zodiac/_Zodiac~Template.private|_Zodiac~Template.private]] 

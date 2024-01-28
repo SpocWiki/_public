@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Illumination+Changing_the_color-moving_Area.md|Triz-Illumination+Changing_the_color-moving_Area]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Illumination+Changing_the_color-moving_Area|Triz-Illumination+Changing_the_color-moving_Area]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Illumination+Changing_the_color-moving_Area.public|Triz-Illumination+Changing_the_color-moving_Area.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Illumination+Changing_the_color-moving_Area.internal|Triz-Illumination+Changing_the_color-moving_Area.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Illumination+Changing_the_color-moving_Area.protect|Triz-Illumination+Changing_the_color-moving_Area.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Illumination+Changing_the_color-moving_Area.private|Triz-Illumination+Changing_the_color-moving_Area.private]] 

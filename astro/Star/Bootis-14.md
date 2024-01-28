@@ -27,7 +27,8 @@ confidential: public
 
 
 ## Confidential Links & Embeds: 
-- [[../../../_public/astro/Star/Bootis-14.md|Bootis-14]] 
+- [[../../../_Standards/astro/Star/Bootis-14|Bootis-14]] 
+- [[../../../_public/astro/Star/Bootis-14.public|Bootis-14.public]] 
 - [[../../../_internal/astro/Star/Bootis-14.internal|Bootis-14.internal]] 
 - [[../../../_protect/astro/Star/Bootis-14.protect|Bootis-14.protect]] 
 - [[../../../_private/astro/Star/Bootis-14.private|Bootis-14.private]] 

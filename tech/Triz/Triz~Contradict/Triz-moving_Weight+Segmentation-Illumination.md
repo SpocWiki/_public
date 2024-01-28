@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-moving_Weight+Segmentation-Illumination.md|Triz-moving_Weight+Segmentation-Illumination]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-moving_Weight+Segmentation-Illumination|Triz-moving_Weight+Segmentation-Illumination]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-moving_Weight+Segmentation-Illumination.public|Triz-moving_Weight+Segmentation-Illumination.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-moving_Weight+Segmentation-Illumination.internal|Triz-moving_Weight+Segmentation-Illumination.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-moving_Weight+Segmentation-Illumination.protect|Triz-moving_Weight+Segmentation-Illumination.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-moving_Weight+Segmentation-Illumination.private|Triz-moving_Weight+Segmentation-Illumination.private]] 

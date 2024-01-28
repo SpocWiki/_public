@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Automation+Replacement_of_a_mechanical_system-Energy-Loss.md|Triz-Automation+Replacement_of_a_mechanical_system-Energy-Loss]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Automation+Replacement_of_a_mechanical_system-Energy-Loss|Triz-Automation+Replacement_of_a_mechanical_system-Energy-Loss]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Automation+Replacement_of_a_mechanical_system-Energy-Loss.public|Triz-Automation+Replacement_of_a_mechanical_system-Energy-Loss.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Automation+Replacement_of_a_mechanical_system-Energy-Loss.internal|Triz-Automation+Replacement_of_a_mechanical_system-Energy-Loss.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Automation+Replacement_of_a_mechanical_system-Energy-Loss.protect|Triz-Automation+Replacement_of_a_mechanical_system-Energy-Loss.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Automation+Replacement_of_a_mechanical_system-Energy-Loss.private|Triz-Automation+Replacement_of_a_mechanical_system-Energy-Loss.private]] 

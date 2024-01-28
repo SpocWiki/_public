@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Reliability+Rushing_through-Quantity.md|Triz-Reliability+Rushing_through-Quantity]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Reliability+Rushing_through-Quantity|Triz-Reliability+Rushing_through-Quantity]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Reliability+Rushing_through-Quantity.public|Triz-Reliability+Rushing_through-Quantity.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Reliability+Rushing_through-Quantity.internal|Triz-Reliability+Rushing_through-Quantity.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Reliability+Rushing_through-Quantity.protect|Triz-Reliability+Rushing_through-Quantity.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Reliability+Rushing_through-Quantity.private|Triz-Reliability+Rushing_through-Quantity.private]] 

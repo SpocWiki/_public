@@ -27,7 +27,8 @@ confidential: public
 
 
 ## Confidential Links & Embeds: 
-- [[../../../_public/astro/Star/Corvi-2.md|Corvi-2]] 
+- [[../../../_Standards/astro/Star/Corvi-2|Corvi-2]] 
+- [[../../../_public/astro/Star/Corvi-2.public|Corvi-2.public]] 
 - [[../../../_internal/astro/Star/Corvi-2.internal|Corvi-2.internal]] 
 - [[../../../_protect/astro/Star/Corvi-2.protect|Corvi-2.protect]] 
 - [[../../../_private/astro/Star/Corvi-2.private|Corvi-2.private]] 

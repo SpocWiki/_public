@@ -17,7 +17,8 @@ tags:
 Multi-Function Tool that scales Fish, acts as a Pliers, a Wire Stripper, a Flat-Blade Screwdriver, a Phillips Screwdriver, Manicure Set, etc.
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Example/Triz-Multi-Tool.md|Triz-Multi-Tool]] 
+- [[../../../../_Standards/tech/Triz/Example/Triz-Multi-Tool|Triz-Multi-Tool]] 
+- [[../../../../_public/tech/Triz/Example/Triz-Multi-Tool.public|Triz-Multi-Tool.public]] 
 - [[../../../../_internal/tech/Triz/Example/Triz-Multi-Tool.internal|Triz-Multi-Tool.internal]] 
 - [[../../../../_protect/tech/Triz/Example/Triz-Multi-Tool.protect|Triz-Multi-Tool.protect]] 
 - [[../../../../_private/tech/Triz/Example/Triz-Multi-Tool.private|Triz-Multi-Tool.private]] 

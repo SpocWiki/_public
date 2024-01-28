@@ -27,7 +27,8 @@ confidential: public
 
 
 ## Confidential Links & Embeds: 
-- [[../../../_public/astro/Star/Kaus_Australis.md|Kaus_Australis]] 
+- [[../../../_Standards/astro/Star/Kaus_Australis|Kaus_Australis]] 
+- [[../../../_public/astro/Star/Kaus_Australis.public|Kaus_Australis.public]] 
 - [[../../../_internal/astro/Star/Kaus_Australis.internal|Kaus_Australis.internal]] 
 - [[../../../_protect/astro/Star/Kaus_Australis.protect|Kaus_Australis.protect]] 
 - [[../../../_private/astro/Star/Kaus_Australis.private|Kaus_Australis.private]] 

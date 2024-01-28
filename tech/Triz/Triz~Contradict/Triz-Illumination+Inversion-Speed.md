@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Illumination+Inversion-Speed.md|Triz-Illumination+Inversion-Speed]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Illumination+Inversion-Speed|Triz-Illumination+Inversion-Speed]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Illumination+Inversion-Speed.public|Triz-Illumination+Inversion-Speed.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Illumination+Inversion-Speed.internal|Triz-Illumination+Inversion-Speed.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Illumination+Inversion-Speed.protect|Triz-Illumination+Inversion-Speed.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Illumination+Inversion-Speed.private|Triz-Illumination+Inversion-Speed.private]] 

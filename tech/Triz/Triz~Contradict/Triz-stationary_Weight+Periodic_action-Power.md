@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-stationary_Weight+Periodic_action-Power.md|Triz-stationary_Weight+Periodic_action-Power]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-stationary_Weight+Periodic_action-Power|Triz-stationary_Weight+Periodic_action-Power]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-stationary_Weight+Periodic_action-Power.public|Triz-stationary_Weight+Periodic_action-Power.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-stationary_Weight+Periodic_action-Power.internal|Triz-stationary_Weight+Periodic_action-Power.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-stationary_Weight+Periodic_action-Power.protect|Triz-stationary_Weight+Periodic_action-Power.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-stationary_Weight+Periodic_action-Power.private|Triz-stationary_Weight+Periodic_action-Power.private]] 

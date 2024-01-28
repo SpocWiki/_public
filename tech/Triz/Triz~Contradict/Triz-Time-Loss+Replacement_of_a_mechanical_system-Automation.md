@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Time-Loss+Replacement_of_a_mechanical_system-Automation.md|Triz-Time-Loss+Replacement_of_a_mechanical_system-Automation]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Time-Loss+Replacement_of_a_mechanical_system-Automation|Triz-Time-Loss+Replacement_of_a_mechanical_system-Automation]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Time-Loss+Replacement_of_a_mechanical_system-Automation.public|Triz-Time-Loss+Replacement_of_a_mechanical_system-Automation.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Time-Loss+Replacement_of_a_mechanical_system-Automation.internal|Triz-Time-Loss+Replacement_of_a_mechanical_system-Automation.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Time-Loss+Replacement_of_a_mechanical_system-Automation.protect|Triz-Time-Loss+Replacement_of_a_mechanical_system-Automation.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Time-Loss+Replacement_of_a_mechanical_system-Automation.private|Triz-Time-Loss+Replacement_of_a_mechanical_system-Automation.private]] 

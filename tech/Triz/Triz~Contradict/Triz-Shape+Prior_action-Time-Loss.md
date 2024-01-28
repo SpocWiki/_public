@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Shape+Prior_action-Time-Loss.md|Triz-Shape+Prior_action-Time-Loss]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Shape+Prior_action-Time-Loss|Triz-Shape+Prior_action-Time-Loss]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Shape+Prior_action-Time-Loss.public|Triz-Shape+Prior_action-Time-Loss.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Shape+Prior_action-Time-Loss.internal|Triz-Shape+Prior_action-Time-Loss.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Shape+Prior_action-Time-Loss.protect|Triz-Shape+Prior_action-Time-Loss.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Shape+Prior_action-Time-Loss.private|Triz-Shape+Prior_action-Time-Loss.private]] 

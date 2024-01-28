@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-moving_Weight+Composite_materials-Shape.md|Triz-moving_Weight+Composite_materials-Shape]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-moving_Weight+Composite_materials-Shape|Triz-moving_Weight+Composite_materials-Shape]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-moving_Weight+Composite_materials-Shape.public|Triz-moving_Weight+Composite_materials-Shape.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-moving_Weight+Composite_materials-Shape.internal|Triz-moving_Weight+Composite_materials-Shape.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-moving_Weight+Composite_materials-Shape.protect|Triz-moving_Weight+Composite_materials-Shape.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-moving_Weight+Composite_materials-Shape.private|Triz-moving_Weight+Composite_materials-Shape.private]] 

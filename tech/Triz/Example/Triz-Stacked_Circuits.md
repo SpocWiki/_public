@@ -17,7 +17,8 @@ tags:
 Stack Microelectronic hybrid Circuits to improve Density.
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Example/Triz-Stacked_Circuits.md|Triz-Stacked_Circuits]] 
+- [[../../../../_Standards/tech/Triz/Example/Triz-Stacked_Circuits|Triz-Stacked_Circuits]] 
+- [[../../../../_public/tech/Triz/Example/Triz-Stacked_Circuits.public|Triz-Stacked_Circuits.public]] 
 - [[../../../../_internal/tech/Triz/Example/Triz-Stacked_Circuits.internal|Triz-Stacked_Circuits.internal]] 
 - [[../../../../_protect/tech/Triz/Example/Triz-Stacked_Circuits.protect|Triz-Stacked_Circuits.protect]] 
 - [[../../../../_private/tech/Triz/Example/Triz-Stacked_Circuits.private|Triz-Stacked_Circuits.private]] 

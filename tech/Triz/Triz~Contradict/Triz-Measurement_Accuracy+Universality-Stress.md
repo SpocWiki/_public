@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Measurement_Accuracy+Universality-Stress.md|Triz-Measurement_Accuracy+Universality-Stress]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Measurement_Accuracy+Universality-Stress|Triz-Measurement_Accuracy+Universality-Stress]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Measurement_Accuracy+Universality-Stress.public|Triz-Measurement_Accuracy+Universality-Stress.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Measurement_Accuracy+Universality-Stress.internal|Triz-Measurement_Accuracy+Universality-Stress.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Measurement_Accuracy+Universality-Stress.protect|Triz-Measurement_Accuracy+Universality-Stress.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Measurement_Accuracy+Universality-Stress.private|Triz-Measurement_Accuracy+Universality-Stress.private]] 

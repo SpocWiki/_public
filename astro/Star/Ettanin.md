@@ -27,7 +27,8 @@ confidential: public
 
 
 ## Confidential Links & Embeds: 
-- [[../../../_public/astro/Star/Ettanin.md|Ettanin]] 
+- [[../../../_Standards/astro/Star/Ettanin|Ettanin]] 
+- [[../../../_public/astro/Star/Ettanin.public|Ettanin.public]] 
 - [[../../../_internal/astro/Star/Ettanin.internal|Ettanin.internal]] 
 - [[../../../_protect/astro/Star/Ettanin.protect|Ettanin.protect]] 
 - [[../../../_private/astro/Star/Ettanin.private|Ettanin.private]] 

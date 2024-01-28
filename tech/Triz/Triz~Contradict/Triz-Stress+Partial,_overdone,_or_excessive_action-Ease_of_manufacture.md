@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Stress+Partial,_overdone,_or_excessive_action-Ease_of_manufacture.md|Triz-Stress+Partial,_overdone,_or_excessive_action-Ease_of_manufacture]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Stress+Partial,_overdone,_or_excessive_action-Ease_of_manufacture|Triz-Stress+Partial,_overdone,_or_excessive_action-Ease_of_manufacture]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Stress+Partial,_overdone,_or_excessive_action-Ease_of_manufacture.public|Triz-Stress+Partial,_overdone,_or_excessive_action-Ease_of_manufacture.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Stress+Partial,_overdone,_or_excessive_action-Ease_of_manufacture.internal|Triz-Stress+Partial,_overdone,_or_excessive_action-Ease_of_manufacture.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Stress+Partial,_overdone,_or_excessive_action-Ease_of_manufacture.protect|Triz-Stress+Partial,_overdone,_or_excessive_action-Ease_of_manufacture.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Stress+Partial,_overdone,_or_excessive_action-Ease_of_manufacture.private|Triz-Stress+Partial,_overdone,_or_excessive_action-Ease_of_manufacture.private]] 

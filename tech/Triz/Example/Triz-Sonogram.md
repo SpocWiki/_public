@@ -17,7 +17,8 @@ tags:
 Make Sonograms to evaluate the Health of a Fetus, instead of risking Damage by direct Testing.
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Example/Triz-Sonogram.md|Triz-Sonogram]] 
+- [[../../../../_Standards/tech/Triz/Example/Triz-Sonogram|Triz-Sonogram]] 
+- [[../../../../_public/tech/Triz/Example/Triz-Sonogram.public|Triz-Sonogram.public]] 
 - [[../../../../_internal/tech/Triz/Example/Triz-Sonogram.internal|Triz-Sonogram.internal]] 
 - [[../../../../_protect/tech/Triz/Example/Triz-Sonogram.protect|Triz-Sonogram.protect]] 
 - [[../../../../_private/tech/Triz/Example/Triz-Sonogram.private|Triz-Sonogram.private]] 

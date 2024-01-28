@@ -27,7 +27,8 @@ confidential: public
 
 
 ## Confidential Links & Embeds: 
-- [[../../../_public/astro/Star/Yed_Prior.md|Yed_Prior]] 
+- [[../../../_Standards/astro/Star/Yed_Prior|Yed_Prior]] 
+- [[../../../_public/astro/Star/Yed_Prior.public|Yed_Prior.public]] 
 - [[../../../_internal/astro/Star/Yed_Prior.internal|Yed_Prior.internal]] 
 - [[../../../_protect/astro/Star/Yed_Prior.protect|Yed_Prior.protect]] 
 - [[../../../_private/astro/Star/Yed_Prior.private|Yed_Prior.private]] 

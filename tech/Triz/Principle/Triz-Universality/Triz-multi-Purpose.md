@@ -30,7 +30,8 @@ Make a part or object perform multiple functions; eliminate the need for other p
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Sub/Triz-multi-urpose.md|Triz-multi-urpose]] 
+- [[../../../../_Standards/tech/Triz/Sub/Triz-multi-urpose|Triz-multi-urpose]] 
+- [[../../../../_public/tech/Triz/Sub/Triz-multi-urpose.public|Triz-multi-urpose.public]] 
 - [[../../../../_internal/tech/Triz/Sub/Triz-multi-urpose.internal|Triz-multi-urpose.internal]] 
 - [[../../../../_protect/tech/Triz/Sub/Triz-multi-urpose.protect|Triz-multi-urpose.protect]] 
 - [[../../../../_private/tech/Triz/Sub/Triz-multi-urpose.private|Triz-multi-urpose.private]] 

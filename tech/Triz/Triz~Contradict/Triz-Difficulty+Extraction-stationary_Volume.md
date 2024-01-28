@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Difficulty+Extraction-stationary_Volume.md|Triz-Difficulty+Extraction-stationary_Volume]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Difficulty+Extraction-stationary_Volume|Triz-Difficulty+Extraction-stationary_Volume]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Difficulty+Extraction-stationary_Volume.public|Triz-Difficulty+Extraction-stationary_Volume.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Difficulty+Extraction-stationary_Volume.internal|Triz-Difficulty+Extraction-stationary_Volume.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Difficulty+Extraction-stationary_Volume.protect|Triz-Difficulty+Extraction-stationary_Volume.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Difficulty+Extraction-stationary_Volume.private|Triz-Difficulty+Extraction-stationary_Volume.private]] 

@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Ease_of_repair+Use_of_porous_material-stationary_Length.md|Triz-Ease_of_repair+Use_of_porous_material-stationary_Length]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Ease_of_repair+Use_of_porous_material-stationary_Length|Triz-Ease_of_repair+Use_of_porous_material-stationary_Length]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Ease_of_repair+Use_of_porous_material-stationary_Length.public|Triz-Ease_of_repair+Use_of_porous_material-stationary_Length.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Ease_of_repair+Use_of_porous_material-stationary_Length.internal|Triz-Ease_of_repair+Use_of_porous_material-stationary_Length.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Ease_of_repair+Use_of_porous_material-stationary_Length.protect|Triz-Ease_of_repair+Use_of_porous_material-stationary_Length.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Ease_of_repair+Use_of_porous_material-stationary_Length.private|Triz-Ease_of_repair+Use_of_porous_material-stationary_Length.private]] 

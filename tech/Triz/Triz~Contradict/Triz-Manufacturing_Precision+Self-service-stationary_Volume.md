@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Manufacturing_Precision+Self-service-stationary_Volume.md|Triz-Manufacturing_Precision+Self-service-stationary_Volume]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Manufacturing_Precision+Self-service-stationary_Volume|Triz-Manufacturing_Precision+Self-service-stationary_Volume]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Manufacturing_Precision+Self-service-stationary_Volume.public|Triz-Manufacturing_Precision+Self-service-stationary_Volume.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Manufacturing_Precision+Self-service-stationary_Volume.internal|Triz-Manufacturing_Precision+Self-service-stationary_Volume.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Manufacturing_Precision+Self-service-stationary_Volume.protect|Triz-Manufacturing_Precision+Self-service-stationary_Volume.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Manufacturing_Precision+Self-service-stationary_Volume.private|Triz-Manufacturing_Precision+Self-service-stationary_Volume.private]] 

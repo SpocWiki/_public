@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-stationary_Area+Flexible_film_or_thin_membranes-Difficulty.md|Triz-stationary_Area+Flexible_film_or_thin_membranes-Difficulty]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-stationary_Area+Flexible_film_or_thin_membranes-Difficulty|Triz-stationary_Area+Flexible_film_or_thin_membranes-Difficulty]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-stationary_Area+Flexible_film_or_thin_membranes-Difficulty.public|Triz-stationary_Area+Flexible_film_or_thin_membranes-Difficulty.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-stationary_Area+Flexible_film_or_thin_membranes-Difficulty.internal|Triz-stationary_Area+Flexible_film_or_thin_membranes-Difficulty.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-stationary_Area+Flexible_film_or_thin_membranes-Difficulty.protect|Triz-stationary_Area+Flexible_film_or_thin_membranes-Difficulty.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-stationary_Area+Flexible_film_or_thin_membranes-Difficulty.private|Triz-stationary_Area+Flexible_film_or_thin_membranes-Difficulty.private]] 

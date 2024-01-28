@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-stationary_Area+Flexible_film_or_thin_membranes-stationary_Weight.md|Triz-stationary_Area+Flexible_film_or_thin_membranes-stationary_Weight]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-stationary_Area+Flexible_film_or_thin_membranes-stationary_Weight|Triz-stationary_Area+Flexible_film_or_thin_membranes-stationary_Weight]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-stationary_Area+Flexible_film_or_thin_membranes-stationary_Weight.public|Triz-stationary_Area+Flexible_film_or_thin_membranes-stationary_Weight.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-stationary_Area+Flexible_film_or_thin_membranes-stationary_Weight.internal|Triz-stationary_Area+Flexible_film_or_thin_membranes-stationary_Weight.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-stationary_Area+Flexible_film_or_thin_membranes-stationary_Weight.protect|Triz-stationary_Area+Flexible_film_or_thin_membranes-stationary_Weight.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-stationary_Area+Flexible_film_or_thin_membranes-stationary_Weight.private|Triz-stationary_Area+Flexible_film_or_thin_membranes-stationary_Weight.private]] 

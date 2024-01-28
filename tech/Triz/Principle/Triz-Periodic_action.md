@@ -14,7 +14,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Principle/Triz-Periodic_action.md|Triz-Periodic_action]] 
+- [[../../../../_Standards/tech/Triz/Principle/Triz-Periodic_action|Triz-Periodic_action]] 
+- [[../../../../_public/tech/Triz/Principle/Triz-Periodic_action.public|Triz-Periodic_action.public]] 
 - [[../../../../_internal/tech/Triz/Principle/Triz-Periodic_action.internal|Triz-Periodic_action.internal]] 
 - [[../../../../_protect/tech/Triz/Principle/Triz-Periodic_action.protect|Triz-Periodic_action.protect]] 
 - [[../../../../_private/tech/Triz/Principle/Triz-Periodic_action.private|Triz-Periodic_action.private]] 

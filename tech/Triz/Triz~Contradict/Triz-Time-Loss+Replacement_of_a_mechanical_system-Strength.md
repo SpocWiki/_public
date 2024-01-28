@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Time-Loss+Replacement_of_a_mechanical_system-Strength.md|Triz-Time-Loss+Replacement_of_a_mechanical_system-Strength]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Time-Loss+Replacement_of_a_mechanical_system-Strength|Triz-Time-Loss+Replacement_of_a_mechanical_system-Strength]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Time-Loss+Replacement_of_a_mechanical_system-Strength.public|Triz-Time-Loss+Replacement_of_a_mechanical_system-Strength.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Time-Loss+Replacement_of_a_mechanical_system-Strength.internal|Triz-Time-Loss+Replacement_of_a_mechanical_system-Strength.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Time-Loss+Replacement_of_a_mechanical_system-Strength.protect|Triz-Time-Loss+Replacement_of_a_mechanical_system-Strength.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Time-Loss+Replacement_of_a_mechanical_system-Strength.private|Triz-Time-Loss+Replacement_of_a_mechanical_system-Strength.private]] 

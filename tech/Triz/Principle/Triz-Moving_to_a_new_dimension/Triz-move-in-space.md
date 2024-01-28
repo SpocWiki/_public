@@ -24,7 +24,8 @@ To move an object in two- or three-dimensional space.
 
 `$=dv.current().has_examples`
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Sub/Triz-move-in-space.md|Triz-move-in-space]] 
+- [[../../../../_Standards/tech/Triz/Sub/Triz-move-in-space|Triz-move-in-space]] 
+- [[../../../../_public/tech/Triz/Sub/Triz-move-in-space.public|Triz-move-in-space.public]] 
 - [[../../../../_internal/tech/Triz/Sub/Triz-move-in-space.internal|Triz-move-in-space.internal]] 
 - [[../../../../_protect/tech/Triz/Sub/Triz-move-in-space.protect|Triz-move-in-space.protect]] 
 - [[../../../../_private/tech/Triz/Sub/Triz-move-in-space.private|Triz-move-in-space.private]] 

@@ -27,7 +27,8 @@ confidential: public
 
 
 ## Confidential Links & Embeds: 
-- [[../../../_public/astro/Star/Toliman.md|Toliman]] 
+- [[../../../_Standards/astro/Star/Toliman|Toliman]] 
+- [[../../../_public/astro/Star/Toliman.public|Toliman.public]] 
 - [[../../../_internal/astro/Star/Toliman.internal|Toliman.internal]] 
 - [[../../../_protect/astro/Star/Toliman.protect|Toliman.protect]] 
 - [[../../../_private/astro/Star/Toliman.private|Toliman.private]] 

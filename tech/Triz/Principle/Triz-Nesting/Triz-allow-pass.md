@@ -29,7 +29,8 @@ Make one part pass through a cavity in the other.
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Sub/Triz-allow-pass.md|Triz-allow-pass]] 
+- [[../../../../_Standards/tech/Triz/Sub/Triz-allow-pass|Triz-allow-pass]] 
+- [[../../../../_public/tech/Triz/Sub/Triz-allow-pass.public|Triz-allow-pass.public]] 
 - [[../../../../_internal/tech/Triz/Sub/Triz-allow-pass.internal|Triz-allow-pass.internal]] 
 - [[../../../../_protect/tech/Triz/Sub/Triz-allow-pass.protect|Triz-allow-pass.protect]] 
 - [[../../../../_private/tech/Triz/Sub/Triz-allow-pass.private|Triz-allow-pass.private]] 

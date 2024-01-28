@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Intensity+Replacement_of_a_mechanical_system-Manufacturing_Precision.md|Triz-Intensity+Replacement_of_a_mechanical_system-Manufacturing_Precision]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Intensity+Replacement_of_a_mechanical_system-Manufacturing_Precision|Triz-Intensity+Replacement_of_a_mechanical_system-Manufacturing_Precision]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Intensity+Replacement_of_a_mechanical_system-Manufacturing_Precision.public|Triz-Intensity+Replacement_of_a_mechanical_system-Manufacturing_Precision.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Intensity+Replacement_of_a_mechanical_system-Manufacturing_Precision.internal|Triz-Intensity+Replacement_of_a_mechanical_system-Manufacturing_Precision.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Intensity+Replacement_of_a_mechanical_system-Manufacturing_Precision.protect|Triz-Intensity+Replacement_of_a_mechanical_system-Manufacturing_Precision.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Intensity+Replacement_of_a_mechanical_system-Manufacturing_Precision.private|Triz-Intensity+Replacement_of_a_mechanical_system-Manufacturing_Precision.private]] 

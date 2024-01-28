@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-generated_harm+Transformation_of_physical_and_chemical_states_of_an_object-Intensity.md|Triz-generated_harm+Transformation_of_physical_and_chemical_states_of_an_object-Intensity]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-generated_harm+Transformation_of_physical_and_chemical_states_of_an_object-Intensity|Triz-generated_harm+Transformation_of_physical_and_chemical_states_of_an_object-Intensity]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-generated_harm+Transformation_of_physical_and_chemical_states_of_an_object-Intensity.public|Triz-generated_harm+Transformation_of_physical_and_chemical_states_of_an_object-Intensity.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-generated_harm+Transformation_of_physical_and_chemical_states_of_an_object-Intensity.internal|Triz-generated_harm+Transformation_of_physical_and_chemical_states_of_an_object-Intensity.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-generated_harm+Transformation_of_physical_and_chemical_states_of_an_object-Intensity.protect|Triz-generated_harm+Transformation_of_physical_and_chemical_states_of_an_object-Intensity.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-generated_harm+Transformation_of_physical_and_chemical_states_of_an_object-Intensity.private|Triz-generated_harm+Transformation_of_physical_and_chemical_states_of_an_object-Intensity.private]] 

@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Manufacturing_Precision+Copying-Time-Loss.md|Triz-Manufacturing_Precision+Copying-Time-Loss]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Manufacturing_Precision+Copying-Time-Loss|Triz-Manufacturing_Precision+Copying-Time-Loss]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Manufacturing_Precision+Copying-Time-Loss.public|Triz-Manufacturing_Precision+Copying-Time-Loss.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Manufacturing_Precision+Copying-Time-Loss.internal|Triz-Manufacturing_Precision+Copying-Time-Loss.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Manufacturing_Precision+Copying-Time-Loss.protect|Triz-Manufacturing_Precision+Copying-Time-Loss.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Manufacturing_Precision+Copying-Time-Loss.private|Triz-Manufacturing_Precision+Copying-Time-Loss.private]] 

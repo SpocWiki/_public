@@ -24,7 +24,8 @@ Increase its frequency (even up to the ultrasonic).
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Sub/Triz-change-frequency.md|Triz-change-frequency]] 
+- [[../../../../_Standards/tech/Triz/Sub/Triz-change-frequency|Triz-change-frequency]] 
+- [[../../../../_public/tech/Triz/Sub/Triz-change-frequency.public|Triz-change-frequency.public]] 
 - [[../../../../_internal/tech/Triz/Sub/Triz-change-frequency.internal|Triz-change-frequency.internal]] 
 - [[../../../../_protect/tech/Triz/Sub/Triz-change-frequency.protect|Triz-change-frequency.protect]] 
 - [[../../../../_private/tech/Triz/Sub/Triz-change-frequency.private|Triz-change-frequency.private]] 

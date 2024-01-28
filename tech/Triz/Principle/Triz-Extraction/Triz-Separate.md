@@ -27,7 +27,8 @@ Separate an interfering part or property from an object, or single out the only.
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Sub/Triz-Separate.md|Triz-Separate]] 
+- [[../../../../_Standards/tech/Triz/Sub/Triz-Separate|Triz-Separate]] 
+- [[../../../../_public/tech/Triz/Sub/Triz-Separate.public|Triz-Separate.public]] 
 - [[../../../../_internal/tech/Triz/Sub/Triz-Separate.internal|Triz-Separate.internal]] 
 - [[../../../../_protect/tech/Triz/Sub/Triz-Separate.protect|Triz-Separate.protect]] 
 - [[../../../../_private/tech/Triz/Sub/Triz-Separate.private|Triz-Separate.private]] 

@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Complexity+Inversion-Shape.md|Triz-Complexity+Inversion-Shape]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Complexity+Inversion-Shape|Triz-Complexity+Inversion-Shape]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Complexity+Inversion-Shape.public|Triz-Complexity+Inversion-Shape.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Complexity+Inversion-Shape.internal|Triz-Complexity+Inversion-Shape.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Complexity+Inversion-Shape.protect|Triz-Complexity+Inversion-Shape.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Complexity+Inversion-Shape.private|Triz-Complexity+Inversion-Shape.private]] 

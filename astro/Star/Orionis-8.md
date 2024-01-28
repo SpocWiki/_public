@@ -27,7 +27,8 @@ confidential: public
 
 
 ## Confidential Links & Embeds: 
-- [[../../../_public/astro/Star/Orionis-8.md|Orionis-8]] 
+- [[../../../_Standards/astro/Star/Orionis-8|Orionis-8]] 
+- [[../../../_public/astro/Star/Orionis-8.public|Orionis-8.public]] 
 - [[../../../_internal/astro/Star/Orionis-8.internal|Orionis-8.internal]] 
 - [[../../../_protect/astro/Star/Orionis-8.protect|Orionis-8.protect]] 
 - [[../../../_private/astro/Star/Orionis-8.private|Orionis-8.private]] 

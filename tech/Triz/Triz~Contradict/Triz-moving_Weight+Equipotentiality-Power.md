@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-moving_Weight+Equipotentiality-Power.md|Triz-moving_Weight+Equipotentiality-Power]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-moving_Weight+Equipotentiality-Power|Triz-moving_Weight+Equipotentiality-Power]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-moving_Weight+Equipotentiality-Power.public|Triz-moving_Weight+Equipotentiality-Power.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-moving_Weight+Equipotentiality-Power.internal|Triz-moving_Weight+Equipotentiality-Power.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-moving_Weight+Equipotentiality-Power.protect|Triz-moving_Weight+Equipotentiality-Power.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-moving_Weight+Equipotentiality-Power.private|Triz-moving_Weight+Equipotentiality-Power.private]] 

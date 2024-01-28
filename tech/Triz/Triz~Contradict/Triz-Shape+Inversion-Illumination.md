@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Shape+Inversion-Illumination.md|Triz-Shape+Inversion-Illumination]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Shape+Inversion-Illumination|Triz-Shape+Inversion-Illumination]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Shape+Inversion-Illumination.public|Triz-Shape+Inversion-Illumination.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Shape+Inversion-Illumination.internal|Triz-Shape+Inversion-Illumination.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Shape+Inversion-Illumination.protect|Triz-Shape+Inversion-Illumination.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Shape+Inversion-Illumination.private|Triz-Shape+Inversion-Illumination.private]] 

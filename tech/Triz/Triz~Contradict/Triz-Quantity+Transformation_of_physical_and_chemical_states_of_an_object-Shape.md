@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Quantity+Transformation_of_physical_and_chemical_states_of_an_object-Shape.md|Triz-Quantity+Transformation_of_physical_and_chemical_states_of_an_object-Shape]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Quantity+Transformation_of_physical_and_chemical_states_of_an_object-Shape|Triz-Quantity+Transformation_of_physical_and_chemical_states_of_an_object-Shape]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Quantity+Transformation_of_physical_and_chemical_states_of_an_object-Shape.public|Triz-Quantity+Transformation_of_physical_and_chemical_states_of_an_object-Shape.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Quantity+Transformation_of_physical_and_chemical_states_of_an_object-Shape.internal|Triz-Quantity+Transformation_of_physical_and_chemical_states_of_an_object-Shape.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Quantity+Transformation_of_physical_and_chemical_states_of_an_object-Shape.protect|Triz-Quantity+Transformation_of_physical_and_chemical_states_of_an_object-Shape.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Quantity+Transformation_of_physical_and_chemical_states_of_an_object-Shape.private|Triz-Quantity+Transformation_of_physical_and_chemical_states_of_an_object-Shape.private]] 

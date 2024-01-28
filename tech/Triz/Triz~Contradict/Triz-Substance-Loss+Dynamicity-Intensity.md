@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Substance-Loss+Dynamicity-Intensity.md|Triz-Substance-Loss+Dynamicity-Intensity]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Substance-Loss+Dynamicity-Intensity|Triz-Substance-Loss+Dynamicity-Intensity]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Substance-Loss+Dynamicity-Intensity.public|Triz-Substance-Loss+Dynamicity-Intensity.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Substance-Loss+Dynamicity-Intensity.internal|Triz-Substance-Loss+Dynamicity-Intensity.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Substance-Loss+Dynamicity-Intensity.protect|Triz-Substance-Loss+Dynamicity-Intensity.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Substance-Loss+Dynamicity-Intensity.private|Triz-Substance-Loss+Dynamicity-Intensity.private]] 

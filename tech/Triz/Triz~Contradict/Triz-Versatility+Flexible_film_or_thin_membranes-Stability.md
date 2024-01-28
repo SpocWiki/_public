@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Versatility+Flexible_film_or_thin_membranes-Stability.md|Triz-Versatility+Flexible_film_or_thin_membranes-Stability]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Versatility+Flexible_film_or_thin_membranes-Stability|Triz-Versatility+Flexible_film_or_thin_membranes-Stability]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Versatility+Flexible_film_or_thin_membranes-Stability.public|Triz-Versatility+Flexible_film_or_thin_membranes-Stability.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Versatility+Flexible_film_or_thin_membranes-Stability.internal|Triz-Versatility+Flexible_film_or_thin_membranes-Stability.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Versatility+Flexible_film_or_thin_membranes-Stability.protect|Triz-Versatility+Flexible_film_or_thin_membranes-Stability.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Versatility+Flexible_film_or_thin_membranes-Stability.private|Triz-Versatility+Flexible_film_or_thin_membranes-Stability.private]] 

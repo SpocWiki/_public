@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Substance-Loss+Replacement_of_a_mechanical_system-stationary_Length.md|Triz-Substance-Loss+Replacement_of_a_mechanical_system-stationary_Length]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Substance-Loss+Replacement_of_a_mechanical_system-stationary_Length|Triz-Substance-Loss+Replacement_of_a_mechanical_system-stationary_Length]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Substance-Loss+Replacement_of_a_mechanical_system-stationary_Length.public|Triz-Substance-Loss+Replacement_of_a_mechanical_system-stationary_Length.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Substance-Loss+Replacement_of_a_mechanical_system-stationary_Length.internal|Triz-Substance-Loss+Replacement_of_a_mechanical_system-stationary_Length.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Substance-Loss+Replacement_of_a_mechanical_system-stationary_Length.protect|Triz-Substance-Loss+Replacement_of_a_mechanical_system-stationary_Length.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Substance-Loss+Replacement_of_a_mechanical_system-stationary_Length.private|Triz-Substance-Loss+Replacement_of_a_mechanical_system-stationary_Length.private]] 

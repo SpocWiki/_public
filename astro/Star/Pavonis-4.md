@@ -27,7 +27,8 @@ confidential: public
 
 
 ## Confidential Links & Embeds: 
-- [[../../../_public/astro/Star/Pavonis-4.md|Pavonis-4]] 
+- [[../../../_Standards/astro/Star/Pavonis-4|Pavonis-4]] 
+- [[../../../_public/astro/Star/Pavonis-4.public|Pavonis-4.public]] 
 - [[../../../_internal/astro/Star/Pavonis-4.internal|Pavonis-4.internal]] 
 - [[../../../_protect/astro/Star/Pavonis-4.protect|Pavonis-4.protect]] 
 - [[../../../_private/astro/Star/Pavonis-4.private|Pavonis-4.private]] 

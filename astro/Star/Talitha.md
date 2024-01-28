@@ -27,7 +27,8 @@ confidential: public
 
 
 ## Confidential Links & Embeds: 
-- [[../../../_public/astro/Star/Talitha.md|Talitha]] 
+- [[../../../_Standards/astro/Star/Talitha|Talitha]] 
+- [[../../../_public/astro/Star/Talitha.public|Talitha.public]] 
 - [[../../../_internal/astro/Star/Talitha.internal|Talitha.internal]] 
 - [[../../../_protect/astro/Star/Talitha.protect|Talitha.protect]] 
 - [[../../../_private/astro/Star/Talitha.private|Talitha.private]] 

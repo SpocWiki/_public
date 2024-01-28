@@ -17,7 +17,8 @@ tags:
 Use the Sound, Shape, Smell etc. of an Enemy, without the Enemy itself, to repel Agents.
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Example/Triz-Enemy_substitute.md|Triz-Enemy_substitute]] 
+- [[../../../../_Standards/tech/Triz/Example/Triz-Enemy_substitute|Triz-Enemy_substitute]] 
+- [[../../../../_public/tech/Triz/Example/Triz-Enemy_substitute.public|Triz-Enemy_substitute.public]] 
 - [[../../../../_internal/tech/Triz/Example/Triz-Enemy_substitute.internal|Triz-Enemy_substitute.internal]] 
 - [[../../../../_protect/tech/Triz/Example/Triz-Enemy_substitute.protect|Triz-Enemy_substitute.protect]] 
 - [[../../../../_private/tech/Triz/Example/Triz-Enemy_substitute.private|Triz-Enemy_substitute.private]] 

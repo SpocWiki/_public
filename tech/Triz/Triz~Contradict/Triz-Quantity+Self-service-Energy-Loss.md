@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Quantity+Self-service-Energy-Loss.md|Triz-Quantity+Self-service-Energy-Loss]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Quantity+Self-service-Energy-Loss|Triz-Quantity+Self-service-Energy-Loss]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Quantity+Self-service-Energy-Loss.public|Triz-Quantity+Self-service-Energy-Loss.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Quantity+Self-service-Energy-Loss.internal|Triz-Quantity+Self-service-Energy-Loss.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Quantity+Self-service-Energy-Loss.protect|Triz-Quantity+Self-service-Energy-Loss.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Quantity+Self-service-Energy-Loss.private|Triz-Quantity+Self-service-Energy-Loss.private]] 

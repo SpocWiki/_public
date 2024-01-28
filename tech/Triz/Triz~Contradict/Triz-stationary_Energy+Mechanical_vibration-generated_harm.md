@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-stationary_Energy+Mechanical_vibration-generated_harm.md|Triz-stationary_Energy+Mechanical_vibration-generated_harm]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-stationary_Energy+Mechanical_vibration-generated_harm|Triz-stationary_Energy+Mechanical_vibration-generated_harm]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-stationary_Energy+Mechanical_vibration-generated_harm.public|Triz-stationary_Energy+Mechanical_vibration-generated_harm.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-stationary_Energy+Mechanical_vibration-generated_harm.internal|Triz-stationary_Energy+Mechanical_vibration-generated_harm.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-stationary_Energy+Mechanical_vibration-generated_harm.protect|Triz-stationary_Energy+Mechanical_vibration-generated_harm.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-stationary_Energy+Mechanical_vibration-generated_harm.private|Triz-stationary_Energy+Mechanical_vibration-generated_harm.private]] 

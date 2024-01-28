@@ -27,7 +27,8 @@ confidential: public
 
 
 ## Confidential Links & Embeds: 
-- [[../../../_public/astro/Star/Aquilae-112.md|Aquilae-112]] 
+- [[../../../_Standards/astro/Star/Aquilae-112|Aquilae-112]] 
+- [[../../../_public/astro/Star/Aquilae-112.public|Aquilae-112.public]] 
 - [[../../../_internal/astro/Star/Aquilae-112.internal|Aquilae-112.internal]] 
 - [[../../../_protect/astro/Star/Aquilae-112.protect|Aquilae-112.protect]] 
 - [[../../../_private/astro/Star/Aquilae-112.private|Aquilae-112.private]] 

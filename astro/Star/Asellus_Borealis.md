@@ -27,7 +27,8 @@ confidential: public
 
 
 ## Confidential Links & Embeds: 
-- [[../../../_public/astro/Star/Asellus_Borealis.md|Asellus_Borealis]] 
+- [[../../../_Standards/astro/Star/Asellus_Borealis|Asellus_Borealis]] 
+- [[../../../_public/astro/Star/Asellus_Borealis.public|Asellus_Borealis.public]] 
 - [[../../../_internal/astro/Star/Asellus_Borealis.internal|Asellus_Borealis.internal]] 
 - [[../../../_protect/astro/Star/Asellus_Borealis.protect|Asellus_Borealis.protect]] 
 - [[../../../_private/astro/Star/Asellus_Borealis.private|Asellus_Borealis.private]] 

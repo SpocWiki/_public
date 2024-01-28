@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-affected_harm+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-moving_Weight.md|Triz-affected_harm+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-moving_Weight]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-affected_harm+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-moving_Weight|Triz-affected_harm+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-moving_Weight]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-affected_harm+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-moving_Weight.public|Triz-affected_harm+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-moving_Weight.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-affected_harm+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-moving_Weight.internal|Triz-affected_harm+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-moving_Weight.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-affected_harm+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-moving_Weight.protect|Triz-affected_harm+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-moving_Weight.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-affected_harm+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-moving_Weight.private|Triz-affected_harm+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-moving_Weight.private]] 

@@ -27,7 +27,8 @@ In a potential field, limit position changes (e.g. change operating conditions t
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Sub/Triz-limit-changes.md|Triz-limit-changes]] 
+- [[../../../../_Standards/tech/Triz/Sub/Triz-limit-changes|Triz-limit-changes]] 
+- [[../../../../_public/tech/Triz/Sub/Triz-limit-changes.public|Triz-limit-changes.public]] 
 - [[../../../../_internal/tech/Triz/Sub/Triz-limit-changes.internal|Triz-limit-changes.internal]] 
 - [[../../../../_protect/tech/Triz/Sub/Triz-limit-changes.protect|Triz-limit-changes.protect]] 
 - [[../../../../_private/tech/Triz/Sub/Triz-limit-changes.private|Triz-limit-changes.private]] 

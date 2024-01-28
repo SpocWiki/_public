@@ -16,7 +16,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../_public/astro/Zodiac/Zodiac~Chamaeleon.md|Zodiac~Chamaeleon]] 
+- [[../../../_Standards/astro/Zodiac/Zodiac~Chamaeleon|Zodiac~Chamaeleon]] 
+- [[../../../_public/astro/Zodiac/Zodiac~Chamaeleon.public|Zodiac~Chamaeleon.public]] 
 - [[../../../_internal/astro/Zodiac/Zodiac~Chamaeleon.internal|Zodiac~Chamaeleon.internal]] 
 - [[../../../_protect/astro/Zodiac/Zodiac~Chamaeleon.protect|Zodiac~Chamaeleon.protect]] 
 - [[../../../_private/astro/Zodiac/Zodiac~Chamaeleon.private|Zodiac~Chamaeleon.private]] 

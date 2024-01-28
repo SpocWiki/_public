@@ -14,7 +14,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Principle/Triz-Dynamicity.md|Triz-Dynamicity]] 
+- [[../../../../_Standards/tech/Triz/Principle/Triz-Dynamicity|Triz-Dynamicity]] 
+- [[../../../../_public/tech/Triz/Principle/Triz-Dynamicity.public|Triz-Dynamicity.public]] 
 - [[../../../../_internal/tech/Triz/Principle/Triz-Dynamicity.internal|Triz-Dynamicity.internal]] 
 - [[../../../../_protect/tech/Triz/Principle/Triz-Dynamicity.protect|Triz-Dynamicity.protect]] 
 - [[../../../../_private/tech/Triz/Principle/Triz-Dynamicity.private|Triz-Dynamicity.private]] 

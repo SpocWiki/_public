@@ -27,7 +27,8 @@ confidential: public
 
 
 ## Confidential Links & Embeds: 
-- [[../../../_public/astro/Star/Aquilae-8.md|Aquilae-8]] 
+- [[../../../_Standards/astro/Star/Aquilae-8|Aquilae-8]] 
+- [[../../../_public/astro/Star/Aquilae-8.public|Aquilae-8.public]] 
 - [[../../../_internal/astro/Star/Aquilae-8.internal|Aquilae-8.internal]] 
 - [[../../../_protect/astro/Star/Aquilae-8.protect|Aquilae-8.protect]] 
 - [[../../../_private/astro/Star/Aquilae-8.private|Aquilae-8.private]] 

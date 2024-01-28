@@ -27,7 +27,8 @@ confidential: public
 
 
 ## Confidential Links & Embeds: 
-- [[../../../_public/astro/Star/Aldhafera.md|Aldhafera]] 
+- [[../../../_Standards/astro/Star/Aldhafera|Aldhafera]] 
+- [[../../../_public/astro/Star/Aldhafera.public|Aldhafera.public]] 
 - [[../../../_internal/astro/Star/Aldhafera.internal|Aldhafera.internal]] 
 - [[../../../_protect/astro/Star/Aldhafera.protect|Aldhafera.protect]] 
 - [[../../../_private/astro/Star/Aldhafera.private|Aldhafera.private]] 

@@ -17,7 +17,8 @@ tags:
 To increase the Draft of an industrial Chimney, a Spiral Pipe with Nozzles was installed. When Air flows through the Nozzles, it creates an air-like Wall, reducing Drag.
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Example/Triz-Chimney.md|Triz-Chimney]] 
+- [[../../../../_Standards/tech/Triz/Example/Triz-Chimney|Triz-Chimney]] 
+- [[../../../../_public/tech/Triz/Example/Triz-Chimney.public|Triz-Chimney.public]] 
 - [[../../../../_internal/tech/Triz/Example/Triz-Chimney.internal|Triz-Chimney.internal]] 
 - [[../../../../_protect/tech/Triz/Example/Triz-Chimney.protect|Triz-Chimney.protect]] 
 - [[../../../../_private/tech/Triz/Example/Triz-Chimney.private|Triz-Chimney.private]] 

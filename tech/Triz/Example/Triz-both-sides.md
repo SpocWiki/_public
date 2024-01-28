@@ -17,7 +17,8 @@ tags:
 Electronic chips mounted on both sides of a circuit board or subassembly
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Example/Triz-both-sides.md|Triz-both-sides]] 
+- [[../../../../_Standards/tech/Triz/Example/Triz-both-sides|Triz-both-sides]] 
+- [[../../../../_public/tech/Triz/Example/Triz-both-sides.public|Triz-both-sides.public]] 
 - [[../../../../_internal/tech/Triz/Example/Triz-both-sides.internal|Triz-both-sides.internal]] 
 - [[../../../../_protect/tech/Triz/Example/Triz-both-sides.protect|Triz-both-sides.protect]] 
 - [[../../../../_private/tech/Triz/Example/Triz-both-sides.private|Triz-both-sides.private]] 

@@ -27,7 +27,8 @@ confidential: public
 
 
 ## Confidential Links & Embeds: 
-- [[../../../_public/astro/Star/Lyncis-138.md|Lyncis-138]] 
+- [[../../../_Standards/astro/Star/Lyncis-138|Lyncis-138]] 
+- [[../../../_public/astro/Star/Lyncis-138.public|Lyncis-138.public]] 
 - [[../../../_internal/astro/Star/Lyncis-138.internal|Lyncis-138.internal]] 
 - [[../../../_protect/astro/Star/Lyncis-138.protect|Lyncis-138.protect]] 
 - [[../../../_private/astro/Star/Lyncis-138.private|Lyncis-138.private]] 

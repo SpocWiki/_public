@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-generated_harm+Transformation_of_physical_and_chemical_states_of_an_object-Energy-Loss.md|Triz-generated_harm+Transformation_of_physical_and_chemical_states_of_an_object-Energy-Loss]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-generated_harm+Transformation_of_physical_and_chemical_states_of_an_object-Energy-Loss|Triz-generated_harm+Transformation_of_physical_and_chemical_states_of_an_object-Energy-Loss]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-generated_harm+Transformation_of_physical_and_chemical_states_of_an_object-Energy-Loss.public|Triz-generated_harm+Transformation_of_physical_and_chemical_states_of_an_object-Energy-Loss.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-generated_harm+Transformation_of_physical_and_chemical_states_of_an_object-Energy-Loss.internal|Triz-generated_harm+Transformation_of_physical_and_chemical_states_of_an_object-Energy-Loss.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-generated_harm+Transformation_of_physical_and_chemical_states_of_an_object-Energy-Loss.protect|Triz-generated_harm+Transformation_of_physical_and_chemical_states_of_an_object-Energy-Loss.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-generated_harm+Transformation_of_physical_and_chemical_states_of_an_object-Energy-Loss.private|Triz-generated_harm+Transformation_of_physical_and_chemical_states_of_an_object-Energy-Loss.private]] 

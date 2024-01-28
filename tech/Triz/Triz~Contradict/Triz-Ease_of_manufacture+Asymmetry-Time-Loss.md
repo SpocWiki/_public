@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Ease_of_manufacture+Asymmetry-Time-Loss.md|Triz-Ease_of_manufacture+Asymmetry-Time-Loss]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Ease_of_manufacture+Asymmetry-Time-Loss|Triz-Ease_of_manufacture+Asymmetry-Time-Loss]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Ease_of_manufacture+Asymmetry-Time-Loss.public|Triz-Ease_of_manufacture+Asymmetry-Time-Loss.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Ease_of_manufacture+Asymmetry-Time-Loss.internal|Triz-Ease_of_manufacture+Asymmetry-Time-Loss.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Ease_of_manufacture+Asymmetry-Time-Loss.protect|Triz-Ease_of_manufacture+Asymmetry-Time-Loss.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Ease_of_manufacture+Asymmetry-Time-Loss.private|Triz-Ease_of_manufacture+Asymmetry-Time-Loss.private]] 

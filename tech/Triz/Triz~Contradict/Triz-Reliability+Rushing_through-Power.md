@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Reliability+Rushing_through-Power.md|Triz-Reliability+Rushing_through-Power]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Reliability+Rushing_through-Power|Triz-Reliability+Rushing_through-Power]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Reliability+Rushing_through-Power.public|Triz-Reliability+Rushing_through-Power.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Reliability+Rushing_through-Power.internal|Triz-Reliability+Rushing_through-Power.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Reliability+Rushing_through-Power.protect|Triz-Reliability+Rushing_through-Power.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Reliability+Rushing_through-Power.private|Triz-Reliability+Rushing_through-Power.private]] 

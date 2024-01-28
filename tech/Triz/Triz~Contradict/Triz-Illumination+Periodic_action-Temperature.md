@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Illumination+Periodic_action-Temperature.md|Triz-Illumination+Periodic_action-Temperature]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Illumination+Periodic_action-Temperature|Triz-Illumination+Periodic_action-Temperature]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Illumination+Periodic_action-Temperature.public|Triz-Illumination+Periodic_action-Temperature.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Illumination+Periodic_action-Temperature.internal|Triz-Illumination+Periodic_action-Temperature.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Illumination+Periodic_action-Temperature.protect|Triz-Illumination+Periodic_action-Temperature.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Illumination+Periodic_action-Temperature.private|Triz-Illumination+Periodic_action-Temperature.private]] 

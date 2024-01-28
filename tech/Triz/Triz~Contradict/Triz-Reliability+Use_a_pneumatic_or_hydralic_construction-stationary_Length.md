@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Reliability+Use_a_pneumatic_or_hydralic_construction-stationary_Length.md|Triz-Reliability+Use_a_pneumatic_or_hydralic_construction-stationary_Length]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Reliability+Use_a_pneumatic_or_hydralic_construction-stationary_Length|Triz-Reliability+Use_a_pneumatic_or_hydralic_construction-stationary_Length]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Reliability+Use_a_pneumatic_or_hydralic_construction-stationary_Length.public|Triz-Reliability+Use_a_pneumatic_or_hydralic_construction-stationary_Length.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Reliability+Use_a_pneumatic_or_hydralic_construction-stationary_Length.internal|Triz-Reliability+Use_a_pneumatic_or_hydralic_construction-stationary_Length.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Reliability+Use_a_pneumatic_or_hydralic_construction-stationary_Length.protect|Triz-Reliability+Use_a_pneumatic_or_hydralic_construction-stationary_Length.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Reliability+Use_a_pneumatic_or_hydralic_construction-stationary_Length.private|Triz-Reliability+Use_a_pneumatic_or_hydralic_construction-stationary_Length.private]] 

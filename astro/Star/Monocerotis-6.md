@@ -27,7 +27,8 @@ confidential: public
 
 
 ## Confidential Links & Embeds: 
-- [[../../../_public/astro/Star/Monocerotis-6.md|Monocerotis-6]] 
+- [[../../../_Standards/astro/Star/Monocerotis-6|Monocerotis-6]] 
+- [[../../../_public/astro/Star/Monocerotis-6.public|Monocerotis-6.public]] 
 - [[../../../_internal/astro/Star/Monocerotis-6.internal|Monocerotis-6.internal]] 
 - [[../../../_protect/astro/Star/Monocerotis-6.protect|Monocerotis-6.protect]] 
 - [[../../../_private/astro/Star/Monocerotis-6.private|Monocerotis-6.private]] 

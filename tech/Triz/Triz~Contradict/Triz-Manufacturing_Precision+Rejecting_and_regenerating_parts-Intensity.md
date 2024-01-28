@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Manufacturing_Precision+Rejecting_and_regenerating_parts-Intensity.md|Triz-Manufacturing_Precision+Rejecting_and_regenerating_parts-Intensity]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Manufacturing_Precision+Rejecting_and_regenerating_parts-Intensity|Triz-Manufacturing_Precision+Rejecting_and_regenerating_parts-Intensity]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Manufacturing_Precision+Rejecting_and_regenerating_parts-Intensity.public|Triz-Manufacturing_Precision+Rejecting_and_regenerating_parts-Intensity.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Manufacturing_Precision+Rejecting_and_regenerating_parts-Intensity.internal|Triz-Manufacturing_Precision+Rejecting_and_regenerating_parts-Intensity.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Manufacturing_Precision+Rejecting_and_regenerating_parts-Intensity.protect|Triz-Manufacturing_Precision+Rejecting_and_regenerating_parts-Intensity.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Manufacturing_Precision+Rejecting_and_regenerating_parts-Intensity.private|Triz-Manufacturing_Precision+Rejecting_and_regenerating_parts-Intensity.private]] 

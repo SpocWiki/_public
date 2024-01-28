@@ -27,7 +27,8 @@ confidential: public
 
 
 ## Confidential Links & Embeds: 
-- [[../../../_public/astro/Star/Phad.md|Phad]] 
+- [[../../../_Standards/astro/Star/Phad|Phad]] 
+- [[../../../_public/astro/Star/Phad.public|Phad.public]] 
 - [[../../../_internal/astro/Star/Phad.internal|Phad.internal]] 
 - [[../../../_protect/astro/Star/Phad.protect|Phad.protect]] 
 - [[../../../_private/astro/Star/Phad.private|Phad.private]] 

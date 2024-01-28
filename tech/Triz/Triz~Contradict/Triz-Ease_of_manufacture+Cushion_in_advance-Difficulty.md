@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Ease_of_manufacture+Cushion_in_advance-Difficulty.md|Triz-Ease_of_manufacture+Cushion_in_advance-Difficulty]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Ease_of_manufacture+Cushion_in_advance-Difficulty|Triz-Ease_of_manufacture+Cushion_in_advance-Difficulty]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Ease_of_manufacture+Cushion_in_advance-Difficulty.public|Triz-Ease_of_manufacture+Cushion_in_advance-Difficulty.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Ease_of_manufacture+Cushion_in_advance-Difficulty.internal|Triz-Ease_of_manufacture+Cushion_in_advance-Difficulty.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Ease_of_manufacture+Cushion_in_advance-Difficulty.protect|Triz-Ease_of_manufacture+Cushion_in_advance-Difficulty.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Ease_of_manufacture+Cushion_in_advance-Difficulty.private|Triz-Ease_of_manufacture+Cushion_in_advance-Difficulty.private]] 

@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Stability+Extraction-Versatility.md|Triz-Stability+Extraction-Versatility]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Stability+Extraction-Versatility|Triz-Stability+Extraction-Versatility]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Stability+Extraction-Versatility.public|Triz-Stability+Extraction-Versatility.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Stability+Extraction-Versatility.internal|Triz-Stability+Extraction-Versatility.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Stability+Extraction-Versatility.protect|Triz-Stability+Extraction-Versatility.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Stability+Extraction-Versatility.private|Triz-Stability+Extraction-Versatility.private]] 

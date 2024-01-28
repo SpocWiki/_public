@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Versatility+Counterweight-Shape.md|Triz-Versatility+Counterweight-Shape]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Versatility+Counterweight-Shape|Triz-Versatility+Counterweight-Shape]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Versatility+Counterweight-Shape.public|Triz-Versatility+Counterweight-Shape.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Versatility+Counterweight-Shape.internal|Triz-Versatility+Counterweight-Shape.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Versatility+Counterweight-Shape.protect|Triz-Versatility+Counterweight-Shape.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Versatility+Counterweight-Shape.private|Triz-Versatility+Counterweight-Shape.private]] 

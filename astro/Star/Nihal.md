@@ -27,7 +27,8 @@ confidential: public
 
 
 ## Confidential Links & Embeds: 
-- [[../../../_public/astro/Star/Nihal.md|Nihal]] 
+- [[../../../_Standards/astro/Star/Nihal|Nihal]] 
+- [[../../../_public/astro/Star/Nihal.public|Nihal.public]] 
 - [[../../../_internal/astro/Star/Nihal.internal|Nihal.internal]] 
 - [[../../../_protect/astro/Star/Nihal.protect|Nihal.protect]] 
 - [[../../../_private/astro/Star/Nihal.private|Nihal.private]] 

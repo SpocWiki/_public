@@ -17,7 +17,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../_public/astro/Zodiac/Zodiac~Octans.md|Zodiac~Octans]] 
+- [[../../../_Standards/astro/Zodiac/Zodiac~Octans|Zodiac~Octans]] 
+- [[../../../_public/astro/Zodiac/Zodiac~Octans.public|Zodiac~Octans.public]] 
 - [[../../../_internal/astro/Zodiac/Zodiac~Octans.internal|Zodiac~Octans.internal]] 
 - [[../../../_protect/astro/Zodiac/Zodiac~Octans.protect|Zodiac~Octans.protect]] 
 - [[../../../_private/astro/Zodiac/Zodiac~Octans.private|Zodiac~Octans.private]] 

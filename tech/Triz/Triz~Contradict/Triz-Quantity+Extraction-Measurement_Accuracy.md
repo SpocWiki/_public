@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Quantity+Extraction-Measurement_Accuracy.md|Triz-Quantity+Extraction-Measurement_Accuracy]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Quantity+Extraction-Measurement_Accuracy|Triz-Quantity+Extraction-Measurement_Accuracy]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Quantity+Extraction-Measurement_Accuracy.public|Triz-Quantity+Extraction-Measurement_Accuracy.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Quantity+Extraction-Measurement_Accuracy.internal|Triz-Quantity+Extraction-Measurement_Accuracy.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Quantity+Extraction-Measurement_Accuracy.protect|Triz-Quantity+Extraction-Measurement_Accuracy.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Quantity+Extraction-Measurement_Accuracy.private|Triz-Quantity+Extraction-Measurement_Accuracy.private]] 

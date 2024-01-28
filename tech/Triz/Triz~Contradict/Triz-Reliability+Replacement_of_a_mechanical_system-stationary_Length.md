@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Reliability+Replacement_of_a_mechanical_system-stationary_Length.md|Triz-Reliability+Replacement_of_a_mechanical_system-stationary_Length]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Reliability+Replacement_of_a_mechanical_system-stationary_Length|Triz-Reliability+Replacement_of_a_mechanical_system-stationary_Length]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Reliability+Replacement_of_a_mechanical_system-stationary_Length.public|Triz-Reliability+Replacement_of_a_mechanical_system-stationary_Length.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Reliability+Replacement_of_a_mechanical_system-stationary_Length.internal|Triz-Reliability+Replacement_of_a_mechanical_system-stationary_Length.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Reliability+Replacement_of_a_mechanical_system-stationary_Length.protect|Triz-Reliability+Replacement_of_a_mechanical_system-stationary_Length.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Reliability+Replacement_of_a_mechanical_system-stationary_Length.private|Triz-Reliability+Replacement_of_a_mechanical_system-stationary_Length.private]] 

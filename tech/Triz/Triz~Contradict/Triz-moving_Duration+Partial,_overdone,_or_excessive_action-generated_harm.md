@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-moving_Duration+Partial,_overdone,_or_excessive_action-generated_harm.md|Triz-moving_Duration+Partial,_overdone,_or_excessive_action-generated_harm]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-moving_Duration+Partial,_overdone,_or_excessive_action-generated_harm|Triz-moving_Duration+Partial,_overdone,_or_excessive_action-generated_harm]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-moving_Duration+Partial,_overdone,_or_excessive_action-generated_harm.public|Triz-moving_Duration+Partial,_overdone,_or_excessive_action-generated_harm.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-moving_Duration+Partial,_overdone,_or_excessive_action-generated_harm.internal|Triz-moving_Duration+Partial,_overdone,_or_excessive_action-generated_harm.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-moving_Duration+Partial,_overdone,_or_excessive_action-generated_harm.protect|Triz-moving_Duration+Partial,_overdone,_or_excessive_action-generated_harm.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-moving_Duration+Partial,_overdone,_or_excessive_action-generated_harm.private|Triz-moving_Duration+Partial,_overdone,_or_excessive_action-generated_harm.private]] 

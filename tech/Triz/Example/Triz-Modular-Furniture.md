@@ -17,7 +17,8 @@ tags:
 Modular Furniture.
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Example/Triz-Modular-Furniture.md|Triz-Modular-Furniture]] 
+- [[../../../../_Standards/tech/Triz/Example/Triz-Modular-Furniture|Triz-Modular-Furniture]] 
+- [[../../../../_public/tech/Triz/Example/Triz-Modular-Furniture.public|Triz-Modular-Furniture.public]] 
 - [[../../../../_internal/tech/Triz/Example/Triz-Modular-Furniture.internal|Triz-Modular-Furniture.internal]] 
 - [[../../../../_protect/tech/Triz/Example/Triz-Modular-Furniture.protect|Triz-Modular-Furniture.protect]] 
 - [[../../../../_private/tech/Triz/Example/Triz-Modular-Furniture.private|Triz-Modular-Furniture.private]] 

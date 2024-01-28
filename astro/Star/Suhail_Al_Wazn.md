@@ -27,7 +27,8 @@ confidential: public
 
 
 ## Confidential Links & Embeds: 
-- [[../../../_public/astro/Star/Suhail_Al_Wazn.md|Suhail_Al_Wazn]] 
+- [[../../../_Standards/astro/Star/Suhail_Al_Wazn|Suhail_Al_Wazn]] 
+- [[../../../_public/astro/Star/Suhail_Al_Wazn.public|Suhail_Al_Wazn.public]] 
 - [[../../../_internal/astro/Star/Suhail_Al_Wazn.internal|Suhail_Al_Wazn.internal]] 
 - [[../../../_protect/astro/Star/Suhail_Al_Wazn.protect|Suhail_Al_Wazn.protect]] 
 - [[../../../_private/astro/Star/Suhail_Al_Wazn.private|Suhail_Al_Wazn.private]] 

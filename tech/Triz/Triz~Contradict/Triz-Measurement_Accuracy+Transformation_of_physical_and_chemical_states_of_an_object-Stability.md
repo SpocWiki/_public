@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Measurement_Accuracy+Transformation_of_physical_and_chemical_states_of_an_object-Stability.md|Triz-Measurement_Accuracy+Transformation_of_physical_and_chemical_states_of_an_object-Stability]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Measurement_Accuracy+Transformation_of_physical_and_chemical_states_of_an_object-Stability|Triz-Measurement_Accuracy+Transformation_of_physical_and_chemical_states_of_an_object-Stability]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Measurement_Accuracy+Transformation_of_physical_and_chemical_states_of_an_object-Stability.public|Triz-Measurement_Accuracy+Transformation_of_physical_and_chemical_states_of_an_object-Stability.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Measurement_Accuracy+Transformation_of_physical_and_chemical_states_of_an_object-Stability.internal|Triz-Measurement_Accuracy+Transformation_of_physical_and_chemical_states_of_an_object-Stability.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Measurement_Accuracy+Transformation_of_physical_and_chemical_states_of_an_object-Stability.protect|Triz-Measurement_Accuracy+Transformation_of_physical_and_chemical_states_of_an_object-Stability.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Measurement_Accuracy+Transformation_of_physical_and_chemical_states_of_an_object-Stability.private|Triz-Measurement_Accuracy+Transformation_of_physical_and_chemical_states_of_an_object-Stability.private]] 

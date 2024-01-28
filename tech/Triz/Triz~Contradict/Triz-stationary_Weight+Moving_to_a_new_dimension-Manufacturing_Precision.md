@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-stationary_Weight+Moving_to_a_new_dimension-Manufacturing_Precision.md|Triz-stationary_Weight+Moving_to_a_new_dimension-Manufacturing_Precision]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-stationary_Weight+Moving_to_a_new_dimension-Manufacturing_Precision|Triz-stationary_Weight+Moving_to_a_new_dimension-Manufacturing_Precision]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-stationary_Weight+Moving_to_a_new_dimension-Manufacturing_Precision.public|Triz-stationary_Weight+Moving_to_a_new_dimension-Manufacturing_Precision.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-stationary_Weight+Moving_to_a_new_dimension-Manufacturing_Precision.internal|Triz-stationary_Weight+Moving_to_a_new_dimension-Manufacturing_Precision.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-stationary_Weight+Moving_to_a_new_dimension-Manufacturing_Precision.protect|Triz-stationary_Weight+Moving_to_a_new_dimension-Manufacturing_Precision.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-stationary_Weight+Moving_to_a_new_dimension-Manufacturing_Precision.private|Triz-stationary_Weight+Moving_to_a_new_dimension-Manufacturing_Precision.private]] 

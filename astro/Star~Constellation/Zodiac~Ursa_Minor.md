@@ -17,7 +17,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../_public/astro/Zodiac/Zodiac~Ursa_Minor.md|Zodiac~Ursa_Minor]] 
+- [[../../../_Standards/astro/Zodiac/Zodiac~Ursa_Minor|Zodiac~Ursa_Minor]] 
+- [[../../../_public/astro/Zodiac/Zodiac~Ursa_Minor.public|Zodiac~Ursa_Minor.public]] 
 - [[../../../_internal/astro/Zodiac/Zodiac~Ursa_Minor.internal|Zodiac~Ursa_Minor.internal]] 
 - [[../../../_protect/astro/Zodiac/Zodiac~Ursa_Minor.protect|Zodiac~Ursa_Minor.protect]] 
 - [[../../../_private/astro/Zodiac/Zodiac~Ursa_Minor.private|Zodiac~Ursa_Minor.private]] 

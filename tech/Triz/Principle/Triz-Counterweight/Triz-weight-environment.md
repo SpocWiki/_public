@@ -27,7 +27,8 @@ To compensate for the weight of an object, make it interact with the environment
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Sub/Triz-weight-environment.md|Triz-weight-environment]] 
+- [[../../../../_Standards/tech/Triz/Sub/Triz-weight-environment|Triz-weight-environment]] 
+- [[../../../../_public/tech/Triz/Sub/Triz-weight-environment.public|Triz-weight-environment.public]] 
 - [[../../../../_internal/tech/Triz/Sub/Triz-weight-environment.internal|Triz-weight-environment.internal]] 
 - [[../../../../_protect/tech/Triz/Sub/Triz-weight-environment.protect|Triz-weight-environment.protect]] 
 - [[../../../../_private/tech/Triz/Sub/Triz-weight-environment.private|Triz-weight-environment.private]] 

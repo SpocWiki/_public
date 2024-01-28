@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Substance-Loss+Transformation_of_physical_and_chemical_states_of_an_object-Complexity.md|Triz-Substance-Loss+Transformation_of_physical_and_chemical_states_of_an_object-Complexity]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Substance-Loss+Transformation_of_physical_and_chemical_states_of_an_object-Complexity|Triz-Substance-Loss+Transformation_of_physical_and_chemical_states_of_an_object-Complexity]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Substance-Loss+Transformation_of_physical_and_chemical_states_of_an_object-Complexity.public|Triz-Substance-Loss+Transformation_of_physical_and_chemical_states_of_an_object-Complexity.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Substance-Loss+Transformation_of_physical_and_chemical_states_of_an_object-Complexity.internal|Triz-Substance-Loss+Transformation_of_physical_and_chemical_states_of_an_object-Complexity.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Substance-Loss+Transformation_of_physical_and_chemical_states_of_an_object-Complexity.protect|Triz-Substance-Loss+Transformation_of_physical_and_chemical_states_of_an_object-Complexity.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Substance-Loss+Transformation_of_physical_and_chemical_states_of_an_object-Complexity.private|Triz-Substance-Loss+Transformation_of_physical_and_chemical_states_of_an_object-Complexity.private]] 

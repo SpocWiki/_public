@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Speed+Use_a_pneumatic_or_hydralic_construction-moving_Area.md|Triz-Speed+Use_a_pneumatic_or_hydralic_construction-moving_Area]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Speed+Use_a_pneumatic_or_hydralic_construction-moving_Area|Triz-Speed+Use_a_pneumatic_or_hydralic_construction-moving_Area]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Speed+Use_a_pneumatic_or_hydralic_construction-moving_Area.public|Triz-Speed+Use_a_pneumatic_or_hydralic_construction-moving_Area.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Speed+Use_a_pneumatic_or_hydralic_construction-moving_Area.internal|Triz-Speed+Use_a_pneumatic_or_hydralic_construction-moving_Area.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Speed+Use_a_pneumatic_or_hydralic_construction-moving_Area.protect|Triz-Speed+Use_a_pneumatic_or_hydralic_construction-moving_Area.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Speed+Use_a_pneumatic_or_hydralic_construction-moving_Area.private|Triz-Speed+Use_a_pneumatic_or_hydralic_construction-moving_Area.private]] 

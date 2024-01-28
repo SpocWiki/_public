@@ -17,7 +17,8 @@ tags:
 Raise the Temperature of Food to cook it. (Changes Taste, Aroma, Texture, chemical Properties, etc.)
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Example/Triz-Cooking.md|Triz-Cooking]] 
+- [[../../../../_Standards/tech/Triz/Example/Triz-Cooking|Triz-Cooking]] 
+- [[../../../../_public/tech/Triz/Example/Triz-Cooking.public|Triz-Cooking.public]] 
 - [[../../../../_internal/tech/Triz/Example/Triz-Cooking.internal|Triz-Cooking.internal]] 
 - [[../../../../_protect/tech/Triz/Example/Triz-Cooking.protect|Triz-Cooking.protect]] 
 - [[../../../../_private/tech/Triz/Example/Triz-Cooking.private|Triz-Cooking.private]] 

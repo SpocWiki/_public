@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Manufacturing_Precision+Segmentation-Reliability.md|Triz-Manufacturing_Precision+Segmentation-Reliability]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Manufacturing_Precision+Segmentation-Reliability|Triz-Manufacturing_Precision+Segmentation-Reliability]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Manufacturing_Precision+Segmentation-Reliability.public|Triz-Manufacturing_Precision+Segmentation-Reliability.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Manufacturing_Precision+Segmentation-Reliability.internal|Triz-Manufacturing_Precision+Segmentation-Reliability.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Manufacturing_Precision+Segmentation-Reliability.protect|Triz-Manufacturing_Precision+Segmentation-Reliability.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Manufacturing_Precision+Segmentation-Reliability.private|Triz-Manufacturing_Precision+Segmentation-Reliability.private]] 

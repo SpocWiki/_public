@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Complexity+Replacement_of_a_mechanical_system-Difficulty.md|Triz-Complexity+Replacement_of_a_mechanical_system-Difficulty]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Complexity+Replacement_of_a_mechanical_system-Difficulty|Triz-Complexity+Replacement_of_a_mechanical_system-Difficulty]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Complexity+Replacement_of_a_mechanical_system-Difficulty.public|Triz-Complexity+Replacement_of_a_mechanical_system-Difficulty.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Complexity+Replacement_of_a_mechanical_system-Difficulty.internal|Triz-Complexity+Replacement_of_a_mechanical_system-Difficulty.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Complexity+Replacement_of_a_mechanical_system-Difficulty.protect|Triz-Complexity+Replacement_of_a_mechanical_system-Difficulty.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Complexity+Replacement_of_a_mechanical_system-Difficulty.private|Triz-Complexity+Replacement_of_a_mechanical_system-Difficulty.private]] 

@@ -17,7 +17,8 @@ tags:
 Use Pulsed Operation instead of continuous to increase Signal to Noise Ratio while not exceeding inert Heat Production(also Principle 21, Rushing through).
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Example/Triz-Pulsed_Operation.md|Triz-Pulsed_Operation]] 
+- [[../../../../_Standards/tech/Triz/Example/Triz-Pulsed_Operation|Triz-Pulsed_Operation]] 
+- [[../../../../_public/tech/Triz/Example/Triz-Pulsed_Operation.public|Triz-Pulsed_Operation.public]] 
 - [[../../../../_internal/tech/Triz/Example/Triz-Pulsed_Operation.internal|Triz-Pulsed_Operation.internal]] 
 - [[../../../../_protect/tech/Triz/Example/Triz-Pulsed_Operation.protect|Triz-Pulsed_Operation.protect]] 
 - [[../../../../_private/tech/Triz/Example/Triz-Pulsed_Operation.private|Triz-Pulsed_Operation.private]] 

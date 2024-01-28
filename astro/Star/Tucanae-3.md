@@ -27,7 +27,8 @@ confidential: public
 
 
 ## Confidential Links & Embeds: 
-- [[../../../_public/astro/Star/Tucanae-3.md|Tucanae-3]] 
+- [[../../../_Standards/astro/Star/Tucanae-3|Tucanae-3]] 
+- [[../../../_public/astro/Star/Tucanae-3.public|Tucanae-3.public]] 
 - [[../../../_internal/astro/Star/Tucanae-3.internal|Tucanae-3.internal]] 
 - [[../../../_protect/astro/Star/Tucanae-3.protect|Tucanae-3.protect]] 
 - [[../../../_private/astro/Star/Tucanae-3.private|Tucanae-3.private]] 

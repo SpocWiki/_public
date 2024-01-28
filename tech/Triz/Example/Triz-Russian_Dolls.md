@@ -17,7 +17,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Example/Triz-Russian_Dolls.md|Triz-Russian_Dolls]] 
+- [[../../../../_Standards/tech/Triz/Example/Triz-Russian_Dolls|Triz-Russian_Dolls]] 
+- [[../../../../_public/tech/Triz/Example/Triz-Russian_Dolls.public|Triz-Russian_Dolls.public]] 
 - [[../../../../_internal/tech/Triz/Example/Triz-Russian_Dolls.internal|Triz-Russian_Dolls.internal]] 
 - [[../../../../_protect/tech/Triz/Example/Triz-Russian_Dolls.protect|Triz-Russian_Dolls.protect]] 
 - [[../../../../_private/tech/Triz/Example/Triz-Russian_Dolls.private|Triz-Russian_Dolls.private]] 

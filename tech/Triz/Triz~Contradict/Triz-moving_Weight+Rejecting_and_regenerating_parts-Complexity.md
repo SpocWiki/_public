@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-moving_Weight+Rejecting_and_regenerating_parts-Complexity.md|Triz-moving_Weight+Rejecting_and_regenerating_parts-Complexity]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-moving_Weight+Rejecting_and_regenerating_parts-Complexity|Triz-moving_Weight+Rejecting_and_regenerating_parts-Complexity]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-moving_Weight+Rejecting_and_regenerating_parts-Complexity.public|Triz-moving_Weight+Rejecting_and_regenerating_parts-Complexity.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-moving_Weight+Rejecting_and_regenerating_parts-Complexity.internal|Triz-moving_Weight+Rejecting_and_regenerating_parts-Complexity.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-moving_Weight+Rejecting_and_regenerating_parts-Complexity.protect|Triz-moving_Weight+Rejecting_and_regenerating_parts-Complexity.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-moving_Weight+Rejecting_and_regenerating_parts-Complexity.private|Triz-moving_Weight+Rejecting_and_regenerating_parts-Complexity.private]] 

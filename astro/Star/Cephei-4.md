@@ -27,7 +27,8 @@ confidential: public
 
 
 ## Confidential Links & Embeds: 
-- [[../../../_public/astro/Star/Cephei-4.md|Cephei-4]] 
+- [[../../../_Standards/astro/Star/Cephei-4|Cephei-4]] 
+- [[../../../_public/astro/Star/Cephei-4.public|Cephei-4.public]] 
 - [[../../../_internal/astro/Star/Cephei-4.internal|Cephei-4.internal]] 
 - [[../../../_protect/astro/Star/Cephei-4.protect|Cephei-4.protect]] 
 - [[../../../_private/astro/Star/Cephei-4.private|Cephei-4.private]] 

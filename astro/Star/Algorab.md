@@ -27,7 +27,8 @@ confidential: public
 
 
 ## Confidential Links & Embeds: 
-- [[../../../_public/astro/Star/Algorab.md|Algorab]] 
+- [[../../../_Standards/astro/Star/Algorab|Algorab]] 
+- [[../../../_public/astro/Star/Algorab.public|Algorab.public]] 
 - [[../../../_internal/astro/Star/Algorab.internal|Algorab.internal]] 
 - [[../../../_protect/astro/Star/Algorab.protect|Algorab.protect]] 
 - [[../../../_private/astro/Star/Algorab.private|Algorab.private]] 

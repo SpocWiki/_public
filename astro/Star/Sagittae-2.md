@@ -27,7 +27,8 @@ confidential: public
 
 
 ## Confidential Links & Embeds: 
-- [[../../../_public/astro/Star/Sagittae-2.md|Sagittae-2]] 
+- [[../../../_Standards/astro/Star/Sagittae-2|Sagittae-2]] 
+- [[../../../_public/astro/Star/Sagittae-2.public|Sagittae-2.public]] 
 - [[../../../_internal/astro/Star/Sagittae-2.internal|Sagittae-2.internal]] 
 - [[../../../_protect/astro/Star/Sagittae-2.protect|Sagittae-2.protect]] 
 - [[../../../_private/astro/Star/Sagittae-2.private|Sagittae-2.private]] 

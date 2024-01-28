@@ -27,7 +27,8 @@ confidential: public
 
 
 ## Confidential Links & Embeds: 
-- [[../../../_public/astro/Star/Ursae_Majoris-10.md|Ursae_Majoris-10]] 
+- [[../../../_Standards/astro/Star/Ursae_Majoris-10|Ursae_Majoris-10]] 
+- [[../../../_public/astro/Star/Ursae_Majoris-10.public|Ursae_Majoris-10.public]] 
 - [[../../../_internal/astro/Star/Ursae_Majoris-10.internal|Ursae_Majoris-10.internal]] 
 - [[../../../_protect/astro/Star/Ursae_Majoris-10.protect|Ursae_Majoris-10.protect]] 
 - [[../../../_private/astro/Star/Ursae_Majoris-10.private|Ursae_Majoris-10.private]] 

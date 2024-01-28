@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Stress+Spheroidality-Power.md|Triz-Stress+Spheroidality-Power]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Stress+Spheroidality-Power|Triz-Stress+Spheroidality-Power]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Stress+Spheroidality-Power.public|Triz-Stress+Spheroidality-Power.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Stress+Spheroidality-Power.internal|Triz-Stress+Spheroidality-Power.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Stress+Spheroidality-Power.protect|Triz-Stress+Spheroidality-Power.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Stress+Spheroidality-Power.private|Triz-Stress+Spheroidality-Power.private]] 

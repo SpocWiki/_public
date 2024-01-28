@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Intensity+Continuity_of_useful_action-Versatility.md|Triz-Intensity+Continuity_of_useful_action-Versatility]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Intensity+Continuity_of_useful_action-Versatility|Triz-Intensity+Continuity_of_useful_action-Versatility]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Intensity+Continuity_of_useful_action-Versatility.public|Triz-Intensity+Continuity_of_useful_action-Versatility.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Intensity+Continuity_of_useful_action-Versatility.internal|Triz-Intensity+Continuity_of_useful_action-Versatility.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Intensity+Continuity_of_useful_action-Versatility.protect|Triz-Intensity+Continuity_of_useful_action-Versatility.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Intensity+Continuity_of_useful_action-Versatility.private|Triz-Intensity+Continuity_of_useful_action-Versatility.private]] 

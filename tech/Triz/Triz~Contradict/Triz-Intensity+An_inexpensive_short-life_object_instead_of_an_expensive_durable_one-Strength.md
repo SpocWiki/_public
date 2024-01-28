@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Intensity+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Strength.md|Triz-Intensity+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Strength]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Intensity+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Strength|Triz-Intensity+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Strength]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Intensity+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Strength.public|Triz-Intensity+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Strength.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Intensity+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Strength.internal|Triz-Intensity+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Strength.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Intensity+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Strength.protect|Triz-Intensity+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Strength.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Intensity+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Strength.private|Triz-Intensity+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Strength.private]] 

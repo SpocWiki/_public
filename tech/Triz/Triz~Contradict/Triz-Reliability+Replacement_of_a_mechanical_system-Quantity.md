@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Reliability+Replacement_of_a_mechanical_system-Quantity.md|Triz-Reliability+Replacement_of_a_mechanical_system-Quantity]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Reliability+Replacement_of_a_mechanical_system-Quantity|Triz-Reliability+Replacement_of_a_mechanical_system-Quantity]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Reliability+Replacement_of_a_mechanical_system-Quantity.public|Triz-Reliability+Replacement_of_a_mechanical_system-Quantity.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Reliability+Replacement_of_a_mechanical_system-Quantity.internal|Triz-Reliability+Replacement_of_a_mechanical_system-Quantity.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Reliability+Replacement_of_a_mechanical_system-Quantity.protect|Triz-Reliability+Replacement_of_a_mechanical_system-Quantity.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Reliability+Replacement_of_a_mechanical_system-Quantity.private|Triz-Reliability+Replacement_of_a_mechanical_system-Quantity.private]] 

@@ -23,7 +23,8 @@ Use 'another side' of a given area.
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Sub/Triz-another-side.md|Triz-another-side]] 
+- [[../../../../_Standards/tech/Triz/Sub/Triz-another-side|Triz-another-side]] 
+- [[../../../../_public/tech/Triz/Sub/Triz-another-side.public|Triz-another-side.public]] 
 - [[../../../../_internal/tech/Triz/Sub/Triz-another-side.internal|Triz-another-side.internal]] 
 - [[../../../../_protect/tech/Triz/Sub/Triz-another-side.protect|Triz-another-side.protect]] 
 - [[../../../../_private/tech/Triz/Sub/Triz-another-side.private|Triz-another-side.private]] 

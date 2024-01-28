@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Quantity+Moving_to_a_new_dimension-Stability.md|Triz-Quantity+Moving_to_a_new_dimension-Stability]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Quantity+Moving_to_a_new_dimension-Stability|Triz-Quantity+Moving_to_a_new_dimension-Stability]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Quantity+Moving_to_a_new_dimension-Stability.public|Triz-Quantity+Moving_to_a_new_dimension-Stability.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Quantity+Moving_to_a_new_dimension-Stability.internal|Triz-Quantity+Moving_to_a_new_dimension-Stability.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Quantity+Moving_to_a_new_dimension-Stability.protect|Triz-Quantity+Moving_to_a_new_dimension-Stability.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Quantity+Moving_to_a_new_dimension-Stability.private|Triz-Quantity+Moving_to_a_new_dimension-Stability.private]] 

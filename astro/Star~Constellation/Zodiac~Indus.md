@@ -17,7 +17,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../_public/astro/Zodiac/Zodiac~Indus.md|Zodiac~Indus]] 
+- [[../../../_Standards/astro/Zodiac/Zodiac~Indus|Zodiac~Indus]] 
+- [[../../../_public/astro/Zodiac/Zodiac~Indus.public|Zodiac~Indus.public]] 
 - [[../../../_internal/astro/Zodiac/Zodiac~Indus.internal|Zodiac~Indus.internal]] 
 - [[../../../_protect/astro/Zodiac/Zodiac~Indus.protect|Zodiac~Indus.protect]] 
 - [[../../../_private/astro/Zodiac/Zodiac~Indus.private|Zodiac~Indus.private]] 

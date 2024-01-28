@@ -17,7 +17,8 @@ tags:
 Do surveying from Space Photographs instead of on the Ground.
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Example/Triz-Space_Photographs.md|Triz-Space_Photographs]] 
+- [[../../../../_Standards/tech/Triz/Example/Triz-Space_Photographs|Triz-Space_Photographs]] 
+- [[../../../../_public/tech/Triz/Example/Triz-Space_Photographs.public|Triz-Space_Photographs.public]] 
 - [[../../../../_internal/tech/Triz/Example/Triz-Space_Photographs.internal|Triz-Space_Photographs.internal]] 
 - [[../../../../_protect/tech/Triz/Example/Triz-Space_Photographs.protect|Triz-Space_Photographs.protect]] 
 - [[../../../../_private/tech/Triz/Example/Triz-Space_Photographs.private|Triz-Space_Photographs.private]] 

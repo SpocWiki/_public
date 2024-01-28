@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Reliability+Composite_materials-Difficulty.md|Triz-Reliability+Composite_materials-Difficulty]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Reliability+Composite_materials-Difficulty|Triz-Reliability+Composite_materials-Difficulty]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Reliability+Composite_materials-Difficulty.public|Triz-Reliability+Composite_materials-Difficulty.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Reliability+Composite_materials-Difficulty.internal|Triz-Reliability+Composite_materials-Difficulty.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Reliability+Composite_materials-Difficulty.protect|Triz-Reliability+Composite_materials-Difficulty.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Reliability+Composite_materials-Difficulty.private|Triz-Reliability+Composite_materials-Difficulty.private]] 

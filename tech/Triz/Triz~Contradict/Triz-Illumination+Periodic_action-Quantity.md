@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Illumination+Periodic_action-Quantity.md|Triz-Illumination+Periodic_action-Quantity]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Illumination+Periodic_action-Quantity|Triz-Illumination+Periodic_action-Quantity]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Illumination+Periodic_action-Quantity.public|Triz-Illumination+Periodic_action-Quantity.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Illumination+Periodic_action-Quantity.internal|Triz-Illumination+Periodic_action-Quantity.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Illumination+Periodic_action-Quantity.protect|Triz-Illumination+Periodic_action-Quantity.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Illumination+Periodic_action-Quantity.private|Triz-Illumination+Periodic_action-Quantity.private]] 

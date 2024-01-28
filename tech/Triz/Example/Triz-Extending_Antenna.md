@@ -17,7 +17,8 @@ tags:
 Extending Radio Telescope Antenna
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Example/Triz-Extending_Antenna.md|Triz-Extending_Antenna]] 
+- [[../../../../_Standards/tech/Triz/Example/Triz-Extending_Antenna|Triz-Extending_Antenna]] 
+- [[../../../../_public/tech/Triz/Example/Triz-Extending_Antenna.public|Triz-Extending_Antenna.public]] 
 - [[../../../../_internal/tech/Triz/Example/Triz-Extending_Antenna.internal|Triz-Extending_Antenna.internal]] 
 - [[../../../../_protect/tech/Triz/Example/Triz-Extending_Antenna.protect|Triz-Extending_Antenna.protect]] 
 - [[../../../../_private/tech/Triz/Example/Triz-Extending_Antenna.private|Triz-Extending_Antenna.private]] 

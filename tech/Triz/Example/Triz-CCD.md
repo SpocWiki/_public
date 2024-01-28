@@ -17,7 +17,8 @@ tags:
 CCD (Charge coupled device) with micro-lenses formed on the surface
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Example/Triz-CCD.md|Triz-CCD]] 
+- [[../../../../_Standards/tech/Triz/Example/Triz-CCD|Triz-CCD]] 
+- [[../../../../_public/tech/Triz/Example/Triz-CCD.public|Triz-CCD.public]] 
 - [[../../../../_internal/tech/Triz/Example/Triz-CCD.internal|Triz-CCD.internal]] 
 - [[../../../../_protect/tech/Triz/Example/Triz-CCD.protect|Triz-CCD.protect]] 
 - [[../../../../_private/tech/Triz/Example/Triz-CCD.private|Triz-CCD.private]] 

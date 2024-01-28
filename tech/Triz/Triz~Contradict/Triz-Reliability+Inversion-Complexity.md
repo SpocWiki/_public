@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Reliability+Inversion-Complexity.md|Triz-Reliability+Inversion-Complexity]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Reliability+Inversion-Complexity|Triz-Reliability+Inversion-Complexity]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Reliability+Inversion-Complexity.public|Triz-Reliability+Inversion-Complexity.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Reliability+Inversion-Complexity.internal|Triz-Reliability+Inversion-Complexity.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Reliability+Inversion-Complexity.protect|Triz-Reliability+Inversion-Complexity.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Reliability+Inversion-Complexity.private|Triz-Reliability+Inversion-Complexity.private]] 

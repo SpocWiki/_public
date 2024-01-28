@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Stress+Mediator-Automation.md|Triz-Stress+Mediator-Automation]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Stress+Mediator-Automation|Triz-Stress+Mediator-Automation]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Stress+Mediator-Automation.public|Triz-Stress+Mediator-Automation.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Stress+Mediator-Automation.internal|Triz-Stress+Mediator-Automation.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Stress+Mediator-Automation.protect|Triz-Stress+Mediator-Automation.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Stress+Mediator-Automation.private|Triz-Stress+Mediator-Automation.private]] 

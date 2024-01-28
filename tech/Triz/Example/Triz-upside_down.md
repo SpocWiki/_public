@@ -17,7 +17,8 @@ tags:
 Turn an Assembly upside down to insert Fasteners (especially Screws).
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Example/Triz-upside_down.md|Triz-upside_down]] 
+- [[../../../../_Standards/tech/Triz/Example/Triz-upside_down|Triz-upside_down]] 
+- [[../../../../_public/tech/Triz/Example/Triz-upside_down.public|Triz-upside_down.public]] 
 - [[../../../../_internal/tech/Triz/Example/Triz-upside_down.internal|Triz-upside_down.internal]] 
 - [[../../../../_protect/tech/Triz/Example/Triz-upside_down.protect|Triz-upside_down.protect]] 
 - [[../../../../_private/tech/Triz/Example/Triz-upside_down.private|Triz-upside_down.private]] 

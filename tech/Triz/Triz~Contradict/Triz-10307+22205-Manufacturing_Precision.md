@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-10307+22205-Manufacturing_Precision.md|Triz-10307+22205-Manufacturing_Precision]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-10307+22205-Manufacturing_Precision|Triz-10307+22205-Manufacturing_Precision]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-10307+22205-Manufacturing_Precision.public|Triz-10307+22205-Manufacturing_Precision.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-10307+22205-Manufacturing_Precision.internal|Triz-10307+22205-Manufacturing_Precision.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-10307+22205-Manufacturing_Precision.protect|Triz-10307+22205-Manufacturing_Precision.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-10307+22205-Manufacturing_Precision.private|Triz-10307+22205-Manufacturing_Precision.private]] 

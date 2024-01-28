@@ -17,7 +17,8 @@ tags:
 Duration of action of stationary object
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Parameter/Triz-stationary_Duration.md|Triz-stationary_Duration]] 
+- [[../../../../_Standards/tech/Triz/Parameter/Triz-stationary_Duration|Triz-stationary_Duration]] 
+- [[../../../../_public/tech/Triz/Parameter/Triz-stationary_Duration.public|Triz-stationary_Duration.public]] 
 - [[../../../../_internal/tech/Triz/Parameter/Triz-stationary_Duration.internal|Triz-stationary_Duration.internal]] 
 - [[../../../../_protect/tech/Triz/Parameter/Triz-stationary_Duration.protect|Triz-stationary_Duration.protect]] 
 - [[../../../../_private/tech/Triz/Parameter/Triz-stationary_Duration.private|Triz-stationary_Duration.private]] 

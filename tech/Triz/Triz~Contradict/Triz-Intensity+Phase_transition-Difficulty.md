@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Intensity+Phase_transition-Difficulty.md|Triz-Intensity+Phase_transition-Difficulty]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Intensity+Phase_transition-Difficulty|Triz-Intensity+Phase_transition-Difficulty]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Intensity+Phase_transition-Difficulty.public|Triz-Intensity+Phase_transition-Difficulty.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Intensity+Phase_transition-Difficulty.internal|Triz-Intensity+Phase_transition-Difficulty.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Intensity+Phase_transition-Difficulty.protect|Triz-Intensity+Phase_transition-Difficulty.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Intensity+Phase_transition-Difficulty.private|Triz-Intensity+Phase_transition-Difficulty.private]] 

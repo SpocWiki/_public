@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-stationary_Energy+Self-service-Difficulty.md|Triz-stationary_Energy+Self-service-Difficulty]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-stationary_Energy+Self-service-Difficulty|Triz-stationary_Energy+Self-service-Difficulty]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-stationary_Energy+Self-service-Difficulty.public|Triz-stationary_Energy+Self-service-Difficulty.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-stationary_Energy+Self-service-Difficulty.internal|Triz-stationary_Energy+Self-service-Difficulty.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-stationary_Energy+Self-service-Difficulty.protect|Triz-stationary_Energy+Self-service-Difficulty.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-stationary_Energy+Self-service-Difficulty.private|Triz-stationary_Energy+Self-service-Difficulty.private]] 

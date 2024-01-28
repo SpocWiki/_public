@@ -17,7 +17,8 @@ tags:
 Vanes in a ventilation system
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Example/Triz-Vanes.md|Triz-Vanes]] 
+- [[../../../../_Standards/tech/Triz/Example/Triz-Vanes|Triz-Vanes]] 
+- [[../../../../_public/tech/Triz/Example/Triz-Vanes.public|Triz-Vanes.public]] 
 - [[../../../../_internal/tech/Triz/Example/Triz-Vanes.internal|Triz-Vanes.internal]] 
 - [[../../../../_protect/tech/Triz/Example/Triz-Vanes.protect|Triz-Vanes.protect]] 
 - [[../../../../_private/tech/Triz/Example/Triz-Vanes.private|Triz-Vanes.private]] 

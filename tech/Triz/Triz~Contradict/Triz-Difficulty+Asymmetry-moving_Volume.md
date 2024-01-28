@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Difficulty+Asymmetry-moving_Volume.md|Triz-Difficulty+Asymmetry-moving_Volume]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Difficulty+Asymmetry-moving_Volume|Triz-Difficulty+Asymmetry-moving_Volume]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Difficulty+Asymmetry-moving_Volume.public|Triz-Difficulty+Asymmetry-moving_Volume.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Difficulty+Asymmetry-moving_Volume.internal|Triz-Difficulty+Asymmetry-moving_Volume.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Difficulty+Asymmetry-moving_Volume.protect|Triz-Difficulty+Asymmetry-moving_Volume.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Difficulty+Asymmetry-moving_Volume.private|Triz-Difficulty+Asymmetry-moving_Volume.private]] 

@@ -17,7 +17,8 @@ tags:
 Medical diagnostic instruments that analyze multiple blood parameters simultaneously
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Example/Triz-multiple_diagnostic.md|Triz-multiple_diagnostic]] 
+- [[../../../../_Standards/tech/Triz/Example/Triz-multiple_diagnostic|Triz-multiple_diagnostic]] 
+- [[../../../../_public/tech/Triz/Example/Triz-multiple_diagnostic.public|Triz-multiple_diagnostic.public]] 
 - [[../../../../_internal/tech/Triz/Example/Triz-multiple_diagnostic.internal|Triz-multiple_diagnostic.internal]] 
 - [[../../../../_protect/tech/Triz/Example/Triz-multiple_diagnostic.protect|Triz-multiple_diagnostic.protect]] 
 - [[../../../../_private/tech/Triz/Example/Triz-multiple_diagnostic.private|Triz-multiple_diagnostic.private]] 

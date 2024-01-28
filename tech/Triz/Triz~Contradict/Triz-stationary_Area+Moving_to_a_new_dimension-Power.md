@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-stationary_Area+Moving_to_a_new_dimension-Power.md|Triz-stationary_Area+Moving_to_a_new_dimension-Power]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-stationary_Area+Moving_to_a_new_dimension-Power|Triz-stationary_Area+Moving_to_a_new_dimension-Power]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-stationary_Area+Moving_to_a_new_dimension-Power.public|Triz-stationary_Area+Moving_to_a_new_dimension-Power.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-stationary_Area+Moving_to_a_new_dimension-Power.internal|Triz-stationary_Area+Moving_to_a_new_dimension-Power.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-stationary_Area+Moving_to_a_new_dimension-Power.protect|Triz-stationary_Area+Moving_to_a_new_dimension-Power.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-stationary_Area+Moving_to_a_new_dimension-Power.private|Triz-stationary_Area+Moving_to_a_new_dimension-Power.private]] 

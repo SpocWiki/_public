@@ -27,7 +27,8 @@ confidential: public
 
 
 ## Confidential Links & Embeds: 
-- [[../../../_public/astro/Star/Persei-7.md|Persei-7]] 
+- [[../../../_Standards/astro/Star/Persei-7|Persei-7]] 
+- [[../../../_public/astro/Star/Persei-7.public|Persei-7.public]] 
 - [[../../../_internal/astro/Star/Persei-7.internal|Persei-7.internal]] 
 - [[../../../_protect/astro/Star/Persei-7.protect|Persei-7.protect]] 
 - [[../../../_private/astro/Star/Persei-7.private|Persei-7.private]] 

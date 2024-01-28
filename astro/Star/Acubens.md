@@ -28,7 +28,8 @@ confidential: public
 
 
 ## Confidential Links & Embeds: 
-- [[../../../_public/astro/Star/Acubens.md|Acubens]] 
+- [[../../../_Standards/astro/Star/Acubens|Acubens]] 
+- [[../../../_public/astro/Star/Acubens.public|Acubens.public]] 
 - [[../../../_internal/astro/Star/Acubens.internal|Acubens.internal]] 
 - [[../../../_protect/astro/Star/Acubens.protect|Acubens.protect]] 
 - [[../../../_private/astro/Star/Acubens.private|Acubens.private]] 

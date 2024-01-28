@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Reliability+Counterweight-Intensity.md|Triz-Reliability+Counterweight-Intensity]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Reliability+Counterweight-Intensity|Triz-Reliability+Counterweight-Intensity]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Reliability+Counterweight-Intensity.public|Triz-Reliability+Counterweight-Intensity.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Reliability+Counterweight-Intensity.internal|Triz-Reliability+Counterweight-Intensity.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Reliability+Counterweight-Intensity.protect|Triz-Reliability+Counterweight-Intensity.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Reliability+Counterweight-Intensity.private|Triz-Reliability+Counterweight-Intensity.private]] 

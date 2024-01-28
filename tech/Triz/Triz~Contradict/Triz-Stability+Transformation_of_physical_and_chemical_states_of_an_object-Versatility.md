@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Stability+Transformation_of_physical_and_chemical_states_of_an_object-Versatility.md|Triz-Stability+Transformation_of_physical_and_chemical_states_of_an_object-Versatility]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Stability+Transformation_of_physical_and_chemical_states_of_an_object-Versatility|Triz-Stability+Transformation_of_physical_and_chemical_states_of_an_object-Versatility]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Stability+Transformation_of_physical_and_chemical_states_of_an_object-Versatility.public|Triz-Stability+Transformation_of_physical_and_chemical_states_of_an_object-Versatility.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Stability+Transformation_of_physical_and_chemical_states_of_an_object-Versatility.internal|Triz-Stability+Transformation_of_physical_and_chemical_states_of_an_object-Versatility.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Stability+Transformation_of_physical_and_chemical_states_of_an_object-Versatility.protect|Triz-Stability+Transformation_of_physical_and_chemical_states_of_an_object-Versatility.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Stability+Transformation_of_physical_and_chemical_states_of_an_object-Versatility.private|Triz-Stability+Transformation_of_physical_and_chemical_states_of_an_object-Versatility.private]] 

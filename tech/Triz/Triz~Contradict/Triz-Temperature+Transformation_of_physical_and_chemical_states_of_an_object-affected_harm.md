@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Temperature+Transformation_of_physical_and_chemical_states_of_an_object-affected_harm.md|Triz-Temperature+Transformation_of_physical_and_chemical_states_of_an_object-affected_harm]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Temperature+Transformation_of_physical_and_chemical_states_of_an_object-affected_harm|Triz-Temperature+Transformation_of_physical_and_chemical_states_of_an_object-affected_harm]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Temperature+Transformation_of_physical_and_chemical_states_of_an_object-affected_harm.public|Triz-Temperature+Transformation_of_physical_and_chemical_states_of_an_object-affected_harm.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Temperature+Transformation_of_physical_and_chemical_states_of_an_object-affected_harm.internal|Triz-Temperature+Transformation_of_physical_and_chemical_states_of_an_object-affected_harm.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Temperature+Transformation_of_physical_and_chemical_states_of_an_object-affected_harm.protect|Triz-Temperature+Transformation_of_physical_and_chemical_states_of_an_object-affected_harm.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Temperature+Transformation_of_physical_and_chemical_states_of_an_object-affected_harm.private|Triz-Temperature+Transformation_of_physical_and_chemical_states_of_an_object-affected_harm.private]] 

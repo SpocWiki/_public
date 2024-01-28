@@ -18,7 +18,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-affected_harm+Convert_harm_into_benefit-Energy-Loss.md|Triz-affected_harm+Convert_harm_into_benefit-Energy-Loss]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-affected_harm+Convert_harm_into_benefit-Energy-Loss|Triz-affected_harm+Convert_harm_into_benefit-Energy-Loss]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-affected_harm+Convert_harm_into_benefit-Energy-Loss.public|Triz-affected_harm+Convert_harm_into_benefit-Energy-Loss.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-affected_harm+Convert_harm_into_benefit-Energy-Loss.internal|Triz-affected_harm+Convert_harm_into_benefit-Energy-Loss.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-affected_harm+Convert_harm_into_benefit-Energy-Loss.protect|Triz-affected_harm+Convert_harm_into_benefit-Energy-Loss.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-affected_harm+Convert_harm_into_benefit-Energy-Loss.private|Triz-affected_harm+Convert_harm_into_benefit-Energy-Loss.private]] 

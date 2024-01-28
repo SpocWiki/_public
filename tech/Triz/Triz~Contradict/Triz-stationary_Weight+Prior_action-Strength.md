@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-stationary_Weight+Prior_action-Strength.md|Triz-stationary_Weight+Prior_action-Strength]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-stationary_Weight+Prior_action-Strength|Triz-stationary_Weight+Prior_action-Strength]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-stationary_Weight+Prior_action-Strength.public|Triz-stationary_Weight+Prior_action-Strength.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-stationary_Weight+Prior_action-Strength.internal|Triz-stationary_Weight+Prior_action-Strength.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-stationary_Weight+Prior_action-Strength.protect|Triz-stationary_Weight+Prior_action-Strength.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-stationary_Weight+Prior_action-Strength.private|Triz-stationary_Weight+Prior_action-Strength.private]] 

@@ -17,7 +17,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../_public/astro/Zodiac/Zodiac~Triangulum.md|Zodiac~Triangulum]] 
+- [[../../../_Standards/astro/Zodiac/Zodiac~Triangulum|Zodiac~Triangulum]] 
+- [[../../../_public/astro/Zodiac/Zodiac~Triangulum.public|Zodiac~Triangulum.public]] 
 - [[../../../_internal/astro/Zodiac/Zodiac~Triangulum.internal|Zodiac~Triangulum.internal]] 
 - [[../../../_protect/astro/Zodiac/Zodiac~Triangulum.protect|Zodiac~Triangulum.protect]] 
 - [[../../../_private/astro/Zodiac/Zodiac~Triangulum.private|Zodiac~Triangulum.private]] 

@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Temperature+Spheroidality-Shape.md|Triz-Temperature+Spheroidality-Shape]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Temperature+Spheroidality-Shape|Triz-Temperature+Spheroidality-Shape]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Temperature+Spheroidality-Shape.public|Triz-Temperature+Spheroidality-Shape.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Temperature+Spheroidality-Shape.internal|Triz-Temperature+Spheroidality-Shape.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Temperature+Spheroidality-Shape.protect|Triz-Temperature+Spheroidality-Shape.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Temperature+Spheroidality-Shape.private|Triz-Temperature+Spheroidality-Shape.private]] 

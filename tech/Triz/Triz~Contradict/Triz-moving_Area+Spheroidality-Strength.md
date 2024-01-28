@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-moving_Area+Spheroidality-Strength.md|Triz-moving_Area+Spheroidality-Strength]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-moving_Area+Spheroidality-Strength|Triz-moving_Area+Spheroidality-Strength]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-moving_Area+Spheroidality-Strength.public|Triz-moving_Area+Spheroidality-Strength.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-moving_Area+Spheroidality-Strength.internal|Triz-moving_Area+Spheroidality-Strength.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-moving_Area+Spheroidality-Strength.protect|Triz-moving_Area+Spheroidality-Strength.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-moving_Area+Spheroidality-Strength.private|Triz-moving_Area+Spheroidality-Strength.private]] 

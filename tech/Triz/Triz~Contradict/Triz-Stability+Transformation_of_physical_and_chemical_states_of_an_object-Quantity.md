@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Stability+Transformation_of_physical_and_chemical_states_of_an_object-Quantity.md|Triz-Stability+Transformation_of_physical_and_chemical_states_of_an_object-Quantity]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Stability+Transformation_of_physical_and_chemical_states_of_an_object-Quantity|Triz-Stability+Transformation_of_physical_and_chemical_states_of_an_object-Quantity]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Stability+Transformation_of_physical_and_chemical_states_of_an_object-Quantity.public|Triz-Stability+Transformation_of_physical_and_chemical_states_of_an_object-Quantity.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Stability+Transformation_of_physical_and_chemical_states_of_an_object-Quantity.internal|Triz-Stability+Transformation_of_physical_and_chemical_states_of_an_object-Quantity.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Stability+Transformation_of_physical_and_chemical_states_of_an_object-Quantity.protect|Triz-Stability+Transformation_of_physical_and_chemical_states_of_an_object-Quantity.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Stability+Transformation_of_physical_and_chemical_states_of_an_object-Quantity.private|Triz-Stability+Transformation_of_physical_and_chemical_states_of_an_object-Quantity.private]] 

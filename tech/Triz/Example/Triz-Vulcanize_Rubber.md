@@ -17,7 +17,8 @@ tags:
 Vulcanize Rubber to change its Flexibility and Durability.
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Example/Triz-Vulcanize_Rubber.md|Triz-Vulcanize_Rubber]] 
+- [[../../../../_Standards/tech/Triz/Example/Triz-Vulcanize_Rubber|Triz-Vulcanize_Rubber]] 
+- [[../../../../_public/tech/Triz/Example/Triz-Vulcanize_Rubber.public|Triz-Vulcanize_Rubber.public]] 
 - [[../../../../_internal/tech/Triz/Example/Triz-Vulcanize_Rubber.internal|Triz-Vulcanize_Rubber.internal]] 
 - [[../../../../_protect/tech/Triz/Example/Triz-Vulcanize_Rubber.protect|Triz-Vulcanize_Rubber.protect]] 
 - [[../../../../_private/tech/Triz/Example/Triz-Vulcanize_Rubber.private|Triz-Vulcanize_Rubber.private]] 

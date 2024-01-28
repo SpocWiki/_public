@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-stationary_Weight+Local_quality-Reliability.md|Triz-stationary_Weight+Local_quality-Reliability]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-stationary_Weight+Local_quality-Reliability|Triz-stationary_Weight+Local_quality-Reliability]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-stationary_Weight+Local_quality-Reliability.public|Triz-stationary_Weight+Local_quality-Reliability.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-stationary_Weight+Local_quality-Reliability.internal|Triz-stationary_Weight+Local_quality-Reliability.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-stationary_Weight+Local_quality-Reliability.protect|Triz-stationary_Weight+Local_quality-Reliability.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-stationary_Weight+Local_quality-Reliability.private|Triz-stationary_Weight+Local_quality-Reliability.private]] 

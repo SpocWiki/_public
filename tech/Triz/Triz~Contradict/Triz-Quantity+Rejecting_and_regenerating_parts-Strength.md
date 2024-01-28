@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Quantity+Rejecting_and_regenerating_parts-Strength.md|Triz-Quantity+Rejecting_and_regenerating_parts-Strength]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Quantity+Rejecting_and_regenerating_parts-Strength|Triz-Quantity+Rejecting_and_regenerating_parts-Strength]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Quantity+Rejecting_and_regenerating_parts-Strength.public|Triz-Quantity+Rejecting_and_regenerating_parts-Strength.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Quantity+Rejecting_and_regenerating_parts-Strength.internal|Triz-Quantity+Rejecting_and_regenerating_parts-Strength.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Quantity+Rejecting_and_regenerating_parts-Strength.protect|Triz-Quantity+Rejecting_and_regenerating_parts-Strength.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Quantity+Rejecting_and_regenerating_parts-Strength.private|Triz-Quantity+Rejecting_and_regenerating_parts-Strength.private]] 

@@ -27,7 +27,8 @@ Place one object inside another; place each object, in turn, inside the other.
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Sub/Triz-merge-in-space.md|Triz-merge-in-space]] 
+- [[../../../../_Standards/tech/Triz/Sub/Triz-merge-in-space|Triz-merge-in-space]] 
+- [[../../../../_public/tech/Triz/Sub/Triz-merge-in-space.public|Triz-merge-in-space.public]] 
 - [[../../../../_internal/tech/Triz/Sub/Triz-merge-in-space.internal|Triz-merge-in-space.internal]] 
 - [[../../../../_protect/tech/Triz/Sub/Triz-merge-in-space.protect|Triz-merge-in-space.protect]] 
 - [[../../../../_private/tech/Triz/Sub/Triz-merge-in-space.private|Triz-merge-in-space.private]] 

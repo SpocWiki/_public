@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Time-Loss+Rejecting_and_regenerating_parts-affected_harm.md|Triz-Time-Loss+Rejecting_and_regenerating_parts-affected_harm]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Time-Loss+Rejecting_and_regenerating_parts-affected_harm|Triz-Time-Loss+Rejecting_and_regenerating_parts-affected_harm]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Time-Loss+Rejecting_and_regenerating_parts-affected_harm.public|Triz-Time-Loss+Rejecting_and_regenerating_parts-affected_harm.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Time-Loss+Rejecting_and_regenerating_parts-affected_harm.internal|Triz-Time-Loss+Rejecting_and_regenerating_parts-affected_harm.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Time-Loss+Rejecting_and_regenerating_parts-affected_harm.protect|Triz-Time-Loss+Rejecting_and_regenerating_parts-affected_harm.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Time-Loss+Rejecting_and_regenerating_parts-affected_harm.private|Triz-Time-Loss+Rejecting_and_regenerating_parts-affected_harm.private]] 

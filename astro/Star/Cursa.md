@@ -27,7 +27,8 @@ confidential: public
 
 
 ## Confidential Links & Embeds: 
-- [[../../../_public/astro/Star/Cursa.md|Cursa]] 
+- [[../../../_Standards/astro/Star/Cursa|Cursa]] 
+- [[../../../_public/astro/Star/Cursa.public|Cursa.public]] 
 - [[../../../_internal/astro/Star/Cursa.internal|Cursa.internal]] 
 - [[../../../_protect/astro/Star/Cursa.protect|Cursa.protect]] 
 - [[../../../_private/astro/Star/Cursa.private|Cursa.private]] 

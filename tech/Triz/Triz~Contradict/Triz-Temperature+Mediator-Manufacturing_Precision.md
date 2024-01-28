@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Temperature+Mediator-Manufacturing_Precision.md|Triz-Temperature+Mediator-Manufacturing_Precision]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Temperature+Mediator-Manufacturing_Precision|Triz-Temperature+Mediator-Manufacturing_Precision]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Temperature+Mediator-Manufacturing_Precision.public|Triz-Temperature+Mediator-Manufacturing_Precision.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Temperature+Mediator-Manufacturing_Precision.internal|Triz-Temperature+Mediator-Manufacturing_Precision.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Temperature+Mediator-Manufacturing_Precision.protect|Triz-Temperature+Mediator-Manufacturing_Precision.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Temperature+Mediator-Manufacturing_Precision.private|Triz-Temperature+Mediator-Manufacturing_Precision.private]] 

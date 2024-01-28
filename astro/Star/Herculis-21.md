@@ -27,7 +27,8 @@ confidential: public
 
 
 ## Confidential Links & Embeds: 
-- [[../../../_public/astro/Star/Herculis-21.md|Herculis-21]] 
+- [[../../../_Standards/astro/Star/Herculis-21|Herculis-21]] 
+- [[../../../_public/astro/Star/Herculis-21.public|Herculis-21.public]] 
 - [[../../../_internal/astro/Star/Herculis-21.internal|Herculis-21.internal]] 
 - [[../../../_protect/astro/Star/Herculis-21.protect|Herculis-21.protect]] 
 - [[../../../_private/astro/Star/Herculis-21.private|Herculis-21.private]] 

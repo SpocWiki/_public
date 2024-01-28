@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Measurement_Accuracy+Local_quality-Power.md|Triz-Measurement_Accuracy+Local_quality-Power]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Measurement_Accuracy+Local_quality-Power|Triz-Measurement_Accuracy+Local_quality-Power]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Measurement_Accuracy+Local_quality-Power.public|Triz-Measurement_Accuracy+Local_quality-Power.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Measurement_Accuracy+Local_quality-Power.internal|Triz-Measurement_Accuracy+Local_quality-Power.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Measurement_Accuracy+Local_quality-Power.protect|Triz-Measurement_Accuracy+Local_quality-Power.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Measurement_Accuracy+Local_quality-Power.private|Triz-Measurement_Accuracy+Local_quality-Power.private]] 

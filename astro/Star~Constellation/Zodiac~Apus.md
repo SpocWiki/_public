@@ -16,7 +16,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../_public/astro/Zodiac/Zodiac~Apus.md|Zodiac~Apus]] 
+- [[../../../_Standards/astro/Zodiac/Zodiac~Apus|Zodiac~Apus]] 
+- [[../../../_public/astro/Zodiac/Zodiac~Apus.public|Zodiac~Apus.public]] 
 - [[../../../_internal/astro/Zodiac/Zodiac~Apus.internal|Zodiac~Apus.internal]] 
 - [[../../../_protect/astro/Zodiac/Zodiac~Apus.protect|Zodiac~Apus.protect]] 
 - [[../../../_private/astro/Zodiac/Zodiac~Apus.private|Zodiac~Apus.private]] 

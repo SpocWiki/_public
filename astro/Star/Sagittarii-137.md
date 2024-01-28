@@ -27,7 +27,8 @@ confidential: public
 
 
 ## Confidential Links & Embeds: 
-- [[../../../_public/astro/Star/Sagittarii-137.md|Sagittarii-137]] 
+- [[../../../_Standards/astro/Star/Sagittarii-137|Sagittarii-137]] 
+- [[../../../_public/astro/Star/Sagittarii-137.public|Sagittarii-137.public]] 
 - [[../../../_internal/astro/Star/Sagittarii-137.internal|Sagittarii-137.internal]] 
 - [[../../../_protect/astro/Star/Sagittarii-137.protect|Sagittarii-137.protect]] 
 - [[../../../_private/astro/Star/Sagittarii-137.private|Sagittarii-137.private]] 

@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Measurement_Accuracy+Replacement_of_a_mechanical_system-moving_Duration.md|Triz-Measurement_Accuracy+Replacement_of_a_mechanical_system-moving_Duration]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Measurement_Accuracy+Replacement_of_a_mechanical_system-moving_Duration|Triz-Measurement_Accuracy+Replacement_of_a_mechanical_system-moving_Duration]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Measurement_Accuracy+Replacement_of_a_mechanical_system-moving_Duration.public|Triz-Measurement_Accuracy+Replacement_of_a_mechanical_system-moving_Duration.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Measurement_Accuracy+Replacement_of_a_mechanical_system-moving_Duration.internal|Triz-Measurement_Accuracy+Replacement_of_a_mechanical_system-moving_Duration.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Measurement_Accuracy+Replacement_of_a_mechanical_system-moving_Duration.protect|Triz-Measurement_Accuracy+Replacement_of_a_mechanical_system-moving_Duration.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Measurement_Accuracy+Replacement_of_a_mechanical_system-moving_Duration.private|Triz-Measurement_Accuracy+Replacement_of_a_mechanical_system-moving_Duration.private]] 

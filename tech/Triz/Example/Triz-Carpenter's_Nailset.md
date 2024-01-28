@@ -17,7 +17,8 @@ tags:
 used between the Hammer and the Nail
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Example/Triz-Carpenter's_Nailset.md|Triz-Carpenter's_Nailset]] 
+- [[../../../../_Standards/tech/Triz/Example/Triz-Carpenter's_Nailset|Triz-Carpenter's_Nailset]] 
+- [[../../../../_public/tech/Triz/Example/Triz-Carpenter's_Nailset.public|Triz-Carpenter's_Nailset.public]] 
 - [[../../../../_internal/tech/Triz/Example/Triz-Carpenter's_Nailset.internal|Triz-Carpenter's_Nailset.internal]] 
 - [[../../../../_protect/tech/Triz/Example/Triz-Carpenter's_Nailset.protect|Triz-Carpenter's_Nailset.protect]] 
 - [[../../../../_private/tech/Triz/Example/Triz-Carpenter's_Nailset.private|Triz-Carpenter's_Nailset.private]] 

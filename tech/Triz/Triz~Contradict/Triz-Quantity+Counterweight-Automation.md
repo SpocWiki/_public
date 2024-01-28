@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Quantity+Counterweight-Automation.md|Triz-Quantity+Counterweight-Automation]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Quantity+Counterweight-Automation|Triz-Quantity+Counterweight-Automation]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Quantity+Counterweight-Automation.public|Triz-Quantity+Counterweight-Automation.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Quantity+Counterweight-Automation.internal|Triz-Quantity+Counterweight-Automation.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Quantity+Counterweight-Automation.protect|Triz-Quantity+Counterweight-Automation.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Quantity+Counterweight-Automation.private|Triz-Quantity+Counterweight-Automation.private]] 

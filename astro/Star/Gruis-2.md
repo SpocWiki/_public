@@ -27,7 +27,8 @@ confidential: public
 
 
 ## Confidential Links & Embeds: 
-- [[../../../_public/astro/Star/Gruis-2.md|Gruis-2]] 
+- [[../../../_Standards/astro/Star/Gruis-2|Gruis-2]] 
+- [[../../../_public/astro/Star/Gruis-2.public|Gruis-2.public]] 
 - [[../../../_internal/astro/Star/Gruis-2.internal|Gruis-2.internal]] 
 - [[../../../_protect/astro/Star/Gruis-2.protect|Gruis-2.protect]] 
 - [[../../../_private/astro/Star/Gruis-2.private|Gruis-2.private]] 

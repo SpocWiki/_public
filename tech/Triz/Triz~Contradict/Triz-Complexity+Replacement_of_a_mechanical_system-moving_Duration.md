@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Complexity+Replacement_of_a_mechanical_system-moving_Duration.md|Triz-Complexity+Replacement_of_a_mechanical_system-moving_Duration]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Complexity+Replacement_of_a_mechanical_system-moving_Duration|Triz-Complexity+Replacement_of_a_mechanical_system-moving_Duration]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Complexity+Replacement_of_a_mechanical_system-moving_Duration.public|Triz-Complexity+Replacement_of_a_mechanical_system-moving_Duration.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Complexity+Replacement_of_a_mechanical_system-moving_Duration.internal|Triz-Complexity+Replacement_of_a_mechanical_system-moving_Duration.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Complexity+Replacement_of_a_mechanical_system-moving_Duration.protect|Triz-Complexity+Replacement_of_a_mechanical_system-moving_Duration.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Complexity+Replacement_of_a_mechanical_system-moving_Duration.private|Triz-Complexity+Replacement_of_a_mechanical_system-moving_Duration.private]] 

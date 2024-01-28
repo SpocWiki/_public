@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Complexity+Partial,_overdone,_or_excessive_action-moving_Area.md|Triz-Complexity+Partial,_overdone,_or_excessive_action-moving_Area]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Complexity+Partial,_overdone,_or_excessive_action-moving_Area|Triz-Complexity+Partial,_overdone,_or_excessive_action-moving_Area]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Complexity+Partial,_overdone,_or_excessive_action-moving_Area.public|Triz-Complexity+Partial,_overdone,_or_excessive_action-moving_Area.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Complexity+Partial,_overdone,_or_excessive_action-moving_Area.internal|Triz-Complexity+Partial,_overdone,_or_excessive_action-moving_Area.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Complexity+Partial,_overdone,_or_excessive_action-moving_Area.protect|Triz-Complexity+Partial,_overdone,_or_excessive_action-moving_Area.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Complexity+Partial,_overdone,_or_excessive_action-moving_Area.private|Triz-Complexity+Partial,_overdone,_or_excessive_action-moving_Area.private]] 

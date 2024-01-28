@@ -27,7 +27,8 @@ confidential: public
 
 
 ## Confidential Links & Embeds: 
-- [[../../../_public/astro/Star/Alya.md|Alya]] 
+- [[../../../_Standards/astro/Star/Alya|Alya]] 
+- [[../../../_public/astro/Star/Alya.public|Alya.public]] 
 - [[../../../_internal/astro/Star/Alya.internal|Alya.internal]] 
 - [[../../../_protect/astro/Star/Alya.protect|Alya.protect]] 
 - [[../../../_private/astro/Star/Alya.private|Alya.private]] 

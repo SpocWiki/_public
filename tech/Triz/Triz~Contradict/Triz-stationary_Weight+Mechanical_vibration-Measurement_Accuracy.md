@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-stationary_Weight+Mechanical_vibration-Measurement_Accuracy.md|Triz-stationary_Weight+Mechanical_vibration-Measurement_Accuracy]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-stationary_Weight+Mechanical_vibration-Measurement_Accuracy|Triz-stationary_Weight+Mechanical_vibration-Measurement_Accuracy]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-stationary_Weight+Mechanical_vibration-Measurement_Accuracy.public|Triz-stationary_Weight+Mechanical_vibration-Measurement_Accuracy.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-stationary_Weight+Mechanical_vibration-Measurement_Accuracy.internal|Triz-stationary_Weight+Mechanical_vibration-Measurement_Accuracy.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-stationary_Weight+Mechanical_vibration-Measurement_Accuracy.protect|Triz-stationary_Weight+Mechanical_vibration-Measurement_Accuracy.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-stationary_Weight+Mechanical_vibration-Measurement_Accuracy.private|Triz-stationary_Weight+Mechanical_vibration-Measurement_Accuracy.private]] 

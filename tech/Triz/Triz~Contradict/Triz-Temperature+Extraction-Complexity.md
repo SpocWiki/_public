@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Temperature+Extraction-Complexity.md|Triz-Temperature+Extraction-Complexity]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Temperature+Extraction-Complexity|Triz-Temperature+Extraction-Complexity]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Temperature+Extraction-Complexity.public|Triz-Temperature+Extraction-Complexity.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Temperature+Extraction-Complexity.internal|Triz-Temperature+Extraction-Complexity.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Temperature+Extraction-Complexity.protect|Triz-Temperature+Extraction-Complexity.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Temperature+Extraction-Complexity.private|Triz-Temperature+Extraction-Complexity.private]] 

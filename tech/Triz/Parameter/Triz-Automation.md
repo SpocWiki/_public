@@ -17,7 +17,8 @@ tags:
 Extent of automation
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Parameter/Triz-Automation.md|Triz-Automation]] 
+- [[../../../../_Standards/tech/Triz/Parameter/Triz-Automation|Triz-Automation]] 
+- [[../../../../_public/tech/Triz/Parameter/Triz-Automation.public|Triz-Automation.public]] 
 - [[../../../../_internal/tech/Triz/Parameter/Triz-Automation.internal|Triz-Automation.internal]] 
 - [[../../../../_protect/tech/Triz/Parameter/Triz-Automation.protect|Triz-Automation.protect]] 
 - [[../../../../_private/tech/Triz/Parameter/Triz-Automation.private|Triz-Automation.private]] 

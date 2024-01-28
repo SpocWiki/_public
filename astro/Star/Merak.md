@@ -27,7 +27,8 @@ confidential: public
 
 
 ## Confidential Links & Embeds: 
-- [[../../../_public/astro/Star/Merak.md|Merak]] 
+- [[../../../_Standards/astro/Star/Merak|Merak]] 
+- [[../../../_public/astro/Star/Merak.public|Merak.public]] 
 - [[../../../_internal/astro/Star/Merak.internal|Merak.internal]] 
 - [[../../../_protect/astro/Star/Merak.protect|Merak.protect]] 
 - [[../../../_private/astro/Star/Merak.private|Merak.private]] 

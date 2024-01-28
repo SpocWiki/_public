@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-moving_Energy+Rejecting_and_regenerating_parts-Quantity.md|Triz-moving_Energy+Rejecting_and_regenerating_parts-Quantity]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-moving_Energy+Rejecting_and_regenerating_parts-Quantity|Triz-moving_Energy+Rejecting_and_regenerating_parts-Quantity]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-moving_Energy+Rejecting_and_regenerating_parts-Quantity.public|Triz-moving_Energy+Rejecting_and_regenerating_parts-Quantity.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-moving_Energy+Rejecting_and_regenerating_parts-Quantity.internal|Triz-moving_Energy+Rejecting_and_regenerating_parts-Quantity.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-moving_Energy+Rejecting_and_regenerating_parts-Quantity.protect|Triz-moving_Energy+Rejecting_and_regenerating_parts-Quantity.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-moving_Energy+Rejecting_and_regenerating_parts-Quantity.private|Triz-moving_Energy+Rejecting_and_regenerating_parts-Quantity.private]] 

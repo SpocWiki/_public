@@ -27,7 +27,8 @@ confidential: public
 
 
 ## Confidential Links & Embeds: 
-- [[../../../_public/astro/Star/Sadr.md|Sadr]] 
+- [[../../../_Standards/astro/Star/Sadr|Sadr]] 
+- [[../../../_public/astro/Star/Sadr.public|Sadr.public]] 
 - [[../../../_internal/astro/Star/Sadr.internal|Sadr.internal]] 
 - [[../../../_protect/astro/Star/Sadr.protect|Sadr.protect]] 
 - [[../../../_private/astro/Star/Sadr.private|Sadr.private]] 

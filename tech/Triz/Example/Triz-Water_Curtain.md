@@ -17,7 +17,8 @@ tags:
 A Water Curtain to protect Steel Mill Workers from overheating by blocking infrared Rays but not the bright Light from the melted Steel.
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Example/Triz-Water_Curtain.md|Triz-Water_Curtain]] 
+- [[../../../../_Standards/tech/Triz/Example/Triz-Water_Curtain|Triz-Water_Curtain]] 
+- [[../../../../_public/tech/Triz/Example/Triz-Water_Curtain.public|Triz-Water_Curtain.public]] 
 - [[../../../../_internal/tech/Triz/Example/Triz-Water_Curtain.internal|Triz-Water_Curtain.internal]] 
 - [[../../../../_protect/tech/Triz/Example/Triz-Water_Curtain.protect|Triz-Water_Curtain.protect]] 
 - [[../../../../_private/tech/Triz/Example/Triz-Water_Curtain.private|Triz-Water_Curtain.private]] 

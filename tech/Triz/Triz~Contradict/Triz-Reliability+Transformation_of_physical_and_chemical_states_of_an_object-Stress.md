@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Reliability+Transformation_of_physical_and_chemical_states_of_an_object-Stress.md|Triz-Reliability+Transformation_of_physical_and_chemical_states_of_an_object-Stress]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Reliability+Transformation_of_physical_and_chemical_states_of_an_object-Stress|Triz-Reliability+Transformation_of_physical_and_chemical_states_of_an_object-Stress]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Reliability+Transformation_of_physical_and_chemical_states_of_an_object-Stress.public|Triz-Reliability+Transformation_of_physical_and_chemical_states_of_an_object-Stress.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Reliability+Transformation_of_physical_and_chemical_states_of_an_object-Stress.internal|Triz-Reliability+Transformation_of_physical_and_chemical_states_of_an_object-Stress.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Reliability+Transformation_of_physical_and_chemical_states_of_an_object-Stress.protect|Triz-Reliability+Transformation_of_physical_and_chemical_states_of_an_object-Stress.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Reliability+Transformation_of_physical_and_chemical_states_of_an_object-Stress.private|Triz-Reliability+Transformation_of_physical_and_chemical_states_of_an_object-Stress.private]] 

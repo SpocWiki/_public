@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-moving_Length+Dynamicity-Stability.md|Triz-moving_Length+Dynamicity-Stability]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-moving_Length+Dynamicity-Stability|Triz-moving_Length+Dynamicity-Stability]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-moving_Length+Dynamicity-Stability.public|Triz-moving_Length+Dynamicity-Stability.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-moving_Length+Dynamicity-Stability.internal|Triz-moving_Length+Dynamicity-Stability.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-moving_Length+Dynamicity-Stability.protect|Triz-moving_Length+Dynamicity-Stability.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-moving_Length+Dynamicity-Stability.private|Triz-moving_Length+Dynamicity-Stability.private]] 

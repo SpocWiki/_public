@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-moving_Energy+Dynamicity-Illumination.md|Triz-moving_Energy+Dynamicity-Illumination]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-moving_Energy+Dynamicity-Illumination|Triz-moving_Energy+Dynamicity-Illumination]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-moving_Energy+Dynamicity-Illumination.public|Triz-moving_Energy+Dynamicity-Illumination.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-moving_Energy+Dynamicity-Illumination.internal|Triz-moving_Energy+Dynamicity-Illumination.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-moving_Energy+Dynamicity-Illumination.protect|Triz-moving_Energy+Dynamicity-Illumination.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-moving_Energy+Dynamicity-Illumination.private|Triz-moving_Energy+Dynamicity-Illumination.private]] 

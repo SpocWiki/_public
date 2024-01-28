@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Intensity+Cushion_in_advance-Stress.md|Triz-Intensity+Cushion_in_advance-Stress]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Intensity+Cushion_in_advance-Stress|Triz-Intensity+Cushion_in_advance-Stress]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Intensity+Cushion_in_advance-Stress.public|Triz-Intensity+Cushion_in_advance-Stress.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Intensity+Cushion_in_advance-Stress.internal|Triz-Intensity+Cushion_in_advance-Stress.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Intensity+Cushion_in_advance-Stress.protect|Triz-Intensity+Cushion_in_advance-Stress.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Intensity+Cushion_in_advance-Stress.private|Triz-Intensity+Cushion_in_advance-Stress.private]] 

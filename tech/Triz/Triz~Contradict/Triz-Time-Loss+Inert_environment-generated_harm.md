@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Time-Loss+Inert_environment-generated_harm.md|Triz-Time-Loss+Inert_environment-generated_harm]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Time-Loss+Inert_environment-generated_harm|Triz-Time-Loss+Inert_environment-generated_harm]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Time-Loss+Inert_environment-generated_harm.public|Triz-Time-Loss+Inert_environment-generated_harm.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Time-Loss+Inert_environment-generated_harm.internal|Triz-Time-Loss+Inert_environment-generated_harm.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Time-Loss+Inert_environment-generated_harm.protect|Triz-Time-Loss+Inert_environment-generated_harm.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Time-Loss+Inert_environment-generated_harm.private|Triz-Time-Loss+Inert_environment-generated_harm.private]] 

@@ -27,7 +27,8 @@ confidential: public
 
 
 ## Confidential Links & Embeds: 
-- [[../../../_public/astro/Star/Sheliak.md|Sheliak]] 
+- [[../../../_Standards/astro/Star/Sheliak|Sheliak]] 
+- [[../../../_public/astro/Star/Sheliak.public|Sheliak.public]] 
 - [[../../../_internal/astro/Star/Sheliak.internal|Sheliak.internal]] 
 - [[../../../_protect/astro/Star/Sheliak.protect|Sheliak.protect]] 
 - [[../../../_private/astro/Star/Sheliak.private|Sheliak.private]] 

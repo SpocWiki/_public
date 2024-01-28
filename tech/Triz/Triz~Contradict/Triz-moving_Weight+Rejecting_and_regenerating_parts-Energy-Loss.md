@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-moving_Weight+Rejecting_and_regenerating_parts-Energy-Loss.md|Triz-moving_Weight+Rejecting_and_regenerating_parts-Energy-Loss]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-moving_Weight+Rejecting_and_regenerating_parts-Energy-Loss|Triz-moving_Weight+Rejecting_and_regenerating_parts-Energy-Loss]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-moving_Weight+Rejecting_and_regenerating_parts-Energy-Loss.public|Triz-moving_Weight+Rejecting_and_regenerating_parts-Energy-Loss.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-moving_Weight+Rejecting_and_regenerating_parts-Energy-Loss.internal|Triz-moving_Weight+Rejecting_and_regenerating_parts-Energy-Loss.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-moving_Weight+Rejecting_and_regenerating_parts-Energy-Loss.protect|Triz-moving_Weight+Rejecting_and_regenerating_parts-Energy-Loss.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-moving_Weight+Rejecting_and_regenerating_parts-Energy-Loss.private|Triz-moving_Weight+Rejecting_and_regenerating_parts-Energy-Loss.private]] 

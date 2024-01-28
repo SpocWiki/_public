@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Temperature+Phase_transition-stationary_Duration.md|Triz-Temperature+Phase_transition-stationary_Duration]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Temperature+Phase_transition-stationary_Duration|Triz-Temperature+Phase_transition-stationary_Duration]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Temperature+Phase_transition-stationary_Duration.public|Triz-Temperature+Phase_transition-stationary_Duration.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Temperature+Phase_transition-stationary_Duration.internal|Triz-Temperature+Phase_transition-stationary_Duration.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Temperature+Phase_transition-stationary_Duration.protect|Triz-Temperature+Phase_transition-stationary_Duration.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Temperature+Phase_transition-stationary_Duration.private|Triz-Temperature+Phase_transition-stationary_Duration.private]] 

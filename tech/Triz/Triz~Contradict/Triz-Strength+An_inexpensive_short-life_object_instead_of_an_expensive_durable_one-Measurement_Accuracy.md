@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Strength+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Measurement_Accuracy.md|Triz-Strength+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Measurement_Accuracy]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Strength+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Measurement_Accuracy|Triz-Strength+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Measurement_Accuracy]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Strength+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Measurement_Accuracy.public|Triz-Strength+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Measurement_Accuracy.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Strength+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Measurement_Accuracy.internal|Triz-Strength+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Measurement_Accuracy.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Strength+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Measurement_Accuracy.protect|Triz-Strength+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Measurement_Accuracy.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Strength+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Measurement_Accuracy.private|Triz-Strength+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Measurement_Accuracy.private]] 

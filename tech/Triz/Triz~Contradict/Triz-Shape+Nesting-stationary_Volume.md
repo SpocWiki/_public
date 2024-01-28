@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Shape+Nesting-stationary_Volume.md|Triz-Shape+Nesting-stationary_Volume]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Shape+Nesting-stationary_Volume|Triz-Shape+Nesting-stationary_Volume]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Shape+Nesting-stationary_Volume.public|Triz-Shape+Nesting-stationary_Volume.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Shape+Nesting-stationary_Volume.internal|Triz-Shape+Nesting-stationary_Volume.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Shape+Nesting-stationary_Volume.protect|Triz-Shape+Nesting-stationary_Volume.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Shape+Nesting-stationary_Volume.private|Triz-Shape+Nesting-stationary_Volume.private]] 

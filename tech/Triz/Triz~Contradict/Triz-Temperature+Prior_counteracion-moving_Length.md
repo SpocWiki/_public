@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Temperature+Prior_counteracion-moving_Length.md|Triz-Temperature+Prior_counteracion-moving_Length]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Temperature+Prior_counteracion-moving_Length|Triz-Temperature+Prior_counteracion-moving_Length]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Temperature+Prior_counteracion-moving_Length.public|Triz-Temperature+Prior_counteracion-moving_Length.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Temperature+Prior_counteracion-moving_Length.internal|Triz-Temperature+Prior_counteracion-moving_Length.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Temperature+Prior_counteracion-moving_Length.protect|Triz-Temperature+Prior_counteracion-moving_Length.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Temperature+Prior_counteracion-moving_Length.private|Triz-Temperature+Prior_counteracion-moving_Length.private]] 

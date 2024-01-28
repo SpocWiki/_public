@@ -27,7 +27,8 @@ confidential: public
 
 
 ## Confidential Links & Embeds: 
-- [[../../../_public/astro/Star/Nekkar.md|Nekkar]] 
+- [[../../../_Standards/astro/Star/Nekkar|Nekkar]] 
+- [[../../../_public/astro/Star/Nekkar.public|Nekkar.public]] 
 - [[../../../_internal/astro/Star/Nekkar.internal|Nekkar.internal]] 
 - [[../../../_protect/astro/Star/Nekkar.protect|Nekkar.protect]] 
 - [[../../../_private/astro/Star/Nekkar.private|Nekkar.private]] 

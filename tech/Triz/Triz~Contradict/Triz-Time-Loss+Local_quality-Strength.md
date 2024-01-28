@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Time-Loss+Local_quality-Strength.md|Triz-Time-Loss+Local_quality-Strength]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Time-Loss+Local_quality-Strength|Triz-Time-Loss+Local_quality-Strength]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Time-Loss+Local_quality-Strength.public|Triz-Time-Loss+Local_quality-Strength.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Time-Loss+Local_quality-Strength.internal|Triz-Time-Loss+Local_quality-Strength.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Time-Loss+Local_quality-Strength.protect|Triz-Time-Loss+Local_quality-Strength.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Time-Loss+Local_quality-Strength.private|Triz-Time-Loss+Local_quality-Strength.private]] 

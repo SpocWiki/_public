@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Shape+Dynamicity-Automation.md|Triz-Shape+Dynamicity-Automation]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Shape+Dynamicity-Automation|Triz-Shape+Dynamicity-Automation]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Shape+Dynamicity-Automation.public|Triz-Shape+Dynamicity-Automation.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Shape+Dynamicity-Automation.internal|Triz-Shape+Dynamicity-Automation.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Shape+Dynamicity-Automation.protect|Triz-Shape+Dynamicity-Automation.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Shape+Dynamicity-Automation.private|Triz-Shape+Dynamicity-Automation.private]] 

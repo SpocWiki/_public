@@ -27,7 +27,8 @@ confidential: public
 
 
 ## Confidential Links & Embeds: 
-- [[../../../_public/astro/Star/Mesarthim.md|Mesarthim]] 
+- [[../../../_Standards/astro/Star/Mesarthim|Mesarthim]] 
+- [[../../../_public/astro/Star/Mesarthim.public|Mesarthim.public]] 
 - [[../../../_internal/astro/Star/Mesarthim.internal|Mesarthim.internal]] 
 - [[../../../_protect/astro/Star/Mesarthim.protect|Mesarthim.protect]] 
 - [[../../../_private/astro/Star/Mesarthim.private|Mesarthim.private]] 

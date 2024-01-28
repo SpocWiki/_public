@@ -17,7 +17,8 @@ ZodiacPos: 11
 
 
 ## Confidential Links & Embeds: 
-- [[../../../_public/astro/Zodiac/Zodiac~Aquarius.md|Zodiac~Aquarius]] 
+- [[../../../_Standards/astro/Zodiac/Zodiac~Aquarius|Zodiac~Aquarius]] 
+- [[../../../_public/astro/Zodiac/Zodiac~Aquarius.public|Zodiac~Aquarius.public]] 
 - [[../../../_internal/astro/Zodiac/Zodiac~Aquarius.internal|Zodiac~Aquarius.internal]] 
 - [[../../../_protect/astro/Zodiac/Zodiac~Aquarius.protect|Zodiac~Aquarius.protect]] 
 - [[../../../_private/astro/Zodiac/Zodiac~Aquarius.private|Zodiac~Aquarius.private]] 

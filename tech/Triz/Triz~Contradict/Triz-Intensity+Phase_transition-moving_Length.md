@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Intensity+Phase_transition-moving_Length.md|Triz-Intensity+Phase_transition-moving_Length]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Intensity+Phase_transition-moving_Length|Triz-Intensity+Phase_transition-moving_Length]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Intensity+Phase_transition-moving_Length.public|Triz-Intensity+Phase_transition-moving_Length.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Intensity+Phase_transition-moving_Length.internal|Triz-Intensity+Phase_transition-moving_Length.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Intensity+Phase_transition-moving_Length.protect|Triz-Intensity+Phase_transition-moving_Length.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Intensity+Phase_transition-moving_Length.private|Triz-Intensity+Phase_transition-moving_Length.private]] 

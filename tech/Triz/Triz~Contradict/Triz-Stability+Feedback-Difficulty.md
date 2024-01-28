@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Stability+Feedback-Difficulty.md|Triz-Stability+Feedback-Difficulty]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Stability+Feedback-Difficulty|Triz-Stability+Feedback-Difficulty]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Stability+Feedback-Difficulty.public|Triz-Stability+Feedback-Difficulty.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Stability+Feedback-Difficulty.internal|Triz-Stability+Feedback-Difficulty.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Stability+Feedback-Difficulty.protect|Triz-Stability+Feedback-Difficulty.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Stability+Feedback-Difficulty.private|Triz-Stability+Feedback-Difficulty.private]] 

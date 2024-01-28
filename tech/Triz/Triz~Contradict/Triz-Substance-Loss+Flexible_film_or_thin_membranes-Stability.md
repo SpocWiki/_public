@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Substance-Loss+Flexible_film_or_thin_membranes-Stability.md|Triz-Substance-Loss+Flexible_film_or_thin_membranes-Stability]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Substance-Loss+Flexible_film_or_thin_membranes-Stability|Triz-Substance-Loss+Flexible_film_or_thin_membranes-Stability]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Substance-Loss+Flexible_film_or_thin_membranes-Stability.public|Triz-Substance-Loss+Flexible_film_or_thin_membranes-Stability.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Substance-Loss+Flexible_film_or_thin_membranes-Stability.internal|Triz-Substance-Loss+Flexible_film_or_thin_membranes-Stability.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Substance-Loss+Flexible_film_or_thin_membranes-Stability.protect|Triz-Substance-Loss+Flexible_film_or_thin_membranes-Stability.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Substance-Loss+Flexible_film_or_thin_membranes-Stability.private|Triz-Substance-Loss+Flexible_film_or_thin_membranes-Stability.private]] 

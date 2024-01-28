@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Speed+Rejecting_and_regenerating_parts-Ease_of_repair.md|Triz-Speed+Rejecting_and_regenerating_parts-Ease_of_repair]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Speed+Rejecting_and_regenerating_parts-Ease_of_repair|Triz-Speed+Rejecting_and_regenerating_parts-Ease_of_repair]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Speed+Rejecting_and_regenerating_parts-Ease_of_repair.public|Triz-Speed+Rejecting_and_regenerating_parts-Ease_of_repair.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Speed+Rejecting_and_regenerating_parts-Ease_of_repair.internal|Triz-Speed+Rejecting_and_regenerating_parts-Ease_of_repair.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Speed+Rejecting_and_regenerating_parts-Ease_of_repair.protect|Triz-Speed+Rejecting_and_regenerating_parts-Ease_of_repair.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Speed+Rejecting_and_regenerating_parts-Ease_of_repair.private|Triz-Speed+Rejecting_and_regenerating_parts-Ease_of_repair.private]] 

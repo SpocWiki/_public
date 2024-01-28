@@ -17,7 +17,8 @@ tags:
 Hitting something repeatedly with a hammer.
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Example/Triz-hammer.md|Triz-hammer]] 
+- [[../../../../_Standards/tech/Triz/Example/Triz-hammer|Triz-hammer]] 
+- [[../../../../_public/tech/Triz/Example/Triz-hammer.public|Triz-hammer.public]] 
 - [[../../../../_internal/tech/Triz/Example/Triz-hammer.internal|Triz-hammer.internal]] 
 - [[../../../../_protect/tech/Triz/Example/Triz-hammer.protect|Triz-hammer.protect]] 
 - [[../../../../_private/tech/Triz/Example/Triz-hammer.private|Triz-hammer.private]] 

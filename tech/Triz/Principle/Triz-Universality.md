@@ -14,7 +14,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Principle/Triz-Universality.md|Triz-Universality]] 
+- [[../../../../_Standards/tech/Triz/Principle/Triz-Universality|Triz-Universality]] 
+- [[../../../../_public/tech/Triz/Principle/Triz-Universality.public|Triz-Universality.public]] 
 - [[../../../../_internal/tech/Triz/Principle/Triz-Universality.internal|Triz-Universality.internal]] 
 - [[../../../../_protect/tech/Triz/Principle/Triz-Universality.protect|Triz-Universality.protect]] 
 - [[../../../../_private/tech/Triz/Principle/Triz-Universality.private|Triz-Universality.private]] 

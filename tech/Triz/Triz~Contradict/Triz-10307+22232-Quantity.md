@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-10307+22232-Quantity.md|Triz-10307+22232-Quantity]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-10307+22232-Quantity|Triz-10307+22232-Quantity]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-10307+22232-Quantity.public|Triz-10307+22232-Quantity.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-10307+22232-Quantity.internal|Triz-10307+22232-Quantity.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-10307+22232-Quantity.protect|Triz-10307+22232-Quantity.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-10307+22232-Quantity.private|Triz-10307+22232-Quantity.private]] 

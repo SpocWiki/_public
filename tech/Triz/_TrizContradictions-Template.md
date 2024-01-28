@@ -21,7 +21,8 @@ SpocWebEntityId: {{SpocWebEntityId}}
 
 
 ## Confidential Links & Embeds: 
-- [[../../../_public/tech/Triz/_TrizContradictions-Template.md|_TrizContradictions-Template]] 
+- [[../../../_Standards/tech/Triz/_TrizContradictions-Template|_TrizContradictions-Template]] 
+- [[../../../_public/tech/Triz/_TrizContradictions-Template.public|_TrizContradictions-Template.public]] 
 - [[../../../_internal/tech/Triz/_TrizContradictions-Template.internal|_TrizContradictions-Template.internal]] 
 - [[../../../_protect/tech/Triz/_TrizContradictions-Template.protect|_TrizContradictions-Template.protect]] 
 - [[../../../_private/tech/Triz/_TrizContradictions-Template.private|_TrizContradictions-Template.private]] 

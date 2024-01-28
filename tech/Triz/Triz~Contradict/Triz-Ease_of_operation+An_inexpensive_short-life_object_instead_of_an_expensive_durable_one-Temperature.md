@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Ease_of_operation+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Temperature.md|Triz-Ease_of_operation+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Temperature]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Ease_of_operation+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Temperature|Triz-Ease_of_operation+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Temperature]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Ease_of_operation+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Temperature.public|Triz-Ease_of_operation+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Temperature.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Ease_of_operation+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Temperature.internal|Triz-Ease_of_operation+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Temperature.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Ease_of_operation+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Temperature.protect|Triz-Ease_of_operation+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Temperature.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Ease_of_operation+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Temperature.private|Triz-Ease_of_operation+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Temperature.private]] 

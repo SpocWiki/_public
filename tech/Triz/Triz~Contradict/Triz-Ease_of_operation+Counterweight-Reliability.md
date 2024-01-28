@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Ease_of_operation+Counterweight-Reliability.md|Triz-Ease_of_operation+Counterweight-Reliability]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Ease_of_operation+Counterweight-Reliability|Triz-Ease_of_operation+Counterweight-Reliability]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Ease_of_operation+Counterweight-Reliability.public|Triz-Ease_of_operation+Counterweight-Reliability.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Ease_of_operation+Counterweight-Reliability.internal|Triz-Ease_of_operation+Counterweight-Reliability.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Ease_of_operation+Counterweight-Reliability.protect|Triz-Ease_of_operation+Counterweight-Reliability.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Ease_of_operation+Counterweight-Reliability.private|Triz-Ease_of_operation+Counterweight-Reliability.private]] 

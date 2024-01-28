@@ -112,7 +112,8 @@ Creative Commons may be contacted at <http://creativecommons.org/>.
 
 
 ## Confidential Links & Embeds: 
-- [[../_public/License.md|License]] 
+- [[../_Standards/License|License]] 
+- [[../_public/License.public|License.public]] 
 - [[../_internal/License.internal|License.internal]] 
 - [[../_protect/License.protect|License.protect]] 
 - [[../_private/License.private|License.private]] 

@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-affected_harm+Transformation_of_physical_and_chemical_states_of_an_object-Strength.md|Triz-affected_harm+Transformation_of_physical_and_chemical_states_of_an_object-Strength]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-affected_harm+Transformation_of_physical_and_chemical_states_of_an_object-Strength|Triz-affected_harm+Transformation_of_physical_and_chemical_states_of_an_object-Strength]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-affected_harm+Transformation_of_physical_and_chemical_states_of_an_object-Strength.public|Triz-affected_harm+Transformation_of_physical_and_chemical_states_of_an_object-Strength.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-affected_harm+Transformation_of_physical_and_chemical_states_of_an_object-Strength.internal|Triz-affected_harm+Transformation_of_physical_and_chemical_states_of_an_object-Strength.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-affected_harm+Transformation_of_physical_and_chemical_states_of_an_object-Strength.protect|Triz-affected_harm+Transformation_of_physical_and_chemical_states_of_an_object-Strength.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-affected_harm+Transformation_of_physical_and_chemical_states_of_an_object-Strength.private|Triz-affected_harm+Transformation_of_physical_and_chemical_states_of_an_object-Strength.private]] 

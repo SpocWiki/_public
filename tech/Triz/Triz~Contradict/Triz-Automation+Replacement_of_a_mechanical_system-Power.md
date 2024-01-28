@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Automation+Replacement_of_a_mechanical_system-Power.md|Triz-Automation+Replacement_of_a_mechanical_system-Power]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Automation+Replacement_of_a_mechanical_system-Power|Triz-Automation+Replacement_of_a_mechanical_system-Power]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Automation+Replacement_of_a_mechanical_system-Power.public|Triz-Automation+Replacement_of_a_mechanical_system-Power.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Automation+Replacement_of_a_mechanical_system-Power.internal|Triz-Automation+Replacement_of_a_mechanical_system-Power.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Automation+Replacement_of_a_mechanical_system-Power.protect|Triz-Automation+Replacement_of_a_mechanical_system-Power.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Automation+Replacement_of_a_mechanical_system-Power.private|Triz-Automation+Replacement_of_a_mechanical_system-Power.private]] 

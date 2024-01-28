@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Energy-Loss+Phase_transition-Intensity.md|Triz-Energy-Loss+Phase_transition-Intensity]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Energy-Loss+Phase_transition-Intensity|Triz-Energy-Loss+Phase_transition-Intensity]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Energy-Loss+Phase_transition-Intensity.public|Triz-Energy-Loss+Phase_transition-Intensity.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Energy-Loss+Phase_transition-Intensity.internal|Triz-Energy-Loss+Phase_transition-Intensity.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Energy-Loss+Phase_transition-Intensity.protect|Triz-Energy-Loss+Phase_transition-Intensity.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Energy-Loss+Phase_transition-Intensity.private|Triz-Energy-Loss+Phase_transition-Intensity.private]] 

@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Intensity+Cushion_in_advance-Ease_of_repair.md|Triz-Intensity+Cushion_in_advance-Ease_of_repair]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Intensity+Cushion_in_advance-Ease_of_repair|Triz-Intensity+Cushion_in_advance-Ease_of_repair]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Intensity+Cushion_in_advance-Ease_of_repair.public|Triz-Intensity+Cushion_in_advance-Ease_of_repair.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Intensity+Cushion_in_advance-Ease_of_repair.internal|Triz-Intensity+Cushion_in_advance-Ease_of_repair.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Intensity+Cushion_in_advance-Ease_of_repair.protect|Triz-Intensity+Cushion_in_advance-Ease_of_repair.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Intensity+Cushion_in_advance-Ease_of_repair.private|Triz-Intensity+Cushion_in_advance-Ease_of_repair.private]] 

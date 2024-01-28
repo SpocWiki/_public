@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Ease_of_operation+Inversion-Temperature.md|Triz-Ease_of_operation+Inversion-Temperature]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Ease_of_operation+Inversion-Temperature|Triz-Ease_of_operation+Inversion-Temperature]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Ease_of_operation+Inversion-Temperature.public|Triz-Ease_of_operation+Inversion-Temperature.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Ease_of_operation+Inversion-Temperature.internal|Triz-Ease_of_operation+Inversion-Temperature.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Ease_of_operation+Inversion-Temperature.protect|Triz-Ease_of_operation+Inversion-Temperature.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Ease_of_operation+Inversion-Temperature.private|Triz-Ease_of_operation+Inversion-Temperature.private]] 

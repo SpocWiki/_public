@@ -17,7 +17,8 @@ tags:
 Reliability: dependability or consistency of a system's performance
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Parameter/Triz-Reliability.md|Triz-Reliability]] 
+- [[../../../../_Standards/tech/Triz/Parameter/Triz-Reliability|Triz-Reliability]] 
+- [[../../../../_public/tech/Triz/Parameter/Triz-Reliability.public|Triz-Reliability.public]] 
 - [[../../../../_internal/tech/Triz/Parameter/Triz-Reliability.internal|Triz-Reliability.internal]] 
 - [[../../../../_protect/tech/Triz/Parameter/Triz-Reliability.protect|Triz-Reliability.protect]] 
 - [[../../../../_private/tech/Triz/Parameter/Triz-Reliability.private|Triz-Reliability.private]] 

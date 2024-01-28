@@ -27,7 +27,8 @@ confidential: public
 
 
 ## Confidential Links & Embeds: 
-- [[../../../_public/astro/Star/Capella.md|Capella]] 
+- [[../../../_Standards/astro/Star/Capella|Capella]] 
+- [[../../../_public/astro/Star/Capella.public|Capella.public]] 
 - [[../../../_internal/astro/Star/Capella.internal|Capella.internal]] 
 - [[../../../_protect/astro/Star/Capella.protect|Capella.protect]] 
 - [[../../../_private/astro/Star/Capella.private|Capella.private]] 

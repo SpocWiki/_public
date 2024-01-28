@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-stationary_Area+Moving_to_a_new_dimension-Energy-Loss.md|Triz-stationary_Area+Moving_to_a_new_dimension-Energy-Loss]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-stationary_Area+Moving_to_a_new_dimension-Energy-Loss|Triz-stationary_Area+Moving_to_a_new_dimension-Energy-Loss]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-stationary_Area+Moving_to_a_new_dimension-Energy-Loss.public|Triz-stationary_Area+Moving_to_a_new_dimension-Energy-Loss.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-stationary_Area+Moving_to_a_new_dimension-Energy-Loss.internal|Triz-stationary_Area+Moving_to_a_new_dimension-Energy-Loss.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-stationary_Area+Moving_to_a_new_dimension-Energy-Loss.protect|Triz-stationary_Area+Moving_to_a_new_dimension-Energy-Loss.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-stationary_Area+Moving_to_a_new_dimension-Energy-Loss.private|Triz-stationary_Area+Moving_to_a_new_dimension-Energy-Loss.private]] 

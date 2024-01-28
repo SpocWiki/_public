@@ -28,7 +28,8 @@ Make Portions of an Object that have fulfilled their Functions go away (discard 
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Sub/Triz-removed-obsolete.md|Triz-removed-obsolete]] 
+- [[../../../../_Standards/tech/Triz/Sub/Triz-removed-obsolete|Triz-removed-obsolete]] 
+- [[../../../../_public/tech/Triz/Sub/Triz-removed-obsolete.public|Triz-removed-obsolete.public]] 
 - [[../../../../_internal/tech/Triz/Sub/Triz-removed-obsolete.internal|Triz-removed-obsolete.internal]] 
 - [[../../../../_protect/tech/Triz/Sub/Triz-removed-obsolete.protect|Triz-removed-obsolete.protect]] 
 - [[../../../../_private/tech/Triz/Sub/Triz-removed-obsolete.private|Triz-removed-obsolete.private]] 

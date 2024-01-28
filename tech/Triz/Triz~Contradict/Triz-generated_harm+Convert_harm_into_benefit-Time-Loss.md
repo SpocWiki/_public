@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-generated_harm+Convert_harm_into_benefit-Time-Loss.md|Triz-generated_harm+Convert_harm_into_benefit-Time-Loss]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-generated_harm+Convert_harm_into_benefit-Time-Loss|Triz-generated_harm+Convert_harm_into_benefit-Time-Loss]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-generated_harm+Convert_harm_into_benefit-Time-Loss.public|Triz-generated_harm+Convert_harm_into_benefit-Time-Loss.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-generated_harm+Convert_harm_into_benefit-Time-Loss.internal|Triz-generated_harm+Convert_harm_into_benefit-Time-Loss.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-generated_harm+Convert_harm_into_benefit-Time-Loss.protect|Triz-generated_harm+Convert_harm_into_benefit-Time-Loss.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-generated_harm+Convert_harm_into_benefit-Time-Loss.private|Triz-generated_harm+Convert_harm_into_benefit-Time-Loss.private]] 

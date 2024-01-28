@@ -17,7 +17,8 @@ tags:
 Rotate the Part instead of the Tool.
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Example/Triz-Rotate_Part.md|Triz-Rotate_Part]] 
+- [[../../../../_Standards/tech/Triz/Example/Triz-Rotate_Part|Triz-Rotate_Part]] 
+- [[../../../../_public/tech/Triz/Example/Triz-Rotate_Part.public|Triz-Rotate_Part.public]] 
 - [[../../../../_internal/tech/Triz/Example/Triz-Rotate_Part.internal|Triz-Rotate_Part.internal]] 
 - [[../../../../_protect/tech/Triz/Example/Triz-Rotate_Part.protect|Triz-Rotate_Part.protect]] 
 - [[../../../../_private/tech/Triz/Example/Triz-Rotate_Part.private|Triz-Rotate_Part.private]] 

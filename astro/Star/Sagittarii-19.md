@@ -27,7 +27,8 @@ confidential: public
 
 
 ## Confidential Links & Embeds: 
-- [[../../../_public/astro/Star/Sagittarii-19.md|Sagittarii-19]] 
+- [[../../../_Standards/astro/Star/Sagittarii-19|Sagittarii-19]] 
+- [[../../../_public/astro/Star/Sagittarii-19.public|Sagittarii-19.public]] 
 - [[../../../_internal/astro/Star/Sagittarii-19.internal|Sagittarii-19.internal]] 
 - [[../../../_protect/astro/Star/Sagittarii-19.protect|Sagittarii-19.protect]] 
 - [[../../../_private/astro/Star/Sagittarii-19.private|Sagittarii-19.private]] 

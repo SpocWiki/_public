@@ -27,7 +27,8 @@ confidential: public
 
 
 ## Confidential Links & Embeds: 
-- [[../../../_public/astro/Star/Columbae-2.md|Columbae-2]] 
+- [[../../../_Standards/astro/Star/Columbae-2|Columbae-2]] 
+- [[../../../_public/astro/Star/Columbae-2.public|Columbae-2.public]] 
 - [[../../../_internal/astro/Star/Columbae-2.internal|Columbae-2.internal]] 
 - [[../../../_protect/astro/Star/Columbae-2.protect|Columbae-2.protect]] 
 - [[../../../_private/astro/Star/Columbae-2.private|Columbae-2.private]] 

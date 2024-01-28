@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-stationary_Volume+Rejecting_and_regenerating_parts-Stability.md|Triz-stationary_Volume+Rejecting_and_regenerating_parts-Stability]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-stationary_Volume+Rejecting_and_regenerating_parts-Stability|Triz-stationary_Volume+Rejecting_and_regenerating_parts-Stability]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-stationary_Volume+Rejecting_and_regenerating_parts-Stability.public|Triz-stationary_Volume+Rejecting_and_regenerating_parts-Stability.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-stationary_Volume+Rejecting_and_regenerating_parts-Stability.internal|Triz-stationary_Volume+Rejecting_and_regenerating_parts-Stability.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-stationary_Volume+Rejecting_and_regenerating_parts-Stability.protect|Triz-stationary_Volume+Rejecting_and_regenerating_parts-Stability.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-stationary_Volume+Rejecting_and_regenerating_parts-Stability.private|Triz-stationary_Volume+Rejecting_and_regenerating_parts-Stability.private]] 

@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Stress+Asymmetry-Time-Loss.md|Triz-Stress+Asymmetry-Time-Loss]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Stress+Asymmetry-Time-Loss|Triz-Stress+Asymmetry-Time-Loss]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Stress+Asymmetry-Time-Loss.public|Triz-Stress+Asymmetry-Time-Loss.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Stress+Asymmetry-Time-Loss.internal|Triz-Stress+Asymmetry-Time-Loss.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Stress+Asymmetry-Time-Loss.protect|Triz-Stress+Asymmetry-Time-Loss.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Stress+Asymmetry-Time-Loss.private|Triz-Stress+Asymmetry-Time-Loss.private]] 

@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-moving_Weight+Extraction-Speed.md|Triz-moving_Weight+Extraction-Speed]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-moving_Weight+Extraction-Speed|Triz-moving_Weight+Extraction-Speed]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-moving_Weight+Extraction-Speed.public|Triz-moving_Weight+Extraction-Speed.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-moving_Weight+Extraction-Speed.internal|Triz-moving_Weight+Extraction-Speed.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-moving_Weight+Extraction-Speed.protect|Triz-moving_Weight+Extraction-Speed.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-moving_Weight+Extraction-Speed.private|Triz-moving_Weight+Extraction-Speed.private]] 

@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Stress+Periodic_action-Reliability.md|Triz-Stress+Periodic_action-Reliability]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Stress+Periodic_action-Reliability|Triz-Stress+Periodic_action-Reliability]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Stress+Periodic_action-Reliability.public|Triz-Stress+Periodic_action-Reliability.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Stress+Periodic_action-Reliability.internal|Triz-Stress+Periodic_action-Reliability.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Stress+Periodic_action-Reliability.protect|Triz-Stress+Periodic_action-Reliability.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Stress+Periodic_action-Reliability.private|Triz-Stress+Periodic_action-Reliability.private]] 

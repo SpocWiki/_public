@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-stationary_Duration+Rejecting_and_regenerating_parts-Difficulty.md|Triz-stationary_Duration+Rejecting_and_regenerating_parts-Difficulty]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-stationary_Duration+Rejecting_and_regenerating_parts-Difficulty|Triz-stationary_Duration+Rejecting_and_regenerating_parts-Difficulty]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-stationary_Duration+Rejecting_and_regenerating_parts-Difficulty.public|Triz-stationary_Duration+Rejecting_and_regenerating_parts-Difficulty.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-stationary_Duration+Rejecting_and_regenerating_parts-Difficulty.internal|Triz-stationary_Duration+Rejecting_and_regenerating_parts-Difficulty.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-stationary_Duration+Rejecting_and_regenerating_parts-Difficulty.protect|Triz-stationary_Duration+Rejecting_and_regenerating_parts-Difficulty.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-stationary_Duration+Rejecting_and_regenerating_parts-Difficulty.private|Triz-stationary_Duration+Rejecting_and_regenerating_parts-Difficulty.private]] 

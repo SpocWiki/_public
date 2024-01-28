@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-stationary_Duration+Feedback-Stability.md|Triz-stationary_Duration+Feedback-Stability]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-stationary_Duration+Feedback-Stability|Triz-stationary_Duration+Feedback-Stability]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-stationary_Duration+Feedback-Stability.public|Triz-stationary_Duration+Feedback-Stability.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-stationary_Duration+Feedback-Stability.internal|Triz-stationary_Duration+Feedback-Stability.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-stationary_Duration+Feedback-Stability.protect|Triz-stationary_Duration+Feedback-Stability.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-stationary_Duration+Feedback-Stability.private|Triz-stationary_Duration+Feedback-Stability.private]] 

@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-moving_Area+Asymmetry-Time-Loss.md|Triz-moving_Area+Asymmetry-Time-Loss]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-moving_Area+Asymmetry-Time-Loss|Triz-moving_Area+Asymmetry-Time-Loss]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-moving_Area+Asymmetry-Time-Loss.public|Triz-moving_Area+Asymmetry-Time-Loss.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-moving_Area+Asymmetry-Time-Loss.internal|Triz-moving_Area+Asymmetry-Time-Loss.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-moving_Area+Asymmetry-Time-Loss.protect|Triz-moving_Area+Asymmetry-Time-Loss.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-moving_Area+Asymmetry-Time-Loss.private|Triz-moving_Area+Asymmetry-Time-Loss.private]] 

@@ -17,7 +17,8 @@ tags:
 Measure an Object by measuring the Photograph or its Shadow.
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Example/Triz-Measure_Shadow.md|Triz-Measure_Shadow]] 
+- [[../../../../_Standards/tech/Triz/Example/Triz-Measure_Shadow|Triz-Measure_Shadow]] 
+- [[../../../../_public/tech/Triz/Example/Triz-Measure_Shadow.public|Triz-Measure_Shadow.public]] 
 - [[../../../../_internal/tech/Triz/Example/Triz-Measure_Shadow.internal|Triz-Measure_Shadow.internal]] 
 - [[../../../../_protect/tech/Triz/Example/Triz-Measure_Shadow.protect|Triz-Measure_Shadow.protect]] 
 - [[../../../../_private/tech/Triz/Example/Triz-Measure_Shadow.private|Triz-Measure_Shadow.private]] 

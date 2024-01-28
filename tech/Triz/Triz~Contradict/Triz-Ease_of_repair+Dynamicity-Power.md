@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Ease_of_repair+Dynamicity-Power.md|Triz-Ease_of_repair+Dynamicity-Power]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Ease_of_repair+Dynamicity-Power|Triz-Ease_of_repair+Dynamicity-Power]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Ease_of_repair+Dynamicity-Power.public|Triz-Ease_of_repair+Dynamicity-Power.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Ease_of_repair+Dynamicity-Power.internal|Triz-Ease_of_repair+Dynamicity-Power.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Ease_of_repair+Dynamicity-Power.protect|Triz-Ease_of_repair+Dynamicity-Power.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Ease_of_repair+Dynamicity-Power.private|Triz-Ease_of_repair+Dynamicity-Power.private]] 

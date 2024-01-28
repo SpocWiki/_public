@@ -27,7 +27,8 @@ confidential: public
 
 
 ## Confidential Links & Embeds: 
-- [[../../../_public/astro/Star/Tejat_Prior.md|Tejat_Prior]] 
+- [[../../../_Standards/astro/Star/Tejat_Prior|Tejat_Prior]] 
+- [[../../../_public/astro/Star/Tejat_Prior.public|Tejat_Prior.public]] 
 - [[../../../_internal/astro/Star/Tejat_Prior.internal|Tejat_Prior.internal]] 
 - [[../../../_protect/astro/Star/Tejat_Prior.protect|Tejat_Prior.protect]] 
 - [[../../../_private/astro/Star/Tejat_Prior.private|Tejat_Prior.private]] 

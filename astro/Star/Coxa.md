@@ -27,7 +27,8 @@ confidential: public
 
 
 ## Confidential Links & Embeds: 
-- [[../../../_public/astro/Star/Coxa.md|Coxa]] 
+- [[../../../_Standards/astro/Star/Coxa|Coxa]] 
+- [[../../../_public/astro/Star/Coxa.public|Coxa.public]] 
 - [[../../../_internal/astro/Star/Coxa.internal|Coxa.internal]] 
 - [[../../../_protect/astro/Star/Coxa.protect|Coxa.protect]] 
 - [[../../../_private/astro/Star/Coxa.private|Coxa.private]] 

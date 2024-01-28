@@ -17,7 +17,8 @@ tags:
 Chairs or Connectors that stack onto each other for Storage or Operation.
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Example/Triz-Stackable.md|Triz-Stackable]] 
+- [[../../../../_Standards/tech/Triz/Example/Triz-Stackable|Triz-Stackable]] 
+- [[../../../../_public/tech/Triz/Example/Triz-Stackable.public|Triz-Stackable.public]] 
 - [[../../../../_internal/tech/Triz/Example/Triz-Stackable.internal|Triz-Stackable.internal]] 
 - [[../../../../_protect/tech/Triz/Example/Triz-Stackable.protect|Triz-Stackable.protect]] 
 - [[../../../../_private/tech/Triz/Example/Triz-Stackable.private|Triz-Stackable.private]] 

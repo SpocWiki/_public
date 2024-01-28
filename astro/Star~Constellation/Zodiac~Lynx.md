@@ -17,7 +17,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../_public/astro/Zodiac/Zodiac~Lynx.md|Zodiac~Lynx]] 
+- [[../../../_Standards/astro/Zodiac/Zodiac~Lynx|Zodiac~Lynx]] 
+- [[../../../_public/astro/Zodiac/Zodiac~Lynx.public|Zodiac~Lynx.public]] 
 - [[../../../_internal/astro/Zodiac/Zodiac~Lynx.internal|Zodiac~Lynx.internal]] 
 - [[../../../_protect/astro/Zodiac/Zodiac~Lynx.protect|Zodiac~Lynx.protect]] 
 - [[../../../_private/astro/Zodiac/Zodiac~Lynx.private|Zodiac~Lynx.private]] 

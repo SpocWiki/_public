@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-stationary_Area+Phase_transition-Complexity.md|Triz-stationary_Area+Phase_transition-Complexity]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-stationary_Area+Phase_transition-Complexity|Triz-stationary_Area+Phase_transition-Complexity]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-stationary_Area+Phase_transition-Complexity.public|Triz-stationary_Area+Phase_transition-Complexity.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-stationary_Area+Phase_transition-Complexity.internal|Triz-stationary_Area+Phase_transition-Complexity.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-stationary_Area+Phase_transition-Complexity.protect|Triz-stationary_Area+Phase_transition-Complexity.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-stationary_Area+Phase_transition-Complexity.private|Triz-stationary_Area+Phase_transition-Complexity.private]] 

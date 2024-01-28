@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Reliability+Cushion_in_advance-Illumination.md|Triz-Reliability+Cushion_in_advance-Illumination]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Reliability+Cushion_in_advance-Illumination|Triz-Reliability+Cushion_in_advance-Illumination]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Reliability+Cushion_in_advance-Illumination.public|Triz-Reliability+Cushion_in_advance-Illumination.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Reliability+Cushion_in_advance-Illumination.internal|Triz-Reliability+Cushion_in_advance-Illumination.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Reliability+Cushion_in_advance-Illumination.protect|Triz-Reliability+Cushion_in_advance-Illumination.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Reliability+Cushion_in_advance-Illumination.private|Triz-Reliability+Cushion_in_advance-Illumination.private]] 

@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Measurement_Accuracy+Local_quality-moving_Area.md|Triz-Measurement_Accuracy+Local_quality-moving_Area]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Measurement_Accuracy+Local_quality-moving_Area|Triz-Measurement_Accuracy+Local_quality-moving_Area]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Measurement_Accuracy+Local_quality-moving_Area.public|Triz-Measurement_Accuracy+Local_quality-moving_Area.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Measurement_Accuracy+Local_quality-moving_Area.internal|Triz-Measurement_Accuracy+Local_quality-moving_Area.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Measurement_Accuracy+Local_quality-moving_Area.protect|Triz-Measurement_Accuracy+Local_quality-moving_Area.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Measurement_Accuracy+Local_quality-moving_Area.private|Triz-Measurement_Accuracy+Local_quality-moving_Area.private]] 

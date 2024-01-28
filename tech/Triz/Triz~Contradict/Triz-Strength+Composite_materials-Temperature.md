@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Strength+Composite_materials-Temperature.md|Triz-Strength+Composite_materials-Temperature]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Strength+Composite_materials-Temperature|Triz-Strength+Composite_materials-Temperature]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Strength+Composite_materials-Temperature.public|Triz-Strength+Composite_materials-Temperature.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Strength+Composite_materials-Temperature.internal|Triz-Strength+Composite_materials-Temperature.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Strength+Composite_materials-Temperature.protect|Triz-Strength+Composite_materials-Temperature.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Strength+Composite_materials-Temperature.private|Triz-Strength+Composite_materials-Temperature.private]] 

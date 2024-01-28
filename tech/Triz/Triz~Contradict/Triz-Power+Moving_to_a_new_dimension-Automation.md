@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Power+Moving_to_a_new_dimension-Automation.md|Triz-Power+Moving_to_a_new_dimension-Automation]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Power+Moving_to_a_new_dimension-Automation|Triz-Power+Moving_to_a_new_dimension-Automation]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Power+Moving_to_a_new_dimension-Automation.public|Triz-Power+Moving_to_a_new_dimension-Automation.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Power+Moving_to_a_new_dimension-Automation.internal|Triz-Power+Moving_to_a_new_dimension-Automation.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Power+Moving_to_a_new_dimension-Automation.protect|Triz-Power+Moving_to_a_new_dimension-Automation.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Power+Moving_to_a_new_dimension-Automation.private|Triz-Power+Moving_to_a_new_dimension-Automation.private]] 

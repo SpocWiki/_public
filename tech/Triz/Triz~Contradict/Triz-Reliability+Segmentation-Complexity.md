@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Reliability+Segmentation-Complexity.md|Triz-Reliability+Segmentation-Complexity]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Reliability+Segmentation-Complexity|Triz-Reliability+Segmentation-Complexity]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Reliability+Segmentation-Complexity.public|Triz-Reliability+Segmentation-Complexity.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Reliability+Segmentation-Complexity.internal|Triz-Reliability+Segmentation-Complexity.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Reliability+Segmentation-Complexity.protect|Triz-Reliability+Segmentation-Complexity.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Reliability+Segmentation-Complexity.private|Triz-Reliability+Segmentation-Complexity.private]] 

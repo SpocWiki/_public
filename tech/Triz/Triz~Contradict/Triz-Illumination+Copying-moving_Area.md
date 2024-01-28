@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Illumination+Copying-moving_Area.md|Triz-Illumination+Copying-moving_Area]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Illumination+Copying-moving_Area|Triz-Illumination+Copying-moving_Area]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Illumination+Copying-moving_Area.public|Triz-Illumination+Copying-moving_Area.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Illumination+Copying-moving_Area.internal|Triz-Illumination+Copying-moving_Area.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Illumination+Copying-moving_Area.protect|Triz-Illumination+Copying-moving_Area.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Illumination+Copying-moving_Area.private|Triz-Illumination+Copying-moving_Area.private]] 

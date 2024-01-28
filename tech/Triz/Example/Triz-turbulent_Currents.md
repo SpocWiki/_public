@@ -17,7 +17,8 @@ tags:
 Use turbulent Currents to heat Copper Pans and Pots or to brake electrical Trains.
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Example/Triz-turbulent_Currents.md|Triz-turbulent_Currents]] 
+- [[../../../../_Standards/tech/Triz/Example/Triz-turbulent_Currents|Triz-turbulent_Currents]] 
+- [[../../../../_public/tech/Triz/Example/Triz-turbulent_Currents.public|Triz-turbulent_Currents.public]] 
 - [[../../../../_internal/tech/Triz/Example/Triz-turbulent_Currents.internal|Triz-turbulent_Currents.internal]] 
 - [[../../../../_protect/tech/Triz/Example/Triz-turbulent_Currents.protect|Triz-turbulent_Currents.protect]] 
 - [[../../../../_private/tech/Triz/Example/Triz-turbulent_Currents.private|Triz-turbulent_Currents.private]] 

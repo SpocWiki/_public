@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Measurement_Accuracy+Changing_the_color-moving_Volume.md|Triz-Measurement_Accuracy+Changing_the_color-moving_Volume]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Measurement_Accuracy+Changing_the_color-moving_Volume|Triz-Measurement_Accuracy+Changing_the_color-moving_Volume]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Measurement_Accuracy+Changing_the_color-moving_Volume.public|Triz-Measurement_Accuracy+Changing_the_color-moving_Volume.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Measurement_Accuracy+Changing_the_color-moving_Volume.internal|Triz-Measurement_Accuracy+Changing_the_color-moving_Volume.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Measurement_Accuracy+Changing_the_color-moving_Volume.protect|Triz-Measurement_Accuracy+Changing_the_color-moving_Volume.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Measurement_Accuracy+Changing_the_color-moving_Volume.private|Triz-Measurement_Accuracy+Changing_the_color-moving_Volume.private]] 

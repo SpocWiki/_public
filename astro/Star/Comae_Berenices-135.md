@@ -27,7 +27,8 @@ confidential: public
 
 
 ## Confidential Links & Embeds: 
-- [[../../../_public/astro/Star/Comae_Berenices-135.md|Comae_Berenices-135]] 
+- [[../../../_Standards/astro/Star/Comae_Berenices-135|Comae_Berenices-135]] 
+- [[../../../_public/astro/Star/Comae_Berenices-135.public|Comae_Berenices-135.public]] 
 - [[../../../_internal/astro/Star/Comae_Berenices-135.internal|Comae_Berenices-135.internal]] 
 - [[../../../_protect/astro/Star/Comae_Berenices-135.protect|Comae_Berenices-135.protect]] 
 - [[../../../_private/astro/Star/Comae_Berenices-135.private|Comae_Berenices-135.private]] 

@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Manufacturing_Precision+Mechanical_vibration-Stability.md|Triz-Manufacturing_Precision+Mechanical_vibration-Stability]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Manufacturing_Precision+Mechanical_vibration-Stability|Triz-Manufacturing_Precision+Mechanical_vibration-Stability]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Manufacturing_Precision+Mechanical_vibration-Stability.public|Triz-Manufacturing_Precision+Mechanical_vibration-Stability.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Manufacturing_Precision+Mechanical_vibration-Stability.internal|Triz-Manufacturing_Precision+Mechanical_vibration-Stability.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Manufacturing_Precision+Mechanical_vibration-Stability.protect|Triz-Manufacturing_Precision+Mechanical_vibration-Stability.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Manufacturing_Precision+Mechanical_vibration-Stability.private|Triz-Manufacturing_Precision+Mechanical_vibration-Stability.private]] 

@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Versatility+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Temperature.md|Triz-Versatility+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Temperature]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Versatility+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Temperature|Triz-Versatility+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Temperature]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Versatility+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Temperature.public|Triz-Versatility+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Temperature.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Versatility+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Temperature.internal|Triz-Versatility+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Temperature.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Versatility+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Temperature.protect|Triz-Versatility+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Temperature.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Versatility+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Temperature.private|Triz-Versatility+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Temperature.private]] 

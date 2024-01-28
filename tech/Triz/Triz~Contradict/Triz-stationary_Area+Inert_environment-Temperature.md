@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-stationary_Area+Inert_environment-Temperature.md|Triz-stationary_Area+Inert_environment-Temperature]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-stationary_Area+Inert_environment-Temperature|Triz-stationary_Area+Inert_environment-Temperature]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-stationary_Area+Inert_environment-Temperature.public|Triz-stationary_Area+Inert_environment-Temperature.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-stationary_Area+Inert_environment-Temperature.internal|Triz-stationary_Area+Inert_environment-Temperature.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-stationary_Area+Inert_environment-Temperature.protect|Triz-stationary_Area+Inert_environment-Temperature.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-stationary_Area+Inert_environment-Temperature.private|Triz-stationary_Area+Inert_environment-Temperature.private]] 

@@ -17,7 +17,8 @@ tags:
 Replace a continuous Siren with a pulsed Sound.
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Example/Triz-pulsed_Sound.md|Triz-pulsed_Sound]] 
+- [[../../../../_Standards/tech/Triz/Example/Triz-pulsed_Sound|Triz-pulsed_Sound]] 
+- [[../../../../_public/tech/Triz/Example/Triz-pulsed_Sound.public|Triz-pulsed_Sound.public]] 
 - [[../../../../_internal/tech/Triz/Example/Triz-pulsed_Sound.internal|Triz-pulsed_Sound.internal]] 
 - [[../../../../_protect/tech/Triz/Example/Triz-pulsed_Sound.protect|Triz-pulsed_Sound.protect]] 
 - [[../../../../_private/tech/Triz/Example/Triz-pulsed_Sound.private|Triz-pulsed_Sound.private]] 

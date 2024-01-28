@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-moving_Duration+Use_strong_oxidisers-Power.md|Triz-moving_Duration+Use_strong_oxidisers-Power]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-moving_Duration+Use_strong_oxidisers-Power|Triz-moving_Duration+Use_strong_oxidisers-Power]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-moving_Duration+Use_strong_oxidisers-Power.public|Triz-moving_Duration+Use_strong_oxidisers-Power.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-moving_Duration+Use_strong_oxidisers-Power.internal|Triz-moving_Duration+Use_strong_oxidisers-Power.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-moving_Duration+Use_strong_oxidisers-Power.protect|Triz-moving_Duration+Use_strong_oxidisers-Power.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-moving_Duration+Use_strong_oxidisers-Power.private|Triz-moving_Duration+Use_strong_oxidisers-Power.private]] 

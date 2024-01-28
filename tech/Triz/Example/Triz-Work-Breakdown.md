@@ -17,7 +17,8 @@ tags:
 Use a Work Breakdown Structure for a large Project.
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Example/Triz-Work-Breakdown.md|Triz-Work-Breakdown]] 
+- [[../../../../_Standards/tech/Triz/Example/Triz-Work-Breakdown|Triz-Work-Breakdown]] 
+- [[../../../../_public/tech/Triz/Example/Triz-Work-Breakdown.public|Triz-Work-Breakdown.public]] 
 - [[../../../../_internal/tech/Triz/Example/Triz-Work-Breakdown.internal|Triz-Work-Breakdown.internal]] 
 - [[../../../../_protect/tech/Triz/Example/Triz-Work-Breakdown.protect|Triz-Work-Breakdown.protect]] 
 - [[../../../../_private/tech/Triz/Example/Triz-Work-Breakdown.private|Triz-Work-Breakdown.private]] 

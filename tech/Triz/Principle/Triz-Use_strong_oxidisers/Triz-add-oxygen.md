@@ -24,7 +24,8 @@ Replace common air with oxygen-enriched air.
 - 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Sub/Triz-add-oxygen.md|Triz-add-oxygen]] 
+- [[../../../../_Standards/tech/Triz/Sub/Triz-add-oxygen|Triz-add-oxygen]] 
+- [[../../../../_public/tech/Triz/Sub/Triz-add-oxygen.public|Triz-add-oxygen.public]] 
 - [[../../../../_internal/tech/Triz/Sub/Triz-add-oxygen.internal|Triz-add-oxygen.internal]] 
 - [[../../../../_protect/tech/Triz/Sub/Triz-add-oxygen.protect|Triz-add-oxygen.protect]] 
 - [[../../../../_private/tech/Triz/Sub/Triz-add-oxygen.private|Triz-add-oxygen.private]] 

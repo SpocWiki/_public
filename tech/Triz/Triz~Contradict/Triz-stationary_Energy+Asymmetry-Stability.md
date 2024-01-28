@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-stationary_Energy+Asymmetry-Stability.md|Triz-stationary_Energy+Asymmetry-Stability]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-stationary_Energy+Asymmetry-Stability|Triz-stationary_Energy+Asymmetry-Stability]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-stationary_Energy+Asymmetry-Stability.public|Triz-stationary_Energy+Asymmetry-Stability.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-stationary_Energy+Asymmetry-Stability.internal|Triz-stationary_Energy+Asymmetry-Stability.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-stationary_Energy+Asymmetry-Stability.protect|Triz-stationary_Energy+Asymmetry-Stability.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-stationary_Energy+Asymmetry-Stability.private|Triz-stationary_Energy+Asymmetry-Stability.private]] 

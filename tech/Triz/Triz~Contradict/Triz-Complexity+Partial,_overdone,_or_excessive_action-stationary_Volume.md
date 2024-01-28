@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Complexity+Partial,_overdone,_or_excessive_action-stationary_Volume.md|Triz-Complexity+Partial,_overdone,_or_excessive_action-stationary_Volume]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Complexity+Partial,_overdone,_or_excessive_action-stationary_Volume|Triz-Complexity+Partial,_overdone,_or_excessive_action-stationary_Volume]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Complexity+Partial,_overdone,_or_excessive_action-stationary_Volume.public|Triz-Complexity+Partial,_overdone,_or_excessive_action-stationary_Volume.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Complexity+Partial,_overdone,_or_excessive_action-stationary_Volume.internal|Triz-Complexity+Partial,_overdone,_or_excessive_action-stationary_Volume.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Complexity+Partial,_overdone,_or_excessive_action-stationary_Volume.protect|Triz-Complexity+Partial,_overdone,_or_excessive_action-stationary_Volume.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Complexity+Partial,_overdone,_or_excessive_action-stationary_Volume.private|Triz-Complexity+Partial,_overdone,_or_excessive_action-stationary_Volume.private]] 

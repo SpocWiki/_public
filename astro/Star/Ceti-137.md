@@ -27,7 +27,8 @@ confidential: public
 
 
 ## Confidential Links & Embeds: 
-- [[../../../_public/astro/Star/Ceti-137.md|Ceti-137]] 
+- [[../../../_Standards/astro/Star/Ceti-137|Ceti-137]] 
+- [[../../../_public/astro/Star/Ceti-137.public|Ceti-137.public]] 
 - [[../../../_internal/astro/Star/Ceti-137.internal|Ceti-137.internal]] 
 - [[../../../_protect/astro/Star/Ceti-137.protect|Ceti-137.protect]] 
 - [[../../../_private/astro/Star/Ceti-137.private|Ceti-137.private]] 

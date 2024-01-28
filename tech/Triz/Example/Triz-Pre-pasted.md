@@ -17,7 +17,8 @@ tags:
 Pre-pasted Wall Paper
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Example/Triz-Pre-pasted.md|Triz-Pre-pasted]] 
+- [[../../../../_Standards/tech/Triz/Example/Triz-Pre-pasted|Triz-Pre-pasted]] 
+- [[../../../../_public/tech/Triz/Example/Triz-Pre-pasted.public|Triz-Pre-pasted.public]] 
 - [[../../../../_internal/tech/Triz/Example/Triz-Pre-pasted.internal|Triz-Pre-pasted.internal]] 
 - [[../../../../_protect/tech/Triz/Example/Triz-Pre-pasted.protect|Triz-Pre-pasted.protect]] 
 - [[../../../../_private/tech/Triz/Example/Triz-Pre-pasted.private|Triz-Pre-pasted.private]] 

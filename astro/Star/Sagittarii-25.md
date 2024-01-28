@@ -27,7 +27,8 @@ confidential: public
 
 
 ## Confidential Links & Embeds: 
-- [[../../../_public/astro/Star/Sagittarii-25.md|Sagittarii-25]] 
+- [[../../../_Standards/astro/Star/Sagittarii-25|Sagittarii-25]] 
+- [[../../../_public/astro/Star/Sagittarii-25.public|Sagittarii-25.public]] 
 - [[../../../_internal/astro/Star/Sagittarii-25.internal|Sagittarii-25.internal]] 
 - [[../../../_protect/astro/Star/Sagittarii-25.protect|Sagittarii-25.protect]] 
 - [[../../../_private/astro/Star/Sagittarii-25.private|Sagittarii-25.private]] 

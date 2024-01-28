@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Substance-Loss+Use_a_pneumatic_or_hydralic_construction-moving_Length.md|Triz-Substance-Loss+Use_a_pneumatic_or_hydralic_construction-moving_Length]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Substance-Loss+Use_a_pneumatic_or_hydralic_construction-moving_Length|Triz-Substance-Loss+Use_a_pneumatic_or_hydralic_construction-moving_Length]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Substance-Loss+Use_a_pneumatic_or_hydralic_construction-moving_Length.public|Triz-Substance-Loss+Use_a_pneumatic_or_hydralic_construction-moving_Length.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Substance-Loss+Use_a_pneumatic_or_hydralic_construction-moving_Length.internal|Triz-Substance-Loss+Use_a_pneumatic_or_hydralic_construction-moving_Length.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Substance-Loss+Use_a_pneumatic_or_hydralic_construction-moving_Length.protect|Triz-Substance-Loss+Use_a_pneumatic_or_hydralic_construction-moving_Length.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Substance-Loss+Use_a_pneumatic_or_hydralic_construction-moving_Length.private|Triz-Substance-Loss+Use_a_pneumatic_or_hydralic_construction-moving_Length.private]] 

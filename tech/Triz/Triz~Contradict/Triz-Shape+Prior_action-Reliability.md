@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Shape+Prior_action-Reliability.md|Triz-Shape+Prior_action-Reliability]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Shape+Prior_action-Reliability|Triz-Shape+Prior_action-Reliability]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Shape+Prior_action-Reliability.public|Triz-Shape+Prior_action-Reliability.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Shape+Prior_action-Reliability.internal|Triz-Shape+Prior_action-Reliability.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Shape+Prior_action-Reliability.protect|Triz-Shape+Prior_action-Reliability.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Shape+Prior_action-Reliability.private|Triz-Shape+Prior_action-Reliability.private]] 

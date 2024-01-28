@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Stress+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-generated_harm.md|Triz-Stress+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-generated_harm]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Stress+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-generated_harm|Triz-Stress+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-generated_harm]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Stress+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-generated_harm.public|Triz-Stress+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-generated_harm.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Stress+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-generated_harm.internal|Triz-Stress+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-generated_harm.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Stress+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-generated_harm.protect|Triz-Stress+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-generated_harm.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Stress+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-generated_harm.private|Triz-Stress+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-generated_harm.private]] 

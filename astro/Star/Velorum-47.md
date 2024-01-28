@@ -27,7 +27,8 @@ confidential: public
 
 
 ## Confidential Links & Embeds: 
-- [[../../../_public/astro/Star/Velorum-47.md|Velorum-47]] 
+- [[../../../_Standards/astro/Star/Velorum-47|Velorum-47]] 
+- [[../../../_public/astro/Star/Velorum-47.public|Velorum-47.public]] 
 - [[../../../_internal/astro/Star/Velorum-47.internal|Velorum-47.internal]] 
 - [[../../../_protect/astro/Star/Velorum-47.protect|Velorum-47.protect]] 
 - [[../../../_private/astro/Star/Velorum-47.private|Velorum-47.private]] 

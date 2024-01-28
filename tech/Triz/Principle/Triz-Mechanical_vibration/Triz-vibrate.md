@@ -27,7 +27,8 @@ Cause an object to oscillate or vibrate.
 - 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Sub/Triz-vibrate.md|Triz-vibrate]] 
+- [[../../../../_Standards/tech/Triz/Sub/Triz-vibrate|Triz-vibrate]] 
+- [[../../../../_public/tech/Triz/Sub/Triz-vibrate.public|Triz-vibrate.public]] 
 - [[../../../../_internal/tech/Triz/Sub/Triz-vibrate.internal|Triz-vibrate.internal]] 
 - [[../../../../_protect/tech/Triz/Sub/Triz-vibrate.protect|Triz-vibrate.protect]] 
 - [[../../../../_private/tech/Triz/Sub/Triz-vibrate.private|Triz-vibrate.private]] 

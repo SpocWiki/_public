@@ -25,7 +25,8 @@ Replace enriched air with pure oxygen.
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Sub/Triz-pure-oxygen.md|Triz-pure-oxygen]] 
+- [[../../../../_Standards/tech/Triz/Sub/Triz-pure-oxygen|Triz-pure-oxygen]] 
+- [[../../../../_public/tech/Triz/Sub/Triz-pure-oxygen.public|Triz-pure-oxygen.public]] 
 - [[../../../../_internal/tech/Triz/Sub/Triz-pure-oxygen.internal|Triz-pure-oxygen.internal]] 
 - [[../../../../_protect/tech/Triz/Sub/Triz-pure-oxygen.protect|Triz-pure-oxygen.protect]] 
 - [[../../../../_private/tech/Triz/Sub/Triz-pure-oxygen.private|Triz-pure-oxygen.private]] 

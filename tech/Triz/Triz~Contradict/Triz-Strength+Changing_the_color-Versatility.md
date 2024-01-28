@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Strength+Changing_the_color-Versatility.md|Triz-Strength+Changing_the_color-Versatility]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Strength+Changing_the_color-Versatility|Triz-Strength+Changing_the_color-Versatility]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Strength+Changing_the_color-Versatility.public|Triz-Strength+Changing_the_color-Versatility.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Strength+Changing_the_color-Versatility.internal|Triz-Strength+Changing_the_color-Versatility.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Strength+Changing_the_color-Versatility.protect|Triz-Strength+Changing_the_color-Versatility.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Strength+Changing_the_color-Versatility.private|Triz-Strength+Changing_the_color-Versatility.private]] 

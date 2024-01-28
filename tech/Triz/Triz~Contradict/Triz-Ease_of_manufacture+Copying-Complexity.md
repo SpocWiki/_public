@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Ease_of_manufacture+Copying-Complexity.md|Triz-Ease_of_manufacture+Copying-Complexity]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Ease_of_manufacture+Copying-Complexity|Triz-Ease_of_manufacture+Copying-Complexity]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Ease_of_manufacture+Copying-Complexity.public|Triz-Ease_of_manufacture+Copying-Complexity.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Ease_of_manufacture+Copying-Complexity.internal|Triz-Ease_of_manufacture+Copying-Complexity.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Ease_of_manufacture+Copying-Complexity.protect|Triz-Ease_of_manufacture+Copying-Complexity.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Ease_of_manufacture+Copying-Complexity.private|Triz-Ease_of_manufacture+Copying-Complexity.private]] 

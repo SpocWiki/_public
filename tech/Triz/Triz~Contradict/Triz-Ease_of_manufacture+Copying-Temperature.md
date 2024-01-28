@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Ease_of_manufacture+Copying-Temperature.md|Triz-Ease_of_manufacture+Copying-Temperature]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Ease_of_manufacture+Copying-Temperature|Triz-Ease_of_manufacture+Copying-Temperature]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Ease_of_manufacture+Copying-Temperature.public|Triz-Ease_of_manufacture+Copying-Temperature.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Ease_of_manufacture+Copying-Temperature.internal|Triz-Ease_of_manufacture+Copying-Temperature.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Ease_of_manufacture+Copying-Temperature.protect|Triz-Ease_of_manufacture+Copying-Temperature.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Ease_of_manufacture+Copying-Temperature.private|Triz-Ease_of_manufacture+Copying-Temperature.private]] 

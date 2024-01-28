@@ -17,7 +17,8 @@ tags:
 Use a bad smelling Compound in natural Gas to alert users to Leakage, instead of a mechanical or electrical Sensor.
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Example/Triz-smelling_Compound.md|Triz-smelling_Compound]] 
+- [[../../../../_Standards/tech/Triz/Example/Triz-smelling_Compound|Triz-smelling_Compound]] 
+- [[../../../../_public/tech/Triz/Example/Triz-smelling_Compound.public|Triz-smelling_Compound.public]] 
 - [[../../../../_internal/tech/Triz/Example/Triz-smelling_Compound.internal|Triz-smelling_Compound.internal]] 
 - [[../../../../_protect/tech/Triz/Example/Triz-smelling_Compound.protect|Triz-smelling_Compound.protect]] 
 - [[../../../../_private/tech/Triz/Example/Triz-smelling_Compound.private|Triz-smelling_Compound.private]] 

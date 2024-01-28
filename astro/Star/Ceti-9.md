@@ -27,7 +27,8 @@ confidential: public
 
 
 ## Confidential Links & Embeds: 
-- [[../../../_public/astro/Star/Ceti-9.md|Ceti-9]] 
+- [[../../../_Standards/astro/Star/Ceti-9|Ceti-9]] 
+- [[../../../_public/astro/Star/Ceti-9.public|Ceti-9.public]] 
 - [[../../../_internal/astro/Star/Ceti-9.internal|Ceti-9.internal]] 
 - [[../../../_protect/astro/Star/Ceti-9.protect|Ceti-9.protect]] 
 - [[../../../_private/astro/Star/Ceti-9.private|Ceti-9.private]] 

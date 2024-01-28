@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Strength+Transformation_of_physical_and_chemical_states_of_an_object-Power.md|Triz-Strength+Transformation_of_physical_and_chemical_states_of_an_object-Power]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Strength+Transformation_of_physical_and_chemical_states_of_an_object-Power|Triz-Strength+Transformation_of_physical_and_chemical_states_of_an_object-Power]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Strength+Transformation_of_physical_and_chemical_states_of_an_object-Power.public|Triz-Strength+Transformation_of_physical_and_chemical_states_of_an_object-Power.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Strength+Transformation_of_physical_and_chemical_states_of_an_object-Power.internal|Triz-Strength+Transformation_of_physical_and_chemical_states_of_an_object-Power.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Strength+Transformation_of_physical_and_chemical_states_of_an_object-Power.protect|Triz-Strength+Transformation_of_physical_and_chemical_states_of_an_object-Power.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Strength+Transformation_of_physical_and_chemical_states_of_an_object-Power.private|Triz-Strength+Transformation_of_physical_and_chemical_states_of_an_object-Power.private]] 

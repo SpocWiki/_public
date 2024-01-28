@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Reliability+Mediator-moving_Volume.md|Triz-Reliability+Mediator-moving_Volume]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Reliability+Mediator-moving_Volume|Triz-Reliability+Mediator-moving_Volume]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Reliability+Mediator-moving_Volume.public|Triz-Reliability+Mediator-moving_Volume.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Reliability+Mediator-moving_Volume.internal|Triz-Reliability+Mediator-moving_Volume.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Reliability+Mediator-moving_Volume.protect|Triz-Reliability+Mediator-moving_Volume.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Reliability+Mediator-moving_Volume.private|Triz-Reliability+Mediator-moving_Volume.private]] 

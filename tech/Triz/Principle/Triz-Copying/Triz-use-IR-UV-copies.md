@@ -24,7 +24,8 @@ If visible optical copies are already used, move to infrared or ultraviolet copi
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Sub/Triz-use-IR-UV-copies.md|Triz-use-IR-UV-copies]] 
+- [[../../../../_Standards/tech/Triz/Sub/Triz-use-IR-UV-copies|Triz-use-IR-UV-copies]] 
+- [[../../../../_public/tech/Triz/Sub/Triz-use-IR-UV-copies.public|Triz-use-IR-UV-copies.public]] 
 - [[../../../../_internal/tech/Triz/Sub/Triz-use-IR-UV-copies.internal|Triz-use-IR-UV-copies.internal]] 
 - [[../../../../_protect/tech/Triz/Sub/Triz-use-IR-UV-copies.protect|Triz-use-IR-UV-copies.protect]] 
 - [[../../../../_private/tech/Triz/Sub/Triz-use-IR-UV-copies.private|Triz-use-IR-UV-copies.private]] 

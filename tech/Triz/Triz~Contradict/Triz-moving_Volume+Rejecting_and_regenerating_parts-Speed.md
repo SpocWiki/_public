@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-moving_Volume+Rejecting_and_regenerating_parts-Speed.md|Triz-moving_Volume+Rejecting_and_regenerating_parts-Speed]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-moving_Volume+Rejecting_and_regenerating_parts-Speed|Triz-moving_Volume+Rejecting_and_regenerating_parts-Speed]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-moving_Volume+Rejecting_and_regenerating_parts-Speed.public|Triz-moving_Volume+Rejecting_and_regenerating_parts-Speed.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-moving_Volume+Rejecting_and_regenerating_parts-Speed.internal|Triz-moving_Volume+Rejecting_and_regenerating_parts-Speed.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-moving_Volume+Rejecting_and_regenerating_parts-Speed.protect|Triz-moving_Volume+Rejecting_and_regenerating_parts-Speed.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-moving_Volume+Rejecting_and_regenerating_parts-Speed.private|Triz-moving_Volume+Rejecting_and_regenerating_parts-Speed.private]] 

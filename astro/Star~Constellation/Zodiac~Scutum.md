@@ -17,7 +17,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../_public/astro/Zodiac/Zodiac~Scutum.md|Zodiac~Scutum]] 
+- [[../../../_Standards/astro/Zodiac/Zodiac~Scutum|Zodiac~Scutum]] 
+- [[../../../_public/astro/Zodiac/Zodiac~Scutum.public|Zodiac~Scutum.public]] 
 - [[../../../_internal/astro/Zodiac/Zodiac~Scutum.internal|Zodiac~Scutum.internal]] 
 - [[../../../_protect/astro/Zodiac/Zodiac~Scutum.protect|Zodiac~Scutum.protect]] 
 - [[../../../_private/astro/Zodiac/Zodiac~Scutum.private|Zodiac~Scutum.private]] 

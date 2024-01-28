@@ -27,7 +27,8 @@ confidential: public
 
 
 ## Confidential Links & Embeds: 
-- [[../../../_public/astro/Star/Algiedi.md|Algiedi]] 
+- [[../../../_Standards/astro/Star/Algiedi|Algiedi]] 
+- [[../../../_public/astro/Star/Algiedi.public|Algiedi.public]] 
 - [[../../../_internal/astro/Star/Algiedi.internal|Algiedi.internal]] 
 - [[../../../_protect/astro/Star/Algiedi.protect|Algiedi.protect]] 
 - [[../../../_private/astro/Star/Algiedi.private|Algiedi.private]] 

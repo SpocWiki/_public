@@ -17,7 +17,8 @@ ZodiacPos: 3
 
 
 ## Confidential Links & Embeds: 
-- [[../../../_public/astro/Zodiac/Zodiac~Gemini.md|Zodiac~Gemini]] 
+- [[../../../_Standards/astro/Zodiac/Zodiac~Gemini|Zodiac~Gemini]] 
+- [[../../../_public/astro/Zodiac/Zodiac~Gemini.public|Zodiac~Gemini.public]] 
 - [[../../../_internal/astro/Zodiac/Zodiac~Gemini.internal|Zodiac~Gemini.internal]] 
 - [[../../../_protect/astro/Zodiac/Zodiac~Gemini.protect|Zodiac~Gemini.protect]] 
 - [[../../../_private/astro/Zodiac/Zodiac~Gemini.private|Zodiac~Gemini.private]] 

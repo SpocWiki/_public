@@ -27,7 +27,8 @@ confidential: public
 
 
 ## Confidential Links & Embeds: 
-- [[../../../_public/astro/Star/Alcyone.md|Alcyone]] 
+- [[../../../_Standards/astro/Star/Alcyone|Alcyone]] 
+- [[../../../_public/astro/Star/Alcyone.public|Alcyone.public]] 
 - [[../../../_internal/astro/Star/Alcyone.internal|Alcyone.internal]] 
 - [[../../../_protect/astro/Star/Alcyone.protect|Alcyone.protect]] 
 - [[../../../_private/astro/Star/Alcyone.private|Alcyone.private]] 

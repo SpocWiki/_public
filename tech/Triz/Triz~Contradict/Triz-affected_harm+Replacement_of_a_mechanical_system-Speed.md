@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-affected_harm+Replacement_of_a_mechanical_system-Speed.md|Triz-affected_harm+Replacement_of_a_mechanical_system-Speed]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-affected_harm+Replacement_of_a_mechanical_system-Speed|Triz-affected_harm+Replacement_of_a_mechanical_system-Speed]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-affected_harm+Replacement_of_a_mechanical_system-Speed.public|Triz-affected_harm+Replacement_of_a_mechanical_system-Speed.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-affected_harm+Replacement_of_a_mechanical_system-Speed.internal|Triz-affected_harm+Replacement_of_a_mechanical_system-Speed.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-affected_harm+Replacement_of_a_mechanical_system-Speed.protect|Triz-affected_harm+Replacement_of_a_mechanical_system-Speed.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-affected_harm+Replacement_of_a_mechanical_system-Speed.private|Triz-affected_harm+Replacement_of_a_mechanical_system-Speed.private]] 

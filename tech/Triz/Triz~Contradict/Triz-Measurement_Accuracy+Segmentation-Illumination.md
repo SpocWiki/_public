@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Measurement_Accuracy+Segmentation-Illumination.md|Triz-Measurement_Accuracy+Segmentation-Illumination]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Measurement_Accuracy+Segmentation-Illumination|Triz-Measurement_Accuracy+Segmentation-Illumination]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Measurement_Accuracy+Segmentation-Illumination.public|Triz-Measurement_Accuracy+Segmentation-Illumination.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Measurement_Accuracy+Segmentation-Illumination.internal|Triz-Measurement_Accuracy+Segmentation-Illumination.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Measurement_Accuracy+Segmentation-Illumination.protect|Triz-Measurement_Accuracy+Segmentation-Illumination.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Measurement_Accuracy+Segmentation-Illumination.private|Triz-Measurement_Accuracy+Segmentation-Illumination.private]] 

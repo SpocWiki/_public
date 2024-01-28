@@ -27,7 +27,8 @@ confidential: public
 
 
 ## Confidential Links & Embeds: 
-- [[../../../_public/astro/Star/Geminorum-138.md|Geminorum-138]] 
+- [[../../../_Standards/astro/Star/Geminorum-138|Geminorum-138]] 
+- [[../../../_public/astro/Star/Geminorum-138.public|Geminorum-138.public]] 
 - [[../../../_internal/astro/Star/Geminorum-138.internal|Geminorum-138.internal]] 
 - [[../../../_protect/astro/Star/Geminorum-138.protect|Geminorum-138.protect]] 
 - [[../../../_private/astro/Star/Geminorum-138.private|Geminorum-138.private]] 

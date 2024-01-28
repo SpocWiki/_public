@@ -17,7 +17,8 @@ tags:
 Hydrofoils lift Ship out of the Water to reduce Drag.
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Example/Triz-Hydrofoils.md|Triz-Hydrofoils]] 
+- [[../../../../_Standards/tech/Triz/Example/Triz-Hydrofoils|Triz-Hydrofoils]] 
+- [[../../../../_public/tech/Triz/Example/Triz-Hydrofoils.public|Triz-Hydrofoils.public]] 
 - [[../../../../_internal/tech/Triz/Example/Triz-Hydrofoils.internal|Triz-Hydrofoils.internal]] 
 - [[../../../../_protect/tech/Triz/Example/Triz-Hydrofoils.protect|Triz-Hydrofoils.protect]] 
 - [[../../../../_private/tech/Triz/Example/Triz-Hydrofoils.private|Triz-Hydrofoils.private]] 

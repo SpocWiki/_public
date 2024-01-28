@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Complexity+Replacement_of_a_mechanical_system-moving_Energy.md|Triz-Complexity+Replacement_of_a_mechanical_system-moving_Energy]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Complexity+Replacement_of_a_mechanical_system-moving_Energy|Triz-Complexity+Replacement_of_a_mechanical_system-moving_Energy]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Complexity+Replacement_of_a_mechanical_system-moving_Energy.public|Triz-Complexity+Replacement_of_a_mechanical_system-moving_Energy.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Complexity+Replacement_of_a_mechanical_system-moving_Energy.internal|Triz-Complexity+Replacement_of_a_mechanical_system-moving_Energy.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Complexity+Replacement_of_a_mechanical_system-moving_Energy.protect|Triz-Complexity+Replacement_of_a_mechanical_system-moving_Energy.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Complexity+Replacement_of_a_mechanical_system-moving_Energy.private|Triz-Complexity+Replacement_of_a_mechanical_system-moving_Energy.private]] 

@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Ease_of_manufacture+Cushion_in_advance-Stability.md|Triz-Ease_of_manufacture+Cushion_in_advance-Stability]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Ease_of_manufacture+Cushion_in_advance-Stability|Triz-Ease_of_manufacture+Cushion_in_advance-Stability]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Ease_of_manufacture+Cushion_in_advance-Stability.public|Triz-Ease_of_manufacture+Cushion_in_advance-Stability.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Ease_of_manufacture+Cushion_in_advance-Stability.internal|Triz-Ease_of_manufacture+Cushion_in_advance-Stability.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Ease_of_manufacture+Cushion_in_advance-Stability.protect|Triz-Ease_of_manufacture+Cushion_in_advance-Stability.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Ease_of_manufacture+Cushion_in_advance-Stability.private|Triz-Ease_of_manufacture+Cushion_in_advance-Stability.private]] 

@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Automation+Copying-Temperature.md|Triz-Automation+Copying-Temperature]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Automation+Copying-Temperature|Triz-Automation+Copying-Temperature]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Automation+Copying-Temperature.public|Triz-Automation+Copying-Temperature.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Automation+Copying-Temperature.internal|Triz-Automation+Copying-Temperature.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Automation+Copying-Temperature.protect|Triz-Automation+Copying-Temperature.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Automation+Copying-Temperature.private|Triz-Automation+Copying-Temperature.private]] 

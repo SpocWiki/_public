@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Difficulty+Combining_(Integration)-Ease_of_manufacture.md|Triz-Difficulty+Combining_(Integration)-Ease_of_manufacture]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Difficulty+Combining_(Integration)-Ease_of_manufacture|Triz-Difficulty+Combining_(Integration)-Ease_of_manufacture]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Difficulty+Combining_(Integration)-Ease_of_manufacture.public|Triz-Difficulty+Combining_(Integration)-Ease_of_manufacture.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Difficulty+Combining_(Integration)-Ease_of_manufacture.internal|Triz-Difficulty+Combining_(Integration)-Ease_of_manufacture.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Difficulty+Combining_(Integration)-Ease_of_manufacture.protect|Triz-Difficulty+Combining_(Integration)-Ease_of_manufacture.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Difficulty+Combining_(Integration)-Ease_of_manufacture.private|Triz-Difficulty+Combining_(Integration)-Ease_of_manufacture.private]] 

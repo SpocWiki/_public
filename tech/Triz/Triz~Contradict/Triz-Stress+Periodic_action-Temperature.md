@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Stress+Periodic_action-Temperature.md|Triz-Stress+Periodic_action-Temperature]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Stress+Periodic_action-Temperature|Triz-Stress+Periodic_action-Temperature]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Stress+Periodic_action-Temperature.public|Triz-Stress+Periodic_action-Temperature.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Stress+Periodic_action-Temperature.internal|Triz-Stress+Periodic_action-Temperature.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Stress+Periodic_action-Temperature.protect|Triz-Stress+Periodic_action-Temperature.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Stress+Periodic_action-Temperature.private|Triz-Stress+Periodic_action-Temperature.private]] 

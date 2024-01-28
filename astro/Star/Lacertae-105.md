@@ -27,7 +27,8 @@ confidential: public
 
 
 ## Confidential Links & Embeds: 
-- [[../../../_public/astro/Star/Lacertae-105.md|Lacertae-105]] 
+- [[../../../_Standards/astro/Star/Lacertae-105|Lacertae-105]] 
+- [[../../../_public/astro/Star/Lacertae-105.public|Lacertae-105.public]] 
 - [[../../../_internal/astro/Star/Lacertae-105.internal|Lacertae-105.internal]] 
 - [[../../../_protect/astro/Star/Lacertae-105.protect|Lacertae-105.protect]] 
 - [[../../../_private/astro/Star/Lacertae-105.private|Lacertae-105.private]] 

@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Substance-Loss+Changing_the_color-stationary_Weight.md|Triz-Substance-Loss+Changing_the_color-stationary_Weight]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Substance-Loss+Changing_the_color-stationary_Weight|Triz-Substance-Loss+Changing_the_color-stationary_Weight]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Substance-Loss+Changing_the_color-stationary_Weight.public|Triz-Substance-Loss+Changing_the_color-stationary_Weight.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Substance-Loss+Changing_the_color-stationary_Weight.internal|Triz-Substance-Loss+Changing_the_color-stationary_Weight.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Substance-Loss+Changing_the_color-stationary_Weight.protect|Triz-Substance-Loss+Changing_the_color-stationary_Weight.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Substance-Loss+Changing_the_color-stationary_Weight.private|Triz-Substance-Loss+Changing_the_color-stationary_Weight.private]] 

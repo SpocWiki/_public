@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Manufacturing_Precision+Changing_the_color-moving_Weight.md|Triz-Manufacturing_Precision+Changing_the_color-moving_Weight]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Manufacturing_Precision+Changing_the_color-moving_Weight|Triz-Manufacturing_Precision+Changing_the_color-moving_Weight]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Manufacturing_Precision+Changing_the_color-moving_Weight.public|Triz-Manufacturing_Precision+Changing_the_color-moving_Weight.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Manufacturing_Precision+Changing_the_color-moving_Weight.internal|Triz-Manufacturing_Precision+Changing_the_color-moving_Weight.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Manufacturing_Precision+Changing_the_color-moving_Weight.protect|Triz-Manufacturing_Precision+Changing_the_color-moving_Weight.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Manufacturing_Precision+Changing_the_color-moving_Weight.private|Triz-Manufacturing_Precision+Changing_the_color-moving_Weight.private]] 

@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-moving_Weight+Composite_materials-Strength.md|Triz-moving_Weight+Composite_materials-Strength]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-moving_Weight+Composite_materials-Strength|Triz-moving_Weight+Composite_materials-Strength]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-moving_Weight+Composite_materials-Strength.public|Triz-moving_Weight+Composite_materials-Strength.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-moving_Weight+Composite_materials-Strength.internal|Triz-moving_Weight+Composite_materials-Strength.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-moving_Weight+Composite_materials-Strength.protect|Triz-moving_Weight+Composite_materials-Strength.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-moving_Weight+Composite_materials-Strength.private|Triz-moving_Weight+Composite_materials-Strength.private]] 

@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-moving_Duration+Dynamicity-Complexity.md|Triz-moving_Duration+Dynamicity-Complexity]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-moving_Duration+Dynamicity-Complexity|Triz-moving_Duration+Dynamicity-Complexity]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-moving_Duration+Dynamicity-Complexity.public|Triz-moving_Duration+Dynamicity-Complexity.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-moving_Duration+Dynamicity-Complexity.internal|Triz-moving_Duration+Dynamicity-Complexity.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-moving_Duration+Dynamicity-Complexity.protect|Triz-moving_Duration+Dynamicity-Complexity.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-moving_Duration+Dynamicity-Complexity.private|Triz-moving_Duration+Dynamicity-Complexity.private]] 

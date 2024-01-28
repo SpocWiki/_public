@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Ease_of_manufacture+Mechanical_vibration-Temperature.md|Triz-Ease_of_manufacture+Mechanical_vibration-Temperature]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Ease_of_manufacture+Mechanical_vibration-Temperature|Triz-Ease_of_manufacture+Mechanical_vibration-Temperature]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Ease_of_manufacture+Mechanical_vibration-Temperature.public|Triz-Ease_of_manufacture+Mechanical_vibration-Temperature.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Ease_of_manufacture+Mechanical_vibration-Temperature.internal|Triz-Ease_of_manufacture+Mechanical_vibration-Temperature.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Ease_of_manufacture+Mechanical_vibration-Temperature.protect|Triz-Ease_of_manufacture+Mechanical_vibration-Temperature.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Ease_of_manufacture+Mechanical_vibration-Temperature.private|Triz-Ease_of_manufacture+Mechanical_vibration-Temperature.private]] 

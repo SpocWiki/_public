@@ -27,7 +27,8 @@ confidential: public
 
 
 ## Confidential Links & Embeds: 
-- [[../../../_public/astro/Star/Kitalphar.md|Kitalphar]] 
+- [[../../../_Standards/astro/Star/Kitalphar|Kitalphar]] 
+- [[../../../_public/astro/Star/Kitalphar.public|Kitalphar.public]] 
 - [[../../../_internal/astro/Star/Kitalphar.internal|Kitalphar.internal]] 
 - [[../../../_protect/astro/Star/Kitalphar.protect|Kitalphar.protect]] 
 - [[../../../_private/astro/Star/Kitalphar.private|Kitalphar.private]] 

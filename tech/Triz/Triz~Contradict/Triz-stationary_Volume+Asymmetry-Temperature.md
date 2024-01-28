@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-stationary_Volume+Asymmetry-Temperature.md|Triz-stationary_Volume+Asymmetry-Temperature]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-stationary_Volume+Asymmetry-Temperature|Triz-stationary_Volume+Asymmetry-Temperature]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-stationary_Volume+Asymmetry-Temperature.public|Triz-stationary_Volume+Asymmetry-Temperature.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-stationary_Volume+Asymmetry-Temperature.internal|Triz-stationary_Volume+Asymmetry-Temperature.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-stationary_Volume+Asymmetry-Temperature.protect|Triz-stationary_Volume+Asymmetry-Temperature.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-stationary_Volume+Asymmetry-Temperature.private|Triz-stationary_Volume+Asymmetry-Temperature.private]] 

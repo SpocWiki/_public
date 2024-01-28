@@ -27,7 +27,8 @@ confidential: public
 
 
 ## Confidential Links & Embeds: 
-- [[../../../_public/astro/Star/Alphard.md|Alphard]] 
+- [[../../../_Standards/astro/Star/Alphard|Alphard]] 
+- [[../../../_public/astro/Star/Alphard.public|Alphard.public]] 
 - [[../../../_internal/astro/Star/Alphard.internal|Alphard.internal]] 
 - [[../../../_protect/astro/Star/Alphard.protect|Alphard.protect]] 
 - [[../../../_private/astro/Star/Alphard.private|Alphard.private]] 

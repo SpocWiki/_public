@@ -17,7 +17,8 @@ tags:
 Power
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Parameter/Triz-Power.md|Triz-Power]] 
+- [[../../../../_Standards/tech/Triz/Parameter/Triz-Power|Triz-Power]] 
+- [[../../../../_public/tech/Triz/Parameter/Triz-Power.public|Triz-Power.public]] 
 - [[../../../../_internal/tech/Triz/Parameter/Triz-Power.internal|Triz-Power.internal]] 
 - [[../../../../_protect/tech/Triz/Parameter/Triz-Power.protect|Triz-Power.protect]] 
 - [[../../../../_private/tech/Triz/Parameter/Triz-Power.private|Triz-Power.private]] 

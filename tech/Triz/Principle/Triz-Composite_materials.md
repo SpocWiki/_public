@@ -14,7 +14,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Principle/Triz-Composite_materials.md|Triz-Composite_materials]] 
+- [[../../../../_Standards/tech/Triz/Principle/Triz-Composite_materials|Triz-Composite_materials]] 
+- [[../../../../_public/tech/Triz/Principle/Triz-Composite_materials.public|Triz-Composite_materials.public]] 
 - [[../../../../_internal/tech/Triz/Principle/Triz-Composite_materials.internal|Triz-Composite_materials.internal]] 
 - [[../../../../_protect/tech/Triz/Principle/Triz-Composite_materials.protect|Triz-Composite_materials.protect]] 
 - [[../../../../_private/tech/Triz/Principle/Triz-Composite_materials.private|Triz-Composite_materials.private]] 

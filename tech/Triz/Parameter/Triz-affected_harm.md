@@ -35,7 +35,8 @@ slow: $=dv.pages().where(p => p.SpocWebEntityId=22183)`
 fast: $=dv.current()`
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Parameter/Triz-affected_harm.md|Triz-affected_harm]] 
+- [[../../../../_Standards/tech/Triz/Parameter/Triz-affected_harm|Triz-affected_harm]] 
+- [[../../../../_public/tech/Triz/Parameter/Triz-affected_harm.public|Triz-affected_harm.public]] 
 - [[../../../../_internal/tech/Triz/Parameter/Triz-affected_harm.internal|Triz-affected_harm.internal]] 
 - [[../../../../_protect/tech/Triz/Parameter/Triz-affected_harm.protect|Triz-affected_harm.protect]] 
 - [[../../../../_private/tech/Triz/Parameter/Triz-affected_harm.private|Triz-affected_harm.private]] 

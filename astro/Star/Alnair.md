@@ -27,7 +27,8 @@ confidential: public
 
 
 ## Confidential Links & Embeds: 
-- [[../../../_public/astro/Star/Alnair.md|Alnair]] 
+- [[../../../_Standards/astro/Star/Alnair|Alnair]] 
+- [[../../../_public/astro/Star/Alnair.public|Alnair.public]] 
 - [[../../../_internal/astro/Star/Alnair.internal|Alnair.internal]] 
 - [[../../../_protect/astro/Star/Alnair.protect|Alnair.protect]] 
 - [[../../../_private/astro/Star/Alnair.private|Alnair.private]] 

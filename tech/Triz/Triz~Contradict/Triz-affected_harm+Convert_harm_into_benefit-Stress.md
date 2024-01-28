@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-affected_harm+Convert_harm_into_benefit-Stress.md|Triz-affected_harm+Convert_harm_into_benefit-Stress]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-affected_harm+Convert_harm_into_benefit-Stress|Triz-affected_harm+Convert_harm_into_benefit-Stress]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-affected_harm+Convert_harm_into_benefit-Stress.public|Triz-affected_harm+Convert_harm_into_benefit-Stress.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-affected_harm+Convert_harm_into_benefit-Stress.internal|Triz-affected_harm+Convert_harm_into_benefit-Stress.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-affected_harm+Convert_harm_into_benefit-Stress.protect|Triz-affected_harm+Convert_harm_into_benefit-Stress.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-affected_harm+Convert_harm_into_benefit-Stress.private|Triz-affected_harm+Convert_harm_into_benefit-Stress.private]] 

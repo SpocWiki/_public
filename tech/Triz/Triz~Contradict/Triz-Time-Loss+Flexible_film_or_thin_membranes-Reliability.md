@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Time-Loss+Flexible_film_or_thin_membranes-Reliability.md|Triz-Time-Loss+Flexible_film_or_thin_membranes-Reliability]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Time-Loss+Flexible_film_or_thin_membranes-Reliability|Triz-Time-Loss+Flexible_film_or_thin_membranes-Reliability]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Time-Loss+Flexible_film_or_thin_membranes-Reliability.public|Triz-Time-Loss+Flexible_film_or_thin_membranes-Reliability.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Time-Loss+Flexible_film_or_thin_membranes-Reliability.internal|Triz-Time-Loss+Flexible_film_or_thin_membranes-Reliability.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Time-Loss+Flexible_film_or_thin_membranes-Reliability.protect|Triz-Time-Loss+Flexible_film_or_thin_membranes-Reliability.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Time-Loss+Flexible_film_or_thin_membranes-Reliability.private|Triz-Time-Loss+Flexible_film_or_thin_membranes-Reliability.private]] 

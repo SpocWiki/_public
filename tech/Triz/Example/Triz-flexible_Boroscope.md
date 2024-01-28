@@ -17,7 +17,8 @@ tags:
 The flexible Boroscope for examining Engines
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Example/Triz-flexible_Boroscope.md|Triz-flexible_Boroscope]] 
+- [[../../../../_Standards/tech/Triz/Example/Triz-flexible_Boroscope|Triz-flexible_Boroscope]] 
+- [[../../../../_public/tech/Triz/Example/Triz-flexible_Boroscope.public|Triz-flexible_Boroscope.public]] 
 - [[../../../../_internal/tech/Triz/Example/Triz-flexible_Boroscope.internal|Triz-flexible_Boroscope.internal]] 
 - [[../../../../_protect/tech/Triz/Example/Triz-flexible_Boroscope.protect|Triz-flexible_Boroscope.protect]] 
 - [[../../../../_private/tech/Triz/Example/Triz-flexible_Boroscope.private|Triz-flexible_Boroscope.private]] 

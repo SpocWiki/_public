@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Time-Loss+Changing_the_color-stationary_Volume.md|Triz-Time-Loss+Changing_the_color-stationary_Volume]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Time-Loss+Changing_the_color-stationary_Volume|Triz-Time-Loss+Changing_the_color-stationary_Volume]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Time-Loss+Changing_the_color-stationary_Volume.public|Triz-Time-Loss+Changing_the_color-stationary_Volume.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Time-Loss+Changing_the_color-stationary_Volume.internal|Triz-Time-Loss+Changing_the_color-stationary_Volume.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Time-Loss+Changing_the_color-stationary_Volume.protect|Triz-Time-Loss+Changing_the_color-stationary_Volume.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Time-Loss+Changing_the_color-stationary_Volume.private|Triz-Time-Loss+Changing_the_color-stationary_Volume.private]] 

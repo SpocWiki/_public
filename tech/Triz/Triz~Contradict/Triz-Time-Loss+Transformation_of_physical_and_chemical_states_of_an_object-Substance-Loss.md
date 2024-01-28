@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Time-Loss+Transformation_of_physical_and_chemical_states_of_an_object-Substance-Loss.md|Triz-Time-Loss+Transformation_of_physical_and_chemical_states_of_an_object-Substance-Loss]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Time-Loss+Transformation_of_physical_and_chemical_states_of_an_object-Substance-Loss|Triz-Time-Loss+Transformation_of_physical_and_chemical_states_of_an_object-Substance-Loss]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Time-Loss+Transformation_of_physical_and_chemical_states_of_an_object-Substance-Loss.public|Triz-Time-Loss+Transformation_of_physical_and_chemical_states_of_an_object-Substance-Loss.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Time-Loss+Transformation_of_physical_and_chemical_states_of_an_object-Substance-Loss.internal|Triz-Time-Loss+Transformation_of_physical_and_chemical_states_of_an_object-Substance-Loss.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Time-Loss+Transformation_of_physical_and_chemical_states_of_an_object-Substance-Loss.protect|Triz-Time-Loss+Transformation_of_physical_and_chemical_states_of_an_object-Substance-Loss.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Time-Loss+Transformation_of_physical_and_chemical_states_of_an_object-Substance-Loss.private|Triz-Time-Loss+Transformation_of_physical_and_chemical_states_of_an_object-Substance-Loss.private]] 

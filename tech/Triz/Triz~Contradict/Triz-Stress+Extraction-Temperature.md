@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Stress+Extraction-Temperature.md|Triz-Stress+Extraction-Temperature]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Stress+Extraction-Temperature|Triz-Stress+Extraction-Temperature]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Stress+Extraction-Temperature.public|Triz-Stress+Extraction-Temperature.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Stress+Extraction-Temperature.internal|Triz-Stress+Extraction-Temperature.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Stress+Extraction-Temperature.protect|Triz-Stress+Extraction-Temperature.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Stress+Extraction-Temperature.private|Triz-Stress+Extraction-Temperature.private]] 

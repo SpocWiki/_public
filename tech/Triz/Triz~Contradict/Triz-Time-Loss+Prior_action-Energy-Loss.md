@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Time-Loss+Prior_action-Energy-Loss.md|Triz-Time-Loss+Prior_action-Energy-Loss]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Time-Loss+Prior_action-Energy-Loss|Triz-Time-Loss+Prior_action-Energy-Loss]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Time-Loss+Prior_action-Energy-Loss.public|Triz-Time-Loss+Prior_action-Energy-Loss.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Time-Loss+Prior_action-Energy-Loss.internal|Triz-Time-Loss+Prior_action-Energy-Loss.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Time-Loss+Prior_action-Energy-Loss.protect|Triz-Time-Loss+Prior_action-Energy-Loss.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Time-Loss+Prior_action-Energy-Loss.private|Triz-Time-Loss+Prior_action-Energy-Loss.private]] 

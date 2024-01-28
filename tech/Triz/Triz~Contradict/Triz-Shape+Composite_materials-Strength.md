@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Shape+Composite_materials-Strength.md|Triz-Shape+Composite_materials-Strength]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Shape+Composite_materials-Strength|Triz-Shape+Composite_materials-Strength]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Shape+Composite_materials-Strength.public|Triz-Shape+Composite_materials-Strength.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Shape+Composite_materials-Strength.internal|Triz-Shape+Composite_materials-Strength.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Shape+Composite_materials-Strength.protect|Triz-Shape+Composite_materials-Strength.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Shape+Composite_materials-Strength.private|Triz-Shape+Composite_materials-Strength.private]] 

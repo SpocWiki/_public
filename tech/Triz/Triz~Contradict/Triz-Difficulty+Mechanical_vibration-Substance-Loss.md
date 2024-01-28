@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Difficulty+Mechanical_vibration-Substance-Loss.md|Triz-Difficulty+Mechanical_vibration-Substance-Loss]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Difficulty+Mechanical_vibration-Substance-Loss|Triz-Difficulty+Mechanical_vibration-Substance-Loss]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Difficulty+Mechanical_vibration-Substance-Loss.public|Triz-Difficulty+Mechanical_vibration-Substance-Loss.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Difficulty+Mechanical_vibration-Substance-Loss.internal|Triz-Difficulty+Mechanical_vibration-Substance-Loss.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Difficulty+Mechanical_vibration-Substance-Loss.protect|Triz-Difficulty+Mechanical_vibration-Substance-Loss.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Difficulty+Mechanical_vibration-Substance-Loss.private|Triz-Difficulty+Mechanical_vibration-Substance-Loss.private]] 

@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Reliability+Composite_materials-Quantity.md|Triz-Reliability+Composite_materials-Quantity]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Reliability+Composite_materials-Quantity|Triz-Reliability+Composite_materials-Quantity]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Reliability+Composite_materials-Quantity.public|Triz-Reliability+Composite_materials-Quantity.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Reliability+Composite_materials-Quantity.internal|Triz-Reliability+Composite_materials-Quantity.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Reliability+Composite_materials-Quantity.protect|Triz-Reliability+Composite_materials-Quantity.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Reliability+Composite_materials-Quantity.private|Triz-Reliability+Composite_materials-Quantity.private]] 

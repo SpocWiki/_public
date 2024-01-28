@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Complexity+Rejecting_and_regenerating_parts-Measurement_Accuracy.md|Triz-Complexity+Rejecting_and_regenerating_parts-Measurement_Accuracy]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Complexity+Rejecting_and_regenerating_parts-Measurement_Accuracy|Triz-Complexity+Rejecting_and_regenerating_parts-Measurement_Accuracy]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Complexity+Rejecting_and_regenerating_parts-Measurement_Accuracy.public|Triz-Complexity+Rejecting_and_regenerating_parts-Measurement_Accuracy.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Complexity+Rejecting_and_regenerating_parts-Measurement_Accuracy.internal|Triz-Complexity+Rejecting_and_regenerating_parts-Measurement_Accuracy.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Complexity+Rejecting_and_regenerating_parts-Measurement_Accuracy.protect|Triz-Complexity+Rejecting_and_regenerating_parts-Measurement_Accuracy.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Complexity+Rejecting_and_regenerating_parts-Measurement_Accuracy.private|Triz-Complexity+Rejecting_and_regenerating_parts-Measurement_Accuracy.private]] 

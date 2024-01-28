@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Ease_of_repair+Use_a_pneumatic_or_hydralic_construction-moving_Duration.md|Triz-Ease_of_repair+Use_a_pneumatic_or_hydralic_construction-moving_Duration]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Ease_of_repair+Use_a_pneumatic_or_hydralic_construction-moving_Duration|Triz-Ease_of_repair+Use_a_pneumatic_or_hydralic_construction-moving_Duration]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Ease_of_repair+Use_a_pneumatic_or_hydralic_construction-moving_Duration.public|Triz-Ease_of_repair+Use_a_pneumatic_or_hydralic_construction-moving_Duration.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Ease_of_repair+Use_a_pneumatic_or_hydralic_construction-moving_Duration.internal|Triz-Ease_of_repair+Use_a_pneumatic_or_hydralic_construction-moving_Duration.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Ease_of_repair+Use_a_pneumatic_or_hydralic_construction-moving_Duration.protect|Triz-Ease_of_repair+Use_a_pneumatic_or_hydralic_construction-moving_Duration.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Ease_of_repair+Use_a_pneumatic_or_hydralic_construction-moving_Duration.private|Triz-Ease_of_repair+Use_a_pneumatic_or_hydralic_construction-moving_Duration.private]] 

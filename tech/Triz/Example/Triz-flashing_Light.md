@@ -17,7 +17,8 @@ tags:
 A Warning Lamp flashes so that it is even more noticeable than when continuously lit.
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Example/Triz-flashing_Light.md|Triz-flashing_Light]] 
+- [[../../../../_Standards/tech/Triz/Example/Triz-flashing_Light|Triz-flashing_Light]] 
+- [[../../../../_public/tech/Triz/Example/Triz-flashing_Light.public|Triz-flashing_Light.public]] 
 - [[../../../../_internal/tech/Triz/Example/Triz-flashing_Light.internal|Triz-flashing_Light.internal]] 
 - [[../../../../_protect/tech/Triz/Example/Triz-flashing_Light.protect|Triz-flashing_Light.protect]] 
 - [[../../../../_private/tech/Triz/Example/Triz-flashing_Light.private|Triz-flashing_Light.private]] 

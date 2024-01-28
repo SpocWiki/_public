@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Complexity+Use_a_pneumatic_or_hydralic_construction-affected_harm.md|Triz-Complexity+Use_a_pneumatic_or_hydralic_construction-affected_harm]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Complexity+Use_a_pneumatic_or_hydralic_construction-affected_harm|Triz-Complexity+Use_a_pneumatic_or_hydralic_construction-affected_harm]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Complexity+Use_a_pneumatic_or_hydralic_construction-affected_harm.public|Triz-Complexity+Use_a_pneumatic_or_hydralic_construction-affected_harm.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Complexity+Use_a_pneumatic_or_hydralic_construction-affected_harm.internal|Triz-Complexity+Use_a_pneumatic_or_hydralic_construction-affected_harm.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Complexity+Use_a_pneumatic_or_hydralic_construction-affected_harm.protect|Triz-Complexity+Use_a_pneumatic_or_hydralic_construction-affected_harm.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Complexity+Use_a_pneumatic_or_hydralic_construction-affected_harm.private|Triz-Complexity+Use_a_pneumatic_or_hydralic_construction-affected_harm.private]] 

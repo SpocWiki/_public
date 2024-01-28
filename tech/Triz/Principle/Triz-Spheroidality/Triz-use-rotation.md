@@ -26,7 +26,8 @@ Go from linear to rotary motion, use centrifugal forces.
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Sub/Triz-use-rotation.md|Triz-use-rotation]] 
+- [[../../../../_Standards/tech/Triz/Sub/Triz-use-rotation|Triz-use-rotation]] 
+- [[../../../../_public/tech/Triz/Sub/Triz-use-rotation.public|Triz-use-rotation.public]] 
 - [[../../../../_internal/tech/Triz/Sub/Triz-use-rotation.internal|Triz-use-rotation.internal]] 
 - [[../../../../_protect/tech/Triz/Sub/Triz-use-rotation.protect|Triz-use-rotation.protect]] 
 - [[../../../../_private/tech/Triz/Sub/Triz-use-rotation.private|Triz-use-rotation.private]] 

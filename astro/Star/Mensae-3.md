@@ -27,7 +27,8 @@ confidential: public
 
 
 ## Confidential Links & Embeds: 
-- [[../../../_public/astro/Star/Mensae-3.md|Mensae-3]] 
+- [[../../../_Standards/astro/Star/Mensae-3|Mensae-3]] 
+- [[../../../_public/astro/Star/Mensae-3.public|Mensae-3.public]] 
 - [[../../../_internal/astro/Star/Mensae-3.internal|Mensae-3.internal]] 
 - [[../../../_protect/astro/Star/Mensae-3.protect|Mensae-3.protect]] 
 - [[../../../_private/astro/Star/Mensae-3.private|Mensae-3.private]] 

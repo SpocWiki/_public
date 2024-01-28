@@ -27,7 +27,8 @@ confidential: public
 
 
 ## Confidential Links & Embeds: 
-- [[../../../_public/astro/Star/Cancri-53.md|Cancri-53]] 
+- [[../../../_Standards/astro/Star/Cancri-53|Cancri-53]] 
+- [[../../../_public/astro/Star/Cancri-53.public|Cancri-53.public]] 
 - [[../../../_internal/astro/Star/Cancri-53.internal|Cancri-53.internal]] 
 - [[../../../_protect/astro/Star/Cancri-53.protect|Cancri-53.protect]] 
 - [[../../../_private/astro/Star/Cancri-53.private|Cancri-53.private]] 

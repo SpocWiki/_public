@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Ease_of_operation+Equipotentiality-moving_Length.md|Triz-Ease_of_operation+Equipotentiality-moving_Length]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Ease_of_operation+Equipotentiality-moving_Length|Triz-Ease_of_operation+Equipotentiality-moving_Length]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Ease_of_operation+Equipotentiality-moving_Length.public|Triz-Ease_of_operation+Equipotentiality-moving_Length.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Ease_of_operation+Equipotentiality-moving_Length.internal|Triz-Ease_of_operation+Equipotentiality-moving_Length.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Ease_of_operation+Equipotentiality-moving_Length.protect|Triz-Ease_of_operation+Equipotentiality-moving_Length.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Ease_of_operation+Equipotentiality-moving_Length.private|Triz-Ease_of_operation+Equipotentiality-moving_Length.private]] 

@@ -27,7 +27,8 @@ confidential: public
 
 
 ## Confidential Links & Embeds: 
-- [[../../../_public/astro/Star/Sadalmelik.md|Sadalmelik]] 
+- [[../../../_Standards/astro/Star/Sadalmelik|Sadalmelik]] 
+- [[../../../_public/astro/Star/Sadalmelik.public|Sadalmelik.public]] 
 - [[../../../_internal/astro/Star/Sadalmelik.internal|Sadalmelik.internal]] 
 - [[../../../_protect/astro/Star/Sadalmelik.protect|Sadalmelik.protect]] 
 - [[../../../_private/astro/Star/Sadalmelik.private|Sadalmelik.private]] 

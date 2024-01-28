@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Intensity+Thermal_expansion-Power.md|Triz-Intensity+Thermal_expansion-Power]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Intensity+Thermal_expansion-Power|Triz-Intensity+Thermal_expansion-Power]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Intensity+Thermal_expansion-Power.public|Triz-Intensity+Thermal_expansion-Power.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Intensity+Thermal_expansion-Power.internal|Triz-Intensity+Thermal_expansion-Power.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Intensity+Thermal_expansion-Power.protect|Triz-Intensity+Thermal_expansion-Power.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Intensity+Thermal_expansion-Power.private|Triz-Intensity+Thermal_expansion-Power.private]] 

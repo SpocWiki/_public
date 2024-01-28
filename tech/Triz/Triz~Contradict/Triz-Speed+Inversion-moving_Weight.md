@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Speed+Inversion-moving_Weight.md|Triz-Speed+Inversion-moving_Weight]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Speed+Inversion-moving_Weight|Triz-Speed+Inversion-moving_Weight]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Speed+Inversion-moving_Weight.public|Triz-Speed+Inversion-moving_Weight.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Speed+Inversion-moving_Weight.internal|Triz-Speed+Inversion-moving_Weight.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Speed+Inversion-moving_Weight.protect|Triz-Speed+Inversion-moving_Weight.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Speed+Inversion-moving_Weight.private|Triz-Speed+Inversion-moving_Weight.private]] 

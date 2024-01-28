@@ -27,7 +27,8 @@ confidential: public
 
 
 ## Confidential Links & Embeds: 
-- [[../../../_public/astro/Star/Aludra.md|Aludra]] 
+- [[../../../_Standards/astro/Star/Aludra|Aludra]] 
+- [[../../../_public/astro/Star/Aludra.public|Aludra.public]] 
 - [[../../../_internal/astro/Star/Aludra.internal|Aludra.internal]] 
 - [[../../../_protect/astro/Star/Aludra.protect|Aludra.protect]] 
 - [[../../../_private/astro/Star/Aludra.private|Aludra.private]] 

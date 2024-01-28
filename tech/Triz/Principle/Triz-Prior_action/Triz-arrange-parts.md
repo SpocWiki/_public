@@ -26,7 +26,8 @@ Pre-arrange objects such that they can come into action from the most convenient
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Sub/Triz-arrange-parts.md|Triz-arrange-parts]] 
+- [[../../../../_Standards/tech/Triz/Sub/Triz-arrange-parts|Triz-arrange-parts]] 
+- [[../../../../_public/tech/Triz/Sub/Triz-arrange-parts.public|Triz-arrange-parts.public]] 
 - [[../../../../_internal/tech/Triz/Sub/Triz-arrange-parts.internal|Triz-arrange-parts.internal]] 
 - [[../../../../_protect/tech/Triz/Sub/Triz-arrange-parts.protect|Triz-arrange-parts.protect]] 
 - [[../../../../_private/tech/Triz/Sub/Triz-arrange-parts.private|Triz-arrange-parts.private]] 

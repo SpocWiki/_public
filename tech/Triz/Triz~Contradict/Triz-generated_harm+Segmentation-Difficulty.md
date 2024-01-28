@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-generated_harm+Segmentation-Difficulty.md|Triz-generated_harm+Segmentation-Difficulty]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-generated_harm+Segmentation-Difficulty|Triz-generated_harm+Segmentation-Difficulty]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-generated_harm+Segmentation-Difficulty.public|Triz-generated_harm+Segmentation-Difficulty.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-generated_harm+Segmentation-Difficulty.internal|Triz-generated_harm+Segmentation-Difficulty.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-generated_harm+Segmentation-Difficulty.protect|Triz-generated_harm+Segmentation-Difficulty.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-generated_harm+Segmentation-Difficulty.private|Triz-generated_harm+Segmentation-Difficulty.private]] 

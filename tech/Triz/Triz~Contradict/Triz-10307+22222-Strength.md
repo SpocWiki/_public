@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-10307+22222-Strength.md|Triz-10307+22222-Strength]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-10307+22222-Strength|Triz-10307+22222-Strength]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-10307+22222-Strength.public|Triz-10307+22222-Strength.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-10307+22222-Strength.internal|Triz-10307+22222-Strength.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-10307+22222-Strength.protect|Triz-10307+22222-Strength.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-10307+22222-Strength.private|Triz-10307+22222-Strength.private]] 

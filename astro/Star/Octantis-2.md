@@ -27,7 +27,8 @@ confidential: public
 
 
 ## Confidential Links & Embeds: 
-- [[../../../_public/astro/Star/Octantis-2.md|Octantis-2]] 
+- [[../../../_Standards/astro/Star/Octantis-2|Octantis-2]] 
+- [[../../../_public/astro/Star/Octantis-2.public|Octantis-2.public]] 
 - [[../../../_internal/astro/Star/Octantis-2.internal|Octantis-2.internal]] 
 - [[../../../_protect/astro/Star/Octantis-2.protect|Octantis-2.protect]] 
 - [[../../../_private/astro/Star/Octantis-2.private|Octantis-2.private]] 

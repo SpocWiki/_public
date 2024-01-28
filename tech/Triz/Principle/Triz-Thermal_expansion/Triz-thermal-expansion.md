@@ -24,7 +24,8 @@ Use thermal expansion (or contraction) of materials.
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Sub/Triz-thermal-expansion.md|Triz-thermal-expansion]] 
+- [[../../../../_Standards/tech/Triz/Sub/Triz-thermal-expansion|Triz-thermal-expansion]] 
+- [[../../../../_public/tech/Triz/Sub/Triz-thermal-expansion.public|Triz-thermal-expansion.public]] 
 - [[../../../../_internal/tech/Triz/Sub/Triz-thermal-expansion.internal|Triz-thermal-expansion.internal]] 
 - [[../../../../_protect/tech/Triz/Sub/Triz-thermal-expansion.protect|Triz-thermal-expansion.protect]] 
 - [[../../../../_private/tech/Triz/Sub/Triz-thermal-expansion.private|Triz-thermal-expansion.private]] 

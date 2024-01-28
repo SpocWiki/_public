@@ -17,7 +17,8 @@ tags:
 Use Helium Balloon to support Advertising Signs.
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Example/Triz-Use_Balloon.md|Triz-Use_Balloon]] 
+- [[../../../../_Standards/tech/Triz/Example/Triz-Use_Balloon|Triz-Use_Balloon]] 
+- [[../../../../_public/tech/Triz/Example/Triz-Use_Balloon.public|Triz-Use_Balloon.public]] 
 - [[../../../../_internal/tech/Triz/Example/Triz-Use_Balloon.internal|Triz-Use_Balloon.internal]] 
 - [[../../../../_protect/tech/Triz/Example/Triz-Use_Balloon.protect|Triz-Use_Balloon.protect]] 
 - [[../../../../_private/tech/Triz/Example/Triz-Use_Balloon.private|Triz-Use_Balloon.private]] 

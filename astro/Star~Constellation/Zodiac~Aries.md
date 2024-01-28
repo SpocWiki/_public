@@ -17,7 +17,8 @@ ZodiacPos: 1
 
 
 ## Confidential Links & Embeds: 
-- [[../../../_public/astro/Zodiac/Zodiac~Aries.md|Zodiac~Aries]] 
+- [[../../../_Standards/astro/Zodiac/Zodiac~Aries|Zodiac~Aries]] 
+- [[../../../_public/astro/Zodiac/Zodiac~Aries.public|Zodiac~Aries.public]] 
 - [[../../../_internal/astro/Zodiac/Zodiac~Aries.internal|Zodiac~Aries.internal]] 
 - [[../../../_protect/astro/Zodiac/Zodiac~Aries.protect|Zodiac~Aries.protect]] 
 - [[../../../_private/astro/Zodiac/Zodiac~Aries.private|Zodiac~Aries.private]] 

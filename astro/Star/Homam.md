@@ -27,7 +27,8 @@ confidential: public
 
 
 ## Confidential Links & Embeds: 
-- [[../../../_public/astro/Star/Homam.md|Homam]] 
+- [[../../../_Standards/astro/Star/Homam|Homam]] 
+- [[../../../_public/astro/Star/Homam.public|Homam.public]] 
 - [[../../../_internal/astro/Star/Homam.internal|Homam.internal]] 
 - [[../../../_protect/astro/Star/Homam.protect|Homam.protect]] 
 - [[../../../_private/astro/Star/Homam.private|Homam.private]] 

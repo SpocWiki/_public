@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Speed+Use_strong_oxidisers-Quantity.md|Triz-Speed+Use_strong_oxidisers-Quantity]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Speed+Use_strong_oxidisers-Quantity|Triz-Speed+Use_strong_oxidisers-Quantity]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Speed+Use_strong_oxidisers-Quantity.public|Triz-Speed+Use_strong_oxidisers-Quantity.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Speed+Use_strong_oxidisers-Quantity.internal|Triz-Speed+Use_strong_oxidisers-Quantity.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Speed+Use_strong_oxidisers-Quantity.protect|Triz-Speed+Use_strong_oxidisers-Quantity.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Speed+Use_strong_oxidisers-Quantity.private|Triz-Speed+Use_strong_oxidisers-Quantity.private]] 

@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Energy-Loss+Partial,_overdone,_or_excessive_action-Speed.md|Triz-Energy-Loss+Partial,_overdone,_or_excessive_action-Speed]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Energy-Loss+Partial,_overdone,_or_excessive_action-Speed|Triz-Energy-Loss+Partial,_overdone,_or_excessive_action-Speed]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Energy-Loss+Partial,_overdone,_or_excessive_action-Speed.public|Triz-Energy-Loss+Partial,_overdone,_or_excessive_action-Speed.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Energy-Loss+Partial,_overdone,_or_excessive_action-Speed.internal|Triz-Energy-Loss+Partial,_overdone,_or_excessive_action-Speed.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Energy-Loss+Partial,_overdone,_or_excessive_action-Speed.protect|Triz-Energy-Loss+Partial,_overdone,_or_excessive_action-Speed.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Energy-Loss+Partial,_overdone,_or_excessive_action-Speed.private|Triz-Energy-Loss+Partial,_overdone,_or_excessive_action-Speed.private]] 

@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Measurement_Accuracy+Universality-Shape.md|Triz-Measurement_Accuracy+Universality-Shape]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Measurement_Accuracy+Universality-Shape|Triz-Measurement_Accuracy+Universality-Shape]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Measurement_Accuracy+Universality-Shape.public|Triz-Measurement_Accuracy+Universality-Shape.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Measurement_Accuracy+Universality-Shape.internal|Triz-Measurement_Accuracy+Universality-Shape.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Measurement_Accuracy+Universality-Shape.protect|Triz-Measurement_Accuracy+Universality-Shape.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Measurement_Accuracy+Universality-Shape.private|Triz-Measurement_Accuracy+Universality-Shape.private]] 

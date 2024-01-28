@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-moving_Volume+Rejecting_and_regenerating_parts-Time-Loss.md|Triz-moving_Volume+Rejecting_and_regenerating_parts-Time-Loss]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-moving_Volume+Rejecting_and_regenerating_parts-Time-Loss|Triz-moving_Volume+Rejecting_and_regenerating_parts-Time-Loss]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-moving_Volume+Rejecting_and_regenerating_parts-Time-Loss.public|Triz-moving_Volume+Rejecting_and_regenerating_parts-Time-Loss.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-moving_Volume+Rejecting_and_regenerating_parts-Time-Loss.internal|Triz-moving_Volume+Rejecting_and_regenerating_parts-Time-Loss.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-moving_Volume+Rejecting_and_regenerating_parts-Time-Loss.protect|Triz-moving_Volume+Rejecting_and_regenerating_parts-Time-Loss.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-moving_Volume+Rejecting_and_regenerating_parts-Time-Loss.private|Triz-moving_Volume+Rejecting_and_regenerating_parts-Time-Loss.private]] 

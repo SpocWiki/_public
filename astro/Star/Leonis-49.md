@@ -27,7 +27,8 @@ confidential: public
 
 
 ## Confidential Links & Embeds: 
-- [[../../../_public/astro/Star/Leonis-49.md|Leonis-49]] 
+- [[../../../_Standards/astro/Star/Leonis-49|Leonis-49]] 
+- [[../../../_public/astro/Star/Leonis-49.public|Leonis-49.public]] 
 - [[../../../_internal/astro/Star/Leonis-49.internal|Leonis-49.internal]] 
 - [[../../../_protect/astro/Star/Leonis-49.protect|Leonis-49.protect]] 
 - [[../../../_private/astro/Star/Leonis-49.private|Leonis-49.private]] 

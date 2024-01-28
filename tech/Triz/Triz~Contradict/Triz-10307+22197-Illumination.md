@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-10307+22197-Illumination.md|Triz-10307+22197-Illumination]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-10307+22197-Illumination|Triz-10307+22197-Illumination]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-10307+22197-Illumination.public|Triz-10307+22197-Illumination.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-10307+22197-Illumination.internal|Triz-10307+22197-Illumination.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-10307+22197-Illumination.protect|Triz-10307+22197-Illumination.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-10307+22197-Illumination.private|Triz-10307+22197-Illumination.private]] 

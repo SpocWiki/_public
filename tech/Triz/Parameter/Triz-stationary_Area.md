@@ -18,7 +18,8 @@ Area of stationary object:
 extent of external contact or interaction of a system or component.
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Parameter/Triz-stationary_Area.md|Triz-stationary_Area]] 
+- [[../../../../_Standards/tech/Triz/Parameter/Triz-stationary_Area|Triz-stationary_Area]] 
+- [[../../../../_public/tech/Triz/Parameter/Triz-stationary_Area.public|Triz-stationary_Area.public]] 
 - [[../../../../_internal/tech/Triz/Parameter/Triz-stationary_Area.internal|Triz-stationary_Area.internal]] 
 - [[../../../../_protect/tech/Triz/Parameter/Triz-stationary_Area.protect|Triz-stationary_Area.protect]] 
 - [[../../../../_private/tech/Triz/Parameter/Triz-stationary_Area.private|Triz-stationary_Area.private]] 

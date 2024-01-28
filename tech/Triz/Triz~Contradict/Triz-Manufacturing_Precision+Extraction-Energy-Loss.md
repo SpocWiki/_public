@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Manufacturing_Precision+Extraction-Energy-Loss.md|Triz-Manufacturing_Precision+Extraction-Energy-Loss]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Manufacturing_Precision+Extraction-Energy-Loss|Triz-Manufacturing_Precision+Extraction-Energy-Loss]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Manufacturing_Precision+Extraction-Energy-Loss.public|Triz-Manufacturing_Precision+Extraction-Energy-Loss.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Manufacturing_Precision+Extraction-Energy-Loss.internal|Triz-Manufacturing_Precision+Extraction-Energy-Loss.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Manufacturing_Precision+Extraction-Energy-Loss.protect|Triz-Manufacturing_Precision+Extraction-Energy-Loss.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Manufacturing_Precision+Extraction-Energy-Loss.private|Triz-Manufacturing_Precision+Extraction-Energy-Loss.private]] 

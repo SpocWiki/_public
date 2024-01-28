@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Ease_of_manufacture+Inversion-Stability.md|Triz-Ease_of_manufacture+Inversion-Stability]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Ease_of_manufacture+Inversion-Stability|Triz-Ease_of_manufacture+Inversion-Stability]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Ease_of_manufacture+Inversion-Stability.public|Triz-Ease_of_manufacture+Inversion-Stability.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Ease_of_manufacture+Inversion-Stability.internal|Triz-Ease_of_manufacture+Inversion-Stability.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Ease_of_manufacture+Inversion-Stability.protect|Triz-Ease_of_manufacture+Inversion-Stability.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Ease_of_manufacture+Inversion-Stability.private|Triz-Ease_of_manufacture+Inversion-Stability.private]] 

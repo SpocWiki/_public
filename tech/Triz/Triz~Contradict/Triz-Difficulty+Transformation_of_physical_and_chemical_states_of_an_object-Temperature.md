@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Difficulty+Transformation_of_physical_and_chemical_states_of_an_object-Temperature.md|Triz-Difficulty+Transformation_of_physical_and_chemical_states_of_an_object-Temperature]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Difficulty+Transformation_of_physical_and_chemical_states_of_an_object-Temperature|Triz-Difficulty+Transformation_of_physical_and_chemical_states_of_an_object-Temperature]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Difficulty+Transformation_of_physical_and_chemical_states_of_an_object-Temperature.public|Triz-Difficulty+Transformation_of_physical_and_chemical_states_of_an_object-Temperature.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Difficulty+Transformation_of_physical_and_chemical_states_of_an_object-Temperature.internal|Triz-Difficulty+Transformation_of_physical_and_chemical_states_of_an_object-Temperature.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Difficulty+Transformation_of_physical_and_chemical_states_of_an_object-Temperature.protect|Triz-Difficulty+Transformation_of_physical_and_chemical_states_of_an_object-Temperature.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Difficulty+Transformation_of_physical_and_chemical_states_of_an_object-Temperature.private|Triz-Difficulty+Transformation_of_physical_and_chemical_states_of_an_object-Temperature.private]] 

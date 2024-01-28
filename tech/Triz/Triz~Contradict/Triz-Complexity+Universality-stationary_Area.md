@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Complexity+Universality-stationary_Area.md|Triz-Complexity+Universality-stationary_Area]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Complexity+Universality-stationary_Area|Triz-Complexity+Universality-stationary_Area]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Complexity+Universality-stationary_Area.public|Triz-Complexity+Universality-stationary_Area.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Complexity+Universality-stationary_Area.internal|Triz-Complexity+Universality-stationary_Area.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Complexity+Universality-stationary_Area.protect|Triz-Complexity+Universality-stationary_Area.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Complexity+Universality-stationary_Area.private|Triz-Complexity+Universality-stationary_Area.private]] 

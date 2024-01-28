@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Complexity+Partial,_overdone,_or_excessive_action-Intensity.md|Triz-Complexity+Partial,_overdone,_or_excessive_action-Intensity]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Complexity+Partial,_overdone,_or_excessive_action-Intensity|Triz-Complexity+Partial,_overdone,_or_excessive_action-Intensity]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Complexity+Partial,_overdone,_or_excessive_action-Intensity.public|Triz-Complexity+Partial,_overdone,_or_excessive_action-Intensity.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Complexity+Partial,_overdone,_or_excessive_action-Intensity.internal|Triz-Complexity+Partial,_overdone,_or_excessive_action-Intensity.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Complexity+Partial,_overdone,_or_excessive_action-Intensity.protect|Triz-Complexity+Partial,_overdone,_or_excessive_action-Intensity.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Complexity+Partial,_overdone,_or_excessive_action-Intensity.private|Triz-Complexity+Partial,_overdone,_or_excessive_action-Intensity.private]] 

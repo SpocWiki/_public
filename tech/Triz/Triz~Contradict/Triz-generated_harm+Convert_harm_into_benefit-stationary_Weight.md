@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-generated_harm+Convert_harm_into_benefit-stationary_Weight.md|Triz-generated_harm+Convert_harm_into_benefit-stationary_Weight]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-generated_harm+Convert_harm_into_benefit-stationary_Weight|Triz-generated_harm+Convert_harm_into_benefit-stationary_Weight]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-generated_harm+Convert_harm_into_benefit-stationary_Weight.public|Triz-generated_harm+Convert_harm_into_benefit-stationary_Weight.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-generated_harm+Convert_harm_into_benefit-stationary_Weight.internal|Triz-generated_harm+Convert_harm_into_benefit-stationary_Weight.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-generated_harm+Convert_harm_into_benefit-stationary_Weight.protect|Triz-generated_harm+Convert_harm_into_benefit-stationary_Weight.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-generated_harm+Convert_harm_into_benefit-stationary_Weight.private|Triz-generated_harm+Convert_harm_into_benefit-stationary_Weight.private]] 

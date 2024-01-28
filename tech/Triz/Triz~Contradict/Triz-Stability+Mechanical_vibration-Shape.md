@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Stability+Mechanical_vibration-Shape.md|Triz-Stability+Mechanical_vibration-Shape]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Stability+Mechanical_vibration-Shape|Triz-Stability+Mechanical_vibration-Shape]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Stability+Mechanical_vibration-Shape.public|Triz-Stability+Mechanical_vibration-Shape.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Stability+Mechanical_vibration-Shape.internal|Triz-Stability+Mechanical_vibration-Shape.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Stability+Mechanical_vibration-Shape.protect|Triz-Stability+Mechanical_vibration-Shape.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Stability+Mechanical_vibration-Shape.private|Triz-Stability+Mechanical_vibration-Shape.private]] 

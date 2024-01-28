@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Ease_of_operation+Transformation_of_physical_and_chemical_states_of_an_object-Power.md|Triz-Ease_of_operation+Transformation_of_physical_and_chemical_states_of_an_object-Power]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Ease_of_operation+Transformation_of_physical_and_chemical_states_of_an_object-Power|Triz-Ease_of_operation+Transformation_of_physical_and_chemical_states_of_an_object-Power]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Ease_of_operation+Transformation_of_physical_and_chemical_states_of_an_object-Power.public|Triz-Ease_of_operation+Transformation_of_physical_and_chemical_states_of_an_object-Power.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Ease_of_operation+Transformation_of_physical_and_chemical_states_of_an_object-Power.internal|Triz-Ease_of_operation+Transformation_of_physical_and_chemical_states_of_an_object-Power.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Ease_of_operation+Transformation_of_physical_and_chemical_states_of_an_object-Power.protect|Triz-Ease_of_operation+Transformation_of_physical_and_chemical_states_of_an_object-Power.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Ease_of_operation+Transformation_of_physical_and_chemical_states_of_an_object-Power.private|Triz-Ease_of_operation+Transformation_of_physical_and_chemical_states_of_an_object-Power.private]] 

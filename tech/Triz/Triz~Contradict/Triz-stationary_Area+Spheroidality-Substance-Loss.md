@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-stationary_Area+Spheroidality-Substance-Loss.md|Triz-stationary_Area+Spheroidality-Substance-Loss]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-stationary_Area+Spheroidality-Substance-Loss|Triz-stationary_Area+Spheroidality-Substance-Loss]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-stationary_Area+Spheroidality-Substance-Loss.public|Triz-stationary_Area+Spheroidality-Substance-Loss.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-stationary_Area+Spheroidality-Substance-Loss.internal|Triz-stationary_Area+Spheroidality-Substance-Loss.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-stationary_Area+Spheroidality-Substance-Loss.protect|Triz-stationary_Area+Spheroidality-Substance-Loss.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-stationary_Area+Spheroidality-Substance-Loss.private|Triz-stationary_Area+Spheroidality-Substance-Loss.private]] 

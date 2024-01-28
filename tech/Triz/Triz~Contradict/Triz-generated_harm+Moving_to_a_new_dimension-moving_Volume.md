@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-generated_harm+Moving_to_a_new_dimension-moving_Volume.md|Triz-generated_harm+Moving_to_a_new_dimension-moving_Volume]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-generated_harm+Moving_to_a_new_dimension-moving_Volume|Triz-generated_harm+Moving_to_a_new_dimension-moving_Volume]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-generated_harm+Moving_to_a_new_dimension-moving_Volume.public|Triz-generated_harm+Moving_to_a_new_dimension-moving_Volume.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-generated_harm+Moving_to_a_new_dimension-moving_Volume.internal|Triz-generated_harm+Moving_to_a_new_dimension-moving_Volume.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-generated_harm+Moving_to_a_new_dimension-moving_Volume.protect|Triz-generated_harm+Moving_to_a_new_dimension-moving_Volume.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-generated_harm+Moving_to_a_new_dimension-moving_Volume.private|Triz-generated_harm+Moving_to_a_new_dimension-moving_Volume.private]] 

@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Stress+Mechanical_vibration-Strength.md|Triz-Stress+Mechanical_vibration-Strength]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Stress+Mechanical_vibration-Strength|Triz-Stress+Mechanical_vibration-Strength]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Stress+Mechanical_vibration-Strength.public|Triz-Stress+Mechanical_vibration-Strength.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Stress+Mechanical_vibration-Strength.internal|Triz-Stress+Mechanical_vibration-Strength.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Stress+Mechanical_vibration-Strength.protect|Triz-Stress+Mechanical_vibration-Strength.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Stress+Mechanical_vibration-Strength.private|Triz-Stress+Mechanical_vibration-Strength.private]] 

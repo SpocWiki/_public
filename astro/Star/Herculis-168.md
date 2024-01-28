@@ -27,7 +27,8 @@ confidential: public
 
 
 ## Confidential Links & Embeds: 
-- [[../../../_public/astro/Star/Herculis-168.md|Herculis-168]] 
+- [[../../../_Standards/astro/Star/Herculis-168|Herculis-168]] 
+- [[../../../_public/astro/Star/Herculis-168.public|Herculis-168.public]] 
 - [[../../../_internal/astro/Star/Herculis-168.internal|Herculis-168.internal]] 
 - [[../../../_protect/astro/Star/Herculis-168.protect|Herculis-168.protect]] 
 - [[../../../_private/astro/Star/Herculis-168.private|Herculis-168.private]] 

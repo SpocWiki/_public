@@ -17,7 +17,8 @@ tags:
 Illumination intensity
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Parameter/Triz-Illumination.md|Triz-Illumination]] 
+- [[../../../../_Standards/tech/Triz/Parameter/Triz-Illumination|Triz-Illumination]] 
+- [[../../../../_public/tech/Triz/Parameter/Triz-Illumination.public|Triz-Illumination.public]] 
 - [[../../../../_internal/tech/Triz/Parameter/Triz-Illumination.internal|Triz-Illumination.internal]] 
 - [[../../../../_protect/tech/Triz/Parameter/Triz-Illumination.protect|Triz-Illumination.protect]] 
 - [[../../../../_private/tech/Triz/Parameter/Triz-Illumination.private|Triz-Illumination.private]] 

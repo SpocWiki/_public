@@ -27,7 +27,8 @@ confidential: public
 
 
 ## Confidential Links & Embeds: 
-- [[../../../_public/astro/Star/Cebalrai.md|Cebalrai]] 
+- [[../../../_Standards/astro/Star/Cebalrai|Cebalrai]] 
+- [[../../../_public/astro/Star/Cebalrai.public|Cebalrai.public]] 
 - [[../../../_internal/astro/Star/Cebalrai.internal|Cebalrai.internal]] 
 - [[../../../_protect/astro/Star/Cebalrai.protect|Cebalrai.protect]] 
 - [[../../../_private/astro/Star/Cebalrai.private|Cebalrai.private]] 

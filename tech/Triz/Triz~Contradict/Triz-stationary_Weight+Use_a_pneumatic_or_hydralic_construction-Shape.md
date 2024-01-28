@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-stationary_Weight+Use_a_pneumatic_or_hydralic_construction-Shape.md|Triz-stationary_Weight+Use_a_pneumatic_or_hydralic_construction-Shape]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-stationary_Weight+Use_a_pneumatic_or_hydralic_construction-Shape|Triz-stationary_Weight+Use_a_pneumatic_or_hydralic_construction-Shape]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-stationary_Weight+Use_a_pneumatic_or_hydralic_construction-Shape.public|Triz-stationary_Weight+Use_a_pneumatic_or_hydralic_construction-Shape.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-stationary_Weight+Use_a_pneumatic_or_hydralic_construction-Shape.internal|Triz-stationary_Weight+Use_a_pneumatic_or_hydralic_construction-Shape.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-stationary_Weight+Use_a_pneumatic_or_hydralic_construction-Shape.protect|Triz-stationary_Weight+Use_a_pneumatic_or_hydralic_construction-Shape.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-stationary_Weight+Use_a_pneumatic_or_hydralic_construction-Shape.private|Triz-stationary_Weight+Use_a_pneumatic_or_hydralic_construction-Shape.private]] 

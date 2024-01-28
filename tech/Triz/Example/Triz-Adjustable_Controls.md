@@ -17,7 +17,8 @@ tags:
 Adjustable steering wheel (or Seat, or Back Support, or Mirror Position...)
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Example/Triz-Adjustable_Controls.md|Triz-Adjustable_Controls]] 
+- [[../../../../_Standards/tech/Triz/Example/Triz-Adjustable_Controls|Triz-Adjustable_Controls]] 
+- [[../../../../_public/tech/Triz/Example/Triz-Adjustable_Controls.public|Triz-Adjustable_Controls.public]] 
 - [[../../../../_internal/tech/Triz/Example/Triz-Adjustable_Controls.internal|Triz-Adjustable_Controls.internal]] 
 - [[../../../../_protect/tech/Triz/Example/Triz-Adjustable_Controls.protect|Triz-Adjustable_Controls.protect]] 
 - [[../../../../_private/tech/Triz/Example/Triz-Adjustable_Controls.private|Triz-Adjustable_Controls.private]] 

@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Ease_of_operation+Rejecting_and_regenerating_parts-Shape.md|Triz-Ease_of_operation+Rejecting_and_regenerating_parts-Shape]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Ease_of_operation+Rejecting_and_regenerating_parts-Shape|Triz-Ease_of_operation+Rejecting_and_regenerating_parts-Shape]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Ease_of_operation+Rejecting_and_regenerating_parts-Shape.public|Triz-Ease_of_operation+Rejecting_and_regenerating_parts-Shape.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Ease_of_operation+Rejecting_and_regenerating_parts-Shape.internal|Triz-Ease_of_operation+Rejecting_and_regenerating_parts-Shape.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Ease_of_operation+Rejecting_and_regenerating_parts-Shape.protect|Triz-Ease_of_operation+Rejecting_and_regenerating_parts-Shape.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Ease_of_operation+Rejecting_and_regenerating_parts-Shape.private|Triz-Ease_of_operation+Rejecting_and_regenerating_parts-Shape.private]] 

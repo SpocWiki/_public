@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-moving_Length+Asymmetry-Intensity.md|Triz-moving_Length+Asymmetry-Intensity]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-moving_Length+Asymmetry-Intensity|Triz-moving_Length+Asymmetry-Intensity]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-moving_Length+Asymmetry-Intensity.public|Triz-moving_Length+Asymmetry-Intensity.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-moving_Length+Asymmetry-Intensity.internal|Triz-moving_Length+Asymmetry-Intensity.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-moving_Length+Asymmetry-Intensity.protect|Triz-moving_Length+Asymmetry-Intensity.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-moving_Length+Asymmetry-Intensity.private|Triz-moving_Length+Asymmetry-Intensity.private]] 

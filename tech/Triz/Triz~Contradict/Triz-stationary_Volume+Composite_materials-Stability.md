@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-stationary_Volume+Composite_materials-Stability.md|Triz-stationary_Volume+Composite_materials-Stability]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-stationary_Volume+Composite_materials-Stability|Triz-stationary_Volume+Composite_materials-Stability]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-stationary_Volume+Composite_materials-Stability.public|Triz-stationary_Volume+Composite_materials-Stability.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-stationary_Volume+Composite_materials-Stability.internal|Triz-stationary_Volume+Composite_materials-Stability.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-stationary_Volume+Composite_materials-Stability.protect|Triz-stationary_Volume+Composite_materials-Stability.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-stationary_Volume+Composite_materials-Stability.private|Triz-stationary_Volume+Composite_materials-Stability.private]] 

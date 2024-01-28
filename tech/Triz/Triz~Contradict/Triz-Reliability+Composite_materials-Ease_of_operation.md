@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Reliability+Composite_materials-Ease_of_operation.md|Triz-Reliability+Composite_materials-Ease_of_operation]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Reliability+Composite_materials-Ease_of_operation|Triz-Reliability+Composite_materials-Ease_of_operation]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Reliability+Composite_materials-Ease_of_operation.public|Triz-Reliability+Composite_materials-Ease_of_operation.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Reliability+Composite_materials-Ease_of_operation.internal|Triz-Reliability+Composite_materials-Ease_of_operation.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Reliability+Composite_materials-Ease_of_operation.protect|Triz-Reliability+Composite_materials-Ease_of_operation.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Reliability+Composite_materials-Ease_of_operation.private|Triz-Reliability+Composite_materials-Ease_of_operation.private]] 

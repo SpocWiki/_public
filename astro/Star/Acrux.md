@@ -26,7 +26,8 @@ confidential: public
 
 
 ## Confidential Links & Embeds: 
-- [[../../../_public/astro/Star/Acrux.md|Acrux]] 
+- [[../../../_Standards/astro/Star/Acrux|Acrux]] 
+- [[../../../_public/astro/Star/Acrux.public|Acrux.public]] 
 - [[../../../_internal/astro/Star/Acrux.internal|Acrux.internal]] 
 - [[../../../_protect/astro/Star/Acrux.protect|Acrux.protect]] 
 - [[../../../_private/astro/Star/Acrux.private|Acrux.private]] 

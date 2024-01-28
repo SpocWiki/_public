@@ -16,7 +16,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../_public/astro/Zodiac/Zodiac~Camelopardalis.md|Zodiac~Camelopardalis]] 
+- [[../../../_Standards/astro/Zodiac/Zodiac~Camelopardalis|Zodiac~Camelopardalis]] 
+- [[../../../_public/astro/Zodiac/Zodiac~Camelopardalis.public|Zodiac~Camelopardalis.public]] 
 - [[../../../_internal/astro/Zodiac/Zodiac~Camelopardalis.internal|Zodiac~Camelopardalis.internal]] 
 - [[../../../_protect/astro/Zodiac/Zodiac~Camelopardalis.protect|Zodiac~Camelopardalis.protect]] 
 - [[../../../_private/astro/Zodiac/Zodiac~Camelopardalis.private|Zodiac~Camelopardalis.private]] 

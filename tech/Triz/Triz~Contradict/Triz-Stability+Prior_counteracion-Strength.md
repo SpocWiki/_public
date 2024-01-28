@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Stability+Prior_counteracion-Strength.md|Triz-Stability+Prior_counteracion-Strength]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Stability+Prior_counteracion-Strength|Triz-Stability+Prior_counteracion-Strength]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Stability+Prior_counteracion-Strength.public|Triz-Stability+Prior_counteracion-Strength.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Stability+Prior_counteracion-Strength.internal|Triz-Stability+Prior_counteracion-Strength.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Stability+Prior_counteracion-Strength.protect|Triz-Stability+Prior_counteracion-Strength.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Stability+Prior_counteracion-Strength.private|Triz-Stability+Prior_counteracion-Strength.private]] 

@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Ease_of_operation+Composite_materials-Strength.md|Triz-Ease_of_operation+Composite_materials-Strength]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Ease_of_operation+Composite_materials-Strength|Triz-Ease_of_operation+Composite_materials-Strength]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Ease_of_operation+Composite_materials-Strength.public|Triz-Ease_of_operation+Composite_materials-Strength.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Ease_of_operation+Composite_materials-Strength.internal|Triz-Ease_of_operation+Composite_materials-Strength.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Ease_of_operation+Composite_materials-Strength.protect|Triz-Ease_of_operation+Composite_materials-Strength.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Ease_of_operation+Composite_materials-Strength.private|Triz-Ease_of_operation+Composite_materials-Strength.private]] 

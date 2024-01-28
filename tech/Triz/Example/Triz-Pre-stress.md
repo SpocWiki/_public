@@ -17,7 +17,8 @@ tags:
 Pre-stress Rebar before pouring Concrete.
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Example/Triz-Pre-stress.md|Triz-Pre-stress]] 
+- [[../../../../_Standards/tech/Triz/Example/Triz-Pre-stress|Triz-Pre-stress]] 
+- [[../../../../_public/tech/Triz/Example/Triz-Pre-stress.public|Triz-Pre-stress.public]] 
 - [[../../../../_internal/tech/Triz/Example/Triz-Pre-stress.internal|Triz-Pre-stress.internal]] 
 - [[../../../../_protect/tech/Triz/Example/Triz-Pre-stress.protect|Triz-Pre-stress.protect]] 
 - [[../../../../_private/tech/Triz/Example/Triz-Pre-stress.private|Triz-Pre-stress.private]] 

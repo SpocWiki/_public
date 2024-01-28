@@ -27,7 +27,8 @@ confidential: public
 
 
 ## Confidential Links & Embeds: 
-- [[../../../_public/astro/Star/Wezen.md|Wezen]] 
+- [[../../../_Standards/astro/Star/Wezen|Wezen]] 
+- [[../../../_public/astro/Star/Wezen.public|Wezen.public]] 
 - [[../../../_internal/astro/Star/Wezen.internal|Wezen.internal]] 
 - [[../../../_protect/astro/Star/Wezen.protect|Wezen.protect]] 
 - [[../../../_private/astro/Star/Wezen.private|Wezen.private]] 

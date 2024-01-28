@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Energy-Loss+Segmentation-Ease_of_operation.md|Triz-Energy-Loss+Segmentation-Ease_of_operation]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Energy-Loss+Segmentation-Ease_of_operation|Triz-Energy-Loss+Segmentation-Ease_of_operation]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Energy-Loss+Segmentation-Ease_of_operation.public|Triz-Energy-Loss+Segmentation-Ease_of_operation.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Energy-Loss+Segmentation-Ease_of_operation.internal|Triz-Energy-Loss+Segmentation-Ease_of_operation.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Energy-Loss+Segmentation-Ease_of_operation.protect|Triz-Energy-Loss+Segmentation-Ease_of_operation.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Energy-Loss+Segmentation-Ease_of_operation.private|Triz-Energy-Loss+Segmentation-Ease_of_operation.private]] 

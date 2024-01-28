@@ -17,7 +17,8 @@ tags:
 Transport Oxygen or Nitrogen or Petroleum Gas as a Liquid, instead of a Gas, to reduce Volume.
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Example/Triz-liquidate_Gases.md|Triz-liquidate_Gases]] 
+- [[../../../../_Standards/tech/Triz/Example/Triz-liquidate_Gases|Triz-liquidate_Gases]] 
+- [[../../../../_public/tech/Triz/Example/Triz-liquidate_Gases.public|Triz-liquidate_Gases.public]] 
 - [[../../../../_internal/tech/Triz/Example/Triz-liquidate_Gases.internal|Triz-liquidate_Gases.internal]] 
 - [[../../../../_protect/tech/Triz/Example/Triz-liquidate_Gases.protect|Triz-liquidate_Gases.protect]] 
 - [[../../../../_private/tech/Triz/Example/Triz-liquidate_Gases.private|Triz-liquidate_Gases.private]] 

@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Energy-Loss+Transformation_of_physical_and_chemical_states_of_an_object-Speed.md|Triz-Energy-Loss+Transformation_of_physical_and_chemical_states_of_an_object-Speed]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Energy-Loss+Transformation_of_physical_and_chemical_states_of_an_object-Speed|Triz-Energy-Loss+Transformation_of_physical_and_chemical_states_of_an_object-Speed]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Energy-Loss+Transformation_of_physical_and_chemical_states_of_an_object-Speed.public|Triz-Energy-Loss+Transformation_of_physical_and_chemical_states_of_an_object-Speed.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Energy-Loss+Transformation_of_physical_and_chemical_states_of_an_object-Speed.internal|Triz-Energy-Loss+Transformation_of_physical_and_chemical_states_of_an_object-Speed.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Energy-Loss+Transformation_of_physical_and_chemical_states_of_an_object-Speed.protect|Triz-Energy-Loss+Transformation_of_physical_and_chemical_states_of_an_object-Speed.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Energy-Loss+Transformation_of_physical_and_chemical_states_of_an_object-Speed.private|Triz-Energy-Loss+Transformation_of_physical_and_chemical_states_of_an_object-Speed.private]] 

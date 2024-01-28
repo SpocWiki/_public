@@ -27,7 +27,8 @@ confidential: public
 
 
 ## Confidential Links & Embeds: 
-- [[../../../_public/astro/Star/Zosma.md|Zosma]] 
+- [[../../../_Standards/astro/Star/Zosma|Zosma]] 
+- [[../../../_public/astro/Star/Zosma.public|Zosma.public]] 
 - [[../../../_internal/astro/Star/Zosma.internal|Zosma.internal]] 
 - [[../../../_protect/astro/Star/Zosma.protect|Zosma.protect]] 
 - [[../../../_private/astro/Star/Zosma.private|Zosma.private]] 

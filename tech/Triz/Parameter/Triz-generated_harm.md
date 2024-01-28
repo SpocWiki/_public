@@ -17,7 +17,8 @@ tags:
 Object-generated harmful factors
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Parameter/Triz-generated_harm.md|Triz-generated_harm]] 
+- [[../../../../_Standards/tech/Triz/Parameter/Triz-generated_harm|Triz-generated_harm]] 
+- [[../../../../_public/tech/Triz/Parameter/Triz-generated_harm.public|Triz-generated_harm.public]] 
 - [[../../../../_internal/tech/Triz/Parameter/Triz-generated_harm.internal|Triz-generated_harm.internal]] 
 - [[../../../../_protect/tech/Triz/Parameter/Triz-generated_harm.protect|Triz-generated_harm.protect]] 
 - [[../../../../_private/tech/Triz/Parameter/Triz-generated_harm.private|Triz-generated_harm.private]] 

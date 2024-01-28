@@ -17,7 +17,8 @@ tags:
 Print during the Return of a Printer Carriage--Dot Matrix Printer, Daisy Wheel Printers, Inkjet Printers.
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Example/Triz-use_both_directions.md|Triz-use_both_directions]] 
+- [[../../../../_Standards/tech/Triz/Example/Triz-use_both_directions|Triz-use_both_directions]] 
+- [[../../../../_public/tech/Triz/Example/Triz-use_both_directions.public|Triz-use_both_directions.public]] 
 - [[../../../../_internal/tech/Triz/Example/Triz-use_both_directions.internal|Triz-use_both_directions.internal]] 
 - [[../../../../_protect/tech/Triz/Example/Triz-use_both_directions.protect|Triz-use_both_directions.protect]] 
 - [[../../../../_private/tech/Triz/Example/Triz-use_both_directions.private|Triz-use_both_directions.private]] 

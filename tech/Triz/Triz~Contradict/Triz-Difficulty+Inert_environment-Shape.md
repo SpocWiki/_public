@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Difficulty+Inert_environment-Shape.md|Triz-Difficulty+Inert_environment-Shape]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Difficulty+Inert_environment-Shape|Triz-Difficulty+Inert_environment-Shape]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Difficulty+Inert_environment-Shape.public|Triz-Difficulty+Inert_environment-Shape.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Difficulty+Inert_environment-Shape.internal|Triz-Difficulty+Inert_environment-Shape.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Difficulty+Inert_environment-Shape.protect|Triz-Difficulty+Inert_environment-Shape.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Difficulty+Inert_environment-Shape.private|Triz-Difficulty+Inert_environment-Shape.private]] 

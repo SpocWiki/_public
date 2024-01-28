@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Stress+Spheroidality-moving_Energy.md|Triz-Stress+Spheroidality-moving_Energy]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Stress+Spheroidality-moving_Energy|Triz-Stress+Spheroidality-moving_Energy]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Stress+Spheroidality-moving_Energy.public|Triz-Stress+Spheroidality-moving_Energy.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Stress+Spheroidality-moving_Energy.internal|Triz-Stress+Spheroidality-moving_Energy.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Stress+Spheroidality-moving_Energy.protect|Triz-Stress+Spheroidality-moving_Energy.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Stress+Spheroidality-moving_Energy.private|Triz-Stress+Spheroidality-moving_Energy.private]] 

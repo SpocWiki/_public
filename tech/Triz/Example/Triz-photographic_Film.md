@@ -17,7 +17,8 @@ tags:
 Magnetic Strip on photographic Film that directs the Developer to compensate for poor Exposure
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Example/Triz-photographic_Film.md|Triz-photographic_Film]] 
+- [[../../../../_Standards/tech/Triz/Example/Triz-photographic_Film|Triz-photographic_Film]] 
+- [[../../../../_public/tech/Triz/Example/Triz-photographic_Film.public|Triz-photographic_Film.public]] 
 - [[../../../../_internal/tech/Triz/Example/Triz-photographic_Film.internal|Triz-photographic_Film.internal]] 
 - [[../../../../_protect/tech/Triz/Example/Triz-photographic_Film.protect|Triz-photographic_Film.protect]] 
 - [[../../../../_private/tech/Triz/Example/Triz-photographic_Film.private|Triz-photographic_Film.private]] 

@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Stress+Phase_transition-moving_Area.md|Triz-Stress+Phase_transition-moving_Area]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Stress+Phase_transition-moving_Area|Triz-Stress+Phase_transition-moving_Area]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Stress+Phase_transition-moving_Area.public|Triz-Stress+Phase_transition-moving_Area.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Stress+Phase_transition-moving_Area.internal|Triz-Stress+Phase_transition-moving_Area.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Stress+Phase_transition-moving_Area.protect|Triz-Stress+Phase_transition-moving_Area.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Stress+Phase_transition-moving_Area.private|Triz-Stress+Phase_transition-moving_Area.private]] 

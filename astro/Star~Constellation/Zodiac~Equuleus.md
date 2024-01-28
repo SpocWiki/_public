@@ -17,7 +17,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../_public/astro/Zodiac/Zodiac~Equuleus.md|Zodiac~Equuleus]] 
+- [[../../../_Standards/astro/Zodiac/Zodiac~Equuleus|Zodiac~Equuleus]] 
+- [[../../../_public/astro/Zodiac/Zodiac~Equuleus.public|Zodiac~Equuleus.public]] 
 - [[../../../_internal/astro/Zodiac/Zodiac~Equuleus.internal|Zodiac~Equuleus.internal]] 
 - [[../../../_protect/astro/Zodiac/Zodiac~Equuleus.protect|Zodiac~Equuleus.protect]] 
 - [[../../../_private/astro/Zodiac/Zodiac~Equuleus.private|Zodiac~Equuleus.private]] 

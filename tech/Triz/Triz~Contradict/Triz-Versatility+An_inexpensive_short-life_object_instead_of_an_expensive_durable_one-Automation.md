@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Versatility+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Automation.md|Triz-Versatility+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Automation]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Versatility+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Automation|Triz-Versatility+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Automation]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Versatility+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Automation.public|Triz-Versatility+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Automation.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Versatility+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Automation.internal|Triz-Versatility+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Automation.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Versatility+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Automation.protect|Triz-Versatility+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Automation.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Versatility+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Automation.private|Triz-Versatility+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Automation.private]] 

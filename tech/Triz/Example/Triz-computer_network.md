@@ -17,7 +17,8 @@ tags:
 Personal computers in a network
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Example/Triz-computer_network.md|Triz-computer_network]] 
+- [[../../../../_Standards/tech/Triz/Example/Triz-computer_network|Triz-computer_network]] 
+- [[../../../../_public/tech/Triz/Example/Triz-computer_network.public|Triz-computer_network.public]] 
 - [[../../../../_internal/tech/Triz/Example/Triz-computer_network.internal|Triz-computer_network.internal]] 
 - [[../../../../_protect/tech/Triz/Example/Triz-computer_network.protect|Triz-computer_network.protect]] 
 - [[../../../../_private/tech/Triz/Example/Triz-computer_network.private|Triz-computer_network.private]] 

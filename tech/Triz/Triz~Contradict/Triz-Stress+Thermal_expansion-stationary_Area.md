@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Stress+Thermal_expansion-stationary_Area.md|Triz-Stress+Thermal_expansion-stationary_Area]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Stress+Thermal_expansion-stationary_Area|Triz-Stress+Thermal_expansion-stationary_Area]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Stress+Thermal_expansion-stationary_Area.public|Triz-Stress+Thermal_expansion-stationary_Area.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Stress+Thermal_expansion-stationary_Area.internal|Triz-Stress+Thermal_expansion-stationary_Area.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Stress+Thermal_expansion-stationary_Area.protect|Triz-Stress+Thermal_expansion-stationary_Area.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Stress+Thermal_expansion-stationary_Area.private|Triz-Stress+Thermal_expansion-stationary_Area.private]] 

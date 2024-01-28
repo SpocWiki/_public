@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Time-Loss+Use_a_pneumatic_or_hydralic_construction-Complexity.md|Triz-Time-Loss+Use_a_pneumatic_or_hydralic_construction-Complexity]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Time-Loss+Use_a_pneumatic_or_hydralic_construction-Complexity|Triz-Time-Loss+Use_a_pneumatic_or_hydralic_construction-Complexity]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Time-Loss+Use_a_pneumatic_or_hydralic_construction-Complexity.public|Triz-Time-Loss+Use_a_pneumatic_or_hydralic_construction-Complexity.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Time-Loss+Use_a_pneumatic_or_hydralic_construction-Complexity.internal|Triz-Time-Loss+Use_a_pneumatic_or_hydralic_construction-Complexity.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Time-Loss+Use_a_pneumatic_or_hydralic_construction-Complexity.protect|Triz-Time-Loss+Use_a_pneumatic_or_hydralic_construction-Complexity.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Time-Loss+Use_a_pneumatic_or_hydralic_construction-Complexity.private|Triz-Time-Loss+Use_a_pneumatic_or_hydralic_construction-Complexity.private]] 

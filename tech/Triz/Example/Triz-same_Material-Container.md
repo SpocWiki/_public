@@ -17,7 +17,8 @@ tags:
 Make the Container out of the same Material as the Contents, to reduce chemical Reactions.
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Example/Triz-same_Material-Container.md|Triz-same_Material-Container]] 
+- [[../../../../_Standards/tech/Triz/Example/Triz-same_Material-Container|Triz-same_Material-Container]] 
+- [[../../../../_public/tech/Triz/Example/Triz-same_Material-Container.public|Triz-same_Material-Container.public]] 
 - [[../../../../_internal/tech/Triz/Example/Triz-same_Material-Container.internal|Triz-same_Material-Container.internal]] 
 - [[../../../../_protect/tech/Triz/Example/Triz-same_Material-Container.protect|Triz-same_Material-Container.protect]] 
 - [[../../../../_private/tech/Triz/Example/Triz-same_Material-Container.private|Triz-same_Material-Container.private]] 

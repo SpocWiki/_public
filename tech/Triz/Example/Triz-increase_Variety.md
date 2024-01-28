@@ -17,7 +17,8 @@ tags:
 Cassette with 6 CD's to increase Music Time and Variety
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Example/Triz-increase_Variety.md|Triz-increase_Variety]] 
+- [[../../../../_Standards/tech/Triz/Example/Triz-increase_Variety|Triz-increase_Variety]] 
+- [[../../../../_public/tech/Triz/Example/Triz-increase_Variety.public|Triz-increase_Variety.public]] 
 - [[../../../../_internal/tech/Triz/Example/Triz-increase_Variety.internal|Triz-increase_Variety.internal]] 
 - [[../../../../_protect/tech/Triz/Example/Triz-increase_Variety.protect|Triz-increase_Variety.protect]] 
 - [[../../../../_private/tech/Triz/Example/Triz-increase_Variety.private|Triz-increase_Variety.private]] 

@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-stationary_Length+Flexible_film_or_thin_membranes-Time-Loss.md|Triz-stationary_Length+Flexible_film_or_thin_membranes-Time-Loss]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-stationary_Length+Flexible_film_or_thin_membranes-Time-Loss|Triz-stationary_Length+Flexible_film_or_thin_membranes-Time-Loss]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-stationary_Length+Flexible_film_or_thin_membranes-Time-Loss.public|Triz-stationary_Length+Flexible_film_or_thin_membranes-Time-Loss.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-stationary_Length+Flexible_film_or_thin_membranes-Time-Loss.internal|Triz-stationary_Length+Flexible_film_or_thin_membranes-Time-Loss.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-stationary_Length+Flexible_film_or_thin_membranes-Time-Loss.protect|Triz-stationary_Length+Flexible_film_or_thin_membranes-Time-Loss.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-stationary_Length+Flexible_film_or_thin_membranes-Time-Loss.private|Triz-stationary_Length+Flexible_film_or_thin_membranes-Time-Loss.private]] 

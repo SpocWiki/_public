@@ -17,7 +17,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../_public/astro/Zodiac/Zodiac~Horologium.md|Zodiac~Horologium]] 
+- [[../../../_Standards/astro/Zodiac/Zodiac~Horologium|Zodiac~Horologium]] 
+- [[../../../_public/astro/Zodiac/Zodiac~Horologium.public|Zodiac~Horologium.public]] 
 - [[../../../_internal/astro/Zodiac/Zodiac~Horologium.internal|Zodiac~Horologium.internal]] 
 - [[../../../_protect/astro/Zodiac/Zodiac~Horologium.protect|Zodiac~Horologium.protect]] 
 - [[../../../_private/astro/Zodiac/Zodiac~Horologium.private|Zodiac~Horologium.private]] 

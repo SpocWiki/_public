@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-stationary_Volume+Extraction-Shape.md|Triz-stationary_Volume+Extraction-Shape]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-stationary_Volume+Extraction-Shape|Triz-stationary_Volume+Extraction-Shape]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-stationary_Volume+Extraction-Shape.public|Triz-stationary_Volume+Extraction-Shape.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-stationary_Volume+Extraction-Shape.internal|Triz-stationary_Volume+Extraction-Shape.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-stationary_Volume+Extraction-Shape.protect|Triz-stationary_Volume+Extraction-Shape.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-stationary_Volume+Extraction-Shape.private|Triz-stationary_Volume+Extraction-Shape.private]] 

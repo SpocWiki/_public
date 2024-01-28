@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Speed+Inversion-Information-Loss.md|Triz-Speed+Inversion-Information-Loss]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Speed+Inversion-Information-Loss|Triz-Speed+Inversion-Information-Loss]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Speed+Inversion-Information-Loss.public|Triz-Speed+Inversion-Information-Loss.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Speed+Inversion-Information-Loss.internal|Triz-Speed+Inversion-Information-Loss.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Speed+Inversion-Information-Loss.protect|Triz-Speed+Inversion-Information-Loss.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Speed+Inversion-Information-Loss.private|Triz-Speed+Inversion-Information-Loss.private]] 

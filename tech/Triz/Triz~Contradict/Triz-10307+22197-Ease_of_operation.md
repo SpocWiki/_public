@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-10307+22197-Ease_of_operation.md|Triz-10307+22197-Ease_of_operation]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-10307+22197-Ease_of_operation|Triz-10307+22197-Ease_of_operation]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-10307+22197-Ease_of_operation.public|Triz-10307+22197-Ease_of_operation.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-10307+22197-Ease_of_operation.internal|Triz-10307+22197-Ease_of_operation.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-10307+22197-Ease_of_operation.protect|Triz-10307+22197-Ease_of_operation.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-10307+22197-Ease_of_operation.private|Triz-10307+22197-Ease_of_operation.private]] 

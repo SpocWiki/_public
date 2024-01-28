@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-10307+22229-Reliability.md|Triz-10307+22229-Reliability]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-10307+22229-Reliability|Triz-10307+22229-Reliability]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-10307+22229-Reliability.public|Triz-10307+22229-Reliability.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-10307+22229-Reliability.internal|Triz-10307+22229-Reliability.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-10307+22229-Reliability.protect|Triz-10307+22229-Reliability.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-10307+22229-Reliability.private|Triz-10307+22229-Reliability.private]] 

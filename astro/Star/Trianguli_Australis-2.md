@@ -27,7 +27,8 @@ confidential: public
 
 
 ## Confidential Links & Embeds: 
-- [[../../../_public/astro/Star/Trianguli_Australis-2.md|Trianguli_Australis-2]] 
+- [[../../../_Standards/astro/Star/Trianguli_Australis-2|Trianguli_Australis-2]] 
+- [[../../../_public/astro/Star/Trianguli_Australis-2.public|Trianguli_Australis-2.public]] 
 - [[../../../_internal/astro/Star/Trianguli_Australis-2.internal|Trianguli_Australis-2.internal]] 
 - [[../../../_protect/astro/Star/Trianguli_Australis-2.protect|Trianguli_Australis-2.protect]] 
 - [[../../../_private/astro/Star/Trianguli_Australis-2.private|Trianguli_Australis-2.private]] 

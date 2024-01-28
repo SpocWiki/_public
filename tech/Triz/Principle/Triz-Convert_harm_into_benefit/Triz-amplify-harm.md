@@ -24,7 +24,8 @@ Amplify a harmful factor to such a degree that it is no longer harmful.
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Sub/Triz-amplify-harm.md|Triz-amplify-harm]] 
+- [[../../../../_Standards/tech/Triz/Sub/Triz-amplify-harm|Triz-amplify-harm]] 
+- [[../../../../_public/tech/Triz/Sub/Triz-amplify-harm.public|Triz-amplify-harm.public]] 
 - [[../../../../_internal/tech/Triz/Sub/Triz-amplify-harm.internal|Triz-amplify-harm.internal]] 
 - [[../../../../_protect/tech/Triz/Sub/Triz-amplify-harm.protect|Triz-amplify-harm.protect]] 
 - [[../../../../_private/tech/Triz/Sub/Triz-amplify-harm.private|Triz-amplify-harm.private]] 

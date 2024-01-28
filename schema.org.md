@@ -9,7 +9,8 @@ type: folder_brief_live
 
 
 ## Confidential Links & Embeds: 
-- [[../_public/schema.org.md|schema.org]] 
+- [[../_Standards/schema.org|schema.org]] 
+- [[../_public/schema.org.public|schema.org.public]] 
 - [[../_internal/schema.org.internal|schema.org.internal]] 
 - [[../_protect/schema.org.protect|schema.org.protect]] 
 - [[../_private/schema.org.private|schema.org.private]] 

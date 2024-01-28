@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Substance-Loss+Use_of_porous_material-Manufacturing_Precision.md|Triz-Substance-Loss+Use_of_porous_material-Manufacturing_Precision]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Substance-Loss+Use_of_porous_material-Manufacturing_Precision|Triz-Substance-Loss+Use_of_porous_material-Manufacturing_Precision]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Substance-Loss+Use_of_porous_material-Manufacturing_Precision.public|Triz-Substance-Loss+Use_of_porous_material-Manufacturing_Precision.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Substance-Loss+Use_of_porous_material-Manufacturing_Precision.internal|Triz-Substance-Loss+Use_of_porous_material-Manufacturing_Precision.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Substance-Loss+Use_of_porous_material-Manufacturing_Precision.protect|Triz-Substance-Loss+Use_of_porous_material-Manufacturing_Precision.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Substance-Loss+Use_of_porous_material-Manufacturing_Precision.private|Triz-Substance-Loss+Use_of_porous_material-Manufacturing_Precision.private]] 

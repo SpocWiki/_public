@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-stationary_Weight+Inversion-Shape.md|Triz-stationary_Weight+Inversion-Shape]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-stationary_Weight+Inversion-Shape|Triz-stationary_Weight+Inversion-Shape]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-stationary_Weight+Inversion-Shape.public|Triz-stationary_Weight+Inversion-Shape.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-stationary_Weight+Inversion-Shape.internal|Triz-stationary_Weight+Inversion-Shape.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-stationary_Weight+Inversion-Shape.protect|Triz-stationary_Weight+Inversion-Shape.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-stationary_Weight+Inversion-Shape.private|Triz-stationary_Weight+Inversion-Shape.private]] 

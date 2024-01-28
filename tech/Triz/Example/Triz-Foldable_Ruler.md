@@ -17,7 +17,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Example/Triz-Foldable_Ruler.md|Triz-Foldable_Ruler]] 
+- [[../../../../_Standards/tech/Triz/Example/Triz-Foldable_Ruler|Triz-Foldable_Ruler]] 
+- [[../../../../_public/tech/Triz/Example/Triz-Foldable_Ruler.public|Triz-Foldable_Ruler.public]] 
 - [[../../../../_internal/tech/Triz/Example/Triz-Foldable_Ruler.internal|Triz-Foldable_Ruler.internal]] 
 - [[../../../../_protect/tech/Triz/Example/Triz-Foldable_Ruler.protect|Triz-Foldable_Ruler.protect]] 
 - [[../../../../_private/tech/Triz/Example/Triz-Foldable_Ruler.private|Triz-Foldable_Ruler.private]] 

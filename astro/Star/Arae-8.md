@@ -27,7 +27,8 @@ confidential: public
 
 
 ## Confidential Links & Embeds: 
-- [[../../../_public/astro/Star/Arae-8.md|Arae-8]] 
+- [[../../../_Standards/astro/Star/Arae-8|Arae-8]] 
+- [[../../../_public/astro/Star/Arae-8.public|Arae-8.public]] 
 - [[../../../_internal/astro/Star/Arae-8.internal|Arae-8.internal]] 
 - [[../../../_protect/astro/Star/Arae-8.protect|Arae-8.protect]] 
 - [[../../../_private/astro/Star/Arae-8.private|Arae-8.private]] 

@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Intensity+Rushing_through-Stability.md|Triz-Intensity+Rushing_through-Stability]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Intensity+Rushing_through-Stability|Triz-Intensity+Rushing_through-Stability]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Intensity+Rushing_through-Stability.public|Triz-Intensity+Rushing_through-Stability.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Intensity+Rushing_through-Stability.internal|Triz-Intensity+Rushing_through-Stability.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Intensity+Rushing_through-Stability.protect|Triz-Intensity+Rushing_through-Stability.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Intensity+Rushing_through-Stability.private|Triz-Intensity+Rushing_through-Stability.private]] 

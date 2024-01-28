@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Complexity+Periodic_action-Power.md|Triz-Complexity+Periodic_action-Power]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Complexity+Periodic_action-Power|Triz-Complexity+Periodic_action-Power]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Complexity+Periodic_action-Power.public|Triz-Complexity+Periodic_action-Power.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Complexity+Periodic_action-Power.internal|Triz-Complexity+Periodic_action-Power.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Complexity+Periodic_action-Power.protect|Triz-Complexity+Periodic_action-Power.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Complexity+Periodic_action-Power.private|Triz-Complexity+Periodic_action-Power.private]] 

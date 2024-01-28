@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-moving_Weight+Use_of_porous_material-moving_Duration.md|Triz-moving_Weight+Use_of_porous_material-moving_Duration]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-moving_Weight+Use_of_porous_material-moving_Duration|Triz-moving_Weight+Use_of_porous_material-moving_Duration]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-moving_Weight+Use_of_porous_material-moving_Duration.public|Triz-moving_Weight+Use_of_porous_material-moving_Duration.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-moving_Weight+Use_of_porous_material-moving_Duration.internal|Triz-moving_Weight+Use_of_porous_material-moving_Duration.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-moving_Weight+Use_of_porous_material-moving_Duration.protect|Triz-moving_Weight+Use_of_porous_material-moving_Duration.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-moving_Weight+Use_of_porous_material-moving_Duration.private|Triz-moving_Weight+Use_of_porous_material-moving_Duration.private]] 

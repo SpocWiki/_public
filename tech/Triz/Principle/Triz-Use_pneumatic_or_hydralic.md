@@ -14,7 +14,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Principle/Triz-Use_a_pneumatic_or_hydralic_construction.md|Triz-Use_a_pneumatic_or_hydralic_construction]] 
+- [[../../../../_Standards/tech/Triz/Principle/Triz-Use_a_pneumatic_or_hydralic_construction|Triz-Use_a_pneumatic_or_hydralic_construction]] 
+- [[../../../../_public/tech/Triz/Principle/Triz-Use_a_pneumatic_or_hydralic_construction.public|Triz-Use_a_pneumatic_or_hydralic_construction.public]] 
 - [[../../../../_internal/tech/Triz/Principle/Triz-Use_a_pneumatic_or_hydralic_construction.internal|Triz-Use_a_pneumatic_or_hydralic_construction.internal]] 
 - [[../../../../_protect/tech/Triz/Principle/Triz-Use_a_pneumatic_or_hydralic_construction.protect|Triz-Use_a_pneumatic_or_hydralic_construction.protect]] 
 - [[../../../../_private/tech/Triz/Principle/Triz-Use_a_pneumatic_or_hydralic_construction.private|Triz-Use_a_pneumatic_or_hydralic_construction.private]] 

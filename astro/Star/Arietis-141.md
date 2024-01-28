@@ -27,7 +27,8 @@ confidential: public
 
 
 ## Confidential Links & Embeds: 
-- [[../../../_public/astro/Star/Arietis-141.md|Arietis-141]] 
+- [[../../../_Standards/astro/Star/Arietis-141|Arietis-141]] 
+- [[../../../_public/astro/Star/Arietis-141.public|Arietis-141.public]] 
 - [[../../../_internal/astro/Star/Arietis-141.internal|Arietis-141.internal]] 
 - [[../../../_protect/astro/Star/Arietis-141.protect|Arietis-141.protect]] 
 - [[../../../_private/astro/Star/Arietis-141.private|Arietis-141.private]] 

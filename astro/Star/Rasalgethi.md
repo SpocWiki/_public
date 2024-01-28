@@ -27,7 +27,8 @@ confidential: public
 
 
 ## Confidential Links & Embeds: 
-- [[../../../_public/astro/Star/Rasalgethi.md|Rasalgethi]] 
+- [[../../../_Standards/astro/Star/Rasalgethi|Rasalgethi]] 
+- [[../../../_public/astro/Star/Rasalgethi.public|Rasalgethi.public]] 
 - [[../../../_internal/astro/Star/Rasalgethi.internal|Rasalgethi.internal]] 
 - [[../../../_protect/astro/Star/Rasalgethi.protect|Rasalgethi.protect]] 
 - [[../../../_private/astro/Star/Rasalgethi.private|Rasalgethi.private]] 

@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Manufacturing_Precision+Mechanical_vibration-Time-Loss.md|Triz-Manufacturing_Precision+Mechanical_vibration-Time-Loss]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Manufacturing_Precision+Mechanical_vibration-Time-Loss|Triz-Manufacturing_Precision+Mechanical_vibration-Time-Loss]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Manufacturing_Precision+Mechanical_vibration-Time-Loss.public|Triz-Manufacturing_Precision+Mechanical_vibration-Time-Loss.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Manufacturing_Precision+Mechanical_vibration-Time-Loss.internal|Triz-Manufacturing_Precision+Mechanical_vibration-Time-Loss.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Manufacturing_Precision+Mechanical_vibration-Time-Loss.protect|Triz-Manufacturing_Precision+Mechanical_vibration-Time-Loss.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Manufacturing_Precision+Mechanical_vibration-Time-Loss.private|Triz-Manufacturing_Precision+Mechanical_vibration-Time-Loss.private]] 

@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Speed+Universality-Stress.md|Triz-Speed+Universality-Stress]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Speed+Universality-Stress|Triz-Speed+Universality-Stress]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Speed+Universality-Stress.public|Triz-Speed+Universality-Stress.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Speed+Universality-Stress.internal|Triz-Speed+Universality-Stress.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Speed+Universality-Stress.protect|Triz-Speed+Universality-Stress.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Speed+Universality-Stress.private|Triz-Speed+Universality-Stress.private]] 

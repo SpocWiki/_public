@@ -19,7 +19,8 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/tech/Triz/Contradict/Triz-Versatility+Transformation_of_physical_and_chemical_states_of_an_object-stationary_Length.md|Triz-Versatility+Transformation_of_physical_and_chemical_states_of_an_object-stationary_Length]] 
+- [[../../../../_Standards/tech/Triz/Contradict/Triz-Versatility+Transformation_of_physical_and_chemical_states_of_an_object-stationary_Length|Triz-Versatility+Transformation_of_physical_and_chemical_states_of_an_object-stationary_Length]] 
+- [[../../../../_public/tech/Triz/Contradict/Triz-Versatility+Transformation_of_physical_and_chemical_states_of_an_object-stationary_Length.public|Triz-Versatility+Transformation_of_physical_and_chemical_states_of_an_object-stationary_Length.public]] 
 - [[../../../../_internal/tech/Triz/Contradict/Triz-Versatility+Transformation_of_physical_and_chemical_states_of_an_object-stationary_Length.internal|Triz-Versatility+Transformation_of_physical_and_chemical_states_of_an_object-stationary_Length.internal]] 
 - [[../../../../_protect/tech/Triz/Contradict/Triz-Versatility+Transformation_of_physical_and_chemical_states_of_an_object-stationary_Length.protect|Triz-Versatility+Transformation_of_physical_and_chemical_states_of_an_object-stationary_Length.protect]] 
 - [[../../../../_private/tech/Triz/Contradict/Triz-Versatility+Transformation_of_physical_and_chemical_states_of_an_object-stationary_Length.private|Triz-Versatility+Transformation_of_physical_and_chemical_states_of_an_object-stationary_Length.private]] 
