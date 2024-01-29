@@ -1,5 +1,5 @@
 ﻿---
-location: [-25.0667,-130.1] 
+location: [-25.0667,-130.1]
 type: Country
 tags:
 - geo/Country
@@ -9,8 +9,8 @@ isDeleted: false
 confidential: public
 
 ---
-[ISO2::PN] 
-[ISO3::PCN] 
+[ISO2::PN]
+[ISO3::PCN]
 ```leaflet
 id: Pitcairn
 zoomFeatures: true 
@@ -20,17 +20,17 @@ geojsonFolder: ./Pitcairn/
 markerFolder: ./Pitcairn/
 ```
 
-[name-en::Pitcairn] 
-[name-de::Pitcairn Inseln] 
-[Area-Total::0] 
-[Area-Land::0] 
+[name-en::Pitcairn]
+[name-de::Pitcairn Inseln]
+[Area-Total::0]
+[Area-Land::0]
 Continent :: [[Oceania]]  
-[VehicleCode::] 
+[VehicleCode::]
 Capital :: [[Adamstown]]  
-[Alcohol-l::] 
-[Language-Id::] 
-[geo-lon::-130.1] 
-[geo-lat::-25.0667] 
+[Alcohol-l::]
+[Language-Id::]
+[geo-lon::-130.1]
+[geo-lat::-25.0667]
 
 
 

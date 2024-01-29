@@ -1,5 +1,5 @@
 ﻿---
-location: [21.3114,-157.796] 
+location: [21.3114,-157.796]
 type: Country
 tags:
 - geo/Country
@@ -9,8 +9,8 @@ isDeleted: false
 confidential: public
 
 ---
-[ISO2::] 
-[ISO3::] 
+[ISO2::]
+[ISO3::]
 ```leaflet
 id: Hawaii
 zoomFeatures: true 
@@ -20,17 +20,17 @@ geojsonFolder: ./Hawaii/
 markerFolder: ./Hawaii/
 ```
 
-[name-en::Hawaii] 
-[name-de::Hawaii] 
-[Area-Total::28.3] 
-[Area-Land::] 
+[name-en::Hawaii]
+[name-de::Hawaii]
+[Area-Total::28.3]
+[Area-Land::]
 Continent :: [[Oceania]]  
-[VehicleCode::] 
+[VehicleCode::]
 Capital :: [[../America~North/United_States_of_America/USA~Pacific/Hawaii/City/Honolulu]]  
-[Alcohol-l::] 
-[Language-Id::] 
-[geo-lon::-157.796] 
-[geo-lat::21.3114] 
+[Alcohol-l::]
+[Language-Id::]
+[geo-lon::-157.796]
+[geo-lat::21.3114]
 
 
 

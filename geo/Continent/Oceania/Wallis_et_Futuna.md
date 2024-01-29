@@ -1,5 +1,5 @@
 ﻿---
-location: [-13.2833,-176.167] 
+location: [-13.2833,-176.167]
 type: Country
 tags:
 - geo/Country
@@ -9,8 +9,8 @@ isDeleted: false
 confidential: public
 
 ---
-[ISO2::WF] 
-[ISO3::WLF] 
+[ISO2::WF]
+[ISO3::WLF]
 ```leaflet
 id: Wallis et Futuna
 zoomFeatures: true 
@@ -20,17 +20,17 @@ geojsonFolder: ./Wallis_et_Futuna/
 markerFolder: ./Wallis_et_Futuna/
 ```
 
-[name-en::Wallis et Futuna] 
-[name-de::Wallis und Futuna Inseln] 
-[Area-Total::0] 
-[Area-Land::0] 
+[name-en::Wallis et Futuna]
+[name-de::Wallis und Futuna Inseln]
+[Area-Total::0]
+[Area-Land::0]
 Continent :: [[Oceania]]  
-[VehicleCode::] 
+[VehicleCode::]
 Capital :: [[Mata-Utu]]  
-[Alcohol-l::] 
-[Language-Id::] 
-[geo-lon::-176.167] 
-[geo-lat::-13.2833] 
+[Alcohol-l::]
+[Language-Id::]
+[geo-lon::-176.167]
+[geo-lat::-13.2833]
 
 
 
