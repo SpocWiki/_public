@@ -9,8 +9,8 @@ isDeleted: false
 confidential: public
 
 ---
-[ISO2::] 
-[ISO3::] 
+[ISO2::]
+[ISO3::]
 ```leaflet
 id: ANTARCTIC FISHERIES
 zoomFeatures: true 
@@ -20,17 +20,17 @@ geojsonFolder: ./ANTARCTIC_FISHERIES/
 markerFolder: ./ANTARCTIC_FISHERIES/
 ```
 
-[name-en::ANTARCTIC FISHERIES] 
-[name-de::Antarktische Fischgebiete] 
-[Area-Total::] 
-[Area-Land::] 
+[name-en::ANTARCTIC FISHERIES]
+[name-de::Antarktische Fischgebiete]
+[Area-Total::]
+[Area-Land::]
 Continent:[[../Antarctica]]  
-[VehicleCode::] 
-[Capital-Id::] 
-[Alcohol-l::] 
-[Language-Id::] 
-[geo-lon::] 
-[geo-lat::] 
+[VehicleCode::]
+[Capital-Id::]
+[Alcohol-l::]
+[Language-Id::]
+[geo-lon::]
+[geo-lat::]
 
 
 
