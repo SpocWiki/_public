@@ -1,5 +1,5 @@
 ---
-location: [10.6667,-61.5167] 
+location: [10.6667,-61.5167]
 type: Country
 tags:
 - geo/Country
@@ -9,8 +9,8 @@ isDeleted: false
 confidential: public
 
 ---
-[ISO2::TT] 
-[ISO3::TTO] 
+[ISO2::TT]
+[ISO3::TTO]
 
 ```leaflet
 id: Trinidad And Tobago
@@ -21,20 +21,20 @@ geojsonFolder: ./Trinidad_and_Tobago~Islands//
 markerFolder: ./Trinidad_and_Tobago~Islands/
 ```
 
-[name-en::Trinidad And Tobago] 
-[name-de::Trinidad und Tobago] 
-[Area-Total::5128] 
-[Area-Land::5130] 
+[name-en::Trinidad And Tobago]
+[name-de::Trinidad und Tobago]
+[Area-Total::5128]
+[Area-Land::5130]
 Continent :: [[South-America]]  
-[VehicleCode::TT] 
+[VehicleCode::TT]
 Capital :: [[Trinidad_and_Tobago~Islands/Counties/Port_of_Spain/City/Port_of_Spain]]  
-![[Coat_of_arms_of_Trinidad-and-tobago.svg|350]] 
-![[Anthem-Trinidad-and-tobago.mp3]] 
-![[Flag_of_Trinidad-and-tobago.svg|350]] 
-[Alcohol-l::6.3] 
-[Language-Id::499] 
-[geo-lon::-61.5167] 
-[geo-lat::10.6667] 
+![[Coat_of_arms_of_Trinidad-and-tobago.svg|350]]
+![[Anthem-Trinidad-and-tobago.mp3]]
+![[Flag_of_Trinidad-and-tobago.svg|350]]
+[Alcohol-l::6.3]
+[Language-Id::499]
+[geo-lon::-61.5167]
+[geo-lat::10.6667]
 
 
 

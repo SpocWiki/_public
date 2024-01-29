@@ -1,5 +1,5 @@
 ---
-location: [17.1167,-61.85] 
+location: [17.1167,-61.85]
 type: Country
 tags:
 - geo/Country
@@ -9,8 +9,8 @@ isDeleted: false
 confidential: public
 
 ---
-[ISO2::AG] 
-[ISO3::ATG] 
+[ISO2::AG]
+[ISO3::ATG]
 
 ```leaflet
 id: Antigua And Barbuda
@@ -21,17 +21,17 @@ geojsonFolder: ./Antigua_and_Barbuda//
 markerFolder: ./Antigua_and_Barbuda/
 ```
 
-[name-en::Antigua And Barbuda] 
-[name-de::Antigua und Barbuda] 
-[Area-Total::441] 
-[Area-Land::440] 
+[name-en::Antigua And Barbuda]
+[name-de::Antigua und Barbuda]
+[Area-Total::441]
+[Area-Land::440]
 Continent :: [[South-America]]  
-[VehicleCode::AG] 
+[VehicleCode::AG]
 Capital :: [[Antigua_and_Barbuda/Counties/Saint_John/City/Saint_John’s]]  
-[Alcohol-l::7.2] 
-[Language-Id::] 
-[geo-lon::-61.85] 
-[geo-lat::17.1167] 
+[Alcohol-l::7.2]
+[Language-Id::]
+[geo-lon::-61.85]
+[geo-lat::17.1167]
 
 
 

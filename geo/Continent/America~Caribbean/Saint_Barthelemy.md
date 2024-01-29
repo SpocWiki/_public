@@ -14,8 +14,8 @@ isDeleted: false
 confidential: public
 
 ---
-[ISO2::] 
-[ISO3::] 
+[ISO2::]
+[ISO3::]
 
 ```leaflet
 id: Saint Barthélemy
@@ -26,17 +26,17 @@ geojsonFolder: ./Saint_Barthelemy/
 markerFolder: ./Saint_Barthelemy/
 ```
 
-[name-en::Saint Barthélemy] 
-[name-de::St. Barts] 
-[Area-Total::] 
-[Area-Land::] 
+[name-en::Saint Barthélemy]
+[name-de::St. Barts]
+[Area-Total::]
+[Area-Land::]
 Continent :: [[South-America]]  
-[VehicleCode::] 
-[Capital-Id::] 
-[Alcohol-l::] 
-[Language-Id::] 
-[geo-lon::] 
-[geo-lat::] 
+[VehicleCode::]
+[Capital-Id::]
+[Alcohol-l::]
+[Language-Id::]
+[geo-lon::]
+[geo-lat::]
 
 
 

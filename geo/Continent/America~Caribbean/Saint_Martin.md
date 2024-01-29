@@ -10,10 +10,10 @@ isDeleted: false
 confidential: public
 
 ---
-[ISO2::] 
-[ISO3::] 
+[ISO2::]
+[ISO3::]
 
-Northern of [[Sint_Maarten|Sint Maarten]] 
+Northern of [[Sint_Maarten|Sint Maarten]]
 
 ```leaflet
 id: Saint Martin
@@ -24,17 +24,17 @@ geojsonFolder: ./Saint_Martin/
 markerFolder: ./Saint_Martin/
 ```
 
-[name-en::Saint Martin] 
-[name-de::St. Martin (Insel)] 
-[Area-Total::] 
-[Area-Land::] 
+[name-en::Saint Martin]
+[name-de::St. Martin (Insel)]
+[Area-Total::]
+[Area-Land::]
 Continent :: [[South-America]]  
-[VehicleCode::] 
-[Capital-Id::] 
-[Alcohol-l::] 
-[Language-Id::] 
-[geo-lon::] 
-[geo-lat::] 
+[VehicleCode::]
+[Capital-Id::]
+[Alcohol-l::]
+[Language-Id::]
+[geo-lon::]
+[geo-lat::]
 
 
 
