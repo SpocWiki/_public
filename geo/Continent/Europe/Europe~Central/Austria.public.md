@@ -120,7 +120,7 @@ markerFolder: ./Austria///
 [Area-Land::82730] 
 Continent :: [[Europe]]  
 [VehicleCode::A] 
-Capital :: [[Wien=Vienna]]  
+Capital :: [[../../../../../_Standards/geo/Continent/Europe/Europe~Central/Austria/State/State~Wien/Wien-city]]  
 
 
 ![[Coat_of_arms_of_Austria.svg|350]] 
