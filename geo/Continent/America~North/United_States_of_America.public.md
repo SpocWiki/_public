@@ -21,24 +21,24 @@ id: United States of America
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18
-geojsonFolder: ./United_States_of_America//
-markerFolder: ./United_States_of_America/
+geojsonFolder: ./USA//
+markerFolder: ./USA/
 ```
 
 [name-en::United States of America] 
 [name-de::Vereinigte Staaten von Amerika] 
 
-![[United_States_of_America/Coat_of_Arms_of_the_United_States_(obverse).svg|350]] 
+![[USA/Coat_of_Arms_of_the_United_States_(obverse).svg|350]] 
 
 ![[Anthem-United-states.mp3]] 
 
-![[United_States_of_America/Flag_of_the_United_States.svg|350]] 
+![[USA/Flag_of_the_United_States.svg|350]] 
 
 [Area-Total::9809155] 
 [Area-Land::9573110] 
 Continent :: [[North-America]]  
 [VehicleCode::USA] 
-Capital :: [[United_States_of_America/USA~Eastern/District_of_Columbia/City/Washington~City]]  
+Capital :: [[USA/USA~Eastern/District_of_Columbia/City/Washington~City]]  
 [Alcohol-l::9.4] 
 [Language-Id::499] 
 [geo-lon::-94.8153] 
@@ -47,9 +47,9 @@ Capital :: [[United_States_of_America/USA~Eastern/District_of_Columbia/City/Wash
 
 
 ## Confidential Links & Embeds: 
-- [[United_States_of_America|United_States_of_America]] 
-- [[../../../../_internal/geo/Continent/America~North/United_States_of_America.internal|United_States_of_America.internal]] 
-- [[../../../../_protect/geo/Continent/America~North/United_States_of_America.protect|United_States_of_America.protect]] 
-- [[../../../../_private/geo/Continent/America~North/United_States_of_America.private|United_States_of_America.private]] 
-- [[../../../../_personal/geo/Continent/America~North/United_States_of_America.personal|United_States_of_America.personal]] 
-- [[../../../../_secret/geo/Continent/America~North/United_States_of_America.secret|United_States_of_America.secret]] 
+- [[USA|USA]] 
+- [[../../../../_internal/geo/Continent/America~North/USA.internal|USA.internal]] 
+- [[../../../../_protect/geo/Continent/America~North/USA.protect|USA.protect]] 
+- [[../../../../_private/geo/Continent/America~North/USA.private|USA.private]] 
+- [[../../../../_personal/geo/Continent/America~North/USA.personal|USA.personal]] 
+- [[../../../../_secret/geo/Continent/America~North/USA.secret|USA.secret]] 
