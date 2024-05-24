@@ -4,18 +4,19 @@ aliases:
 ---
 
 
-> The Solar System is the gravitationally bound system of the Sun and the objects that orbit it. 
+> The Solar System is the gravitationally bound system of the [[Sun]] and the objects that orbit it. 
 > It was formed 4.6 billion years ago when a dense region of a molecular cloud collapsed, 
 > forming the Sun and a protoplanetary disc. 
 > 
 > The Sun is an ordinary main sequence star that maintains a balanced equilibrium 
 > by the fusion of hydrogen into helium at its core, releasing this energy from its outer photosphere. 
 >
-> The largest objects that orbit the Sun are the eight planets. 
-> In order from the [[Sun]], they are 
-> - four terrestrial planets ([[Mercury]], [[Venus]], [[../../_Standards/Earth|Earth]] and [[Mars]]); 
-> - two gas giants ([[Jupiter]] and [[Saturn]]); 
->  - and two ice giants ([[Uranus]] and [[Neptune]]). 
+> The largest objects that orbit the [[Sun]] are the eight planets. 
+> In order from the [[Solar_System/Sun]], they are 
+> - four terrestrial planets ([[Solar_System/Mercury,Planet]], [[Solar_System/Venus]], [[../../_Standards/Earth|Earth]] and [[Solar_System/Mars]]); 
+> - two gas giants ([[Solar_System/Jupiter]] and [[Solar_System/Saturn]]); 
+>  - and two ice giants ([[Solar_System/Uranus]] and [[Solar_System/Neptune]]). 
+>  - [[Pluto]] is not considered to be a planet anymore. 
 > 
 > All terrestrial planets have solid surfaces. 
 > Inversely, all giant planets do not have a definite surface, as they are mainly composed of gases and liquids. 
