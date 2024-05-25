@@ -161,6 +161,7 @@ config:
   show_metadata_created: false
   show_metadata_modified: true
   show_metadata_tasks: false
+  show_metadata_tags: false
   show_metadata_inlinks: false
   show_metadata_outlinks: false
   source_data: current_folder
