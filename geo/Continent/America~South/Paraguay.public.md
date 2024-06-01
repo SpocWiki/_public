@@ -21,8 +21,6 @@ draft: false
 publishDate: 
 expiryDate: 
 aliases:
-- PY
-- PRY
 - Paraguay
 - باراغواي
 - 巴拉圭

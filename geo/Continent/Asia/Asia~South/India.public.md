@@ -21,8 +21,6 @@ draft: false
 publishDate: 
 expiryDate: 
 aliases:
-- IN
-- IND
 - India
 - Inde
 - الهند

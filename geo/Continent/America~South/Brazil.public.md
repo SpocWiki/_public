@@ -21,8 +21,6 @@ draft: false
 publishDate: 
 expiryDate: 
 aliases:
-- BR
-- BRA
 - Brazil
 - Brasil
 - Brésil

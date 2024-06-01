@@ -21,8 +21,6 @@ draft: false
 publishDate: 
 expiryDate: 
 aliases:
-- ER
-- ERI
 - Eritrea
 - Érythrée
 - إريتريا

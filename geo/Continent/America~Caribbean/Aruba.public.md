@@ -21,8 +21,6 @@ draft: false
 publishDate: 
 expiryDate: 
 aliases:
-- AW
-- ABW
 - Aruba
 - أروبا
 - 阿鲁巴

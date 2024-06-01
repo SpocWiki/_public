@@ -25,8 +25,6 @@ tags:
 - geo/Country
 
 aliases:
-- SS
-- SSD
 - South Sudan
 - South Sudan
 - Sudán del Sur

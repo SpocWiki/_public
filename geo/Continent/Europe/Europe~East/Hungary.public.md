@@ -21,8 +21,6 @@ draft: false
 publishDate: 
 expiryDate: 
 aliases:
-- HU
-- HUN
 - Hungary
 - Hungría
 - Hongrie

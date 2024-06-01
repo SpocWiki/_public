@@ -21,8 +21,6 @@ draft: false
 publishDate: 
 expiryDate: 
 aliases:
-- SV
-- SLV
 - El Salvador
 - السلفادور
 - 萨尔瓦多

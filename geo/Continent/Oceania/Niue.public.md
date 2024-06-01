@@ -21,8 +21,6 @@ draft: false
 publishDate: 
 expiryDate: 
 aliases:
-- NU
-- NIU
 - Niue
 - Nioué
 - نيوي

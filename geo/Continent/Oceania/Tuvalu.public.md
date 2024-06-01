@@ -21,8 +21,6 @@ draft: false
 publishDate: 
 expiryDate: 
 aliases:
-- TV
-- TUV
 - Tuvalu
 - توفالو
 - 图瓦卢

@@ -21,8 +21,6 @@ draft: false
 publishDate: 
 expiryDate: 
 aliases:
-- DZ
-- DZA
 - Algeria
 - Argelia
 - Algérie

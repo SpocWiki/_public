@@ -26,8 +26,6 @@ tags:
 - geo/Country
 
 aliases:
-- CW
-- CUW
 - Curaçao
 - Curaçao
 - Curaçao

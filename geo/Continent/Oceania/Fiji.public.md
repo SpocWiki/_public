@@ -21,8 +21,6 @@ draft: false
 publishDate: 
 expiryDate: 
 aliases:
-- FJ
-- FJI
 - Fiji
 - Fidji
 - فيجي

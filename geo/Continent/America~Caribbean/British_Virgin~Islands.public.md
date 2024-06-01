@@ -21,8 +21,6 @@ draft: false
 publishDate: 
 expiryDate: 
 aliases:
-- VG
-- VGB
 - British Virgin Islands
 - Islas Vírgenes Británicas
 - Îles Vierges britanniques

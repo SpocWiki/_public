@@ -21,8 +21,6 @@ draft: false
 publishDate: 
 expiryDate: 
 aliases:
-- GF
-- GUF
 - French Guiana
 - Guayana Francesa
 - Guyane française

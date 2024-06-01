@@ -21,8 +21,6 @@ draft: false
 publishDate: 
 expiryDate: 
 aliases:
-- NG
-- NGA
 - Nigeria
 - Nigéria
 - نيجيريا

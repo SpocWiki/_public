@@ -21,8 +21,6 @@ draft: false
 publishDate: 
 expiryDate: 
 aliases:
-- PR
-- PRI
 - Puerto Rico
 - Porto Rico
 - بورتوريكو

@@ -21,8 +21,6 @@ draft: false
 publishDate: 
 expiryDate: 
 aliases:
-- MM
-- MMR
 - Myanmar
 - ميانمار
 - 缅甸

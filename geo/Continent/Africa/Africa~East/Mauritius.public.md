@@ -21,8 +21,6 @@ draft: false
 publishDate: 
 expiryDate: 
 aliases:
-- MU
-- MUS
 - Mauritius
 - Mauricio
 - Maurice

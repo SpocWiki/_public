@@ -21,8 +21,6 @@ draft: false
 publishDate: 
 expiryDate: 
 aliases:
-- SE
-- SWE
 - Sweden
 - Suecia
 - Suède

@@ -21,8 +21,6 @@ draft: false
 publishDate: 
 expiryDate: 
 aliases:
-- MW
-- MWI
 - Malawi
 - ملاوي
 - 马拉维

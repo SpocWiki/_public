@@ -19,8 +19,6 @@ draft: false
 publishDate: 
 expiryDate: 
 aliases:
-- AQ
-- ATA
 - Antarctica
 - Antártida
 - Antarctique

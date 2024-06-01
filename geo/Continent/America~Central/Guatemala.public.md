@@ -21,8 +21,6 @@ draft: false
 publishDate: 
 expiryDate: 
 aliases:
-- GT
-- GTM
 - Guatemala
 - غواتيمالا
 - 危地马拉

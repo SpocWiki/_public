@@ -21,8 +21,6 @@ draft: false
 publishDate: 
 expiryDate: 
 aliases:
-- KH
-- KHM
 - Cambodia
 - Camboya
 - Cambodge

@@ -21,8 +21,6 @@ draft: false
 publishDate: 
 expiryDate: 
 aliases:
-- NF
-- NFK
 - Norfolk Island
 - Islas Norfolk
 - Île Norfolk

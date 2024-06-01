@@ -21,8 +21,6 @@ draft: false
 publishDate: 
 expiryDate: 
 aliases:
-- KW
-- KWT
 - Kuwait
 - Koweït
 - الكويت

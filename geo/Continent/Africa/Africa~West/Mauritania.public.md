@@ -21,8 +21,6 @@ draft: false
 publishDate: 
 expiryDate: 
 aliases:
-- MR
-- MRT
 - Mauritania
 - Mauritanie
 - موريتانيا

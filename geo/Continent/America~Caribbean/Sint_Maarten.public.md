@@ -26,8 +26,6 @@ tags:
 - geo/Country
 
 aliases:
-- SX
-- SXM
 - Sint Maarten
 - Sint Maarten (Dutch part)
 - San Martín (parte holandés)

@@ -21,8 +21,6 @@ draft: false
 publishDate: 
 expiryDate: 
 aliases:
-- SA
-- SAU
 - Saudi Arabia
 - Arabia Saudita
 - Arabie saoudite

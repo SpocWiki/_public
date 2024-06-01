@@ -21,8 +21,6 @@ draft: false
 publishDate: 
 expiryDate: 
 aliases:
-- SO
-- SOM
 - Somalia
 - Somalie
 - الصومال

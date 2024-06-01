@@ -21,8 +21,6 @@ draft: false
 publishDate: 
 expiryDate: 
 aliases:
-- BS
-- BHS
 - Bahamas
 - جزر البهاما
 - 巴哈马

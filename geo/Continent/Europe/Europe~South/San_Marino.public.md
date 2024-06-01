@@ -21,8 +21,6 @@ draft: false
 publishDate: 
 expiryDate: 
 aliases:
-- SM
-- SMR
 - San Marino
 - Saint-Marin
 - سان مارينو

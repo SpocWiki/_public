@@ -21,8 +21,6 @@ draft: false
 publishDate: 
 expiryDate: 
 aliases:
-- DK
-- DNK
 - Denmark
 - Dinamarca
 - Danemark

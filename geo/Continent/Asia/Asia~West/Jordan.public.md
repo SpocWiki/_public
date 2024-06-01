@@ -21,8 +21,6 @@ draft: false
 publishDate: 
 expiryDate: 
 aliases:
-- JO
-- JOR
 - Jordan
 - Jordania
 - Jordanie

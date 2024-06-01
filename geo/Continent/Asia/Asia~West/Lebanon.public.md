@@ -21,8 +21,6 @@ draft: false
 publishDate: 
 expiryDate: 
 aliases:
-- LB
-- LBN
 - Lebanon
 - Líbano
 - Liban

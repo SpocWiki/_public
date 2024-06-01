@@ -21,8 +21,6 @@ draft: false
 publishDate: 
 expiryDate: 
 aliases:
-- QA
-- QAT
 - Qatar
 - قطر
 - 卡塔尔

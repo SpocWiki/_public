@@ -21,8 +21,6 @@ draft: false
 publishDate: 
 expiryDate: 
 aliases:
-- PL
-- POL
 - Poland
 - Polonia
 - Pologne

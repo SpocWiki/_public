@@ -21,8 +21,6 @@ draft: false
 publishDate: 
 expiryDate: 
 aliases:
-- BO
-- BOL
 - Bolivia
 - Bolivia (Plurinational State of)
 - Bolivia (Estado Plurinacional de)

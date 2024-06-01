@@ -21,8 +21,6 @@ draft: false
 publishDate: 
 expiryDate: 
 aliases:
-- MC
-- MCO
 - Monaco
 - Mónaco
 - موناكو

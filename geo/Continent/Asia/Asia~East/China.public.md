@@ -21,8 +21,6 @@ draft: false
 publishDate: 
 expiryDate: 
 aliases:
-- CN
-- CHN
 - China
 - Chine
 - الصين

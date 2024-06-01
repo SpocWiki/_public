@@ -21,8 +21,6 @@ draft: false
 publishDate: 
 expiryDate: 
 aliases:
-- MS
-- MSR
 - Montserrat
 - مونتسيرات
 - 蒙特塞拉特

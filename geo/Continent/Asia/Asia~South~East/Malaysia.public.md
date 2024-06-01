@@ -21,8 +21,6 @@ draft: false
 publishDate: 
 expiryDate: 
 aliases:
-- MY
-- MYS
 - Malaysia
 - Malasia
 - Malaisie

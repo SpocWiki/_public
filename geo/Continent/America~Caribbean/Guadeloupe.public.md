@@ -21,8 +21,6 @@ draft: false
 publishDate: 
 expiryDate: 
 aliases:
-- GP
-- GLP
 - Guadeloupe
 - Guadalupe
 - غواديلوب

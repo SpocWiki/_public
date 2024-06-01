@@ -21,8 +21,6 @@ draft: false
 publishDate: 
 expiryDate: 
 aliases:
-- ME
-- MNE
 - Montenegro
 - Monténégro
 - الجبل الأسود

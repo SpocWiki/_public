@@ -21,8 +21,6 @@ draft: false
 publishDate: 
 expiryDate: 
 aliases:
-- NZ
-- NZL
 - New Zealand
 - Nueva Zelandia
 - Nouvelle-Zélande

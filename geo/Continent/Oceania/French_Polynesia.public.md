@@ -21,8 +21,6 @@ draft: false
 publishDate: 
 expiryDate: 
 aliases:
-- PF
-- PYF
 - French Polynesia
 - Polinesia Francesa
 - Polynésie française

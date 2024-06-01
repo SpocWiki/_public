@@ -21,8 +21,6 @@ draft: false
 publishDate: 
 expiryDate: 
 aliases:
-- SK
-- SVK
 - Slovakia
 - Eslovaquia
 - Slovaquie

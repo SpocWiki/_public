@@ -21,8 +21,6 @@ draft: false
 publishDate: 
 expiryDate: 
 aliases:
-- ET
-- ETH
 - Ethiopia
 - Etiopía
 - Éthiopie

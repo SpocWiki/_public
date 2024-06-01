@@ -21,8 +21,6 @@ draft: false
 publishDate: 
 expiryDate: 
 aliases:
-- TO
-- TON
 - Tonga
 - تونغا
 - 汤加

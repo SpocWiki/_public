@@ -21,8 +21,6 @@ draft: false
 publishDate: 
 expiryDate: 
 aliases:
-- AS
-- ASM
 - American Samoa
 - Samoa Americana
 - Samoa américaines

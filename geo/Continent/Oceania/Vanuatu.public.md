@@ -21,8 +21,6 @@ draft: false
 publishDate: 
 expiryDate: 
 aliases:
-- VU
-- VUT
 - Vanuatu
 - فانواتو
 - 瓦努阿图

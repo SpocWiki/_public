@@ -21,8 +21,6 @@ draft: false
 publishDate: 
 expiryDate: 
 aliases:
-- NP
-- NPL
 - Nepal
 - Népal
 - نيبال

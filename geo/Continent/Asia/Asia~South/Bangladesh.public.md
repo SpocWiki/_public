@@ -21,8 +21,6 @@ draft: false
 publishDate: 
 expiryDate: 
 aliases:
-- BD
-- BGD
 - Bangladesh
 - بنغلاديش
 - 孟加拉国

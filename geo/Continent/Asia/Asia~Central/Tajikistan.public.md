@@ -21,8 +21,6 @@ draft: false
 publishDate: 
 expiryDate: 
 aliases:
-- TJ
-- TJK
 - Tajikistan
 - Tayikistán
 - Tadjikistan

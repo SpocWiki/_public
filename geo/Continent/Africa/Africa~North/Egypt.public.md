@@ -21,8 +21,6 @@ draft: false
 publishDate: 
 expiryDate: 
 aliases:
-- EG
-- EGY
 - Egypt
 - Egipto
 - Égypte

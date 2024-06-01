@@ -21,8 +21,6 @@ draft: false
 publishDate: 
 expiryDate: 
 aliases:
-- LK
-- LKA
 - Sri Lanka
 - سري لانكا
 - 斯里兰卡

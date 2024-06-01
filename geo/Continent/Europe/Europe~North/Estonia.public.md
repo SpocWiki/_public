@@ -21,8 +21,6 @@ draft: false
 publishDate: 
 expiryDate: 
 aliases:
-- EE
-- EST
 - Estonia
 - Estonie
 - إستونيا

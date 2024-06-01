@@ -21,8 +21,6 @@ draft: false
 publishDate: 
 expiryDate: 
 aliases:
-- BQ
-- BES
 - Caribbean Netherlands
 - Bonaire, Sint Eustatius and Saba
 - Bonaire, San Eustaquio y Saba

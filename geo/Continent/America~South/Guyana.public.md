@@ -21,8 +21,6 @@ draft: false
 publishDate: 
 expiryDate: 
 aliases:
-- GY
-- GUY
 - Guyana
 - غيانا
 - 圭亚那

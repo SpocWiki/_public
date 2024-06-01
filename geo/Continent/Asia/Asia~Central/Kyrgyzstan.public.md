@@ -21,8 +21,6 @@ draft: false
 publishDate: 
 expiryDate: 
 aliases:
-- KG
-- KGZ
 - Kyrgyzstan
 - Kirguistán
 - Kirghizistan

@@ -21,8 +21,6 @@ draft: false
 publishDate: 
 expiryDate: 
 aliases:
-- OM
-- OMN
 - Oman
 - Omán
 - عمان

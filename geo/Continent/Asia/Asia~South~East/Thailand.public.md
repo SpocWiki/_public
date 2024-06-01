@@ -21,8 +21,6 @@ draft: false
 publishDate: 
 expiryDate: 
 aliases:
-- TH
-- THA
 - Thailand
 - Tailandia
 - Thaïlande

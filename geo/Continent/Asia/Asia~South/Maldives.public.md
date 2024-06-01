@@ -21,8 +21,6 @@ draft: false
 publishDate: 
 expiryDate: 
 aliases:
-- MV
-- MDV
 - Maldives
 - Maldivas
 - ملديف

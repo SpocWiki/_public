@@ -20,8 +20,6 @@ draft: false
 publishDate: 
 expiryDate: 
 aliases:
-- CY
-- CYP
 - Cyprus
 - Chipre
 - Chypre

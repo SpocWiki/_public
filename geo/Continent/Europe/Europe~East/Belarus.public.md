@@ -21,8 +21,6 @@ draft: false
 publishDate: 
 expiryDate: 
 aliases:
-- BY
-- BLR
 - Belarus
 - Belarús
 - Bélarus

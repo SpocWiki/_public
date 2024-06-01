@@ -21,8 +21,6 @@ draft: false
 publishDate: 
 expiryDate: 
 aliases:
-- CK
-- COK
 - Cook Islands
 - Islas Cook
 - Îles Cook

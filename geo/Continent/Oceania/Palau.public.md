@@ -21,8 +21,6 @@ draft: false
 publishDate: 
 expiryDate: 
 aliases:
-- PW
-- PLW
 - Palau
 - Palaos
 - بالاو

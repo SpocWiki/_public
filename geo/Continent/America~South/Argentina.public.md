@@ -21,8 +21,6 @@ draft: false
 publishDate: 
 expiryDate: 
 aliases:
-- AR
-- ARG
 - Argentina
 - Argentine
 - الأرجنتين

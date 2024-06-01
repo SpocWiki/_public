@@ -21,8 +21,6 @@ draft: false
 publishDate: 
 expiryDate: 
 aliases:
-- ZW
-- ZWE
 - Zimbabwe
 - زمبابوي
 - 津巴布韦

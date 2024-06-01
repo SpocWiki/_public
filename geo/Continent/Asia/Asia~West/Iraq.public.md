@@ -21,8 +21,6 @@ draft: false
 publishDate: 
 expiryDate: 
 aliases:
-- IQ
-- IRQ
 - Iraq
 - العراق
 - 伊拉克

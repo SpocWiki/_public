@@ -21,8 +21,6 @@ draft: false
 publishDate: 
 expiryDate: 
 aliases:
-- VN
-- VNM
 - Vietnam
 - Viet Nam
 - فييت نام

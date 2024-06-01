@@ -20,8 +20,6 @@ draft: false
 publishDate: 
 expiryDate: 
 aliases:
-- BG
-- BGR
 - Bulgaria
 - Bulgarie
 - بلغاريا

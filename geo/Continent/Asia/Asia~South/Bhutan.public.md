@@ -21,8 +21,6 @@ draft: false
 publishDate: 
 expiryDate: 
 aliases:
-- BT
-- BTN
 - Bhutan
 - Bhután
 - Bhoutan

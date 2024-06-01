@@ -20,8 +20,6 @@ draft: false
 publishDate: 
 expiryDate: 
 aliases:
-- BE
-- BEL
 - Belgium
 - Bélgica
 - Belgique

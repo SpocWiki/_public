@@ -21,8 +21,6 @@ draft: false
 publishDate: 
 expiryDate: 
 aliases:
-- SG
-- SGP
 - Singapore
 - Singapur
 - Singapour

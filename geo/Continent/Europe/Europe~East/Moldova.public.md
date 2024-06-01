@@ -21,8 +21,6 @@ draft: false
 publishDate: 
 expiryDate: 
 aliases:
-- MD
-- MDA
 - Moldova
 - Republic of Moldova
 - República de Moldova

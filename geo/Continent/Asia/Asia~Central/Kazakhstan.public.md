@@ -21,8 +21,6 @@ draft: false
 publishDate: 
 expiryDate: 
 aliases:
-- KZ
-- KAZ
 - Kazakhstan
 - Kazajstán
 - كازاخستان

@@ -21,8 +21,6 @@ draft: false
 publishDate: 
 expiryDate: 
 aliases:
-- BM
-- BMU
 - Bermuda
 - Bermudes
 - برمودا

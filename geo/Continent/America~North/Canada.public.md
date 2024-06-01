@@ -21,8 +21,6 @@ draft: false
 publishDate: 
 expiryDate: 
 aliases:
-- CA
-- CAN
 - Canada
 - Canadá
 - كندا

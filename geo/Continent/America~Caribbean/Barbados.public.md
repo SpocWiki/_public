@@ -21,8 +21,6 @@ draft: false
 publishDate: 
 expiryDate: 
 aliases:
-- BB
-- BRB
 - Barbados
 - Barbade
 - بربادوس

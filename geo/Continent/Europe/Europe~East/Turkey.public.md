@@ -21,8 +21,6 @@ draft: false
 publishDate: 
 expiryDate: 
 aliases:
-- TR
-- TUR
 - Turkey
 - Turquía
 - Turquie

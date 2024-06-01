@@ -21,8 +21,6 @@ draft: false
 publishDate: 
 expiryDate: 
 aliases:
-- BZ
-- BLZ
 - Belize
 - Belice
 - بليز

@@ -21,8 +21,6 @@ draft: false
 publishDate: 
 expiryDate: 
 aliases:
-- HT
-- HTI
 - Haiti
 - Haití
 - Haïti

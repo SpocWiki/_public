@@ -21,8 +21,6 @@ draft: false
 publishDate: 
 expiryDate: 
 aliases:
-- SI
-- SVN
 - Slovenia
 - Eslovenia
 - Slovénie

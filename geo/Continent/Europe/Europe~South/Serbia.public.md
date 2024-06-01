@@ -21,8 +21,6 @@ draft: false
 publishDate: 
 expiryDate: 
 aliases:
-- RS
-- SRB
 - Serbia
 - Serbie
 - صربيا

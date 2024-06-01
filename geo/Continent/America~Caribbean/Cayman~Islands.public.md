@@ -21,8 +21,6 @@ draft: false
 publishDate: 
 expiryDate: 
 aliases:
-- KY
-- CYM
 - Cayman Islands
 - Islas Caimán
 - Îles Caïmanes

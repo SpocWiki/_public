@@ -18,8 +18,6 @@ draft: false
 publishDate: 
 expiryDate: 
 aliases:
-- TF
-- ATF
 - French Southern Territories
 - Territorio de las Tierras Australes Francesas
 - Terres australes françaises

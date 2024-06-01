@@ -21,8 +21,6 @@ draft: false
 publishDate: 
 expiryDate: 
 aliases:
-- IE
-- IRL
 - Ireland
 - Irlanda
 - Irlande

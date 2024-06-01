@@ -21,8 +21,6 @@ draft: false
 publishDate: 
 expiryDate: 
 aliases:
-- GR
-- GRC
 - Greece
 - Grecia
 - Grèce

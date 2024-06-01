@@ -21,8 +21,6 @@ draft: false
 publishDate: 
 expiryDate: 
 aliases:
-- RO
-- ROU
 - Romania
 - Rumania
 - Roumanie

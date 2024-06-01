@@ -21,8 +21,6 @@ draft: false
 publishDate: 
 expiryDate: 
 aliases:
-- VE
-- VEN
 - Venezuela
 - Venezuela (Bolivarian Republic of)
 - Venezuela (República Bolivariana de)

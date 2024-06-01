@@ -20,8 +20,6 @@ draft: false
 publishDate: 
 expiryDate: 
 aliases:
-- HR
-- HRV
 - Croatia
 - Croacia
 - Croatie

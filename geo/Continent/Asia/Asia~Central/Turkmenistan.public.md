@@ -21,8 +21,6 @@ draft: false
 publishDate: 
 expiryDate: 
 aliases:
-- TM
-- TKM
 - Turkmenistan
 - Turkmenistán
 - Turkménistan

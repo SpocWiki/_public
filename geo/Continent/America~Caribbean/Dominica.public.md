@@ -21,8 +21,6 @@ draft: false
 publishDate: 
 expiryDate: 
 aliases:
-- DM
-- DMA
 - Dominica
 - Dominique
 - دومينيكا

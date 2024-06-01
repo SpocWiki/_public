@@ -21,8 +21,6 @@ draft: false
 publishDate: 
 expiryDate: 
 aliases:
-- IS
-- ISL
 - Iceland
 - Islandia
 - Islande

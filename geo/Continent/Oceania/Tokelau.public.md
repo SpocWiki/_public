@@ -21,8 +21,6 @@ draft: false
 publishDate: 
 expiryDate: 
 aliases:
-- TK
-- TKL
 - Tokelau
 - Tokélaou
 - توكيلاو

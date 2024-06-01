@@ -21,8 +21,6 @@ draft: false
 publishDate: 
 expiryDate: 
 aliases:
-- CL
-- CHL
 - Chile
 - Chili
 - شيلي

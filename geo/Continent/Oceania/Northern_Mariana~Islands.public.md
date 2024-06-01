@@ -21,8 +21,6 @@ draft: false
 publishDate: 
 expiryDate: 
 aliases:
-- MP
-- MNP
 - Northern Mariana Islands
 - Islas Marianas Septentrionales
 - Îles Mariannes du Nord

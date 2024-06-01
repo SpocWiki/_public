@@ -21,8 +21,6 @@ draft: false
 publishDate: 
 expiryDate: 
 aliases:
-- NR
-- NRU
 - Nauru
 - ناورو
 - 瑙鲁

@@ -21,8 +21,6 @@ draft: false
 publishDate: 
 expiryDate: 
 aliases:
-- UY
-- URY
 - Uruguay
 - أوروغواي
 - 乌拉圭

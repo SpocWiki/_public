@@ -21,8 +21,6 @@ draft: false
 publishDate: 
 expiryDate: 
 aliases:
-- CO
-- COL
 - Colombia
 - Colombie
 - كولومبيا

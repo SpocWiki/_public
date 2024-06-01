@@ -21,8 +21,6 @@ draft: false
 publishDate: 
 expiryDate: 
 aliases:
-- CX
-- CXR
 - Christmas Island
 - Isla de Navidad
 - Île Christmas

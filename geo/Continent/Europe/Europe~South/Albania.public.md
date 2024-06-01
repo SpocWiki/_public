@@ -21,8 +21,6 @@ draft: false
 publishDate: 
 expiryDate: 
 aliases:
-- AL
-- ALB
 - Albania
 - Albanie
 - ألبانيا

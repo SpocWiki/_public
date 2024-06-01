@@ -21,8 +21,6 @@ draft: false
 publishDate: 
 expiryDate: 
 aliases:
-- TL
-- TLS
 - Timor-Leste
 - تيمور- ليشتي
 - 东帝汶

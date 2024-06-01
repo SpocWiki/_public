@@ -21,8 +21,6 @@ draft: false
 publishDate: 
 expiryDate: 
 aliases:
-- JP
-- JPN
 - Japan
 - Japón
 - Japon

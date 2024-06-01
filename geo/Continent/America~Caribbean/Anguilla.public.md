@@ -21,8 +21,6 @@ draft: false
 publishDate: 
 expiryDate: 
 aliases:
-- AI
-- AIA
 - Anguilla
 - Anguila
 - أنغيلا

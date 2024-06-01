@@ -21,8 +21,6 @@ draft: false
 publishDate: 
 expiryDate: 
 aliases:
-- IL
-- ISR
 - Israel
 - Israël
 - إسرائيل
