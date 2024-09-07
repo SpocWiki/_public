@@ -131,10 +131,10 @@ Capital :: [[./Bulgaria/Counties/Sofia]]
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/geo/Continent/Europe/Europe~East/Bulgaria|Bulgaria]] 
-- [[../../../../_public/geo/Continent/Europe/Europe~East/Bulgaria.public|Bulgaria.public]] 
-- [[../../../../_internal/geo/Continent/Europe/Europe~East/Bulgaria.internal|Bulgaria.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Europe~East/Bulgaria.protect|Bulgaria.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Europe~East/Bulgaria.private|Bulgaria.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Europe~East/Bulgaria.personal|Bulgaria.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Europe~East/Bulgaria.secret|Bulgaria.secret]] 
+- [[../../../../../_Standards/geo/Continent/Europe/Europe~East/Bulgaria|Bulgaria]] 
+- [[../../../../../_public/geo/Continent/Europe/Europe~East/Bulgaria.public|Bulgaria.public]] 
+- [[../../../../../_internal/geo/Continent/Europe/Europe~East/Bulgaria.internal|Bulgaria.internal]] 
+- [[../../../../../_protect/geo/Continent/Europe/Europe~East/Bulgaria.protect|Bulgaria.protect]] 
+- [[../../../../../_private/geo/Continent/Europe/Europe~East/Bulgaria.private|Bulgaria.private]] 
+- [[../../../../../_personal/geo/Continent/Europe/Europe~East/Bulgaria.personal|Bulgaria.personal]] 
+- [[../../../../../_secret/geo/Continent/Europe/Europe~East/Bulgaria.secret|Bulgaria.secret]] 

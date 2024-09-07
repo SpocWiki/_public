@@ -128,10 +128,10 @@ Capital :: [[geo/Continent/Europe/Europe~East/Hungary/Counties/Budapest]]
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/geo/Continent/Europe/Europe~East/Hungary|Hungary]] 
-- [[../../../../_public/geo/Continent/Europe/Europe~East/Hungary.public|Hungary.public]] 
-- [[../../../../_internal/geo/Continent/Europe/Europe~East/Hungary.internal|Hungary.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Europe~East/Hungary.protect|Hungary.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Europe~East/Hungary.private|Hungary.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Europe~East/Hungary.personal|Hungary.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Europe~East/Hungary.secret|Hungary.secret]] 
+- [[../../../../../_Standards/geo/Continent/Europe/Europe~East/Hungary|Hungary]] 
+- [[../../../../../_public/geo/Continent/Europe/Europe~East/Hungary.public|Hungary.public]] 
+- [[../../../../../_internal/geo/Continent/Europe/Europe~East/Hungary.internal|Hungary.internal]] 
+- [[../../../../../_protect/geo/Continent/Europe/Europe~East/Hungary.protect|Hungary.protect]] 
+- [[../../../../../_private/geo/Continent/Europe/Europe~East/Hungary.private|Hungary.private]] 
+- [[../../../../../_personal/geo/Continent/Europe/Europe~East/Hungary.personal|Hungary.personal]] 
+- [[../../../../../_secret/geo/Continent/Europe/Europe~East/Hungary.secret|Hungary.secret]] 

@@ -13,7 +13,7 @@ aliases:
 >
 > The largest objects that orbit the [[Sun]] are the eight planets. 
 > In order from the [[Solar_System/Sun]], they are 
-> - four terrestrial planets ([[Solar_System/Mercury,Planet]], [[Solar_System/Venus]], [[../../_Standards/Earth|Earth]] and [[Solar_System/Mars]]); 
+> - four terrestrial planets ([[Solar_System/Mercury,Planet]], [[Solar_System/Venus]], [[../_Standards/Earth|Earth]] and [[Solar_System/Mars]]); 
 > - two gas giants ([[Solar_System/Jupiter]] and [[Solar_System/Saturn]]); 
 >  - and two ice giants ([[Solar_System/Uranus]] and [[Solar_System/Neptune]]). 
 >  - [[Pluto]] is not considered to be a planet anymore. 
