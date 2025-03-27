@@ -13,7 +13,7 @@ tags:
 [name::Speed+Use_a_pneumatic_or_hydralic_construction-moving_Area]
 [SpocWebEntityId::23373]
 + [#has_/Pros :: [[Triz-Speed]]]
-[Triz-Principle:[[Triz-Use_pneumatic_or_hydralic]]]]
+[Triz-Principle:: [[Triz-Use_pneumatic_or_hydralic]]]]
 - [#has_/Cons :: [[Triz-moving_Area]]]
 
 

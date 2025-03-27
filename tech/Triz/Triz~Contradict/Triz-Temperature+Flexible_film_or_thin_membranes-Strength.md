@@ -13,7 +13,7 @@ tags:
 [name::Temperature+Flexible_film_or_thin_membranes-Strength]
 [SpocWebEntityId::24270]
 + [#has_/Pros :: [[Triz-Temperature]]]
-[Triz-Principle:[[Triz-Flexible_film_or_thin_membrane]]]]
+[Triz-Principle:: [[Triz-Flexible_film_or_thin_membrane]]]]
 - [#has_/Cons :: [[Triz-Strength]]]
 
 

@@ -12,7 +12,7 @@ tags:
 ---
 [name::Convertible]
 [SpocWebEntityId::22375]
-[Triz-Principle-Sub:[[Triz-multi-Purpose]]]]
+[Triz-Principle-Sub:: [[Triz-multi-Purpose]]]]
 
 Convertible Bed-Sofa or Car
 

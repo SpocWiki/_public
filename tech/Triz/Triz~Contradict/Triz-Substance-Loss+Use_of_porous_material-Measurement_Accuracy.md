@@ -13,7 +13,7 @@ tags:
 [name::Substance-Loss+Use_of_porous_material-Measurement_Accuracy]
 [SpocWebEntityId::24887]
 + [#has_/Pros :: Substance-Loss]
-[Triz-Principle:[[Triz-Use_porous_material]]]]
+[Triz-Principle:: [[Triz-Use_porous_material]]]]
 - [#has_/Cons :: [[Triz-Measurement_Accuracy]]]
 
 

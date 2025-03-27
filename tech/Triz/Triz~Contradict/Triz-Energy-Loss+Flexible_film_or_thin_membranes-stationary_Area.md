@@ -13,7 +13,7 @@ tags:
 [name::Energy-Loss+Flexible_film_or_thin_membranes-stationary_Area]
 [SpocWebEntityId::24721]
 + [#has_/Pros :: Energy-Loss]
-[Triz-Principle:[[Triz-Flexible_film_or_thin_membrane]]]]
+[Triz-Principle:: [[Triz-Flexible_film_or_thin_membrane]]]]
 - [#has_/Cons :: [[Triz-stationary_Area]]]
 
 

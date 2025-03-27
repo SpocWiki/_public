@@ -13,7 +13,7 @@ tags:
 [name::moving_Area+Flexible_film_or_thin_membranes-Energy-Loss]
 [SpocWebEntityId::23046]
 + [#has_/Pros :: [[Triz-moving_Area]]]
-[Triz-Principle:[[Triz-Flexible_film_or_thin_membrane]]]]
+[Triz-Principle:: [[Triz-Flexible_film_or_thin_membrane]]]]
 - [#has_/Cons :: Energy-Loss]
 
 

@@ -13,7 +13,7 @@ tags:
 [name::stationary_Weight+Flexible_film_or_thin_membranes-stationary_Area]
 [SpocWebEntityId::22701]
 + [#has_/Pros :: [[Triz-stationary_Weight]]]
-[Triz-Principle:[[Triz-Flexible_film_or_thin_membrane]]]]
+[Triz-Principle:: [[Triz-Flexible_film_or_thin_membrane]]]]
 - [#has_/Cons :: [[Triz-stationary_Area]]]
 
 

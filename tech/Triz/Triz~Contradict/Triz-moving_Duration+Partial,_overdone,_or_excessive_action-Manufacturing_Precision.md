@@ -13,7 +13,7 @@ tags:
 [name::moving_Duration+Partial,_overdone,_or_excessive_action-Manufacturing_Precision]
 [SpocWebEntityId::24133]
 + [#has_/Pros :: [[Triz-moving_Duration]]]
-[Triz-Principle:[[Triz-Partial_overdone_or_excessive_action]]]]
+[Triz-Principle:: [[Triz-Partial_overdone_or_excessive_action]]]]
 - [#has_/Cons :: [[Triz-Manufacturing_Precision]]]
 
 

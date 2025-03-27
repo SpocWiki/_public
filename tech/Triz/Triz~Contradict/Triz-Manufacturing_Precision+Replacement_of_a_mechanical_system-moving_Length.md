@@ -13,7 +13,7 @@ tags:
 [name::Manufacturing_Precision+Replacement_of_a_mechanical_system-moving_Length]
 [SpocWebEntityId::25488]
 + [#has_/Pros :: [[Triz-Manufacturing_Precision]]]
-[Triz-Principle:[[Triz-Replace_a_mechanical_system]]]]
+[Triz-Principle:: [[Triz-Replace_a_mechanical_system]]]]
 - [#has_/Cons :: [[Triz-moving_Length]]]
 
 

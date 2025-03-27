@@ -13,7 +13,7 @@ tags:
 [name::stationary_Energy+Partial,_overdone,_or_excessive_action-Difficulty]
 [SpocWebEntityId::24577]
 + [#has_/Pros :: [[Triz-stationary_Energy]]]
-[Triz-Principle:[[Triz-Partial_overdone_or_excessive_action]]]]
+[Triz-Principle:: [[Triz-Partial_overdone_or_excessive_action]]]]
 - [#has_/Cons :: [[Triz-Difficulty]]]
 
 

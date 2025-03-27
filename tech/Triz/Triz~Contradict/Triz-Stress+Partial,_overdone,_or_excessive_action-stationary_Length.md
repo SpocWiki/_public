@@ -13,7 +13,7 @@ tags:
 [name::Stress+Partial,_overdone,_or_excessive_action-stationary_Length]
 [SpocWebEntityId::23616]
 + [#has_/Pros :: [[Triz-Stress]]]
-[Triz-Principle:[[Triz-Partial_overdone_or_excessive_action]]]]
+[Triz-Principle:: [[Triz-Partial_overdone_or_excessive_action]]]]
 - [#has_/Cons :: [[Triz-stationary_Length]]]
 
 

@@ -13,7 +13,7 @@ tags:
 [name::moving_Volume+Flexible_film_or_thin_membranes-Ease_of_operation]
 [SpocWebEntityId::23279]
 + [#has_/Pros :: [[Triz-moving_Volume]]]
-[Triz-Principle:[[Triz-Flexible_film_or_thin_membrane]]]]
+[Triz-Principle:: [[Triz-Flexible_film_or_thin_membrane]]]]
 - [#has_/Cons :: [[Triz-Ease_of_operation]]]
 
 

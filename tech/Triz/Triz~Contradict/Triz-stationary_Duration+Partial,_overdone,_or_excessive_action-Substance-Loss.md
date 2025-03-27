@@ -13,7 +13,7 @@ tags:
 [name::stationary_Duration+Partial,_overdone,_or_excessive_action-Substance-Loss]
 [SpocWebEntityId::24188]
 + [#has_/Pros :: [[Triz-stationary_Duration]]]
-[Triz-Principle:[[Triz-Partial_overdone_or_excessive_action]]]]
+[Triz-Principle:: [[Triz-Partial_overdone_or_excessive_action]]]]
 - [#has_/Cons :: Substance-Loss]
 
 

@@ -13,7 +13,7 @@ tags:
 [name::stationary_Length+Flexible_film_or_thin_membranes-Time-Loss]
 [SpocWebEntityId::22964]
 + [#has_/Pros :: [[Triz-stationary_Length]]]
-[Triz-Principle:[[Triz-Flexible_film_or_thin_membrane]]]]
+[Triz-Principle:: [[Triz-Flexible_film_or_thin_membrane]]]]
 - [#has_/Cons :: Time-Loss]
 
 

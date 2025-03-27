@@ -13,7 +13,7 @@ tags:
 [name::Manufacturing_Precision+Replacement_of_a_mechanical_system-Speed]
 [SpocWebEntityId::25509]
 + [#has_/Pros :: [[Triz-Manufacturing_Precision]]]
-[Triz-Principle:[[Triz-Replace_a_mechanical_system]]]]
+[Triz-Principle:: [[Triz-Replace_a_mechanical_system]]]]
 - [#has_/Cons :: [[Triz-Speed]]]
 
 

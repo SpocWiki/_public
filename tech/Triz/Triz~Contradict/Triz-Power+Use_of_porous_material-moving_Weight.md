@@ -13,7 +13,7 @@ tags:
 [name::Power+Use_of_porous_material-moving_Weight]
 [SpocWebEntityId::24584]
 + [#has_/Pros :: [[Triz-Power]]]
-[Triz-Principle:[[Triz-Use_porous_material]]]]
+[Triz-Principle:: [[Triz-Use_porous_material]]]]
 - [#has_/Cons :: [[Triz-moving_Weight]]]
 
 

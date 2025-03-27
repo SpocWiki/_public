@@ -13,7 +13,7 @@ tags:
 [name::Difficulty+Replacement_of_a_mechanical_system-Strength]
 [SpocWebEntityId::26457]
 + [#has_/Pros :: [[Triz-Difficulty]]]
-[Triz-Principle:[[Triz-Replace_a_mechanical_system]]]]
+[Triz-Principle:: [[Triz-Replace_a_mechanical_system]]]]
 - [#has_/Cons :: [[Triz-Strength]]]
 
 

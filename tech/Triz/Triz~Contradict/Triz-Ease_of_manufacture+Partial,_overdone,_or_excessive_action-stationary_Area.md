@@ -13,7 +13,7 @@ tags:
 [name::Ease_of_manufacture+Partial,_overdone,_or_excessive_action-stationary_Area]
 [SpocWebEntityId::25847]
 + [#has_/Pros :: [[Triz-Ease_of_manufacture]]]
-[Triz-Principle:[[Triz-Partial_overdone_or_excessive_action]]]]
+[Triz-Principle:: [[Triz-Partial_overdone_or_excessive_action]]]]
 - [#has_/Cons :: [[Triz-stationary_Area]]]
 
 

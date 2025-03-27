@@ -13,7 +13,7 @@ tags:
 [name::stationary_Energy+Use_of_porous_material-Quantity]
 [SpocWebEntityId::24562]
 + [#has_/Pros :: [[Triz-stationary_Energy]]]
-[Triz-Principle:[[Triz-Use_porous_material]]]]
+[Triz-Principle:: [[Triz-Use_porous_material]]]]
 - [#has_/Cons :: [[Triz-Quantity]]]
 
 

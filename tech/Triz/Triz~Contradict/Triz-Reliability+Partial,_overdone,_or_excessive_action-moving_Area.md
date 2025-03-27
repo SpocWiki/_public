@@ -13,7 +13,7 @@ tags:
 [name::Reliability+Partial,_overdone,_or_excessive_action-moving_Area]
 [SpocWebEntityId::25251]
 + [#has_/Pros :: [[Triz-Reliability]]]
-[Triz-Principle:[[Triz-Partial_overdone_or_excessive_action]]]]
+[Triz-Principle:: [[Triz-Partial_overdone_or_excessive_action]]]]
 - [#has_/Cons :: [[Triz-moving_Area]]]
 
 

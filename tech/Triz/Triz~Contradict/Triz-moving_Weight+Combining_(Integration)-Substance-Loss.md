@@ -13,7 +13,7 @@ tags:
 [name::moving_Weight+Combining_(Integration)-Substance-Loss]
 [SpocWebEntityId::22629]
 + [#has_/Pros :: [[Triz-moving_Weight]]]
-[Triz-Principle:[[Triz-Combining(Integration)]]]]
+[Triz-Principle:: [[Triz-Combining(Integration)]]]]
 - [#has_/Cons :: Substance-Loss]
 
 

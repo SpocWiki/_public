@@ -12,7 +12,7 @@ tags:
 ---
 [name::Pulsed Energy]
 [SpocWebEntityId::22459]
-[Triz-Principle-Sub:[[Triz~Sub~periodic_action]]]]
+[Triz-Principle-Sub:: [[Triz~Sub~periodic_action]]]]
 
 An Impact Wrench loosens corroded Nuts using Impulses rather than continuous Force.
 

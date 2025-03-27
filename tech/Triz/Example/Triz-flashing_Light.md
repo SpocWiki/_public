@@ -12,7 +12,7 @@ tags:
 ---
 [name::flashing Light]
 [SpocWebEntityId::22460]
-[Triz-Principle-Sub:[[Triz~Sub~periodic_action]]]]
+[Triz-Principle-Sub:: [[Triz~Sub~periodic_action]]]]
 
 A Warning Lamp flashes so that it is even more noticeable than when continuously lit.
 

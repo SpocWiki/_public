@@ -13,7 +13,7 @@ tags:
 [name::stationary_Volume+Flexible_film_or_thin_membranes-generated_harm]
 [SpocWebEntityId::23351]
 + [#has_/Pros :: [[Triz-stationary_Volume]]]
-[Triz-Principle:[[Triz-Flexible_film_or_thin_membrane]]]]
+[Triz-Principle:: [[Triz-Flexible_film_or_thin_membrane]]]]
 - [#has_/Cons :: [[Triz-generated_harm]]]
 
 

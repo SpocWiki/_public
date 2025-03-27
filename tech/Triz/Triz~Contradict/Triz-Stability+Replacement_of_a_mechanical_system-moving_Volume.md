@@ -13,7 +13,7 @@ tags:
 [name::Stability+Replacement_of_a_mechanical_system-moving_Volume]
 [SpocWebEntityId::23844]
 + [#has_/Pros :: [[Triz-Stability]]]
-[Triz-Principle:[[Triz-Replace_a_mechanical_system]]]]
+[Triz-Principle:: [[Triz-Replace_a_mechanical_system]]]]
 - [#has_/Cons :: [[Triz-moving_Volume]]]
 
 

@@ -13,7 +13,7 @@ tags:
 [name::moving_Area+Partial,_overdone,_or_excessive_action-Temperature]
 [SpocWebEntityId::23033]
 + [#has_/Pros :: [[Triz-moving_Area]]]
-[Triz-Principle:[[Triz-Partial_overdone_or_excessive_action]]]]
+[Triz-Principle:: [[Triz-Partial_overdone_or_excessive_action]]]]
 - [#has_/Cons :: [[Triz-Temperature]]]
 
 

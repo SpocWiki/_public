@@ -13,7 +13,7 @@ tags:
 [name::22161+Use_a_pneumatic_or_hydralic_construction-10307]
 [SpocWebEntityId::22916]
 + [#has_/Pros :: [[Triz-22161]]]
-[Triz-Principle:[[Triz-Use_pneumatic_or_hydralic]]]]
+[Triz-Principle:: [[Triz-Use_pneumatic_or_hydralic]]]]
 - [#has_/Cons :: [[Triz-10307]]]
 
 

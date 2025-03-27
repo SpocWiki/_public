@@ -13,7 +13,7 @@ tags:
 [name::Shape+Use_a_pneumatic_or_hydralic_construction-Versatility]
 [SpocWebEntityId::23812]
 + [#has_/Pros :: [[Triz-Shape]]]
-[Triz-Principle:[[Triz-Use_pneumatic_or_hydralic]]]]
+[Triz-Principle:: [[Triz-Use_pneumatic_or_hydralic]]]]
 - [#has_/Cons :: [[Triz-Versatility]]]
 
 

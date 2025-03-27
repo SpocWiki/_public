@@ -13,7 +13,7 @@ tags:
 [name::Reliability+Replacement_of_a_mechanical_system-stationary_Length]
 [SpocWebEntityId::25246]
 + [#has_/Pros :: [[Triz-Reliability]]]
-[Triz-Principle:[[Triz-Replace_a_mechanical_system]]]]
+[Triz-Principle:: [[Triz-Replace_a_mechanical_system]]]]
 - [#has_/Cons :: [[Triz-stationary_Length]]]
 
 

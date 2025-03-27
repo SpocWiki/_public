@@ -13,7 +13,7 @@ tags:
 [name::Automation+Combining_(Integration)-Substance-Loss]
 [SpocWebEntityId::26586]
 + [#has_/Pros :: [[Triz-Automation]]]
-[Triz-Principle:[[Triz-Combining(Integration)]]]]
+[Triz-Principle:: [[Triz-Combining(Integration)]]]]
 - [#has_/Cons :: Substance-Loss]
 
 

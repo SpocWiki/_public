@@ -13,7 +13,7 @@ tags:
 [name::Complexity+Partial,_overdone,_or_excessive_action-moving_Area]
 [SpocWebEntityId::26306]
 + [#has_/Pros :: [[Triz-Complexity]]]
-[Triz-Principle:[[Triz-Partial_overdone_or_excessive_action]]]]
+[Triz-Principle:: [[Triz-Partial_overdone_or_excessive_action]]]]
 - [#has_/Cons :: [[Triz-moving_Area]]]
 
 

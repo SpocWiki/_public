@@ -13,7 +13,7 @@ tags:
 [name::Complexity+Replacement_of_a_mechanical_system-Versatility]
 [SpocWebEntityId::26393]
 + [#has_/Pros :: [[Triz-Complexity]]]
-[Triz-Principle:[[Triz-Replace_a_mechanical_system]]]]
+[Triz-Principle:: [[Triz-Replace_a_mechanical_system]]]]
 - [#has_/Cons :: [[Triz-Versatility]]]
 
 

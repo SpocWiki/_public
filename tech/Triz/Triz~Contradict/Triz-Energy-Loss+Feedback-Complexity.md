@@ -13,7 +13,7 @@ tags:
 [name::Energy-Loss+Feedback-Complexity]
 [SpocWebEntityId::24777]
 + [#has_/Pros :: Energy-Loss]
-[Triz-Principle:[[Triz~Sub~feedback]]]]
+[Triz-Principle:: [[Triz~Sub~feedback]]]]
 - [#has_/Cons :: [[Triz-Complexity]]]
 
 

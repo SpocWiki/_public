@@ -13,7 +13,7 @@ tags:
 [name::moving_Duration+Replacement_of_a_mechanical_system-Substance-Loss]
 [SpocWebEntityId::24114]
 + [#has_/Pros :: [[Triz-moving_Duration]]]
-[Triz-Principle:[[Triz-Replace_a_mechanical_system]]]]
+[Triz-Principle:: [[Triz-Replace_a_mechanical_system]]]]
 - [#has_/Cons :: Substance-Loss]
 
 

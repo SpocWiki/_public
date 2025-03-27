@@ -13,7 +13,7 @@ tags:
 [name::Measurement_Accuracy+Combining_(Integration)-moving_Length]
 [SpocWebEntityId::25368]
 + [#has_/Pros :: [[Triz-Measurement_Accuracy]]]
-[Triz-Principle:[[Triz-Combining(Integration)]]]]
+[Triz-Principle:: [[Triz-Combining(Integration)]]]]
 - [#has_/Cons :: [[Triz-moving_Length]]]
 
 

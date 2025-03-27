@@ -13,7 +13,7 @@ tags:
 [name::Time-Loss+Replacement_of_a_mechanical_system-Automation]
 [SpocWebEntityId::25108]
 + [#has_/Pros :: Time-Loss]
-[Triz-Principle:[[Triz-Replace_a_mechanical_system]]]]
+[Triz-Principle:: [[Triz-Replace_a_mechanical_system]]]]
 - [#has_/Cons :: [[Triz-Automation]]]
 
 

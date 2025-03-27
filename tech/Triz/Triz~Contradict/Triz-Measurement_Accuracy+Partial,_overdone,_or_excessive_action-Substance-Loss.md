@@ -13,7 +13,7 @@ tags:
 [name::Measurement_Accuracy+Partial,_overdone,_or_excessive_action-Substance-Loss]
 [SpocWebEntityId::25426]
 + [#has_/Pros :: [[Triz-Measurement_Accuracy]]]
-[Triz-Principle:[[Triz-Partial_overdone_or_excessive_action]]]]
+[Triz-Principle:: [[Triz-Partial_overdone_or_excessive_action]]]]
 - [#has_/Cons :: Substance-Loss]
 
 

@@ -13,7 +13,7 @@ tags:
 [name::stationary_Area+Replacement_of_a_mechanical_system-Measurement_Accuracy]
 [SpocWebEntityId::23155]
 + [#has_/Pros :: [[Triz-stationary_Area]]]
-[Triz-Principle:[[Triz-Replace_a_mechanical_system]]]]
+[Triz-Principle:: [[Triz-Replace_a_mechanical_system]]]]
 - [#has_/Cons :: [[Triz-Measurement_Accuracy]]]
 
 

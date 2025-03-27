@@ -13,7 +13,7 @@ tags:
 [name::Reliability+Replacement_of_a_mechanical_system-Quantity]
 [SpocWebEntityId::25318]
 + [#has_/Pros :: [[Triz-Reliability]]]
-[Triz-Principle:[[Triz-Replace_a_mechanical_system]]]]
+[Triz-Principle:: [[Triz-Replace_a_mechanical_system]]]]
 - [#has_/Cons :: [[Triz-Quantity]]]
 
 

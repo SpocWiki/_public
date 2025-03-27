@@ -13,7 +13,7 @@ tags:
 [name::Stability+Partial,_overdone,_or_excessive_action-Illumination]
 [SpocWebEntityId::23884]
 + [#has_/Pros :: [[Triz-Stability]]]
-[Triz-Principle:[[Triz-Partial_overdone_or_excessive_action]]]]
+[Triz-Principle:: [[Triz-Partial_overdone_or_excessive_action]]]]
 - [#has_/Cons :: [[Triz-Illumination]]]
 
 

@@ -13,7 +13,7 @@ tags:
 [name::Versatility+Flexible_film_or_thin_membranes-Stability]
 [SpocWebEntityId::26217]
 + [#has_/Pros :: [[Triz-Versatility]]]
-[Triz-Principle:[[Triz-Flexible_film_or_thin_membrane]]]]
+[Triz-Principle:: [[Triz-Flexible_film_or_thin_membrane]]]]
 - [#has_/Cons :: [[Triz-Stability]]]
 
 

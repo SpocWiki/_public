@@ -13,7 +13,7 @@ tags:
 [name::Stability+Feedback-Difficulty]
 [SpocWebEntityId::23938]
 + [#has_/Pros :: [[Triz-Stability]]]
-[Triz-Principle:[[Triz~Sub~feedback]]]]
+[Triz-Principle:: [[Triz~Sub~feedback]]]]
 - [#has_/Cons :: [[Triz-Difficulty]]]
 
 

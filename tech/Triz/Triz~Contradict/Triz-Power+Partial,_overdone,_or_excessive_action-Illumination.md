@@ -13,7 +13,7 @@ tags:
 [name::Power+Partial,_overdone,_or_excessive_action-Illumination]
 [SpocWebEntityId::24635]
 + [#has_/Pros :: [[Triz-Power]]]
-[Triz-Principle:[[Triz-Partial_overdone_or_excessive_action]]]]
+[Triz-Principle:: [[Triz-Partial_overdone_or_excessive_action]]]]
 - [#has_/Cons :: [[Triz-Illumination]]]
 
 

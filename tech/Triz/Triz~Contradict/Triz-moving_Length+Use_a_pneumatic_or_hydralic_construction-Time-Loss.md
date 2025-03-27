@@ -13,7 +13,7 @@ tags:
 [name::moving_Length+Use_a_pneumatic_or_hydralic_construction-Time-Loss]
 [SpocWebEntityId::22867]
 + [#has_/Pros :: [[Triz-moving_Length]]]
-[Triz-Principle:[[Triz-Use_pneumatic_or_hydralic]]]]
+[Triz-Principle:: [[Triz-Use_pneumatic_or_hydralic]]]]
 - [#has_/Cons :: Time-Loss]
 
 

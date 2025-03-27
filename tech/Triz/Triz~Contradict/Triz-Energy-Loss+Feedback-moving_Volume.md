@@ -13,7 +13,7 @@ tags:
 [name::Energy-Loss+Feedback-moving_Volume]
 [SpocWebEntityId::24725]
 + [#has_/Pros :: Energy-Loss]
-[Triz-Principle:[[Triz~Sub~feedback]]]]
+[Triz-Principle:: [[Triz~Sub~feedback]]]]
 - [#has_/Cons :: [[Triz-moving_Volume]]]
 
 

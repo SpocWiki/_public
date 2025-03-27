@@ -13,7 +13,7 @@ tags:
 [name::affected_harm+Feedback-Measurement_Accuracy]
 [SpocWebEntityId::25681]
 + [#has_/Pros :: [[Triz-affected_harm]]]
-[Triz-Principle:[[Triz~Sub~feedback]]]]
+[Triz-Principle:: [[Triz~Sub~feedback]]]]
 - [#has_/Cons :: [[Triz-Measurement_Accuracy]]]
 
 

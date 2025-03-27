@@ -13,7 +13,7 @@ tags:
 [name::Time-Loss+Combining_(Integration)-moving_Area]
 [SpocWebEntityId::24996]
 + [#has_/Pros :: Time-Loss]
-[Triz-Principle:[[Triz-Combining(Integration)]]]]
+[Triz-Principle:: [[Triz-Combining(Integration)]]]]
 - [#has_/Cons :: [[Triz-moving_Area]]]
 
 

@@ -13,7 +13,7 @@ tags:
 [name::22170+Feedback-10307]
 [SpocWebEntityId::23942]
 + [#has_/Pros :: [[Triz-22170]]]
-[Triz-Principle:[[Triz~Sub~feedback]]]]
+[Triz-Principle:: [[Triz~Sub~feedback]]]]
 - [#has_/Cons :: [[Triz-10307]]]
 
 

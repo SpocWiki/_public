@@ -13,7 +13,7 @@ tags:
 [name::moving_Weight+Flexible_film_or_thin_membranes-Complexity]
 [SpocWebEntityId::22681]
 + [#has_/Pros :: [[Triz-moving_Weight]]]
-[Triz-Principle:[[Triz-Flexible_film_or_thin_membrane]]]]
+[Triz-Principle:: [[Triz-Flexible_film_or_thin_membrane]]]]
 - [#has_/Cons :: [[Triz-Complexity]]]
 
 

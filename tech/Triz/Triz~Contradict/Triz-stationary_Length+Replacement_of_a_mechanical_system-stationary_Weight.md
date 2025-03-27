@@ -13,7 +13,7 @@ tags:
 [name::stationary_Length+Replacement_of_a_mechanical_system-stationary_Weight]
 [SpocWebEntityId::22918]
 + [#has_/Pros :: [[Triz-stationary_Length]]]
-[Triz-Principle:[[Triz-Replace_a_mechanical_system]]]]
+[Triz-Principle:: [[Triz-Replace_a_mechanical_system]]]]
 - [#has_/Cons :: [[Triz-stationary_Weight]]]
 
 

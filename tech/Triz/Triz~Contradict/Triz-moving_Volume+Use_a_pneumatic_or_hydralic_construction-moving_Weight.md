@@ -13,7 +13,7 @@ tags:
 [name::moving_Volume+Use_a_pneumatic_or_hydralic_construction-moving_Weight]
 [SpocWebEntityId::23190]
 + [#has_/Pros :: [[Triz-moving_Volume]]]
-[Triz-Principle:[[Triz-Use_pneumatic_or_hydralic]]]]
+[Triz-Principle:: [[Triz-Use_pneumatic_or_hydralic]]]]
 - [#has_/Cons :: [[Triz-moving_Weight]]]
 
 

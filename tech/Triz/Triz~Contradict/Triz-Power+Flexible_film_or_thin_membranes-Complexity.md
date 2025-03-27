@@ -13,7 +13,7 @@ tags:
 [name::Power+Flexible_film_or_thin_membranes-Complexity]
 [SpocWebEntityId::24689]
 + [#has_/Pros :: [[Triz-Power]]]
-[Triz-Principle:[[Triz-Flexible_film_or_thin_membrane]]]]
+[Triz-Principle:: [[Triz-Flexible_film_or_thin_membrane]]]]
 - [#has_/Cons :: [[Triz-Complexity]]]
 
 

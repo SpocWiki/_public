@@ -13,7 +13,7 @@ tags:
 [name::Measurement_Accuracy+Replacement_of_a_mechanical_system-Temperature]
 [SpocWebEntityId::25411]
 + [#has_/Pros :: [[Triz-Measurement_Accuracy]]]
-[Triz-Principle:[[Triz-Replace_a_mechanical_system]]]]
+[Triz-Principle:: [[Triz-Replace_a_mechanical_system]]]]
 - [#has_/Cons :: [[Triz-Temperature]]]
 
 

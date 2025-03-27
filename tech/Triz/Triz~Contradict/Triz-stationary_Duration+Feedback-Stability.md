@@ -13,7 +13,7 @@ tags:
 [name::stationary_Duration+Feedback-Stability]
 [SpocWebEntityId::24181]
 + [#has_/Pros :: [[Triz-stationary_Duration]]]
-[Triz-Principle:[[Triz~Sub~feedback]]]]
+[Triz-Principle:: [[Triz~Sub~feedback]]]]
 - [#has_/Cons :: [[Triz-Stability]]]
 
 

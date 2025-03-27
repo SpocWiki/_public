@@ -13,7 +13,7 @@ tags:
 [name::Ease_of_repair+Use_of_porous_material-stationary_Length]
 [SpocWebEntityId::26083]
 + [#has_/Pros :: [[Triz-Ease_of_repair]]]
-[Triz-Principle:[[Triz-Use_porous_material]]]]
+[Triz-Principle:: [[Triz-Use_porous_material]]]]
 - [#has_/Cons :: [[Triz-stationary_Length]]]
 
 

@@ -12,7 +12,7 @@ tags:
 ---
 [name::Heat Pumps]
 [SpocWebEntityId::22543]
-[Triz-Principle-Sub:[[Triz~Sub~phase-transition]]]]
+[Triz-Principle-Sub:: [[Triz~Sub~phase-transition]]]]
 
 Heat Pumps use the Heat of Vaporization and Heat of Condensation of a closed thermodynamic Cycle to do useful Work.
 

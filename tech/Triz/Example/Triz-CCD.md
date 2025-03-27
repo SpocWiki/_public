@@ -12,7 +12,7 @@ tags:
 ---
 [name::CCD]
 [SpocWebEntityId::22374]
-[Triz-Principle-Sub:[[Triz-multi-Purpose]]]]
+[Triz-Principle-Sub:: [[Triz-multi-Purpose]]]]
 
 CCD (Charge coupled device) with micro-lenses formed on the surface
 

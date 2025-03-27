@@ -13,7 +13,7 @@ tags:
 [name::Information-Loss+Replacement_of_a_mechanical_system-Time-Loss]
 [SpocWebEntityId::24956]
 + [#has_/Pros :: Information-Loss]
-[Triz-Principle:[[Triz-Replace_a_mechanical_system]]]]
+[Triz-Principle:: [[Triz-Replace_a_mechanical_system]]]]
 - [#has_/Cons :: Time-Loss]
 
 

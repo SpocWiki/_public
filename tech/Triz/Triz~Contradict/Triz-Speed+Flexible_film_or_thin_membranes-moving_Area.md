@@ -13,7 +13,7 @@ tags:
 [name::Speed+Flexible_film_or_thin_membranes-moving_Area]
 [SpocWebEntityId::23374]
 + [#has_/Pros :: [[Triz-Speed]]]
-[Triz-Principle:[[Triz-Flexible_film_or_thin_membrane]]]]
+[Triz-Principle:: [[Triz-Flexible_film_or_thin_membrane]]]]
 - [#has_/Cons :: [[Triz-moving_Area]]]
 
 

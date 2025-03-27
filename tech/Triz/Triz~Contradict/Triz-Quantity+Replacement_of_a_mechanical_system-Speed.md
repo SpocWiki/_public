@@ -13,7 +13,7 @@ tags:
 [name::Quantity+Replacement_of_a_mechanical_system-Speed]
 [SpocWebEntityId::25136]
 + [#has_/Pros :: [[Triz-Quantity]]]
-[Triz-Principle:[[Triz-Replace_a_mechanical_system]]]]
+[Triz-Principle:: [[Triz-Replace_a_mechanical_system]]]]
 - [#has_/Cons :: [[Triz-Speed]]]
 
 

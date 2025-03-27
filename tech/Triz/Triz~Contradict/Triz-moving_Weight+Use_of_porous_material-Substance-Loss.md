@@ -13,7 +13,7 @@ tags:
 [name::moving_Weight+Use_of_porous_material-Substance-Loss]
 [SpocWebEntityId::22632]
 + [#has_/Pros :: [[Triz-moving_Weight]]]
-[Triz-Principle:[[Triz-Use_porous_material]]]]
+[Triz-Principle:: [[Triz-Use_porous_material]]]]
 - [#has_/Cons :: Substance-Loss]
 
 

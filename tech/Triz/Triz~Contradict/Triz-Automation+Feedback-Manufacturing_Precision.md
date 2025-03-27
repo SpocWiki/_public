@@ -13,7 +13,7 @@ tags:
 [name::Automation+Feedback-Manufacturing_Precision]
 [SpocWebEntityId::26605]
 + [#has_/Pros :: [[Triz-Automation]]]
-[Triz-Principle:[[Triz~Sub~feedback]]]]
+[Triz-Principle:: [[Triz~Sub~feedback]]]]
 - [#has_/Cons :: [[Triz-Manufacturing_Precision]]]
 
 

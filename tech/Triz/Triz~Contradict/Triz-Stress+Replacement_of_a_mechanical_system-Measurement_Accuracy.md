@@ -13,7 +13,7 @@ tags:
 [name::Stress+Replacement_of_a_mechanical_system-Measurement_Accuracy]
 [SpocWebEntityId::23680]
 + [#has_/Pros :: [[Triz-Stress]]]
-[Triz-Principle:[[Triz-Replace_a_mechanical_system]]]]
+[Triz-Principle:: [[Triz-Replace_a_mechanical_system]]]]
 - [#has_/Cons :: [[Triz-Measurement_Accuracy]]]
 
 

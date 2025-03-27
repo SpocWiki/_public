@@ -13,7 +13,7 @@ tags:
 [name::Versatility+Use_a_pneumatic_or_hydralic_construction-moving_Length]
 [SpocWebEntityId::26190]
 + [#has_/Pros :: [[Triz-Versatility]]]
-[Triz-Principle:[[Triz-Use_pneumatic_or_hydralic]]]]
+[Triz-Principle:: [[Triz-Use_pneumatic_or_hydralic]]]]
 - [#has_/Cons :: [[Triz-moving_Length]]]
 
 

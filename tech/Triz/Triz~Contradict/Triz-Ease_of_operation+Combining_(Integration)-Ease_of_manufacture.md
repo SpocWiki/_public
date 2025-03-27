@@ -13,7 +13,7 @@ tags:
 [name::Ease_of_operation+Combining_(Integration)-Ease_of_manufacture]
 [SpocWebEntityId::26048]
 + [#has_/Pros :: [[Triz-Ease_of_operation]]]
-[Triz-Principle:[[Triz-Combining(Integration)]]]]
+[Triz-Principle:: [[Triz-Combining(Integration)]]]]
 - [#has_/Cons :: [[Triz-Ease_of_manufacture]]]
 
 

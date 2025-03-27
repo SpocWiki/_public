@@ -12,7 +12,7 @@ tags:
 ---
 [name::AGC]
 [SpocWebEntityId::22478]
-[Triz-Principle-Sub:[[Triz~Sub~feedback]]]]
+[Triz-Principle-Sub:: [[Triz~Sub~feedback]]]]
 
 Automatic Volume Control in Audio Circuits
 

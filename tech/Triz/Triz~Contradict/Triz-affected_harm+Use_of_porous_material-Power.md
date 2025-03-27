@@ -13,7 +13,7 @@ tags:
 [name::affected_harm+Use_of_porous_material-Power]
 [SpocWebEntityId::25655]
 + [#has_/Pros :: [[Triz-affected_harm]]]
-[Triz-Principle:[[Triz-Use_porous_material]]]]
+[Triz-Principle:: [[Triz-Use_porous_material]]]]
 - [#has_/Cons :: [[Triz-Power]]]
 
 

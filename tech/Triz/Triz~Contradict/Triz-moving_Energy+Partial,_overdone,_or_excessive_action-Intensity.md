@@ -13,7 +13,7 @@ tags:
 [name::moving_Energy+Partial,_overdone,_or_excessive_action-Intensity]
 [SpocWebEntityId::24454]
 + [#has_/Pros :: [[Triz-moving_Energy]]]
-[Triz-Principle:[[Triz-Partial_overdone_or_excessive_action]]]]
+[Triz-Principle:: [[Triz-Partial_overdone_or_excessive_action]]]]
 - [#has_/Cons :: [[Triz-Intensity]]]
 
 

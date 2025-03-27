@@ -13,7 +13,7 @@ tags:
 [name::Shape+Replacement_of_a_mechanical_system-Complexity]
 [SpocWebEntityId::23816]
 + [#has_/Pros :: [[Triz-Shape]]]
-[Triz-Principle:[[Triz-Replace_a_mechanical_system]]]]
+[Triz-Principle:: [[Triz-Replace_a_mechanical_system]]]]
 - [#has_/Cons :: [[Triz-Complexity]]]
 
 

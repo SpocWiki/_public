@@ -13,7 +13,7 @@ tags:
 [name::moving_Energy+Combining_(Integration)-Substance-Loss]
 [SpocWebEntityId::24494]
 + [#has_/Pros :: [[Triz-moving_Energy]]]
-[Triz-Principle:[[Triz-Combining(Integration)]]]]
+[Triz-Principle:: [[Triz-Combining(Integration)]]]]
 - [#has_/Cons :: Substance-Loss]
 
 

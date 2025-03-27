@@ -13,7 +13,7 @@ tags:
 [name::Temperature+Partial,_overdone,_or_excessive_action-Automation]
 [SpocWebEntityId::24344]
 + [#has_/Pros :: [[Triz-Temperature]]]
-[Triz-Principle:[[Triz-Partial_overdone_or_excessive_action]]]]
+[Triz-Principle:: [[Triz-Partial_overdone_or_excessive_action]]]]
 - [#has_/Cons :: [[Triz-Automation]]]
 
 

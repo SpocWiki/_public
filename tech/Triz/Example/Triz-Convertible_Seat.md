@@ -12,7 +12,7 @@ tags:
 ---
 [name::Convertible Seat]
 [SpocWebEntityId::22371]
-[Triz-Principle-Sub:[[Triz-multi-Purpose]]]]
+[Triz-Principle-Sub:: [[Triz-multi-Purpose]]]]
 
 Child's car safety seat converts to a stroller
 

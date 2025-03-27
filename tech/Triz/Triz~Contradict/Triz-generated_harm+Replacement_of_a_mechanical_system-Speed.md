@@ -13,7 +13,7 @@ tags:
 [name::generated_harm+Replacement_of_a_mechanical_system-Speed]
 [SpocWebEntityId::25743]
 + [#has_/Pros :: [[Triz-generated_harm]]]
-[Triz-Principle:[[Triz-Replace_a_mechanical_system]]]]
+[Triz-Principle:: [[Triz-Replace_a_mechanical_system]]]]
 - [#has_/Cons :: [[Triz-Speed]]]
 
 

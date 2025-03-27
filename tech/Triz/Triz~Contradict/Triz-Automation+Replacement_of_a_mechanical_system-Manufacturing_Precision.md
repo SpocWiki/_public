@@ -13,7 +13,7 @@ tags:
 [name::Automation+Replacement_of_a_mechanical_system-Manufacturing_Precision]
 [SpocWebEntityId::26602]
 + [#has_/Pros :: [[Triz-Automation]]]
-[Triz-Principle:[[Triz-Replace_a_mechanical_system]]]]
+[Triz-Principle:: [[Triz-Replace_a_mechanical_system]]]]
 - [#has_/Cons :: [[Triz-Manufacturing_Precision]]]
 
 

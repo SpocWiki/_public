@@ -13,7 +13,7 @@ tags:
 [name::moving_Weight+Use_a_pneumatic_or_hydralic_construction-Difficulty]
 [SpocWebEntityId::22685]
 + [#has_/Pros :: [[Triz-moving_Weight]]]
-[Triz-Principle:[[Triz-Use_pneumatic_or_hydralic]]]]
+[Triz-Principle:: [[Triz-Use_pneumatic_or_hydralic]]]]
 - [#has_/Cons :: [[Triz-Difficulty]]]
 
 

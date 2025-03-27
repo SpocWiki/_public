@@ -13,7 +13,7 @@ tags:
 [name::stationary_Area+Flexible_film_or_thin_membranes-Information-Loss]
 [SpocWebEntityId::23140]
 + [#has_/Pros :: [[Triz-stationary_Area]]]
-[Triz-Principle:[[Triz-Flexible_film_or_thin_membrane]]]]
+[Triz-Principle:: [[Triz-Flexible_film_or_thin_membrane]]]]
 - [#has_/Cons :: Information-Loss]
 
 

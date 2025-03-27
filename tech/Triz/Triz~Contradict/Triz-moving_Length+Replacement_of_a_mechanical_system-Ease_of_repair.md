@@ -13,7 +13,7 @@ tags:
 [name::moving_Length+Replacement_of_a_mechanical_system-Ease_of_repair]
 [SpocWebEntityId::22895]
 + [#has_/Pros :: [[Triz-moving_Length]]]
-[Triz-Principle:[[Triz-Replace_a_mechanical_system]]]]
+[Triz-Principle:: [[Triz-Replace_a_mechanical_system]]]]
 - [#has_/Cons :: [[Triz-Ease_of_repair]]]
 
 

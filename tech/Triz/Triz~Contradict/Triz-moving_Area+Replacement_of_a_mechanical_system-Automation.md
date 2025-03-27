@@ -13,7 +13,7 @@ tags:
 [name::moving_Area+Replacement_of_a_mechanical_system-Automation]
 [SpocWebEntityId::23099]
 + [#has_/Pros :: [[Triz-moving_Area]]]
-[Triz-Principle:[[Triz-Replace_a_mechanical_system]]]]
+[Triz-Principle:: [[Triz-Replace_a_mechanical_system]]]]
 - [#has_/Cons :: [[Triz-Automation]]]
 
 

@@ -13,7 +13,7 @@ tags:
 [name::Versatility+Partial,_overdone,_or_excessive_action-Ease_of_repair]
 [SpocWebEntityId::26275]
 + [#has_/Pros :: [[Triz-Versatility]]]
-[Triz-Principle:[[Triz-Partial_overdone_or_excessive_action]]]]
+[Triz-Principle:: [[Triz-Partial_overdone_or_excessive_action]]]]
 - [#has_/Cons :: [[Triz-Ease_of_repair]]]
 
 

@@ -13,7 +13,7 @@ tags:
 [name::Ease_of_operation+Replacement_of_a_mechanical_system-Substance-Loss]
 [SpocWebEntityId::26017]
 + [#has_/Pros :: [[Triz-Ease_of_operation]]]
-[Triz-Principle:[[Triz-Replace_a_mechanical_system]]]]
+[Triz-Principle:: [[Triz-Replace_a_mechanical_system]]]]
 - [#has_/Cons :: Substance-Loss]
 
 

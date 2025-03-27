@@ -13,7 +13,7 @@ tags:
 [name::Ease_of_operation+Feedback-Manufacturing_Precision]
 [SpocWebEntityId::26042]
 + [#has_/Pros :: [[Triz-Ease_of_operation]]]
-[Triz-Principle:[[Triz~Sub~feedback]]]]
+[Triz-Principle:: [[Triz~Sub~feedback]]]]
 - [#has_/Cons :: [[Triz-Manufacturing_Precision]]]
 
 

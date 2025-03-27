@@ -13,7 +13,7 @@ tags:
 [name::Difficulty+Use_of_porous_material-stationary_Volume]
 [SpocWebEntityId::26433]
 + [#has_/Pros :: [[Triz-Difficulty]]]
-[Triz-Principle:[[Triz-Use_porous_material]]]]
+[Triz-Principle:: [[Triz-Use_porous_material]]]]
 - [#has_/Cons :: [[Triz-stationary_Volume]]]
 
 

@@ -13,7 +13,7 @@ tags:
 [name::Stability+Flexible_film_or_thin_membranes-Substance-Loss]
 [SpocWebEntityId::23901]
 + [#has_/Pros :: [[Triz-Stability]]]
-[Triz-Principle:[[Triz-Flexible_film_or_thin_membrane]]]]
+[Triz-Principle:: [[Triz-Flexible_film_or_thin_membrane]]]]
 - [#has_/Cons :: Substance-Loss]
 
 

@@ -13,7 +13,7 @@ tags:
 [name::stationary_Area+Flexible_film_or_thin_membranes-Difficulty]
 [SpocWebEntityId::23181]
 + [#has_/Pros :: [[Triz-stationary_Area]]]
-[Triz-Principle:[[Triz-Flexible_film_or_thin_membrane]]]]
+[Triz-Principle:: [[Triz-Flexible_film_or_thin_membrane]]]]
 - [#has_/Cons :: [[Triz-Difficulty]]]
 
 

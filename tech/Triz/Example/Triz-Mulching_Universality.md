@@ -12,7 +12,7 @@ tags:
 ---
 [name::Mulching Universality]
 [SpocWebEntityId::22372]
-[Triz-Principle-Sub:[[Triz-multi-Purpose]]]]
+[Triz-Principle-Sub:: [[Triz-multi-Purpose]]]]
 
 Mulching lawnmower (Yes, it demonstrates both Principles 5 and 6, Merging and Universality.)
 

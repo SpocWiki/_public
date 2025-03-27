@@ -13,7 +13,7 @@ tags:
 [name::Ease_of_operation+Replacement_of_a_mechanical_system-affected_harm]
 [SpocWebEntityId::26045]
 + [#has_/Pros :: [[Triz-Ease_of_operation]]]
-[Triz-Principle:[[Triz-Replace_a_mechanical_system]]]]
+[Triz-Principle:: [[Triz-Replace_a_mechanical_system]]]]
 - [#has_/Cons :: [[Triz-affected_harm]]]
 
 

@@ -13,7 +13,7 @@ tags:
 [name::Power+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Substance-Loss]
 [SpocWebEntityId::24646]
 + [#has_/Pros :: [[Triz-Power]]]
-[Triz-Principle:[[Triz-inexpensive_short-lived_instead_of_expensive_durable]]]]
+[Triz-Principle:: [[Triz-inexpensive_short-lived_instead_of_expensive_durable]]]]
 - [#has_/Cons :: Substance-Loss]
 
 

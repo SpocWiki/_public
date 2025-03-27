@@ -13,7 +13,7 @@ tags:
 [name::Complexity+Use_a_pneumatic_or_hydralic_construction-Substance-Loss]
 [SpocWebEntityId::26358]
 + [#has_/Pros :: [[Triz-Complexity]]]
-[Triz-Principle:[[Triz-Use_pneumatic_or_hydralic]]]]
+[Triz-Principle:: [[Triz-Use_pneumatic_or_hydralic]]]]
 - [#has_/Cons :: Substance-Loss]
 
 

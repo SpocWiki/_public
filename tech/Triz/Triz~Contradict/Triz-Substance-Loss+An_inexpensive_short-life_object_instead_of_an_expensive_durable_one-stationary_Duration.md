@@ -13,7 +13,7 @@ tags:
 [name::Substance-Loss+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-stationary_Duration]
 [SpocWebEntityId::24846]
 + [#has_/Pros :: Substance-Loss]
-[Triz-Principle:[[Triz-inexpensive_short-lived_instead_of_expensive_durable]]]]
+[Triz-Principle:: [[Triz-inexpensive_short-lived_instead_of_expensive_durable]]]]
 - [#has_/Cons :: [[Triz-stationary_Duration]]]
 
 

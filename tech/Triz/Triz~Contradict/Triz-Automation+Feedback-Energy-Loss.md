@@ -13,7 +13,7 @@ tags:
 [name::Automation+Feedback-Energy-Loss]
 [SpocWebEntityId::26581]
 + [#has_/Pros :: [[Triz-Automation]]]
-[Triz-Principle:[[Triz~Sub~feedback]]]]
+[Triz-Principle:: [[Triz~Sub~feedback]]]]
 - [#has_/Cons :: Energy-Loss]
 
 

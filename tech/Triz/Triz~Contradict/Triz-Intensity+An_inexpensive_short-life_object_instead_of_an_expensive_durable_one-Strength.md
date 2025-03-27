@@ -13,7 +13,7 @@ tags:
 [name::Intensity+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Strength]
 [SpocWebEntityId::23523]
 + [#has_/Pros :: [[Triz-Intensity]]]
-[Triz-Principle:[[Triz-inexpensive_short-lived_instead_of_expensive_durable]]]]
+[Triz-Principle:: [[Triz-inexpensive_short-lived_instead_of_expensive_durable]]]]
 - [#has_/Cons :: [[Triz-Strength]]]
 
 

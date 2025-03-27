@@ -13,7 +13,7 @@ tags:
 [name::Shape+Partial,_overdone,_or_excessive_action-Reliability]
 [SpocWebEntityId::23787]
 + [#has_/Pros :: [[Triz-Shape]]]
-[Triz-Principle:[[Triz-Partial_overdone_or_excessive_action]]]]
+[Triz-Principle:: [[Triz-Partial_overdone_or_excessive_action]]]]
 - [#has_/Cons :: [[Triz-Reliability]]]
 
 

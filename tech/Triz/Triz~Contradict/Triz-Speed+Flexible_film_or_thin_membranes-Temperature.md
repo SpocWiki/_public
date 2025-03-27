@@ -13,7 +13,7 @@ tags:
 [name::Speed+Flexible_film_or_thin_membranes-Temperature]
 [SpocWebEntityId::23404]
 + [#has_/Pros :: [[Triz-Speed]]]
-[Triz-Principle:[[Triz-Flexible_film_or_thin_membrane]]]]
+[Triz-Principle:: [[Triz-Flexible_film_or_thin_membrane]]]]
 - [#has_/Cons :: [[Triz-Temperature]]]
 
 

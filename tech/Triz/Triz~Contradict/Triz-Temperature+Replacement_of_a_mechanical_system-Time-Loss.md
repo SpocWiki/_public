@@ -13,7 +13,7 @@ tags:
 [name::Temperature+Replacement_of_a_mechanical_system-Time-Loss]
 [SpocWebEntityId::24301]
 + [#has_/Pros :: [[Triz-Temperature]]]
-[Triz-Principle:[[Triz-Replace_a_mechanical_system]]]]
+[Triz-Principle:: [[Triz-Replace_a_mechanical_system]]]]
 - [#has_/Cons :: Time-Loss]
 
 
