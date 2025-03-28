@@ -74,7 +74,7 @@ has_use:
 astronomic_symbol_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Mars%20symbol%20%28fixed%20width%29.svg"
 parent_astronomical_body: '[[_Standards/WD/WD~Sun]]'
 Commons_category: "Mars (planet)"
-semi-major_axis_of_an_orbit:
+semi_major_axis_of_an_orbit:
 - 1.523679
 - 227936637
 volume_as_quantity: 163180000000

@@ -174,7 +174,7 @@ radius:
 - 60268
 orbital_period: 10757.7365
 longitude_of_ascending_node: 113.66242448
-semi-major_axis_of_an_orbit:
+semi_major_axis_of_an_orbit:
 - 9.53667594
 - 1429394069
 volume_as_quantity: 827130000000000

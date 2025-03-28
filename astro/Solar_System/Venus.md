@@ -85,7 +85,7 @@ orbital_period:
 - 224.7
 - 19414148
 longitude_of_ascending_node: 76.67984255
-semi-major_axis_of_an_orbit:
+semi_major_axis_of_an_orbit:
 - 0.723332
 - 108208930
 volume_as_quantity: 928430000000

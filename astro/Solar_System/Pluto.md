@@ -27,7 +27,7 @@ radius: 1185
 orbital_period: 90553.02
 rotation_period: 6.38723
 longitude_of_ascending_node: 110.30393684
-semi-major_axis_of_an_orbit: 39.48211675
+semi_major_axis_of_an_orbit: 39.48211675
 apoapsis:
 - 49.31
 - 7376671004.22
