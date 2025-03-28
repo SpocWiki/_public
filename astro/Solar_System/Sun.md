@@ -1,64 +1,62 @@
----
+﻿---
 has_id_wikidata: Q525
-different from:
-  - "[[WD/WD~sun]]"
-  - "[[WD/WD~Sonne]]"
-  - "[[WD/WD~RV Sonne]]"
-  - "[[WD/WD~Sonne]]"
-  - "[[WD/WD~Sonne]]"
+different_from:
+- '[[WD/WD~sun]]'
+- '[[WD/WD~Sonne]]'
+- "[[WD/WD~RV Sonne]]"
+- '[[WD/WD~Sonne]]'
+- '[[WD/WD~Sonne]]'
 notation: "[[WD/WD~solar symbol]]"
-depicted by: "[[WD/WD~The Sun in culture]]"
-topic's main template:
-  - "[[WD/WD~Template:The Sun]]"
-  - "[[WD/WD~Template:Infobox Sun]]"
-has boundary:
-  - "[[WD/WD~solar corona]]"
-  - "[[WD/WD~photosphere]]"
-has part(s): "[[WD/WD~solar prominence]]"
-parent astronomical body: "[[WD/WD~Galactic Center of Milky Way]]"
-Colon Classification: B93
-video: http://commons.wikimedia.org/wiki/Special:FilePath/AR1520%20and%20Shimmering%20Coronal%20Loops.ogv
-spoken text audio:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Da-Solen.ogg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Pt%20Sol%20intro.ogg
-pronunciation audio:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q33965%20%28sat%29-Rocky%20734-%E1%B1%A5%E1%B1%A4%E1%B1%A7%20%E1%B1%AA%E1%B1%9F%E1%B1%B8%E1%B1%AB%E1%B1%9A.wav
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Q525-ar.ogg
-model image: http://commons.wikimedia.org/wiki/Special:FilePath/Model%20of%20the%20sun%2C%20Jodrell%20Bank%20Observatory.jpg
-astronomic symbol image: http://commons.wikimedia.org/wiki/Special:FilePath/Sun%20symbol%20%28fixed%20width%29.svg
-Unicode character: ☉
-U.S. National Archives Identifier: "10046626"
-Krugosvet article: nauka_i_tehnika/astronomiya/SOLNTSE.html
-permanent duplicated item: "[[WD/WD~Q110408133]]"
-Stack Exchange tag: https://astronomy.stackexchange.com/tags/the-sun
-image: http://commons.wikimedia.org/wiki/Special:FilePath/Our%20Sun%20at%20a%20distance%20of%20150%20Mio.%20km.jpg
-apparent magnitude: -26.832
-part of: "[[WD/WD~Solar System]]"
-instance of: "[[WD/WD~G-type main-sequence star]]"
-distance from Earth: 1
+depicted_by: "[[WD/WD~The Sun in culture]]"
+topic_s_main_template:
+- "[[WD/WD~Template:The Sun]]"
+- "[[WD/WD~Template:Infobox Sun]]"
+has_boundary:
+- "[[WD/WD~solar corona]]"
+- '[[WD/WD~photosphere]]'
+has_part_s_: "[[WD/WD~solar prominence]]"
+parent_astronomical_body: "[[WD/WD~Galactic Center of Milky Way]]"
+Colon_Classification: B93
+video: "http://commons.wikimedia.org/wiki/Special:FilePath/AR1520%20and%20Shimmering%20Coronal%20Loops.ogv"
+spoken_text_audio:
+- "http://commons.wikimedia.org/wiki/Special:FilePath/Da-Solen.ogg"
+- "http://commons.wikimedia.org/wiki/Special:FilePath/Pt%20Sol%20intro.ogg"
+pronunciation_audio:
+- "http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q33965%20%28sat%29-Rocky%20734-%E1%B1%A5%E1%B1%A4%E1%B1%A7%20%E1%B1%AA%E1%B1%9F%E1%B1%B8%E1%B1%AB%E1%B1%9A.wav"
+- "http://commons.wikimedia.org/wiki/Special:FilePath/Q525-ar.ogg"
+model_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Model%20of%20the%20sun%2C%20Jodrell%20Bank%20Observatory.jpg"
+astronomic_symbol_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Sun%20symbol%20%28fixed%20width%29.svg"
+Unicode_character: ☉
+U_S_National_Archives_Identifier: 10046626
+Krugosvet_article: nauka_i_tehnika/astronomiya/SOLNTSE.html
+permanent_duplicated_item: '[[WD/WD~Q110408133]]'
+Stack_Exchange_tag: "https://astronomy.stackexchange.com/tags/the-sun"
+image: "http://commons.wikimedia.org/wiki/Special:FilePath/Our%20Sun%20at%20a%20distance%20of%20150%20Mio.%20km.jpg"
+apparent_magnitude: -26.832
+part_of: "[[WD/WD~Solar System]]"
+instance_of: "[[WD/WD~G-type main-sequence star]]"
+distance_from_Earth: 1
 radius: 1
 flattening: 0.000009
 metallicity: 0.0122
-volume as quantity: 1410000000000000000
+volume_as_quantity: 1410000000000000000
 temperature: 15700000
-surface gravity: 274
-age estimated by a dating method: 4.57
-absolute magnitude: 4.83
+surface_gravity: 274
+age_estimated_by_a_dating_method: 4.57
+absolute_magnitude: 4.83
 area: 6090000000000
 density: 1.408
-angular diameter: 32.15
+angular_diameter: 32.15
 luminosity: 382800000000000000
 perimeter: 4379000
-OmegaWiki Defined Meaning: "5850"
+OmegaWiki_Defined_Meaning: 5850
 mass: 1988550
-spectral class: G2V
-Commons gallery: Sun
-Commons category: Sun
-Archive of Our Own tag: Sun
-ARICNS: "00001"
+spectral_class: G2V
+Commons_gallery: Sun
+Commons_category: Sun
+Archive_of_Our_Own_tag: Sun
+ARICNS: 00001
 ---
-
-
 
 > The **Sun** is the star at the center of the [[Solar_System]]. 
 > 

@@ -1,11 +1,11 @@
----
+﻿---
 type: Continent
 SpocWebEntityId: 1111
-confidential:: public
-aliases: 
+confidential_: public
+aliases:
 - Europa
 tags:
-  - geo/Continent
+- geo/Continent
 isDeleted: false
 ---
 
