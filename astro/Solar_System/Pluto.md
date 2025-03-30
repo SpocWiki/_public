@@ -5,7 +5,7 @@ Commons_category: "134340 Pluto"
 Unicode_character:
 - ♇
 - ⯓
-time_of_discovery_or_invention: "1930-02-18T00:00:00Z"
+time_of_discovery_or_invention: "1930-02-18"
 Commons_gallery: "134340 Pluto"
 orbital_eccentricity: 0.24880766
 flattening: 1

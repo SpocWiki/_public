@@ -86,7 +86,7 @@ Commons_category: "Uranus (planet)"
 Unicode_character:
 - ⛢
 - ♅
-time_of_discovery_or_invention: "1781-03-13T00:00:00Z"
+time_of_discovery_or_invention: "1781-03-13"
 Commons_gallery: Uranus
 Dewey_Decimal_Classification:
 - 2--9927

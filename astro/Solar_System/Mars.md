@@ -25,7 +25,7 @@ rotation_period: 24.6229
 history_of_topic: "[[_Standards/WD/WD~history of Mars observation]]"
 longitude_of_ascending_node: 49.55953892
 Unicode_character: ♂
-inception: "-4540000000-01-01T00:00:00Z"
+inception: "-4540000000"
 Commons_gallery: Mars
 Dewey_Decimal_Classification:
 - 523.44
