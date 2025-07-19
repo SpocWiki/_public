@@ -2,7 +2,7 @@
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Fiction](/_Standards/Media/Genre/Fiction.md) 
+### #is_/same_as :: [Fiction](../../../_Standards/Society/Communication/Media/Genre/Fiction.md) 
 
 ### #is_/same_as :: [Fiction.public](/_public/Media/Genre/Fiction.public.md) 
 

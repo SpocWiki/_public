@@ -12,7 +12,7 @@ type: folder_brief_live
 
 
 ## Confidential Links & Embeds: 
-- [[../_Standards/gs1|gs1]] 
+- [[../_Standards/Unit/gs1|gs1]] 
 - [[../_public/gs1.public|gs1.public]] 
 - [[../_internal/gs1.internal|gs1.internal]] 
 - [[../_protect/gs1.protect|gs1.protect]] 
