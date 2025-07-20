@@ -122,7 +122,7 @@ Capital :: [[Duala_Buea_(after_1910)]]
 
 ![[Coat_of_arms_of_Cameroon.svg|350]] 
 
-![[Anthem-Cameroon.mp3]] 
+![[../../../../xLarge.public/National-Anthem/Anthem-Cameroon.mp3]] 
 
 ![[Flag_of_Cameroon.svg|350]] 
 [Alcohol-l::7.6] 

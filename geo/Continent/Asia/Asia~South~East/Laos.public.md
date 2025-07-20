@@ -125,7 +125,7 @@ Capital :: [[Laos/Counties/Vientiane]]
 
 ![[Emblem_of_Laos.svg|350]] 
 
-![[Anthem-Laos.mp3]] 
+![[../../../../xLarge.public/National-Anthem/Anthem-Laos.mp3]] 
 
 ![[Flag_of_Laos.svg|350]] 
 

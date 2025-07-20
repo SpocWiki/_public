@@ -127,7 +127,7 @@ Capital :: [[Italy/Counties/Lazio/Roma/City/Roma]]
 
 ![[Emblem_of_Italy.svg|350]] 
 
-![[Anthem-Italy.mp3]] 
+![[../../../../xLarge.public/National-Anthem/Anthem-Italy.mp3]] 
 
 ![[Flag_of_Italy.svg|350]] 
 

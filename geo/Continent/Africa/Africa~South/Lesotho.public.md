@@ -121,7 +121,7 @@ Capital :: [[Maseru]]
 
 ![[Coat_of_arms_of_Lesotho.svg|550]] 
 
-![[Anthem-Lesotho.mp3]] 
+![[../../../../xLarge.public/National-Anthem/Anthem-Lesotho.mp3]] 
 
 ![[Flag_of_Lesotho.svg|350]] 
 [Alcohol-l::5.6] 

@@ -119,7 +119,7 @@ Capital :: [[Wellington]]
 
 ![[Coat_of_arms_of_New_Zealand.svg|550]] 
 
-![[Anthem-New-zealand-god-defend-new-zealand.mp3]] 
+![[../../../xLarge.public/National-Anthem/Anthem-New-zealand-god-defend-new-zealand.mp3]] 
 
 ![[Flag_of_New_Zealand.svg|350]] 
 

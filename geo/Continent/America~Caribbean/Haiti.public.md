@@ -121,7 +121,7 @@ Capital :: [[Haiti/Counties/Ouest/City/Port-au-Prince]]
 
 ![[Haiti/Coat_of_arms_of_Haiti.svg|450]]
 
-![[Anthem-Haiti.mp3]]
+![[../../../xLarge.public/National-Anthem/Anthem-Haiti.mp3]]
 
 ![[Haiti/Flag_of_Haiti.svg|350]]
 

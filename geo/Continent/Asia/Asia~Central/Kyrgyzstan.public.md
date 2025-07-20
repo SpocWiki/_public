@@ -121,7 +121,7 @@ Continent :: [[Asia]]
 Capital :: [[Kyrgyzstan/Counties/Bishkek/City/Bishkek]]  
 ![[Kyrgyzstan/Emblem_of_Kyrgyzstan.svg|350]]  
 
-![[Anthem-Kyrgyzstan.mp3]] 
+![[../../../../xLarge.public/National-Anthem/Anthem-Kyrgyzstan.mp3]] 
 ![[Kyrgyzstan/Flag_of_Kyrgyzstan.svg|350]]  
 
 [Alcohol-l::5.1] 

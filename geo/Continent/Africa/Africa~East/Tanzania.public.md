@@ -125,7 +125,7 @@ Capital :: [[Dodoma]]
 
 ![[Coat_of_arms_of_Tanzania.svg|350]] 
 
-![[Anthem-Tanzania.mp3]] 
+![[../../../../xLarge.public/National-Anthem/Anthem-Tanzania.mp3]] 
 
 ![[Flag_of_Tanzania.svg|350]] 
 

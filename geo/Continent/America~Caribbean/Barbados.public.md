@@ -118,7 +118,7 @@ Capital :: [[Barbados/City/Bridgetown]]
 
 ![[Barbados/Coat_of_arms_of_Barbados.svg|550]]
 
-![[Anthem-Barbados.mp3]]
+![[../../../xLarge.public/National-Anthem/Anthem-Barbados.mp3]]
 
 ![[Barbados/Flag_of_Barbados.svg|350]]
 

@@ -117,7 +117,7 @@ Capital :: [[Canberra]]
 
 ![[Coat_of_arms_of_Australia.svg|550]] 
 
-![[../../../xLarge/National-Anthem/Anthem-Australia.mp3]] 
+![[../../../xLarge.public/National-Anthem/Anthem-Australia.mp3]] 
 ] 
 ![[Flag_of_Australia.svg|350]] 
 

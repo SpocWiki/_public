@@ -121,7 +121,7 @@ Capital :: [[Accra]]
 
 ![[Coat_of_arms_of_Ghana.svg|350]] 
 
-![[Anthem-Ghana.mp3]] 
+![[../../../../xLarge.public/National-Anthem/Anthem-Ghana.mp3]] 
 
 ![[Flag_of_Ghana.svg|350]] 
 

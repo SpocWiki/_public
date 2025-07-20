@@ -118,7 +118,7 @@ Capital :: [[Belize/Counties/Cayo/City/Belmopan]]
 
 ![[Belize/Coat_of_arms_of_Belize.svg|350]] 
 
-![[Anthem-Belize.mp3]] 
+![[../../../xLarge.public/National-Anthem/Anthem-Belize.mp3]] 
 
 ![[Belize/Flag_of_Belize.svg|350]] 
 

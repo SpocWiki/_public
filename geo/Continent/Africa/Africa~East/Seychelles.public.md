@@ -119,7 +119,7 @@ Capital :: [[../Seychelles/Counties/English_River/City/Victoria]]
 
 ![[Coat_of_arms_of_Seychelles.svg|550]] 
 
-![[Anthem-Seychelles.mp3]] 
+![[../../../../xLarge.public/National-Anthem/Anthem-Seychelles.mp3]] 
 
 ![[Flag_of_Seychelles.svg|350]] 
 

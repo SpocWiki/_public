@@ -119,7 +119,7 @@ Capital :: [[Conakry]]
 
 ![[Coat_of_arms_of_Guinea.svg|350]] 
 
-![[Anthem-Guinea.mp3]] 
+![[../../../../xLarge.public/National-Anthem/Anthem-Guinea.mp3]] 
 
 ![[Flag_of_Guinea.svg|350]] 
 [Alcohol-l::0.8] 

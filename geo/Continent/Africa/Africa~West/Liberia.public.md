@@ -119,7 +119,7 @@ Capital :: [[Monrovia]]
 
 ![[Coat_of_arms_of_Liberia.svg|350]] 
 
-![[Anthem-Liberia.mp3]] 
+![[../../../../xLarge.public/National-Anthem/Anthem-Liberia.mp3]] 
 
 ![[Flag_of_Liberia.svg|350]] 
 

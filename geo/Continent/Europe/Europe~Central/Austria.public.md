@@ -122,7 +122,7 @@ Capital :: [[../../../../../../../../_Standards/geo/Continent/Europe/Europe~Cent
 
 
 ![[Coat_of_arms_of_Austria.svg|350]] 
-![[Anthem-Austria.mp3]] 
+![[../../../../xLarge.public/National-Anthem/Anthem-Austria.mp3]] 
 ![[Flag_of_Austria.svg|350]] 
 
 [Alcohol-l::13.2] 

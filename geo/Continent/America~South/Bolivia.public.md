@@ -124,7 +124,7 @@ Capital :: [[Bolivia/Counties/Chuquisaca/City/Sucre]]
 
 ![[Bolivia/Coat_of_arms_of_Bolivia.svg|550]] 
 
-![[Anthem-Bolivia.mp3]] 
+![[../../../xLarge.public/National-Anthem/Anthem-Bolivia.mp3]] 
 
 ![[Bolivia/Flag_of_Bolivia.svg|350]] 
 

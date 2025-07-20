@@ -122,7 +122,7 @@ Capital :: [[Uzbekistan/Counties/Tashkent/City/Taschkent]]
 
 ![[Uzbekistan/Emblem_of_Uzbekistan.svg|350]] 
 
-![[Anthem-Uzbekistan.mp3]] 
+![[../../../../xLarge.public/National-Anthem/Anthem-Uzbekistan.mp3]] 
 
 ![[Uzbekistan/Flag_of_Uzbekistan.svg|350]] 
 

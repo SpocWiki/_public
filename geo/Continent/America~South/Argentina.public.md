@@ -126,7 +126,7 @@ Capital :: [[Argentina/Counties/Ciudad_de_Buenos_Aires/City/Buenos_Aires]]
 
 ![[Argentina/Coat_of_arms_of_Argentina.svg|350]] 
 
-![[../../../xLarge/National-Anthem/Anthem-Argentina.mp3]] 
+![[../../../xLarge.public/National-Anthem/Anthem-Argentina.mp3]] 
 
 ![[Argentina/Flag_of_Argentina.svg|350]] 
 

@@ -117,7 +117,7 @@ Capital :: [[Ouagadougou]]
 
 ![[Coat_of_arms_of_Burkina_Faso.svg|350]] 
 
-![[Anthem-Burkina-faso.mp3]] 
+![[../../../../xLarge.public/National-Anthem/Anthem-Burkina-faso.mp3]] 
 
 ![[Flag_of_Burkina_Faso.svg|350]] 
 [Alcohol-l::7] 

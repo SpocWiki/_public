@@ -124,7 +124,7 @@ Capital :: [[Singapore=Singapur]]
 
 ![[Coat_of_arms_of_Singapore.svg|350]] 
 
-![[Anthem-Singapore.mp3]] 
+![[../../../../xLarge.public/National-Anthem/Anthem-Singapore.mp3]] 
 
 ![[Flag_of_Singapore.svg|350]] 
 

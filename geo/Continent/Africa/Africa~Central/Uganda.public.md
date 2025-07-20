@@ -122,7 +122,7 @@ Capital :: [[Kampala]]
 
 ![[Coat_of_arms_of_Uganda.svg|450]] 
 
-![[Anthem-Uganda.mp3]] 
+![[../../../../xLarge.public/National-Anthem/Anthem-Uganda.mp3]] 
 
 ![[Flag_of_Uganda.svg|350]] 
 

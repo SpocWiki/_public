@@ -123,7 +123,7 @@ Continent :: [[Africa]]
 
 ![[Seal_of_the_Comoros.svg|350]] 
 
-![[Anthem-Comoros.mp3]] 
+![[../../../../xLarge.public/National-Anthem/Anthem-Comoros.mp3]] 
 
 ![[Flag_of_the_Comoros.svg|350]] 
 [Alcohol-l::0.4] 

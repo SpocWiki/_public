@@ -121,7 +121,7 @@ Capital :: [[Honduras/Counties/Francisco_Morazán/City/Tegucigalpa]]
 
 ![[Honduras/Coat_of_arms_of_Honduras.svg|350]] 
 
-![[Anthem-Honduras.mp3]] 
+![[../../../xLarge.public/National-Anthem/Anthem-Honduras.mp3]] 
 
 ![[Honduras/Flag_of_Honduras.svg|350]] 
 

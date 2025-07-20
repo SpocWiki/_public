@@ -118,7 +118,7 @@ Continent :: [[Asia]]
 Capital :: [[Qatar/Counties/Ad_Dawhah/City/Doha]]  
 ![[Qatar/Emblem_of_Qatar.svg|350]]  
 
-![[Anthem-Qatar.mp3]] 
+![[../../../../xLarge.public/National-Anthem/Anthem-Qatar.mp3]] 
 ![[Qatar/Flag_of_Qatar.svg|350]]  
 
 [Alcohol-l::1.3] 

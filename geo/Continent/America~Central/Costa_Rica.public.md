@@ -119,7 +119,7 @@ Capital :: [[Costa_Rica/Counties/San_José/City/San_José=San_Jose]]
 
 ![[Costa_Rica/Coat_of_arms_of_Costa_Rica.svg|350]] 
 
-![[Anthem-Costa-rica.mp3]] 
+![[../../../xLarge.public/National-Anthem/Anthem-Costa-rica.mp3]] 
 
 ![[Costa_Rica/Flag_of_Costa_Rica.svg|350]] 
 

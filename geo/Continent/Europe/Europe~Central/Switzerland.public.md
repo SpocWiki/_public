@@ -124,7 +124,7 @@ Capital :: [[geo/Continent/Europe/Europe~Central/Switzerland/Switzerland~Countie
 
 ![[Coat_of_arms_of_Switzerland.svg|350]] 
 
-![[Anthem-Switzerland.mp3]] 
+![[../../../../xLarge.public/National-Anthem/Anthem-Switzerland.mp3]] 
 
 ![[Flag_of_Switzerland.svg|350]] 
 [Alcohol-l::11.1] 

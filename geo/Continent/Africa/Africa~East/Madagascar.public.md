@@ -119,7 +119,7 @@ Capital :: [[Antananarivo]]
 
 ![[Seal_of_Madagascar.svg|350]] 
 
-![[Anthem-Madagascar.mp3]] 
+![[../../../../xLarge.public/National-Anthem/Anthem-Madagascar.mp3]] 
 
 ![[Flag_of_Madagascar.svg|350]] 
 

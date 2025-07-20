@@ -120,7 +120,7 @@ Continent :: [[Asia]]
 Capital :: [[Tajikistan/Counties/Dushanbe/City/Dushanbe]]  
 ![[Tajikistan/Emblem_of_Tajikistan.svg|350]]  
 
-![[Anthem-Tajikistan.mp3]] 
+![[../../../../xLarge.public/National-Anthem/Anthem-Tajikistan.mp3]] 
 ![[Tajikistan/Flag_of_Tajikistan.svg|350]]  
 
 [Alcohol-l::3.4] 

@@ -119,7 +119,7 @@ Capital :: [[Nicaragua/Counties/Managua/City/Managua]]
 
 ![[Nicaragua/Coat_of_arms_of_Nicaragua.svg|350]] 
 
-![[Anthem-Nicaragua.mp3]] 
+![[../../../xLarge.public/National-Anthem/Anthem-Nicaragua.mp3]] 
 
 ![[Nicaragua/Flag_of_Nicaragua.svg|350]] 
 

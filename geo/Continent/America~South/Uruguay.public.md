@@ -118,7 +118,7 @@ Continent :: [[South-America]]
 Capital :: [[Uruguay/Counties/Montevideo/City/Montevideo]]  
 ![[Uruguay/Coat_of_arms_of_Uruguay.svg|350]] 
 
-![[../../../xLarge/National-Anthem/Anthem-Uruguay.mp3]] 
+![[../../../xLarge.public/National-Anthem/Anthem-Uruguay.mp3]] 
 
 ![[Uruguay/Flag_of_Uruguay.svg|350]] 
 

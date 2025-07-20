@@ -120,9 +120,7 @@ Continent :: [[South-America]]
 [VehicleCode::YV] 
 Capital :: [[Venezuela/Counties/Distrito_Capital/City/Caracas]]  
 
-![[Venezuela/Coat_of_arms_of_Venezuela.svg|350]] 
-
-![[Anthem-Venezuela.mp3]] 
+![[Venezuela/Coat_of_arms_of_Venezuela.svg|350]] ![[../../../xLarge.public/National-Anthem/Anthem-Venezuela.mp3]]]] 
 
 ![[Venezuela/Flag_of_Venezuela.svg|350]] 
 

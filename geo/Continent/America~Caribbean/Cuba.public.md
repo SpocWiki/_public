@@ -118,9 +118,7 @@ Continent :: [[South-America]]
 [VehicleCode::C]
 Capital :: [[Cuba/City/Habana=Havana=Havanna]]  
 
-![[Cuba/Coat_of_arms_of_Cuba.svg|350]]
-
-![[Anthem-Cuba.mp3]]
+![[Cuba/Coat_of_arms_of_Cuba.svg|350]]![[../../../xLarge.public/National-Anthem/Anthem-Cuba.mp3]]]]
 
 ![[Cuba/Flag_of_Cuba.svg|350]]
 

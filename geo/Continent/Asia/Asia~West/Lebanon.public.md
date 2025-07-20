@@ -123,7 +123,7 @@ Continent :: [[Asia]]
 Capital :: [[Lebanon/Counties/Beirut/City/Beirut]]  
 ![[Lebanon/Coat_of_arms_of_Lebanon.svg|350]]  
 
-![[Anthem-Lebanon.mp3]] 
+![[../../../../xLarge.public/National-Anthem/Anthem-Lebanon.mp3]] 
 ![[Lebanon/Flag_of_Lebanon.svg|350]]  
 
 [Alcohol-l::2.2] 

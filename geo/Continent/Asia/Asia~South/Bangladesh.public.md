@@ -119,7 +119,7 @@ Capital :: [[Bangladesh/Counties/Dhaka/City/Dhaka]]
 
 ![[Coat_of_arms_of_Bangladesh.svg|350]] 
 
-![[Anthem-Bangladesh.mp3]] 
+![[../../../../xLarge.public/National-Anthem/Anthem-Bangladesh.mp3]] 
 ![[Bangladesh/Flag_of_Bangladesh.svg|350]]  
 
 [Alcohol-l::0.2] 

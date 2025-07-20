@@ -144,7 +144,7 @@ Continent :: [[Asia]]
 Capital :: [[India/Counties/Delhi/City/New_Delhi]]  
 ![[India/Emblem_of_India.svg|350]]  
 
-![[Anthem-India.mp3]] 
+![[../../../../xLarge.public/National-Anthem/Anthem-India.mp3]] 
 ![[India/Flag_of_India.svg|350]]  
 
 [Alcohol-l::2.6] 

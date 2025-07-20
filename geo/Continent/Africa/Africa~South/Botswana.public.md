@@ -119,7 +119,7 @@ Capital :: [[Gaborone]]
 
 ![[Coat_of_arms_of_Botswana.svg|350]] 
 
-![[Anthem-Botswana.mp3]] 
+![[../../../../xLarge.public/National-Anthem/Anthem-Botswana.mp3]] 
 
 ![[Flag_of_Botswana.svg|350]] 
 [Alcohol-l::8] 

@@ -118,9 +118,7 @@ Continent :: [[South-America]]
 [VehicleCode::CO] 
 Capital :: [[Colombia/Counties/Bogota/City/Bogota]]  
 
-![[Colombia/Coat_of_arms_of_Colombia.svg|550]] 
-
-![[Anthem-Colombia.mp3]] 
+![[Colombia/Coat_of_arms_of_Colombia.svg|550]] ![[../../../xLarge.public/National-Anthem/Anthem-Colombia.mp3]]]] 
 
 ![[Colombia/Flag_of_Colombia.svg|350]] 
 
