@@ -1,38 +1,37 @@
----
-location:
-- 42.9342
-- 25.3029
-type: Country
-tags:
-- geo/Country
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-source: https://datahub.io/core/country-codes
-cssclasses: Country
-publish: true
-title: Bulgaria
-linkTitle: 
-keywords: 
-layout: 
-draft: false
-publishDate: 
-expiryDate: 
+﻿---
 aliases:
 - Bulgaria
 - Bulgarie
 - بلغاريا
 - 保加利亚
 - Болгария
-- the Republic of Bulgaria
-- la República de Bulgaria
+- "the Republic of Bulgaria"
+- "la República de Bulgaria"
+confidential: public
+cssclasses: Country
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords: 
 Languages:
 - bg
 - tr-BG
 - rom
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: 
+location:
+- 42.9342
+- 25.3029
+publish: true
+publishDate: 
+source: "https://datahub.io/core/country-codes"
+tags:
+- geo/Country
+title: Bulgaria
+type: Country
 ---
-
 
 [	ISO4217-currency_alphabetic	 :: BGN ] 
 [	ISO4217-currency_name	 :: Bulgarian Lev ] 

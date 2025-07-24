@@ -1,15 +1,16 @@
 ﻿---
-type: TrizContradiction
 aliases:
 - Manufacturing_Precision+Flexible_film_or_thin_membranes-Shape
-license: CC BY-SA 4.0
-copyright: https://github.com/SpocWeb
+Confidential: public
+copyright: "https://github.com/SpocWeb"
 IsDeleted: false
 IsReadOnly: false
-Confidential: public
-tags: 
+license: "CC BY-SA 4.0"
+tags:
 - Triz/Contradiction
+type: TrizContradiction
 ---
+
 [name::Manufacturing_Precision+Flexible_film_or_thin_membranes-Shape]
 [SpocWebEntityId::25518]
 + [#has_/Pros :: [[Triz-Manufacturing_Precision]]]

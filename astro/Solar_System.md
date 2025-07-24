@@ -1,8 +1,7 @@
----
+﻿---
 aliases:
-  - Solar System
+- "Solar System"
 ---
-
 
 > The Solar System is the gravitationally bound system of the [[Sun]] and the objects that orbit it. 
 > It was formed 4.6 billion years ago when a dense region of a molecular cloud collapsed, 

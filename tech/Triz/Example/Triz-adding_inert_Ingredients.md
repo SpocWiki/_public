@@ -1,15 +1,16 @@
 ﻿---
-type: TrizExample
 aliases:
-- adding inert Ingredients
-license: CC BY-SA 4.0
-copyright: https://github.com/SpocWeb
+- "adding inert Ingredients"
+Confidential: public
+copyright: "https://github.com/SpocWeb"
 IsDeleted: false
 IsReadOnly: false
-Confidential: public
-tags: 
+license: "CC BY-SA 4.0"
+tags:
 - Triz/Principle/Example
+type: TrizExample
 ---
+
 [name::adding inert Ingredients]
 [SpocWebEntityId::22552]
 [Triz-Principle-Sub::[[Triz-inert-additives]]]

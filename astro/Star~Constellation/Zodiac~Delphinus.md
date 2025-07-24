@@ -1,11 +1,12 @@
----
-type: Zodiac
+﻿---
+confidential: public
 isDeleted: false
 isReadOnly: false
-confidential: public
 tags:
-  - astro/Zodiac
+- astro/Zodiac
+type: Zodiac
 ---
+
 [SpocWebEntityId::28114]
 
 

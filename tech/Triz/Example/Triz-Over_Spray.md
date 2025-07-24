@@ -1,15 +1,16 @@
 ﻿---
-type: TrizExample
 aliases:
-- Over Spray
-license: CC BY-SA 4.0
-copyright: https://github.com/SpocWeb
+- "Over Spray"
+Confidential: public
+copyright: "https://github.com/SpocWeb"
 IsDeleted: false
 IsReadOnly: false
-Confidential: public
-tags: 
+license: "CC BY-SA 4.0"
+tags:
 - Triz/Principle/Example
+type: TrizExample
 ---
+
 [name::Over Spray]
 [SpocWebEntityId::22435]
 [Triz-Principle-Sub::[[Triz-accept-less]]]

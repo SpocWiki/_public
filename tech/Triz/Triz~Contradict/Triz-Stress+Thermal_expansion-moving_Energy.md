@@ -1,15 +1,16 @@
 ﻿---
-type: TrizContradiction
 aliases:
 - Stress+Thermal_expansion-moving_Energy
-license: CC BY-SA 4.0
-copyright: https://github.com/SpocWeb
+Confidential: public
+copyright: "https://github.com/SpocWeb"
 IsDeleted: false
 IsReadOnly: false
-Confidential: public
-tags: 
+license: "CC BY-SA 4.0"
+tags:
 - Triz/Contradiction
+type: TrizContradiction
 ---
+
 [name::Stress+Thermal_expansion-moving_Energy]
 [SpocWebEntityId::23658]
 + [#has_/Pros :: [[Triz-Stress]]]

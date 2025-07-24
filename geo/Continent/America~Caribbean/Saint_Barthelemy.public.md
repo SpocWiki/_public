@@ -1,19 +1,18 @@
 ﻿---
-location: [ 17.91 , -62.83 ] 
-
-type: Country
-tags:
-- geo/Country
-
 aliases:
 - St._Barthélemy
 - Saint_Barthélemy
-
-SpocWebEntityId: 76723
-isDeleted: false
 confidential: public
-
+isDeleted: false
+location:
+- 17.91
+- -62.83
+SpocWebEntityId: 76723
+tags:
+- geo/Country
+type: Country
 ---
+
 [ISO2::]
 [ISO3::]
 

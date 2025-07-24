@@ -1,39 +1,38 @@
----
-location:
-- -13.95
-- 33.7
-type: Country
-tags:
-- geo/Country
-SpocWebEntityId: 26973
-isDeleted: false
-confidential: public
-license: CC BY-SA 4.0
-isReadOnly: false
-source: https://datahub.io/core/country-codes
-cssclasses: Country
-publish: true
-title: Malawi
-linkTitle: 
-keywords: 
-layout: 
-draft: false
-publishDate: 
-expiryDate: 
+﻿---
 aliases:
 - Malawi
 - ملاوي
 - 马拉维
 - Малави
-- the Republic of Malawi
-- la República de Malawi
+- "the Republic of Malawi"
+- "la República de Malawi"
+confidential: public
+cssclasses: Country
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords: 
 Languages:
 - ny
 - yao
 - tum
 - swk
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: 
+location:
+- -13.95
+- 33.7
+publish: true
+publishDate: 
+source: "https://datahub.io/core/country-codes"
+SpocWebEntityId: 26973
+tags:
+- geo/Country
+title: Malawi
+type: Country
 ---
-
 
 [	ISO4217-currency_alphabetic	 :: MWK ] 
 [	ISO4217-currency_name	 :: Malawi Kwacha ] 

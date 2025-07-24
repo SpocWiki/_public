@@ -1,15 +1,16 @@
 ﻿---
-type: TrizContradiction
 aliases:
 - Intensity+Segmentation-moving_Weight
-license: CC BY-SA 4.0
-copyright: https://github.com/SpocWeb
+Confidential: public
+copyright: "https://github.com/SpocWeb"
 IsDeleted: false
 IsReadOnly: false
-Confidential: public
-tags: 
+license: "CC BY-SA 4.0"
+tags:
 - Triz/Contradiction
+type: TrizContradiction
 ---
+
 [name::Intensity+Segmentation-moving_Weight]
 [SpocWebEntityId::23478]
 + [#has_/Pros :: [[Triz-Intensity]]]

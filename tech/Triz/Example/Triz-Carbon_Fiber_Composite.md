@@ -1,15 +1,16 @@
 ﻿---
-type: TrizExample
 aliases:
-- Carbon Fiber Composite
-license: CC BY-SA 4.0
-copyright: https://github.com/SpocWeb
+- "Carbon Fiber Composite"
+Confidential: public
+copyright: "https://github.com/SpocWeb"
 IsDeleted: false
 IsReadOnly: false
-Confidential: public
-tags: 
+license: "CC BY-SA 4.0"
+tags:
 - Triz/Principle/Example
+type: TrizExample
 ---
+
 [name::Carbon Fiber Composite]
 [SpocWebEntityId::22554]
 [Triz-Principle-Sub:: [[Triz-composite-material]]]]

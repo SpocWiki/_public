@@ -1,39 +1,38 @@
----
-location:
-- 49.6827
-- 6.07904
-type: Country
-tags:
-- geo/Country
-SpocWebEntityId: 26953
-isDeleted: false
-confidential: public
-license: CC BY-SA 4.0
-isReadOnly: false
-source: https://datahub.io/core/country-codes
-cssclasses: Country
-publish: true
-title: Luxembourg
-linkTitle: 
-keywords: 
-layout: 
-draft: false
-publishDate: 
-expiryDate: 
+﻿---
 aliases:
 - Luxembourg
 - Luxemburgo
 - لكسمبرغ
 - 卢森堡
 - Люксембург
-- the Grand Duchy of Luxembourg
-- el Gran Ducado de Luxemburgo
+- "the Grand Duchy of Luxembourg"
+- "el Gran Ducado de Luxemburgo"
+confidential: public
+cssclasses: Country
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords: 
 Languages:
 - lb
 - de-LU
 - fr-LU
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: 
+location:
+- 49.6827
+- 6.07904
+publish: true
+publishDate: 
+source: "https://datahub.io/core/country-codes"
+SpocWebEntityId: 26953
+tags:
+- geo/Country
+title: Luxembourg
+type: Country
 ---
-
 
 [	ISO4217-currency_alphabetic	 :: EUR ] 
 [	ISO4217-currency_name	 :: Euro ] 

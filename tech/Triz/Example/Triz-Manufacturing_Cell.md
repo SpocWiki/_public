@@ -1,15 +1,16 @@
 ﻿---
-type: TrizExample
 aliases:
-- Manufacturing Cell
-license: CC BY-SA 4.0
-copyright: https://github.com/SpocWeb
+- "Manufacturing Cell"
+Confidential: public
+copyright: "https://github.com/SpocWeb"
 IsDeleted: false
 IsReadOnly: false
-Confidential: public
-tags: 
+license: "CC BY-SA 4.0"
+tags:
 - Triz/Principle/Example
+type: TrizExample
 ---
+
 [name::Manufacturing Cell]
 [SpocWebEntityId::22403]
 [Triz-Principle-Sub::[[Triz-arrange-parts]]]

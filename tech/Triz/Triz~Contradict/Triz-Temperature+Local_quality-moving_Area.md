@@ -1,15 +1,16 @@
 ﻿---
-type: TrizContradiction
 aliases:
 - Temperature+Local_quality-moving_Area
-license: CC BY-SA 4.0
-copyright: https://github.com/SpocWeb
+Confidential: public
+copyright: "https://github.com/SpocWeb"
 IsDeleted: false
 IsReadOnly: false
-Confidential: public
-tags: 
+license: "CC BY-SA 4.0"
+tags:
 - Triz/Contradiction
+type: TrizContradiction
 ---
+
 [name::Temperature+Local_quality-moving_Area]
 [SpocWebEntityId::24237]
 + [#has_/Pros :: [[Triz-Temperature]]]

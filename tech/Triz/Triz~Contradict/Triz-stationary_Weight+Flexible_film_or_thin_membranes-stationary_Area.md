@@ -1,15 +1,16 @@
 ﻿---
-type: TrizContradiction
 aliases:
 - stationary_Weight+Flexible_film_or_thin_membranes-stationary_Area
-license: CC BY-SA 4.0
-copyright: https://github.com/SpocWeb
+Confidential: public
+copyright: "https://github.com/SpocWeb"
 IsDeleted: false
 IsReadOnly: false
-Confidential: public
-tags: 
+license: "CC BY-SA 4.0"
+tags:
 - Triz/Contradiction
+type: TrizContradiction
 ---
+
 [name::stationary_Weight+Flexible_film_or_thin_membranes-stationary_Area]
 [SpocWebEntityId::22701]
 + [#has_/Pros :: [[Triz-stationary_Weight]]]

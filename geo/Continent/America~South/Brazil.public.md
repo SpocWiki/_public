@@ -1,25 +1,4 @@
----
-location:
-- -20.7333
-- -45.9467
-type: Country
-tags:
-- geo/Country
-SpocWebEntityId: 26853
-isDeleted: false
-confidential: public
-license: CC BY-SA 4.0
-isReadOnly: false
-source: https://datahub.io/core/country-codes
-cssclasses: Country
-publish: true
-title: Brazil
-linkTitle: 
-keywords: 
-layout: 
-draft: false
-publishDate: 
-expiryDate: 
+﻿---
 aliases:
 - Brazil
 - Brasil
@@ -27,16 +6,36 @@ aliases:
 - البرازيل
 - 巴西
 - Бразилия
-- the Federative Republic of Brazil
-- la República Federativa del Brasil
-- Brasil (el)
+- "the Federative Republic of Brazil"
+- "la República Federativa del Brasil"
+- "Brasil (el)"
+confidential: public
+cssclasses: Country
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords: 
 Languages:
 - pt-BR
 - es
 - en
 - fr
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: 
+location:
+- -20.7333
+- -45.9467
+publish: true
+publishDate: 
+source: "https://datahub.io/core/country-codes"
+SpocWebEntityId: 26853
+tags:
+- geo/Country
+title: Brazil
+type: Country
 ---
-
 
 [	ISO4217-currency_alphabetic	 :: BRL ] 
 [	ISO4217-currency_name	 :: Brazilian Real ] 

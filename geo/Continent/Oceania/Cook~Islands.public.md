@@ -1,41 +1,40 @@
----
-location:
-- -21.2
-- -159.783
-type: Country
-tags:
-- geo/Country
-SpocWebEntityId: 26867
-isDeleted: false
-confidential: public
-license: CC BY-SA 4.0
-isReadOnly: false
-source: https://datahub.io/core/country-codes
-cssclasses: Country
-publish: true
-title: Cook Islands
-linkTitle: 
-keywords: 
-layout: 
-draft: false
-publishDate: 
-expiryDate: 
+﻿---
 aliases:
-- Cook Islands
-- Islas Cook
-- Îles Cook
-- جزر كوك
+- "Cook Islands"
+- "Islas Cook"
+- "Îles Cook"
+- "جزر كوك"
 - 库克群岛
-- Острова Кука
-- the Cook Islands
-- Cook Islands (the)
-- las Islas Cook
-- Islas Cook (las)
+- "Острова Кука"
+- "the Cook Islands"
+- "Cook Islands (the)"
+- "las Islas Cook"
+- "Islas Cook (las)"
+confidential: public
+cssclasses: Country
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords: 
 Languages:
 - en-CK
 - mi
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: 
+location:
+- -21.2
+- -159.783
+publish: true
+publishDate: 
+source: "https://datahub.io/core/country-codes"
+SpocWebEntityId: 26867
+tags:
+- geo/Country
+title: "Cook Islands"
+type: Country
 ---
-
 
 [	ISO4217-currency_alphabetic	 :: NZD ]
 [	ISO4217-currency_name	 :: New Zealand Dollar ]

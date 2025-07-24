@@ -1,25 +1,4 @@
----
-location:
-- 46.2258
-- 24.9906
-type: Country
-tags:
-- geo/Country
-SpocWebEntityId: 27006
-isDeleted: false
-confidential: public
-license: CC BY-SA 4.0
-isReadOnly: false
-source: https://datahub.io/core/country-codes
-cssclasses: Country
-publish: true
-title: Romania
-linkTitle: 
-keywords: 
-layout: 
-draft: false
-publishDate: 
-expiryDate: 
+﻿---
 aliases:
 - Romania
 - Rumania
@@ -27,12 +6,32 @@ aliases:
 - رومانيا
 - 罗马尼亚
 - Румыния
+confidential: public
+cssclasses: Country
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords: 
 Languages:
 - ro
 - hu
 - rom
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: 
+location:
+- 46.2258
+- 24.9906
+publish: true
+publishDate: 
+source: "https://datahub.io/core/country-codes"
+SpocWebEntityId: 27006
+tags:
+- geo/Country
+title: Romania
+type: Country
 ---
-
 
 [	ISO4217-currency_alphabetic	 :: RON ] 
 [	ISO4217-currency_name	 :: Romanian Leu ] 

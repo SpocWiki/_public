@@ -1,15 +1,16 @@
 ﻿---
-type: TrizExample
 aliases:
-- flat Spot
-license: CC BY-SA 4.0
-copyright: https://github.com/SpocWeb
+- "flat Spot"
+Confidential: public
+copyright: "https://github.com/SpocWeb"
 IsDeleted: false
 IsReadOnly: false
-Confidential: public
-tags: 
+license: "CC BY-SA 4.0"
+tags:
 - Triz/Principle/Example
+type: TrizExample
 ---
+
 [name::flat Spot]
 [SpocWebEntityId::22358]
 [Triz-Principle-Sub::[[Triz-asymmetrical]]]

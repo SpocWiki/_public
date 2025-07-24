@@ -1,9 +1,13 @@
----
-location: [11.86,-134.625,150]
-type: Star
+﻿---
+location:
+- 11.86
+- -134.625
+- 150
 tags:
-  - astro/Star
+- astro/Star
+type: Star
 ---
+
  in lightyears
  
 SpocWebEntityId: 27887

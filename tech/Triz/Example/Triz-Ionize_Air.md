@@ -1,15 +1,16 @@
 ﻿---
-type: TrizExample
 aliases:
-- Ionize Air
-license: CC BY-SA 4.0
-copyright: https://github.com/SpocWeb
+- "Ionize Air"
+Confidential: public
+copyright: "https://github.com/SpocWeb"
 IsDeleted: false
 IsReadOnly: false
-Confidential: public
-tags: 
+license: "CC BY-SA 4.0"
+tags:
 - Triz/Principle/Example
+type: TrizExample
 ---
+
 [name::Ionize Air]
 [SpocWebEntityId::22549]
 [Triz-Principle-Sub::[[Triz-ionizing]]]

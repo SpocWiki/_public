@@ -1,15 +1,16 @@
 ﻿---
-type: TrizContradiction
 aliases:
 - Stability+Spheroidality-Energy-Loss
-license: CC BY-SA 4.0
-copyright: https://github.com/SpocWeb
+Confidential: public
+copyright: "https://github.com/SpocWeb"
 IsDeleted: false
 IsReadOnly: false
-Confidential: public
-tags: 
+license: "CC BY-SA 4.0"
+tags:
 - Triz/Contradiction
+type: TrizContradiction
 ---
+
 [name::Stability+Spheroidality-Energy-Loss]
 [SpocWebEntityId::23895]
 + [#has_/Pros :: [[Triz-Stability]]]

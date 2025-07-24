@@ -1,15 +1,16 @@
 ﻿---
-type: TrizContradiction
 aliases:
 - Time-Loss+Changing_the_color-Information-Loss
-license: CC BY-SA 4.0
-copyright: https://github.com/SpocWeb
+Confidential: public
+copyright: "https://github.com/SpocWeb"
 IsDeleted: false
 IsReadOnly: false
-Confidential: public
-tags: 
+license: "CC BY-SA 4.0"
+tags:
 - Triz/Contradiction
+type: TrizContradiction
 ---
+
 [name::Time-Loss+Changing_the_color-Information-Loss]
 [SpocWebEntityId::25065]
 + [#has_/Pros :: Time-Loss]

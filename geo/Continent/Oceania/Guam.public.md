@@ -1,36 +1,35 @@
 ﻿---
-location:
-- 13.4792
-- 144.75
-type: Country
-tags:
-- geo/Country
-SpocWebEntityId: 26913
-isDeleted: false
-confidential: public
-license: CC BY-SA 4.0
-isReadOnly: false
-source: https://datahub.io/core/country-codes
-cssclasses: Country
-publish: true
-title: Guam
-linkTitle: 
-keywords: 
-layout: 
-draft: false
-publishDate: 
-expiryDate: 
 aliases:
 - Guam
 - غوام
 - 关岛
 - Гуам
 - 
+confidential: public
+cssclasses: Country
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords: 
 Languages:
 - en-GU
 - ch-GU
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: 
+location:
+- 13.4792
+- 144.75
+publish: true
+publishDate: 
+source: "https://datahub.io/core/country-codes"
+SpocWebEntityId: 26913
+tags:
+- geo/Country
+title: Guam
+type: Country
 ---
-
 
 [	ISO4217-currency_alphabetic	 :: USD ]
 [	ISO4217-currency_name	 :: US Dollar ]

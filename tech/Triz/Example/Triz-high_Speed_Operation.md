@@ -1,15 +1,16 @@
 ﻿---
-type: TrizExample
 aliases:
-- high Speed Operation
-license: CC BY-SA 4.0
-copyright: https://github.com/SpocWeb
+- "high Speed Operation"
+Confidential: public
+copyright: "https://github.com/SpocWeb"
 IsDeleted: false
 IsReadOnly: false
-Confidential: public
-tags: 
+license: "CC BY-SA 4.0"
+tags:
 - Triz/Principle/Example
+type: TrizExample
 ---
+
 [name::high Speed Operation]
 [SpocWebEntityId::22468]
 [Triz-Principle-Sub::[[Triz-high-speed]]]

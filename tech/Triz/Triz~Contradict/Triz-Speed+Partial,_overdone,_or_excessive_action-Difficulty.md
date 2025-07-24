@@ -1,15 +1,16 @@
 ﻿---
-type: TrizContradiction
 aliases:
 - Speed+Partial,_overdone,_or_excessive_action-Difficulty
-license: CC BY-SA 4.0
-copyright: https://github.com/SpocWeb
+Confidential: public
+copyright: "https://github.com/SpocWeb"
 IsDeleted: false
 IsReadOnly: false
-Confidential: public
-tags: 
+license: "CC BY-SA 4.0"
+tags:
 - Triz/Contradiction
+type: TrizContradiction
 ---
+
 [name::Speed+Partial,_overdone,_or_excessive_action-Difficulty]
 [SpocWebEntityId::23474]
 + [#has_/Pros :: [[Triz-Speed]]]

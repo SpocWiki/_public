@@ -1,15 +1,16 @@
 ﻿---
-type: TrizContradiction
 aliases:
 - Illumination+Transformation_of_physical_and_chemical_states_of_an_object-Temperature
-license: CC BY-SA 4.0
-copyright: https://github.com/SpocWeb
+Confidential: public
+copyright: "https://github.com/SpocWeb"
 IsDeleted: false
 IsReadOnly: false
-Confidential: public
-tags: 
+license: "CC BY-SA 4.0"
+tags:
 - Triz/Contradiction
+type: TrizContradiction
 ---
+
 [name::Illumination+Transformation_of_physical_and_chemical_states_of_an_object-Temperature]
 [SpocWebEntityId::24380]
 + [#has_/Pros :: [[Triz-Illumination]]]

@@ -1,15 +1,16 @@
 ﻿---
-type: TrizContradiction
 aliases:
 - affected_harm+Periodic_action-Power
-license: CC BY-SA 4.0
-copyright: https://github.com/SpocWeb
+Confidential: public
+copyright: "https://github.com/SpocWeb"
 IsDeleted: false
 IsReadOnly: false
-Confidential: public
-tags: 
+license: "CC BY-SA 4.0"
+tags:
 - Triz/Contradiction
+type: TrizContradiction
 ---
+
 [name::affected_harm+Periodic_action-Power]
 [SpocWebEntityId::25653]
 + [#has_/Pros :: [[Triz-affected_harm]]]

@@ -1,38 +1,37 @@
----
-location:
-- 59.4167
-- 24.75
-type: Country
-tags:
-- geo/Country
-SpocWebEntityId: 26885
-isDeleted: false
-confidential: public
-license: CC BY-SA 4.0
-isReadOnly: false
-source: https://datahub.io/core/country-codes
-cssclasses: Country
-publish: true
-title: Estonia
-linkTitle: 
-keywords: 
-layout: 
-draft: false
-publishDate: 
-expiryDate: 
+﻿---
 aliases:
 - Estonia
 - Estonie
 - إستونيا
 - 爱沙尼亚
 - Эстония
-- the Republic of Estonia
-- la República de Estonia
+- "the Republic of Estonia"
+- "la República de Estonia"
+confidential: public
+cssclasses: Country
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords: 
 Languages:
 - et
 - ru
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: 
+location:
+- 59.4167
+- 24.75
+publish: true
+publishDate: 
+source: "https://datahub.io/core/country-codes"
+SpocWebEntityId: 26885
+tags:
+- geo/Country
+title: Estonia
+type: Country
 ---
-
 
 [	ISO4217-currency_alphabetic	 :: EUR ] 
 [	ISO4217-currency_name	 :: Euro ] 

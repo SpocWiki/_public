@@ -1,15 +1,16 @@
 ﻿---
-type: TrizContradiction
 aliases:
 - Time-Loss+Prior_action-Difficulty
-license: CC BY-SA 4.0
-copyright: https://github.com/SpocWeb
+Confidential: public
+copyright: "https://github.com/SpocWeb"
 IsDeleted: false
 IsReadOnly: false
-Confidential: public
-tags: 
+license: "CC BY-SA 4.0"
+tags:
 - Triz/Contradiction
+type: TrizContradiction
 ---
+
 [name::Time-Loss+Prior_action-Difficulty]
 [SpocWebEntityId::25106]
 + [#has_/Pros :: Time-Loss]

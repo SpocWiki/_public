@@ -1,37 +1,23 @@
----
-location:
-- 52.6418
-- 47.4574
-type: Country
-tags:
-- geo/Country
-SpocWebEntityId: 27007
-isDeleted: false
-confidential: public
-license: CC BY-SA 4.0
-isReadOnly: false
-source: https://datahub.io/core/country-codes
-cssclasses: Country
-publish: true
-title: Russia
-linkTitle: 
-keywords: 
-layout: 
-draft: false
-publishDate: 
-expiryDate: 
+﻿---
 aliases:
 - Russia
-- Russian Federation
-- Federación de Rusia
-- Fédération de Russie
-- الاتحاد الروسي
+- "Russian Federation"
+- "Federación de Rusia"
+- "Fédération de Russie"
+- "الاتحاد الروسي"
 - 俄罗斯联邦
-- Российская Федерация
-- the Russian Federation
-- Russian Federation (the)
-- la Federación de Rusia
-- Federación de Rusia (la)
+- "Российская Федерация"
+- "the Russian Federation"
+- "Russian Federation (the)"
+- "la Federación de Rusia"
+- "Federación de Rusia (la)"
+confidential: public
+cssclasses: Country
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords: 
 Languages:
 - ru
 - tt
@@ -56,8 +42,21 @@ Languages:
 - av
 - sah
 - nog
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: 
+location:
+- 52.6418
+- 47.4574
+publish: true
+publishDate: 
+source: "https://datahub.io/core/country-codes"
+SpocWebEntityId: 27007
+tags:
+- geo/Country
+title: Russia
+type: Country
 ---
-
 
 [	ISO4217-currency_alphabetic	 :: RUB ] 
 [	ISO4217-currency_name	 :: Russian Ruble ] 

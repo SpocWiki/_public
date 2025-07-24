@@ -1,6 +1,6 @@
----
+﻿---
 aliases:
-  - WGS84
+- WGS84
 ---
 
 > The World Geodetic System (WGS) is a standard used in cartography, geodesy, and satellite navigation including GPS. 

@@ -1,25 +1,4 @@
----
-location:
-- 38.6175
-- 23.0356
-type: Country
-tags:
-- geo/Country
-SpocWebEntityId: 26910
-isDeleted: false
-confidential: public
-license: CC BY-SA 4.0
-isReadOnly: false
-source: https://datahub.io/core/country-codes
-cssclasses: Country
-publish: true
-title: Greece
-linkTitle: 
-keywords: 
-layout: 
-draft: false
-publishDate: 
-expiryDate: 
+﻿---
 aliases:
 - Greece
 - Grecia
@@ -27,14 +6,34 @@ aliases:
 - اليونان
 - 希腊
 - Греция
-- the Hellenic Republic
-- la República Helénica
+- "the Hellenic Republic"
+- "la República Helénica"
+confidential: public
+cssclasses: Country
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords: 
 Languages:
 - el-GR
 - en
 - fr
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: 
+location:
+- 38.6175
+- 23.0356
+publish: true
+publishDate: 
+source: "https://datahub.io/core/country-codes"
+SpocWebEntityId: 26910
+tags:
+- geo/Country
+title: Greece
+type: Country
 ---
-
 
 [	ISO4217-currency_alphabetic	 :: EUR ] 
 [	ISO4217-currency_name	 :: Euro ] 

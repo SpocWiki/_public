@@ -1,15 +1,16 @@
 ﻿---
-type: TrizContradiction
 aliases:
 - Quantity+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Complexity
-license: CC BY-SA 4.0
-copyright: https://github.com/SpocWeb
+Confidential: public
+copyright: "https://github.com/SpocWeb"
 IsDeleted: false
 IsReadOnly: false
-Confidential: public
-tags: 
+license: "CC BY-SA 4.0"
+tags:
 - Triz/Contradiction
+type: TrizContradiction
 ---
+
 [name::Quantity+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Complexity]
 [SpocWebEntityId::25220]
 + [#has_/Pros :: [[Triz-Quantity]]]

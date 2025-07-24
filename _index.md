@@ -1,6 +1,6 @@
----
-title: SpocWiki
+﻿---
 enableToc: true
+title: SpocWiki
 ---
 
 This Repository contains publicly shared, freely usable, community-maintained Articles and Data to mix into your personal Knowledge Bases.

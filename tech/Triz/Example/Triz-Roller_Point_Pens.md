@@ -1,15 +1,16 @@
 ﻿---
-type: TrizExample
 aliases:
-- Roller Point Pens
-license: CC BY-SA 4.0
-copyright: https://github.com/SpocWeb
+- "Roller Point Pens"
+Confidential: public
+copyright: "https://github.com/SpocWeb"
 IsDeleted: false
 IsReadOnly: false
-Confidential: public
-tags: 
+license: "CC BY-SA 4.0"
+tags:
 - Triz/Principle/Example
+type: TrizExample
 ---
+
 [name::Roller Point Pens]
 [SpocWebEntityId::22424]
 [Triz-Principle-Sub::[[Triz-use-balls]]]

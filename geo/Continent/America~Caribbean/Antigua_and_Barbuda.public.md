@@ -1,14 +1,15 @@
----
-location: [17.1167,-61.85]
-type: Country
+﻿---
+confidential: public
+isDeleted: false
+location:
+- 17.1167
+- -61.85
+SpocWebEntityId: 26828
 tags:
 - geo/Country
-
-SpocWebEntityId: 26828
-isDeleted: false
-confidential: public
-
+type: Country
 ---
+
 [ISO2::AG]
 [ISO3::ATG]
 

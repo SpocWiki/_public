@@ -1,15 +1,16 @@
 ﻿---
-type: TrizContradiction
 aliases:
 - stationary_Weight+Continuity_of_useful_action-Time-Loss
-license: CC BY-SA 4.0
-copyright: https://github.com/SpocWeb
+Confidential: public
+copyright: "https://github.com/SpocWeb"
 IsDeleted: false
 IsReadOnly: false
-Confidential: public
-tags: 
+license: "CC BY-SA 4.0"
+tags:
 - Triz/Contradiction
+type: TrizContradiction
 ---
+
 [name::stationary_Weight+Continuity_of_useful_action-Time-Loss]
 [SpocWebEntityId::22758]
 + [#has_/Pros :: [[Triz-stationary_Weight]]]

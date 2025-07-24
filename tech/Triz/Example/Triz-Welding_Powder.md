@@ -1,15 +1,16 @@
 ﻿---
-type: TrizExample
 aliases:
-- Welding Powder
-license: CC BY-SA 4.0
-copyright: https://github.com/SpocWeb
+- "Welding Powder"
+Confidential: public
+copyright: "https://github.com/SpocWeb"
 IsDeleted: false
 IsReadOnly: false
-Confidential: public
-tags: 
+license: "CC BY-SA 4.0"
+tags:
 - Triz/Principle/Example
+type: TrizExample
 ---
+
 [name::Welding Powder]
 [SpocWebEntityId::22345]
 [Triz-Principle-Sub::[[Triz-Fragment]]]

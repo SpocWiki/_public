@@ -1,15 +1,16 @@
 ﻿---
-type: TrizExample
 aliases:
-- wick Excess Solder
-license: CC BY-SA 4.0
-copyright: https://github.com/SpocWeb
+- "wick Excess Solder"
+Confidential: public
+copyright: "https://github.com/SpocWeb"
 IsDeleted: false
 IsReadOnly: false
-Confidential: public
-tags: 
+license: "CC BY-SA 4.0"
+tags:
 - Triz/Principle/Example
+type: TrizExample
 ---
+
 [name::wick Excess Solder]
 [SpocWebEntityId::22517]
 [Triz-Principle-Sub::[[Triz-fractal-surface]]]

@@ -1,15 +1,16 @@
 ﻿---
-type: TrizExample
 aliases:
-- connect Joints
-license: CC BY-SA 4.0
-copyright: https://github.com/SpocWeb
+- "connect Joints"
+Confidential: public
+copyright: "https://github.com/SpocWeb"
 IsDeleted: false
 IsReadOnly: false
-Confidential: public
-tags: 
+license: "CC BY-SA 4.0"
+tags:
 - Triz/Principle/Example
+type: TrizExample
 ---
+
 [name::connect Joints]
 [SpocWebEntityId::22343]
 [Triz-Principle-Sub::[[Triz-Disassemble]]]

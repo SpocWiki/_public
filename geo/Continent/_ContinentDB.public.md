@@ -1,8 +1,7 @@
+﻿---
+database_plugin: basic
 ---
-database-plugin: basic
 
-
----
 ```yaml:dbfolder
 name: Continent
 description: All Continents to contain Countries and Cities

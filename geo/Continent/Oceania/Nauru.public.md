@@ -1,37 +1,36 @@
 ﻿---
-location:
-- -0.547778
-- 166.921
-type: Country
-tags:
-- geo/Country
-SpocWebEntityId: 26986
-isDeleted: false
-confidential: public
-license: CC BY-SA 4.0
-isReadOnly: false
-source: https://datahub.io/core/country-codes
-cssclasses: Country
-publish: true
-title: Nauru
-linkTitle: 
-keywords: 
-layout: 
-draft: false
-publishDate: 
-expiryDate: 
 aliases:
 - Nauru
 - ناورو
 - 瑙鲁
 - Науру
-- the Republic of Nauru
-- la República de Nauru
+- "the Republic of Nauru"
+- "la República de Nauru"
+confidential: public
+cssclasses: Country
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords: 
 Languages:
 - na
 - en-NR
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: 
+location:
+- -0.547778
+- 166.921
+publish: true
+publishDate: 
+source: "https://datahub.io/core/country-codes"
+SpocWebEntityId: 26986
+tags:
+- geo/Country
+title: Nauru
+type: Country
 ---
-
 
 [	ISO4217-currency_alphabetic	 :: AUD ]
 [	ISO4217-currency_name	 :: Australian Dollar ]

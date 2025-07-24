@@ -1,35 +1,34 @@
----
-location:
-- 12.3333
-- -1.66667
-type: Country
-tags:
-- geo/Country
-SpocWebEntityId: 26845
-isDeleted: false
-confidential: public
-license: CC BY-SA 4.0
-isReadOnly: false
-source: https://datahub.io/core/country-codes
-cssclasses: Country
-publish: true
-title: Burkina Faso
-linkTitle: 
-keywords: 
-layout: 
-draft: false
-publishDate: 
-expiryDate: 
+﻿---
 aliases:
-- Burkina Faso
-- بوركينا فاسو
+- "Burkina Faso"
+- "بوركينا فاسو"
 - 布基纳法索
 - Буркина-Фасо
+confidential: public
+cssclasses: Country
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords: 
 Languages:
 - fr-BF
 - mos
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: 
+location:
+- 12.3333
+- -1.66667
+publish: true
+publishDate: 
+source: "https://datahub.io/core/country-codes"
+SpocWebEntityId: 26845
+tags:
+- geo/Country
+title: "Burkina Faso"
+type: Country
 ---
-
 
 [	ISO4217-currency_alphabetic	 :: XOF ] 
 [	ISO4217-currency_name	 :: CFA Franc BCEAO ] 

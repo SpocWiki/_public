@@ -1,33 +1,19 @@
----
-location:
-- 46.8944
-- 2.33663
-type: Country
-tags:
-- geo/Country
-SpocWebEntityId: 26896
-isDeleted: false
-confidential: public
-license: CC BY-SA 4.0
-isReadOnly: false
-source: https://datahub.io/core/country-codes
-cssclasses: Country
-publish: true
-title: France
-linkTitle: 
-keywords: 
-layout: 
-draft: false
-publishDate: 
-expiryDate: 
+﻿---
 aliases:
 - France
 - Francia
 - فرنسا
 - 法国
 - Франция
-- the French Republic
-- la República Francesa
+- "the French Republic"
+- "la República Francesa"
+confidential: public
+cssclasses: Country
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords: 
 Languages:
 - fr-FR
 - frp
@@ -36,8 +22,21 @@ Languages:
 - ca
 - eu
 - oc
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: 
+location:
+- 46.8944
+- 2.33663
+publish: true
+publishDate: 
+source: "https://datahub.io/core/country-codes"
+SpocWebEntityId: 26896
+tags:
+- geo/Country
+title: France
+type: Country
 ---
-
 
 [	ISO4217-currency_alphabetic	 :: EUR ] 
 [	ISO4217-currency_name	 :: Euro ] 

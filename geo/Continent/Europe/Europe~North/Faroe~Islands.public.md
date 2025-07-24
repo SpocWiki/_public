@@ -1,38 +1,37 @@
----
-location:
-- 62
-- -6.78333
-type: Country
-tags:
-- geo/Country
-SpocWebEntityId: 26895
-isDeleted: false
-confidential: public
-license: CC BY-SA 4.0
-isReadOnly: false
-source: https://datahub.io/core/country-codes
-cssclasses: Country
-publish: true
-title: Faroe Islands
-linkTitle: 
-keywords: 
-layout: 
-draft: false
-publishDate: 
-expiryDate: 
+﻿---
 aliases:
-- Faroe Islands
-- Islas Feroe
-- Îles Féroé
-- جزر فايرو
+- "Faroe Islands"
+- "Islas Feroe"
+- "Îles Féroé"
+- "جزر فايرو"
 - 法罗群岛
-- Фарерские острова
+- "Фарерские острова"
 - 
+confidential: public
+cssclasses: Country
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords: 
 Languages:
 - fo
 - da-FO
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: 
+location:
+- 62
+- -6.78333
+publish: true
+publishDate: 
+source: "https://datahub.io/core/country-codes"
+SpocWebEntityId: 26895
+tags:
+- geo/Country
+title: "Faroe Islands"
+type: Country
 ---
-
 
 [	ISO4217-currency_alphabetic	 :: DKK ] 
 [	ISO4217-currency_name	 :: Danish Krone ] 

@@ -1,25 +1,4 @@
 ﻿---
-location:
-- 16
-- -61.7333
-type: Country
-tags:
-- geo/Country
-SpocWebEntityId: 26908
-isDeleted: false
-confidential: public
-license: CC BY-SA 4.0
-isReadOnly: false
-source: https://datahub.io/core/country-codes
-cssclasses: Country
-publish: true
-title: Guadeloupe
-linkTitle: 
-keywords: 
-layout: 
-draft: false
-publishDate: 
-expiryDate: 
 aliases:
 - Guadeloupe
 - Guadalupe
@@ -27,10 +6,30 @@ aliases:
 - 瓜德罗普
 - Гваделупа
 - 
+confidential: public
+cssclasses: Country
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords: 
 Languages:
 - fr-GP
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: 
+location:
+- 16
+- -61.7333
+publish: true
+publishDate: 
+source: "https://datahub.io/core/country-codes"
+SpocWebEntityId: 26908
+tags:
+- geo/Country
+title: Guadeloupe
+type: Country
 ---
-
 
 [	ISO4217-currency_alphabetic	 :: EUR ]
 [	ISO4217-currency_name	 :: Euro ]

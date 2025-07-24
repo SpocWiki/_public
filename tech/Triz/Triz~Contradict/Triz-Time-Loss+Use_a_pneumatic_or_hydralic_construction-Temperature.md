@@ -1,15 +1,16 @@
 ﻿---
-type: TrizContradiction
 aliases:
 - Time-Loss+Use_a_pneumatic_or_hydralic_construction-Temperature
-license: CC BY-SA 4.0
-copyright: https://github.com/SpocWeb
+Confidential: public
+copyright: "https://github.com/SpocWeb"
 IsDeleted: false
 IsReadOnly: false
-Confidential: public
-tags: 
+license: "CC BY-SA 4.0"
+tags:
 - Triz/Contradiction
+type: TrizContradiction
 ---
+
 [name::Time-Loss+Use_a_pneumatic_or_hydralic_construction-Temperature]
 [SpocWebEntityId::25038]
 + [#has_/Pros :: Time-Loss]

@@ -1,15 +1,16 @@
 ﻿---
-type: TrizExample
 aliases:
-- liquidate Gases
-license: CC BY-SA 4.0
-copyright: https://github.com/SpocWeb
+- "liquidate Gases"
+Confidential: public
+copyright: "https://github.com/SpocWeb"
 IsDeleted: false
 IsReadOnly: false
-Confidential: public
-tags: 
+license: "CC BY-SA 4.0"
+tags:
 - Triz/Principle/Example
+type: TrizExample
 ---
+
 [name::liquidate Gases]
 [SpocWebEntityId::22535]
 [Triz-Principle-Sub::[[Triz-change-aggregate]]]

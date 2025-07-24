@@ -1,15 +1,16 @@
 ﻿---
-type: TrizContradiction
 aliases:
 - Ease_of_operation+Composite_materials-Strength
-license: CC BY-SA 4.0
-copyright: https://github.com/SpocWeb
+Confidential: public
+copyright: "https://github.com/SpocWeb"
 IsDeleted: false
 IsReadOnly: false
-Confidential: public
-tags: 
+license: "CC BY-SA 4.0"
+tags:
 - Triz/Contradiction
+type: TrizContradiction
 ---
+
 [name::Ease_of_operation+Composite_materials-Strength]
 [SpocWebEntityId::25990]
 + [#has_/Pros :: [[Triz-Ease_of_operation]]]

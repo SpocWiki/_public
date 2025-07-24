@@ -1,15 +1,16 @@
 ﻿---
-type: TrizContradiction
 aliases:
 - Time-Loss+Asymmetry-Reliability
-license: CC BY-SA 4.0
-copyright: https://github.com/SpocWeb
+Confidential: public
+copyright: "https://github.com/SpocWeb"
 IsDeleted: false
 IsReadOnly: false
-Confidential: public
-tags: 
+license: "CC BY-SA 4.0"
+tags:
 - Triz/Contradiction
+type: TrizContradiction
 ---
+
 [name::Time-Loss+Asymmetry-Reliability]
 [SpocWebEntityId::25072]
 + [#has_/Pros :: Time-Loss]

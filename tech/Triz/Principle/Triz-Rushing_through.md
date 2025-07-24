@@ -1,12 +1,13 @@
----
-type: TrizPrinciple
+﻿---
 aliases:
-- Rushing through
-license: CC BY-SA 4.0
-copyright: https://github.com/SpocWeb
-tags: 
+- "Rushing through"
+copyright: "https://github.com/SpocWeb"
+license: "CC BY-SA 4.0"
+tags:
 - Triz/Principle
+type: TrizPrinciple
 ---
+
 [name::Rushing through]
 [SpocWebEntityId::22216]
 [Popularity::35]

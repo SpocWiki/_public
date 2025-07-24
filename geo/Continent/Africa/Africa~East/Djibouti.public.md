@@ -1,39 +1,38 @@
----
-location:
-- 11.6
-- 43.1667
-type: Country
-tags:
-- geo/Country
-SpocWebEntityId: 26879
-isDeleted: false
-confidential: public
-license: CC BY-SA 4.0
-isReadOnly: false
-source: https://datahub.io/core/country-codes
-cssclasses: Country
-publish: true
-title: Djibouti
-linkTitle: 
-keywords: 
-layout: 
-draft: false
-publishDate: 
-expiryDate: 
+﻿---
 aliases:
 - Djibouti
 - جيبوتي
 - 吉布提
 - Джибути
-- the Republic of Djibouti
-- la República de Djibouti
+- "the Republic of Djibouti"
+- "la República de Djibouti"
+confidential: public
+cssclasses: Country
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords: 
 Languages:
 - fr-DJ
 - ar
 - so-DJ
 - aa
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: 
+location:
+- 11.6
+- 43.1667
+publish: true
+publishDate: 
+source: "https://datahub.io/core/country-codes"
+SpocWebEntityId: 26879
+tags:
+- geo/Country
+title: Djibouti
+type: Country
 ---
-
 
 [	ISO4217-currency_alphabetic	 :: DJF ] 
 [	ISO4217-currency_name	 :: Djibouti Franc ] 

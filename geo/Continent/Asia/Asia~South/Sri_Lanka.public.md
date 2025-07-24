@@ -1,38 +1,37 @@
----
-location:
-- 6.86
-- 80.425
-type: Country
-tags:
-- geo/Country
-SpocWebEntityId: 26949
-isDeleted: false
-confidential: public
-license: CC BY-SA 4.0
-isReadOnly: false
-source: https://datahub.io/core/country-codes
-cssclasses: Country
-publish: true
-title: Sri Lanka
-linkTitle: 
-keywords: 
-layout: 
-draft: false
-publishDate: 
-expiryDate: 
+﻿---
 aliases:
-- Sri Lanka
-- سري لانكا
+- "Sri Lanka"
+- "سري لانكا"
 - 斯里兰卡
 - Шри-Ланка
-- the Democratic Socialist Republic of Sri Lanka
-- la República Socialista Democrática de Sri Lanka
+- "the Democratic Socialist Republic of Sri Lanka"
+- "la República Socialista Democrática de Sri Lanka"
+confidential: public
+cssclasses: Country
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords: 
 Languages:
 - si
 - ta
 - en
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: 
+location:
+- 6.86
+- 80.425
+publish: true
+publishDate: 
+source: "https://datahub.io/core/country-codes"
+SpocWebEntityId: 26949
+tags:
+- geo/Country
+title: "Sri Lanka"
+type: Country
 ---
-
 
 [	ISO4217-currency_alphabetic	 :: LKR ] 
 [	ISO4217-currency_name	 :: Sri Lanka Rupee ] 

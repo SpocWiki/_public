@@ -1,17 +1,19 @@
----
-location: [37.55,126.97] 
-type: Country
-tags:
-- geo/Country
-
-SpocWebEntityId: 26941
-isDeleted: false
-confidential: public
+﻿---
 aliases:
 - South-Korea
 - Korea-Republic
-- Südkorea 
+- Südkorea
+confidential: public
+isDeleted: false
+location:
+- 37.55
+- 126.97
+SpocWebEntityId: 26941
+tags:
+- geo/Country
+type: Country
 ---
+
 [ISO2::KR] 
 [ISO3::KOR] 
 ```leaflet

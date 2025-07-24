@@ -1,39 +1,38 @@
----
+﻿---
+aliases:
+- "Saudi Arabia"
+- "Arabia Saudita"
+- "Arabie saoudite"
+- "المملكة العربية السعودية"
+- 沙特阿拉伯
+- "Саудовская Аравия"
+- "the Kingdom of Saudi Arabia"
+- "el Reino de la Arabia Saudita"
+- "Arabia Saudita (la)"
+confidential: public
+cssclasses: Country
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords: 
+Languages:
+- ar-SA
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: 
 location:
 - 23.05
 - 43.27
-type: Country
+publish: true
+publishDate: 
+source: "https://datahub.io/core/country-codes"
+SpocWebEntityId: 27009
 tags:
 - geo/Country
-SpocWebEntityId: 27009
-isDeleted: false
-confidential: public
-license: CC BY-SA 4.0
-isReadOnly: false
-source: https://datahub.io/core/country-codes
-cssclasses: Country
-publish: true
-title: Saudi Arabia
-linkTitle: 
-keywords: 
-layout: 
-draft: false
-publishDate: 
-expiryDate: 
-aliases:
-- Saudi Arabia
-- Arabia Saudita
-- Arabie saoudite
-- المملكة العربية السعودية
-- 沙特阿拉伯
-- Саудовская Аравия
-- the Kingdom of Saudi Arabia
-- el Reino de la Arabia Saudita
-- Arabia Saudita (la)
-Languages:
-- ar-SA
+title: "Saudi Arabia"
+type: Country
 ---
-
 
 [	ISO4217-currency_alphabetic	 :: SAR ] 
 [	ISO4217-currency_name	 :: Saudi Riyal ] 

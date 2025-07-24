@@ -1,46 +1,39 @@
 ﻿---
-location: [ 18.04 , -63.07 ] 
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-source: https://datahub.io/core/country-codes
-
-#Obsidian well-known Keys
-cssclasses: Country
-publish: true
-
-# Hugo Tags
-type: Country
-title: Sint Maarten
-
-linkTitle: 
-keywords: 
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- geo/Country
-
 aliases:
-- Sint Maarten
-- Sint Maarten (Dutch part)
-- San Martín (parte holandés)
-- Saint-Martin (partie néerlandaise)
-- سانت مارتن
+- "Sint Maarten"
+- "Sint Maarten (Dutch part)"
+- "San Martín (parte holandés)"
+- "Saint-Martin (partie néerlandaise)"
+- "سانت مارتن"
 - 圣马丁(荷属)
 - Синт-Мартен
 - 
 - 
 - 
 - 
-
-Languages: [nl,en]
-
-
+confidential: public
+cssclasses: Country
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords: 
+Languages:
+- nl
+- en
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: 
+location:
+- 18.04
+- -63.07
+publish: true
+publishDate: 
+source: "https://datahub.io/core/country-codes"
+tags:
+- geo/Country
+title: "Sint Maarten"
+type: Country
 ---
 
 Southern of [[Saint_Martin]]

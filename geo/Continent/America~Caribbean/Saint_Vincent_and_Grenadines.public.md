@@ -1,14 +1,15 @@
----
-location: [13.1667,-61.2333]
-type: Country
+﻿---
+confidential: public
+isDeleted: false
+location:
+- 13.1667
+- -61.2333
+SpocWebEntityId: 27051
 tags:
 - geo/Country
-
-SpocWebEntityId: 27051
-isDeleted: false
-confidential: public
-
+type: Country
 ---
+
 [ISO2::VC]
 [ISO3::VCT]
 

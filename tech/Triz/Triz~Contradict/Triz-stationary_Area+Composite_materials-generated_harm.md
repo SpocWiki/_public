@@ -1,15 +1,16 @@
 ﻿---
-type: TrizContradiction
 aliases:
 - stationary_Area+Composite_materials-generated_harm
-license: CC BY-SA 4.0
-copyright: https://github.com/SpocWeb
+Confidential: public
+copyright: "https://github.com/SpocWeb"
 IsDeleted: false
 IsReadOnly: false
-Confidential: public
-tags: 
+license: "CC BY-SA 4.0"
+tags:
 - Triz/Contradiction
+type: TrizContradiction
 ---
+
 [name::stationary_Area+Composite_materials-generated_harm]
 [SpocWebEntityId::23168]
 + [#has_/Pros :: [[Triz-stationary_Area]]]

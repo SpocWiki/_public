@@ -1,40 +1,39 @@
----
-location:
-- 12.1
-- 16.0333
-type: Country
-tags:
-- geo/Country
-SpocWebEntityId: 27029
-isDeleted: false
-confidential: public
-license: CC BY-SA 4.0
-isReadOnly: false
-source: https://datahub.io/core/country-codes
-cssclasses: Country
-publish: true
-title: Chad
-linkTitle: 
-keywords: 
-layout: 
-draft: false
-publishDate: 
-expiryDate: 
+﻿---
 aliases:
 - Chad
 - Tchad
 - تشاد
 - 乍得
 - Чад
-- the Republic of Chad
-- la República del Chad
-- Chad (el)
+- "the Republic of Chad"
+- "la República del Chad"
+- "Chad (el)"
+confidential: public
+cssclasses: Country
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords: 
 Languages:
 - fr-TD
 - ar-TD
 - sre
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: 
+location:
+- 12.1
+- 16.0333
+publish: true
+publishDate: 
+source: "https://datahub.io/core/country-codes"
+SpocWebEntityId: 27029
+tags:
+- geo/Country
+title: Chad
+type: Country
 ---
-
 
 [	ISO4217-currency_alphabetic	 :: XAF ] 
 [	ISO4217-currency_name	 :: CFA Franc BEAC ] 

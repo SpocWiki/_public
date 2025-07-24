@@ -1,15 +1,16 @@
 ﻿---
-type: TrizExample
 aliases:
-- Blade with Groove
-license: CC BY-SA 4.0
-copyright: https://github.com/SpocWeb
+- "Blade with Groove"
+Confidential: public
+copyright: "https://github.com/SpocWeb"
 IsDeleted: false
 IsReadOnly: false
-Confidential: public
-tags: 
+license: "CC BY-SA 4.0"
+tags:
 - Triz/Principle/Example
+type: TrizExample
 ---
+
 [name::Blade with Groove]
 [SpocWebEntityId::22399]
 [Triz-Principle-Sub::[[Triz-anticipate-change]]]

@@ -1,15 +1,16 @@
 ﻿---
-type: TrizContradiction
 aliases:
 - Strength+Periodic_action-moving_Energy
-license: CC BY-SA 4.0
-copyright: https://github.com/SpocWeb
+Confidential: public
+copyright: "https://github.com/SpocWeb"
 IsDeleted: false
 IsReadOnly: false
-Confidential: public
-tags: 
+license: "CC BY-SA 4.0"
+tags:
 - Triz/Contradiction
+type: TrizContradiction
 ---
+
 [name::Strength+Periodic_action-moving_Energy]
 [SpocWebEntityId::24004]
 + [#has_/Pros :: [[Triz-Strength]]]

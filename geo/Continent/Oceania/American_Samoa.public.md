@@ -1,39 +1,38 @@
----
-location:
-- -14.2833
-- -170.7
-type: Country
-tags:
-- geo/Country
-SpocWebEntityId: 26836
-isDeleted: false
-confidential: public
-license: CC BY-SA 4.0
-isReadOnly: false
-source: https://datahub.io/core/country-codes
-cssclasses: Country
-publish: true
-title: American Samoa
-linkTitle: 
-keywords: 
-layout: 
-draft: false
-publishDate: 
-expiryDate: 
+﻿---
 aliases:
-- American Samoa
-- Samoa Americana
-- Samoa américaines
-- ساموا الأمريكية
+- "American Samoa"
+- "Samoa Americana"
+- "Samoa américaines"
+- "ساموا الأمريكية"
 - 美属萨摩亚
-- Американское Самоа
+- "Американское Самоа"
 - 
+confidential: public
+cssclasses: Country
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords: 
 Languages:
 - en-AS
 - sm
 - to
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: 
+location:
+- -14.2833
+- -170.7
+publish: true
+publishDate: 
+source: "https://datahub.io/core/country-codes"
+SpocWebEntityId: 26836
+tags:
+- geo/Country
+title: "American Samoa"
+type: Country
 ---
-
 
 [	ISO4217-currency_alphabetic	 :: USD ]
 [	ISO4217-currency_name	 :: US Dollar ]

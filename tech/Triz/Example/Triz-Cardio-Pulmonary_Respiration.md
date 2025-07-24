@@ -1,15 +1,16 @@
 ﻿---
-type: TrizExample
 aliases:
-- Cardio-Pulmonary Respiration
-license: CC BY-SA 4.0
-copyright: https://github.com/SpocWeb
+- "Cardio-Pulmonary Respiration"
+Confidential: public
+copyright: "https://github.com/SpocWeb"
 IsDeleted: false
 IsReadOnly: false
-Confidential: public
-tags: 
+license: "CC BY-SA 4.0"
+tags:
 - Triz/Principle/Example
+type: TrizExample
 ---
+
 [name::Cardio-Pulmonary Respiration]
 [SpocWebEntityId::22463]
 [Triz-Principle-Sub::[[Triz-use-pauses]]]

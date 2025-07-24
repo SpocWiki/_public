@@ -1,25 +1,4 @@
----
-location:
-- 48.13
-- 17.1
-type: Country
-tags:
-- geo/Country
-SpocWebEntityId: 27018
-isDeleted: false
-confidential: public
-license: CC BY-SA 4.0
-isReadOnly: false
-source: https://datahub.io/core/country-codes
-cssclasses: Country
-publish: true
-title: Slovakia
-linkTitle: 
-keywords: 
-layout: 
-draft: false
-publishDate: 
-expiryDate: 
+﻿---
 aliases:
 - Slovakia
 - Eslovaquia
@@ -27,13 +6,33 @@ aliases:
 - سلوفاكيا
 - 斯洛伐克
 - Словакия
-- the Slovak Republic
-- la República Eslovaca
+- "the Slovak Republic"
+- "la República Eslovaca"
+confidential: public
+cssclasses: Country
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords: 
 Languages:
 - sk
 - hu
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: 
+location:
+- 48.13
+- 17.1
+publish: true
+publishDate: 
+source: "https://datahub.io/core/country-codes"
+SpocWebEntityId: 27018
+tags:
+- geo/Country
+title: Slovakia
+type: Country
 ---
-
 
 [	ISO4217-currency_alphabetic	 :: EUR ] 
 [	ISO4217-currency_name	 :: Euro ] 

@@ -1,15 +1,16 @@
----
-type: TrizPrincipleSub
+﻿---
 aliases:
 - merge-in-time
-license: CC BY-SA 4.0
-copyright: https://github.com/SpocWeb
+Confidential: public
+copyright: "https://github.com/SpocWeb"
 IsDeleted: false
 IsReadOnly: false
-Confidential: public
-tags: 
+license: "CC BY-SA 4.0"
+tags:
 - Triz/Principle/Sub
+type: TrizPrincipleSub
 ---
+
 [name::merge-in-time]
 [SpocWebEntityId::22250]
 [TrizPrinciple::[[Triz-Combining(Integration)]]]

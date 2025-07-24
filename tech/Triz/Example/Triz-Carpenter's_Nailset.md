@@ -1,15 +1,16 @@
 ﻿---
-type: TrizExample
 aliases:
-- Carpenter's Nailset
-license: CC BY-SA 4.0
-copyright: https://github.com/SpocWeb
+- "Carpenter's Nailset"
+Confidential: public
+copyright: "https://github.com/SpocWeb"
 IsDeleted: false
 IsReadOnly: false
-Confidential: public
-tags: 
+license: "CC BY-SA 4.0"
+tags:
 - Triz/Principle/Example
+type: TrizExample
 ---
+
 [name::Carpenter's Nailset]
 [SpocWebEntityId::22486]
 [Triz-Principle-Sub::[[Triz-intermediary]]]

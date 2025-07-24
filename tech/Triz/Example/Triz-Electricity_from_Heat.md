@@ -1,15 +1,16 @@
 ﻿---
-type: TrizExample
 aliases:
-- Electricity from Heat
-license: CC BY-SA 4.0
-copyright: https://github.com/SpocWeb
+- "Electricity from Heat"
+Confidential: public
+copyright: "https://github.com/SpocWeb"
 IsDeleted: false
 IsReadOnly: false
-Confidential: public
-tags: 
+license: "CC BY-SA 4.0"
+tags:
 - Triz/Principle/Example
+type: TrizExample
 ---
+
 [name::Electricity from Heat]
 [SpocWebEntityId::22493]
 [Triz-Principle-Sub::[[Triz-use-waste]]]

@@ -1,15 +1,16 @@
 ﻿---
-type: TrizContradiction
 aliases:
 - Intensity+Use_a_pneumatic_or_hydralic_construction-Quantity
-license: CC BY-SA 4.0
-copyright: https://github.com/SpocWeb
+Confidential: public
+copyright: "https://github.com/SpocWeb"
 IsDeleted: false
 IsReadOnly: false
-Confidential: public
-tags: 
+license: "CC BY-SA 4.0"
+tags:
 - Triz/Contradiction
+type: TrizContradiction
 ---
+
 [name::Intensity+Use_a_pneumatic_or_hydralic_construction-Quantity]
 [SpocWebEntityId::23550]
 + [#has_/Pros :: [[Triz-Intensity]]]

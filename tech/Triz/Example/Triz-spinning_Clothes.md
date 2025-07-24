@@ -1,15 +1,16 @@
 ﻿---
-type: TrizExample
 aliases:
-- spinning Clothes
-license: CC BY-SA 4.0
-copyright: https://github.com/SpocWeb
+- "spinning Clothes"
+Confidential: public
+copyright: "https://github.com/SpocWeb"
 IsDeleted: false
 IsReadOnly: false
-Confidential: public
-tags: 
+license: "CC BY-SA 4.0"
+tags:
 - Triz/Principle/Example
+type: TrizExample
 ---
+
 [name::spinning Clothes]
 [SpocWebEntityId::22426]
 [Triz-Principle-Sub::[[Triz-use-rotation]]]

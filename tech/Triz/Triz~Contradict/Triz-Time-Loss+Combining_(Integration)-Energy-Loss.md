@@ -1,15 +1,16 @@
 ﻿---
-type: TrizContradiction
 aliases:
 - Time-Loss+Combining_(Integration)-Energy-Loss
-license: CC BY-SA 4.0
-copyright: https://github.com/SpocWeb
+Confidential: public
+copyright: "https://github.com/SpocWeb"
 IsDeleted: false
 IsReadOnly: false
-Confidential: public
-tags: 
+license: "CC BY-SA 4.0"
+tags:
 - Triz/Contradiction
+type: TrizContradiction
 ---
+
 [name::Time-Loss+Combining_(Integration)-Energy-Loss]
 [SpocWebEntityId::25055]
 + [#has_/Pros :: Time-Loss]

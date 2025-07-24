@@ -1,12 +1,13 @@
----
-type: TrizPrinciple
+﻿---
 aliases:
 - Homogeneity
-license: CC BY-SA 4.0
-copyright: https://github.com/SpocWeb
-tags: 
+copyright: "https://github.com/SpocWeb"
+license: "CC BY-SA 4.0"
+tags:
 - Triz/Principle
+type: TrizPrinciple
 ---
+
 [name::Homogeneity]
 [SpocWebEntityId::22227]
 [Popularity::38]

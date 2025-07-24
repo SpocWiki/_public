@@ -1,18 +1,18 @@
----
-location: [-51.7,-57.85] 
-type: Country
-tags:
-- geo/Country
-
+﻿---
 aliases:
 - Malvinas
 - 
-
-SpocWebEntityId: 26893
-isDeleted: false
 confidential: public
-
+isDeleted: false
+location:
+- -51.7
+- -57.85
+SpocWebEntityId: 26893
+tags:
+- geo/Country
+type: Country
 ---
+
 [ISO2::FK] 
 [ISO3::FLK] 
 ```leaflet

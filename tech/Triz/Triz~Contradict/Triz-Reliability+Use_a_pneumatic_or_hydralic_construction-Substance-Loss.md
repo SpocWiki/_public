@@ -1,15 +1,16 @@
 ﻿---
-type: TrizContradiction
 aliases:
 - Reliability+Use_a_pneumatic_or_hydralic_construction-Substance-Loss
-license: CC BY-SA 4.0
-copyright: https://github.com/SpocWeb
+Confidential: public
+copyright: "https://github.com/SpocWeb"
 IsDeleted: false
 IsReadOnly: false
-Confidential: public
-tags: 
+license: "CC BY-SA 4.0"
+tags:
 - Triz/Contradiction
+type: TrizContradiction
 ---
+
 [name::Reliability+Use_a_pneumatic_or_hydralic_construction-Substance-Loss]
 [SpocWebEntityId::25310]
 + [#has_/Pros :: [[Triz-Reliability]]]

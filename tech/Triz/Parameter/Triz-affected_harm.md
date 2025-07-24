@@ -1,15 +1,16 @@
----
-type: TrizParameter
+﻿---
 aliases:
-- affected harm
-license: CC BY-SA 4.0
-copyright: https://github.com/SpocWeb
+- "affected harm"
+Confidential: public
+copyright: "https://github.com/SpocWeb"
 IsDeleted: false
 IsReadOnly: false
-Confidential: public
-tags: 
+license: "CC BY-SA 4.0"
+tags:
 - Triz/Parameter
+type: TrizParameter
 ---
+
 [name::affected harm]
 [SpocWebEntityId::22183]
 [TrizParameterId::30]

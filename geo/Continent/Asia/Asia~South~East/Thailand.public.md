@@ -1,25 +1,4 @@
----
-location:
-- 13.73
-- 100.5
-type: Country
-tags:
-- geo/Country
-SpocWebEntityId: 27032
-isDeleted: false
-confidential: public
-license: CC BY-SA 4.0
-isReadOnly: false
-source: https://datahub.io/core/country-codes
-cssclasses: Country
-publish: true
-title: Thailand
-linkTitle: 
-keywords: 
-layout: 
-draft: false
-publishDate: 
-expiryDate: 
+﻿---
 aliases:
 - Thailand
 - Tailandia
@@ -27,13 +6,33 @@ aliases:
 - تايلند
 - 泰国
 - Таиланд
-- the Kingdom of Thailand
-- el Reino de Tailandia
+- "the Kingdom of Thailand"
+- "el Reino de Tailandia"
+confidential: public
+cssclasses: Country
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords: 
 Languages:
 - th
 - en
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: 
+location:
+- 13.73
+- 100.5
+publish: true
+publishDate: 
+source: "https://datahub.io/core/country-codes"
+SpocWebEntityId: 27032
+tags:
+- geo/Country
+title: Thailand
+type: Country
 ---
-
 
 [	ISO4217-currency_alphabetic	 :: THB ] 
 [	ISO4217-currency_name	 :: Baht ] 

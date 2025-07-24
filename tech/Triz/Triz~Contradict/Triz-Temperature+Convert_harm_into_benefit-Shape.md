@@ -1,15 +1,16 @@
 ﻿---
-type: TrizContradiction
 aliases:
 - Temperature+Convert_harm_into_benefit-Shape
-license: CC BY-SA 4.0
-copyright: https://github.com/SpocWeb
+Confidential: public
+copyright: "https://github.com/SpocWeb"
 IsDeleted: false
 IsReadOnly: false
-Confidential: public
-tags: 
+license: "CC BY-SA 4.0"
+tags:
 - Triz/Contradiction
+type: TrizContradiction
 ---
+
 [name::Temperature+Convert_harm_into_benefit-Shape]
 [SpocWebEntityId::24263]
 + [#has_/Pros :: [[Triz-Temperature]]]

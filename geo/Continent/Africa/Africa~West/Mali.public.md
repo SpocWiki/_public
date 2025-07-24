@@ -1,38 +1,37 @@
----
-location:
-- 12.65
-- -8
-type: Country
-tags:
-- geo/Country
-SpocWebEntityId: 26962
-isDeleted: false
-confidential: public
-license: CC BY-SA 4.0
-isReadOnly: false
-source: https://datahub.io/core/country-codes
-cssclasses: Country
-publish: true
-title: Mali
-linkTitle: 
-keywords: 
-layout: 
-draft: false
-publishDate: 
-expiryDate: 
+﻿---
 aliases:
 - Mali
 - Malí
 - مالي
 - 马里
 - Мали
-- the Republic of Mali
-- la República de Malí
+- "the Republic of Mali"
+- "la República de Malí"
+confidential: public
+cssclasses: Country
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords: 
 Languages:
 - fr-ML
 - bm
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: 
+location:
+- 12.65
+- -8
+publish: true
+publishDate: 
+source: "https://datahub.io/core/country-codes"
+SpocWebEntityId: 26962
+tags:
+- geo/Country
+title: Mali
+type: Country
 ---
-
 
 [	ISO4217-currency_alphabetic	 :: XOF ] 
 [	ISO4217-currency_name	 :: CFA Franc BCEAO ] 

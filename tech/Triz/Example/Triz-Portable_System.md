@@ -1,15 +1,16 @@
 ﻿---
-type: TrizExample
 aliases:
-- Portable System
-license: CC BY-SA 4.0
-copyright: https://github.com/SpocWeb
+- "Portable System"
+Confidential: public
+copyright: "https://github.com/SpocWeb"
 IsDeleted: false
 IsReadOnly: false
-Confidential: public
-tags: 
+license: "CC BY-SA 4.0"
+tags:
 - Triz/Principle/Example
+type: TrizExample
 ---
+
 [name::Portable System]
 [SpocWebEntityId::22379]
 [Triz-Principle-Sub::[[Triz-merge-in-space]]]

@@ -1,15 +1,16 @@
 ﻿---
-type: TrizContradiction
 aliases:
 - Versatility+Changing_the_color-Strength
-license: CC BY-SA 4.0
-copyright: https://github.com/SpocWeb
+Confidential: public
+copyright: "https://github.com/SpocWeb"
 IsDeleted: false
 IsReadOnly: false
-Confidential: public
-tags: 
+license: "CC BY-SA 4.0"
+tags:
 - Triz/Contradiction
+type: TrizContradiction
 ---
+
 [name::Versatility+Changing_the_color-Strength]
 [SpocWebEntityId::26221]
 + [#has_/Pros :: [[Triz-Versatility]]]

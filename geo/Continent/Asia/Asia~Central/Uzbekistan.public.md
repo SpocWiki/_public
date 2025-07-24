@@ -1,25 +1,4 @@
----
-location:
-- 41.33
-- 69.3
-type: Country
-tags:
-- geo/Country
-SpocWebEntityId: 27049
-isDeleted: false
-confidential: public
-license: CC BY-SA 4.0
-isReadOnly: false
-source: https://datahub.io/core/country-codes
-cssclasses: Country
-publish: true
-title: Uzbekistan
-linkTitle: 
-keywords: 
-layout: 
-draft: false
-publishDate: 
-expiryDate: 
+﻿---
 aliases:
 - Uzbekistan
 - Uzbekistán
@@ -27,14 +6,34 @@ aliases:
 - أوزبكستان
 - 乌兹别克斯坦
 - Узбекистан
-- the Republic of Uzbekistan
-- la República de Uzbekistán
+- "the Republic of Uzbekistan"
+- "la República de Uzbekistán"
+confidential: public
+cssclasses: Country
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords: 
 Languages:
 - uz
 - ru
 - tg
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: 
+location:
+- 41.33
+- 69.3
+publish: true
+publishDate: 
+source: "https://datahub.io/core/country-codes"
+SpocWebEntityId: 27049
+tags:
+- geo/Country
+title: Uzbekistan
+type: Country
 ---
-
 
 [	ISO4217-currency_alphabetic	 :: UZS ] 
 [	ISO4217-currency_name	 :: Uzbekistan Sum ] 

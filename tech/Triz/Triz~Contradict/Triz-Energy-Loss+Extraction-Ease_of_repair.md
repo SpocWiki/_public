@@ -1,15 +1,16 @@
 ﻿---
-type: TrizContradiction
 aliases:
 - Energy-Loss+Extraction-Ease_of_repair
-license: CC BY-SA 4.0
-copyright: https://github.com/SpocWeb
+Confidential: public
+copyright: "https://github.com/SpocWeb"
 IsDeleted: false
 IsReadOnly: false
-Confidential: public
-tags: 
+license: "CC BY-SA 4.0"
+tags:
 - Triz/Contradiction
+type: TrizContradiction
 ---
+
 [name::Energy-Loss+Extraction-Ease_of_repair]
 [SpocWebEntityId::24774]
 + [#has_/Pros :: Energy-Loss]

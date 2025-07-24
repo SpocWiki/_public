@@ -1,25 +1,4 @@
----
-location:
-- -20.1667
-- 57.5167
-type: Country
-tags:
-- geo/Country
-SpocWebEntityId: 26971
-isDeleted: false
-confidential: public
-license: CC BY-SA 4.0
-isReadOnly: false
-source: https://datahub.io/core/country-codes
-cssclasses: Country
-publish: true
-title: Mauritius
-linkTitle: 
-keywords: 
-layout: 
-draft: false
-publishDate: 
-expiryDate: 
+﻿---
 aliases:
 - Mauritius
 - Mauricio
@@ -27,14 +6,34 @@ aliases:
 - موريشيوس
 - 毛里求斯
 - Маврикий
-- the Republic of Mauritius
-- la República de Mauricio
+- "the Republic of Mauritius"
+- "la República de Mauricio"
+confidential: public
+cssclasses: Country
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords: 
 Languages:
 - en-MU
 - bho
 - fr
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: 
+location:
+- -20.1667
+- 57.5167
+publish: true
+publishDate: 
+source: "https://datahub.io/core/country-codes"
+SpocWebEntityId: 26971
+tags:
+- geo/Country
+title: Mauritius
+type: Country
 ---
-
 
 [	ISO4217-currency_alphabetic	 :: MUR ] 
 [	ISO4217-currency_name	 :: Mauritius Rupee ] 

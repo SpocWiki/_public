@@ -1,34 +1,20 @@
----
-location:
-- 20.3923
-- 78.9354
-type: Country
-tags:
-- geo/Country
-SpocWebEntityId: 26925
-isDeleted: false
-confidential: public
-license: CC BY-SA 4.0
-isReadOnly: false
-source: https://datahub.io/core/country-codes
-cssclasses: Country
-publish: true
-title: India
-linkTitle: 
-keywords: 
-layout: 
-draft: false
-publishDate: 
-expiryDate: 
+﻿---
 aliases:
 - India
 - Inde
 - الهند
 - 印度
 - Индия
-- the Republic of India
-- la República de la India
-- India (la)
+- "the Republic of India"
+- "la República de la India"
+- "India (la)"
+confidential: public
+cssclasses: Country
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords: 
 Languages:
 - en-IN
 - hi
@@ -56,8 +42,21 @@ Languages:
 - fr
 - lus
 - inc
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: 
+location:
+- 20.3923
+- 78.9354
+publish: true
+publishDate: 
+source: "https://datahub.io/core/country-codes"
+SpocWebEntityId: 26925
+tags:
+- geo/Country
+title: India
+type: Country
 ---
-
 
 [	ISO4217-currency_alphabetic	 :: INR ] 
 [	ISO4217-currency_name	 :: Indian Rupee ] 

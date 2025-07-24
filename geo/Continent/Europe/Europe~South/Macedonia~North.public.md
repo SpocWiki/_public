@@ -1,14 +1,15 @@
----
-location: [41.98,21.43] 
-type: Country
+﻿---
+confidential: public
+isDeleted: false
+location:
+- 41.98
+- 21.43
+SpocWebEntityId: 26961
 tags:
 - geo/Country
-
-SpocWebEntityId: 26961
-isDeleted: false
-confidential: public
-
+type: Country
 ---
+
 [ISO2::MK] 
 [ISO3::MKD] 
 

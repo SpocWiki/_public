@@ -1,38 +1,36 @@
----
+﻿---
+aliases:
+- "Åland Islands"
+- "Islas Åland"
+- "Îles d'Åland"
+- "جزر ألاند"
+- 奥兰群岛
+- "Аландские острова"
+- 
+confidential: public
+cssclasses: Country
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords: 
+Languages:
+- sv-AX
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: 
 location:
 - 60.1481
 - 20.3741
-type: Country
+publish: true
+publishDate: 
+source: "https://datahub.io/core/country-codes"
+SpocWebEntityId: 76728
 tags:
 - geo/Country
-SpocWebEntityId: 76728
-isDeleted: false
-confidential: public
-license: CC BY-SA 4.0
-isReadOnly: false
-source: https://datahub.io/core/country-codes
-cssclasses: Country
-publish: true
-title: Åland Islands
-linkTitle: 
-keywords: 
-layout: 
-draft: false
-publishDate: 
-expiryDate: 
-aliases:
-- Åland Islands
-- Islas Åland
-- Îles d'Åland
-- جزر ألاند
-- 奥兰群岛
-- Аландские острова
-- 
-Languages:
-- sv-AX
+title: "Åland Islands"
+type: Country
 ---
-
-
 
 [	ISO4217-currency_alphabetic	 :: EUR ] 
 [	ISO4217-currency_name	 :: Euro ] 

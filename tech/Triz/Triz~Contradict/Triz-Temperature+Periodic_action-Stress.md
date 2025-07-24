@@ -1,15 +1,16 @@
 ﻿---
-type: TrizContradiction
 aliases:
 - Temperature+Periodic_action-Stress
-license: CC BY-SA 4.0
-copyright: https://github.com/SpocWeb
+Confidential: public
+copyright: "https://github.com/SpocWeb"
 IsDeleted: false
 IsReadOnly: false
-Confidential: public
-tags: 
+license: "CC BY-SA 4.0"
+tags:
 - Triz/Contradiction
+type: TrizContradiction
 ---
+
 [name::Temperature+Periodic_action-Stress]
 [SpocWebEntityId::24260]
 + [#has_/Pros :: [[Triz-Temperature]]]

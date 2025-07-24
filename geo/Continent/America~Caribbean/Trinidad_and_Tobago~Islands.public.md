@@ -1,14 +1,15 @@
----
-location: [10.6667,-61.5167]
-type: Country
+﻿---
+confidential: public
+isDeleted: false
+location:
+- 10.6667
+- -61.5167
+SpocWebEntityId: 27040
 tags:
 - geo/Country
-
-SpocWebEntityId: 27040
-isDeleted: false
-confidential: public
-
+type: Country
 ---
+
 [ISO2::TT]
 [ISO3::TTO]
 

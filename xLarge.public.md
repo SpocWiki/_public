@@ -1,31 +1,31 @@
----
-title: xLarge.public
-lang: en
-type: private_note
-keywords: xLarge.public
-linkTitle: xLarge.public
-has_Template: "[[Extract~Note~Template]]"
-license: (c)copyrighted
+﻿---
+aliases:
+- xLarge.public
 confidential: private
+cssclasses:
+- private
+- note
+draft: true
+excalidraw_autoexport: svg
+excalidraw_open_md: true
+excalidraw_plugin: parsed
+expiryDate: 
+has_Template: '[[Extract~Note~Template]]'
+has_time_started: 2025-07-20
 isDeleted: false
 isReadOnly: false
-cssclasses:
-  - private
-  - note
+keywords: xLarge.public
+lang: en
 layout: 
-draft: true
+license: (c)copyrighted
+linkTitle: xLarge.public
 publish: false
 publishDate: 
-expiryDate: 
-has_time_started: 2025-07-20
-aliases:
-  - xLarge.public
 tags:
-  - xLarge.public
-  - excalidraw
-excalidraw-plugin: parsed
-excalidraw-open-md: true
-excalidraw-autoexport: svg
+- xLarge.public
+- excalidraw
+title: xLarge.public
+type: private_note
 ---
 
 # [[xLarge.public]] 

@@ -1,15 +1,16 @@
 ﻿---
-type: TrizContradiction
 aliases:
 - Ease_of_operation+Asymmetry-Information-Loss
-license: CC BY-SA 4.0
-copyright: https://github.com/SpocWeb
+Confidential: public
+copyright: "https://github.com/SpocWeb"
 IsDeleted: false
 IsReadOnly: false
-Confidential: public
-tags: 
+license: "CC BY-SA 4.0"
+tags:
 - Triz/Contradiction
+type: TrizContradiction
 ---
+
 [name::Ease_of_operation+Asymmetry-Information-Loss]
 [SpocWebEntityId::26021]
 + [#has_/Pros :: [[Triz-Ease_of_operation]]]

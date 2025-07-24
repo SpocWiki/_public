@@ -1,15 +1,16 @@
 ﻿---
-type: TrizExample
 aliases:
-- Venetian Blinds
-license: CC BY-SA 4.0
-copyright: https://github.com/SpocWeb
+- "Venetian Blinds"
+Confidential: public
+copyright: "https://github.com/SpocWeb"
 IsDeleted: false
 IsReadOnly: false
-Confidential: public
-tags: 
+license: "CC BY-SA 4.0"
+tags:
 - Triz/Principle/Example
+type: TrizExample
 ---
+
 [name::Venetian Blinds]
 [SpocWebEntityId::22344]
 [Triz-Principle-Sub::[[Triz-Fragment]]]

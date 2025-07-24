@@ -1,15 +1,16 @@
----
-type: TrizParameter
+﻿---
 aliases:
-- Manufacturing Precision
-license: CC BY-SA 4.0
-copyright: https://github.com/SpocWeb
+- "Manufacturing Precision"
+Confidential: public
+copyright: "https://github.com/SpocWeb"
 IsDeleted: false
 IsReadOnly: false
-Confidential: public
-tags: 
+license: "CC BY-SA 4.0"
+tags:
 - Triz/Parameter
+type: TrizParameter
 ---
+
 [name::Manufacturing Precision]
 [SpocWebEntityId::22182]
 [TrizParameterId::29]

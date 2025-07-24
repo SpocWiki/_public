@@ -1,15 +1,16 @@
----
-type: TrizExample
+﻿---
 aliases:
-- Hammer with Nail Puller
-license: CC BY-SA 4.0
-copyright: https://github.com/SpocWeb
+- "Hammer with Nail Puller"
+Confidential: public
+copyright: "https://github.com/SpocWeb"
 IsDeleted: false
 IsReadOnly: false
-Confidential: public
-tags: 
+license: "CC BY-SA 4.0"
+tags:
 - Triz/Principle/Example
+type: TrizExample
 ---
+
 [name::Hammer with Nail Puller]
 [SpocWebEntityId::22355]
 [Triz-Principle-Sub::[[Triz-different]]]

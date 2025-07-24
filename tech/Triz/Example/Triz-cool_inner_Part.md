@@ -1,15 +1,16 @@
 ﻿---
-type: TrizExample
 aliases:
-- cool inner Part
-license: CC BY-SA 4.0
-copyright: https://github.com/SpocWeb
+- "cool inner Part"
+Confidential: public
+copyright: "https://github.com/SpocWeb"
 IsDeleted: false
 IsReadOnly: false
-Confidential: public
-tags: 
+license: "CC BY-SA 4.0"
+tags:
 - Triz/Principle/Example
+type: TrizExample
 ---
+
 [name::cool inner Part]
 [SpocWebEntityId::22414]
 [Triz-Principle-Sub::[[Triz-invert-action]]]

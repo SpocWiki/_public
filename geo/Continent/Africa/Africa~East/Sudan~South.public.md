@@ -1,45 +1,35 @@
----
-license: CC BY-SA 4.0
+﻿---
+aliases:
+- "South Sudan"
+- "South Sudan"
+- "Sudán del Sur"
+- "Soudan du Sud"
+- "جنوب السودان"
+- 南苏丹
+- "Южный Судан"
+- "the Republic of South Sudan"
+- "South Sudan"
+- "la República de Sudán del Sur"
+- "Sudán del Sur"
 confidential: public
+cssclasses: Country
+draft: false
+expiryDate: 
 isDeleted: false
 isReadOnly: false
-
-source: https://datahub.io/core/country-codes
-
-#Obsidian well-known Keys
-cssclasses: Country
-publish: true
-
-# Hugo Tags
-type: Country
-title: South Sudan
-
-linkTitle: 
 keywords: 
+Languages:
+- en
 layout: 
-draft: false
-publishDate:
-expiryDate: 
-
+license: "CC BY-SA 4.0"
+linkTitle: 
+publish: true
+publishDate: 
+source: "https://datahub.io/core/country-codes"
 tags:
 - geo/Country
-
-aliases:
-- South Sudan
-- South Sudan
-- Sudán del Sur
-- Soudan du Sud
-- جنوب السودان
-- 南苏丹
-- Южный Судан
-- the Republic of South Sudan
-- South Sudan
-- la República de Sudán del Sur
-- Sudán del Sur
-
-Languages: [en] 
-
-
+title: "South Sudan"
+type: Country
 ---
 
 [	ISO4217-currency_alphabetic	 :: SSP ] 

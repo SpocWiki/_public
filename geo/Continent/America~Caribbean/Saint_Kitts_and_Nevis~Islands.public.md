@@ -1,17 +1,17 @@
----
-location: [17.3,-62.7333]
-type: Country
-tags:
-- geo/Country
-
+﻿---
 aliases:
 - St._Kitts-Nevis-Anguilla
-
-SpocWebEntityId: 26939
-isDeleted: false
 confidential: public
-
+isDeleted: false
+location:
+- 17.3
+- -62.7333
+SpocWebEntityId: 26939
+tags:
+- geo/Country
+type: Country
 ---
+
 [ISO2::KN]
 [ISO3::KNA]
 

@@ -1,15 +1,16 @@
 ﻿---
-type: TrizContradiction
 aliases:
 - Quantity+Use_a_pneumatic_or_hydralic_construction-moving_Area
-license: CC BY-SA 4.0
-copyright: https://github.com/SpocWeb
+Confidential: public
+copyright: "https://github.com/SpocWeb"
 IsDeleted: false
 IsReadOnly: false
-Confidential: public
-tags: 
+license: "CC BY-SA 4.0"
+tags:
 - Triz/Contradiction
+type: TrizContradiction
 ---
+
 [name::Quantity+Use_a_pneumatic_or_hydralic_construction-moving_Area]
 [SpocWebEntityId::25125]
 + [#has_/Pros :: [[Triz-Quantity]]]

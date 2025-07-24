@@ -1,15 +1,16 @@
 ﻿---
-type: TrizContradiction
 aliases:
 - moving_Weight+Rejecting_and_regenerating_parts-moving_Area
-license: CC BY-SA 4.0
-copyright: https://github.com/SpocWeb
+Confidential: public
+copyright: "https://github.com/SpocWeb"
 IsDeleted: false
 IsReadOnly: false
-Confidential: public
-tags: 
+license: "CC BY-SA 4.0"
+tags:
 - Triz/Contradiction
+type: TrizContradiction
 ---
+
 [name::moving_Weight+Rejecting_and_regenerating_parts-moving_Area]
 [SpocWebEntityId::22577]
 + [#has_/Pros :: [[Triz-moving_Weight]]]

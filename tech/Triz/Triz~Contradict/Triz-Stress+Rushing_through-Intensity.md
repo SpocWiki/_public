@@ -1,15 +1,16 @@
 ﻿---
-type: TrizContradiction
 aliases:
 - Stress+Rushing_through-Intensity
-license: CC BY-SA 4.0
-copyright: https://github.com/SpocWeb
+Confidential: public
+copyright: "https://github.com/SpocWeb"
 IsDeleted: false
 IsReadOnly: false
-Confidential: public
-tags: 
+license: "CC BY-SA 4.0"
+tags:
 - Triz/Contradiction
+type: TrizContradiction
 ---
+
 [name::Stress+Rushing_through-Intensity]
 [SpocWebEntityId::23635]
 + [#has_/Pros :: [[Triz-Stress]]]

@@ -1,15 +1,16 @@
 ﻿---
-type: TrizContradiction
 aliases:
 - Speed+Local_quality-Strength
-license: CC BY-SA 4.0
-copyright: https://github.com/SpocWeb
+Confidential: public
+copyright: "https://github.com/SpocWeb"
 IsDeleted: false
 IsReadOnly: false
-Confidential: public
-tags: 
+license: "CC BY-SA 4.0"
+tags:
 - Triz/Contradiction
+type: TrizContradiction
 ---
+
 [name::Speed+Local_quality-Strength]
 [SpocWebEntityId::23396]
 + [#has_/Pros :: [[Triz-Speed]]]

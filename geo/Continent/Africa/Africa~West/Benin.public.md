@@ -1,37 +1,36 @@
----
-location:
-- 6.46667
-- 2.6
-type: Country
-tags:
-- geo/Country
-SpocWebEntityId: 26849
-isDeleted: false
-confidential: public
-license: CC BY-SA 4.0
-isReadOnly: false
-source: https://datahub.io/core/country-codes
-cssclasses: Country
-publish: true
-title: Benin
-linkTitle: 
-keywords: 
-layout: 
-draft: false
-publishDate: 
-expiryDate: 
+﻿---
 aliases:
 - Benin
 - Bénin
 - بنن
 - 贝宁
 - Бенин
-- the Republic of Benin
-- la República de Benin
+- "the Republic of Benin"
+- "la República de Benin"
+confidential: public
+cssclasses: Country
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords: 
 Languages:
 - fr-BJ
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: 
+location:
+- 6.46667
+- 2.6
+publish: true
+publishDate: 
+source: "https://datahub.io/core/country-codes"
+SpocWebEntityId: 26849
+tags:
+- geo/Country
+title: Benin
+type: Country
 ---
-
 
 [	ISO4217-currency_alphabetic	 :: XOF ] 
 [	ISO4217-currency_name	 :: CFA Franc BCEAO ] 

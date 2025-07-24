@@ -1,45 +1,35 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-source: https://datahub.io/core/country-codes
-
-#Obsidian well-known Keys
-cssclasses: Country
-publish: true
-
-# Hugo Tags
-type: Country
-title: Palestine
-
-linkTitle: 
-keywords: 
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- geo/Country
-
+﻿---
 aliases:
 - Palestine
-- State of Palestine
-- Estado de Palestina
-- État de Palestine
-- دولة فلسطين
+- "State of Palestine"
+- "Estado de Palestina"
+- "État de Palestine"
+- "دولة فلسطين"
 - 巴勒斯坦国
-- Государство Палестина
-- State of Palestine
-- State of Palestine
-- Estado  de Palestina
-- Estado  de Palestina
-
-Languages: [ar-PS] 
-
-
+- "Государство Палестина"
+- "State of Palestine"
+- "State of Palestine"
+- "Estado  de Palestina"
+- "Estado  de Palestina"
+confidential: public
+cssclasses: Country
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords: 
+Languages:
+- ar-PS
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: 
+publish: true
+publishDate: 
+source: "https://datahub.io/core/country-codes"
+tags:
+- geo/Country
+title: Palestine
+type: Country
 ---
 
 [	ISO4217-currency_alphabetic	 ::  ] 

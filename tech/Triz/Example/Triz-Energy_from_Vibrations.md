@@ -1,15 +1,16 @@
 ﻿---
-type: TrizExample
 aliases:
-- Energy from Vibrations
-license: CC BY-SA 4.0
-copyright: https://github.com/SpocWeb
+- "Energy from Vibrations"
+Confidential: public
+copyright: "https://github.com/SpocWeb"
 IsDeleted: false
 IsReadOnly: false
-Confidential: public
-tags: 
+license: "CC BY-SA 4.0"
+tags:
 - Triz/Principle/Example
+type: TrizExample
 ---
+
 [name::Energy from Vibrations]
 [SpocWebEntityId::22452]
 [Triz-Principle-Sub::[[Triz-vibrate]]]

@@ -1,37 +1,36 @@
 ﻿---
+aliases:
+- "French Guiana"
+- "Guayana Francesa"
+- "Guyane française"
+- "غيانا الفرنسية"
+- 法属圭亚那
+- "Французская Гвиана"
+- 
+confidential: public
+cssclasses: Country
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords: 
+Languages:
+- fr-GF
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: 
 location:
 - 4.92
 - -52.3
-type: Country
+publish: true
+publishDate: 
+source: "https://datahub.io/core/country-codes"
+SpocWebEntityId: 26902
 tags:
 - geo/Country
-SpocWebEntityId: 26902
-isDeleted: false
-confidential: public
-license: CC BY-SA 4.0
-isReadOnly: false
-source: https://datahub.io/core/country-codes
-cssclasses: Country
-publish: true
-title: French Guiana
-linkTitle: 
-keywords: 
-layout: 
-draft: false
-publishDate: 
-expiryDate: 
-aliases:
-- French Guiana
-- Guayana Francesa
-- Guyane française
-- غيانا الفرنسية
-- 法属圭亚那
-- Французская Гвиана
-- 
-Languages:
-- fr-GF
+title: "French Guiana"
+type: Country
 ---
-
 
 [	ISO4217-currency_alphabetic	 :: EUR ] 
 [	ISO4217-currency_name	 :: Euro ] 

@@ -1,39 +1,38 @@
----
-location:
-- -29.4667
-- 27.9333
-type: Country
-tags:
-- geo/Country
-SpocWebEntityId: 26951
-isDeleted: false
-confidential: public
-license: CC BY-SA 4.0
-isReadOnly: false
-source: https://datahub.io/core/country-codes
-cssclasses: Country
-publish: true
-title: Lesotho
-linkTitle: 
-keywords: 
-layout: 
-draft: false
-publishDate: 
-expiryDate: 
+﻿---
 aliases:
 - Lesotho
 - ليسوتو
 - 莱索托
 - Лесото
-- the Kingdom of Lesotho
-- el Reino de Lesotho
+- "the Kingdom of Lesotho"
+- "el Reino de Lesotho"
+confidential: public
+cssclasses: Country
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords: 
 Languages:
 - en-LS
 - st
 - zu
 - xh
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: 
+location:
+- -29.4667
+- 27.9333
+publish: true
+publishDate: 
+source: "https://datahub.io/core/country-codes"
+SpocWebEntityId: 26951
+tags:
+- geo/Country
+title: Lesotho
+type: Country
 ---
-
 
 [	ISO4217-currency_alphabetic	 :: LSL,ZAR ] 
 [	ISO4217-currency_name	 :: Loti,Rand ] 

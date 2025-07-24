@@ -1,15 +1,16 @@
 ﻿---
-type: TrizContradiction
 aliases:
 - stationary_Volume+Mediator-Stress
-license: CC BY-SA 4.0
-copyright: https://github.com/SpocWeb
+Confidential: public
+copyright: "https://github.com/SpocWeb"
 IsDeleted: false
 IsReadOnly: false
-Confidential: public
-tags: 
+license: "CC BY-SA 4.0"
+tags:
 - Triz/Contradiction
+type: TrizContradiction
 ---
+
 [name::stationary_Volume+Mediator-Stress]
 [SpocWebEntityId::23310]
 + [#has_/Pros :: [[Triz-stationary_Volume]]]

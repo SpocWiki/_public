@@ -1,43 +1,42 @@
----
-location:
-- 47
-- 28.9167
-type: Country
-tags:
-- geo/Country
-SpocWebEntityId: 26958
-isDeleted: false
-confidential: public
-license: CC BY-SA 4.0
-isReadOnly: false
-source: https://datahub.io/core/country-codes
-cssclasses: Country
-publish: true
-title: Moldova
-linkTitle: 
-keywords: 
-layout: 
-draft: false
-publishDate: 
-expiryDate: 
+﻿---
 aliases:
 - Moldova
-- Republic of Moldova
-- República de Moldova
-- République de Moldova
-- جمهورية مولدوفا
+- "Republic of Moldova"
+- "República de Moldova"
+- "République de Moldova"
+- "جمهورية مولدوفا"
 - 摩尔多瓦共和国
-- Республика Молдова
-- the Republic of Moldova
-- Republic of Moldova (the)
-- la República de Moldova
+- "Республика Молдова"
+- "the Republic of Moldova"
+- "Republic of Moldova (the)"
+- "la República de Moldova"
+confidential: public
+cssclasses: Country
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords: 
 Languages:
 - ro
 - ru
 - gag
 - tr
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: 
+location:
+- 47
+- 28.9167
+publish: true
+publishDate: 
+source: "https://datahub.io/core/country-codes"
+SpocWebEntityId: 26958
+tags:
+- geo/Country
+title: Moldova
+type: Country
 ---
-
 
 [	ISO4217-currency_alphabetic	 :: MDL ] 
 [	ISO4217-currency_name	 :: Moldovan Leu ] 

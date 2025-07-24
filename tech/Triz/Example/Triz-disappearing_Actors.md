@@ -1,15 +1,16 @@
 ﻿---
-type: TrizExample
 aliases:
-- disappearing Actors
-license: CC BY-SA 4.0
-copyright: https://github.com/SpocWeb
+- "disappearing Actors"
+Confidential: public
+copyright: "https://github.com/SpocWeb"
 IsDeleted: false
 IsReadOnly: false
-Confidential: public
-tags: 
+license: "CC BY-SA 4.0"
+tags:
 - Triz/Principle/Example
+type: TrizExample
 ---
+
 [name::disappearing Actors]
 [SpocWebEntityId::22444]
 [Triz-Principle-Sub::[[Triz-multi-story]]]

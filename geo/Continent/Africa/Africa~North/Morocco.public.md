@@ -1,25 +1,4 @@
----
-location:
-- 33.0225
-- -7.6125
-type: Country
-tags:
-- geo/Country
-SpocWebEntityId: 26956
-isDeleted: false
-confidential: public
-license: CC BY-SA 4.0
-isReadOnly: false
-source: https://datahub.io/core/country-codes
-cssclasses: Country
-publish: true
-title: Morocco
-linkTitle: 
-keywords: 
-layout: 
-draft: false
-publishDate: 
-expiryDate: 
+﻿---
 aliases:
 - Morocco
 - Marruecos
@@ -27,14 +6,34 @@ aliases:
 - المغرب
 - 摩洛哥
 - Марокко
-- the Kingdom of Morocco
-- el Reino de Marruecos
+- "the Kingdom of Morocco"
+- "el Reino de Marruecos"
+confidential: public
+cssclasses: Country
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords: 
 Languages:
 - ar-MA
 - ber
 - fr
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: 
+location:
+- 33.0225
+- -7.6125
+publish: true
+publishDate: 
+source: "https://datahub.io/core/country-codes"
+SpocWebEntityId: 26956
+tags:
+- geo/Country
+title: Morocco
+type: Country
 ---
-
 
 [	ISO4217-currency_alphabetic	 :: MAD ] 
 [	ISO4217-currency_name	 :: Moroccan Dirham ] 

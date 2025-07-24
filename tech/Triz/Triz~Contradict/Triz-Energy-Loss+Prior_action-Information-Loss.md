@@ -1,15 +1,16 @@
 ﻿---
-type: TrizContradiction
 aliases:
 - Energy-Loss+Prior_action-Information-Loss
-license: CC BY-SA 4.0
-copyright: https://github.com/SpocWeb
+Confidential: public
+copyright: "https://github.com/SpocWeb"
 IsDeleted: false
 IsReadOnly: false
-Confidential: public
-tags: 
+license: "CC BY-SA 4.0"
+tags:
 - Triz/Contradiction
+type: TrizContradiction
 ---
+
 [name::Energy-Loss+Prior_action-Information-Loss]
 [SpocWebEntityId::24751]
 + [#has_/Pros :: Energy-Loss]

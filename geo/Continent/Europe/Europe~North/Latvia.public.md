@@ -1,25 +1,4 @@
----
-location:
-- 56.95
-- 24.11
-type: Country
-tags:
-- geo/Country
-SpocWebEntityId: 26954
-isDeleted: false
-confidential: public
-license: CC BY-SA 4.0
-isReadOnly: false
-source: https://datahub.io/core/country-codes
-cssclasses: Country
-publish: true
-title: Latvia
-linkTitle: 
-keywords: 
-layout: 
-draft: false
-publishDate: 
-expiryDate: 
+﻿---
 aliases:
 - Latvia
 - Letonia
@@ -27,14 +6,34 @@ aliases:
 - لاتفيا
 - 拉脱维亚
 - Латвия
-- the Republic of Latvia
-- la República de Letonia
+- "the Republic of Latvia"
+- "la República de Letonia"
+confidential: public
+cssclasses: Country
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords: 
 Languages:
 - lv
 - ru
 - lt
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: 
+location:
+- 56.95
+- 24.11
+publish: true
+publishDate: 
+source: "https://datahub.io/core/country-codes"
+SpocWebEntityId: 26954
+tags:
+- geo/Country
+title: Latvia
+type: Country
 ---
-
 
 [	ISO4217-currency_alphabetic	 :: EUR ] 
 [	ISO4217-currency_name	 :: Euro ] 

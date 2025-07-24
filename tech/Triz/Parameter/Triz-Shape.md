@@ -1,15 +1,16 @@
----
-type: TrizParameter
+﻿---
 aliases:
 - Shape
-license: CC BY-SA 4.0
-copyright: https://github.com/SpocWeb
+Confidential: public
+copyright: "https://github.com/SpocWeb"
 IsDeleted: false
 IsReadOnly: false
-Confidential: public
-tags: 
+license: "CC BY-SA 4.0"
+tags:
 - Triz/Parameter
+type: TrizParameter
 ---
+
 [name::Shape]
 [SpocWebEntityId::22169]
 [TrizParameterId::12]

@@ -1,15 +1,16 @@
 ﻿---
-type: TrizContradiction
 aliases:
 - Power+Periodic_action-moving_Duration
-license: CC BY-SA 4.0
-copyright: https://github.com/SpocWeb
+Confidential: public
+copyright: "https://github.com/SpocWeb"
 IsDeleted: false
 IsReadOnly: false
-Confidential: public
-tags: 
+license: "CC BY-SA 4.0"
+tags:
 - Triz/Contradiction
+type: TrizContradiction
 ---
+
 [name::Power+Periodic_action-moving_Duration]
 [SpocWebEntityId::24626]
 + [#has_/Pros :: [[Triz-Power]]]

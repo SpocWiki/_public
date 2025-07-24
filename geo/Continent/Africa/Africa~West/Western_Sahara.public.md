@@ -1,38 +1,37 @@
----
-location:
-- 27.1536
-- -13.2033
-type: Country
-tags:
-- geo/Country
-SpocWebEntityId: 26887
-isDeleted: false
-confidential: public
-license: CC BY-SA 4.0
-isReadOnly: false
-source: https://datahub.io/core/country-codes
-cssclasses: Country
-publish: true
-title: Western Sahara
-linkTitle: 
-keywords: 
-layout: 
-draft: false
-publishDate: 
-expiryDate: 
+﻿---
 aliases:
-- Western Sahara
-- Sáhara Occidental
-- Sahara occidental
-- الصحراء الغربية
+- "Western Sahara"
+- "Sáhara Occidental"
+- "Sahara occidental"
+- "الصحراء الغربية"
 - 西撒哈拉
-- Западная Сахара
+- "Западная Сахара"
 - 
+confidential: public
+cssclasses: Country
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords: 
 Languages:
 - ar
 - mey
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: 
+location:
+- 27.1536
+- -13.2033
+publish: true
+publishDate: 
+source: "https://datahub.io/core/country-codes"
+SpocWebEntityId: 26887
+tags:
+- geo/Country
+title: "Western Sahara"
+type: Country
 ---
-
 
 [	ISO4217-currency_alphabetic	 :: MAD ] 
 [	ISO4217-currency_name	 :: Moroccan Dirham ] 

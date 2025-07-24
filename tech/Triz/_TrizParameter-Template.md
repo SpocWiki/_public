@@ -1,17 +1,16 @@
----
-type: TrizParameter
-license: CC BY-SA 4.0
-copyright: https://github.com/SpocWeb
-IsDeleted: false
-IsReadOnly: false
-Confidential: public
-
-tags: 
-- Triz/Parameter
-
+﻿---
 aliases:
 - 
+Confidential: public
+copyright: "https://github.com/SpocWeb"
+IsDeleted: false
+IsReadOnly: false
+license: "CC BY-SA 4.0"
+tags:
+- Triz/Parameter
+type: TrizParameter
 ---
+
 SpocWebEntityId: {{SpocWebEntityId}}
 TrizParameterId: {{ID}}
 

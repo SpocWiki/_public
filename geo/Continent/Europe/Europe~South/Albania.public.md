@@ -1,38 +1,37 @@
----
-location:
-- 40.793
-- 19.9565
-type: Country
-SpocWebEntityId: 26830
-isDeleted: false
-confidential: public
-tags:
-- geo/Country
-license: CC BY-SA 4.0
-isReadOnly: false
-source: https://datahub.io/core/country-codes
-cssclasses: Country
-publish: true
-title: Albania
-linkTitle: 
-keywords: 
-layout: 
-draft: false
-publishDate: 
-expiryDate: 
+﻿---
 aliases:
 - Albania
 - Albanie
 - ألبانيا
 - 阿尔巴尼亚
 - Албания
-- the Republic of Albania
-- la República de Albania
+- "the Republic of Albania"
+- "la República de Albania"
+confidential: public
+cssclasses: Country
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords: 
 Languages:
 - sq
 - el
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: 
+location:
+- 40.793
+- 19.9565
+publish: true
+publishDate: 
+source: "https://datahub.io/core/country-codes"
+SpocWebEntityId: 26830
+tags:
+- geo/Country
+title: Albania
+type: Country
 ---
-
 
 [	ISO4217-currency_alphabetic	 :: ALL ] 
 [	ISO4217-currency_name	 :: Lek ] 

@@ -1,41 +1,40 @@
----
-location:
-- 15.3333
-- 38.9167
-type: Country
-tags:
-- geo/Country
-SpocWebEntityId: 26888
-isDeleted: false
-confidential: public
-license: CC BY-SA 4.0
-isReadOnly: false
-source: https://datahub.io/core/country-codes
-cssclasses: Country
-publish: true
-title: Eritrea
-linkTitle: 
-keywords: 
-layout: 
-draft: false
-publishDate: 
-expiryDate: 
+﻿---
 aliases:
 - Eritrea
 - Érythrée
 - إريتريا
 - 厄立特里亚
 - Эритрея
-- the State of Eritrea
-- el Estado de Eritrea
+- "the State of Eritrea"
+- "el Estado de Eritrea"
+confidential: public
+cssclasses: Country
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords: 
 Languages:
 - aa-ER
 - ar
 - tig
 - kun
 - ti-ER
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: 
+location:
+- 15.3333
+- 38.9167
+publish: true
+publishDate: 
+source: "https://datahub.io/core/country-codes"
+SpocWebEntityId: 26888
+tags:
+- geo/Country
+title: Eritrea
+type: Country
 ---
-
 
 [	ISO4217-currency_alphabetic	 :: ERN ] 
 [	ISO4217-currency_name	 :: Nakfa ] 

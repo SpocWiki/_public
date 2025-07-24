@@ -1,25 +1,4 @@
----
-location:
-- 42.8667
-- 74.6
-type: Country
-tags:
-- geo/Country
-SpocWebEntityId: 26935
-isDeleted: false
-confidential: public
-license: CC BY-SA 4.0
-isReadOnly: false
-source: https://datahub.io/core/country-codes
-cssclasses: Country
-publish: true
-title: Kyrgyzstan
-linkTitle: 
-keywords: 
-layout: 
-draft: false
-publishDate: 
-expiryDate: 
+﻿---
 aliases:
 - Kyrgyzstan
 - Kirguistán
@@ -27,14 +6,34 @@ aliases:
 - قيرغيزستان
 - 吉尔吉斯斯坦
 - Кыргызстан
-- the Kyrgyz Republic
-- la República Kirguisa
+- "the Kyrgyz Republic"
+- "la República Kirguisa"
+confidential: public
+cssclasses: Country
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords: 
 Languages:
 - ky
 - uz
 - ru
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: 
+location:
+- 42.8667
+- 74.6
+publish: true
+publishDate: 
+source: "https://datahub.io/core/country-codes"
+SpocWebEntityId: 26935
+tags:
+- geo/Country
+title: Kyrgyzstan
+type: Country
 ---
-
 
 [	ISO4217-currency_alphabetic	 :: KGS ] 
 [	ISO4217-currency_name	 :: Som ] 

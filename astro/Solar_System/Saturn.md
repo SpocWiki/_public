@@ -1,25 +1,20 @@
 ﻿---
-has_id_wikidata: Q193
-described_by_source:
-- "[[_Standards/WD/WD~Brockhaus and Efron Encyclopedic Dictionary]]"
-- "[[_Standards/WD/WD~Encyclopædia Britannica 11th edition]]"
-- "[[_Standards/WD/WD~The Nuttall Encyclopædia]]"
-- "[[_Standards/WD/WD~Small Brockhaus and Efron Encyclopedic Dictionary]]"
-- "[[_Standards/WD/WD~Armenian Soviet Encyclopedia, vol. 10]]"
 absolute_magnitude: 28
-Stack_Exchange_tag: "https://astronomy.stackexchange.com/tags/saturn"
-video: "http://commons.wikimedia.org/wiki/Special:FilePath/Looking%20saturn%20in%20the%20eye.ogv"
-image: "http://commons.wikimedia.org/wiki/Special:FilePath/8423%2020181%201saturn2016.jpg"
-instance_of:
-- "[[_Standards/WD/WD~outer planet]]"
-- "[[_Standards/WD/WD~gas giant]]"
-named_after:
-- '[[_Standards/WD/WD~Saturn]]'
-- "[[_Standards/WD/WD~Wu Xing]]"
-location: "[[_Standards/WD/WD~outer Solar System]]"
-part_of: "[[_Standards/WD/WD~outer Solar System]]"
+albedo:
+- 0.342
+- 0.47
+angular_diameter:
+- 14.5
+- 20.1
+apoapsis:
+- 10.11595804
+- 1503509229
+apparent_magnitude:
+- -0.24
+- 1.2
+area: 42700000000
+argument_of_periapsis: 92.59887831
 astronomic_symbol_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Saturn%20symbol%20%28fixed%20width%29.svg"
-parent_astronomical_body: '[[_Standards/WD/WD~Sun]]'
 child_astronomical_body:
 - "[[_Standards/WD/WD~rings of Saturn]]"
 - '[[_Standards/WD/WD~Titan]]'
@@ -120,88 +115,93 @@ child_astronomical_body:
 - "[[_Standards/WD/WD~S/2004 S 29]]"
 - '[[_Standards/WD/WD~Beli]]'
 - '[[_Standards/WD/WD~Alvaldi]]'
-pronunciation_audio:
-- "http://commons.wikimedia.org/wiki/Special:FilePath/En-us-Saturn.ogg"
-- "http://commons.wikimedia.org/wiki/Special:FilePath/It-Saturno.ogg"
-- "http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q9027%20%28swe%29-Moonhouse-Saturnus.wav"
-has_part_s_:
-- "[[_Standards/WD/WD~atmosphere of Saturn]]"
-- "[[_Standards/WD/WD~magnetosphere of Saturn]]"
-significant_event: "[[_Standards/WD/WD~planetary flyby]]"
-topic_s_main_category: '[[_Standards/WD/WD~Q32816016]]'
-notation: '[[_Standards/db/♄]]'
-spoken_text_audio:
-- "http://commons.wikimedia.org/wiki/Special:FilePath/Hy-%D5%8D%D5%A1%D5%BF%D5%B8%D6%82%D6%80%D5%B6%20%28Saturn%29.ogg"
-- "http://commons.wikimedia.org/wiki/Special:FilePath/Saturn.ogg"
-orbital_eccentricity: 0.05386179
-flattening: 0.09796
-apparent_magnitude:
-- -0.24
-- 1.2
-Unicode_character:
-- "\U0001FA90"
-- ♄
+Commons_category: "Saturn (planet)"
 Commons_gallery: Saturn
-Dewey_Decimal_Classification: 523.46
-U_S_National_Archives_Identifier: 10046640
-OmegaWiki_Defined_Meaning: 382630
-Iconclass_notation: 24C17
+declination: 83.537
 demonym:
 - Saturnian
 - زُحَلِيٌّ
 - Cronian
 - Saturnano
-Commons_category: "Saturn (planet)"
+density:
+- 0.19
+- 0.867
+described_by_source:
+- "[[_Standards/WD/WD~Brockhaus and Efron Encyclopedic Dictionary]]"
+- "[[_Standards/WD/WD~Encyclopædia Britannica 11th edition]]"
+- "[[_Standards/WD/WD~The Nuttall Encyclopædia]]"
+- "[[_Standards/WD/WD~Small Brockhaus and Efron Encyclopedic Dictionary]]"
+- "[[_Standards/WD/WD~Armenian Soviet Encyclopedia, vol. 10]]"
+Dewey_Decimal_Classification: 523.46
+diameter: 120536
 different_from: '[[_Standards/WD/WD~Saturn]]'
+distance_from_Earth:
+- 1195000000
+- 1660000000
+epoch: '[[_Standards/WD/WD~J2000.0]]'
+flattening: 0.09796
+has_id_wikidata: Q193
+has_part_s_:
+- "[[_Standards/WD/WD~atmosphere of Saturn]]"
+- "[[_Standards/WD/WD~magnetosphere of Saturn]]"
+Iconclass_notation: 24C17
+image: "http://commons.wikimedia.org/wiki/Special:FilePath/8423%2020181%201saturn2016.jpg"
+instance_of:
+- "[[_Standards/WD/WD~outer planet]]"
+- "[[_Standards/WD/WD~gas giant]]"
+location: "[[_Standards/WD/WD~outer Solar System]]"
+longitude_of_ascending_node: 113.66242448
+magnetic_moment: 4.6e+25
+mass: 568360
+mean_anomaly: 317.02
+named_after:
+- '[[_Standards/WD/WD~Saturn]]'
+- "[[_Standards/WD/WD~Wu Xing]]"
+notation: '[[_Standards/db/♄]]'
+OmegaWiki_Defined_Meaning: 382630
+orbital_eccentricity: 0.05386179
 orbital_inclination:
 - 0.93
 - 2.48599187
 - 5.51
-area: 42700000000
-speed:
-- 9.137
-- 9.6446
-- 10.183
-density:
-- 0.19
-- 0.867
-mass: 568360
-magnetic_moment: 4.6e+25
-temperature: 134
+orbital_period: 10757.7365
+parent_astronomical_body: '[[_Standards/WD/WD~Sun]]'
+part_of: "[[_Standards/WD/WD~outer Solar System]]"
+periapsis:
+- 9.04807635
+- 1349823615
+pronunciation_audio:
+- "http://commons.wikimedia.org/wiki/Special:FilePath/En-us-Saturn.ogg"
+- "http://commons.wikimedia.org/wiki/Special:FilePath/It-Saturno.ogg"
+- "http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q9027%20%28swe%29-Moonhouse-Saturnus.wav"
 radius:
 - 54364
 - 58232
 - 60268
-orbital_period: 10757.7365
-longitude_of_ascending_node: 113.66242448
+right_ascension: 40.589
 semi_major_axis_of_an_orbit:
 - 9.53667594
 - 1429394069
-volume_as_quantity: 827130000000000
-apoapsis:
-- 10.11595804
-- 1503509229
-periapsis:
-- 9.04807635
-- 1349823615
-argument_of_periapsis: 92.59887831
-mean_anomaly: 317.02
-diameter: 120536
-distance_from_Earth:
-- 1195000000
-- 1660000000
-synodic_period: 378.0944
-albedo:
-- 0.342
-- 0.47
-Wikimedia_outline: "[[_Standards/WD/WD~outline of Saturn]]"
-angular_diameter:
-- 14.5
-- 20.1
-right_ascension: 40.589
-declination: 83.537
-epoch: '[[_Standards/WD/WD~J2000.0]]'
+significant_event: "[[_Standards/WD/WD~planetary flyby]]"
+speed:
+- 9.137
+- 9.6446
+- 10.183
+spoken_text_audio:
+- "http://commons.wikimedia.org/wiki/Special:FilePath/Hy-%D5%8D%D5%A1%D5%BF%D5%B8%D6%82%D6%80%D5%B6%20%28Saturn%29.ogg"
+- "http://commons.wikimedia.org/wiki/Special:FilePath/Saturn.ogg"
+Stack_Exchange_tag: "https://astronomy.stackexchange.com/tags/saturn"
 surface_gravity: 8.96
+synodic_period: 378.0944
+temperature: 134
+topic_s_main_category: '[[_Standards/WD/WD~Q32816016]]'
+Unicode_character:
+- "\U0001FA90"
+- ♄
+U_S_National_Archives_Identifier: 10046640
+video: "http://commons.wikimedia.org/wiki/Special:FilePath/Looking%20saturn%20in%20the%20eye.ogv"
+volume_as_quantity: 827130000000000
+Wikimedia_outline: "[[_Standards/WD/WD~outline of Saturn]]"
 Wolfram_Language_entity_code: "Entity[\"Planet\", \"Saturn\"]"
 ---
 

@@ -1,8 +1,7 @@
+﻿---
+database_plugin: basic
 ---
-database-plugin: basic
 
-
----
 ```yaml:dbfolder
 name: Cities-Europe
 description: Prominent Cities in Europe

@@ -1,38 +1,37 @@
 ﻿---
-location:
-- -17.75
-- 168.3
-type: Country
-tags:
-- geo/Country
-SpocWebEntityId: 27056
-isDeleted: false
-confidential: public
-license: CC BY-SA 4.0
-isReadOnly: false
-source: https://datahub.io/core/country-codes
-cssclasses: Country
-publish: true
-title: Vanuatu
-linkTitle: 
-keywords: 
-layout: 
-draft: false
-publishDate: 
-expiryDate: 
 aliases:
 - Vanuatu
 - فانواتو
 - 瓦努阿图
 - Вануату
-- the Republic of Vanuatu
-- la República de Vanuatu
+- "the Republic of Vanuatu"
+- "la República de Vanuatu"
+confidential: public
+cssclasses: Country
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords: 
 Languages:
 - bi
 - en-VU
 - fr-VU
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: 
+location:
+- -17.75
+- 168.3
+publish: true
+publishDate: 
+source: "https://datahub.io/core/country-codes"
+SpocWebEntityId: 27056
+tags:
+- geo/Country
+title: Vanuatu
+type: Country
 ---
-
 
 [	ISO4217-currency_alphabetic	 :: VUV ]
 [	ISO4217-currency_name	 :: Vatu ]

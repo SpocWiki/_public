@@ -1,37 +1,36 @@
 ﻿---
-location:
-- 4.89028
-- 114.942
-type: Country
-tags:
-- geo/Country
-SpocWebEntityId: 26851
-isDeleted: false
-confidential: public
-license: CC BY-SA 4.0
-isReadOnly: false
-source: https://datahub.io/core/country-codes
-cssclasses: Country
-publish: true
-title: Brunei
-linkTitle: 
-keywords: 
-layout: 
-draft: false
-publishDate: 
-expiryDate: 
 aliases:
 - Brunei
-- Brunei Darussalam
-- Brunéi Darussalam
-- بروني دار السلام
+- "Brunei Darussalam"
+- "Brunéi Darussalam"
+- "بروني دار السلام"
 - 文莱达鲁萨兰国
 - Бруней-Даруссалам
+confidential: public
+cssclasses: Country
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords: 
 Languages:
 - ms-BN
 - en-BN
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: 
+location:
+- 4.89028
+- 114.942
+publish: true
+publishDate: 
+source: "https://datahub.io/core/country-codes"
+SpocWebEntityId: 26851
+tags:
+- geo/Country
+title: Brunei
+type: Country
 ---
-
 
 [	ISO4217-currency_alphabetic	 :: BND ]
 [	ISO4217-currency_name	 :: Brunei Dollar ]

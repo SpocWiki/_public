@@ -1,12 +1,13 @@
----
-type: TrizPrinciple
+﻿---
 aliases:
-- Periodic action
-license: CC BY-SA 4.0
-copyright: https://github.com/SpocWeb
-tags: 
+- "Periodic action"
+copyright: "https://github.com/SpocWeb"
+license: "CC BY-SA 4.0"
+tags:
 - Triz/Principle
+type: TrizPrinciple
 ---
+
 [name::Periodic action]
 [SpocWebEntityId::22214]
 [Popularity::7]

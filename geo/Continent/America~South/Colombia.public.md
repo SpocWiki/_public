@@ -1,37 +1,36 @@
 ﻿---
-location:
-- 3.525
-- -75.225
-type: Country
-tags:
-- geo/Country
-SpocWebEntityId: 26871
-isDeleted: false
-confidential: public
-license: CC BY-SA 4.0
-isReadOnly: false
-source: https://datahub.io/core/country-codes
-cssclasses: Country
-publish: true
-title: Colombia
-linkTitle: 
-keywords: 
-layout: 
-draft: false
-publishDate: 
-expiryDate: 
 aliases:
 - Colombia
 - Colombie
 - كولومبيا
 - 哥伦比亚
 - Колумбия
-- the Republic of Colombia
-- la República de Colombia
+- "the Republic of Colombia"
+- "la República de Colombia"
+confidential: public
+cssclasses: Country
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords: 
 Languages:
 - es-CO
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: 
+location:
+- 3.525
+- -75.225
+publish: true
+publishDate: 
+source: "https://datahub.io/core/country-codes"
+SpocWebEntityId: 26871
+tags:
+- geo/Country
+title: Colombia
+type: Country
 ---
-
 
 [	ISO4217-currency_alphabetic	 :: COP ] 
 [	ISO4217-currency_name	 :: Colombian Peso ] 

@@ -1,37 +1,36 @@
----
-location:
-- 32.32
-- -64.74
-type: Country
-tags:
-- geo/Country
-SpocWebEntityId: 26850
-isDeleted: false
-confidential: public
-license: CC BY-SA 4.0
-isReadOnly: false
-source: https://datahub.io/core/country-codes
-cssclasses: Country
-publish: true
-title: Bermuda
-linkTitle: 
-keywords: 
-layout: 
-draft: false
-publishDate: 
-expiryDate: 
+﻿---
 aliases:
 - Bermuda
 - Bermudes
 - برمودا
 - 百慕大
-- Бермудские острова
+- "Бермудские острова"
 - 
+confidential: public
+cssclasses: Country
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords: 
 Languages:
 - en-BM
 - pt
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: 
+location:
+- 32.32
+- -64.74
+publish: true
+publishDate: 
+source: "https://datahub.io/core/country-codes"
+SpocWebEntityId: 26850
+tags:
+- geo/Country
+title: Bermuda
+type: Country
 ---
-
 
 [	ISO4217-currency_alphabetic	 :: BMD ]
 [	ISO4217-currency_name	 :: Bermudian Dollar ]

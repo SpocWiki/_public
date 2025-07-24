@@ -1,30 +1,28 @@
 ﻿---
-location: [ 15.79 , -79.846 ] 
-type: geo-Region
-title: Bajo_Nuevo_Bank
-
-license: CC BY-SA 4.0
-source: https://datahub.io/core/country-codes
-isDeleted: false
-isReadOnly: false
-draft: false
-confidential: public
-
-tags:
-- geo/Country/Region
 aliases:
 - Bajo_Nuevo_Bank
-
+confidential: public
+cssclasses: geo-Region
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords: 
 Languages:
 - de
-
-cssclasses: geo-Region
-publish: true
-linkTitle: 
-keywords: 
 layout: 
+license: "CC BY-SA 4.0"
+linkTitle: 
+location:
+- 15.79
+- -79.846
+publish: true
 publishDate: 
-expiryDate: 
+source: "https://datahub.io/core/country-codes"
+tags:
+- geo/Country/Region
+title: Bajo_Nuevo_Bank
+type: geo-Region
 ---
 
 # Bajo_Nuevo_Bank

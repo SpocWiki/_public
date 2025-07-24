@@ -1,15 +1,16 @@
 ﻿---
-type: TrizContradiction
 aliases:
 - Temperature+Moving_to_a_new_dimension-Energy-Loss
-license: CC BY-SA 4.0
-copyright: https://github.com/SpocWeb
+Confidential: public
+copyright: "https://github.com/SpocWeb"
 IsDeleted: false
 IsReadOnly: false
-Confidential: public
-tags: 
+license: "CC BY-SA 4.0"
+tags:
 - Triz/Contradiction
+type: TrizContradiction
 ---
+
 [name::Temperature+Moving_to_a_new_dimension-Energy-Loss]
 [SpocWebEntityId::24293]
 + [#has_/Pros :: [[Triz-Temperature]]]

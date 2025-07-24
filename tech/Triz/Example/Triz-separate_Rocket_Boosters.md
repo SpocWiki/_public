@@ -1,15 +1,16 @@
 ﻿---
-type: TrizExample
 aliases:
-- separate Rocket Boosters
-license: CC BY-SA 4.0
-copyright: https://github.com/SpocWeb
+- "separate Rocket Boosters"
+Confidential: public
+copyright: "https://github.com/SpocWeb"
 IsDeleted: false
 IsReadOnly: false
-Confidential: public
-tags: 
+license: "CC BY-SA 4.0"
+tags:
 - Triz/Principle/Example
+type: TrizExample
 ---
+
 [name::separate Rocket Boosters]
 [SpocWebEntityId::22531]
 [Triz-Principle-Sub::[[Triz-removed-obsolete]]]

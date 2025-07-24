@@ -1,12 +1,13 @@
----
-type: TrizPrinciple
+﻿---
 aliases:
 - Asymmetry
-license: CC BY-SA 4.0
-copyright: https://github.com/SpocWeb
-tags: 
+copyright: "https://github.com/SpocWeb"
+license: "CC BY-SA 4.0"
+tags:
 - Triz/Principle
+type: TrizPrinciple
 ---
+
 [name::Asymmetry]
 [SpocWebEntityId::22200]
 [Popularity::24]

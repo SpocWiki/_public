@@ -1,10 +1,13 @@
 ﻿---
-location: [-30.56,-68.9,200]
-type: Star
+location:
+- -30.56
+- -68.9
+- 200
 tags:
 - astro/Star
-
+type: Star
 ---
+
 SpocWebEntityId: 27639
 isDeleted: false
 isReadOnly: false

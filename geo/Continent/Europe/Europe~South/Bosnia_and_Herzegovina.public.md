@@ -1,9 +1,12 @@
----
-location: [43.87,18.43] 
-type: Country
+﻿---
+location:
+- 43.87
+- 18.43
 tags:
 - geo/Country
+type: Country
 ---
+
 SpocWebEntityId: 26841
 isDeleted: false
 confidential: public

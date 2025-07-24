@@ -1,17 +1,16 @@
----
-type: Zodiac
+﻿---
+aliases:
+- "{ LatinName }": 
+confidential: public
 isDeleted: false
 isReadOnly: false
-confidential: public
 publish: true
 SpocWebEntityId:
-  "{ SpocWebEntityId }": null
+  "{ SpocWebEntityId }": 
 tags:
-  - astro/Zodiac
-aliases:
-  - "{ LatinName }": null
+- astro/Zodiac
+type: Zodiac
 ---
-
 
 [name-de::{{German}}]
 [name-la::{{LatinName}}]

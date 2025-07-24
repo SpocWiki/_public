@@ -1,39 +1,38 @@
----
-location:
-- 43.715
-- 7.41
-type: Country
-tags:
-- geo/Country
-SpocWebEntityId: 26957
-isDeleted: false
-confidential: public
-license: CC BY-SA 4.0
-isReadOnly: false
-source: https://datahub.io/core/country-codes
-cssclasses: Country
-publish: true
-title: Monaco
-linkTitle: 
-keywords: 
-layout: 
-draft: false
-publishDate: 
-expiryDate: 
+﻿---
 aliases:
 - Monaco
 - Mónaco
 - موناكو
 - 摩纳哥
 - Монако
-- the Principality of Monaco
-- el Principado de Mónaco
+- "the Principality of Monaco"
+- "el Principado de Mónaco"
+confidential: public
+cssclasses: Country
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords: 
 Languages:
 - fr-MC
 - en
 - it
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: 
+location:
+- 43.715
+- 7.41
+publish: true
+publishDate: 
+source: "https://datahub.io/core/country-codes"
+SpocWebEntityId: 26957
+tags:
+- geo/Country
+title: Monaco
+type: Country
 ---
-
 
 [	ISO4217-currency_alphabetic	 :: EUR ] 
 [	ISO4217-currency_name	 :: Euro ] 

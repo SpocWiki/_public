@@ -1,33 +1,19 @@
----
-location:
-- 6.11667
-- 1.21667
-type: Country
-tags:
-- geo/Country
-SpocWebEntityId: 27031
-isDeleted: false
-confidential: public
-license: CC BY-SA 4.0
-isReadOnly: false
-source: https://datahub.io/core/country-codes
-cssclasses: Country
-publish: true
-title: Togo
-linkTitle: 
-keywords: 
-layout: 
-draft: false
-publishDate: 
-expiryDate: 
+﻿---
 aliases:
 - Togo
 - توغو
 - 多哥
 - Того
-- the Togolese Republic
-- la República Togolesa
-- Togo (el)
+- "the Togolese Republic"
+- "la República Togolesa"
+- "Togo (el)"
+confidential: public
+cssclasses: Country
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords: 
 Languages:
 - fr-TG
 - ee
@@ -35,8 +21,21 @@ Languages:
 - kbp
 - dag
 - ha
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: 
+location:
+- 6.11667
+- 1.21667
+publish: true
+publishDate: 
+source: "https://datahub.io/core/country-codes"
+SpocWebEntityId: 27031
+tags:
+- geo/Country
+title: Togo
+type: Country
 ---
-
 
 [	ISO4217-currency_alphabetic	 :: XOF ] 
 [	ISO4217-currency_name	 :: CFA Franc BCEAO ] 

@@ -1,15 +1,16 @@
 ﻿---
-type: TrizExample
 aliases:
-- flexible Gooseneck
-license: CC BY-SA 4.0
-copyright: https://github.com/SpocWeb
+- "flexible Gooseneck"
+Confidential: public
+copyright: "https://github.com/SpocWeb"
 IsDeleted: false
 IsReadOnly: false
-Confidential: public
-tags: 
+license: "CC BY-SA 4.0"
+tags:
 - Triz/Principle/Example
+type: TrizExample
 ---
+
 [name::flexible Gooseneck]
 [SpocWebEntityId::22433]
 [Triz-Principle-Sub::[[Triz-movable-part]]]

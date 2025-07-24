@@ -1,7 +1,6 @@
+﻿---
+title: '{{title}}'
 ---
-title: "{{title}}"
----
-
 
 ## Confidential Links & Embeds: 
 - [[../../_Standards/templates/post|post]] 

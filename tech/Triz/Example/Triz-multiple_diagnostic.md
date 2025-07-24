@@ -1,15 +1,16 @@
 ﻿---
-type: TrizExample
 aliases:
-- multiple diagnostic
-license: CC BY-SA 4.0
-copyright: https://github.com/SpocWeb
+- "multiple diagnostic"
+Confidential: public
+copyright: "https://github.com/SpocWeb"
 IsDeleted: false
 IsReadOnly: false
-Confidential: public
-tags: 
+license: "CC BY-SA 4.0"
+tags:
 - Triz/Principle/Example
+type: TrizExample
 ---
+
 [name::multiple diagnostic]
 [SpocWebEntityId::22368]
 [Triz-Principle-Sub::[[Triz-merge-in-time]]]

@@ -1,43 +1,42 @@
----
-location:
-- -6.17306
-- 35.7419
-type: Country
-tags:
-- geo/Country
-SpocWebEntityId: 27043
-isDeleted: false
-confidential: public
-license: CC BY-SA 4.0
-isReadOnly: false
-source: https://datahub.io/core/country-codes
-cssclasses: Country
-publish: true
-title: Tanzania
-linkTitle: 
-keywords: 
-layout: 
-draft: false
-publishDate: 
-expiryDate: 
+﻿---
 aliases:
 - Tanzania
-- United Republic of Tanzania
-- República Unida de Tanzanía
-- République-Unie de Tanzanie
-- جمهورية تنزانيا المتحدة
+- "United Republic of Tanzania"
+- "República Unida de Tanzanía"
+- "République-Unie de Tanzanie"
+- "جمهورية تنزانيا المتحدة"
 - 坦桑尼亚联合共和国
-- Объединенная Республика Танзания
-- the United Republic of Tanzania
-- United Republic of Tanzania (the)
-- la República Unida de Tanzanía
-- República Unida de Tanzanía (la)
+- "Объединенная Республика Танзания"
+- "the United Republic of Tanzania"
+- "United Republic of Tanzania (the)"
+- "la República Unida de Tanzanía"
+- "República Unida de Tanzanía (la)"
+confidential: public
+cssclasses: Country
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords: 
 Languages:
 - sw-TZ
 - en
 - ar
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: 
+location:
+- -6.17306
+- 35.7419
+publish: true
+publishDate: 
+source: "https://datahub.io/core/country-codes"
+SpocWebEntityId: 27043
+tags:
+- geo/Country
+title: Tanzania
+type: Country
 ---
-
 
 [	ISO4217-currency_alphabetic	 :: TZS ] 
 [	ISO4217-currency_name	 :: Tanzanian Shilling ] 

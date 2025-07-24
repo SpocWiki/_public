@@ -1,15 +1,16 @@
 ﻿---
-type: TrizContradiction
 aliases:
 - Difficulty+Phase_transition-Stress
-license: CC BY-SA 4.0
-copyright: https://github.com/SpocWeb
+Confidential: public
+copyright: "https://github.com/SpocWeb"
 IsDeleted: false
 IsReadOnly: false
-Confidential: public
-tags: 
+license: "CC BY-SA 4.0"
+tags:
 - Triz/Contradiction
+type: TrizContradiction
 ---
+
 [name::Difficulty+Phase_transition-Stress]
 [SpocWebEntityId::26443]
 + [#has_/Pros :: [[Triz-Difficulty]]]

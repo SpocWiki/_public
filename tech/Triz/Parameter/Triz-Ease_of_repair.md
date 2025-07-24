@@ -1,15 +1,16 @@
----
-type: TrizParameter
+﻿---
 aliases:
-- Ease of repair
-license: CC BY-SA 4.0
-copyright: https://github.com/SpocWeb
+- "Ease of repair"
+Confidential: public
+copyright: "https://github.com/SpocWeb"
 IsDeleted: false
 IsReadOnly: false
-Confidential: public
-tags: 
+license: "CC BY-SA 4.0"
+tags:
 - Triz/Parameter
+type: TrizParameter
 ---
+
 [name::Ease of repair]
 [SpocWebEntityId::22187]
 [TrizParameterId::34]

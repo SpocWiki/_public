@@ -1,41 +1,40 @@
----
-location:
-- 51.9757
-- 5.08828
-type: Country
-tags:
-- geo/Country
-SpocWebEntityId: 26983
-isDeleted: false
-confidential: public
-license: CC BY-SA 4.0
-isReadOnly: false
-source: https://datahub.io/core/country-codes
-cssclasses: Country
-publish: true
-title: Netherlands
-linkTitle: 
-keywords: 
-layout: 
-draft: false
-publishDate: 
-expiryDate: 
+﻿---
 aliases:
 - Netherlands
-- Países Bajos
+- "Países Bajos"
 - Pays-Bas
 - هولندا
 - 荷兰
 - Нидерланды
-- the Kingdom of the Netherlands
-- Netherlands (the)
-- el Reino de los Países Bajos
-- Países Bajos (los)
+- "the Kingdom of the Netherlands"
+- "Netherlands (the)"
+- "el Reino de los Países Bajos"
+- "Países Bajos (los)"
+confidential: public
+cssclasses: Country
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords: 
 Languages:
 - nl-NL
 - fy-NL
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: 
+location:
+- 51.9757
+- 5.08828
+publish: true
+publishDate: 
+source: "https://datahub.io/core/country-codes"
+SpocWebEntityId: 26983
+tags:
+- geo/Country
+title: Netherlands
+type: Country
 ---
-
 
 [	ISO4217-currency_alphabetic	 :: EUR ] 
 [	ISO4217-currency_name	 :: Euro ] 

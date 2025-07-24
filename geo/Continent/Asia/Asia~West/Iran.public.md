@@ -1,40 +1,39 @@
----
-location:
-- 34.175
-- 51.555
-type: Country
-tags:
-- geo/Country
-SpocWebEntityId: 26928
-isDeleted: false
-confidential: public
-license: CC BY-SA 4.0
-isReadOnly: false
-source: https://datahub.io/core/country-codes
-cssclasses: Country
-publish: true
-title: Iran
-linkTitle: 
-keywords: 
-layout: 
-draft: false
-publishDate: 
-expiryDate: 
+﻿---
 aliases:
 - Iran
-- Iran (Islamic Republic of)
-- Irán (República Islámica del)
-- Iran (République islamique d')
-- إيران (جمهورية - الإسلامية)
+- "Iran (Islamic Republic of)"
+- "Irán (República Islámica del)"
+- "Iran (République islamique d')"
+- "إيران (جمهورية - الإسلامية)"
 - 伊朗(伊斯兰共和国)
-- Иран (Исламская Республика)
-- the Islamic Republic of Iran
-- la República Islámica del Irán
+- "Иран (Исламская Республика)"
+- "the Islamic Republic of Iran"
+- "la República Islámica del Irán"
+confidential: public
+cssclasses: Country
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords: 
 Languages:
 - fa-IR
 - ku
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: 
+location:
+- 34.175
+- 51.555
+publish: true
+publishDate: 
+source: "https://datahub.io/core/country-codes"
+SpocWebEntityId: 26928
+tags:
+- geo/Country
+title: Iran
+type: Country
 ---
-
 
 [	ISO4217-currency_alphabetic	 :: IRR ] 
 [	ISO4217-currency_name	 :: Iranian Rial ] 

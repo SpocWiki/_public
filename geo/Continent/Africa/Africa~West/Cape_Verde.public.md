@@ -1,37 +1,36 @@
----
+﻿---
+aliases:
+- "Cape Verde"
+- "Cabo Verde"
+- "كابو فيردي"
+- 佛得角
+- Кабо-Верде
+- "the Republic of Cabo Verde"
+- "la República de Cabo Verde"
+confidential: public
+cssclasses: Country
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords: 
+Languages:
+- pt-CV
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: 
 location:
 - 14.9167
 - -23.5167
-type: Country
+publish: true
+publishDate: 
+source: "https://datahub.io/core/country-codes"
+SpocWebEntityId: 26874
 tags:
 - geo/Country
-SpocWebEntityId: 26874
-isDeleted: false
-confidential: public
-license: CC BY-SA 4.0
-isReadOnly: false
-source: https://datahub.io/core/country-codes
-cssclasses: Country
-publish: true
-title: Cape Verde
-linkTitle: 
-keywords: 
-layout: 
-draft: false
-publishDate: 
-expiryDate: 
-aliases:
-- Cape Verde
-- Cabo Verde
-- كابو فيردي
-- 佛得角
-- Кабо-Верде
-- the Republic of Cabo Verde
-- la República de Cabo Verde
-Languages:
-- pt-CV
+title: "Cape Verde"
+type: Country
 ---
-
 
 [	ISO4217-currency_alphabetic	 :: CVE ] 
 [	ISO4217-currency_name	 :: Cabo Verde Escudo ] 

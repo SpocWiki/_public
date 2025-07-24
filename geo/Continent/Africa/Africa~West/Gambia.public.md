@@ -1,42 +1,41 @@
----
-location:
-- 13.4667
-- -16.6
-type: Country
-tags:
-- geo/Country
-SpocWebEntityId: 26906
-isDeleted: false
-confidential: public
-license: CC BY-SA 4.0
-isReadOnly: false
-source: https://datahub.io/core/country-codes
-cssclasses: Country
-publish: true
-title: Gambia
-linkTitle: 
-keywords: 
-layout: 
-draft: false
-publishDate: 
-expiryDate: 
+﻿---
 aliases:
 - Gambia
 - Gambie
 - غامبيا
 - 冈比亚
 - Гамбия
-- the Republic of the Gambia
-- Gambia (the)
-- la República de Gambia
+- "the Republic of the Gambia"
+- "Gambia (the)"
+- "la República de Gambia"
+confidential: public
+cssclasses: Country
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords: 
 Languages:
 - en-GM
 - mnk
 - wof
 - wo
 - ff
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: 
+location:
+- 13.4667
+- -16.6
+publish: true
+publishDate: 
+source: "https://datahub.io/core/country-codes"
+SpocWebEntityId: 26906
+tags:
+- geo/Country
+title: Gambia
+type: Country
 ---
-
 
 [	ISO4217-currency_alphabetic	 :: GMD ] 
 [	ISO4217-currency_name	 :: Dalasi ] 

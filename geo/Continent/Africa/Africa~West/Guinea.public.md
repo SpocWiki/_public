@@ -1,37 +1,36 @@
----
-location:
-- 9.51667
-- -13.7
-type: Country
-tags:
-- geo/Country
-SpocWebEntityId: 26907
-isDeleted: false
-confidential: public
-license: CC BY-SA 4.0
-isReadOnly: false
-source: https://datahub.io/core/country-codes
-cssclasses: Country
-publish: true
-title: Guinea
-linkTitle: 
-keywords: 
-layout: 
-draft: false
-publishDate: 
-expiryDate: 
+﻿---
 aliases:
 - Guinea
 - Guinée
 - غينيا
 - 几内亚
 - Гвинея
-- the Republic of Guinea
-- la República de Guinea
+- "the Republic of Guinea"
+- "la República de Guinea"
+confidential: public
+cssclasses: Country
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords: 
 Languages:
 - fr-GN
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: 
+location:
+- 9.51667
+- -13.7
+publish: true
+publishDate: 
+source: "https://datahub.io/core/country-codes"
+SpocWebEntityId: 26907
+tags:
+- geo/Country
+title: Guinea
+type: Country
 ---
-
 
 [	ISO4217-currency_alphabetic	 :: GNF ] 
 [	ISO4217-currency_name	 :: Guinean Franc ] 

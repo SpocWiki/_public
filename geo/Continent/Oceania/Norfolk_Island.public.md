@@ -1,37 +1,36 @@
 ﻿---
+aliases:
+- "Norfolk Island"
+- "Islas Norfolk"
+- "Île Norfolk"
+- "جزيرة نورفلك"
+- 诺福克岛
+- "Остров Норфолк"
+- 
+confidential: public
+cssclasses: Country
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords: 
+Languages:
+- en-NF
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: 
 location:
 - -29.0667
 - 167.967
-type: Country
+publish: true
+publishDate: 
+source: "https://datahub.io/core/country-codes"
+SpocWebEntityId: 26980
 tags:
 - geo/Country
-SpocWebEntityId: 26980
-isDeleted: false
-confidential: public
-license: CC BY-SA 4.0
-isReadOnly: false
-source: https://datahub.io/core/country-codes
-cssclasses: Country
-publish: true
-title: Norfolk Island
-linkTitle: 
-keywords: 
-layout: 
-draft: false
-publishDate: 
-expiryDate: 
-aliases:
-- Norfolk Island
-- Islas Norfolk
-- Île Norfolk
-- جزيرة نورفلك
-- 诺福克岛
-- Остров Норфолк
-- 
-Languages:
-- en-NF
+title: "Norfolk Island"
+type: Country
 ---
-
 
 [	ISO4217-currency_alphabetic	 :: AUD ]
 [	ISO4217-currency_name	 :: Australian Dollar ]

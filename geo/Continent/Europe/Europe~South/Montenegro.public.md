@@ -1,31 +1,17 @@
----
-location:
-- 42.7833
-- 19.4667
-type: Country
-tags:
-- geo/Country
-SpocWebEntityId: 4941
-isDeleted: false
-confidential: public
-license: CC BY-SA 4.0
-isReadOnly: false
-source: https://datahub.io/core/country-codes
-cssclasses: Country
-publish: true
-title: Montenegro
-linkTitle: 
-keywords: 
-layout: 
-draft: false
-publishDate: 
-expiryDate: 
+﻿---
 aliases:
 - Montenegro
 - Monténégro
-- الجبل الأسود
+- "الجبل الأسود"
 - 黑山
 - Черногория
+confidential: public
+cssclasses: Country
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords: 
 Languages:
 - sr
 - hu
@@ -33,8 +19,21 @@ Languages:
 - sq
 - hr
 - rom
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: 
+location:
+- 42.7833
+- 19.4667
+publish: true
+publishDate: 
+source: "https://datahub.io/core/country-codes"
+SpocWebEntityId: 4941
+tags:
+- geo/Country
+title: Montenegro
+type: Country
 ---
-
 
 [	ISO4217-currency_alphabetic	 :: EUR ] 
 [	ISO4217-currency_name	 :: Euro ] 

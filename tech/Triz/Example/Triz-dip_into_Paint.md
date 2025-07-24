@@ -1,15 +1,16 @@
 ﻿---
-type: TrizExample
 aliases:
-- dip into Paint
-license: CC BY-SA 4.0
-copyright: https://github.com/SpocWeb
+- "dip into Paint"
+Confidential: public
+copyright: "https://github.com/SpocWeb"
 IsDeleted: false
 IsReadOnly: false
-Confidential: public
-tags: 
+license: "CC BY-SA 4.0"
+tags:
 - Triz/Principle/Example
+type: TrizExample
 ---
+
 [name::dip into Paint]
 [SpocWebEntityId::22438]
 [Triz-Principle-Sub::[[Triz-accept-less]]]

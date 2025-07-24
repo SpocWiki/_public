@@ -1,25 +1,4 @@
----
-location:
-- 36.8617
-- 137.199
-type: Country
-tags:
-- geo/Country
-SpocWebEntityId: 26933
-isDeleted: false
-confidential: public
-license: CC BY-SA 4.0
-isReadOnly: false
-source: https://datahub.io/core/country-codes
-cssclasses: Country
-publish: true
-title: Japan
-linkTitle: 
-keywords: 
-layout: 
-draft: false
-publishDate: 
-expiryDate: 
+﻿---
 aliases:
 - Japan
 - Japón
@@ -27,12 +6,32 @@ aliases:
 - اليابان
 - 日本
 - Япония
-- el Japón
-- Japón (el)
+- "el Japón"
+- "Japón (el)"
+confidential: public
+cssclasses: Country
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords: 
 Languages:
 - ja
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: 
+location:
+- 36.8617
+- 137.199
+publish: true
+publishDate: 
+source: "https://datahub.io/core/country-codes"
+SpocWebEntityId: 26933
+tags:
+- geo/Country
+title: Japan
+type: Country
 ---
-
 
 [	ISO4217-currency_alphabetic	 :: JPY ] 
 [	ISO4217-currency_name	 :: Yen ] 

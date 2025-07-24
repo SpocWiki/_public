@@ -1,36 +1,35 @@
----
-location:
-- 47.9167
-- 106.883
-type: Country
-tags:
-- geo/Country
-SpocWebEntityId: 26964
-isDeleted: false
-confidential: public
-license: CC BY-SA 4.0
-isReadOnly: false
-source: https://datahub.io/core/country-codes
-cssclasses: Country
-publish: true
-title: Mongolia
-linkTitle: 
-keywords: 
-layout: 
-draft: false
-publishDate: 
-expiryDate: 
+﻿---
 aliases:
 - Mongolia
 - Mongolie
 - منغوليا
 - 蒙古
 - Монголия
+confidential: public
+cssclasses: Country
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords: 
 Languages:
 - mn
 - ru
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: 
+location:
+- 47.9167
+- 106.883
+publish: true
+publishDate: 
+source: "https://datahub.io/core/country-codes"
+SpocWebEntityId: 26964
+tags:
+- geo/Country
+title: Mongolia
+type: Country
 ---
-
 
 [	ISO4217-currency_alphabetic	 :: MNT ] 
 [	ISO4217-currency_name	 :: Tugrik ] 

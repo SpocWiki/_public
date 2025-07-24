@@ -1,15 +1,16 @@
 ﻿---
-type: TrizContradiction
 aliases:
 - Energy-Loss+Partial,_overdone,_or_excessive_action-Speed
-license: CC BY-SA 4.0
-copyright: https://github.com/SpocWeb
+Confidential: public
+copyright: "https://github.com/SpocWeb"
 IsDeleted: false
 IsReadOnly: false
-Confidential: public
-tags: 
+license: "CC BY-SA 4.0"
+tags:
 - Triz/Contradiction
+type: TrizContradiction
 ---
+
 [name::Energy-Loss+Partial,_overdone,_or_excessive_action-Speed]
 [SpocWebEntityId::24727]
 + [#has_/Pros :: Energy-Loss]

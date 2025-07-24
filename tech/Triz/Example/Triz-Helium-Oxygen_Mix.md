@@ -1,15 +1,16 @@
 ﻿---
-type: TrizExample
 aliases:
-- Helium-Oxygen Mix
-license: CC BY-SA 4.0
-copyright: https://github.com/SpocWeb
+- "Helium-Oxygen Mix"
+Confidential: public
+copyright: "https://github.com/SpocWeb"
 IsDeleted: false
 IsReadOnly: false
-Confidential: public
-tags: 
+license: "CC BY-SA 4.0"
+tags:
 - Triz/Principle/Example
+type: TrizExample
 ---
+
 [name::Helium-Oxygen Mix]
 [SpocWebEntityId::22476]
 [Triz-Principle-Sub::[[Triz-combine-harm]]]

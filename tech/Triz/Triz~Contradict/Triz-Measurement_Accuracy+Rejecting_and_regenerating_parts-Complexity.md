@@ -1,15 +1,16 @@
 ﻿---
-type: TrizContradiction
 aliases:
 - Measurement_Accuracy+Rejecting_and_regenerating_parts-Complexity
-license: CC BY-SA 4.0
-copyright: https://github.com/SpocWeb
+Confidential: public
+copyright: "https://github.com/SpocWeb"
 IsDeleted: false
 IsReadOnly: false
-Confidential: public
-tags: 
+license: "CC BY-SA 4.0"
+tags:
 - Triz/Contradiction
+type: TrizContradiction
 ---
+
 [name::Measurement_Accuracy+Rejecting_and_regenerating_parts-Complexity]
 [SpocWebEntityId::25466]
 + [#has_/Pros :: [[Triz-Measurement_Accuracy]]]

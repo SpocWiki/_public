@@ -1,15 +1,16 @@
 ﻿---
-type: TrizContradiction
 aliases:
 - Substance-Loss+Transformation_of_physical_and_chemical_states_of_an_object-Energy-Loss
-license: CC BY-SA 4.0
-copyright: https://github.com/SpocWeb
+Confidential: public
+copyright: "https://github.com/SpocWeb"
 IsDeleted: false
 IsReadOnly: false
-Confidential: public
-tags: 
+license: "CC BY-SA 4.0"
+tags:
 - Triz/Contradiction
+type: TrizContradiction
 ---
+
 [name::Substance-Loss+Transformation_of_physical_and_chemical_states_of_an_object-Energy-Loss]
 [SpocWebEntityId::24869]
 + [#has_/Pros :: Substance-Loss]

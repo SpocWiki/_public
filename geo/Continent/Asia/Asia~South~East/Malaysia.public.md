@@ -1,25 +1,4 @@
----
-location:
-- 3.17
-- 101.7
-type: Country
-tags:
-- geo/Country
-SpocWebEntityId: 26975
-isDeleted: false
-confidential: public
-license: CC BY-SA 4.0
-isReadOnly: false
-source: https://datahub.io/core/country-codes
-cssclasses: Country
-publish: true
-title: Malaysia
-linkTitle: 
-keywords: 
-layout: 
-draft: false
-publishDate: 
-expiryDate: 
+﻿---
 aliases:
 - Malaysia
 - Malasia
@@ -27,7 +6,14 @@ aliases:
 - ماليزيا
 - 马来西亚
 - Малайзия
-- Federación de Malasia
+- "Federación de Malasia"
+confidential: public
+cssclasses: Country
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords: 
 Languages:
 - ms-MY
 - en
@@ -37,8 +23,21 @@ Languages:
 - ml
 - pa
 - th
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: 
+location:
+- 3.17
+- 101.7
+publish: true
+publishDate: 
+source: "https://datahub.io/core/country-codes"
+SpocWebEntityId: 26975
+tags:
+- geo/Country
+title: Malaysia
+type: Country
 ---
-
 
 [	ISO4217-currency_alphabetic	 :: MYR ] 
 [	ISO4217-currency_name	 :: Malaysian Ringgit ] 

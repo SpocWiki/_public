@@ -1,25 +1,4 @@
----
-location:
-- 55.6789
-- 10.5
-type: Country
-tags:
-- geo/Country
-SpocWebEntityId: 26880
-isDeleted: false
-confidential: public
-license: CC BY-SA 4.0
-isReadOnly: false
-source: https://datahub.io/core/country-codes
-cssclasses: Country
-publish: true
-title: Denmark
-linkTitle: 
-keywords: 
-layout: 
-draft: false
-publishDate: 
-expiryDate: 
+﻿---
 aliases:
 - Denmark
 - Dinamarca
@@ -27,15 +6,35 @@ aliases:
 - الدانمرك
 - 丹麦
 - Дания
-- the Kingdom of Denmark
-- el Reino de Dinamarca
+- "the Kingdom of Denmark"
+- "el Reino de Dinamarca"
+confidential: public
+cssclasses: Country
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords: 
 Languages:
 - da-DK
 - en
 - fo
 - de-DK
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: 
+location:
+- 55.6789
+- 10.5
+publish: true
+publishDate: 
+source: "https://datahub.io/core/country-codes"
+SpocWebEntityId: 26880
+tags:
+- geo/Country
+title: Denmark
+type: Country
 ---
-
 
 [	ISO4217-currency_alphabetic	 :: DKK ] 
 [	ISO4217-currency_name	 :: Danish Krone ] 

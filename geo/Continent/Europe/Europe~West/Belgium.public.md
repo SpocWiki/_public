@@ -1,24 +1,4 @@
----
-location:
-- 50.8165
-- 4.29368
-type: Country
-tags:
-- geo/Country
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-source: https://datahub.io/core/country-codes
-cssclasses: Country
-publish: true
-title: Belgium
-linkTitle: 
-keywords: 
-layout: 
-draft: false
-publishDate: 
-expiryDate: 
+﻿---
 aliases:
 - Belgium
 - Bélgica
@@ -26,14 +6,33 @@ aliases:
 - بلجيكا
 - 比利时
 - Бельгия
-- the Kingdom of Belgium
-- el Reino de Bélgica
+- "the Kingdom of Belgium"
+- "el Reino de Bélgica"
+confidential: public
+cssclasses: Country
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords: 
 Languages:
 - nl-BE
 - fr-BE
 - de-BE
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: 
+location:
+- 50.8165
+- 4.29368
+publish: true
+publishDate: 
+source: "https://datahub.io/core/country-codes"
+tags:
+- geo/Country
+title: Belgium
+type: Country
 ---
-
 
 [	ISO4217-currency_alphabetic	 :: EUR ] 
 [	ISO4217-currency_name	 :: Euro ] 

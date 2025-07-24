@@ -1,15 +1,16 @@
 ﻿---
-type: TrizExample
 aliases:
-- Seat Belt
-license: CC BY-SA 4.0
-copyright: https://github.com/SpocWeb
+- "Seat Belt"
+Confidential: public
+copyright: "https://github.com/SpocWeb"
 IsDeleted: false
 IsReadOnly: false
-Confidential: public
-tags: 
+license: "CC BY-SA 4.0"
+tags:
 - Triz/Principle/Example
+type: TrizExample
 ---
+
 [name::Seat Belt]
 [SpocWebEntityId::22384]
 [Triz-Principle-Sub::[[Triz-allow-pass]]]

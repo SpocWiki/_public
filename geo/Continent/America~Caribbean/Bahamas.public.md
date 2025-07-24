@@ -1,38 +1,37 @@
----
+﻿---
+aliases:
+- Bahamas
+- "جزر البهاما"
+- 巴哈马
+- "Багамские Острова"
+- "the Commonwealth of the Bahamas"
+- "Bahamas (the)"
+- "el Commonwealth de las Bahamas"
+- "Bahamas (las)"
+confidential: public
+cssclasses: Country
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords: 
+Languages:
+- en-BS
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: 
 location:
 - 25.05
 - -77.33
-type: Country
+publish: true
+publishDate: 
+source: "https://datahub.io/core/country-codes"
+SpocWebEntityId: 26854
 tags:
 - geo/Country
-SpocWebEntityId: 26854
-isDeleted: false
-confidential: public
-license: CC BY-SA 4.0
-isReadOnly: false
-source: https://datahub.io/core/country-codes
-cssclasses: Country
-publish: true
 title: Bahamas
-linkTitle: 
-keywords: 
-layout: 
-draft: false
-publishDate: 
-expiryDate: 
-aliases:
-- Bahamas
-- جزر البهاما
-- 巴哈马
-- Багамские Острова
-- the Commonwealth of the Bahamas
-- Bahamas (the)
-- el Commonwealth de las Bahamas
-- Bahamas (las)
-Languages:
-- en-BS
+type: Country
 ---
-
 
 [	ISO4217-currency_alphabetic	 :: BSD ]
 [	ISO4217-currency_name	 :: Bahamian Dollar ]

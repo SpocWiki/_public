@@ -1,25 +1,4 @@
----
-location:
-- 59.7646
-- 16.5434
-type: Country
-tags:
-- geo/Country
-SpocWebEntityId: 27013
-isDeleted: false
-confidential: public
-license: CC BY-SA 4.0
-isReadOnly: false
-source: https://datahub.io/core/country-codes
-cssclasses: Country
-publish: true
-title: Sweden
-linkTitle: 
-keywords: 
-layout: 
-draft: false
-publishDate: 
-expiryDate: 
+﻿---
 aliases:
 - Sweden
 - Suecia
@@ -27,15 +6,35 @@ aliases:
 - السويد
 - 瑞典
 - Швеция
-- the Kingdom of Sweden
-- el Reino de Suecia
+- "the Kingdom of Sweden"
+- "el Reino de Suecia"
+confidential: public
+cssclasses: Country
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords: 
 Languages:
 - sv-SE
 - se
 - sma
 - fi-SE
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: 
+location:
+- 59.7646
+- 16.5434
+publish: true
+publishDate: 
+source: "https://datahub.io/core/country-codes"
+SpocWebEntityId: 27013
+tags:
+- geo/Country
+title: Sweden
+type: Country
 ---
-
 
 [	ISO4217-currency_alphabetic	 :: SEK ] 
 [	ISO4217-currency_name	 :: Swedish Krona ] 

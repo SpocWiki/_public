@@ -1,15 +1,16 @@
 ﻿---
-type: TrizContradiction
 aliases:
 - affected_harm+Convert_harm_into_benefit-Substance-Loss
-license: CC BY-SA 4.0
-copyright: https://github.com/SpocWeb
+Confidential: public
+copyright: "https://github.com/SpocWeb"
 IsDeleted: false
 IsReadOnly: false
-Confidential: public
-tags: 
+license: "CC BY-SA 4.0"
+tags:
 - Triz/Contradiction
+type: TrizContradiction
 ---
+
 [name::affected_harm+Convert_harm_into_benefit-Substance-Loss]
 [SpocWebEntityId::25662]
 + [#has_/Pros :: [[Triz-affected_harm]]]

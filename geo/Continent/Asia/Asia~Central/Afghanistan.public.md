@@ -1,41 +1,40 @@
----
-location:
-- 34.5
-- 69.2
-type: Country
-tags:
-- geo/Country
-SpocWebEntityId: 26827
-isDeleted: false
-confidential: public
-license: CC BY-SA 4.0
-isReadOnly: false
-source: https://datahub.io/core/country-codes
-cssclasses: Country
-publish: true
-title: Afghanistan
-linkTitle: 
-keywords: 
-layout: 
-draft: false
-publishDate: 
-expiryDate: 
+﻿---
 aliases:
 - Afghanistan
 - Afganistán
 - أفغانستان
 - 阿富汗
 - Афганистан
-- the Islamic Republic of Afghanistan
-- República Islámica del Afganistán (la)
-- Afganistán (el)
+- "the Islamic Republic of Afghanistan"
+- "República Islámica del Afganistán (la)"
+- "Afganistán (el)"
+confidential: public
+cssclasses: Country
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords: 
 Languages:
 - fa-AF
 - ps
 - uz-AF
 - tk
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: 
+location:
+- 34.5
+- 69.2
+publish: true
+publishDate: 
+source: "https://datahub.io/core/country-codes"
+SpocWebEntityId: 26827
+tags:
+- geo/Country
+title: Afghanistan
+type: Country
 ---
-
 
 [	ISO4217-currency_alphabetic	 :: AFN ] 
 [	ISO4217-currency_name	 :: Afghani ] 

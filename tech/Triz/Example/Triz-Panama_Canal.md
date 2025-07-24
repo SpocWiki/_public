@@ -1,15 +1,16 @@
 ﻿---
-type: TrizExample
 aliases:
-- Panama Canal
-license: CC BY-SA 4.0
-copyright: https://github.com/SpocWeb
+- "Panama Canal"
+Confidential: public
+copyright: "https://github.com/SpocWeb"
 IsDeleted: false
 IsReadOnly: false
-Confidential: public
-tags: 
+license: "CC BY-SA 4.0"
+tags:
 - Triz/Principle/Example
+type: TrizExample
 ---
+
 [name::Panama Canal]
 [SpocWebEntityId::22411]
 [Triz-Principle-Sub::[[Triz-limit-changes]]]

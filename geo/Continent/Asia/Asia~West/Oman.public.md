@@ -1,40 +1,39 @@
----
-location:
-- 23.48
-- 58.55
-type: Country
-tags:
-- geo/Country
-SpocWebEntityId: 26989
-isDeleted: false
-confidential: public
-license: CC BY-SA 4.0
-isReadOnly: false
-source: https://datahub.io/core/country-codes
-cssclasses: Country
-publish: true
-title: Oman
-linkTitle: 
-keywords: 
-layout: 
-draft: false
-publishDate: 
-expiryDate: 
+﻿---
 aliases:
 - Oman
 - Omán
 - عمان
 - 阿曼
 - Оман
-- the Sultanate of Oman
-- la Sultanía de Omán
+- "the Sultanate of Oman"
+- "la Sultanía de Omán"
+confidential: public
+cssclasses: Country
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords: 
 Languages:
 - ar-OM
 - en
 - bal
 - ur
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: 
+location:
+- 23.48
+- 58.55
+publish: true
+publishDate: 
+source: "https://datahub.io/core/country-codes"
+SpocWebEntityId: 26989
+tags:
+- geo/Country
+title: Oman
+type: Country
 ---
-
 
 [	ISO4217-currency_alphabetic	 :: OMR ] 
 [	ISO4217-currency_name	 :: Rial Omani ] 

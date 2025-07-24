@@ -1,37 +1,36 @@
 ﻿---
-location:
-- 18.45
-- -66.1
-type: Country
-tags:
-- geo/Country
-SpocWebEntityId: 26999
-isDeleted: false
-confidential: public
-license: CC BY-SA 4.0
-isReadOnly: false
-source: https://datahub.io/core/country-codes
-cssclasses: Country
-publish: true
-title: Puerto Rico
-linkTitle: 
-keywords: 
-layout: 
-draft: false
-publishDate: 
-expiryDate: 
 aliases:
-- Puerto Rico
-- Porto Rico
+- "Puerto Rico"
+- "Porto Rico"
 - بورتوريكو
 - 波多黎各
 - Пуэрто-Рико
 - 
+confidential: public
+cssclasses: Country
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords: 
 Languages:
 - en-PR
 - es-PR
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: 
+location:
+- 18.45
+- -66.1
+publish: true
+publishDate: 
+source: "https://datahub.io/core/country-codes"
+SpocWebEntityId: 26999
+tags:
+- geo/Country
+title: "Puerto Rico"
+type: Country
 ---
-
 
 [	ISO4217-currency_alphabetic	 :: USD ]
 [	ISO4217-currency_name	 :: US Dollar ]

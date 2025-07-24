@@ -1,15 +1,16 @@
 ﻿---
-type: TrizContradiction
 aliases:
 - Intensity+Mechanical_vibration-Stress
-license: CC BY-SA 4.0
-copyright: https://github.com/SpocWeb
+Confidential: public
+copyright: "https://github.com/SpocWeb"
 IsDeleted: false
 IsReadOnly: false
-Confidential: public
-tags: 
+license: "CC BY-SA 4.0"
+tags:
 - Triz/Contradiction
+type: TrizContradiction
 ---
+
 [name::Intensity+Mechanical_vibration-Stress]
 [SpocWebEntityId::23510]
 + [#has_/Pros :: [[Triz-Intensity]]]

@@ -1,15 +1,16 @@
 ﻿---
-type: TrizExample
 aliases:
-- adiabatic Operation
-license: CC BY-SA 4.0
-copyright: https://github.com/SpocWeb
+- "adiabatic Operation"
+Confidential: public
+copyright: "https://github.com/SpocWeb"
 IsDeleted: false
 IsReadOnly: false
-Confidential: public
-tags: 
+license: "CC BY-SA 4.0"
+tags:
 - Triz/Principle/Example
+type: TrizExample
 ---
+
 [name::adiabatic Operation]
 [SpocWebEntityId::22469]
 [Triz-Principle-Sub::[[Triz-high-speed]]]

@@ -1,25 +1,4 @@
----
-location:
-- 62.3173
-- 25.4668
-type: Country
-tags:
-- geo/Country
-SpocWebEntityId: 26891
-isDeleted: false
-confidential: public
-license: CC BY-SA 4.0
-isReadOnly: false
-source: https://datahub.io/core/country-codes
-cssclasses: Country
-publish: true
-title: Finland
-linkTitle: 
-keywords: 
-layout: 
-draft: false
-publishDate: 
-expiryDate: 
+﻿---
 aliases:
 - Finland
 - Finlandia
@@ -27,14 +6,34 @@ aliases:
 - فنلندا
 - 芬兰
 - Финляндия
-- the Republic of Finland
-- la República de Finlandia
+- "the Republic of Finland"
+- "la República de Finlandia"
+confidential: public
+cssclasses: Country
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords: 
 Languages:
 - fi-FI
 - sv-FI
 - smn
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: 
+location:
+- 62.3173
+- 25.4668
+publish: true
+publishDate: 
+source: "https://datahub.io/core/country-codes"
+SpocWebEntityId: 26891
+tags:
+- geo/Country
+title: Finland
+type: Country
 ---
-
 
 [	ISO4217-currency_alphabetic	 :: EUR ] 
 [	ISO4217-currency_name	 :: Euro ] 

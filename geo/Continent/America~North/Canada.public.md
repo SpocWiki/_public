@@ -1,39 +1,38 @@
----
-location:
-- 50.4137
-- -87.1444
-type: Country
-SpocWebEntityId: 26860
-isDeleted: false
-confidential: public
-tags:
-- geo/Country
-license: CC BY-SA 4.0
-isReadOnly: false
-source: https://datahub.io/core/country-codes
-cssclasses: Country
-publish: true
-title: Canada
-linkTitle: 
-keywords: 
-layout: 
-draft: false
-publishDate: 
-expiryDate: 
+﻿---
 aliases:
 - Canada
 - Canadá
 - كندا
 - 加拿大
 - Канада
-- el Canadá
-- Canadá (el)
+- "el Canadá"
+- "Canadá (el)"
+confidential: public
+cssclasses: Country
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords: 
 Languages:
 - en-CA
 - fr-CA
 - iu
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: 
+location:
+- 50.4137
+- -87.1444
+publish: true
+publishDate: 
+source: "https://datahub.io/core/country-codes"
+SpocWebEntityId: 26860
+tags:
+- geo/Country
+title: Canada
+type: Country
 ---
-
 
 [	ISO4217-currency_alphabetic	 :: CAD ] 
 [	ISO4217-currency_name	 :: Canadian Dollar ] 

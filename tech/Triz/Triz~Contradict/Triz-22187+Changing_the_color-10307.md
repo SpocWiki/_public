@@ -1,15 +1,16 @@
 ﻿---
-type: TrizContradiction
 aliases:
 - 22187+Changing_the_color-10307
-license: CC BY-SA 4.0
-copyright: https://github.com/SpocWeb
+Confidential: public
+copyright: "https://github.com/SpocWeb"
 IsDeleted: false
 IsReadOnly: false
-Confidential: public
-tags: 
+license: "CC BY-SA 4.0"
+tags:
 - Triz/Contradiction
+type: TrizContradiction
 ---
+
 [name::22187+Changing_the_color-10307]
 [SpocWebEntityId::26178]
 + [#has_/Pros :: [[Triz-22187]]]

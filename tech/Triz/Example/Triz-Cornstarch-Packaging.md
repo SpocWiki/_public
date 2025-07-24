@@ -1,15 +1,16 @@
 ﻿---
-type: TrizExample
 aliases:
 - Cornstarch-Packaging
-license: CC BY-SA 4.0
-copyright: https://github.com/SpocWeb
+Confidential: public
+copyright: "https://github.com/SpocWeb"
 IsDeleted: false
 IsReadOnly: false
-Confidential: public
-tags: 
+license: "CC BY-SA 4.0"
+tags:
 - Triz/Principle/Example
+type: TrizExample
 ---
+
 [name::Cornstarch-Packaging]
 [SpocWebEntityId::22528]
 [Triz-Principle-Sub::[[Triz-removed-obsolete]]]

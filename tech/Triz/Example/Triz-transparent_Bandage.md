@@ -1,15 +1,16 @@
 ﻿---
-type: TrizExample
 aliases:
-- transparent Bandage
-license: CC BY-SA 4.0
-copyright: https://github.com/SpocWeb
+- "transparent Bandage"
+Confidential: public
+copyright: "https://github.com/SpocWeb"
 IsDeleted: false
 IsReadOnly: false
-Confidential: public
-tags: 
+license: "CC BY-SA 4.0"
+tags:
 - Triz/Principle/Example
+type: TrizExample
 ---
+
 [name::transparent Bandage]
 [SpocWebEntityId::22522]
 [Triz-Principle-Sub::[[Triz-change-transparency]]]

@@ -1,25 +1,4 @@
----
-location:
-- 31.95
-- 35.93
-type: Country
-tags:
-- geo/Country
-SpocWebEntityId: 26932
-isDeleted: false
-confidential: public
-license: CC BY-SA 4.0
-isReadOnly: false
-source: https://datahub.io/core/country-codes
-cssclasses: Country
-publish: true
-title: Jordan
-linkTitle: 
-keywords: 
-layout: 
-draft: false
-publishDate: 
-expiryDate: 
+﻿---
 aliases:
 - Jordan
 - Jordania
@@ -27,13 +6,33 @@ aliases:
 - الأردن
 - 约旦
 - Иордания
-- the Hashemite Kingdom of Jordan
-- el Reino Hachemita de Jordania
+- "the Hashemite Kingdom of Jordan"
+- "el Reino Hachemita de Jordania"
+confidential: public
+cssclasses: Country
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords: 
 Languages:
 - ar-JO
 - en
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: 
+location:
+- 31.95
+- 35.93
+publish: true
+publishDate: 
+source: "https://datahub.io/core/country-codes"
+SpocWebEntityId: 26932
+tags:
+- geo/Country
+title: Jordan
+type: Country
 ---
-
 
 [	ISO4217-currency_alphabetic	 :: JOD ] 
 [	ISO4217-currency_name	 :: Jordanian Dinar ] 

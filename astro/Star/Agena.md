@@ -1,13 +1,17 @@
----
-location: [-60.37,149.05,300]
-type: Star
-SpocWebEntityId: 27240
+﻿---
+confidential: public
 isDeleted: false
 isReadOnly: false
-confidential: public
+location:
+- -60.37
+- 149.05
+- 300
+SpocWebEntityId: 27240
 tags:
-  - astro/Star
+- astro/Star
+type: Star
 ---
+
 [star-class::B1]
 [star-class-id::28188]
 [Mass-sol::]

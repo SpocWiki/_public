@@ -1,37 +1,36 @@
----
-location:
-- -41.28
-- 174.78
-type: Country
-tags:
-- geo/Country
-SpocWebEntityId: 26988
-isDeleted: false
-confidential: public
-license: CC BY-SA 4.0
-isReadOnly: false
-source: https://datahub.io/core/country-codes
-cssclasses: Country
-publish: true
-title: New Zealand
-linkTitle: 
-keywords: 
-layout: 
-draft: false
-publishDate: 
-expiryDate: 
+﻿---
 aliases:
-- New Zealand
-- Nueva Zelandia
+- "New Zealand"
+- "Nueva Zelandia"
 - Nouvelle-Zélande
 - نيوزيلندا
 - 新西兰
-- Новая Зеландия
+- "Новая Зеландия"
+confidential: public
+cssclasses: Country
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords: 
 Languages:
 - en-NZ
 - mi
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: 
+location:
+- -41.28
+- 174.78
+publish: true
+publishDate: 
+source: "https://datahub.io/core/country-codes"
+SpocWebEntityId: 26988
+tags:
+- geo/Country
+title: "New Zealand"
+type: Country
 ---
-
 
 [	ISO4217-currency_alphabetic	 :: NZD ] 
 [	ISO4217-currency_name	 :: New Zealand Dollar ] 

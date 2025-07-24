@@ -1,40 +1,39 @@
----
-location:
-- 0.313611
-- 32.5811
-type: Country
-tags:
-- geo/Country
-SpocWebEntityId: 27045
-isDeleted: false
-confidential: public
-license: CC BY-SA 4.0
-isReadOnly: false
-source: https://datahub.io/core/country-codes
-cssclasses: Country
-publish: true
-title: Uganda
-linkTitle: 
-keywords: 
-layout: 
-draft: false
-publishDate: 
-expiryDate: 
+﻿---
 aliases:
 - Uganda
 - Ouganda
 - أوغندا
 - 乌干达
 - Уганда
-- the Republic of Uganda
-- la República de Uganda
+- "the Republic of Uganda"
+- "la República de Uganda"
+confidential: public
+cssclasses: Country
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords: 
 Languages:
 - en-UG
 - lg
 - sw
 - ar
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: 
+location:
+- 0.313611
+- 32.5811
+publish: true
+publishDate: 
+source: "https://datahub.io/core/country-codes"
+SpocWebEntityId: 27045
+tags:
+- geo/Country
+title: Uganda
+type: Country
 ---
-
 
 [	ISO4217-currency_alphabetic	 :: UGX ] 
 [	ISO4217-currency_name	 :: Uganda Shilling ] 

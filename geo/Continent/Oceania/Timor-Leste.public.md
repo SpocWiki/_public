@@ -1,39 +1,38 @@
 ﻿---
-location:
-- -8.56667
-- 125.567
-type: Country
-tags:
-- geo/Country
-SpocWebEntityId: 27038
-isDeleted: false
-confidential: public
-license: CC BY-SA 4.0
-isReadOnly: false
-source: https://datahub.io/core/country-codes
-cssclasses: Country
-publish: true
-title: Timor-Leste
-linkTitle: 
-keywords: 
-layout: 
-draft: false
-publishDate: 
-expiryDate: 
 aliases:
 - Timor-Leste
-- تيمور- ليشتي
+- "تيمور- ليشتي"
 - 东帝汶
 - Тимор-Лешти
-- the Democratic Republic of Timor-Leste
-- la República Democrática de Timor-Leste
+- "the Democratic Republic of Timor-Leste"
+- "la República Democrática de Timor-Leste"
+confidential: public
+cssclasses: Country
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords: 
 Languages:
 - tet
 - pt-TL
 - id
 - en
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: 
+location:
+- -8.56667
+- 125.567
+publish: true
+publishDate: 
+source: "https://datahub.io/core/country-codes"
+SpocWebEntityId: 27038
+tags:
+- geo/Country
+title: Timor-Leste
+type: Country
 ---
-
 
 [	ISO4217-currency_alphabetic	 :: USD ]
 [	ISO4217-currency_name	 :: US Dollar ]

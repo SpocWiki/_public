@@ -1,15 +1,16 @@
 ﻿---
-type: TrizContradiction
 aliases:
 - moving_Weight+Use_a_pneumatic_or_hydralic_construction-moving_Volume
-license: CC BY-SA 4.0
-copyright: https://github.com/SpocWeb
+Confidential: public
+copyright: "https://github.com/SpocWeb"
 IsDeleted: false
 IsReadOnly: false
-Confidential: public
-tags: 
+license: "CC BY-SA 4.0"
+tags:
 - Triz/Contradiction
+type: TrizContradiction
 ---
+
 [name::moving_Weight+Use_a_pneumatic_or_hydralic_construction-moving_Volume]
 [SpocWebEntityId::22578]
 + [#has_/Pros :: [[Triz-moving_Weight]]]

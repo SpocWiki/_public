@@ -1,15 +1,16 @@
 ﻿---
-type: TrizExample
 aliases:
-- increase Variety
-license: CC BY-SA 4.0
-copyright: https://github.com/SpocWeb
+- "increase Variety"
+Confidential: public
+copyright: "https://github.com/SpocWeb"
 IsDeleted: false
 IsReadOnly: false
-Confidential: public
-tags: 
+license: "CC BY-SA 4.0"
+tags:
 - Triz/Principle/Example
+type: TrizExample
 ---
+
 [name::increase Variety]
 [SpocWebEntityId::22442]
 [Triz-Principle-Sub::[[Triz-multi-story]]]

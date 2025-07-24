@@ -1,25 +1,4 @@
----
-location:
-- 36.8
-- 10.18
-type: Country
-tags:
-- geo/Country
-SpocWebEntityId: 27036
-isDeleted: false
-confidential: public
-license: CC BY-SA 4.0
-isReadOnly: false
-source: https://datahub.io/core/country-codes
-cssclasses: Country
-publish: true
-title: Tunisia
-linkTitle: 
-keywords: 
-layout: 
-draft: false
-publishDate: 
-expiryDate: 
+﻿---
 aliases:
 - Tunisia
 - Túnez
@@ -27,13 +6,33 @@ aliases:
 - تونس
 - 突尼斯
 - Тунис
-- the Republic of Tunisia
-- la República de Túnez
+- "the Republic of Tunisia"
+- "la República de Túnez"
+confidential: public
+cssclasses: Country
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords: 
 Languages:
 - ar-TN
 - fr
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: 
+location:
+- 36.8
+- 10.18
+publish: true
+publishDate: 
+source: "https://datahub.io/core/country-codes"
+SpocWebEntityId: 27036
+tags:
+- geo/Country
+title: Tunisia
+type: Country
 ---
-
 
 [	ISO4217-currency_alphabetic	 :: TND ] 
 [	ISO4217-currency_name	 :: Tunisian Dinar ] 

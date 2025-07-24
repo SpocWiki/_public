@@ -1,15 +1,16 @@
 ﻿---
-type: TrizContradiction
 aliases:
 - Intensity+Spheroidality-Energy-Loss
-license: CC BY-SA 4.0
-copyright: https://github.com/SpocWeb
+Confidential: public
+copyright: "https://github.com/SpocWeb"
 IsDeleted: false
 IsReadOnly: false
-Confidential: public
-tags: 
+license: "CC BY-SA 4.0"
+tags:
 - Triz/Contradiction
+type: TrizContradiction
 ---
+
 [name::Intensity+Spheroidality-Energy-Loss]
 [SpocWebEntityId::23540]
 + [#has_/Pros :: [[Triz-Intensity]]]

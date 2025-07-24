@@ -1,25 +1,4 @@
 ﻿---
-location:
-- 18.2272
-- -63.049
-type: Country
-tags:
-- geo/Country
-SpocWebEntityId: 26829
-isDeleted: false
-confidential: public
-license: CC BY-SA 4.0
-isReadOnly: false
-source: https://datahub.io/core/country-codes
-cssclasses: Country
-publish: true
-title: Anguilla
-linkTitle: 
-keywords: 
-layout: 
-draft: false
-publishDate: 
-expiryDate: 
 aliases:
 - Anguilla
 - Anguila
@@ -27,10 +6,30 @@ aliases:
 - 安圭拉
 - Ангилья
 - 
+confidential: public
+cssclasses: Country
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords: 
 Languages:
 - en-AI
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: 
+location:
+- 18.2272
+- -63.049
+publish: true
+publishDate: 
+source: "https://datahub.io/core/country-codes"
+SpocWebEntityId: 26829
+tags:
+- geo/Country
+title: Anguilla
+type: Country
 ---
-
 
 [	ISO4217-currency_alphabetic	 :: XCD ]
 [	ISO4217-currency_name	 :: East Caribbean Dollar ]

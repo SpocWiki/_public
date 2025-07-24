@@ -1,36 +1,22 @@
----
-location:
-- 34.335
-- 36.625
-type: Country
-tags:
-- geo/Country
-SpocWebEntityId: 27026
-isDeleted: false
-confidential: public
-license: CC BY-SA 4.0
-isReadOnly: false
-source: https://datahub.io/core/country-codes
-cssclasses: Country
-publish: true
-title: Syria
-linkTitle: 
-keywords: 
-layout: 
-draft: false
-publishDate: 
-expiryDate: 
+﻿---
 aliases:
 - Syria
-- Syrian Arab Republic
-- República Árabe Siria
-- République arabe syrienne
-- الجمهورية العربية السورية
+- "Syrian Arab Republic"
+- "República Árabe Siria"
+- "République arabe syrienne"
+- "الجمهورية العربية السورية"
 - 阿拉伯叙利亚共和国
-- Сирийская Арабская Республика
-- the Syrian Arab Republic
-- la República Árabe Siria
-- República Árabe Siria (la)
+- "Сирийская Арабская Республика"
+- "the Syrian Arab Republic"
+- "la República Árabe Siria"
+- "República Árabe Siria (la)"
+confidential: public
+cssclasses: Country
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords: 
 Languages:
 - ar-SY
 - ku
@@ -38,8 +24,21 @@ Languages:
 - arc
 - fr
 - en
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: 
+location:
+- 34.335
+- 36.625
+publish: true
+publishDate: 
+source: "https://datahub.io/core/country-codes"
+SpocWebEntityId: 27026
+tags:
+- geo/Country
+title: Syria
+type: Country
 ---
-
 
 [	ISO4217-currency_alphabetic	 :: SYP ] 
 [	ISO4217-currency_name	 :: Syrian Pound ] 

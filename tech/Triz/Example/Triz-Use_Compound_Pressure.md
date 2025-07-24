@@ -1,15 +1,16 @@
 ﻿---
-type: TrizExample
 aliases:
-- Use Compound Pressure
-license: CC BY-SA 4.0
-copyright: https://github.com/SpocWeb
+- "Use Compound Pressure"
+Confidential: public
+copyright: "https://github.com/SpocWeb"
 IsDeleted: false
 IsReadOnly: false
-Confidential: public
-tags: 
+license: "CC BY-SA 4.0"
+tags:
 - Triz/Principle/Example
+type: TrizExample
 ---
+
 [name::Use Compound Pressure]
 [SpocWebEntityId::22488]
 [Triz-Principle-Sub::[[Triz-add-functions]]]

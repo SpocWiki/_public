@@ -1,39 +1,38 @@
----
-location:
-- -1.94388
-- 30.0595
-type: Country
-tags:
-- geo/Country
-SpocWebEntityId: 27008
-isDeleted: false
-confidential: public
-license: CC BY-SA 4.0
-isReadOnly: false
-source: https://datahub.io/core/country-codes
-cssclasses: Country
-publish: true
-title: Rwanda
-linkTitle: 
-keywords: 
-layout: 
-draft: false
-publishDate: 
-expiryDate: 
+﻿---
 aliases:
 - Rwanda
 - رواندا
 - 卢旺达
 - Руанда
-- the Republic of Rwanda
-- la República de Rwanda
+- "the Republic of Rwanda"
+- "la República de Rwanda"
+confidential: public
+cssclasses: Country
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords: 
 Languages:
 - rw
 - en-RW
 - fr-RW
 - sw
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: 
+location:
+- -1.94388
+- 30.0595
+publish: true
+publishDate: 
+source: "https://datahub.io/core/country-codes"
+SpocWebEntityId: 27008
+tags:
+- geo/Country
+title: Rwanda
+type: Country
 ---
-
 
 [	ISO4217-currency_alphabetic	 :: RWF ] 
 [	ISO4217-currency_name	 :: Rwanda Franc ] 

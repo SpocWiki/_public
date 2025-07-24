@@ -1,25 +1,4 @@
----
-location:
-- 64.614
-- -21.718
-type: Country
-tags:
-- geo/Country
-SpocWebEntityId: 26929
-isDeleted: false
-confidential: public
-license: CC BY-SA 4.0
-isReadOnly: false
-source: https://datahub.io/core/country-codes
-cssclasses: Country
-publish: true
-title: Iceland
-linkTitle: 
-keywords: 
-layout: 
-draft: false
-publishDate: 
-expiryDate: 
+﻿---
 aliases:
 - Iceland
 - Islandia
@@ -27,8 +6,15 @@ aliases:
 - آيسلندا
 - 冰岛
 - Исландия
-- the Republic of Iceland
-- la República de Islandia
+- "the Republic of Iceland"
+- "la República de Islandia"
+confidential: public
+cssclasses: Country
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords: 
 Languages:
 - is
 - en
@@ -36,8 +22,21 @@ Languages:
 - da
 - sv
 - no
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: 
+location:
+- 64.614
+- -21.718
+publish: true
+publishDate: 
+source: "https://datahub.io/core/country-codes"
+SpocWebEntityId: 26929
+tags:
+- geo/Country
+title: Iceland
+type: Country
 ---
-
 
 [	ISO4217-currency_alphabetic	 :: ISK ] 
 [	ISO4217-currency_name	 :: Iceland Krona ] 

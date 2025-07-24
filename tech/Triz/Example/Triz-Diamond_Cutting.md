@@ -1,15 +1,16 @@
 ﻿---
-type: TrizExample
 aliases:
-- Diamond Cutting
-license: CC BY-SA 4.0
-copyright: https://github.com/SpocWeb
+- "Diamond Cutting"
+Confidential: public
+copyright: "https://github.com/SpocWeb"
 IsDeleted: false
 IsReadOnly: false
-Confidential: public
-tags: 
+license: "CC BY-SA 4.0"
+tags:
 - Triz/Principle/Example
+type: TrizExample
 ---
+
 [name::Diamond Cutting]
 [SpocWebEntityId::22525]
 [Triz-Principle-Sub::[[Triz-same-material]]]

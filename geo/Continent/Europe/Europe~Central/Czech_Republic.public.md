@@ -1,14 +1,15 @@
----
-location: [49.7633,15.8734] 
-type: Country
+﻿---
+confidential: public
+isDeleted: false
+location:
+- 49.7633
+- 15.8734
+SpocWebEntityId: 26877
 tags:
 - geo/Country
-
-SpocWebEntityId: 26877
-isDeleted: false
-confidential: public
-
+type: Country
 ---
+
 [ISO2::CZ] 
 [ISO3::CZE] 
 

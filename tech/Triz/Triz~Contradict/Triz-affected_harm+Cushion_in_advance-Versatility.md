@@ -1,15 +1,16 @@
 ﻿---
-type: TrizContradiction
 aliases:
 - affected_harm+Cushion_in_advance-Versatility
-license: CC BY-SA 4.0
-copyright: https://github.com/SpocWeb
+Confidential: public
+copyright: "https://github.com/SpocWeb"
 IsDeleted: false
 IsReadOnly: false
-Confidential: public
-tags: 
+license: "CC BY-SA 4.0"
+tags:
 - Triz/Contradiction
+type: TrizContradiction
 ---
+
 [name::affected_harm+Cushion_in_advance-Versatility]
 [SpocWebEntityId::25698]
 + [#has_/Pros :: [[Triz-affected_harm]]]

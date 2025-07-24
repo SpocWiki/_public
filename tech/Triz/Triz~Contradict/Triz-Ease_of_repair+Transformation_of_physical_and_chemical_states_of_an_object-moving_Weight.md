@@ -1,15 +1,16 @@
 ﻿---
-type: TrizContradiction
 aliases:
 - Ease_of_repair+Transformation_of_physical_and_chemical_states_of_an_object-moving_Weight
-license: CC BY-SA 4.0
-copyright: https://github.com/SpocWeb
+Confidential: public
+copyright: "https://github.com/SpocWeb"
 IsDeleted: false
 IsReadOnly: false
-Confidential: public
-tags: 
+license: "CC BY-SA 4.0"
+tags:
 - Triz/Contradiction
+type: TrizContradiction
 ---
+
 [name::Ease_of_repair+Transformation_of_physical_and_chemical_states_of_an_object-moving_Weight]
 [SpocWebEntityId::26071]
 + [#has_/Pros :: [[Triz-Ease_of_repair]]]

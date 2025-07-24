@@ -1,15 +1,16 @@
 ﻿---
-type: TrizExample
 aliases:
-- flashing Light
-license: CC BY-SA 4.0
-copyright: https://github.com/SpocWeb
+- "flashing Light"
+Confidential: public
+copyright: "https://github.com/SpocWeb"
 IsDeleted: false
 IsReadOnly: false
-Confidential: public
-tags: 
+license: "CC BY-SA 4.0"
+tags:
 - Triz/Principle/Example
+type: TrizExample
 ---
+
 [name::flashing Light]
 [SpocWebEntityId::22460]
 [Triz-Principle-Sub:: [[Triz~Sub~periodic_action]]]]

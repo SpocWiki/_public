@@ -1,14 +1,15 @@
----
-location: [46.7833,-56.1667] 
-type: Country
+﻿---
+confidential: public
+isDeleted: false
+location:
+- 46.7833
+- -56.1667
+SpocWebEntityId: 26997
 tags:
 - geo/Country
-
-SpocWebEntityId: 26997
-isDeleted: false
-confidential: public
-
+type: Country
 ---
+
 [ISO2::PM] 
 [ISO3::SPM] 
 

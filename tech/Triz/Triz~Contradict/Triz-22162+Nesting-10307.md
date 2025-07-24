@@ -1,15 +1,16 @@
 ﻿---
-type: TrizContradiction
 aliases:
 - 22162+Nesting-10307
-license: CC BY-SA 4.0
-copyright: https://github.com/SpocWeb
+Confidential: public
+copyright: "https://github.com/SpocWeb"
 IsDeleted: false
 IsReadOnly: false
-Confidential: public
-tags: 
+license: "CC BY-SA 4.0"
+tags:
 - Triz/Contradiction
+type: TrizContradiction
 ---
+
 [name::22162+Nesting-10307]
 [SpocWebEntityId::22991]
 + [#has_/Pros :: [[Triz-22162]]]

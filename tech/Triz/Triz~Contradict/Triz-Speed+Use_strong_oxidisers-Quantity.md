@@ -1,15 +1,16 @@
 ﻿---
-type: TrizContradiction
 aliases:
 - Speed+Use_strong_oxidisers-Quantity
-license: CC BY-SA 4.0
-copyright: https://github.com/SpocWeb
+Confidential: public
+copyright: "https://github.com/SpocWeb"
 IsDeleted: false
 IsReadOnly: false
-Confidential: public
-tags: 
+license: "CC BY-SA 4.0"
+tags:
 - Triz/Contradiction
+type: TrizContradiction
 ---
+
 [name::Speed+Use_strong_oxidisers-Quantity]
 [SpocWebEntityId::23431]
 + [#has_/Pros :: [[Triz-Speed]]]

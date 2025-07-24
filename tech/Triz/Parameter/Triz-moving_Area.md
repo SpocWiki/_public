@@ -1,15 +1,16 @@
----
-type: TrizParameter
+﻿---
 aliases:
-- moving Area
-license: CC BY-SA 4.0
-copyright: https://github.com/SpocWeb
+- "moving Area"
+Confidential: public
+copyright: "https://github.com/SpocWeb"
 IsDeleted: false
 IsReadOnly: false
-Confidential: public
-tags: 
+license: "CC BY-SA 4.0"
+tags:
 - Triz/Parameter
+type: TrizParameter
 ---
+
 [name::moving Area]
 [SpocWebEntityId::22163]
 [TrizParameterId::05]

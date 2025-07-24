@@ -1,15 +1,16 @@
 ﻿---
-type: TrizContradiction
 aliases:
 - 10307+22205-Ease_of_operation
-license: CC BY-SA 4.0
-copyright: https://github.com/SpocWeb
+Confidential: public
+copyright: "https://github.com/SpocWeb"
 IsDeleted: false
 IsReadOnly: false
-Confidential: public
-tags: 
+license: "CC BY-SA 4.0"
+tags:
 - Triz/Contradiction
+type: TrizContradiction
 ---
+
 [name::10307+22205-Ease_of_operation]
 [SpocWebEntityId::26748]
 + [#has_/Pros :: [[Triz-10307]]]

@@ -1,18 +1,19 @@
----
-location: [39.0333,125.75] 
-type: Country
-tags:
-- geo/Country
-
-SpocWebEntityId: 26940
-isDeleted: false
-confidential: public
+﻿---
 aliases:
 - North-Korea
-- Korea~Dem-Rep 
-- Nordkorea 
-
+- Korea~Dem-Rep
+- Nordkorea
+confidential: public
+isDeleted: false
+location:
+- 39.0333
+- 125.75
+SpocWebEntityId: 26940
+tags:
+- geo/Country
+type: Country
 ---
+
 [ISO2::KP] 
 [ISO3::PRK] 
 ```leaflet

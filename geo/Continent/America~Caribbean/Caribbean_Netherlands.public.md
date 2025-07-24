@@ -1,40 +1,39 @@
 ﻿---
-location:
-- 12.1833
-- -69
-type: Country
-tags:
-- geo/Country
-SpocWebEntityId: 26832
-isDeleted: false
-confidential: public
-license: CC BY-SA 4.0
-isReadOnly: false
-source: https://datahub.io/core/country-codes
-cssclasses: Country
-publish: true
-title: Caribbean Netherlands
-linkTitle: 
-keywords: 
-layout: 
-draft: false
-publishDate: 
-expiryDate: 
 aliases:
-- Caribbean Netherlands
-- Bonaire, Sint Eustatius and Saba
-- Bonaire, San Eustaquio y Saba
-- Bonaire, Saint-Eustache et Saba
-- بونير وسان يوستاتيوس وسابا
+- "Caribbean Netherlands"
+- "Bonaire, Sint Eustatius and Saba"
+- "Bonaire, San Eustaquio y Saba"
+- "Bonaire, Saint-Eustache et Saba"
+- "بونير وسان يوستاتيوس وسابا"
 - 博纳尔,圣俄斯塔休斯和萨巴
-- Бонайре, Саба и Синт-Эстатиус
+- "Бонайре, Саба и Синт-Эстатиус"
 - 
+confidential: public
+cssclasses: Country
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords: 
 Languages:
 - nl
 - pap
 - en
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: 
+location:
+- 12.1833
+- -69
+publish: true
+publishDate: 
+source: "https://datahub.io/core/country-codes"
+SpocWebEntityId: 26832
+tags:
+- geo/Country
+title: "Caribbean Netherlands"
+type: Country
 ---
-
 
 [	ISO4217-currency_alphabetic	 :: USD ]
 [	ISO4217-currency_name	 :: US Dollar ]

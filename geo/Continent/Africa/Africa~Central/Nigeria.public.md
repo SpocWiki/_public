@@ -1,41 +1,40 @@
----
-location:
-- 9.17222
-- 6.46778
-type: Country
-tags:
-- geo/Country
-SpocWebEntityId: 26981
-isDeleted: false
-confidential: public
-license: CC BY-SA 4.0
-isReadOnly: false
-source: https://datahub.io/core/country-codes
-cssclasses: Country
-publish: true
-title: Nigeria
-linkTitle: 
-keywords: 
-layout: 
-draft: false
-publishDate: 
-expiryDate: 
+﻿---
 aliases:
 - Nigeria
 - Nigéria
 - نيجيريا
 - 尼日利亚
 - Нигерия
-- the Federal Republic of Nigeria
-- la República Federal de Nigeria
+- "the Federal Republic of Nigeria"
+- "la República Federal de Nigeria"
+confidential: public
+cssclasses: Country
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords: 
 Languages:
 - en-NG
 - ha
 - yo
 - ig
 - ff
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: 
+location:
+- 9.17222
+- 6.46778
+publish: true
+publishDate: 
+source: "https://datahub.io/core/country-codes"
+SpocWebEntityId: 26981
+tags:
+- geo/Country
+title: Nigeria
+type: Country
 ---
-
 
 [	ISO4217-currency_alphabetic	 :: NGN ] 
 [	ISO4217-currency_name	 :: Naira ] 

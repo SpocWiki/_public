@@ -1,15 +1,16 @@
 ﻿---
-type: TrizContradiction
 aliases:
 - Stability+Composite_materials-Substance-Loss
-license: CC BY-SA 4.0
-copyright: https://github.com/SpocWeb
+Confidential: public
+copyright: "https://github.com/SpocWeb"
 IsDeleted: false
 IsReadOnly: false
-Confidential: public
-tags: 
+license: "CC BY-SA 4.0"
+tags:
 - Triz/Contradiction
+type: TrizContradiction
 ---
+
 [name::Stability+Composite_materials-Substance-Loss]
 [SpocWebEntityId::23902]
 + [#has_/Pros :: [[Triz-Stability]]]

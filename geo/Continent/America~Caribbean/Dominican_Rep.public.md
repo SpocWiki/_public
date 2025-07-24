@@ -1,14 +1,15 @@
----
-location: [19,-70.6667]
-type: Country
+﻿---
+confidential: public
+isDeleted: false
+location:
+- 19
+- -70.6667
+SpocWebEntityId: 26882
 tags:
 - geo/Country
-
-SpocWebEntityId: 26882
-isDeleted: false
-confidential: public
-
+type: Country
 ---
+
 [ISO2::DO]
 [ISO3::DOM]
 

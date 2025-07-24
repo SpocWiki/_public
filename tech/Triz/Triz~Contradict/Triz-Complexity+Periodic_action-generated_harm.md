@@ -1,15 +1,16 @@
 ﻿---
-type: TrizContradiction
 aliases:
 - Complexity+Periodic_action-generated_harm
-license: CC BY-SA 4.0
-copyright: https://github.com/SpocWeb
+Confidential: public
+copyright: "https://github.com/SpocWeb"
 IsDeleted: false
 IsReadOnly: false
-Confidential: public
-tags: 
+license: "CC BY-SA 4.0"
+tags:
 - Triz/Contradiction
+type: TrizContradiction
 ---
+
 [name::Complexity+Periodic_action-generated_harm]
 [SpocWebEntityId::26379]
 + [#has_/Pros :: [[Triz-Complexity]]]

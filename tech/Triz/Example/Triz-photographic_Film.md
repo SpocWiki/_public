@@ -1,15 +1,16 @@
 ﻿---
-type: TrizExample
 aliases:
-- photographic Film
-license: CC BY-SA 4.0
-copyright: https://github.com/SpocWeb
+- "photographic Film"
+Confidential: public
+copyright: "https://github.com/SpocWeb"
 IsDeleted: false
 IsReadOnly: false
-Confidential: public
-tags: 
+license: "CC BY-SA 4.0"
+tags:
 - Triz/Principle/Example
+type: TrizExample
 ---
+
 [name::photographic Film]
 [SpocWebEntityId::22405]
 [Triz-Principle-Sub::[[Triz-prepare-emergency]]]

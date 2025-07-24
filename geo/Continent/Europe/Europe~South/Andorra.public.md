@@ -1,36 +1,35 @@
----
-location:
-- 42.5167
-- 1.51333
-type: Country
-tags:
-- geo/Country
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-source: https://datahub.io/core/country-codes
-cssclasses: Country
-publish: true
-title: Andorra
-linkTitle: 
-keywords: 
-layout: 
-draft: false
-publishDate: 
-expiryDate: 
+﻿---
 aliases:
 - Andorra
 - Andorre
 - أندورا
 - 安道尔
 - Андорра
-- the Principality of Andorra
-- el Principado de Andorra
+- "the Principality of Andorra"
+- "el Principado de Andorra"
+confidential: public
+cssclasses: Country
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords: 
 Languages:
 - ca
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: 
+location:
+- 42.5167
+- 1.51333
+publish: true
+publishDate: 
+source: "https://datahub.io/core/country-codes"
+tags:
+- geo/Country
+title: Andorra
+type: Country
 ---
-
 
 [	ISO4217-currency_alphabetic	 :: EUR ] 
 [	ISO4217-currency_name	 :: Euro ] 

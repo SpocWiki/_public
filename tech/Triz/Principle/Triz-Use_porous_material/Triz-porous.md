@@ -1,15 +1,16 @@
----
-type: TrizPrincipleSub
+﻿---
 aliases:
 - porous
-license: CC BY-SA 4.0
-copyright: https://github.com/SpocWeb
+Confidential: public
+copyright: "https://github.com/SpocWeb"
 IsDeleted: false
 IsReadOnly: false
-Confidential: public
-tags: 
+license: "CC BY-SA 4.0"
+tags:
 - Triz/Principle/Sub
+type: TrizPrincipleSub
 ---
+
 [name::porous]
 [SpocWebEntityId::22307]
 [TrizPrinciple::[[Triz-Use_porous_material]]]

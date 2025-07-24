@@ -1,25 +1,4 @@
----
-location:
-- 26.2
-- 50.58
-type: Country
-tags:
-- geo/Country
-SpocWebEntityId: 26847
-isDeleted: false
-confidential: public
-license: CC BY-SA 4.0
-isReadOnly: false
-source: https://datahub.io/core/country-codes
-cssclasses: Country
-publish: true
-title: Bahrain
-linkTitle: 
-keywords: 
-layout: 
-draft: false
-publishDate: 
-expiryDate: 
+﻿---
 aliases:
 - Bahrain
 - Bahrein
@@ -27,15 +6,35 @@ aliases:
 - البحرين
 - 巴林
 - Бахрейн
-- the Kingdom of Bahrain
-- el Reino de Bahrein
+- "the Kingdom of Bahrain"
+- "el Reino de Bahrein"
+confidential: public
+cssclasses: Country
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords: 
 Languages:
 - ar-BH
 - en
 - fa
 - ur
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: 
+location:
+- 26.2
+- 50.58
+publish: true
+publishDate: 
+source: "https://datahub.io/core/country-codes"
+SpocWebEntityId: 26847
+tags:
+- geo/Country
+title: Bahrain
+type: Country
 ---
-
 
 [	ISO4217-currency_alphabetic	 :: BHD ] 
 [	ISO4217-currency_name	 :: Bahraini Dinar ] 

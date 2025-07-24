@@ -1,12 +1,13 @@
----
-type: TrizPrinciple
+﻿---
 aliases:
-- Flexible film or thin membranes
-license: CC BY-SA 4.0
-copyright: https://github.com/SpocWeb
-tags: 
+- "Flexible film or thin membranes"
+copyright: "https://github.com/SpocWeb"
+license: "CC BY-SA 4.0"
+tags:
 - Triz/Principle
+type: TrizPrinciple
 ---
+
 [name::Flexible film or thin membranes]
 [SpocWebEntityId::22224]
 [Popularity::25]

@@ -1,15 +1,16 @@
 ﻿---
-type: TrizContradiction
 aliases:
 - Power+Convert_harm_into_benefit-Stress
-license: CC BY-SA 4.0
-copyright: https://github.com/SpocWeb
+Confidential: public
+copyright: "https://github.com/SpocWeb"
 IsDeleted: false
 IsReadOnly: false
-Confidential: public
-tags: 
+license: "CC BY-SA 4.0"
+tags:
 - Triz/Contradiction
+type: TrizContradiction
 ---
+
 [name::Power+Convert_harm_into_benefit-Stress]
 [SpocWebEntityId::24612]
 + [#has_/Pros :: [[Triz-Power]]]

@@ -1,25 +1,4 @@
----
-location:
-- 46.05
-- 14.52
-type: Country
-tags:
-- geo/Country
-SpocWebEntityId: 27016
-isDeleted: false
-confidential: public
-license: CC BY-SA 4.0
-isReadOnly: false
-source: https://datahub.io/core/country-codes
-cssclasses: Country
-publish: true
-title: Slovenia
-linkTitle: 
-keywords: 
-layout: 
-draft: false
-publishDate: 
-expiryDate: 
+﻿---
 aliases:
 - Slovenia
 - Eslovenia
@@ -27,13 +6,33 @@ aliases:
 - سلوفينيا
 - 斯洛文尼亚
 - Словения
-- the Republic of Slovenia
-- la República de Eslovenia
+- "the Republic of Slovenia"
+- "la República de Eslovenia"
+confidential: public
+cssclasses: Country
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords: 
 Languages:
 - sl
 - sh
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: 
+location:
+- 46.05
+- 14.52
+publish: true
+publishDate: 
+source: "https://datahub.io/core/country-codes"
+SpocWebEntityId: 27016
+tags:
+- geo/Country
+title: Slovenia
+type: Country
 ---
-
 
 [	ISO4217-currency_alphabetic	 :: EUR ] 
 [	ISO4217-currency_name	 :: Euro ] 

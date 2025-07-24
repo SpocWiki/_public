@@ -1,15 +1,16 @@
 ﻿---
-type: TrizExample
 aliases:
-- Argon Atmosphere
-license: CC BY-SA 4.0
-copyright: https://github.com/SpocWeb
+- "Argon Atmosphere"
+Confidential: public
+copyright: "https://github.com/SpocWeb"
 IsDeleted: false
 IsReadOnly: false
-Confidential: public
-tags: 
+license: "CC BY-SA 4.0"
+tags:
 - Triz/Principle/Example
+type: TrizExample
 ---
+
 [name::Argon Atmosphere]
 [SpocWebEntityId::22551]
 [Triz-Principle-Sub:: [[Triz~Sub~inert-environment]]]]

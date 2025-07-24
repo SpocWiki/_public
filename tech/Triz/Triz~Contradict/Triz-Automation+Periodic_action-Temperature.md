@@ -1,15 +1,16 @@
 ﻿---
-type: TrizContradiction
 aliases:
 - Automation+Periodic_action-Temperature
-license: CC BY-SA 4.0
-copyright: https://github.com/SpocWeb
+Confidential: public
+copyright: "https://github.com/SpocWeb"
 IsDeleted: false
 IsReadOnly: false
-Confidential: public
-tags: 
+license: "CC BY-SA 4.0"
+tags:
 - Triz/Contradiction
+type: TrizContradiction
 ---
+
 [name::Automation+Periodic_action-Temperature]
 [SpocWebEntityId::26571]
 + [#has_/Pros :: [[Triz-Automation]]]

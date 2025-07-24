@@ -1,15 +1,16 @@
 ﻿---
-type: TrizContradiction
 aliases:
 - moving_Volume+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-affected_harm
-license: CC BY-SA 4.0
-copyright: https://github.com/SpocWeb
+Confidential: public
+copyright: "https://github.com/SpocWeb"
 IsDeleted: false
 IsReadOnly: false
-Confidential: public
-tags: 
+license: "CC BY-SA 4.0"
+tags:
 - Triz/Contradiction
+type: TrizContradiction
 ---
+
 [name::moving_Volume+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-affected_harm]
 [SpocWebEntityId::23268]
 + [#has_/Pros :: [[Triz-moving_Volume]]]

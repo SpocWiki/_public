@@ -1,15 +1,16 @@
 ﻿---
-type: TrizContradiction
 aliases:
 - Versatility+Spheroidality-Speed
-license: CC BY-SA 4.0
-copyright: https://github.com/SpocWeb
+Confidential: public
+copyright: "https://github.com/SpocWeb"
 IsDeleted: false
 IsReadOnly: false
-Confidential: public
-tags: 
+license: "CC BY-SA 4.0"
+tags:
 - Triz/Contradiction
+type: TrizContradiction
 ---
+
 [name::Versatility+Spheroidality-Speed]
 [SpocWebEntityId::26206]
 + [#has_/Pros :: [[Triz-Versatility]]]

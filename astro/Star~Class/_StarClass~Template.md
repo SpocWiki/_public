@@ -1,17 +1,16 @@
----
-type: StarClass
-license: CC BY-SA 4.0
-publish: true
+﻿---
+aliases:
+- 
 confidential: public
 isDeleted: false
 isReadOnly: false
-
+license: "CC BY-SA 4.0"
+publish: true
 tags:
 - astro/StarClass
-
-aliases:
-- 
+type: StarClass
 ---
+
 SpocWebEntityId: {{SpocWebEntityId}}
 
 [name::{{StarClass}}]

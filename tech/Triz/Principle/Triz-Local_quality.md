@@ -1,12 +1,13 @@
----
-type: TrizPrinciple
+﻿---
 aliases:
-- Local quality
-license: CC BY-SA 4.0
-copyright: https://github.com/SpocWeb
-tags: 
+- "Local quality"
+copyright: "https://github.com/SpocWeb"
+license: "CC BY-SA 4.0"
+tags:
 - Triz/Principle
+type: TrizPrinciple
 ---
+
 [name::Local quality]
 [SpocWebEntityId::22199]
 [Popularity::12]

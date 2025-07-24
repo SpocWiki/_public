@@ -1,38 +1,37 @@
----
-location:
-- 4.16667
-- 73.5
-type: Country
-tags:
-- geo/Country
-SpocWebEntityId: 26972
-isDeleted: false
-confidential: public
-license: CC BY-SA 4.0
-isReadOnly: false
-source: https://datahub.io/core/country-codes
-cssclasses: Country
-publish: true
-title: Maldives
-linkTitle: 
-keywords: 
-layout: 
-draft: false
-publishDate: 
-expiryDate: 
+﻿---
 aliases:
 - Maldives
 - Maldivas
 - ملديف
 - 马尔代夫
-- Мальдивские Острова
-- the Republic of Maldives
-- la República de Maldivas
+- "Мальдивские Острова"
+- "the Republic of Maldives"
+- "la República de Maldivas"
+confidential: public
+cssclasses: Country
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords: 
 Languages:
 - dv
 - en
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: 
+location:
+- 4.16667
+- 73.5
+publish: true
+publishDate: 
+source: "https://datahub.io/core/country-codes"
+SpocWebEntityId: 26972
+tags:
+- geo/Country
+title: Maldives
+type: Country
 ---
-
 
 [	ISO4217-currency_alphabetic	 :: MVR ] 
 [	ISO4217-currency_name	 :: Rufiyaa ] 

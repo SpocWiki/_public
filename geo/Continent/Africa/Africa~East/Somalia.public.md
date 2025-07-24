@@ -1,40 +1,39 @@
----
-location:
-- 2.02
-- 45.33
-type: Country
-tags:
-- geo/Country
-SpocWebEntityId: 27022
-isDeleted: false
-confidential: public
-license: CC BY-SA 4.0
-isReadOnly: false
-source: https://datahub.io/core/country-codes
-cssclasses: Country
-publish: true
-title: Somalia
-linkTitle: 
-keywords: 
-layout: 
-draft: false
-publishDate: 
-expiryDate: 
+﻿---
 aliases:
 - Somalia
 - Somalie
 - الصومال
 - 索马里
 - Сомали
-- the Federal Republic of Somalia
-- la República Federal de Somalia
+- "the Federal Republic of Somalia"
+- "la República Federal de Somalia"
+confidential: public
+cssclasses: Country
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords: 
 Languages:
 - so-SO
 - ar-SO
 - it
 - en-SO
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: 
+location:
+- 2.02
+- 45.33
+publish: true
+publishDate: 
+source: "https://datahub.io/core/country-codes"
+SpocWebEntityId: 27022
+tags:
+- geo/Country
+title: Somalia
+type: Country
 ---
-
 
 [	ISO4217-currency_alphabetic	 :: SOS ] 
 [	ISO4217-currency_name	 :: Somali Shilling ] 

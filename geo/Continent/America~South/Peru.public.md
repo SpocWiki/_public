@@ -1,25 +1,4 @@
----
-location:
-- -12.05
-- -77.05
-type: Country
-tags:
-- geo/Country
-SpocWebEntityId: 26991
-isDeleted: false
-confidential: public
-license: CC BY-SA 4.0
-isReadOnly: false
-source: https://datahub.io/core/country-codes
-cssclasses: Country
-publish: true
-title: Peru
-linkTitle: 
-keywords: 
-layout: 
-draft: false
-publishDate: 
-expiryDate: 
+﻿---
 aliases:
 - Peru
 - Perú
@@ -27,15 +6,35 @@ aliases:
 - بيرو
 - 秘鲁
 - Перу
-- the Republic of Peru
-- la República del Perú
-- Perú (el)
+- "the Republic of Peru"
+- "la República del Perú"
+- "Perú (el)"
+confidential: public
+cssclasses: Country
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords: 
 Languages:
 - es-PE
 - qu
 - ay
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: 
+location:
+- -12.05
+- -77.05
+publish: true
+publishDate: 
+source: "https://datahub.io/core/country-codes"
+SpocWebEntityId: 26991
+tags:
+- geo/Country
+title: Peru
+type: Country
 ---
-
 
 [	ISO4217-currency_alphabetic	 :: PEN ] 
 [	ISO4217-currency_name	 :: Sol ] 

@@ -1,15 +1,16 @@
 ﻿---
-type: TrizContradiction
 aliases:
 - Automation+Rejecting_and_regenerating_parts-Difficulty
-license: CC BY-SA 4.0
-copyright: https://github.com/SpocWeb
+Confidential: public
+copyright: "https://github.com/SpocWeb"
 IsDeleted: false
 IsReadOnly: false
-Confidential: public
-tags: 
+license: "CC BY-SA 4.0"
+tags:
 - Triz/Contradiction
+type: TrizContradiction
 ---
+
 [name::Automation+Rejecting_and_regenerating_parts-Difficulty]
 [SpocWebEntityId::26626]
 + [#has_/Pros :: [[Triz-Automation]]]

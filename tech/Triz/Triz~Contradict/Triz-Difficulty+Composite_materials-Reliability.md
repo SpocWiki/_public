@@ -1,15 +1,16 @@
 ﻿---
-type: TrizContradiction
 aliases:
 - Difficulty+Composite_materials-Reliability
-license: CC BY-SA 4.0
-copyright: https://github.com/SpocWeb
+Confidential: public
+copyright: "https://github.com/SpocWeb"
 IsDeleted: false
 IsReadOnly: false
-Confidential: public
-tags: 
+license: "CC BY-SA 4.0"
+tags:
 - Triz/Contradiction
+type: TrizContradiction
 ---
+
 [name::Difficulty+Composite_materials-Reliability]
 [SpocWebEntityId::26503]
 + [#has_/Pros :: [[Triz-Difficulty]]]

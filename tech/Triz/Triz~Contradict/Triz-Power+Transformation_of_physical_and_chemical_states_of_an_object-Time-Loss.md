@@ -1,15 +1,16 @@
 ﻿---
-type: TrizContradiction
 aliases:
 - Power+Transformation_of_physical_and_chemical_states_of_an_object-Time-Loss
-license: CC BY-SA 4.0
-copyright: https://github.com/SpocWeb
+Confidential: public
+copyright: "https://github.com/SpocWeb"
 IsDeleted: false
 IsReadOnly: false
-Confidential: public
-tags: 
+license: "CC BY-SA 4.0"
+tags:
 - Triz/Contradiction
+type: TrizContradiction
 ---
+
 [name::Power+Transformation_of_physical_and_chemical_states_of_an_object-Time-Loss]
 [SpocWebEntityId::24651]
 + [#has_/Pros :: [[Triz-Power]]]

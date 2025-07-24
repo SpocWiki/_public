@@ -1,22 +1,19 @@
 ﻿---
-has_id_wikidata: Q324
-Stack_Exchange_tag: "https://astronomy.stackexchange.com/tags/uranus"
-image: "http://commons.wikimedia.org/wiki/Special:FilePath/Uranus%20Voyager2%20color%20calibrated.png"
-instance_of:
-- "[[_Standards/WD/WD~outer planet]]"
-- "[[_Standards/WD/WD~superior planet]]"
-- "[[_Standards/WD/WD~ice giant]]"
-discoverer_or_inventor: "[[_Standards/WD/WD~William Herschel]]"
-site_of_astronomical_discovery: '[[_Standards/WD/WD~Bath]]'
-named_after:
-- '[[_Standards/WD/WD~Uranus]]'
-- '[[_Standards/WD/WD~Urania]]'
-location: "[[_Standards/WD/WD~outer Solar System]]"
-part_of: "[[_Standards/WD/WD~outer Solar System]]"
+albedo:
+- 0.3
+- 0.488
+angular_diameter:
+- 3.3
+- 4.1
+apoapsis: 3006318143
+apparent_magnitude:
+- 5.32
+- 5.9
+area: 8115600000
+argument_of_periapsis: 170.9542763
 astronomic_symbol_image:
 - "http://commons.wikimedia.org/wiki/Special:FilePath/Uranus%20monogram%20%28fixed%20width%29.svg"
 - "http://commons.wikimedia.org/wiki/Special:FilePath/Uranus%20symbol%20%28fixed%20width%29.svg"
-parent_astronomical_body: '[[_Standards/WD/WD~Sun]]'
 child_astronomical_body:
 - '[[_Standards/WD/WD~Titania]]'
 - '[[_Standards/WD/WD~Oberon]]'
@@ -58,22 +55,14 @@ child_astronomical_body:
 - "[[_Standards/WD/WD~η ring]]"
 - "[[_Standards/WD/WD~ζ ring]]"
 - "[[_Standards/WD/WD~α ring]]"
-pronunciation_audio:
-- "http://commons.wikimedia.org/wiki/Special:FilePath/It-Urano.ogg"
-- "http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q9027%20%28swe%29-Moonhouse-Uranus.wav"
-has_part_s_:
-- "[[_Standards/WD/WD~atmosphere of Uranus]]"
-- "[[_Standards/WD/WD~magnetosphere of Uranus]]"
-significant_event:
-- "[[_Standards/WD/WD~transit of Uranus from Neptune]]"
-- "[[_Standards/WD/WD~discovery of Uranus]]"
-notation: "[[_Standards/WD/WD~Uranus symbol]]"
-spoken_text_audio: "http://commons.wikimedia.org/wiki/Special:FilePath/Hy-%D5%88%D6%82%D6%80%D5%A1%D5%B6%20%28%D5%B4%D5%B8%D5%AC%D5%B8%D6%80%D5%A1%D5%AF%29.ogg"
-orbital_eccentricity: 0.04725744
-flattening: 0.0229
-apparent_magnitude:
-- 5.32
-- 5.9
+Commons_category: "Uranus (planet)"
+Commons_gallery: Uranus
+declination: -15.175
+demonym:
+- uranià
+- Uranian
+- Uranano
+density: 1271
 described_by_source:
 - "[[_Standards/WD/WD~Brockhaus and Efron Encyclopedic Dictionary]]"
 - "[[_Standards/WD/WD~Encyclopædia Britannica 11th edition]]"
@@ -81,72 +70,83 @@ described_by_source:
 - "[[_Standards/WD/WD~The Nuttall Encyclopædia]]"
 - "[[_Standards/WD/WD~Small Brockhaus and Efron Encyclopedic Dictionary]]"
 - "[[_Standards/WD/WD~Meyers Konversations-Lexikon, 4th edition (1885–1890)]]"
-topic_s_main_template: "[[_Standards/WD/WD~Template:Uranus]]"
-Commons_category: "Uranus (planet)"
-Unicode_character:
-- ⛢
-- ♅
-time_of_discovery_or_invention: "1781-03-13"
-Commons_gallery: Uranus
 Dewey_Decimal_Classification:
 - 2--9927
 - 523.47
-U_S_National_Archives_Identifier: 10046641
-OmegaWiki_Defined_Meaning: 382634
-demonym:
-- uranià
-- Uranian
-- Uranano
+diameter: 51118
 different_from: '[[_Standards/WD/WD~Uranus]]'
+discoverer_or_inventor: "[[_Standards/WD/WD~William Herschel]]"
+distance_from_Earth:
+- 2600000000
+- 3150000000
+epoch: '[[_Standards/WD/WD~J2000.0]]'
+flattening: 0.0229
+has_id_wikidata: Q324
+has_part_s_:
+- "[[_Standards/WD/WD~atmosphere of Uranus]]"
+- "[[_Standards/WD/WD~magnetosphere of Uranus]]"
+image: "http://commons.wikimedia.org/wiki/Special:FilePath/Uranus%20Voyager2%20color%20calibrated.png"
+instance_of:
+- "[[_Standards/WD/WD~outer planet]]"
+- "[[_Standards/WD/WD~superior planet]]"
+- "[[_Standards/WD/WD~ice giant]]"
+location: "[[_Standards/WD/WD~outer Solar System]]"
+longitude_of_ascending_node: 74.01692503
+magnetic_moment: 3.9e+24
+mass: 86810
+mean_anomaly: 142.238
+named_after:
+- '[[_Standards/WD/WD~Uranus]]'
+- '[[_Standards/WD/WD~Urania]]'
+notation: "[[_Standards/WD/WD~Uranus symbol]]"
+OmegaWiki_Defined_Meaning: 382634
+orbital_eccentricity: 0.04725744
 orbital_inclination:
 - 0.77263783
 - 1.02
 - 6.48
-area: 8115600000
-density: 1271
-mass: 86810
-magnetic_moment: 3.9e+24
-temperature:
-- 49
-- 53
-- 57
+orbital_period:
+- 84.0205
+- 30688.5
+parent_astronomical_body: '[[_Standards/WD/WD~Sun]]'
+part_of: "[[_Standards/WD/WD~outer Solar System]]"
+periapsis: 2734998229
+pronunciation_audio:
+- "http://commons.wikimedia.org/wiki/Special:FilePath/It-Urano.ogg"
+- "http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q9027%20%28swe%29-Moonhouse-Uranus.wav"
 radius:
 - 24973
 - 25362
 - 25559
-orbital_period:
-- 84.0205
-- 30688.5
-longitude_of_ascending_node: 74.01692503
-semi_major_axis_of_an_orbit:
-- 19.18916464
-- 2870658186
-volume_as_quantity: 68330000000000
-apoapsis: 3006318143
-periapsis: 2734998229
-argument_of_periapsis: 170.9542763
-mean_anomaly: 142.238
-diameter: 51118
-distance_from_Earth:
-- 2600000000
-- 3150000000
-synodic_period: 369.66
-albedo:
-- 0.3
-- 0.488
-Wikimedia_outline: "[[_Standards/WD/WD~outline of Uranus]]"
-angular_diameter:
-- 3.3
-- 4.1
+right_ascension: 257.311
 schematic:
 - "http://commons.wikimedia.org/wiki/Special:FilePath/Inside%20of%20Urano.jpg"
 - "http://commons.wikimedia.org/wiki/Special:FilePath/Uranus-intern-hr-info.png"
-right_ascension: 257.311
-declination: -15.175
-epoch: '[[_Standards/WD/WD~J2000.0]]'
+semi_major_axis_of_an_orbit:
+- 19.18916464
+- 2870658186
+significant_event:
+- "[[_Standards/WD/WD~transit of Uranus from Neptune]]"
+- "[[_Standards/WD/WD~discovery of Uranus]]"
+site_of_astronomical_discovery: '[[_Standards/WD/WD~Bath]]'
+spoken_text_audio: "http://commons.wikimedia.org/wiki/Special:FilePath/Hy-%D5%88%D6%82%D6%80%D5%A1%D5%B6%20%28%D5%B4%D5%B8%D5%AC%D5%B8%D6%80%D5%A1%D5%AF%29.ogg"
+Stack_Exchange_tag: "https://astronomy.stackexchange.com/tags/uranus"
 surface_gravity: 8.7
-video: "http://commons.wikimedia.org/wiki/Special:FilePath/Uranus%20orientation%201985-2030.gif"
+synodic_period: 369.66
+temperature:
+- 49
+- 53
+- 57
+time_of_discovery_or_invention: 1781-03-13
+topic_s_main_template: "[[_Standards/WD/WD~Template:Uranus]]"
 UMLS_CUI: C0242757
+Unicode_character:
+- ⛢
+- ♅
+U_S_National_Archives_Identifier: 10046641
+video: "http://commons.wikimedia.org/wiki/Special:FilePath/Uranus%20orientation%201985-2030.gif"
+volume_as_quantity: 68330000000000
+Wikimedia_outline: "[[_Standards/WD/WD~outline of Uranus]]"
 Wolfram_Language_entity_code: "Entity[\"Planet\", \"Uranus\"]"
 ---
 

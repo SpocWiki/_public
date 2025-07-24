@@ -1,15 +1,16 @@
----
-type: TrizPrincipleSub
+﻿---
 aliases:
 - different-materials
-license: CC BY-SA 4.0
-copyright: https://github.com/SpocWeb
+Confidential: public
+copyright: "https://github.com/SpocWeb"
 IsDeleted: false
 IsReadOnly: false
-Confidential: public
-tags: 
+license: "CC BY-SA 4.0"
+tags:
 - Triz/Principle/Sub
+type: TrizPrincipleSub
 ---
+
 [name::different-materials]
 [SpocWebEntityId::22322]
 [TrizPrinciple::[[Triz-Thermal_expansion]]]

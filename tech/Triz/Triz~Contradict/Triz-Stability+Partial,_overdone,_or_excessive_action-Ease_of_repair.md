@@ -1,15 +1,16 @@
 ﻿---
-type: TrizContradiction
 aliases:
 - Stability+Partial,_overdone,_or_excessive_action-Ease_of_repair
-license: CC BY-SA 4.0
-copyright: https://github.com/SpocWeb
+Confidential: public
+copyright: "https://github.com/SpocWeb"
 IsDeleted: false
 IsReadOnly: false
-Confidential: public
-tags: 
+license: "CC BY-SA 4.0"
+tags:
 - Triz/Contradiction
+type: TrizContradiction
 ---
+
 [name::Stability+Partial,_overdone,_or_excessive_action-Ease_of_repair]
 [SpocWebEntityId::23926]
 + [#has_/Pros :: [[Triz-Stability]]]

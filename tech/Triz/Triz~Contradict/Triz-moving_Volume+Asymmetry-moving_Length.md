@@ -1,15 +1,16 @@
 ﻿---
-type: TrizContradiction
 aliases:
 - moving_Volume+Asymmetry-moving_Length
-license: CC BY-SA 4.0
-copyright: https://github.com/SpocWeb
+Confidential: public
+copyright: "https://github.com/SpocWeb"
 IsDeleted: false
 IsReadOnly: false
-Confidential: public
-tags: 
+license: "CC BY-SA 4.0"
+tags:
 - Triz/Contradiction
+type: TrizContradiction
 ---
+
 [name::moving_Volume+Asymmetry-moving_Length]
 [SpocWebEntityId::23194]
 + [#has_/Pros :: [[Triz-moving_Volume]]]

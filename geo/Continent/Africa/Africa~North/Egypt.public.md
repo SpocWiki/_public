@@ -1,25 +1,4 @@
----
-location:
-- 30.015
-- 31.9
-type: Country
-tags:
-- geo/Country
-SpocWebEntityId: 26886
-isDeleted: false
-confidential: public
-license: CC BY-SA 4.0
-isReadOnly: false
-source: https://datahub.io/core/country-codes
-cssclasses: Country
-publish: true
-title: Egypt
-linkTitle: 
-keywords: 
-layout: 
-draft: false
-publishDate: 
-expiryDate: 
+﻿---
 aliases:
 - Egypt
 - Egipto
@@ -27,14 +6,34 @@ aliases:
 - مصر
 - 埃及
 - Египет
-- the Arab Republic of Egypt
-- la República Árabe de Egipto
+- "the Arab Republic of Egypt"
+- "la República Árabe de Egipto"
+confidential: public
+cssclasses: Country
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords: 
 Languages:
 - ar-EG
 - en
 - fr
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: 
+location:
+- 30.015
+- 31.9
+publish: true
+publishDate: 
+source: "https://datahub.io/core/country-codes"
+SpocWebEntityId: 26886
+tags:
+- geo/Country
+title: Egypt
+type: Country
 ---
-
 
 [	ISO4217-currency_alphabetic	 :: EGP ] 
 [	ISO4217-currency_name	 :: Egyptian Pound ] 

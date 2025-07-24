@@ -1,15 +1,16 @@
 ﻿---
-type: TrizContradiction
 aliases:
 - Intensity+Equipotentiality-moving_Volume
-license: CC BY-SA 4.0
-copyright: https://github.com/SpocWeb
+Confidential: public
+copyright: "https://github.com/SpocWeb"
 IsDeleted: false
 IsReadOnly: false
-Confidential: public
-tags: 
+license: "CC BY-SA 4.0"
+tags:
 - Triz/Contradiction
+type: TrizContradiction
 ---
+
 [name::Intensity+Equipotentiality-moving_Volume]
 [SpocWebEntityId::23500]
 + [#has_/Pros :: [[Triz-Intensity]]]

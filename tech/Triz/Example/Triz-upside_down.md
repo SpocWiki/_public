@@ -1,15 +1,16 @@
 ﻿---
-type: TrizExample
 aliases:
-- upside down
-license: CC BY-SA 4.0
-copyright: https://github.com/SpocWeb
+- "upside down"
+Confidential: public
+copyright: "https://github.com/SpocWeb"
 IsDeleted: false
 IsReadOnly: false
-Confidential: public
-tags: 
+license: "CC BY-SA 4.0"
+tags:
 - Triz/Principle/Example
+type: TrizExample
 ---
+
 [name::upside down]
 [SpocWebEntityId::22420]
 [Triz-Principle-Sub::[[Triz-upside-down]]]

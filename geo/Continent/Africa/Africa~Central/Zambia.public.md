@@ -1,33 +1,19 @@
----
-location:
-- -15.4167
-- 28.2833
-type: Country
-tags:
-- geo/Country
-SpocWebEntityId: 27063
-isDeleted: false
-confidential: public
-license: CC BY-SA 4.0
-isReadOnly: false
-source: https://datahub.io/core/country-codes
-cssclasses: Country
-publish: true
-title: Zambia
-linkTitle: 
-keywords: 
-layout: 
-draft: false
-publishDate: 
-expiryDate: 
+﻿---
 aliases:
 - Zambia
 - Zambie
 - زامبيا
 - 赞比亚
 - Замбия
-- the Republic of Zambia
-- la República de Zambia
+- "the Republic of Zambia"
+- "la República de Zambia"
+confidential: public
+cssclasses: Country
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords: 
 Languages:
 - en-ZM
 - bem
@@ -36,8 +22,21 @@ Languages:
 - lue
 - ny
 - toi
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: 
+location:
+- -15.4167
+- 28.2833
+publish: true
+publishDate: 
+source: "https://datahub.io/core/country-codes"
+SpocWebEntityId: 27063
+tags:
+- geo/Country
+title: Zambia
+type: Country
 ---
-
 
 [	ISO4217-currency_alphabetic	 :: ZMW ] 
 [	ISO4217-currency_name	 :: Zambian Kwacha ] 

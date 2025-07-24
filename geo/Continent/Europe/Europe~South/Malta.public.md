@@ -1,38 +1,37 @@
----
-location:
-- 35.9
-- 14.52
-type: Country
-tags:
-- geo/Country
-SpocWebEntityId: 26970
-isDeleted: false
-confidential: public
-license: CC BY-SA 4.0
-isReadOnly: false
-source: https://datahub.io/core/country-codes
-cssclasses: Country
-publish: true
-title: Malta
-linkTitle: 
-keywords: 
-layout: 
-draft: false
-publishDate: 
-expiryDate: 
+﻿---
 aliases:
 - Malta
 - Malte
 - مالطة
 - 马耳他
 - Мальта
-- the Republic of Malta
-- la República de Malta
+- "the Republic of Malta"
+- "la República de Malta"
+confidential: public
+cssclasses: Country
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords: 
 Languages:
 - mt
 - en-MT
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: 
+location:
+- 35.9
+- 14.52
+publish: true
+publishDate: 
+source: "https://datahub.io/core/country-codes"
+SpocWebEntityId: 26970
+tags:
+- geo/Country
+title: Malta
+type: Country
 ---
-
 
 [	ISO4217-currency_alphabetic	 :: EUR ] 
 [	ISO4217-currency_name	 :: Euro ] 

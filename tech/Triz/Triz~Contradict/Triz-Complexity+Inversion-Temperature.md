@@ -1,15 +1,16 @@
 ﻿---
-type: TrizContradiction
 aliases:
 - Complexity+Inversion-Temperature
-license: CC BY-SA 4.0
-copyright: https://github.com/SpocWeb
+Confidential: public
+copyright: "https://github.com/SpocWeb"
 IsDeleted: false
 IsReadOnly: false
-Confidential: public
-tags: 
+license: "CC BY-SA 4.0"
+tags:
 - Triz/Contradiction
+type: TrizContradiction
 ---
+
 [name::Complexity+Inversion-Temperature]
 [SpocWebEntityId::26339]
 + [#has_/Pros :: [[Triz-Complexity]]]

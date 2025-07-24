@@ -1,39 +1,35 @@
 ﻿---
-has_id_wikidata: Q111
-Stack_Exchange_tag: "https://astronomy.stackexchange.com/tags/mars"
-has_characteristic:
-- "[[_Standards/WD/WD~life on Mars]]"
-- "[[_Standards/WD/WD~orbit of Mars]]"
-lowest_point: "[[_Standards/WD/WD~Valles Marineris]]"
-different_from: '[[_Standards/WD/WD~Mars]]'
-orbital_inclination:
-- 1.67
-- 1.84969142
-- 5.65
+3D_model: "http://commons.wikimedia.org/wiki/Special:FilePath/Mars%20elevation.stl"
+albedo:
+- 0.17
+- 0.25
+angular_diameter:
+- 3.5
+- 25.1
+apoapsis: 249232432
+apparent_magnitude: -2.94
 area: 144798500
-density: 3933
-mass: 641.71
-temperature:
-- -143
-- -63
-- 35
-radius:
-- 3389.5
-- 3396.19
-orbital_period: 686.98
-rotation_period: 24.6229
-history_of_topic: "[[_Standards/WD/WD~history of Mars observation]]"
-longitude_of_ascending_node: 49.55953892
-Unicode_character: ♂
-inception: "-4540000000"
+argument_of_periapsis: 336.05637041
+astronomic_symbol_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Mars%20symbol%20%28fixed%20width%29.svg"
+child_astronomical_body:
+- '[[_Standards/WD/WD~Phobos]]'
+- '[[_Standards/WD/WD~Deimos]]'
+- "[[_Standards/WD/WD~Mars Reconnaissance Orbiter]]"
+- "[[_Standards/WD/WD~Mariner 9]]"
+- "[[_Standards/WD/WD~Mars Express]]"
+- "[[_Standards/WD/WD~Mars Global Surveyor]]"
+- "[[_Standards/WD/WD~2001 Mars Odyssey]]"
+- "[[_Standards/WD/WD~Viking 1]]"
+- "[[_Standards/WD/WD~Viking 2]]"
+- "[[_Standards/WD/WD~Mars 2]]"
+- '[[_Standards/WD/WD~MAVEN]]'
+- "[[_Standards/WD/WD~Mars 3]]"
+- "[[_Standards/WD/WD~Mars 5]]"
+- "[[_Standards/WD/WD~ExoMars Trace Gas Orbiter]]"
+- "[[_Standards/WD/WD~Phobos 2]]"
+- "[[_Standards/WD/WD~Mars Orbiter Mission]]"
+Commons_category: "Mars (planet)"
 Commons_gallery: Mars
-Dewey_Decimal_Classification:
-- 523.44
-- 133.535
-- 2--9923
-U_S_National_Archives_Identifier: 10046638
-OmegaWiki_Defined_Meaning: 160405
-Iconclass_notation: 24C13
 demonym:
 - Marsovci
 - Martian
@@ -57,85 +53,7 @@ demonym:
 - марсіянін
 - марсіянка
 - марсіяне
-video: "http://commons.wikimedia.org/wiki/Special:FilePath/Mars.ogv"
-image: "http://commons.wikimedia.org/wiki/Special:FilePath/Mars%20-%20August%2030%202021%20-%20Flickr%20-%20Kevin%20M.%20Gill.png"
-instance_of:
-- "[[_Standards/WD/WD~superior planet]]"
-- "[[_Standards/WD/WD~inner planet of the Solar System]]"
-named_after:
-- '[[_Standards/WD/WD~Mars]]'
-- '[[_Standards/WD/WD~Ares]]'
-flag: "[[_Standards/WD/WD~flag of Mars]]"
-location: "[[_Standards/WD/WD~inner Solar System]]"
-part_of: "[[_Standards/WD/WD~inner Solar System]]"
-has_use:
-- "[[_Standards/WD/WD~colonization of Mars]]"
-- "[[_Standards/WD/WD~terraforming of Mars]]"
-astronomic_symbol_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Mars%20symbol%20%28fixed%20width%29.svg"
-parent_astronomical_body: '[[_Standards/WD/WD~Sun]]'
-Commons_category: "Mars (planet)"
-semi_major_axis_of_an_orbit:
-- 1.523679
-- 227936637
-volume_as_quantity: 163180000000
-apoapsis: 249232432
-periapsis: 206655215
-argument_of_periapsis: 336.05637041
-diameter: 6791.432
-studied_in:
-- "[[_Standards/WD/WD~geology of Mars]]"
-- "[[_Standards/WD/WD~exploration of Mars]]"
-distance_from_Earth:
-- 54600000
-- 401000000
-geography_of_topic: "[[_Standards/WD/WD~geography of Mars]]"
-synodic_period: 779.94
-albedo:
-- 0.17
-- 0.25
-3D_model: "http://commons.wikimedia.org/wiki/Special:FilePath/Mars%20elevation.stl"
-Wikimedia_outline: "[[_Standards/WD/WD~outline of Mars]]"
-angular_diameter:
-- 3.5
-- 25.1
-epoch: '[[_Standards/WD/WD~J2000.0]]'
-surface_gravity: 3.7
-hashtag: Mars
-subreddit: Mars
-Wolfram_Language_entity_code: "Entity[\"Planet\", \"Mars\"]"
-Krugosvet_article: nauka_i_tehnika/astronomiya/MARS.html
-child_astronomical_body:
-- '[[_Standards/WD/WD~Phobos]]'
-- '[[_Standards/WD/WD~Deimos]]'
-- "[[_Standards/WD/WD~Mars Reconnaissance Orbiter]]"
-- "[[_Standards/WD/WD~Mariner 9]]"
-- "[[_Standards/WD/WD~Mars Express]]"
-- "[[_Standards/WD/WD~Mars Global Surveyor]]"
-- "[[_Standards/WD/WD~2001 Mars Odyssey]]"
-- "[[_Standards/WD/WD~Viking 1]]"
-- "[[_Standards/WD/WD~Viking 2]]"
-- "[[_Standards/WD/WD~Mars 2]]"
-- '[[_Standards/WD/WD~MAVEN]]'
-- "[[_Standards/WD/WD~Mars 3]]"
-- "[[_Standards/WD/WD~Mars 5]]"
-- "[[_Standards/WD/WD~ExoMars Trace Gas Orbiter]]"
-- "[[_Standards/WD/WD~Phobos 2]]"
-- "[[_Standards/WD/WD~Mars Orbiter Mission]]"
-pronunciation_audio:
-- "http://commons.wikimedia.org/wiki/Special:FilePath/En-us-Mars.ogg"
-- "http://commons.wikimedia.org/wiki/Special:FilePath/It-Marte.ogg"
-- "http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q9027%20%28swe%29-Moonhouse-Mars.wav"
-has_part_s_:
-- "[[_Standards/WD/WD~atmosphere of Mars]]"
-- "[[_Standards/WD/WD~water on Mars]]"
-- "[[_Standards/WD/WD~Martian polar ice caps]]"
-highest_point: "[[_Standards/WD/WD~Olympus Mons]]"
-notation: "[[_Standards/WD/WD~Mars symbol]]"
-page_banner: "http://commons.wikimedia.org/wiki/Special:FilePath/Mars%20Panorama%20banner.jpg"
-orbital_eccentricity: 0.0933941
-flattening: 0.00589
-topic_s_main_Wikimedia_portal: "[[_Standards/WD/WD~Portal:Mars]]"
-apparent_magnitude: -2.94
+density: 3933
 described_by_source:
 - "[[_Standards/WD/WD~Brockhaus and Efron Encyclopedic Dictionary]]"
 - "[[_Standards/WD/WD~Encyclopædia Britannica 11th edition]]"
@@ -144,6 +62,88 @@ described_by_source:
 - "[[_Standards/WD/WD~Small Brockhaus and Efron Encyclopedic Dictionary]]"
 - "[[_Standards/WD/WD~Meyers Konversations-Lexikon, 4th edition (1885–1890)]]"
 - "[[_Standards/WD/WD~Great Soviet Encyclopedia (1926–1947)]]"
+Dewey_Decimal_Classification:
+- 523.44
+- 133.535
+- 2--9923
+diameter: 6791.432
+different_from: '[[_Standards/WD/WD~Mars]]'
+distance_from_Earth:
+- 54600000
+- 401000000
+epoch: '[[_Standards/WD/WD~J2000.0]]'
+flag: "[[_Standards/WD/WD~flag of Mars]]"
+flattening: 0.00589
+geography_of_topic: "[[_Standards/WD/WD~geography of Mars]]"
+hashtag: Mars
+has_characteristic:
+- "[[_Standards/WD/WD~life on Mars]]"
+- "[[_Standards/WD/WD~orbit of Mars]]"
+has_id_wikidata: Q111
+has_part_s_:
+- "[[_Standards/WD/WD~atmosphere of Mars]]"
+- "[[_Standards/WD/WD~water on Mars]]"
+- "[[_Standards/WD/WD~Martian polar ice caps]]"
+has_use:
+- "[[_Standards/WD/WD~colonization of Mars]]"
+- "[[_Standards/WD/WD~terraforming of Mars]]"
+highest_point: "[[_Standards/WD/WD~Olympus Mons]]"
+history_of_topic: "[[_Standards/WD/WD~history of Mars observation]]"
+Iconclass_notation: 24C13
+image: "http://commons.wikimedia.org/wiki/Special:FilePath/Mars%20-%20August%2030%202021%20-%20Flickr%20-%20Kevin%20M.%20Gill.png"
+inception: -4540000000
+instance_of:
+- "[[_Standards/WD/WD~superior planet]]"
+- "[[_Standards/WD/WD~inner planet of the Solar System]]"
+Krugosvet_article: nauka_i_tehnika/astronomiya/MARS.html
+location: "[[_Standards/WD/WD~inner Solar System]]"
+longitude_of_ascending_node: 49.55953892
+lowest_point: "[[_Standards/WD/WD~Valles Marineris]]"
+mass: 641.71
+named_after:
+- '[[_Standards/WD/WD~Mars]]'
+- '[[_Standards/WD/WD~Ares]]'
+notation: "[[_Standards/WD/WD~Mars symbol]]"
+OmegaWiki_Defined_Meaning: 160405
+orbital_eccentricity: 0.0933941
+orbital_inclination:
+- 1.67
+- 1.84969142
+- 5.65
+orbital_period: 686.98
+page_banner: "http://commons.wikimedia.org/wiki/Special:FilePath/Mars%20Panorama%20banner.jpg"
+parent_astronomical_body: '[[_Standards/WD/WD~Sun]]'
+part_of: "[[_Standards/WD/WD~inner Solar System]]"
+periapsis: 206655215
+pronunciation_audio:
+- "http://commons.wikimedia.org/wiki/Special:FilePath/En-us-Mars.ogg"
+- "http://commons.wikimedia.org/wiki/Special:FilePath/It-Marte.ogg"
+- "http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q9027%20%28swe%29-Moonhouse-Mars.wav"
+radius:
+- 3389.5
+- 3396.19
+rotation_period: 24.6229
+semi_major_axis_of_an_orbit:
+- 1.523679
+- 227936637
+Stack_Exchange_tag: "https://astronomy.stackexchange.com/tags/mars"
+studied_in:
+- "[[_Standards/WD/WD~geology of Mars]]"
+- "[[_Standards/WD/WD~exploration of Mars]]"
+subreddit: Mars
+surface_gravity: 3.7
+synodic_period: 779.94
+temperature:
+- -143
+- -63
+- 35
+topic_s_main_Wikimedia_portal: "[[_Standards/WD/WD~Portal:Mars]]"
+Unicode_character: ♂
+U_S_National_Archives_Identifier: 10046638
+video: "http://commons.wikimedia.org/wiki/Special:FilePath/Mars.ogv"
+volume_as_quantity: 163180000000
+Wikimedia_outline: "[[_Standards/WD/WD~outline of Mars]]"
+Wolfram_Language_entity_code: "Entity[\"Planet\", \"Mars\"]"
 ---
 
 > **Mars** is the fourth planet from the Sun. 

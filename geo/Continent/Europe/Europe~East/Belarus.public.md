@@ -1,25 +1,4 @@
----
-location:
-- 53.9
-- 27.57
-type: Country
-SpocWebEntityId: 26858
-isDeleted: false
-confidential: public
-tags:
-- geo/Country
-license: CC BY-SA 4.0
-isReadOnly: false
-source: https://datahub.io/core/country-codes
-cssclasses: Country
-publish: true
-title: Belarus
-linkTitle: 
-keywords: 
-layout: 
-draft: false
-publishDate: 
-expiryDate: 
+﻿---
 aliases:
 - Belarus
 - Belarús
@@ -27,13 +6,33 @@ aliases:
 - بيلاروس
 - 白俄罗斯
 - Беларусь
-- the Republic of Belarus
-- la República de Belarús
+- "the Republic of Belarus"
+- "la República de Belarús"
+confidential: public
+cssclasses: Country
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords: 
 Languages:
 - be
 - ru
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: 
+location:
+- 53.9
+- 27.57
+publish: true
+publishDate: 
+source: "https://datahub.io/core/country-codes"
+SpocWebEntityId: 26858
+tags:
+- geo/Country
+title: Belarus
+type: Country
 ---
-
 
 [	ISO4217-currency_alphabetic	 :: BYN ] 
 [	ISO4217-currency_name	 :: Belarusian Ruble ] 

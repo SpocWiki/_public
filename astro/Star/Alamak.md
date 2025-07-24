@@ -1,12 +1,15 @@
----
-location: [42.33,-30.975,300]
-type: Star
-SpocWebEntityId: 27294
+﻿---
+confidential: public
 isDeleted: false
 isReadOnly: false
-confidential: public
+location:
+- 42.33
+- -30.975
+- 300
+SpocWebEntityId: 27294
 tags:
-  - astro/Star
+- astro/Star
+type: Star
 ---
 
 [star-class::K1]

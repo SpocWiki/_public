@@ -1,15 +1,16 @@
 ﻿---
-type: TrizContradiction
 aliases:
 - Quantity+Mechanical_vibration-moving_Energy
-license: CC BY-SA 4.0
-copyright: https://github.com/SpocWeb
+Confidential: public
+copyright: "https://github.com/SpocWeb"
 IsDeleted: false
 IsReadOnly: false
-Confidential: public
-tags: 
+license: "CC BY-SA 4.0"
+tags:
 - Triz/Contradiction
+type: TrizContradiction
 ---
+
 [name::Quantity+Mechanical_vibration-moving_Energy]
 [SpocWebEntityId::25167]
 + [#has_/Pros :: [[Triz-Quantity]]]

@@ -1,11 +1,12 @@
----
-type: Star
+﻿---
+confidential: public
 isDeleted: false
 isReadOnly: false
-confidential: public
 tags:
-  - astro/Star
+- astro/Star
+type: Star
 ---
+
 location: [{{Declin}},-{{Rectasc}},{{Dist}}]
 SpocWebEntityId: {{SpocWebEntityId}}
 

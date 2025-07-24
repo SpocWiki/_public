@@ -1,41 +1,40 @@
 ﻿---
-location:
-- -9.5
-- 147.117
-type: Country
-tags:
-- geo/Country
-SpocWebEntityId: 26993
-isDeleted: false
-confidential: public
-license: CC BY-SA 4.0
-isReadOnly: false
-source: https://datahub.io/core/country-codes
-cssclasses: Country
-publish: true
-title: Papua New Guinea
-linkTitle: 
-keywords: 
-layout: 
-draft: false
-publishDate: 
-expiryDate: 
 aliases:
-- Papua New Guinea
-- Papua Nueva Guinea
+- "Papua New Guinea"
+- "Papua Nueva Guinea"
 - Papouasie-Nouvelle-Guinée
-- بابوا غينيا الجديدة
+- "بابوا غينيا الجديدة"
 - 巴布亚新几内亚
-- Папуа-Новая Гвинея
-- Independent State of Papua New Guinea
-- Estado Independiente de Papua Nueva Guinea
+- "Папуа-Новая Гвинея"
+- "Independent State of Papua New Guinea"
+- "Estado Independiente de Papua Nueva Guinea"
+confidential: public
+cssclasses: Country
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords: 
 Languages:
 - en-PG
 - ho
 - meu
 - tpi
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: 
+location:
+- -9.5
+- 147.117
+publish: true
+publishDate: 
+source: "https://datahub.io/core/country-codes"
+SpocWebEntityId: 26993
+tags:
+- geo/Country
+title: "Papua New Guinea"
+type: Country
 ---
-
 
 [	ISO4217-currency_alphabetic	 :: PGK ]
 [	ISO4217-currency_name	 :: Kina ]

@@ -1,15 +1,16 @@
 ﻿---
-type: TrizExample
 aliases:
-- inert Gas
-license: CC BY-SA 4.0
-copyright: https://github.com/SpocWeb
+- "inert Gas"
+Confidential: public
+copyright: "https://github.com/SpocWeb"
 IsDeleted: false
 IsReadOnly: false
-Confidential: public
-tags: 
+license: "CC BY-SA 4.0"
+tags:
 - Triz/Principle/Example
+type: TrizExample
 ---
+
 [name::inert Gas]
 [SpocWebEntityId::22553]
 [Triz-Principle-Sub::[[Triz-inert-additives]]]

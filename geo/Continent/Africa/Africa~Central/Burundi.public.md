@@ -1,35 +1,35 @@
----
-location:
-- -3.5
-- 30
-type: Country
-tags:
-- geo/Country
-SpocWebEntityId: 26848
-isDeleted: false
-confidential: public
-license: CC BY-SA 4.0
-isReadOnly: false
-source: https://datahub.io/core/country-codes
-cssclasses: Country
-publish: true
-title: Burundi
-linkTitle: 
-keywords: 
-layout: 
-draft: false
-publishDate: 
-expiryDate: 
+﻿---
 aliases:
 - Burundi
 - بوروندي
 - 布隆迪
 - Бурунди
-- the Republic of Burundi
-- la República de Burundi
+- "the Republic of Burundi"
+- "la República de Burundi"
+confidential: public
+cssclasses: Country
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords: 
 Languages:
 - fr-BI
 - rn
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: 
+location:
+- -3.5
+- 30
+publish: true
+publishDate: 
+source: "https://datahub.io/core/country-codes"
+SpocWebEntityId: 26848
+tags:
+- geo/Country
+title: Burundi
+type: Country
 ---
 
 [[Burundi/ReadMe|ReadMe]] 

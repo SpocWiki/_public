@@ -1,37 +1,36 @@
----
-location:
-- -22.1
-- 33.7917
-type: Country
-tags:
-- geo/Country
-SpocWebEntityId: 26976
-isDeleted: false
-confidential: public
-license: CC BY-SA 4.0
-isReadOnly: false
-source: https://datahub.io/core/country-codes
-cssclasses: Country
-publish: true
-title: Mozambique
-linkTitle: 
-keywords: 
-layout: 
-draft: false
-publishDate: 
-expiryDate: 
+﻿---
 aliases:
 - Mozambique
 - موزامبيق
 - 莫桑比克
 - Мозамбик
-- the Republic of Mozambique
-- la República de Mozambique
+- "the Republic of Mozambique"
+- "la República de Mozambique"
+confidential: public
+cssclasses: Country
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords: 
 Languages:
 - pt-MZ
 - vmw
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: 
+location:
+- -22.1
+- 33.7917
+publish: true
+publishDate: 
+source: "https://datahub.io/core/country-codes"
+SpocWebEntityId: 26976
+tags:
+- geo/Country
+title: Mozambique
+type: Country
 ---
-
 
 [	ISO4217-currency_alphabetic	 :: MZN ] 
 [	ISO4217-currency_name	 :: Mozambique Metical ] 

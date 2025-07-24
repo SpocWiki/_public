@@ -1,15 +1,16 @@
 ﻿---
-type: TrizContradiction
 aliases:
 - Stability+Replacement_of_a_mechanical_system-moving_Length
-license: CC BY-SA 4.0
-copyright: https://github.com/SpocWeb
+Confidential: public
+copyright: "https://github.com/SpocWeb"
 IsDeleted: false
 IsReadOnly: false
-Confidential: public
-tags: 
+license: "CC BY-SA 4.0"
+tags:
 - Triz/Contradiction
+type: TrizContradiction
 ---
+
 [name::Stability+Replacement_of_a_mechanical_system-moving_Length]
 [SpocWebEntityId::23838]
 + [#has_/Pros :: [[Triz-Stability]]]

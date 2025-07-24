@@ -1,15 +1,16 @@
 ﻿---
-type: TrizExample
 aliases:
-- dissolving Capsule
-license: CC BY-SA 4.0
-copyright: https://github.com/SpocWeb
+- "dissolving Capsule"
+Confidential: public
+copyright: "https://github.com/SpocWeb"
 IsDeleted: false
 IsReadOnly: false
-Confidential: public
-tags: 
+license: "CC BY-SA 4.0"
+tags:
 - Triz/Principle/Example
+type: TrizExample
 ---
+
 [name::dissolving Capsule]
 [SpocWebEntityId::22527]
 [Triz-Principle-Sub::[[Triz-removed-obsolete]]]

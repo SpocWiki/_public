@@ -1,15 +1,16 @@
 ﻿---
-type: TrizExample
 aliases:
-- Ice Structures
-license: CC BY-SA 4.0
-copyright: https://github.com/SpocWeb
+- "Ice Structures"
+Confidential: public
+copyright: "https://github.com/SpocWeb"
 IsDeleted: false
 IsReadOnly: false
-Confidential: public
-tags: 
+license: "CC BY-SA 4.0"
+tags:
 - Triz/Principle/Example
+type: TrizExample
 ---
+
 [name::Ice Structures]
 [SpocWebEntityId::22529]
 [Triz-Principle-Sub::[[Triz-removed-obsolete]]]

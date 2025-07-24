@@ -1,37 +1,36 @@
 ﻿---
-location:
-- 22.13
-- -82.37
-type: Country
-tags:
-- geo/Country
-SpocWebEntityId: 26873
-isDeleted: false
-confidential: public
-license: CC BY-SA 4.0
-isReadOnly: false
-source: https://datahub.io/core/country-codes
-cssclasses: Country
-publish: true
-title: Cuba
-linkTitle: 
-keywords: 
-layout: 
-draft: false
-publishDate: 
-expiryDate: 
 aliases:
 - Cuba
 - كوبا
 - 古巴
 - Куба
-- the Republic of Cuba
-- la República de Cuba
+- "the Republic of Cuba"
+- "la República de Cuba"
+confidential: public
+cssclasses: Country
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords: 
 Languages:
 - es-CU
 - pap
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: 
+location:
+- 22.13
+- -82.37
+publish: true
+publishDate: 
+source: "https://datahub.io/core/country-codes"
+SpocWebEntityId: 26873
+tags:
+- geo/Country
+title: Cuba
+type: Country
 ---
-
 
 [	ISO4217-currency_alphabetic	 :: CUP,CUC ]
 [	ISO4217-currency_name	 :: Cuban Peso,Peso Convertible ]

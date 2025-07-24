@@ -1,24 +1,4 @@
 ﻿---
-location:
-- 45.8
-- 15.97
-type: Country
-tags:
-- geo/Country
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-source: https://datahub.io/core/country-codes
-cssclasses: Country
-publish: true
-title: Croatia
-linkTitle: 
-keywords: 
-layout: 
-draft: false
-publishDate: 
-expiryDate: 
 aliases:
 - Croatia
 - Croacia
@@ -26,13 +6,32 @@ aliases:
 - كرواتيا
 - 克罗地亚
 - Хорватия
-- the Republic of Croatia
-- la República de Croacia
+- "the Republic of Croatia"
+- "la República de Croacia"
+confidential: public
+cssclasses: Country
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords: 
 Languages:
 - hr-HR
 - sr
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: 
+location:
+- 45.8
+- 15.97
+publish: true
+publishDate: 
+source: "https://datahub.io/core/country-codes"
+tags:
+- geo/Country
+title: Croatia
+type: Country
 ---
-
 
 [	ISO4217-currency_alphabetic	 :: HRK ] 
 [	ISO4217-currency_name	 :: Kuna ] 

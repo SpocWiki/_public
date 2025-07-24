@@ -1,15 +1,16 @@
 ﻿---
-type: TrizContradiction
 aliases:
 - moving_Energy+Extraction-Automation
-license: CC BY-SA 4.0
-copyright: https://github.com/SpocWeb
+Confidential: public
+copyright: "https://github.com/SpocWeb"
 IsDeleted: false
 IsReadOnly: false
-Confidential: public
-tags: 
+license: "CC BY-SA 4.0"
+tags:
 - Triz/Contradiction
+type: TrizContradiction
 ---
+
 [name::moving_Energy+Extraction-Automation]
 [SpocWebEntityId::24537]
 + [#has_/Pros :: [[Triz-moving_Energy]]]

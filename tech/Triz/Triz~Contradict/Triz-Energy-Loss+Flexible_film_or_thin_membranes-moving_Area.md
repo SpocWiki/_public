@@ -1,15 +1,16 @@
 ﻿---
-type: TrizContradiction
 aliases:
 - Energy-Loss+Flexible_film_or_thin_membranes-moving_Area
-license: CC BY-SA 4.0
-copyright: https://github.com/SpocWeb
+Confidential: public
+copyright: "https://github.com/SpocWeb"
 IsDeleted: false
 IsReadOnly: false
-Confidential: public
-tags: 
+license: "CC BY-SA 4.0"
+tags:
 - Triz/Contradiction
+type: TrizContradiction
 ---
+
 [name::Energy-Loss+Flexible_film_or_thin_membranes-moving_Area]
 [SpocWebEntityId::24718]
 + [#has_/Pros :: Energy-Loss]

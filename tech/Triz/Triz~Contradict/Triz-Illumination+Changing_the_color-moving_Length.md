@@ -1,15 +1,16 @@
 ﻿---
-type: TrizContradiction
 aliases:
 - Illumination+Changing_the_color-moving_Length
-license: CC BY-SA 4.0
-copyright: https://github.com/SpocWeb
+Confidential: public
+copyright: "https://github.com/SpocWeb"
 IsDeleted: false
 IsReadOnly: false
-Confidential: public
-tags: 
+license: "CC BY-SA 4.0"
+tags:
 - Triz/Contradiction
+type: TrizContradiction
 ---
+
 [name::Illumination+Changing_the_color-moving_Length]
 [SpocWebEntityId::24355]
 + [#has_/Pros :: [[Triz-Illumination]]]

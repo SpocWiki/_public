@@ -1,15 +1,16 @@
 ﻿---
-type: TrizContradiction
 aliases:
 - Speed+Dynamicity-Intensity
-license: CC BY-SA 4.0
-copyright: https://github.com/SpocWeb
+Confidential: public
+copyright: "https://github.com/SpocWeb"
 IsDeleted: false
 IsReadOnly: false
-Confidential: public
-tags: 
+license: "CC BY-SA 4.0"
+tags:
 - Triz/Contradiction
+type: TrizContradiction
 ---
+
 [name::Speed+Dynamicity-Intensity]
 [SpocWebEntityId::23381]
 + [#has_/Pros :: [[Triz-Speed]]]

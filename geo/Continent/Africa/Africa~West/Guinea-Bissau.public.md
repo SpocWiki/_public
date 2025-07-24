@@ -1,38 +1,37 @@
----
-location:
-- 11.8667
-- -15.6
-type: Country
-tags:
-- geo/Country
-SpocWebEntityId: 26914
-isDeleted: false
-confidential: public
-license: CC BY-SA 4.0
-isReadOnly: false
-source: https://datahub.io/core/country-codes
-cssclasses: Country
-publish: true
-title: Guinea-Bissau
-linkTitle: 
-keywords: 
-layout: 
-draft: false
-publishDate: 
-expiryDate: 
+﻿---
 aliases:
 - Guinea-Bissau
 - Guinée-Bissau
-- غينيا - بيساو
+- "غينيا - بيساو"
 - 几内亚比绍
 - Гвинея-Бисау
-- the Republic of Guinea-Bissau
-- la República de Guinea-Bissau
+- "the Republic of Guinea-Bissau"
+- "la República de Guinea-Bissau"
+confidential: public
+cssclasses: Country
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords: 
 Languages:
 - pt-GW
 - pov
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: 
+location:
+- 11.8667
+- -15.6
+publish: true
+publishDate: 
+source: "https://datahub.io/core/country-codes"
+SpocWebEntityId: 26914
+tags:
+- geo/Country
+title: Guinea-Bissau
+type: Country
 ---
-
 
 [	ISO4217-currency_alphabetic	 :: XOF ] 
 [	ISO4217-currency_name	 :: CFA Franc BCEAO ] 

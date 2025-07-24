@@ -1,15 +1,16 @@
 ﻿---
-type: TrizContradiction
 aliases:
 - Complexity+Dynamicity-moving_Duration
-license: CC BY-SA 4.0
-copyright: https://github.com/SpocWeb
+Confidential: public
+copyright: "https://github.com/SpocWeb"
 IsDeleted: false
 IsReadOnly: false
-Confidential: public
-tags: 
+license: "CC BY-SA 4.0"
+tags:
 - Triz/Contradiction
+type: TrizContradiction
 ---
+
 [name::Complexity+Dynamicity-moving_Duration]
 [SpocWebEntityId::26336]
 + [#has_/Pros :: [[Triz-Complexity]]]

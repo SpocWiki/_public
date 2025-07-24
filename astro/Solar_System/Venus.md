@@ -1,60 +1,28 @@
 ﻿---
-has_id_wikidata: Q313
-synodic_period: 583.92
 albedo:
 - 0.59
 - 0.689
-Wikimedia_outline: "[[_Standards/WD/WD~outline of Venus]]"
 angular_diameter:
 - 9.7
 - 66
-right_ascension: 272.76
+apoapsis:
+- 0.7282312
+- 108942109
+apparent_magnitude: -4.8
+area: 460230000
+argument_of_periapsis: 131.60246718
+astronomic_symbol_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Venus%20symbol%20%28fixed%20width%29.svg"
+attendance: 0
+Commons_category: "Venus (planet)"
+Commons_gallery: Venus
 declination: 67.16
-epoch: '[[_Standards/WD/WD~J2000.0]]'
-surface_gravity: 8.9
 demonym:
 - زُهَرِيٌّ
 - Venerian
 - Venusian
 - Venusano
 - Vénusien
-UMLS_CUI: C0242748
-subreddit: venus
-Wolfram_Language_entity_code: "Entity[\"Planet\", \"Venus\"]"
-Commons_category: "Venus (planet)"
-Unicode_character: ♀
-Commons_gallery: Venus
-Dewey_Decimal_Classification: 523.42
-U_S_National_Archives_Identifier: 10046627
-OmegaWiki_Defined_Meaning: 382618
-Iconclass_notation: 24C19
-video: "http://commons.wikimedia.org/wiki/Special:FilePath/2004%20Venus%20transit%20UV.ogv"
-image: "http://commons.wikimedia.org/wiki/Special:FilePath/PIA23791-Venus-RealAndEnhancedContrastViews-20200608%20%28cropped%29.jpg"
-instance_of:
-- "[[_Standards/WD/WD~inner planet of the Solar System]]"
-- "[[_Standards/WD/WD~inferior planet]]"
-named_after: '[[_Standards/WD/WD~Venus]]'
-location: "[[_Standards/WD/WD~inner Solar System]]"
-part_of: "[[_Standards/WD/WD~inner Solar System]]"
-has_use:
-- "[[_Standards/WD/WD~terraforming of Venus]]"
-- "[[_Standards/WD/WD~colonization of Venus]]"
-astronomic_symbol_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Venus%20symbol%20%28fixed%20width%29.svg"
-parent_astronomical_body: '[[_Standards/WD/WD~Sun]]'
-pronunciation_audio:
-- "http://commons.wikimedia.org/wiki/Special:FilePath/En-us-Venus.ogg"
-- "http://commons.wikimedia.org/wiki/Special:FilePath/It-Venere.ogg"
-- "http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q9027%20%28swe%29-Moonhouse-Venus.wav"
-said_to_be_the_same_as:
-- "[[_Standards/WD/WD~Morning Star]]"
-- "[[_Standards/WD/WD~Evening Star]]"
-has_part_s_: "[[_Standards/WD/WD~atmosphere of Venus]]"
-highest_point: "[[_Standards/WD/WD~Skadi Mons]]"
-notation: "[[_Standards/WD/WD~Venus symbol]]"
-orbital_eccentricity: 0.00677672
-flattening: 0
-attendance: 0
-apparent_magnitude: -4.8
+density: 5.243
 described_by_source:
 - "[[_Standards/WD/WD~Brockhaus and Efron Encyclopedic Dictionary]]"
 - "[[_Standards/WD/WD~Encyclopædia Britannica 11th edition]]"
@@ -66,43 +34,75 @@ described_by_source:
 - "[[_Standards/WD/WD~Small Brockhaus and Efron Encyclopedic Dictionary]]"
 - "[[_Standards/WD/WD~Meyers Konversations-Lexikon, 4th edition (1885–1890)]]"
 - "[[_Standards/WD/WD~Great Soviet Encyclopedia (1926–1947)]]"
-Stack_Exchange_tag: "https://astronomy.stackexchange.com/tags/venus"
-has_characteristic:
-- "[[_Standards/WD/WD~life on Venus]]"
-- "[[_Standards/WD/WD~orbit of Venus]]"
-lowest_point: "[[_Standards/WD/WD~Diana Chasma]]"
-different_from: '[[_Standards/WD/WD~Wenus]]'
-orbital_inclination:
-- 2.19
-- 3.39467605
-- 3.39471
-area: 460230000
-density: 5.243
-mass: 4867.5
-temperature: 464
-radius: 6051.8
-orbital_period:
-- 224.7
-- 19414148
-longitude_of_ascending_node: 76.67984255
-semi_major_axis_of_an_orbit:
-- 0.723332
-- 108208930
-volume_as_quantity: 928430000000
-apoapsis:
-- 0.7282312
-- 108942109
-periapsis:
-- 0.7184327
-- 107476259
-argument_of_periapsis: 131.60246718
-mean_anomaly: 50.115
+Dewey_Decimal_Classification: 523.42
 diameter: 12103.6
-studied_in: "[[_Standards/WD/WD~observations and explorations of Venus]]"
+different_from: '[[_Standards/WD/WD~Wenus]]'
 distance_from_Earth:
 - 38000000
 - 108000000
 - 261000000
+epoch: '[[_Standards/WD/WD~J2000.0]]'
+flattening: 0
+has_characteristic:
+- "[[_Standards/WD/WD~life on Venus]]"
+- "[[_Standards/WD/WD~orbit of Venus]]"
+has_id_wikidata: Q313
+has_part_s_: "[[_Standards/WD/WD~atmosphere of Venus]]"
+has_use:
+- "[[_Standards/WD/WD~terraforming of Venus]]"
+- "[[_Standards/WD/WD~colonization of Venus]]"
+highest_point: "[[_Standards/WD/WD~Skadi Mons]]"
+Iconclass_notation: 24C19
+image: "http://commons.wikimedia.org/wiki/Special:FilePath/PIA23791-Venus-RealAndEnhancedContrastViews-20200608%20%28cropped%29.jpg"
+instance_of:
+- "[[_Standards/WD/WD~inner planet of the Solar System]]"
+- "[[_Standards/WD/WD~inferior planet]]"
+location: "[[_Standards/WD/WD~inner Solar System]]"
+longitude_of_ascending_node: 76.67984255
+lowest_point: "[[_Standards/WD/WD~Diana Chasma]]"
+mass: 4867.5
+mean_anomaly: 50.115
+named_after: '[[_Standards/WD/WD~Venus]]'
+notation: "[[_Standards/WD/WD~Venus symbol]]"
+OmegaWiki_Defined_Meaning: 382618
+orbital_eccentricity: 0.00677672
+orbital_inclination:
+- 2.19
+- 3.39467605
+- 3.39471
+orbital_period:
+- 224.7
+- 19414148
+parent_astronomical_body: '[[_Standards/WD/WD~Sun]]'
+part_of: "[[_Standards/WD/WD~inner Solar System]]"
+periapsis:
+- 0.7184327
+- 107476259
+pronunciation_audio:
+- "http://commons.wikimedia.org/wiki/Special:FilePath/En-us-Venus.ogg"
+- "http://commons.wikimedia.org/wiki/Special:FilePath/It-Venere.ogg"
+- "http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q9027%20%28swe%29-Moonhouse-Venus.wav"
+radius: 6051.8
+right_ascension: 272.76
+said_to_be_the_same_as:
+- "[[_Standards/WD/WD~Morning Star]]"
+- "[[_Standards/WD/WD~Evening Star]]"
+semi_major_axis_of_an_orbit:
+- 0.723332
+- 108208930
+Stack_Exchange_tag: "https://astronomy.stackexchange.com/tags/venus"
+studied_in: "[[_Standards/WD/WD~observations and explorations of Venus]]"
+subreddit: venus
+surface_gravity: 8.9
+synodic_period: 583.92
+temperature: 464
+UMLS_CUI: C0242748
+Unicode_character: ♀
+U_S_National_Archives_Identifier: 10046627
+video: "http://commons.wikimedia.org/wiki/Special:FilePath/2004%20Venus%20transit%20UV.ogv"
+volume_as_quantity: 928430000000
+Wikimedia_outline: "[[_Standards/WD/WD~outline of Venus]]"
+Wolfram_Language_entity_code: "Entity[\"Planet\", \"Venus\"]"
 ---
 
 ## #has_/text_of_/abstract 

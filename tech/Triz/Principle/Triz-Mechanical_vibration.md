@@ -1,12 +1,13 @@
----
-type: TrizPrinciple
+﻿---
 aliases:
-- Mechanical vibration
-license: CC BY-SA 4.0
-copyright: https://github.com/SpocWeb
-tags: 
+- "Mechanical vibration"
+copyright: "https://github.com/SpocWeb"
+license: "CC BY-SA 4.0"
+tags:
 - Triz/Principle
+type: TrizPrinciple
 ---
+
 [name::Mechanical vibration]
 [SpocWebEntityId::22213]
 [Popularity::8]

@@ -1,15 +1,16 @@
 ﻿---
-type: TrizExample
 aliases:
-- Wing Shape
-license: CC BY-SA 4.0
-copyright: https://github.com/SpocWeb
+- "Wing Shape"
+Confidential: public
+copyright: "https://github.com/SpocWeb"
 IsDeleted: false
 IsReadOnly: false
-Confidential: public
-tags: 
+license: "CC BY-SA 4.0"
+tags:
 - Triz/Principle/Example
+type: TrizExample
 ---
+
 [name::Wing Shape]
 [SpocWebEntityId::22389]
 [Triz-Principle-Sub::[[Triz-weight-environment]]]

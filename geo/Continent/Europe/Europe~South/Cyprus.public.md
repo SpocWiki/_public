@@ -1,24 +1,4 @@
----
-location:
-- 35.1333
-- 33.4667
-type: Country
-tags:
-- geo/Country
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-source: https://datahub.io/core/country-codes
-cssclasses: Country
-publish: true
-title: Cyprus
-linkTitle: 
-keywords: 
-layout: 
-draft: false
-publishDate: 
-expiryDate: 
+﻿---
 aliases:
 - Cyprus
 - Chipre
@@ -26,14 +6,33 @@ aliases:
 - قبرص
 - 塞浦路斯
 - Кипр
-- the Republic of Cyprus
-- la República de Chipre
+- "the Republic of Cyprus"
+- "la República de Chipre"
+confidential: public
+cssclasses: Country
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords: 
 Languages:
 - el-CY
 - tr-CY
 - en
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: 
+location:
+- 35.1333
+- 33.4667
+publish: true
+publishDate: 
+source: "https://datahub.io/core/country-codes"
+tags:
+- geo/Country
+title: Cyprus
+type: Country
 ---
-
 
 [	ISO4217-currency_alphabetic	 :: EUR ] 
 [	ISO4217-currency_name	 :: Euro ] 

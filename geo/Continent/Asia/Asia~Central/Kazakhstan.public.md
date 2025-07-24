@@ -1,38 +1,37 @@
----
-location:
-- 51.1667
-- 71.4167
-type: Country
-tags:
-- geo/Country
-SpocWebEntityId: 26944
-isDeleted: false
-confidential: public
-license: CC BY-SA 4.0
-isReadOnly: false
-source: https://datahub.io/core/country-codes
-cssclasses: Country
-publish: true
-title: Kazakhstan
-linkTitle: 
-keywords: 
-layout: 
-draft: false
-publishDate: 
-expiryDate: 
+﻿---
 aliases:
 - Kazakhstan
 - Kazajstán
 - كازاخستان
 - 哈萨克斯坦
 - Казахстан
-- the Republic of Kazakhstan
-- la República de Kazajstán
+- "the Republic of Kazakhstan"
+- "la República de Kazajstán"
+confidential: public
+cssclasses: Country
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords: 
 Languages:
 - kk
 - ru
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: 
+location:
+- 51.1667
+- 71.4167
+publish: true
+publishDate: 
+source: "https://datahub.io/core/country-codes"
+SpocWebEntityId: 26944
+tags:
+- geo/Country
+title: Kazakhstan
+type: Country
 ---
-
 
 [	ISO4217-currency_alphabetic	 :: KZT ] 
 [	ISO4217-currency_name	 :: Tenge ] 

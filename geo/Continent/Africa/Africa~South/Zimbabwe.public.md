@@ -1,39 +1,38 @@
----
-location:
-- -17.8333
-- 31.05
-type: Country
-tags:
-- geo/Country
-SpocWebEntityId: 27064
-isDeleted: false
-confidential: public
-license: CC BY-SA 4.0
-isReadOnly: false
-source: https://datahub.io/core/country-codes
-cssclasses: Country
-publish: true
-title: Zimbabwe
-linkTitle: 
-keywords: 
-layout: 
-draft: false
-publishDate: 
-expiryDate: 
+﻿---
 aliases:
 - Zimbabwe
 - زمبابوي
 - 津巴布韦
 - Зимбабве
-- the Republic of Zimbabwe
-- la República de Zimbabwe
+- "the Republic of Zimbabwe"
+- "la República de Zimbabwe"
+confidential: public
+cssclasses: Country
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords: 
 Languages:
 - en-ZW
 - sn
 - nr
 - nd
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: 
+location:
+- -17.8333
+- 31.05
+publish: true
+publishDate: 
+source: "https://datahub.io/core/country-codes"
+SpocWebEntityId: 27064
+tags:
+- geo/Country
+title: Zimbabwe
+type: Country
 ---
-
 
 [	ISO4217-currency_alphabetic	 :: ZWL ] 
 [	ISO4217-currency_name	 :: Zimbabwe Dollar ] 

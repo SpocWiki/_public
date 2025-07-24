@@ -1,33 +1,19 @@
----
-location:
-- 35.6637
-- 117.985
-type: Country
-tags:
-- geo/Country
-SpocWebEntityId: 26870
-isDeleted: false
-confidential: public
-license: CC BY-SA 4.0
-isReadOnly: false
-source: https://datahub.io/core/country-codes
-cssclasses: Country
-publish: true
-title: China
-linkTitle: 
-keywords: 
-layout: 
-draft: false
-publishDate: 
-expiryDate: 
+﻿---
 aliases:
 - China
 - Chine
 - الصين
 - 中国
 - Китай
-- the People's Republic of China
-- la República Popular China
+- "the People's Republic of China"
+- "la República Popular China"
+confidential: public
+cssclasses: Country
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords: 
 Languages:
 - zh-CN
 - yue
@@ -35,8 +21,21 @@ Languages:
 - dta
 - ug
 - za
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: 
+location:
+- 35.6637
+- 117.985
+publish: true
+publishDate: 
+source: "https://datahub.io/core/country-codes"
+SpocWebEntityId: 26870
+tags:
+- geo/Country
+title: China
+type: Country
 ---
-
 
 [	ISO4217-currency_alphabetic	 :: CNY ] 
 [	ISO4217-currency_name	 :: Yuan Renminbi ] 

@@ -1,25 +1,4 @@
----
-location:
-- 32.89
-- 13.19
-type: Country
-tags:
-- geo/Country
-SpocWebEntityId: 26955
-isDeleted: false
-confidential: public
-license: CC BY-SA 4.0
-isReadOnly: false
-source: https://datahub.io/core/country-codes
-cssclasses: Country
-publish: true
-title: Libya
-linkTitle: 
-keywords: 
-layout: 
-draft: false
-publishDate: 
-expiryDate: 
+﻿---
 aliases:
 - Libya
 - Libia
@@ -27,12 +6,32 @@ aliases:
 - ليبيا
 - 利比亚
 - Ливия
+confidential: public
+cssclasses: Country
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords: 
 Languages:
 - ar-LY
 - it
 - en
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: 
+location:
+- 32.89
+- 13.19
+publish: true
+publishDate: 
+source: "https://datahub.io/core/country-codes"
+SpocWebEntityId: 26955
+tags:
+- geo/Country
+title: Libya
+type: Country
 ---
-
 
 [	ISO4217-currency_alphabetic	 :: LYD ] 
 [	ISO4217-currency_name	 :: Libyan Dinar ] 

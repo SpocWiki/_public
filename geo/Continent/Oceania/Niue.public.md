@@ -1,25 +1,4 @@
----
-location:
-- -19.0589
-- -169.875
-type: Country
-tags:
-- geo/Country
-SpocWebEntityId: 26987
-isDeleted: false
-confidential: public
-license: CC BY-SA 4.0
-isReadOnly: false
-source: https://datahub.io/core/country-codes
-cssclasses: Country
-publish: true
-title: Niue
-linkTitle: 
-keywords: 
-layout: 
-draft: false
-publishDate: 
-expiryDate: 
+﻿---
 aliases:
 - Niue
 - Nioué
@@ -27,11 +6,31 @@ aliases:
 - 纽埃
 - Ниуэ
 - Niue
+confidential: public
+cssclasses: Country
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords: 
 Languages:
 - niu
 - en-NU
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: 
+location:
+- -19.0589
+- -169.875
+publish: true
+publishDate: 
+source: "https://datahub.io/core/country-codes"
+SpocWebEntityId: 26987
+tags:
+- geo/Country
+title: Niue
+type: Country
 ---
-
 
 [	ISO4217-currency_alphabetic	 :: NZD ]
 [	ISO4217-currency_name	 :: New Zealand Dollar ]

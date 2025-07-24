@@ -1,15 +1,16 @@
 ﻿---
-type: TrizContradiction
 aliases:
 - Measurement_Accuracy+Segmentation-Illumination
-license: CC BY-SA 4.0
-copyright: https://github.com/SpocWeb
+Confidential: public
+copyright: "https://github.com/SpocWeb"
 IsDeleted: false
 IsReadOnly: false
-Confidential: public
-tags: 
+license: "CC BY-SA 4.0"
+tags:
 - Triz/Contradiction
+type: TrizContradiction
 ---
+
 [name::Measurement_Accuracy+Segmentation-Illumination]
 [SpocWebEntityId::25414]
 + [#has_/Pros :: [[Triz-Measurement_Accuracy]]]

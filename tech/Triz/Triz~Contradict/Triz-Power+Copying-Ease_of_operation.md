@@ -1,15 +1,16 @@
 ﻿---
-type: TrizContradiction
 aliases:
 - Power+Copying-Ease_of_operation
-license: CC BY-SA 4.0
-copyright: https://github.com/SpocWeb
+Confidential: public
+copyright: "https://github.com/SpocWeb"
 IsDeleted: false
 IsReadOnly: false
-Confidential: public
-tags: 
+license: "CC BY-SA 4.0"
+tags:
 - Triz/Contradiction
+type: TrizContradiction
 ---
+
 [name::Power+Copying-Ease_of_operation]
 [SpocWebEntityId::24677]
 + [#has_/Pros :: [[Triz-Power]]]

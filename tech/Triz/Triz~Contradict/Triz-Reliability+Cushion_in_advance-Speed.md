@@ -1,15 +1,16 @@
 ﻿---
-type: TrizContradiction
 aliases:
 - Reliability+Cushion_in_advance-Speed
-license: CC BY-SA 4.0
-copyright: https://github.com/SpocWeb
+Confidential: public
+copyright: "https://github.com/SpocWeb"
 IsDeleted: false
 IsReadOnly: false
-Confidential: public
-tags: 
+license: "CC BY-SA 4.0"
+tags:
 - Triz/Contradiction
+type: TrizContradiction
 ---
+
 [name::Reliability+Cushion_in_advance-Speed]
 [SpocWebEntityId::25265]
 + [#has_/Pros :: [[Triz-Reliability]]]

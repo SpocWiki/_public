@@ -1,12 +1,13 @@
----
-type: TrizPrinciple
+﻿---
 aliases:
-- Composite materials
-license: CC BY-SA 4.0
-copyright: https://github.com/SpocWeb
-tags: 
+- "Composite materials"
+copyright: "https://github.com/SpocWeb"
+license: "CC BY-SA 4.0"
+tags:
 - Triz/Principle
+type: TrizPrinciple
 ---
+
 [name::Composite materials]
 [SpocWebEntityId::22234]
 [Popularity::17]

@@ -1,15 +1,16 @@
 ﻿---
-type: TrizContradiction
 aliases:
 - stationary_Weight+Local_quality-Reliability
-license: CC BY-SA 4.0
-copyright: https://github.com/SpocWeb
+Confidential: public
+copyright: "https://github.com/SpocWeb"
 IsDeleted: false
 IsReadOnly: false
-Confidential: public
-tags: 
+license: "CC BY-SA 4.0"
+tags:
 - Triz/Contradiction
+type: TrizContradiction
 ---
+
 [name::stationary_Weight+Local_quality-Reliability]
 [SpocWebEntityId::22768]
 + [#has_/Pros :: [[Triz-stationary_Weight]]]

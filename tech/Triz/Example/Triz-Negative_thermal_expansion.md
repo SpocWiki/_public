@@ -1,15 +1,16 @@
 ﻿---
-type: TrizExample
 aliases:
-- Negative thermal expansion
-license: CC BY-SA 4.0
-copyright: https://github.com/SpocWeb
+- "Negative thermal expansion"
+Confidential: public
+copyright: "https://github.com/SpocWeb"
 IsDeleted: false
 IsReadOnly: false
-Confidential: public
-tags: 
+license: "CC BY-SA 4.0"
+tags:
 - Triz/Principle/Example
+type: TrizExample
 ---
+
 [name::Negative thermal expansion]
 [SpocWebEntityId::22542]
 [Triz-Principle-Sub:: [[Triz~Sub~phase-transition]]]]

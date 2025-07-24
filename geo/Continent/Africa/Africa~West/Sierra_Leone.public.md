@@ -1,39 +1,38 @@
----
-location:
-- 8.48445
-- -13.2345
-type: Country
-tags:
-- geo/Country
-SpocWebEntityId: 27019
-isDeleted: false
-confidential: public
-license: CC BY-SA 4.0
-isReadOnly: false
-source: https://datahub.io/core/country-codes
-cssclasses: Country
-publish: true
-title: Sierra Leone
-linkTitle: 
-keywords: 
-layout: 
-draft: false
-publishDate: 
-expiryDate: 
+﻿---
 aliases:
-- Sierra Leone
-- Sierra Leona
+- "Sierra Leone"
+- "Sierra Leona"
 - سيراليون
 - 塞拉利昂
 - Сьерра-Леоне
-- the Republic of Sierra Leone
-- la República de Sierra Leona
+- "the Republic of Sierra Leone"
+- "la República de Sierra Leona"
+confidential: public
+cssclasses: Country
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords: 
 Languages:
 - en-SL
 - men
 - tem
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: 
+location:
+- 8.48445
+- -13.2345
+publish: true
+publishDate: 
+source: "https://datahub.io/core/country-codes"
+SpocWebEntityId: 27019
+tags:
+- geo/Country
+title: "Sierra Leone"
+type: Country
 ---
-
 
 [	ISO4217-currency_alphabetic	 :: SLL ] 
 [	ISO4217-currency_name	 :: Leone ] 

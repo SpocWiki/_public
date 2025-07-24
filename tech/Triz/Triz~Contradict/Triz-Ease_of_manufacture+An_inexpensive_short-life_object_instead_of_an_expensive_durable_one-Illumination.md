@@ -1,15 +1,16 @@
 ﻿---
-type: TrizContradiction
 aliases:
 - Ease_of_manufacture+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Illumination
-license: CC BY-SA 4.0
-copyright: https://github.com/SpocWeb
+Confidential: public
+copyright: "https://github.com/SpocWeb"
 IsDeleted: false
 IsReadOnly: false
-Confidential: public
-tags: 
+license: "CC BY-SA 4.0"
+tags:
 - Triz/Contradiction
+type: TrizContradiction
 ---
+
 [name::Ease_of_manufacture+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Illumination]
 [SpocWebEntityId::25885]
 + [#has_/Pros :: [[Triz-Ease_of_manufacture]]]

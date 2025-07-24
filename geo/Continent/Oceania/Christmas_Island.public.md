@@ -1,39 +1,38 @@
 ﻿---
-location:
-- -10.4167
-- 105.683
-type: Country
-tags:
-- geo/Country
-SpocWebEntityId: 26875
-isDeleted: false
-confidential: public
-license: CC BY-SA 4.0
-isReadOnly: false
-source: https://datahub.io/core/country-codes
-cssclasses: Country
-publish: true
-title: Christmas Island
-linkTitle: 
-keywords: 
-layout: 
-draft: false
-publishDate: 
-expiryDate: 
 aliases:
-- Christmas Island
-- Isla de Navidad
-- Île Christmas
-- جزيرة كريسماس
+- "Christmas Island"
+- "Isla de Navidad"
+- "Île Christmas"
+- "جزيرة كريسماس"
 - 圣诞岛
-- остров Рождества
+- "остров Рождества"
 - 
+confidential: public
+cssclasses: Country
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords: 
 Languages:
 - en
 - zh
 - ms-CC
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: 
+location:
+- -10.4167
+- 105.683
+publish: true
+publishDate: 
+source: "https://datahub.io/core/country-codes"
+SpocWebEntityId: 26875
+tags:
+- geo/Country
+title: "Christmas Island"
+type: Country
 ---
-
 
 [	ISO4217-currency_alphabetic	 :: AUD ]
 [	ISO4217-currency_name	 :: Australian Dollar ]

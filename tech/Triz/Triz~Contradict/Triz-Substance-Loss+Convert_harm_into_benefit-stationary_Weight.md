@@ -1,15 +1,16 @@
 ﻿---
-type: TrizContradiction
 aliases:
 - Substance-Loss+Convert_harm_into_benefit-stationary_Weight
-license: CC BY-SA 4.0
-copyright: https://github.com/SpocWeb
+Confidential: public
+copyright: "https://github.com/SpocWeb"
 IsDeleted: false
 IsReadOnly: false
-Confidential: public
-tags: 
+license: "CC BY-SA 4.0"
+tags:
 - Triz/Contradiction
+type: TrizContradiction
 ---
+
 [name::Substance-Loss+Convert_harm_into_benefit-stationary_Weight]
 [SpocWebEntityId::24793]
 + [#has_/Pros :: Substance-Loss]

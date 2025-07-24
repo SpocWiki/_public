@@ -1,25 +1,4 @@
----
-location:
-- 46.8963
-- 8.46058
-type: Country
-tags:
-- geo/Country
-SpocWebEntityId: 26865
-isDeleted: false
-confidential: public
-license: CC BY-SA 4.0
-isReadOnly: false
-source: https://datahub.io/core/country-codes
-cssclasses: Country
-publish: true
-title: Switzerland
-linkTitle: 
-keywords: 
-layout: 
-draft: false
-publishDate: 
-expiryDate: 
+﻿---
 aliases:
 - Switzerland
 - Suiza
@@ -27,14 +6,36 @@ aliases:
 - سويسرا
 - 瑞士
 - Швейцария
-- the Swiss Confederation
-- la Confederación Suiza
+- "the Swiss Confederation"
+- "la Confederación Suiza"
+confidential: public
+cssclasses: Country
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords: 
 Languages:
 - de-CH
 - fr-CH
 - it-CH
 - rm
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: 
+location:
+- 46.8963
+- 8.46058
+publish: true
+publishDate: 
+source: "https://datahub.io/core/country-codes"
+SpocWebEntityId: 26865
+tags:
+- geo/Country
+title: Switzerland
+type: Country
 ---
+
 # [[Switzerland]] 
 
 [	ISO4217-currency_alphabetic	 :: CHF ] 

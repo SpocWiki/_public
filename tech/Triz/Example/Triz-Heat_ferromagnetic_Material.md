@@ -1,15 +1,16 @@
 ﻿---
-type: TrizExample
 aliases:
-- Heat ferromagnetic Material
-license: CC BY-SA 4.0
-copyright: https://github.com/SpocWeb
+- "Heat ferromagnetic Material"
+Confidential: public
+copyright: "https://github.com/SpocWeb"
 IsDeleted: false
 IsReadOnly: false
-Confidential: public
-tags: 
+license: "CC BY-SA 4.0"
+tags:
 - Triz/Principle/Example
+type: TrizExample
 ---
+
 [name::Heat ferromagnetic Material]
 [SpocWebEntityId::22508]
 [Triz-Principle-Sub::[[Triz-use-field]]]

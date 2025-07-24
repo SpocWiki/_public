@@ -1,12 +1,13 @@
----
-type: TrizPrinciple
+﻿---
 aliases:
-- Rejecting and regenerating parts
-license: CC BY-SA 4.0
-copyright: https://github.com/SpocWeb
-tags: 
+- "Rejecting and regenerating parts"
+copyright: "https://github.com/SpocWeb"
+license: "CC BY-SA 4.0"
+tags:
 - Triz/Principle
+type: TrizPrinciple
 ---
+
 [name::Rejecting and regenerating parts]
 [SpocWebEntityId::22228]
 [Popularity::15]

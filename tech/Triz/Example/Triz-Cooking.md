@@ -1,15 +1,16 @@
 ﻿---
-type: TrizExample
 aliases:
 - Cooking
-license: CC BY-SA 4.0
-copyright: https://github.com/SpocWeb
+Confidential: public
+copyright: "https://github.com/SpocWeb"
 IsDeleted: false
 IsReadOnly: false
-Confidential: public
-tags: 
+license: "CC BY-SA 4.0"
+tags:
 - Triz/Principle/Example
+type: TrizExample
 ---
+
 [name::Cooking]
 [SpocWebEntityId::22540]
 [Triz-Principle-Sub::[[Triz-change-temperature]]]

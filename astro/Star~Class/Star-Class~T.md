@@ -1,13 +1,13 @@
----
-type: StarClass
-SpocWebEntityId: 28195
+﻿---
+confidential: public
 isDeleted: false
 isReadOnly: false
-confidential: public
+SpocWebEntityId: 28195
 tags:
 - astro/StarClass
-
+type: StarClass
 ---
+
 [name::T]
 [Temperature::1300]
 [Radius-sol::0]

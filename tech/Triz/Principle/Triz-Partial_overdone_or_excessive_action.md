@@ -1,12 +1,13 @@
----
-type: TrizPrinciple
+﻿---
 aliases:
-- Partial, overdone, or excessive action
-license: CC BY-SA 4.0
-copyright: https://github.com/SpocWeb
-tags: 
+- "Partial, overdone, or excessive action"
+copyright: "https://github.com/SpocWeb"
+license: "CC BY-SA 4.0"
+tags:
 - Triz/Principle
+type: TrizPrinciple
 ---
+
 [name::Partial, overdone, or excessive action]
 [SpocWebEntityId::22211]
 [Popularity::16]

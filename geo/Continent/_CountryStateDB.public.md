@@ -1,8 +1,7 @@
+﻿---
+database_plugin: basic
 ---
-database-plugin: basic
 
-
----
 ```yaml:dbfolder
 name: States
 description: Table of States within Countries

@@ -1,15 +1,16 @@
 ﻿---
-type: TrizExample
 aliases:
-- same Material-Container
-license: CC BY-SA 4.0
-copyright: https://github.com/SpocWeb
+- "same Material-Container"
+Confidential: public
+copyright: "https://github.com/SpocWeb"
 IsDeleted: false
 IsReadOnly: false
-Confidential: public
-tags: 
+license: "CC BY-SA 4.0"
+tags:
 - Triz/Principle/Example
+type: TrizExample
 ---
+
 [name::same Material-Container]
 [SpocWebEntityId::22524]
 [Triz-Principle-Sub::[[Triz-same-material]]]

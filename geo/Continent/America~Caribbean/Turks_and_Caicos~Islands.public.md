@@ -1,14 +1,12 @@
----
-
-type: Country
+﻿---
+confidential: public
+isDeleted: false
+SpocWebEntityId: 27028
 tags:
 - geo/Country
-
-SpocWebEntityId: 27028
-isDeleted: false
-confidential: public
-
+type: Country
 ---
+
 [ISO2::TC]
 [ISO3::TCA]
 

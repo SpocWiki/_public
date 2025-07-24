@@ -1,37 +1,36 @@
----
-location:
-- -13.8333
-- -171.75
-type: Country
-tags:
-- geo/Country
-SpocWebEntityId: 27058
-isDeleted: false
-confidential: public
-license: CC BY-SA 4.0
-isReadOnly: false
-source: https://datahub.io/core/country-codes
-cssclasses: Country
-publish: true
-title: Samoa
-linkTitle: 
-keywords: 
-layout: 
-draft: false
-publishDate: 
-expiryDate: 
+﻿---
 aliases:
 - Samoa
 - ساموا
 - 萨摩亚
 - Самоа
-- the Independent State of Samoa
-- el Estado Independiente de Samoa
+- "the Independent State of Samoa"
+- "el Estado Independiente de Samoa"
+confidential: public
+cssclasses: Country
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords: 
 Languages:
 - sm
 - en-WS
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: 
+location:
+- -13.8333
+- -171.75
+publish: true
+publishDate: 
+source: "https://datahub.io/core/country-codes"
+SpocWebEntityId: 27058
+tags:
+- geo/Country
+title: Samoa
+type: Country
 ---
-
 
 [	ISO4217-currency_alphabetic	 :: WST ]
 [	ISO4217-currency_name	 :: Tala ]

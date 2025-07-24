@@ -1,25 +1,4 @@
----
-location:
-- 54.6833
-- 25.3167
-type: Country
-tags:
-- geo/Country
-SpocWebEntityId: 26952
-isDeleted: false
-confidential: public
-license: CC BY-SA 4.0
-isReadOnly: false
-source: https://datahub.io/core/country-codes
-cssclasses: Country
-publish: true
-title: Lithuania
-linkTitle: 
-keywords: 
-layout: 
-draft: false
-publishDate: 
-expiryDate: 
+﻿---
 aliases:
 - Lithuania
 - Lituania
@@ -27,14 +6,34 @@ aliases:
 - ليتوانيا
 - 立陶宛
 - Литва
-- the Republic of Lithuania
-- la República de Lituania
+- "the Republic of Lithuania"
+- "la República de Lituania"
+confidential: public
+cssclasses: Country
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords: 
 Languages:
 - lt
 - ru
 - pl
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: 
+location:
+- 54.6833
+- 25.3167
+publish: true
+publishDate: 
+source: "https://datahub.io/core/country-codes"
+SpocWebEntityId: 26952
+tags:
+- geo/Country
+title: Lithuania
+type: Country
 ---
-
 
 [	ISO4217-currency_alphabetic	 :: EUR ] 
 [	ISO4217-currency_name	 :: Euro ] 

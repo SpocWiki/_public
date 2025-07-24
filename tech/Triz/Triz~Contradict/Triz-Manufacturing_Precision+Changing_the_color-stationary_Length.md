@@ -1,15 +1,16 @@
 ﻿---
-type: TrizContradiction
 aliases:
 - Manufacturing_Precision+Changing_the_color-stationary_Length
-license: CC BY-SA 4.0
-copyright: https://github.com/SpocWeb
+Confidential: public
+copyright: "https://github.com/SpocWeb"
 IsDeleted: false
 IsReadOnly: false
-Confidential: public
-tags: 
+license: "CC BY-SA 4.0"
+tags:
 - Triz/Contradiction
+type: TrizContradiction
 ---
+
 [name::Manufacturing_Precision+Changing_the_color-stationary_Length]
 [SpocWebEntityId::25492]
 + [#has_/Pros :: [[Triz-Manufacturing_Precision]]]

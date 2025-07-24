@@ -1,15 +1,16 @@
 ﻿---
-type: TrizContradiction
 aliases:
 - 22171+Moving_to_a_new_dimension-10307
-license: CC BY-SA 4.0
-copyright: https://github.com/SpocWeb
+Confidential: public
+copyright: "https://github.com/SpocWeb"
 IsDeleted: false
 IsReadOnly: false
-Confidential: public
-tags: 
+license: "CC BY-SA 4.0"
+tags:
 - Triz/Contradiction
+type: TrizContradiction
 ---
+
 [name::22171+Moving_to_a_new_dimension-10307]
 [SpocWebEntityId::24165]
 + [#has_/Pros :: [[Triz-22171]]]

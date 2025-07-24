@@ -1,15 +1,16 @@
 ﻿---
-type: TrizExample
 aliases:
-- measure indirectly
-license: CC BY-SA 4.0
-copyright: https://github.com/SpocWeb
+- "measure indirectly"
+Confidential: public
+copyright: "https://github.com/SpocWeb"
 IsDeleted: false
 IsReadOnly: false
-Confidential: public
-tags: 
+license: "CC BY-SA 4.0"
+tags:
 - Triz/Principle/Example
+type: TrizExample
 ---
+
 [name::measure indirectly]
 [SpocWebEntityId::22485]
 [Triz-Principle-Sub::[[Triz-vary-feedback]]]

@@ -1,15 +1,16 @@
 ﻿---
-type: TrizExample
 aliases:
-- Chips on both Sides
-license: CC BY-SA 4.0
-copyright: https://github.com/SpocWeb
+- "Chips on both Sides"
+Confidential: public
+copyright: "https://github.com/SpocWeb"
 IsDeleted: false
 IsReadOnly: false
-Confidential: public
-tags: 
+license: "CC BY-SA 4.0"
+tags:
 - Triz/Principle/Example
+type: TrizExample
 ---
+
 [name::Chips on both Sides]
 [SpocWebEntityId::22443]
 [Triz-Principle-Sub::[[Triz-multi-story]]]

@@ -1,15 +1,16 @@
 ﻿---
-type: TrizExample
 aliases:
-- spherical Casters
-license: CC BY-SA 4.0
-copyright: https://github.com/SpocWeb
+- "spherical Casters"
+Confidential: public
+copyright: "https://github.com/SpocWeb"
 IsDeleted: false
 IsReadOnly: false
-Confidential: public
-tags: 
+license: "CC BY-SA 4.0"
+tags:
 - Triz/Principle/Example
+type: TrizExample
 ---
+
 [name::spherical Casters]
 [SpocWebEntityId::22427]
 [Triz-Principle-Sub::[[Triz-use-rotation]]]

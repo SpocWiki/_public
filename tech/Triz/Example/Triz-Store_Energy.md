@@ -1,15 +1,16 @@
 ﻿---
-type: TrizExample
 aliases:
-- Store Energy
-license: CC BY-SA 4.0
-copyright: https://github.com/SpocWeb
+- "Store Energy"
+Confidential: public
+copyright: "https://github.com/SpocWeb"
 IsDeleted: false
 IsReadOnly: false
-Confidential: public
-tags: 
+license: "CC BY-SA 4.0"
+tags:
 - Triz/Principle/Example
+type: TrizExample
 ---
+
 [name::Store Energy]
 [SpocWebEntityId::22510]
 [Triz-Principle-Sub::[[Triz-use-fluid]]]

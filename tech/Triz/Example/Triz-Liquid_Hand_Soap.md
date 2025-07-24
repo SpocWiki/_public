@@ -1,15 +1,16 @@
 ﻿---
-type: TrizExample
 aliases:
-- Liquid Hand Soap
-license: CC BY-SA 4.0
-copyright: https://github.com/SpocWeb
+- "Liquid Hand Soap"
+Confidential: public
+copyright: "https://github.com/SpocWeb"
 IsDeleted: false
 IsReadOnly: false
-Confidential: public
-tags: 
+license: "CC BY-SA 4.0"
+tags:
 - Triz/Principle/Example
+type: TrizExample
 ---
+
 [name::Liquid Hand Soap]
 [SpocWebEntityId::22536]
 [Triz-Principle-Sub::[[Triz-change-consistency]]]

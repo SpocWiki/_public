@@ -1,15 +1,16 @@
 ﻿---
-type: TrizContradiction
 aliases:
 - Substance-Loss+Mechanical_vibration-stationary_Area
-license: CC BY-SA 4.0
-copyright: https://github.com/SpocWeb
+Confidential: public
+copyright: "https://github.com/SpocWeb"
 IsDeleted: false
 IsReadOnly: false
-Confidential: public
-tags: 
+license: "CC BY-SA 4.0"
+tags:
 - Triz/Contradiction
+type: TrizContradiction
 ---
+
 [name::Substance-Loss+Mechanical_vibration-stationary_Area]
 [SpocWebEntityId::24807]
 + [#has_/Pros :: Substance-Loss]

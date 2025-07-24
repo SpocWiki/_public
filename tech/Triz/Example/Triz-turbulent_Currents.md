@@ -1,15 +1,16 @@
 ﻿---
-type: TrizExample
 aliases:
-- turbulent Currents
-license: CC BY-SA 4.0
-copyright: https://github.com/SpocWeb
+- "turbulent Currents"
+Confidential: public
+copyright: "https://github.com/SpocWeb"
 IsDeleted: false
 IsReadOnly: false
-Confidential: public
-tags: 
+license: "CC BY-SA 4.0"
+tags:
 - Triz/Principle/Example
+type: TrizExample
 ---
+
 [name::turbulent Currents]
 [SpocWebEntityId::22474]
 [Triz-Principle-Sub::[[Triz-accept-harm]]]

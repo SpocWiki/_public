@@ -1,44 +1,43 @@
----
-location:
-- 24.47
-- 54.42
-type: Country
-tags:
-- geo/Country
-SpocWebEntityId: 26826
-isDeleted: false
-confidential: public
-license: CC BY-SA 4.0
-isReadOnly: false
-source: https://datahub.io/core/country-codes
-cssclasses: Country
-publish: true
-title: United Arab Emirates
-linkTitle: 
-keywords: 
-layout: 
-draft: false
-publishDate: 
-expiryDate: 
+﻿---
 aliases:
-- United Arab Emirates
-- Emiratos Árabes Unidos
-- Émirats arabes unis
-- الإمارات العربية المتحدة
+- "United Arab Emirates"
+- "Emiratos Árabes Unidos"
+- "Émirats arabes unis"
+- "الإمارات العربية المتحدة"
 - 阿拉伯联合酋长国
-- Объединенные Арабские Эмираты
-- the United Arab Emirates
-- United Arab Emirates (the)
-- los Emiratos Árabes Unidos
-- Emiratos Árabes Unidos (los)
+- "Объединенные Арабские Эмираты"
+- "the United Arab Emirates"
+- "United Arab Emirates (the)"
+- "los Emiratos Árabes Unidos"
+- "Emiratos Árabes Unidos (los)"
+confidential: public
+cssclasses: Country
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords: 
 Languages:
 - ar-AE
 - fa
 - en
 - hi
 - ur
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: 
+location:
+- 24.47
+- 54.42
+publish: true
+publishDate: 
+source: "https://datahub.io/core/country-codes"
+SpocWebEntityId: 26826
+tags:
+- geo/Country
+title: "United Arab Emirates"
+type: Country
 ---
-
 
 [	ISO4217-currency_alphabetic	 :: AED ] 
 [	ISO4217-currency_name	 :: UAE Dirham ] 

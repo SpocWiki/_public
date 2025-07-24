@@ -1,25 +1,4 @@
----
-location:
-- 33.87
-- 35.5
-type: Country
-tags:
-- geo/Country
-SpocWebEntityId: 26946
-isDeleted: false
-confidential: public
-license: CC BY-SA 4.0
-isReadOnly: false
-source: https://datahub.io/core/country-codes
-cssclasses: Country
-publish: true
-title: Lebanon
-linkTitle: 
-keywords: 
-layout: 
-draft: false
-publishDate: 
-expiryDate: 
+﻿---
 aliases:
 - Lebanon
 - Líbano
@@ -27,16 +6,36 @@ aliases:
 - لبنان
 - 黎巴嫩
 - Ливан
-- the Lebanese Republic
-- la República Libanesa
-- Líbano (el)
+- "the Lebanese Republic"
+- "la República Libanesa"
+- "Líbano (el)"
+confidential: public
+cssclasses: Country
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords: 
 Languages:
 - ar-LB
 - fr-LB
 - en
 - hy
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: 
+location:
+- 33.87
+- 35.5
+publish: true
+publishDate: 
+source: "https://datahub.io/core/country-codes"
+SpocWebEntityId: 26946
+tags:
+- geo/Country
+title: Lebanon
+type: Country
 ---
-
 
 [	ISO4217-currency_alphabetic	 :: LBP ] 
 [	ISO4217-currency_name	 :: Lebanese Pound ] 

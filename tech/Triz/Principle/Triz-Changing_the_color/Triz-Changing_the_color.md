@@ -1,12 +1,13 @@
----
-type: TrizPrinciple
+﻿---
 aliases:
-- Changing the color
-license: CC BY-SA 4.0
-copyright: https://github.com/SpocWeb
-tags: 
+- "Changing the color"
+copyright: "https://github.com/SpocWeb"
+license: "CC BY-SA 4.0"
+tags:
 - Triz/Principle
+type: TrizPrinciple
 ---
+
 [name::Changing the color]
 [SpocWebEntityId::22226]
 [Popularity::9]

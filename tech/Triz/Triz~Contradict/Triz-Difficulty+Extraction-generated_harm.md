@@ -1,15 +1,16 @@
 ﻿---
-type: TrizContradiction
 aliases:
 - Difficulty+Extraction-generated_harm
-license: CC BY-SA 4.0
-copyright: https://github.com/SpocWeb
+Confidential: public
+copyright: "https://github.com/SpocWeb"
 IsDeleted: false
 IsReadOnly: false
-Confidential: public
-tags: 
+license: "CC BY-SA 4.0"
+tags:
 - Triz/Contradiction
+type: TrizContradiction
 ---
+
 [name::Difficulty+Extraction-generated_harm]
 [SpocWebEntityId::26514]
 + [#has_/Pros :: [[Triz-Difficulty]]]

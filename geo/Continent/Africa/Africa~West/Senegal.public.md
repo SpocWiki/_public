@@ -1,41 +1,40 @@
----
-location:
-- 14.435
-- -17.125
-type: Country
-tags:
-- geo/Country
-SpocWebEntityId: 27021
-isDeleted: false
-confidential: public
-license: CC BY-SA 4.0
-isReadOnly: false
-source: https://datahub.io/core/country-codes
-cssclasses: Country
-publish: true
-title: Senegal
-linkTitle: 
-keywords: 
-layout: 
-draft: false
-publishDate: 
-expiryDate: 
+﻿---
 aliases:
 - Senegal
 - Sénégal
 - السنغال
 - 塞内加尔
 - Сенегал
-- the Republic of Senegal
-- la República del Senegal
-- Senegal (el)
+- "the Republic of Senegal"
+- "la República del Senegal"
+- "Senegal (el)"
+confidential: public
+cssclasses: Country
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords: 
 Languages:
 - fr-SN
 - wo
 - fuc
 - mnk
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: 
+location:
+- 14.435
+- -17.125
+publish: true
+publishDate: 
+source: "https://datahub.io/core/country-codes"
+SpocWebEntityId: 27021
+tags:
+- geo/Country
+title: Senegal
+type: Country
 ---
-
 
 [	ISO4217-currency_alphabetic	 :: XOF ] 
 [	ISO4217-currency_name	 :: CFA Franc BCEAO ] 

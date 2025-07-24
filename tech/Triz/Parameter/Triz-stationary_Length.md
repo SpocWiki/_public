@@ -1,15 +1,16 @@
----
-type: TrizParameter
+﻿---
 aliases:
-- stationary Length
-license: CC BY-SA 4.0
-copyright: https://github.com/SpocWeb
+- "stationary Length"
+Confidential: public
+copyright: "https://github.com/SpocWeb"
 IsDeleted: false
 IsReadOnly: false
-Confidential: public
-tags: 
+license: "CC BY-SA 4.0"
+tags:
 - Triz/Parameter
+type: TrizParameter
 ---
+
 [name::stationary Length]
 [SpocWebEntityId::22162]
 [TrizParameterId::04]

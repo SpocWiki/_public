@@ -1,38 +1,37 @@
 ﻿---
-location:
-- 12.5083
-- -69.9933
-type: Country
-tags:
-- geo/Country
-SpocWebEntityId: 26839
-isDeleted: false
-confidential: public
-license: CC BY-SA 4.0
-isReadOnly: false
-source: https://datahub.io/core/country-codes
-cssclasses: Country
-publish: true
-title: Aruba
-linkTitle: 
-keywords: 
-layout: 
-draft: false
-publishDate: 
-expiryDate: 
 aliases:
 - Aruba
 - أروبا
 - 阿鲁巴
 - Аруба
 - 
+confidential: public
+cssclasses: Country
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords: 
 Languages:
 - nl-AW
 - pap
 - es
 - en
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: 
+location:
+- 12.5083
+- -69.9933
+publish: true
+publishDate: 
+source: "https://datahub.io/core/country-codes"
+SpocWebEntityId: 26839
+tags:
+- geo/Country
+title: Aruba
+type: Country
 ---
-
 
 [	ISO4217-currency_alphabetic	 :: AWG ]
 [	ISO4217-currency_name	 :: Aruban Florin ]

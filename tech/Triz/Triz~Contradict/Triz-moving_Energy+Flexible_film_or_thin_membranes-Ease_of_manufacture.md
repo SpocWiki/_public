@@ -1,15 +1,16 @@
 ﻿---
-type: TrizContradiction
 aliases:
 - moving_Energy+Flexible_film_or_thin_membranes-Ease_of_manufacture
-license: CC BY-SA 4.0
-copyright: https://github.com/SpocWeb
+Confidential: public
+copyright: "https://github.com/SpocWeb"
 IsDeleted: false
 IsReadOnly: false
-Confidential: public
-tags: 
+license: "CC BY-SA 4.0"
+tags:
 - Triz/Contradiction
+type: TrizContradiction
 ---
+
 [name::moving_Energy+Flexible_film_or_thin_membranes-Ease_of_manufacture]
 [SpocWebEntityId::24519]
 + [#has_/Pros :: [[Triz-moving_Energy]]]

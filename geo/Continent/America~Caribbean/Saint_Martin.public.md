@@ -1,15 +1,15 @@
 ﻿---
-location: [ 18.08 , -63.06 ] 
-
-type: Country
+confidential: public
+isDeleted: false
+location:
+- 18.08
+- -63.06
+SpocWebEntityId: 76731
 tags:
 - geo/Country
-
-SpocWebEntityId: 76731
-isDeleted: false
-confidential: public
-
+type: Country
 ---
+
 [ISO2::]
 [ISO3::]
 

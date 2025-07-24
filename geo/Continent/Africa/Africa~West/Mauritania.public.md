@@ -1,33 +1,19 @@
----
-location:
-- 18.15
-- -15.9667
-type: Country
-tags:
-- geo/Country
-SpocWebEntityId: 26968
-isDeleted: false
-confidential: public
-license: CC BY-SA 4.0
-isReadOnly: false
-source: https://datahub.io/core/country-codes
-cssclasses: Country
-publish: true
-title: Mauritania
-linkTitle: 
-keywords: 
-layout: 
-draft: false
-publishDate: 
-expiryDate: 
+﻿---
 aliases:
 - Mauritania
 - Mauritanie
 - موريتانيا
 - 毛里塔尼亚
 - Мавритания
-- the Islamic Republic of Mauritania
-- la República Islámica de Mauritania
+- "the Islamic Republic of Mauritania"
+- "la República Islámica de Mauritania"
+confidential: public
+cssclasses: Country
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords: 
 Languages:
 - ar-MR
 - fuc
@@ -35,8 +21,21 @@ Languages:
 - fr
 - mey
 - wo
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: 
+location:
+- 18.15
+- -15.9667
+publish: true
+publishDate: 
+source: "https://datahub.io/core/country-codes"
+SpocWebEntityId: 26968
+tags:
+- geo/Country
+title: Mauritania
+type: Country
 ---
-
 
 [	ISO4217-currency_alphabetic	 :: MRU ] 
 [	ISO4217-currency_name	 :: Ouguiya ] 

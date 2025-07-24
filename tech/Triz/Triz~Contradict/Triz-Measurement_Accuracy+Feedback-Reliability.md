@@ -1,15 +1,16 @@
 ﻿---
-type: TrizContradiction
 aliases:
 - Measurement_Accuracy+Feedback-Reliability
-license: CC BY-SA 4.0
-copyright: https://github.com/SpocWeb
+Confidential: public
+copyright: "https://github.com/SpocWeb"
 IsDeleted: false
 IsReadOnly: false
-Confidential: public
-tags: 
+license: "CC BY-SA 4.0"
+tags:
 - Triz/Contradiction
+type: TrizContradiction
 ---
+
 [name::Measurement_Accuracy+Feedback-Reliability]
 [SpocWebEntityId::25439]
 + [#has_/Pros :: [[Triz-Measurement_Accuracy]]]

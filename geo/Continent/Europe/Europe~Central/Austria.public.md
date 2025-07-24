@@ -1,40 +1,39 @@
----
-location:
-- 47.712
-- 14.381
-type: Country
-SpocWebEntityId: 26837
-isDeleted: false
-confidential: public
-tags:
-- geo/Country
-license: CC BY-SA 4.0
-isReadOnly: false
-source: https://datahub.io/core/country-codes
-cssclasses: Country
-publish: true
-title: Austria
-linkTitle: 
-keywords: 
-layout: 
-draft: false
-publishDate: 
-expiryDate: 
+﻿---
 aliases:
 - Austria
 - Autriche
 - النمسا
 - 奥地利
 - Австрия
-- the Republic of Austria
-- la República de Austria
+- "the Republic of Austria"
+- "la República de Austria"
+confidential: public
+cssclasses: Country
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords: 
 Languages:
 - de-AT
 - hr
 - hu
 - sl
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: 
+location:
+- 47.712
+- 14.381
+publish: true
+publishDate: 
+source: "https://datahub.io/core/country-codes"
+SpocWebEntityId: 26837
+tags:
+- geo/Country
+title: Austria
+type: Country
 ---
-
 
 [	ISO4217-currency_alphabetic	 :: EUR ] 
 [	ISO4217-currency_name	 :: Euro ] 

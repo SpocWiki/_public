@@ -1,15 +1,16 @@
 ﻿---
-type: TrizExample
 aliases:
-- Rear Wing
-license: CC BY-SA 4.0
-copyright: https://github.com/SpocWeb
+- "Rear Wing"
+Confidential: public
+copyright: "https://github.com/SpocWeb"
 IsDeleted: false
 IsReadOnly: false
-Confidential: public
-tags: 
+license: "CC BY-SA 4.0"
+tags:
 - Triz/Principle/Example
+type: TrizExample
 ---
+
 [name::Rear Wing]
 [SpocWebEntityId::22392]
 [Triz-Principle-Sub::[[Triz-weight-environment]]]

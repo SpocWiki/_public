@@ -1,15 +1,16 @@
 ﻿---
-type: TrizContradiction
 aliases:
 - Quantity+Rejecting_and_regenerating_parts-moving_Energy
-license: CC BY-SA 4.0
-copyright: https://github.com/SpocWeb
+Confidential: public
+copyright: "https://github.com/SpocWeb"
 IsDeleted: false
 IsReadOnly: false
-Confidential: public
-tags: 
+license: "CC BY-SA 4.0"
+tags:
 - Triz/Contradiction
+type: TrizContradiction
 ---
+
 [name::Quantity+Rejecting_and_regenerating_parts-moving_Energy]
 [SpocWebEntityId::25164]
 + [#has_/Pros :: [[Triz-Quantity]]]

@@ -1,25 +1,4 @@
----
-location:
-- 3.94
-- 10.6
-type: Country
-tags:
-- geo/Country
-SpocWebEntityId: 26869
-isDeleted: false
-confidential: public
-license: CC BY-SA 4.0
-isReadOnly: false
-source: https://datahub.io/core/country-codes
-cssclasses: Country
-publish: true
-title: Cameroon
-linkTitle: 
-keywords: 
-layout: 
-draft: false
-publishDate: 
-expiryDate: 
+﻿---
 aliases:
 - Cameroon
 - Camerún
@@ -27,14 +6,34 @@ aliases:
 - الكاميرون
 - 喀麦隆
 - Камерун
-- the Republic of Cameroon
-- la República del Camerún
-- Camerún (el)
+- "the Republic of Cameroon"
+- "la República del Camerún"
+- "Camerún (el)"
+confidential: public
+cssclasses: Country
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords: 
 Languages:
 - en-CM
 - fr-CM
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: 
+location:
+- 3.94
+- 10.6
+publish: true
+publishDate: 
+source: "https://datahub.io/core/country-codes"
+SpocWebEntityId: 26869
+tags:
+- geo/Country
+title: Cameroon
+type: Country
 ---
-
 
 [	ISO4217-currency_alphabetic	 :: XAF ] 
 [	ISO4217-currency_name	 :: CFA Franc BEAC ] 

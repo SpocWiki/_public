@@ -1,15 +1,16 @@
 ﻿---
-type: TrizContradiction
 aliases:
 - generated_harm+Moving_to_a_new_dimension-Manufacturing_Precision
-license: CC BY-SA 4.0
-copyright: https://github.com/SpocWeb
+Confidential: public
+copyright: "https://github.com/SpocWeb"
 IsDeleted: false
 IsReadOnly: false
-Confidential: public
-tags: 
+license: "CC BY-SA 4.0"
+tags:
 - Triz/Contradiction
+type: TrizContradiction
 ---
+
 [name::generated_harm+Moving_to_a_new_dimension-Manufacturing_Precision]
 [SpocWebEntityId::25813]
 + [#has_/Pros :: [[Triz-generated_harm]]]

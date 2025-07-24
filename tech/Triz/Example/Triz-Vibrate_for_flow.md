@@ -1,15 +1,16 @@
 ﻿---
-type: TrizExample
 aliases:
-- Vibrate for flow
-license: CC BY-SA 4.0
-copyright: https://github.com/SpocWeb
+- "Vibrate for flow"
+Confidential: public
+copyright: "https://github.com/SpocWeb"
 IsDeleted: false
 IsReadOnly: false
-Confidential: public
-tags: 
+license: "CC BY-SA 4.0"
+tags:
 - Triz/Principle/Example
+type: TrizExample
 ---
+
 [name::Vibrate for flow]
 [SpocWebEntityId::22451]
 [Triz-Principle-Sub::[[Triz-vibrate]]]

@@ -1,40 +1,39 @@
----
-location:
-- 5.86
-- -55.17
-type: Country
-tags:
-- geo/Country
-SpocWebEntityId: 27023
-isDeleted: false
-confidential: public
-license: CC BY-SA 4.0
-isReadOnly: false
-source: https://datahub.io/core/country-codes
-cssclasses: Country
-publish: true
-title: Suriname
-linkTitle: 
-keywords: 
-layout: 
-draft: false
-publishDate: 
-expiryDate: 
+﻿---
 aliases:
 - Suriname
 - سورينام
 - 苏里南
 - Суринам
-- the Republic of Suriname
-- la República de Suriname
+- "the Republic of Suriname"
+- "la República de Suriname"
+confidential: public
+cssclasses: Country
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords: 
 Languages:
 - nl-SR
 - en
 - srn
 - hns
 - jv
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: 
+location:
+- 5.86
+- -55.17
+publish: true
+publishDate: 
+source: "https://datahub.io/core/country-codes"
+SpocWebEntityId: 27023
+tags:
+- geo/Country
+title: Suriname
+type: Country
 ---
-
 
 [	ISO4217-currency_alphabetic	 :: SRD ] 
 [	ISO4217-currency_name	 :: Surinam Dollar ] 

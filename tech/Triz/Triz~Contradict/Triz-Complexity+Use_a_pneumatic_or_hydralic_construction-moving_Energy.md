@@ -1,15 +1,16 @@
 ﻿---
-type: TrizContradiction
 aliases:
 - Complexity+Use_a_pneumatic_or_hydralic_construction-moving_Energy
-license: CC BY-SA 4.0
-copyright: https://github.com/SpocWeb
+Confidential: public
+copyright: "https://github.com/SpocWeb"
 IsDeleted: false
 IsReadOnly: false
-Confidential: public
-tags: 
+license: "CC BY-SA 4.0"
+tags:
 - Triz/Contradiction
+type: TrizContradiction
 ---
+
 [name::Complexity+Use_a_pneumatic_or_hydralic_construction-moving_Energy]
 [SpocWebEntityId::26345]
 + [#has_/Pros :: [[Triz-Complexity]]]

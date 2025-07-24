@@ -1,15 +1,16 @@
 ﻿---
-type: TrizContradiction
 aliases:
 - stationary_Length+Replacement_of_a_mechanical_system-stationary_Weight
-license: CC BY-SA 4.0
-copyright: https://github.com/SpocWeb
+Confidential: public
+copyright: "https://github.com/SpocWeb"
 IsDeleted: false
 IsReadOnly: false
-Confidential: public
-tags: 
+license: "CC BY-SA 4.0"
+tags:
 - Triz/Contradiction
+type: TrizContradiction
 ---
+
 [name::stationary_Length+Replacement_of_a_mechanical_system-stationary_Weight]
 [SpocWebEntityId::22918]
 + [#has_/Pros :: [[Triz-stationary_Length]]]

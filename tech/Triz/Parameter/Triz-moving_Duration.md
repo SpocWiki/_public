@@ -1,15 +1,16 @@
----
-type: TrizParameter
+﻿---
 aliases:
-- moving Duration
-license: CC BY-SA 4.0
-copyright: https://github.com/SpocWeb
+- "moving Duration"
+Confidential: public
+copyright: "https://github.com/SpocWeb"
 IsDeleted: false
 IsReadOnly: false
-Confidential: public
-tags: 
+license: "CC BY-SA 4.0"
+tags:
 - Triz/Parameter
+type: TrizParameter
 ---
+
 [name::moving Duration]
 [SpocWebEntityId::22171]
 [TrizParameterId::15]

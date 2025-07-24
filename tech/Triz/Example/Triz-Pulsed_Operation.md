@@ -1,15 +1,16 @@
 ﻿---
-type: TrizExample
 aliases:
-- Pulsed Operation
-license: CC BY-SA 4.0
-copyright: https://github.com/SpocWeb
+- "Pulsed Operation"
+Confidential: public
+copyright: "https://github.com/SpocWeb"
 IsDeleted: false
 IsReadOnly: false
-Confidential: public
-tags: 
+license: "CC BY-SA 4.0"
+tags:
 - Triz/Principle/Example
+type: TrizExample
 ---
+
 [name::Pulsed Operation]
 [SpocWebEntityId::22464]
 [Triz-Principle-Sub:: [[Triz~Sub~periodic_action]]]]

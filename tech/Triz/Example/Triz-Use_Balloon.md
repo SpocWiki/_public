@@ -1,15 +1,16 @@
 ﻿---
-type: TrizExample
 aliases:
-- Use Balloon
-license: CC BY-SA 4.0
-copyright: https://github.com/SpocWeb
+- "Use Balloon"
+Confidential: public
+copyright: "https://github.com/SpocWeb"
 IsDeleted: false
 IsReadOnly: false
-Confidential: public
-tags: 
+license: "CC BY-SA 4.0"
+tags:
 - Triz/Principle/Example
+type: TrizExample
 ---
+
 [name::Use Balloon]
 [SpocWebEntityId::22388]
 [Triz-Principle-Sub::[[Triz-weigt-lift]]]

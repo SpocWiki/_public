@@ -1,18 +1,4 @@
----
-location: [50.8699,10.1207] 
-type: Country
-title: Deutschland (Germany)
-SpocWebEntityId: 26878
-
-license: CC BY-SA 4.0
-source: https://datahub.io/core/country-codes
-isDeleted: false
-isReadOnly: false
-draft: false
-confidential: public
-
-tags:
-- geo/Country
+﻿---
 aliases:
 - Deutschland
 - DE
@@ -23,22 +9,32 @@ aliases:
 - ألمانيا
 - 德国
 - Германия
-- the Federal Republic of Germany
-- la República Federal de Alemania
-
+- "the Federal Republic of Germany"
+- "la República Federal de Alemania"
+confidential: public
+cssclasses: Country
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords: 
 Languages:
 - de
-
-cssclasses: Country
-publish: true
-linkTitle: 
-keywords: 
 layout: 
+license: "CC BY-SA 4.0"
+linkTitle: 
+location:
+- 50.8699
+- 10.1207
+publish: true
 publishDate: 
-expiryDate: 
+source: "https://datahub.io/core/country-codes"
+SpocWebEntityId: 26878
+tags:
+- geo/Country
+title: "Deutschland (Germany)"
+type: Country
 ---
-
-
 
 [	ISO4217-currency_alphabetic	 :: EUR ] 
 [	ISO4217-currency_name	 :: Euro ] 
@@ -133,7 +129,7 @@ markerFolder: ./Germany/
 [Area-Land::349270] 
 Continent :: [[Europe]]  
 [VehicleCode::D] 
-Capital :: [[Berlin]]  
+Capital :: [[../../../../../_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Berlin,State/cities~Berlin/Berlin,City]]  
 [Alcohol-l::12.8] 
 [Language-Id::497] 
 [geo-lon::10.1207] 

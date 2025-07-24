@@ -1,15 +1,16 @@
 ﻿---
-type: TrizContradiction
 aliases:
 - Difficulty+Changing_the_color-Time-Loss
-license: CC BY-SA 4.0
-copyright: https://github.com/SpocWeb
+Confidential: public
+copyright: "https://github.com/SpocWeb"
 IsDeleted: false
 IsReadOnly: false
-Confidential: public
-tags: 
+license: "CC BY-SA 4.0"
+tags:
 - Triz/Contradiction
+type: TrizContradiction
 ---
+
 [name::Difficulty+Changing_the_color-Time-Loss]
 [SpocWebEntityId::26496]
 + [#has_/Pros :: [[Triz-Difficulty]]]

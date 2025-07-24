@@ -1,15 +1,16 @@
 ﻿---
-type: TrizContradiction
 aliases:
 - Manufacturing_Precision+Prior_action-Speed
-license: CC BY-SA 4.0
-copyright: https://github.com/SpocWeb
+Confidential: public
+copyright: "https://github.com/SpocWeb"
 IsDeleted: false
 IsReadOnly: false
-Confidential: public
-tags: 
+license: "CC BY-SA 4.0"
+tags:
 - Triz/Contradiction
+type: TrizContradiction
 ---
+
 [name::Manufacturing_Precision+Prior_action-Speed]
 [SpocWebEntityId::25508]
 + [#has_/Pros :: [[Triz-Manufacturing_Precision]]]

@@ -1,37 +1,36 @@
----
-location:
-- 23.7
-- 90.36
-type: Country
-tags:
-- geo/Country
-SpocWebEntityId: 26843
-isDeleted: false
-confidential: public
-license: CC BY-SA 4.0
-isReadOnly: false
-source: https://datahub.io/core/country-codes
-cssclasses: Country
-publish: true
-title: Bangladesh
-linkTitle: 
-keywords: 
-layout: 
-draft: false
-publishDate: 
-expiryDate: 
+﻿---
 aliases:
 - Bangladesh
 - بنغلاديش
 - 孟加拉国
 - Бангладеш
-- the People's Republic of Bangladesh
-- la República Popular de Bangladesh
+- "the People's Republic of Bangladesh"
+- "la República Popular de Bangladesh"
+confidential: public
+cssclasses: Country
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords: 
 Languages:
 - bn-BD
 - en
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: 
+location:
+- 23.7
+- 90.36
+publish: true
+publishDate: 
+source: "https://datahub.io/core/country-codes"
+SpocWebEntityId: 26843
+tags:
+- geo/Country
+title: Bangladesh
+type: Country
 ---
-
 
 [	ISO4217-currency_alphabetic	 :: BDT ] 
 [	ISO4217-currency_name	 :: Taka ] 

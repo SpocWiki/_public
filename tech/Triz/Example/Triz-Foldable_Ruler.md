@@ -1,15 +1,16 @@
 ﻿---
-type: TrizExample
 aliases:
-- Foldable Ruler
-license: CC BY-SA 4.0
-copyright: https://github.com/SpocWeb
+- "Foldable Ruler"
+Confidential: public
+copyright: "https://github.com/SpocWeb"
 IsDeleted: false
 IsReadOnly: false
-Confidential: public
-tags: 
+license: "CC BY-SA 4.0"
+tags:
 - Triz/Principle/Example
+type: TrizExample
 ---
+
 [name::Foldable Ruler]
 [SpocWebEntityId::22347]
 [Triz-Principle-Sub::[[Triz-Fragment]]]

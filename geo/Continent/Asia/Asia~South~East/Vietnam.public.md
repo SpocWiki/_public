@@ -1,41 +1,40 @@
----
-location:
-- 15.8917
-- 106.26
-type: Country
-tags:
-- geo/Country
-SpocWebEntityId: 27055
-isDeleted: false
-confidential: public
-license: CC BY-SA 4.0
-isReadOnly: false
-source: https://datahub.io/core/country-codes
-cssclasses: Country
-publish: true
-title: Vietnam
-linkTitle: 
-keywords: 
-layout: 
-draft: false
-publishDate: 
-expiryDate: 
+﻿---
 aliases:
 - Vietnam
-- Viet Nam
-- فييت نام
+- "Viet Nam"
+- "فييت نام"
 - 越南
 - Вьетнам
-- the Socialist Republic of Viet Nam
-- la República Socialista de Viet Nam
+- "the Socialist Republic of Viet Nam"
+- "la República Socialista de Viet Nam"
+confidential: public
+cssclasses: Country
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords: 
 Languages:
 - vi
 - en
 - fr
 - zh
 - km
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: 
+location:
+- 15.8917
+- 106.26
+publish: true
+publishDate: 
+source: "https://datahub.io/core/country-codes"
+SpocWebEntityId: 27055
+tags:
+- geo/Country
+title: Vietnam
+type: Country
 ---
-
 
 [	ISO4217-currency_alphabetic	 :: VND ] 
 [	ISO4217-currency_name	 :: Dong ] 

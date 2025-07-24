@@ -1,15 +1,16 @@
 ﻿---
-type: TrizExample
 aliases:
-- electrostatically mix
-license: CC BY-SA 4.0
-copyright: https://github.com/SpocWeb
+- "electrostatically mix"
+Confidential: public
+copyright: "https://github.com/SpocWeb"
 IsDeleted: false
 IsReadOnly: false
-Confidential: public
-tags: 
+license: "CC BY-SA 4.0"
+tags:
 - Triz/Principle/Example
+type: TrizExample
 ---
+
 [name::electrostatically mix]
 [SpocWebEntityId::22505]
 [Triz-Principle-Sub::[[Triz-use-EM-Field]]]

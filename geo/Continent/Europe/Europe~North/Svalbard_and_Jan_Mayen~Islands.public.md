@@ -1,14 +1,12 @@
----
-
-type: Country
+﻿---
+confidential: public
+isDeleted: false
+SpocWebEntityId: 27017
 tags:
 - geo/Country
-
-SpocWebEntityId: 27017
-isDeleted: false
-confidential: public
-
+type: Country
 ---
+
 [ISO2::SJ] 
 [ISO3::SJM] 
 ```leaflet

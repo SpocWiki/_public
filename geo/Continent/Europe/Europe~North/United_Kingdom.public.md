@@ -1,13 +1,15 @@
----
-location: [52.8829,-2.14482] 
-type: Country
-SpocWebEntityId: 26899
-isDeleted: false
+﻿---
 confidential: public
+isDeleted: false
+location:
+- 52.8829
+- -2.14482
+SpocWebEntityId: 26899
 tags:
 - geo/Country
-
+type: Country
 ---
+
 [ISO2::GB] 
 [ISO3::GBR] 
 

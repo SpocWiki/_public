@@ -1,34 +1,20 @@
----
-location:
-- 14.59
-- 120.97
-type: Country
-tags:
-- geo/Country
-SpocWebEntityId: 26994
-isDeleted: false
-confidential: public
-license: CC BY-SA 4.0
-isReadOnly: false
-source: https://datahub.io/core/country-codes
-cssclasses: Country
-publish: true
-title: Philippines
-linkTitle: 
-keywords: 
-layout: 
-draft: false
-publishDate: 
-expiryDate: 
+﻿---
 aliases:
 - Philippines
 - Filipinas
 - الفلبين
 - 菲律宾
 - Филиппины
-- the Republic of the Philippines
-- Philippines (the)
-- la República de Filipinas
+- "the Republic of the Philippines"
+- "Philippines (the)"
+- "la República de Filipinas"
+confidential: public
+cssclasses: Country
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords: 
 Languages:
 - tl
 - en-PH
@@ -54,8 +40,21 @@ Languages:
 - yka
 - mta
 - abx
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: 
+location:
+- 14.59
+- 120.97
+publish: true
+publishDate: 
+source: "https://datahub.io/core/country-codes"
+SpocWebEntityId: 26994
+tags:
+- geo/Country
+title: Philippines
+type: Country
 ---
-
 
 [	ISO4217-currency_alphabetic	 :: PHP ] 
 [	ISO4217-currency_name	 :: Philippine Peso ] 

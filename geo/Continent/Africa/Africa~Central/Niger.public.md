@@ -1,42 +1,41 @@
----
-location:
-- 13.5333
-- 2.08333
-type: Country
-tags:
-- geo/Country
-SpocWebEntityId: 26979
-isDeleted: false
-confidential: public
-license: CC BY-SA 4.0
-isReadOnly: false
-source: https://datahub.io/core/country-codes
-cssclasses: Country
-publish: true
-title: Niger
-linkTitle: 
-keywords: 
-layout: 
-draft: false
-publishDate: 
-expiryDate: 
+﻿---
 aliases:
 - Niger
 - Níger
 - النيجر
 - 尼日尔
 - Нигер
-- the Republic of the Niger
-- Niger (the)
-- la República del Níger
-- Níger (el)
+- "the Republic of the Niger"
+- "Niger (the)"
+- "la República del Níger"
+- "Níger (el)"
+confidential: public
+cssclasses: Country
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords: 
 Languages:
 - fr-NE
 - ha
 - kr
 - dje
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: 
+location:
+- 13.5333
+- 2.08333
+publish: true
+publishDate: 
+source: "https://datahub.io/core/country-codes"
+SpocWebEntityId: 26979
+tags:
+- geo/Country
+title: Niger
+type: Country
 ---
-
 
 [	ISO4217-currency_alphabetic	 :: XOF ] 
 [	ISO4217-currency_name	 :: CFA Franc BCEAO ] 

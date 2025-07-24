@@ -1,37 +1,36 @@
----
-location:
-- -4.61667
-- 55.45
-type: Country
-tags:
-- geo/Country
-SpocWebEntityId: 27011
-isDeleted: false
-confidential: public
-license: CC BY-SA 4.0
-isReadOnly: false
-source: https://datahub.io/core/country-codes
-cssclasses: Country
-publish: true
-title: Seychelles
-linkTitle: 
-keywords: 
-layout: 
-draft: false
-publishDate: 
-expiryDate: 
+﻿---
 aliases:
 - Seychelles
 - سيشيل
 - 塞舌尔
-- Сейшельские Острова
-- the Republic of Seychelles
-- la República de Seychelles
+- "Сейшельские Острова"
+- "the Republic of Seychelles"
+- "la República de Seychelles"
+confidential: public
+cssclasses: Country
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords: 
 Languages:
 - en-SC
 - fr-SC
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: 
+location:
+- -4.61667
+- 55.45
+publish: true
+publishDate: 
+source: "https://datahub.io/core/country-codes"
+SpocWebEntityId: 27011
+tags:
+- geo/Country
+title: Seychelles
+type: Country
 ---
-
 
 [	ISO4217-currency_alphabetic	 :: SCR ] 
 [	ISO4217-currency_name	 :: Seychelles Rupee ] 

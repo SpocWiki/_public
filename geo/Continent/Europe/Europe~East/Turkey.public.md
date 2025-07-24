@@ -1,25 +1,4 @@
----
-location:
-- 39.3233
-- 32.37
-type: Country
-tags:
-- geo/Country
-SpocWebEntityId: 27039
-isDeleted: false
-confidential: public
-license: CC BY-SA 4.0
-isReadOnly: false
-source: https://datahub.io/core/country-codes
-cssclasses: Country
-publish: true
-title: Turkey
-linkTitle: 
-keywords: 
-layout: 
-draft: false
-publishDate: 
-expiryDate: 
+﻿---
 aliases:
 - Turkey
 - Turquía
@@ -27,16 +6,36 @@ aliases:
 - تركيا
 - 土耳其
 - Турция
-- the Republic of Turkey
-- la República de Turquía
+- "the Republic of Turkey"
+- "la República de Turquía"
+confidential: public
+cssclasses: Country
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords: 
 Languages:
 - tr-TR
 - ku
 - diq
 - az
 - av
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: 
+location:
+- 39.3233
+- 32.37
+publish: true
+publishDate: 
+source: "https://datahub.io/core/country-codes"
+SpocWebEntityId: 27039
+tags:
+- geo/Country
+title: Turkey
+type: Country
 ---
-
 
 [	ISO4217-currency_alphabetic	 :: TRY ] 
 [	ISO4217-currency_name	 :: Turkish Lira ] 

@@ -1,25 +1,4 @@
----
-location:
-- 9.05
-- 38.7
-type: Country
-tags:
-- geo/Country
-SpocWebEntityId: 26890
-isDeleted: false
-confidential: public
-license: CC BY-SA 4.0
-isReadOnly: false
-source: https://datahub.io/core/country-codes
-cssclasses: Country
-publish: true
-title: Ethiopia
-linkTitle: 
-keywords: 
-layout: 
-draft: false
-publishDate: 
-expiryDate: 
+﻿---
 aliases:
 - Ethiopia
 - Etiopía
@@ -27,8 +6,15 @@ aliases:
 - إثيوبيا
 - 埃塞俄比亚
 - Эфиопия
-- the Federal Democratic Republic of Ethiopia
-- la República Democrática Federal de Etiopía
+- "the Federal Democratic Republic of Ethiopia"
+- "la República Democrática Federal de Etiopía"
+confidential: public
+cssclasses: Country
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords: 
 Languages:
 - am
 - en-ET
@@ -36,8 +22,21 @@ Languages:
 - ti-ET
 - so-ET
 - sid
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: 
+location:
+- 9.05
+- 38.7
+publish: true
+publishDate: 
+source: "https://datahub.io/core/country-codes"
+SpocWebEntityId: 26890
+tags:
+- geo/Country
+title: Ethiopia
+type: Country
 ---
-
 
 [	ISO4217-currency_alphabetic	 :: ETB ] 
 [	ISO4217-currency_name	 :: Ethiopian Birr ] 

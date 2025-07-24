@@ -1,37 +1,36 @@
 ﻿---
-location:
-- -8.51667
-- 179.217
-type: Country
-tags:
-- geo/Country
-SpocWebEntityId: 27041
-isDeleted: false
-confidential: public
-license: CC BY-SA 4.0
-isReadOnly: false
-source: https://datahub.io/core/country-codes
-cssclasses: Country
-publish: true
-title: Tuvalu
-linkTitle: 
-keywords: 
-layout: 
-draft: false
-publishDate: 
-expiryDate: 
 aliases:
 - Tuvalu
 - توفالو
 - 图瓦卢
 - Тувалу
+confidential: public
+cssclasses: Country
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords: 
 Languages:
 - tvl
 - en
 - sm
 - gil
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: 
+location:
+- -8.51667
+- 179.217
+publish: true
+publishDate: 
+source: "https://datahub.io/core/country-codes"
+SpocWebEntityId: 27041
+tags:
+- geo/Country
+title: Tuvalu
+type: Country
 ---
-
 
 [	ISO4217-currency_alphabetic	 :: AUD ]
 [	ISO4217-currency_name	 :: Australian Dollar ]

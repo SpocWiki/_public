@@ -1,15 +1,16 @@
 ﻿---
-type: TrizExample
 aliases:
-- Amplitude Modulation
-license: CC BY-SA 4.0
-copyright: https://github.com/SpocWeb
+- "Amplitude Modulation"
+Confidential: public
+copyright: "https://github.com/SpocWeb"
 IsDeleted: false
 IsReadOnly: false
-Confidential: public
-tags: 
+license: "CC BY-SA 4.0"
+tags:
 - Triz/Principle/Example
+type: TrizExample
 ---
+
 [name::Amplitude Modulation]
 [SpocWebEntityId::22462]
 [Triz-Principle-Sub::[[Triz-vary-oscillations]]]

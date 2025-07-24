@@ -1,17 +1,16 @@
----
-type: TrizPrinciple
-license: CC BY-SA 4.0
-publish: true
+﻿---
+aliases:
+- 
 confidential: public
 isDeleted: false
 isReadOnly: false
-
-tags: 
+license: "CC BY-SA 4.0"
+publish: true
+tags:
 - Triz/Principle
-
-aliases:
-- 
+type: TrizPrinciple
 ---
+
 SpocWebEntityId: {{SpocWebEntityId}}
 
 [name::{{name}}]

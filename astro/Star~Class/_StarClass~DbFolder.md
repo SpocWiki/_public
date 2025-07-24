@@ -1,7 +1,5 @@
----
-
-database-plugin: basic
-
+﻿---
+database_plugin: basic
 ---
 
 A DbFolder File displays only the Table; nothing of this MetaData shows,

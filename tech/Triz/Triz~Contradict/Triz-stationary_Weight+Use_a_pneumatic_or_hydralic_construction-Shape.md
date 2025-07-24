@@ -1,15 +1,16 @@
 ﻿---
-type: TrizContradiction
 aliases:
 - stationary_Weight+Use_a_pneumatic_or_hydralic_construction-Shape
-license: CC BY-SA 4.0
-copyright: https://github.com/SpocWeb
+Confidential: public
+copyright: "https://github.com/SpocWeb"
 IsDeleted: false
 IsReadOnly: false
-Confidential: public
-tags: 
+license: "CC BY-SA 4.0"
+tags:
 - Triz/Contradiction
+type: TrizContradiction
 ---
+
 [name::stationary_Weight+Use_a_pneumatic_or_hydralic_construction-Shape]
 [SpocWebEntityId::22718]
 + [#has_/Pros :: [[Triz-stationary_Weight]]]

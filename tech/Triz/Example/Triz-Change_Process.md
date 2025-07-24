@@ -1,15 +1,16 @@
 ﻿---
-type: TrizExample
 aliases:
-- Change Process
-license: CC BY-SA 4.0
-copyright: https://github.com/SpocWeb
+- "Change Process"
+Confidential: public
+copyright: "https://github.com/SpocWeb"
 IsDeleted: false
 IsReadOnly: false
-Confidential: public
-tags: 
+license: "CC BY-SA 4.0"
+tags:
 - Triz/Principle/Example
+type: TrizExample
 ---
+
 [name::Change Process]
 [SpocWebEntityId::22482]
 [Triz-Principle-Sub::[[Triz-vary-feedback]]]

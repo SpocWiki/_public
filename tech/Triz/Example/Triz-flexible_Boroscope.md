@@ -1,15 +1,16 @@
 ﻿---
-type: TrizExample
 aliases:
-- flexible Boroscope
-license: CC BY-SA 4.0
-copyright: https://github.com/SpocWeb
+- "flexible Boroscope"
+Confidential: public
+copyright: "https://github.com/SpocWeb"
 IsDeleted: false
 IsReadOnly: false
-Confidential: public
-tags: 
+license: "CC BY-SA 4.0"
+tags:
 - Triz/Principle/Example
+type: TrizExample
 ---
+
 [name::flexible Boroscope]
 [SpocWebEntityId::22431]
 [Triz-Principle-Sub::[[Triz-movable-part]]]

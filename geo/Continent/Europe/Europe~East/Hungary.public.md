@@ -1,25 +1,4 @@
----
-location:
-- 47.2796
-- 19.1508
-type: Country
-tags:
-- geo/Country
-SpocWebEntityId: 26921
-isDeleted: false
-confidential: public
-license: CC BY-SA 4.0
-isReadOnly: false
-source: https://datahub.io/core/country-codes
-cssclasses: Country
-publish: true
-title: Hungary
-linkTitle: 
-keywords: 
-layout: 
-draft: false
-publishDate: 
-expiryDate: 
+﻿---
 aliases:
 - Hungary
 - Hungría
@@ -27,10 +6,30 @@ aliases:
 - هنغاريا
 - 匈牙利
 - Венгрия
+confidential: public
+cssclasses: Country
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords: 
 Languages:
 - hu-HU
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: 
+location:
+- 47.2796
+- 19.1508
+publish: true
+publishDate: 
+source: "https://datahub.io/core/country-codes"
+SpocWebEntityId: 26921
+tags:
+- geo/Country
+title: Hungary
+type: Country
 ---
-
 
 [	ISO4217-currency_alphabetic	 :: HUF ] 
 [	ISO4217-currency_name	 :: Forint ] 

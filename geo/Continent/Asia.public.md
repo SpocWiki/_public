@@ -1,13 +1,11 @@
----
-type: Continent
+﻿---
 confidential: public
-SpocWebEntityId: 27161
-
-tags:
-  - geo/Continent
 isDeleted: false
+SpocWebEntityId: 27161
+tags:
+- geo/Continent
+type: Continent
 ---
-
 
 ```leaflet
 id: Asia

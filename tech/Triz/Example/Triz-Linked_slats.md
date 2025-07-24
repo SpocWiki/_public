@@ -1,15 +1,16 @@
 ﻿---
-type: TrizExample
 aliases:
-- Linked slats
-license: CC BY-SA 4.0
-copyright: https://github.com/SpocWeb
+- "Linked slats"
+Confidential: public
+copyright: "https://github.com/SpocWeb"
 IsDeleted: false
 IsReadOnly: false
-Confidential: public
-tags: 
+license: "CC BY-SA 4.0"
+tags:
 - Triz/Principle/Example
+type: TrizExample
 ---
+
 [name::Linked slats]
 [SpocWebEntityId::22367]
 [Triz-Principle-Sub::[[Triz-merge-in-time]]]

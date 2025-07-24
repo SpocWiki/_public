@@ -1,39 +1,38 @@
 ﻿---
+aliases:
+- Venezuela
+- "Venezuela (Bolivarian Republic of)"
+- "Venezuela (República Bolivariana de)"
+- "Venezuela (République bolivarienne du)"
+- "فنزويلا (جمهورية - البوليفارية)"
+- 委内瑞拉(玻利瓦尔共和国)
+- "Венесуэла (Боливарианская Республика)"
+- "the Bolivarian Republic of Venezuela"
+- "la República Bolivariana de Venezuela"
+confidential: public
+cssclasses: Country
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords: 
+Languages:
+- es-VE
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: 
 location:
 - 10.5
 - -66.93
-type: Country
+publish: true
+publishDate: 
+source: "https://datahub.io/core/country-codes"
+SpocWebEntityId: 27052
 tags:
 - geo/Country
-SpocWebEntityId: 27052
-isDeleted: false
-confidential: public
-license: CC BY-SA 4.0
-isReadOnly: false
-source: https://datahub.io/core/country-codes
-cssclasses: Country
-publish: true
 title: Venezuela
-linkTitle: 
-keywords: 
-layout: 
-draft: false
-publishDate: 
-expiryDate: 
-aliases:
-- Venezuela
-- Venezuela (Bolivarian Republic of)
-- Venezuela (República Bolivariana de)
-- Venezuela (République bolivarienne du)
-- فنزويلا (جمهورية - البوليفارية)
-- 委内瑞拉(玻利瓦尔共和国)
-- Венесуэла (Боливарианская Республика)
-- the Bolivarian Republic of Venezuela
-- la República Bolivariana de Venezuela
-Languages:
-- es-VE
+type: Country
 ---
-
 
 [	ISO4217-currency_alphabetic	 :: VES ] 
 [	ISO4217-currency_name	 :: Bolívar ] 

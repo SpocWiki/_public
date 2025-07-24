@@ -1,38 +1,37 @@
----
-location:
-- 27.7
-- 85.3167
-type: Country
-tags:
-- geo/Country
-SpocWebEntityId: 26985
-isDeleted: false
-confidential: public
-license: CC BY-SA 4.0
-isReadOnly: false
-source: https://datahub.io/core/country-codes
-cssclasses: Country
-publish: true
-title: Nepal
-linkTitle: 
-keywords: 
-layout: 
-draft: false
-publishDate: 
-expiryDate: 
+﻿---
 aliases:
 - Nepal
 - Népal
 - نيبال
 - 尼泊尔
 - Непал
-- the Federal Democratic Republic of Nepal
-- la República Democrática Federal de Nepal
+- "the Federal Democratic Republic of Nepal"
+- "la República Democrática Federal de Nepal"
+confidential: public
+cssclasses: Country
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords: 
 Languages:
 - ne
 - en
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: 
+location:
+- 27.7
+- 85.3167
+publish: true
+publishDate: 
+source: "https://datahub.io/core/country-codes"
+SpocWebEntityId: 26985
+tags:
+- geo/Country
+title: Nepal
+type: Country
 ---
-
 
 [	ISO4217-currency_alphabetic	 :: NPR ] 
 [	ISO4217-currency_name	 :: Nepalese Rupee ] 

@@ -1,25 +1,4 @@
----
-location:
-- 1.28
-- 103.85
-type: Country
-tags:
-- geo/Country
-SpocWebEntityId: 27014
-isDeleted: false
-confidential: public
-license: CC BY-SA 4.0
-isReadOnly: false
-source: https://datahub.io/core/country-codes
-cssclasses: Country
-publish: true
-title: Singapore
-linkTitle: 
-keywords: 
-layout: 
-draft: false
-publishDate: 
-expiryDate: 
+﻿---
 aliases:
 - Singapore
 - Singapur
@@ -27,16 +6,36 @@ aliases:
 - سنغافورة
 - 新加坡
 - Сингапур
-- the Republic of Singapore
-- la República de Singapur
+- "the Republic of Singapore"
+- "la República de Singapur"
+confidential: public
+cssclasses: Country
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords: 
 Languages:
 - cmn
 - en-SG
 - ms-SG
 - ta-SG
 - zh-SG
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: 
+location:
+- 1.28
+- 103.85
+publish: true
+publishDate: 
+source: "https://datahub.io/core/country-codes"
+SpocWebEntityId: 27014
+tags:
+- geo/Country
+title: Singapore
+type: Country
 ---
-
 
 [	ISO4217-currency_alphabetic	 :: SGD ] 
 [	ISO4217-currency_name	 :: Singapore Dollar ] 

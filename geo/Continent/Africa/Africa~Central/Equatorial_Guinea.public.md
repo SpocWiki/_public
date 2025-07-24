@@ -1,39 +1,38 @@
----
-location:
-- 3.75
-- 8.78333
-type: Country
-tags:
-- geo/Country
-SpocWebEntityId: 26909
-isDeleted: false
-confidential: public
-license: CC BY-SA 4.0
-isReadOnly: false
-source: https://datahub.io/core/country-codes
-cssclasses: Country
-publish: true
-title: Equatorial Guinea
-linkTitle: 
-keywords: 
-layout: 
-draft: false
-publishDate: 
-expiryDate: 
+﻿---
 aliases:
-- Equatorial Guinea
-- Guinea Ecuatorial
-- Guinée équatoriale
-- غينيا الاستوائية
+- "Equatorial Guinea"
+- "Guinea Ecuatorial"
+- "Guinée équatoriale"
+- "غينيا الاستوائية"
 - 赤道几内亚
-- Экваториальная Гвинея
-- the Republic of Equatorial Guinea
-- la República de Guinea Ecuatorial
+- "Экваториальная Гвинея"
+- "the Republic of Equatorial Guinea"
+- "la República de Guinea Ecuatorial"
+confidential: public
+cssclasses: Country
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords: 
 Languages:
 - es-GQ
 - fr
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: 
+location:
+- 3.75
+- 8.78333
+publish: true
+publishDate: 
+source: "https://datahub.io/core/country-codes"
+SpocWebEntityId: 26909
+tags:
+- geo/Country
+title: "Equatorial Guinea"
+type: Country
 ---
-
 
 [	ISO4217-currency_alphabetic	 :: XAF ] 
 [	ISO4217-currency_name	 :: CFA Franc BEAC ] 

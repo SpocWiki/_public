@@ -1,15 +1,16 @@
 ﻿---
-type: TrizContradiction
 aliases:
 - Strength+Use_of_porous_material-Substance-Loss
-license: CC BY-SA 4.0
-copyright: https://github.com/SpocWeb
+Confidential: public
+copyright: "https://github.com/SpocWeb"
 IsDeleted: false
 IsReadOnly: false
-Confidential: public
-tags: 
+license: "CC BY-SA 4.0"
+tags:
 - Triz/Contradiction
+type: TrizContradiction
 ---
+
 [name::Strength+Use_of_porous_material-Substance-Loss]
 [SpocWebEntityId::24015]
 + [#has_/Pros :: [[Triz-Strength]]]

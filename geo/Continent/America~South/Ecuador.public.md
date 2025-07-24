@@ -1,38 +1,37 @@
----
-location:
-- -0.23
-- -78.5
-type: Country
-tags:
-- geo/Country
-SpocWebEntityId: 26884
-isDeleted: false
-confidential: public
-license: CC BY-SA 4.0
-isReadOnly: false
-source: https://datahub.io/core/country-codes
-cssclasses: Country
-publish: true
-title: Ecuador
-linkTitle: 
-keywords: 
-layout: 
-draft: false
-publishDate: 
-expiryDate: 
+﻿---
 aliases:
 - Ecuador
 - Équateur
 - إكوادور
 - 厄瓜多尔
 - Эквадор
-- the Republic of Ecuador
-- la República del Ecuador
-- Ecuador (el)
+- "the Republic of Ecuador"
+- "la República del Ecuador"
+- "Ecuador (el)"
+confidential: public
+cssclasses: Country
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords: 
 Languages:
 - es-EC
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: 
+location:
+- -0.23
+- -78.5
+publish: true
+publishDate: 
+source: "https://datahub.io/core/country-codes"
+SpocWebEntityId: 26884
+tags:
+- geo/Country
+title: Ecuador
+type: Country
 ---
-
 
 [	ISO4217-currency_alphabetic	 :: USD ] 
 [	ISO4217-currency_name	 :: US Dollar ] 

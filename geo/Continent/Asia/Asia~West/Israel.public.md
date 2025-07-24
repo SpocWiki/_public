@@ -1,37 +1,37 @@
----
-location:
-- 32.23
-- 35
-type: Country
-tags:
-- geo/Country
-SpocWebEntityId: 26924
-isDeleted: false
-confidential: public
-license: CC BY-SA 4.0
-isReadOnly: false
-source: https://datahub.io/core/country-codes
-cssclasses: Country
-publish: true
-title: Israel
-linkTitle: 
-keywords: 
-layout: 
-draft: false
-publishDate: 
-expiryDate: 
+﻿---
 aliases:
 - Israel
 - Israël
 - إسرائيل
 - 以色列
 - Израиль
-- the State of Israel
-- el Estado de Israel
+- "the State of Israel"
+- "el Estado de Israel"
+confidential: public
+cssclasses: Country
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords: 
 Languages:
 - he
 - ar-IL
 - en-IL
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: 
+location:
+- 32.23
+- 35
+publish: true
+publishDate: 
+source: "https://datahub.io/core/country-codes"
+SpocWebEntityId: 26924
+tags:
+- geo/Country
+title: Israel
+type: Country
 ---
 
 #has_/time_/created :: 1948-05-14 

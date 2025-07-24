@@ -1,15 +1,16 @@
 ﻿---
-type: TrizExample
 aliases:
-- regenerate Structure
-license: CC BY-SA 4.0
-copyright: https://github.com/SpocWeb
+- "regenerate Structure"
+Confidential: public
+copyright: "https://github.com/SpocWeb"
 IsDeleted: false
 IsReadOnly: false
-Confidential: public
-tags: 
+license: "CC BY-SA 4.0"
+tags:
 - Triz/Principle/Example
+type: TrizExample
 ---
+
 [name::regenerate Structure]
 [SpocWebEntityId::22489]
 [Triz-Principle-Sub::[[Triz-add-functions]]]

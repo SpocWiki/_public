@@ -1,15 +1,16 @@
 ﻿---
-type: TrizContradiction
 aliases:
 - 22169+Rejecting_and_regenerating_parts-10307
-license: CC BY-SA 4.0
-copyright: https://github.com/SpocWeb
+Confidential: public
+copyright: "https://github.com/SpocWeb"
 IsDeleted: false
 IsReadOnly: false
-Confidential: public
-tags: 
+license: "CC BY-SA 4.0"
+tags:
 - Triz/Contradiction
+type: TrizContradiction
 ---
+
 [name::22169+Rejecting_and_regenerating_parts-10307]
 [SpocWebEntityId::23825]
 + [#has_/Pros :: [[Triz-22169]]]

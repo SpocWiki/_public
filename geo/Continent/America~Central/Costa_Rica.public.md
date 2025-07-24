@@ -1,37 +1,36 @@
----
-location:
-- 9.95
-- -84.08
-type: Country
-tags:
-- geo/Country
-SpocWebEntityId: 26872
-isDeleted: false
-confidential: public
-license: CC BY-SA 4.0
-isReadOnly: false
-source: https://datahub.io/core/country-codes
-cssclasses: Country
-publish: true
-title: Costa Rica
-linkTitle: 
-keywords: 
-layout: 
-draft: false
-publishDate: 
-expiryDate: 
+﻿---
 aliases:
-- Costa Rica
+- "Costa Rica"
 - كوستاريكا
 - 哥斯达黎加
 - Коста-Рика
-- the Republic of Costa Rica
-- la República de Costa Rica
+- "the Republic of Costa Rica"
+- "la República de Costa Rica"
+confidential: public
+cssclasses: Country
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords: 
 Languages:
 - es-CR
 - en
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: 
+location:
+- 9.95
+- -84.08
+publish: true
+publishDate: 
+source: "https://datahub.io/core/country-codes"
+SpocWebEntityId: 26872
+tags:
+- geo/Country
+title: "Costa Rica"
+type: Country
 ---
-
 
 [	ISO4217-currency_alphabetic	 :: CRC ] 
 [	ISO4217-currency_name	 :: Costa Rican Colon ] 

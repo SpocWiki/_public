@@ -1,16 +1,16 @@
----
-location:
-  - -63.1
-  - 173.35
-  - 400
-type: Star
-tags:
-  - astro/Star
-SpocWebEntityId: 27242
-isDeleted: false
-isReadOnly: false
+﻿---
 confidential: public
 has_id_wikidata: Q13102
+isDeleted: false
+isReadOnly: false
+location:
+- -63.1
+- 173.35
+- 400
+SpocWebEntityId: 27242
+tags:
+- astro/Star
+type: Star
 ---
 
 # [[Acrux]] 

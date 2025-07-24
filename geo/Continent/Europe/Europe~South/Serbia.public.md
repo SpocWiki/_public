@@ -1,40 +1,39 @@
----
-location:
-- 44.82
-- 20.48
-type: Country
-tags:
-- geo/Country
-SpocWebEntityId: 4938
-isDeleted: false
-confidential: public
-license: CC BY-SA 4.0
-isReadOnly: false
-source: https://datahub.io/core/country-codes
-cssclasses: Country
-publish: true
-title: Serbia
-linkTitle: 
-keywords: 
-layout: 
-draft: false
-publishDate: 
-expiryDate: 
+﻿---
 aliases:
 - Serbia
 - Serbie
 - صربيا
 - 塞尔维亚
 - Сербия
-- the Republic of Serbia
-- la República de Serbia
+- "the Republic of Serbia"
+- "la República de Serbia"
+confidential: public
+cssclasses: Country
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords: 
 Languages:
 - sr
 - hu
 - bs
 - rom
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: 
+location:
+- 44.82
+- 20.48
+publish: true
+publishDate: 
+source: "https://datahub.io/core/country-codes"
+SpocWebEntityId: 4938
+tags:
+- geo/Country
+title: Serbia
+type: Country
 ---
-
 
 [	ISO4217-currency_alphabetic	 :: RSD ] 
 [	ISO4217-currency_name	 :: Serbian Dinar ] 

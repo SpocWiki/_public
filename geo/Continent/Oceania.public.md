@@ -1,11 +1,10 @@
----
-type: Continent
-SpocWebEntityId: 27201
+﻿---
 confidential: public
-
-tags:
-  - geo/Continent
 isDeleted: false
+SpocWebEntityId: 27201
+tags:
+- geo/Continent
+type: Continent
 ---
 
 ```leaflet

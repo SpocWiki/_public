@@ -1,7 +1,5 @@
----
-
-database-plugin: basic
-
+﻿---
+database_plugin: basic
 ---
 
 ```yaml:dbfolder

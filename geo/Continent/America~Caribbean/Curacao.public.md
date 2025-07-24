@@ -1,30 +1,4 @@
 ﻿---
-location: [ 12.2 , -69 ] 
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-source: https://datahub.io/core/country-codes
-
-#Obsidian well-known Keys
-cssclasses: Country
-publish: true
-
-# Hugo Tags
-type: Country
-title: Curaçao
-
-linkTitle: 
-keywords: 
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- geo/Country
-
 aliases:
 - Curaçao
 - Curaçao
@@ -37,10 +11,29 @@ aliases:
 - 
 - 
 - 
-
-Languages: [nl,pap]
-
-
+confidential: public
+cssclasses: Country
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords: 
+Languages:
+- nl
+- pap
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: 
+location:
+- 12.2
+- -69
+publish: true
+publishDate: 
+source: "https://datahub.io/core/country-codes"
+tags:
+- geo/Country
+title: Curaçao
+type: Country
 ---
 
 [	ISO4217-currency_alphabetic	 :: ANG ]

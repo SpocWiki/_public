@@ -1,18 +1,16 @@
----
-
-type: Country
-created:
-destroyed:
-perished:
-demised:
+﻿---
+confidential: public
+created: 
+demised: 
+destroyed: 
+isDeleted: false
+perished: 
+SpocWebEntityId: 21455
 tags:
 - geo/Country
-
-SpocWebEntityId: 21455
-isDeleted: false
-confidential: public
-
+type: Country
 ---
+
 [ISO2::] 
 [ISO3::] 
 ```leaflet

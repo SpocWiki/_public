@@ -1,17 +1,16 @@
----
-type: TrizPrincipleSub
-license: CC BY-SA 4.0
-copyright: https://github.com/SpocWiki
-IsDeleted: false
-IsReadOnly: false
-Confidential: public
-
-tags: 
-- Triz/Principle/Sub
-
+﻿---
 aliases:
 - 
+Confidential: public
+copyright: "https://github.com/SpocWiki"
+IsDeleted: false
+IsReadOnly: false
+license: "CC BY-SA 4.0"
+tags:
+- Triz/Principle/Sub
+type: TrizPrincipleSub
 ---
+
 SpocWebEntityId: {{SpocWebEntityId}}
 TrizPrincipleId: {{PrincipleId}}
 

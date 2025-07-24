@@ -1,25 +1,4 @@
----
-location:
-- 27.417
-- 90.435
-type: Country
-tags:
-- geo/Country
-SpocWebEntityId: 26855
-isDeleted: false
-confidential: public
-license: CC BY-SA 4.0
-isReadOnly: false
-source: https://datahub.io/core/country-codes
-cssclasses: Country
-publish: true
-title: Bhutan
-linkTitle: 
-keywords: 
-layout: 
-draft: false
-publishDate: 
-expiryDate: 
+﻿---
 aliases:
 - Bhutan
 - Bhután
@@ -27,12 +6,32 @@ aliases:
 - بوتان
 - 不丹
 - Бутан
-- the Kingdom of Bhutan
-- el Reino de Bhután
+- "the Kingdom of Bhutan"
+- "el Reino de Bhután"
+confidential: public
+cssclasses: Country
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords: 
 Languages:
 - dz
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: 
+location:
+- 27.417
+- 90.435
+publish: true
+publishDate: 
+source: "https://datahub.io/core/country-codes"
+SpocWebEntityId: 26855
+tags:
+- geo/Country
+title: Bhutan
+type: Country
 ---
-
 
 [	ISO4217-currency_alphabetic	 :: INR,BTN ] 
 [	ISO4217-currency_name	 :: Indian Rupee,Ngultrum ] 

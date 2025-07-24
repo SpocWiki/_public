@@ -1,15 +1,16 @@
 ﻿---
-type: TrizContradiction
 aliases:
 - Strength+Inversion-Complexity
-license: CC BY-SA 4.0
-copyright: https://github.com/SpocWeb
+Confidential: public
+copyright: "https://github.com/SpocWeb"
 IsDeleted: false
 IsReadOnly: false
-Confidential: public
-tags: 
+license: "CC BY-SA 4.0"
+tags:
 - Triz/Contradiction
+type: TrizContradiction
 ---
+
 [name::Strength+Inversion-Complexity]
 [SpocWebEntityId::24054]
 + [#has_/Pros :: [[Triz-Strength]]]

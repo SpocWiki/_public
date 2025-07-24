@@ -1,15 +1,16 @@
 ﻿---
-type: TrizContradiction
 aliases:
 - Strength+Counterweight-Speed
-license: CC BY-SA 4.0
-copyright: https://github.com/SpocWeb
+Confidential: public
+copyright: "https://github.com/SpocWeb"
 IsDeleted: false
 IsReadOnly: false
-Confidential: public
-tags: 
+license: "CC BY-SA 4.0"
+tags:
 - Triz/Contradiction
+type: TrizContradiction
 ---
+
 [name::Strength+Counterweight-Speed]
 [SpocWebEntityId::23977]
 + [#has_/Pros :: [[Triz-Strength]]]

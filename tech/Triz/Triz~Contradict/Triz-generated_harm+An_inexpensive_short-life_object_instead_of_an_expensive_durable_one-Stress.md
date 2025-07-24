@@ -1,15 +1,16 @@
 ﻿---
-type: TrizContradiction
 aliases:
 - generated_harm+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Stress
-license: CC BY-SA 4.0
-copyright: https://github.com/SpocWeb
+Confidential: public
+copyright: "https://github.com/SpocWeb"
 IsDeleted: false
 IsReadOnly: false
-Confidential: public
-tags: 
+license: "CC BY-SA 4.0"
+tags:
 - Triz/Contradiction
+type: TrizContradiction
 ---
+
 [name::generated_harm+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Stress]
 [SpocWebEntityId::25752]
 + [#has_/Pros :: [[Triz-generated_harm]]]

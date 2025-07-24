@@ -1,41 +1,40 @@
----
-location:
-- 43.25
-- -11.7
-type: Country
-tags:
-- geo/Country
-SpocWebEntityId: 26938
-isDeleted: false
-confidential: public
-license: CC BY-SA 4.0
-isReadOnly: false
-source: https://datahub.io/core/country-codes
-cssclasses: Country
-publish: true
-title: Comoros
-linkTitle: 
-keywords: 
-layout: 
-draft: false
-publishDate: 
-expiryDate: 
+﻿---
 aliases:
 - Comoros
 - Comoras
 - Comores
-- جزر القمر
+- "جزر القمر"
 - 科摩罗
-- Коморские Острова
-- the Union of the Comoros
-- Comoros (the)
-- la Unión de las Comoras
-- Comoras (las)
+- "Коморские Острова"
+- "the Union of the Comoros"
+- "Comoros (the)"
+- "la Unión de las Comoras"
+- "Comoras (las)"
+confidential: public
+cssclasses: Country
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords: 
 Languages:
 - ar
 - fr-KM
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: 
+location:
+- 43.25
+- -11.7
+publish: true
+publishDate: 
+source: "https://datahub.io/core/country-codes"
+SpocWebEntityId: 26938
+tags:
+- geo/Country
+title: Comoros
+type: Country
 ---
-
 
 [	ISO4217-currency_alphabetic	 :: KMF ] 
 [	ISO4217-currency_name	 :: Comorian Franc ] 

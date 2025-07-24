@@ -1,36 +1,35 @@
----
-location:
-- -8.8
-- 13.23
-type: Country
-tags:
-- geo/Country
-SpocWebEntityId: 26833
-isDeleted: false
-confidential: public
-license: CC BY-SA 4.0
-isReadOnly: false
-source: https://datahub.io/core/country-codes
-cssclasses: Country
-publish: true
-title: Angola
-linkTitle: 
-keywords: 
-layout: 
-draft: false
-publishDate: 
-expiryDate: 
+﻿---
 aliases:
 - Angola
 - أنغولا
 - 安哥拉
 - Ангола
-- the Republic of Angola
-- la República de Angola
+- "the Republic of Angola"
+- "la República de Angola"
+confidential: public
+cssclasses: Country
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords: 
 Languages:
 - pt-AO
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: 
+location:
+- -8.8
+- 13.23
+publish: true
+publishDate: 
+source: "https://datahub.io/core/country-codes"
+SpocWebEntityId: 26833
+tags:
+- geo/Country
+title: Angola
+type: Country
 ---
-
 
 [	ISO4217-currency_alphabetic	 :: AOA ] 
 [	ISO4217-currency_name	 :: Kwanza ] 

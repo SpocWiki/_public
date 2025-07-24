@@ -1,15 +1,16 @@
----
-type: TrizExample
+﻿---
 aliases:
-- Zoom Lens
-license: CC BY-SA 4.0
-copyright: https://github.com/SpocWeb
+- "Zoom Lens"
+Confidential: public
+copyright: "https://github.com/SpocWeb"
 IsDeleted: false
 IsReadOnly: false
-Confidential: public
-tags: 
+license: "CC BY-SA 4.0"
+tags:
 - Triz/Principle/Example
+type: TrizExample
 ---
+
 [name::Zoom Lens]
 [SpocWebEntityId::22383]
 [Triz-Principle-Sub::[[Triz-allow-pass]]]

@@ -1,15 +1,16 @@
 ﻿---
-type: TrizExample
 aliases:
-- Moving sidewalk
-license: CC BY-SA 4.0
-copyright: https://github.com/SpocWeb
+- "Moving sidewalk"
+Confidential: public
+copyright: "https://github.com/SpocWeb"
 IsDeleted: false
 IsReadOnly: false
-Confidential: public
-tags: 
+license: "CC BY-SA 4.0"
+tags:
 - Triz/Principle/Example
+type: TrizExample
 ---
+
 [name::Moving sidewalk]
 [SpocWebEntityId::22417]
 [Triz-Principle-Sub::[[Triz-movability]]]

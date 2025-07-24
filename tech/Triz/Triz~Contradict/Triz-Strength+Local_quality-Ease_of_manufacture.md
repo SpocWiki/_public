@@ -1,15 +1,16 @@
 ﻿---
-type: TrizContradiction
 aliases:
 - Strength+Local_quality-Ease_of_manufacture
-license: CC BY-SA 4.0
-copyright: https://github.com/SpocWeb
+Confidential: public
+copyright: "https://github.com/SpocWeb"
 IsDeleted: false
 IsReadOnly: false
-Confidential: public
-tags: 
+license: "CC BY-SA 4.0"
+tags:
 - Triz/Contradiction
+type: TrizContradiction
 ---
+
 [name::Strength+Local_quality-Ease_of_manufacture]
 [SpocWebEntityId::24040]
 + [#has_/Pros :: [[Triz-Strength]]]

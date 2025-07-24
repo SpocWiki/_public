@@ -1,35 +1,34 @@
----
-location:
-- 16.75
-- -62.2
-type: Country
-tags:
-- geo/Country
-SpocWebEntityId: 26969
-isDeleted: false
-confidential: public
-license: CC BY-SA 4.0
-isReadOnly: false
-source: https://datahub.io/core/country-codes
-cssclasses: Country
-publish: true
-title: Montserrat
-linkTitle: 
-keywords: 
-layout: 
-draft: false
-publishDate: 
-expiryDate: 
+﻿---
 aliases:
 - Montserrat
 - مونتسيرات
 - 蒙特塞拉特
 - Монтсеррат
 - 
+confidential: public
+cssclasses: Country
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords: 
 Languages:
 - en-MS
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: 
+location:
+- 16.75
+- -62.2
+publish: true
+publishDate: 
+source: "https://datahub.io/core/country-codes"
+SpocWebEntityId: 26969
+tags:
+- geo/Country
+title: Montserrat
+type: Country
 ---
-
 
 [	ISO4217-currency_alphabetic	 :: XCD ]
 [	ISO4217-currency_name	 :: East Caribbean Dollar ]

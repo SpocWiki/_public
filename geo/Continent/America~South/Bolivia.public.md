@@ -1,41 +1,40 @@
----
-location:
-- -17.7667
-- -66.7
-type: Country
-tags:
-- geo/Country
-SpocWebEntityId: 26852
-isDeleted: false
-confidential: public
-license: CC BY-SA 4.0
-isReadOnly: false
-source: https://datahub.io/core/country-codes
-cssclasses: Country
-publish: true
-title: Bolivia
-linkTitle: 
-keywords: 
-layout: 
-draft: false
-publishDate: 
-expiryDate: 
+﻿---
 aliases:
 - Bolivia
-- Bolivia (Plurinational State of)
-- Bolivia (Estado Plurinacional de)
-- Bolivie (État plurinational de)
-- بوليفيا (دولة - المتعددة القوميات)
+- "Bolivia (Plurinational State of)"
+- "Bolivia (Estado Plurinacional de)"
+- "Bolivie (État plurinational de)"
+- "بوليفيا (دولة - المتعددة القوميات)"
 - 玻利维亚(多民族国)
-- Боливия (Многонациональное Государство)
-- the Plurinational State of Bolivia
-- Estado Plurinacional de Bolivia
+- "Боливия (Многонациональное Государство)"
+- "the Plurinational State of Bolivia"
+- "Estado Plurinacional de Bolivia"
+confidential: public
+cssclasses: Country
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords: 
 Languages:
 - es-BO
 - qu
 - ay
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: 
+location:
+- -17.7667
+- -66.7
+publish: true
+publishDate: 
+source: "https://datahub.io/core/country-codes"
+SpocWebEntityId: 26852
+tags:
+- geo/Country
+title: Bolivia
+type: Country
 ---
-
 
 [	ISO4217-currency_alphabetic	 :: BOB ] 
 [	ISO4217-currency_name	 :: Boliviano ] 

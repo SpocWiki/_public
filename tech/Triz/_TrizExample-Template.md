@@ -1,17 +1,16 @@
----
-type: TrizExample
-license: CC BY-SA 4.0
-copyright: https://github.com/SpocWeb
-IsDeleted: false
-IsReadOnly: false
-Confidential: public
-
-tags: 
-- Triz/Principle/Example
-
+﻿---
 aliases:
 - 
+Confidential: public
+copyright: "https://github.com/SpocWeb"
+IsDeleted: false
+IsReadOnly: false
+license: "CC BY-SA 4.0"
+tags:
+- Triz/Principle/Example
+type: TrizExample
 ---
+
 SpocWebEntityId: {{SpocWebEntityId}}
 PrincipleSubId: {{PrincipleSubId}}
 

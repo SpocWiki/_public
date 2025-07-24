@@ -1,12 +1,12 @@
 ﻿---
-type: Continent
-SpocWebEntityId: 1111
-confidential_: public
 aliases:
 - Europa
+confidential_: public
+isDeleted: false
+SpocWebEntityId: 1111
 tags:
 - geo/Continent
-isDeleted: false
+type: Continent
 ---
 
 ```leaflet

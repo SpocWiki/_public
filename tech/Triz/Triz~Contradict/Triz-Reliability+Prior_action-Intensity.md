@@ -1,15 +1,16 @@
 ﻿---
-type: TrizContradiction
 aliases:
 - Reliability+Prior_action-Intensity
-license: CC BY-SA 4.0
-copyright: https://github.com/SpocWeb
+Confidential: public
+copyright: "https://github.com/SpocWeb"
 IsDeleted: false
 IsReadOnly: false
-Confidential: public
-tags: 
+license: "CC BY-SA 4.0"
+tags:
 - Triz/Contradiction
+type: TrizContradiction
 ---
+
 [name::Reliability+Prior_action-Intensity]
 [SpocWebEntityId::25269]
 + [#has_/Pros :: [[Triz-Reliability]]]

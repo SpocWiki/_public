@@ -1,15 +1,16 @@
 ﻿---
-type: TrizExample
 aliases:
-- vibrating Blades
-license: CC BY-SA 4.0
-copyright: https://github.com/SpocWeb
+- "vibrating Blades"
+Confidential: public
+copyright: "https://github.com/SpocWeb"
 IsDeleted: false
 IsReadOnly: false
-Confidential: public
-tags: 
+license: "CC BY-SA 4.0"
+tags:
 - Triz/Principle/Example
+type: TrizExample
 ---
+
 [name::vibrating Blades]
 [SpocWebEntityId::22449]
 [Triz-Principle-Sub::[[Triz-vibrate]]]

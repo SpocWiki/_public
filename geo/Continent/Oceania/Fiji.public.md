@@ -1,38 +1,37 @@
----
-location:
-- -18.1667
-- 178.45
-type: Country
-tags:
-- geo/Country
-SpocWebEntityId: 26892
-isDeleted: false
-confidential: public
-license: CC BY-SA 4.0
-isReadOnly: false
-source: https://datahub.io/core/country-codes
-cssclasses: Country
-publish: true
-title: Fiji
-linkTitle: 
-keywords: 
-layout: 
-draft: false
-publishDate: 
-expiryDate: 
+﻿---
 aliases:
 - Fiji
 - Fidji
 - فيجي
 - 斐济
 - Фиджи
-- the Republic of Fiji
-- la República de Fiji
+- "the Republic of Fiji"
+- "la República de Fiji"
+confidential: public
+cssclasses: Country
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords: 
 Languages:
 - en-FJ
 - fj
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: 
+location:
+- -18.1667
+- 178.45
+publish: true
+publishDate: 
+source: "https://datahub.io/core/country-codes"
+SpocWebEntityId: 26892
+tags:
+- geo/Country
+title: Fiji
+type: Country
 ---
-
 
 [	ISO4217-currency_alphabetic	 :: FJD ]
 [	ISO4217-currency_name	 :: Fiji Dollar ]

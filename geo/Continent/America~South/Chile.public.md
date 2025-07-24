@@ -1,37 +1,36 @@
----
-location:
-- -33.45
-- -70.67
-type: Country
-tags:
-- geo/Country
-SpocWebEntityId: 26868
-isDeleted: false
-confidential: public
-license: CC BY-SA 4.0
-isReadOnly: false
-source: https://datahub.io/core/country-codes
-cssclasses: Country
-publish: true
-title: Chile
-linkTitle: 
-keywords: 
-layout: 
-draft: false
-publishDate: 
-expiryDate: 
+﻿---
 aliases:
 - Chile
 - Chili
 - شيلي
 - 智利
 - Чили
-- the Republic of Chile
-- la República de Chile
+- "the Republic of Chile"
+- "la República de Chile"
+confidential: public
+cssclasses: Country
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords: 
 Languages:
 - es-CL
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: 
+location:
+- -33.45
+- -70.67
+publish: true
+publishDate: 
+source: "https://datahub.io/core/country-codes"
+SpocWebEntityId: 26868
+tags:
+- geo/Country
+title: Chile
+type: Country
 ---
-
 
 [	ISO4217-currency_alphabetic	 :: CLP ] 
 [	ISO4217-currency_name	 :: Chilean Peso ] 

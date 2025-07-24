@@ -1,12 +1,13 @@
----
-type: TrizPrinciple
+﻿---
 aliases:
-- Use strong oxidisers
-license: CC BY-SA 4.0
-copyright: https://github.com/SpocWeb
-tags: 
+- "Use strong oxidisers"
+copyright: "https://github.com/SpocWeb"
+license: "CC BY-SA 4.0"
+tags:
 - Triz/Principle
+type: TrizPrinciple
 ---
+
 [name::Use strong oxidisers]
 [SpocWebEntityId::22232]
 [Popularity::31]

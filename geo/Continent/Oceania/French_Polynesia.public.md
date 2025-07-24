@@ -1,38 +1,37 @@
 ﻿---
-location:
-- -17.5333
-- -149.567
-type: Country
-tags:
-- geo/Country
-SpocWebEntityId: 26992
-isDeleted: false
-confidential: public
-license: CC BY-SA 4.0
-isReadOnly: false
-source: https://datahub.io/core/country-codes
-cssclasses: Country
-publish: true
-title: French Polynesia
-linkTitle: 
-keywords: 
-layout: 
-draft: false
-publishDate: 
-expiryDate: 
 aliases:
-- French Polynesia
-- Polinesia Francesa
-- Polynésie française
-- بولينيزيا الفرنسية
+- "French Polynesia"
+- "Polinesia Francesa"
+- "Polynésie française"
+- "بولينيزيا الفرنسية"
 - 法属波利尼西亚
-- Французская Полинезия
+- "Французская Полинезия"
 - 
+confidential: public
+cssclasses: Country
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords: 
 Languages:
 - fr-PF
 - ty
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: 
+location:
+- -17.5333
+- -149.567
+publish: true
+publishDate: 
+source: "https://datahub.io/core/country-codes"
+SpocWebEntityId: 26992
+tags:
+- geo/Country
+title: "French Polynesia"
+type: Country
 ---
-
 
 [	ISO4217-currency_alphabetic	 :: XPF ]
 [	ISO4217-currency_name	 :: CFP Franc ]

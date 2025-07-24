@@ -1,13 +1,14 @@
 ﻿---
-location: [ -77 , 66 ] 
-type: Continent
-SpocWebEntityId: 27159
 confidential: public
-
-tags:
-  - geo/Continent
 isDeleted: false
 isReadOnly: false
+location:
+- -77
+- 66
+SpocWebEntityId: 27159
+tags:
+- geo/Continent
+type: Continent
 ---
 
 There is also an (inofficial) [Country~Antarctica](Antarctica/Country~Antarctica)

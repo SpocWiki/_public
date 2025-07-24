@@ -1,33 +1,20 @@
----
-location: [-28.8175,22.87] 
-type: Country
-tags:
-- geo/Country
-
-SpocWebEntityId: 27062
-isDeleted: false
-confidential: public
-license: CC BY-SA 4.0
-isReadOnly: false
-source: https://datahub.io/core/country-codes
-cssclasses: Country
-publish: true
-title: South Africa
-linkTitle: 
-keywords: 
-layout: 
-draft: false
-publishDate: 
-expiryDate: 
+﻿---
 aliases:
-- South Africa
+- "South Africa"
 - Sudáfrica
-- Afrique du Sud
-- جنوب أفريقيا
+- "Afrique du Sud"
+- "جنوب أفريقيا"
 - 南非
-- Южная Африка
-- the Republic of South Africa
-- la República de Sudáfrica
+- "Южная Африка"
+- "the Republic of South Africa"
+- "la República de Sudáfrica"
+confidential: public
+cssclasses: Country
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords: 
 Languages:
 - zu
 - xh
@@ -40,8 +27,21 @@ Languages:
 - ss
 - ve
 - nr
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: 
+location:
+- -28.8175
+- 22.87
+publish: true
+publishDate: 
+source: "https://datahub.io/core/country-codes"
+SpocWebEntityId: 27062
+tags:
+- geo/Country
+title: "South Africa"
+type: Country
 ---
-
 
 [	ISO4217-currency_alphabetic	 :: ZAR ] 
 [	ISO4217-currency_name	 :: Rand ] 

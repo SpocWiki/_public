@@ -1,15 +1,16 @@
 ﻿---
-type: TrizContradiction
 aliases:
 - Illumination+Changing_the_color-Power
-license: CC BY-SA 4.0
-copyright: https://github.com/SpocWeb
+Confidential: public
+copyright: "https://github.com/SpocWeb"
 IsDeleted: false
 IsReadOnly: false
-Confidential: public
-tags: 
+license: "CC BY-SA 4.0"
+tags:
 - Triz/Contradiction
+type: TrizContradiction
 ---
+
 [name::Illumination+Changing_the_color-Power]
 [SpocWebEntityId::24389]
 + [#has_/Pros :: [[Triz-Illumination]]]

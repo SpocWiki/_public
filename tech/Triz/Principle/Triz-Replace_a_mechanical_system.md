@@ -1,12 +1,13 @@
----
-type: TrizPrinciple
+﻿---
 aliases:
-- Replacement of a mechanical system
-license: CC BY-SA 4.0
-copyright: https://github.com/SpocWeb
-tags: 
+- "Replacement of a mechanical system"
+copyright: "https://github.com/SpocWeb"
+license: "CC BY-SA 4.0"
+tags:
 - Triz/Principle
+type: TrizPrinciple
 ---
+
 [name::Replacement of a mechanical system]
 [SpocWebEntityId::22222]
 [Popularity::4]

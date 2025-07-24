@@ -1,15 +1,16 @@
 ﻿---
-type: TrizContradiction
 aliases:
 - moving_Area+Flexible_film_or_thin_membranes-Information-Loss
-license: CC BY-SA 4.0
-copyright: https://github.com/SpocWeb
+Confidential: public
+copyright: "https://github.com/SpocWeb"
 IsDeleted: false
 IsReadOnly: false
-Confidential: public
-tags: 
+license: "CC BY-SA 4.0"
+tags:
 - Triz/Contradiction
+type: TrizContradiction
 ---
+
 [name::moving_Area+Flexible_film_or_thin_membranes-Information-Loss]
 [SpocWebEntityId::23052]
 + [#has_/Pros :: [[Triz-moving_Area]]]

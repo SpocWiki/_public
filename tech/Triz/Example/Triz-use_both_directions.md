@@ -1,15 +1,16 @@
 ﻿---
-type: TrizExample
 aliases:
-- use both directions
-license: CC BY-SA 4.0
-copyright: https://github.com/SpocWeb
+- "use both directions"
+Confidential: public
+copyright: "https://github.com/SpocWeb"
 IsDeleted: false
 IsReadOnly: false
-Confidential: public
-tags: 
+license: "CC BY-SA 4.0"
+tags:
 - Triz/Principle/Example
+type: TrizExample
 ---
+
 [name::use both directions]
 [SpocWebEntityId::22467]
 [Triz-Principle-Sub::[[Triz-eliminate-idle]]]

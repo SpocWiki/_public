@@ -1,25 +1,4 @@
----
-location:
-- 12.05
-- -61.75
-type: Country
-tags:
-- geo/Country
-SpocWebEntityId: 26900
-isDeleted: false
-confidential: public
-license: CC BY-SA 4.0
-isReadOnly: false
-source: https://datahub.io/core/country-codes
-cssclasses: Country
-publish: true
-title: Grenada
-linkTitle: 
-keywords: 
-layout: 
-draft: false
-publishDate: 
-expiryDate: 
+﻿---
 aliases:
 - Grenada
 - Granada
@@ -27,10 +6,30 @@ aliases:
 - غرينادا
 - 格林纳达
 - Гренада
+confidential: public
+cssclasses: Country
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords: 
 Languages:
 - en-GD
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: 
+location:
+- 12.05
+- -61.75
+publish: true
+publishDate: 
+source: "https://datahub.io/core/country-codes"
+SpocWebEntityId: 26900
+tags:
+- geo/Country
+title: Grenada
+type: Country
 ---
-
 
 [	ISO4217-currency_alphabetic	 :: XCD ]
 [	ISO4217-currency_name	 :: East Caribbean Dollar ]

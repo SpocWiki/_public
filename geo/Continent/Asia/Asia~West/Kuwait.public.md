@@ -1,38 +1,37 @@
----
-location:
-- 29.33
-- 48
-type: Country
-tags:
-- geo/Country
-SpocWebEntityId: 26942
-isDeleted: false
-confidential: public
-license: CC BY-SA 4.0
-isReadOnly: false
-source: https://datahub.io/core/country-codes
-cssclasses: Country
-publish: true
-title: Kuwait
-linkTitle: 
-keywords: 
-layout: 
-draft: false
-publishDate: 
-expiryDate: 
+﻿---
 aliases:
 - Kuwait
 - Koweït
 - الكويت
 - 科威特
 - Кувейт
-- the State of Kuwait
-- el Estado de Kuwait
+- "the State of Kuwait"
+- "el Estado de Kuwait"
+confidential: public
+cssclasses: Country
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords: 
 Languages:
 - ar-KW
 - en
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: 
+location:
+- 29.33
+- 48
+publish: true
+publishDate: 
+source: "https://datahub.io/core/country-codes"
+SpocWebEntityId: 26942
+tags:
+- geo/Country
+title: Kuwait
+type: Country
 ---
-
 
 [	ISO4217-currency_alphabetic	 :: KWD ] 
 [	ISO4217-currency_name	 :: Kuwaiti Dinar ] 

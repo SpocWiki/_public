@@ -1,37 +1,36 @@
----
-location:
-- -34.91
-- -56.17
-type: Country
-tags:
-- geo/Country
-SpocWebEntityId: 27048
-isDeleted: false
-confidential: public
-license: CC BY-SA 4.0
-isReadOnly: false
-source: https://datahub.io/core/country-codes
-cssclasses: Country
-publish: true
-title: Uruguay
-linkTitle: 
-keywords: 
-layout: 
-draft: false
-publishDate: 
-expiryDate: 
+﻿---
 aliases:
 - Uruguay
 - أوروغواي
 - 乌拉圭
 - Уругвай
-- the Eastern Republic of Uruguay
-- la República Oriental del Uruguay
-- Uruguay (el)
+- "the Eastern Republic of Uruguay"
+- "la República Oriental del Uruguay"
+- "Uruguay (el)"
+confidential: public
+cssclasses: Country
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords: 
 Languages:
 - es-UY
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: 
+location:
+- -34.91
+- -56.17
+publish: true
+publishDate: 
+source: "https://datahub.io/core/country-codes"
+SpocWebEntityId: 27048
+tags:
+- geo/Country
+title: Uruguay
+type: Country
 ---
-
 
 [	ISO4217-currency_alphabetic	 :: UYU ] 
 [	ISO4217-currency_name	 :: Peso Uruguayo ] 

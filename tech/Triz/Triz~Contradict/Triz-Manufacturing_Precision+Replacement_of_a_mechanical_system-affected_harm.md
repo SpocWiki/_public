@@ -1,15 +1,16 @@
 ﻿---
-type: TrizContradiction
 aliases:
 - Manufacturing_Precision+Replacement_of_a_mechanical_system-affected_harm
-license: CC BY-SA 4.0
-copyright: https://github.com/SpocWeb
+Confidential: public
+copyright: "https://github.com/SpocWeb"
 IsDeleted: false
 IsReadOnly: false
-Confidential: public
-tags: 
+license: "CC BY-SA 4.0"
+tags:
 - Triz/Contradiction
+type: TrizContradiction
 ---
+
 [name::Manufacturing_Precision+Replacement_of_a_mechanical_system-affected_harm]
 [SpocWebEntityId::25552]
 + [#has_/Pros :: [[Triz-Manufacturing_Precision]]]

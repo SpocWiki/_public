@@ -1,39 +1,38 @@
----
-location:
-- 50.45
-- 30.5
-type: Country
-tags:
-- geo/Country
-SpocWebEntityId: 27044
-isDeleted: false
-confidential: public
-license: CC BY-SA 4.0
-isReadOnly: false
-source: https://datahub.io/core/country-codes
-cssclasses: Country
-publish: true
-title: Ukraine
-linkTitle: 
-keywords: 
-layout: 
-draft: false
-publishDate: 
-expiryDate: 
+﻿---
 aliases:
 - Ukraine
 - Ucrania
 - أوكرانيا
 - 乌克兰
 - Украина
+confidential: public
+cssclasses: Country
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords: 
 Languages:
 - uk
 - ru-UA
 - rom
 - pl
 - hu
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: 
+location:
+- 50.45
+- 30.5
+publish: true
+publishDate: 
+source: "https://datahub.io/core/country-codes"
+SpocWebEntityId: 27044
+tags:
+- geo/Country
+title: Ukraine
+type: Country
 ---
-
 
 [	ISO4217-currency_alphabetic	 :: UAH ] 
 [	ISO4217-currency_name	 :: Hryvnia ] 

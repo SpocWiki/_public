@@ -1,37 +1,36 @@
 ﻿---
+aliases:
+- "Cayman Islands"
+- "Islas Caimán"
+- "Îles Caïmanes"
+- "جزر كايمان"
+- 开曼群岛
+- "Кайман острова"
+- 
+confidential: public
+cssclasses: Country
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords: 
+Languages:
+- en-KY
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: 
 location:
 - 19.2833
 - -81.3667
-type: Country
+publish: true
+publishDate: 
+source: "https://datahub.io/core/country-codes"
+SpocWebEntityId: 26943
 tags:
 - geo/Country
-SpocWebEntityId: 26943
-isDeleted: false
-confidential: public
-license: CC BY-SA 4.0
-isReadOnly: false
-source: https://datahub.io/core/country-codes
-cssclasses: Country
-publish: true
-title: Cayman Islands
-linkTitle: 
-keywords: 
-layout: 
-draft: false
-publishDate: 
-expiryDate: 
-aliases:
-- Cayman Islands
-- Islas Caimán
-- Îles Caïmanes
-- جزر كايمان
-- 开曼群岛
-- Кайман острова
-- 
-Languages:
-- en-KY
+title: "Cayman Islands"
+type: Country
 ---
-
 
 [	ISO4217-currency_alphabetic	 :: KYD ]
 [	ISO4217-currency_name	 :: Cayman Islands Dollar ]

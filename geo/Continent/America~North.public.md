@@ -1,14 +1,11 @@
----
-type: Continent
-
+﻿---
 confidential: public
 isDeleted: false
 SpocWebEntityId: 27158
-
 tags:
-  - geo/Continent
+- geo/Continent
+type: Continent
 ---
-
 
 ```leaflet
 id: North America

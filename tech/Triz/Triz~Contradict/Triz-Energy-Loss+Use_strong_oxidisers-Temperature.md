@@ -1,15 +1,16 @@
 ﻿---
-type: TrizContradiction
 aliases:
 - Energy-Loss+Use_strong_oxidisers-Temperature
-license: CC BY-SA 4.0
-copyright: https://github.com/SpocWeb
+Confidential: public
+copyright: "https://github.com/SpocWeb"
 IsDeleted: false
 IsReadOnly: false
-Confidential: public
-tags: 
+license: "CC BY-SA 4.0"
+tags:
 - Triz/Contradiction
+type: TrizContradiction
 ---
+
 [name::Energy-Loss+Use_strong_oxidisers-Temperature]
 [SpocWebEntityId::24738]
 + [#has_/Pros :: Energy-Loss]

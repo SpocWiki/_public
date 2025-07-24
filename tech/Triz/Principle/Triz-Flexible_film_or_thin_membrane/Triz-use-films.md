@@ -1,15 +1,16 @@
----
-type: TrizPrincipleSub
+﻿---
 aliases:
 - use-films
-license: CC BY-SA 4.0
-copyright: https://github.com/SpocWeb
+Confidential: public
+copyright: "https://github.com/SpocWeb"
 IsDeleted: false
 IsReadOnly: false
-Confidential: public
-tags: 
+license: "CC BY-SA 4.0"
+tags:
 - Triz/Principle/Sub
+type: TrizPrincipleSub
 ---
+
 [name::use-films]
 [SpocWebEntityId::22305]
 [TrizPrinciple::[[Triz-Flexible_film_or_thin_membrane]]]

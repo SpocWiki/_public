@@ -1,25 +1,4 @@
----
-location:
-- 11.55
-- 104.917
-type: Country
-tags:
-- geo/Country
-SpocWebEntityId: 26936
-isDeleted: false
-confidential: public
-license: CC BY-SA 4.0
-isReadOnly: false
-source: https://datahub.io/core/country-codes
-cssclasses: Country
-publish: true
-title: Cambodia
-linkTitle: 
-keywords: 
-layout: 
-draft: false
-publishDate: 
-expiryDate: 
+﻿---
 aliases:
 - Cambodia
 - Camboya
@@ -27,14 +6,34 @@ aliases:
 - كمبوديا
 - 柬埔寨
 - Камбоджа
-- the Kingdom of Cambodia
-- el Reino de Camboya
+- "the Kingdom of Cambodia"
+- "el Reino de Camboya"
+confidential: public
+cssclasses: Country
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords: 
 Languages:
 - km
 - fr
 - en
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: 
+location:
+- 11.55
+- 104.917
+publish: true
+publishDate: 
+source: "https://datahub.io/core/country-codes"
+SpocWebEntityId: 26936
+tags:
+- geo/Country
+title: Cambodia
+type: Country
 ---
-
 
 [	ISO4217-currency_alphabetic	 :: KHR ] 
 [	ISO4217-currency_name	 :: Riel ] 

@@ -1,37 +1,36 @@
----
-location:
-- -24.6333
-- 25.9167
-type: Country
-tags:
-- geo/Country
-SpocWebEntityId: 26857
-isDeleted: false
-confidential: public
-license: CC BY-SA 4.0
-isReadOnly: false
-source: https://datahub.io/core/country-codes
-cssclasses: Country
-publish: true
-title: Botswana
-linkTitle: 
-keywords: 
-layout: 
-draft: false
-publishDate: 
-expiryDate: 
+﻿---
 aliases:
 - Botswana
 - بوتسوانا
 - 博茨瓦纳
 - Ботсвана
-- the Republic of Botswana
-- la República de Botswana
+- "the Republic of Botswana"
+- "la República de Botswana"
+confidential: public
+cssclasses: Country
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords: 
 Languages:
 - en-BW
 - tn-BW
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: 
+location:
+- -24.6333
+- 25.9167
+publish: true
+publishDate: 
+source: "https://datahub.io/core/country-codes"
+SpocWebEntityId: 26857
+tags:
+- geo/Country
+title: Botswana
+type: Country
 ---
-
 
 [	ISO4217-currency_alphabetic	 :: BWP ] 
 [	ISO4217-currency_name	 :: Pula ] 

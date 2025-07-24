@@ -1,25 +1,4 @@
----
-location:
-- 61.8685
-- 11.4588
-type: Country
-tags:
-- geo/Country
-SpocWebEntityId: 26984
-isDeleted: false
-confidential: public
-license: CC BY-SA 4.0
-isReadOnly: false
-source: https://datahub.io/core/country-codes
-cssclasses: Country
-publish: true
-title: Norway
-linkTitle: 
-keywords: 
-layout: 
-draft: false
-publishDate: 
-expiryDate: 
+﻿---
 aliases:
 - Norway
 - Noruega
@@ -27,16 +6,36 @@ aliases:
 - النرويج
 - 挪威
 - Норвегия
-- the Kingdom of Norway
-- el Reino de Noruega
+- "the Kingdom of Norway"
+- "el Reino de Noruega"
+confidential: public
+cssclasses: Country
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords: 
 Languages:
 - no
 - nb
 - nn
 - se
 - fi
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: 
+location:
+- 61.8685
+- 11.4588
+publish: true
+publishDate: 
+source: "https://datahub.io/core/country-codes"
+SpocWebEntityId: 26984
+tags:
+- geo/Country
+title: Norway
+type: Country
 ---
-
 
 [	ISO4217-currency_alphabetic	 :: NOK ] 
 [	ISO4217-currency_name	 :: Norwegian Krone ] 

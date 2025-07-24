@@ -1,15 +1,16 @@
 ﻿---
-type: TrizContradiction
 aliases:
 - Versatility+Counterweight-moving_Weight
-license: CC BY-SA 4.0
-copyright: https://github.com/SpocWeb
+Confidential: public
+copyright: "https://github.com/SpocWeb"
 IsDeleted: false
 IsReadOnly: false
-Confidential: public
-tags: 
+license: "CC BY-SA 4.0"
+tags:
 - Triz/Contradiction
+type: TrizContradiction
 ---
+
 [name::Versatility+Counterweight-moving_Weight]
 [SpocWebEntityId::26183]
 + [#has_/Pros :: [[Triz-Versatility]]]

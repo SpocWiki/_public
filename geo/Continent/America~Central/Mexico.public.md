@@ -1,25 +1,4 @@
 ﻿---
-location:
-- 19.4
-- -99.15
-type: Country
-tags:
-- geo/Country
-SpocWebEntityId: 26974
-isDeleted: false
-confidential: public
-license: CC BY-SA 4.0
-isReadOnly: false
-source: https://datahub.io/core/country-codes
-cssclasses: Country
-publish: true
-title: Mexico
-linkTitle: 
-keywords: 
-layout: 
-draft: false
-publishDate: 
-expiryDate: 
 aliases:
 - Mexico
 - México
@@ -27,12 +6,32 @@ aliases:
 - المكسيك
 - 墨西哥
 - Мексика
-- the United Mexican States
-- los Estados Unidos Mexicanos
+- "the United Mexican States"
+- "los Estados Unidos Mexicanos"
+confidential: public
+cssclasses: Country
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords: 
 Languages:
 - es-MX
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: 
+location:
+- 19.4
+- -99.15
+publish: true
+publishDate: 
+source: "https://datahub.io/core/country-codes"
+SpocWebEntityId: 26974
+tags:
+- geo/Country
+title: Mexico
+type: Country
 ---
-
 
 [	ISO4217-currency_alphabetic	 :: MXN ] 
 [	ISO4217-currency_name	 :: Mexican Peso ] 

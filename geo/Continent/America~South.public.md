@@ -1,13 +1,11 @@
----
-type: Continent
+﻿---
 confidential: public
-SpocWebEntityId: 27160
-
-tags:
-  - geo/Continent
 isDeleted: false
+SpocWebEntityId: 27160
+tags:
+- geo/Continent
+type: Continent
 ---
-
 
 ```leaflet
 id: South America

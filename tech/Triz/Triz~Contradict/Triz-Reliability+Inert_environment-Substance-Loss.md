@@ -1,15 +1,16 @@
 ﻿---
-type: TrizContradiction
 aliases:
 - Reliability+Inert_environment-Substance-Loss
-license: CC BY-SA 4.0
-copyright: https://github.com/SpocWeb
+Confidential: public
+copyright: "https://github.com/SpocWeb"
 IsDeleted: false
 IsReadOnly: false
-Confidential: public
-tags: 
+license: "CC BY-SA 4.0"
+tags:
 - Triz/Contradiction
+type: TrizContradiction
 ---
+
 [name::Reliability+Inert_environment-Substance-Loss]
 [SpocWebEntityId::25311]
 + [#has_/Pros :: [[Triz-Reliability]]]

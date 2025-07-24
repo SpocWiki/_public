@@ -1,12 +1,13 @@
----
-type: TrizPrinciple
+﻿---
 aliases:
-- Combining (Integration)
-license: CC BY-SA 4.0
-copyright: https://github.com/SpocWeb
-tags: 
+- "Combining (Integration)"
+copyright: "https://github.com/SpocWeb"
+license: "CC BY-SA 4.0"
+tags:
 - Triz/Principle
+type: TrizPrinciple
 ---
+
 [name::Combining (Integration)]
 [SpocWebEntityId::22201]
 [Popularity::33]

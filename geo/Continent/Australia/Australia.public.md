@@ -1,35 +1,34 @@
----
-location:
-- -35.4776
-- 149.027
-type: Country
-tags:
-- geo/Country
-SpocWebEntityId: 26838
-isDeleted: false
-confidential: public
-license: CC BY-SA 4.0
-isReadOnly: false
-source: https://datahub.io/core/country-codes
-cssclasses: Country
-publish: true
-title: Australia
-linkTitle: 
-keywords: 
-layout: 
-draft: false
-publishDate: 
-expiryDate: 
+﻿---
 aliases:
 - Australia
 - Australie
 - أستراليا
 - 澳大利亚
 - Австралия
+confidential: public
+cssclasses: Country
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords: 
 Languages:
 - en-AU
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: 
+location:
+- -35.4776
+- 149.027
+publish: true
+publishDate: 
+source: "https://datahub.io/core/country-codes"
+SpocWebEntityId: 26838
+tags:
+- geo/Country
+title: Australia
+type: Country
 ---
-
 
 [	ISO4217-currency_alphabetic	 :: AUD ] 
 [	ISO4217-currency_name	 :: Australian Dollar ] 

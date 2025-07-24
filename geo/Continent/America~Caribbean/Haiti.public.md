@@ -1,25 +1,4 @@
----
-location:
-- 18.5333
-- -72.3333
-type: Country
-tags:
-- geo/Country
-SpocWebEntityId: 26920
-isDeleted: false
-confidential: public
-license: CC BY-SA 4.0
-isReadOnly: false
-source: https://datahub.io/core/country-codes
-cssclasses: Country
-publish: true
-title: Haiti
-linkTitle: 
-keywords: 
-layout: 
-draft: false
-publishDate: 
-expiryDate: 
+﻿---
 aliases:
 - Haiti
 - Haití
@@ -27,13 +6,33 @@ aliases:
 - هايتي
 - 海地
 - Гаити
-- the Republic of Haiti
-- la República de Haití
+- "the Republic of Haiti"
+- "la República de Haití"
+confidential: public
+cssclasses: Country
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords: 
 Languages:
 - ht
 - fr-HT
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: 
+location:
+- 18.5333
+- -72.3333
+publish: true
+publishDate: 
+source: "https://datahub.io/core/country-codes"
+SpocWebEntityId: 26920
+tags:
+- geo/Country
+title: Haiti
+type: Country
 ---
-
 
 [	ISO4217-currency_alphabetic	 :: HTG,USD ]
 [	ISO4217-currency_name	 :: Gourde,US Dollar ]

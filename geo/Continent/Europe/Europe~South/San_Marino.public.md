@@ -1,37 +1,36 @@
----
+﻿---
+aliases:
+- "San Marino"
+- Saint-Marin
+- "سان مارينو"
+- 圣马力诺
+- Сан-Марино
+- "the Republic of San Marino"
+- "la República de San Marino"
+confidential: public
+cssclasses: Country
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords: 
+Languages:
+- it-SM
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: 
 location:
 - 43.93
 - 12.45
-type: Country
+publish: true
+publishDate: 
+source: "https://datahub.io/core/country-codes"
+SpocWebEntityId: 27020
 tags:
 - geo/Country
-SpocWebEntityId: 27020
-isDeleted: false
-confidential: public
-license: CC BY-SA 4.0
-isReadOnly: false
-source: https://datahub.io/core/country-codes
-cssclasses: Country
-publish: true
-title: San Marino
-linkTitle: 
-keywords: 
-layout: 
-draft: false
-publishDate: 
-expiryDate: 
-aliases:
-- San Marino
-- Saint-Marin
-- سان مارينو
-- 圣马力诺
-- Сан-Марино
-- the Republic of San Marino
-- la República de San Marino
-Languages:
-- it-SM
+title: "San Marino"
+type: Country
 ---
-
 
 [	ISO4217-currency_alphabetic	 :: EUR ] 
 [	ISO4217-currency_name	 :: Euro ] 

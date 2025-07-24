@@ -1,38 +1,37 @@
----
-location:
-- 0.383333
-- 9.45
-type: Country
-tags:
-- geo/Country
-SpocWebEntityId: 26898
-isDeleted: false
-confidential: public
-license: CC BY-SA 4.0
-isReadOnly: false
-source: https://datahub.io/core/country-codes
-cssclasses: Country
-publish: true
-title: Gabon
-linkTitle: 
-keywords: 
-layout: 
-draft: false
-publishDate: 
-expiryDate: 
+﻿---
 aliases:
 - Gabon
 - Gabón
 - غابون
 - 加蓬
 - Габон
-- the Gabonese Republic
-- la República Gabonesa
-- Gabón (el)
+- "the Gabonese Republic"
+- "la República Gabonesa"
+- "Gabón (el)"
+confidential: public
+cssclasses: Country
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords: 
 Languages:
 - fr-GA
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: 
+location:
+- 0.383333
+- 9.45
+publish: true
+publishDate: 
+source: "https://datahub.io/core/country-codes"
+SpocWebEntityId: 26898
+tags:
+- geo/Country
+title: Gabon
+type: Country
 ---
-
 
 [	ISO4217-currency_alphabetic	 :: XAF ] 
 [	ISO4217-currency_name	 :: CFA Franc BEAC ] 

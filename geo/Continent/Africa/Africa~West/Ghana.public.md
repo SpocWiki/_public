@@ -1,39 +1,38 @@
----
-location:
-- 5.55
-- -0.25
-type: Country
-tags:
-- geo/Country
-SpocWebEntityId: 26903
-isDeleted: false
-confidential: public
-license: CC BY-SA 4.0
-isReadOnly: false
-source: https://datahub.io/core/country-codes
-cssclasses: Country
-publish: true
-title: Ghana
-linkTitle: 
-keywords: 
-layout: 
-draft: false
-publishDate: 
-expiryDate: 
+﻿---
 aliases:
 - Ghana
 - غانا
 - 加纳
 - Гана
-- the Republic of Ghana
-- la República de Ghana
+- "the Republic of Ghana"
+- "la República de Ghana"
+confidential: public
+cssclasses: Country
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords: 
 Languages:
 - en-GH
 - ak
 - ee
 - tw
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: 
+location:
+- 5.55
+- -0.25
+publish: true
+publishDate: 
+source: "https://datahub.io/core/country-codes"
+SpocWebEntityId: 26903
+tags:
+- geo/Country
+title: Ghana
+type: Country
 ---
-
 
 [	ISO4217-currency_alphabetic	 :: GHS ] 
 [	ISO4217-currency_name	 :: Ghana Cedi ] 

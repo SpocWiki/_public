@@ -1,15 +1,16 @@
 ﻿---
-type: TrizExample
 aliases:
-- Mountain to Mohammed
-license: CC BY-SA 4.0
-copyright: https://github.com/SpocWeb
+- "Mountain to Mohammed"
+Confidential: public
+copyright: "https://github.com/SpocWeb"
 IsDeleted: false
 IsReadOnly: false
-Confidential: public
-tags: 
+license: "CC BY-SA 4.0"
+tags:
 - Triz/Principle/Example
+type: TrizExample
 ---
+
 [name::Mountain to Mohammed]
 [SpocWebEntityId::22415]
 [Triz-Principle-Sub::[[Triz-invert-action]]]

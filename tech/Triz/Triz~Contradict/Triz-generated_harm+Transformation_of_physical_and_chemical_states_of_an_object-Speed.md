@@ -1,15 +1,16 @@
 ﻿---
-type: TrizContradiction
 aliases:
 - generated_harm+Transformation_of_physical_and_chemical_states_of_an_object-Speed
-license: CC BY-SA 4.0
-copyright: https://github.com/SpocWeb
+Confidential: public
+copyright: "https://github.com/SpocWeb"
 IsDeleted: false
 IsReadOnly: false
-Confidential: public
-tags: 
+license: "CC BY-SA 4.0"
+tags:
 - Triz/Contradiction
+type: TrizContradiction
 ---
+
 [name::generated_harm+Transformation_of_physical_and_chemical_states_of_an_object-Speed]
 [SpocWebEntityId::25742]
 + [#has_/Pros :: [[Triz-generated_harm]]]

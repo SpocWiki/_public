@@ -1,15 +1,16 @@
 ﻿---
-type: TrizExample
 aliases:
-- Bullet Casings
-license: CC BY-SA 4.0
-copyright: https://github.com/SpocWeb
+- "Bullet Casings"
+Confidential: public
+copyright: "https://github.com/SpocWeb"
 IsDeleted: false
 IsReadOnly: false
-Confidential: public
-tags: 
+license: "CC BY-SA 4.0"
+tags:
 - Triz/Principle/Example
+type: TrizExample
 ---
+
 [name::Bullet Casings]
 [SpocWebEntityId::22530]
 [Triz-Principle-Sub::[[Triz-removed-obsolete]]]

@@ -1,34 +1,20 @@
----
-location:
-- 29.2633
-- 70.1033
-type: Country
-tags:
-- geo/Country
-SpocWebEntityId: 26995
-isDeleted: false
-confidential: public
-license: CC BY-SA 4.0
-isReadOnly: false
-source: https://datahub.io/core/country-codes
-cssclasses: Country
-publish: true
-title: Pakistan
-linkTitle: 
-keywords: 
-layout: 
-draft: false
-publishDate: 
-expiryDate: 
+﻿---
 aliases:
 - Pakistan
 - Pakistán
 - باكستان
 - 巴基斯坦
 - Пакистан
-- the Islamic Republic of Pakistan
-- la República Islámica del Pakistán
-- Pakistán (el)
+- "the Islamic Republic of Pakistan"
+- "la República Islámica del Pakistán"
+- "Pakistán (el)"
+confidential: public
+cssclasses: Country
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords: 
 Languages:
 - ur-PK
 - en-PK
@@ -36,8 +22,21 @@ Languages:
 - sd
 - ps
 - brh
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: 
+location:
+- 29.2633
+- 70.1033
+publish: true
+publishDate: 
+source: "https://datahub.io/core/country-codes"
+SpocWebEntityId: 26995
+tags:
+- geo/Country
+title: Pakistan
+type: Country
 ---
-
 
 [	ISO4217-currency_alphabetic	 :: PKR ] 
 [	ISO4217-currency_name	 :: Pakistan Rupee ] 

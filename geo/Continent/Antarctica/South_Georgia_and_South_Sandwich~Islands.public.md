@@ -1,15 +1,15 @@
 ﻿---
-location: [ -54.4 , -36.5 ] 
-
-type: Country
+confidential: public
+isDeleted: false
+location:
+- -54.4
+- -36.5
+SpocWebEntityId: 26911
 tags:
 - geo/Country
-
-SpocWebEntityId: 26911
-isDeleted: false
-confidential: public
-
+type: Country
 ---
+
 [ISO2::GS]
 [ISO3::SGS]
 ```leaflet

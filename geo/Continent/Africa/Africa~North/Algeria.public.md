@@ -1,25 +1,4 @@
----
-location:
-- 36.78
-- 3.05
-type: Country
-tags:
-- geo/Country
-SpocWebEntityId: 26883
-isDeleted: false
-confidential: public
-license: CC BY-SA 4.0
-isReadOnly: false
-source: https://datahub.io/core/country-codes
-cssclasses: Country
-publish: true
-title: Algeria
-linkTitle: 
-keywords: 
-layout: 
-draft: false
-publishDate: 
-expiryDate: 
+﻿---
 aliases:
 - Algeria
 - Argelia
@@ -27,12 +6,32 @@ aliases:
 - الجزائر
 - 阿尔及利亚
 - Алжир
-- the People's Democratic Republic of Algeria
-- la República Argelina Democrática y Popular
+- "the People's Democratic Republic of Algeria"
+- "la República Argelina Democrática y Popular"
+confidential: public
+cssclasses: Country
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords: 
 Languages:
 - ar-DZ
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: 
+location:
+- 36.78
+- 3.05
+publish: true
+publishDate: 
+source: "https://datahub.io/core/country-codes"
+SpocWebEntityId: 26883
+tags:
+- geo/Country
+title: Algeria
+type: Country
 ---
-
 
 [	ISO4217-currency_alphabetic	 :: DZD ] 
 [	ISO4217-currency_name	 :: Algerian Dinar ] 

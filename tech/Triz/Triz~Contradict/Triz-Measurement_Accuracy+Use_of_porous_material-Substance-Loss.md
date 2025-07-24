@@ -1,15 +1,16 @@
 ﻿---
-type: TrizContradiction
 aliases:
 - Measurement_Accuracy+Use_of_porous_material-Substance-Loss
-license: CC BY-SA 4.0
-copyright: https://github.com/SpocWeb
+Confidential: public
+copyright: "https://github.com/SpocWeb"
 IsDeleted: false
 IsReadOnly: false
-Confidential: public
-tags: 
+license: "CC BY-SA 4.0"
+tags:
 - Triz/Contradiction
+type: TrizContradiction
 ---
+
 [name::Measurement_Accuracy+Use_of_porous_material-Substance-Loss]
 [SpocWebEntityId::25427]
 + [#has_/Pros :: [[Triz-Measurement_Accuracy]]]

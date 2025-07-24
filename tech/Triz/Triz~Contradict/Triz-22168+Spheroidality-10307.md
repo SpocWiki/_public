@@ -1,15 +1,16 @@
 ﻿---
-type: TrizContradiction
 aliases:
 - 22168+Spheroidality-10307
-license: CC BY-SA 4.0
-copyright: https://github.com/SpocWeb
+Confidential: public
+copyright: "https://github.com/SpocWeb"
 IsDeleted: false
 IsReadOnly: false
-Confidential: public
-tags: 
+license: "CC BY-SA 4.0"
+tags:
 - Triz/Contradiction
+type: TrizContradiction
 ---
+
 [name::22168+Spheroidality-10307]
 [SpocWebEntityId::23706]
 + [#has_/Pros :: [[Triz-22168]]]

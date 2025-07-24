@@ -1,15 +1,16 @@
 ﻿---
-type: TrizContradiction
 aliases:
 - Shape+Copying-moving_Duration
-license: CC BY-SA 4.0
-copyright: https://github.com/SpocWeb
+Confidential: public
+copyright: "https://github.com/SpocWeb"
 IsDeleted: false
 IsReadOnly: false
-Confidential: public
-tags: 
+license: "CC BY-SA 4.0"
+tags:
 - Triz/Contradiction
+type: TrizContradiction
 ---
+
 [name::Shape+Copying-moving_Duration]
 [SpocWebEntityId::23757]
 + [#has_/Pros :: [[Triz-Shape]]]

@@ -1,25 +1,4 @@
----
-location:
-- 43.4809
-- 11.8169
-type: Country
-tags:
-- geo/Country
-SpocWebEntityId: 26930
-isDeleted: false
-confidential: public
-license: CC BY-SA 4.0
-isReadOnly: false
-source: https://datahub.io/core/country-codes
-cssclasses: Country
-publish: true
-title: Italy
-linkTitle: 
-keywords: 
-layout: 
-draft: false
-publishDate: 
-expiryDate: 
+﻿---
 aliases:
 - Italy
 - Italia
@@ -27,8 +6,15 @@ aliases:
 - إيطاليا
 - 意大利
 - Италия
-- the Republic of Italy
-- la República Italiana
+- "the Republic of Italy"
+- "la República Italiana"
+confidential: public
+cssclasses: Country
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords: 
 Languages:
 - it-IT
 - de-IT
@@ -37,8 +23,21 @@ Languages:
 - ca
 - co
 - sl
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: 
+location:
+- 43.4809
+- 11.8169
+publish: true
+publishDate: 
+source: "https://datahub.io/core/country-codes"
+SpocWebEntityId: 26930
+tags:
+- geo/Country
+title: Italy
+type: Country
 ---
-
 
 [	ISO4217-currency_alphabetic	 :: EUR ] 
 [	ISO4217-currency_name	 :: Euro ] 
