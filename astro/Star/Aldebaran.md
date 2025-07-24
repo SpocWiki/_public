@@ -1,12 +1,15 @@
-﻿---
-location:
-- 16.51
-- -68.975
-- 60
-tags:
-- astro/Star
-type: Star
 ---
+location:
+  - 16.51
+  - -68.975
+  - 60
+tags:
+  - astro/Star
+type: Star
+has_id_wikidata: Q88540091
+---
+
+# [[Aldebaran]] 
 
 SpocWebEntityId: 27243
 isDeleted: false
@@ -27,7 +30,7 @@ confidential: public
 [ZodiacId::28160]
 [NextStarId::27488]
 
-
+#is_/same_as :: [[../../../_Standards/WikiData/WD~Aldebaran,88540091]] 
 
 ## Confidential Links & Embeds: 
 - [[../../../_Standards/astro/Star/Aldebaran|Aldebaran]] 
