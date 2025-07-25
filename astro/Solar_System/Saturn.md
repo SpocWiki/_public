@@ -16,105 +16,105 @@ area: 42700000000
 argument_of_periapsis: 92.59887831
 astronomic_symbol_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Saturn%20symbol%20%28fixed%20width%29.svg"
 child_astronomical_body:
-- "[[_Standards/WD/WD~rings of Saturn]]"
-- '[[_Standards/WD/WD~Titan]]'
-- '[[_Standards/WD/WD~Enceladus]]'
-- '[[_Standards/WD/WD~Mimas]]'
-- '[[_Standards/WD/WD~Hyperion]]'
-- '[[_Standards/WD/WD~Dione]]'
-- '[[_Standards/WD/WD~Tethys]]'
-- '[[_Standards/WD/WD~Rhea]]'
-- '[[_Standards/WD/WD~Pan]]'
-- '[[_Standards/WD/WD~Daphnis]]'
-- '[[_Standards/WD/WD~Atlas]]'
-- '[[_Standards/WD/WD~Prometheus]]'
-- '[[_Standards/WD/WD~Pandora]]'
-- '[[_Standards/WD/WD~Epimetheus]]'
-- '[[_Standards/WD/WD~Janus]]'
-- '[[_Standards/WD/WD~Aegaeon]]'
-- '[[_Standards/WD/WD~Methone]]'
-- '[[_Standards/WD/WD~Anthe]]'
-- '[[_Standards/WD/WD~Pallene]]'
-- '[[_Standards/WD/WD~Telesto]]'
-- '[[_Standards/WD/WD~Calypso]]'
-- '[[_Standards/WD/WD~Helene]]'
-- '[[_Standards/WD/WD~Polydeuces]]'
-- '[[_Standards/WD/WD~Iapetus]]'
-- '[[_Standards/WD/WD~Kiviuq]]'
-- '[[_Standards/WD/WD~Ijiraq]]'
-- '[[_Standards/WD/WD~Phoebe]]'
-- '[[_Standards/WD/WD~Paaliaq]]'
-- '[[_Standards/WD/WD~Skathi]]'
-- '[[_Standards/WD/WD~Albiorix]]'
-- '[[_Standards/WD/WD~Bebhionn]]'
-- '[[_Standards/WD/WD~Skoll]]'
-- '[[_Standards/WD/WD~Erriapus]]'
-- '[[_Standards/WD/WD~Tarqeq]]'
-- '[[_Standards/WD/WD~Greip]]'
-- '[[_Standards/WD/WD~Siarnaq]]'
-- '[[_Standards/WD/WD~Hyrrokkin]]'
-- '[[_Standards/WD/WD~Tarvos]]'
-- "[[_Standards/WD/WD~S/2004 S 13]]"
-- '[[_Standards/WD/WD~Jarnsaxa]]'
-- "[[_Standards/WD/WD~S/2004 S 17]]"
-- '[[_Standards/WD/WD~Mundilfari]]'
-- '[[_Standards/WD/WD~Bergelmir]]'
-- "[[_Standards/WD/WD~S/2006 S 1]]"
-- '[[_Standards/WD/WD~Aegir]]'
-- '[[_Standards/WD/WD~Narvi]]'
-- "[[_Standards/WD/WD~S/2004 S 12]]"
-- '[[_Standards/WD/WD~Bestla]]'
-- '[[_Standards/WD/WD~Suttungr]]'
-- '[[_Standards/WD/WD~Farbauti]]'
-- "[[_Standards/WD/WD~S/2004 S 7]]"
-- '[[_Standards/WD/WD~Hati]]'
-- '[[_Standards/WD/WD~Thrymr]]'
-- "[[_Standards/WD/WD~S/2006 S 3]]"
-- '[[_Standards/WD/WD~Fenrir]]'
-- '[[_Standards/WD/WD~Fornjot]]'
-- '[[_Standards/WD/WD~Surtur]]'
-- '[[_Standards/WD/WD~Kari]]'
-- '[[_Standards/WD/WD~Ymir]]'
-- '[[_Standards/WD/WD~Loge]]'
-- "[[_Standards/WD/WD~S/2009 S 1]]"
-- "[[_Standards/WD/WD~S/2007 S 2]]"
-- "[[_Standards/WD/WD~S/2007 S 3]]"
-- "[[_Standards/WD/WD~S/2004 S 6]]"
-- "[[_Standards/WD/WD~S/2004 S 4]]"
-- "[[_Standards/WD/WD~S/2004 S 3]]"
-- "[[_Standards/WD/WD~E Ring]]"
-- "[[_Standards/WD/WD~G ring]]"
-- '[[_Standards/WD/WD~Themis]]'
-- "[[_Standards/WD/WD~C ring]]"
-- "[[_Standards/WD/WD~F ring]]"
-- "[[_Standards/WD/WD~B ring]]"
-- "[[_Standards/WD/WD~A ring]]"
-- "[[_Standards/WD/WD~D ring]]"
-- '[[_Standards/WD/WD~Earhart]]'
-- '[[_Standards/WD/WD~Blériot]]'
-- '[[_Standards/WD/WD~Santos-Dumont]]'
-- '[[_Standards/WD/WD~Curtiss]]'
-- '[[_Standards/WD/WD~Hinkler]]'
-- "[[_Standards/WD/WD~Kingsford Smith]]"
-- '[[_Standards/WD/WD~Lindbergh]]'
-- '[[_Standards/WD/WD~Post]]'
-- '[[_Standards/WD/WD~Richthofen]]'
-- '[[_Standards/WD/WD~Sikorsky]]'
-- '[[_Standards/WD/WD~Wright]]'
-- "[[_Standards/WD/WD~Phoebe ring]]"
-- '[[_Standards/WD/WD~Peggy]]'
-- '[[_Standards/WD/WD~Gridr]]'
-- "[[_Standards/WD/WD~S/2004 S 21]]"
-- '[[_Standards/WD/WD~Angrboda]]'
-- '[[_Standards/WD/WD~Skrymir]]'
-- "[[_Standards/WD/WD~S/2004 S 24]]"
-- '[[_Standards/WD/WD~Gerd]]'
-- "[[_Standards/WD/WD~S/2004 S 26]]"
-- '[[_Standards/WD/WD~Eggther]]'
-- "[[_Standards/WD/WD~S/2004 S 28]]"
-- "[[_Standards/WD/WD~S/2004 S 29]]"
-- '[[_Standards/WD/WD~Beli]]'
-- '[[_Standards/WD/WD~Alvaldi]]'
+- '[[_Standards/WikiData/WD~Prometheus,17739]]'
+- '[[_Standards/WikiData/WD~Pandora,17746]]'
+- '[[_Standards/WikiData/WD~Epimetheus,17751]]'
+- '[[_Standards/WikiData/WD~Janus,17754]]'
+- '[[_Standards/WikiData/WD~Aegaeon,17762]]'
+- '[[_Standards/WikiData/WD~Methone,17782]]'
+- '[[_Standards/WikiData/WD~Anthe,17788]]'
+- '[[_Standards/WikiData/WD~Pallene,17850]]'
+- '[[_Standards/WikiData/WD~Telesto,17857]]'
+- '[[_Standards/WikiData/WD~Calypso,17869]]'
+- '[[_Standards/WikiData/WD~Helene,17875]]'
+- '[[_Standards/WikiData/WD~Polydeuces,17882]]'
+- '[[_Standards/WikiData/WD~Iapetus,17958]]'
+- '[[_Standards/WikiData/WD~Kiviuq,17965]]'
+- '[[_Standards/WikiData/WD~Ijiraq,17971]]'
+- '[[_Standards/WikiData/WD~Phoebe,17975]]'
+- '[[_Standards/WikiData/WD~Paaliaq,17979]]'
+- '[[_Standards/WikiData/WD~Skathi,17982]]'
+- '[[_Standards/WikiData/WD~Albiorix,17995]]'
+- '[[_Standards/WikiData/WD~Bebhionn,17999]]'
+- '[[_Standards/WikiData/WD~Skoll,18001]]'
+- '[[_Standards/WikiData/WD~Erriapus,18004]]'
+- '[[_Standards/WikiData/WD~Tarqeq,18010]]'
+- '[[_Standards/WikiData/WD~Greip,18016]]'
+- '[[_Standards/WikiData/WD~Siarnaq,18024]]'
+- '[[_Standards/WikiData/WD~Hyrrokkin,18032]]'
+- '[[_Standards/WikiData/WD~Tarvos,18039]]'
+- '[[_Standards/WikiData/WD~S_2004_S_13,18047]]'
+- '[[_Standards/WikiData/WD~Jarnsaxa,18178]]'
+- '[[_Standards/WikiData/WD~S_2004_S_17,18179]]'
+- '[[_Standards/WikiData/WD~Mundilfari,18183]]'
+- '[[_Standards/WikiData/WD~Bergelmir,18195]]'
+- '[[_Standards/WikiData/WD~S_2006_S_1,18199]]'
+- '[[_Standards/WikiData/WD~Aegir,18201]]'
+- '[[_Standards/WikiData/WD~Narvi,18207]]'
+- '[[_Standards/WikiData/WD~S_2004_S_12,18211]]'
+- '[[_Standards/WikiData/WD~Suttungr,18214]]'
+- '[[_Standards/WikiData/WD~Bestla,18213]]'
+- '[[_Standards/WikiData/WD~S_2004_S_7,18218]]'
+- '[[_Standards/WikiData/WD~Farbauti,18217]]'
+- '[[_Standards/WikiData/WD~Thrymr,18223]]'
+- '[[_Standards/WikiData/WD~Hati,18220]]'
+- '[[_Standards/WikiData/WD~S_2006_S_3,18228]]'
+- '[[_Standards/WikiData/WD~Fenrir,18229]]'
+- '[[_Standards/WikiData/WD~Fornjot,18234]]'
+- '[[_Standards/WikiData/WD~Surtur,18235]]'
+- '[[_Standards/WikiData/WD~Ymir,18238]]'
+- '[[_Standards/WikiData/WD~Loge,18239]]'
+- '[[_Standards/WikiData/WD~Kari,18236]]'
+- '[[_Standards/WikiData/WD~S_2009_S_1,18246]]'
+- '[[_Standards/WikiData/WD~S_2007_S_2,18247]]'
+- '[[_Standards/WikiData/WD~S_2007_S_3,18340]]'
+- '[[_Standards/WikiData/WD~S_2004_S_6,18345]]'
+- '[[_Standards/WikiData/WD~S_2004_S_4,18350]]'
+- '[[_Standards/WikiData/WD~S_2004_S_3,18355]]'
+- '[[_Standards/WikiData/WD~rings_of_Saturn,194]]'
+- '[[_Standards/WikiData/WD~E_Ring,1109971]]'
+- '[[_Standards/WikiData/WD~G_ring,1133273]]'
+- '[[_Standards/WikiData/WD~Themis,1753556]]'
+- '[[_Standards/WikiData/WD~C_ring,2257686]]'
+- '[[_Standards/WikiData/WD~F_ring,2528985]]'
+- '[[_Standards/WikiData/WD~B_ring,2738054]]'
+- '[[_Standards/WikiData/WD~A_ring,2739023]]'
+- '[[_Standards/WikiData/WD~D_ring,2851405]]'
+- '[[_Standards/WikiData/WD~Earhart,12872515]]'
+- '[[_Standards/WikiData/WD~Blériot,12881327]]'
+- '[[_Standards/WikiData/WD~Santos-Dumont,12884260]]'
+- '[[_Standards/WikiData/WD~Curtiss,16545274]]'
+- '[[_Standards/WikiData/WD~Hinkler,16641857]]'
+- '[[_Standards/WikiData/WD~Kingsford_Smith,16648449]]'
+- '[[_Standards/WikiData/WD~Lindbergh,16655961]]'
+- '[[_Standards/WikiData/WD~Post,16670796]]'
+- '[[_Standards/WikiData/WD~Richthofen,16672766]]'
+- '[[_Standards/WikiData/WD~Sikorsky,16676807]]'
+- '[[_Standards/WikiData/WD~Wright,16683435]]'
+- '[[_Standards/WikiData/WD~Phoebe_ring,19606402]]'
+- '[[_Standards/WikiData/WD~Peggy,28491368]]'
+- '[[_Standards/WikiData/WD~Gridr,70012792]]'
+- '[[_Standards/WikiData/WD~S_2004_S_21,70072437]]'
+- '[[_Standards/WikiData/WD~Angrboda,70072703]]'
+- '[[_Standards/WikiData/WD~Skrymir,70072804]]'
+- '[[_Standards/WikiData/WD~S_2004_S_24,70072805]]'
+- '[[_Standards/WikiData/WD~Gerd,70072808]]'
+- '[[_Standards/WikiData/WD~S_2004_S_26,70072809]]'
+- '[[_Standards/WikiData/WD~Eggther,70072812]]'
+- '[[_Standards/WikiData/WD~S_2004_S_28,70072813]]'
+- '[[_Standards/WikiData/WD~S_2004_S_29,70072816]]'
+- '[[_Standards/WikiData/WD~Beli,70072817]]'
+- '[[_Standards/WikiData/WD~Alvaldi,70141937]]'
+- '[[_Standards/WikiData/WD~Titan,2565]]'
+- '[[_Standards/WikiData/WD~Enceladus,3303]]'
+- '[[_Standards/WikiData/WD~Mimas,15034]]'
+- '[[_Standards/WikiData/WD~Hyperion,15037]]'
+- '[[_Standards/WikiData/WD~Dione,15040]]'
+- '[[_Standards/WikiData/WD~Tethys,15047]]'
+- '[[_Standards/WikiData/WD~Rhea,15050]]'
+- '[[_Standards/WikiData/WD~Daphnis,17706]]'
+- '[[_Standards/WikiData/WD~Atlas,17707]]'
+- '[[_Standards/WikiData/WD~Pan,17705]]'
 Commons_category: "Saturn (planet)"
 Commons_gallery: Saturn
 declination: 83.537
@@ -127,37 +127,39 @@ density:
 - 0.19
 - 0.867
 described_by_source:
-- "[[_Standards/WD/WD~Brockhaus and Efron Encyclopedic Dictionary]]"
-- "[[_Standards/WD/WD~Encyclopædia Britannica 11th edition]]"
-- "[[_Standards/WD/WD~The Nuttall Encyclopædia]]"
-- "[[_Standards/WD/WD~Small Brockhaus and Efron Encyclopedic Dictionary]]"
-- "[[_Standards/WD/WD~Armenian Soviet Encyclopedia, vol. 10]]"
+- '[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._10,124737637]]'
 Dewey_Decimal_Classification: 523.46
 diameter: 120536
-different_from: '[[_Standards/WD/WD~Saturn]]'
+different_from: '[[_Standards/WikiData/WD~Saturn,3950829]]'
 distance_from_Earth:
 - 1195000000
 - 1660000000
-epoch: '[[_Standards/WD/WD~J2000.0]]'
 flattening: 0.09796
 has_id_wikidata: Q193
 has_part_s_:
-- "[[_Standards/WD/WD~atmosphere of Saturn]]"
-- "[[_Standards/WD/WD~magnetosphere of Saturn]]"
+- '[[_Standards/WikiData/WD~atmosphere_of_Saturn,303397]]'
+- '[[_Standards/WikiData/WD~magnetosphere_of_Saturn,2334004]]'
 Iconclass_notation: 24C17
 image: "http://commons.wikimedia.org/wiki/Special:FilePath/8423%2020181%201saturn2016.jpg"
 instance_of:
-- "[[_Standards/WD/WD~outer planet]]"
-- "[[_Standards/WD/WD~gas giant]]"
-location: "[[_Standards/WD/WD~outer Solar System]]"
+- '[[_Standards/WikiData/WD~outer_planet,30014]]'
+- '[[_Standards/WikiData/WD~gas_giant,121750]]'
+IPA_transcription: zaˈtʊʁn
+location: '[[_Standards/WikiData/WD~outer_Solar_System,3962257]]'
 longitude_of_ascending_node: 113.66242448
 magnetic_moment: 4.6e+25
 mass: 568360
 mean_anomaly: 317.02
+MeSH_tree_code: G01.060.075.730.700.831
 named_after:
-- '[[_Standards/WD/WD~Saturn]]'
-- "[[_Standards/WD/WD~Wu Xing]]"
-notation: '[[_Standards/db/♄]]'
+- '[[_Standards/WikiData/WD~Saturn,134388]]'
+- '[[_Standards/WikiData/WD~Wu_Xing,218652]]'
+notation: '[[_Standards/WikiData/WD~_,3594853]]'
 OmegaWiki_Defined_Meaning: 382630
 orbital_eccentricity: 0.05386179
 orbital_inclination:
@@ -165,8 +167,8 @@ orbital_inclination:
 - 2.48599187
 - 5.51
 orbital_period: 10757.7365
-parent_astronomical_body: '[[_Standards/WD/WD~Sun]]'
-part_of: "[[_Standards/WD/WD~outer Solar System]]"
+parent_astronomical_body: '[[_Standards/WikiData/WD~Sun,525]]'
+part_of: '[[_Standards/WikiData/WD~outer_Solar_System,3962257]]'
 periapsis:
 - 9.04807635
 - 1349823615
@@ -174,15 +176,16 @@ pronunciation_audio:
 - "http://commons.wikimedia.org/wiki/Special:FilePath/En-us-Saturn.ogg"
 - "http://commons.wikimedia.org/wiki/Special:FilePath/It-Saturno.ogg"
 - "http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q9027%20%28swe%29-Moonhouse-Saturnus.wav"
+- "http://commons.wikimedia.org/wiki/Special:FilePath/De-Saturn2.ogg"
 radius:
 - 54364
 - 58232
 - 60268
 right_ascension: 40.589
 semi_major_axis_of_an_orbit:
-- 9.53667594
 - 1429394069
-significant_event: "[[_Standards/WD/WD~planetary flyby]]"
+- 9.53667594
+significant_event: '[[_Standards/WikiData/WD~planetary_flyby,828032]]'
 speed:
 - 9.137
 - 9.6446
@@ -191,21 +194,29 @@ spoken_text_audio:
 - "http://commons.wikimedia.org/wiki/Special:FilePath/Hy-%D5%8D%D5%A1%D5%BF%D5%B8%D6%82%D6%80%D5%B6%20%28Saturn%29.ogg"
 - "http://commons.wikimedia.org/wiki/Special:FilePath/Saturn.ogg"
 Stack_Exchange_tag: "https://astronomy.stackexchange.com/tags/saturn"
+studied_in: '[[_Standards/WikiData/WD~kronology,131626666]]'
 surface_gravity: 8.96
 synodic_period: 378.0944
 temperature: 134
-topic_s_main_category: '[[_Standards/WD/WD~Q32816016]]'
+topic_s_main_category: '[[_Standards/WikiData/WD~Q32816016,32816016]]'
+topic_s_main_template: '[[_Standards/WikiData/WD~Template_Saturn,6308278]]'
 Unicode_character:
 - "\U0001FA90"
 - ♄
 U_S_National_Archives_Identifier: 10046640
 video: "http://commons.wikimedia.org/wiki/Special:FilePath/Looking%20saturn%20in%20the%20eye.ogv"
 volume_as_quantity: 827130000000000
-Wikimedia_outline: "[[_Standards/WD/WD~outline of Saturn]]"
+Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_Saturn,30589070]]'
 Wolfram_Language_entity_code: "Entity[\"Planet\", \"Saturn\"]"
 ---
 
-# #has_/text_of_/abstract 
+# [[Saturn]]
+
+#is_/same_as :: [[../../WikiData/WD~Saturn,193]]
+#is_/different_from :: [[_Standards/WikiData/WD~Saturn,134388]] 
+#is_/different_from :: [[_Standards/WikiData/WD~Saturn,3950829]]  
+
+## #has_/text_of_/abstract 
 
 > **Saturn** is the sixth planet from the Sun and the second-largest in the Solar System, after Jupiter. 
 > It is a gas giant with an average radius of about nine-and-a-half times that of Earth. 
@@ -239,4 +250,19 @@ Wolfram_Language_entity_code: "Entity[\"Planet\", \"Saturn\"]"
 > [Wikipedia](https://en.wikipedia.org/wiki/Saturn)
 
 
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Saturn](/_Standards/Astronomy/Solar_System/Saturn.md) 
+
+### #is_/same_as :: [Saturn.public](/_public/Astronomy/Solar_System/Saturn.public.md) 
+
+### #is_/same_as :: [Saturn.internal](/_internal/Astronomy/Solar_System/Saturn.internal.md) 
+
+### #is_/same_as :: [Saturn.protect](/_protect/Astronomy/Solar_System/Saturn.protect.md) 
+
+### #is_/same_as :: [Saturn.private](/_private/Astronomy/Solar_System/Saturn.private.md) 
+
+### #is_/same_as :: [Saturn.personal](/_personal/Astronomy/Solar_System/Saturn.personal.md) 
+
+### #is_/same_as :: [Saturn.secret](/_secret/Astronomy/Solar_System/Saturn.secret.md)
 
