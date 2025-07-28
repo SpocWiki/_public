@@ -1,5 +1,5 @@
 
 
 
-![Sociology](/_Standards/Society/Sociology.md) 
+![Sociology](../../_Standards/Society/Anthropology/Sociology.md) 
 
