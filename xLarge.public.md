@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - xLarge.public
 confidential: private
@@ -66,7 +66,7 @@ type: folder_brief_live
 
 ## Embedded Graph 
 
-![[<% tp.file.title %>.svg]] 
+![[xLarge.public.svg]] 
 
 
 %%
