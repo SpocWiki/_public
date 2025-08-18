@@ -1,3 +1,27 @@
+---
+dv_#has_/Pros:
+  path: Triz-10307
+  embed: false
+  type: file
+dv_Triz-Principle:
+  path: Triz-22197
+  embed: false
+  type: file
+dv_#has_/Cons:
+  path: _public/tech/Triz/Parameter/Triz-Ease_of_operation.md
+  embed: false
+  type: file
+dv_name: 10307+22197-Ease_of_operation
+dv_SpocWebEntityId: 26745
+dv_has_pros:
+  path: Triz-10307
+  embed: false
+  type: file
+dv_has_cons:
+  path: _public/tech/Triz/Parameter/Triz-Ease_of_operation.md
+  embed: false
+  type: file
+---
 ﻿---
 aliases:
 - 10307+22197-Ease_of_operation
