@@ -115,4 +115,4 @@ darkMode: false
 ### #is_/same_as :: [Star.secret](/_secret/Astronomy/Star.secret.md)
 
 
-![[_Star_DbFolder]]
+![[../../_Standards/Astronomy/Star/Stars/_Star_DbFolder]]
