@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Cook Islands"
 - "Islas Cook"
