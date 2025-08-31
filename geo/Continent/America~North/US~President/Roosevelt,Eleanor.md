@@ -1,6 +1,7 @@
-﻿---
+---
 aliases:
 - "Eleanor Roosevelt"
+- Eleanor_Roosevelt
 - "Anna Eleanor Roosevelt"
 archives_at:
 - '[[_Standards/WikiData/WD~New_York_Public_Library_Main_Branch,7013887]]'
@@ -121,6 +122,7 @@ writing_language: '[[_Standards/WikiData/WD~American_English,7976]]'
 #has_/duration_/years :: `$=Math.round(((dv.current().has_time_stopped ?? new Date()) - dv.current().has_time_started)/1000/60/60/24/365.2425)` 
 #has_/duration_ :: `=default(this.has_time_stopped, date(now)) - this.has_time_started` 
 
+#is_/same_as :: [[../../../../../_Standards/WikiData/WD~Eleanor_Roosevelt,83396|WD~Eleanor_Roosevelt,83396]] 
 
 ## #has_/text_of_/abstract 
 
