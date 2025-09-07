@@ -162,7 +162,7 @@ But Eleanor Roosevelt, Franklin’s wife, was Theodore Roosevelt’s niece.
 Both also have a common Ancestor: 
 #has_/spouse :: [[Roosevelt,Eleanor]] 
 #has_/ancestor :: [[Roosevelt,Nicholas]] 
-#has_/ancestor [[../../../../../_private/Society/Communication/Media/books/Authors 1/Roosevelt,Johannes]] 
+#has_/ancestor [[../../../../../_private/Society/Communication/Media/books/Writer/Roosevelt,Johannes]] 
 
 #is_/member_/of :: [[../../History.internal/History~USA/US~Democratic_Party]] 
 

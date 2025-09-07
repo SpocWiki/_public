@@ -48,7 +48,7 @@ is_member_of :: [[../../../../../_Standards/Society/Politics/1890-Progressive_Er
 But [[Roosevelt,Eleanor]], Franklin’s wife, was Theodore Roosevelt’s niece. 
 Both also have a common Ancestor: 
 #has_/ancestor :: [[Roosevelt,Nicholas]] 
-#has_/ancestor [[../../../../../_private/Society/Communication/Media/books/Authors 1/Roosevelt,Johannes]] 
+#has_/ancestor [[../../../../../_private/Society/Communication/Media/books/Writer/Roosevelt,Johannes]] 
 
 
 #has_/created_/quote :: Speak softly and carry a big stick; you will go far. 
