@@ -115,7 +115,7 @@ markerFolder: ./Faroe~Islands//
 [Area-Land::0] 
 Continent :: [[Europe]]  
 [VehicleCode::FO] 
-Capital :: [[Tórshavn]]  
+Capital ::[[../../../../../_Standards/Earth/Continent/Europe/Europe~North/Faroe_Islands/Regions~Faroe/Streymoyar/counties~Streymoyar/Tórshavn]]]  
 [Alcohol-l::] 
 [Language-Id::] 
 [geo-lon::-6.78333] 
