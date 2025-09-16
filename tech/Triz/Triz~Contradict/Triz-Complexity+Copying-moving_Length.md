@@ -1,3 +1,12 @@
+---
+dv_#has_/Pros: "[[../Parameter/Triz-Complexity]]"
+dv_Triz-Principle: "[[../Principle/Triz-Copying]]"
+dv_#has_/Cons: "[[../Parameter/Triz-moving_Length]]"
+dv_name: Complexity+Copying-moving_Length
+dv_SpocWebEntityId: 26300
+dv_has_pros: "[[../Parameter/Triz-Complexity]]"
+dv_has_cons: "[[../Parameter/Triz-moving_Length]]"
+---
 ﻿---
 aliases:
 - Complexity+Copying-moving_Length
