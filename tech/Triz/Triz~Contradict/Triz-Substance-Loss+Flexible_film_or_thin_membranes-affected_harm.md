@@ -14,7 +14,7 @@ type: TrizContradiction
 [name::Substance-Loss+Flexible_film_or_thin_membranes-affected_harm]
 [SpocWebEntityId::24895]
 + [#has_/Pros :: Substance-Loss]
-[Triz-Principle:: [[Triz-Flexible_film_or_thin_membrane]]]]
+[Triz-Principle:: [[Triz-Flexible_film_or_thin_membrane]]
 - [#has_/Cons :: [[Triz-affected_harm]]]
 
 

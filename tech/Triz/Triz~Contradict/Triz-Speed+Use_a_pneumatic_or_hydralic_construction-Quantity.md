@@ -14,7 +14,7 @@ type: TrizContradiction
 [name::Speed+Use_a_pneumatic_or_hydralic_construction-Quantity]
 [SpocWebEntityId::23430]
 + [#has_/Pros :: [[Triz-Speed]]]
-[Triz-Principle:: [[Triz-Use_pneumatic_or_hydralic]]]]
+[Triz-Principle:: [[Triz-Use_pneumatic_or_hydralic]]
 - [#has_/Cons :: [[Triz-Quantity]]]
 
 

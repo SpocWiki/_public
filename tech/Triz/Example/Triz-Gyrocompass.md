@@ -13,7 +13,7 @@ type: TrizExample
 
 [name::Gyrocompass]
 [SpocWebEntityId::22479]
-[Triz-Principle-Sub:: [[Triz~Sub~feedback]]]]
+[Triz-Principle-Sub:: [[Triz~Sub~feedback]]
 
 Signal from Gyrocompass is used to control simple Aircraft Autopilots.
 

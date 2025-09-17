@@ -14,7 +14,7 @@ type: TrizContradiction
 [name::stationary_Area+Use_a_pneumatic_or_hydralic_construction-Manufacturing_Precision]
 [SpocWebEntityId::23159]
 + [#has_/Pros :: [[Triz-stationary_Area]]]
-[Triz-Principle:: [[Triz-Use_pneumatic_or_hydralic]]]]
+[Triz-Principle:: [[Triz-Use_pneumatic_or_hydralic]]
 - [#has_/Cons :: [[Triz-Manufacturing_Precision]]]
 
 

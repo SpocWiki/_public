@@ -14,7 +14,7 @@ type: TrizContradiction
 [name::Power+Use_a_pneumatic_or_hydralic_construction-Shape]
 [SpocWebEntityId::24615]
 + [#has_/Pros :: [[Triz-Power]]]
-[Triz-Principle:: [[Triz-Use_pneumatic_or_hydralic]]]]
+[Triz-Principle:: [[Triz-Use_pneumatic_or_hydralic]]
 - [#has_/Cons :: [[Triz-Shape]]]
 
 

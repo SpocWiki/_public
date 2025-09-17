@@ -14,7 +14,7 @@ type: TrizContradiction
 [name::Ease_of_manufacture+Feedback-Quantity]
 [SpocWebEntityId::25911]
 + [#has_/Pros :: [[Triz-Ease_of_manufacture]]]
-[Triz-Principle:: [[Triz~Sub~feedback]]]]
+[Triz-Principle:: [[Triz~Sub~feedback]]
 - [#has_/Cons :: [[Triz-Quantity]]]
 
 

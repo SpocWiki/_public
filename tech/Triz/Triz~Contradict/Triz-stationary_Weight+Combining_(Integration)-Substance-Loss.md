@@ -14,7 +14,7 @@ type: TrizContradiction
 [name::stationary_Weight+Combining_(Integration)-Substance-Loss]
 [SpocWebEntityId::22750]
 + [#has_/Pros :: [[Triz-stationary_Weight]]]
-[Triz-Principle:: [[Triz-Combining(Integration)]]]]
+[Triz-Principle:: [[Triz-Combining(Integration)]]
 - [#has_/Cons :: Substance-Loss]
 
 

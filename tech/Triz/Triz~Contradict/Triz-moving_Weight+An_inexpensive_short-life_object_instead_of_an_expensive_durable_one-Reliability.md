@@ -14,7 +14,7 @@ type: TrizContradiction
 [name::moving_Weight+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Reliability]
 [SpocWebEntityId::22647]
 + [#has_/Pros :: [[Triz-moving_Weight]]]
-[Triz-Principle:: [[Triz-inexpensive_short-lived_instead_of_expensive_durable]]]]
+[Triz-Principle:: [[Triz-inexpensive_short-lived_instead_of_expensive_durable]]
 - [#has_/Cons :: [[Triz-Reliability]]]
 
 

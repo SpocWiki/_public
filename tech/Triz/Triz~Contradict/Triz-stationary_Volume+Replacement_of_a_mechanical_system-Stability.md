@@ -14,7 +14,7 @@ type: TrizContradiction
 [name::stationary_Volume+Replacement_of_a_mechanical_system-Stability]
 [SpocWebEntityId::23316]
 + [#has_/Pros :: [[Triz-stationary_Volume]]]
-[Triz-Principle:: [[Triz-Replace_a_mechanical_system]]]]
+[Triz-Principle:: [[Triz-Replace_a_mechanical_system]]
 - [#has_/Cons :: [[Triz-Stability]]]
 
 

@@ -14,7 +14,7 @@ type: TrizContradiction
 [name::Reliability+Use_a_pneumatic_or_hydralic_construction-stationary_Length]
 [SpocWebEntityId::25245]
 + [#has_/Pros :: [[Triz-Reliability]]]
-[Triz-Principle:: [[Triz-Use_pneumatic_or_hydralic]]]]
+[Triz-Principle:: [[Triz-Use_pneumatic_or_hydralic]]
 - [#has_/Cons :: [[Triz-stationary_Length]]]
 
 

@@ -14,7 +14,7 @@ type: TrizContradiction
 [name::Time-Loss+Combining_(Integration)-stationary_Length]
 [SpocWebEntityId::24993]
 + [#has_/Pros :: Time-Loss]
-[Triz-Principle:: [[Triz-Combining(Integration)]]]]
+[Triz-Principle:: [[Triz-Combining(Integration)]]
 - [#has_/Cons :: [[Triz-stationary_Length]]]
 
 

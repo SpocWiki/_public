@@ -14,7 +14,7 @@ type: TrizContradiction
 [name::Time-Loss+Use_a_pneumatic_or_hydralic_construction-Complexity]
 [SpocWebEntityId::25102]
 + [#has_/Pros :: Time-Loss]
-[Triz-Principle:: [[Triz-Use_pneumatic_or_hydralic]]]]
+[Triz-Principle:: [[Triz-Use_pneumatic_or_hydralic]]
 - [#has_/Cons :: [[Triz-Complexity]]]
 
 

@@ -14,7 +14,7 @@ type: TrizContradiction
 [name::moving_Volume+Replacement_of_a_mechanical_system-Measurement_Accuracy]
 [SpocWebEntityId::23261]
 + [#has_/Pros :: [[Triz-moving_Volume]]]
-[Triz-Principle:: [[Triz-Replace_a_mechanical_system]]]]
+[Triz-Principle:: [[Triz-Replace_a_mechanical_system]]
 - [#has_/Cons :: [[Triz-Measurement_Accuracy]]]
 
 

@@ -14,7 +14,7 @@ type: TrizContradiction
 [name::moving_Duration+Use_a_pneumatic_or_hydralic_construction-Ease_of_repair]
 [SpocWebEntityId::24148]
 + [#has_/Pros :: [[Triz-moving_Duration]]]
-[Triz-Principle:: [[Triz-Use_pneumatic_or_hydralic]]]]
+[Triz-Principle:: [[Triz-Use_pneumatic_or_hydralic]]
 - [#has_/Cons :: [[Triz-Ease_of_repair]]]
 
 

@@ -14,7 +14,7 @@ type: TrizContradiction
 [name::Manufacturing_Precision+Feedback-moving_Volume]
 [SpocWebEntityId::25503]
 + [#has_/Pros :: [[Triz-Manufacturing_Precision]]]
-[Triz-Principle:: [[Triz~Sub~feedback]]]]
+[Triz-Principle:: [[Triz~Sub~feedback]]
 - [#has_/Cons :: [[Triz-moving_Volume]]]
 
 

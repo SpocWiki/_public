@@ -13,7 +13,7 @@ type: TrizExample
 
 [name::Argon Atmosphere]
 [SpocWebEntityId::22551]
-[Triz-Principle-Sub:: [[Triz~Sub~inert-environment]]]]
+[Triz-Principle-Sub:: [[Triz~Sub~inert-environment]]
 
 Prevent Degradation of a hot Metal Filament by using an Argon Atmosphere.
 

@@ -14,7 +14,7 @@ type: TrizContradiction
 [name::Ease_of_manufacture+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-moving_Energy]
 [SpocWebEntityId::25889]
 + [#has_/Pros :: [[Triz-Ease_of_manufacture]]]
-[Triz-Principle:: [[Triz-inexpensive_short-lived_instead_of_expensive_durable]]]]
+[Triz-Principle:: [[Triz-inexpensive_short-lived_instead_of_expensive_durable]]
 - [#has_/Cons :: [[Triz-moving_Energy]]]
 
 

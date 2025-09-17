@@ -14,7 +14,7 @@ type: TrizContradiction
 [name::moving_Area+Combining_(Integration)-Shape]
 [SpocWebEntityId::23017]
 + [#has_/Pros :: [[Triz-moving_Area]]]
-[Triz-Principle:: [[Triz-Combining(Integration)]]]]
+[Triz-Principle:: [[Triz-Combining(Integration)]]
 - [#has_/Cons :: [[Triz-Shape]]]
 
 

@@ -14,7 +14,7 @@ type: TrizContradiction
 [name::Reliability+Use_a_pneumatic_or_hydralic_construction-Substance-Loss]
 [SpocWebEntityId::25310]
 + [#has_/Pros :: [[Triz-Reliability]]]
-[Triz-Principle:: [[Triz-Use_pneumatic_or_hydralic]]]]
+[Triz-Principle:: [[Triz-Use_pneumatic_or_hydralic]]
 - [#has_/Cons :: Substance-Loss]
 
 

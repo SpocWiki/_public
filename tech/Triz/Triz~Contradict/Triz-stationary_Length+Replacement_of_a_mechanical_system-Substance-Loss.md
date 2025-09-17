@@ -14,7 +14,7 @@ type: TrizContradiction
 [name::stationary_Length+Replacement_of_a_mechanical_system-Substance-Loss]
 [SpocWebEntityId::22959]
 + [#has_/Pros :: [[Triz-stationary_Length]]]
-[Triz-Principle:: [[Triz-Replace_a_mechanical_system]]]]
+[Triz-Principle:: [[Triz-Replace_a_mechanical_system]]
 - [#has_/Cons :: Substance-Loss]
 
 

@@ -14,7 +14,7 @@ type: TrizContradiction
 [name::stationary_Weight+Replacement_of_a_mechanical_system-Measurement_Accuracy]
 [SpocWebEntityId::22771]
 + [#has_/Pros :: [[Triz-stationary_Weight]]]
-[Triz-Principle:: [[Triz-Replace_a_mechanical_system]]]]
+[Triz-Principle:: [[Triz-Replace_a_mechanical_system]]
 - [#has_/Cons :: [[Triz-Measurement_Accuracy]]]
 
 

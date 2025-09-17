@@ -116,7 +116,7 @@ markerFolder: ./British_Virgin~Islands/
 Continent :: [[South-America]]  
 [VehicleCode::]
 [Capital-Id::]
-![[Coat_of_arms_of_Virgin-islands.svg|350]![[../../../xLarge.public/National-Anthem/Anthem-Virgin-islands.mp3]]]]
+![[Coat_of_arms_of_Virgin-islands.svg|350]![[../../../xLarge.public/National-Anthem/Anthem-Virgin-islands.mp3]]
 ![[Flag_of_Virgin-islands.svg|350]]
 [Alcohol-l::]
 [Language-Id::]

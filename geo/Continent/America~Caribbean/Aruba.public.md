@@ -117,7 +117,7 @@ Continent :: [[South-America]]
 [VehicleCode::ARU]
 Capital :: [[Aruba/City/Oranjestad]]  
 
-![[Aruba/Coat_of_arms_of_Aruba.svg|350]]![[../../../xLarge.public/National-Anthem/Anthem-Aruba.mp3]]]]
+![[Aruba/Coat_of_arms_of_Aruba.svg|350]]![[../../../xLarge.public/National-Anthem/Anthem-Aruba.mp3]]
 
 ![[Aruba/Flag_of_Aruba.svg|350]]
 

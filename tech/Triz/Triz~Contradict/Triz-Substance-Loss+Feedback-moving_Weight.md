@@ -14,7 +14,7 @@ type: TrizContradiction
 [name::Substance-Loss+Feedback-moving_Weight]
 [SpocWebEntityId::24789]
 + [#has_/Pros :: Substance-Loss]
-[Triz-Principle:: [[Triz~Sub~feedback]]]]
+[Triz-Principle:: [[Triz~Sub~feedback]]
 - [#has_/Cons :: [[Triz-moving_Weight]]]
 
 

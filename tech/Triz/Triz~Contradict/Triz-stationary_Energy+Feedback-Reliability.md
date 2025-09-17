@@ -14,7 +14,7 @@ type: TrizContradiction
 [name::stationary_Energy+Feedback-Reliability]
 [SpocWebEntityId::24565]
 + [#has_/Pros :: [[Triz-stationary_Energy]]]
-[Triz-Principle:: [[Triz~Sub~feedback]]]]
+[Triz-Principle:: [[Triz~Sub~feedback]]
 - [#has_/Cons :: [[Triz-Reliability]]]
 
 

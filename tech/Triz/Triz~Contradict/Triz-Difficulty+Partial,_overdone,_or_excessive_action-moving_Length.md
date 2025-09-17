@@ -14,7 +14,7 @@ type: TrizContradiction
 [name::Difficulty+Partial,_overdone,_or_excessive_action-moving_Length]
 [SpocWebEntityId::26413]
 + [#has_/Pros :: [[Triz-Difficulty]]]
-[Triz-Principle:: [[Triz-Partial_overdone_or_excessive_action]]]]
+[Triz-Principle:: [[Triz-Partial_overdone_or_excessive_action]]
 - [#has_/Cons :: [[Triz-moving_Length]]]
 
 

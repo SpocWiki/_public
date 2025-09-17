@@ -13,7 +13,7 @@ type: TrizExample
 
 [name::hammer]
 [SpocWebEntityId::22457]
-[Triz-Principle-Sub:: [[Triz~Sub~periodic_action]]]]
+[Triz-Principle-Sub:: [[Triz~Sub~periodic_action]]
 
 Hitting something repeatedly with a hammer.
 

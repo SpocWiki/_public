@@ -14,7 +14,7 @@ type: TrizContradiction
 [name::Information-Loss+Partial,_overdone,_or_excessive_action-stationary_Area]
 [SpocWebEntityId::24942]
 + [#has_/Pros :: Information-Loss]
-[Triz-Principle:: [[Triz-Partial_overdone_or_excessive_action]]]]
+[Triz-Principle:: [[Triz-Partial_overdone_or_excessive_action]]
 - [#has_/Cons :: [[Triz-stationary_Area]]]
 
 

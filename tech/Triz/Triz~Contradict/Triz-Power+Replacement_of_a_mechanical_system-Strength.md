@@ -14,7 +14,7 @@ type: TrizContradiction
 [name::Power+Replacement_of_a_mechanical_system-Strength]
 [SpocWebEntityId::24625]
 + [#has_/Pros :: [[Triz-Power]]]
-[Triz-Principle:: [[Triz-Replace_a_mechanical_system]]]]
+[Triz-Principle:: [[Triz-Replace_a_mechanical_system]]
 - [#has_/Cons :: [[Triz-Strength]]]
 
 

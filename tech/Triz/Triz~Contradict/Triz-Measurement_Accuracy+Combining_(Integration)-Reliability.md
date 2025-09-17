@@ -14,7 +14,7 @@ type: TrizContradiction
 [name::Measurement_Accuracy+Combining_(Integration)-Reliability]
 [SpocWebEntityId::25436]
 + [#has_/Pros :: [[Triz-Measurement_Accuracy]]]
-[Triz-Principle:: [[Triz-Combining(Integration)]]]]
+[Triz-Principle:: [[Triz-Combining(Integration)]]
 - [#has_/Cons :: [[Triz-Reliability]]]
 
 

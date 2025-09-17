@@ -13,7 +13,7 @@ type: TrizExample
 
 [name::Tool-reservoir]
 [SpocWebEntityId::22370]
-[Triz-Principle-Sub:: [[Triz-multi-Purpose]]]]
+[Triz-Principle-Sub:: [[Triz-multi-Purpose]]
 
 Handle of a toothbrush contains toothpaste
 

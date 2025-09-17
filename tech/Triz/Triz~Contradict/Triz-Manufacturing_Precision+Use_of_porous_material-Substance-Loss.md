@@ -14,7 +14,7 @@ type: TrizContradiction
 [name::Manufacturing_Precision+Use_of_porous_material-Substance-Loss]
 [SpocWebEntityId::25539]
 + [#has_/Pros :: [[Triz-Manufacturing_Precision]]]
-[Triz-Principle:: [[Triz-Use_porous_material]]]]
+[Triz-Principle:: [[Triz-Use_porous_material]]
 - [#has_/Cons :: Substance-Loss]
 
 

@@ -14,7 +14,7 @@ type: TrizContradiction
 [name::affected_harm+Replacement_of_a_mechanical_system-moving_Area]
 [SpocWebEntityId::25593]
 + [#has_/Pros :: [[Triz-affected_harm]]]
-[Triz-Principle:: [[Triz-Replace_a_mechanical_system]]]]
+[Triz-Principle:: [[Triz-Replace_a_mechanical_system]]
 - [#has_/Cons :: [[Triz-moving_Area]]]
 
 

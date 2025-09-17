@@ -14,7 +14,7 @@ type: TrizContradiction
 [name::Quantity+Partial,_overdone,_or_excessive_action-moving_Energy]
 [SpocWebEntityId::25166]
 + [#has_/Pros :: [[Triz-Quantity]]]
-[Triz-Principle:: [[Triz-Partial_overdone_or_excessive_action]]]]
+[Triz-Principle:: [[Triz-Partial_overdone_or_excessive_action]]
 - [#has_/Cons :: [[Triz-moving_Energy]]]
 
 

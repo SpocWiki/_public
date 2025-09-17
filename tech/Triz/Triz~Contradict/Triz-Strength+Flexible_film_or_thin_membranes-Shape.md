@@ -14,7 +14,7 @@ type: TrizContradiction
 [name::Strength+Flexible_film_or_thin_membranes-Shape]
 [SpocWebEntityId::23990]
 + [#has_/Pros :: [[Triz-Strength]]]
-[Triz-Principle:: [[Triz-Flexible_film_or_thin_membrane]]]]
+[Triz-Principle:: [[Triz-Flexible_film_or_thin_membrane]]
 - [#has_/Cons :: [[Triz-Shape]]]
 
 

@@ -14,7 +14,7 @@ type: TrizContradiction
 [name::moving_Energy+Feedback-Quantity]
 [SpocWebEntityId::24500]
 + [#has_/Pros :: [[Triz-moving_Energy]]]
-[Triz-Principle:: [[Triz~Sub~feedback]]]]
+[Triz-Principle:: [[Triz~Sub~feedback]]
 - [#has_/Cons :: [[Triz-Quantity]]]
 
 

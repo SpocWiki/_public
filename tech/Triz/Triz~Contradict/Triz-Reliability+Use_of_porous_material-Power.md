@@ -14,7 +14,7 @@ type: TrizContradiction
 [name::Reliability+Use_of_porous_material-Power]
 [SpocWebEntityId::25304]
 + [#has_/Pros :: [[Triz-Reliability]]]
-[Triz-Principle:: [[Triz-Use_porous_material]]]]
+[Triz-Principle:: [[Triz-Use_porous_material]]
 - [#has_/Cons :: [[Triz-Power]]]
 
 

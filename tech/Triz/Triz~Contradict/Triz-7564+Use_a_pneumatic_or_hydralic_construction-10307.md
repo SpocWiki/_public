@@ -14,7 +14,7 @@ type: TrizContradiction
 [name::7564+Use_a_pneumatic_or_hydralic_construction-10307]
 [SpocWebEntityId::25356]
 + [#has_/Pros :: [[Triz-7564]]]
-[Triz-Principle:: [[Triz-Use_pneumatic_or_hydralic]]]]
+[Triz-Principle:: [[Triz-Use_pneumatic_or_hydralic]]
 - [#has_/Cons :: [[Triz-10307]]]
 
 

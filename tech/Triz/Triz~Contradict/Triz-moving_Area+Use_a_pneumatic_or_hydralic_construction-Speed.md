@@ -14,7 +14,7 @@ type: TrizContradiction
 [name::moving_Area+Use_a_pneumatic_or_hydralic_construction-Speed]
 [SpocWebEntityId::23005]
 + [#has_/Pros :: [[Triz-moving_Area]]]
-[Triz-Principle:: [[Triz-Use_pneumatic_or_hydralic]]]]
+[Triz-Principle:: [[Triz-Use_pneumatic_or_hydralic]]
 - [#has_/Cons :: [[Triz-Speed]]]
 
 

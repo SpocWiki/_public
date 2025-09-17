@@ -14,7 +14,7 @@ type: TrizContradiction
 [name::Speed+Replacement_of_a_mechanical_system-Manufacturing_Precision]
 [SpocWebEntityId::23441]
 + [#has_/Pros :: [[Triz-Speed]]]
-[Triz-Principle:: [[Triz-Replace_a_mechanical_system]]]]
+[Triz-Principle:: [[Triz-Replace_a_mechanical_system]]
 - [#has_/Cons :: [[Triz-Manufacturing_Precision]]]
 
 

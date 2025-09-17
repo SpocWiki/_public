@@ -14,7 +14,7 @@ type: TrizContradiction
 [name::Stability+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Power]
 [SpocWebEntityId::23893]
 + [#has_/Pros :: [[Triz-Stability]]]
-[Triz-Principle:: [[Triz-inexpensive_short-lived_instead_of_expensive_durable]]]]
+[Triz-Principle:: [[Triz-inexpensive_short-lived_instead_of_expensive_durable]]
 - [#has_/Cons :: [[Triz-Power]]]
 
 

@@ -14,7 +14,7 @@ type: TrizContradiction
 [name::Energy-Loss+Flexible_film_or_thin_membranes-moving_Area]
 [SpocWebEntityId::24718]
 + [#has_/Pros :: Energy-Loss]
-[Triz-Principle:: [[Triz-Flexible_film_or_thin_membrane]]]]
+[Triz-Principle:: [[Triz-Flexible_film_or_thin_membrane]]
 - [#has_/Cons :: [[Triz-moving_Area]]]
 
 

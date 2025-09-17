@@ -14,7 +14,7 @@ type: TrizContradiction
 [name::Substance-Loss+Replacement_of_a_mechanical_system-Strength]
 [SpocWebEntityId::24839]
 + [#has_/Pros :: Substance-Loss]
-[Triz-Principle:: [[Triz-Replace_a_mechanical_system]]]]
+[Triz-Principle:: [[Triz-Replace_a_mechanical_system]]
 - [#has_/Cons :: [[Triz-Strength]]]
 
 

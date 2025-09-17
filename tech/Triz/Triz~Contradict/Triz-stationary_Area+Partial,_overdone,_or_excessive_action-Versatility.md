@@ -14,7 +14,7 @@ type: TrizContradiction
 [name::stationary_Area+Partial,_overdone,_or_excessive_action-Versatility]
 [SpocWebEntityId::23175]
 + [#has_/Pros :: [[Triz-stationary_Area]]]
-[Triz-Principle:: [[Triz-Partial_overdone_or_excessive_action]]]]
+[Triz-Principle:: [[Triz-Partial_overdone_or_excessive_action]]
 - [#has_/Cons :: [[Triz-Versatility]]]
 
 

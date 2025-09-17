@@ -14,7 +14,7 @@ type: TrizContradiction
 [name::moving_Weight+Replacement_of_a_mechanical_system-Ease_of_manufacture]
 [SpocWebEntityId::22665]
 + [#has_/Pros :: [[Triz-moving_Weight]]]
-[Triz-Principle:: [[Triz-Replace_a_mechanical_system]]]]
+[Triz-Principle:: [[Triz-Replace_a_mechanical_system]]
 - [#has_/Cons :: [[Triz-Ease_of_manufacture]]]
 
 

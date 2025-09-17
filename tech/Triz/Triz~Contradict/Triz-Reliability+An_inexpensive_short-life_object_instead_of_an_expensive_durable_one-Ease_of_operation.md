@@ -14,7 +14,7 @@ type: TrizContradiction
 [name::Reliability+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Ease_of_operation]
 [SpocWebEntityId::25336]
 + [#has_/Pros :: [[Triz-Reliability]]]
-[Triz-Principle:: [[Triz-inexpensive_short-lived_instead_of_expensive_durable]]]]
+[Triz-Principle:: [[Triz-inexpensive_short-lived_instead_of_expensive_durable]]
 - [#has_/Cons :: [[Triz-Ease_of_operation]]]
 
 

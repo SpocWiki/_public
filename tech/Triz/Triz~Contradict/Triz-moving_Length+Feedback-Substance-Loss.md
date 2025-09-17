@@ -14,7 +14,7 @@ type: TrizContradiction
 [name::moving_Length+Feedback-Substance-Loss]
 [SpocWebEntityId::22861]
 + [#has_/Pros :: [[Triz-moving_Length]]]
-[Triz-Principle:: [[Triz~Sub~feedback]]]]
+[Triz-Principle:: [[Triz~Sub~feedback]]
 - [#has_/Cons :: Substance-Loss]
 
 

@@ -14,7 +14,7 @@ type: TrizContradiction
 [name::Ease_of_operation+Partial,_overdone,_or_excessive_action-stationary_Duration]
 [SpocWebEntityId::25998]
 + [#has_/Pros :: [[Triz-Ease_of_operation]]]
-[Triz-Principle:: [[Triz-Partial_overdone_or_excessive_action]]]]
+[Triz-Principle:: [[Triz-Partial_overdone_or_excessive_action]]
 - [#has_/Cons :: [[Triz-stationary_Duration]]]
 
 

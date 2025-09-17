@@ -14,7 +14,7 @@ type: TrizContradiction
 [name::Ease_of_manufacture+Replacement_of_a_mechanical_system-Automation]
 [SpocWebEntityId::25939]
 + [#has_/Pros :: [[Triz-Ease_of_manufacture]]]
-[Triz-Principle:: [[Triz-Replace_a_mechanical_system]]]]
+[Triz-Principle:: [[Triz-Replace_a_mechanical_system]]
 - [#has_/Cons :: [[Triz-Automation]]]
 
 

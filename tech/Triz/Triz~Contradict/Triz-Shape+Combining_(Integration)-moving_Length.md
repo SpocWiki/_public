@@ -14,7 +14,7 @@ type: TrizContradiction
 [name::Shape+Combining_(Integration)-moving_Length]
 [SpocWebEntityId::23719]
 + [#has_/Pros :: [[Triz-Shape]]]
-[Triz-Principle:: [[Triz-Combining(Integration)]]]]
+[Triz-Principle:: [[Triz-Combining(Integration)]]
 - [#has_/Cons :: [[Triz-moving_Length]]]
 
 

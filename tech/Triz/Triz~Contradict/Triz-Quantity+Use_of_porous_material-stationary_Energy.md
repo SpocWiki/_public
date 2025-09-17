@@ -14,7 +14,7 @@ type: TrizContradiction
 [name::Quantity+Use_of_porous_material-stationary_Energy]
 [SpocWebEntityId::25170]
 + [#has_/Pros :: [[Triz-Quantity]]]
-[Triz-Principle:: [[Triz-Use_porous_material]]]]
+[Triz-Principle:: [[Triz-Use_porous_material]]
 - [#has_/Cons :: [[Triz-stationary_Energy]]]
 
 

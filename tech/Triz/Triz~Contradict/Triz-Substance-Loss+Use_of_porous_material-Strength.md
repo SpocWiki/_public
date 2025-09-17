@@ -14,7 +14,7 @@ type: TrizContradiction
 [name::Substance-Loss+Use_of_porous_material-Strength]
 [SpocWebEntityId::24840]
 + [#has_/Pros :: Substance-Loss]
-[Triz-Principle:: [[Triz-Use_porous_material]]]]
+[Triz-Principle:: [[Triz-Use_porous_material]]
 - [#has_/Cons :: [[Triz-Strength]]]
 
 

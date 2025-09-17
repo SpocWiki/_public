@@ -14,7 +14,7 @@ type: TrizContradiction
 [name::Speed+Partial,_overdone,_or_excessive_action-Difficulty]
 [SpocWebEntityId::23474]
 + [#has_/Pros :: [[Triz-Speed]]]
-[Triz-Principle:: [[Triz-Partial_overdone_or_excessive_action]]]]
+[Triz-Principle:: [[Triz-Partial_overdone_or_excessive_action]]
 - [#has_/Cons :: [[Triz-Difficulty]]]
 
 

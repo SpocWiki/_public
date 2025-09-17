@@ -14,7 +14,7 @@ type: TrizContradiction
 [name::22191+Combining_(Integration)-10307]
 [SpocWebEntityId::26629]
 + [#has_/Pros :: [[Triz-22191]]]
-[Triz-Principle:: [[Triz-Combining(Integration)]]]]
+[Triz-Principle:: [[Triz-Combining(Integration)]]
 - [#has_/Cons :: [[Triz-10307]]]
 
 

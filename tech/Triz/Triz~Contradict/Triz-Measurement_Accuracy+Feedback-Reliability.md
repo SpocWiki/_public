@@ -14,7 +14,7 @@ type: TrizContradiction
 [name::Measurement_Accuracy+Feedback-Reliability]
 [SpocWebEntityId::25439]
 + [#has_/Pros :: [[Triz-Measurement_Accuracy]]]
-[Triz-Principle:: [[Triz~Sub~feedback]]]]
+[Triz-Principle:: [[Triz~Sub~feedback]]
 - [#has_/Cons :: [[Triz-Reliability]]]
 
 

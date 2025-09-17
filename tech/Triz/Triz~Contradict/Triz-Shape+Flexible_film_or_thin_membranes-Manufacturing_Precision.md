@@ -14,7 +14,7 @@ type: TrizContradiction
 [name::Shape+Flexible_film_or_thin_membranes-Manufacturing_Precision]
 [SpocWebEntityId::23792]
 + [#has_/Pros :: [[Triz-Shape]]]
-[Triz-Principle:: [[Triz-Flexible_film_or_thin_membrane]]]]
+[Triz-Principle:: [[Triz-Flexible_film_or_thin_membrane]]
 - [#has_/Cons :: [[Triz-Manufacturing_Precision]]]
 
 

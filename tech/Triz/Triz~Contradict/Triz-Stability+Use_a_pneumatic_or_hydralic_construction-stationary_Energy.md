@@ -14,7 +14,7 @@ type: TrizContradiction
 [name::Stability+Use_a_pneumatic_or_hydralic_construction-stationary_Energy]
 [SpocWebEntityId::23889]
 + [#has_/Pros :: [[Triz-Stability]]]
-[Triz-Principle:: [[Triz-Use_pneumatic_or_hydralic]]]]
+[Triz-Principle:: [[Triz-Use_pneumatic_or_hydralic]]
 - [#has_/Cons :: [[Triz-stationary_Energy]]]
 
 

@@ -14,7 +14,7 @@ type: TrizContradiction
 [name::Strength+Replacement_of_a_mechanical_system-Complexity]
 [SpocWebEntityId::24056]
 + [#has_/Pros :: [[Triz-Strength]]]
-[Triz-Principle:: [[Triz-Replace_a_mechanical_system]]]]
+[Triz-Principle:: [[Triz-Replace_a_mechanical_system]]
 - [#has_/Cons :: [[Triz-Complexity]]]
 
 

@@ -14,7 +14,7 @@ type: TrizContradiction
 [name::stationary_Energy+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Substance-Loss]
 [SpocWebEntityId::24557]
 + [#has_/Pros :: [[Triz-stationary_Energy]]]
-[Triz-Principle:: [[Triz-inexpensive_short-lived_instead_of_expensive_durable]]]]
+[Triz-Principle:: [[Triz-inexpensive_short-lived_instead_of_expensive_durable]]
 - [#has_/Cons :: Substance-Loss]
 
 

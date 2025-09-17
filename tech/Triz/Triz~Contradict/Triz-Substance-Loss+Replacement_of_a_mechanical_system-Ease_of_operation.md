@@ -14,7 +14,7 @@ type: TrizContradiction
 [name::Substance-Loss+Replacement_of_a_mechanical_system-Ease_of_operation]
 [SpocWebEntityId::24905]
 + [#has_/Pros :: Substance-Loss]
-[Triz-Principle:: [[Triz-Replace_a_mechanical_system]]]]
+[Triz-Principle:: [[Triz-Replace_a_mechanical_system]]
 - [#has_/Cons :: [[Triz-Ease_of_operation]]]
 
 

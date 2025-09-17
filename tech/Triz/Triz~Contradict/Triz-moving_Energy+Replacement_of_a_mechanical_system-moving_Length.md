@@ -14,7 +14,7 @@ type: TrizContradiction
 [name::moving_Energy+Replacement_of_a_mechanical_system-moving_Length]
 [SpocWebEntityId::24445]
 + [#has_/Pros :: [[Triz-moving_Energy]]]
-[Triz-Principle:: [[Triz-Replace_a_mechanical_system]]]]
+[Triz-Principle:: [[Triz-Replace_a_mechanical_system]]
 - [#has_/Cons :: [[Triz-moving_Length]]]
 
 

@@ -14,7 +14,7 @@ type: TrizContradiction
 [name::stationary_Length+Replacement_of_a_mechanical_system-Energy-Loss]
 [SpocWebEntityId::22957]
 + [#has_/Pros :: [[Triz-stationary_Length]]]
-[Triz-Principle:: [[Triz-Replace_a_mechanical_system]]]]
+[Triz-Principle:: [[Triz-Replace_a_mechanical_system]]
 - [#has_/Cons :: Energy-Loss]
 
 

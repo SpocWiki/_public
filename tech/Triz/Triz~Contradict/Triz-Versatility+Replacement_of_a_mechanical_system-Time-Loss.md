@@ -14,7 +14,7 @@ type: TrizContradiction
 [name::Versatility+Replacement_of_a_mechanical_system-Time-Loss]
 [SpocWebEntityId::26251]
 + [#has_/Pros :: [[Triz-Versatility]]]
-[Triz-Principle:: [[Triz-Replace_a_mechanical_system]]]]
+[Triz-Principle:: [[Triz-Replace_a_mechanical_system]]
 - [#has_/Cons :: Time-Loss]
 
 

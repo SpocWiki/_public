@@ -14,7 +14,7 @@ type: TrizContradiction
 [name::Manufacturing_Precision+Feedback-Ease_of_operation]
 [SpocWebEntityId::25562]
 + [#has_/Pros :: [[Triz-Manufacturing_Precision]]]
-[Triz-Principle:: [[Triz~Sub~feedback]]]]
+[Triz-Principle:: [[Triz~Sub~feedback]]
 - [#has_/Cons :: [[Triz-Ease_of_operation]]]
 
 

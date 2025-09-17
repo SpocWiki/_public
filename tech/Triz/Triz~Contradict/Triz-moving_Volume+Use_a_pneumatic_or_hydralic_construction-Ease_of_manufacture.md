@@ -14,7 +14,7 @@ type: TrizContradiction
 [name::moving_Volume+Use_a_pneumatic_or_hydralic_construction-Ease_of_manufacture]
 [SpocWebEntityId::23274]
 + [#has_/Pros :: [[Triz-moving_Volume]]]
-[Triz-Principle:: [[Triz-Use_pneumatic_or_hydralic]]]]
+[Triz-Principle:: [[Triz-Use_pneumatic_or_hydralic]]
 - [#has_/Cons :: [[Triz-Ease_of_manufacture]]]
 
 

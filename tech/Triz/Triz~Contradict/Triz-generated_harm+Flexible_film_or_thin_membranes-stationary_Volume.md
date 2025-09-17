@@ -14,7 +14,7 @@ type: TrizContradiction
 [name::generated_harm+Flexible_film_or_thin_membranes-stationary_Volume]
 [SpocWebEntityId::25738]
 + [#has_/Pros :: [[Triz-generated_harm]]]
-[Triz-Principle:: [[Triz-Flexible_film_or_thin_membrane]]]]
+[Triz-Principle:: [[Triz-Flexible_film_or_thin_membrane]]
 - [#has_/Cons :: [[Triz-stationary_Volume]]]
 
 

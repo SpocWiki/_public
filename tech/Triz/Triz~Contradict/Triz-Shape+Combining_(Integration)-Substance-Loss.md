@@ -14,7 +14,7 @@ type: TrizContradiction
 [name::Shape+Combining_(Integration)-Substance-Loss]
 [SpocWebEntityId::23778]
 + [#has_/Pros :: [[Triz-Shape]]]
-[Triz-Principle:: [[Triz-Combining(Integration)]]]]
+[Triz-Principle:: [[Triz-Combining(Integration)]]
 - [#has_/Cons :: Substance-Loss]
 
 

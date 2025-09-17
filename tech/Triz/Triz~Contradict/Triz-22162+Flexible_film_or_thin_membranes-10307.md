@@ -14,7 +14,7 @@ type: TrizContradiction
 [name::22162+Flexible_film_or_thin_membranes-10307]
 [SpocWebEntityId::22989]
 + [#has_/Pros :: [[Triz-22162]]]
-[Triz-Principle:: [[Triz-Flexible_film_or_thin_membrane]]]]
+[Triz-Principle:: [[Triz-Flexible_film_or_thin_membrane]]
 - [#has_/Cons :: [[Triz-10307]]]
 
 

@@ -14,7 +14,7 @@ type: TrizContradiction
 [name::22181+Replacement_of_a_mechanical_system-10307]
 [SpocWebEntityId::25477]
 + [#has_/Pros :: [[Triz-22181]]]
-[Triz-Principle:: [[Triz-Replace_a_mechanical_system]]]]
+[Triz-Principle:: [[Triz-Replace_a_mechanical_system]]
 - [#has_/Cons :: [[Triz-10307]]]
 
 

@@ -14,7 +14,7 @@ type: TrizContradiction
 [name::Temperature+Use_of_porous_material-Substance-Loss]
 [SpocWebEntityId::24299]
 + [#has_/Pros :: [[Triz-Temperature]]]
-[Triz-Principle:: [[Triz-Use_porous_material]]]]
+[Triz-Principle:: [[Triz-Use_porous_material]]
 - [#has_/Cons :: Substance-Loss]
 
 

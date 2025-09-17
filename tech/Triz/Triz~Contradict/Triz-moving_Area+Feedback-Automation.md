@@ -14,7 +14,7 @@ type: TrizContradiction
 [name::moving_Area+Feedback-Automation]
 [SpocWebEntityId::23100]
 + [#has_/Pros :: [[Triz-moving_Area]]]
-[Triz-Principle:: [[Triz~Sub~feedback]]]]
+[Triz-Principle:: [[Triz~Sub~feedback]]
 - [#has_/Cons :: [[Triz-Automation]]]
 
 

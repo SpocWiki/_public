@@ -14,7 +14,7 @@ type: TrizContradiction
 [name::moving_Duration+Combining_(Integration)-Speed]
 [SpocWebEntityId::24082]
 + [#has_/Pros :: [[Triz-moving_Duration]]]
-[Triz-Principle:: [[Triz-Combining(Integration)]]]]
+[Triz-Principle:: [[Triz-Combining(Integration)]]
 - [#has_/Cons :: [[Triz-Speed]]]
 
 

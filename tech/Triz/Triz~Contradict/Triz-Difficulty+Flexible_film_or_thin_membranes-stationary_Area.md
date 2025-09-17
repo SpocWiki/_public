@@ -14,7 +14,7 @@ type: TrizContradiction
 [name::Difficulty+Flexible_film_or_thin_membranes-stationary_Area]
 [SpocWebEntityId::26424]
 + [#has_/Pros :: [[Triz-Difficulty]]]
-[Triz-Principle:: [[Triz-Flexible_film_or_thin_membrane]]]]
+[Triz-Principle:: [[Triz-Flexible_film_or_thin_membrane]]
 - [#has_/Cons :: [[Triz-stationary_Area]]]
 
 

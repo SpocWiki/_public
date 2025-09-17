@@ -14,7 +14,7 @@ type: TrizContradiction
 [name::Versatility+Flexible_film_or_thin_membranes-moving_Area]
 [SpocWebEntityId::26196]
 + [#has_/Pros :: [[Triz-Versatility]]]
-[Triz-Principle:: [[Triz-Flexible_film_or_thin_membrane]]]]
+[Triz-Principle:: [[Triz-Flexible_film_or_thin_membrane]]
 - [#has_/Cons :: [[Triz-moving_Area]]]
 
 

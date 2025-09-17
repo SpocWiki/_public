@@ -14,7 +14,7 @@ type: TrizContradiction
 [name::generated_harm+Use_of_porous_material-Complexity]
 [SpocWebEntityId::25818]
 + [#has_/Pros :: [[Triz-generated_harm]]]
-[Triz-Principle:: [[Triz-Use_porous_material]]]]
+[Triz-Principle:: [[Triz-Use_porous_material]]
 - [#has_/Cons :: [[Triz-Complexity]]]
 
 

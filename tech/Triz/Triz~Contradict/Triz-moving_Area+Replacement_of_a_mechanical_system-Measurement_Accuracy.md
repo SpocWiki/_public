@@ -14,7 +14,7 @@ type: TrizContradiction
 [name::moving_Area+Replacement_of_a_mechanical_system-Measurement_Accuracy]
 [SpocWebEntityId::23063]
 + [#has_/Pros :: [[Triz-moving_Area]]]
-[Triz-Principle:: [[Triz-Replace_a_mechanical_system]]]]
+[Triz-Principle:: [[Triz-Replace_a_mechanical_system]]
 - [#has_/Cons :: [[Triz-Measurement_Accuracy]]]
 
 

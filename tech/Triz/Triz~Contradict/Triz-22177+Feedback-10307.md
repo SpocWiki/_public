@@ -14,7 +14,7 @@ type: TrizContradiction
 [name::22177+Feedback-10307]
 [SpocWebEntityId::24929]
 + [#has_/Pros :: [[Triz-22177]]]
-[Triz-Principle:: [[Triz~Sub~feedback]]]]
+[Triz-Principle:: [[Triz~Sub~feedback]]
 - [#has_/Cons :: [[Triz-10307]]]
 
 

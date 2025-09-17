@@ -14,7 +14,7 @@ type: TrizContradiction
 [name::Reliability+Flexible_film_or_thin_membranes-Time-Loss]
 [SpocWebEntityId::25315]
 + [#has_/Pros :: [[Triz-Reliability]]]
-[Triz-Principle:: [[Triz-Flexible_film_or_thin_membrane]]]]
+[Triz-Principle:: [[Triz-Flexible_film_or_thin_membrane]]
 - [#has_/Cons :: Time-Loss]
 
 

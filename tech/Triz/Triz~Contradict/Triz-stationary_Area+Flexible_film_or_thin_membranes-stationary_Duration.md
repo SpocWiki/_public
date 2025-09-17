@@ -14,7 +14,7 @@ type: TrizContradiction
 [name::stationary_Area+Flexible_film_or_thin_membranes-stationary_Duration]
 [SpocWebEntityId::23127]
 + [#has_/Pros :: [[Triz-stationary_Area]]]
-[Triz-Principle:: [[Triz-Flexible_film_or_thin_membrane]]]]
+[Triz-Principle:: [[Triz-Flexible_film_or_thin_membrane]]
 - [#has_/Cons :: [[Triz-stationary_Duration]]]
 
 

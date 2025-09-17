@@ -13,7 +13,7 @@ type: TrizExample
 
 [name::Carbon Fiber Composite]
 [SpocWebEntityId::22554]
-[Triz-Principle-Sub:: [[Triz-composite-material]]]]
+[Triz-Principle-Sub:: [[Triz-composite-material]]
 
 Composite Epoxy Resin/Carbon Fiber Golf Club Shafts are lighter, stronger, and more flexible than Metal. Same for airplane Parts like Wings etc.
 

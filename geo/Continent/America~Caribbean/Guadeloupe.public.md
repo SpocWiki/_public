@@ -110,7 +110,7 @@ markerFolder: ./Guadeloupe/
 [name-en::Guadeloupe]
 [name-de::Guadeloupe]
 
-![[Guatemala/Coat_of_arms_of_Guatemala.svg|350]]![[../../../xLarge.public/National-Anthem/Anthem-Guatemala.mp3]]]]
+![[Guatemala/Coat_of_arms_of_Guatemala.svg|350]]![[../../../xLarge.public/National-Anthem/Anthem-Guatemala.mp3]]
 
 ![[Guatemala/Flag_of_Guatemala.svg|350]]
 

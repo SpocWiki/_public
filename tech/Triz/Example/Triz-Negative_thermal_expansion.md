@@ -13,7 +13,7 @@ type: TrizExample
 
 [name::Negative thermal expansion]
 [SpocWebEntityId::22542]
-[Triz-Principle-Sub:: [[Triz~Sub~phase-transition]]]]
+[Triz-Principle-Sub:: [[Triz~Sub~phase-transition]]
 
 Water expands when frozen, unlike most other Liquids. Hannibal is reputed to have used this when marching on Rome. Large rocks blocked passages in the Alps. He poured Water on them at Night. The overnight Cold froze the Water, and the Expansion split the Rocks into small Pieces which could be pushed aside.
 

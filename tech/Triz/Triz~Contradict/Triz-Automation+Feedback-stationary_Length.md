@@ -14,7 +14,7 @@ type: TrizContradiction
 [name::Automation+Feedback-stationary_Length]
 [SpocWebEntityId::26546]
 + [#has_/Pros :: [[Triz-Automation]]]
-[Triz-Principle:: [[Triz~Sub~feedback]]]]
+[Triz-Principle:: [[Triz~Sub~feedback]]
 - [#has_/Cons :: [[Triz-stationary_Length]]]
 
 

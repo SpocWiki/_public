@@ -14,7 +14,7 @@ type: TrizContradiction
 [name::Difficulty+Flexible_film_or_thin_membranes-Intensity]
 [SpocWebEntityId::26438]
 + [#has_/Pros :: [[Triz-Difficulty]]]
-[Triz-Principle:: [[Triz-Flexible_film_or_thin_membrane]]]]
+[Triz-Principle:: [[Triz-Flexible_film_or_thin_membrane]]
 - [#has_/Cons :: [[Triz-Intensity]]]
 
 

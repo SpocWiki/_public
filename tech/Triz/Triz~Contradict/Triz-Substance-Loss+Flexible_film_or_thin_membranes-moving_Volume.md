@@ -14,7 +14,7 @@ type: TrizContradiction
 [name::Substance-Loss+Flexible_film_or_thin_membranes-moving_Volume]
 [SpocWebEntityId::24812]
 + [#has_/Pros :: Substance-Loss]
-[Triz-Principle:: [[Triz-Flexible_film_or_thin_membrane]]]]
+[Triz-Principle:: [[Triz-Flexible_film_or_thin_membrane]]
 - [#has_/Cons :: [[Triz-moving_Volume]]]
 
 

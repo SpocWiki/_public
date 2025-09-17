@@ -14,7 +14,7 @@ type: TrizContradiction
 [name::Substance-Loss+Partial,_overdone,_or_excessive_action-Measurement_Accuracy]
 [SpocWebEntityId::24885]
 + [#has_/Pros :: Substance-Loss]
-[Triz-Principle:: [[Triz-Partial_overdone_or_excessive_action]]]]
+[Triz-Principle:: [[Triz-Partial_overdone_or_excessive_action]]
 - [#has_/Cons :: [[Triz-Measurement_Accuracy]]]
 
 

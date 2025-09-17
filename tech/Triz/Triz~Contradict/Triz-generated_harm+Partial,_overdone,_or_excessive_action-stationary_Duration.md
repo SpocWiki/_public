@@ -14,7 +14,7 @@ type: TrizContradiction
 [name::generated_harm+Partial,_overdone,_or_excessive_action-stationary_Duration]
 [SpocWebEntityId::25770]
 + [#has_/Pros :: [[Triz-generated_harm]]]
-[Triz-Principle:: [[Triz-Partial_overdone_or_excessive_action]]]]
+[Triz-Principle:: [[Triz-Partial_overdone_or_excessive_action]]
 - [#has_/Cons :: [[Triz-stationary_Duration]]]
 
 

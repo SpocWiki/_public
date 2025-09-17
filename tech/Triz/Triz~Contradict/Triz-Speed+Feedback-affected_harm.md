@@ -14,7 +14,7 @@ type: TrizContradiction
 [name::Speed+Feedback-affected_harm]
 [SpocWebEntityId::23447]
 + [#has_/Pros :: [[Triz-Speed]]]
-[Triz-Principle:: [[Triz~Sub~feedback]]]]
+[Triz-Principle:: [[Triz~Sub~feedback]]
 - [#has_/Cons :: [[Triz-affected_harm]]]
 
 

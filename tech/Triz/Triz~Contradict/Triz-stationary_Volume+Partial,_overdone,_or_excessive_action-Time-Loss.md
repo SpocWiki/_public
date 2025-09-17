@@ -14,7 +14,7 @@ type: TrizContradiction
 [name::stationary_Volume+Partial,_overdone,_or_excessive_action-Time-Loss]
 [SpocWebEntityId::23336]
 + [#has_/Pros :: [[Triz-stationary_Volume]]]
-[Triz-Principle:: [[Triz-Partial_overdone_or_excessive_action]]]]
+[Triz-Principle:: [[Triz-Partial_overdone_or_excessive_action]]
 - [#has_/Cons :: Time-Loss]
 
 

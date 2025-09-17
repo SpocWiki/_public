@@ -14,7 +14,7 @@ type: TrizContradiction
 [name::stationary_Weight+Use_a_pneumatic_or_hydralic_construction-Shape]
 [SpocWebEntityId::22718]
 + [#has_/Pros :: [[Triz-stationary_Weight]]]
-[Triz-Principle:: [[Triz-Use_pneumatic_or_hydralic]]]]
+[Triz-Principle:: [[Triz-Use_pneumatic_or_hydralic]]
 - [#has_/Cons :: [[Triz-Shape]]]
 
 

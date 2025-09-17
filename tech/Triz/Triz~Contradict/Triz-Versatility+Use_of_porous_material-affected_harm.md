@@ -14,7 +14,7 @@ type: TrizContradiction
 [name::Versatility+Use_of_porous_material-affected_harm]
 [SpocWebEntityId::26266]
 + [#has_/Pros :: [[Triz-Versatility]]]
-[Triz-Principle:: [[Triz-Use_porous_material]]]]
+[Triz-Principle:: [[Triz-Use_porous_material]]
 - [#has_/Cons :: [[Triz-affected_harm]]]
 
 

@@ -14,7 +14,7 @@ type: TrizContradiction
 [name::Automation+Replacement_of_a_mechanical_system-Time-Loss]
 [SpocWebEntityId::26590]
 + [#has_/Pros :: [[Triz-Automation]]]
-[Triz-Principle:: [[Triz-Replace_a_mechanical_system]]]]
+[Triz-Principle:: [[Triz-Replace_a_mechanical_system]]
 - [#has_/Cons :: Time-Loss]
 
 

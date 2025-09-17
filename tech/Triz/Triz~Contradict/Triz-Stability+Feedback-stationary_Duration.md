@@ -14,7 +14,7 @@ type: TrizContradiction
 [name::Stability+Feedback-stationary_Duration]
 [SpocWebEntityId::23877]
 + [#has_/Pros :: [[Triz-Stability]]]
-[Triz-Principle:: [[Triz~Sub~feedback]]]]
+[Triz-Principle:: [[Triz~Sub~feedback]]
 - [#has_/Cons :: [[Triz-stationary_Duration]]]
 
 

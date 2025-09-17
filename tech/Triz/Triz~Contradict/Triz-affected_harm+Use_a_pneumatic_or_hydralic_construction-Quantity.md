@@ -14,7 +14,7 @@ type: TrizContradiction
 [name::affected_harm+Use_a_pneumatic_or_hydralic_construction-Quantity]
 [SpocWebEntityId::25673]
 + [#has_/Pros :: [[Triz-affected_harm]]]
-[Triz-Principle:: [[Triz-Use_pneumatic_or_hydralic]]]]
+[Triz-Principle:: [[Triz-Use_pneumatic_or_hydralic]]
 - [#has_/Cons :: [[Triz-Quantity]]]
 
 

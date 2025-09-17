@@ -14,7 +14,7 @@ type: TrizContradiction
 [name::moving_Energy+Combining_(Integration)-Strength]
 [SpocWebEntityId::24468]
 + [#has_/Pros :: [[Triz-moving_Energy]]]
-[Triz-Principle:: [[Triz-Combining(Integration)]]]]
+[Triz-Principle:: [[Triz-Combining(Integration)]]
 - [#has_/Cons :: [[Triz-Strength]]]
 
 

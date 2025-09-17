@@ -117,7 +117,7 @@ markerFolder: ./Caribbean_Netherlands/
 [Area-Land::0]
 Continent :: [[South-America]]  
 [VehicleCode::NA]
-![[Coat_of_arms_of_Netherlands-antilles.svg|350]![[../../../xLarge.public/National-Anthem/Anthem-Netherlands-antilles.mp3]]]]
+![[Coat_of_arms_of_Netherlands-antilles.svg|350]![[../../../xLarge.public/National-Anthem/Anthem-Netherlands-antilles.mp3]]
 ![[Flag_of_Netherlands-antilles.svg|350]]
 [Capital-Id::]
 [Alcohol-l::]

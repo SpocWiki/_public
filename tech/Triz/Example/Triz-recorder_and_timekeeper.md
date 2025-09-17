@@ -13,7 +13,7 @@ type: TrizExample
 
 [name::recorder and timekeeper]
 [SpocWebEntityId::22373]
-[Triz-Principle-Sub:: [[Triz-multi-Purpose]]]]
+[Triz-Principle-Sub:: [[Triz-multi-Purpose]]
 
 Team leader acts as recorder and timekeeper.
 

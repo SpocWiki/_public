@@ -14,7 +14,7 @@ type: TrizContradiction
 [name::Information-Loss+Flexible_film_or_thin_membranes-stationary_Area]
 [SpocWebEntityId::24941]
 + [#has_/Pros :: Information-Loss]
-[Triz-Principle:: [[Triz-Flexible_film_or_thin_membrane]]]]
+[Triz-Principle:: [[Triz-Flexible_film_or_thin_membrane]]
 - [#has_/Cons :: [[Triz-stationary_Area]]]
 
 

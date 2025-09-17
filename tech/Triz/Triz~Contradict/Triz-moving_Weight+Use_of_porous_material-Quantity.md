@@ -14,7 +14,7 @@ type: TrizContradiction
 [name::moving_Weight+Use_of_porous_material-Quantity]
 [SpocWebEntityId::22643]
 + [#has_/Pros :: [[Triz-moving_Weight]]]
-[Triz-Principle:: [[Triz-Use_porous_material]]]]
+[Triz-Principle:: [[Triz-Use_porous_material]]
 - [#has_/Cons :: [[Triz-Quantity]]]
 
 

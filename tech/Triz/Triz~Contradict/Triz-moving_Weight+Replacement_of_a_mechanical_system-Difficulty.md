@@ -14,7 +14,7 @@ type: TrizContradiction
 [name::moving_Weight+Replacement_of_a_mechanical_system-Difficulty]
 [SpocWebEntityId::22684]
 + [#has_/Pros :: [[Triz-moving_Weight]]]
-[Triz-Principle:: [[Triz-Replace_a_mechanical_system]]]]
+[Triz-Principle:: [[Triz-Replace_a_mechanical_system]]
 - [#has_/Cons :: [[Triz-Difficulty]]]
 
 

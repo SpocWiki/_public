@@ -14,7 +14,7 @@ type: TrizContradiction
 [name::moving_Duration+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Manufacturing_Precision]
 [SpocWebEntityId::24132]
 + [#has_/Pros :: [[Triz-moving_Duration]]]
-[Triz-Principle:: [[Triz-inexpensive_short-lived_instead_of_expensive_durable]]]]
+[Triz-Principle:: [[Triz-inexpensive_short-lived_instead_of_expensive_durable]]
 - [#has_/Cons :: [[Triz-Manufacturing_Precision]]]
 
 
