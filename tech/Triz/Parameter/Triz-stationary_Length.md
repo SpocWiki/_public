@@ -1,3 +1,8 @@
+---
+dv_name: stationary Length
+dv_SpocWebEntityId: 22162
+dv_TrizParameterId: 4
+---
 ﻿---
 aliases:
 - "stationary Length"
