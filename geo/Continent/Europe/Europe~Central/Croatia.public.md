@@ -120,7 +120,7 @@ markerFolder: ./Croatia//
 Continent :: [[Europe]]  
 [VehicleCode::HR] 
 Capital :: [[Zagreb]]  
-![[Coat_of_arms_of_Croatia.svg|350]]![[../../../../xLarge.public/National-Anthem/Anthem-Croatia.mp3]]]] 
+![[Coat_of_arms_of_Croatia.svg|350]]![[../../../../xLarge.public/National-Anthem/Anthem-Croatia.mp3]] 
 ![[Flag_of_Croatia.svg|350]] 
 [Alcohol-l::15.1] 
 [Language-Id::] 
