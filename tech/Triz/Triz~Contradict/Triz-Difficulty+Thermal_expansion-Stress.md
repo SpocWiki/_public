@@ -1,3 +1,13 @@
+---
+__#has_:
+  Pros: "[[../Parameter/Triz-Difficulty]]"
+  Cons: "[[../Parameter/Triz-Stress]]"
+__Triz-Principle: "[[../Principle/Triz-Thermal_expansion]]"
+__name: Difficulty+Thermal_expansion-Stress
+__SpocWebEntityId: 26444
+__has_pros: "[[../Parameter/Triz-Difficulty]]"
+__has_cons: "[[../Parameter/Triz-Stress]]"
+---
 ﻿---
 aliases:
 - Difficulty+Thermal_expansion-Stress
@@ -11,8 +21,8 @@ tags:
 type: TrizContradiction
 ---
 
-[name::Difficulty+Thermal_expansion-Stress]
-[SpocWebEntityId::26444]
+ name = `$= dv.current().__name` 
+ SpocWebEntityId = `$= dv.current().__SpocWebEntityId` 
 + [#has_/Pros :: [[Triz-Difficulty]]]
 [Triz-Principle::[[Triz-Thermal_expansion]]]
 - [#has_/Cons :: [[Triz-Stress]]]

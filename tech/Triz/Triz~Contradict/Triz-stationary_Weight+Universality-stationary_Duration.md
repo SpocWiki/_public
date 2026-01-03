@@ -1,3 +1,13 @@
+---
+__#has_:
+  Pros: "[[../Parameter/Triz-stationary_Weight]]"
+  Cons: "[[../Parameter/Triz-stationary_Duration]]"
+__Triz-Principle: "[[../Principle/Triz-Universality]]"
+__name: stationary_Weight+Universality-stationary_Duration
+__SpocWebEntityId: 22731
+__has_pros: "[[../Parameter/Triz-stationary_Weight]]"
+__has_cons: "[[../Parameter/Triz-stationary_Duration]]"
+---
 ﻿---
 aliases:
 - stationary_Weight+Universality-stationary_Duration
@@ -11,8 +21,8 @@ tags:
 type: TrizContradiction
 ---
 
-[name::stationary_Weight+Universality-stationary_Duration]
-[SpocWebEntityId::22731]
+ name = `$= dv.current().__name` 
+ SpocWebEntityId = `$= dv.current().__SpocWebEntityId` 
 + [#has_/Pros :: [[Triz-stationary_Weight]]]
 [Triz-Principle::[[Triz-Universality]]]
 - [#has_/Cons :: [[Triz-stationary_Duration]]]

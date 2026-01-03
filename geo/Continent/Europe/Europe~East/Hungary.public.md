@@ -1,3 +1,68 @@
+---
+__ISO4217-currency_alphabetic: HUF
+__ISO4217-currency_name: Forint
+__ISO4217-currency_numeric: 348
+__ISO4217-currency_minor_unit: 2
+__ISO4217-currency_country_name: HUNGARY
+__Telephone: 36
+__Global: true
+__Global_Name: World
+__name: Hungary
+__name-en:
+  - Hungary
+  - Hungary
+__name-es: Hungría
+__name-fr: Hongrie
+__name-cn: 匈牙利
+__name-ar: هنغاريا
+__name-ru: Венгрия
+__CLDR_display_name: Hungary
+__UNTERM_English: Hungary
+__UNTERM_English_Formal: Hungary
+__UNTERM_Spanish_Formal: Hungría
+__UNTERM_Spanish: Hungría
+__UNTERM_French: Hongrie (la)
+__UNTERM_Arabic: هنغاريا
+__UNTERM_Arabic_Formal: هنغاريا
+__UNTERM_Chinese: 匈牙利
+__UNTERM_Chinese_Formal: 匈牙利
+__UNTERM_French_Formal: la Hongrie
+__UNTERM_Russian: Венгрия
+__UNTERM_Russian_Formal: Венгрия
+__Region_Name: "[[../../../../../_Standards/Earth/Continent/Europe]]"
+__Intermediate_Region_Name: "[[Hungary.public]]"
+__Sub-region_Name: "[[Eastern Europe]]"
+__Region: 150
+__Sub-region: 151
+__Geoname-ID: 719819
+__FIPS: HU
+__FIFA: HUN
+__IOC: HUN
+__MARC: hu
+__GAUL: 113
+__WMO: HU
+__ITU: HNG
+__DS: H
+__TLD: .hu
+__EDGAR: K5
+__M49: 348
+__is_independent: Yes
+__Developed_:
+  _Developing_Countries: Developed
+__ISO3166-1-numeric: 348
+__ISO2: HU
+__ISO3: HUN
+__name-de: Ungarn
+__Area-Total: 93030
+__Area-Land: 92340
+__Continent: "[[../../../../../_Standards/Earth/Continent/Europe]]"
+__VehicleCode: H
+__Capital: "[[geo/Continent/Europe/Europe~East/Hungary/Counties/Budapest]]"
+__Alcohol-l: 16.3
+__geo-lon: 19.1508
+__geo-lat: 47.2796
+__developed__developing_countries: Developed
+---
 ﻿---
 aliases:
 - Hungary
@@ -31,73 +96,73 @@ title: Hungary
 type: Country
 ---
 
-[	ISO4217-currency_alphabetic	 :: HUF ] 
-[	ISO4217-currency_name	 :: Forint ] 
-[	ISO4217-currency_numeric	 :: 348 ] 
-[	ISO4217-currency_minor_unit	 :: 2 ] 
-[	ISO4217-currency_country_name	 :: HUNGARY ] 
+ ISO4217-currency_alphabetic = `$= dv.current().__ISO4217-currency_alphabetic`  
+ ISO4217-currency_name = `$= dv.current().__ISO4217-currency_name`  
+ ISO4217-currency_numeric = `$= dv.current().__ISO4217-currency_numeric`  
+ ISO4217-currency_minor_unit = `$= dv.current().__ISO4217-currency_minor_unit`  
+ ISO4217-currency_country_name = `$= dv.current().__ISO4217-currency_country_name`  
 
-[	Telephone	 :: 36 ] 
+ Telephone = `$= dv.current().__Telephone`  
 
-[	Global	 :: True ] 
-[	Global_Name	 :: World ] 
+ Global = `$= dv.current().__Global`  
+ Global_Name = `$= dv.current().__Global_Name`  
 
-[	name	 :: Hungary ] 
+ name = `$= dv.current().__name`  
 [	name-en	 :: Hungary ] 
-[	name-es	 :: Hungría ] 
-[	name-fr	 :: Hongrie ] 
-[	name-cn	 :: 匈牙利 ] 
-[	name-ar	 :: هنغاريا ] 
-[	name-ru	 :: Венгрия ] 
+ name-es = `$= dv.current().__name-es`  
+ name-fr = `$= dv.current().__name-fr`  
+ name-cn = `$= dv.current().__name-cn`  
+ name-ar = `$= dv.current().__name-ar`  
+ name-ru = `$= dv.current().__name-ru`  
 
-[	CLDR_display_name	 :: Hungary ] 
+ CLDR_display_name = `$= dv.current().__CLDR_display_name`  
 
-[	UNTERM_English	 :: Hungary ] 
-[	UNTERM_English_Formal	 :: Hungary ] 
-[	UNTERM_Spanish_Formal	 :: Hungría ] 
-[	UNTERM_Spanish	 :: Hungría ] 
-[	UNTERM_French	 :: Hongrie (la) ] 
-[	UNTERM_Arabic	 :: هنغاريا ] 
-[	UNTERM_Arabic_Formal	 :: هنغاريا ] 
-[	UNTERM_Chinese	 :: 匈牙利 ] 
-[	UNTERM_Chinese_Formal	 :: 匈牙利 ] 
-[	UNTERM_French_Formal	 :: la Hongrie ] 
-[	UNTERM_Russian	 :: Венгрия ] 
-[	UNTERM_Russian_Formal	 :: Венгрия ] 
+ UNTERM_English = `$= dv.current().__UNTERM_English`  
+ UNTERM_English_Formal = `$= dv.current().__UNTERM_English_Formal`  
+ UNTERM_Spanish_Formal = `$= dv.current().__UNTERM_Spanish_Formal`  
+ UNTERM_Spanish = `$= dv.current().__UNTERM_Spanish`  
+ UNTERM_French = `$= dv.current().__UNTERM_French`  
+ UNTERM_Arabic = `$= dv.current().__UNTERM_Arabic`  
+ UNTERM_Arabic_Formal = `$= dv.current().__UNTERM_Arabic_Formal`  
+ UNTERM_Chinese = `$= dv.current().__UNTERM_Chinese`  
+ UNTERM_Chinese_Formal = `$= dv.current().__UNTERM_Chinese_Formal`  
+ UNTERM_French_Formal = `$= dv.current().__UNTERM_French_Formal`  
+ UNTERM_Russian = `$= dv.current().__UNTERM_Russian`  
+ UNTERM_Russian_Formal = `$= dv.current().__UNTERM_Russian_Formal`  
 
-Region_Name ::  [[Europe]] 
-Intermediate_Region_Name ::  [[]] 
-Sub-region_Name ::  [[Eastern Europe]] 
+ Region_Name = `$= dv.current().__Region_Name` 
+ Intermediate_Region_Name = `$= dv.current().__Intermediate_Region_Name` 
+ Sub-region_Name = `$= dv.current().__Sub-region_Name` 
 
-[	Region	 :: 150 ] 
-[	Intermediate_Region	 ::  ] 
-[	Sub-region	 :: 151 ] 
+ Region = `$= dv.current().__Region`  
+[	Intermediate_ Region = `$= dv.current().__Region` 
+ Sub-region = `$= dv.current().__Sub-region`  
 
-[	Geoname-ID	 :: 719819 ] 
-[	FIPS	 :: HU ] 
-[	FIFA	 :: HUN ] 
-[	IOC	 :: HUN ] 
-[	MARC	 :: hu ] 
-[	GAUL	 :: 113 ] 
-[	WMO	 :: HU ] 
-[	ITU	 :: HNG ] 
-[	DS	 :: H ] 
-[	TLD	 :: .hu ] 
-[	EDGAR	 :: K5 ] 
-[	M49	 :: 348 ] 
+ Geoname-ID = `$= dv.current().__Geoname-ID`  
+ FIPS = `$= dv.current().__FIPS`  
+ FIFA = `$= dv.current().__FIFA`  
+ IOC = `$= dv.current().__IOC`  
+ MARC = `$= dv.current().__MARC`  
+ GAUL = `$= dv.current().__GAUL`  
+ WMO = `$= dv.current().__WMO`  
+ ITU = `$= dv.current().__ITU`  
+ DS = `$= dv.current().__DS`  
+ TLD = `$= dv.current().__TLD`  
+ EDGAR = `$= dv.current().__EDGAR`  
+ M49 = `$= dv.current().__M49`  
 
-[	is_independent	 :: Yes ] 
-[	Developed_/_Developing_Countries	 :: Developed ] 
+ is_independent = `$= dv.current().__is_independent`  
+ developed__developing_countries = `$= dv.current().__developed__developing_countries`  
 [	Land_Locked_Developing_Countries_(LLDC)	 ::  ] 
 [	Least_Developed_Countries_(LDC)	 ::  ] 
 [	Small_Island_Developing_States_(SIDS)	 ::  ] 
 
-[	ISO3166-1-numeric	 :: 348 ] 
+ ISO3166-1-numeric = `$= dv.current().__ISO3166-1-numeric`  
 
 
 
-[ISO2::HU] 
-[ISO3::HUN] 
+ ISO2 = `$= dv.current().__ISO2`  
+ ISO3 = `$= dv.current().__ISO3`  
 ```leaflet
 id: Hungary
 zoomFeatures: true 
@@ -108,21 +173,21 @@ markerFolder: ./Hungary///
 ```
 
 [name-en::Hungary] 
-[name-de::Ungarn] 
-[Area-Total::93030] 
-[Area-Land::92340] 
-Continent :: [[Europe]]  
-[VehicleCode::H] 
-Capital :: [[geo/Continent/Europe/Europe~East/Hungary/Counties/Budapest]]  
+ name-de = `$= dv.current().__name-de`  
+ Area-Total = `$= dv.current().__Area-Total`  
+ Area-Land = `$= dv.current().__Area-Land`  
+ Continent = `$= dv.current().__Continent` 
+ VehicleCode = `$= dv.current().__VehicleCode`  
+ Capital = `$= dv.current().__Capital` 
 ![[Coat_of_arms_of_Hungary.svg|359]] 
 
 ![[../../../../xLarge.public/National-Anthem/Anthem-Hungary.mp3]] 
 
 ![[Flag_of_Hungary.svg|299]] 
-[Alcohol-l::16.3] 
+ Alcohol-l = `$= dv.current().__Alcohol-l`  
 [Language-Id::] 
-[geo-lon::19.1508] 
-[geo-lat::47.2796] 
+ geo-lon = `$= dv.current().__geo-lon`  
+ geo-lat = `$= dv.current().__geo-lat`  
 
 
 
