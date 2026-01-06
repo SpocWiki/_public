@@ -1,71 +1,69 @@
 ---
-__ISO4217-currency_alphabetic: BBD
-__ISO4217-currency_name: Barbados Dollar
-__ISO4217-currency_numeric: 52
-__ISO4217-currency_minor_unit: 2
-__ISO4217-currency_country_name: BARBADOS
-__Telephone: 1-246
-__Global: true
-__Global_Name: World
-__name: Barbados
-__name-en:
+dv_ISO4217-currency_alphabetic: BBD
+dv_ISO4217-currency_name: Barbados Dollar
+dv_ISO4217-currency_numeric: 52
+dv_ISO4217-currency_minor_unit: 2
+dv_ISO4217-currency_country_name: BARBADOS
+dv_Telephone: 1-246
+dv_Global: true
+dv_Global_Name: World
+dv_name: Barbados
+dv_name-en:
   - Barbados
   - Barbados
-__name-es: Barbados
-__name-fr: Barbade
-__name-cn: 巴巴多斯
-__name-ar: بربادوس
-__name-ru: Барбадос
-__CLDR_display_name: Barbados
-__UNTERM_English: Barbados
-__UNTERM_English_Formal: Barbados
-__UNTERM_Spanish_Formal: Barbados
-__UNTERM_Spanish: Barbados
-__UNTERM_French: Barbade (la)
-__UNTERM_Arabic: بربادوس
-__UNTERM_Arabic_Formal: بربادوس
-__UNTERM_Chinese: 巴巴多斯
-__UNTERM_Chinese_Formal: 巴巴多斯
-__UNTERM_French_Formal: la Barbade
-__UNTERM_Russian: Барбадос
-__UNTERM_Russian_Formal: Барбадос
-__Region_Name: "[[Americas]]"
-__Intermediate_Region_Name: "[[Caribbean]]"
-__Sub-region_Name: "[[Latin America and the Caribbean]]"
-__Region: 19
-__Intermediate_Region: 29
-__Sub-region: 419
-__Geoname-ID: 3374084
-__FIPS: BB
-__FIFA: BRB
-__IOC: BAR
-__MARC: bb
-__GAUL: 24
-__WMO: BR
-__ITU: BRB
-__DS: BDS
-__TLD: .bb
-__EDGAR: C8
-__M49: 52
-__is_independent: Yes
-__Developed_:
+dv_name-es: Barbados
+dv_name-fr: Barbade
+dv_name-cn: 巴巴多斯
+dv_name-ar: بربادوس
+dv_name-ru: Барбадос
+dv_CLDR_display_name: Barbados
+dv_UNTERM_English: Barbados
+dv_UNTERM_English_Formal: Barbados
+dv_UNTERM_Spanish_Formal: Barbados
+dv_UNTERM_Spanish: Barbados
+dv_UNTERM_French: Barbade (la)
+dv_UNTERM_Arabic: بربادوس
+dv_UNTERM_Arabic_Formal: بربادوس
+dv_UNTERM_Chinese: 巴巴多斯
+dv_UNTERM_Chinese_Formal: 巴巴多斯
+dv_UNTERM_French_Formal: la Barbade
+dv_UNTERM_Russian: Барбадос
+dv_UNTERM_Russian_Formal: Барбадос
+dv_Region_Name: "[[Americas]]"
+dv_Intermediate_Region_Name: "[[Caribbean]]"
+dv_Sub-region_Name: "[[Latin America and the Caribbean]]"
+dv_Region: 19
+dv_Intermediate_Region: 29
+dv_Sub-region: 419
+dv_Geoname-ID: 3374084
+dv_FIPS: BB
+dv_FIFA: BRB
+dv_IOC: BAR
+dv_MARC: bb
+dv_GAUL: 24
+dv_WMO: BR
+dv_ITU: BRB
+dv_DS: BDS
+dv_TLD: .bb
+dv_EDGAR: C8
+dv_M49: 52
+dv_is_independent: Yes
+dv_Developed_:
   _Developing_Countries: Developing
-__ISO3166-1-numeric: 52
-__ISO2: BB
-__ISO3: BRB
-__name-de: Barbados
-__Area-Total: 430
-__Area-Land: 430
-__Continent: "[[South-America]]"
-__VehicleCode: BDS
-__Capital: "[[Barbados/City/Bridgetown]]"
-__Alcohol-l: 6.9
-__Language-Id: 499
-__geo-lon: -59.5333
-__geo-lat: 13
-__developed__developing_countries: Developing
----
-﻿---
+dv_ISO3166-1-numeric: 52
+dv_ISO2: BB
+dv_ISO3: BRB
+dv_name-de: Barbados
+dv_Area-Total: 430
+dv_Area-Land: 430
+dv_Continent: "[[South-America]]"
+dv_VehicleCode: BDS
+dv_Capital: "[[Barbados/City/Bridgetown]]"
+dv_Alcohol-l: 6.9
+dv_Language-Id: 499
+dv_geo-lon: -59.5333
+dv_geo-lat: 13
+dv_developed__developing_countries: Developing
 aliases:
 - Barbados
 - Barbade
@@ -97,73 +95,73 @@ title: Barbados
 type: Country
 ---
 
- ISO4217-currency_alphabetic = `$= dv.current().__ISO4217-currency_alphabetic` 
- ISO4217-currency_name = `$= dv.current().__ISO4217-currency_name` 
- ISO4217-currency_numeric = `$= dv.current().__ISO4217-currency_numeric` 
- ISO4217-currency_minor_unit = `$= dv.current().__ISO4217-currency_minor_unit` 
- ISO4217-currency_country_name = `$= dv.current().__ISO4217-currency_country_name` 
+ ISO4217-currency_alphabetic = `$= dv.current.dv_ISO4217-currency_alphabetic` 
+ ISO4217-currency_name = `$= dv.current.dv_ISO4217-currency_name` 
+ ISO4217-currency_numeric = `$= dv.current.dv_ISO4217-currency_numeric` 
+ ISO4217-currency_minor_unit = `$= dv.current.dv_ISO4217-currency_minor_unit` 
+ ISO4217-currency_country_name = `$= dv.current.dv_ISO4217-currency_country_name` 
 
- Telephone = `$= dv.current().__Telephone` 
+ Telephone = `$= dv.current.dv_Telephone` 
 
- Global = `$= dv.current().__Global` 
- Global_Name = `$= dv.current().__Global_Name` 
+ Global = `$= dv.current.dv_Global` 
+ Global_Name = `$= dv.current.dv_Global_Name` 
 
- name = `$= dv.current().__name` 
+ name = `$= dv.current.dv_name` 
 [	name-en	 :: Barbados ]
- name-es = `$= dv.current().__name-es` 
- name-fr = `$= dv.current().__name-fr` 
- name-cn = `$= dv.current().__name-cn` 
- name-ar = `$= dv.current().__name-ar` 
- name-ru = `$= dv.current().__name-ru` 
+ name-es = `$= dv.current.dv_name-es` 
+ name-fr = `$= dv.current.dv_name-fr` 
+ name-cn = `$= dv.current.dv_name-cn` 
+ name-ar = `$= dv.current.dv_name-ar` 
+ name-ru = `$= dv.current.dv_name-ru` 
 
- CLDR_display_name = `$= dv.current().__CLDR_display_name` 
+ CLDR_display_name = `$= dv.current.dv_CLDR_display_name` 
 
- UNTERM_English = `$= dv.current().__UNTERM_English` 
- UNTERM_English_Formal = `$= dv.current().__UNTERM_English_Formal` 
- UNTERM_Spanish_Formal = `$= dv.current().__UNTERM_Spanish_Formal` 
- UNTERM_Spanish = `$= dv.current().__UNTERM_Spanish` 
- UNTERM_French = `$= dv.current().__UNTERM_French` 
- UNTERM_Arabic = `$= dv.current().__UNTERM_Arabic` 
- UNTERM_Arabic_Formal = `$= dv.current().__UNTERM_Arabic_Formal` 
- UNTERM_Chinese = `$= dv.current().__UNTERM_Chinese` 
- UNTERM_Chinese_Formal = `$= dv.current().__UNTERM_Chinese_Formal` 
- UNTERM_French_Formal = `$= dv.current().__UNTERM_French_Formal` 
- UNTERM_Russian = `$= dv.current().__UNTERM_Russian` 
- UNTERM_Russian_Formal = `$= dv.current().__UNTERM_Russian_Formal` 
+ UNTERM_English = `$= dv.current.dv_UNTERM_English` 
+ UNTERM_English_Formal = `$= dv.current.dv_UNTERM_English_Formal` 
+ UNTERM_Spanish_Formal = `$= dv.current.dv_UNTERM_Spanish_Formal` 
+ UNTERM_Spanish = `$= dv.current.dv_UNTERM_Spanish` 
+ UNTERM_French = `$= dv.current.dv_UNTERM_French` 
+ UNTERM_Arabic = `$= dv.current.dv_UNTERM_Arabic` 
+ UNTERM_Arabic_Formal = `$= dv.current.dv_UNTERM_Arabic_Formal` 
+ UNTERM_Chinese = `$= dv.current.dv_UNTERM_Chinese` 
+ UNTERM_Chinese_Formal = `$= dv.current.dv_UNTERM_Chinese_Formal` 
+ UNTERM_French_Formal = `$= dv.current.dv_UNTERM_French_Formal` 
+ UNTERM_Russian = `$= dv.current.dv_UNTERM_Russian` 
+ UNTERM_Russian_Formal = `$= dv.current.dv_UNTERM_Russian_Formal` 
 
- Region_Name = `$= dv.current().__Region_Name` 
- Intermediate_Region_Name = `$= dv.current().__Intermediate_Region_Name` 
- Sub-region_Name = `$= dv.current().__Sub-region_Name` 
+ Region_Name = `$= dv.current.dv_Region_Name` 
+ Intermediate_Region_Name = `$= dv.current.dv_Intermediate_Region_Name` 
+ Sub-region_Name = `$= dv.current.dv_Sub-region_Name` 
 
- Region = `$= dv.current().__Region` 
- Intermediate_Region = `$= dv.current().__Intermediate_Region` 
- Sub-region = `$= dv.current().__Sub-region` 
+ Region = `$= dv.current.dv_Region` 
+ Intermediate_Region = `$= dv.current.dv_Intermediate_Region` 
+ Sub-region = `$= dv.current.dv_Sub-region` 
 
- Geoname-ID = `$= dv.current().__Geoname-ID` 
- FIPS = `$= dv.current().__FIPS` 
- FIFA = `$= dv.current().__FIFA` 
- IOC = `$= dv.current().__IOC` 
- MARC = `$= dv.current().__MARC` 
- GAUL = `$= dv.current().__GAUL` 
- WMO = `$= dv.current().__WMO` 
- ITU = `$= dv.current().__ITU` 
- DS = `$= dv.current().__DS` 
- TLD = `$= dv.current().__TLD` 
- EDGAR = `$= dv.current().__EDGAR` 
- M49 = `$= dv.current().__M49` 
+ Geoname-ID = `$= dv.current.dv_Geoname-ID` 
+ FIPS = `$= dv.current.dv_FIPS` 
+ FIFA = `$= dv.current.dv_FIFA` 
+ IOC = `$= dv.current.dv_IOC` 
+ MARC = `$= dv.current.dv_MARC` 
+ GAUL = `$= dv.current.dv_GAUL` 
+ WMO = `$= dv.current.dv_WMO` 
+ ITU = `$= dv.current.dv_ITU` 
+ DS = `$= dv.current.dv_DS` 
+ TLD = `$= dv.current.dv_TLD` 
+ EDGAR = `$= dv.current.dv_EDGAR` 
+ M49 = `$= dv.current.dv_M49` 
 
- is_independent = `$= dv.current().__is_independent` 
- developed__developing_countries = `$= dv.current().__developed__developing_countries` 
+ is_independent = `$= dv.current.dv_is_independent` 
+ developed__developing_countries = `$= dv.current.dv_developed__developing_countries` 
 [	Land_Locked_Developing_Countries_(LLDC)	 ::  ]
 [	Least_Developed_Countries_(LDC)	 ::  ]
 [	Small_Island_Developing_States_(SIDS)	 :: x ]
 
- ISO3166-1-numeric = `$= dv.current().__ISO3166-1-numeric` 
+ ISO3166-1-numeric = `$= dv.current.dv_ISO3166-1-numeric` 
 
 
 
- ISO2 = `$= dv.current().__ISO2` 
- ISO3 = `$= dv.current().__ISO3` 
+ ISO2 = `$= dv.current.dv_ISO2` 
+ ISO3 = `$= dv.current.dv_ISO3` 
 
 ```leaflet
 id: Barbados
@@ -175,12 +173,12 @@ markerFolder: ./Barbados/
 ```
 
 [name-en::Barbados]
- name-de = `$= dv.current().__name-de` 
- Area-Total = `$= dv.current().__Area-Total` 
- Area-Land = `$= dv.current().__Area-Land` 
- Continent = `$= dv.current().__Continent` 
- VehicleCode = `$= dv.current().__VehicleCode` 
- Capital = `$= dv.current().__Capital` 
+ name-de = `$= dv.current.dv_name-de` 
+ Area-Total = `$= dv.current.dv_Area-Total` 
+ Area-Land = `$= dv.current.dv_Area-Land` 
+ Continent = `$= dv.current.dv_Continent` 
+ VehicleCode = `$= dv.current.dv_VehicleCode` 
+ Capital = `$= dv.current.dv_Capital` 
 
 ![[Barbados/Coat_of_arms_of_Barbados.svg|550]]
 
@@ -188,10 +186,10 @@ markerFolder: ./Barbados/
 
 ![[Barbados/Flag_of_Barbados.svg|350]]
 
- Alcohol-l = `$= dv.current().__Alcohol-l` 
- Language-Id = `$= dv.current().__Language-Id` 
- geo-lon = `$= dv.current().__geo-lon` 
- geo-lat = `$= dv.current().__geo-lat` 
+ Alcohol-l = `$= dv.current.dv_Alcohol-l` 
+ Language-Id = `$= dv.current.dv_Language-Id` 
+ geo-lon = `$= dv.current.dv_geo-lon` 
+ geo-lat = `$= dv.current.dv_geo-lat` 
 
 
 
