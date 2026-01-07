@@ -100,7 +100,7 @@ darkMode: false
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Star](/_Standards/Astronomy/Star.md) 
+### #is_/same_as :: [Star](../../_Standards/bio/Astronomy/Star.md) 
 
 ### #is_/same_as :: [Star.public](/_public/Astronomy/Star.public.md) 
 
