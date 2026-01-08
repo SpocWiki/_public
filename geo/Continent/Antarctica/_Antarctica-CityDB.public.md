@@ -320,8 +320,8 @@ config:
   show_metadata_inlinks: false
   show_metadata_outlinks: false
   source_data: query_js
-  source_form_result: "#geo/City & \"_/Continent/Antarctica\""
-  source_destination_path: _/Continent/Antarctica
+  source_form_result: "#geo/City & \"_/Continent_/Antarctica\""
+  source_destination_path: _/Continent_/Antarctica
   row_templates_folder: _/Continent
   current_row_template: 
   pagination_size: 10

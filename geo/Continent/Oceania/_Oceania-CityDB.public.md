@@ -320,8 +320,8 @@ config:
   show_metadata_inlinks: false
   show_metadata_outlinks: false
   source_data: query_js
-  source_form_result: "#geo/City & \"_/Continent/Oceania\""
-  source_destination_path: _/Continent/Oceania
+  source_form_result: "#geo/City & \"_/Continent_/Oceania\""
+  source_destination_path: _/Continent_/Oceania
   row_templates_folder: _/Continent
   current_row_template: 
   pagination_size: 10
