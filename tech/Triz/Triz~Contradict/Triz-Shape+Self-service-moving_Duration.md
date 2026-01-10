@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Shape+Self-service-moving_Duration
 Confidential: public

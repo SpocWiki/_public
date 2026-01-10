@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Measurement_Accuracy+Transformation_of_physical_and_chemical_states_of_an_object-Versatility
 Confidential: public

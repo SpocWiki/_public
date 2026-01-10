@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "An inexpensive short-life object instead of an expensive durable one"
 copyright: "https://github.com/SpocWeb"

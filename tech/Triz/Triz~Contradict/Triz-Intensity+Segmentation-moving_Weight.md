@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Intensity+Segmentation-moving_Weight
 Confidential: public

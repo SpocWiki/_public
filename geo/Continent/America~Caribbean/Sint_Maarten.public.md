@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Sint Maarten"
 - "Sint Maarten (Dutch part)"

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Power+Universality-stationary_Volume
 Confidential: public

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Measurement_Accuracy+Universality-Illumination
 Confidential: public

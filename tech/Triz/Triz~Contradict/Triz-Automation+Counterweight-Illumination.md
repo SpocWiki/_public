@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Automation+Counterweight-Illumination
 Confidential: public

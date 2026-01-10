@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Difficulty+Periodic_action-Energy-Loss
 Confidential: public

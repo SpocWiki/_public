@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Manufacturing_Precision+Feedback-Automation
 Confidential: public

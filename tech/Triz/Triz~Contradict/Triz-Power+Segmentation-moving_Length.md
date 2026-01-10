@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Power+Segmentation-moving_Length
 Confidential: public

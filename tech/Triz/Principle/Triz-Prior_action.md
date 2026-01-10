@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Prior action"
 copyright: "https://github.com/SpocWeb"

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Substance-Loss+Local_quality-Stress
 Confidential: public

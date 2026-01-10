@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Manufacturing_Precision+Prior_counteracion-stationary_Weight
 Confidential: public

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Manufacturing_Precision+Moving_to_a_new_dimension-generated_harm
 Confidential: public

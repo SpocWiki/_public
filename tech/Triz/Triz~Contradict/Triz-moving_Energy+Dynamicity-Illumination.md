@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - moving_Energy+Dynamicity-Illumination
 Confidential: public

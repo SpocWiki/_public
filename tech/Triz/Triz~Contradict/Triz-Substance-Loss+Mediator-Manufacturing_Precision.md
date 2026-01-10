@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Substance-Loss+Mediator-Manufacturing_Precision
 Confidential: public

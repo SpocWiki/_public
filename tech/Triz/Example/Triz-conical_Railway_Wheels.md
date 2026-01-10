@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "conical Railway Wheels"
 Confidential: public

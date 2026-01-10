@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - affected_harm+Mechanical_vibration-Time-Loss
 Confidential: public

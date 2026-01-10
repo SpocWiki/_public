@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Speed+Phase_transition-Temperature
 Confidential: public

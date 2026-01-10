@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Difficulty+Use_a_pneumatic_or_hydralic_construction-affected_harm
 Confidential: public

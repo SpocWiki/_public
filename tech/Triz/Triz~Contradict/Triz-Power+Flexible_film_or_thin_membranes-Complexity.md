@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Power+Flexible_film_or_thin_membranes-Complexity
 Confidential: public

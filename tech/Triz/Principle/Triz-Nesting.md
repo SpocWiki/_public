@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Nesting
 copyright: "https://github.com/SpocWeb"

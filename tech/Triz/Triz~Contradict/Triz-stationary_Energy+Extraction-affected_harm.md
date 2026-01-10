@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - stationary_Energy+Extraction-affected_harm
 Confidential: public

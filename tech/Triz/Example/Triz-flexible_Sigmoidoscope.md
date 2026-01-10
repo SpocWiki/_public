@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "flexible Sigmoidoscope"
 Confidential: public

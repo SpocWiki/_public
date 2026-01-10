@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "dissolving Capsule"
 Confidential: public

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Measurement_Accuracy+Cushion_in_advance-Ease_of_repair
 Confidential: public

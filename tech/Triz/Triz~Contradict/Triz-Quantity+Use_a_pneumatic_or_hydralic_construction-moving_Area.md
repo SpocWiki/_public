@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Quantity+Use_a_pneumatic_or_hydralic_construction-moving_Area
 Confidential: public

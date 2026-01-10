@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Ease_of_manufacture+Asymmetry-stationary_Energy
 Confidential: public

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Automation+Feedback-Energy-Loss
 Confidential: public

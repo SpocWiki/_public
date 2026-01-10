@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Substance-Loss+Feedback-moving_Weight
 Confidential: public

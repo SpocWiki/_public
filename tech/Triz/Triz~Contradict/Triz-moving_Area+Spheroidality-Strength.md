@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - moving_Area+Spheroidality-Strength
 Confidential: public

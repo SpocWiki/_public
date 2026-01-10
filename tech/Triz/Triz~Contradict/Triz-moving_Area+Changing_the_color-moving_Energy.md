@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - moving_Area+Changing_the_color-moving_Energy
 Confidential: public

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "thermal fitting"
 Confidential: public

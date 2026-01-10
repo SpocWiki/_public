@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - generated_harm+Mechanical_vibration-moving_Area
 Confidential: public

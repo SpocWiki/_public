@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Illumination+Segmentation-Substance-Loss
 Confidential: public

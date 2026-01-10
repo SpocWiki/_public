@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Stability+Extraction-Substance-Loss
 Confidential: public

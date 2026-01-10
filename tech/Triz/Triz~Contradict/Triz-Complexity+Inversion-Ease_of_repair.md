@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Complexity+Inversion-Ease_of_repair
 Confidential: public

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - moving_Area+Dynamicity-Illumination
 Confidential: public

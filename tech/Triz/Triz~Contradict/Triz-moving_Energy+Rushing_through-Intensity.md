@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - moving_Energy+Rushing_through-Intensity
 Confidential: public

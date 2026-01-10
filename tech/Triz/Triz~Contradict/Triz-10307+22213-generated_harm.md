@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - 10307+22213-generated_harm
 Confidential: public

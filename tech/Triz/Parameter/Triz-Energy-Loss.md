@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Energy-Loss
 Confidential: public

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - amplify-harm
 Confidential: public

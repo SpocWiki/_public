@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Intensity+Thermal_expansion-moving_Volume
 Confidential: public

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Electricity from Heat"
 Confidential: public

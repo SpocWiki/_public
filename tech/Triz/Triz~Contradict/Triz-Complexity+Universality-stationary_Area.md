@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Complexity+Universality-stationary_Area
 Confidential: public

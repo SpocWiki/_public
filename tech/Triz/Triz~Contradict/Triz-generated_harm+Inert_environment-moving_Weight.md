@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - generated_harm+Inert_environment-moving_Weight
 Confidential: public

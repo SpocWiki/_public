@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - stationary_Length+Moving_to_a_new_dimension-Ease_of_manufacture
 Confidential: public

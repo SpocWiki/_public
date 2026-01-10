@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - stationary_Duration+Copying-Measurement_Accuracy
 Confidential: public

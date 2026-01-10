@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Complexity+Spheroidality-moving_Area
 Confidential: public

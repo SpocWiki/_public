@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Transformation of physical and chemical states of an object"
 copyright: "https://github.com/SpocWeb"

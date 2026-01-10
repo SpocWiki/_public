@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Stress+Phase_transition-Time-Loss
 Confidential: public

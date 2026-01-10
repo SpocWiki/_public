@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Seat Belt"
 Confidential: public

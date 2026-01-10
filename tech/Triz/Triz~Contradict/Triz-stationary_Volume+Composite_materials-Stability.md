@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - stationary_Volume+Composite_materials-Stability
 Confidential: public

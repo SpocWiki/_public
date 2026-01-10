@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Versatility+Partial,_overdone,_or_excessive_action-stationary_Weight
 Confidential: public

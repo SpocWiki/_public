@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Treadmill
 Confidential: public

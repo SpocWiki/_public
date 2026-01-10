@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - moving_Weight+Periodic_action-Stability
 Confidential: public

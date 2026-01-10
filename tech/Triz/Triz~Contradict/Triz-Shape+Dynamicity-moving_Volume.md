@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Shape+Dynamicity-moving_Volume
 Confidential: public

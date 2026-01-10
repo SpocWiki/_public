@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Energy-Loss+Mechanical_vibration-moving_Volume
 Confidential: public

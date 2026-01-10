@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Quantity+Inert_environment-generated_harm
 Confidential: public

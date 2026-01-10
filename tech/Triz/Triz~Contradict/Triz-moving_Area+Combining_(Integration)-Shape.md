@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - moving_Area+Combining_(Integration)-Shape
 Confidential: public

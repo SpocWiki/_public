@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Ease_of_operation+Composite_materials-Reliability
 Confidential: public

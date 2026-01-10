@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Quantity+Composite_materials-moving_Duration
 Confidential: public

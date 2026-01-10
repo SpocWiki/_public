@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - 22178+Inversion-10307
 Confidential: public

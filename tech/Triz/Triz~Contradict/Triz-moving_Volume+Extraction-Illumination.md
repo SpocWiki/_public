@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - moving_Volume+Extraction-Illumination
 Confidential: public

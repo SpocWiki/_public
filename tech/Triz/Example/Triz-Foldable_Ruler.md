@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Foldable Ruler"
 Confidential: public

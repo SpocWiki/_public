@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - 10307+22221-stationary_Weight
 Confidential: public

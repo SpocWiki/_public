@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Ease_of_manufacture+Local_quality-Strength
 Confidential: public

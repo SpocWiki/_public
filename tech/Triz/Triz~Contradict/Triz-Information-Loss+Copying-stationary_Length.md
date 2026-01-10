@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Information-Loss+Copying-stationary_Length
 Confidential: public

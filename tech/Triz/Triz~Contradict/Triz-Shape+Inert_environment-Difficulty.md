@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Shape+Inert_environment-Difficulty
 Confidential: public

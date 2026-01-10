@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - moving_Weight+Cushion_in_advance-Ease_of_repair
 Confidential: public

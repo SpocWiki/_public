@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Strength+Local_quality-Measurement_Accuracy
 Confidential: public

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Power+Copying-Strength
 Confidential: public

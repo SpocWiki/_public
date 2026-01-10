@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Illumination+Changing_the_color-Shape
 Confidential: public

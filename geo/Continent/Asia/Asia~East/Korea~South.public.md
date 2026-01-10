@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - South-Korea
 - Korea-Republic

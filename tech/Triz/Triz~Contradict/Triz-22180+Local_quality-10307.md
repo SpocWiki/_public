@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - 22180+Local_quality-10307
 Confidential: public

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Time-Loss+Local_quality-Stability
 Confidential: public

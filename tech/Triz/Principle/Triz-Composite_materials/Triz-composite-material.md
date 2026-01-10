@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - composite-materials
 Confidential: public

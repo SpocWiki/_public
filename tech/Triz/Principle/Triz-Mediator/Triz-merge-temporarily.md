@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - merge-temporarily
 Confidential: public

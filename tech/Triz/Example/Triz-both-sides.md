@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - both-sides
 Confidential: public

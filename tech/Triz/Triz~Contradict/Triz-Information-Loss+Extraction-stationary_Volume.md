@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Information-Loss+Extraction-stationary_Volume
 Confidential: public

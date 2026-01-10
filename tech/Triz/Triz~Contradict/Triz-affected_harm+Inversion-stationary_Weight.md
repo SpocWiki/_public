@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - affected_harm+Inversion-stationary_Weight
 Confidential: public

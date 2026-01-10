@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Ease_of_manufacture+Mediator-Information-Loss
 Confidential: public

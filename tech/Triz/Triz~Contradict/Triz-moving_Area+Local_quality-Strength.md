@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - moving_Area+Local_quality-Strength
 Confidential: public

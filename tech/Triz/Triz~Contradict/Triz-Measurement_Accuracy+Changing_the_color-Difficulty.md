@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Measurement_Accuracy+Changing_the_color-Difficulty
 Confidential: public

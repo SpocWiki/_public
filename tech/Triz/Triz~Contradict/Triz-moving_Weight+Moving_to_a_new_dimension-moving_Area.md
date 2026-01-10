@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - moving_Weight+Moving_to_a_new_dimension-moving_Area
 Confidential: public

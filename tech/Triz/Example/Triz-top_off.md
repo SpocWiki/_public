@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "top off"
 Confidential: public

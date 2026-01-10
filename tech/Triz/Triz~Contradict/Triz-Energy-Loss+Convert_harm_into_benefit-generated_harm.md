@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Energy-Loss+Convert_harm_into_benefit-generated_harm
 Confidential: public

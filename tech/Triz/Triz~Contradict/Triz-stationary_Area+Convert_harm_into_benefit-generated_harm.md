@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - stationary_Area+Convert_harm_into_benefit-generated_harm
 Confidential: public

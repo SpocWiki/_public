@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Strength+Rejecting_and_regenerating_parts-moving_Area
 Confidential: public

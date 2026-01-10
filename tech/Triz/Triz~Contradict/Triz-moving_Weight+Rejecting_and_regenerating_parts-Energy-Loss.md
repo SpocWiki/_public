@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - moving_Weight+Rejecting_and_regenerating_parts-Energy-Loss
 Confidential: public

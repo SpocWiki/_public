@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - condition
 Confidential: public

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Stability+Segmentation-moving_Length
 Confidential: public

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - affected_harm+Use_of_porous_material-Quantity
 Confidential: public

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Ease_of_operation+Self-service-moving_Duration
 Confidential: public

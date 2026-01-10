@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Stability+Feedback-Difficulty
 Confidential: public

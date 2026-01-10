@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Quantity+Extraction-Measurement_Accuracy
 Confidential: public

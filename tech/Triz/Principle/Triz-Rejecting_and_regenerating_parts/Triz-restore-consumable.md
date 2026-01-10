@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - restore-consumable
 Confidential: public

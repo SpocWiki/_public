@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - 10307+22201-Automation
 Confidential: public

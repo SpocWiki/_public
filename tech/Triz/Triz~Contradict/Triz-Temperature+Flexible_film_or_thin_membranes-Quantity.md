@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Temperature+Flexible_film_or_thin_membranes-Quantity
 Confidential: public

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Stress+Asymmetry-Time-Loss
 Confidential: public

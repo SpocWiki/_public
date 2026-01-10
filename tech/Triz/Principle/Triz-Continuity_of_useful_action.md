@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Continuity of useful action"
 copyright: "https://github.com/SpocWeb"

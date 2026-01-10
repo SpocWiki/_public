@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Speed+Counterweight-moving_Length
 Confidential: public

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - inert-additives
 Confidential: public

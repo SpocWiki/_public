@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Intensity+Inversion-Reliability
 Confidential: public

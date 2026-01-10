@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - stationary_Weight+Inert_environment-generated_harm
 Confidential: public

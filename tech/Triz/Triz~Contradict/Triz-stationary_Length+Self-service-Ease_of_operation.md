@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - stationary_Length+Self-service-Ease_of_operation
 Confidential: public

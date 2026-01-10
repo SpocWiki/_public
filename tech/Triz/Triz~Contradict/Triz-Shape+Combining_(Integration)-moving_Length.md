@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Shape+Combining_(Integration)-moving_Length
 Confidential: public

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Complexity+Segmentation-generated_harm
 Confidential: public

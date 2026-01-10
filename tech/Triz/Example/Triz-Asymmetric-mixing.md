@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Asymmetric-mixing
 Confidential: public

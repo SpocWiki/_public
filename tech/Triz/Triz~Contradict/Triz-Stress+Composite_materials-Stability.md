@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Stress+Composite_materials-Stability
 Confidential: public

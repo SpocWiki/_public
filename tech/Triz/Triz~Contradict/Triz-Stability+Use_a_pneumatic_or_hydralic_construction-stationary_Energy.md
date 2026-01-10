@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Stability+Use_a_pneumatic_or_hydralic_construction-stationary_Energy
 Confidential: public

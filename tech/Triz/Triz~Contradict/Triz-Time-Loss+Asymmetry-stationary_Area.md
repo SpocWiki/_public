@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Time-Loss+Asymmetry-stationary_Area
 Confidential: public

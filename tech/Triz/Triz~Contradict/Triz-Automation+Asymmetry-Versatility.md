@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Automation+Asymmetry-Versatility
 Confidential: public

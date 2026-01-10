@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Energy-Loss+Local_quality-Power
 Confidential: public

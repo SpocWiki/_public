@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Ease_of_operation+Partial,_overdone,_or_excessive_action-moving_Volume
 Confidential: public

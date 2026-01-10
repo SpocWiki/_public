@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Ease_of_operation+Counterweight-moving_Duration
 Confidential: public

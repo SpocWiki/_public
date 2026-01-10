@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Difficulty+Mechanical_vibration-Quantity
 Confidential: public

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "disconnect Joints"
 Confidential: public

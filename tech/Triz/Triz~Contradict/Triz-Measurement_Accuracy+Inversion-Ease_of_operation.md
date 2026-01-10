@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Measurement_Accuracy+Inversion-Ease_of_operation
 Confidential: public

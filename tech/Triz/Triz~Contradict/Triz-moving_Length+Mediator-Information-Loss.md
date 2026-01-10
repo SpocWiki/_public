@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - moving_Length+Mediator-Information-Loss
 Confidential: public

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Difficulty+Periodic_action-moving_Duration
 Confidential: public

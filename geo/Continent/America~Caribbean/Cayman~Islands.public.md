@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Cayman Islands"
 - "Islas Caimán"

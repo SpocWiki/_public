@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - add-ozone
 Confidential: public

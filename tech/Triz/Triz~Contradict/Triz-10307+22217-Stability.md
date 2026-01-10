@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - 10307+22217-Stability
 Confidential: public

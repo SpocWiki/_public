@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Versatility+Dynamicity-Energy-Loss
 Confidential: public

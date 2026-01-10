@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Ease_of_manufacture+Homogeneity-Substance-Loss
 Confidential: public

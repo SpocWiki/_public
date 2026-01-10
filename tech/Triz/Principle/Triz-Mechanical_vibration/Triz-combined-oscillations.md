@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - combined-oscillations
 Confidential: public

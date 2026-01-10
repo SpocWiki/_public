@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - moving_Length+Copying-Automation
 Confidential: public

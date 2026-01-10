@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - stationary_Duration+Mechanical_vibration-Substance-Loss
 Confidential: public

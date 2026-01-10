@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Complexity+Copying-stationary_Weight
 Confidential: public

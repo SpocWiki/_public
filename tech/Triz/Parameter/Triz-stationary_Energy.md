@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "stationary Energy"
 Confidential: public

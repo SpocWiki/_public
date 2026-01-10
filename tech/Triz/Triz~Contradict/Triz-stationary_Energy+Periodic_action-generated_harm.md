@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - stationary_Energy+Periodic_action-generated_harm
 Confidential: public

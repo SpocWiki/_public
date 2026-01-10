@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - generated_harm+Mediator-Illumination
 Confidential: public

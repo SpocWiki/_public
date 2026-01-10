@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - change-aggregate
 Confidential: public

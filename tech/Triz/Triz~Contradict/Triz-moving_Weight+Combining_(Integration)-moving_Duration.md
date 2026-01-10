@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - moving_Weight+Combining_(Integration)-moving_Duration
 Confidential: public

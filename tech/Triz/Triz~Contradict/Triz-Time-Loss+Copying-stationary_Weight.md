@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Time-Loss+Copying-stationary_Weight
 Confidential: public

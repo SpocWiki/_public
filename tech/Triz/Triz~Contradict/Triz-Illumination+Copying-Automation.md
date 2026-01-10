@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Illumination+Copying-Automation
 Confidential: public

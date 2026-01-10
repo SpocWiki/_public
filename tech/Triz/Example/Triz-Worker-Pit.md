@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Worker-Pit
 Confidential: public

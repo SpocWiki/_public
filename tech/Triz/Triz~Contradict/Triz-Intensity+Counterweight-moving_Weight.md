@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Intensity+Counterweight-moving_Weight
 Confidential: public

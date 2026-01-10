@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "inflatable Structures"
 Confidential: public

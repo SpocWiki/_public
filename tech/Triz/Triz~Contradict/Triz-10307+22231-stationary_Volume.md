@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - 10307+22231-stationary_Volume
 Confidential: public

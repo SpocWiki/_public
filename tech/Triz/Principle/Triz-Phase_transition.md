@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Phase transition"
 copyright: "https://github.com/SpocWeb"

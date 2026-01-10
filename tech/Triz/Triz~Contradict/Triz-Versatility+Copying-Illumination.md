@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Versatility+Copying-Illumination
 Confidential: public

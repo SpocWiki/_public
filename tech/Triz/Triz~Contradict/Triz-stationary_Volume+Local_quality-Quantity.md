@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - stationary_Volume+Local_quality-Quantity
 Confidential: public

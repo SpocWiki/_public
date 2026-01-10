@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Complexity+Universality-moving_Volume
 Confidential: public

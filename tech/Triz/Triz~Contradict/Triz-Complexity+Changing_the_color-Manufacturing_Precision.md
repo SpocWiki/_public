@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Complexity+Changing_the_color-Manufacturing_Precision
 Confidential: public

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Ease_of_operation+Prior_action-Power
 Confidential: public

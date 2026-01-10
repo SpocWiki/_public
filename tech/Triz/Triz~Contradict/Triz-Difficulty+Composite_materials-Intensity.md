@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Difficulty+Composite_materials-Intensity
 Confidential: public

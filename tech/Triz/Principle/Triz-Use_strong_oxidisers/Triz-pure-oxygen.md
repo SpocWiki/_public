@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - pure-oxygen
 Confidential: public

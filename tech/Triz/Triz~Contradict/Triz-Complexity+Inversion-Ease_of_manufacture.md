@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Complexity+Inversion-Ease_of_manufacture
 Confidential: public

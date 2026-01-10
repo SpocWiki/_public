@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - moving_Weight+Phase_transition-Ease_of_manufacture
 Confidential: public

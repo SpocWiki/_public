@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Strength+Prior_action-Ease_of_manufacture
 Confidential: public

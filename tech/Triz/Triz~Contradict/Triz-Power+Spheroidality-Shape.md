@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Power+Spheroidality-Shape
 Confidential: public

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Versatility+Counterweight-Reliability
 Confidential: public

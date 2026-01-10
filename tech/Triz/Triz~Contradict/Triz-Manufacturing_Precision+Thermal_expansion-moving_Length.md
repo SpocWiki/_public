@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Manufacturing_Precision+Thermal_expansion-moving_Length
 Confidential: public

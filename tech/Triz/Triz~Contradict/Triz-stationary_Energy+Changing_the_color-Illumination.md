@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - stationary_Energy+Changing_the_color-Illumination
 Confidential: public

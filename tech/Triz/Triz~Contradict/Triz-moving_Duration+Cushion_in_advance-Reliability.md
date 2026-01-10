@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - moving_Duration+Cushion_in_advance-Reliability
 Confidential: public

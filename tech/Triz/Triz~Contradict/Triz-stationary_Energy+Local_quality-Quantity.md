@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - stationary_Energy+Local_quality-Quantity
 Confidential: public

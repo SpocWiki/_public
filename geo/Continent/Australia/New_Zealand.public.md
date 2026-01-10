@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "New Zealand"
 - "Nueva Zelandia"

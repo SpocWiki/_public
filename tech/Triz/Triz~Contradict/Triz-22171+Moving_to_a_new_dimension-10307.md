@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - 22171+Moving_to_a_new_dimension-10307
 Confidential: public

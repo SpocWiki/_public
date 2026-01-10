@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Difficulty+Prior_action-Power
 Confidential: public

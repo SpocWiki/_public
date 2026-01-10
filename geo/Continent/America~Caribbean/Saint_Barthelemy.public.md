@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - St._Barthélemy
 - Saint_Barthélemy

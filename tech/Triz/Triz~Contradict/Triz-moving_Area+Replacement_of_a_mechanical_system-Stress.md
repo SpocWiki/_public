@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - moving_Area+Replacement_of_a_mechanical_system-Stress
 Confidential: public

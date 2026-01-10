@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Difficulty+Mediator-Measurement_Accuracy
 Confidential: public

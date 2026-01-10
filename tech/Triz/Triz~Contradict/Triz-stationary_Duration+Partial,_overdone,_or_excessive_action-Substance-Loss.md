@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - stationary_Duration+Partial,_overdone,_or_excessive_action-Substance-Loss
 Confidential: public

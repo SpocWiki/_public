@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - stationary_Volume+Partial,_overdone,_or_excessive_action-Reliability
 Confidential: public

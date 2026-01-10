@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Substance-Loss+Universality-Illumination
 Confidential: public

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - moving_Length+Asymmetry-Speed
 Confidential: public

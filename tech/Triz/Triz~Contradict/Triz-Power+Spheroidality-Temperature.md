@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Power+Spheroidality-Temperature
 Confidential: public

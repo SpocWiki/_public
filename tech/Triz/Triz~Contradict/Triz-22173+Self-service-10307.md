@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - 22173+Self-service-10307
 Confidential: public

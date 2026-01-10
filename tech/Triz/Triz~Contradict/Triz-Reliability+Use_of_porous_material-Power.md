@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Reliability+Use_of_porous_material-Power
 Confidential: public

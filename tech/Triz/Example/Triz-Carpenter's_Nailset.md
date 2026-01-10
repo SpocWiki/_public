@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Carpenter's Nailset"
 Confidential: public

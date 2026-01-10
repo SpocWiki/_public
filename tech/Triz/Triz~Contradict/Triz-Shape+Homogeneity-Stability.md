@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Shape+Homogeneity-Stability
 Confidential: public

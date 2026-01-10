@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Versatility+Replacement_of_a_mechanical_system-Time-Loss
 Confidential: public

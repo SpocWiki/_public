@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Complexity+Phase_transition-stationary_Area
 Confidential: public

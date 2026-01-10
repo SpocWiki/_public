@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Versatility+Periodic_action-Power
 Confidential: public

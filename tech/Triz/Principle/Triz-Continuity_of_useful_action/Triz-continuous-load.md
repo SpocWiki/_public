@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - continuous-load
 Confidential: public

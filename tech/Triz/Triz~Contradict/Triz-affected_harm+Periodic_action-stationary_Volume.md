@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - affected_harm+Periodic_action-stationary_Volume
 Confidential: public

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - moving_Duration+Homogeneity-affected_harm
 Confidential: public

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Automation+Self-service-Strength
 Confidential: public

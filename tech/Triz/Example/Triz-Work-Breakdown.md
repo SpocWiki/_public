@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Work-Breakdown
 Confidential: public

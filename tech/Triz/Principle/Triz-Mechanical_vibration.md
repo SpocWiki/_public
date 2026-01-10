@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Mechanical vibration"
 copyright: "https://github.com/SpocWeb"

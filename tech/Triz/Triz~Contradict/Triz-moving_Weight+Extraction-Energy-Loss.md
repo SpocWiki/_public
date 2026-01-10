@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - moving_Weight+Extraction-Energy-Loss
 Confidential: public

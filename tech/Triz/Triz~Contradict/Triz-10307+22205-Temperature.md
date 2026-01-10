@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - 10307+22205-Temperature
 Confidential: public

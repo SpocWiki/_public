@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Ease_of_manufacture+Inversion-stationary_Weight
 Confidential: public

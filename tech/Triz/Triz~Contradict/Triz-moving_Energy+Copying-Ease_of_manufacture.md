@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - moving_Energy+Copying-Ease_of_manufacture
 Confidential: public

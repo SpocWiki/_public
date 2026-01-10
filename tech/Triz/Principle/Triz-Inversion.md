@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Inversion
 copyright: "https://github.com/SpocWeb"

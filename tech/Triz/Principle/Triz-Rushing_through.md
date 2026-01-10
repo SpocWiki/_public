@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Rushing through"
 copyright: "https://github.com/SpocWeb"

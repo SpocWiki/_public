@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Stress+Prior_action-moving_Weight
 Confidential: public

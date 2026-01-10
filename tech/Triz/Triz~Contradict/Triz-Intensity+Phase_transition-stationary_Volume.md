@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Intensity+Phase_transition-stationary_Volume
 Confidential: public

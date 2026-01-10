@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Ease_of_operation+Segmentation-moving_Area
 Confidential: public

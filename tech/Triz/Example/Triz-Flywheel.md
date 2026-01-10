@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Flywheel
 Confidential: public

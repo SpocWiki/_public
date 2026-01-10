@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - movable-parts
 Confidential: public

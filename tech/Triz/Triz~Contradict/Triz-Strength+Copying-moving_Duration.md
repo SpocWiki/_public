@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Strength+Copying-moving_Duration
 Confidential: public

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Ease_of_repair+Local_quality-stationary_Length
 Confidential: public

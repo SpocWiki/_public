@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Ease_of_repair+Transformation_of_physical_and_chemical_states_of_an_object-Ease_of_manufacture
 Confidential: public

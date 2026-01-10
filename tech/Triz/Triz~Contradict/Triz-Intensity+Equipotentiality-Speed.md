@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Intensity+Equipotentiality-Speed
 Confidential: public

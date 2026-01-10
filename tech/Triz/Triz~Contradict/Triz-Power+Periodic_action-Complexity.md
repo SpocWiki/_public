@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Power+Periodic_action-Complexity
 Confidential: public

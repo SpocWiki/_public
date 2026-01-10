@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Difficulty+Cushion_in_advance-Ease_of_manufacture
 Confidential: public

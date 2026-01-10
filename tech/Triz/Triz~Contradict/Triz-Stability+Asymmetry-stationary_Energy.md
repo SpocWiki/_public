@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Stability+Asymmetry-stationary_Energy
 Confidential: public

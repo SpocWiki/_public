@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Personal-Computer
 Confidential: public

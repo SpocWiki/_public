@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Power+Asymmetry-Quantity
 Confidential: public

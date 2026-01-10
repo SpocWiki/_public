@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Trailer
 Confidential: public

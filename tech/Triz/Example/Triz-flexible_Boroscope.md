@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "flexible Boroscope"
 Confidential: public

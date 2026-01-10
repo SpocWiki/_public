@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Disassemble
 Confidential: public

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Quantity+Inert_environment-Temperature
 Confidential: public

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Temperature+Extraction-generated_harm
 Confidential: public

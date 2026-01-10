@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - moving_Length+Dynamicity-Time-Loss
 Confidential: public

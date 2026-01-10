@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Automation+Replacement_of_a_mechanical_system-Power
 Confidential: public

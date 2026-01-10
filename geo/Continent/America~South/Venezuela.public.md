@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Venezuela
 - "Venezuela (Bolivarian Republic of)"

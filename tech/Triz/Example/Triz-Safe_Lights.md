@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Safe Lights"
 Confidential: public

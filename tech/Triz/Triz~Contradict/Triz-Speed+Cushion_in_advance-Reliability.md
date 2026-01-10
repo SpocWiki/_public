@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Speed+Cushion_in_advance-Reliability
 Confidential: public

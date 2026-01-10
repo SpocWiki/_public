@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Stability+Periodic_action-moving_Energy
 Confidential: public

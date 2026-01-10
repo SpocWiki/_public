@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - moving_Length+Mediator-affected_harm
 Confidential: public

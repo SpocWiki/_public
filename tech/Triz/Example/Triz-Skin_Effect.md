@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Skin Effect"
 Confidential: public

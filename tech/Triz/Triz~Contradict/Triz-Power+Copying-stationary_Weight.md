@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Power+Copying-stationary_Weight
 Confidential: public

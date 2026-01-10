@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Store Energy"
 Confidential: public

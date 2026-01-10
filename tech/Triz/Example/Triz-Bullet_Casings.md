@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Bullet Casings"
 Confidential: public

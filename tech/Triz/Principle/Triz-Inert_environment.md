@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Inert environment"
 copyright: "https://github.com/SpocWeb"

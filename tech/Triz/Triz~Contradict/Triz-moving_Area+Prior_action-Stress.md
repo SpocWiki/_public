@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - moving_Area+Prior_action-Stress
 Confidential: public

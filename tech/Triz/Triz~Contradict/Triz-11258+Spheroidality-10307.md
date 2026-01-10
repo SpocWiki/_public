@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - 11258+Spheroidality-10307
 Confidential: public

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - 10307+22223-Strength
 Confidential: public

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Information-Loss+Feedback-Reliability
 Confidential: public

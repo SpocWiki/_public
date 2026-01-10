@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Reliability+Use_a_pneumatic_or_hydralic_construction-Substance-Loss
 Confidential: public

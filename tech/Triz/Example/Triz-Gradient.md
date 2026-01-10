@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Gradient
 Confidential: public

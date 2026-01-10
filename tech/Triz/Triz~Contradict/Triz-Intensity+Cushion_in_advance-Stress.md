@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Intensity+Cushion_in_advance-Stress
 Confidential: public

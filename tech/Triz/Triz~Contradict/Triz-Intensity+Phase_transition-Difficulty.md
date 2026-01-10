@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Intensity+Phase_transition-Difficulty
 Confidential: public

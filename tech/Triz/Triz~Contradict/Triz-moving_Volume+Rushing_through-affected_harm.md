@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - moving_Volume+Rushing_through-affected_harm
 Confidential: public

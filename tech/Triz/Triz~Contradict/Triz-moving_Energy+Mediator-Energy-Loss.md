@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - moving_Energy+Mediator-Energy-Loss
 Confidential: public

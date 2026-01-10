@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Power+Transformation_of_physical_and_chemical_states_of_an_object-Difficulty
 Confidential: public

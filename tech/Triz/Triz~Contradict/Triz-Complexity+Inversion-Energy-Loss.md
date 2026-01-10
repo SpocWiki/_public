@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Complexity+Inversion-Energy-Loss
 Confidential: public

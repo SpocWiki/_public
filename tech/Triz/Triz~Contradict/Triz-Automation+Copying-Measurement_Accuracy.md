@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Automation+Copying-Measurement_Accuracy
 Confidential: public

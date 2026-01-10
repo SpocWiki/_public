@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - stationary_Weight+Periodic_action-affected_harm
 Confidential: public

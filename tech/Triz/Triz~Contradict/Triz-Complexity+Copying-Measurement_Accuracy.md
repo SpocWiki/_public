@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Complexity+Copying-Measurement_Accuracy
 Confidential: public

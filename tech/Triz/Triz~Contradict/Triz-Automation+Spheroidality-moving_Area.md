@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Automation+Spheroidality-moving_Area
 Confidential: public

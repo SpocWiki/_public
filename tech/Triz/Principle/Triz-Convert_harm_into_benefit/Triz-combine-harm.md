@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - combine-harm
 Confidential: public

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Information-Loss+Combining_(Integration)-stationary_Weight
 Confidential: public

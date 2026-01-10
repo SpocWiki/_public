@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - stationary_Duration+Composite_materials-Temperature
 Confidential: public

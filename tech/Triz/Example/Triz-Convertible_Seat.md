@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Convertible Seat"
 Confidential: public

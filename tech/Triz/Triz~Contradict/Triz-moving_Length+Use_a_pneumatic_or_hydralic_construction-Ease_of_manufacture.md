@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - moving_Length+Use_a_pneumatic_or_hydralic_construction-Ease_of_manufacture
 Confidential: public

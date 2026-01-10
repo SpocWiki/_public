@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Automation
 Confidential: public

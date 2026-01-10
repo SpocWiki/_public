@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Automation+Mechanical_vibration-moving_Weight
 Confidential: public

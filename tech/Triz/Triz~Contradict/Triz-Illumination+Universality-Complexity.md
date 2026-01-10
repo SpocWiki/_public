@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Illumination+Universality-Complexity
 Confidential: public

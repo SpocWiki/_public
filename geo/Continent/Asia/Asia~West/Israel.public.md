@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Israel
 - Israël

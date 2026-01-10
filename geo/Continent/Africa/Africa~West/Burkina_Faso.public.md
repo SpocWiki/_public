@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Burkina Faso"
 - "بوركينا فاسو"

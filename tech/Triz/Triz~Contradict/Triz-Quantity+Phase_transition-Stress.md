@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Quantity+Phase_transition-Stress
 Confidential: public

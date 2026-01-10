@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Measurement_Accuracy+Homogeneity-generated_harm
 Confidential: public

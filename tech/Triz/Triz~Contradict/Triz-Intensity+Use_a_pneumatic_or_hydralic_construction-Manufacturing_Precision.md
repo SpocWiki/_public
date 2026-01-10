@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Intensity+Use_a_pneumatic_or_hydralic_construction-Manufacturing_Precision
 Confidential: public

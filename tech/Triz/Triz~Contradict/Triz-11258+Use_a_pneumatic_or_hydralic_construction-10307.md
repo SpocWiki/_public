@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - 11258+Use_a_pneumatic_or_hydralic_construction-10307
 Confidential: public

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - stationary_Weight+Changing_the_color-Ease_of_operation
 Confidential: public

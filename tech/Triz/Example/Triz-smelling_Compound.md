@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "smelling Compound"
 Confidential: public

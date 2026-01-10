@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Power+Extraction-affected_harm
 Confidential: public

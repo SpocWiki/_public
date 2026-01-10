@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - generated_harm+Homogeneity-Stress
 Confidential: public

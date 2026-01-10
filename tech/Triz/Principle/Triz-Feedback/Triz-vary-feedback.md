@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - vary-feedback
 Confidential: public

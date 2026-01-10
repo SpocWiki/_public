@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Intensity+Dynamicity-moving_Volume
 Confidential: public

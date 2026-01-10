@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Substance-Loss+Segmentation-moving_Volume
 Confidential: public

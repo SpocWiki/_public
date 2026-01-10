@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Difficulty+Periodic_action-stationary_Energy
 Confidential: public

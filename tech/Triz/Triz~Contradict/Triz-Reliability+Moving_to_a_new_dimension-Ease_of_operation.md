@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Reliability+Moving_to_a_new_dimension-Ease_of_operation
 Confidential: public

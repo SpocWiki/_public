@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Complexity+Thermal_expansion-Difficulty
 Confidential: public

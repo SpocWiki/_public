@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Ease_of_repair+Prior_action-Measurement_Accuracy
 Confidential: public

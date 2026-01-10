@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - moving_Duration+Asymmetry-Ease_of_manufacture
 Confidential: public

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - 10307+22197-stationary_Energy
 Confidential: public

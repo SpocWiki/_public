@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Power+Extraction-Speed
 Confidential: public

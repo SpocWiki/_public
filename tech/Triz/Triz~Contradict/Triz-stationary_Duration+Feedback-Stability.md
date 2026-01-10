@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - stationary_Duration+Feedback-Stability
 Confidential: public

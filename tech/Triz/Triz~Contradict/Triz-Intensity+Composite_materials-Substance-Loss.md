@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Intensity+Composite_materials-Substance-Loss
 Confidential: public

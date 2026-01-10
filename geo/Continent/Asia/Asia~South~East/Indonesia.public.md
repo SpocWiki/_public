@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Indonesia
 confidential: public

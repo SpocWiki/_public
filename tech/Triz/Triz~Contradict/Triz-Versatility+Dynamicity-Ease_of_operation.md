@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Versatility+Dynamicity-Ease_of_operation
 Confidential: public

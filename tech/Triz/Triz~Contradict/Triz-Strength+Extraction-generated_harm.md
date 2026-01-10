@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Strength+Extraction-generated_harm
 Confidential: public

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - moving_Energy+Copying-Intensity
 Confidential: public

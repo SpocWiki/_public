@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "inert Gas"
 Confidential: public

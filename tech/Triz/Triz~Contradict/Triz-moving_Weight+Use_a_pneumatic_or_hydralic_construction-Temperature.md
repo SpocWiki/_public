@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - moving_Weight+Use_a_pneumatic_or_hydralic_construction-Temperature
 Confidential: public

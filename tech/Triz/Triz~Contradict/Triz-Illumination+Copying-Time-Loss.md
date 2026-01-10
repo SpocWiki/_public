@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Illumination+Copying-Time-Loss
 Confidential: public

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Illumination+Extraction-stationary_Weight
 Confidential: public

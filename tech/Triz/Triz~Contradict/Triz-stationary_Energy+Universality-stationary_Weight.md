@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - stationary_Energy+Universality-stationary_Weight
 Confidential: public

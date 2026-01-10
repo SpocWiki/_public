@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Universality
 copyright: "https://github.com/SpocWeb"

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "etch later"
 Confidential: public

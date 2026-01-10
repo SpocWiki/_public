@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - stationary_Duration+Self-service-Difficulty
 Confidential: public

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Difficulty+Flexible_film_or_thin_membranes-Intensity
 Confidential: public

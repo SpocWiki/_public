@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - moving_Energy+Equipotentiality-moving_Weight
 Confidential: public

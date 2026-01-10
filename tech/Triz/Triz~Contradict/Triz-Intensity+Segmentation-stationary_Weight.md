@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Intensity+Segmentation-stationary_Weight
 Confidential: public

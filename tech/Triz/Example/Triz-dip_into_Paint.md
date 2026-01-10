@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "dip into Paint"
 Confidential: public

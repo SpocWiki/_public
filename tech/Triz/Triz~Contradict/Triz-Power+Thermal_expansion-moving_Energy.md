@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Power+Thermal_expansion-moving_Energy
 Confidential: public

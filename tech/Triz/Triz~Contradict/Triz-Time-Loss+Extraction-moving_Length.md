@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Time-Loss+Extraction-moving_Length
 Confidential: public

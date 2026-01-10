@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - generated_harm+Composite_materials-stationary_Area
 Confidential: public

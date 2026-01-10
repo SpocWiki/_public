@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Heat Pumps"
 Confidential: public

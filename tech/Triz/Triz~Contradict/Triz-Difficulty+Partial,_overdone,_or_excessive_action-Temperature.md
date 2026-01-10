@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Difficulty+Partial,_overdone,_or_excessive_action-Temperature
 Confidential: public

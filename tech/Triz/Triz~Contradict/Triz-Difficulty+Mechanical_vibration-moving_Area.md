@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Difficulty+Mechanical_vibration-moving_Area
 Confidential: public

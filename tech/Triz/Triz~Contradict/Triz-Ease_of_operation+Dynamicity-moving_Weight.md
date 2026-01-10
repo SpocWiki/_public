@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Ease_of_operation+Dynamicity-moving_Weight
 Confidential: public

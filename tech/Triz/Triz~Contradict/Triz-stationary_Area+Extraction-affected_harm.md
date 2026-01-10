@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - stationary_Area+Extraction-affected_harm
 Confidential: public

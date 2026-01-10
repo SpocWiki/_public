@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Power+Extraction-Ease_of_repair
 Confidential: public

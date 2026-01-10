@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Difficulty+Mediator-Illumination
 Confidential: public

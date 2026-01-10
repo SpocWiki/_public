@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - moving_Area+Asymmetry-Shape
 Confidential: public

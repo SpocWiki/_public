@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Intensity+Mechanical_vibration-moving_Weight
 Confidential: public

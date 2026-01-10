@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - 10307+22210-Information-Loss
 Confidential: public

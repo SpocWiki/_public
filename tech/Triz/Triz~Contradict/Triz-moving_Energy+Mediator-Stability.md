@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - moving_Energy+Mediator-Stability
 Confidential: public

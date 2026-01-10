@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Quantity+Universality-Substance-Loss
 Confidential: public

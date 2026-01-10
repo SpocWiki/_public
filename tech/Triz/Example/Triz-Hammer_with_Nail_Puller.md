@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Hammer with Nail Puller"
 Confidential: public

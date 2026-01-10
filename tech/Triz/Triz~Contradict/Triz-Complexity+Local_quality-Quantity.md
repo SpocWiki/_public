@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Complexity+Local_quality-Quantity
 Confidential: public

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - 22169+Copying-10307
 Confidential: public

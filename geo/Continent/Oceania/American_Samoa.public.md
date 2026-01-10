@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "American Samoa"
 - "Samoa Americana"

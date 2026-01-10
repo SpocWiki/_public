@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Power+Phase_transition-Intensity
 Confidential: public

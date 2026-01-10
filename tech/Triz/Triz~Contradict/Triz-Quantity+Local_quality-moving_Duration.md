@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Quantity+Local_quality-moving_Duration
 Confidential: public

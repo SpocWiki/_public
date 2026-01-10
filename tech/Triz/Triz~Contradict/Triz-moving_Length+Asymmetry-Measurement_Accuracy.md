@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - moving_Length+Asymmetry-Measurement_Accuracy
 Confidential: public

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - stationary_Duration+Segmentation-Ease_of_repair
 Confidential: public

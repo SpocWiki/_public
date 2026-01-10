@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Intensity+Prior_action-Temperature
 Confidential: public

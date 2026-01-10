@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - multi-story
 Confidential: public

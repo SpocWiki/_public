@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Speed+Inversion-Substance-Loss
 Confidential: public

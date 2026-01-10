@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Time-Loss+Rejecting_and_regenerating_parts-Measurement_Accuracy
 Confidential: public

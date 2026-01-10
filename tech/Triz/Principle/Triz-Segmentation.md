@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Segmentation
 copyright: "https://github.com/SpocWeb"

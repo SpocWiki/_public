@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Versatility+Segmentation-Energy-Loss
 Confidential: public

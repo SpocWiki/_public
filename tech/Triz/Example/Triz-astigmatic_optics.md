@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "astigmatic optics"
 Confidential: public

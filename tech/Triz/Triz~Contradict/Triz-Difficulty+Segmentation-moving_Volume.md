@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Difficulty+Segmentation-moving_Volume
 Confidential: public

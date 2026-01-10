@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Enemy substitute"
 Confidential: public

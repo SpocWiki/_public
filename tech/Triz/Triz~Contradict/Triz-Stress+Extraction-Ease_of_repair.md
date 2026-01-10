@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Stress+Extraction-Ease_of_repair
 Confidential: public

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Preparing Work Area"
 Confidential: public

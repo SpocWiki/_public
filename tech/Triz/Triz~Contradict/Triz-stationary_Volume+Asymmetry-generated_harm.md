@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - stationary_Volume+Asymmetry-generated_harm
 Confidential: public

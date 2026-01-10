@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Strength+Copying-stationary_Weight
 Confidential: public

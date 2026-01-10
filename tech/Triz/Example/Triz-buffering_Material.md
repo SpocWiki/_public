@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "buffering Material"
 Confidential: public

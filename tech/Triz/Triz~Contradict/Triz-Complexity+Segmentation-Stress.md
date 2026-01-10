@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Complexity+Segmentation-Stress
 Confidential: public

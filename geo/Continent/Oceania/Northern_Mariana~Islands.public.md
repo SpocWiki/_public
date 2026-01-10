@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Northern Mariana Islands"
 - "Islas Marianas Septentrionales"

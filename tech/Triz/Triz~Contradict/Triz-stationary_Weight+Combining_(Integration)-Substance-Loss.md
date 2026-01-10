@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - stationary_Weight+Combining_(Integration)-Substance-Loss
 Confidential: public

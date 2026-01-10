@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "stationary Volume"
 Confidential: public

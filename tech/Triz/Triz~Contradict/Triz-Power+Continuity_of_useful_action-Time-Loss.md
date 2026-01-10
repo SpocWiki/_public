@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Power+Continuity_of_useful_action-Time-Loss
 Confidential: public

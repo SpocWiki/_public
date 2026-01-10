@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - stationary_Weight+Extraction-affected_harm
 Confidential: public

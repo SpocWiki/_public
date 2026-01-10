@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "adding inert Ingredients"
 Confidential: public

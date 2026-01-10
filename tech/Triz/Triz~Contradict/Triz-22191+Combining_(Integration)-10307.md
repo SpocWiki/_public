@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - 22191+Combining_(Integration)-10307
 Confidential: public

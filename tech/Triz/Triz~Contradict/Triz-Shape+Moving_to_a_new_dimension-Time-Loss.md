@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Shape+Moving_to_a_new_dimension-Time-Loss
 Confidential: public

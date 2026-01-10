@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Automation+Periodic_action-Illumination
 Confidential: public

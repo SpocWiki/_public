@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Shape+Asymmetry-Stability
 Confidential: public

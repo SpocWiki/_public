@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Substance-Loss+Local_quality-stationary_Volume
 Confidential: public

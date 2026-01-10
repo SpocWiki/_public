@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Stress+Extraction-Stability
 Confidential: public

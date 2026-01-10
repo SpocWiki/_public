@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Diamond Cutting"
 Confidential: public

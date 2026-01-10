@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Speed+Segmentation-Stability
 Confidential: public

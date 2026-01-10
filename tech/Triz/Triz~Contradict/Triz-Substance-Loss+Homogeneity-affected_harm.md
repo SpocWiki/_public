@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Substance-Loss+Homogeneity-affected_harm
 Confidential: public

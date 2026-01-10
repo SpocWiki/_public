@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - moving_Volume+Copying-Complexity
 Confidential: public

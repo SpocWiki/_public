@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - removed-obsolete
 Confidential: public

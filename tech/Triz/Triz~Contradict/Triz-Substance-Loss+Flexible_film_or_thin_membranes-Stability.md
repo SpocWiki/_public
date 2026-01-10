@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Substance-Loss+Flexible_film_or_thin_membranes-Stability
 Confidential: public

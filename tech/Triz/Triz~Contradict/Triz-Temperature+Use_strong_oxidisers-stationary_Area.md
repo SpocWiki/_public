@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Temperature+Use_strong_oxidisers-stationary_Area
 Confidential: public

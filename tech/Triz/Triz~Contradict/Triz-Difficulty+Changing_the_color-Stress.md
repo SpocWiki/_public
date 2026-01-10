@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Difficulty+Changing_the_color-Stress
 Confidential: public

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - moving_Duration+Inert_environment-Temperature
 Confidential: public

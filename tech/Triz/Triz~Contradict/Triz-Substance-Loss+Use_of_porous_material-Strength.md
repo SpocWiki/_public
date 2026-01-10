@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Substance-Loss+Use_of_porous_material-Strength
 Confidential: public

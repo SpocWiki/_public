@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "acoustic Fence"
 Confidential: public

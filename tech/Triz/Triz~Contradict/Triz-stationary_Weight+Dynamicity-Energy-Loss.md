@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - stationary_Weight+Dynamicity-Energy-Loss
 Confidential: public

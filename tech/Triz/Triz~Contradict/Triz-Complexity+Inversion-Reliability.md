@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Complexity+Inversion-Reliability
 Confidential: public

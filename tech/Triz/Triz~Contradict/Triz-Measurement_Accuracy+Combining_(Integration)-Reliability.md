@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Measurement_Accuracy+Combining_(Integration)-Reliability
 Confidential: public

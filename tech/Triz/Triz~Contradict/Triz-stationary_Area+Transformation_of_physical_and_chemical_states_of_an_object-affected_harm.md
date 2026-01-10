@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - stationary_Area+Transformation_of_physical_and_chemical_states_of_an_object-affected_harm
 Confidential: public

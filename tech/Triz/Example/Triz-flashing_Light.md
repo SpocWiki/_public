@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "flashing Light"
 Confidential: public

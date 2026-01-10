@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - affected_harm+Extraction-Ease_of_repair
 Confidential: public

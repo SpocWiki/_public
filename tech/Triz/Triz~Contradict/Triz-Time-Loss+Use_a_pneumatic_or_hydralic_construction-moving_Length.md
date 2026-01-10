@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Time-Loss+Use_a_pneumatic_or_hydralic_construction-moving_Length
 Confidential: public

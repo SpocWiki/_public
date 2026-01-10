@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Intensity+Counterweight-Substance-Loss
 Confidential: public

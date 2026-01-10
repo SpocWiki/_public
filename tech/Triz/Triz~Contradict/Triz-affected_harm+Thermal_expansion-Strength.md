@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - affected_harm+Thermal_expansion-Strength
 Confidential: public

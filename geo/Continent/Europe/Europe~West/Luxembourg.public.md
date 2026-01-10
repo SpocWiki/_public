@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Luxembourg
 - Luxemburgo

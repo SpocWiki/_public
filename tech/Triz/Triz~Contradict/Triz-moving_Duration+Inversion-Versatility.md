@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - moving_Duration+Inversion-Versatility
 Confidential: public

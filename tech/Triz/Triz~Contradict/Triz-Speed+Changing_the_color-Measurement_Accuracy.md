@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Speed+Changing_the_color-Measurement_Accuracy
 Confidential: public

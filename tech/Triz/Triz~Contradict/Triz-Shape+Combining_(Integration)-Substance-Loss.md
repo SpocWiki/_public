@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Shape+Combining_(Integration)-Substance-Loss
 Confidential: public

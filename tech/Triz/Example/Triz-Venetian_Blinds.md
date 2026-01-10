@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Venetian Blinds"
 Confidential: public

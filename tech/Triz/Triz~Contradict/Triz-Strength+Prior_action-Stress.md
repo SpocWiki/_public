@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Strength+Prior_action-Stress
 Confidential: public

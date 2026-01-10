@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - feedback
 Confidential: public

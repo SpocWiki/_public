@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "recorder and timekeeper"
 Confidential: public

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Gyrocompass
 Confidential: public

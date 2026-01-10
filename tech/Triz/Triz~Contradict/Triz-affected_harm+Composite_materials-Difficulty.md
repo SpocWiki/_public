@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - affected_harm+Composite_materials-Difficulty
 Confidential: public

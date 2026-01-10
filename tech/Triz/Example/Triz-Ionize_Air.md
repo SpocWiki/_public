@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Ionize Air"
 Confidential: public

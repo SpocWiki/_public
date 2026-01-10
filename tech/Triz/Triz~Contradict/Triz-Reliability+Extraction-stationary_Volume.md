@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Reliability+Extraction-stationary_Volume
 Confidential: public

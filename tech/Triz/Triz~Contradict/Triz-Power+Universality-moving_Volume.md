@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Power+Universality-moving_Volume
 Confidential: public

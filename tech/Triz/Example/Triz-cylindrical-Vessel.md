@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - cylindrical-Vessel
 Confidential: public

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "stationary Duration"
 Confidential: public

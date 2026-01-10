@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - affected_harm+Homogeneity-stationary_Duration
 Confidential: public

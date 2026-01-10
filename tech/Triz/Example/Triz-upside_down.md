@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "upside down"
 Confidential: public

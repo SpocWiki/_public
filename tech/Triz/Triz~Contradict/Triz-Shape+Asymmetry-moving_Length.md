@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Shape+Asymmetry-moving_Length
 Confidential: public

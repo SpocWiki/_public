@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - stationary_Area+Changing_the_color-Measurement_Accuracy
 Confidential: public

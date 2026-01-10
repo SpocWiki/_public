@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - moving_Area+Phase_transition-Stress
 Confidential: public

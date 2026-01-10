@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Temperature+Mediator-Manufacturing_Precision
 Confidential: public

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Time-Loss+Changing_the_color-Information-Loss
 Confidential: public

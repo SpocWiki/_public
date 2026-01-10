@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Versatility+Extraction-moving_Length
 Confidential: public

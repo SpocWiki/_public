@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Time-Loss+Mechanical_vibration-Manufacturing_Precision
 Confidential: public

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Reliability+Cushion_in_advance-Manufacturing_Precision
 Confidential: public

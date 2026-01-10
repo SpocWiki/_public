@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Temperature+Moving_to_a_new_dimension-moving_Energy
 Confidential: public

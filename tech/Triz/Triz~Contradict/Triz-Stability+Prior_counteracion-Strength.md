@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Stability+Prior_counteracion-Strength
 Confidential: public

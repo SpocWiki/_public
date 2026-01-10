@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Complexity+Segmentation-Reliability
 Confidential: public

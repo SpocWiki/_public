@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - stationary_Weight+Extraction-stationary_Duration
 Confidential: public

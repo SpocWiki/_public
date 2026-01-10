@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Versatility+Segmentation-Illumination
 Confidential: public

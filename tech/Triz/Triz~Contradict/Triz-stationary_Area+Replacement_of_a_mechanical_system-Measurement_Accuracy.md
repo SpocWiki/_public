@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - stationary_Area+Replacement_of_a_mechanical_system-Measurement_Accuracy
 Confidential: public

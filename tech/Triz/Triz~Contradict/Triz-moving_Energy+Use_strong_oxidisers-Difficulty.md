@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - moving_Energy+Use_strong_oxidisers-Difficulty
 Confidential: public

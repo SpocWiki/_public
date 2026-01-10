@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Helium-Oxygen Mix"
 Confidential: public

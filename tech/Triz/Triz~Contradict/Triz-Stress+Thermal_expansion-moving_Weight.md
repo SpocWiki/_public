@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Stress+Thermal_expansion-moving_Weight
 Confidential: public

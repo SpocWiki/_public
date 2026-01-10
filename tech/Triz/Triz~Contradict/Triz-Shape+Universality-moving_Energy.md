@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Shape+Universality-moving_Energy
 Confidential: public

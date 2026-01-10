@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - moving_Volume+Self-service-Manufacturing_Precision
 Confidential: public

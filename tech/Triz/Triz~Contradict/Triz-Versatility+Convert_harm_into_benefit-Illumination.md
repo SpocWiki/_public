@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Versatility+Convert_harm_into_benefit-Illumination
 Confidential: public

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Quantity+Use_of_porous_material-stationary_Duration
 Confidential: public

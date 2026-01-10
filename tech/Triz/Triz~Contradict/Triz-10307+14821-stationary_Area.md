@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - 10307+14821-stationary_Area
 Confidential: public

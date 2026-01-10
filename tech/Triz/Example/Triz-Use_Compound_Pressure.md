@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Use Compound Pressure"
 Confidential: public

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Saudi Arabia"
 - "Arabia Saudita"

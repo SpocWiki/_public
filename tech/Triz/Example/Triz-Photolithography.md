@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Photolithography
 Confidential: public

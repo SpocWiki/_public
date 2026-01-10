@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Measurement Accuracy"
 Confidential: public

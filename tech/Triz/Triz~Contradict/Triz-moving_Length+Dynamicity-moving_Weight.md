@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - moving_Length+Dynamicity-moving_Weight
 Confidential: public

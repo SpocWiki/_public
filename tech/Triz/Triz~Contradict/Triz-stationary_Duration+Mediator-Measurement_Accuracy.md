@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - stationary_Duration+Mediator-Measurement_Accuracy
 Confidential: public

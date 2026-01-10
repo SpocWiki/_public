@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Automation+Extraction-generated_harm
 Confidential: public

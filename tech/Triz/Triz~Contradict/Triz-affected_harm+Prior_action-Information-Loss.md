@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - affected_harm+Prior_action-Information-Loss
 Confidential: public

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Solomon Islands"
 - "Islas Salomón"

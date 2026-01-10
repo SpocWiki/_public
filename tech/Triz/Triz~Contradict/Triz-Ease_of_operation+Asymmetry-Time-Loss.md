@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Ease_of_operation+Asymmetry-Time-Loss
 Confidential: public

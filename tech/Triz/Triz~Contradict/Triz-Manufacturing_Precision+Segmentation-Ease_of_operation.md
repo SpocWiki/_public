@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Manufacturing_Precision+Segmentation-Ease_of_operation
 Confidential: public

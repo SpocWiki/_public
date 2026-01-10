@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - generated_harm+Dynamicity-Strength
 Confidential: public

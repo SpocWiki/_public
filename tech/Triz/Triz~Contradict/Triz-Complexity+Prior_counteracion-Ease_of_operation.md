@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Complexity+Prior_counteracion-Ease_of_operation
 Confidential: public

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Kiribati
 - كيريباس

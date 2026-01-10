@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - change-transparency
 Confidential: public

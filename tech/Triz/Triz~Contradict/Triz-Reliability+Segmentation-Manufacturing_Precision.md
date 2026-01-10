@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Reliability+Segmentation-Manufacturing_Precision
 Confidential: public

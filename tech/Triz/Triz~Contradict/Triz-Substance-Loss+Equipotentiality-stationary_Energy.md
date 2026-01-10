@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Substance-Loss+Equipotentiality-stationary_Energy
 Confidential: public

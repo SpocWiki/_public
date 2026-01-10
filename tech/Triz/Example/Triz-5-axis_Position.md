@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "5-axis Position"
 Confidential: public

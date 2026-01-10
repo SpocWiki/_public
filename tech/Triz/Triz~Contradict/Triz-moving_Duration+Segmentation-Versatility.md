@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - moving_Duration+Segmentation-Versatility
 Confidential: public

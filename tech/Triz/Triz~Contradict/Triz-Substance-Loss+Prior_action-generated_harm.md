@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Substance-Loss+Prior_action-generated_harm
 Confidential: public

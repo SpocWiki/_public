@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - stationary_Length+Local_quality-Measurement_Accuracy
 Confidential: public

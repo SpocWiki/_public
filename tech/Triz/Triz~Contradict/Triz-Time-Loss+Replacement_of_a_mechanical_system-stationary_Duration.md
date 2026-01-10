@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Time-Loss+Replacement_of_a_mechanical_system-stationary_Duration
 Confidential: public

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - stationary_Weight+Convert_harm_into_benefit-Temperature
 Confidential: public

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Intensity+Phase_transition-Manufacturing_Precision
 Confidential: public

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Self-Sharpening
 Confidential: public

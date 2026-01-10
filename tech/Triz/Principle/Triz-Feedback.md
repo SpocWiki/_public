@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Feedback
 copyright: "https://github.com/SpocWeb"

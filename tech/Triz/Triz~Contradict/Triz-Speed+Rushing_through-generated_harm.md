@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Speed+Rushing_through-generated_harm
 Confidential: public

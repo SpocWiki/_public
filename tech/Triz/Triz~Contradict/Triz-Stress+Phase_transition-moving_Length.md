@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Stress+Phase_transition-moving_Length
 Confidential: public

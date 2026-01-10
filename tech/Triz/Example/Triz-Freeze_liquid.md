@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Freeze liquid"
 Confidential: public

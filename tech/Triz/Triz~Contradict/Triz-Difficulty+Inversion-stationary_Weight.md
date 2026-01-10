@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Difficulty+Inversion-stationary_Weight
 Confidential: public

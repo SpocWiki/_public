@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Illumination+Dynamicity-Ease_of_repair
 Confidential: public

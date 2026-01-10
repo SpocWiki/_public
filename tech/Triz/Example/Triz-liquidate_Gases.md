@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "liquidate Gases"
 Confidential: public

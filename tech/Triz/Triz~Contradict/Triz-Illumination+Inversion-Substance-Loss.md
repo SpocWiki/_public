@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Illumination+Inversion-Substance-Loss
 Confidential: public

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - stationary_Length+Mechanical_vibration-affected_harm
 Confidential: public

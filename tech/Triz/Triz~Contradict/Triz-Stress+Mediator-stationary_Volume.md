@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Stress+Mediator-stationary_Volume
 Confidential: public

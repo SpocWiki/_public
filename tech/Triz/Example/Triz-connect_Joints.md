@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "connect Joints"
 Confidential: public

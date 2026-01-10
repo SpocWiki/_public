@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "turbulent Currents"
 Confidential: public

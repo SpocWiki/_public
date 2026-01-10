@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Ease_of_operation+Replacement_of_a_mechanical_system-Intensity
 Confidential: public

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Versatility+Asymmetry-Ease_of_repair
 Confidential: public

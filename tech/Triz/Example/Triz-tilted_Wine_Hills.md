@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "tilted Wine Hills"
 Confidential: public

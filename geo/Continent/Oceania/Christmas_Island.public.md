@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Christmas Island"
 - "Isla de Navidad"

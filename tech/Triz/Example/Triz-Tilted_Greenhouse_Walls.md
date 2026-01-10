@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Tilted Greenhouse Walls"
 Confidential: public

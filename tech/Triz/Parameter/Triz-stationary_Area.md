@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "stationary Area"
 Confidential: public

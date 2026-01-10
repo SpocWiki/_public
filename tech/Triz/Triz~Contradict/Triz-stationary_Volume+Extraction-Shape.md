@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - stationary_Volume+Extraction-Shape
 Confidential: public

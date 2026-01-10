@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Stress+Self-service-Energy-Loss
 Confidential: public

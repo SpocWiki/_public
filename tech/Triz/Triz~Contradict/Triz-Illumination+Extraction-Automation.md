@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Illumination+Extraction-Automation
 Confidential: public

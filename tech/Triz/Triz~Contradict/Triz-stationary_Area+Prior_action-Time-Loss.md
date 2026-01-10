@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - stationary_Area+Prior_action-Time-Loss
 Confidential: public

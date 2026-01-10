@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Ease_of_operation+Inversion-Energy-Loss
 Confidential: public

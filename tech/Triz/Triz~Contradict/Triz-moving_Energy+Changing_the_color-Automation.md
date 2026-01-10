@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - moving_Energy+Changing_the_color-Automation
 Confidential: public

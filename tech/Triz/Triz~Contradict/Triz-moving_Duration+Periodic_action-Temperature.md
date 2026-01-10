@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - moving_Duration+Periodic_action-Temperature
 Confidential: public

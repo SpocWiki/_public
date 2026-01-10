@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Recycle Waste"
 Confidential: public

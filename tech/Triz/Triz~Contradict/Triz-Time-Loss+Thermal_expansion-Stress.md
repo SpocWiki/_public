@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Time-Loss+Thermal_expansion-Stress
 Confidential: public

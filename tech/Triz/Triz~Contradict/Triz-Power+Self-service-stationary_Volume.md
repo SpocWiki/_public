@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Power+Self-service-stationary_Volume
 Confidential: public

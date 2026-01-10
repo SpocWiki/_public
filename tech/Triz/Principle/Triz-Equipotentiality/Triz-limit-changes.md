@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - limit-changes
 Confidential: public

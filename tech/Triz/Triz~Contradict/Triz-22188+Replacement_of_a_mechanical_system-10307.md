@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - 22188+Replacement_of_a_mechanical_system-10307
 Confidential: public

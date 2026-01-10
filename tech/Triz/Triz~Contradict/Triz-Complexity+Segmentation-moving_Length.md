@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Complexity+Segmentation-moving_Length
 Confidential: public

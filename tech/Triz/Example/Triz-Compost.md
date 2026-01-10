@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Compost
 Confidential: public

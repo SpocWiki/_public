@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Composite materials"
 copyright: "https://github.com/SpocWeb"

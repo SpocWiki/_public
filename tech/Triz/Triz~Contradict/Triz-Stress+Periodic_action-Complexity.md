@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Stress+Periodic_action-Complexity
 Confidential: public

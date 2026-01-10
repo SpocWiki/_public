@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Quantity+Asymmetry-stationary_Area
 Confidential: public

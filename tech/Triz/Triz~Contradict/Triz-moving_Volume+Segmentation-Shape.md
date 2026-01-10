@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - moving_Volume+Segmentation-Shape
 Confidential: public

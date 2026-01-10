@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Ease_of_operation+Mediator-moving_Energy
 Confidential: public

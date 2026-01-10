@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - 22172+Use_strong_oxidisers-10307
 Confidential: public

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - generated_harm+Asymmetry-Manufacturing_Precision
 Confidential: public

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Speed+Inversion-moving_Length
 Confidential: public

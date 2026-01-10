@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Mask-Harm
 Confidential: public

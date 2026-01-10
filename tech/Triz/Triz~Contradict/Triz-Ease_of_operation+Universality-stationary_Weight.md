@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Ease_of_operation+Universality-stationary_Weight
 Confidential: public

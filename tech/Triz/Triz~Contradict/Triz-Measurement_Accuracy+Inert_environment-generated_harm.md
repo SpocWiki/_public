@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Measurement_Accuracy+Inert_environment-generated_harm
 Confidential: public

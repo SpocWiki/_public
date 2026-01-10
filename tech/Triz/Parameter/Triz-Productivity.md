@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Productivity
 Confidential: public

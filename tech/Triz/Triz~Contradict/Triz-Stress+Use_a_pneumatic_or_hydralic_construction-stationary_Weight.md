@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Stress+Use_a_pneumatic_or_hydralic_construction-stationary_Weight
 Confidential: public

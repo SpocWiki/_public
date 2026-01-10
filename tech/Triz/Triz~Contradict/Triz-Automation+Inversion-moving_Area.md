@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Automation+Inversion-moving_Area
 Confidential: public

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - moving_Weight+Asymmetry-Temperature
 Confidential: public

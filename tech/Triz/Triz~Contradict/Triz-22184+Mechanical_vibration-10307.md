@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - 22184+Mechanical_vibration-10307
 Confidential: public

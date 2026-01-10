@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - stationary_Weight+Segmentation-stationary_Energy
 Confidential: public

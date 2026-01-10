@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Temperature+Use_strong_oxidisers-moving_Weight
 Confidential: public

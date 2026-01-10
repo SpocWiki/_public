@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Measurement_Accuracy+Cushion_in_advance-Reliability
 Confidential: public

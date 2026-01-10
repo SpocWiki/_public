@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Change Process"
 Confidential: public

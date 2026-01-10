@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Cornstarch-Packaging
 Confidential: public

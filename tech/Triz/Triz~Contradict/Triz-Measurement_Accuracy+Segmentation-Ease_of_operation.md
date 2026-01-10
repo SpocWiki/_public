@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Measurement_Accuracy+Segmentation-Ease_of_operation
 Confidential: public

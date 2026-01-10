@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - affected_harm+Extraction-Energy-Loss
 Confidential: public

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Strength+Nesting-moving_Volume
 Confidential: public

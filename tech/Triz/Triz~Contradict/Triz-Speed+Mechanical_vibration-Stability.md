@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Speed+Mechanical_vibration-Stability
 Confidential: public

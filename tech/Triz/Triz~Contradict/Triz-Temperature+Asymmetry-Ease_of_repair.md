@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Temperature+Asymmetry-Ease_of_repair
 Confidential: public

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - moving_Weight+Extraction-moving_Volume
 Confidential: public

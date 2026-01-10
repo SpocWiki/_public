@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - use-IR-UV-copies
 Confidential: public

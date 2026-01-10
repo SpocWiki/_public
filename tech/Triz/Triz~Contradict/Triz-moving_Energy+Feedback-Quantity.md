@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - moving_Energy+Feedback-Quantity
 Confidential: public

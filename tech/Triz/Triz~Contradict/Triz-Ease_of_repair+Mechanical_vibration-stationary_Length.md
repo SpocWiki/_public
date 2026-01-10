@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Ease_of_repair+Mechanical_vibration-stationary_Length
 Confidential: public

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - moving_Volume+Equipotentiality-Ease_of_operation
 Confidential: public

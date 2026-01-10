@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Complexity+Segmentation-stationary_Volume
 Confidential: public

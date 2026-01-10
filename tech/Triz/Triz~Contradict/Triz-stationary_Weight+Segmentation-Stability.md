@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - stationary_Weight+Segmentation-Stability
 Confidential: public

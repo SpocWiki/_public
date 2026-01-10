@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - moving_Area+Local_quality-moving_Duration
 Confidential: public

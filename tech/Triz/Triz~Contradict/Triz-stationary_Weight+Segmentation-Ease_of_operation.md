@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - stationary_Weight+Segmentation-Ease_of_operation
 Confidential: public

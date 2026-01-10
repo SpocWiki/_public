@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Strength+Dynamicity-Automation
 Confidential: public

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Energy-Loss+Copying-Strength
 Confidential: public

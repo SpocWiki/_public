@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Strength+Inversion-Speed
 Confidential: public

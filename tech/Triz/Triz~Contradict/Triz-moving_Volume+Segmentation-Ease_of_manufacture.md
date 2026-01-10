@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - moving_Volume+Segmentation-Ease_of_manufacture
 Confidential: public

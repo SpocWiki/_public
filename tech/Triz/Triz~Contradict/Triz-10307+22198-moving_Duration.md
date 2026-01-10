@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - 10307+22198-moving_Duration
 Confidential: public

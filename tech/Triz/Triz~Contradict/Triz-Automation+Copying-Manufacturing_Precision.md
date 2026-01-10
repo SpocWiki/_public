@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Automation+Copying-Manufacturing_Precision
 Confidential: public

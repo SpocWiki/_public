@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Illumination+Segmentation-stationary_Energy
 Confidential: public

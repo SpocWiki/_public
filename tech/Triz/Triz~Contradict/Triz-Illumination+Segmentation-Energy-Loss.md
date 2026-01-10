@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Illumination+Segmentation-Energy-Loss
 Confidential: public

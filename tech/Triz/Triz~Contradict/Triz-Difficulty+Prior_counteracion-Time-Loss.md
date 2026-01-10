@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Difficulty+Prior_counteracion-Time-Loss
 Confidential: public

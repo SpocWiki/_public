@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Intensity+Copying-Complexity
 Confidential: public

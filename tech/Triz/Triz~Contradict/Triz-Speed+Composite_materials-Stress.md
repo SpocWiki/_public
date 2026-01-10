@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Speed+Composite_materials-Stress
 Confidential: public

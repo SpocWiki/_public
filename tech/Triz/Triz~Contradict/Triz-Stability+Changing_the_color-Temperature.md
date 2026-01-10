@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Stability+Changing_the_color-Temperature
 Confidential: public

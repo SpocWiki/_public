@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Difficulty+Inert_environment-stationary_Area
 Confidential: public

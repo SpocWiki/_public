@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Quantity+Prior_action-Strength
 Confidential: public

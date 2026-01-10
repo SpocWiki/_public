@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "weld Aluminum"
 Confidential: public

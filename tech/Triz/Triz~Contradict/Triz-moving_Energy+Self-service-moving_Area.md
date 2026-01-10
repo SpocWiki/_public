@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - moving_Energy+Self-service-moving_Area
 Confidential: public

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Over Spray"
 Confidential: public

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Intensity+Segmentation-Ease_of_repair
 Confidential: public

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - stationary_Length+Extraction-Ease_of_operation
 Confidential: public

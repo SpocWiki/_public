@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - generated_harm+Mediator-Temperature
 Confidential: public

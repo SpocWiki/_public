@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - stationary_Volume+Moving_to_a_new_dimension-Difficulty
 Confidential: public

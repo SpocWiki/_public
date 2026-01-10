@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Illumination+Inert_environment-generated_harm
 Confidential: public

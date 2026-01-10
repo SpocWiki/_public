@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Reliability+Asymmetry-Time-Loss
 Confidential: public

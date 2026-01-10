@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Retractable Gear"
 Confidential: public

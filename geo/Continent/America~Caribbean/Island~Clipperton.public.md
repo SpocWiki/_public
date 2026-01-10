@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Island~Clipperton
 confidential: public

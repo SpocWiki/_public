@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - stationary_Duration+Rejecting_and_regenerating_parts-stationary_Volume
 Confidential: public

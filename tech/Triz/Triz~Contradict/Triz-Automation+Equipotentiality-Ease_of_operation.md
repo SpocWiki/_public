@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Automation+Equipotentiality-Ease_of_operation
 Confidential: public

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "photographic Film"
 Confidential: public

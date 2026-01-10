@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Stress+Segmentation-Ease_of_manufacture
 Confidential: public

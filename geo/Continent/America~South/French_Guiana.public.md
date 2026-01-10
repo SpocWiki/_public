@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "French Guiana"
 - "Guayana Francesa"

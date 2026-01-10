@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - stationary_Area+Nesting-stationary_Length
 Confidential: public

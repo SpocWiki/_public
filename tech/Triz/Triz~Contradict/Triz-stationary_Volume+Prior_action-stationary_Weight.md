@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - stationary_Volume+Prior_action-stationary_Weight
 Confidential: public

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Complexity+Copying-Ease_of_operation
 Confidential: public

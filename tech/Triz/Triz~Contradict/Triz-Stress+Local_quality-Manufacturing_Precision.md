@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Stress+Local_quality-Manufacturing_Precision
 Confidential: public

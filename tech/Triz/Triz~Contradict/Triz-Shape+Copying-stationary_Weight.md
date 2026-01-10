@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Shape+Copying-stationary_Weight
 Confidential: public

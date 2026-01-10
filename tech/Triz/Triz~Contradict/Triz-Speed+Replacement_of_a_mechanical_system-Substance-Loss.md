@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Speed+Replacement_of_a_mechanical_system-Substance-Loss
 Confidential: public

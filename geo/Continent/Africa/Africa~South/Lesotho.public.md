@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Lesotho
 - ليسوتو

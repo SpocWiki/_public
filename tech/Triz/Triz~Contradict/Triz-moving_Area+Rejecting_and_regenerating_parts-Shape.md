@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - moving_Area+Rejecting_and_regenerating_parts-Shape
 Confidential: public

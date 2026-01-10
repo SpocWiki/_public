@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Time-Loss+Segmentation-Illumination
 Confidential: public

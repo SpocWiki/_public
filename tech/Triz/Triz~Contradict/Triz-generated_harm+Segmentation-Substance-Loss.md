@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - generated_harm+Segmentation-Substance-Loss
 Confidential: public

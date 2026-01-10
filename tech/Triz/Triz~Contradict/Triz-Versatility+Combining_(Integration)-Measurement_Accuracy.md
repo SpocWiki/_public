@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Versatility+Combining_(Integration)-Measurement_Accuracy
 Confidential: public

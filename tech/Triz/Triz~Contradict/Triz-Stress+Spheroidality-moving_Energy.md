@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Stress+Spheroidality-moving_Energy
 Confidential: public

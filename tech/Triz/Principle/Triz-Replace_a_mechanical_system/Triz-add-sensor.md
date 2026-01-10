@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - add-sensor
 Confidential: public

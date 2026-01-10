@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Power+Use_of_porous_material-moving_Weight
 Confidential: public

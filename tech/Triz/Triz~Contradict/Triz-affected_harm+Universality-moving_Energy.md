@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - affected_harm+Universality-moving_Energy
 Confidential: public

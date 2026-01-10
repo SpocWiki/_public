@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - 22171+Periodic_action-10307
 Confidential: public

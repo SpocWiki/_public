@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Energy from Vibrations"
 Confidential: public

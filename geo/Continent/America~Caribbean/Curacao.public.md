@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Curaçao
 - Curaçao

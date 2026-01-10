@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - stationary_Area+Use_strong_oxidisers-Stability
 Confidential: public

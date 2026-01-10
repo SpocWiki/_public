@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - stationary_Volume+Asymmetry-Temperature
 Confidential: public

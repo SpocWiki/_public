@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Mountain to Mohammed"
 Confidential: public

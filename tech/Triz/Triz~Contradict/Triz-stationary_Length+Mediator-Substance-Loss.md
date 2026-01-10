@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - stationary_Length+Mediator-Substance-Loss
 Confidential: public

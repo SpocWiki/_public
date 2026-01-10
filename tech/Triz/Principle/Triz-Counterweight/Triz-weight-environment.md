@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - weight-environment
 Confidential: public

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Shape+Flexible_film_or_thin_membranes-Manufacturing_Precision
 Confidential: public

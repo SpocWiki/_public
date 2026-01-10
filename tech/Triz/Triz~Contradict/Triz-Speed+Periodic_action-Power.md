@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Speed+Periodic_action-Power
 Confidential: public

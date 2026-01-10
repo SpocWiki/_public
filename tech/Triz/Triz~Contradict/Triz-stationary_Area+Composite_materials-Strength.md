@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - stationary_Area+Composite_materials-Strength
 Confidential: public

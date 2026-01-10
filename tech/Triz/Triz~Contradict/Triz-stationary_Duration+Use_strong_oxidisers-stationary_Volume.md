@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - stationary_Duration+Use_strong_oxidisers-stationary_Volume
 Confidential: public

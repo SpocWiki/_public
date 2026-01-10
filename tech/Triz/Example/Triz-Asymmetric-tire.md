@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Asymmetric-tire
 Confidential: public

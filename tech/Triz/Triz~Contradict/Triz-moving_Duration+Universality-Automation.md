@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - moving_Duration+Universality-Automation
 Confidential: public

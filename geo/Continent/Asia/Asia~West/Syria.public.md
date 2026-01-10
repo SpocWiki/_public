@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Syria
 - "Syrian Arab Republic"

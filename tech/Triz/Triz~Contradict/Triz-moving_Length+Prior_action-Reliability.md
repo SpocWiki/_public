@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - moving_Length+Prior_action-Reliability
 Confidential: public

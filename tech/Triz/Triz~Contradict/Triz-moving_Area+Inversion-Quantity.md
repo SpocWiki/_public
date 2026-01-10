@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - moving_Area+Inversion-Quantity
 Confidential: public

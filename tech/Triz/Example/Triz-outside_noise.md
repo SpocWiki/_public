@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "outside noise"
 Confidential: public

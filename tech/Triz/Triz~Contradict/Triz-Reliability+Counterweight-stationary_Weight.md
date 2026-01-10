@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Reliability+Counterweight-stationary_Weight
 Confidential: public

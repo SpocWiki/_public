@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Speed+Extraction-generated_harm
 Confidential: public

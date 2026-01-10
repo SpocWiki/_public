@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Palestine
 - "State of Palestine"

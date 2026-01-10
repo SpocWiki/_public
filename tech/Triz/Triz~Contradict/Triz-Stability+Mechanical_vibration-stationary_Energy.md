@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Stability+Mechanical_vibration-stationary_Energy
 Confidential: public

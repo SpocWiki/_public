@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Complexity+Universality-Time-Loss
 Confidential: public

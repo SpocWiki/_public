@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "El Salvador"
 - السلفادور

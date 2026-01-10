@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Temperature+Use_of_porous_material-Difficulty
 Confidential: public

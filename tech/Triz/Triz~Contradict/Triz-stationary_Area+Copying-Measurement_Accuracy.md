@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - stationary_Area+Copying-Measurement_Accuracy
 Confidential: public

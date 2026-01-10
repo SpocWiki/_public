@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - generated_harm+Inert_environment-stationary_Duration
 Confidential: public

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Complexity+Mediator-Ease_of_operation
 Confidential: public

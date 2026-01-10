@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Ease_of_manufacture+Equipotentiality-Intensity
 Confidential: public

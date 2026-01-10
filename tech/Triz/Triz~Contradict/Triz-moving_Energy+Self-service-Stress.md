@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - moving_Energy+Self-service-Stress
 Confidential: public

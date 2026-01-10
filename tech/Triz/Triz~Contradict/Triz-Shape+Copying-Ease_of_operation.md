@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Shape+Copying-Ease_of_operation
 Confidential: public

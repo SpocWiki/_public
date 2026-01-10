@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - affected_harm+Segmentation-moving_Energy
 Confidential: public

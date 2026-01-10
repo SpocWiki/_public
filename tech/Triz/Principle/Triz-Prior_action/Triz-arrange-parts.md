@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - arrange-parts
 Confidential: public

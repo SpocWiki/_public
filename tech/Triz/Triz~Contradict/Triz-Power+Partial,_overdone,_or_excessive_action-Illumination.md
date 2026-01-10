@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Power+Partial,_overdone,_or_excessive_action-Illumination
 Confidential: public

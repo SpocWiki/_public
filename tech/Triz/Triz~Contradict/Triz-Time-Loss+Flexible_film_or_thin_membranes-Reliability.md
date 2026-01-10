@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Time-Loss+Flexible_film_or_thin_membranes-Reliability
 Confidential: public

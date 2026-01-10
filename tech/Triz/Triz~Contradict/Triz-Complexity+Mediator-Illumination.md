@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Complexity+Mediator-Illumination
 Confidential: public

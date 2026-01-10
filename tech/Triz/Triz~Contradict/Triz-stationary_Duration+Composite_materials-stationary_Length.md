@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - stationary_Duration+Composite_materials-stationary_Length
 Confidential: public

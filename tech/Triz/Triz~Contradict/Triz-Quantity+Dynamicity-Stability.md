@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Quantity+Dynamicity-Stability
 Confidential: public

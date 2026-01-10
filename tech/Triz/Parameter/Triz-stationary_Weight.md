@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "stationary Weight"
 Confidential: public

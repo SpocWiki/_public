@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - affected_harm+Composite_materials-stationary_Duration
 Confidential: public

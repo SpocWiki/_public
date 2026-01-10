@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Manufacturing_Precision+Homogeneity-moving_Area
 Confidential: public

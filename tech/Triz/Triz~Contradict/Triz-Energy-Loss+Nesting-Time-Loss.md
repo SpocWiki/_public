@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Energy-Loss+Nesting-Time-Loss
 Confidential: public

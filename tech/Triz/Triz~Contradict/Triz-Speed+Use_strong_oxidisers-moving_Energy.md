@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Speed+Use_strong_oxidisers-moving_Energy
 Confidential: public

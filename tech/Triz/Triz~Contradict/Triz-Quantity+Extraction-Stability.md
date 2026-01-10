@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Quantity+Extraction-Stability
 Confidential: public

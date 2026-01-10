@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Arches and Domes"
 Confidential: public

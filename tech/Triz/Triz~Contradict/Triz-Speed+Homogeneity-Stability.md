@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Speed+Homogeneity-Stability
 Confidential: public

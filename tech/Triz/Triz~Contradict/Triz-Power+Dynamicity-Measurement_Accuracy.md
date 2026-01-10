@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Power+Dynamicity-Measurement_Accuracy
 Confidential: public

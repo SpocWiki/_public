@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - stationary_Area+Periodic_action-stationary_Duration
 Confidential: public

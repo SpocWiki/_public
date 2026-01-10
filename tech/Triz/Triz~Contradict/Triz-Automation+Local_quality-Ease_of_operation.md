@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Automation+Local_quality-Ease_of_operation
 Confidential: public

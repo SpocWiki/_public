@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - stationary_Area+Inert_environment-Temperature
 Confidential: public

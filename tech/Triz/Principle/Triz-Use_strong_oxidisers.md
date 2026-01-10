@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Use strong oxidisers"
 copyright: "https://github.com/SpocWeb"

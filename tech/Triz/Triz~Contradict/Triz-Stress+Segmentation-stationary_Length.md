@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Stress+Segmentation-stationary_Length
 Confidential: public

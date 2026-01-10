@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Intensity+Thermal_expansion-Manufacturing_Precision
 Confidential: public

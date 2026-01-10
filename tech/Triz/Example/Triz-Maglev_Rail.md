@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Maglev Rail"
 Confidential: public

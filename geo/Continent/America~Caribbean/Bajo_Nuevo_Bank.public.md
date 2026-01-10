@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Bajo_Nuevo_Bank
 confidential: public

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Intensity+Dynamicity-Energy-Loss
 Confidential: public

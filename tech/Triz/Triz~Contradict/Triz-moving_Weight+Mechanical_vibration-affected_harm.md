@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - moving_Weight+Mechanical_vibration-affected_harm
 Confidential: public

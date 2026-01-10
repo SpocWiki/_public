@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Shape+Thermal_expansion-Intensity
 Confidential: public

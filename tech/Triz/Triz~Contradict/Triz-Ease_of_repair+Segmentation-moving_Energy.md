@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Ease_of_repair+Segmentation-moving_Energy
 Confidential: public

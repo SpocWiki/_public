@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Temperature+Universality-moving_Weight
 Confidential: public

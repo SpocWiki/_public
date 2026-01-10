@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Temperature+Rushing_through-Intensity
 Confidential: public

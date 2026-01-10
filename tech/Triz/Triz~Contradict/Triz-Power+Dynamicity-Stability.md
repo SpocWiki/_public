@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Power+Dynamicity-Stability
 Confidential: public

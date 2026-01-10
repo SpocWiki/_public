@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Ease_of_operation+Changing_the_color-Substance-Loss
 Confidential: public

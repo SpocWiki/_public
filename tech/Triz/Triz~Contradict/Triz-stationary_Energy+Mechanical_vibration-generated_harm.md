@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - stationary_Energy+Mechanical_vibration-generated_harm
 Confidential: public

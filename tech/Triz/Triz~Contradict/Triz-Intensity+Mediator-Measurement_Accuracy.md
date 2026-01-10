@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Intensity+Mediator-Measurement_Accuracy
 Confidential: public

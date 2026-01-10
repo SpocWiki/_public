@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Quantity+Spheroidality-Intensity
 Confidential: public

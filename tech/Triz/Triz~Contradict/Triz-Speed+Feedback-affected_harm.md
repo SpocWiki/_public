@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Speed+Feedback-affected_harm
 Confidential: public

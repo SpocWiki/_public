@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - moving_Energy+Spheroidality-Temperature
 Confidential: public

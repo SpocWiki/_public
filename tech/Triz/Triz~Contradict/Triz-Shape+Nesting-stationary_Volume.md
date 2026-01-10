@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Shape+Nesting-stationary_Volume
 Confidential: public

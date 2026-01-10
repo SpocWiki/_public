@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - stationary_Energy+Use_of_porous_material-Substance-Loss
 Confidential: public

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Energy-Loss+Nesting-stationary_Volume
 Confidential: public

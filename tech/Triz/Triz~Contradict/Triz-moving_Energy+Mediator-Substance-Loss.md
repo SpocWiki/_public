@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - moving_Energy+Mediator-Substance-Loss
 Confidential: public

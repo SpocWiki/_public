@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Complexity+Copying-Manufacturing_Precision
 Confidential: public

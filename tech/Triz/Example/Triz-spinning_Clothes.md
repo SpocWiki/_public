@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "spinning Clothes"
 Confidential: public

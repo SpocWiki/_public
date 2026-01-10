@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Difficulty+Replacement_of_a_mechanical_system-Ease_of_manufacture
 Confidential: public

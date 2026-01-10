@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Stress+Extraction-Energy-Loss
 Confidential: public

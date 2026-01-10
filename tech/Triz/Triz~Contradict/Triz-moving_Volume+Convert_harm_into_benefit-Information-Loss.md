@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - moving_Volume+Convert_harm_into_benefit-Information-Loss
 Confidential: public

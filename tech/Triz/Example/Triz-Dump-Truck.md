@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Dump Truck"
 Confidential: public

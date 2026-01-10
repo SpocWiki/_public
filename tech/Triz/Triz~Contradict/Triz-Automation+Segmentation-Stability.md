@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Automation+Segmentation-Stability
 Confidential: public

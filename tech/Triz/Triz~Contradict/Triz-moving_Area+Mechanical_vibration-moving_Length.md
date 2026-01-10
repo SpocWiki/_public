@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - moving_Area+Mechanical_vibration-moving_Length
 Confidential: public

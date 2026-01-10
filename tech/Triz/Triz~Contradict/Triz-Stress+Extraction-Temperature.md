@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Stress+Extraction-Temperature
 Confidential: public

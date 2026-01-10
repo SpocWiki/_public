@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Substance-Loss+Mechanical_vibration-Power
 Confidential: public

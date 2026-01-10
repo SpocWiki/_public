@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Difficulty+Equipotentiality-Ease_of_repair
 Confidential: public

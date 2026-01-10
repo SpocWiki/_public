@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "measure indirectly"
 Confidential: public

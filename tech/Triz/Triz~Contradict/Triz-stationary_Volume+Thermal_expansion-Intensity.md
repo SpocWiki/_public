@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - stationary_Volume+Thermal_expansion-Intensity
 Confidential: public

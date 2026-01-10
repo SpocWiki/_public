@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Fertilizer
 Confidential: public

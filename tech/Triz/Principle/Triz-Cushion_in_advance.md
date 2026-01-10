@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Cushion in advance"
 copyright: "https://github.com/SpocWeb"

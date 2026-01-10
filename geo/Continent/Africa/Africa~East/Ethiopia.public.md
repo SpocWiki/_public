@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Ethiopia
 - Etiopía

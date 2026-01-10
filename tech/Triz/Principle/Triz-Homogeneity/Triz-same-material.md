@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - same-material
 Confidential: public

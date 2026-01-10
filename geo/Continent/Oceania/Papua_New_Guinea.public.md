@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Papua New Guinea"
 - "Papua Nueva Guinea"

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - 22183+Convert_harm_into_benefit-10307
 Confidential: public

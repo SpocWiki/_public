@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - affected_harm+Local_quality-Shape
 Confidential: public

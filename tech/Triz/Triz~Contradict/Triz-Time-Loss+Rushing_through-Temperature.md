@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Time-Loss+Rushing_through-Temperature
 Confidential: public

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - use-balls
 Confidential: public

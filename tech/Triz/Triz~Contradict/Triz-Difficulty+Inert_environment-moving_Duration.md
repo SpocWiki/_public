@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Difficulty+Inert_environment-moving_Duration
 Confidential: public

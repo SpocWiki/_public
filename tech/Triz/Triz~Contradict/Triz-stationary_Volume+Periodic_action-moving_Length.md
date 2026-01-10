@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - stationary_Volume+Periodic_action-moving_Length
 Confidential: public

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Complexity+Dynamicity-moving_Duration
 Confidential: public

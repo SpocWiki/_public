@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Shape+Inversion-Illumination
 Confidential: public

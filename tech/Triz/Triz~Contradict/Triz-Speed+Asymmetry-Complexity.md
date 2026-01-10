@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Speed+Asymmetry-Complexity
 Confidential: public

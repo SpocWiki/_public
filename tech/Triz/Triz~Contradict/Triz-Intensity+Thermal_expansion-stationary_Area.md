@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Intensity+Thermal_expansion-stationary_Area
 Confidential: public

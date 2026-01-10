@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - moving_Length+Moving_to_a_new_dimension-affected_harm
 Confidential: public

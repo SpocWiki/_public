@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "multiple diagnostic"
 Confidential: public

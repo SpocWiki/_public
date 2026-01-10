@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "ultrasonic Mixing"
 Confidential: public

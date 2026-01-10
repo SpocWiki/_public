@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - use-pauses
 Confidential: public

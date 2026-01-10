@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "disposable Paper Objects"
 Confidential: public

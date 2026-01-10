@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - 10307+22229-Energy-Loss
 Confidential: public

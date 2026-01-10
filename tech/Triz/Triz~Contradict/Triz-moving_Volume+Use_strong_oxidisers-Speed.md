@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - moving_Volume+Use_strong_oxidisers-Speed
 Confidential: public

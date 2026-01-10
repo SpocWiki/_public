@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Asymmetry
 copyright: "https://github.com/SpocWeb"

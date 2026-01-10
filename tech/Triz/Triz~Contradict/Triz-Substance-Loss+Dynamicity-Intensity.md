@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Substance-Loss+Dynamicity-Intensity
 Confidential: public

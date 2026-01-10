@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Empty by inverting"
 Confidential: public

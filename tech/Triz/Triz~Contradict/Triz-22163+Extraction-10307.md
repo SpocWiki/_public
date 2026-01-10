@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - 22163+Extraction-10307
 Confidential: public

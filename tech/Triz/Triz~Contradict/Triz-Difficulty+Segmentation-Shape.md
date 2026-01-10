@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Difficulty+Segmentation-Shape
 Confidential: public

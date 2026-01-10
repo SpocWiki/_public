@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Reliability+Composite_materials-generated_harm
 Confidential: public

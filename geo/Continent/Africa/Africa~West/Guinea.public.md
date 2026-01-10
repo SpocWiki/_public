@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Guinea
 - Guinée

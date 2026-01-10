@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Quantity+Counterweight-Automation
 Confidential: public

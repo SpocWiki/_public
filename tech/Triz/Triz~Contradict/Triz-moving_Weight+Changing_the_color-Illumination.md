@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - moving_Weight+Changing_the_color-Illumination
 Confidential: public

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Power+Composite_materials-Shape
 Confidential: public

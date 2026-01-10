@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Energy-Loss+Prior_counteracion-stationary_Weight
 Confidential: public

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - affected_harm+Rejecting_and_regenerating_parts-stationary_Volume
 Confidential: public

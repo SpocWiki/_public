@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Combining (Integration)"
 copyright: "https://github.com/SpocWeb"

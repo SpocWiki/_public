@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - merge-in-space
 Confidential: public

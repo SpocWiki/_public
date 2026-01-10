@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Pencil with Eraser"
 Confidential: public

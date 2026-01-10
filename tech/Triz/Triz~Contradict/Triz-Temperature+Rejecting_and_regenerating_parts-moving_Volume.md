@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Temperature+Rejecting_and_regenerating_parts-moving_Volume
 Confidential: public

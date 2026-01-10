@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - moving_Duration+Rushing_through-generated_harm
 Confidential: public

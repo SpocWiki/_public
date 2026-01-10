@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Shape+Local_quality-Substance-Loss
 Confidential: public

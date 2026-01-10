@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - moving_Volume+Composite_materials-Ease_of_manufacture
 Confidential: public

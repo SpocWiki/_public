@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - stationary_Weight+Moving_to_a_new_dimension-Manufacturing_Precision
 Confidential: public

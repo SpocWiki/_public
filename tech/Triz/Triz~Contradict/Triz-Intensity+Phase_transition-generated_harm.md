@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Intensity+Phase_transition-generated_harm
 Confidential: public

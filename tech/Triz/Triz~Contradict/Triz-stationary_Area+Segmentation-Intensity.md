@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - stationary_Area+Segmentation-Intensity
 Confidential: public

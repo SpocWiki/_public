@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Complexity+Extraction-moving_Energy
 Confidential: public

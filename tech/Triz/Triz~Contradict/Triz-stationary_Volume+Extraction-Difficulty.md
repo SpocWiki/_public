@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - stationary_Volume+Extraction-Difficulty
 Confidential: public

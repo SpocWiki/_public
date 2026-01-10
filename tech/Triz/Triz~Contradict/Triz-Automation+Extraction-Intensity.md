@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Automation+Extraction-Intensity
 Confidential: public

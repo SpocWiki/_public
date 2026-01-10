@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Bolivia
 - "Bolivia (Plurinational State of)"

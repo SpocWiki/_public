@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Difficulty+Mediator-Substance-Loss
 Confidential: public

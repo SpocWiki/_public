@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Power+Use_strong_oxidisers-Energy-Loss
 Confidential: public

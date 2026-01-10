@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "ultrasonic Destruction"
 Confidential: public

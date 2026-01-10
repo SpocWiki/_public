@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - generated_harm+Extraction-Stress
 Confidential: public

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Buffer Solution"
 Confidential: public

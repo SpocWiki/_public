@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "U.S. Outlying Islands"
 - "United States Minor Outlying Islands"

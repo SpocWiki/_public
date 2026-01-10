@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Illumination+Prior_action-Automation
 Confidential: public

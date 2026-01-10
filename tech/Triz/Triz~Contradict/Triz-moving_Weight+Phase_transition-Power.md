@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - moving_Weight+Phase_transition-Power
 Confidential: public

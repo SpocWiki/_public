@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Reliability+Mediator-Versatility
 Confidential: public

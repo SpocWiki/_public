@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Western Sahara"
 - "Sáhara Occidental"

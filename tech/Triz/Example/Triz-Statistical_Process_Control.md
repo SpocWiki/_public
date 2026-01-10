@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Statistical Process Control"
 Confidential: public

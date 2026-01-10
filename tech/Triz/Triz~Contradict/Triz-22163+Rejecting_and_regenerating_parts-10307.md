@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - 22163+Rejecting_and_regenerating_parts-10307
 Confidential: public

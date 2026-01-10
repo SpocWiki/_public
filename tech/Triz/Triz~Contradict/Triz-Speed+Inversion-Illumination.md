@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Speed+Inversion-Illumination
 Confidential: public

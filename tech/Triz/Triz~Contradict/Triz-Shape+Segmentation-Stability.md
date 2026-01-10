@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Shape+Segmentation-Stability
 Confidential: public

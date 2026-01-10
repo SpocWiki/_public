@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Versatility+Nesting-Ease_of_repair
 Confidential: public

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - inert-environment
 Confidential: public

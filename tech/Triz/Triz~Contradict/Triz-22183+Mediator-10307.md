@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - 22183+Mediator-10307
 Confidential: public

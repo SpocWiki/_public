@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "high Speed Operation"
 Confidential: public

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Convert harm into benefit"
 copyright: "https://github.com/SpocWeb"

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - moving_Duration+Prior_counteracion-moving_Length
 Confidential: public

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "3D Mouse"
 Confidential: public

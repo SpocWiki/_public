@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Measure Shadow"
 Confidential: public

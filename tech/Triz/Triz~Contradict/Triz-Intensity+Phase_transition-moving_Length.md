@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Intensity+Phase_transition-moving_Length
 Confidential: public

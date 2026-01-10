@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - moving_Area+Partial,_overdone,_or_excessive_action-Temperature
 Confidential: public

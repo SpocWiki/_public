@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Quantity+Extraction-stationary_Area
 Confidential: public

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Power+Prior_action-moving_Duration
 Confidential: public

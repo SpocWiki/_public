@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - stationary_Duration+Prior_action-Measurement_Accuracy
 Confidential: public

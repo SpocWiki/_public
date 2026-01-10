@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Ease_of_operation+Self-service-Measurement_Accuracy
 Confidential: public

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Intensity+Inversion-stationary_Weight
 Confidential: public

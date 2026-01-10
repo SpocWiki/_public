@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - moving_Duration+Copying-Shape
 Confidential: public

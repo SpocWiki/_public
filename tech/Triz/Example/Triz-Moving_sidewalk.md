@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Moving sidewalk"
 Confidential: public

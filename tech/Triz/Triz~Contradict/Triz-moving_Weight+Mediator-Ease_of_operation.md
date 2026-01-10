@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - moving_Weight+Mediator-Ease_of_operation
 Confidential: public

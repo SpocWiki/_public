@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Ease_of_repair+Prior_action-Quantity
 Confidential: public

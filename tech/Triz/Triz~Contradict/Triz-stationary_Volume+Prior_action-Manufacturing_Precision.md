@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - stationary_Volume+Prior_action-Manufacturing_Precision
 Confidential: public

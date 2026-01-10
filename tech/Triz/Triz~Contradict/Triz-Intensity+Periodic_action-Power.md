@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Intensity+Periodic_action-Power
 Confidential: public

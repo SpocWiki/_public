@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - curved-shape
 Confidential: public

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - 10307+14821-Ease_of_operation
 Confidential: public

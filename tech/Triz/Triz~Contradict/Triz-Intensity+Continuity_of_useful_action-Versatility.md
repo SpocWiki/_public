@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Intensity+Continuity_of_useful_action-Versatility
 Confidential: public

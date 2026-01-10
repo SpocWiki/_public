@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Multi-Tool
 Confidential: public

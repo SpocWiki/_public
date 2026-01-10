@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Intensity+Mechanical_vibration-Power
 Confidential: public

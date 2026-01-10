@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Quantity+Mechanical_vibration-stationary_Area
 Confidential: public

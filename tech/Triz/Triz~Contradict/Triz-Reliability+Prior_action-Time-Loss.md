@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Reliability+Prior_action-Time-Loss
 Confidential: public

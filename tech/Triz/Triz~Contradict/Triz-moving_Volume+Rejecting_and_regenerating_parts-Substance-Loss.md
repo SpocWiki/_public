@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - moving_Volume+Rejecting_and_regenerating_parts-Substance-Loss
 Confidential: public

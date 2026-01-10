@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Temperature+Composite_materials-moving_Volume
 Confidential: public

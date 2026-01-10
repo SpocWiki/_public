@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Information-Loss+Convert_harm_into_benefit-Ease_of_operation
 Confidential: public

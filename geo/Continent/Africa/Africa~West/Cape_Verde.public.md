@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Cape Verde"
 - "Cabo Verde"

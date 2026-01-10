@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Ice Structures"
 Confidential: public

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Time-Loss+Inert_environment-generated_harm
 Confidential: public

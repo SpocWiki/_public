@@ -1,4 +1,4 @@
-﻿---
+---
 enableToc: true
 title: SpocWiki
 ---

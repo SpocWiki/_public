@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Reliability+Cushion_in_advance-Automation
 Confidential: public

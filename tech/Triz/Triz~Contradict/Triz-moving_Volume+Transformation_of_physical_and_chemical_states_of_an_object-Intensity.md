@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - moving_Volume+Transformation_of_physical_and_chemical_states_of_an_object-Intensity
 Confidential: public

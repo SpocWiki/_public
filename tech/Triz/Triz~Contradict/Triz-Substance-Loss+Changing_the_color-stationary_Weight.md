@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Substance-Loss+Changing_the_color-stationary_Weight
 Confidential: public

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Energy-Loss+Prior_action-Information-Loss
 Confidential: public

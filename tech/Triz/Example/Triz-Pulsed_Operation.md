@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Pulsed Operation"
 Confidential: public

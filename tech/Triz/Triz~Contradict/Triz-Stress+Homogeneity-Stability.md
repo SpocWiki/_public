@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Stress+Homogeneity-Stability
 Confidential: public

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Ease_of_manufacture+Phase_transition-stationary_Weight
 Confidential: public

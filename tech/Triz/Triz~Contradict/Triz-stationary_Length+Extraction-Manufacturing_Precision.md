@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - stationary_Length+Extraction-Manufacturing_Precision
 Confidential: public

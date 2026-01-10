@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - moving_Energy+Prior_counteracion-Strength
 Confidential: public

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Faroe Islands"
 - "Islas Feroe"

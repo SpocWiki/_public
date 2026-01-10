@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Temperature+Changing_the_color-Measurement_Accuracy
 Confidential: public

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Power+Inversion-stationary_Area
 Confidential: public

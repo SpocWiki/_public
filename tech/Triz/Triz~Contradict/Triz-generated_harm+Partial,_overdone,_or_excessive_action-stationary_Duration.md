@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - generated_harm+Partial,_overdone,_or_excessive_action-stationary_Duration
 Confidential: public

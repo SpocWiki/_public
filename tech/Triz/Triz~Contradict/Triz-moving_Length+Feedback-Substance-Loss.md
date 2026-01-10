@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - moving_Length+Feedback-Substance-Loss
 Confidential: public

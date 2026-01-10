@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Speed+Spheroidality-Strength
 Confidential: public

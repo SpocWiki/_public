@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Mediator
 copyright: "https://github.com/SpocWeb"

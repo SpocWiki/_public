@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Temperature+Transformation_of_physical_and_chemical_states_of_an_object-moving_Area
 Confidential: public

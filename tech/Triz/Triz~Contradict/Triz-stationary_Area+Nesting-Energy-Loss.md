@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - stationary_Area+Nesting-Energy-Loss
 Confidential: public

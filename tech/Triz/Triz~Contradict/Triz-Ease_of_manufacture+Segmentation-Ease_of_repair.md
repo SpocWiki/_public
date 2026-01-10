@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Ease_of_manufacture+Segmentation-Ease_of_repair
 Confidential: public

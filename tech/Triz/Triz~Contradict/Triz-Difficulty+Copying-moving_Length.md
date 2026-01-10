@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Difficulty+Copying-moving_Length
 Confidential: public

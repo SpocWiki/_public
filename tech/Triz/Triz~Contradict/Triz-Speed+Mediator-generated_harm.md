@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Speed+Mediator-generated_harm
 Confidential: public

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Complexity+Partial,_overdone,_or_excessive_action-Intensity
 Confidential: public

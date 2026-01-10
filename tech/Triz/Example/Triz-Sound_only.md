@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Sound only"
 Confidential: public

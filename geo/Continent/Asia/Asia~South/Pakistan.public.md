@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Pakistan
 - Pakistán

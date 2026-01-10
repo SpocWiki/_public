@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Manufacturing_Precision+Prior_action-Substance-Loss
 Confidential: public

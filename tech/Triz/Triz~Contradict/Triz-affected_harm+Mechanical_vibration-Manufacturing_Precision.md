@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - affected_harm+Mechanical_vibration-Manufacturing_Precision
 Confidential: public

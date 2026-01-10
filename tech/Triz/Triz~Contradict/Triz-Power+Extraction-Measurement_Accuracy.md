@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Power+Extraction-Measurement_Accuracy
 Confidential: public

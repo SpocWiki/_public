@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Reliability+Extraction-affected_harm
 Confidential: public

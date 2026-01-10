@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - moving_Area+Homogeneity-affected_harm
 Confidential: public

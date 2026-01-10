@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Shape+Segmentation-affected_harm
 Confidential: public

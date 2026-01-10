@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Energy-Loss+Dynamicity-Difficulty
 Confidential: public

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - affected_harm+Self-service-Ease_of_operation
 Confidential: public

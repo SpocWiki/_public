@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Difficulty+Use_a_pneumatic_or_hydralic_construction-moving_Duration
 Confidential: public

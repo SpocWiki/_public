@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Stress+Prior_counteracion-Strength
 Confidential: public

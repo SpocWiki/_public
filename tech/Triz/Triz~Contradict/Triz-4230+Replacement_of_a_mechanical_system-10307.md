@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - 4230+Replacement_of_a_mechanical_system-10307
 Confidential: public

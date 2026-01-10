@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - affected_harm+Prior_action-stationary_Energy
 Confidential: public

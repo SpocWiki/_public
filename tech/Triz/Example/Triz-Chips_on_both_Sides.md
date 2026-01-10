@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Chips on both Sides"
 Confidential: public

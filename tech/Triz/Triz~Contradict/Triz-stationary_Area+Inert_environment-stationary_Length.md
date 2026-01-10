@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - stationary_Area+Inert_environment-stationary_Length
 Confidential: public

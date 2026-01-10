@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Difficulty+Homogeneity-Information-Loss
 Confidential: public

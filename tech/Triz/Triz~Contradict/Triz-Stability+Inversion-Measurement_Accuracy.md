@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Stability+Inversion-Measurement_Accuracy
 Confidential: public

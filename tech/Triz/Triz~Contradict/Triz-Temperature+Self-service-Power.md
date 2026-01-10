@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Temperature+Self-service-Power
 Confidential: public

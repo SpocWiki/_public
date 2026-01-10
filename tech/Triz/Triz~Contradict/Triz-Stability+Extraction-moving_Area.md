@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Stability+Extraction-moving_Area
 Confidential: public

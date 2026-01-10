@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Shape+Inversion-stationary_Length
 Confidential: public

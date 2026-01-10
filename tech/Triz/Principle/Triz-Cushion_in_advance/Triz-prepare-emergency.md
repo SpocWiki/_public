@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - prepare-emergency
 Confidential: public

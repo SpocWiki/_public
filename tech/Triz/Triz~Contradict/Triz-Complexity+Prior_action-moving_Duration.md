@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Complexity+Prior_action-moving_Duration
 Confidential: public

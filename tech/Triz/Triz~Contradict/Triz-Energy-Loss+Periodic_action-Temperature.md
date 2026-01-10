@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Energy-Loss+Periodic_action-Temperature
 Confidential: public

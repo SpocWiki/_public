@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - affected_harm+Copying-Measurement_Accuracy
 Confidential: public

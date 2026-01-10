@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Thermal expansion"
 copyright: "https://github.com/SpocWeb"

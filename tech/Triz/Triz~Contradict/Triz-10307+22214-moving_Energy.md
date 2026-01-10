@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - 10307+22214-moving_Energy
 Confidential: public

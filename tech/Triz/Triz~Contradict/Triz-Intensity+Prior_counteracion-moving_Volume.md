@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Intensity+Prior_counteracion-moving_Volume
 Confidential: public

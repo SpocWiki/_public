@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Speed
 Confidential: public

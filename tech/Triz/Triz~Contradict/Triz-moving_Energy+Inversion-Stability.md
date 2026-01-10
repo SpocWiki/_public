@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - moving_Energy+Inversion-Stability
 Confidential: public

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Netherlands
 - "Países Bajos"

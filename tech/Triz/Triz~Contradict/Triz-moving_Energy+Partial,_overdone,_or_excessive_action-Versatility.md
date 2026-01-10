@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - moving_Energy+Partial,_overdone,_or_excessive_action-Versatility
 Confidential: public

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Ease_of_operation+Inert_environment-affected_harm
 Confidential: public

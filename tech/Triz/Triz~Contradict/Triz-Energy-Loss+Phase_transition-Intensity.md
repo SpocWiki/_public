@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Energy-Loss+Phase_transition-Intensity
 Confidential: public

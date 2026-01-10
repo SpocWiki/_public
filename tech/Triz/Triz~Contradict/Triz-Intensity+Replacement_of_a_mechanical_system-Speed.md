@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Intensity+Replacement_of_a_mechanical_system-Speed
 Confidential: public

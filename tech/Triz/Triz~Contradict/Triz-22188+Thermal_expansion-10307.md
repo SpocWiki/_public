@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - 22188+Thermal_expansion-10307
 Confidential: public

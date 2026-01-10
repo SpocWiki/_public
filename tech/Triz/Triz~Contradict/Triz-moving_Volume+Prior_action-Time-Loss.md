@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - moving_Volume+Prior_action-Time-Loss
 Confidential: public

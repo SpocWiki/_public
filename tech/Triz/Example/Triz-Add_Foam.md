@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Add Foam"
 Confidential: public

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - stationary_Area+Dynamicity-Stress
 Confidential: public

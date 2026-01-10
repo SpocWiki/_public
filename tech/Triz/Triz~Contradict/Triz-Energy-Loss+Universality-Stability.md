@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Energy-Loss+Universality-Stability
 Confidential: public

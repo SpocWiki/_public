@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Mulching lawnmower"
 Confidential: public

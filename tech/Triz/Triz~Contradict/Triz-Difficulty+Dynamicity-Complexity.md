@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Difficulty+Dynamicity-Complexity
 Confidential: public

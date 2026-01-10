@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Timor-Leste
 - "تيمور- ليشتي"

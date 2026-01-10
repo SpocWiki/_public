@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Versatility+Segmentation-Measurement_Accuracy
 Confidential: public

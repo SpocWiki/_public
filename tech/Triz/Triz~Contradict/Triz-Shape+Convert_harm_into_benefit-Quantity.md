@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Shape+Convert_harm_into_benefit-Quantity
 Confidential: public

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - moving_Length+Changing_the_color-Measurement_Accuracy
 Confidential: public

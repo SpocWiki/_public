@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Energy-Loss+Periodic_action-stationary_Weight
 Confidential: public

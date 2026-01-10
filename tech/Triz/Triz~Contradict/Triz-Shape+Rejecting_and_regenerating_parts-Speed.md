@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Shape+Rejecting_and_regenerating_parts-Speed
 Confidential: public

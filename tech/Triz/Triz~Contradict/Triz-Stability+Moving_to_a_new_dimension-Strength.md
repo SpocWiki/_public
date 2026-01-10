@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Stability+Moving_to_a_new_dimension-Strength
 Confidential: public

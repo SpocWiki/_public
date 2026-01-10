@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Reliability+Phase_transition-stationary_Energy
 Confidential: public

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Difficulty+Combining_(Integration)-Ease_of_operation
 Confidential: public

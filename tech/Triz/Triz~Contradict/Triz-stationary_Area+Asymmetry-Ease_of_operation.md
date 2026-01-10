@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - stationary_Area+Asymmetry-Ease_of_operation
 Confidential: public

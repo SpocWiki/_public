@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Stability+Counterweight-Automation
 Confidential: public

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - stationary_Energy+Extraction-Illumination
 Confidential: public

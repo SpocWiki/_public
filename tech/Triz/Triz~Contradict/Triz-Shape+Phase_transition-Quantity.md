@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Shape+Phase_transition-Quantity
 Confidential: public

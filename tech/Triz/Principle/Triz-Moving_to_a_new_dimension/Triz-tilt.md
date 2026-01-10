@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - tilt
 Confidential: public

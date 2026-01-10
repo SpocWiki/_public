@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - break-symmetry
 Confidential: public

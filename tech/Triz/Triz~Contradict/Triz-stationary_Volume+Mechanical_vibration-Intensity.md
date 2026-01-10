@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - stationary_Volume+Mechanical_vibration-Intensity
 Confidential: public

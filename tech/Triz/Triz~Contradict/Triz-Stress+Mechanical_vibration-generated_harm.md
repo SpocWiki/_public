@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Stress+Mechanical_vibration-generated_harm
 Confidential: public

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Versatility+Universality-Illumination
 Confidential: public

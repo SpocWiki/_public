@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - thermal-expansion
 Confidential: public

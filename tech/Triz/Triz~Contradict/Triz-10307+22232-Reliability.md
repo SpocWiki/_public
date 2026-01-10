@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - 10307+22232-Reliability
 Confidential: public

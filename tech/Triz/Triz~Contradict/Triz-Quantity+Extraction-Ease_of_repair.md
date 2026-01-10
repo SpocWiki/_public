@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Quantity+Extraction-Ease_of_repair
 Confidential: public

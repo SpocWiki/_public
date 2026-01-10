@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "directed Radiation"
 Confidential: public

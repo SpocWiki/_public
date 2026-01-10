@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Stacked Circuits"
 Confidential: public

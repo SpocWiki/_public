@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Vibrate for flow"
 Confidential: public

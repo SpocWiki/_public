@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Difficulty+Extraction-generated_harm
 Confidential: public

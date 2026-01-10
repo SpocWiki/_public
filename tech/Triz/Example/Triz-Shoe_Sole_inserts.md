@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Shoe Sole inserts"
 Confidential: public

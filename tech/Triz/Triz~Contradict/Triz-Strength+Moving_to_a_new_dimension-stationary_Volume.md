@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Strength+Moving_to_a_new_dimension-stationary_Volume
 Confidential: public

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Automation+Changing_the_color-Reliability
 Confidential: public

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Versatility+Segmentation-Ease_of_operation
 Confidential: public

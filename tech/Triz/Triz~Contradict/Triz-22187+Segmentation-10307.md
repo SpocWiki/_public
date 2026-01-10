@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - 22187+Segmentation-10307
 Confidential: public

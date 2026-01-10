@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Temperature+Extraction-Automation
 Confidential: public

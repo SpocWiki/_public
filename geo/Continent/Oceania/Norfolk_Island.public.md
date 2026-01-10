@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Norfolk Island"
 - "Islas Norfolk"

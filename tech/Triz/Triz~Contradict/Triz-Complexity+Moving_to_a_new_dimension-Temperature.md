@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Complexity+Moving_to_a_new_dimension-Temperature
 Confidential: public

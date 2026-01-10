@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Audio Seminar"
 Confidential: public

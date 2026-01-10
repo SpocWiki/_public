@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Equipotentiality
 copyright: "https://github.com/SpocWeb"

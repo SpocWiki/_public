@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Moldova
 - "Republic of Moldova"

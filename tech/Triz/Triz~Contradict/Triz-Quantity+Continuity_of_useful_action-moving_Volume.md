@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Quantity+Continuity_of_useful_action-moving_Volume
 Confidential: public

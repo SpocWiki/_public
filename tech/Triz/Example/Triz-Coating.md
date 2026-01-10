@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Coating
 Confidential: public

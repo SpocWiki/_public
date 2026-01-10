@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Shape+Spheroidality-Stress
 Confidential: public

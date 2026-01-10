@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Illumination+Segmentation-moving_Energy
 Confidential: public

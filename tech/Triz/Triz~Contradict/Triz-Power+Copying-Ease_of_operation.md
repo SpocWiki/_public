@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Power+Copying-Ease_of_operation
 Confidential: public

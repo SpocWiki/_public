@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "French Southern Territories"
 - "Territorio de las Tierras Australes Francesas"

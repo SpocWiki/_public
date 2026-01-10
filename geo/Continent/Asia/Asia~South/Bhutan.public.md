@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Bhutan
 - Bhután

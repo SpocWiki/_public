@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Time-Loss+Combining_(Integration)-stationary_Length
 Confidential: public

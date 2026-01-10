@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Stability+Spheroidality-Energy-Loss
 Confidential: public

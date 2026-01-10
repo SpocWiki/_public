@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Time-Loss+Mediator-stationary_Length
 Confidential: public

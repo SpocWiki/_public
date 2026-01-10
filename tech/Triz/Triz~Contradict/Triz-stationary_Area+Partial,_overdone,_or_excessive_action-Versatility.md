@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - stationary_Area+Partial,_overdone,_or_excessive_action-Versatility
 Confidential: public

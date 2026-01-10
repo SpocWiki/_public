@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "generated harm"
 Confidential: public

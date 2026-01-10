@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - stationary_Weight+Self-service-Difficulty
 Confidential: public

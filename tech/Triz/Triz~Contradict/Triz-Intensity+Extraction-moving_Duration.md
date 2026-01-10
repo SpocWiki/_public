@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Intensity+Extraction-moving_Duration
 Confidential: public

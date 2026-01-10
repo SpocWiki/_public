@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Cardio-Pulmonary Respiration"
 Confidential: public

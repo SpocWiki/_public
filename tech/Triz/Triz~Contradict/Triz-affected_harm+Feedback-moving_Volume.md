@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - affected_harm+Feedback-moving_Volume
 Confidential: public

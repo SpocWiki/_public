@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Partial, overdone, or excessive action"
 copyright: "https://github.com/SpocWeb"

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Ease_of_repair+Segmentation-Time-Loss
 Confidential: public

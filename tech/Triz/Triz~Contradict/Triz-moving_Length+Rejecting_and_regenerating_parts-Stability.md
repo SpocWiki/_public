@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - moving_Length+Rejecting_and_regenerating_parts-Stability
 Confidential: public

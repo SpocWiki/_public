@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Quantity+Partial,_overdone,_or_excessive_action-moving_Energy
 Confidential: public

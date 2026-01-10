@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Stress+Prior_action-Shape
 Confidential: public

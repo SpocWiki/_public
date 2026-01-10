@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Difficulty+Asymmetry-moving_Volume
 Confidential: public

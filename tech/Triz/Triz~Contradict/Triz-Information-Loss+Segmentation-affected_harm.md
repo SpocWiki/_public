@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Information-Loss+Segmentation-affected_harm
 Confidential: public

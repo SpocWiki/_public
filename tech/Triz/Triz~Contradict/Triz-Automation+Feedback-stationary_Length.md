@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Automation+Feedback-stationary_Length
 Confidential: public

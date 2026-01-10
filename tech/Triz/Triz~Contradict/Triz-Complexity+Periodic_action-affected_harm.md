@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Complexity+Periodic_action-affected_harm
 Confidential: public

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Sierra Leone"
 - "Sierra Leona"

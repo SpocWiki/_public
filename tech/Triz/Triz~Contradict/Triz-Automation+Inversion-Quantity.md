@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Automation+Inversion-Quantity
 Confidential: public

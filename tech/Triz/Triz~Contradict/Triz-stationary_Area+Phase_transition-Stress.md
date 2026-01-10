@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - stationary_Area+Phase_transition-Stress
 Confidential: public

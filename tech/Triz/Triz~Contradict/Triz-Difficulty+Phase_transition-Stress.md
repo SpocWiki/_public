@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Difficulty+Phase_transition-Stress
 Confidential: public

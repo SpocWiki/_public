@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - stationary_Area+Flexible_film_or_thin_membranes-stationary_Weight
 Confidential: public

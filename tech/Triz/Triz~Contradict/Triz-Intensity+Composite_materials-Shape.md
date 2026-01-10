@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Intensity+Composite_materials-Shape
 Confidential: public

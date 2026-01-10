@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Counterweight
 copyright: "https://github.com/SpocWeb"

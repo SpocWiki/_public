@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - moving_Area+Copying-Energy-Loss
 Confidential: public

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - use-optical-copies
 Confidential: public

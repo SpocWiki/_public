@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "use both directions"
 Confidential: public

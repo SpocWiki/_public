@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Versatility+Extraction-Substance-Loss
 Confidential: public

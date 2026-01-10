@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Substance-Loss+Extraction-moving_Area
 Confidential: public

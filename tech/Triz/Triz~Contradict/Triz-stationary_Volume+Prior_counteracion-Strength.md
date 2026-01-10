@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - stationary_Volume+Prior_counteracion-Strength
 Confidential: public

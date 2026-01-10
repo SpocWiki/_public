@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Speed+Prior_action-Manufacturing_Precision
 Confidential: public

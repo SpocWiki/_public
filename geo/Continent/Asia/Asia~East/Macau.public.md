@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Macau
 - "China, Macao Special Administrative Region"

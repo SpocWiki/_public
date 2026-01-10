@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Temperature+Mediator-Measurement_Accuracy
 Confidential: public

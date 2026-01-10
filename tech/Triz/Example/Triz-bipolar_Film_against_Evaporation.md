@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "bipolar Film against Evaporation"
 Confidential: public

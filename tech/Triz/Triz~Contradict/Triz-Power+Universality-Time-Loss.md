@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Power+Universality-Time-Loss
 Confidential: public

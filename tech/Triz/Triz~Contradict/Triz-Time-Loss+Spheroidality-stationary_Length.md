@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Time-Loss+Spheroidality-stationary_Length
 Confidential: public

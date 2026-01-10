@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Stability+Periodic_action-Ease_of_manufacture
 Confidential: public

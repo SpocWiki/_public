@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Intensity+Equipotentiality-moving_Volume
 Confidential: public

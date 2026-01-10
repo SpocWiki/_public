@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - moving_Volume+Dynamicity-Ease_of_operation
 Confidential: public

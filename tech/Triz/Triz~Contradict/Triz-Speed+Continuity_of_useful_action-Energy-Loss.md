@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Speed+Continuity_of_useful_action-Energy-Loss
 Confidential: public

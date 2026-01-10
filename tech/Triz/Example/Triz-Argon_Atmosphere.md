@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Argon Atmosphere"
 Confidential: public

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Substance-Loss+Prior_action-Versatility
 Confidential: public

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - move-in-space
 Confidential: public

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Speed+Dynamicity-Shape
 Confidential: public

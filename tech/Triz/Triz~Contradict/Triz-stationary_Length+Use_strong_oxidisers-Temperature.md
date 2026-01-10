@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - stationary_Length+Use_strong_oxidisers-Temperature
 Confidential: public

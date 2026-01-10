@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Illumination+Inversion-moving_Volume
 Confidential: public

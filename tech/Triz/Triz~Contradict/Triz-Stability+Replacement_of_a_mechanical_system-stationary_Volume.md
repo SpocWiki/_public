@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Stability+Replacement_of_a_mechanical_system-stationary_Volume
 Confidential: public

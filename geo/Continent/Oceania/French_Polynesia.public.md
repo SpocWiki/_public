@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "French Polynesia"
 - "Polinesia Francesa"

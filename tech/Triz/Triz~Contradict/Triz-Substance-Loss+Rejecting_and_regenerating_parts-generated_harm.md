@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Substance-Loss+Rejecting_and_regenerating_parts-generated_harm
 Confidential: public

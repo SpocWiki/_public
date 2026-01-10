@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Russia
 - "Russian Federation"

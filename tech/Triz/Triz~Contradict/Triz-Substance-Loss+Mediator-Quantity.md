@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Substance-Loss+Mediator-Quantity
 Confidential: public

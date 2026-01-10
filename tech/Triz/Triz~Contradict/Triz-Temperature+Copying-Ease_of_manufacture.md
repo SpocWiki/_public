@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Temperature+Copying-Ease_of_manufacture
 Confidential: public

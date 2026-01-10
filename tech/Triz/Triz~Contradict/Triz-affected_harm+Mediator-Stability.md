@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - affected_harm+Mediator-Stability
 Confidential: public

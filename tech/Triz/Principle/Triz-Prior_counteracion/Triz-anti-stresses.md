@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - anti-stresses
 Confidential: public

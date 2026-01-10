@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Speed+Rejecting_and_regenerating_parts-Complexity
 Confidential: public

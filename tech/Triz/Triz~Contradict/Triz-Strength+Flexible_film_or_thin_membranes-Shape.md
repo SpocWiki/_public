@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Strength+Flexible_film_or_thin_membranes-Shape
 Confidential: public

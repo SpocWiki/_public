@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - stationary_Volume+Inert_environment-affected_harm
 Confidential: public

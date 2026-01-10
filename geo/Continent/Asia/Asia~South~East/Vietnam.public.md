@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Vietnam
 - "Viet Nam"

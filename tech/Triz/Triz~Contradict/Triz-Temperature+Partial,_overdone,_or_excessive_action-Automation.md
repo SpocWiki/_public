@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Temperature+Partial,_overdone,_or_excessive_action-Automation
 Confidential: public

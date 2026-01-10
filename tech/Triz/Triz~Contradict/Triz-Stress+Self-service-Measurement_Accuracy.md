@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Stress+Self-service-Measurement_Accuracy
 Confidential: public

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - 22181+Changing_the_color-10307
 Confidential: public

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Intensity+Segmentation-stationary_Energy
 Confidential: public

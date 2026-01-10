@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - 10307+22224-stationary_Length
 Confidential: public

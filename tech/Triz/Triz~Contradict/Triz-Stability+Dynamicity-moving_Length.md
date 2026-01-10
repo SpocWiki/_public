@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Stability+Dynamicity-moving_Length
 Confidential: public

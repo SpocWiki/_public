@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - moving_Length+Segmentation-Information-Loss
 Confidential: public

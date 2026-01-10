@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Speed+Segmentation-affected_harm
 Confidential: public

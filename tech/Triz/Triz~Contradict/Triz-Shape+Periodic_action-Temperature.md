@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Shape+Periodic_action-Temperature
 Confidential: public

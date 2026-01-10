@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Hydrofoils
 Confidential: public

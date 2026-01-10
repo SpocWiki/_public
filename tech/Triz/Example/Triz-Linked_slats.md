@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Linked slats"
 Confidential: public

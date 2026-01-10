@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Speed+Periodic_action-Energy-Loss
 Confidential: public

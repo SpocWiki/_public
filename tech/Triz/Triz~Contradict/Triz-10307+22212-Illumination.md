@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - 10307+22212-Illumination
 Confidential: public

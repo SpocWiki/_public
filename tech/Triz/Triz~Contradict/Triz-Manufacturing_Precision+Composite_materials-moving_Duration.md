@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Manufacturing_Precision+Composite_materials-moving_Duration
 Confidential: public

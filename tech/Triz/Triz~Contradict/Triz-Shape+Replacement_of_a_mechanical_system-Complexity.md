@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Shape+Replacement_of_a_mechanical_system-Complexity
 Confidential: public

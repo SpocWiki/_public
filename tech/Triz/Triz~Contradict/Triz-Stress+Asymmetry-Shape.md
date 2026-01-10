@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Stress+Asymmetry-Shape
 Confidential: public

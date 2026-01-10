@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - moving_Energy+Dynamicity-Ease_of_repair
 Confidential: public

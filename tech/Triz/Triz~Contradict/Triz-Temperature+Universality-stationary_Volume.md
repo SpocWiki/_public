@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Temperature+Universality-stationary_Volume
 Confidential: public

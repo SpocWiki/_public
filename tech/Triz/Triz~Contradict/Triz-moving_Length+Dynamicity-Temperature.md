@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - moving_Length+Dynamicity-Temperature
 Confidential: public

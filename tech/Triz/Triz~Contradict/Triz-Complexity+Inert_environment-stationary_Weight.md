@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Complexity+Inert_environment-stationary_Weight
 Confidential: public

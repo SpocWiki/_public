@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Shape+Mechanical_vibration-Speed
 Confidential: public

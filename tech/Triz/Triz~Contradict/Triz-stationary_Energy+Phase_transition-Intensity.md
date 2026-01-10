@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - stationary_Energy+Phase_transition-Intensity
 Confidential: public

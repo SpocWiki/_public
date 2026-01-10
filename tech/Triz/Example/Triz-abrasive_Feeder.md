@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "abrasive Feeder"
 Confidential: public

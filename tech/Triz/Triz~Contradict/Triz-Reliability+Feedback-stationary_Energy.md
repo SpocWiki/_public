@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Reliability+Feedback-stationary_Energy
 Confidential: public

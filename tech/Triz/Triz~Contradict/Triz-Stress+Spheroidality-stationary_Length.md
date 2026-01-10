@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Stress+Spheroidality-stationary_Length
 Confidential: public

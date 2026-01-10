@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Intensity+Moving_to_a_new_dimension-Versatility
 Confidential: public

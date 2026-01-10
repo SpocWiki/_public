@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Shape+Dynamicity-Automation
 Confidential: public

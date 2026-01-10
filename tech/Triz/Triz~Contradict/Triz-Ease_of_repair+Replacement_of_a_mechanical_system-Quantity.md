@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Ease_of_repair+Replacement_of_a_mechanical_system-Quantity
 Confidential: public

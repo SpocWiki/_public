@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - affected_harm+Inversion-Illumination
 Confidential: public

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - generated_harm+Convert_harm_into_benefit-Strength
 Confidential: public

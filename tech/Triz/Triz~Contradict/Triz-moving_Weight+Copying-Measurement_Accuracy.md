@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - moving_Weight+Copying-Measurement_Accuracy
 Confidential: public

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Temperature+Local_quality-moving_Area
 Confidential: public

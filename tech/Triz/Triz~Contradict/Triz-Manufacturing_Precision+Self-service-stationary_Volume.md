@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Manufacturing_Precision+Self-service-stationary_Volume
 Confidential: public

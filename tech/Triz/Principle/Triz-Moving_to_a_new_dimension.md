@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Moving to a new dimension"
 copyright: "https://github.com/SpocWeb"

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Substance-Loss+Composite_materials-Stability
 Confidential: public

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Information-Loss+Copying-Speed
 Confidential: public

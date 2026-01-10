@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Temperature+Dynamicity-moving_Energy
 Confidential: public

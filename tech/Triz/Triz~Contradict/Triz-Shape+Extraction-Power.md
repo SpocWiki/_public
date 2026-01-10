@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Shape+Extraction-Power
 Confidential: public

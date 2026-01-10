@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Quantity+Inversion-Measurement_Accuracy
 Confidential: public

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Skillets
 Confidential: public

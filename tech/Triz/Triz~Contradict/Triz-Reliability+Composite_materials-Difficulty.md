@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Reliability+Composite_materials-Difficulty
 Confidential: public

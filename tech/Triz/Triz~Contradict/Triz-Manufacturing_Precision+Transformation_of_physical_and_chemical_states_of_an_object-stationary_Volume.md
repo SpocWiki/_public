@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Manufacturing_Precision+Transformation_of_physical_and_chemical_states_of_an_object-stationary_Volume
 Confidential: public

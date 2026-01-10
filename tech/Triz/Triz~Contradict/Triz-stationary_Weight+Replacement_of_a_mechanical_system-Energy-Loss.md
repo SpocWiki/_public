@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - stationary_Weight+Replacement_of_a_mechanical_system-Energy-Loss
 Confidential: public

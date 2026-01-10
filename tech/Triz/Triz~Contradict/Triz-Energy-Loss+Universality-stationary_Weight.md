@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Energy-Loss+Universality-stationary_Weight
 Confidential: public

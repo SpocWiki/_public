@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Adjustable Controls"
 Confidential: public

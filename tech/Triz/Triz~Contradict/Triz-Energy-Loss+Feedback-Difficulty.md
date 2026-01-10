@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Energy-Loss+Feedback-Difficulty
 Confidential: public

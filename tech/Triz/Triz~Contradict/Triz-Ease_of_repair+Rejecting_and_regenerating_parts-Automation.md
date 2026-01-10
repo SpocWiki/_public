@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Ease_of_repair+Rejecting_and_regenerating_parts-Automation
 Confidential: public

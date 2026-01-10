@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Reliability
 Confidential: public

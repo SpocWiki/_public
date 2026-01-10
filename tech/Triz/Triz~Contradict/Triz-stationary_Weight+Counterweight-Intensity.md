@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - stationary_Weight+Counterweight-Intensity
 Confidential: public

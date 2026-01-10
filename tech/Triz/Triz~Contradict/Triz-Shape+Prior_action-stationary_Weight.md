@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Shape+Prior_action-stationary_Weight
 Confidential: public

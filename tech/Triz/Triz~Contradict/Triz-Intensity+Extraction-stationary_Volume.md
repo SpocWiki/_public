@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Intensity+Extraction-stationary_Volume
 Confidential: public

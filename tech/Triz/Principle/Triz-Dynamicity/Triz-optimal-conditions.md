@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - optimal-conditions
 Confidential: public

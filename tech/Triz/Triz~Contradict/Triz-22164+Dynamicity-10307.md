@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - 22164+Dynamicity-10307
 Confidential: public

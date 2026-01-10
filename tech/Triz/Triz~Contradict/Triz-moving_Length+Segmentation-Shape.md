@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - moving_Length+Segmentation-Shape
 Confidential: public

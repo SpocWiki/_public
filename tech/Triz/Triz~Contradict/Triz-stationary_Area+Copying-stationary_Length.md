@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - stationary_Area+Copying-stationary_Length
 Confidential: public

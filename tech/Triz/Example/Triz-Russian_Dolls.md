@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Russian Dolls"
 Confidential: public

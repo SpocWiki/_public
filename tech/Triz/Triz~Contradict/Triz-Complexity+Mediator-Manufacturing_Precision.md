@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Complexity+Mediator-Manufacturing_Precision
 Confidential: public

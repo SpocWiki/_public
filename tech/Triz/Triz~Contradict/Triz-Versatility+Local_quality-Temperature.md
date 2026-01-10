@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Versatility+Local_quality-Temperature
 Confidential: public

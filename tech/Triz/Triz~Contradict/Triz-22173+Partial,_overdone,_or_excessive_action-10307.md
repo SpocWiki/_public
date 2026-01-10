@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - 22173+Partial,_overdone,_or_excessive_action-10307
 Confidential: public

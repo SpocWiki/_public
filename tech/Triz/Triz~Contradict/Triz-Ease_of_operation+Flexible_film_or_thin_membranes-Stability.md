@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Ease_of_operation+Flexible_film_or_thin_membranes-Stability
 Confidential: public

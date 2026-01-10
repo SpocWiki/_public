@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Strength+Composite_materials-Temperature
 Confidential: public

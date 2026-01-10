@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Quantity+Mediator-Information-Loss
 Confidential: public

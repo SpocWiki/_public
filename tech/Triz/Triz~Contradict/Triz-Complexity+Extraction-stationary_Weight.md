@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Complexity+Extraction-stationary_Weight
 Confidential: public

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Reliability+Rushing_through-moving_Energy
 Confidential: public

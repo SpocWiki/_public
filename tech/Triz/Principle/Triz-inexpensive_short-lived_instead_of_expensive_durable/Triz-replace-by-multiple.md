@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - replace-by-multiple
 Confidential: public

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Intensity+Spheroidality-Energy-Loss
 Confidential: public

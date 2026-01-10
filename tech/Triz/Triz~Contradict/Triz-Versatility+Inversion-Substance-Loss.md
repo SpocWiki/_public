@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Versatility+Inversion-Substance-Loss
 Confidential: public

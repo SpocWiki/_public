@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Complexity+Mediator-moving_Length
 Confidential: public

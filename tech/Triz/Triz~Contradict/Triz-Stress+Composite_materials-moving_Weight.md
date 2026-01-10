@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Stress+Composite_materials-moving_Weight
 Confidential: public

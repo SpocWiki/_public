@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Self-service
 copyright: "https://github.com/SpocWeb"

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - moving_Weight+Segmentation-Stability
 Confidential: public

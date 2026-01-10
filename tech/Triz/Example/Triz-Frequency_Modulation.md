@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Frequency Modulation"
 Confidential: public

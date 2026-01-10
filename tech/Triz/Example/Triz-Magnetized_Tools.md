@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Magnetized Tools"
 Confidential: public

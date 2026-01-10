@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - affected_harm+Feedback-Measurement_Accuracy
 Confidential: public

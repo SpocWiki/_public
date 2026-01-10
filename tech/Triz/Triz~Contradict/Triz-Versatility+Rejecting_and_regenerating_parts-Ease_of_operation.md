@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Versatility+Rejecting_and_regenerating_parts-Ease_of_operation
 Confidential: public

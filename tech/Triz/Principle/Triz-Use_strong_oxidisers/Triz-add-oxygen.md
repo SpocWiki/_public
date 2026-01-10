@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - add-oxygen
 Confidential: public

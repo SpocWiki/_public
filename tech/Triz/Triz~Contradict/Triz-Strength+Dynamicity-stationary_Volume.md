@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Strength+Dynamicity-stationary_Volume
 Confidential: public

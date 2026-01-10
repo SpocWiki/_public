@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Substance-Loss+Extraction-Ease_of_repair
 Confidential: public

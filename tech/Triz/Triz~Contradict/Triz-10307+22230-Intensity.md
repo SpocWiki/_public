@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - 10307+22230-Intensity
 Confidential: public

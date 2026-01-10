@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Manufacturing_Precision+Phase_transition-stationary_Area
 Confidential: public

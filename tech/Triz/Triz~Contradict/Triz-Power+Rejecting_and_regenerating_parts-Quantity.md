@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Power+Rejecting_and_regenerating_parts-Quantity
 Confidential: public

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Turkey
 - Turquía

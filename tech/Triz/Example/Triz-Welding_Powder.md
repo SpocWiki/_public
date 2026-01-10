@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Welding Powder"
 Confidential: public

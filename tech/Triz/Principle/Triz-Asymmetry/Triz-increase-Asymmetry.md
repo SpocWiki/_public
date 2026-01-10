@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - increase-Asymmetry
 Confidential: public

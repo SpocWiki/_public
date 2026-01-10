@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Rear Wing"
 Confidential: public

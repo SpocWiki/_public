@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Curie Point"
 Confidential: public

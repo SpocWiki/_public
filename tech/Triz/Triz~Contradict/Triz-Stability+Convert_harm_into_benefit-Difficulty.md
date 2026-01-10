@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Stability+Convert_harm_into_benefit-Difficulty
 Confidential: public

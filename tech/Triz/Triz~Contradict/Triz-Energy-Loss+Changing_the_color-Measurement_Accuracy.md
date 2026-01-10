@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Energy-Loss+Changing_the_color-Measurement_Accuracy
 Confidential: public

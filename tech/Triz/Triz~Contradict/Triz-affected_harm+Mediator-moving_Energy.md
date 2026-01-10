@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - affected_harm+Mediator-moving_Energy
 Confidential: public

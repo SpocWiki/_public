@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - affected_harm+Transformation_of_physical_and_chemical_states_of_an_object-Temperature
 Confidential: public

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Difficulty+Periodic_action-Intensity
 Confidential: public

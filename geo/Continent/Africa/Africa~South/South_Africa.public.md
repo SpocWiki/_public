@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "South Africa"
 - Sudáfrica

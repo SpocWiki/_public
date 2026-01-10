@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Water Curtain"
 Confidential: public

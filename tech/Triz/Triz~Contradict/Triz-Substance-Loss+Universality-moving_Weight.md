@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Substance-Loss+Universality-moving_Weight
 Confidential: public

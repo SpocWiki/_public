@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Time-Loss+Mediator-Manufacturing_Precision
 Confidential: public

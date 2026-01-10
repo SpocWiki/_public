@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Energy-Loss+Extraction-Automation
 Confidential: public

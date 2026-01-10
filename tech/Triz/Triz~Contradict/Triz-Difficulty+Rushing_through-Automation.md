@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Difficulty+Rushing_through-Automation
 Confidential: public

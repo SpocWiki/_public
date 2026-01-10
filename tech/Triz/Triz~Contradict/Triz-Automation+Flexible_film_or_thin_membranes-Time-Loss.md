@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Automation+Flexible_film_or_thin_membranes-Time-Loss
 Confidential: public

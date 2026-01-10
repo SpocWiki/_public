@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Shape+Use_a_pneumatic_or_hydralic_construction-Complexity
 Confidential: public

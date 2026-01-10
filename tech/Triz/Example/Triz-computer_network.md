@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "computer network"
 Confidential: public

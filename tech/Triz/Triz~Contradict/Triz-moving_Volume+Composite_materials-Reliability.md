@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - moving_Volume+Composite_materials-Reliability
 Confidential: public

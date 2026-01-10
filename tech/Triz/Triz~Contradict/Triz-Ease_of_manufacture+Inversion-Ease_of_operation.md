@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Ease_of_manufacture+Inversion-Ease_of_operation
 Confidential: public

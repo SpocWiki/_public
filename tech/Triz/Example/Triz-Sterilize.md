@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Sterilize
 Confidential: public

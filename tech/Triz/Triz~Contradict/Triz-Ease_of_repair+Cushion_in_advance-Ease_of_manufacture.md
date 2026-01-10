@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Ease_of_repair+Cushion_in_advance-Ease_of_manufacture
 Confidential: public

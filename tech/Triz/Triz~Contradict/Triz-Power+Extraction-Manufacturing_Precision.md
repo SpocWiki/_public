@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Power+Extraction-Manufacturing_Precision
 Confidential: public

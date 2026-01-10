@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Versatility+Changing_the_color-affected_harm
 Confidential: public

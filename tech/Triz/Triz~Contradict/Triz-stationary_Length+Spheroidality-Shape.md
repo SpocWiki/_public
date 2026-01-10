@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - stationary_Length+Spheroidality-Shape
 Confidential: public

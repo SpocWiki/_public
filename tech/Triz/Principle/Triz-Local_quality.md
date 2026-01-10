@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Local quality"
 copyright: "https://github.com/SpocWeb"

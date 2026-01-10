@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Sponge for Gases"
 Confidential: public

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Speed+Dynamicity-moving_Energy
 Confidential: public

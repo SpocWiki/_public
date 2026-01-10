@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Ease_of_operation+Dynamicity-stationary_Area
 Confidential: public

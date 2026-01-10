@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - moving_Weight+Convert_harm_into_benefit-generated_harm
 Confidential: public

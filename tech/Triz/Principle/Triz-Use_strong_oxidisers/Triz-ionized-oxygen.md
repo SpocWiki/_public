@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - ionized-oxygen
 Confidential: public

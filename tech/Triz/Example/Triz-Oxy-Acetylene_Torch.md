@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Oxy-Acetylene Torch"
 Confidential: public

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Heat ferromagnetic Material"
 Confidential: public

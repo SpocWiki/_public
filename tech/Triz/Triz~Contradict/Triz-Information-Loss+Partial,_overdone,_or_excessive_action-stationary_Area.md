@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Information-Loss+Partial,_overdone,_or_excessive_action-stationary_Area
 Confidential: public

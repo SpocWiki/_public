@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Reliability+Asymmetry-moving_Length
 Confidential: public

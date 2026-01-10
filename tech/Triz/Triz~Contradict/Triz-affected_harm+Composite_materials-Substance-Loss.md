@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - affected_harm+Composite_materials-Substance-Loss
 Confidential: public

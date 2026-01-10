@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Quantity+Universality-moving_Weight
 Confidential: public

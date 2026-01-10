@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Ease_of_manufacture+Thermal_expansion-Stress
 Confidential: public

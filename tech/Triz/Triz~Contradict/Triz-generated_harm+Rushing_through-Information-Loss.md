@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - generated_harm+Rushing_through-Information-Loss
 Confidential: public

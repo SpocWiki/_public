@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Versatility+Extraction-Temperature
 Confidential: public

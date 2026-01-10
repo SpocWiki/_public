@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Power+Use_strong_oxidisers-moving_Duration
 Confidential: public

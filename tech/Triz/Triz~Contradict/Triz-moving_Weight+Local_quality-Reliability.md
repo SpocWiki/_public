@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - moving_Weight+Local_quality-Reliability
 Confidential: public

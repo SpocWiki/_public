@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - stationary_Weight+Segmentation-generated_harm
 Confidential: public

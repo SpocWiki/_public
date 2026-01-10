@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Caribbean Netherlands"
 - "Bonaire, Sint Eustatius and Saba"

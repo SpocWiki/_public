@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Shape+Prior_action-Time-Loss
 Confidential: public

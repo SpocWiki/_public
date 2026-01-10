@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Temperature+Periodic_action-stationary_Length
 Confidential: public

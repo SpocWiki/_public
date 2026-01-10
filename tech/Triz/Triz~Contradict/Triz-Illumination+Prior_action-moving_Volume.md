@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Illumination+Prior_action-moving_Volume
 Confidential: public

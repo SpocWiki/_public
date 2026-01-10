@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "electrostatically mix"
 Confidential: public

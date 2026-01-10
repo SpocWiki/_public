@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Reliability+Rushing_through-Speed
 Confidential: public

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - stationary_Length+Universality-Energy-Loss
 Confidential: public

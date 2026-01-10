@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - moving_Volume+Inert_environment-Stability
 Confidential: public

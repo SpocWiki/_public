@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - affected_harm+Thermal_expansion-moving_Volume
 Confidential: public

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Automation+Self-service-Difficulty
 Confidential: public

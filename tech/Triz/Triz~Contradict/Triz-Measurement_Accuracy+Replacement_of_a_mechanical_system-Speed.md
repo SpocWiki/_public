@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Measurement_Accuracy+Replacement_of_a_mechanical_system-Speed
 Confidential: public

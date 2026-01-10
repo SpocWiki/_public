@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - moving_Area+Feedback-Automation
 Confidential: public

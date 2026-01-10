@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Measurement_Accuracy+Partial,_overdone,_or_excessive_action-stationary_Length
 Confidential: public

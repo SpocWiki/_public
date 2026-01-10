@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - moving_Weight+Composite_materials-moving_Volume
 Confidential: public

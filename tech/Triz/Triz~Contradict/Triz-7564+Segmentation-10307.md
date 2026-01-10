@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - 7564+Segmentation-10307
 Confidential: public

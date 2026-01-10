@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - 22165+Universality-10307
 Confidential: public

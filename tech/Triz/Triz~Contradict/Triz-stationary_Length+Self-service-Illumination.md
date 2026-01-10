@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - stationary_Length+Self-service-Illumination
 Confidential: public

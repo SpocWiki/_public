@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - stationary_Volume+Changing_the_color-Time-Loss
 Confidential: public

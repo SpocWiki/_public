@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Difficulty+Moving_to_a_new_dimension-moving_Length
 Confidential: public

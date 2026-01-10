@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Stability+Inert_environment-stationary_Duration
 Confidential: public

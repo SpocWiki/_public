@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - generated_harm+Periodic_action-moving_Weight
 Confidential: public

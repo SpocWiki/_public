@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - moving_Duration+Segmentation-Ease_of_manufacture
 Confidential: public

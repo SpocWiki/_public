@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Power+Periodic_action-moving_Duration
 Confidential: public

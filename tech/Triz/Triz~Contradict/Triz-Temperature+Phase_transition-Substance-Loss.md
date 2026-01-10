@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Temperature+Phase_transition-Substance-Loss
 Confidential: public

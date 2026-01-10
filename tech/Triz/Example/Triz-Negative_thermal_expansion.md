@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Negative thermal expansion"
 Confidential: public

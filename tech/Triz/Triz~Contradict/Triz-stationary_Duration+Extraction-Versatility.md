@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - stationary_Duration+Extraction-Versatility
 Confidential: public

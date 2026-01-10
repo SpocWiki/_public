@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Foam Packaging"
 Confidential: public

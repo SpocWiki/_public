@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Homogeneity
 copyright: "https://github.com/SpocWeb"

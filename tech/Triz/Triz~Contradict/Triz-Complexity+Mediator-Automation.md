@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Complexity+Mediator-Automation
 Confidential: public

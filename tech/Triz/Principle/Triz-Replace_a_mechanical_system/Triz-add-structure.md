@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - add-structure
 Confidential: public

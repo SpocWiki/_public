@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Pre-stress
 Confidential: public

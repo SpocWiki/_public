@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Stability+Local_quality-Illumination
 Confidential: public

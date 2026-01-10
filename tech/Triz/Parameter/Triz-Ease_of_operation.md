@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Ease of operation"
 Confidential: public

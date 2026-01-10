@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - stationary_Area+Changing_the_color-Power
 Confidential: public

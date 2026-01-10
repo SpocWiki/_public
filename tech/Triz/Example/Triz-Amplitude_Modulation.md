@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Amplitude Modulation"
 Confidential: public

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Extending Antenna"
 Confidential: public

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Illumination+Inversion-Energy-Loss
 Confidential: public

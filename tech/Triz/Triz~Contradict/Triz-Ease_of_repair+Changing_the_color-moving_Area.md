@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Ease_of_repair+Changing_the_color-moving_Area
 Confidential: public

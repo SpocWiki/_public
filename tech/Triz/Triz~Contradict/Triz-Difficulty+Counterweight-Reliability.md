@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Difficulty+Counterweight-Reliability
 Confidential: public

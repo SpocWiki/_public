@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - 10307+22222-Ease_of_manufacture
 Confidential: public

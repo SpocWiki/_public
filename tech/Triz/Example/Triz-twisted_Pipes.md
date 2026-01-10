@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "twisted Pipes"
 Confidential: public

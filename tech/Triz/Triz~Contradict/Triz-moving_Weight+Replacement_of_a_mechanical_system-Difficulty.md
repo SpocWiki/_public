@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - moving_Weight+Replacement_of_a_mechanical_system-Difficulty
 Confidential: public

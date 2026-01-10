@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Quantity+Mechanical_vibration-Energy-Loss
 Confidential: public

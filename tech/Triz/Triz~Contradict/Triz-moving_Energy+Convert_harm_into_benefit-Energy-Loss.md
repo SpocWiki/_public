@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - moving_Energy+Convert_harm_into_benefit-Energy-Loss
 Confidential: public

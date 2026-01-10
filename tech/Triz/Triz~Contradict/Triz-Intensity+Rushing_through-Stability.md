@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Intensity+Rushing_through-Stability
 Confidential: public

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Time-Loss+Copying-Manufacturing_Precision
 Confidential: public

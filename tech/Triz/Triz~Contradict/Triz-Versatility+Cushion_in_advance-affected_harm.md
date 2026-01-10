@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Versatility+Cushion_in_advance-affected_harm
 Confidential: public

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - piezo-electric
 Confidential: public

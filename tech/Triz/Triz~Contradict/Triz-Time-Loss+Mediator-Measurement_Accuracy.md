@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Time-Loss+Mediator-Measurement_Accuracy
 Confidential: public

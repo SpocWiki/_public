@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Temperature+Mechanical_vibration-moving_Volume
 Confidential: public

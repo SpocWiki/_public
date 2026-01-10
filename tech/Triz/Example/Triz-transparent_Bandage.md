@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "transparent Bandage"
 Confidential: public

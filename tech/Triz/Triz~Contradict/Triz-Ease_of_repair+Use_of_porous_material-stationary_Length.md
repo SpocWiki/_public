@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Ease_of_repair+Use_of_porous_material-stationary_Length
 Confidential: public

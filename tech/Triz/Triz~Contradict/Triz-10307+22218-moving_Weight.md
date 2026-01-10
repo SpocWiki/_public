@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - 10307+22218-moving_Weight
 Confidential: public

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - stationary_Length+Equipotentiality-Power
 Confidential: public

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Ease of repair"
 Confidential: public

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Somaliland
 confidential: public

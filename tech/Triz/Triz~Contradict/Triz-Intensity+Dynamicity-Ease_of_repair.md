@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Intensity+Dynamicity-Ease_of_repair
 Confidential: public

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Temperature+Homogeneity-affected_harm
 Confidential: public

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - affected_harm+Mediator-Ease_of_manufacture
 Confidential: public

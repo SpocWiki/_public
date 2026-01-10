@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - stationary_Volume+Extraction-stationary_Length
 Confidential: public

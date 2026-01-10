@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Illumination+Copying-moving_Area
 Confidential: public

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Time-Loss+Segmentation-stationary_Energy
 Confidential: public

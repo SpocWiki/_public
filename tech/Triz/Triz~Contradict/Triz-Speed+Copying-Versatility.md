@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Speed+Copying-Versatility
 Confidential: public

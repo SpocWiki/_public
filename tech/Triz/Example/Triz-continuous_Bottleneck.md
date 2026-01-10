@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "continuous Bottleneck"
 Confidential: public

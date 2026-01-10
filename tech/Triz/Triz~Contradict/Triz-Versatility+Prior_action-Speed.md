@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Versatility+Prior_action-Speed
 Confidential: public

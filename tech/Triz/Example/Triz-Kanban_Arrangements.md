@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Kanban Arrangements"
 Confidential: public

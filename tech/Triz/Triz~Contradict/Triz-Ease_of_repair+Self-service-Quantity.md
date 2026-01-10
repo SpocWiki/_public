@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Ease_of_repair+Self-service-Quantity
 Confidential: public

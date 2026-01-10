@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Energy-Loss+Segmentation-Ease_of_operation
 Confidential: public

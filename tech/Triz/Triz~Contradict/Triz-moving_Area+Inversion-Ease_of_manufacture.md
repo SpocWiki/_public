@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - moving_Area+Inversion-Ease_of_manufacture
 Confidential: public

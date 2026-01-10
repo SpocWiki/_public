@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - moving_Energy+Moving_to_a_new_dimension-Ease_of_repair
 Confidential: public

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Substance-Loss+Rushing_through-Temperature
 Confidential: public

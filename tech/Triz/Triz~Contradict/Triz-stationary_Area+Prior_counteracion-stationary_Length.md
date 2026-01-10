@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - stationary_Area+Prior_counteracion-stationary_Length
 Confidential: public

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Use a pneumatic or hydralic construction"
 copyright: "https://github.com/SpocWeb"

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Carbon Fiber Composite"
 Confidential: public

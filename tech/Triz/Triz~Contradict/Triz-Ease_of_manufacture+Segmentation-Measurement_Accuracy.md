@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Ease_of_manufacture+Segmentation-Measurement_Accuracy
 Confidential: public

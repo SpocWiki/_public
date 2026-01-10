@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Power+Extraction-Temperature
 Confidential: public

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - 10307+22222-Measurement_Accuracy
 Confidential: public

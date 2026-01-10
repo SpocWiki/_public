@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Roller Point Pens"
 Confidential: public

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - non-uniform
 Confidential: public

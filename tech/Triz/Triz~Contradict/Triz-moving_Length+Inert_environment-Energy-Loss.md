@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - moving_Length+Inert_environment-Energy-Loss
 Confidential: public

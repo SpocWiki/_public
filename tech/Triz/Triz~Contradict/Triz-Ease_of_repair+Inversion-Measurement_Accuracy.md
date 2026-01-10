@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Ease_of_repair+Inversion-Measurement_Accuracy
 Confidential: public

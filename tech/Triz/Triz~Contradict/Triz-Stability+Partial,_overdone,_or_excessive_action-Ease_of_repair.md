@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Stability+Partial,_overdone,_or_excessive_action-Ease_of_repair
 Confidential: public

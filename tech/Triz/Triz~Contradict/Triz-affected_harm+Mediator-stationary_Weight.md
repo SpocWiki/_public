@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - affected_harm+Mediator-stationary_Weight
 Confidential: public

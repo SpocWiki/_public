@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Time-Loss+Partial,_overdone,_or_excessive_action-stationary_Volume
 Confidential: public

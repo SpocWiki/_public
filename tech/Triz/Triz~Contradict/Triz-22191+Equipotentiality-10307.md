@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - 22191+Equipotentiality-10307
 Confidential: public

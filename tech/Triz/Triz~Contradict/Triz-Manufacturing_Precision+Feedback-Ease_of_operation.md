@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Manufacturing_Precision+Feedback-Ease_of_operation
 Confidential: public

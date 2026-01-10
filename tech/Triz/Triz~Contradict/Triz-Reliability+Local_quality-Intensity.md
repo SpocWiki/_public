@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Reliability+Local_quality-Intensity
 Confidential: public

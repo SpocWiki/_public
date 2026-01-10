@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Change Sensitivity"
 Confidential: public

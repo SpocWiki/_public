@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Intensity+Periodic_action-moving_Length
 Confidential: public

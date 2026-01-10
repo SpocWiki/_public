@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Stress+Inversion-stationary_Weight
 Confidential: public

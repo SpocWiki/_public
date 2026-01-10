@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Automation+Homogeneity-affected_harm
 Confidential: public

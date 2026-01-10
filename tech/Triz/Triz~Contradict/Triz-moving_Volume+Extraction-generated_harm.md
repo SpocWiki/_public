@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - moving_Volume+Extraction-generated_harm
 Confidential: public

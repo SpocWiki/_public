@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Illumination+Extraction-moving_Duration
 Confidential: public

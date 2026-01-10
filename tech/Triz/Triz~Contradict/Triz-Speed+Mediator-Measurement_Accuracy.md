@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Speed+Mediator-Measurement_Accuracy
 Confidential: public

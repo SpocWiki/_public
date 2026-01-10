@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Time-Loss+Asymmetry-Ease_of_manufacture
 Confidential: public

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - affected_harm+Prior_action-Manufacturing_Precision
 Confidential: public

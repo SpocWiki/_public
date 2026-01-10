@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Ease_of_manufacture+Equipotentiality-moving_Area
 Confidential: public

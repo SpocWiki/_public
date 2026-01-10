@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Power+Convert_harm_into_benefit-Stress
 Confidential: public

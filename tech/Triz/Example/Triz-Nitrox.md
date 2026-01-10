@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Nitrox
 Confidential: public

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Stability+Rejecting_and_regenerating_parts-Versatility
 Confidential: public

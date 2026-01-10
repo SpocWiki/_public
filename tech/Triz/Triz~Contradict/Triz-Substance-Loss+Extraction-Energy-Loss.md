@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Substance-Loss+Extraction-Energy-Loss
 Confidential: public

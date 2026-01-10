@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Versatility+Use_of_porous_material-Ease_of_manufacture
 Confidential: public

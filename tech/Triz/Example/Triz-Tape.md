@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Tape
 Confidential: public

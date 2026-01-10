@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Energy-Loss+Replacement_of_a_mechanical_system-moving_Weight
 Confidential: public

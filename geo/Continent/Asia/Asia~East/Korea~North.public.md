@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - North-Korea
 - Korea~Dem-Rep

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Time-Loss+Mediator-Information-Loss
 Confidential: public

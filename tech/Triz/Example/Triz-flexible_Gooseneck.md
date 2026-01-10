@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "flexible Gooseneck"
 Confidential: public

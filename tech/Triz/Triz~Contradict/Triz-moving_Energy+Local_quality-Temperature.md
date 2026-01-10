@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - moving_Energy+Local_quality-Temperature
 Confidential: public

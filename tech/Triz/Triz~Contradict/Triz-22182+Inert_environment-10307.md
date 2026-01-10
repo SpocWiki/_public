@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - 22182+Inert_environment-10307
 Confidential: public

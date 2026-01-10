@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Substance-Loss+Inversion-Difficulty
 Confidential: public

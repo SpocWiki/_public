@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Stability+Prior_action-Intensity
 Confidential: public

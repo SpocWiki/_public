@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Intensity+Local_quality-generated_harm
 Confidential: public

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Automation+Changing_the_color-Shape
 Confidential: public

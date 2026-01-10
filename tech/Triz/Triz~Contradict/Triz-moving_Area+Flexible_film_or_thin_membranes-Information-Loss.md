@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - moving_Area+Flexible_film_or_thin_membranes-Information-Loss
 Confidential: public

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - use-fluid
 Confidential: public

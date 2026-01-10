@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - moving_Volume+Nesting-moving_Area
 Confidential: public

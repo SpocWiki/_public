@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - affected_harm+Segmentation-stationary_Length
 Confidential: public

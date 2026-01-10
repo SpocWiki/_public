@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Stress+Periodic_action-Reliability
 Confidential: public

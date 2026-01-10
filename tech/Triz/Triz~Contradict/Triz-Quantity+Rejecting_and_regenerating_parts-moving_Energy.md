@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Quantity+Rejecting_and_regenerating_parts-moving_Energy
 Confidential: public

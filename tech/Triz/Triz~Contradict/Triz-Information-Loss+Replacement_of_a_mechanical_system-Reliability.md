@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Information-Loss+Replacement_of_a_mechanical_system-Reliability
 Confidential: public

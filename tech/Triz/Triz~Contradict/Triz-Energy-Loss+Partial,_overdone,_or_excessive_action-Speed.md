@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Energy-Loss+Partial,_overdone,_or_excessive_action-Speed
 Confidential: public

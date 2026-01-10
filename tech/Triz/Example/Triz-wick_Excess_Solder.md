@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "wick Excess Solder"
 Confidential: public

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Reliability+Spheroidality-moving_Length
 Confidential: public

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Illumination+Periodic_action-affected_harm
 Confidential: public

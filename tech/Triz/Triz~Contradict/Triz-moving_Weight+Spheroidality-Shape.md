@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - moving_Weight+Spheroidality-Shape
 Confidential: public

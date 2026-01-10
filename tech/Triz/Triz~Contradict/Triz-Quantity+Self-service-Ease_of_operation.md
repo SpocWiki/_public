@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Quantity+Self-service-Ease_of_operation
 Confidential: public

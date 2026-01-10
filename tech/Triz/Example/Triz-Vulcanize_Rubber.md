@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Vulcanize Rubber"
 Confidential: public

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Zoom Lens"
 Confidential: public

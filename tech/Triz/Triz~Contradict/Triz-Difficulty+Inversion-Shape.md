@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Difficulty+Inversion-Shape
 Confidential: public

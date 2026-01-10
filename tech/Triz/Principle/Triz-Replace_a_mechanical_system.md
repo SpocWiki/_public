@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Replacement of a mechanical system"
 copyright: "https://github.com/SpocWeb"

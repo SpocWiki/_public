@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Automation+Mechanical_vibration-Manufacturing_Precision
 Confidential: public

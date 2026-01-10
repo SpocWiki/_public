@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Manufacturing_Precision+Self-service-Ease_of_repair
 Confidential: public

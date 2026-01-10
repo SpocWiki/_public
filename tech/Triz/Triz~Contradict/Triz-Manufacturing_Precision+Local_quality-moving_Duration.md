@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Manufacturing_Precision+Local_quality-moving_Duration
 Confidential: public

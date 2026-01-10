@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "moving Length"
 Confidential: public

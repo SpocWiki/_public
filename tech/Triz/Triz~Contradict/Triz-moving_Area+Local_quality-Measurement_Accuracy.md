@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - moving_Area+Local_quality-Measurement_Accuracy
 Confidential: public

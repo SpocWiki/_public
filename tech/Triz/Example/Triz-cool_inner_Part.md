@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "cool inner Part"
 Confidential: public

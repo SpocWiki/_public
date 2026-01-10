@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Difficulty+Local_quality-Temperature
 Confidential: public

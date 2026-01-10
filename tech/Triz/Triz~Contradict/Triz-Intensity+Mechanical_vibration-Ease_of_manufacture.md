@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Intensity+Mechanical_vibration-Ease_of_manufacture
 Confidential: public

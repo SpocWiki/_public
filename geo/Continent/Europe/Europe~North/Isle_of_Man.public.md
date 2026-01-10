@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Isle of Man"
 - "Isla de Man"

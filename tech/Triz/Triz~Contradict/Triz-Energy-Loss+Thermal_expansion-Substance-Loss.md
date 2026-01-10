@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Energy-Loss+Thermal_expansion-Substance-Loss
 Confidential: public

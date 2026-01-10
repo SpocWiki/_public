@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "disappearing Actors"
 Confidential: public

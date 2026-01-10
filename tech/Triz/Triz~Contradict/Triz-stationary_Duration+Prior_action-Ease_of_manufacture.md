@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - stationary_Duration+Prior_action-Ease_of_manufacture
 Confidential: public

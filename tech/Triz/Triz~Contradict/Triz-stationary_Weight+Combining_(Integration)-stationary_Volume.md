@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - stationary_Weight+Combining_(Integration)-stationary_Volume
 Confidential: public

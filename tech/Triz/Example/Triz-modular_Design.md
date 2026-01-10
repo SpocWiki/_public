@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "modular Design"
 Confidential: public

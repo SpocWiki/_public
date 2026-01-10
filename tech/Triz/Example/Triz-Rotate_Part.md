@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Rotate Part"
 Confidential: public

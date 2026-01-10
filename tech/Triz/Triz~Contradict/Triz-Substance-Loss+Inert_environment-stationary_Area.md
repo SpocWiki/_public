@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Substance-Loss+Inert_environment-stationary_Area
 Confidential: public

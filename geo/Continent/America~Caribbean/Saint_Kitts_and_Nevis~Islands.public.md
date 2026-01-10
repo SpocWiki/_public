@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - St._Kitts-Nevis-Anguilla
 confidential: public

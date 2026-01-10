@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Shape+Composite_materials-Manufacturing_Precision
 Confidential: public

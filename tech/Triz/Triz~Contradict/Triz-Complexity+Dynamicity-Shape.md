@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Complexity+Dynamicity-Shape
 Confidential: public

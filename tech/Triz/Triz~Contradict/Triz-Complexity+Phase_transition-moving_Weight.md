@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Complexity+Phase_transition-moving_Weight
 Confidential: public

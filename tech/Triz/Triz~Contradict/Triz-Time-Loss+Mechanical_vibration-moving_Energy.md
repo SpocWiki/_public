@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Time-Loss+Mechanical_vibration-moving_Energy
 Confidential: public

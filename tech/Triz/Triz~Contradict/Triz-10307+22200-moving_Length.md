@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - 10307+22200-moving_Length
 Confidential: public

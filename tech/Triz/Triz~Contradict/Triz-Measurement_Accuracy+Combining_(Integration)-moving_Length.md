@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Measurement_Accuracy+Combining_(Integration)-moving_Length
 Confidential: public

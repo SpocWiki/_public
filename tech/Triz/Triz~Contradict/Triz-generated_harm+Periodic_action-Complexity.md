@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - generated_harm+Periodic_action-Complexity
 Confidential: public

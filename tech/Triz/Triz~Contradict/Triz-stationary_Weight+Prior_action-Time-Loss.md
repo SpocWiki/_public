@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - stationary_Weight+Prior_action-Time-Loss
 Confidential: public

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Temperature+Convert_harm_into_benefit-Strength
 Confidential: public

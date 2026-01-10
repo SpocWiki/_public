@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - change-color
 Confidential: public

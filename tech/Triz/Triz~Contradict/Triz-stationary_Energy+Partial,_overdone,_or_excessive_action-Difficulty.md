@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - stationary_Energy+Partial,_overdone,_or_excessive_action-Difficulty
 Confidential: public

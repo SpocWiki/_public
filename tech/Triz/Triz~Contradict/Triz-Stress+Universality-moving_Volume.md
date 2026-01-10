@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Stress+Universality-moving_Volume
 Confidential: public

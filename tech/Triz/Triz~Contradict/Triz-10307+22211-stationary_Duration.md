@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - 10307+22211-stationary_Duration
 Confidential: public

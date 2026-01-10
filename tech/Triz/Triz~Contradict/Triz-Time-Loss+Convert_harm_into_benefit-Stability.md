@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Time-Loss+Convert_harm_into_benefit-Stability
 Confidential: public

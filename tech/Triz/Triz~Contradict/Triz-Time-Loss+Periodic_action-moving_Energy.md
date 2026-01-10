@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Time-Loss+Periodic_action-moving_Energy
 Confidential: public

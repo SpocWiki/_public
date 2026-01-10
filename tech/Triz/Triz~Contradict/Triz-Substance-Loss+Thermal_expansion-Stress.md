@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Substance-Loss+Thermal_expansion-Stress
 Confidential: public

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Manufacturing_Precision+Use_a_pneumatic_or_hydralic_construction-stationary_Area
 Confidential: public

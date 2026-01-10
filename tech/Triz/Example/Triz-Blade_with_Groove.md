@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Blade with Groove"
 Confidential: public

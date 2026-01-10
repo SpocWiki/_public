@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Shape+Extraction-affected_harm
 Confidential: public

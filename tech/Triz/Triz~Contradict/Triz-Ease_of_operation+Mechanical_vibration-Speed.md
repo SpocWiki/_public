@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Ease_of_operation+Mechanical_vibration-Speed
 Confidential: public

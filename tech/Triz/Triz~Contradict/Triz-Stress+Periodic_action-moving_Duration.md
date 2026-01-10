@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Stress+Periodic_action-moving_Duration
 Confidential: public

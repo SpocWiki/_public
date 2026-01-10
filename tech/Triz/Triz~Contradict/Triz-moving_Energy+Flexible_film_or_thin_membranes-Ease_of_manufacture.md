@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - moving_Energy+Flexible_film_or_thin_membranes-Ease_of_manufacture
 Confidential: public

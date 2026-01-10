@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Difficulty+Segmentation-stationary_Weight
 Confidential: public

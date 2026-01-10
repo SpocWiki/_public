@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - moving_Area+Inversion-Stability
 Confidential: public

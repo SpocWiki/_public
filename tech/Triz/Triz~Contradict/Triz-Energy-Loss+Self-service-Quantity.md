@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Energy-Loss+Self-service-Quantity
 Confidential: public

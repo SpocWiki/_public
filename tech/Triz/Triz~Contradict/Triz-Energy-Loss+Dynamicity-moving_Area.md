@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Energy-Loss+Dynamicity-moving_Area
 Confidential: public

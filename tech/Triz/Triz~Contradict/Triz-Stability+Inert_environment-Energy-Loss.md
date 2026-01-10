@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Stability+Inert_environment-Energy-Loss
 Confidential: public

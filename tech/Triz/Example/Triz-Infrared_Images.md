@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Infrared Images"
 Confidential: public

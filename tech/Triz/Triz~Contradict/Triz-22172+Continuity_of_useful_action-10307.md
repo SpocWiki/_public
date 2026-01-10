@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - 22172+Continuity_of_useful_action-10307
 Confidential: public

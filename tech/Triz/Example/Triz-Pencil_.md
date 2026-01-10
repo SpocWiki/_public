@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Pencil
 Confidential: public

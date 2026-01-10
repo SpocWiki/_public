@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Backfire
 Confidential: public

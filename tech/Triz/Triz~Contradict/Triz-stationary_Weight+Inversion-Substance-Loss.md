@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - stationary_Weight+Inversion-Substance-Loss
 Confidential: public

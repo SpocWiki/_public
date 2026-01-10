@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Shape+Composite_materials-Reliability
 Confidential: public

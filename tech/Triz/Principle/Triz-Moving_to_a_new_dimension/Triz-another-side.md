@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - another-side
 Confidential: public

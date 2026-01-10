@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Illumination+Partial,_overdone,_or_excessive_action-Energy-Loss
 Confidential: public

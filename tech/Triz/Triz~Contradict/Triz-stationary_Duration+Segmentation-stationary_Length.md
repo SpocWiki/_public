@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - stationary_Duration+Segmentation-stationary_Length
 Confidential: public

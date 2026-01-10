@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Iran
 - "Iran (Islamic Republic of)"

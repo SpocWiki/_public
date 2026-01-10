@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Energy-Loss+Rushing_through-affected_harm
 Confidential: public

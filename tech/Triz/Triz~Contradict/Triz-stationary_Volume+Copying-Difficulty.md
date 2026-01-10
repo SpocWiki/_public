@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - stationary_Volume+Copying-Difficulty
 Confidential: public

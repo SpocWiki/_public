@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - moving_Energy+Combining_(Integration)-Substance-Loss
 Confidential: public

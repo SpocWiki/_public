@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Change Measure"
 Confidential: public

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Complexity+Copying-moving_Weight
 Confidential: public

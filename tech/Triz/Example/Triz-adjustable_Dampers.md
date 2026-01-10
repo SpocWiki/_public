@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "adjustable Dampers"
 Confidential: public

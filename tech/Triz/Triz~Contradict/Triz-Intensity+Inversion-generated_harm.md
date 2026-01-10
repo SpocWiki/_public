@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Intensity+Inversion-generated_harm
 Confidential: public

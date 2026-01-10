@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Shape+Local_quality-stationary_Weight
 Confidential: public

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - moving_Duration+Asymmetry-Illumination
 Confidential: public

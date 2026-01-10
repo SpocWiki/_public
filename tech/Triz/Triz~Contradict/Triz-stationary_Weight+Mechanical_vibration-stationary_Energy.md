@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - stationary_Weight+Mechanical_vibration-stationary_Energy
 Confidential: public

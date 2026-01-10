@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Compartments
 Confidential: public

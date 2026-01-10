@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Extraction
 copyright: "https://github.com/SpocWeb"

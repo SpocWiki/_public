@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Substance-Loss+Mediator-Ease_of_operation
 Confidential: public

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Rejecting and regenerating parts"
 copyright: "https://github.com/SpocWeb"

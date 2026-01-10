@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Stress+Spheroidality-Quantity
 Confidential: public

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Versatility+Periodic_action-moving_Energy
 Confidential: public

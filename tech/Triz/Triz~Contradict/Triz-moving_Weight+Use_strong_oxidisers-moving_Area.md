@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - moving_Weight+Use_strong_oxidisers-moving_Area
 Confidential: public

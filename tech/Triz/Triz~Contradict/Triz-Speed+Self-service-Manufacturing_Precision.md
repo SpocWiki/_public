@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Speed+Self-service-Manufacturing_Precision
 Confidential: public

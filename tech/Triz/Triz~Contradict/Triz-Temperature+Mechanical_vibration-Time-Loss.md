@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Temperature+Mechanical_vibration-Time-Loss
 Confidential: public

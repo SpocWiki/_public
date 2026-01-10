@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - moving_Duration+Replacement_of_a_mechanical_system-affected_harm
 Confidential: public

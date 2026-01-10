@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Quartz Oscillations"
 Confidential: public

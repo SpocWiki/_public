@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - moving_Length+Asymmetry-Ease_of_operation
 Confidential: public

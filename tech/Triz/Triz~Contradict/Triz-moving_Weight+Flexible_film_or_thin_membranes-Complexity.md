@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - moving_Weight+Flexible_film_or_thin_membranes-Complexity
 Confidential: public

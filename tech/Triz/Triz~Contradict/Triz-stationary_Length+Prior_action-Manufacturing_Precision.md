@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - stationary_Length+Prior_action-Manufacturing_Precision
 Confidential: public

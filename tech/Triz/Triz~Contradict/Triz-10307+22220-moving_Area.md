@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - 10307+22220-moving_Area
 Confidential: public

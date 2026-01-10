@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Manufacturing_Precision+Changing_the_color-moving_Volume
 Confidential: public

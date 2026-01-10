@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Strength+Spheroidality-Intensity
 Confidential: public

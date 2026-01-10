@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Complexity+Asymmetry-moving_Duration
 Confidential: public

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Speed+Inversion-Ease_of_operation
 Confidential: public

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Intensity+Combining_(Integration)-Substance-Loss
 Confidential: public

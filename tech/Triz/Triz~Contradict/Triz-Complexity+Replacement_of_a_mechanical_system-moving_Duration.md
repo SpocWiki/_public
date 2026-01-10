@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Complexity+Replacement_of_a_mechanical_system-moving_Duration
 Confidential: public

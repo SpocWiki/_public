@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - 22161+Asymmetry-10307
 Confidential: public

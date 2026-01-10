@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - affected_harm+Periodic_action-Power
 Confidential: public

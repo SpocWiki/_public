@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - moving_Duration+Dynamicity-affected_harm
 Confidential: public

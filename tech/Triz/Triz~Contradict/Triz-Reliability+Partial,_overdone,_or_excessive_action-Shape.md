@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Reliability+Partial,_overdone,_or_excessive_action-Shape
 Confidential: public

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Ease_of_operation+Periodic_action-Energy-Loss
 Confidential: public

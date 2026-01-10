@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - moving_Area+Use_a_pneumatic_or_hydralic_construction-moving_Weight
 Confidential: public

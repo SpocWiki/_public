@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Mulching Universality"
 Confidential: public

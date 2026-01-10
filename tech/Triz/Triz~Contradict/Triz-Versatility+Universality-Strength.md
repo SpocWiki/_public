@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Versatility+Universality-Strength
 Confidential: public

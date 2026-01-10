@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Liquid Hand Soap"
 Confidential: public

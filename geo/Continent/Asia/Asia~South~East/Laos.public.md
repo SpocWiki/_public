@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Laos
 - "Lao People's Democratic Republic"

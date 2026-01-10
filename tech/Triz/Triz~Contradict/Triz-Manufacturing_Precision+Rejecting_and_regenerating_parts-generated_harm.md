@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Manufacturing_Precision+Rejecting_and_regenerating_parts-generated_harm
 Confidential: public

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "kill Anaerobic Bacteria"
 Confidential: public

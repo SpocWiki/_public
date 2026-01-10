@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Use Balloon"
 Confidential: public

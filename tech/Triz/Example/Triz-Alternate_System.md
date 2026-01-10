@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Alternate System"
 Confidential: public

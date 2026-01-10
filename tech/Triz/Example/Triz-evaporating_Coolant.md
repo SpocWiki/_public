@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "evaporating Coolant"
 Confidential: public

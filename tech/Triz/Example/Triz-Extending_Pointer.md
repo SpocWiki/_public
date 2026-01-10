@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Extending Pointer"
 Confidential: public

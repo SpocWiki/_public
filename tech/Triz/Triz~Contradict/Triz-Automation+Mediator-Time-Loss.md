@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Automation+Mediator-Time-Loss
 Confidential: public

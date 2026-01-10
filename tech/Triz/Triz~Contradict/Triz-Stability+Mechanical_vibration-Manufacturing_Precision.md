@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Stability+Mechanical_vibration-Manufacturing_Precision
 Confidential: public

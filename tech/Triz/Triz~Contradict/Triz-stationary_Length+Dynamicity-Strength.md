@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - stationary_Length+Dynamicity-Strength
 Confidential: public

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Difficulty+Rejecting_and_regenerating_parts-stationary_Duration
 Confidential: public

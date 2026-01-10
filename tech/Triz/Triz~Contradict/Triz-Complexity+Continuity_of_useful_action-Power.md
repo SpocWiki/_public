@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Complexity+Continuity_of_useful_action-Power
 Confidential: public

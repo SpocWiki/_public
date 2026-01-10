@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - periodic-action
 Confidential: public

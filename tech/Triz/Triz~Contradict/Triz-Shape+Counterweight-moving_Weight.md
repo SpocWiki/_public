@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Shape+Counterweight-moving_Weight
 Confidential: public

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - affected_harm+Asymmetry-moving_Length
 Confidential: public

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - moving_Length+Transformation_of_physical_and_chemical_states_of_an_object-Ease_of_operation
 Confidential: public

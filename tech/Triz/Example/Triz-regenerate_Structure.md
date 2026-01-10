@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "regenerate Structure"
 Confidential: public

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Complexity+Dynamicity-Automation
 Confidential: public

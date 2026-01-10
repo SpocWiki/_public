@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Energy-Loss+Inversion-moving_Length
 Confidential: public

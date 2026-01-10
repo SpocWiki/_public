@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - change-shape
 Confidential: public

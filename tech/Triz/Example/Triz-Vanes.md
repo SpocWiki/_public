@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Vanes
 Confidential: public

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Automation+Prior_counteracion-moving_Duration
 Confidential: public

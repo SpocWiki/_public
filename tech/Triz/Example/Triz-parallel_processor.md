@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "parallel processor"
 Confidential: public

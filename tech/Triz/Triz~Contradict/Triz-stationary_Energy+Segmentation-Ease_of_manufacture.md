@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - stationary_Energy+Segmentation-Ease_of_manufacture
 Confidential: public

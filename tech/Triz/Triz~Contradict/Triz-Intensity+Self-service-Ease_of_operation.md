@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Intensity+Self-service-Ease_of_operation
 Confidential: public

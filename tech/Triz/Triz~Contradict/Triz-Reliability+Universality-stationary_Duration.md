@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Reliability+Universality-stationary_Duration
 Confidential: public

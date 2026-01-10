@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Illumination+Dynamicity-Difficulty
 Confidential: public

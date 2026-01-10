@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - resonate
 Confidential: public

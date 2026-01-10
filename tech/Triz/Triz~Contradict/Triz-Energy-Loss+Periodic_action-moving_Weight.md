@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Energy-Loss+Periodic_action-moving_Weight
 Confidential: public

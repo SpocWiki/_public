@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Automation+Rejecting_and_regenerating_parts-Difficulty
 Confidential: public

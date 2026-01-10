@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - stationary_Duration+Phase_transition-Temperature
 Confidential: public

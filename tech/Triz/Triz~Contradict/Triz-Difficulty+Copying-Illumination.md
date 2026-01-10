@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Difficulty+Copying-Illumination
 Confidential: public

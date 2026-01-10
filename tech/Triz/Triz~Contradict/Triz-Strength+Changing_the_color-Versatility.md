@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Strength+Changing_the_color-Versatility
 Confidential: public

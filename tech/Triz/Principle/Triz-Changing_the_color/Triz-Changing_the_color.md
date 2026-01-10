@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Changing the color"
 copyright: "https://github.com/SpocWeb"

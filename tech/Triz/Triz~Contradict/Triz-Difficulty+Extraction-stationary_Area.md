@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Difficulty+Extraction-stationary_Area
 Confidential: public

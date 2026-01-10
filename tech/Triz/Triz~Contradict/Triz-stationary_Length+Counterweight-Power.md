@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - stationary_Length+Counterweight-Power
 Confidential: public

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - stationary_Weight+Inversion-Ease_of_operation
 Confidential: public

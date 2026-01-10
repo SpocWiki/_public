@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Sonogram
 Confidential: public

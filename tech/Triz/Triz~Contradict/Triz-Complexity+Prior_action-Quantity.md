@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Complexity+Prior_action-Quantity
 Confidential: public

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - accept-harm
 Confidential: public

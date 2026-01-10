@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - 10307+22213-Manufacturing_Precision
 Confidential: public

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Quantity+Dynamicity-moving_Area
 Confidential: public

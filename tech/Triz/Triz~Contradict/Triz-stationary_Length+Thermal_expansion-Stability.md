@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - stationary_Length+Thermal_expansion-Stability
 Confidential: public

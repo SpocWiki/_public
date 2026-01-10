@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Energy-Loss+Universality-moving_Weight
 Confidential: public

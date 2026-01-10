@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Versatility+Nesting-moving_Area
 Confidential: public

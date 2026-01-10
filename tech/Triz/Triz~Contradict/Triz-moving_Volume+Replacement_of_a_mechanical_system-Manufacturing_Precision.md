@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - moving_Volume+Replacement_of_a_mechanical_system-Manufacturing_Precision
 Confidential: public

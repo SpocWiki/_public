@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - moving_Energy+Extraction-Illumination
 Confidential: public

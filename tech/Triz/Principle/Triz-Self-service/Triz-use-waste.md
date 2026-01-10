@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - use-waste
 Confidential: public

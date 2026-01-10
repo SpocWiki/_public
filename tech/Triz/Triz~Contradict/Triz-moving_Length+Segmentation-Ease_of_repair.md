@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - moving_Length+Segmentation-Ease_of_repair
 Confidential: public

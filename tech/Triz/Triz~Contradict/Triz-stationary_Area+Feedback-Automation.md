@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - stationary_Area+Feedback-Automation
 Confidential: public

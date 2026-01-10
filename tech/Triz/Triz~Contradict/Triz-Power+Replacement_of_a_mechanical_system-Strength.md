@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Power+Replacement_of_a_mechanical_system-Strength
 Confidential: public

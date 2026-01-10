@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Reliability+Asymmetry-stationary_Area
 Confidential: public

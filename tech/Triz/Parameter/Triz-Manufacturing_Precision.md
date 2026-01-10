@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Manufacturing Precision"
 Confidential: public

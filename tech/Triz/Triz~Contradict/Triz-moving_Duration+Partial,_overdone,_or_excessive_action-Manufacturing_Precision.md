@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - moving_Duration+Partial,_overdone,_or_excessive_action-Manufacturing_Precision
 Confidential: public

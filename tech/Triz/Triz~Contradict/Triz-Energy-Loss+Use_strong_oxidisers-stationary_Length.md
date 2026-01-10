@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Energy-Loss+Use_strong_oxidisers-stationary_Length
 Confidential: public

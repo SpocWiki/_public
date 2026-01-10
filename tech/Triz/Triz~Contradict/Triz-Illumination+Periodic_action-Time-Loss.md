@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Illumination+Periodic_action-Time-Loss
 Confidential: public

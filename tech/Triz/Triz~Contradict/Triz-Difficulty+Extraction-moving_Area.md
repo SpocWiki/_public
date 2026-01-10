@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Difficulty+Extraction-moving_Area
 Confidential: public

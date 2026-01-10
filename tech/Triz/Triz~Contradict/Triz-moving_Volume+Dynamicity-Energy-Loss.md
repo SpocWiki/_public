@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - moving_Volume+Dynamicity-Energy-Loss
 Confidential: public

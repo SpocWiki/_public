@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Spain
 - España

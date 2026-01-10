@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Intensity+Feedback-Measurement_Accuracy
 Confidential: public

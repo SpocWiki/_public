@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Stress+Inversion-Reliability
 Confidential: public

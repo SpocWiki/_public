@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - stationary_Volume+Spheroidality-stationary_Weight
 Confidential: public

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - multi-urpose
 Confidential: public

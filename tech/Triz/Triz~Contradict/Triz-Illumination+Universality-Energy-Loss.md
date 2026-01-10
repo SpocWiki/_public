@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Illumination+Universality-Energy-Loss
 Confidential: public

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Tanzania
 - "United Republic of Tanzania"

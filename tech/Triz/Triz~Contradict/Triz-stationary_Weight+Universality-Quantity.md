@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - stationary_Weight+Universality-Quantity
 Confidential: public

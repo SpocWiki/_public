@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Trackball
 Confidential: public

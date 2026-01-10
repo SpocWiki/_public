@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - stationary_Area+Thermal_expansion-Stress
 Confidential: public

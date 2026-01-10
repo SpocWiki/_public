@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Ease_of_manufacture+Changing_the_color-Information-Loss
 Confidential: public

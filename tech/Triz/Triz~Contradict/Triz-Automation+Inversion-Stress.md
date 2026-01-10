@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Automation+Inversion-Stress
 Confidential: public

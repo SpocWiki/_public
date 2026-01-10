@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - stationary_Energy+Thermal_expansion-affected_harm
 Confidential: public

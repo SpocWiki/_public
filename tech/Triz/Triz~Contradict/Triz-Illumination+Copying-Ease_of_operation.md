@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Illumination+Copying-Ease_of_operation
 Confidential: public

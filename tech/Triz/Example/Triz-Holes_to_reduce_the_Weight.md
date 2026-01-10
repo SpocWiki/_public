@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Holes to reduce the Weight"
 Confidential: public

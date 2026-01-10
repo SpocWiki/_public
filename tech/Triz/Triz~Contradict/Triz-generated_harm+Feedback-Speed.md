@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - generated_harm+Feedback-Speed
 Confidential: public

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Copying
 copyright: "https://github.com/SpocWeb"

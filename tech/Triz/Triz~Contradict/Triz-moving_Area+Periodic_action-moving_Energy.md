@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - moving_Area+Periodic_action-moving_Energy
 Confidential: public

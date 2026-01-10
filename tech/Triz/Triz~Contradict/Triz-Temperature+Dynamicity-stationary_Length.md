@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Temperature+Dynamicity-stationary_Length
 Confidential: public

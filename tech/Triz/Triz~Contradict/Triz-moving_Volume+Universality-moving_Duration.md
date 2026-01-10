@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - moving_Volume+Universality-moving_Duration
 Confidential: public

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Ease_of_manufacture+Partial,_overdone,_or_excessive_action-stationary_Area
 Confidential: public

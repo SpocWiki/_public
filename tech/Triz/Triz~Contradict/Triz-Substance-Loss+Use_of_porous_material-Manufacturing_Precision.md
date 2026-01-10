@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Substance-Loss+Use_of_porous_material-Manufacturing_Precision
 Confidential: public

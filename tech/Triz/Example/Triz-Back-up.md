@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Back-up
 Confidential: public

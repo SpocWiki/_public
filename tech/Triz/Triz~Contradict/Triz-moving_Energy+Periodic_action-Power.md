@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - moving_Energy+Periodic_action-Power
 Confidential: public

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "ionize Gas"
 Confidential: public

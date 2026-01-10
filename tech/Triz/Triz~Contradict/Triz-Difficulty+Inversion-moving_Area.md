@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Difficulty+Inversion-moving_Area
 Confidential: public

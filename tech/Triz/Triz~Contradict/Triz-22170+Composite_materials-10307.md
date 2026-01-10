@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - 22170+Composite_materials-10307
 Confidential: public

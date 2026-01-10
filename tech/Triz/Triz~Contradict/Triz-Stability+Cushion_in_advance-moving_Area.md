@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Stability+Cushion_in_advance-moving_Area
 Confidential: public

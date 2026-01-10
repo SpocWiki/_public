@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Stress+Rushing_through-Intensity
 Confidential: public

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Temperature+Inversion-moving_Duration
 Confidential: public

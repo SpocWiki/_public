@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - moving_Duration+Flexible_film_or_thin_membranes-moving_Volume
 Confidential: public

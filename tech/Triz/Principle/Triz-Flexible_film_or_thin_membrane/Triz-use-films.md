@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - use-films
 Confidential: public

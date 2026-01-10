@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Measurement_Accuracy+Mechanical_vibration-Ease_of_manufacture
 Confidential: public

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Partition
 Confidential: public

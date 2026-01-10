@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Use of porous material"
 copyright: "https://github.com/SpocWeb"

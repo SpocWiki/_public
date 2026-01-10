@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Substance-Loss+Local_quality-moving_Duration
 Confidential: public

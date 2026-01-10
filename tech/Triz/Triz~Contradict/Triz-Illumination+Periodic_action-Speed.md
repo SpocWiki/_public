@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Illumination+Periodic_action-Speed
 Confidential: public

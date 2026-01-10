@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Panama Canal"
 Confidential: public

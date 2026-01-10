@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Reliability+Copying-generated_harm
 Confidential: public

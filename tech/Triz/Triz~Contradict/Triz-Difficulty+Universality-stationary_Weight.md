@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Difficulty+Universality-stationary_Weight
 Confidential: public

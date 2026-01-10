@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Information-Loss+Copying-moving_Area
 Confidential: public

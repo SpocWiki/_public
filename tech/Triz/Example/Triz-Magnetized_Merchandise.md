@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Magnetized Merchandise"
 Confidential: public

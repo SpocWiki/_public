@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Ease_of_repair+Dynamicity-moving_Area
 Confidential: public

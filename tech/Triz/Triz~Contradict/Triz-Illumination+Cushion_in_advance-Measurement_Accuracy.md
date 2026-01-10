@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Illumination+Cushion_in_advance-Measurement_Accuracy
 Confidential: public

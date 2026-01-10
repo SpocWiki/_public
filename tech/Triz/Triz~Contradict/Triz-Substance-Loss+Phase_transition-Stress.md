@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Substance-Loss+Phase_transition-Stress
 Confidential: public

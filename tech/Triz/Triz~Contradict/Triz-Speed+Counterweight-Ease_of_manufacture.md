@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Speed+Counterweight-Ease_of_manufacture
 Confidential: public

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - 22166+Transformation_of_physical_and_chemical_states_of_an_object-10307
 Confidential: public

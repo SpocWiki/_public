@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Time-Loss+Copying-Information-Loss
 Confidential: public

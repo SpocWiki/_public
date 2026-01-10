@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Energy-Loss+Feedback-moving_Volume
 Confidential: public

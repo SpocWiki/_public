@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Stress+Universality-Measurement_Accuracy
 Confidential: public

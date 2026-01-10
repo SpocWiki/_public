@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Shape+Inversion-Ease_of_repair
 Confidential: public

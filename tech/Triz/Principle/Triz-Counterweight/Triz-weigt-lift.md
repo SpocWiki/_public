@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - weigt-lift
 Confidential: public

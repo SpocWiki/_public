@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Stress+Universality-Speed
 Confidential: public

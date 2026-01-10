@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Reliability+Counterweight-moving_Weight
 Confidential: public

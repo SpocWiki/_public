@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Spring loaded Delivery"
 Confidential: public

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Shape+Prior_counteracion-moving_Duration
 Confidential: public

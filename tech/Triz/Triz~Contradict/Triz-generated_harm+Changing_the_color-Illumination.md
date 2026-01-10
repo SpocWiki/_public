@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - generated_harm+Changing_the_color-Illumination
 Confidential: public

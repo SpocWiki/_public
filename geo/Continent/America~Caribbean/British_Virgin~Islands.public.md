@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "British Virgin Islands"
 - "Islas Vírgenes Británicas"

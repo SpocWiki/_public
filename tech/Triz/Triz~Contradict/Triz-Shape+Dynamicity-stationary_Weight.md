@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Shape+Dynamicity-stationary_Weight
 Confidential: public

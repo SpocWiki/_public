@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Time-Loss+Moving_to_a_new_dimension-Illumination
 Confidential: public

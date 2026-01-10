@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Strength+Counterweight-Speed
 Confidential: public

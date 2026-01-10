@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Modular-Furniture
 Confidential: public

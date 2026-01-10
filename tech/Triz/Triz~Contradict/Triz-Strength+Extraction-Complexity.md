@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Strength+Extraction-Complexity
 Confidential: public

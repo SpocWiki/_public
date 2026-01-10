@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Temperature+Phase_transition-moving_Weight
 Confidential: public

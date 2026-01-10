@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Information-Loss+Periodic_action-Power
 Confidential: public

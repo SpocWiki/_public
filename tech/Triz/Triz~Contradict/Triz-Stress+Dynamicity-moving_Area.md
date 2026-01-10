@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Stress+Dynamicity-moving_Area
 Confidential: public

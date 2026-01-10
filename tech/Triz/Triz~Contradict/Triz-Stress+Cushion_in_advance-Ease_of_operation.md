@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Stress+Cushion_in_advance-Ease_of_operation
 Confidential: public

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Laser Pulses"
 Confidential: public

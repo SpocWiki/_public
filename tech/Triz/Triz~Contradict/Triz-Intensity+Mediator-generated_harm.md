@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Intensity+Mediator-generated_harm
 Confidential: public

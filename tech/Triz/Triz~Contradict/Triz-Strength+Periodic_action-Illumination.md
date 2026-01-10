@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Strength+Periodic_action-Illumination
 Confidential: public

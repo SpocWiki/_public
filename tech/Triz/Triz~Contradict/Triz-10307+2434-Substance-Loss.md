@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - 10307+2434-Substance-Loss
 Confidential: public

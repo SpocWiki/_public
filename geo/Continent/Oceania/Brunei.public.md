@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Brunei
 - "Brunei Darussalam"

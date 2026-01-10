@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Serranilla_Bank
 confidential: public

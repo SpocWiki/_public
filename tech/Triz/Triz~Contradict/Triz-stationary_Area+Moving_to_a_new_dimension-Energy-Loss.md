@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - stationary_Area+Moving_to_a_new_dimension-Energy-Loss
 Confidential: public

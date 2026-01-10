@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Substance-Loss+Partial,_overdone,_or_excessive_action-Measurement_Accuracy
 Confidential: public

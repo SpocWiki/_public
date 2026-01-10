@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Speed+Equipotentiality-Ease_of_operation
 Confidential: public

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Shape+Segmentation-Measurement_Accuracy
 Confidential: public

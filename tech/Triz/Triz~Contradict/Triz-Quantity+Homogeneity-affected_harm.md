@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Quantity+Homogeneity-affected_harm
 Confidential: public

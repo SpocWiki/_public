@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Strength+Self-service-Complexity
 Confidential: public

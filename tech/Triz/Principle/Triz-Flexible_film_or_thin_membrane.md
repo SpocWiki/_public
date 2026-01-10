@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Flexible film or thin membranes"
 copyright: "https://github.com/SpocWeb"

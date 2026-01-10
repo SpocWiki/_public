@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Automation+Homogeneity-Information-Loss
 Confidential: public

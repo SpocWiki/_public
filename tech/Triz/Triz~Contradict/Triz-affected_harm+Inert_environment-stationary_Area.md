@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - affected_harm+Inert_environment-stationary_Area
 Confidential: public

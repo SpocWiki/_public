@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - stationary_Weight+Continuity_of_useful_action-Time-Loss
 Confidential: public

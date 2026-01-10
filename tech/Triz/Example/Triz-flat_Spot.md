@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "flat Spot"
 Confidential: public

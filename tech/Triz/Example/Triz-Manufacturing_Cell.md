@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Manufacturing Cell"
 Confidential: public

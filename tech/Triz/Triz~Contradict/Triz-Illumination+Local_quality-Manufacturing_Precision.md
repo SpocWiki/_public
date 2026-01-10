@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Illumination+Local_quality-Manufacturing_Precision
 Confidential: public

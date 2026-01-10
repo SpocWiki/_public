@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Temperature+Segmentation-Stability
 Confidential: public

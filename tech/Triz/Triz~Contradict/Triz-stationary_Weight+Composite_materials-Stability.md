@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - stationary_Weight+Composite_materials-Stability
 Confidential: public

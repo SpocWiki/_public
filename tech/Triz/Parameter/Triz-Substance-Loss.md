@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Substance-Loss
 Confidential: public

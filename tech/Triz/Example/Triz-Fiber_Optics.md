@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Fiber Optics"
 Confidential: public

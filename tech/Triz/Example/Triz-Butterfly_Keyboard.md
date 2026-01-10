@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Butterfly Keyboard"
 Confidential: public

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Power+Counterweight-moving_Weight
 Confidential: public

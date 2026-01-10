@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Stability+Inversion-moving_Length
 Confidential: public

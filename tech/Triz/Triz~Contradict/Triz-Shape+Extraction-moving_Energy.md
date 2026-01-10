@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Shape+Extraction-moving_Energy
 Confidential: public

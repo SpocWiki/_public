@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Speed+Segmentation-Measurement_Accuracy
 Confidential: public

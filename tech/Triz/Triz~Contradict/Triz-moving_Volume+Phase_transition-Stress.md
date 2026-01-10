@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - moving_Volume+Phase_transition-Stress
 Confidential: public

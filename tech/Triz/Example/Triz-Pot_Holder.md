@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Pot Holder"
 Confidential: public

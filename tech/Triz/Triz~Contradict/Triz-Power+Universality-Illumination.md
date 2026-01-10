@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Power+Universality-Illumination
 Confidential: public

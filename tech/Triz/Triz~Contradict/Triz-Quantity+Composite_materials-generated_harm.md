@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Quantity+Composite_materials-generated_harm
 Confidential: public

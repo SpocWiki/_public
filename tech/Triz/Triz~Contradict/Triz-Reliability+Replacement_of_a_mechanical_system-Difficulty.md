@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Reliability+Replacement_of_a_mechanical_system-Difficulty
 Confidential: public

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - moving_Length+Partial,_overdone,_or_excessive_action-Versatility
 Confidential: public

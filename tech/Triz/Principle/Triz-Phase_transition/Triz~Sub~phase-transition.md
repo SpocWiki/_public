@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - phase-transition
 Confidential: public

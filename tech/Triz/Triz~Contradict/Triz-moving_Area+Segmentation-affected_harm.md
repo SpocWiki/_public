@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - moving_Area+Segmentation-affected_harm
 Confidential: public

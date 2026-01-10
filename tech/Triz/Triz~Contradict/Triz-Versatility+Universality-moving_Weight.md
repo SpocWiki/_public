@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Versatility+Universality-moving_Weight
 Confidential: public

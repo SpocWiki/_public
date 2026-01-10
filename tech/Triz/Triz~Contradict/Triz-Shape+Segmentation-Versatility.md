@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Shape+Segmentation-Versatility
 Confidential: public

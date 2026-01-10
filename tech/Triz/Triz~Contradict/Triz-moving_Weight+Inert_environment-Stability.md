@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - moving_Weight+Inert_environment-Stability
 Confidential: public

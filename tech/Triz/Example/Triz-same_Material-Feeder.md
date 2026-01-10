@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "same Material-Feeder"
 Confidential: public

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Shape+Dynamicity-Stress
 Confidential: public

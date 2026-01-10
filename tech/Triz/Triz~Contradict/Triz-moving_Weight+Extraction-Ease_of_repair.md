@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - moving_Weight+Extraction-Ease_of_repair
 Confidential: public

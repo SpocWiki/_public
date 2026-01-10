@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Speed+Prior_action-Automation
 Confidential: public

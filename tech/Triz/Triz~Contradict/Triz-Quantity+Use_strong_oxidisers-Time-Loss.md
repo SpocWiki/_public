@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Quantity+Use_strong_oxidisers-Time-Loss
 Confidential: public
