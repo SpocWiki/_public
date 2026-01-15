@@ -1,12 +1,13 @@
 ---
-dv_#has_:
-  Pros: "[[../Parameter/Triz-Difficulty]]"
-  Cons: "[[../Parameter/Triz-Stress]]"
+dv_has_:
+  result_:
+    positive: "[[../Parameter/Triz-Difficulty]]"
+    negative: "[[../Parameter/Triz-Stress]]"
 dv_Triz-Principle: "[[../Principle/Triz-Thermal_expansion]]"
 dv_name: Difficulty+Thermal_expansion-Stress
 dv_SpocWebEntityId: 26444
-dv_has_pros: "[[../Parameter/Triz-Difficulty]]"
-dv_has_cons: "[[../Parameter/Triz-Stress]]"
+dv_has_result_positive: "[[../Parameter/Triz-Difficulty]]"
+dv_has_result_negative: "[[../Parameter/Triz-Stress]]"
 ---
 ﻿---
 aliases:

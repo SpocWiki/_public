@@ -1,5 +1,5 @@
 ---
-dv_#has_/Pros:
+dv_has_/result_/positive:
   path: Triz-10307
   embed: false
   type: file
@@ -7,17 +7,17 @@ dv_Triz-Principle:
   path: Triz-22197
   embed: false
   type: file
-dv_#has_/Cons:
+dv_has_/result_/negative:
   path: _public/tech/Triz/Parameter/Triz-Ease_of_operation.md
   embed: false
   type: file
 dv_name: 10307+22197-Ease_of_operation
 dv_SpocWebEntityId: 26745
-dv_has_pros:
+dv_has_result_positive:
   path: Triz-10307
   embed: false
   type: file
-dv_has_cons:
+dv_has_result_negative:
   path: _public/tech/Triz/Parameter/Triz-Ease_of_operation.md
   embed: false
   type: file

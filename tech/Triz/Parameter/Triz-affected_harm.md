@@ -23,7 +23,7 @@ Object-affected harmful factors
 
 # has_/Cons: 
 ```dataview
-TABLE WHERE has_cons=Triz-affected_harm
+TABLE WHERE has_result_negative=Triz-affected_harm
 ```
 
 # has_/Pros 

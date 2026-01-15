@@ -1,11 +1,11 @@
 ---
-dv_#has_/Pros: "[[Triz-10307]]"
+dv_has_/result_/positive: "[[Triz-10307]]"
 dv_Triz-Principle: "[[Triz-22208]]"
-dv_#has_/Cons: Information-Loss
+dv_has_/result_/negative: Information-Loss
 dv_name: 10307+22208-Information-Loss
 dv_SpocWebEntityId: 26716
-dv_has_pros: "[[Triz-10307]]"
-dv_has_cons: Information-Loss
+dv_has_result_positive: "[[Triz-10307]]"
+dv_has_result_negative: Information-Loss
 ---
 ﻿---
 aliases:

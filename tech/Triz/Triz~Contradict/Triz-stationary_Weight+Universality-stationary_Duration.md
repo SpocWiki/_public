@@ -5,8 +5,8 @@ dv_#has_:
 dv_Triz-Principle: "[[../Principle/Triz-Universality]]"
 dv_name: stationary_Weight+Universality-stationary_Duration
 dv_SpocWebEntityId: 22731
-dv_has_pros: "[[../Parameter/Triz-stationary_Weight]]"
-dv_has_cons: "[[../Parameter/Triz-stationary_Duration]]"
+dv_has_result_positive: "[[../Parameter/Triz-stationary_Weight]]"
+dv_has_result_negative: "[[../Parameter/Triz-stationary_Duration]]"
 ---
 ﻿---
 aliases:
