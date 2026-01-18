@@ -9,8 +9,8 @@
 
 
 Important EPSG Codes are: 
-- EPSG:4326 - [[WGS_84]]
-- EPSG:3857 - [Web Mercator projection](https://en.wikipedia.org/wiki/Web_Mercator_projection "Web Mercator projection") 
-- EPSG:7789 - [International Terrestrial Reference Frame](https://en.wikipedia.org/wiki/International_Terrestrial_Reference_Frame "International Terrestrial Reference Frame")  
+- EPSG:4326 - [[WGS_84]]
+- EPSG:3857 - [Web Mercator projection](https://en.wikipedia.org/wiki/Web_Mercator_projection "Web Mercator projection") 
+- EPSG:7789 - [International Terrestrial Reference Frame](https://en.wikipedia.org/wiki/International_Terrestrial_Reference_Frame "International Terrestrial Reference Frame")  
 
 

@@ -11,4 +11,4 @@ aliases:
 > [Wikipedia](https://en.wikipedia.org/wiki/World%20Geodetic%20System)
 
 It assumes an Ellipsoid as the earth's surface. 
-Google Earth established the Pseudo-System [Web Mercator projection](https://en.wikipedia.org/wiki/Web_Mercator_projection "Web Mercator projection")  which was assigned EPSG:3857 after the fact.
+Google Earth established the Pseudo-System [Web Mercator projection](https://en.wikipedia.org/wiki/Web_Mercator_projection "Web Mercator projection")  which was assigned EPSG:3857 after the fact.

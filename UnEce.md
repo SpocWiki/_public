@@ -10,8 +10,8 @@ The United Nations Economic Commission for Europe (UNECE) was set up in 1947 by 
 -   [Economic Commission for Latin America and the Caribbean (ECLAC)](http://www.eclac.org/),
 -   [Economic and Social Commission for Western Asia (ESCWA)](http://www.escwa.un.org/).
 
- 
-UNECE's major aim is to promote pan-European economic integration. UNECE includes [56 member States](http://www.unece.org/oes/nutshell/member_States_representatives.html) in Europe, North America and Asia. However, all interested United Nations member States may participate in the work of UNECE. Over 70 international professional organizations and other non-governmental organizations take part in UNECE activities.
+ 
+UNECE's major aim is to promote pan-European economic integration. UNECE includes [56 member States](http://www.unece.org/oes/nutshell/member_States_representatives.html) in Europe, North America and Asia. However, all interested United Nations member States may participate in the work of UNECE. Over 70 international professional organizations and other non-governmental organizations take part in UNECE activities.
 
 It defines Standards, often referring to ISO Standards: 
 - 1970s: United Nations Trade Data Element Dictionary (UNTDED)
