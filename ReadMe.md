@@ -1,3 +1,3 @@
 
-![[O:\_Standards\ReadMe.md|ReadMe]] 
-![[|ReadMe]] 
+![[ReadMe.public]] 
+
