@@ -1,4 +1,6 @@
 
+# [[Health.public]] 
 
-![Health](/_Standards/bio/Medicine/Health.md) 
+
+![[/_Standards/bio/Medicine/Health.md]] 
 
