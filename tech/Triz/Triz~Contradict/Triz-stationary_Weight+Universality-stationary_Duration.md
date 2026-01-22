@@ -1,14 +1,4 @@
 ---
-dv_#has_:
-  Pros: "[[../Parameter/Triz-stationary_Weight]]"
-  Cons: "[[../Parameter/Triz-stationary_Duration]]"
-dv_Triz-Principle: "[[../Principle/Triz-Universality]]"
-dv_name: stationary_Weight+Universality-stationary_Duration
-dv_SpocWebEntityId: 22731
-dv_has_result_positive: "[[../Parameter/Triz-stationary_Weight]]"
-dv_has_result_negative: "[[../Parameter/Triz-stationary_Duration]]"
----
-﻿---
 aliases:
 - stationary_Weight+Universality-stationary_Duration
 Confidential: public
@@ -19,6 +9,16 @@ license: "CC BY-SA 4.0"
 tags:
 - Triz/Contradiction
 type: TrizContradiction
+
+dv_has_:
+  result_:
+    positive: "[[../Parameter/Triz-stationary_Weight]]"
+    negative: "[[../Parameter/Triz-stationary_Duration]]"
+dv_Triz-Principle: "[[../Principle/Triz-Universality]]"
+dv_name: stationary_Weight+Universality-stationary_Duration
+dv_SpocWebEntityId: 22731
+dv_has_result_positive: "[[../Parameter/Triz-stationary_Weight]]"
+dv_has_result_negative: "[[../Parameter/Triz-stationary_Duration]]"
 ---
 
  name = `$= dv.current.dv_name` 
