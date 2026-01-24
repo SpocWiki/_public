@@ -1,4 +1,4 @@
 
 
-![inOrganic](/_Standards/chemic/inOrganic.md) 
+![inOrganic](/_Standards/chemic/inOrganic) 
 

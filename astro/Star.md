@@ -100,19 +100,19 @@ darkMode: false
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Star](../../_Standards/Astronomy/Star.md) 
+### #is_/same_as :: [Star](../../_Standards/Astronomy/Star) 
 
-### #is_/same_as :: [Star.public](/_public/Astronomy/Star.public.md) 
+### #is_/same_as :: [Star.public](/_public/Astronomy/Star.public) 
 
-### #is_/same_as :: [Star.internal](/_internal/Astronomy/Star.internal.md) 
+### #is_/same_as :: [Star.internal](/_internal/Astronomy/Star.internal) 
 
-### #is_/same_as :: [Star.protect](/_protect/Astronomy/Star.protect.md) 
+### #is_/same_as :: [Star.protect](/_protect/Astronomy/Star.protect) 
 
-### #is_/same_as :: [Star.private](/_private/Astronomy/Star.private.md) 
+### #is_/same_as :: [Star.private](/_private/Astronomy/Star.private) 
 
-### #is_/same_as :: [Star.personal](/_personal/Astronomy/Star.personal.md) 
+### #is_/same_as :: [Star.personal](/_personal/Astronomy/Star.personal) 
 
-### #is_/same_as :: [Star.secret](/_secret/Astronomy/Star.secret.md)
+### #is_/same_as :: [Star.secret](/_secret/Astronomy/Star.secret)
 
 
 ![[../../_Standards/Astronomy/Star/Stars/_Star_DbFolder]]

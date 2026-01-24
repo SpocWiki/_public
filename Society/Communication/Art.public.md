@@ -1,5 +1,5 @@
 
 
-![Art](/_Standards/Society/Communication/Art.md) 
+![Art](/_Standards/Society/Communication/Art) 
 
 

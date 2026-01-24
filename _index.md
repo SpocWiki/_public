@@ -45,9 +45,9 @@ But any other Markdown-based Software can process this, too.
 We would love to hear your use-cases for this data!
 
 Pull-Requests with your changes or additions are very welcome,
-but read [how to contribute](Contributing.md) first!
+but read [how to contribute](Contributing) first!
 
-The [License](License.md) is chosen to be compatible with Wikipedia and Wikidata,
+The [License](License) is chosen to be compatible with Wikipedia and Wikidata,
 so that Information can freely be exchanged with this Repository and many other sources.
 
 ## Wiki-Modules 

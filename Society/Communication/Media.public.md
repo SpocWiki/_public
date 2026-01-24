@@ -1,1 +1,1 @@
-![Media](/_Standards/Society/Communication/Media.md) 
+![Media](/_Standards/Society/Communication/Media) 

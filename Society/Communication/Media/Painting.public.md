@@ -1,6 +1,6 @@
 
 
 
-![Painting](/_Standards/Society/Communication/Media/Painting.md) 
+![Painting](/_Standards/Society/Communication/Media/Painting) 
 
 
