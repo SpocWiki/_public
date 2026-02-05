@@ -8,8 +8,7 @@ dv_name: Difficulty+Thermal_expansion-Stress
 dv_SpocWebEntityId: 26444
 dv_has_result_positive: "[[../Parameter/Triz-Difficulty]]"
 dv_has_result_negative: "[[../Parameter/Triz-Stress]]"
----
-﻿---
+
 aliases:
 - Difficulty+Thermal_expansion-Stress
 Confidential: public

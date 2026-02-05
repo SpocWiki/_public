@@ -6,8 +6,7 @@ dv_name: Complexity+Copying-moving_Length
 dv_SpocWebEntityId: 26300
 dv_has_result_positive: "[[../Parameter/Triz-Complexity]]"
 dv_has_result_negative: "[[../Parameter/Triz-moving_Length]]"
----
-﻿---
+
 aliases:
 - Complexity+Copying-moving_Length
 Confidential: public

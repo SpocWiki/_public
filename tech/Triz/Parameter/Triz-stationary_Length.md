@@ -1,24 +1,24 @@
 ---
+aliases:
+  - stationary Length
+Confidential: public
+copyright: https://github.com/SpocWeb
+IsDeleted: false
+IsReadOnly: false
+license: CC BY-SA 4.0
+tags:
+  - Triz/Parameter
+type: TrizParameter
 dv_name: stationary Length
 dv_SpocWebEntityId: 22162
 dv_TrizParameterId: 4
 ---
-﻿---
-aliases:
-- "stationary Length"
-Confidential: public
-copyright: "https://github.com/SpocWeb"
-IsDeleted: false
-IsReadOnly: false
-license: "CC BY-SA 4.0"
-tags:
-- Triz/Parameter
-type: TrizParameter
----
 
-[name::stationary Length]
-[SpocWebEntityId::22162]
-[TrizParameterId::04]
+# [[Triz-stationary_Length]] 
+
+name = `=this.dv_name` 
+SpocWebEntityId = `=this.dv_SpocWebEntityId` 
+TrizParameterId = `=this.dv_TrizParameterId` 
 
 Length of stationary object
 

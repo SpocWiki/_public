@@ -21,8 +21,7 @@ dv_has_result_negative:
   path: _public/tech/Triz/Parameter/Triz-Ease_of_operation.md
   embed: false
   type: file
----
-﻿---
+
 aliases:
 - 10307+22197-Ease_of_operation
 Confidential: public
@@ -34,6 +33,8 @@ tags:
 - Triz/Contradiction
 type: TrizContradiction
 ---
+
+# [[Triz-10307+22197-Ease_of_operation]] 
 
 [name::10307+22197-Ease_of_operation]
 [SpocWebEntityId::26745]

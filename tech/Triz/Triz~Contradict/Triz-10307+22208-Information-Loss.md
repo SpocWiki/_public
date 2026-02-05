@@ -6,8 +6,7 @@ dv_name: 10307+22208-Information-Loss
 dv_SpocWebEntityId: 26716
 dv_has_result_positive: "[[Triz-10307]]"
 dv_has_result_negative: Information-Loss
----
-﻿---
+
 aliases:
 - 10307+22208-Information-Loss
 Confidential: public
