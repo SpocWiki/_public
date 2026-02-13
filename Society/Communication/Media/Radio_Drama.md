@@ -1,37 +1,159 @@
 ---
 aliases:
-  - Radio drama
-  - audio drama
-  - audio play
-  - radio play
-  - radio theatre
-  - audio theatre
+- audio drama
+- audio play
+- audio theatre
+- drama radio
+- Drama sa radyo
+- dramatique radio
+- drámaíocht raidió
+- hangjáték
+- Harkspul
+- hoorspel
+- hörspel
+- hørespil
+- hørespill
+- Høyrespel
+- Irrati-antzerki
+- kuuldemäng
+- kuunnelma
+- kịch truyền thanh
+- Lauschterspill
+- Pîce radiofonike
+- radijska igra
+- Radio drama
+- radio play
+- radio theatre
+- Radio-dramato
+- radiodrama
+- radiodramma
+- radiodramo
+- Radiohörspiel
+- radioteatre
+- radioteatro
+- Radyo tiyatrosu
+- Raidluga
+- rozhlasová hra
+- rádio-teatro
+- Sandiwara Radio
+- słuchowisko
+- teatro radiofónico
+- teatru radiofonic
+- whakaari reo irirangi
+- Útvarpsleikrit
+- Şanoya radyoyê
+- ραδιοφωνικό δράμα
+- радіопостановка
+- радио-драма
+- радиодрама
+- радиопостановка
+- радиоспектакль
+- радыёпастаноўка
+- радыёпастанова
+- ռադիոթատրոն
+- תסכית
+- دراما صوتية
+- راديودراما
+- ریڈیو ڈراما
+- سریال رادیویی
+- வானொலி நாடகம்
+- ಬಾನುಲಿ ನಾಟಕ
+- ละครวิทยุ
+- ラジオドラマ
+- 廣播劇
+- 라디오 드라마
 has_id_wikidata: Q2635894
 partially_coincident_with:
-  - "[[_Standards/WikiData/WD~drama_CD,244351]]"
-  - "[[_Standards/WikiData/WD~audio_drama,109349450]]"
+- '[[_Standards/WikiData/WD~drama_CD,244351]]'
+- '[[_Standards/WikiData/WD~audio_drama,109349450]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~radio_program,1555508]]"
-  - "[[_Standards/WikiData/WD~audio_drama,109349450]]"
-  - "[[_Standards/WikiData/WD~drama,25372]]"
+- '[[_Standards/WikiData/WD~radio_program,1555508]]'
+- '[[_Standards/WikiData/WD~audio_drama,109349450]]'
+- '[[_Standards/WikiData/WD~drama,25372]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~literary_form,4263830]]"
-  - "[[_Standards/WikiData/WD~radio_genre,15961983]]"
-  - "[[_Standards/WikiData/WD~audio_content_genre,108676140]]"
+- '[[_Standards/WikiData/WD~literary_form,4263830]]'
+- '[[_Standards/WikiData/WD~radio_genre,15961983]]'
+- '[[_Standards/WikiData/WD~audio_content_genre,108676140]]'
 practiced_by:
-  - "[[_Standards/WikiData/WD~radio_drama_actor,21280562]]"
-  - "[[_Standards/WikiData/WD~radio_playwright,83634378]]"
-different_from: "[[_Standards/WikiData/WD~radio_drama_manuscript,106559863]]"
+- '[[_Standards/WikiData/WD~radio_drama_actor,21280562]]'
+- '[[_Standards/WikiData/WD~radio_playwright,83634378]]'
+different_from: '[[_Standards/WikiData/WD~radio_drama_manuscript,106559863]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Sachwörterbuch_der_Literatur_(8_ed.),123164493]]"
-  - "[[_Standards/WikiData/WD~Metzler_Literatur_Lexikon_(2_ed.),123382721]]"
+- '[[_Standards/WikiData/WD~Sachwörterbuch_der_Literatur_(8_ed.),123164493]]'
+- '[[_Standards/WikiData/WD~Metzler_Literatur_Lexikon_(2_ed.),123382721]]'
 spoken_text_audio: http://commons.wikimedia.org/wiki/Special:FilePath/Es-Radioteatro-article.ogg
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Opname%20van%20een%20hoorspel%20Recording%20a%20radio%20play.jpg
 subreddit: audiodrama
 Regensburg_Classification: EC 7980
 Commons_category: Radio dramas
+dv_has_:
+  name_:
+    ar: دراما صوتية
+    ary: راديودراما
+    bcl: Drama sa radyo
+    be: радыёпастаноўка
+    be-tarask: радыёпастанова
+    bs: Radio drama
+    ca: radioteatre
+    cs: rozhlasová hra
+    cy: drama radio
+    da: hørespil
+    de: Radiohörspiel
+    el: ραδιοφωνικό δράμα
+    en: radio drama
+    en-ca: radio drama
+    en-gb: radio drama
+    eo: radiodramo
+    es: radioteatro
+    et: kuuldemäng
+    eu: Irrati-antzerki
+    fa: سریال رادیویی
+    fi: kuunnelma
+    fr: dramatique radio
+    fy: Harkspul
+    ga: drámaíocht raidió
+    gl: teatro radiofónico
+    he: תסכית
+    hu: hangjáték
+    hy: ռադիոթատրոն
+    id: Sandiwara Radio
+    io: Radio-dramato
+    is: Útvarpsleikrit
+    it: radiodramma
+    ja: ラジオドラマ
+    kn: ಬಾನುಲಿ ನಾಟಕ
+    ko: 라디오 드라마
+    ku: Şanoya radyoyê
+    lb: Lauschterspill
+    lv: Raidluga
+    mi: whakaari reo irirangi
+    mk: радиодрама
+    ms: Drama radio
+    nb: hørespill
+    nl: hoorspel
+    nn: Høyrespel
+    pl: słuchowisko
+    pt: rádio-teatro
+    pt-br: radiodrama
+    ro: teatru radiofonic
+    ru: радиопостановка
+    sh: Radio drama
+    sk: rozhlasová hra
+    sl: radijska igra
+    sr: радио-драма
+    sv: hörspel
+    ta: வானொலி நாடகம்
+    th: ละครวิทยุ
+    tr: Radyo tiyatrosu
+    tt: радиоспектакль
+    uk: радіопостановка
+    ur: ریڈیو ڈراما
+    vi: kịch truyền thanh
+    wa: Pîce radiofonike
+    yue: 廣播劇
+    zh: 廣播劇
+    zh-hant: 廣播劇
 ---
-
 # [[Radio_Drama]] 
 
 #is_/same_as :: [[../../../../_Standards/WikiData/WD~Radio_drama,2635894]]  

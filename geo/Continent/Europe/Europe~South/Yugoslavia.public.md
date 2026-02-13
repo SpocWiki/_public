@@ -8,8 +8,289 @@ SpocWebEntityId: 27061
 tags:
 - geo/Country
 type: Country
+has_id_wikidata: Q36704
+dv_has_:
+  name_:
+    af: Joego-Slawië
+    am: ዩጎስላቪያ
+    an: Yugoslavia
+    ang: Geugoslafia
+    ar: يوغوسلافيا
+    ary: يوݣوسلاڤيا
+    arz: يوجوسلافيا
+    ast: Yugoslavia
+    az: Yuqoslaviya
+    ba: Югославия
+    ban: Yugoslavia
+    bar: Jugoslawien
+    be: Югаславія
+    be-tarask: Югаславія
+    bg: Югославия
+    bn: যুগোস্লাভিয়া
+    br: Yougoslavia
+    bs: Jugoslavija
+    ca: Iugoslàvia
+    cbk-zam: Yugoslavia
+    ce: Югослави
+    ceb: Yugoslavia
+    ckb: یووگۆسلاڤیا
+    co: Iugoslavia
+    cs: Jugoslávie
+    cu: Югославїꙗ
+    cy: Iwgoslafia
+    da: Jugoslavien
+    de: Jugoslawien
+    diq: Yuğoslawya
+    dsb: Jugosłowjańska
+    el: Γιουγκοσλαβία
+    en: Yugoslavia
+    en-gb: Yugoslavia
+    en-us: Yugoslavia
+    eo: Jugoslavio
+    es: Yugoslavia
+    et: Jugoslaavia
+    eu: Jugoslavia
+    ext: Yugoslavia
+    fa: یوگسلاوی
+    fi: Jugoslavia
+    fo: Jugoslavia
+    fr: Yougoslavie
+    fur: Jugoslavie
+    fy: Joegoslaavje
+    ga: an Iúgslaiv
+    gd: Iùgoslaibhia
+    gl: Iugoslavia
+    gom: युगोस्लाविया
+    got: "\U0001033E\U0001033F\U00010332\U00010349\U00010343\U0001033B\U00010330\U00010331\U0001033E\U00010330"
+    gsw: Jugoslawje
+    gv: yn Yugoslaavey
+    he: יוגוסלביה
+    hi: यूगोस्लाविया
+    hr: Jugoslavija
+    hsb: Juhosłowjanska
+    hu: Jugoszlávia
+    hy: Հարավսլավիա
+    hyw: Եուկոսլաւիա
+    ia: Yugoslavia
+    id: Yugoslavia
+    ie: Yugoslavia
+    ik: Yugusulaviaq
+    io: Yugoslavia
+    is: Júgóslavía
+    it: Jugoslavia
+    ja: ユーゴスラビア
+    jam: Yugoslavia
+    jv: Yugoslavia
+    ka: იუგოსლავია
+    kaa: Yugoslaviya
+    kab: Yuguslavya
+    kk: Югославия
+    km: យូហ្គោស្លាវី
+    kn: ಯುಗೊಸ್ಲಾವಿಯ
+    ko: 유고슬라비아
+    krc: Югославия
+    ku: Yûgoslavya
+    kv: Югославия
+    kw: Yougoslavi
+    ky: Югославия
+    la: Iugoslavia
+    lad: Yugoslavia
+    lb: Jugoslawien
+    lbe: Югославия
+    li: Joegoslavië
+    lij: Iugoslavia
+    lmo: Jugoslavia
+    lo: ຢູໂກສະລາເວຍ
+    lt: Jugoslavija
+    lv: Dienvidslāvija
+    lzh: 南斯拉夫
+    mg: Yogoslavia
+    mk: Југославија
+    ml: യുഗോസ്ലാവിയ
+    mn: Югослав
+    mr: युगोस्लाव्हिया
+    ms: Yugoslavia
+    ms-arab: يوݢوسلاۏيا
+    mt: Jugożlavja
+    mul: Jugoslavija
+    mwl: Jugoslábia
+    my: ယူဂိုဆလားဗီးယား
+    mzn: یوگوسلاوی
+    nan: Yugoslavia
+    nb: Jugoslavia
+    nds-nl: Jugoslavie
+    ne: युगोस्लाभिया
+    nl: Joegoslavië
+    nn: Jugoslavia
+    nov: Jugoslavia
+    oc: Iogoslavia
+    or: ଯୁଗୋସ୍ଲୋଭିଆ
+    os: Югослави
+    pa: ਯੂਗੋਸਲਾਵੀਆ
+    pap: Yugoslavia
+    pl: Jugosławia
+    pnb: یوگوسلاویا
+    ps: یوګسلاویا
+    pt: Jugoslávia
+    pt-br: Iugoslávia
+    qu: Yuguslawya
+    rm: Jugoslavia
+    ro: Iugoslavia
+    ru: Югославия
+    rue: Югославія
+    rw: Yugosilaviya
+    sah: Югославия
+    sc: Iugoslàvia
+    scn: Jugoslavia
+    sco: Yugoslavie
+    sd: يوگوسلاويا
+    se: Jugoslavia
+    sh: Jugoslavija
+    si: යුගෝස්ලාවියාව
+    sk: Juhoslávia
+    sl: Jugoslavija
+    smn: Jugoslavia
+    sms: Jugoslavia
+    so: Yugoslaafiya
+    sq: Jugosllavia
+    sr: Југославија
+    sv: Jugoslavien
+    sw: Yugoslavia
+    szl: Jugosławijo
+    ta: யுகோஸ்லாவியா
+    te: యుగోస్లేవియా
+    tg: Югославия
+    th: ยูโกสลาเวีย
+    tl: Yugoslavia
+    to: ʻIukosilāvia
+    tr: Yugoslavya
+    tt: Югославия
+    uk: Югославія
+    ur: یوگوسلاویہ
+    uz: Yugoslaviya
+    vec: Jugoslàvia
+    vep: Jugoslavii
+    vi: Nam Tư
+    vls: Joegosloavië
+    vo: Sulüda-Slavän
+    wa: Yougoslaveye
+    war: Yugoslavia
+    wuu: 南斯拉夫
+    xmf: იუგოსლავია
+    yi: יוגאסלאוויע
+    yue: 南斯拉夫
+    zh: 南斯拉夫
+    zh-cn: 南斯拉夫
+    zh-hans: 南斯拉夫
+    zh-hant: 南斯拉夫
+    zh-hk: 南斯拉夫
+    zh-mo: 南斯拉夫
+    zh-my: 南斯拉夫
+    zh-sg: 南斯拉夫
+    zh-tw: 南斯拉夫
+aliases:
+- an Iúgslaiv
+- Dienvidslāvija
+- Geugoslafia
+- Iogoslavia
+- Iugoslavia
+- Iugoslàvia
+- Iugoslávia
+- Iwgoslafia
+- Iùgoslaibhia
+- Joego-Slawië
+- Joegoslaavje
+- Joegoslavië
+- Joegosloavië
+- Jugoslaavia
+- Jugoslavia
+- Jugoslavie
+- Jugoslavien
+- Jugoslavii
+- Jugoslavija
+- Jugoslavio
+- Jugoslawien
+- Jugoslawje
+- Jugosllavia
+- Jugoslàvia
+- Jugoslábia
+- Jugoslávia
+- Jugoslávie
+- Jugoszlávia
+- Jugosławia
+- Jugosławijo
+- Jugosłowjańska
+- Jugożlavja
+- Juhoslávia
+- Juhosłowjanska
+- Júgóslavía
+- Nam Tư
+- Sulüda-Slavän
+- yn Yugoslaavey
+- Yogoslavia
+- Yougoslaveye
+- Yougoslavi
+- Yougoslavia
+- Yougoslavie
+- Yugosilaviya
+- Yugoslaafiya
+- Yugoslavia
+- Yugoslavie
+- Yugoslaviya
+- Yugoslavya
+- Yuguslavya
+- Yuguslawya
+- Yugusulaviaq
+- Yuqoslaviya
+- Yuğoslawya
+- Yûgoslavya
+- ʻIukosilāvia
+- Γιουγκοσλαβία
+- Југославија
+- Югаславія
+- Югослав
+- Югославія
+- Югославїꙗ
+- Югослави
+- Югославия
+- Եուկոսլաւիա
+- Հարավսլավիա
+- יוגאסלאוויע
+- יוגוסלביה
+- يوجوسلافيا
+- يوغوسلافيا
+- يوگوسلاويا
+- يوݢوسلاۏيا
+- يوݣوسلاڤيا
+- یووگۆسلاڤیا
+- یوګسلاویا
+- یوگسلاوی
+- یوگوسلاوی
+- یوگوسلاویا
+- یوگوسلاویہ
+- युगोस्लाभिया
+- युगोस्लाविया
+- युगोस्लाव्हिया
+- यूगोस्लाविया
+- যুগোস্লাভিয়া
+- ਯੂਗੋਸਲਾਵੀਆ
+- ଯୁଗୋସ୍ଲୋଭିଆ
+- யுகோஸ்லாவியா
+- యుగోస్లేవియా
+- ಯುಗೊಸ್ಲಾವಿಯ
+- യുഗോസ്ലാവിയ
+- යුගෝස්ලාවියාව
+- ยูโกสลาเวีย
+- ຢູໂກສະລາເວຍ
+- ယူဂိုဆလားဗီးယား
+- იუგოსლავია
+- ዩጎስላቪያ
+- យូហ្គោស្លាវី
+- ユーゴスラビア
+- 南斯拉夫
+- 유고슬라비아
+- "\U0001033E\U0001033F\U00010332\U00010349\U00010343\U0001033B\U00010330\U00010331\U0001033E\U00010330"
 ---
-
 #has_/time_/created :: 1918-12-01 
 #has_/time_/destroyed :: 1992-04-27 
 

@@ -1,11 +1,121 @@
 ---
 aliases:
+- Bilį́į́łání Dineʼé Bikéyah Yázhí
+- Chibuti
+- Cibuti
+- Cibutän
+- Cibuuti
+- Cîbûtî
+- Dibouti
+- Dibutùii
+- Dijibuti
+- Diobùtaidh
+- Djiboeti
 - Djibouti
-- جيبوتي
-- 吉布提
+- Djibuti
+- Djibåvtti
+- Dj·iboti
+- Djìbútì
+- Djíbútí
+- Dschibuti
+- Dschibuuti
+- Dzjibûty
+- Dzsibuti
+- Díbuti
+- Dźibuti
+- Dżibuti
+- Džibuti
+- Džibutija
+- Džibutis
+- Džibutsko
+- Džėbotis
+- Gibbuti
+- Gibouti
+- Gibuti
+- Gibutum
+- IJibhuthi
+- IJibuthi
+- Jabuuti
+- Jiboti
+- Jibotia
+- Jibouti
+- Jibuti
+- Jibutia
+- Jibutitò
+- Jibuuti
+- Jibuutii
+- Jibwti
+- Jimbúti
+- Ji̱buti
+- la República de Djibouti
+- ma Sipusi
+- the Republic of Djibouti
+- Tipūti
+- Tschibuti
+- Xhibuti
+- Xibuti
+- Yibuti
+- Yiwuti
+- Zibuti
+- Ĝibutio
+- Τζιμπουτί
+- Џибути
+- Џьибути
+- Джібутьско
+- Джибуті
 - Джибути
-- "the Republic of Djibouti"
-- "la República de Djibouti"
+- Джыбуці
+- Дьибути
+- Жибути
+- Җибудин Орн
+- Җибути
+- Ҷибути
+- Ճիպութի
+- Ջիբութի
+- ג'יבוטי
+- דזשיבוטי
+- جبوتي
+- جبوتی
+- جىبۇتى
+- جيبوتى
+- جيبوتي
+- جيبۊتي
+- جِبوٗتی
+- جیبوتی
+- جیبووتی
+- دجيبوتي
+- ޖިބުތީ
+- जिबुटी
+- जिबूटी
+- जिबूती
+- জিবুতি
+- ডিজিবোটি
+- ਜਿਬੂਤੀ
+- જિબોટી
+- ଡିଜିବୋଇଟି
+- சிபூட்டி
+- జిబౌటి
+- ಜಿಬೂಟಿ
+- ജിബൂട്ടി
+- ජිබුටි
+- ประเทศจิบูตี
+- ປະເທດຈິບູຕີ
+- ཇི་བའོ་ཊི།
+- ဂျီဘူတီ သမ္မတနိုင်ငံ
+- ဂျီဘူတီနိုင်ငံ
+- မိူင်းၵျီႇပူးတီႇ
+- ჯიბუტი
+- ጂቡቲ
+- ጅቡቲ
+- ᏥᏊᏗ
+- ជីបូទី
+- ⵊⵉⴱⵓⵜⵉ
+- ジブチ
+- 吉布地
+- 吉布提
+- ꠎꠤꠛꠥꠔꠤ
+- ꯗ꯭ꯖꯤꯕꯧꯇꯤ
+- 지부티
 confidential: public
 cssclasses: Country
 draft: false
@@ -19,21 +129,300 @@ Languages:
 - so-DJ
 - aa
 layout: 
-license: "CC BY-SA 4.0"
+license: CC BY-SA 4.0
 linkTitle: 
 location:
 - 11.6
 - 43.1667
 publish: true
 publishDate: 
-source: "https://datahub.io/core/country-codes"
+source: https://datahub.io/core/country-codes
 SpocWebEntityId: 26879
 tags:
 - geo/Country
 title: Djibouti
 type: Country
+has_id_wikidata: Q977
+dv_has_:
+  name_:
+    ab: Џьибути
+    ace: Djibouti
+    ady: Джибути
+    aeb-arab: جيبوتي
+    af: Djiboeti
+    am: ጅቡቲ
+    an: Chibuti
+    ang: Cibuti
+    ann: Dijibuti
+    anp: जिबूटी
+    ar: جيبوتي
+    ary: دجيبوتي
+    arz: جيبوتى
+    ast: Xibuti
+    avk: Jibutia
+    az: Cibuti
+    azb: جیبوتی
+    ba: Джибути
+    ban: Djibouti
+    bar: Dschibuti
+    bcl: Dibouti
+    be: Джыбуці
+    be-tarask: Джыбуці
+    bew: Jibuti
+    bg: Джибути
+    bho: जिबूती
+    bi: Jibuti
+    bjn: Djibouti
+    bm: Jibuti
+    bn: জিবুতি
+    bo: ཇི་བའོ་ཊི།
+    bpy: ডিজিবোটি
+    br: Djibouti
+    bs: Džibuti
+    bxr: Джибути
+    ca: Djibouti
+    cbk-zam: Djibouti
+    cdo: Djibouti
+    ce: Джибути
+    ceb: Djibouti
+    chr: ᏥᏊᏗ
+    ckb: جیبووتی
+    co: Díbuti
+    crh: Cibuti
+    crh-latn: Cibuti
+    cs: Džibutsko
+    cv: Джибути
+    cy: Jibwti
+    da: Djibouti
+    dag: Djibouti
+    de: Dschibuti
+    de-at: Dschibuti
+    de-ch: Dschibuti
+    din: Djibouti
+    diq: Cibuti
+    dsb: Džibuti
+    dty: जिबुटी
+    dv: ޖިބުތީ
+    ee: Djibouti
+    el: Τζιμπουτί
+    en: Djibouti
+    en-ca: Djibouti
+    en-gb: Djibouti
+    eo: Ĝibutio
+    es: Yibuti
+    et: Djibouti
+    eu: Djibuti
+    ext: Yibuti
+    fa: جیبوتی
+    ff: Jibuuti
+    fi: Djibouti
+    fo: Djibuti
+    fon: Jibutitò
+    fr: Djibouti
+    frp: Dj·iboti
+    frr: Dschibuuti
+    fy: Dzjibûty
+    ga: Djibouti
+    gaa: Djibouti
+    gag: Cibuti
+    gcr: Djibouti
+    gd: Diobùtaidh
+    gl: Djibuti
+    glk: جيبۊتي
+    gn: Jimbúti
+    gom: जिबूती
+    gpe: Djibouti
+    gsw: Dschibuti
+    gu: જિબોટી
+    gur: Djibouti
+    gv: Djibouti
+    ha: Jibuti
+    hak: Djibouti
+    he: ג'יבוטי
+    hi: जिबूती
+    hif: Djibouti
+    hr: Džibuti
+    hsb: Dźibuti
+    ht: Djibouti
+    hu: Dzsibuti
+    hy: Ջիբութի
+    hyw: Ճիպութի
+    ia: Djibuti
+    id: Jibuti
+    ie: Djibouti
+    ig: Djibouti
+    ilo: Djibouti
+    io: Djibuti
+    is: Djíbútí
+    it: Gibuti
+    ja: ジブチ
+    jam: Jibuuti
+    jv: Djibouti
+    ka: ჯიბუტი
+    kaa: Djibuti
+    kab: Jibuti
+    kbp: Cibuuti
+    kcg: Ji̱buti
+    kg: Djibuti
+    kge: Djibouti
+    ki: Djibouti
+    kk: Джибути
+    km: ជីបូទី
+    kn: ಜಿಬೂಟಿ
+    ko: 지부티
+    ks: جِبوٗتی
+    ku: Cîbûtî
+    kw: Jibouti
+    ky: Жибути
+    la: Gibutum
+    lad: Djibuti
+    lb: Dschibuti
+    lfn: Djibuti
+    lg: Djibouti
+    li: Djibouti
+    lij: Gibuti
+    lld: Gibuti
+    lmo: Djibouti
+    ln: Djibuti
+    lo: ປະເທດຈິບູຕີ
+    lrc: جیبوتی
+    lt: Džibutis
+    lv: Džibutija
+    lzh: 吉布地
+    mad: Djibouti
+    mai: जिबूती
+    map-bms: Djibouti
+    mdf: Джибути
+    mg: Jibotia
+    mhr: Джибути
+    mi: Tipūti
+    min: Djibouti
+    mk: Џибути
+    ml: ജിബൂട്ടി
+    mn: Жибути
+    mni: ꯗ꯭ꯖꯤꯕꯧꯇꯤ
+    mr: जिबूती
+    mrj: Джибути
+    ms: Djibouti
+    mt: Djibouti
+    my: ဂျီဘူတီနိုင်ငံ
+    mzn: جیبوتی
+    na: Djibuti
+    nah: Yibuti
+    nan: Djibouti
+    nb: Djibouti
+    nds: Dschibuti
+    nds-nl: Djibuti
+    ne: जिबुटी
+    new: जिबुटी
+    nl: Djibouti
+    nn: Djibouti
+    nov: Djibuti
+    nso: Djibouti
+    nv: Bilį́į́łání Dineʼé Bikéyah Yázhí
+    oc: Jiboti
+    olo: Džibuti
+    om: Jibuutii
+    or: ଡିଜିବୋଇଟି
+    os: Джибути
+    pa: ਜਿਬੂਤੀ
+    pam: Djibouti
+    pap: Djibouti
+    pdc: Tschibuti
+    pi: जिबूटी
+    pih: Jibuuti
+    pl: Dżibuti
+    pms: Djibouti
+    pnb: جبوتی
+    ps: جيبوتي
+    pt: Djibouti
+    pt-br: Djibuti
+    qu: Yiwuti
+    rki: ဂျီဘူတီ သမ္မတနိုင်ငံ
+    rmy: Jibuti
+    ro: Djibouti
+    ru: Джибути
+    rue: Джібутьско
+    rup: Gibouti
+    rw: Jibuti
+    sa: जिबूटी
+    sah: Дьибути
+    sc: Gibuti
+    scn: Gibbuti
+    sco: Djibouti
+    sd: جبوتي
+    se: Djibouti
+    sg: Dibutùii
+    sgs: Džėbotis
+    sh: Džibuti
+    shi: Djibuti
+    shn: မိူင်းၵျီႇပူးတီႇ
+    si: ජිබුටි
+    sk: Džibutsko
+    sl: Džibuti
+    sm: Djibouti
+    smj: Djibåvtti
+    smn: Djibouti
+    sms: Djibouti
+    sn: Djibouti
+    so: Jabuuti
+    sq: Xhibuti
+    sr: Џибути
+    sr-ec: Џибути
+    sr-el: Džibuti
+    ss: IJibhuthi
+    st: Djibouti
+    stq: Dschibuti
+    su: Djibouti
+    sv: Djibouti
+    sw: Jibuti
+    syl: ꠎꠤꠛꠥꠔꠤ
+    szl: Dżibuti
+    ta: சிபூட்டி
+    te: జిబౌటి
+    tg: Ҷибути
+    th: ประเทศจิบูตี
+    ti: ጂቡቲ
+    tk: Jibuti
+    tl: Djibouti
+    tly: Cibuti
+    tok: ma Sipusi
+    tr: Cibuti
+    ts: Djibouti
+    tt: Җибути
+    tum: Djibouti
+    udm: Джибути
+    ug: جىبۇتى
+    uk: Джибуті
+    ur: جبوتی
+    uz: Jibuti
+    vec: Zibuti
+    vep: Džibuti
+    vi: Djibouti
+    vo: Cibutän
+    vro: Djibouti
+    war: Djibouti
+    wo: Jibuti
+    wuu: 吉布提
+    xal: Җибудин Орн
+    xmf: ჯიბუტი
+    yi: דזשיבוטי
+    yo: Djìbútì
+    yue: 吉布提
+    za: Djibouti
+    zea: Djibouti
+    zgh: ⵊⵉⴱⵓⵜⵉ
+    zh: 吉布提
+    zh-cn: 吉布提
+    zh-hans: 吉布提
+    zh-hant: 吉布地
+    zh-hk: 吉布提
+    zh-mo: 吉布提
+    zh-my: 吉布提
+    zh-sg: 吉布提
+    zh-tw: 吉布地
+    zu: IJibuthi
 ---
-
 [	ISO4217-currency_alphabetic	 :: DJF ] 
 [	ISO4217-currency_name	 :: Djibouti Franc ] 
 [	ISO4217-currency_numeric	 :: 262 ] 

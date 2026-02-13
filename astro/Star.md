@@ -25,7 +25,7 @@ has_characteristic:
 - '[[_Standards/WikiData/WD~stellar_magnetic_field,6449]]'
 has_id_wikidata: Q523
 has_part_s_: '[[_Standards/WikiData/WD~plasma,10251]]'
-image: "http://commons.wikimedia.org/wiki/Special:FilePath/The%20Sun%20by%20the%20Atmospheric%20Imaging%20Assembly%20of%20NASA%27s%20Solar%20Dynamics%20Observatory%20-%2020100819.jpg"
+image: http://commons.wikimedia.org/wiki/Special:FilePath/The%20Sun%20by%20the%20Atmospheric%20Imaging%20Assembly%20of%20NASA%27s%20Solar%20Dynamics%20Observatory%20-%2020100819.jpg
 instance_of: '[[_Standards/WikiData/WD~astronomical_object_type,17444909]]'
 Krugosvet_article: nauka_i_tehnika/astronomiya/ZVEZDI.html
 made_from_material: '[[_Standards/WikiData/WD~plasma,10251]]'
@@ -36,27 +36,27 @@ model_item:
 - '[[_Standards/WikiData/WD~giant_star,5875]]'
 next_higher_rank: '[[_Standards/WikiData/WD~black_hole,589]]'
 next_lower_rank: '[[_Standards/WikiData/WD~planet,634]]'
-nighttime_view: "http://commons.wikimedia.org/wiki/Special:FilePath/Ciel%20%C3%A9toil%C3%A9%20dans%20les%20Vosges.jpg"
+nighttime_view: http://commons.wikimedia.org/wiki/Special:FilePath/Ciel%20%C3%A9toil%C3%A9%20dans%20les%20Vosges.jpg
 OmegaWiki_Defined_Meaning: 6041
 P8979: Q10884
 part_of: '[[_Standards/WikiData/WD~star_system,595871]]'
 properties_for_this_type:
-- "type of variable star"
+- type of variable star
 - ARICNS
 - mass
 - temperature
 - radius
 - metallicity
-- "stellar rotational velocity"
-- "declination component of proper motion"
-- "right ascension component of proper motion"
+- stellar rotational velocity
+- declination component of proper motion
+- right ascension component of proper motion
 - constellation
-- "spectral class"
-quantity: "http://www.wikidata.org/.well-known/genid/4ad9cc81026ccfc9ebf6401f6f690233"
+- spectral class
+quantity: http://www.wikidata.org/.well-known/genid/4ad9cc81026ccfc9ebf6401f6f690233
 Stack_Exchange_tag:
-- "https://astronomy.stackexchange.com/tags/star"
-- "https://physics.stackexchange.com/tags/stars"
-- "https://worldbuilding.stackexchange.com/tags/stars"
+- https://astronomy.stackexchange.com/tags/star
+- https://physics.stackexchange.com/tags/stars
+- https://worldbuilding.stackexchange.com/tags/stars
 subclass_of:
 - '[[_Standards/WikiData/WD~fusor,1027098]]'
 - '[[_Standards/WikiData/WD~light_source,1146001]]'
@@ -67,8 +67,515 @@ topic_s_main_template:
 UMLS_CUI: C0282064
 Unicode_character: ⭐
 Wolfram_Language_entity_type: Star
+dv_has_:
+  name_:
+    af: ster
+    am: ኮኮብ
+    ami: fu'is
+    an: estrela
+    ang: Steorra
+    ann: ntoronyan̄
+    anp: तारा
+    ar: نجم
+    arc: ܟܘܟܒܐ
+    arn: wagülen
+    arq: نجمة
+    ary: نجمة
+    arz: نجمه
+    as: তৰা
+    ast: estrella
+    atj: atcakoc
+    av: цӏва
+    ay: warawara
+    az: ulduz
+    azb: اولدوز
+    ba: йондоҙҙар
+    bar: Stean
+    bcl: bitoon
+    be: зорка
+    be-tarask: зорка
+    bew: bintang
+    bg: звезда
+    bho: तारा
+    bjn: bintang
+    blk: ဆာႏ
+    bn: তারা
+    bo: བརྟན་སྐར།
+    br: steredenn
+    bs: zvijezda
+    btm: bintang
+    bxr: одон
+    ca: estel
+    cdo: hèng-sĭng
+    ce: седа
+    ceb: bituon
+    chr: ᏃᏈᏏ
+    chy: hotohke
+    ckb: ئەستێرە
+    crh: yıldız
+    cs: hvězda
+    cu: ꙃвѣꙁда
+    cv: çăлтăр
+    cy: seren
+    da: stjerne
+    dag: saŋmariga
+    de: Stern
+    dga: ŋmarebiri
+    diq: estare
+    dsb: gwězda
+    dtp: rombituon
+    dty: तारा
+    ee: xletivi
+    el: αστέρας
+    eml: strèla
+    en: star
+    en-ca: star
+    en-gb: star
+    en-us: star
+    eo: stelo
+    es: estrella
+    et: täht
+    eu: izar
+    ext: estrella
+    fa: ستاره
+    fi: tähti
+    fj: kalokalo
+    fo: stjørna
+    fr: étoile
+    frr: Stäär
+    fur: stele
+    fy: stjer
+    ga: réalta
+    gcr: zétwèl
+    gd: reul
+    gl: estrela
+    glk: ستاره
+    gn: mbyja
+    gor: poliyama
+    gpe: star
+    grc: ἀστήρ
+    gsw: Stern
+    gu: તારો
+    gv: rollage
+    ha: tauraro
+    hak: hèn-sên
+    haw: hōkū
+    he: כוכב
+    hi: तारा
+    hif: tara
+    hr: zvijezda
+    hsb: hwězda
+    ht: etwal
+    hu: csillag
+    hy: աստղ
+    ia: stella
+    iba: bintang
+    id: bintang
+    ie: stelle
+    ig: kpakpando
+    ik: uvluġiaq
+    ilo: bituen
+    inh: седкъа
+    io: stelo
+    is: sólstjarna
+    it: stella
+    iu: ᐅᓪᓗᕆᐊᖅ
+    ja: 恒星
+    jam: staar
+    jbo: lo tarci
+    jv: lintang
+    ka: ვარსკვლავი
+    kaa: juldız
+    kab: itri
+    kbp: tɩɩŋa
+    kcg: a̱ta̱ngwat
+    kge: bintang
+    ki: njata
+    kk: жұлдыз
+    kn: ನಕ್ಷತ್ರ
+    knc: shillewu
+    ko: 항성
+    ko-kp: 별
+    krc: джулдуз
+    ks: تارُک
+    ksh: Steern
+    ku: stêr
+    kw: steren
+    ky: жылдыздар
+    la: stella
+    lad: estreya
+    lb: Stär
+    lez: гъед
+    lfn: stela
+    lg: emmunyeenye
+    li: staar
+    lld: stëra
+    lmo: stela
+    ln: monzɔ́tɔ mwa mɔ̌tɔ
+    lo: ດາວລືກ
+    lt: žvaigždė
+    lv: zvaigzne
+    lzh: 恆星
+    mag: तारा
+    map-bms: lintang
+    mdf: тяште
+    mg: kintana
+    mi: whetū
+    min: bintang
+    mk: ѕвезда
+    ml: നക്ഷത്രം
+    mn: од
+    mnc: ᡠᠰᡳᡥᠠ
+    mni: ꯊꯧꯋꯥꯏꯃꯤꯆꯥꯛ
+    mr: तारा
+    mrj: шӹдӹр
+    ms: bintang
+    ms-arab: بينتڠ
+    mt: stilla
+    mwl: streilha
+    my: ကြယ်
+    myv: теште
+    mzn: اساره
+    na: edetang
+    nah: cītlalli
+    nan: hêng-chheⁿ
+    nap: stella
+    nb: stjerne
+    nds: Steern
+    nds-nl: steern
+    ne: तारा
+    new: नगु
+    nl: ster
+    nn: stjerne
+    nov: stele
+    nrm: êtaile
+    nv: sǫʼ
+    oc: estela
+    olo: tiähti
+    om: urjii
+    or: ତାରା
+    os: стъалы
+    pa: ਤਾਰਾ
+    pag: bitewen
+    pam: batuin
+    pap: strea
+    pcd: étole
+    pdc: Schtaern
+    pih: sdar
+    pl: gwiazda
+    pms: stèila
+    pnb: تارا
+    ps: ستوری
+    pt: estrela
+    pt-br: estrela
+    pwn: vitjuqan
+    qu: quyllur
+    rki: ကြယ်
+    rm: staila
+    rmy: chexay
+    ro: stea
+    rsk: гвизда
+    ru: звезда
+    rue: звізда
+    rup: steauâ
+    sa: तारा
+    sah: сулус
+    sat: ᱤᱯᱤᱞ
+    sc: istedda
+    scn: stidda
+    sco: starn
+    sd: تارو
+    se: násti
+    sgs: žvāzdie
+    sh: zvijezda
+    shn: လၢဝ်
+    si: තරු
+    sjd: та̄ссьт
+    sk: hviezda
+    sl: zvezda
+    sma: naestie
+    smj: násste
+    smn: täsni
+    sms: täʹsnn
+    sn: nyenyedzi
+    so: xidig
+    sq: yll
+    sr: звезда
+    sr-ec: звезда
+    sr-el: zvezda
+    stq: Stiern
+    su: béntang
+    sv: stjärna
+    sw: nyota
+    szl: gwiŏzda
+    ta: விண்மீன்
+    tay: bzngah
+    te: నక్షత్రము
+    tg: ситора
+    th: ดาวฤกษ์
+    tk: ýyldyz
+    tl: bituin
+    tok: mun
+    tr: yıldız
+    trv: pngerah
+    tt: йолдыз
+    tt-cyrl: йолдыз
+    tw: nsoroma
+    udm: кизили
+    uk: зоря
+    ur: ستارہ
+    uz: yulduz
+    vec: steła
+    vep: tähtaz
+    vi: sao
+    vls: sterre
+    vo: stel
+    vro: taivatäht
+    wa: sitoele
+    war: bitoon
+    wuu: 恆星
+    xal: одн
+    xh: inkwenkwezi
+    xmf: მურიცხი
+    yi: שטערן
+    yo: ìràwọ̀
+    yue: 恆星
+    za: ndaundeiq
+    zgh: ⵜⵉⵜⵔⵉⵜ
+    zh: 恒星
+    zh-cn: 恒星
+    zh-hans: 恒星
+    zh-hant: 恆星
+    zh-hk: 恆星
+    zh-mo: 恆星
+    zh-my: 恒星
+    zh-sg: 恒星
+    zh-tw: 恆星
+    zu: inkanyezi
+aliases:
+- atcakoc
+- a̱ta̱ngwat
+- batuin
+- bintang
+- bitewen
+- bitoon
+- bituen
+- bituin
+- bituon
+- bzngah
+- béntang
+- chexay
+- csillag
+- cītlalli
+- edetang
+- emmunyeenye
+- estare
+- estel
+- estela
+- estrela
+- estrella
+- estreya
+- etwal
+- fu'is
+- gwiazda
+- gwiŏzda
+- gwězda
+- hotohke
+- hviezda
+- hvězda
+- hwězda
+- hèn-sên
+- hèng-sĭng
+- hêng-chheⁿ
+- hōkū
+- inkanyezi
+- inkwenkwezi
+- istedda
+- itri
+- izar
+- juldız
+- kalokalo
+- kintana
+- kpakpando
+- lintang
+- lo tarci
+- mbyja
+- monzɔ́tɔ mwa mɔ̌tɔ
+- mun
+- naestie
+- ndaundeiq
+- njata
+- nsoroma
+- ntoronyan̄
+- nyenyedzi
+- nyota
+- násste
+- násti
+- pngerah
+- poliyama
+- quyllur
+- reul
+- rollage
+- rombituon
+- réalta
+- sao
+- saŋmariga
+- Schtaern
+- sdar
+- seren
+- shillewu
+- sitoele
+- staar
+- staila
+- star
+- starn
+- stea
+- Stean
+- steauâ
+- Steern
+- stel
+- stela
+- stele
+- stella
+- stelle
+- stelo
+- Steorra
+- ster
+- steredenn
+- steren
+- Stern
+- sterre
+- steła
+- stidda
+- Stiern
+- stilla
+- stjer
+- stjerne
+- stjärna
+- stjørna
+- strea
+- streilha
+- strèla
+- Stär
+- Stäär
+- stèila
+- stêr
+- stëra
+- sólstjarna
+- sǫʼ
+- taivatäht
+- tara
+- tauraro
+- tiähti
+- täht
+- tähtaz
+- tähti
+- täsni
+- täʹsnn
+- tɩɩŋa
+- ulduz
+- urjii
+- uvluġiaq
+- vitjuqan
+- wagülen
+- warawara
+- whetū
+- xidig
+- xletivi
+- yll
+- yulduz
+- yıldız
+- zvaigzne
+- zvezda
+- zvijezda
+- zétwèl
+- çăлтăр
+- étoile
+- étole
+- êtaile
+- ìràwọ̀
+- ýyldyz
+- ŋmarebiri
+- žvaigždė
+- žvāzdie
+- αστέρας
+- ѕвезда
+- гвизда
+- гъед
+- джулдуз
+- жылдыздар
+- жұлдыз
+- звізда
+- звезда
+- зорка
+- зоря
+- йолдыз
+- йондоҙҙар
+- кизили
+- од
+- одн
+- одон
+- седа
+- седкъа
+- ситора
+- стъалы
+- сулус
+- та̄ссьт
+- теште
+- тяште
+- цӏва
+- шӹдӹр
+- աստղ
+- כוכב
+- שטערן
+- ئەستێرە
+- اساره
+- اولدوز
+- بينتڠ
+- تارا
+- تارو
+- تارُک
+- ستاره
+- ستارہ
+- ستوری
+- نجم
+- نجمة
+- نجمه
+- ܟܘܟܒܐ
+- तारा
+- नगु
+- তারা
+- তৰা
+- ਤਾਰਾ
+- તારો
+- ତାରା
+- விண்மீன்
+- నక్షత్రము
+- ನಕ್ಷತ್ರ
+- നക്ഷത്രം
+- තරු
+- ดาวฤกษ์
+- ດາວລືກ
+- བརྟན་སྐར།
+- ကြယ်
+- ဆာႏ
+- လၢဝ်
+- ვარსკვლავი
+- მურიცხი
+- ኮኮብ
+- ᏃᏈᏏ
+- ᐅᓪᓗᕆᐊᖅ
+- ᡠᠰᡳᡥᠠ
+- ᱤᱯᱤᱞ
+- ἀστήρ
+- ⵜⵉⵜⵔⵉⵜ
+- 恆星
+- 恒星
+- ꙃвѣꙁда
+- ꯊꯧꯋꯥꯏꯃꯤꯆꯥꯛ
+- 별
+- 항성
 ---
-
 # [[Star]] 
 
 ## #has_/text_of_/abstract 
