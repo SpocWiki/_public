@@ -69,6 +69,9 @@ dv_has_:
     zh-sg: 世界大地测量系统
     zh-tw: 世界大地測量系統
 ---
+
+# [[WGS_84]]  
+
 > The World Geodetic System (WGS) is a standard used in cartography, geodesy, and satellite navigation including GPS. 
 > 
 > The current version, WGS 84, defines an Earth-centered, Earth-fixed coordinate system and a geodetic datum, and also describes the associated Earth Gravitational Model (EGM) and World Magnetic Model (WMM). 

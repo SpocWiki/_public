@@ -422,7 +422,11 @@ dv_has_:
     zh-sg: 吉布提
     zh-tw: 吉布地
     zu: IJibuthi
+Unicode_character: 🇩🇯
 ---
+
+# [[Djibouti]] 🇩🇯 
+
 [	ISO4217-currency_alphabetic	 :: DJF ] 
 [	ISO4217-currency_name	 :: Djibouti Franc ] 
 [	ISO4217-currency_numeric	 :: 262 ] 

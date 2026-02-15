@@ -576,7 +576,10 @@ aliases:
 - 별
 - 항성
 ---
-# [[Star]] 
+
+# [[Star]] ⭐ 
+
+
 
 ## #has_/text_of_/abstract 
 

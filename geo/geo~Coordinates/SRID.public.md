@@ -66,6 +66,9 @@ aliases:
 - 空间参考系统
 - 공간기준계
 ---
+
+# [[SRID]]  
+
 > A spatial reference system (SRS) or coordinate reference system (CRS) is a framework used to precisely measure locations on the surface of the Earth as coordinates. It is thus the application of the abstract mathematics of coordinate systems and analytic geometry to geographic space. 
 > 
 > A particular SRS specification (for example, "Universal Transverse Mercator WGS 84 Zone 16N") comprises 
