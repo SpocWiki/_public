@@ -115,9 +115,9 @@ markerFolder: ./Aruba/
 [Area-Land::0]
 Continent :: [[South-America]]  
 [VehicleCode::ARU]
-Capital :: [[Aruba/City/Oranjestad]]  
+Capital :: [[Aruba/City/Oranjestad|Oranjestad]]  
 
-![[Aruba/Coat_of_arms_of_Aruba.svg|350]]![[../../../xLarge.public/National-Anthem/Anthem-Aruba.mp3]]
+![[Aruba/Coat_of_arms_of_Aruba.svg|350]]![[../../../xLarge.public/National-Anthem/Anthem-Aruba.mp3|Anthem-Aruba.mp3]]
 
 ![[Aruba/Flag_of_Aruba.svg|350]]
 

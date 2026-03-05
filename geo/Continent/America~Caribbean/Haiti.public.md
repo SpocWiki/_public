@@ -116,11 +116,11 @@ markerFolder: ./Haiti/
 [Area-Land::27560]
 Continent :: [[South-America]]  
 [VehicleCode::RH]
-Capital :: [[Haiti/Counties/Ouest/City/Port-au-Prince]]  
+Capital :: [[Haiti/Counties/Ouest/City/Port-au-Prince|Port-au-Prince]]  
 
 ![[Haiti/Coat_of_arms_of_Haiti.svg|450]]
 
-![[../../../xLarge.public/National-Anthem/Anthem-Haiti.mp3]]
+![[../../../xLarge.public/National-Anthem/Anthem-Haiti.mp3|Anthem-Haiti.mp3]]
 
 ![[Haiti/Flag_of_Haiti.svg|350]]
 

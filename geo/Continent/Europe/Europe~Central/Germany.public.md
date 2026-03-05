@@ -120,7 +120,7 @@ markerFolder: ./Germany/
 
 ![[Coat_of_arms_of_Germany.svg|350]] 
 
-![[../../../../xLarge.public/National-Anthem/Anthem-Germany.mp3]] 
+![[../../../../xLarge.public/National-Anthem/Anthem-Germany.mp3|Anthem-Germany.mp3]] 
 ![[Flag_of_Germany.svg|350]] 
 
 
@@ -129,7 +129,7 @@ markerFolder: ./Germany/
 [Area-Land::349270] 
 Continent :: [[Europe]]  
 [VehicleCode::D] 
-Capital :: [[../../../../../_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Berlin,State/cities~Berlin/Berlin,City]]  
+Capital :: [[../../../../../_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Berlin,State/cities~Berlin/Berlin,City|Berlin,City]]  
 [Alcohol-l::12.8] 
 [Language-Id::497] 
 [geo-lon::10.1207] 

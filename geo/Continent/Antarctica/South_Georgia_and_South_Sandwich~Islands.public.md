@@ -25,7 +25,7 @@ markerFolder: ./South Georgia_And_The_South_Sandwich_Islands/
 [name-de::Sandwich Inseln]
 [Area-Total::0]
 [Area-Land::0]
-Continent:[[../Antarctica]]  
+Continent:[[../Antarctica|Antarctica]]  
 [VehicleCode::]
 [Capital-Id::]
 [Alcohol-l::]

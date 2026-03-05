@@ -122,7 +122,7 @@ Capital :: [[Abuja]]
 
 ![[Coat_of_arms_of_Nigeria.svg|350]] 
 
-![[../../../../xLarge.public/National-Anthem/Anthem-Nigeria.mp3]] 
+![[../../../../xLarge.public/National-Anthem/Anthem-Nigeria.mp3|Anthem-Nigeria.mp3]] 
 
 ![[Flag_of_Nigeria.svg|350]] 
 

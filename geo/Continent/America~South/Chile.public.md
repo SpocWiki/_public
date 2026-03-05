@@ -115,11 +115,11 @@ markerFolder: ./Chile/
 [Area-Land::748800] 
 Continent :: [[South-America]]  
 [VehicleCode::RCH] 
-Capital :: [[Chile/Counties/Región_Metropolitana_de_Santiago/City/Santiago]]  
+Capital :: [[Chile/Counties/Región_Metropolitana_de_Santiago/City/Santiago|Santiago]]  
 
 ![[Chile/Coat_of_arms_of_Chile.svg|550]] 
 
-![[../../../xLarge.public/National-Anthem/Anthem-Chile.mp3]] 
+![[../../../xLarge.public/National-Anthem/Anthem-Chile.mp3|Anthem-Chile.mp3]] 
 
 ![[Chile/Flag_of_Chile.svg|350]] 
 

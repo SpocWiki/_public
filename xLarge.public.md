@@ -37,7 +37,7 @@ This is the accompanying Description for the git Repository https://github.com/S
 
 which should be checked out into the Sub-Folder of the same Name [[xLarge.public]] to preserve relative Links. 
 
-Detail-Information can found in [[xLarge.public/ReadMe]]. 
+Detail-Information can found in [[xLarge.public/ReadMe|ReadMe]]. 
 
 Git actually created a [[IT/URL/SymLink|SymLink]] to indicate this Folder. 
 

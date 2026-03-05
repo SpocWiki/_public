@@ -118,7 +118,7 @@ Capital :: [[Praia]]
 
 ![[Coat_of_arms_of_Cape_Verde.svg|350]] 
 
-![[../../../../xLarge.public/National-Anthem/Anthem-Cape-verde.mp3]] 
+![[../../../../xLarge.public/National-Anthem/Anthem-Cape-verde.mp3|Anthem-Cape-verde.mp3]] 
 
 ![[Flag_of_Cape_Verde.svg|350]] 
 [Alcohol-l::5] 

@@ -115,7 +115,7 @@ markerFolder: ./Canada/
 
 ![[Canada/Coat_of_arms_of_Canada.svg|350]] 
 
-![[../../../xLarge.public/National-Anthem/Anthem-Canada.mp3]] 
+![[../../../xLarge.public/National-Anthem/Anthem-Canada.mp3|Anthem-Canada.mp3]] 
 
 ![[Canada/Flag_of_Canada.svg|350]] 
 
@@ -123,7 +123,7 @@ markerFolder: ./Canada/
 [Area-Land::9220970] 
 Continent :: [[North-America]]  
 [VehicleCode::CDN] 
-Capital :: [[Canada/State/State~Ontario/City/Ottawa]]  
+Capital :: [[Canada/State/State~Ontario/City/Ottawa|Ottawa]]  
 [Alcohol-l::9.8] 
 [Language-Id::499] 
 [geo-lon::-87.1444] 

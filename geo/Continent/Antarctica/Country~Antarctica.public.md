@@ -115,7 +115,7 @@ markerFolder: ./Antarctica/
 [name-de::Antarktis]
 [Area-Total::0]
 [Area-Land::0]
-Continent :: [[../Antarctica]]  
+Continent :: [[../Antarctica|Antarctica]]  
 [VehicleCode::]
 [Capital-Id::]
 [Alcohol-l::]

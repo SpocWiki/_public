@@ -110,7 +110,7 @@ markerFolder: ./Martinique/
 [name-en::Martinique]
 [name-de::Martinique]
 
-![[Mexico/Coat_of_arms_of_Mexico.svg|350]]![[../../../xLarge.public/National-Anthem/Anthem-Mexico.mp3]]
+![[Mexico/Coat_of_arms_of_Mexico.svg|350]]![[../../../xLarge.public/National-Anthem/Anthem-Mexico.mp3|Anthem-Mexico.mp3]]
 
 ![[Mexico/Flag_of_Mexico.svg|350]]
 
@@ -118,7 +118,7 @@ markerFolder: ./Martinique/
 [Area-Land::0]
 Continent :: [[South-America]]  
 [VehicleCode::]
-Capital :: [[Martinique/City/Fort-de-France]]  
+Capital :: [[Martinique/City/Fort-de-France|Fort-de-France]]  
 [Alcohol-l::]
 [Language-Id::]
 [geo-lon::-61.0667]

@@ -119,7 +119,7 @@ Capital :: [[Tripolis=Tripoli]]
 
 ![[Seal_of_the_Government_of_National_Unity_(Libya).svg|350]] 
 
-![[../../../../xLarge.public/National-Anthem/Anthem-Libya.mp3]] 
+![[../../../../xLarge.public/National-Anthem/Anthem-Libya.mp3|Anthem-Libya.mp3]] 
 
 ![[Flag_of_Libya.svg|350]] 
 

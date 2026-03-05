@@ -112,7 +112,7 @@ markerFolder: ./Grenada/
 
 ![[Grenada/Coat_of_arms_of_Grenada.svg|450]]
 
-![[../../../xLarge.public/National-Anthem/Anthem-Guatemala.mp3]]
+![[../../../xLarge.public/National-Anthem/Anthem-Guatemala.mp3|Anthem-Guatemala.mp3]]
 
 ![[Grenada/Flag_of_Grenada.svg|350]]
 
@@ -120,7 +120,7 @@ markerFolder: ./Grenada/
 [Area-Land::340]
 Continent :: [[South-America]]  
 [VehicleCode::WG]
-Capital :: [[Grenada/City/St._George’s]]  
+Capital :: [[Grenada/City/St._George’s|St._George’s]]  
 [Alcohol-l::10.4]
 [Language-Id::499]
 [geo-lon::-61.75]

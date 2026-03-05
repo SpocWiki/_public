@@ -111,7 +111,7 @@ markerFolder: ./Montserrat/
 
 ![[Mexico/Coat_of_arms_of_Mexico.svg|350]]
 
-![[../../../xLarge.public/National-Anthem/Anthem-Mexico.mp3]]
+![[../../../xLarge.public/National-Anthem/Anthem-Mexico.mp3|Anthem-Mexico.mp3]]
 
 ![[Mexico/Flag_of_Mexico.svg|350]]
 
@@ -119,7 +119,7 @@ markerFolder: ./Montserrat/
 [Area-Land::0]
 Continent :: [[South-America]]  
 [VehicleCode::]
-Capital :: [[Montserrat/Counties/Saint_Peter/City/Brades]]  
+Capital :: [[Montserrat/Counties/Saint_Peter/City/Brades|Brades]]  
 [Alcohol-l::]
 [Language-Id::]
 [geo-lon::-62.2]

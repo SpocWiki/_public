@@ -109,7 +109,7 @@ markerFolder: ./French_Southern_Territories/
 [name-de::Französische südliche Territorien]
 [Area-Total::0]
 [Area-Land::0]
-Continent:[[../Antarctica]]  
+Continent:[[../Antarctica|Antarctica]]  
 [VehicleCode::]
 [Capital-Id::]
 [Alcohol-l::]

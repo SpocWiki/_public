@@ -117,7 +117,7 @@ markerFolder: ./Suriname/
 
 ![[Mexico/Coat_of_arms_of_Mexico.svg|350]] 
 
-![[../../../xLarge.public/National-Anthem/Anthem-Mexico.mp3]] 
+![[../../../xLarge.public/National-Anthem/Anthem-Mexico.mp3|Anthem-Mexico.mp3]] 
 
 ![[Mexico/Flag_of_Mexico.svg|350]] 
 
@@ -125,7 +125,7 @@ markerFolder: ./Suriname/
 [Area-Land::156000] 
 Continent :: [[South-America]]  
 [VehicleCode::SME] 
-Capital :: [[Suriname/Counties/Paramaribo/City/Paramaribo]]  
+Capital :: [[Suriname/Counties/Paramaribo/City/Paramaribo|Paramaribo]]  
 [Alcohol-l::6.1] 
 [Language-Id::] 
 [geo-lon::-55.17] 

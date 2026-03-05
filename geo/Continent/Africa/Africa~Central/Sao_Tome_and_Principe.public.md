@@ -27,7 +27,7 @@ markerFolder: ./Sao_Tome_and_Principe//
 [Area-Land::960] 
 Continent :: [[Africa]]  
 ![[Coat_of_arms_of_Sao-tome-and-principe.svg|350]] 
-![[../../../../xLarge.public/National-Anthem/Anthem-Sao-tome-and-principe.mp3]] 
+![[../../../../xLarge.public/National-Anthem/Anthem-Sao-tome-and-principe.mp3|Anthem-Sao-tome-and-principe.mp3]] 
 ![[Flag_of_Sao-tome-and-principe.svg|350]] 
 [VehicleCode::] 
 [Capital-Id::] 

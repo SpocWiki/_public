@@ -443,7 +443,7 @@ on a global-scale
 (in Opposition to Islands, the largest of which is [[Greenland]]). 
 
 
-They largely coincide with a subset of Tectonic plates, which can also form high Mountain Ranges like the Alps or the Himalayas, but except for the Ural (separating [[Continent/Europe]] from [[Continent/Asia]] , these are not typically used to distinguish Continents. 
+They largely coincide with a subset of Tectonic plates, which can also form high Mountain Ranges like the Alps or the Himalayas, but except for the Ural (separating [[Continent/Europe|Europe]] from [[Continent/Asia|Asia]] , these are not typically used to distinguish Continents. 
 
 ## Abstract 
 

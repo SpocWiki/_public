@@ -115,11 +115,11 @@ markerFolder: ./Ecuador/
 [Area-Land::276840] 
 Continent :: [[South-America]]  
 [VehicleCode::EC] 
-Capital :: [[Ecuador/Counties/Pichincha/City/Quito]]  
+Capital :: [[Ecuador/Counties/Pichincha/City/Quito|Quito]]  
 
 ![[Ecuador/Coat_of_arms_of_Ecuador.svg|350]] 
 
-![[../../../xLarge.public/National-Anthem/Anthem-Ecuador.mp3]] 
+![[../../../xLarge.public/National-Anthem/Anthem-Ecuador.mp3|Anthem-Ecuador.mp3]] 
 
 ![[Ecuador/Flag_of_Ecuador.svg|350]] 
 

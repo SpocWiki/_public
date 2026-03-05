@@ -114,11 +114,11 @@ markerFolder: ./Bangladesh/
 [Area-Land::130170] 
 Continent :: [[Asia]]  
 [VehicleCode::BD] 
-Capital :: [[Bangladesh/Counties/Dhaka/City/Dhaka]]  
+Capital :: [[Bangladesh/Counties/Dhaka/City/Dhaka|Dhaka]]  
 
 ![[Coat_of_arms_of_Bangladesh.svg|350]] 
 
-![[../../../../xLarge.public/National-Anthem/Anthem-Bangladesh.mp3]] 
+![[../../../../xLarge.public/National-Anthem/Anthem-Bangladesh.mp3|Anthem-Bangladesh.mp3]] 
 ![[Bangladesh/Flag_of_Bangladesh.svg|350]]  
 
 [Alcohol-l::0.2] 

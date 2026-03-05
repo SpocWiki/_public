@@ -115,7 +115,7 @@ markerFolder: ./Cayman~Islands/
 [Area-Land::0]
 Continent :: [[South-America]]  
 [VehicleCode::]
-Capital :: [[Cayman~Islands/City/George_Town]]  
+Capital :: [[Cayman~Islands/City/George_Town|George_Town]]  
 [Alcohol-l::]
 [Language-Id::]
 [geo-lon::-81.3667]

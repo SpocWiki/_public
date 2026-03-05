@@ -22,7 +22,7 @@ markerFolder: ./ANTARCTIC_FISHERIES/
 [name-de::Antarktische Fischgebiete]
 [Area-Total::]
 [Area-Land::]
-Continent:[[../Antarctica]]  
+Continent:[[../Antarctica|Antarctica]]  
 [VehicleCode::]
 [Capital-Id::]
 [Alcohol-l::]

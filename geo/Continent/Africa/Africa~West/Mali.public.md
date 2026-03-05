@@ -119,7 +119,7 @@ Capital :: [[Bamako]]
 
 ![[Coat_of_arms_of_Mali.svg|350]] 
 
-![[../../../../xLarge.public/National-Anthem/Anthem-Mali.mp3]] 
+![[../../../../xLarge.public/National-Anthem/Anthem-Mali.mp3|Anthem-Mali.mp3]] 
 
 ![[Flag_of_Mali.svg|350]] 
 

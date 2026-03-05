@@ -121,7 +121,7 @@ Capital :: [[Port_Louis]]
 
 ![[Coat_of_arms_of_Mauritius.svg|450]] 
 
-![[../../../../xLarge.public/National-Anthem/Anthem-Mauritius.mp3]] 
+![[../../../../xLarge.public/National-Anthem/Anthem-Mauritius.mp3|Anthem-Mauritius.mp3]] 
 
 ![[Flag_of_Mauritius.svg|350]] 
 

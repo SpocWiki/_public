@@ -114,10 +114,10 @@ markerFolder: ./Uruguay/
 [Area-Land::174810] 
 Continent :: [[South-America]]  
 [VehicleCode::ROU] 
-Capital :: [[Uruguay/Counties/Montevideo/City/Montevideo]]  
+Capital :: [[Uruguay/Counties/Montevideo/City/Montevideo|Montevideo]]  
 ![[Uruguay/Coat_of_arms_of_Uruguay.svg|350]] 
 
-![[../../../xLarge.public/National-Anthem/Anthem-Uruguay.mp3]] 
+![[../../../xLarge.public/National-Anthem/Anthem-Uruguay.mp3|Anthem-Uruguay.mp3]] 
 
 ![[Uruguay/Flag_of_Uruguay.svg|350]] 
 

@@ -122,7 +122,7 @@ Capital :: [[Dakar]]
 
 ![[Coat_of_arms_of_Senegal.svg|350]] 
 
-![[../../../../xLarge.public/National-Anthem/Anthem-Senegal.mp3]] 
+![[../../../../xLarge.public/National-Anthem/Anthem-Senegal.mp3|Anthem-Senegal.mp3]] 
 
 ![[Flag_of_Senegal.svg|350]] 
 

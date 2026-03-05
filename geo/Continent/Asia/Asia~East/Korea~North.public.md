@@ -31,7 +31,7 @@ markerFolder: ./Korea~North/
 [Area-Land::120410] 
 Continent :: [[Asia]]  
 [VehicleCode::KP] 
-Capital :: [[Korea~North/City/Pyongyang]] ] 
+Capital :: [[Korea~North/City/Pyongyang|Pyongyang]] ] 
 [Alcohol-l::3.5] 
 [Language-Id::459] 
 [geo-lon::125.75] 

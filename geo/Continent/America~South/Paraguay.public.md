@@ -114,7 +114,7 @@ markerFolder: ./Paraguay/
 
 ![[Mexico/Coat_of_arms_of_Mexico.svg|350]] 
 
-![[../../../xLarge.public/National-Anthem/Anthem-Mexico.mp3]] 
+![[../../../xLarge.public/National-Anthem/Anthem-Mexico.mp3|Anthem-Mexico.mp3]] 
 
 ![[Mexico/Flag_of_Mexico.svg|350]] 
 
@@ -122,7 +122,7 @@ markerFolder: ./Paraguay/
 [Area-Land::397300] 
 Continent :: [[South-America]]  
 [VehicleCode::PY] 
-Capital :: [[Paraguay/Counties/Presidente_Hayes/City/Asuncion]]  
+Capital :: [[Paraguay/Counties/Presidente_Hayes/City/Asuncion|Asuncion]]  
 [Alcohol-l::7.9] 
 [Language-Id::492] 
 [geo-lon::-57.67] 

@@ -116,10 +116,10 @@ markerFolder: ./Sweden///
 [Area-Land::411620] 
 Continent :: [[Europe]]  
 [VehicleCode::S] 
-Capital :: [[./Sweden/Counties/Stockholm]]  
+Capital :: [[./Sweden/Counties/Stockholm|Stockholm]]  
 ![[Coat_of_arms_of_Sweden.svg|350]] 
 
-![[../../../../xLarge.public/National-Anthem/Anthem-Sweden.mp3]] 
+![[../../../../xLarge.public/National-Anthem/Anthem-Sweden.mp3|Anthem-Sweden.mp3]] 
 
 ![[Flag_of_Sweden.svg|350]] 
 [Alcohol-l::10.3] 

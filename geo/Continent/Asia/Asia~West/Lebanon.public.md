@@ -119,10 +119,10 @@ markerFolder: ./Lebanon/
 [Area-Land::10230] 
 Continent :: [[Asia]]  
 [VehicleCode::RL] 
-Capital :: [[Lebanon/Counties/Beirut/City/Beirut]]  
+Capital :: [[Lebanon/Counties/Beirut/City/Beirut|Beirut]]  
 ![[Lebanon/Coat_of_arms_of_Lebanon.svg|350]]  
 
-![[../../../../xLarge.public/National-Anthem/Anthem-Lebanon.mp3]] 
+![[../../../../xLarge.public/National-Anthem/Anthem-Lebanon.mp3|Anthem-Lebanon.mp3]] 
 ![[Lebanon/Flag_of_Lebanon.svg|350]]  
 
 [Alcohol-l::2.2] 

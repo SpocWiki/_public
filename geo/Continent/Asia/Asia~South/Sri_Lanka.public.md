@@ -116,11 +116,11 @@ markerFolder: ./Sri_Lanka//
 [Area-Land::64630] 
 Continent :: [[Asia]]  
 [VehicleCode::CL] 
-Capital :: [[Sri_Lanka/Counties/Kŏḷamba/City/Sri_Jayawardenapura-Kotte]]  
+Capital :: [[Sri_Lanka/Counties/Kŏḷamba/City/Sri_Jayawardenapura-Kotte|Sri_Jayawardenapura-Kotte]]  
 
 ![[Sri_Lanka/Emblem_of_Sri_Lanka.svg|350]] 
 
-![[../../../../xLarge.public/National-Anthem/Anthem-Sri-lanka.mp3]] 
+![[../../../../xLarge.public/National-Anthem/Anthem-Sri-lanka.mp3|Anthem-Sri-lanka.mp3]] 
 
 ![[Sri_Lanka/Flag_of_Sri_Lanka.svg|350]] 
 

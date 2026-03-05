@@ -29,7 +29,7 @@ dv_UNTERM_Chinese_Formal: 匈牙利
 dv_UNTERM_French_Formal: la Hongrie
 dv_UNTERM_Russian: Венгрия
 dv_UNTERM_Russian_Formal: Венгрия
-dv_Region_Name: "[[../../../../../_Standards/Earth/Continent/Europe]]"
+dv_Region_Name: "[[../../../../../_Standards/Earth/Continent/Europe|Europe]]"
 dv_Intermediate_Region_Name: "[[Hungary.public]]"
 dv_Sub-region_Name: "[[Eastern Europe]]"
 dv_Region: 150
@@ -55,9 +55,9 @@ dv_ISO3: HUN
 dv_name-de: Ungarn
 dv_Area-Total: 93030
 dv_Area-Land: 92340
-dv_Continent: "[[../../../../../_Standards/Earth/Continent/Europe]]"
+dv_Continent: "[[../../../../../_Standards/Earth/Continent/Europe|Europe]]"
 dv_VehicleCode: H
-dv_Capital: "[[geo/Continent/Europe/Europe~East/Hungary/Counties/Budapest]]"
+dv_Capital: "[[geo/Continent/Europe/Europe~East/Hungary/Counties/Budapest|Budapest]]"
 dv_Alcohol-l: 16.3
 dv_geo-lon: 19.1508
 dv_geo-lat: 47.2796
@@ -179,7 +179,7 @@ markerFolder: ./Hungary///
  Capital = `$= dv.current.dv_Capital` 
 ![[Coat_of_arms_of_Hungary.svg|359]] 
 
-![[../../../../xLarge.public/National-Anthem/Anthem-Hungary.mp3]] 
+![[../../../../xLarge.public/National-Anthem/Anthem-Hungary.mp3|Anthem-Hungary.mp3]] 
 
 ![[Flag_of_Hungary.svg|299]] 
  Alcohol-l = `$= dv.current.dv_Alcohol-l`  

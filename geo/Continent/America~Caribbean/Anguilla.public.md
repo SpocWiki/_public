@@ -120,7 +120,7 @@ markerFolder: ./Anguilla/
 [Area-Land::0]
 Continent :: [[South-America]] 
 [VehicleCode::AXA]
-Capital :: [[Anguilla/Counties/The_Valley/City/The_Valley]]  
+Capital :: [[Anguilla/Counties/The_Valley/City/The_Valley|The_Valley]]  
 [Alcohol-l::]
 [Language-Id::]
 [geo-lon::-63.049]

@@ -1,6 +1,6 @@
 # schema.org Overview
 
-Schema.org defines a set of [[schema.org/Type]]s and [[schema.org/Predicate]]s in Semantic Web Technologies to describe any [[schema.org/Entity]]  in a way that both Humans and Computers can understan. 
+Schema.org defines a set of [[schema.org/Type|Type]]s and [[schema.org/Predicate|Predicate]]s in Semantic Web Technologies to describe any [[schema.org/Entity|Entity]]  in a way that both Humans and Computers can understan. 
 
 ```folderv
 ```

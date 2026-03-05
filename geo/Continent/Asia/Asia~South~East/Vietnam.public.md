@@ -122,7 +122,7 @@ Capital :: [[Hanoe]]
 
 ![[Emblem_of_Vietnam.svg|350]] 
 
-![[../../../../xLarge.public/National-Anthem/Anthem-Vietnam.mp3]] 
+![[../../../../xLarge.public/National-Anthem/Anthem-Vietnam.mp3|Anthem-Vietnam.mp3]] 
 
 ![[Flag_of_Vietnam.svg|350]] 
 

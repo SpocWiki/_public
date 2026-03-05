@@ -118,7 +118,7 @@ markerFolder: ./French_Guiana/
 [Area-Land::0] 
 Continent :: [[South-America]]  
 [VehicleCode::] 
-Capital :: [[French_Guiana/City/Cayenne=Franz.]]  
+Capital :: [[French_Guiana/City/Cayenne=Franz.|Cayenne=Franz.]]  
 [Alcohol-l::] 
 [Language-Id::496] 
 [geo-lon::-52.3] 

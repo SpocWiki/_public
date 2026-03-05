@@ -12,13 +12,13 @@ type: TrizContradiction
 
 dv_has_:
   result_:
-    positive: "[[../Parameter/Triz-stationary_Weight]]"
-    negative: "[[../Parameter/Triz-stationary_Duration]]"
-dv_Triz-Principle: "[[../Principle/Triz-Universality]]"
+    positive: "[[../Parameter/Triz-stationary_Weight|Triz-stationary_Weight]]"
+    negative: "[[../Parameter/Triz-stationary_Duration|Triz-stationary_Duration]]"
+dv_Triz-Principle: "[[../Principle/Triz-Universality|Triz-Universality]]"
 dv_name: stationary_Weight+Universality-stationary_Duration
 dv_SpocWebEntityId: 22731
-dv_has_result_positive: "[[../Parameter/Triz-stationary_Weight]]"
-dv_has_result_negative: "[[../Parameter/Triz-stationary_Duration]]"
+dv_has_result_positive: "[[../Parameter/Triz-stationary_Weight|Triz-stationary_Weight]]"
+dv_has_result_negative: "[[../Parameter/Triz-stationary_Duration|Triz-stationary_Duration]]"
 ---
 
  name = `$= dv.current.dv_name` 

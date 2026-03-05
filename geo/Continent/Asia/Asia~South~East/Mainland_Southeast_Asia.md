@@ -78,32 +78,32 @@ aliases:
 - "\U00010339\U0001033D\U00010333\U0001033E\U00010330\U0001033A\U00010339\U00010338\U00010330"
 has_id_wikidata: Q43467
 instance_of:
-- '[[_Standards/WikiData/WD~region,82794]]'
-- '[[_Standards/WikiData/WD~peninsula,34763]]'
-different_from: '[[_Standards/WikiData/WD~French_Indochina,185682]]'
+- '[[_Standards/WikiData/WD~region,82794|WD~region,82794]]'
+- '[[_Standards/WikiData/WD~peninsula,34763|WD~peninsula,34763]]'
+different_from: '[[_Standards/WikiData/WD~French_Indochina,185682|WD~French_Indochina,185682]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
-- '[[_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391]]'
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-opposite_of: '[[_Standards/WikiData/WD~Maritime_Southeast_Asia,2919361]]'
-partially_coincident_with: '[[_Standards/WikiData/WD~Q21272510,21272510]]'
+- '[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656|WD~The_Nuttall_Encyclopædia,3181656]]'
+- '[[_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391|WD~Sytin_Military_Encyclopedia,4114391]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+opposite_of: '[[_Standards/WikiData/WD~Maritime_Southeast_Asia,2919361|WD~Maritime_Southeast_Asia,2919361]]'
+partially_coincident_with: '[[_Standards/WikiData/WD~Q21272510,21272510|WD~Q21272510,21272510]]'
 population: 243201036
 country:
-- '[[_Standards/WikiData/WD~Cambodia,424]]'
-- '[[_Standards/WikiData/WD~Laos,819]]'
-- '[[_Standards/WikiData/WD~Malaysia,833]]'
-- '[[_Standards/WikiData/WD~Myanmar,836]]'
-- '[[_Standards/WikiData/WD~Thailand,869]]'
-- '[[_Standards/WikiData/WD~Vietnam,881]]'
-- '[[_Standards/WikiData/WD~Bangladesh,902]]'
-has_part_s_: '[[_Standards/WikiData/WD~Vietnam,881]]'
+- '[[_Standards/WikiData/WD~Cambodia,424|WD~Cambodia,424]]'
+- '[[_Standards/WikiData/WD~Laos,819|WD~Laos,819]]'
+- '[[_Standards/WikiData/WD~Malaysia,833|WD~Malaysia,833]]'
+- '[[_Standards/WikiData/WD~Myanmar,836|WD~Myanmar,836]]'
+- '[[_Standards/WikiData/WD~Thailand,869|WD~Thailand,869]]'
+- '[[_Standards/WikiData/WD~Vietnam,881|WD~Vietnam,881]]'
+- '[[_Standards/WikiData/WD~Bangladesh,902|WD~Bangladesh,902]]'
+has_part_s_: '[[_Standards/WikiData/WD~Vietnam,881|WD~Vietnam,881]]'
 located_in_or_next_to_body_of_water:
-- '[[_Standards/WikiData/WD~Indian_Ocean,1239]]'
-- '[[_Standards/WikiData/WD~Pacific_Ocean,98]]'
-- '[[_Standards/WikiData/WD~Bay_of_Bengal,38684]]'
-located_in_on_physical_feature: '[[_Standards/WikiData/WD~Southeast_Asia,11708]]'
-part_of: '[[_Standards/WikiData/WD~Asia,48]]'
+- '[[_Standards/WikiData/WD~Indian_Ocean,1239|WD~Indian_Ocean,1239]]'
+- '[[_Standards/WikiData/WD~Pacific_Ocean,98|WD~Pacific_Ocean,98]]'
+- '[[_Standards/WikiData/WD~Bay_of_Bengal,38684|WD~Bay_of_Bengal,38684]]'
+located_in_on_physical_feature: '[[_Standards/WikiData/WD~Southeast_Asia,11708|WD~Southeast_Asia,11708]]'
+part_of: '[[_Standards/WikiData/WD~Asia,48|WD~Asia,48]]'
 GDP_PPP_: 2877000000000
 area: 2413620
 BHCL_UUID:

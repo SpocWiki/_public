@@ -64,23 +64,23 @@ aliases:
 - 라디오 드라마
 has_id_wikidata: Q2635894
 partially_coincident_with:
-- '[[_Standards/WikiData/WD~drama_CD,244351]]'
-- '[[_Standards/WikiData/WD~audio_drama,109349450]]'
+- '[[_Standards/WikiData/WD~drama_CD,244351|WD~drama_CD,244351]]'
+- '[[_Standards/WikiData/WD~audio_drama,109349450|WD~audio_drama,109349450]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~radio_program,1555508]]'
-- '[[_Standards/WikiData/WD~audio_drama,109349450]]'
-- '[[_Standards/WikiData/WD~drama,25372]]'
+- '[[_Standards/WikiData/WD~radio_program,1555508|WD~radio_program,1555508]]'
+- '[[_Standards/WikiData/WD~audio_drama,109349450|WD~audio_drama,109349450]]'
+- '[[_Standards/WikiData/WD~drama,25372|WD~drama,25372]]'
 instance_of:
-- '[[_Standards/WikiData/WD~literary_form,4263830]]'
-- '[[_Standards/WikiData/WD~radio_genre,15961983]]'
-- '[[_Standards/WikiData/WD~audio_content_genre,108676140]]'
+- '[[_Standards/WikiData/WD~literary_form,4263830|WD~literary_form,4263830]]'
+- '[[_Standards/WikiData/WD~radio_genre,15961983|WD~radio_genre,15961983]]'
+- '[[_Standards/WikiData/WD~audio_content_genre,108676140|WD~audio_content_genre,108676140]]'
 practiced_by:
-- '[[_Standards/WikiData/WD~radio_drama_actor,21280562]]'
-- '[[_Standards/WikiData/WD~radio_playwright,83634378]]'
-different_from: '[[_Standards/WikiData/WD~radio_drama_manuscript,106559863]]'
+- '[[_Standards/WikiData/WD~radio_drama_actor,21280562|WD~radio_drama_actor,21280562]]'
+- '[[_Standards/WikiData/WD~radio_playwright,83634378|WD~radio_playwright,83634378]]'
+different_from: '[[_Standards/WikiData/WD~radio_drama_manuscript,106559863|WD~radio_drama_manuscript,106559863]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Sachwörterbuch_der_Literatur_(8_ed.),123164493]]'
-- '[[_Standards/WikiData/WD~Metzler_Literatur_Lexikon_(2_ed.),123382721]]'
+- '[[_Standards/WikiData/WD~Sachwörterbuch_der_Literatur_(8_ed.),123164493|WD~Sachwörterbuch_der_Literatur_(8_ed.),123164493]]'
+- '[[_Standards/WikiData/WD~Metzler_Literatur_Lexikon_(2_ed.),123382721|WD~Metzler_Literatur_Lexikon_(2_ed.),123382721]]'
 spoken_text_audio: http://commons.wikimedia.org/wiki/Special:FilePath/Es-Radioteatro-article.ogg
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Opname%20van%20een%20hoorspel%20Recording%20a%20radio%20play.jpg
 subreddit: audiodrama
@@ -157,7 +157,7 @@ dv_has_:
 
 # [[Radio_Drama]] 
 
-#is_/same_as :: [[../../../../_Standards/WikiData/WD~Radio_drama,2635894]]  
+#is_/same_as :: [[../../../../_Standards/WikiData/WD~Radio_drama,2635894|WD~Radio_drama,2635894]]  
 
 ## #has_/text_of_/abstract 
 

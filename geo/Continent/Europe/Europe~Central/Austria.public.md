@@ -117,11 +117,11 @@ markerFolder: ./Austria///
 [Area-Land::82730] 
 Continent :: [[Europe]]  
 [VehicleCode::A] 
-Capital :: [[../../../../../../../../_Standards/geo/Continent/Europe/Europe~Central/Austria/State/State~Wien/Wien-city]]  
+Capital :: [[../../../../../../../../_Standards/geo/Continent/Europe/Europe~Central/Austria/State/State~Wien/Wien-city|Wien-city]]  
 
 
 ![[Coat_of_arms_of_Austria.svg|350]] 
-![[../../../../xLarge.public/National-Anthem/Anthem-Austria.mp3]] 
+![[../../../../xLarge.public/National-Anthem/Anthem-Austria.mp3|Anthem-Austria.mp3]] 
 ![[Flag_of_Austria.svg|350]] 
 
 [Alcohol-l::13.2] 

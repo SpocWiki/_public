@@ -120,11 +120,11 @@ markerFolder: ./Brazil/
 [Area-Land::8456510] 
 Continent :: [[South-America]]  
 [VehicleCode::BR] 
-Capital :: [[Brazil/Counties/Distrito_Federal/City/Brasilia]]  
+Capital :: [[Brazil/Counties/Distrito_Federal/City/Brasilia|Brasilia]]  
 
 ![[Brazil/Coat_of_arms_of_Brazil.svg|350]] 
 
-![[../../../xLarge.public/National-Anthem/Anthem-Brazil.mp3]] 
+![[../../../xLarge.public/National-Anthem/Anthem-Brazil.mp3|Anthem-Brazil.mp3]] 
 
 ![[Brazil/Flag_of_Brazil.svg|350]] 
 

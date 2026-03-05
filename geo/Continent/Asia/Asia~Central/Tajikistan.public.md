@@ -116,10 +116,10 @@ markerFolder: ./Tajikistan/
 [Area-Land::140600] 
 Continent :: [[Asia]]  
 [VehicleCode::TJ] 
-Capital :: [[Tajikistan/Counties/Dushanbe/City/Dushanbe]]  
+Capital :: [[Tajikistan/Counties/Dushanbe/City/Dushanbe|Dushanbe]]  
 ![[Tajikistan/Emblem_of_Tajikistan.svg|350]]  
 
-![[../../../../xLarge.public/National-Anthem/Anthem-Tajikistan.mp3]] 
+![[../../../../xLarge.public/National-Anthem/Anthem-Tajikistan.mp3|Anthem-Tajikistan.mp3]] 
 ![[Tajikistan/Flag_of_Tajikistan.svg|350]]  
 
 [Alcohol-l::3.4] 

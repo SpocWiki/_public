@@ -116,10 +116,10 @@ markerFolder: ./Saudi_Arabia/
 [Area-Land::2149690] 
 Continent :: [[Asia]]  
 [VehicleCode::KSA] 
-Capital :: [[Saudi_Arabia/Counties/Ar_Riyad/City/Riyadh=Er_Riad]]  
+Capital :: [[Saudi_Arabia/Counties/Ar_Riyad/City/Riyadh=Er_Riad|Riyadh=Er_Riad]]  
 ![[Saudi_Arabia/Emblem_of_Saudi_Arabia.svg|350]]  
 
-![[../../../../xLarge.public/National-Anthem/Anthem-Saudi-arabia.mp3]] 
+![[../../../../xLarge.public/National-Anthem/Anthem-Saudi-arabia.mp3|Anthem-Saudi-arabia.mp3]] 
 ![[Saudi_Arabia/Flag_of_Saudi_Arabia.svg|350]]  
 
 [Alcohol-l::0.3] 

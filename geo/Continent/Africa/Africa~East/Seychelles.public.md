@@ -114,11 +114,11 @@ markerFolder: ./Seychelles//
 [Area-Land::450] 
 Continent :: [[Africa]]  
 [VehicleCode::SY] 
-Capital :: [[../Seychelles/Counties/English_River/City/Victoria]]  
+Capital :: [[../Seychelles/Counties/English_River/City/Victoria|Victoria]]  
 
 ![[Coat_of_arms_of_Seychelles.svg|550]] 
 
-![[../../../../xLarge.public/National-Anthem/Anthem-Seychelles.mp3]] 
+![[../../../../xLarge.public/National-Anthem/Anthem-Seychelles.mp3|Anthem-Seychelles.mp3]] 
 
 ![[Flag_of_Seychelles.svg|350]] 
 

@@ -113,11 +113,11 @@ markerFolder: ./El_Salvador/
 [Area-Land::20720] 
 Continent :: [[South-America]]  
 [VehicleCode::ES] 
-Capital :: [[El_Salvador/Counties/San_Salvador/City/San_Salvador]]  
+Capital :: [[El_Salvador/Counties/San_Salvador/City/San_Salvador|San_Salvador]]  
 
 ![[El_Salvador/Coat_of_arms_of_El_Salvador.svg|350]] 
 
-![[../../../xLarge.public/National-Anthem/Anthem-El-salvador.mp3]] 
+![[../../../xLarge.public/National-Anthem/Anthem-El-salvador.mp3|Anthem-El-salvador.mp3]] 
 
 ![[El_Salvador/Flag_of_El_Salvador.svg|350]] 
 

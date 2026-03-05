@@ -121,7 +121,7 @@ markerFolder: ./Iran/
 [Area-Land::1636000] 
 Continent :: [[Asia]]  
 [VehicleCode::IR] 
-Capital :: [[Iran/Counties/Tehran/City/Teheran=Tehran]]  
+Capital :: [[Iran/Counties/Tehran/City/Teheran=Tehran|Teheran=Tehran]]  
 [Alcohol-l::1] 
 [Language-Id::] 
 [geo-lon::51.555] 

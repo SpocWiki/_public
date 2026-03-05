@@ -26,7 +26,7 @@ markerFolder: ./Saint_Lucia/
 
 ![[Mexico/Coat_of_arms_of_Mexico.svg|350]]
 
-![[../../../xLarge.public/National-Anthem/Anthem-Mexico.mp3]]
+![[../../../xLarge.public/National-Anthem/Anthem-Mexico.mp3|Anthem-Mexico.mp3]]
 
 ![[Mexico/Flag_of_Mexico.svg|350]]
 
@@ -34,7 +34,7 @@ markerFolder: ./Saint_Lucia/
 [Area-Land::0]
 Continent :: [[South-America]]  
 [VehicleCode::WL]
-Capital :: [[Saint_Lucia/Counties/Castries/City/Castries]]  
+Capital :: [[Saint_Lucia/Counties/Castries/City/Castries|Castries]]  
 [Alcohol-l::11.9]
 [Language-Id::499]
 [geo-lon::-60.9833]

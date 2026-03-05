@@ -114,11 +114,11 @@ markerFolder: ./Kenya//
 [Area-Land::569140] 
 Continent :: [[Africa]]  
 [VehicleCode::EAK] 
-Capital :: [[Kenya/Counties/Nairobi.County]] 
+Capital :: [[Kenya/Counties/Nairobi.County|Nairobi.County]] 
 
 ![[Coat_of_arms_of_Kenya.svg|550]] 
 
-![[../../../../xLarge.public/National-Anthem/Anthem-Kenya.mp3]] 
+![[../../../../xLarge.public/National-Anthem/Anthem-Kenya.mp3|Anthem-Kenya.mp3]] 
 
 ![[Flag_of_Kenya.svg|350]] 
 [Alcohol-l::4.1] 

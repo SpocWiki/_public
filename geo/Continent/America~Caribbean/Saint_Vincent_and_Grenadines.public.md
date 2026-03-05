@@ -28,7 +28,7 @@ markerFolder: ./Saint_Vincent_and_Grenadines/
 [Area-Land::12]
 Continent :: [[South-America]]  
 [VehicleCode::WV]
-Capital :: [[Saint_Vincent_and_Grenadines/Counties/Saint_George/City/Kingstown]]  
+Capital :: [[Saint_Vincent_and_Grenadines/Counties/Saint_George/City/Kingstown|Kingstown]]  
 [Alcohol-l::5.4]
 [Language-Id::499]
 [geo-lon::-61.2333]

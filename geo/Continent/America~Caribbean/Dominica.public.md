@@ -115,11 +115,11 @@ markerFolder: ./Dominica/
 [Area-Land::750]
 Continent :: [[South-America]]  
 [VehicleCode::WD]
-Capital :: [[Dominica/Counties/Saint_George/City/Roseau]]  
+Capital :: [[Dominica/Counties/Saint_George/City/Roseau|Roseau]]  
 
 ![[Dominica/Coat_of_arms_of_Dominica.svg|350]]
 
-![[../../../xLarge.public/National-Anthem/Anthem-Dominica.mp3]]
+![[../../../xLarge.public/National-Anthem/Anthem-Dominica.mp3|Anthem-Dominica.mp3]]
 
 ![[Dominica/Flag_of_Dominica.svg|350]]
 

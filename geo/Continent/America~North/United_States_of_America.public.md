@@ -744,7 +744,7 @@ markerFolder: ./USA/
 
 ![[USA/Coat_of_Arms_of_the_United_States_(obverse).svg|350]] 
 
-![[../../../xLarge.public/National-Anthem/Anthem-United-states.mp3]] 
+![[../../../xLarge.public/National-Anthem/Anthem-United-states.mp3|Anthem-United-states.mp3]] 
 
 ![[USA/Flag_of_the_United_States.svg|350]] 
 
@@ -752,7 +752,7 @@ markerFolder: ./USA/
 [Area-Land::9573110] 
 Continent :: [[North-America]]  
 [VehicleCode::USA] 
-Capital :: [[USA/USA~Eastern/District_of_Columbia/City/Washington~City]]  
+Capital :: [[USA/USA~Eastern/District_of_Columbia/City/Washington~City|Washington~City]]  
 [Alcohol-l::9.4] 
 [Language-Id::499] 
 [geo-lon::-94.8153] 

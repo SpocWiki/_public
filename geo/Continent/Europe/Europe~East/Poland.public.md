@@ -120,7 +120,7 @@ Capital :: [[Warszawa]]
 
 ![[Coat_of_arms_of_Poland.svg|350]] 
 
-![[../../../../xLarge.public/National-Anthem/Anthem-Poland.mp3]] 
+![[../../../../xLarge.public/National-Anthem/Anthem-Poland.mp3|Anthem-Poland.mp3]] 
 
 ![[Flag_of_Poland.svg|350]] 
 [Alcohol-l::13.3] 

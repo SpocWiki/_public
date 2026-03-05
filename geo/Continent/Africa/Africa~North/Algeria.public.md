@@ -115,11 +115,11 @@ markerFolder: ./Algeria//
 [Area-Land::2381740] 
 Continent :: [[Africa]]  
 [VehicleCode::DZ] 
-Capital :: [[Africa~North/Algeria/Counties/Alger/City/Algier=Algiers]] 
+Capital :: [[Africa~North/Algeria/Counties/Alger/City/Algier=Algiers|Algier=Algiers]] 
 ![[Africa~North/Algeria/Emblem_of_Algeria.svg|350]]  
 
 
-![[../../../../xLarge.public/National-Anthem/Anthem-Algeria.mp3]] 
+![[../../../../xLarge.public/National-Anthem/Anthem-Algeria.mp3|Anthem-Algeria.mp3]] 
 
 ![[Africa~North/Algeria/Flag_of_Algeria.svg|350]]  
 

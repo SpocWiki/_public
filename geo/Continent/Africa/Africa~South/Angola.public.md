@@ -113,11 +113,11 @@ markerFolder: ./Angola//
 [Area-Land::1246700] 
 Continent :: [[Africa]]  
 [VehicleCode::ANG] 
-Capital :: [[../Africa~South/Angola/City/Luanda]]  
+Capital :: [[../Africa~South/Angola/City/Luanda|Luanda]]  
 
 ![[../Africa~South/Angola/Emblem_of_Angola.svg|350]] 
 
-![[../../../../xLarge.public/National-Anthem/Anthem-Angola.mp3]] 
+![[../../../../xLarge.public/National-Anthem/Anthem-Angola.mp3|Anthem-Angola.mp3]] 
 
 ![[../Africa~South/Angola/Flag_of_Angola.svg|350]] 
 

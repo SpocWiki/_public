@@ -122,7 +122,7 @@ markerFolder: ./Cyprus//
 [Area-Land::9240] 
 Continent :: [[Europe]]  
 [VehicleCode::CY] 
-Capital :: [[geo/Continent/Europe/Europe~South/Cyprus/Counties/Nicosia]]  
+Capital :: [[geo/Continent/Europe/Europe~South/Cyprus/Counties/Nicosia|Nicosia]]  
 [Alcohol-l::9.3] 
 [Language-Id::] 
 [geo-lon::33.4667] 

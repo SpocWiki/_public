@@ -119,7 +119,7 @@ Capital :: [[Panama_City]]
 
 ![[Panama/Coat_of_arms_of_Panama.svg|350]] 
 
-![[../../../xLarge.public/National-Anthem/Anthem-Panama.mp3]] 
+![[../../../xLarge.public/National-Anthem/Anthem-Panama.mp3|Anthem-Panama.mp3]] 
 
 ![[Panama/Flag_of_Panama.svg|350]] 
 

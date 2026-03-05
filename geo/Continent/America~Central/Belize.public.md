@@ -113,11 +113,11 @@ markerFolder: ./Belize/
 [Area-Land::22800] 
 Continent :: [[South-America]]  
 [VehicleCode::BZ] 
-Capital :: [[Belize/Counties/Cayo/City/Belmopan]]  
+Capital :: [[Belize/Counties/Cayo/City/Belmopan|Belmopan]]  
 
 ![[Belize/Coat_of_arms_of_Belize.svg|350]] 
 
-![[../../../xLarge.public/National-Anthem/Anthem-Belize.mp3]] 
+![[../../../xLarge.public/National-Anthem/Anthem-Belize.mp3|Anthem-Belize.mp3]] 
 
 ![[Belize/Flag_of_Belize.svg|350]] 
 

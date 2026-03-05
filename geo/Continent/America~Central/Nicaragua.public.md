@@ -114,11 +114,11 @@ markerFolder: ./Nicaragua/
 [Area-Land::118750] 
 Continent :: [[South-America]]  
 [VehicleCode::NIC] 
-Capital :: [[Nicaragua/Counties/Managua/City/Managua]]  
+Capital :: [[Nicaragua/Counties/Managua/City/Managua|Managua]]  
 
 ![[Nicaragua/Coat_of_arms_of_Nicaragua.svg|350]] 
 
-![[../../../xLarge.public/National-Anthem/Anthem-Nicaragua.mp3]] 
+![[../../../xLarge.public/National-Anthem/Anthem-Nicaragua.mp3|Anthem-Nicaragua.mp3]] 
 
 ![[Nicaragua/Flag_of_Nicaragua.svg|350]] 
 

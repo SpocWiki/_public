@@ -114,11 +114,11 @@ markerFolder: ./Guyana/
 [Area-Land::196850] 
 Continent :: [[South-America]]  
 [VehicleCode::GUY] 
-Capital :: [[Guyana/Counties/East_Berbice-Corentyne/City/Georgetown]]  
+Capital :: [[Guyana/Counties/East_Berbice-Corentyne/City/Georgetown|Georgetown]]  
 
 ![[Guyana/Coat_of_arms_of_Guyana.svg|450]] 
 
-![[../../../xLarge.public/National-Anthem/Anthem-Guyana.mp3]] 
+![[../../../xLarge.public/National-Anthem/Anthem-Guyana.mp3|Anthem-Guyana.mp3]] 
 
 ![[Guyana/Flag_of_Guyana.svg|350]] 
 [Alcohol-l::9.5] 

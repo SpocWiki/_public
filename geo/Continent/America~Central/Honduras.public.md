@@ -116,11 +116,11 @@ markerFolder: ./Honduras/
 [Area-Land::111890] 
 Continent :: [[South-America]]  
 [VehicleCode::HN] 
-Capital :: [[Honduras/Counties/Francisco_Morazán/City/Tegucigalpa]]  
+Capital :: [[Honduras/Counties/Francisco_Morazán/City/Tegucigalpa|Tegucigalpa]]  
 
 ![[Honduras/Coat_of_arms_of_Honduras.svg|350]] 
 
-![[../../../xLarge.public/National-Anthem/Anthem-Honduras.mp3]] 
+![[../../../xLarge.public/National-Anthem/Anthem-Honduras.mp3|Anthem-Honduras.mp3]] 
 
 ![[Honduras/Flag_of_Honduras.svg|350]] 
 

@@ -119,7 +119,7 @@ Capital :: [[Bissau]]
 
 ![[Emblem_of_Guinea-bissau.svg|350]] 
 
-![[../../../../xLarge.public/National-Anthem/Anthem-Guinea-bissau.mp3]] 
+![[../../../../xLarge.public/National-Anthem/Anthem-Guinea-bissau.mp3|Anthem-Guinea-bissau.mp3]] 
 
 ![[Flag_of_Guinea-bissau.svg|350]] 
 

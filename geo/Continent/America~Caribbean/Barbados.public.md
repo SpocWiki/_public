@@ -58,7 +58,7 @@ dv_Area-Total: 430
 dv_Area-Land: 430
 dv_Continent: "[[South-America]]"
 dv_VehicleCode: BDS
-dv_Capital: "[[Barbados/City/Bridgetown]]"
+dv_Capital: "[[Barbados/City/Bridgetown|Bridgetown]]"
 dv_Alcohol-l: 6.9
 dv_Language-Id: 499
 dv_geo-lon: -59.5333
@@ -182,7 +182,7 @@ markerFolder: ./Barbados/
 
 ![[Barbados/Coat_of_arms_of_Barbados.svg|550]]
 
-![[../../../xLarge.public/National-Anthem/Anthem-Barbados.mp3]]
+![[../../../xLarge.public/National-Anthem/Anthem-Barbados.mp3|Anthem-Barbados.mp3]]
 
 ![[Barbados/Flag_of_Barbados.svg|350]]
 

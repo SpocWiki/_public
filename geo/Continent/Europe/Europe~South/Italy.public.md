@@ -122,11 +122,11 @@ markerFolder: ./Italy//
 [Area-Land::294060] 
 Continent :: [[Europe]]  
 [VehicleCode::I] 
-Capital :: [[Italy/Counties/Lazio/Roma/City/Roma]]  
+Capital :: [[Italy/Counties/Lazio/Roma/City/Roma|Roma]]  
 
 ![[Emblem_of_Italy.svg|350]] 
 
-![[../../../../xLarge.public/National-Anthem/Anthem-Italy.mp3]] 
+![[../../../../xLarge.public/National-Anthem/Anthem-Italy.mp3|Anthem-Italy.mp3]] 
 
 ![[Flag_of_Italy.svg|350]] 
 

@@ -120,11 +120,11 @@ markerFolder: ./Laos/
 [Area-Land::230800] 
 Continent :: [[Asia]]  
 [VehicleCode::LAO] 
-Capital :: [[Laos/Counties/Vientiane]]  
+Capital :: [[Laos/Counties/Vientiane|Vientiane]]  
 
 ![[Emblem_of_Laos.svg|350]] 
 
-![[../../../../xLarge.public/National-Anthem/Anthem-Laos.mp3]] 
+![[../../../../xLarge.public/National-Anthem/Anthem-Laos.mp3|Anthem-Laos.mp3]] 
 
 ![[Flag_of_Laos.svg|350]] 
 

@@ -117,10 +117,10 @@ markerFolder: ./Kyrgyzstan/
 [Area-Land::0] 
 Continent :: [[Asia]]  
 [VehicleCode::KS] 
-Capital :: [[Kyrgyzstan/Counties/Bishkek/City/Bishkek]]  
+Capital :: [[Kyrgyzstan/Counties/Bishkek/City/Bishkek|Bishkek]]  
 ![[Kyrgyzstan/Emblem_of_Kyrgyzstan.svg|350]]  
 
-![[../../../../xLarge.public/National-Anthem/Anthem-Kyrgyzstan.mp3]] 
+![[../../../../xLarge.public/National-Anthem/Anthem-Kyrgyzstan.mp3|Anthem-Kyrgyzstan.mp3]] 
 ![[Kyrgyzstan/Flag_of_Kyrgyzstan.svg|350]]  
 
 [Alcohol-l::5.1] 

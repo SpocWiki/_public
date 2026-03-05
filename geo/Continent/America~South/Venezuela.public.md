@@ -117,9 +117,9 @@ markerFolder: ./Venezuela/
 [Area-Land::882050] 
 Continent :: [[South-America]]  
 [VehicleCode::YV] 
-Capital :: [[Venezuela/Counties/Distrito_Capital/City/Caracas]]  
+Capital :: [[Venezuela/Counties/Distrito_Capital/City/Caracas|Caracas]]  
 
-![[Venezuela/Coat_of_arms_of_Venezuela.svg|350]] ![[../../../xLarge.public/National-Anthem/Anthem-Venezuela.mp3]] 
+![[Venezuela/Coat_of_arms_of_Venezuela.svg|350]] ![[../../../xLarge.public/National-Anthem/Anthem-Venezuela.mp3|Anthem-Venezuela.mp3]] 
 
 ![[Venezuela/Flag_of_Venezuela.svg|350]] 
 

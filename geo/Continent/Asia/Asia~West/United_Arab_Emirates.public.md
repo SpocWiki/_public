@@ -121,10 +121,10 @@ markerFolder: ./United_Arab_Emirates/
 [Area-Land::83600] 
 Continent :: [[Asia]]  
 [VehicleCode::UAE] 
-Capital :: [[United_Arab_Emirates/City/Abu_Dhabi]]  
+Capital :: [[United_Arab_Emirates/City/Abu_Dhabi|Abu_Dhabi]]  
 ![[United_Arab_Emirates/Emblem_of_the_United_Arab_Emirates.svg|350]]  
 
-![[../../../../xLarge.public/National-Anthem/Anthem-United-arab-emirates.mp3]] 
+![[../../../../xLarge.public/National-Anthem/Anthem-United-arab-emirates.mp3|Anthem-United-arab-emirates.mp3]] 
 ![[United_Arab_Emirates/Flag_of_the_United_Arab_Emirates.svg|350]]  
 
 [Alcohol-l::0.5] 

@@ -120,7 +120,7 @@ markerFolder: ./Fiji/
 [Area-Land::18270]
 Continent :: [[Oceania]]  
 [VehicleCode::FJI]
-Capital :: [[Fiji/Cities/Suva]]  
+Capital :: [[Fiji/Cities/Suva|Suva]]  
 [Alcohol-l::2.4]
 [Language-Id::499]
 [geo-lon::178.45]

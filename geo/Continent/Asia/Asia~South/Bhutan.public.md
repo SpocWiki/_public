@@ -119,7 +119,7 @@ markerFolder: ./Bhutan/
 [Area-Land::47000] 
 Continent :: [[Asia]]  
 [VehicleCode::BHT] 
-Capital :: [[Bhutan/Counties/Tongsa/City/Thimphu]]  
+Capital :: [[Bhutan/Counties/Tongsa/City/Thimphu|Thimphu]]  
 [Alcohol-l::0.6] 
 [Language-Id::] 
 [geo-lon::90.435] 

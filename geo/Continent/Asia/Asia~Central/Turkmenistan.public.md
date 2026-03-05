@@ -115,10 +115,10 @@ markerFolder: ./Turkmenistan/
 [Area-Land::0] 
 Continent :: [[Asia]]  
 [VehicleCode::TM] 
-Capital :: [[Turkmenistan/Counties/Ahal/City/Ashgabat]]  
+Capital :: [[Turkmenistan/Counties/Ahal/City/Ashgabat|Ashgabat]]  
 ![[Turkmenistan/Emblem_of_Turkmenistan.svg|350]]  
 
-![[../../../../xLarge.public/National-Anthem/Anthem-Turkmenistan.mp3]] 
+![[../../../../xLarge.public/National-Anthem/Anthem-Turkmenistan.mp3|Anthem-Turkmenistan.mp3]] 
 ![[Turkmenistan/Flag_of_Turkmenistan.svg|350]]  
 
 [Alcohol-l::4.6] 

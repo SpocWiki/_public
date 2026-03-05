@@ -124,7 +124,7 @@ Capital :: [[Addis_Abeba]]
 
 ![[Emblem_of_Ethiopia.svg|350]] 
 
-![[../../../../xLarge.public/National-Anthem/Anthem-Ethiopia.mp3]] 
+![[../../../../xLarge.public/National-Anthem/Anthem-Ethiopia.mp3|Anthem-Ethiopia.mp3]] 
 
 ![[Flag_of_Ethiopia.svg|350]] 
 

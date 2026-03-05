@@ -27,11 +27,11 @@ markerFolder: ./Congo~Kinshasa//
 [Area-Land::341500] 
 Continent :: [[Africa]]  
 [VehicleCode::CGO] 
-Capital ::  [[Congo~Dem_Rep/City/Kinshasa]] ] 
+Capital ::  [[Congo~Dem_Rep/City/Kinshasa|Kinshasa]] ] 
 
 ![[Coat_of_arms_of_the_Democratic_Republic_of_the_Congo.svg|350]] 
 
-![[../../../../xLarge.public/National-Anthem/Anthem-Congo.mp3]] 
+![[../../../../xLarge.public/National-Anthem/Anthem-Congo.mp3|Anthem-Congo.mp3]] 
 
 ![[Flag_of_the_Democratic_Republic_of_the_Congo.svg|350]] 
 [Alcohol-l::3.3] 

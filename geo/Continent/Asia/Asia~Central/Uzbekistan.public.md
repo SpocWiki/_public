@@ -117,11 +117,11 @@ markerFolder: ./Uzbekistan///
 [Area-Land::0] 
 Continent :: [[Asia]]  
 [VehicleCode::UZ] 
-Capital :: [[Uzbekistan/Counties/Tashkent/City/Taschkent]]  
+Capital :: [[Uzbekistan/Counties/Tashkent/City/Taschkent|Taschkent]]  
 
 ![[Uzbekistan/Emblem_of_Uzbekistan.svg|350]] 
 
-![[../../../../xLarge.public/National-Anthem/Anthem-Uzbekistan.mp3]] 
+![[../../../../xLarge.public/National-Anthem/Anthem-Uzbekistan.mp3|Anthem-Uzbekistan.mp3]] 
 
 ![[Uzbekistan/Flag_of_Uzbekistan.svg|350]] 
 

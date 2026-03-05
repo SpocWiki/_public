@@ -27,11 +27,11 @@ markerFolder: ./Congo~Brazzaville//
 [Area-Land::0] 
 Continent :: [[Africa]]  
 [VehicleCode::RCB] 
-Capital ::  [[Congo~Rep/City/Brazzaville]] ] 
+Capital ::  [[Congo~Rep/City/Brazzaville|Brazzaville]] ] 
 
 ![[Coat_of_arms_of_the_Republic_of_the_Congo.svg|350]] 
 
-![[../../../../xLarge.public/National-Anthem/Anthem-Congo.mp3]] 
+![[../../../../xLarge.public/National-Anthem/Anthem-Congo.mp3|Anthem-Congo.mp3]] 
 
 ![[Flag_of_the_Republic_of_the_Congo.svg|350]] 
 [Alcohol-l::4.2] 

@@ -28,14 +28,14 @@ markerFolder: ./UK/City/
 ![[Coat_of_Arms_of_the_United_Kingdom.svg|750]] 
 
 
-![[../../../../xLarge.public/National-Anthem/Anthem-United-kingdom.mp3]] 
+![[../../../../xLarge.public/National-Anthem/Anthem-United-kingdom.mp3|Anthem-United-kingdom.mp3]] 
 
 ![[Flag_of_the_United_Kingdom_(3-5).svg|350]] 
 [Area-Total::241752] 
 [Area-Land::241600] 
 Continent :: [[Europe]]  
 [VehicleCode::GB] 
-Capital :: [[UK/City~London]]  
+Capital :: [[UK/City~London|City~London]]  
 [Alcohol-l::13.4] 
 [Language-Id::499] 
 [geo-lon::-2.14482] 

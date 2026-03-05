@@ -119,7 +119,7 @@ Continent :: [[Africa]]
 Capital :: [[Freetown]]  
 ![[Coat_of_arms_of_Sierra_Leone.svg|550]] 
 
-![[../../../../xLarge.public/National-Anthem/Anthem-Sierra-leone.mp3]] 
+![[../../../../xLarge.public/National-Anthem/Anthem-Sierra-leone.mp3|Anthem-Sierra-leone.mp3]] 
 
 ![[Flag_of_Sierra_Leone.svg|350]] 
 

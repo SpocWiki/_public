@@ -123,7 +123,7 @@ Capital :: [[Nouakchott]]
 
 ![[Seal_of_Mauritania_(2018).svg|350]] 
 
-![[../../../../xLarge.public/National-Anthem/Anthem-Mauritania.mp3]] 
+![[../../../../xLarge.public/National-Anthem/Anthem-Mauritania.mp3|Anthem-Mauritania.mp3]] 
 
 ![[Flag_of_Mauritania.svg|350]] 
 

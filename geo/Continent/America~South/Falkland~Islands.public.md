@@ -30,7 +30,7 @@ markerFolder: ./Falkland~Islands/
 [Area-Land::0] 
 Continent :: [[South-America]]  
 [VehicleCode::] 
-Capital :: [[Falkland~Islands/City/Stanley]]  
+Capital :: [[Falkland~Islands/City/Stanley|Stanley]]  
 [Alcohol-l::] 
 [Language-Id::] 
 [geo-lon::-57.85] 

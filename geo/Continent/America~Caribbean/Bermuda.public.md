@@ -113,7 +113,7 @@ markerFolder: ./Bermuda/
 [Area-Land::0]
 Continent :: [[North-America]]  
 [VehicleCode::]
-Capital :: [[Bermuda/Counties/Pembroke/City/Hamilton]]  
+Capital :: [[Bermuda/Counties/Pembroke/City/Hamilton|Hamilton]]  
 [Alcohol-l::]
 [Language-Id::]
 [geo-lon::-64.74]

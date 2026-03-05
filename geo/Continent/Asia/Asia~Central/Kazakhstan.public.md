@@ -115,11 +115,11 @@ markerFolder: ./Kazakhstan/
 [Area-Land::0] 
 Continent :: [[Asia]]  
 [VehicleCode::KZ] 
-Capital :: [[Kazakhstan/Counties/Astana/City/Astana-City]]  
+Capital :: [[Kazakhstan/Counties/Astana/City/Astana-City|Astana-City]]  
 
 ![[Kazakhstan/Emblem_of_Kazakhstan.svg|350]] 
 
-![[../../../../xLarge.public/National-Anthem/Anthem-Kazakhstan.mp3]] 
+![[../../../../xLarge.public/National-Anthem/Anthem-Kazakhstan.mp3|Anthem-Kazakhstan.mp3]] 
 
 ![[Kazakhstan/Flag_of_Kazakhstan.svg|350]] 
 

@@ -27,11 +27,11 @@ markerFolder: ./Sudan~North//
 [Area-Land::2376000] 
 Continent :: [[Africa]]  
 [VehicleCode::SUD] 
-Capital :: [[Sudan~North/Counties/Khartoum]]  
+Capital :: [[Sudan~North/Counties/Khartoum|Khartoum]]  
 
 ![[Sudan~North/Emblem_of_Sudan.svg|350]] 
 
-![[../../../../xLarge.public/National-Anthem/Anthem-Sudan.mp3]] 
+![[../../../../xLarge.public/National-Anthem/Anthem-Sudan.mp3|Anthem-Sudan.mp3]] 
 
 ![[Sudan~North/Flag_of_Sudan.svg|350]] 
 

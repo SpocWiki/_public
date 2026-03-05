@@ -119,7 +119,7 @@ Capital :: [[Libreville]]
 
 ![[Coat_of_arms_of_Gabon.svg|350]] 
 
-![[../../../../xLarge.public/National-Anthem/Anthem-Gabon.mp3]] 
+![[../../../../xLarge.public/National-Anthem/Anthem-Gabon.mp3|Anthem-Gabon.mp3]] 
 
 ![[Flag_of_Gabon.svg|350]] 
 [Alcohol-l::9.3] 

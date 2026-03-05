@@ -115,10 +115,10 @@ markerFolder: ./Nepal/
 [Area-Land::136800] 
 Continent :: [[Asia]]  
 [VehicleCode::NEP] 
-Capital :: [[Nepal/Counties/Bagmati/City/Kathmandu]]  
+Capital :: [[Nepal/Counties/Bagmati/City/Kathmandu|Kathmandu]]  
 ![[Nepal/Emblem_of_Nepal.svg|350]]  
 
-![[../../../../xLarge.public/National-Anthem/Anthem-Nepal.mp3]] 
+![[../../../../xLarge.public/National-Anthem/Anthem-Nepal.mp3|Anthem-Nepal.mp3]] 
 ![[Nepal/Flag_of_Nepal.svg|350]]  
 
 [Alcohol-l::2.4] 

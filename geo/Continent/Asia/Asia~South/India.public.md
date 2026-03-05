@@ -140,10 +140,10 @@ markerFolder: ./India/
 [Area-Land::2973190] 
 Continent :: [[Asia]]  
 [VehicleCode::IND] 
-Capital :: [[India/Counties/Delhi/City/New_Delhi]]  
+Capital :: [[India/Counties/Delhi/City/New_Delhi|New_Delhi]]  
 ![[India/Emblem_of_India.svg|350]]  
 
-![[../../../../xLarge.public/National-Anthem/Anthem-India.mp3]] 
+![[../../../../xLarge.public/National-Anthem/Anthem-India.mp3|Anthem-India.mp3]] 
 ![[India/Flag_of_India.svg|350]]  
 
 [Alcohol-l::2.6] 

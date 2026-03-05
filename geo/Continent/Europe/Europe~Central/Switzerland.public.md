@@ -121,11 +121,11 @@ markerFolder: ./Switzerland//
 [Area-Land::39550] 
 Continent :: [[Europe]]  
 [VehicleCode::CH] 
-Capital :: [[geo/Continent/Europe/Europe~Central/Switzerland/Switzerland~Counties/Bern]]  
+Capital :: [[geo/Continent/Europe/Europe~Central/Switzerland/Switzerland~Counties/Bern|Bern]]  
 
 ![[Coat_of_arms_of_Switzerland.svg|350]] 
 
-![[../../../../xLarge.public/National-Anthem/Anthem-Switzerland.mp3]] 
+![[../../../../xLarge.public/National-Anthem/Anthem-Switzerland.mp3|Anthem-Switzerland.mp3]] 
 
 ![[Flag_of_Switzerland.svg|350]] 
 [Alcohol-l::11.1] 

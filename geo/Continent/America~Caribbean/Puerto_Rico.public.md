@@ -115,9 +115,9 @@ markerFolder: ./Puerto_Rico/
 [Area-Land::0]
 Continent :: [[South-America]]  
 [VehicleCode::PRI]
-Capital :: [[Puerto_Rico/City/San_Juan]]  
+Capital :: [[Puerto_Rico/City/San_Juan|San_Juan]]  
 
-![[Puerto_Rico/Coat_of_arms_of_Puerto_Rico.svg|350]]![[../../../xLarge.public/National-Anthem/Anthem-Puerto-rico.mp3]]
+![[Puerto_Rico/Coat_of_arms_of_Puerto_Rico.svg|350]]![[../../../xLarge.public/National-Anthem/Anthem-Puerto-rico.mp3|Anthem-Puerto-rico.mp3]]
 
 ![[Puerto_Rico/Seal_of_Puerto_Rico.svg|350]]
 
