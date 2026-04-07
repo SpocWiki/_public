@@ -242,7 +242,7 @@ dv_has_:
 
 # [[Mainland_Southeast_Asia]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Mainland_Southeast_Asia,43467]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Mainland_Southeast_Asia,43467|WD~Mainland_Southeast_Asia,43467]] 
 
 ## #has_/text_of_/abstract 
 
