@@ -60,13 +60,10 @@ type: folder_brief_live
 
 #is_/part_of :: [[xLarge.public]] 
 
-![[xLarge.public.svg]]
-
- 
 
 ## Embedded Graph 
 
-![[xLarge.public.svg]] 
+![[xLarge.public.md]] 
 
 
 %%
