@@ -1,5 +1,5 @@
 
 # [[Movie.public]] 
 
-![Movie](/_Standards/Society/Communication/Media/Movie) 
+![Movie](../../../../_Standards/Society/Communication/Media/Creative_Work/Movie.md) 
 
