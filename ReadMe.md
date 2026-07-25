@@ -12,7 +12,7 @@ Unicode_character: ○
 
 This Folder is used to model a public Structure. 
 Parallel Folder Structures should mirror this [[_public]] Folder 
-to separate secret Information from other [[_Standards/Confidentiality|Confidentiality]] categories using separate Folders. 
+to separate secret Information from other [[../_Standards/Confidentiality|Confidentiality]] categories using separate Folders. 
 
 The privacy/confidentiality  hierarchy/order/classification is 
 0. Standard
