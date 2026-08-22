@@ -230,7 +230,7 @@ Let's continue to make this a great resource for everybody on this planet.
 
 
 ## Confidential Links & Embeds: 
-- [[../_Standards/Contributing|Contributing]] 
+- [[/_Standards/Contributing|Contributing]] 
 - [[../_public/Contributing.public|Contributing.public]] 
 - [[../_internal/Contributing.internal|Contributing.internal]] 
 - [[../_protect/Contributing.protect|Contributing.protect]] 

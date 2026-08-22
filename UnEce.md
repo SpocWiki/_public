@@ -43,7 +43,7 @@ Data Hierarchies:
 
 
 ## Confidential Links & Embeds: 
-- [[../_Standards/UnEce|UnEce]] 
+- [[/_Standards/UnEce|UnEce]] 
 - [[../_public/UnEce.public|UnEce.public]] 
 - [[../_internal/UnEce.internal|UnEce.internal]] 
 - [[../_protect/UnEce.protect|UnEce.protect]] 

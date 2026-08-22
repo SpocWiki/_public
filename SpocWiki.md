@@ -6,7 +6,7 @@ If you _do_ hotlink, then it is still necessary to follow the licensing conditio
 
 
 ## Confidential Links & Embeds: 
-- [[../_Standards/SpocWiki|SpocWiki]] 
+- [[/_Standards/SpocWiki|SpocWiki]] 
 - [[../_public/SpocWiki.public|SpocWiki.public]] 
 - [[../_internal/SpocWiki.internal|SpocWiki.internal]] 
 - [[../_protect/SpocWiki.protect|SpocWiki.protect]] 

@@ -12,7 +12,7 @@ type: folder_brief_live
 
 
 ## Confidential Links & Embeds: 
-- [[../_Standards/schema.org|schema.org]] 
+- [[/_Standards/schema.org|schema.org]] 
 - [[../_public/schema.org.public|schema.org.public]] 
 - [[../_internal/schema.org.internal|schema.org.internal]] 
 - [[../_protect/schema.org.protect|schema.org.protect]] 
