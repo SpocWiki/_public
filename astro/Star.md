@@ -575,6 +575,7 @@ aliases:
 - ꯊꯧꯋꯥꯏꯃꯤꯆꯥꯛ
 - 별
 - 항성
+title: ⭐ Star
 ---
 
 # [[Star]] ⭐ 
