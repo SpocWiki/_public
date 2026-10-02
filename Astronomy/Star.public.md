@@ -578,6 +578,8 @@ aliases:
 title: ⭐ Star
 ---
 
+### #is_/same_as :: [[/_Standards/Astronomy/Star|Star]]
+
 # [[Star]] ⭐ 
 
 
